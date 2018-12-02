@@ -1,0 +1,162 @@
+Admission Date:  [**2147-9-6**]              Discharge Date:   [**2147-9-7**]
+
+Date of Birth:  [**2070-2-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2817**]
+Chief Complaint:
+found down, s/p cardiac arrest
+
+Major Surgical or Invasive Procedure:
+placement of chest tube, [**2147-9-6**]
+
+History of Present Illness:
+77F h/o metastatic NSCLCa, on chemotherapy, s/p XRT to C/T spine
+due vertebral mets and cord compression, who was brought to the
+ED today after being found down in cardiac arrest at her
+[**Hospital3 **]. The pt was reportedly in her baseline state of
+health earlier in the day when she was seen by her family. She
+was later found by staff unresponsive. She was reportedly in
+asystole. CPR and ACLS were initiated and the pt was converted
+to PEA. In the ambulance, the pt again developed PEA, which
+converted to sinus tach with additional CPR, epinephrine and
+atropine. On arrival to the ED, initial vitals were HR 112 and
+BP 117/56. The pt was intubated for airway protection and
+started on pressors to support her blood pressure. Central
+venous access was obtained. CT scans of the chest and abd were
+obtained which demonstrated a large left sided PTX without
+evidence of tension, as well as air tracking down into the abd.
+A chest tube was placed and surgical consultation was requested;
+surgery felt the pt was not an operative candidate. The pt was
+then admitted to the MICU for further care. A family meeting was
+held with four of her five children, who expressed that it would
+be her wishes not have prolonged measures to sustain her life.
+
+Past Medical History:
+POncH:
+# Metastatic lung adenocarcinoma
+--CT chest (Fall [**2146**]): RUL lung mass
+--PET scan ([**12-1**]): Metastatic disease
+--[**2146-12-2**]: FNA via flexible bronchoscopy, pathology =
+malignant adenocarcinoma
+--[**2146-12-19**]: T6, T12-L1 laminectomy, L1 kyphoplasty, mass
+resection, bx = poorly differentiated adenocarcinoma
+--[**12/2146**]: XRT to Tspine x 2wk
+--[**2147-2-2**]: Paclitaxel, carboplatin
+--[**2147-2-7**]: XRT [**2-25**] spinal canal and cord mets
+--[**2-/2147**]: Paclitaxel, carboplatin
+--[**3-/2147**]: Vinorelbine
+.
+PMH:
+# HTN
+# Hypothyroidism
+# Asthma
+# Osteoporosis
+# Anxiety
+# s/p appy
+
+Social History:
+# Personal: Lives at [**First Name8 (NamePattern2) 553**] [**Last Name (NamePattern1) 7143**] [**Hospital3 400**]
+# Professional: Retired restaurant owner
+# Tobacco: Past use
+# Alcohol: Rare
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Gen: Critically ill appearing female, intubated and
+non-responsive.
+HEENT: PERRL, EOMI. MMM. Conjunctiva well pigmented.
+Neck: Supple, without adenopathy or JVD. No tenderness with
+palpation.
+Chest: CTAB anterior and posterior.
+Cor: Normal S1, S2. RRR. No murmurs appreciated.
+Abdomen: Soft, non-tender and non-distended. +BS, no HSM.
+Extremity: Warm, without edema. 2+ DP pulses bilat.
+Neuro: Pt somnolent and non-responsive. Equivocal Babinkski.
+Pupils dilated; some minimal residual responsiveness. Globally
+hyporeflexive. Doll??????s eyes absent.
+
+Pertinent Results:
+[**2147-9-6**] 06:55PM   WBC-43.4* RBC-3.33* HGB-10.2* HCT-32.6*
+MCV-98 MCH-30.6 MCHC-31.3 RDW-18.1*
+.
+Admission Chest CTA:
+1. No pulmonary embolus.
+2. Large left pneumothorax with apical and basilar components
+and extensive
+subcutaneous air tracking along the left chest wall.
+3. Numerous bilateral rib deformities consistent with
+nondisplaced fractures.
+4. Moderate bilateral pleural effusions and ground-glass
+attenuation
+throughout the lungs suggestive of pulmonary edema. Nodular
+areas of ground
+glass attenuation in the perihilar regions and right lung base
+could reflect
+sequela from aspiration.
+5. Multiple hypodense liver lesions, incompletely imaged.
+6. Moderate pneumoperitoneum and retroperitoneum which could be
+more fully
+characterized on the subsequent abdominal CT.
+.
+Admission Abd CT:
+1. Air from left pneumothorax tracks along the subcutaneous
+tissues and
+results in pneumoperitoneum and pneumoretroperitoneum.
+2. Anasarca.
+3. No bowel obstruction.
+4. Diffuse metastases as seen on prior studies.
+
+Brief Hospital Course:
+The pt was admitted to the MICU for monitoring and treatment.
+Her dire prognosis, including the likelihood of significant
+anoxic brain injury, was communicated early on to her family.
+The pt's family expressed that the pt would not have wanted
+protracted measures to extend her life. On the first full
+hospital day, the pt was noted to develop significant
+bradycardia and hypertension thought to represent possible
+cerebral herniation. The pt was briefly hyperventilated to allow
+an additional family member to arrive; at that time, artificial
+ventilation was withdrawn and the pt was made comfortable with a
+morphine infusion. She expired shortly thereafter.
+
+Medications on Admission:
+Aspirin 81 mg daily
+montelukast 10 mg daily
+Levothyroxine 100 mcg daily
+Oxycodone SR 20 mg [**Hospital1 **]
+Pantoprazole 40 mg daily
+Senna 8.6 mg 1-2 tabs [**Hospital1 **]
+Docusate Sodium 100 mg [**Hospital1 **]
+Lactulose 30 ml TID
+Percocet q4 hours PRN
+Lisinopril 10 mg daily
+Citalopram 20 mg daily
+Clonazepam 0.5 mg TID
+Symbicort 160-4.5 mcg/Actuation HFA Aerosol Inhaler two puffs
+[**Hospital1 **]
+Ipratropium Bromide 17 mcg/Actuation Two puffs QID
+Furosemide 40 mg daily
+Albuterol Sulfate 2.5 mg/3 mL PRN
+Toprol XL 100 mg daily
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+anoxic brain injury s/p cardiac arrest
+
+Discharge Condition:
+expired
+
+

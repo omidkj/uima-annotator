@@ -1,0 +1,217 @@
+Admission Date:  [**2160-11-20**]              Discharge Date:   [**2160-12-1**]
+
+Date of Birth:  [**2103-12-1**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Urgent coronary artery bypass graft x 6(left internal mammary
+artery to left anterior descending artery, and saphenous vein
+sequential graft obtuse marginal I and II, and saphenous vein
+grafts to ramus, diagonal, and posterior descending arteries).
+
+
+History of Present Illness:
+ 56 year old male s/p NSTEMI in [**6-/2160**] presented to the OSH ED
+last night with intermittent chest pain radiating to left
+shoulder. He recieved 1" of nitro paste while in the ED and
+chest pain was resolved. EKG showed ST changes and
+enzymes were negative. He was transferred to [**Hospital1 18**] for further
+cardiac evaluation.
+
+
+Past Medical History:
+Diabetes
+Hypertension
+NSTEMI ([**6-/2160**])
+Depression
+Past Surgical History:
+Right inguinal hernia repair 20 years ago
+s/p L&D of left inner thigh abcess
+
+
+Social History:
+Lives alone in [**Location (un) 3320**] MA, works in restaurant.
+-Tobacco history:  Denies
+-ETOH:  Occasional
+-Illicit drugs:  Denies
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+
+Physical Exam:
+ADMISSION EXAM:
+VS: afebrile  BP154/88  HR61  RR16  O2: 98/RA  FS178
+GENERAL: WDWN NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 6 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: Anterolateral CTAB, no crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits. L groin site bandaged
+c/d/i, no hematoma, nontender
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ DP - doppler only
+Left: Carotid 2+ Femoral 2+ DP -dopper only
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2160-11-20**] 03:30PM BLOOD WBC-4.4 RBC-4.26* Hgb-11.7* Hct-34.5*
+MCV-81* MCH-27.4 MCHC-33.8 RDW-15.1 Plt Ct-155
+[**2160-11-20**] 03:30PM BLOOD PT-14.4* PTT-27.8 INR(PT)-1.2*
+[**2160-11-20**] 03:30PM BLOOD Glucose-173* UreaN-16 Creat-0.6 Na-139
+K-3.8 Cl-107 HCO3-24 AnGap-12
+[**2160-11-20**] 03:30PM BLOOD ALT-22 AST-13 AlkPhos-69 Amylase-32
+TotBili-0.6 DirBili-0.2 IndBili-0.4
+[**2160-11-20**] 06:27PM BLOOD Calcium-9.0 Phos-3.5 Mg-1.8
+[**2160-11-20**] 03:30PM BLOOD VitB12-409
+[**2160-11-20**] 03:30PM BLOOD %HbA1c-7.9* eAG-180*
+[**2160-11-20**] 03:30PM BLOOD Triglyc-110 HDL-35 CHOL/HD-4.5
+LDLcalc-100
+.
+[**2160-12-1**] 06:30AM BLOOD WBC-5.3 RBC-3.76* Hgb-10.3* Hct-30.7*
+MCV-82 MCH-27.4 MCHC-33.6 RDW-15.1 Plt Ct-187
+[**2160-11-26**] 03:02PM BLOOD PT-16.6* PTT-51.3* INR(PT)-1.5*
+[**2160-11-30**] 07:10AM BLOOD Glucose-189* UreaN-18 Creat-0.8 Na-141
+K-4.5 Cl-103 HCO3-30 AnGap-13
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 88228**] (Complete)
+Done [**2160-11-26**] at 12:08:30 PM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2103-12-1**]
+Age (years): 56 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Intraoperative TEE for CABG
+ICD-9 Codes: 786.05, 786.51, 424.0
+Test Information
+Date/Time: [**2160-11-26**] at 12:08    Interpret MD: [**First Name8 (NamePattern2) **] [**Name8 (MD) 17792**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 17792**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW1-: Machine: aw5
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.7 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.4 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *6.8 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *9.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Aorta - Sinus Level:  3.2 cm  <= 3.6 cm
+Aorta - Ascending:  3.3 cm  <= 3.4 cm
+Aortic Valve - LVOT diam:  2.2 cm
+Pericardium - Effusion Size:  0.6 cm
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. Mild spontaneous echo
+contrast in the LAA. Depressed LAA emptying velocity (<0.2m/s)
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. A
+catheter or pacing wire is seen in the RA and extending into the
+RV. No ASD by 2D or color Doppler. The IVC is dilated (>2.5cm)
+Prominent Eustachian valve (normal variant).
+
+LEFT VENTRICLE: Mild symmetric LVH. Moderately depressed LVEF.
+
+RIGHT VENTRICLE: Borderline normal RV systolic function.
+
+AORTA: Normal ascending aorta diameter. Normal descending aorta
+diameter. No thoracic aortic dissection.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Normal mitral valve leaflets. Mild (1+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to
+moderate [[**11-30**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+
+
+PERICARDIUM: Small pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications.
+Conclusions
+PRE-CPB:
+The left atrium is markedly dilated. Mild spontaneous echo
+contrast is present in the left atrial appendage. The left
+atrial appendage emptying velocity is depressed (<0.2m/s). There
+is systolic blunting of pulmonary vein flow, suggestive of
+elevated LA pressure.
+
+The right atrium is moderately dilated. No atrial septal defect
+is seen by 2D or color Doppler. A prominent thebesian valve is
+noted. There is systolic reversal of hepatic vein flow,
+suggestive of elevated RA pressure. The IVC is dilated with
+spontaneous echo contrast noted.
+
+There is mild symmetric left ventricular hypertrophy. Overall
+left ventricular systolic function is moderately depressed,
+estimated LVEF=30-35 %. There is global hypokinesis with
+regional wall motion abnormalities noted in the inferior,
+inferoseptal and inferolateral segments.
+
+No thoracic aortic dissection is seen. There is occasional
+intimal thickening noted in the descending aorta.
+
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic stenosis. No aortic
+regurgitation is seen.
+
+The mitral valve leaflets are structurally normal. Mild (1+)
+mitral regurgitation is seen.
+
+There is a small pericardial effusion.
+
+POST-CPB:
+Left ventricular systolic function remains unchanged, estimated
+EF 30-35%, with regional wall motion abnormality again noted in
+the inferoseptal, inferior and inferolateral walls. There is
+trace MR. [**First Name (Titles) **] [**Last Name (Titles) **] and hepatic [**Last Name (Titles) **] flow patterns have
+normalized. There is no evidence of dissection. There is no
+pericardial effusion.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Interpretation assigned to [**First Name8 (NamePattern2) **] [**Name8 (MD) 17792**], MD, Interpreting physician
+
+
+?????? [**2152**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+[**2160-11-26**] Mr. [**Known lastname **] was taken to the operating room and
+underwent an urgent coronary artery bypass graft x 6,(left
+internal mammary artery to left anterior descending artery, and
+saphenous vein sequential graft obtuse marginal I and II, and
+saphenous vein graf

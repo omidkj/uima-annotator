@@ -1,0 +1,145 @@
+Admission Date:  [**2163-10-24**]              Discharge Date:   [**2163-10-31**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Fever, hypotension, chest congestion
+
+Major Surgical or Invasive Procedure:
+L subclavian central venous catheter
+
+History of Present Illness:
+83yo woman h/o aspiration PNA in setting of vomiting, recent e.
+coli bacteremia + p. mirabilis UTI, DM2, PAfib, s/p R CVA, p/w
+fever and chest congestion.  Recent history significant for
+admission in [**8-20**] for aspiration PNA in setting of vomiting.
+Hospital course on that admission notable for melanotic stools
+[**1-17**] erosive gastritis; h. pylori + and in setting of ASA use.
+Treated w/ 2wk course of flagyl, tetracycline, bismuth,
+protonix.  Also, pt w/ UTI in setting of nephrolithiasis.  Found
+to have atrophic L kidney w/ multiple stones in collecting
+system.  Finished 14d course of ceftriaxone for proteus UTI,
+however, immediately after finishing, pt spiked fevers.  Thought
+that w/ nidus for infection, pt required additional 7d course of
+keflex, w/ suppressive keflex daily thereafter.  Pt w/
+EGD/colonoscopy 4d PTA for follow-up of erosive gastritis/GIB.
+In terms of present illness, pt was in USOH until DOA when pt
+spiked fever to 105F, and was complaining of increased chest
+congestion.  Pt??????s sats were 95% on 2L O2.  Pt did have a change
+in mental status, unclear if this preceded or followed PNA
+symptoms.
+
+Past Medical History:
+multiple L renal stones w/ atrophic L kidney
+Hypothyroidism
+Osteoarthritis
+Osteoporosis with h/o compression fracture
+CVA x 2
+L hemiparesis from CVAs
+HTN
+NIDDM
+Hypercholesteremia
+
+
+Social History:
+Lives in [**Hospital3 1186**] nursing facility.  Healthcare proxy is
+sister [**Name (NI) **].
+no etoh use
+no tobacco use
+no drug use
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+GEN: expired
+HEENT: pupils unreactive
+PULM: no breath sounds, no respiratory movements of chest.
+CARDS: no heart sounds.
+
+
+Pertinent Results:
+[**2163-10-24**] 11:42PM   CORTISOL-52.5*
+[**2163-10-24**] 10:58PM   COMMENTS-TRIPLE [**Last Name (un) **]
+[**2163-10-24**] 10:58PM   LACTATE-2.7*
+[**2163-10-24**] 09:18PM   TYPE-ART PO2-67* PCO2-37 PH-7.29* TOTAL
+CO2-19* BASE XS--7
+[**2163-10-24**] 09:04PM   TYPE-MIX PO2-39* PCO2-43 PH-7.24* TOTAL
+CO2-19* BASE XS--8
+[**2163-10-24**] 09:04PM   LACTATE-2.0
+[**2163-10-24**] 09:04PM   HGB-9.3* calcHCT-28 O2 SAT-69
+[**2163-10-24**] 08:39PM   GLUCOSE-120* UREA N-17 CREAT-1.6* SODIUM-150*
+POTASSIUM-2.1* CHLORIDE-120* TOTAL CO2-19* ANION GAP-13
+[**2163-10-24**] 08:39PM   CK-MB-4 cTropnT-0.07*
+[**2163-10-24**] 08:39PM   CALCIUM-5.2* PHOSPHATE-1.5* MAGNESIUM-1.0*
+[**2163-10-24**] 08:39PM   CK(CPK)-193*
+[**2163-10-24**] 08:39PM   WBC-17.8*# RBC-3.64* HGB-11.2* HCT-34.2*
+MCV-94 MCH-30.8 MCHC-32.7 RDW-16.0*
+[**2163-10-24**] 08:39PM   NEUTS-75* BANDS-20* LYMPHS-3* MONOS-2 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2163-10-24**] 08:39PM   PLT COUNT-173
+
+Brief Hospital Course:
+In the [**Name (NI) **], pt was febrile w/ SBPs 70s; started on sepsis
+protocol.  Pt was intubated and placed on neosynephrine.  CXR
+showed LLL opacity, blood and urine cultures grew out
+Enterobacter cloacae.  Pt was initially started on
+vanco/levo/zosyn; switched to levofloxacin alone after
+sensitivities were final.  Flagyl started for possible C. diff.
+
+
+Patient since admission virtually anuric.  CT scan showed an
+atrophic L kidney w/ multiple stones, nl R kidney.  Renal
+ultrasound demonstrated no evidence of obstruction on R side.
+Scant urine samples demonstrated packed WBCs despite appropriate
+antibiotic coverage.  Urology consult did not believe it was
+necessary to intervene on stones currently.  Renal consult
+believed anuria/renal failure likely ATN vs renal artery
+thrombosis.  Given persistence of anuria/oliguria and worsening
+renal failure, impending longterm if not lifelong hemodialysis
+likely.  Multiple discussions w/ family, prognosis described was
+poor, with the likelihood of prolonged intubation/hemodialysis,
+small likelihood of recovery.  The healthcare proxy believed
+that patient would not wish to have such interventions and on
+[**10-30**], pt was extubated and placed on CMO.  Patient expired on
+[**2163-10-31**].
+
+Medications on Admission:
+Zofran 4mg po tid
+Fentanyl patch 25mcg q72h
+Tylenol 650mg po tid
+Auralgun ear drops 2 drops R ear
+Debrox ear drops [**Hospital1 **]
+Crestor 20mg po qd
+Levothyroxine 175mcg qd
+Lopressor 25mg [**Hospital1 **]
+Prilosec 20mg po bid
+Heparin 5000mg sc tid
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+urosepsis, multiple L renal stones, aspiration pneumonia
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

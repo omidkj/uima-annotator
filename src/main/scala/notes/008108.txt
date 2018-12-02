@@ -1,0 +1,258 @@
+Admission Date:  [**2164-2-4**]              Discharge Date:   [**2164-2-16**]
+
+Date of Birth:  [**2110-3-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lamictal
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+altered mental status, hypoxia
+
+Major Surgical or Invasive Procedure:
+intubation/extubation, central line placement, arterial line
+placement, paracentesis
+
+History of Present Illness:
+Pt is a 53 F hx of Hep C, B-thalessemia presents from OSH with
+altered mental status, evidence of fall, and hypoxia. Patient is
+intubated, sedated, and history is obtained from OSH records.
+
+.
+
+Patient was reportedly brought in to OSH ED after falling and
+altered mental status X 2 days, bizarre speech (per husband) and
+evidence of fall with bruises. At OSH, c-spine clinically
+cleared, head CT neg, and she was found to have 2 rib fractures
+as well as very large R infiltrates on CXR. She received
+levaquin X 1. Tox screen at OSH revealed high tricyclic level of
+670. She was guaiac positive and given 1U PRBCs and transferred
+to [**Hospital1 **].
+
+.
+
+In [**Hospital1 **] ED, initial vs were: T104, HR 136, BP 118/67, R 30, 96%
+NRB
+
+She was noted to be tachypneic to 40's and saturations in 80's
+on NRB, and was intubated for hypoxia and increased work of
+breathing. A RIJ was placed. She received Vanc/Zosyn. Propofol
+for sedation. BP dropped transiently to 88 on propofol.
+
+.
+
+On the floor, she is intubated and sedated.
+
+.
+
+Review of sytems: unable to be elicited
+
+
+Past Medical History:
+Hep C cirrhosis
+
+Splenomegaly
+
+hx vicodin abuse
+
+Depression
+
+Anxiety
+
+B thalessemia
+
+GERD
+
+Fibromyalgia
+
+
+Social History:
+Drugs: unknown, hx of vicodin abuse
+
+Tobacco: unknown
+
+Alcohol: unknown
+
+Other: married, lives with husband
+
+
+Family History:
+NC
+
+Physical Exam:
+Tmax: 38 ??????C (100.4 ??????F)
+
+Tcurrent: 37.7 ??????C (99.9 ??????F)
+
+HR: 117 (116 - 120) bpm
+
+BP: 92/50(59) {92/50(59) - 103/61(70)} mmHg
+
+RR: 25 (22 - 25) insp/min
+
+SpO2: 92% Ventilator mode: CMV/ASSIST
+
+Vt (Set): 500 (500 - 500) mL
+
+RR (Set): 15
+
+PEEP: 8 cmH2O
+
+FiO2: 100%
+
+PIP: 27 cmH2O
+ Plateau: 25 cmH2O
+
+SpO2: 92%
+
+ABG: 7.38/35/86.[**Numeric Identifier 71132**]//-3
+
+Ve: 14.1 L/min
+
+PaO2 / FiO2: 87
+
+General Appearance: Overweight / Obese
+
+Eyes / Conjunctiva: PERRL, scleral icterus
+
+Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG
+tube
+
+Lymphatic: Cervical WNL
+
+Cardiovascular: (PMI Hyperdynamic), (S1: Normal), (S2: Normal),
+(Murmur: No(t) Systolic)
+
+Peripheral Vascular: (Right radial pulse: Not assessed), (Left
+radial pulse: Not assessed), (Right DP pulse: Present), (Left DP
+pulse: Present)
+
+Respiratory / Chest: (Breath Sounds: No(t) Clear : ,
+Rhonchorous: ant and laterally)
+
+Abdominal: Soft, Non-tender, Bowel sounds present, +
+hepatomegaly
+
+Extremities: Right: Trace, Left: Trace
+
+Skin:  Cool, Jaundice
+
+Neurologic: No(t) Attentive, No(t) Follows simple commands,
+Responds to: Not assessed, No(t) Oriented (to): , Movement: Not
+assessed, Sedated, Tone: Normal
+
+
+
+Pertinent Results:
+[**2164-2-4**] 02:00AM   PT-21.8* PTT-39.1* INR(PT)-2.1*
+[**2164-2-4**] 02:00AM   PLT SMR-LOW PLT COUNT-81*
+[**2164-2-4**] 02:00AM   HYPOCHROM-2+ ANISOCYT-1+ POIKILOCY-2+
+MACROCYT-NORMAL MICROCYT-2+ POLYCHROM-OCCASIONAL
+SPHEROCYT-OCCASIONAL TARGET-2+ SCHISTOCY-OCCASIONAL
+TEARDROP-OCCASIONAL BITE-OCCASIONAL
+[**2164-2-4**] 02:00AM   NEUTS-71* BANDS-15* LYMPHS-9* MONOS-5 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0 NUC RBCS-2*
+[**2164-2-4**] 02:00AM   WBC-8.2 RBC-3.84* HGB-9.3* HCT-27.6* MCV-72*
+MCH-24.2* MCHC-33.8 RDW-20.0*
+[**2164-2-4**] 02:00AM   ASA-NEG ETHANOL-NEG ACETMNPHN-7.1
+bnzodzpn-NEG barbitrt-NEG tricyclic-POS
+[**2164-2-4**] 02:00AM   cTropnT-<0.01
+[**2164-2-4**] 02:00AM   CK-MB-NotDone
+[**2164-2-4**] 02:00AM   CK(CPK)-52
+[**2164-2-4**] 02:16AM   LACTATE-3.6* NA+-140 K+-5.0 CL--107 TCO2-23
+[**2164-2-5**] 02:13AM BLOOD WBC-13.3*# RBC-3.59* Hgb-8.6* Hct-26.9*
+MCV-75* MCH-23.9* MCHC-31.8 RDW-19.3* Plt Ct-69*
+[**2164-2-13**] 05:17AM BLOOD Neuts-56 Bands-11* Lymphs-25 Monos-5
+Eos-1 Baso-0 Atyps-0 Metas-2* Myelos-0
+[**2164-2-4**] 02:14PM BLOOD FDP-10-40*
+[**2164-2-4**] 02:14PM BLOOD Fibrino-571*
+[**2164-2-13**] 03:39PM BLOOD Glucose-117* UreaN-40* Creat-0.8 Na-140
+K-4.1 Cl-103 HCO3-34* AnGap-7*
+[**2164-2-13**] 05:17AM BLOOD ALT-14 AST-60* AlkPhos-100 TotBili-2.7*
+[**2164-2-4**] 05:39AM BLOOD Ammonia-80*
+[**2164-2-15**] 06:00AM BLOOD Type-ART Temp-37.6 Rates-21/ Tidal V-320
+PEEP-22 FiO2-50 pO2-76* pCO2-47* pH-7.45 calTCO2-34* Base XS-7
+-ASSIST/CON Intubat-INTUBATED
+
+[**2-4**] Echo:
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. The right atrial pressure is
+indeterminate. Left ventricular wall thickness, cavity size and
+regional/global systolic function are normal (LVEF >55%). There
+is no ventricular septal defect. Right ventricular chamber size
+and free wall motion are normal. The diameters of aorta at the
+sinus, ascending and arch levels are normal. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve appears
+structurally normal with trivial mitral regurgitation. The
+pulmonary artery systolic pressure could not be determined.
+There is a trivial/physiologic pericardial effusion.
+
+[**2-11**] RUQ U/S:
+ There is mild ascites, with the largest pocket in the left
+lower
+quadrant, 5.7 cm deep to the skin. This spot was marked for
+paracentesis.
+
+Limited views of the liver redemonstrate shrunken nodular
+heterogeneous liver,
+consistent with known cirrhosis.
+
+IMPRESSION:
+
+1. Mild ascites with the largest pocket in the left lower
+quadrant marked for
+paracentesis.
+
+2. Findings consistent with known liver cirrhosis.
+
+
+Brief Hospital Course:
+Patient was a 53 y/o F hx Hep C, rib fractures who presented
+with severe PNA and ARDS and was terminally extubated on [**2-16**].
+
+# Hypoxic respiratory failure: s/p intubation. Her fever,
+bandemia, CXR are indicative of pneumonia.  Suspect bacterial >
+viral. It is unclear if she had any aspiration events. Low
+clinical suspicion for PE. Notably she is quite hypoxic with P/F
+ratio on admission is 87. CXR is asymmetric but still likely had
+ARDS.  Initial A-a gradient is 19 (expected 16).  Pt still
+requiring vent support and having episodes of hypoxia with
+movement, likely due to derecruitment.  Esophageal balloon
+placed [**2-7**] for four days. Culture data of limited value given
+that cultures obtained after antibiotics administered. Patient
+was on Vanc/[**Last Name (un) **]/Cipro until made [**Last Name (un) 3225**] on [**2-13**]. Patient required
+significant respiratory support with PEEP greater than 20 and
+FIO2 greater than 50. On [**2-15**], noted resp alkalosis and
+decreased RR. Patient [**Name (NI) 3225**] since [**2-13**]. Patient was terminally
+extubated on [**2-16**].
+
+# Sepsis / Hypotension: She was transiently hypotensive
+following intubation and sedation. Given degree of pneumonia,
+sepsis if certainly possible. Was requiring levofed for labile
+BPs as low as 70s up to 190s until [**2-10**] when pressors were
+weaned off.  Stable BPs since then. Patient [**Name (NI) 3225**] since [**2-13**].
+Patient was terminally extubated on [**2-16**].
+
+# Sedation:  patient weaned off paralytics on [**2-9**], slowly
+weaning fentanyl and versed. Patient was methadone to reduce
+narcotic requirements. Patient was placed on morphine drip on
+[**2-16**] before terminal extubation.
+
+# Rib fractures: Likely contributed to impaired respiratory
+mechanics.  No evidence of flail chest.
+
+# Altered mental status: Hx obtained from some OSH records. Per
+husband, she had bizarre speech prior to admission X 2 days. DDx
+includes hepatic encephalopathy, medications as she is taking a
+lot of psych meds, meningitis is also possible although she has
+more likely causes for fever and altered mental status.  Mental
+status will be difficult to follow given current sedation and
+paralytics.  Will continue to assess as pt weaned from sedation.
+ Paracentesis unsuccessful [**2-5**]. Concern for opiate induced
+hyperalgesia. Evidence of cirrhosis, portal hypertension and
+ascites on RUQ U/S.  Patient [**Name (NI) 3225**] since [**2-13**].
+
+# Constipation ?????? had BM over weekend with docusate and P

@@ -1,0 +1,192 @@
+Admission Date:  [**2117-11-25**]              Discharge Date:   [**2117-12-2**]
+
+Date of Birth:  [**2040-4-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1148**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+PICC line attempted
+Intubation & Ventilation
+arterial line (right groin)
+central venous catheter (left groin)
+
+History of Present Illness:
+Ms. [**Known lastname **] is a 77 year old female with CAD, HTN,
+hypercholesteremia who presents this a.m. with shortness of
+breath.  Patient has short term memory loss and is a difficult
+historian, and family is not present, so majority of HPI
+obtained from OMR and ED notes.  Patient's SOB developed on
+[**11-24**], accompanied by tachypnea and increased work of breathing.
+ Per family, patient is noncompliant with meds.  Also has had
+productive cough of white-green sputum for multiple days, no
+fevers.  EMS called this a.m. and on transit patient found to be
+hypertensive to 198/102, tachy to 104, tachypneic to 38 and 100%
+on NRB.  Recieved 40 IV lasix, Sl nitro, and nebs with slight
+improvement.
+.
+Upon arrival to ED vitals were 268/110, 108, 19, 98% RA.  Nitro
+gtt was started for hypertensive urgency, and pt was treated
+with ASA x 1, hydralazine prn, albuterol and ipratroprium nebs x
+3, solumedrol 40 IV x 1 with improvement in respiratory status.
+However, nitro was stopped d/t SBP in 90's and 500 cc of NS was
+given.  Had also been placed on BIPAP for respiratory distress
+(92% and tachypnic) but this was also stopped d/t hypotension.
+Blood pressure recovered and then she again became hypertensive
+to SBP 190's, at which time nitro was [**Last Name (un) 7162**] restarted but stopped
+when ED decided to resume BIPAP instead because patient looked
+uncomfortable.  CXR was done without evidence of infiltrate or
+CHF, although pro-BNP elevated.  EKG with sinus tachycardia -
+faxed to Dr. [**First Name (STitle) 437**] who read it as LVF with strain and cardiac
+enzymes were sent.
+.
+Upon arrival to the MICU, the patient stated that she was
+anxious from the transport and mildly diaphoretic but not SOB.
+No chest pain, jaw pain, LE swelling, orthopnea, PND, fevers,
+sore throat. + occasional cough (can't specify).  No HA, vision
+changes, nausea, vomiting, back pain.
+
+Past Medical History:
+# CAD (3VD s/p cath [**2106**] with no stents, s/p MI with v-fib
+arrest in [**2106**], [**2107**]-ETT/MIBI with fixed decreased activity in
+the inferior and posterior walls which may be due to coronary
+artery disease or the large amount of patient movement.  No
+definite evidence of ischemia at the level of exercise achieved.
+# Right 6th nerve palsy
+# HTN
+# Hypercholesterolemia
+# Symp. bradycardia s/p DDD pacer [**11-29**] at [**Hospital1 18**]
+# Anoxic encephalopathy [**12-31**] v-fib arrest in [**2106**] with short term
+memory
+loss
+# PVD
+
+
+Social History:
+tobacco >50 pack years, lives below daughter, performs ADLs, occ
+EtOH
+
+
+Family History:
+positive for CAD/DM 2
+
+Physical Exam:
+VS: 96.7, 216/80, 101, 23, 97% on 50% FM (nebs)
+Gen: working to breathe, unable to speak in full sentences,
+BIPAP in place
+HEENT: PERRL, EOMI, anicteric sclera, MMM, OP clear, no LAD,
+neck supple, no JVD
+Pulm: diffuse expiratory wheeze with prolonged expiratory phase,
+no crackles
+Cardio: tachycardic, regular rhythm, nml S1 and S2, no MRGs
+Abd: soft, NTND, NABS
+Ext: 2+ DP pulses, no LE edema
+Neuro: A&O x 3, MAE, CN III-XII intact
+
+Pertinent Results:
+[**2117-11-25**] 08:15AM BLOOD cTropnT-0.06*
+[**2117-11-25**] 02:56PM BLOOD CK-MB-35* MB Indx-7.4* cTropnT-0.24*
+[**2117-11-25**] 08:51PM BLOOD CK-MB-48* cTropnT-0.63*
+[**2117-11-26**] 03:21AM BLOOD CK-MB-57* cTropnT-1.15*
+[**2117-11-26**] 04:27PM BLOOD CK-MB-64* MB Indx-1.6 cTropnT-1.52*
+[**2117-11-27**] 06:04AM BLOOD CK-MB-33* MB Indx-0.9 cTropnT-1.53*
+
+[**2117-11-28**] 06:20AM BLOOD CK-MB-17* MB Indx-0.5 cTropnT-2.67*
+[**2117-11-29**] 06:10AM BLOOD CK-MB-6 cTropnT-3.15*
+[**2117-11-30**] 05:35AM BLOOD CK-MB-4 cTropnT-3.20*
+[**2117-11-25**] 08:15AM BLOOD CK(CPK)-278*
+[**2117-11-25**] 02:56PM BLOOD CK(CPK)-471*
+[**2117-11-26**] 09:33AM BLOOD CK(CPK)-1262*
+[**2117-11-26**] 04:27PM BLOOD CK(CPK)-3967*
+[**2117-11-27**] 06:04AM BLOOD CK(CPK)-3590*
+[**2117-11-29**] 06:10AM BLOOD CK(CPK)-1296*
+[**2117-11-30**] 05:35AM BLOOD CK(CPK)-573*
+[**2117-11-25**] 07:18PM BLOOD Type-ART pO2-93 pCO2-113* pH-7.05*
+calTCO2-33* Base XS--3
+[**2117-11-25**] 08:58PM BLOOD Type-[**Last Name (un) **] Temp-36.1 Rates-20/0 Tidal V-450
+PEEP-5 FiO2-100 pO2-56* pCO2-65* pH-7.18* calTCO2-25 Base XS--5
+AADO2-601 REQ O2-97 Intubat-INTUBATED
+[**2117-11-25**] 11:08PM BLOOD Type-[**Last Name (un) **] Temp-36.1 Rates-22/ Tidal V-450
+PEEP-5 FiO2-80 pO2-40* pCO2-62* pH-7.22* calTCO2-27 Base XS--3
+AADO2-476 REQ O2-80 -ASSIST/CON Intubat-INTUBATED
+[**2117-11-26**] 06:51PM BLOOD Type-ART Temp-37.4 Rates-/16 Tidal V-400
+PEEP-5 FiO2-35 pO2-114* pCO2-44 pH-7.31* calTCO2-23 Base XS--4
+-ASSIST/CON Intubat-INTUBATED
+[**2117-11-25**] 08:15AM BLOOD Glucose-250* UreaN-13 Creat-1.2* Na-138
+K-7.0* Cl-100 HCO3-25 AnGap-20
+[**2117-11-27**] 06:04AM BLOOD Glucose-119* UreaN-38* Creat-1.8* Na-140
+K-4.5 Cl-109* HCO3-22 AnGap-14
+[**2117-11-30**] 05:35AM BLOOD Glucose-71 UreaN-20 Creat-1.3* Na-142
+K-3.4 Cl-105 HCO3-26 AnGap-14
+[**2117-12-1**] 09:10AM BLOOD WBC-8.3 RBC-4.89 Hgb-14.8 Hct-43.2 MCV-88
+MCH-30.4 MCHC-34.4 RDW-15.0 Plt Ct-224
+.
+.
+.
+EKG:  sinus tachycardia with PVC'c, nml axis, nml intervals, LVH
+with associated ST changes
+.
+CXR [**2117-11-25**]: Hyperexpansion and slight flattening of both
+diaphragms consistent with emphysema.  Dual lead pacemaker
+noted.  Cardiac, mediastinal, and hilar contours are unchanged.
+No pleural effusion.  No pneumothorax. Lungs are clear.  Osseous
+structures are unchanged.  Left hemidiaphragm ? right, no
+widened mediastinum.
+.
+CTA CHEST [**2117-11-25**]: 1.  No evidence of pulmonary embolism.
+Limited evaluation for subsegmental
+branchies in the lower lobes due to motion.  Atherosclerotic and
+tortuous
+aorta with calcified and noncalcified plaques, however, no
+evidence of
+dissection.
+2.  Centrilobular emphysema.
+3.  Peribronchial thickening in bilateral lower lobes, with
+increased patchy opacities in the right lower lobe, worrisome
+for infectious or inflammatory process in this area.
+.
+TTE [**2117-11-26**]: The left atrium is moderately dilated. There is
+severe symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). Tissue Doppler imaging
+suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). Right ventricular chamber size and free wall
+motion are normal. The ascending aorta is mildly dilated. The
+aortic valve leaflets (3) are mildly thickened. There is no
+aortic valve stenosis. Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. No mitral
+regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened. There is
+moderate pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.  Compared with the
+report of the prior study (images unavailable for review) of
+[**2115-10-23**], left ventricular hypertrophy is now more prominent.
+
+.
+CT HEAD [**2117-11-26**]: No evidence of acute intracranial pathology
+including no sign of hemorrhage.
+.
+.
+[**2117-12-1**] TTE - pending.
+
+Brief Hospital Course:
+Pt was transferred to the MICU in respiratory distress felt
+secondary to hypertensive emergency.
+.
+# respiratory distress -  ProBNP was elevated on admission, and
+patient with known CAD, LVH, was felt to have had pulmonary
+edema in setting of hypertensive urgency leading to hypoxia.
+Patient with known COPD, hyperinflated lungs on CXR, markedly
+wheezy on initial exam, with minimal response to inhalers,
+suggestive of possible COPD exacerbation.  On admission to MICU
+she was initially managed with mask ventilation, but soon after
+admission became increasingly tachypneic and was intubated.  Pt
+also presnted with cough and leukocytosis, thus pneumoinia was
+and pt treated with azithromycin, ceftriaxone, vancomycin, but
+discontinued on day 2.  She r

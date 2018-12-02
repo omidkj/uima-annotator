@@ -1,0 +1,209 @@
+Admission Date:  [**2148-12-17**]              Discharge Date:   [**2148-12-24**]
+
+Date of Birth:  [**2070-8-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Erythromycin
+
+Attending:[**First Name3 (LF) 358**]
+Chief Complaint:
+Shortness of breath and fatigue
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+[**Known firstname 1258**] [**Known lastname **] [**Known lastname 98752**] is a 78-year-old woman with history of
+hypertension who presented to the Emergency Department today
+with complaints of shortness of breath and fatigue. Patient
+reports driving from [**Location (un) 9012**] to [**Location (un) 86**] 2 days ago and
+subsequently developed shortness of breath on arrival home. She
+describes her symptoms as difficulty getting enough air in
+associated with a profound sense of feeling tired. Denied and
+chest pain, leg pain, lightheadedness, dizziness. Initially
+thought her symptoms could be due to anxiety, but given
+persistence of difficulty breathing into today, sought
+evaluation in the Emergency Department.
+.
+In the ED, initial VS revealed BP 123/53 RR 18 and O2 86% RA.
+Patient received a CXR which was unremarkable and a CTA which
+showed bilateral pulmonary emboli. She was started on a heparin
+drip. Oxygen saturations were borderline low on nasal cannula,
+so she was placed on NRB and admitted to the [**Hospital Unit Name 153**] for further
+management.
+.
+On review of systems, patient denied and chest pain, nausea,
+vomiting, leg swelling or calf pain, fevers, chills, lower
+extremity pain, rash. She denied any abdominal or urinary
+complaints. No recent weight loss.
+.
+On arrival to the floor, patient reported her breathing was much
+improved. Speaking full sentences. Continued to deny chest pain,
+ROS as per above.
+.
+
+
+Past Medical History:
+HTN
+
+Social History:
+Lives alone, splits her time between [**Location (un) 86**] and [**Location (un) 9012**]. In
+[**Location (un) 86**], lives in [**Location 1268**]. Librarian. Daughters in [**Name2 (NI) 9012**],
+involved in care. No ETOH, tobacco, IVDA. PCP at [**Name9 (PRE) 882**]
+hospital, would like to have gerontology care here.
+.
+
+
+Family History:
+No family history of clots or bleeding.
+
+Physical Exam:
+VS: afebrile, normotensive on room air
+GEN: Pleasant overweight woman in NAD
+HEENT: unremarkable
+CV: regular, no murmur
+LUNGS: CTA B/L
+ABD: obese. +BS. soft, NT/ND. No HSM
+EXT: 2+ DPs. no edema or rash.  right 1st MTP mildly
+erythematous and tender.
+
+
+Pertinent Results:
+Admit Labs:
+[**2148-12-17**] 02:20PM BLOOD WBC-15.5* RBC-4.75 Hgb-13.0 Hct-38.5
+MCV-81* MCH-27.4 MCHC-33.7 RDW-15.5 Plt Ct-382
+Neuts-76.8* Lymphs-17.7* Monos-3.1 Eos-1.9 Baso-0.6
+PT-11.6 PTT-23.2 INR(PT)-1.0
+Glucose-139* UreaN-19 Creat-1.3* Na-144 K-3.6 Cl-105 HCO3-23
+AnGap-20
+cTropnT-0.03*
+ABG: 7.47/33/60 on 5L NC
+.
+ECG: sinus rhythm at 84 BPM. Borderline LAD. s1q3t3 pattern. q
+wave inversion in III. no other St/T changes,
+.
+RADIOGRAPHIC
+1. CXR:  IMPRESSION:  No acute cardiopulmonary process.
+2. CTA CHEST: 1.  Bilateral large pulmonary embolism in the
+distal right and left pulmonary arteries extending into the
+segmental branches with bowing of the interventricular septum
+suggestive of increased right ventricular pressure.
+2.  Fatty liver.
+3.  Small hypodensity within the spleen likely represents a
+cyst.
+.
+
+[**2148-12-24**] 07:40AM BLOOD WBC-14.6* RBC-3.61* Hgb-9.8* Hct-28.7*
+MCV-80* MCH-27.1 MCHC-34.1 RDW-15.2 Plt Ct-406
+[**2148-12-24**] 07:40AM BLOOD PT-32.6* INR(PT)-3.5*
+[**2148-12-23**] 08:00AM BLOOD PT-31.8* PTT-38.1* INR(PT)-3.4*
+[**2148-12-22**] 09:10AM BLOOD PT-30.7* PTT-37.9* INR(PT)-3.2*
+[**2148-12-21**] 07:36AM BLOOD PT-22.9* PTT-31.6 INR(PT)-2.3*
+[**2148-12-20**] 07:15AM BLOOD PT-17.3* PTT-92.7* INR(PT)-1.6*
+[**2148-12-24**] 07:40AM BLOOD Glucose-120* UreaN-19 Creat-1.0 Na-137
+K-4.1 Cl-102 HCO3-25 AnGap-14
+[**2148-12-18**] 05:34AM BLOOD ALT-15 AST-18 AlkPhos-48 TotBili-0.2
+[**2148-12-17**] 02:20PM BLOOD cTropnT-0.03*
+[**2148-12-23**] 08:00AM BLOOD Calcium-9.5 Phos-4.2 Mg-2.0 UricAcd-7.1*
+[**2148-12-17**] 02:57PM BLOOD Type-ART O2 Flow-5 pO2-60* pCO2-33*
+pH-7.47* calTCO2-25 Base XS-0 Intubat-NOT INTUBA
+
+Brief Hospital Course:
+1. DYSPNEA/PULMONARY EMBOLI: The patient had a CTA that showed
+significant large PE in distal right and left pulmonary
+arteries. Evista was discontinued due to increased risk of VTE
+on this medication.  Heparin gtt was started with goal PTT of
+60-80.  Her supplemental oxygen requirements decreased with
+continued anticoagulation.  She was transitioned from heparin to
+lovenox sc and started on coumadin with goal INR [**3-16**].  She was
+maintained on lovenox for 48 hours after becoming therapeutic on
+coumadin.  She was supratheraputic after several doses of 5 mg
+of coumadin, so it was decreased to 3mg, then 2 mg for
+discharge.  [**Hospital 197**] clinic at [**Hospital1 112**] was arranged through her
+primary physician and [**Name Initial (PRE) **] discussed her dosing regimen in the
+hospital with the coumadin clinic nurse practitioner over the
+phone prior to discharge.  She was scheduled to follow up with
+them Thurs [**2148-12-26**].  She was on room air on discharge, and
+given a prescription for graduated compression stocking to
+reduce the risk of post phlebitic syndrome (although no DVTs in
+her lower ext were documented).
+
+2. HTN--The patient's anti-hypertensives were initially held in
+the [**Hospital Unit Name 153**] and restarted upon arrival to the floor with adequate
+control of her BP.  There were no episodes of hypotension during
+this admission.
+
+3. ARF: This was initially felt to be due to a pre-renal state
+from dehydration and decreased forward flow secondary to the PE.
+ Her creatinine improved with hydration.
+
+4.  Hyperglycemia:  patient was found to have mildly elevated BG
+on her daily lab panel, which will be deferred to her outpatient
+management.  Although she was discharged on a short course of
+prednisone for her gout flare, her glucose did not show
+worsening during her time taking the steroid in house.
+
+5.  gout -- two days prior to discharge, she had acute onset of
+podagra, right 1st MCP erythema, warmth and tenderness.  Given
+her current anticoagulation, prednisone burst was used to treat,
+and she showed significant response prior to discharge.
+
+
+
+Medications on Admission:
+1. ASA 81mg PO qd
+2. Triamterene/HCTZ 37.5/25
+3. Atenolol 50mg PO qd
+4. Norvasc 10mg PO qd
+5. Evista - Raloxifene
+
+
+Discharge Medications:
+1. graduated compression stockings
+Dispense two pair of knee high 30 mmHg graduated compression
+stocking to be worn daily bilaterally to prevent post phlebitic
+syndrome.
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID (3 times a day) as needed.
+4. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+5. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+6. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+8. Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup Sig: [**6-20**]
+MLs PO Q6H (every 6 hours) as needed for 2 weeks.
+Disp:*QS ML(s)* Refills:*0*
+9. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day) for 2 weeks.
+Disp:*42 Capsule(s)* Refills:*0*
+10. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)
+for 3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+11. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q6H (every 6 hours) as needed for pain for 5 days.
+Disp:*20 Tablet(s)* Refills:*0*
+12. Warfarin 2 mg Tablet Sig: One (1) Tablet PO DAILY16 (Once
+Daily at 16).
+Disp:*30 Tablet(s)* Refills:*0*
+13. Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO at
+bedtime as needed for cough for 2 weeks.
+Disp:*QS ML(s)* Refills:*0*
+14. Outpatient Lab Work
+Please draw INR on Thursday [**2148-12-26**].  Go to the [**Hospital1 **] outpatient lab, and the coumadin clinic will follow up
+the value and call you with changes.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+pulmonary emboli

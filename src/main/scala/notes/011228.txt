@@ -1,0 +1,206 @@
+Admission Date:  [**2141-3-3**]              Discharge Date:   [**2141-3-19**]
+
+
+Service: MEDICINE
+
+Allergies:
+Ace Inhibitors
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+transferred from Medicine [**Hospital1 **] to the MICU w/ hypercarbic
+respiratory failure
+
+Major Surgical or Invasive Procedure:
+EGD
+Intubation for resp failure
+
+
+History of Present Illness:
+82-year-old man from [**Country 4812**] w/ asthma, HTN, CRI was
+transferred from OSH 2 days ago w/ PNA and acute renal failure.
+He initially presented to his PCP [**Last Name (NamePattern4) **] [**3-3**] w/ 2 days of fever,
+productive cough, and increasing dyspnea w/ wheezing.  His PCP
+referred him to the [**Location (un) 620**] ED at that time.  At [**Location (un) 620**], he was
+afebrile w/ Tm 98.8 and O2 sat 96% RA.  CXR demonstrated R hilar
+consolidation, prompting treatment w/ levaquin, prednisone 60mg,
+and albuterol/atrovent.  He was then transferred to the [**Hospital1 18**]
+for ongoing eval of acute renal failure.
+.
+At the [**Hospital1 18**], dx of PNA was confirmed w/ CXR w/ elevated WBC and
+10% bandemia.  Baseline ABG was 7.4/27/102/17.  He was treated
+w/ levaquin, and workup of his renal failure was begun w/ UA,
+urine sediment exam, etc.  This AM, he was found to be agitated
+on rounds, refusing to take medications and disoriented per his
+family.  This prompted ABG, which was 7.07/63/63.  MICU team was
+called for eval.  The pt was intubated for resp support and
+treated w/ lasix 20mg IV.  He is now transferred to the MICU for
+ongoing care.
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. Asthma: FEV1 1.27L, seen in pulm clinic in past ([**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **])
+
+2. Hypertension
+3. Chronic renal insufficiency: baseline creat 2-2.5
+4. h/o MRSA bacteremia & septic cavernous sinus thrombosis:
+[**2136**], s/p 8 wk vanco
+9. h/o giardia [**2136**]
+10. h/o GIB:  lower bleed [**1-19**] colonic diverticulosis per c-scope
+[**2137-3-18**]
+11. colonic adenoma, status post right colectomy in [**2130**]
+12. CVA:  [**2128-9-17**] with residual left lower extremity
+weakness
+13. Bilat carotid artery stenosis: 60-69% on right and 40-59% on
+left
+
+
+Social History:
+lives w/ his wife and other family members.  Originally from
+[**Country 4812**], now lives in US for > 25 years.  Never smoked.  No
+alcohol, IVDU, cocaine use.
+
+Physical Exam:
+VS: Tm 98.0, HR 86, BP 152/66, RR 22, O2 sat 98% on vent
+Gen:  elderly man lying flat in bed w/ ETT in place, sedated,
+responsive to sternal rub w/ grimace and reaching
+HEENT:  PERRL, OP clear w/ MMM, no JVD
+CV:  reg s1/s2, no s3/s4/m/r
+Lungs:  scattered exp wheezes throughout, no crackles anteriorly
+Abd: obese, +BS, soft, NT, ND
+Extrem: warm, 1+ DP pulses, no edema
+
+Pertinent Results:
+MICRO:
+======
+SPUTUM x2 ([**2141-3-4**]): >25 PMNs and >10 epithelial cells/100X
+field. Gram stain indicates extensive contamination with upper
+respiratory secretions. Bacterial culture results are invalid
+.
+UA ([**2141-3-4**]): 3+ protein, large bld, no dysmorphic RBC
+.
+BCX ([**2141-3-5**]):  pending
+.
+Radiology:
+=========
+CXR ([**2141-3-5**]):  increased R hilar consolidation, no pulm edema
+.
+Renal U/S ([**2141-3-7**]):
+.
+FINDINGS: The right kidney measures 8.6 cm. The left kidney
+measures 8.8 cm. Multiple 1-cm cysts present in the right
+kidney, and one 1.5-cm cyst is present within the left kidney.
+.
+IMPRESSION: No evidence for hydronephrosis.
+.
+Chest CT [**2141-3-7**]:
+.
+Multifocal pulmonary consolidation--in the apex of right upper
+lobe, anterior segment of the left upper lobe, right middle lobe
+extending to the hilus, apicoposterior segment of the left upper
+lobe, and right lower lobe--has rapidly progressed since [**3-3**] and 19
+.
+1) Multifocal pneumonia continues to worsen. No airway
+obstruction except for bronchomalacia, involving at least the
+bronchus intermedius. Full assessment would require expiratory
+imaging without positive pressure ventilation.
+.
+2) Likely anemia.
+.
+Labs:
+====
+[**2141-3-5**] WBC-21.6 Hgb-10.6* Hct-33.1* Plt Ct-315
+[**2141-3-5**] Neuts-79.4* Bands-0 Lymphs-15.7* Monos-4.2 Eos-0.1
+Baso-0.5
+[**2141-3-5**] PT-15.0* PTT-33.1 INR(PT)-1.3
+[**2141-3-5**] Glucose-190* UreaN-61* Creat-4.7* Na-135 K-4.5 Cl-101
+HCO3-14*
+.
+Cardiac Enzymes:
+===============
+[**2141-3-5**] 08:00AM BLOOD CK(CPK)-386
+[**2141-3-3**] 09:41PM BLOOD CK-MB-9 cTropnT-0.03
+[**2141-3-4**] 10:20AM BLOOD CK-MB-12* MB Indx-3.7 cTropnT-0.07
+[**2141-3-4**] 09:46PM BLOOD Lactate-2.4
+[**2141-3-5**] 08:36AM BLOOD Lactate-5.2
+[**2141-3-5**] 05:51PM BLOOD Lactate-1.2
+[**2141-3-6**] 02:22AM BLOOD Lactate-1.4
+.
+Urinalysis:
+==========
+[**2141-3-4**] URINE Blood-LGE Nitrite-NEG Protein-500 Glucose-TR
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG RBC-115*
+WBC-0 Bacteri-NONE Yeast-NONE Epi-0
+.
+[**2141-3-4**] Urine Blood-LG Nitrite-NEG Protein-100 Glucose-NEG
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG RBC-21-50*
+WBC-0-2 Bacteri-FEW
+.
+[**2141-3-5**] URINE Blood-LGE Nitrite-NEG Protein-30 Glucose-NEG
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG RBC-75*
+WBC-2
+.
+[**2141-3-6**] URINE Blood-LG Nitrite-NEG Protein-30 Glucose-NEG
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG. [**2-19**]
+Granular casts
+.
+[**2141-3-3**] Iron Studies: calTIBC-244* VitB12-504 Folate-14.4
+Ferritn-210 TRF-188, Iron 10
+.
+[**2141-3-3**]  TotProt-7.3 Calcium-8.0* Phos-2.3*# Mg-1.4* Iron-10*
+.
+[**2141-3-5**] [**Doctor First Name **]-NEGATIVE
+[**2141-3-3**] PEP-NO SPECIFI
+[**2141-3-7**] ANCA-PND
+[**2141-3-5**] GM1 TRIAD ANTIBODIES-PND
+
+Brief Hospital Course:
+82-yo-man w/ asthma, HTN, CRI, glucose intolerance, transferred
+to [**Hospital1 18**] on [**3-3**] w/ RML PNA and acute renal failure. He was
+transferred to MICU for mgmt of respiratory failure on [**2141-3-6**].
+His pulmonary status was optimized on ventilatory support and he
+was successfully extubated on [**3-10**].
+.
+1. Respiratory failure:  He was emergently intubated for
+hypercarbic resp failure, most likely from respiratory muscle
+fatigue secondary to compensation for metabolic acidosis in the
+setting of acute renal failure and sepsis. He was found to have
+a MRSA pneumonia and was treated with a course of vancomycin. He
+was also empirically treated for CAP with levofloxacin. He was
+extubated on [**2141-3-10**] and transferred to the
+.
+2. PNA/sepsis: Initially had elevated WBC w/ bandemia on
+admission, resp distress, and evolving R hilar consolidation on
+CXR despite levaquin treatment.  This raised concern for PNA
+that was resistant to levaquin therapy.  Therefore started on
+broad abx with Vanco/Zosyn/Levo. In addition, elevated lactate
+was concerning for hyoperfusion in the setting of sepsis,
+although this may be confounded by acidosis in the setting of
+renal failure. Improved respiratory status on antibiotics, with
+improved productive secretions. Blood cultures remained sterile
+and sputum cultures were unrevealing. Legionella antigen
+negative. Given continued improvement, zosyn was discontinued on
+[**3-7**]. Follow-up chest CT demonstrated no obstructive lesion-
+non-obstructive mass vs infiltrate. He completed 14 day course
+of vanco/levo. F/U CT scan will need to be done as outpatient to
+evaluate resolution of opacity.
+.
+3. Asthma: Felt to contribute to respiratory distress, and
+exacerbated by PNA.
+Treated with solumedrol initially and weaned successfully to
+prednisone taper. B-blocker discontinued given exacerbation of
+his reactive airway disease. He remained respiratory stable with
+standing albuterol and atrovent inhalers
+.
+4. Acute on Chronic Renal Failure: Prior renal U/S on [**1-23**]
+showed small kidneys with cystic disease consistent with chronic
+renal failure. Recent baseline creat has been high 2s; creat 3.9
+at [**Location (un) 620**] ED and 3.7 here on admission. BUN also higher than
+baseline, but maintained good urine output throughout. Prerenal
+state felt unlikely with FeNA 3%. +Blood on UA at [**Location (un) 620**] but no
+flank pain to suggest stone. Had large blood and 3+ protein by
+dipstick. No dysmorphic RBC/casts seen on microscopy so less
+likely glomerulonephritis, but could be FSBS. Spot urine
+protein/Cr shows sig proteinuria 4.5. Likely FSGS [**1-19**] HTN. Renal
+consulted and fe

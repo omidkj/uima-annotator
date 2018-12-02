@@ -1,0 +1,202 @@
+Admission Date:  [**2172-2-27**]              Discharge Date:   [**2172-3-3**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 14062**]
+Chief Complaint:
+altered breathing pattern
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname **] was re-admitted on [**2172-2-27**] for an altered breathing
+pattern on arrival to rehab after being discharged that same
+day.  Following is the history of his recent admission
+[**Date range (1) 102259**]:
+
+Mr. [**Known lastname **] [**Known firstname 6107**] Sr. is an 85-year-old gentleman with a history
+of systolic heart failure (EF 30% on [**2172-2-4**]), atrial
+fibrillation, aortic stenosis ([**Location (un) 109**] 0.8-1.0 cm2), HTN, Burkitt's
+lymphoma, who presents with altered mental status and
+dehydration. Patient was recently admitted to the CCU for a-fib
+with [**Location (un) 5509**], Klebsiella UTI, and altered mental status. His mental
+status improved by discharge. He was treated with a course of
+antibiotic and was discharged to rehab on metoprolol 125 mg TID.
+
+.
+Per Rehab notes and family he had been having episodes of
+shortness of breath and agitation that lasted 2-3 minutes. He
+was also found very confused in the morning of [**2172-2-18**], A&Ox2
+with periods of AMS, restless with HR 110, RR 36, BP 139/98, T
+98.7. His metoprolol was increased to QID. Patient finished
+today his treatment for UTI. There is no history of cough,
+dysuria, frequency, abdominal pain, diarrhea, skin rash. Patinet
+has only been mildy constipated (based on medications at Rehab).
+
+.
+In the ER patient had TT 97.8 F, BP 149/115, HR 149, RR 28, SpO2
+95% on 3 L NC. Patient was wax and [**Doctor Last Name 688**], confused, but was
+able to give part of a story. He was found to be on AFib with
+[**Doctor Last Name 5509**]. Patient had a head CT scan that did not show intra-craneal
+bleed or acute pathology, CXR with mild right pleural effusion
+and basal atelectases. Urine analysis was unremarcable, urine
+culture pending. EKG did not show any ST-T wave abnormalities.
+CEs neg x 2.
+.
+Patient received almost 2 L of NS with urine output of 600 cc
+over 22 hours. His mental status is reportedly improving slowly
+with the IVF. He received digoxin 0.125 mg x 1 with HR
+decreasing from the 130-140s to 110s. Given his multiple medical
+problems and [**Name2 (NI) 28645**] lactate (3.1 from 2.2), he was transferred
+to the CCU.
+.
+Patient had very diffcult access and arrived to the floor with
+only a small IV in the left thumb. Pt received 500 cc NS bolus
+in the ER. The medical team placed an EJ and PICC was placed on
+[**2-19**].
+
+
+Past Medical History:
+1. Aortic stenosis, valve siz 0.8-1cm2
+2. Congestive heart failure, systolic
+3. paroxysmal atrial fibrillation
+4. hypertension
+5. atypical Burkitt's lymphoma diagnosed [**4-9**] and treated with
+chemotherapy; lymphoma complicated by a pathologic right
+proximal femur fracture treated with right proximal femur
+replacement [**2168-7-28**]; following his surgery, he underwent XRT to
+both femurs
+6. benign prostatic hyperplasia s/p transurethral
+photo-vaporization of the prostate gland [**9-10**]
+7. glaucoma
+8. cataracts
+9. moderate degenerative joint disease (osteoarthritis)
+10. OSA: uses BiPap at night for sleep
+
+Social History:
+He moved back home 3.5 weeks ago after living in an [**Hospital 4382**] facility for years. He lived alone and reports he does
+all of his own cooking, cleaning, and shopping, although others
+pitch in to help out. However, after last hospitalization he was
+still at Rehab. Two of his three sons live in [**State 350**].
+Patient used to smoke in his teens and twenties quitting many
+years ago. Does not remember date. He has history of ~10
+pack-year smoking. He denies tobacco, alcohol, or illicit drug
+use.
+
+
+Family History:
+Parents died when he was 12 of unknown cause. He has no data
+regarding his father's family. His grandmother died when she was
+in her 80s of unknown etiology. Patient denies history of
+premature CAD, cancer, DM.
+
+Physical Exam:
+GENERAL - sick-appearing man, intermittently tachypneic,
+oriented x 3 but lethargic
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD, no carotid bruits
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp
+unlabored, no accessory muscle use
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2, no s4 or s3
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no
+rebound/guarding, rectal exam normal with good sphincter tone
+and guaiac negative
+EXTREMITIES - WWP, no c/c/e, 1+ peripheral pulses (radials),
+legs with venous stasis changes, dopplerable pulses, but not
+palpable, good capilary refil
+SKIN - no rashes or lesions, cold, clamy
+LYMPH - no cervical, axillary, or inguinal LAD
+NEURO - awake, A&Ox2 (place), CNs II-XII grossly intact, muscle
+strength 5/5 throughout, sensation grossly intact throughout,
+DTRs 2+ and symmetric, cerebellar exam intact, gait unable to
+eval
+
+
+Pertinent Results:
+Admission labs:
+
+[**2172-2-26**] 06:06AM   WBC-4.5 RBC-4.29* HGB-13.0* HCT-41.5 MCV-97
+MCH-30.3 MCHC-31.3 RDW-21.1*
+[**2172-2-26**] 06:06AM   GLUCOSE-124* UREA N-37* CREAT-1.5*
+SODIUM-146* POTASSIUM-4.5 CHLORIDE-112* TOTAL CO2-25 ANION
+GAP-14
+[**2172-2-26**] 06:06AM   ALT(SGPT)-111* AST(SGOT)-77* LD(LDH)-355* ALK
+PHOS-863* TOT BILI-2.9*
+
+EKG [**2-27**]:
+Atrial fibrillation. Non-specific ST-T wave changes. Compared to
+the previous tracing the rate is slower.
+
+
+Brief Hospital Course:
+85 yo man with CHF, AS, afib, multiple recent admissions for
+altered mental status, now re-admitted for [**Last Name (un) 6055**]-[**Doctor Last Name **]
+breathing.
+
+Please see recent discharge summary for history [**Date range (1) 102259**] for
+detailed recent medical history.  Patient was re-admitted the
+day of discharge for [**Last Name (un) 6055**]-[**Doctor Last Name **] breathing.
+
+Altered breathing pattern:  Likely [**Last Name (un) 6055**]-[**Doctor Last Name **] secondary to
+congestive heart failure.  At his baseline he has periods of
+apnea lasting several seconds but resumes breathing
+spontaeneously.  He generally maintained normal O2 sats,
+although sometimes dropping into the upper 80s. BiPap was
+continued at night.
+
+Altered mental status:  Likely delirium secondary to multiple
+recent hospital admissions.  Mental status was unchanged from
+prior admission and waxing and [**Doctor Last Name 688**].   Generally A&O x 2.
+
+Aortic stenosis:  Patient has known AS with valve area ~1.0 cm2.
+ He and his family are considering valvuloplasty for palliation.
+ He will follow-up as an outpatient for further consideration.
+
+Atrial fibrillation:  Rate control was improved with titration
+of calcium channel blocker and beta blocker.  Rate is generally
+90-100.  He will continue anticoagulation with lovenox as long
+as he is at rehabilitation.  He and his primary care physician
+can decide whether anticoagulation is warranted after that.
+
+CHF:  He was euvolemic this admission.
+
+Elevated liver enzymes:  This was also noted on prior admission.
+ It is most likely secondary to poor cardiac pump function
+causing hepatic congestion.
+
+Medications on Admission:
+ASA 325 mg PO Daily
+Metoprolol 125 mg PO TID
+Citalopram 20 mg PO Daily
+MVI 1 PO Daily
+Latanoprost 0.005% Left eye QHS
+Calcium carbonate 500 mg PO q8hrs
+VHC 90 ml PO TID
+VItamin c 500 mg PO Daily
+Zinc sulfate 220 mg PO Daily
+Ipratropium 0.02% 3ml QID PRN
+Docusate 100 mg PO BID
+Senna 1 PO BID PRN
+Milk of magnessia 30 cc PO Daily PRN
+Dulcolax 10 mg PR PR constipation
+Fleet enema 1 PR PRN Daily
+
+
+Discharge Medications:
+1. Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO BID (2 times a day).
+2. Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) injection
+Subcutaneous Q12H (every 12 hours).
+3. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+6. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID (3 times a day).
+7. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at

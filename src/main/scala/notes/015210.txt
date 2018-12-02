@@ -1,0 +1,221 @@
+Admission Date:  [**2136-2-19**]              Discharge Date:   [**2136-2-29**]
+
+Date of Birth:  [**2071-2-12**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Barium Iodide
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+Mitral Valve replacement (27mm St. [**Male First Name (un) 923**] Epic porcine valve)
+[**2136-2-20**]
+
+
+History of Present Illness:
+65 year old female with progressive dyspnea on exertion which
+was evaluated by serial echocardiogram for mitral regurgitation.
+
+
+
+Past Medical History:
+hypercholesterolemia
+Diabetes mellitus type 2
+anxiety
+hypertension
+asthma
+s/p hysterectomy
+s/p herniorraphies
+bilateral cataracts
+seizure disorder
+
+Social History:
+Denies smoking
+Occasional alcohol
+Currently on disability
+Lives with spouse
+
+Family History:
+Sister died of rheumatic fever age 13.
+Father deceased hypertension, diabetes, kidney disease
+Mother stroke at age 69
+
+Physical Exam:
+Admission:
+General no acute distress well nourished
+Skin mid abdominal incision and multiple scope sites healed
+HEENT EOMI PEERLA
+Neck supple full range of motion
+Chest clear to auscultation no wheezes or rhonchi
+Heart regular 3/6 systolic murmur, [**12-27**] diasystolic murmur
+Abdomen soft, nontender, non distended + bowel sounds
+Extremeties warm well perfused no edema pulses palpable,
+bilateral varicosties
+Neuro Alert and oriented x3 non focal
+
+Pertinent Results:
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 81627**] (Complete) Done
+[**2136-2-20**] at 8:52:30 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2071-2-12**]
+Age (years): 65 F  Hgt (in): 61
+BP (mm Hg): /  Wgt (lb): 141
+HR (bpm):  BSA (m2): 1.63 m2
+Indication: Left ventricular function. Right ventricular
+function. Valvular heart disease.
+ICD-9 Codes: 424.1, 394.2
+Test Information
+Date/Time: [**2136-2-20**] at 08:52    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6507**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW5-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Inferolateral Thickness:  0.8 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.6 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55% to 65%  >= 55%
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.1 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  2.0 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  16 mm Hg  < 20 mm Hg
+Aortic Valve - LVOT pk vel:  1.80 m/sec
+Aortic Valve - LVOT diam:  1.8 cm
+Aortic Valve - Valve Area:  *1.2 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  1.5 m/sec
+Mitral Valve - Mean Gradient:  6 mm Hg
+Mitral Valve - Pressure Half Time:  111 ms
+Mitral Valve - MVA (P [**12-23**] T):  2.0 cm2
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. Good (>20 cm/s) LAA
+ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness, cavity size
+and regional/global systolic function (LVEF >55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending aorta diameter. No atheroma in ascending
+aorta. Normal descending aorta diameter.
+
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened
+aortic valve leaflets. Mild AS (AoVA 1.2-1.9cm2). Trace AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. Mild
+mitral annular calcification. Mild valvular MS (MVA 1.5-2.0cm2).
+Moderate (2+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+PRE-BYPASS: The left atrium is moderately dilated. No atrial
+septal defect is seen by 2D or color Doppler. Left ventricular
+wall thickness, cavity size and regional/global systolic
+function are normal (LVEF >55%). Right ventricular chamber size
+and free wall motion are normal. There are three aortic valve
+leaflets. The aortic valve leaflets are mildly thickened. There
+is mild aortic valve stenosis (area 1.2-1.9cm2). Trace aortic
+regurgitation is seen. The mitral valve leaflets are moderately
+thickened. There is mild valvular mitral stenosis (area
+1.5-2.0cm2). Moderate (2+) mitral regurgitation is seen. There
+is no pericardial effusion.
+
+Dr. [**Last Name (STitle) **] was notified in person of the results in the
+operating room.
+
+POST-CPB: On infusions of epi, neo. AV pacing. Well-seated
+bioprosthetic valve in the mitral position. Trace MR, no
+paravalvular leak. Preserved biventricular systolic function on
+inotropic support. AI is mild. Peak gradient of 20 mmHG through
+the aortic valve with [**Location (un) 109**] now 1.3 probably reflects higher
+cardiac output on inotropes. Aortic contour is normal post
+decannulation.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2136-2-20**] 16:41
+
+
+
+Brief Hospital Course:
+She was admitted to the hospital preoperatively for intravenous
+diuresis.  She was brought to the operating room and underwent
+mitral valve replacement.  See operative note for further
+details.  She received cefazolin for perioperative antibiotics.
+She was transferred to the intensive care unit for hemodynamic
+monitoring.  In the first twenty four hours she was weaned from
+sedation, awoke neurologically intact, and was extubated without
+complications. She was started on beta blockers and gentle
+diuresis.  She was transferred to the floor and had episode of
+atrial fibrillation post operative day 1 treated with beta
+blockers, and then started on amiodarone for reoccurrences of
+atrial fibrillation.  She continued to go in and out of atrial
+fibrillation and was started on coumadin for anticoagulation.
+Last episode of atrial fibrillation [**2-26**] in the am. Her INR
+became elevated, coumadin held, and monitored level closely.
+Physical therapy worked with her on strength and mobility.  By
+post-operative day nine she was ready for discharge to home with
+services.  Her INR on the day of discharge was 3.2 so coumadin
+was again held.  Her discharge paperwork advised the dose to
+continue to be held until her INR fell below 2.  The next INR
+draw is scheduled for [**2136-3-2**] and Dr.[**Name (NI) 19892**] office was
+faxed recent coumadin doses and corresponding INRs.
+
+
+Medications on Admission:
+Sertaline 25mg/D
+metfromin 500mg [**Hospital1 **]
+Loratadine 10mg/D
+gemfibrizil 600mg [**Hospital1 **]
+Pravastatin 40mg/D
+Enalapril 20mg/D
+Mirtazapine 30mg/D
+Lopressoe ER 50mg/D
+Albuterol INH
+Lasix 40mg/D
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:

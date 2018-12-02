@@ -1,0 +1,242 @@
+Admission Date:  [**2195-7-14**]              Discharge Date:   [**2195-7-30**]
+
+Date of Birth:  [**2134-7-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 8388**]
+Chief Complaint:
+Respiratory distress
+
+
+Major Surgical or Invasive Procedure:
+Intubation
+Chest Tube Placement
+PICC Line Placement
+Dialysis Catheter Placement and Dialysis
+
+
+History of Present Illness:
+Pt is a 60M with history of cirrhosis [**3-4**] HCV c/b
+encephalopathy, SBP, varices, PV thrombosis; DM; HTN presented
+with dyspnea x 4 days and left sided chest pain and
+back/shoulder pain, found to have large left sided pleural
+effusions. Per records, patient fell ~ 2 weeks ago, no known
+injury at that time. Had been fine after fall except for some
+weakness, no other known traumas. Went to PCP today with 4 day
+complaint of SOB, cxr showed left sided pleural effusion and was
+referred to ED for further evaluation.
+
+In the ED, initial VS: 96 132/50 65 18 100% on 4L. CTA showed
+left sided large pleural effusion with possible loculation and
+resolving hemothorax; also with patchy RML infiltrate that could
+represent early PNA. Labs notable for HCT 24.2, INR 3.3,
+creatinine 2.4. Recieved morphine 4 mg IV for pain, Levoquin 500
+mg IV x 1 and Vitamin K 10 mg. Admitted to floor for further
+management.
+
+ROS: Denies fever, chills, night sweats, headache, vision
+changes, rhinorrhea, congestion, sore throat, cough, abdominal
+pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena,
+hematochezia, dysuria, hematuria.
+
+
+Past Medical History:
+PMHx (per OMR, unable to verify with patient):
+- Hepatitis C cirrhosis genotype 1A (c/b h/o portal
+hypertension/
+ascites/encephalopathy/SBP) awaiting combined liver/kidney
+transplant, Hepatitis C viral load [**3-/2192**]: 401,000 IU/mL; MELD
+20 on [**2194-4-17**].
+- Esophageal Varices: endoscopy [**2189**]: grade I varices
+- CKD (baseline Cr = 1.4-1.5): Diabetic Nephrosclerosis by
+biopsy
+- Diabetes (last HgA1C [**7-/2190**] 6%) with neuropathy
+- Ribavirin-induced Hemolytic Anemia
+- History of spontaneous bacterial peritonitis
+- Pancytopenia likely d/t hypersplenism
+- Chronic hyperkalemia
+- Hypertension
+- h/o IVDU with methadone maintenance, now off all therapy
+- DVT s/p IVC filter placement ([**10/2188**])- spontaneous in setting
+of
+hepatic encephalopathy
+- Hemmorhoids
+- Hx of PV thrombosis, restarted on coumadin
+
+Social History:
+Works as a carpenter. Lives with sister. Recently quit smoking,
+30 pack year history. Sister is HPA. Prior history of IVDU
+heroin and cocaine quit 7 years ago. On methadone until 2 years
+ago. Denies alcohol, drugs recently.
+
+
+Family History:
+Father died [**Name2 (NI) 53283**] at 55, no history of blood clots in family.
+
+Physical Exam:
+ADMISSION PHYSICAL:
+VS: 96.9 154/73 75 20 95%2L
+GENERAL: chronically ill appearing man, NAD
+HEENT: MMM, OP clear, no scleral icterus, EOMI.
+NECK: Supple, no JVD. no tracheal deviation.
+HEART: RRR, no MRG, nl S1-S2.
+LUNGS: ABsent BS over posterior left lung fields ~3/4 up lung
+[**Last Name (un) 18100**] with minimal BS the top [**2-3**]. + mild labored breathing,
+but not tachypnic. Left CTA lung fields.
+ABDOMEN: Soft/NT/ND, no rebound/guarding, no discernable
+ascites.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.
+SKIN: No rashes, chronic venous stasis changes in bilateral LE.
+
+LYMPH: No cervical LAD.
+NEURO: Awake, A&Ox3, CNs II-XII intact, muscle grossly intact, 1
+beat asterexis.
+
+DISCHARGE PHYSICAL:
+98.0 131/50 74 20 98%/2L
+I/O: 1020/620
+General-Patient appears well and in NAD
+HEENT-PERRLA, EOMI, anicteric, oropharynx clear, MMM
+Neck-Supple, Right IJ dialysis catheter, no [**Doctor First Name **]
+Chest-Decreased breath sounds and crackles at lung bases L>R.
+Cards-RRR, S1 and S2, No m/r/g
+Ext-PICC line in place. No edema, warm, foley in place
+Neuro-A&Ox3, CN II-XII grossly intact
+
+
+Pertinent Results:
+ADMISSION LABS:
+
+DISCHARGE LABS:
+
+MICRO:
+[**2195-7-14**] 11:10 pm BLOOD CULTURE      # 2.
+
+                            **FINAL REPORT [**2195-7-20**]**
+
+   Blood Culture, Routine (Final [**2195-7-20**]):
+      STREPTOCOCCUS PNEUMONIAE.
+         Note: For treatment of meningitis, penicillin G MIC
+breakpoints
+         are <=0.06 ug/ml (S) and >=0.12 ug/ml (R).
+         Note: For treatment of meningitis, ceftriaxone MIC
+breakpoints are
+         <=0.5 ug/ml (S), 1.0 ug/ml (I), and >=2.0 ug/ml (R).
+         For treatment with oral penicillin, the MIC break
+points are
+         <=0.06 ug/ml (S), 0.12-1.0 (I) and >=2 ug/ml (R).
+         FINAL SENSITIVITIES.
+         MEROPENEM = <= 0.06 MCG/ML.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STREPTOCOCCUS PNEUMONIAE
+                             |
+CEFTRIAXONE-----------  0.12 S
+ERYTHROMYCIN----------<=0.25 S
+LEVOFLOXACIN----------     2 S
+MEROPENEM-------------       S
+PENICILLIN G----------  0.12 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+
+   Anaerobic Bottle Gram Stain (Final [**2195-7-16**]):
+      Reported to and read back by DR. [**Last Name (STitle) **]. RONON ON [**2195-7-16**] AT
+0115.
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+
+BLOOD CX, SECOND SET [**2195-7-14**]: NO GROWTH
+BLOOD CX [**7-16**], [**7-17**], [**7-18**], [**7-19**]: PENDING
+
+Legionella Urinary Antigen  (Final [**2195-7-17**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+
+[**2195-7-15**] 2:29 pm PLEURAL FLUID
+
+   GRAM STAIN (Final [**2195-7-15**]):
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FLUID CULTURE (Final [**2195-7-18**]):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+
+
+STUDIES:
+ECHO [**2195-7-22**]
+IMPRESSION:
+Mild symmetric left ventricular hypertrophy with preserved
+regional and global biventricular systolic function. Moderate
+pulmonary hypertension.
+
+CT CHEST [**7-21**]
+IMPRESION:
+1. Multifocal pneumonia, progressed since [**7-16**], could be
+bacterial, viral, eosinophilic or cryptogenic. 2. Moderate
+residual of left pleural effusion, slightly smaller than on [**7-16**] following removal of the left pleural drain. Previous severe
+atelectasis left lower lobe has improved. 3. Extensive
+atherosclerosis, including coronaries. 4. Probable anemia.
+
+CXR [**2195-7-14**]:
+IMPRESSION:
+1. New moderate left pleural effusion with associated
+atelectasis.
+2. Possible healing right anterior rib fractures. This can be
+further
+evaluated with dedicated radiographs if clinically indicated.
+
+PLEURAL FLUID FOR CYTOLOGY:
+Pleural fluid: NEGATIVE FOR MALIGNANT CELLS.
+
+CT CHEST [**2195-7-14**]:
+IMPRESSION:
+1. Large left pleural effusion, partially loculated, suggestive
+of resolving hemothorax. Compressive atelectasis in the left
+lower lobe. Scattered ground-glass opacities in the lungs likely
+represent early pneumonia.
+2. Cirrhotic liver with ascites. Portal hypertension with
+splenomegaly.
+3. Multiple bilateral rib fractures as detailed above.
+
+CT CHEST [**2195-7-16**]:
+IMPRESSION:
+
+1. Interval decrease in the uppermost portion of the left-sided
+effusion with improved aeration of the left upper lobe. Minimal
+residual pleural effusion where Pleurex catheter terminates;
+however, effusion is seen above and below the tip of the
+catheter and may be due to loculation or catheter obstruction.
+Near complete opacification of the left lower lobe.
+2. Worsening multifocal parenchymal opacities. Given the
+short-interval
+progression, infection is most likely.
+3. Anemia.
+4. Findings compatible with cirrhosis and portal hypertension.
+5. Cholelithiasis.
+
+CXR [**2195-7-19**]:
+IMPRESSION:
+1) Slight difference in configuration of left chest tube. No
+pneumothorax
+detected.
+2) Left base pleural fluid and underlying collapse and/or
+consolidation
+grossly stable.
+3) Multifocal opacities in the right lung and left mid and upper
+zones again seen.
+
+
+Brief Hospital Course:
+Pt is a 60M with history of hep C cirrhosis c/b SBP, portal
+hypertension and portal vein throm

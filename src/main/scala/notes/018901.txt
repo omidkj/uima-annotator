@@ -1,0 +1,198 @@
+Admission Date:  [**2116-3-8**]              Discharge Date:   [**2116-3-26**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 425**]
+Chief Complaint:
+Infected Pacemaker
+
+Major Surgical or Invasive Procedure:
+Screw-in pacer wire placement ([**2116-3-12**])
+PICC line placement ([**2116-3-13**])
+TEE
+Removal of pacemaker
+
+
+History of Present Illness:
+Patient is an 86 year old female patient with PMHx significant
+for mechanical aortic valve, CHB s/p PM that was complicated by
+large hematoma requiring evacuation who presents from OSH after
+found to have abscess at previous hematoma site.
+.
+Patient was recently discharged from [**Hospital1 18**] during which she was
+found to be in complete heart block.  Patient had pacemaker
+placed however developed large chest hematoma in setting of
+being anticoagulated for mechanical valve.  Patient required 9
+units of PRBC and had hematoma evacuated.
+.
+She was discharged to nursing home on [**2-13**] and then was found to
+have infected PM with abscess at previous hematoma site.  At NH
+her incision under her clavicle began to open and start draining
+while she was having temps of 104.  At OSH, she had a WBC of
+[**Numeric Identifier 71077**] (69% PMNs, 17% Bands) pacemaker was removed by local
+surgeon and patient was started on vanc and gent (per an ID
+consult).  She continues to spike temperatures and prelimanary
+wound and blood cultures at OSH are growing gram + cocci in
+clusters.  Patient was also found to be tachycardic with HR
+ranging from 114-140s.  She was transferred to [**Hospital1 18**] for further
+management.
+
+Past Medical History:
+CAD s/p 2-vessel CABG [**2104**]
+CHB s/p PM complicated by large hematoma and evacuation
+s/p [**First Name8 (NamePattern2) **] [**Initials (NamePattern4) 1525**] [**Last Name (NamePattern4) 1291**] in [**2104**] for AS
+CHF
+HTN
+Diabetes
+Hypothyroidism
+Dementia, mild-moderate
+s/p appy
+s/p TAH
+
+Social History:
+Recently living in nursing home after previous discharge from
+[**Hospital1 18**]
+non-smoker
+non-drinker
+
+Family History:
+unable to obatin from patient due to dementia
+
+Physical Exam:
+T 99.2  BP 123/55  HR 77  RR 20  Sat 95% on 5L nc
+Gen: moaning, NAD
+HEENT: OP clear, no scleral icterus
+Neck: no carotid bruits, prominent a-waves , JVP 7cm
+Chest: 5cm x 3cm x 1.5cm incision on left upper chest extending
+into pectoral muscle tissue without any frank drainage or
+erythema; lungs with bibasilar rales
+CV: irregular, II/VI systolic murmur across precordium with
+mechanical S2
+Abd: mildly distended, nontender, soft, normal bowel sounds, no
+HSM
+Extr: 2+ DP pulses, no edema, cool
+Neuro: alert, conversant, oriented to self only
+
+
+Pertinent Results:
+TTE ([**2116-3-11**]):
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size.  Regional left ventricular wall motion is normal.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+Right ventricular chamber size and free wall motion are normal.
+A mechanical aortic valve prosthesis is present. The transaortic
+gradient is higher than expected for this type of prosthesis. No
+masses or vegetations are seen on the aortic valve but cannot be
+excluded. Significant aortic regurgitation is present, but
+cannot be quantified. The mitral valve leaflets are moderately
+thickened. There is severe mitral annular calcification. There
+is mild mitral stenosis (area 1.5-2.0cm2). Mild (1+) mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+The tricuspid valve leaflets are mildly thickened. There is mild
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+.
+Labs:
+[**2116-3-8**] 01:51AM BLOOD WBC-28.0*# RBC-3.53* Hgb-10.8* Hct-31.3*
+MCV-89 MCH-30.6 MCHC-34.5 RDW-17.0* Plt Ct-271
+[**2116-3-24**] 03:41AM BLOOD WBC-11.2* RBC-3.26* Hgb-10.2* Hct-29.8*
+MCV-92 MCH-31.2 MCHC-34.1 RDW-16.5* Plt Ct-352
+[**2116-3-8**] 01:51AM BLOOD Neuts-75* Bands-15* Lymphs-2* Monos-8
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2116-3-21**] 01:11PM BLOOD Neuts-92.9* Bands-0 Lymphs-4.2* Monos-2.9
+Eos-0.1 Baso-0
+[**2116-3-24**] 03:41AM BLOOD Plt Ct-352
+[**2116-3-24**] 03:41AM BLOOD PT-80.0* PTT-52.8* INR(PT)-10.5*
+[**2116-3-8**] 01:51AM BLOOD PT-22.2* PTT-39.7* INR(PT)-2.2*
+[**2116-3-24**] 09:00AM BLOOD FDP-10-40
+[**2116-3-24**] 09:00AM BLOOD Fibrino-410* D-Dimer-[**2125**]*
+[**2116-3-21**] 01:11PM BLOOD Ret Aut-4.3*
+[**2116-3-24**] 03:41AM BLOOD Glucose-165* UreaN-24* Creat-2.1* Na-133
+K-3.5 Cl-104 HCO3-17* AnGap-16
+[**2116-3-8**] 01:51AM BLOOD Glucose-190* UreaN-22* Creat-0.8 Na-139
+K-4.0 Cl-105 HCO3-23 AnGap-15
+[**2116-3-21**] 01:11PM BLOOD LD(LDH)-336* CK(CPK)-126
+[**2116-3-23**] 02:33AM BLOOD TSH-6.0*
+[**2116-3-23**] 02:33AM BLOOD T4-2.9* T3-53*
+[**2116-3-23**] 02:56AM BLOOD Type-ART Temp-37.7 pO2-76* pCO2-30*
+pH-7.39 calTCO2-19* Base XS--5
+.
+[**3-15**] CT Head
+FINDINGS: There is no evidence of acute intracranial hemorrhage,
+mass effect, hydrocephalus, or shift of normally midline
+structures. There remain large areas of periventricular white
+matter hypodensity consistent with chronic small vessel
+infarction. A right thalamic lacune is again seen. There is a
+fluid level in the sphenoid sinus. The soft tissues are
+unchanged.
+
+IMPRESSION: No evidence of intracranial hemorrhage or mass
+effect.
+.
+[**3-20**] TTE
+Conclusions:
+The left atrium is mildly dilated. No thrombus is seen in the
+left atrial
+appendage. A left-to-right shunt across the interatrial septum
+is seen at
+rest. A small secundum atrial septal defect is present. Left
+ventricular wall thickness, cavity size, and systolic function
+are normal (LVEF>55%). Right ventricular chamber size and free
+wall motion are normal. There are complex (>4mm) atheroma in the
+descending thoracic aorta. The aortic prosthesis appears well
+seated, with normal leaflet/disc motion. No masses or
+vegetations are seen on the aortic valve. Trace aortic
+regurgitation is seen. No mass or vegetation is seen on the
+mitral valve. Mild to moderate ([**1-21**]+) mitral regurgitation is
+seen. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2116-3-20**]
+there is no
+significant change.
+.
+[**3-23**] CT Head
+FINDINGS: The study is significantly motion degraded at the
+lower and mid levels. Allowing for this deficiency, no acute
+intracranial hemorrhage is appreciated. There is diffuse
+cerebral periventricular white matter hypodensity consistent
+with chronic small vessel infarction. Chronic lacunar infarcts
+in the left basal ganglia and right thalamus are stable. No
+evidence to suggest acute major vascular territorial infarction
+is seen. Sphenoid sinus air- fluid level is noted. Carotid
+vascular calcification is seen.
+
+IMPRESSION: Motion limited study; allowing for this limitation,
+no acute intracranial hemorrhage seen. Sphenoid sinus air-fluid
+level (are there symptoms of sinusitis?).
+.
+[**3-24**] CT Head
+FINDINGS: As was the case yesterday, a number of the images are
+degraded by patient motion. Allowing for this deficiency, there
+is no definite interval change identified. Once again, there is
+a chronic lacunar infarct noted within the right thalamic
+region, as well as more generalized bilateral cerebral
+periventricular white matter hypodensity, consistent with
+chronic small vessel infarction. There is no sign for the
+presence of an intracranial hemorrhage. There is heavy
+atherosclerotic calcification of the distal vertebral arteries
+and cavernous carotid arteries. The surrounding osseous and soft
+tissue structures are remarkable for redemonstration of the
+sphenoid sinus air-fluid level. As was stated yesterday, the
+finding suggests possible acute sinusitis but requires clinical
+correlation, as sinus drainage could be impeded by the presence
+of a nasogastric tube.
+
+CONCLUSION: No intracranial hemorrhage.
+
+
+Brief Hospital Course:
+Assessment/Plan: 86 yo woman with abscess surrounding pacemaker
+site, s/p surgical pacemaker removal and in NSR, but had a 9
+second period of asystole, treated with temporary external pacer
+and plan for permenant pacer once course of Abx completed. Her
+pacer infection seemed to be resolving but on [**3-20

@@ -1,0 +1,208 @@
+Admission Date:  [**2146-4-10**]              Discharge Date:   [**2146-4-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 68839**]
+Chief Complaint:
+Hypotension
+
+
+Major Surgical or Invasive Procedure:
+Right great toe amputation
+
+History of Present Illness:
+This is a [**Age over 90 **] year old male with MDS, CAD, CHF, and CKD as well
+as multiple recent admissions for bacteremia secondary to a
+gangrenous toe who presented yesterday with fever and
+hypotension.  The patient reports "a couple" of days of feeling
+generally unwell with malaise and a fever.  He is not able to
+endorse any localizing symptoms like cough, chest pain,
+dysuria/hematuria, or abdominal discomfort.  He also endosres
+some loose stools over the past few days but no [**Age over 90 **] diarrhea.
+No other abdominal symptoms and he denies abdominal pain,
+nausea, or vomiting.  He was sent to the ED after his daughter
+noted him rigoring at rehab and demanded he be sent to the
+hospital.
+
+In the ED, initial vs were: T 99.1 P 120 BP 132/80 R 26 O2 sat
+99% on NRB but temperature then spiked to 104.2 rectally.  As
+the patient has had multiple admissions for bacteremia related
+to his toe gangrene vascular and podiatry were consulted
+regarding management.  The patient was given levofloxacin,
+acetaminophen, vancomycin, and ceftriaxone in the ED.  He became
+hypotensive (SBP's in the 90's) and thus received 2L of NS
+without much effect before before being started on
+norepinephrine and sent to the ICU.
+
+Overnight the patient was weaned off norepinephrine.  He also
+defervesced and has been afebrile today.  He received one unit
+Plt and one unit pRBC's as was worse than baseline.  ID
+consulted and are recommending daptomycin (patient was on course
+as an outpatient) and pipercillin-tazobactam as well as
+discontinuing PICC and scan to r/o abscess.  Plan was for
+podiatry to amputate toe in AM but patient's daughter and HCP
+requested vascular to perform this operation so timing is
+currently unclear.  [**Name2 (NI) **] report blood cultures from [**Hospital 100**] Rehab
+are growing gram positive cultures in pairs and clusters as well
+as gram negative rods.  Currently, he reports feeling fatigued
+but denies specific complaints.
+
+
+Past Medical History:
+-Stage 3 Chronic Kidney Disease with baseline Cr of 2
+-Coronary Artery Disease (PTCA in [**2123**] w/o stents)
+-Sick sinus syndrome --> s/p pacemaker [**2118**], [**2128**], [**2139**]; no
+history of pacemaker infections
+-Transient Ischemic Attack in [**2135**]
+-Myelodysplastic syndrome with anemia, thrombocytopenia and
+leukopenia
+-Pseudogout
+-Benign prostatic hypertrophy
+-Cryptogenic cirrhosis and ? of hepatitis B (chronic bilateral
+upper extremity edema)
+-Polymyalgia rheumatica on chronic prednisone (5mg >1 yr)
+-GI bleed:Gastric varices; GAVE
+-Hiatal hernia
+-Enterococcal endocarditis [**2140**]
+-Group G Strep bacteremia, [**1-/2144**] (tx 6 weeks with
+amp/sublactam)
+-Group G Strep bacteremia + R hallux cellulitis, [**10/2144**] (tx 4
+weeks with Ceftriaxone)
+-MRSA septicemia without endocarditis, [**2-/2146**] (original tx plan
+4 weeks of vancomycin through [**4-8**])
+-MRSA, VRE, multiple strains of Streptococcus bacteremia, [**3-/2146**]
+(tx daptomycin x 6 weeks to end [**5-6**])
+
+
+Social History:
+He lives at [**Hospital 100**] Rehab and has been there for the past month
+but was living with his daughter prior to that.  He was a smoker
+at one point but has not smoked since [**2088**].  He is a retired
+foreign service officer with previous postings in [**Location (un) **], [**Country 3992**],
+and most recently northern [**Country 2559**].  He was [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 68836**] Scholar.
+
+Family History:
+Father, mother, brother all died of "heart disease"
+
+Physical Exam:
+Vitals: T: 97.3 BP: 122/38 P: 105 R: 21 O2: 99% on 2L NC
+General: Alert, oriented, no acute distress, speaks very slowly
+
+HEENT: Sclera anicteric, MM dry, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Crackles at the right base posteriorly, no wheezes or
+ronchi
+CV: Tachycardic, regular rhythm, normal S1 + S2, no murmurs,
+rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses. Forearms with chronic skin
+changes bilaterally, purple color. Lower legs bilaterally with
+shiny skin, no hair. Right great toe swollen with darker color
+and open wound at over the first MTP joint.
+
+
+Pertinent Results:
+LABORATORY RESULTS
+====================
+On Presentation:
+WBC-5.8# RBC-3.02* Hgb-8.8* Hct-26.9* MCV-89 RDW-16.1* Plt
+Ct-44*
+----Neuts-90.2* Lymphs-7.9* Monos-1.7* Eos-0.2 Baso-0
+PT-16.1* PTT-30.9 INR(PT)-1.4*
+Glucose-187* UreaN-32* Creat-1.9* Na-131* K-4.0 Cl-96 HCO3-25
+AnGap-14
+ALT-28 AST-54* CK(CPK)-32* AlkPhos-236* TotBili-1.1
+Lactate-2.6*
+
+MICROBIOLOGY
+=============
+[**2146-4-10**] Blood Cultures: 2/2 Bottles with
+Staph Aureus
+SENSITIVITIES: MIC expressed in MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+DAPTOMYCIN------------       S
+ERYTHROMYCIN----------   =>4 R
+GENTAMICIN------------     2 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>8 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------     2 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+
+[**2146-4-12**]: Bone tissue and swab from amputation with Staph Aureus
+
+Pathology from Amputation:
+DIAGNOSIS:
+1.  Bone, right first toe, excision (A):
+    A.  Bone with changes consistent with acute and chronic
+osteomyelitis with osteonecrosis.
+    B.  Dense fibroconnective tissue with chronic inflammation.
+
+2.  Toe, right first, amputation (B):
+    A.  Skin with ulceration and necrosis, present at resection
+margin.
+    B.  Bone with marrow fibrosis compatible with chronic
+osteomyelitis
+
+OTHER RESULTS
+==============
+Chest Radiograph [**2146-4-10**]:
+IMPRESSION: No acute pulmonary process.
+
+EKG [**2146-4-10**]:
+Sinus tachycardia. Right bundle-branch block. Possible anterior
+wall
+myocardial infarction of indeterminate age. Compared to the
+previous tracing of [**2146-3-8**] heart rate is significantly
+increased.
+
+CT Abdomen and Pelvis [**2146-4-11**]:
+IMPRESSION: No CT evidence to explain recurrent bacteremia.
+
+Transthoracic Echocardiogam [**2146-4-13**]:
+IMPRESSION:Prior (stable) antero-apical myocardial infarction
+with mild to moderately depressed LVEF. No valvular vegetations
+seen.
+
+Right Upper Extremity Ultrasound [**2146-4-13**]:
+IMPRESSION: No right upper extremity DVT.
+
+
+
+
+Brief Hospital Course:
+This is a [**Age over 90 **] year old male with a history of multiple
+bacteremias due to gangrene of the right great toe (initially
+precipitated by anatomical abnormality), myelodysplastic
+syndrome, coronary artery disease, and chronic kidney disease
+presenting from rehab with fever and hypotension and found to be
+bacteremic again.
+
+1) Bacteremia/Sepsis: Patient was clearly septic at presentation
+with hypotension requiring norepinehprine on the night of
+admission and positive blood cultures for MRSA.  On presentation
+to the ICU the patient received his daptomycin as well as a dose
+of pipercillin-tazobactam for broad coverage.  Outside hospital
+blood cultures revealed MRSA, pan-sensitive klebsiella, and two
+kinds of streptococcus.  After spending one night in the ICU the
+patient defervesced and was able to be quickly weaned off
+norepinephrine.  He was transferred to the floor on his second
+hospital day and remained hemodynamically stable and afebrile.
+The most likely etiology of his recurrent bacteremia was
+considered to be his right great toe, which was status post
+multiple debridements, so this was amputated on [**2146-4-12**].  In
+order to rule out other sources of infection the patient had a
+CT abdomen and pelvis on recommendation on the infectious
+disease consult team, which showed no clear etiology of
+bacteremia though this was a suboptimal study due to the lack of
+IV contrast.  Given bacteremia with a PICC line in place the
+patient's PICC was discontinued on the recommendation of the I

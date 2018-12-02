@@ -1,0 +1,164 @@
+Admission Date:  [**2174-3-2**]              Discharge Date:   [**2174-3-3**]
+
+Date of Birth:  [**2094-11-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+SOB, VT
+
+Major Surgical or Invasive Procedure:
+Intubation and mechanical ventilation
+
+History of Present Illness:
+79F w/CHF EF 15% and BiV ICD, COPD, DM presented to OSH from [**Hospital1 1501**]
+w/dyspnea and hypotension. PT was hospitalized [**1-17**] for
+dysphagia workup, at that time diuresed for CHF and had episode
+of VT felt to be provoked by albuterol treatement. Exam, CXR c/w
+?CHF exacerbation, no UOP to multiple doses of IV lasix. Also
+tachycardic w/?VT vs SVT w/aberrancy HR in 130s. Also
+hyperkalemic to 6.0 at OSH. Decompensated and developed
+cardiogenic shock - hypotensive to 80s systolic requiring max
+dobutamine via CVL but still hypotensive with lactate of 8. Got
+lasix 40mg x2, solumedrol, xanax, nebs and was started on
+dobutamine prior to transfer. On arrival to [**Hospital1 18**] ER still
+hypotensive and tachycardic.
+
+In ED: ECG showed VT vs afib/svt with aberrancy. Given lidocaine
+bolus/gtt (avoid amio given ?CHF exacerbation and beta blockade
+activity of amiodarone) Pt converted to Afib with PVCs after
+electric cardioversion now in BiV pacing rhythm. HR went down to
+100s-110s and BP up to 90s systolic.  Pt was started on levophed
+for continued hypotension, also received 200cc IVF with 100ccs
+of urine out. Triple lumen IJ was placed and she was intubated
+in ED with etomidate, rocuonium, for looking "downhill" after 3
+attempts requiring bougie for difficult airway. Was able to
+nswer questions but cold extremities. Transferred to CCU on
+levophed 0.16, dobutamine 4, lido 2.75, midaz 4, fent boluses
+prn. Vent settings: AC 400/18 5/60%. Vs prior to transfer -
+HR:110 O2: 100% BP: 98/73 map 79.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:  systolic CHF with EF 15%, valvular heart
+disease - unclear specifics
+- CABG:
+- PERCUTANEOUS CORONARY INTERVENTIONS:
+- PACING/ICD:  BiV ICD
+Episode of VT presumed secondary to albuterol
+3. OTHER PAST MEDICAL HISTORY:
+Thalassemia Minor
+dysphagia
+arthritic deformities (mobility issues), right club foot
+h/o hypothyroidism
+?COPD
+
+Social History:
+- Tobacco history: prior but quit 25 yrs ago
+- ETOH:  none
+- Illicit drugs:   none
+other : husband died a few years ago lives alone.
+
+Family History:
+nc, pt intubated/sedated
+
+Physical Exam:
+Expired
+
+Pertinent Results:
+[**2174-3-2**] 03:41AM BLOOD WBC-16.3* RBC-5.47* Hgb-11.6* Hct-39.4
+MCV-72* MCH-21.2* MCHC-29.4* RDW-17.2* Plt Ct-277
+[**2174-3-2**] 03:41AM BLOOD Neuts-90.6* Lymphs-6.4* Monos-2.2 Eos-0.4
+Baso-0.4
+[**2174-3-2**] 03:41AM BLOOD PT-23.6* PTT-29.4 INR(PT)-2.3*
+[**2174-3-2**] 11:57AM BLOOD Glucose-172* UreaN-72* Creat-1.6* Na-125*
+K-5.6* Cl-89* HCO3-21* AnGap-21*
+[**2174-3-2**] 04:10AM BLOOD Glucose-86 UreaN-69* Creat-1.5* Na-127*
+K-5.9* Cl-91* HCO3-20* AnGap-22*
+[**2174-3-2**] 03:41AM BLOOD Glucose-76 UreaN-68* Creat-1.6* Na-125*
+K-5.7* Cl-90* HCO3-17* AnGap-24
+[**2174-3-2**] 03:41AM BLOOD cTropnT-0.01 proBNP->[**Numeric Identifier **]
+[**2174-3-2**] 04:10AM BLOOD cTropnT-0.02*
+[**2174-3-2**] 04:12AM BLOOD Type-[**Last Name (un) **] Rates-16/ Tidal V-400 PEEP-5
+pO2-55* pCO2-43 pH-7.32* calTCO2-23 Base XS--3 -ASSIST/CON
+Intubat-INTUBATED
+[**2174-3-2**] 03:46AM BLOOD Lactate-6.3*
+
+ECHO [**2174-3-2**]:
+The left atrium is moderately dilated. The right atrium is
+moderately dilated. Left ventricular wall thicknesses are
+normal. The left ventricular cavity is dilated. There is severe
+global left ventricular hypokinesis (LVEF = 15%). Marked left
+ventricular mechanical dyssynchrony is present. The right
+ventricular free wall thickness is normal. The right ventricular
+cavity is dilated with severe global free wall hypokinesis. The
+aortic valve is not well seen. Significant aortic stenosis is
+present (not quantified). The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Severe (4+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. Severe [4+] tricuspid regurgitation is seen. [In the
+setting of at least moderate to severe tricuspid regurgitation,
+the estimated pulmonary artery systolic pressure may be
+underestimated due to a very high right atrial pressure.] There
+is no pericardial effusion.
+
+Brief Hospital Course:
+In brief, the patient was transferred to [**Hospital1 18**] for further
+management of cardiogenic shock.  She was intubated in the ED
+for airway protection.  Upon arrival to the CCU, she was
+ventilating well but requiring high doses of dobutamine and
+levophed for pressor support.  Echocardiogram demonstrated
+worsening biventricular dilation and global hypokinesis with
+wide open mitral and tricuspid regurgitation.  Cardiac enzymes
+were relatively flat, suggesting no acute ischemic cause for her
+cardiogenic shock.  Her lactate continued to rise, and in the
+setting of cardiogenic shock requiring high dose pressor support
+with an ECHO demonstrating very poor global systolic function
+with extreme valvular disease, the decision was made in
+conjunction with the family to make the patient comfort measures
+only.
+
+She passed on [**2174-3-3**] at approximately 3am after terminal
+extubation with weaning of pressor support.
+
+Medications on Admission:
+allopurinol 100 mg po daily
+asa 81mg daily
+atorva 10 mg po daily
+spironolactone 12.5 mg po daily
+folic acid 1mg po daily
+tramadol 25mg po TID
+flaxseed oil 1 tab daily
+glipizide 2.5mg daily
+protonix 20mg daily
+levothyroxine 75mcg po daily
+metoprolol 12.5 mg po daily
+lovenox 30mg sq daily
+xopenex neb QID prn
+proair MDI 2 puffs q 2 hours prn
+bumex 1 mg po daily
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+expired
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+

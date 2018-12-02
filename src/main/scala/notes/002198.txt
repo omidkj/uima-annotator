@@ -1,0 +1,185 @@
+Admission Date:  [**2185-11-6**]              Discharge Date:   [**2185-11-11**]
+
+Date of Birth:  [**2113-11-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Codeine / Iodine; Iodine Containing / Darvocet-N
+100
+
+Attending:[**First Name3 (LF) 2167**]
+Chief Complaint:
+Fever, abdominal pain
+
+Major Surgical or Invasive Procedure:
+ERCP ([**2185-11-7**])
+PICC line placement ([**2185-11-10**])
+
+History of Present Illness:
+Ms. [**Known lastname 6357**] is a 71F with stage 4 pancreatic head cancer s/p
+biliary stenting [**10/2185**] presenting with fevers at home. She
+reports that otherwise she felt OK, her ROS is only notable for
+one episode of vomiting yesterday. She denies any chills, night
+sweats, abdominal pain, increase in frequency of stools, change
+in skin color, confusion, or increased pruritis. She also denies
+any new cough, dysuria, frequency or polyuria.
+.
+In the ED presenting vitals were T=98.8-102.5, BP=130/57, HR=83,
+RR=20, 96% on room air. Notably, she had some episodes of SVT in
+the ED to 150s, with associated hypotension to the 70s/50s.
+These episodes reverted spontaneously within ~30seconds before
+any treatments or EKGs could be initiated Her exam was notable
+for RUQ tenderness. Laboratory data was notable for an increase
+in her transaminases and alkaline phosphatase. Her Tbili was at
+baseline, her lactate was 1.7, and she did not have a
+leukocytosis. Urinalysis was negative, blood and urine cultures
+were sent. A RUQ ultrasound showed expected pneumobilia with
+pancreatic ductal dilation. A CT abdomen and pelvis showed
+proper stent placement with biliarly ductal dilation, and
+incidental cecal thickening. ERCP fellow was made aware of the
+admission and recommended an ERCP tomorrow. Renal and cardiology
+were asked to see the patient first thing in the AM prior to
+this for HD and evaluation. She was given 4.5g of unasyn and 1g
+of tylenol.
+
+Past Medical History:
+1. Stage four pancreatic cancer: Newly diagnosed in 10/[**2184**]. S/p
+biliarly stent on [**2185-10-5**]. Oncologist is Dr. [**Last Name (STitle) **]. Not a
+surgical candidate, and may have liver metastases. Has seen [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) 4149**] in palliative care, however, no decisions have been made
+yet with regard to hospice care. Per [**2185-11-3**] note from Dr.
+[**Last Name (STitle) **], the patient has decided to not proceed with
+chemotherapy and concentrate on quality of life.
+2. AVNRT: Managed with beta blocker therapy only per cardiology
+consultation given poor prognosis of other co-morbidities. Has
+syncopized in the past secondary to this.
+3. HTN
+4. Type 2 Diabetes Mellitus
+5. ESRD on HD MWF: Nephrologist is Dr. [**Last Name (STitle) **]
+6. Chronic systolic and diastolic CHF
+7. H/o retinal detachment
+8. Hyperlipidemia
+
+Social History:
+Never smoked, no etoh in 30+ years, no tobacco; lives at home
+independently although her daughter has been staying with her
+since her discharge from the hospital.
+
+Family History:
+Brother with pancreatic cancer
+
+Physical Exam:
+VITAL SIGNS: T 98.8, 71, 136/41, 96% RA
+GENERAL: NAD, lying in bed in bed.
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. mild
+icterus. Surgical pupils BL. EOMI, OP clear.
+CARDIAC: Regular rate and rhythm. Normal S1, S2. II/VI
+holosystolic murmur loudest at axilla.
+LUNGS: CTAB, good air movement bilaterally.
+ABDOMEN: Non tender/non distended, hyperactive bowel sounds.
+EXTREMITIES: No edema or calf pain, 2+ DP pulses. AV fistula
+with bruit on left arm
+SKIN: No obvious jaundice
+PSYCH: Listens and responds to questions appropriately, pleasant
+CN intact. 5/5 strength.
+
+Pertinent Results:
+PERTINENT LABORATORY DATA:
+[**2185-11-6**] 3:10 pm BLOOD CULTURE
+   Blood Culture, Routine (Preliminary):
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES.
+         WARNING! This isolate is an extended-spectrum
+beta-lactamase
+         (ESBL) producer and should be considered resistant to
+all
+         penicillins, cephalosporins, and aztreonam. Consider
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species.
+         Tigecycline = 0.25 MCG/ML, SENSITIVE , Sensitivity
+testing
+         performed by Etest.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------       R
+CEFTRIAXONE-----------  =>64 R
+CEFUROXIME------------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN---------- =>128 R
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     4 S
+TRIMETHOPRIM/SULFA----  =>16 R
+   Anaerobic Bottle Gram Stain (Final [**2185-11-7**]):
+      REPORTED BY PHONE TO [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], R.N. ON [**2185-11-7**] AT 0500.
+      GRAM NEGATIVE ROD(S).
+
+ON ADMISSION:
+ALT(SGPT)-331* AST(SGOT)-753* CK(CPK)-25* ALK PHOS-729* TOT
+BILI-2.5* DIR BILI-1.6* INDIR BIL-0.9
+GLUCOSE-221* UREA N-34* CREAT-7.2* SODIUM-139 POTASSIUM-3.2*
+CHLORIDE-95* TOTAL CO2-32 ANION GAP-15
+WBC-5.1 RBC-3.29* HGB-9.7* HCT-29.6* MCV-90 MCH-29.6 MCHC-32.9
+RDW-17.0*
+PT-12.7 PTT-23.5 INR(PT)-1.1
+
+CHEST RADIOGRAPH, AP ([**2185-11-6**]): Low lung volumes are present.
+The heart is mildly enlarged, unchanged. The aorta is unfolded
+with aortic knob calcifications again demonstrated. There is
+accentuation of the pulmonary vascular markings with crowding of
+vascular structures, likely due to low lung volumes. Lungs are
+grossly clear without focal consolidation, pleural effusions, or
+pneumothorax. Osseous structures are unremarkable. Chronic
+thickening of the left pleura is again noted.
+
+CT ABDOMEN/PELVIS WITHOUT CONTRAST ([**2185-11-6**]): 1. Known mass in
+the head of the pancreas is suboptimally evaluated in the
+absence of IV contrast. Stent in expected location of the distal
+common bile duct is probably patent, given presence of
+pneumobilia. Mild biliary ductal dilatation. Adjacent duodenal
+wall thickening may be due to underdistention, however,
+inflammatory changes and/or tumor involvement is not excluded.
+2. Cecal wall thickening is nonspecific and could be due to
+inflammatory or infectious reasons. 3. Unchanged splenic
+lesions. Stable appearance of the prominent left adrenal gland.
+
+ABDOMINAL ULTRASOUND ([**2185-11-6**]): 1. Redemonstration of a known
+pancreatic head mass with distal pancreatic atrophy and
+pancreatic duct dilatation. 2. CBD stent not visualized,
+however, presence of pneumobilia suggests patency of the stent.
+3. Mild biliary ductal dilatation. Left lobe hepatic hyperechoic
+lesion measures slightly larger today, and may be due the
+technical reasons; this probably represents hemangioma, however,
+a metastatic lesion not excluded in the setting of malignancy.
+
+ERCP ([**2185-11-7**]): Eight intraprocedural spot radiographs of the
+right upper quadrant from an ERCP show a pre-existing metallic
+stent in the common bile duct. Subsequent images show
+cannulation and opacification of the common bile duct with a
+mild diffuse dilatation. Irregular filling defects are seen in
+the common bile duct during its course through the metallic
+stent. There are no other filling defects and there are no
+strictures. Further details can be found in the ERCP report in
+the patient's online medical record.
+
+TTE ([**2185-11-10**]): The left atrial volume is markedly increased
+(>32ml/m2). The interatrial septum is aneurysmal. There is
+moderate symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. There is mild regional left
+ventricular systolic dysfunction with mild hypokinesis of the
+mid inferior and inferolateral segments. Right ventricular
+chamber size and free wall motion are normal. The aortic root is
+mildly dilated at the sinus level. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic regurgitation. No masses or vegetations are seen on the
+aortic valve. The mitral valve appears structurally normal with
+trivial mitral regurgitati

@@ -1,0 +1,230 @@
+Admission Date:  [**2199-8-18**]              Discharge Date:   [**2199-8-21**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 297**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+83M with hx of COPD, afib who was sent to the ER from [**Doctor Last Name **] House
+after he was found to be tachypneic to the 40s. Per nurse [**First Name (Titles) 767**] [**Name (NI) 63570**] House, pt normally keeps to himself and is generally
+healthy except for his breathing. She states that his physician
+has been trying to get him to wear O2 but he has refused. Pt
+states that over the past two weeks, he has been having loose
+stools and crampy, squeezing abdominal pain. He has been eating
+normal meals but his pain worsens after eating. He describes
+some nausea but has not had any emesis. Pt states his breathing
+has felt fine until the last day when it started to feel
+labored, associated with productive cough.
+.
+In the [**Name (NI) **], pt found to be hypotensive to 50s/30s with HR in the
+40s, RR in the 40s, 100% on NRB. Of note, he had taken his 200mg
+of toprol XL in the am. He was given Glucagon 1mg IV x 1 with no
+improvement in HR. He was then started on Dopamine which
+improved both HR and BP. This was titrated up to 25mcg to
+maintain MAPs in the 60s. He was then given ceftriaxone and
+vancomycin to cover for PNA. He was given solumedrol, albuterol
+and atrovent nebs to cover for COPD flare. And he was given 10mg
+of Lasix for possible CHF but also had received 2L of NS
+earlier. He was then admitted to the ICU.
+
+
+Past Medical History:
+* HTN
+* COPD, unknown FEV1
+* CHF, EF unknown
+* Afib
+* Spinal stenosis
+* anemia
+* hx of pneumonia
+* hx of PVD
+
+
+Social History:
+2-3ppd x 48yrs, lives in [**Doctor Last Name **] house; not married, no children;
+nephews are very involved
+
+Family History:
+NC
+
+Physical Exam:
+Exam: temp 98.4, BP 110/40, HR 67, R 15, O2 94-98% on 4L
+Gen: NAD, pleasant, AO x 3
+HEENT: MM dry, EOMI, left pupil 4mm and reactive, right pupil
+2mmand reactive
+neck: JVD to 8cm
+CV: regular
+Chest: crackles at bilateral bases but otherwise clear
+Abd: hypoactive bowel sounds, nontender, soft, nondistended, no
+rebound
+ext: feet cool; 2+ pitting edema, nonpapable and nondopplerable
+pulses; dopplerable popliteal pulses, 1+ radial pulse; fingers
+blue
+neuro: CN 2-12 intact, 5/5 strength bilaterally
+
+
+Pertinent Results:
+** ADMIT LABS **
+WBC-13.6*
+HCT-31.2*
+NEUTS-85.7* LYMPHS-9.8* MONOS-3.9 EOS-0.4 BASOS-0.1
+PLT COUNT-294
+INR(PT)-1.2*
+.
+proBNP-[**Numeric Identifier **]*
+.
+GLUCOSE-135*
+UREA N-43*
+CREAT-1.9*
+SODIUM-136
+POTASSIUM-5.0
+CHLORIDE-98
+TOTAL CO2-24
+.
+ALT(SGPT)-2191*
+AST(SGOT)-2076*
+LD(LDH)-2325*
+ALK PHOS-101
+AMYLASE-505*
+TOT BILI-0.8
+LIPASE-19
+.
+LACTATE-4.4* --> 4.8 --> 3.3
+.
+ABG: TYPE-ART PO2-221* PCO2-53* PH-7.21* on 100% NRB
+.
+CXR: Heart size is at upper limits of normal. The aorta is
+calcified and tortuous. Pulmonary vasculature is unremarkable.
+There is a left lower lobe opacity and small left pleural
+effusion. Left lower lobe opacity could represent atelectasis;
+however, pneumonia cannot be excluded.
+.
+ECHO: The left atrium is mildly dilated. Left ventricular wall
+thickness, cavity size, and systolic function are normal
+(LVEF>55%). Regional left ventricular wall motion is normal.
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. Trace aortic regurgitation is seen. The
+mitral valve leaflets are structurally normal. There is no
+mitral valve prolapse. Mild to moderate ([**2-4**]+) mitral
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+.
+RUQ U/S:
+1. Patent hepatic vasculature.
+2. Unremarkable liver echotexture.
+3. Trace ascites.
+4. Simple-appearing cyst of the mid left kidney.
+.
+
+
+Brief Hospital Course:
+83M with hx of COPD, afib now in ICU for hypotension found to
+have abdominal pain and elevated LFTs
+.
+# Shock: Volume depletion vs sepsis vs adrenal insufficiency or
+combination. Volume depletion likely due to 2 weeks of loose
+stools and decreased po intake. Sepsis also likely given lactate
+of 4.8, possible pneumonia and possible intra-abd source.
+Adrenal insufficiency was impossible to test given that pt
+received solumedrol in ED. Cardiogenic shock not likely given
+lack of EKG changes and negatige enzymes and TTE showed
+preserved systolic function.  Patient was given fluids and
+started on dopamine to maintain MAPs>60.  Steroids were changed
+to decadron to perform [**Last Name (un) 104**] stim test but initial level was 40
+so stim was not performed.  Steroids were d/c'd.  Pt was weaned
+off dopamine on hospital day #2 and BPs remained stable. BB was
+resumed for rate control and verapamil was restarted.  SBPs
+remained 120s-140s.
+.
+# Sepsis: Possible sources include lung, urine, abdomen. CXR
+with possible infiltrate so started levaquin/flagyl. UA was
+clean and urine culture was negative. blood cultures remain
+negative. Pt remained afebrile with elevated WBC count,
+attributed to possible PNA and steroids.  His WBC should be
+followed in rehab to make sure it is trending down.
+.
+# Transaminitis: ALT and AST equally elevated to the [**2193**] on
+admission. Ddx of this includes right heart failure (which may
+explain elevated BNP), shock liver, viral hepatitis (which could
+explain pt's abd pain, nausea, diarrhea), med related (he is on
+650mg standing tylenol TID), budd chiari. No hx of etoh abuse.
+RUQ US was normal without evidence of clot and tylenol level was
+neg.  PAtient's HepAV Ab was positive, [**Last Name (un) **] IgM is pending.  We
+will continue to hold his statin and she should not be on
+standing tylenol.  His LFTs should also be trended to make sure
+they are trending down.
+.
+# Abd Pain/diarrhea: Stool was sent for E. coli 0157 given h/o
+diarrhea and ARF.  C diff also sent.  Patient's diarrhea
+resolved as did his abdominal pain.  As above, his abd U/S was
+negative.  It may be secondary to hepatitis A but IgM was
+pending on time of discharge.
+.
+# Tachypnea/COPD: Likely that pt has an underlying pneumonia
+causing an exacerbation of his underlying COPD.  He was given
+standing nebs along with oxygen.  His breathing improved
+dramatically over the first few hours of his hospital stay.  He
+should continue on albuterol and atrovent inhalers.  He also
+should continue to wear oxygen at rest and with ambulation.  He
+was started on advair.  He may benefit from an outpatient
+pulmonary appointment along with PFTs.  He may also need
+additional medications including tiotropium.
+.
+# CHF: By report only.  Echo was normal with preserved funciton.
+ BNP elevated to 18,000 on admission but appeared dry on exam so
+he improved with fluids. He was continued on his beta blocker
+after BP normalized.
+.
+# Afib: Patient was in NSR on admission and converted to a-fib
+while in MICU with HR 100's-120's. He is not anticoagulated
+likely due to fall risk.  He is rate controlled with beta
+blocker and verapamil.
+.
+# ARF: Baseline is unknown.  Urine lytes showed FeNa of 0.9%
+indicating pre-rernal etiology verses acute tubular necrosis
+from hypotension.  Creatinine peaked at 2.8 from 1.9 on
+admission and is now trending down.  This should be followed and
+medications adjusted for creatinine clearance.
+.
+# Glucse Intolerance: Pt was covered with insulin sliding scale
+but required none.
+.
+# Code: Pt is DNR/DNI, confirmed with PCP
+.
+# Comm: nephew [**Name (NI) **] [**Name (NI) **], [**Telephone/Fax (1) 63571**]; PCP [**Known firstname **] [**Last Name (NamePattern1) 1266**]
+
+
+Medications on Admission:
+* ASA 81mg qd
+* HCTZ 25mg qd
+* Toprol XL 200mg qd
+* Prilosec 20mg qd
+* MVI
+* Verapamil 180mg qd
+* Colace 100mg [**Hospital1 **]
+* Cilostazol 50mg [**Hospital1 **]
+* Tylenol 650mg tid
+* Motrin 600mg tid
+* Lipitor 10mg qd
+* Neurontin 100mg qhs
+* MOM
+* albuterol
+* atrovent
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Toprol XL 200 mg Tablet Sustained Release 24HR Sig: One (1)
+Tablet Sustained Release 24HR PO once a day.
+3. Prilos

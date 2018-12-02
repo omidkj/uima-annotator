@@ -1,0 +1,246 @@
+Admission Date:  [**2160-5-9**]              Discharge Date:   [**2160-5-14**]
+
+Date of Birth:  [**2110-7-2**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 6088**]
+Chief Complaint:
+Ischemic R leg
+
+Major Surgical or Invasive Procedure:
+[**5-9**] Angio: TPA
+[**5-10**] Angio: thrombectomy [**Doctor Last Name **]/PT, stent AK [**Doctor Last Name **]; Perclosed Lt
+groin
+[**5-10**] OR: fasciotomy
+
+
+History of Present Illness:
+HPI: Mr. [**Known lastname 36821**] is a 49-year-old male with a history of
+hypertension, hyperlipidemia, and heavy smoking who developed
+intermittent pain in his right foot three days ago.  Since that
+time, the pain has become increasingly constant and severe.  He
+also notes that it feels cold.  On further questioning, he
+relates a history of intermittent claudication of the right
+lower extremity at 1-2 city blocks which is relieved by rest.
+He denies any other history of problems with his legs.  He was
+seen at an outside institution earlier this morning where he was
+started on a heparin drip, and subsequently transferred to
+[**Hospital1 18**].
+
+
+Past Medical History:
+PMH:
+1. CVA ([**2147**]) - no residual deficits
+2. HTN
+3. Hyperlipidemia
+4. Morbid obesity
+
+PSH:  Denies
+
+Social History:
+not known
+
+Family History:
+not known
+
+Physical Exam:
+Physical Exam:
+96.8   69   132/87   98%
+Alert and oriented x 3.  Uncomfortable.
+RRR with normal S1 & S2
+Lungs with diminished breath sounds bilaterally
+Abdomen soft, obese, non-tneder, and non-distended
+Right foot is warm and dry
+Left  foot is warm and dry
+Pulses
+       Femoral    Popliteal      DP      PT
+[**Name (NI) 167**]   Palp        Dopp         dop      dop
+Left    Palp        Palp         Palp     Palp
+
+Right forefoot
+
+medial incision  C/D/I -  staples in place
+Lateral incision C/D   -  good granulation tissue / wound is
+open
+
+
+Pertinent Results:
+[**2160-5-14**] 06:05AM BLOOD
+
+WBC-7.1 RBC-4.38* Hgb-13.1* Hct-37.3* MCV-85 MCH-29.8 MCHC-35.0
+RDW-13.6 Plt Ct-308
+
+[**2160-5-10**] 01:15PM BLOOD
+
+WBC-9.0 RBC-4.46* Hgb-14.0 Hct-39.0* MCV-87 MCH-31.4 MCHC-35.9*
+RDW-13.4 Plt Ct-191
+
+[**2160-5-14**] 06:05AM BLOOD
+
+PT-12.9 PTT-26.9 INR(PT)-1.1
+
+[**2160-5-14**] 06:05AM BLOOD
+
+Glucose-102 UreaN-9 Creat-0.7 Na-142 K-3.7 Cl-107 HCO3-25
+AnGap-14
+
+[**2160-5-14**] 06:05AM BLOOD
+
+Calcium-8.9 Phos-4.3 Mg-2.2
+
+[**2160-5-12**] 07:05AM BLOOD
+
+CK(CPK)-4634*
+
+[**2160-5-12**] 03:10PM BLOOD
+
+CK(CPK)-4021*
+
+[**2160-5-13**] 06:20AM BLOOD
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.1 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.5 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.3 m/s
+Left Atrium - Peak Pulm Vein D:  0.5 m/s
+Left Atrium - Peak Pulm Vein A:  0.2 m/s  < 0.4 m/s
+Right Atrium - Four Chamber Length:  5.0 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.6 cm
+Left Ventricle - Fractional Shortening:  *0.28  >= 0.29
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Left Ventricle - Lateral Peak E':  0.10 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  0.09 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  8  < 15
+Aorta - Sinus Level:  *4.2 cm  <= 3.6 cm
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aorta - Arch:  *3.3 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  1.5 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT diam:  2.1 cm
+Mitral Valve - E Wave:  0.8 m/sec
+Mitral Valve - A Wave:  0.7 m/sec
+Mitral Valve - E/A ratio:  1.14
+Mitral Valve - E Wave deceleration time:  226 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *40 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size.
+Inferobasal LV aneurysm. Mild regional LV systolic dysfunction.
+No LV mass/thrombus. Low normal LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Moderately dilated aortic sinus. Normal ascending aorta
+diameter. Mildly dilated aortic arch. No 2D or Doppler evidence
+of distal arch coarctation.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AS. No
+AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial
+MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild
+[1+] TR. Moderate PA systolic hypertension.
+
+PERICARDIUM: There is an anterior space which most likely
+represents a fat pad, though a loculated anterior pericardial
+effusion cannot be excluded.
+
+GENERAL COMMENTS: Contrast study was performed with 3 iv
+injections of 8 ccs of agitated normal saline, at rest, with
+cough and post-Valsalva maneuver.
+
+Conclusions
+
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses and cavity size are normal. There is an inferobasal
+left ventricular aneurysm. There is mild regional left
+ventricular systolic dysfunction with akinesis of the basal
+inferior wall and hypokineis of the inferolateral and
+anterolateral walls. No masses or thrombi are seen in the left
+ventricle. Overall left ventricular systolic function is low
+normal (LVEF 50-55%). Right ventricular chamber size and free
+wall motion are normal. The aortic root is moderately dilated at
+the sinus level. The aortic arch is mildly dilated. The aortic
+valve leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic stenosis. There is no aortic valve
+stenosis. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Trivial mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened. There
+is moderate pulmonary artery systolic hypertension. There is an
+anterior space which most likely represents a fat pad.
+
+IMPRESSION: Mild left ventricular focal systolic dysfunction
+consistent with coronary artery disease. Estimated moderate
+pulmonary artery systolic hypertension.
+
+CK(CPK)-3014*
+
+Brief Hospital Course:
+Mr. [**Known lastname 36821**] is a 49-year-old male with a history of
+hypertension, hyperlipidemia, and heavy smoking who developed
+intermittent pain in his right foot three days ago.  Since that
+time, the pain has become increasingly constant and severe.  He
+also notes that it feels cold.  On further questioning, he
+relates a history of intermittent claudication of the right
+lower extremity at 1-2 city blocks which is relieved by rest.
+He denies any other history of problems with his legs.  He was
+seen at an outside institution earlier this morning where he was
+started on a heparin drip, and subsequently transferred to
+[**Hospital1 18**].
+
+Strated on heparin drip. Emergently taken to the the endo suite
+for angiogram
+
+[**5-9**]
+
+PROCEDURE:  Ultrasound-guided imaging for vascular access,
+contralateral third-order catheter placement with abdominal
+aortogram and unilateral extremity runoff, infusion catheter for
+thrombolysis.
+
+Pt tolerated the procedure well, no complications. Transferd to
+the CVICU for further monitering. CBC, HCT, Fibrinogen, coags
+followed. CK's moniterd
+
+Pt on TPA drip overnight.
+
+The following day, pt foot looked worse, He was taken back to
+endo suite for another angiogram. Upon completion of the
+angiogram. It was decided to do furthe exploration.
+
+He was consented.
+
+PROCEDURE: Contralateral third order arteriography with
+unilateral extremity runoff, angioplasty of above-knee popliteal
+artery followed by stenting for a dissection. The
+patient also underwent thrombectomy with export catheter of
+popliteal and posterior tibial artery followed by groin closure
+with Perclose.
+
+Pt leg was also concerning for compartment syndrome.
+
+PROCEDRE: rle fasciotomies. After relaesing the compartments the
+medial aspect was closed, The lateral aspect was left open and
+VAC dressing was applied.
+
+To note in each case, Intra-operatively, he was closely
+monitored and remained hemodynamically stable. He tolerated the
+procedure well without any difficulty or complication.
+
+Upon completion of the cases on [**5-10**], he was extubated and
+transferred to the PACU for further stabilization and monitor

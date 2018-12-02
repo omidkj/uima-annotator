@@ -1,0 +1,166 @@
+Admission Date:  [**2109-9-1**]              Discharge Date:   [**2109-9-12**]
+
+
+Service: MED
+
+Allergies:
+Penicillins / Aspirin
+
+Attending:[**First Name3 (LF) 14385**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+CT-guided biopsy.
+Thoracentesis.
+Induced sputum.
+CXR.
+Abdominal/Pelvic CT.
+EKG.
+Central venous access placed (now d/c'd).
+Received 4 units FFP.
+
+History of Present Illness:
+This is an 81 year old man with PMH significant for CHF, COPD,
+Type II DM, atrial fibrillation, and multiple recent admissions
+for recurrent right upper lobe pneumonia who presents with
+several days of increasing SOB, cough productive of clear
+sputum, and fever.
+
+Past Medical History:
+PMH
+1. COPD
+2. CHF
+3. DM2
+4. Asthma
+5. Afib
+6. 3+ TR on echo
+7. Prostate Ca on horomone therapy
+8. Bilateral Hernia Repair
+
+
+Social History:
+Pt lives at home with wife and son. [**Name (NI) **] 2 other children and was
+formerly employed as a manager at [**First Name4 (NamePattern1) 651**] [**Last Name (NamePattern1) 2429**]. No EtOH, Tobacco
+1 ppd entire life, stopped 5 years ago
+
+Family History:
+non contributory
+
+Physical Exam:
+On admission:
+VS: BP 101/50  HR 82  RR 30  O2sat 100% NRB
+GEN: elderly, thin man; tachypneic
+HEENT: dry MM; no cervical LAD
+CV: irregularly irregular; no m/r/g; no JVD
+Pulm: rhoncherous breath sounds diffusely; decreased breath
+sounds at bases
+ABD: +BS; s/nt/?mild distention; no HSM
+EXT: 2+ pitting LE edema bilat
+
+Brief Hospital Course:
+In the emergency department on [**2109-9-1**], the patient was found to
+be hypotensive with BP 87/59 with an elevated lactate.  He met
+criteria for sepsis and was given levofed and admitted to the
+ICU.  By problem, his course was as follows:
+
+Hypotension: Hypotensive 80s/50s on admission.  BP improved to
+100/50 with IVF, levofed, and Solumedrol.  He remained in the
+ICU, hemodynamically stable, until [**2109-9-4**].  At that point, he
+was transfered to the medical floor.  There, he remained
+hemodynamically stable without need for pressure support.
+Central access was d/c'd on [**2109-9-7**].
+
+Afib: His chronic atrial fibrillation continued with rate
+controlled by diltiazem.
+
+CHF: He required diuresis for SOB on an almost daily basis.
+
+SOB:  The patient initially required supplementary O2 via
+non-rebreather mask to maintain O2 saturation in the low 90%'s.
+Mr. [**Known lastname **] was persistently tachypniec in the ICU and on the floor,
+and uncomfortably short of breath with movement.  On the floor,
+he maintained O2 saturation 90-94% on 4L O2 via nasal cannula,
+however.  He underwent therapeutic tap of his right pleural
+effusions on [**2109-9-6**] and of his left pleural effusion on
+[**2109-9-9**].  On [**2109-9-10**], the patient became increasingly short of
+breath.  No pneumothorax was present on CXR and PE was
+suspected.  The patient was started on argatroban and transfered
+to the MICU.
+
+Pulm mass: Patient was afebrile with WBC 5.8 on admission.  His
+WBC count rose rapidly despite antibiotic therapy (initially
+ceftriaxone/azithromycin/vancomycin, then
+ceftriaxone/azithromycin, then levofloxacin). The infectious
+disease service was consulted.  On admission, the patient was
+found to have a RUL lesion on CXR and chest CT suspicious for
+TB.  The patient has a history of positive PPD test.  The
+patient underwent bronchoscopy on [**2109-9-3**] that visualized a
+lesion in the right main bronchus.  The lesion was not biopsied
+due to the patient's high INR.
+   Culture data:
+       Induced sputum stains were negative x3 for acid-fast
+bacteria.
+       Gram stain showed only respiratory tract flora and yeast.
+
+       Sputum cultures
+       Urine cultures
+       Perinephric mass fluid cultures
+
+Abdominal mass: An infiltrated perinephric mass, retroperiotneal
+lymphadenopathy, and multiple hepatic lesions were initially
+identified on chest CT.  Their presence was confirmed on
+abdominal/pelvic CT.  On [**2109-9-6**], the patient underwent
+CT-guided biopsy of the perinephric mass.  Lymph node FNA and
+pleural fluid cytology demonstrated a high grade B cell
+lymphoma.
+
+Coagulation: The patient is on coumadin at home for afib.  On
+admission, his INR was 3.7.  INR rose with administration of
+antibiotics and peaked at 4.9 on [**9-2**].  The patient was reversed
+with vitamin K and 4 units of FFP.  On the floor, he was
+anticoagulated with a heparin drip, stopped for procedures.  His
+platelet count fell from 200 on admission. Heparin was stopped
+on [**2109-9-9**].  Argatroban was started for suspected PE on [**2109-9-10**].
+
+Renal:  The patient's creatinine rose from 0.7 on admission.
+Close attention was paid to fluid status.  The patient had
+hematuria on UA on [**2109-9-4**].  Foley catheter was d/c'd on
+[**2109-9-6**].
+
+Urologic: The patient was discovered to have a paraphimosis on
+[**2109-9-9**].  This was manually reduced by the urology service on
+that day.  On [**2109-9-9**], the paraphimosis recurred, was again
+reduced by urology, and a Foley catheter was inserted.
+
+Nutrition:  The nutrition service was asked to evaluate the
+patient.  The patient received a low-salt, diabetic diet with
+Glycerna supplementation.
+
+Disposition: The patient and his family decided to persue
+comfort measures only as his prognosis with chemotherapy was
+very poor and he had multiple comorbidities. The patient died
+[**2109-9-12**] at 1:47 am.
+
+Medications on Admission:
+terazosin 5mg po qhs
+zafirlukast 20mg po bid
+Combivent IH
+Flovent IH
+metformin 500mg po qd
+glyburide 10mg po bid
+diltiazem XR 360mg po qd
+warfarin 1mg po qd
+Lasix 20mg po qd
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Pneumonia
+
+
+Discharge Condition:
+Died [**2109-9-12**].
+
+

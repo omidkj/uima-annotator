@@ -1,0 +1,226 @@
+Admission Date:  [**2139-8-31**]              Discharge Date:   [**2139-9-8**]
+
+
+Service: MEDICINE
+
+Allergies:
+Feldene / nitroglycerin / Penicillins / piroxicam
+
+Attending:[**First Name3 (LF) 1515**]
+Chief Complaint:
+severe aortic stenosis, exaccerbation of diastolic heart failure
+here for corevalve
+
+Major Surgical or Invasive Procedure:
+transcutaneous aortic valve replacement (Corevalve)
+permanent pacemaker- [**Company 1543**] Model: SENSIA SESR01
+
+
+History of Present Illness:
+Cardiologist:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD
+[**First Name (Titles) **] [**Last Name (Titles) **]: Dr. [**First Name (STitle) **] [**Name (STitle) **], MD
+
+Referring Physician: [**Last Name (NamePattern4) **]. [**Last Name (STitle) 110614**] [**Name (STitle) 110615**]
+PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **].
+
+Reason for admission: severe aortic stenosis, exaccerbation of
+diastolic heart failure
+
+Chief Complaint: shortness of breath, chest pressure
+
+HPI: Patient is an 89yo caucasian male with known aortic
+stenosis
+and CAD s/p CABGx4([**2123**])with postop course complicated by deep
+sternal wound infection, occluded SVG graft to RCA s/p bare
+metal
+stent to RCA ([**2138**]), diabetes, CKD, hypertension and
+hyperlipidemia who presented with c/o worsening shortness of
+breath and chest pressure. He reports that he feels vague chest
+pressure with ambulation or climbing a flight of stairs, if he
+continues with the activity, he experiences blurred vision,
+urinary incontinence, and confusion.
+     He was evaluated at [**Hospital1 2025**] for aortic stenosis. Cardiac
+surgery
+deemed him at extreme risk for surgical aortic valve
+replacement. He was also evaluated for the TAVI/[**Doctor Last Name **] [**Last Name (un) 30978**]
+valve and was found to have an annulus too large for the device.
+He was referred here for aortic valve treatment options. He
+again was found to be of prohibitively extreme risk for
+conventional surgical AVR.
+     He was scheduled for elective cardiac cath but cancelled
+due
+to illness. He was later admitted for shortness of breath and
+diaphoresis. He underwent urgent cardiac cath and was found to
+have patent grafts and stent.
+     On [**2139-7-25**] he was againg admitted with chest pain,
+exaccerbation of diastolic CHF and NSTEMI. He was transferred to
+[**Hospital1 18**] for stabilization and BAV. He was then screened for
+Corevalve TAVR after extensive discussion with patient and
+family and informed consent was obtained. He met all inclusion
+criteria and did not meet exclusion criteria. He now returns for
+Corevalve/TAVR. Coumadin was discontinued 4 days prior to
+admission.
+
+NYHA Class: III
+
+
+Past Medical History:
+Cath on [**7-31**] showed 2VD, with patent 3 grafts, pulm htn
+CAD - s/p CABG x 3 ( [**2123**])- postop deep sternal wound infection
+
+PCI bare metal stent to RCA ([**5-/2138**])
+severe aortic stenosis s/p valvuloplasty with [**Location (un) 109**] 0.82cm2
+afib on coumadin
+hypertension
+hyperlipidemia
+Type II DM, diet controlled
+CKD, basline Cr looks to be 2.5
+renal calculi
+obesity
+GERD
+BPH
+colon polyps
+s/p left cataract surgery
+bilateral rotator cuff repair
+skin cancer
+left inguinal hernia repair
+left wrist fracture
+[**First Name9 (NamePattern2) **] [**Hospital Ward Name 4675**] cyst
+
+Active Medication list as of [**2139-7-14**]:
+
+Medications - Prescription
+AMLODIPINE -  (Prescribed by Other Provider) - 2.5 mg Tablet - 1
+Tablet(s) by mouth once a day
+DOXAZOSIN -  (Prescribed by Other Provider) - 2 mg Tablet - 1
+Tablet(s) by mouth once a day
+GABAPENTIN -  (Prescribed by Other Provider) - 100 mg Capsule -
+2
+Capsule(s) by mouth three times a day
+HYDROCODONE-ACETAMINOPHEN -  (Prescribed by Other Provider) - 5
+mg-500 mg Tablet - 1 Tablet(s) by mouth q4-6 hrs as needed for
+prn
+METOPROLOL TARTRATE -  (Prescribed by Other Provider) - 25 mg
+Tablet - 1 Tablet(s) by mouth twice a day
+SIMVASTATIN -  (Prescribed by Other Provider) - 20 mg Tablet -
+0.5 (One half) Tablet(s) by mouth once a day
+
+Medications - OTC
+ASCORBIC ACID -  (Prescribed by Other Provider) - 500 mg Tablet
+Extended Release - 1 Tablet(s) by mouth once a day
+ASPIRIN -  (Prescribed by Other Provider) - 325 mg Tablet - 1
+Tablet(s) by mouth once a day
+CHOLECALCIFEROL (VITAMIN D3) -  (Prescribed by Other Provider) -
+1,000 unit Capsule - 1 Capsule(s) by mouth once a day
+CYANOCOBALAMIN (VITAMIN B-12) -  (Prescribed by Other Provider)
+-
+1,000 mcg Tablet - 1 Tablet(s) by mouth once a day
+--------------- --------------- --------------- ---------------
+Allergies:
+Penicillin - rash
+piroxicam - photosensitivity
+bee stings - anaphylaxis
+feldene
+NTG - syncope
+
+
+Social History:
+Retired worked in contruction company making steel [**Doctor Last Name **].
+Married with two children, 4 grandchildren. Lives in single
+level home, one flight of stairs to enter in [**Location 110611**].
+
+
+Family History:
+Father deceased age [**Age over 90 **], CHF. Mother deceased age 36, brain
+abcess.
+
+Physical Exam:
+Pulse: 65
+B/P: 110/66
+Resp: 18
+O2 Sat: 100%
+Temp: 97.8
+Height: 74 inches  Weight: 209 lbs
+General: Alert pleasant male seated in chair in NAD at rest.
+Skin: color pale pink, skin warm and dry. No lesions.
+HEENT: normocephalic, anicteric, conjunctiva pale pink. Good
+dentition, oropharynx moist.
+Neck: Neck supple, trachea midline, carotid bruit vs. referred
+murmer.
+Chest: decreased bases bilat. Essentially CTA, no rales/whz.
+Anterior chest wall deformity superior portion of sterum.
+Irregularly healed sternal scar. Depressed area mid-upper
+sternum.
+Heart: murmer RSB, radiating.
+Abdomen: round, soft, nontender, nondistended, (+)BS
+Extremities: Trace lower extremity edema, L>R. Well healed
+surgical scars bilateral ankles to mid thighs.
+Neuro: alert and oriented, pleasant, gross FROM. Gait slow but
+steady.
+Pulses: palpable peripheral pulses.
+
+
+Pertinent Results:
+[**2139-8-31**] 01:58PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.012
+[**2139-8-31**] 01:58PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5
+LEUK-TR
+[**2139-8-31**] 10:40AM   GLUCOSE-107* UREA N-32* CREAT-2.1* SODIUM-142
+POTASSIUM-4.1 CHLORIDE-107 TOTAL CO2-25 ANION GAP-14
+[**2139-8-31**] 10:40AM   estGFR-Using this
+[**2139-8-31**] 10:40AM   ALT(SGPT)-13 AST(SGOT)-26 CK(CPK)-41* ALK
+PHOS-54 TOT BILI-0.5
+[**2139-8-31**] 10:40AM   proBNP-[**Numeric Identifier 35706**]*
+[**2139-8-31**] 10:40AM   ALBUMIN-4.3
+[**2139-8-31**] 10:40AM   WBC-5.0 RBC-3.62* HGB-11.3* HCT-35.4* MCV-98
+MCH-31.1 MCHC-31.9 RDW-17.0*
+[**2139-8-31**] 10:40AM   PLT COUNT-158
+[**2139-8-31**] 10:40AM   PT-11.8 PTT-34.0 INR(PT)-1.1
+
+STS SCORE:
+Procedure Name Is[**Name (NI) 88959**] [**Name2 (NI) 88960**]
+Risk of Mortality 15.261%
+Morbidity or Mortality 49.370%
+Long Length of Stay 31.219%
+Short Length of Stay 5.950%
+Permanent Stroke 3.205%
+Prolonged Ventilation 39.894%
+DSW Infection 0.353%
+Renal Failure 29.457%
+Reoperation 12.900%
+
+EUROSCORE: 32.11 %
+
+MMSE-2 SCORE:
+GRIP STRENGTH TEST: RIGHT:    LEFT:
+
+WALK TEST: (Wheelchair dependent? no  )
+Time in Seconds: 12.2, 11.2
+Cardiac Catheterization:([**2139-7-31**])
+ASSESSMENT
+1.	Two vessel coronary artery disease; patent SVG to OMB; patent
+SVG to LAD; patent LIMA to the diagonal branch
+2.	Severe aortic stenosis
+3.      Successful Balloon valvuloplasty reducing gradient from
+55.34 mmHg to 45.32 and aortic valve area increase from 0.69 to
+0.82.
+4.	Elevated right and left heart filling pressures
+
+Echocardiogram: Done [**2139-8-3**] at 9:54:24 AM      FINAL
+Echocardiographic Measurements
+Results                                   Measurements  Normal
+Range
+Left Ventricle - Septal Wall Thickness:      *1.4 cm  0.6 - 1.1
+cm
+Left Ventricle - Inferolateral Thickness:    *1.4 cm  0.6 - 1.1
+cm
+Left Ventricle - Diastolic Dimension:         4.5 cm  <= 5.6 cm
+
+Left Ventricle - Ejection Fraction:           30%       >= 55%
+Left Ventricle - Stroke Volume:             59 ml/beat
+Left Ventricle - Cardiac Output:            3.89 L/min
+Left Ventricle - Cardiac Index:            *1.80     >=2.0
+L/min/M2
+Aorta - Sinus Level:                         3.4 cm    <= 3.6 cm
+
+Aorta - Ascending:                          *3.6 cm    <= 3.4 c

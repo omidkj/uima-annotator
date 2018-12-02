@@ -1,0 +1,201 @@
+Admission Date:  [**2187-4-9**]              Discharge Date:   [**2187-4-10**]
+
+Date of Birth:  [**2105-3-26**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+acute MI with cardiogenic shock;nausea;GI upset
+
+Major Surgical or Invasive Procedure:
+[**2187-4-9**]  emergency CABG x3 (LIMA to prox. LAD, SVG to mid LAD,
+SVG to OM)initially, then cabg x1 with subsequent SVG to
+PDA/IABP insertion
+
+
+History of Present Illness:
+82 yo female with "flu-like" symptoms for 4 days per her family.
+Went to ED at OSH and r/i for STEMI. Given plavix and integrilin
+and transferred to [**Hospital1 18**] for urgent cardiac cath. Her admission
+troponin was 7, suggesting that what was thought to be GI upset
+was an acute MI. She continued to have chest pain on admission
+and in the cath lab.
+
+Past Medical History:
+acute ongoing MI (documented at OSH)
+severe PVD
+hip fracture
+back problems
+[**Name (NI) 650**] HTN
+elev. chol.
+
+Social History:
+not known
+
+Family History:
+not known
+
+Physical Exam:
+emergency transfer directly from cath lab to operating room
+Patient had no palpable distal lower extremity pulses.
+bilateral rales, NSR with distant heart sounds
+Mild venous varicosities, Neurologic exam had been grossly
+normal
+
+Pertinent Results:
+[**2187-4-9**] 11:43PM BLOOD WBC-12.1*# RBC-3.46* Hgb-10.5* Hct-30.6*
+MCV-88 MCH-30.4 MCHC-34.4 RDW-14.7 Plt Ct-75*
+[**2187-4-9**] 11:43PM BLOOD PT-44.4* PTT-150* INR(PT)-5.1*
+[**2187-4-9**] 11:43PM BLOOD Plt Ct-75*
+[**2187-4-9**] 03:45PM BLOOD Glucose-129* UreaN-40* Creat-0.7 Na-142
+K-2.8* Cl-104 HCO3-18* AnGap-23*
+[**2187-4-9**] 11:43PM BLOOD UreaN-20 Creat-0.6
+[**2187-4-9**] 03:45PM BLOOD ALT-45* AST-81* CK(CPK)-375* AlkPhos-63
+Amylase-36 TotBili-1.2
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 67644**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 67645**]
+(Complete) Done [**2187-4-9**] at 6:37:09 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2105-3-26**]
+Age (years): 82 F  Hgt (in): 60
+BP (mm Hg): 100/60  Wgt (lb): 128
+HR (bpm): 78  BSA (m2): 1.55 m2
+Indication: Intra-op TEE for emergent CABG
+ICD-9 Codes: 786.51, 440.0, 410.91, 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2187-4-9**] at 18:37    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW210-0:0 Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  30%  >= 55%
+
+Findings
+LEFT ATRIUM: Mild LA enlargement. No spontaneous echo contrast
+is seen in the LAA. Good (>20 cm/s) LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal
+interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size.
+Moderate regional LV systolic dysfunction. Depressed LVEF.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Reduced RV systolic
+function.
+
+AORTA: Normal aortic diameter at the sinus level. Moderate
+calcification of aortic root. Normal ascending aorta diameter.
+Moderate calcification in ascending aorta. Normal aortic arch
+diameter.  Atheroma in aortic arch. Normal descending aorta
+diameter. Severe, complex (mobile) atheroma in the descending
+aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. No AS. Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Severe
+mitral annular calcification. No MS. Mild (1+) MR.
+
+TRICUSPID VALVE: Moderate to severe [3+] TR. Eccentric TR jet.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+Dilated main PA.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+
+Conclusions
+PRE-BYPASS:
+1. The left atrium is mildly dilated. No spontaneous echo
+contrast is seen in the left atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler.
+2. Left ventricular wall thicknesses and cavity size are normal.
+There is moderate regional left ventricular systolic dysfunction
+with EF of less than 30%.
+3. The right ventricular cavity is mildly dilated. Right
+ventricular systolic function is depressed.
+4. There are simple atheroma in the aortic arch. There are
+severe, complex (mobile) atheroma in the descending aorta. 5.
+There are three aortic valve leaflets. There is no aortic valve
+stenosis. Trace aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. There is
+severe mitral annular calcification. Mild (1+) mitral
+regurgitation is seen.
+7. Moderate to severe [3+] tricuspid regurgitation is seen. The
+tricuspid regurgitation jet is eccentric and may be
+underestimated.
+8. The main pulmonary artery is dilated.
+9. There is a trivial/physiologic pericardial effusion.
+
+1st POST-BYPASS: Pt is being AV paced on an infusion of
+phenylephrine and epinephrine
+1. RV is mild - moderately hypokinetic, LV inferior wall appears
+moderately hypokinetic,
+RV function worsened requiring return to CPB
+2. TR appears slightly improved, while MR appears slightly worse
+
+2Nd POST - BYPASS: Pt is being AV paced on an infusion of
+Norepinephrine, epinephrine, Vasopressin and milrinone
+1. RV function appears slightly improved and LV inferior wall is
+slightly improved
+2. Aorta is Intact post decannulation
+3. Other findings are unchanged
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2187-4-13**] 15:10
+
+
+?????? [**2183**] CareGroup
+
+Brief Hospital Course:
+Cath revealed severe 3VD and a poor ejection fraction (30%) with
+anterior and inferior near akinesis and RV dysfunction. Pt.
+noted to have a depressed cardiac index (1.8 l/min/m2) and a
+mixed venous saturation of 40% and a pH of 7.18, in addition to
+RV dysfunction. She had severe peripheral vascular disease with
+toruous iliac arteries, a severely disease descending thoracic
+and abdomenal aorta and weak pulses, so it was felt by
+cardiology that the patient would not tolerate having an IABP
+placed due to the seveve vascular disease. Her BP was around 100
+mmHg in the OR, but this may be been falsely elevated because of
+vasoconstriction and her history of severe hypertension. Cardiac
+surgery consulted, and pt. taken emergently from cath lab to OR
+for CABG x3. She had significant bleeding due to plavix.
+Initially in the OR she did reasonably well after surgery on
+inotropic support. However, she then had hypotension and
+arrested while still in the OR, mainly due to RV failure. Her
+chest was reopened with subsequent additional CABG x1. An IABP
+was insertion with difficult because of failure to separate from
+CPB. The patient was transferred to the CVICU in serious
+condition on vasopressin, milrinone, epinephrine, levophed and
+propofol drips.
+
+She remained acidotic despite treatment and was difficult to
+pace. Additonal skin lead placed at bedside. Abdomen became firm
+and distended and lactate was [**11-23**].
+She continued to deteriorate and her chest was opened at the
+bedside for continuing hypotension. There was no improvement in
+her vital signs and the family and chaplain were called. Family
+requested withdrawal of care, her SBP was in the 50's,and a
+morphine drip was started. IABP and pacer turned down, and pt.
+quickly deteriorated. Expired at 04:49 on [**4-10**] with family
+present. They d

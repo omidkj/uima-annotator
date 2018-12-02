@@ -1,0 +1,223 @@
+Admission Date:  [**2156-12-10**]              Discharge Date:   [**2156-12-16**]
+
+Date of Birth:  [**2100-10-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Amoxicillin / Bactrim / Fenofibrate
+
+Attending:[**First Name3 (LF) 2265**]
+Chief Complaint:
+in-stent thrombosis
+
+Major Surgical or Invasive Procedure:
+Angioplasty of SFA
+Cardiac Catheterization
+
+
+History of Present Illness:
+Ms. [**Known lastname 96136**] is a 56 year old woman with history of
+hypertension, ESRD on dialysis (M,W,F), IDDM, PVD s/p left BKA
+and right TMA, and recent admission complicated by NSTEMI/PEA
+arrest x 2 ([**Date range (1) 46367**]) in which she received a prox and mid
+LAD [**Date range (1) **] ([**10-20**]) admitted directly to the OR on [**2156-12-10**] for
+elective femoral angiogram/angioplasty of SFA. At the end of the
+procedure, the patient became hypertensive, tachycardic, and
+went into flash pulmonary edema. ECG done after the event showed
+inferior Q waves with baseline minimal inferior ST elevation and
+lateral ST changes (unchanged from [**2156-11-29**]). She was intubated,
+resuscitated, and transferred to the VICU. Since episode of
+flash pulmonary edema, patient was seen by cardiology, who
+recommended cath to evaluate for cause of flash pulmonary edema.
+During catheterization, the patient was found to have in stent
+thrombosis in the proximal LAD and a BMS was placed. She
+received heparin and abciximab (iib/iiia for esrd). Patient was
+also started on a nitro drip for hypertension during the cath.
+.
+On the floor, the patient states that she is doing well and
+denied any discomfort. She noted that during the procedure she
+felt some chest tightness but denied any pain.
+.
+REVIEW OF SYSTEMS:
+Denies fever, chills, night sweats, headache, vision changes,
+rhinorrhea, congestion, sore throat, cough, shortness of breath,
+chest pain, abdominal pain, nausea, vomiting, diarrhea,
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+.
+
+
+Past Medical History:
+- ESRD on dialysis MWF, s/p thrombectomy and revisions in [**2-13**]
+- DM2, c/b retinopathy, neuropathy
+- HTN
+- Hyperlipidemia
+- Peripheral arterial disease
+- smoking
+- retinopathy
+- neuropathy
+- asthma
+- nephrotic syndrome
+- anemia
+- morbid obesity
+
+Social History:
+Lives with family in [**Location (un) 86**], good support.
+Tobacco: [**12-6**] ppd x 40 yrs
+ETOH: denies
+
+
+Family History:
+brother, sister had [**Name2 (NI) **] in their late 50s. Two brothers on
+dialysis with HTN, Mother with HTN.
+
+Physical Exam:
+On Admission:
+VS - Temp F 98.0, BP 163/76, HR 77, O2-sat 96% 2L
+GENERAL - comfortable, appropriate and in NAD
+HEENT - EOMI, sclerae anicteric, MMM
+NECK - supple, no thyromegaly, no JVD
+LUNGS - CTA bilat- w/r/r, good air movement, resp unlabored, no
+accessory muscle use
+HEART - RRR, no MRG, nl S1-S2
+ABDOMEN - obsese abdomen but soft/NT/ND, no rebound/guarding
+EXTREMITIES - left BKA no edema, right MTA
+SKIN - no rashes or lesions
+NEURO - awake, A&Ox3, CNs II-XII grossly intact
+.
+On Discharge:
+vitals: 97.8, 119/55, 74, 20, 97RA
+wt: 78.2
+GENERAL - comfortable, appropriate and in NAD
+HEENT - EOMI, sclerae anicteric, MMM
+NECK - supple, no thyromegaly, no JVD
+LUNGS - CTA bilat- w/r/r, good air movement, resp unlabored, no
+accessory muscle use
+HEART - RRR, no MRG, nl S1-S2
+ABDOMEN - obsese abdomen but soft/NT/ND, no rebound/guarding
+EXTREMITIES - left BKA no edema, right MTA
+SKIN - no rashes or lesions
+NEURO - awake, A&Ox3, CNs II-XII grossly intact
+
+Pertinent Results:
+On admission:
+
+[**2156-12-10**] 10:20AM BLOOD WBC-16.7*# RBC-3.83*# Hgb-12.3# Hct-40.0#
+MCV-104*# MCH-32.0 MCHC-30.7* RDW-15.1 Plt Ct-374#
+[**2156-12-10**] 10:20AM BLOOD PT-11.7 PTT-150* INR(PT)-1.1
+[**2156-12-10**] 10:20AM BLOOD Glucose-223* UreaN-54* Creat-7.4*# Na-145
+K-7.3* Cl-102 HCO3-18* AnGap-32*
+[**2156-12-10**] 11:34AM BLOOD ALT-8 AST-14 LD(LDH)-275* CK(CPK)-89
+AlkPhos-179* Amylase-104* TotBili-0.1
+[**2156-12-10**] 11:34AM BLOOD CK-MB-3 cTropnT-0.09* proBNP-[**Numeric Identifier **]*
+[**2156-12-10**] 10:20AM BLOOD Calcium-10.8* Phos-12.2*# Mg-2.6
+[**2156-12-10**] 10:46AM BLOOD pO2-78* pCO2-109* pH-6.96* calTCO2-27
+Base XS--11
+[**2156-12-10**] 11:51AM BLOOD freeCa-1.28
+[**2156-12-10**] 10:46AM BLOOD Hgb-12.4 calcHCT-37 O2 Sat-83
+.
+On Discharge:
+
+[**2156-12-15**] 03:26AM BLOOD WBC-5.8 RBC-3.25* Hgb-9.5* Hct-29.0*
+MCV-89 MCH-29.4 MCHC-32.9 RDW-17.1* Plt Ct-230
+[**2156-12-10**] 10:20AM BLOOD Neuts-50 Bands-0 Lymphs-39 Monos-5 Eos-6*
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2156-12-10**] 09:07PM BLOOD PT-11.6 PTT-21.6* INR(PT)-1.1
+[**2156-12-15**] 03:26AM BLOOD Glucose-164* UreaN-41* Creat-7.7*# Na-136
+K-4.5 Cl-93* HCO3-31 AnGap-17
+[**2156-12-15**] 03:26AM BLOOD CK(CPK)-67
+[**2156-12-15**] 03:26AM BLOOD CK-MB-6 proBNP-[**Numeric Identifier 96138**]*
+[**2156-12-15**] 03:26AM BLOOD Calcium-8.6 Phos-6.7* Mg-2.0
+[**2156-12-11**] 09:16AM BLOOD Type-ART pO2-157* pCO2-47* pH-7.42
+calTCO2-32* Base XS-5
+[**2156-12-11**] 09:16AM BLOOD Type-ART pO2-157* pCO2-47* pH-7.42
+calTCO2-32* Base XS-5
+[**2156-12-11**] 12:57AM BLOOD freeCa-1.22
+.
+Sinus rhythm. Possible left atrial abnormality. Consider left
+ventricular
+hypertrophy. Non-specific ST-T wave repolarization
+abnormalities. Compared to
+the previous tracing of [**2156-12-11**] no diagnostic change.
+
+
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **]
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+89 154 90 350/400 76 45 122
+ .
+ECHO
+Conclusions
+There is moderate regional left ventricular systolic dysfunction
+with inferior/inferolateral hypokinesis. The remaining segments
+contract normally (LVEF = 40%). Right ventricular chamber size
+and free wall motion are normal. No aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Trivial
+mitral regurgitation is seen. [Due to acoustic shadowing, the
+severity of mitral regurgitation may be significantly
+UNDERestimated.] There is no pericardial effusion.
+
+IMPRESSION: Mild regional left ventricular systolic dysfunction.
+
+Compared with the prior study (images reviewed) of [**2156-10-18**],
+the findings are similar.
+.
+Cath:
+COMMENTS:
+1. Selective coronary angiography in this right dominant system
+demonstrates three vessel coronary artery disease. There is
+bulky
+thrombus within the left anterior descending artery stents,
+causing an
+80% stenosis with 60% stensosis more distally. There appears to
+be both
+underexpansion as well as recoil of the previously placed stent.
+The
+circumflex artery contains a 50% lesion in the first obtuse
+marginal and
+a 40% lesion in the true circumflex proximally. The right
+coronary
+artery is proximally occluded and fills via collaterals. The
+left main
+coronary is patent.
+2. Limited resting hemodynamics demonstrate severe systemic
+hypertension.
+3. Subacute stent thrombosis
+4. Successful Export thrombectomy of proximal LAD stent
+5. Successful direct stenting of proximal LAD with 3.0x18mm
+Integrity
+bare metal stent postdilated to final 3.5mm.
+6. Successful PTCA only of distal previous LAD segment with
+3.25mm NC
+balloon to high pressure.
+
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Subacute stent thrombosis
+3. Severe systemic hypertension, treated with nitroglycerine
+infusion
+during the case.
+4. Successful Thrombectomy, direct stenting of proximal LAD
+previous
+stent with BMS.
+5. Successful PTCA of distal stent segment.
+6. Successful IVUS evaluation of LAD.
+
+
+Brief Hospital Course:
+56 Year old lady with extensive history of PVD, smoking, DM2,
+s/p BKA and toe amputations, s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (Prefixes) **] 2 in [**2156-10-5**],
+presented to the hospital for angioplasty of SFA. At the end of
+the procedure, the patient developed HTN and flashed, requiring
+intubation.
+.
+Pulmonary Edema/HTN - cardiac cause was suspected, so the
+patient was taken for cardiac catheterization. In
+catheterization, the patinet was found to have restenosis of her
+[**Year (4 digits) **]. A bare metal stent was inserted in its place. The patient
+was brought to our service at this time. We saw the patient, who
+was doing well. We decided to increase her plavix dose in order
+to help prevent restenosis. A platelet study was considered, but
+the patient had received abciximab a

@@ -1,0 +1,179 @@
+Admission Date:  [**2119-2-17**]              Discharge Date:   [**2119-3-5**]
+
+Date of Birth:  [**2076-3-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+allo SCT
+
+Major Surgical or Invasive Procedure:
+.
+
+History of Present Illness:
+Pt is a 42 yo female with recent diagnosis of primary
+myelofibrosis now admitted for an allogenic stem cell transplant
+from a matched unrelated donor (her siblings were not a match)
+per TBI and Cytoxan protocol.  Pt was diagnosed in [**10-10**], since
+then requiring frequent transfusions for her persistent anemia.
+She has also received Neulasta and Procit periodically.  She was
+recently started on Danazol for her myelofibrosis ([**2118-12-23**]),
+which was briefly held from [**Date range (1) **] due to periorbital
+swelling. She was also started on Exjade on [**2119-1-13**] given her
+frequent transfusions.
+.
+Upon arrival to the floor, pt is felling well.  States she is
+hungry.  Tolerated the line placements well, denies pain.  Feels
+a little lightheaded currently.  Of note, pt mentions that she
+has been taking Prednisone (2 tab) daily, which has been
+prescribed by her oncologist, stopped taking it 2 days ago.
+.
+ROS: As per HPI, otherwise negative. Denies fevers/chills, URI
+symptoms, GI symptoms, dysuria.
+
+Past Medical History:
+Past Onc History: Patient first presented with profound fatigue,
+nausea, and heavy vaginal bleeding [**10-10**], six weeks after
+arriving from [**Country 651**].  She was found to be pancytopenic and had
+peripheral blood smear showing extensive teardrop forms and
+leukoerythroblastic smear (teardrop cells, nucleated RBCs,
+immature WBCs) prompted bone marrow biopsy, which revealed
+myelofibrosis.  Unclear etiology,
+but may be secondary to post-polycythemia [**Doctor First Name **]/essential
+thrombocytosis myeloid metaplasia, and JAK-2 test was negative.
+BCR-ABL translocation test was negative.  Flow cytometry
+revealed subset of RBCs with CD55 deficiency, normal CD59.  35%
+of granulocytes without CD55.  Monocytes without CD14.  Findings
+raise the possibility of PNH, though not conclusive.
+.
+Infectious workup was negative, including negative CMV, EBV,
+HIV, and parvovirus. CT showed splenomegaly without
+lymphadenopathy. echo was performed and did not suggest any
+pulmonary artery hypertension of systolic/diastolic dysfunction.
+Hepatosplenomegaly, which was noted upon admission but became
+less clinically obvious upon transfer to the BMT inpatient
+floor, may have been due to extramedullary hematopoeisis.
+Patient's white cells, red cells, and platelets were stable for
+the remainder of the admission.
+.
+Other Past Medical History:
+PMF
+? PNH
+Pneumonia
+Difficult crossmatch due to antibodies
+
+Social History:
+She lives in [**Location 86**] with her husband and 13-year-old son.  She
+immigrated from [**Country 651**] in [**2117**].  She is currently  unemployed.
+She does not smoke, does not drink alcohol.  Her husband is also
+unemployed, recovering from treatment for nasopharyngeal cancer.
+
+
+Family History:
+She has no history of hematologic malignancies.  She has a
+brother and sister in [**Name (NI) 651**] who are alive and well.  Denies any
+family history of leukemia, lymphoma, or cancers.
+
+Physical Exam:
+VS- T 98.1  BP 112/74  RR 83  RR 20  O2 sat 100% RA
+Gen- well-appearing, thin, NAD
+HEENT- EOMI, PERRL, OP clear, no oral lesions, mild periorbital
+and facial swelling
+Neck- supple, no LAD
+CV- RRR, no murmurs
+Resp- CTAB, no wheezes or crackles
+Abd- s/nd/nt, +bs, +hepatosplenomegaly
+Ext- no c/c/e
+Neuro- grossly intact
+Skin- no rashes
+
+Pertinent Results:
+.
+
+Brief Hospital Course:
+Pt is a 42 yo female with recent diagnosis of primary
+myelofibrosis now admitted for an allogenic SCT per TBI and
+Cytoxan protocol.
+
+# Myelofibrosis for allo SCT:  TBI/Cytoxan protocol was
+followed. Pt initially had nausea/vomiting that then resolved.
+Pt also had diarrhea (C diff was neg x 3). Pt tolerated SCT
+well, had a fever that night which then resolved.  Patient
+developed significant side effects from chemotherapy, including
+severe mucositis requiring fentanyl PCA, and cardiomyopathy
+likely from cytoxan (see below for details).  Cell counts
+reached nadir on [**2-27**] with ANC of 0.  Resultant pancytopenia
+from myelosuppression requiring multiple transfusions to kept
+Hct > 21 and platelets > 10.  The patient had multiple
+documented alloantibodies to blood products, in particular high
+platelet reactive antibodies.  Despite extensive efforts by the
+blood bank, matched platelets were unable to be located.  On
+[**3-3**], patient developed significant consumptive reactions to
+platelet transfusions which were later determined to be due to
+antibodies. HLA C type platelets were ordered.
+.
+# Cardiopulmonary Collapse: Patient was acutely diaphoretic on
+[**3-5**] with abdominal pain. Stat upright film revealed no free air.
+She was bolused with fluids for falling pressures. Patient
+became unresponsive, hypotensive to 50's, and desaturated. She
+was moaning. She continued to protect her airway but was
+AmbuBagged to augment ventillation. Her blood glucose was 16.
+She briefly responded to D50 but continued to remain
+hypotensive. Anesthesia was called, intubated the patient. Three
+pressors were started, epinephrine given several times. She
+bradied and responded to atropine. A massive transfusion was
+initiated. Her family and BMT oncologist were called. Both
+arrived, as did the chinese interpreter. Her family was brought
+in to the code to say goodbye. The chinese interpreter helped
+communicate the events of the evening. The time of death was 315
+AM.
+.
+# Fever: Pt had fevers during the conditioning phase prior to
+receiving SCT.  Pt was started on Vanc and Cefepime, after which
+the fevers resolved.  IR evaluated pt's central lines and dental
+eval was done as pt had recent dental procedures and complained
+of a toothache.  Cultures were negative as well as CXR.  On [**3-2**],
+patient again developed fever during platelet transfusion and
+fluconazole was changed to micafungin.  Patient subsequently
+complained of abdominal pain with intermittent vomiting.
+Complete abdominal ultrasound showed splenomegaly but did not
+reveal any acute pathology.  Intermittent fevers continued, and
+the patient was started on flagyl due to concern for an
+intrabdominal source.  Given severe mucositis, there was concern
+for typhlitis, CT abdoman without contrast could not be
+completed before patient had passed
+.
+# Anemia: Pt has persistent anemia from her disease. Pt has
+multiple documented
+alloantibodies which are clinically significant and may lead to
+hemolytic transfusion reactions. Thus, carefully matched blood
+had to be made available through the American Red Cross.  Given
+this limitation, pt was transfused with a goal of Hct>21.
+.
+# Cardiomyopathy:  Prior to allogenic SCT, patient had an ECHO
+showing EF of 45% (a decline from normal function several months
+earlier).   On [**3-1**], patient was noted to have symptoms of acute
+congestive heart failure, complaining of new orthopnea.  On
+exam, she was noted to have elevated JVP, hyperdynamic PMI with
+S3 and evidence of pulmonary edema.  Repeat ECHO, showed an
+ejection fraction of 25-30% with global hypokinesis of left
+ventricle.  EKG showed no evidence of acute ischemia and cardiac
+enzymes were negative, and cardiomyopathy was attributed to high
+dose cytoxan.  Cardiology was consulted and recommended volume
+management with boluses of lasix prn and initiation of
+carvedilol.  ACEI were contraindicated in the setting of
+cyclosporine....
+.
+# Mucositis: Following Cytoxan and TBI, patient developed severe
+mucositis with significant diarrhea and odynophagia.
+Clostridium difficile toxins were negative x 3 and patient was
+maintained on fluconazole for [**Female First Name (un) **] prophylaxis.  Later in
+hospital course, when patient developed neutropenic fever, she
+was fluconazole was switch to micafungin.   She was started on
+Fentanyl PCA for pain control and TPN to maintain adequate
+nutrition.  Also started on protonix, given risk of stress ulcer
+prophylaxis.  On [**3-4**], patient developed severe

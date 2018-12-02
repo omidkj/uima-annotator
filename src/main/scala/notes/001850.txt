@@ -1,0 +1,192 @@
+Admission Date:  [**2182-6-5**]              Discharge Date:   [**2182-7-11**]
+
+Date of Birth:  [**2143-12-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Levaquin / Biaxin
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+Tracheal Obstruction
+
+Major Surgical or Invasive Procedure:
+bronchoscopy
+
+History of Present Illness:
+38 y/o male with PMHx significant for type 1 diabetes, history
+of jail time, who initially presented at [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] with 10
+days of chest tightness, mylagias, couging, fever, and wheezing,
+as well as shortness of breath. At OSH patient was being treated
+for CAP and started on azithromycin and ceftriaxone. Patient had
+CXR done at OSH which showed diffuse reticular nodular opacities
+involving bilateral lungs. CT chest at OSH was reported to show
+diffuse ground glass opacification and diffuse adenopathy. There
+was also adenopathy that was compressing the trachea, given this
+concern for airway obstruction patient was intubated and
+transferred to [**Hospital1 18**] for further management. He was ruled out
+for MI with negative CEx3 and negative EKG
+
+Past Medical History:
+Type 1 diabetes
+Asthma
+Diabetic nephropathy
+fractures fibula [**3-/2181**]
+H/O MRSA PNA
+
+
+Social History:
+Smokes 1ppd for many years, no drug or etoh history, history of
+jail time
+
+Family History:
+NC
+
+Physical Exam:
+PE: T 97.8 BP 110/48 HR 102 RR 16 O2SAt 97% AC 450x14 PEEP 5
+FiO2 60 7.21/70/80
+Gen: Patient intubated, sitting up in bed, gagging on tube
+Heent: PERRL, EOMI, ETT tube in place
+Neck: no LAD appreciated
+Lungs: diffuse ronchi throughout
+Cardiac: tachy, RR S1/S3
+Abdomen: soft NT +BS
+Ext: no edema
+Neuro: awake
+
+
+Pertinent Results:
+[**2182-6-5**] 03:55PM   NEUTS-55 BANDS-14* LYMPHS-19 MONOS-8 EOS-4
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2182-6-5**] 04:15PM   TYPE-ART RATES-14/ TIDAL VOL-450 PEEP-5 O2-60
+PO2-80* PCO2-70* PH-7.21* TOTAL CO2-30 BASE XS--1
+INTUBATED-INTUBATED VENT-CONTROLLED
+.
+CT chest [**6-6**]:
+FINDINGS: Endotracheal tube is in place, with tip terminating
+just above the level of the aortic arch. The trachea is abnormal
+in size and contour. The trachea is enlarged with coronal
+diameter of 2.8 cm. Additionally, it has a lunate configuration
+with elevated coronal to sagittal ratio. During expiration,
+there is excessive collapsibility of the tracheal lumen,
+resulting in reduction of cross-sectional area from 149 mm2 to
+53 mm2. This likely underestimates the degree of collapsibility
+because it was not performed as a dynamic expiratory scan.
+Dense consolidation is present throughout both lower lobes with
+homogeneous increased density with prominent air bronchograms.
+More heterogeneous lung opacities are present within the
+anterior, nondependent portions of the lungs, including the
+upper lobes, middle lobe and lingula. These areas demonstrate
+peribronchiolar ground-glass opacities, areas of consolidation,
+and centrilobular/tree-in-[**Male First Name (un) 239**] opacities.
+Enlarged lymph nodes are present within the mediastinum,
+measuring up to 13 mm within the right paratracheal and
+precarinal regions. Additionally, there is diffuse stranding
+throughout the mediastinal fat, likely due to edema. The heart
+size is normal. There is no pericardial effusion. Small
+bilateral pleural effusions are present.
+Within the imaged portion of the upper abdomen, there is a trace
+amount of ascites. The remaining imaged portion of the upper
+abdomen is unremarkable on this unenhanced CT which was not
+specifically tailored to evaluate the abdominal organs. Diffuse
+anasarca is present throughout the chest and abdominal wall soft
+tissues.
+IMPRESSION:
+1. Enlarged, lunate trachea configuration with associated
+tracheomalacia. Severity of tracheomalacia is likely
+underestimated on this end-expiratory scanning sequence.
+2. Diffuse bilateral lung parenchymal abnormalities, including
+peribronchiolar opacities in the upper and mid lungs and
+extensive confluent consolidation in the lower lobes. The
+findings are most consistent with diffuse infection complicated
+by ARDS. A component of hydrostatic edema is also possible,
+particularly given the presence of diffuse anasarca and
+bilateral pleural effusions.
+.
+echo [**6-6**]:
+Conclusions:
+The left atrium is normal in size. Left ventricular wall
+thicknesses are
+normal. The left ventricular cavity size is normal. Due to
+suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded.  Overall left ventricular systolic function is
+low normal (LVEF 50%). The right ventricular cavity is dilated.
+Right ventricular systolic function is borderline normal; there
+are echolucent areas in the basal and midventricular segments of
+the right ventricular free wall; the apical segment of the right
+ventricular free wall appears thin. The aortic valve leaflets
+(3) appear structurally normal with good leaflet excursion and
+no aortic regurgitation. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is no mitral
+valve prolapse. There is moderate pulmonary artery systolic
+hypertension. There is a trivial/physiologic pericardial
+effusion.
+Impression: status post cardiac arrest; dilated hypocontractile
+right
+ventricle; consider arrhythmogenic right ventricular
+cardiomyopathy
+.
+CTA [**6-15**]:
+IMPRESSION:
+1. No evidence of pulmonary embolus.
+2. Redemonstration of multifocal parenchymal opacities. Some of
+the right lung opacities appear to have progressed, while others
+in the left upper lobe, appear slightly better than on [**2182-6-6**].
+3. Bilateral lower lobe consolidation, unchanged. Unchanged
+bilateral pleural effusions.
+4. Severe tracheobronchomalacia. Suggestion of bronchiectasis in
+multiple areas, difficult to assess given the presence of
+intubation/positive-pressure ventilation.
+.
+
+TTE [**6-18**]:
+ No evidence for intracardiac (right-to-left) shunt identified.
+.
+PORTABLE ABDOMEN  [**2182-7-1**] 11:11 AM
+Bowel gas pattern is unremarkable and there is no evidence of
+free air on this portable film. Possible nlargement of the liver
+silhouette may represent hepatomegaly or a prominent Riedel's
+lobe. Surrounding osseous structures are unremarkable.
+IMPRESSION: No evidence of ileus or obstruction.
+.
+
+CHEST (PORTABLE AP)  [**2182-7-2**] 12:45 AM
+IMPRESSION: AP chest compared to [**6-26**] through 9.
+Small bilateral pleural effusion has increased, with new
+fissural components. Atelectasis or consolidation at the left
+base has improved since [**6-29**] and atelectasis at the right lung
+base, which has been difficult to assess all along appears to
+have improved, restricted to the posterior basal segment. Heart
+size is normal. No pneumothorax. Tracheostomy tube and right
+subclavian line in standard placements. No pneumothorax.
+.
+CT CHEST W/O CONTRAST  [**2182-7-6**] 2:35 PM
+There is dense collapse and consolidation of the dependent
+aspects of both lung bases, right greater than left. There is
+minimal improvement in the aeration of the left lower lobe.
+Patchy nodular airspace opacification is again noted involving
+the right upper lobe, left upper lobe and the aerated portions
+of the left lower lobe. This has not significantly changed from
+the prior examination. Small bilateral pleural effusions are
+again noted which have slightly improved from the prior
+examination. As previously described there is evidence of
+tracheomalacia. A tracheostomy tube appears in the mid trachea.
+No pericardial effusion is present.
+Limited unenhanced images through the upper abdomen are
+unchanged.
+IMPRESSION: Dense collapse and consolidation of lung bases eith
+minimal improvement in the aeration of the left lower lobe.
+Patchy nodular airspace disease throughouth the lungs relatively
+unchanged consistentwith multilobar pneumonia and ARDS.
+.
+[**2182-7-10**] 9:47 AM
+CHEST, UPRIGHT AP PORTABLE: Comparison is made to five days
+earlier and to a more recent CT from [**2182-7-6**]. Patient is
+status post tracheostomy. A PICC line terminates at the
+cavoatrial junction. Cardiac and mediastinal contours are
+unremarkable. There are no effusions or pneumothorax. Patchy
+bilateral alveolar opacities are somewhat more extensive than
+before.
+IMPRESSION: Worsen

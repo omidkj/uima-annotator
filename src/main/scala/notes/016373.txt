@@ -1,0 +1,188 @@
+Admission Date:  [**2101-7-17**]              Discharge Date:   [**2101-8-5**]
+
+Date of Birth:  [**2021-2-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1572**]
+Chief Complaint:
+unresponsiveness
+
+Major Surgical or Invasive Procedure:
+Left thoracentesis
+
+History of Present Illness:
+80 y.o. male with hx CAD, s/p CABG, ischemic CM EF 20%, ICD &
+pacemaker discharged 1 month ago after undergoing VT ablation.
+.
+His wife states she looked at him tonight while he was sleeping
+and noted he had a gasping, labored breathing. She tried to wake
+him up but he was unresponsive. There were no signs of t-c
+seizures or fecal incontinece. She called EMS who arrived 20
+minutes later.  Patient was alert but somnolent and diaphoretic
+at that time. Patient is unsure whether pacemaker went off.
+.
+Found to be hypokalemic and started repletion in ED.  ICD fired
+once night of admission and once later that morning (in ED) for
+VTach -> NSR.
+
+Past Medical History:
+1. CAD status post CABG and IMI. Catheterization in '[**88**] with
+3 VD, 2+ MR, moderate systolic and diastolic dysfunction.
+PTCA of SVG to PDA, MIBI in '[**91**], severe fixed defect infero,
+post, and apical. Partial reversible inferolateral defects.
+2. Esophageal stricture x2.
+3. Increased cholesterol.
+4. Colonic polyps.
+5. Abdominal aortic aneurysm s/p repair at [**Hospital1 2025**] in [**2099**].
+6. Hypertension.
+7. Pacemaker placed prior to AAA repair - being checked monthly
+by Dr.[**Name (NI) 15419**] office.
+8. Status post bilateral cataract surgery.
+9. Ischemic CMY (echo [**2098**] EF 20% 1-2+ MR)
+10. Gout
+11. Chronic renal insufficiency (recent baseline unknown - no
+labs since [**2098**])
+
+
+Social History:
+Retired shipyard inspector. He quit smoking over 50 years ago.
+Denies alcohol or drugs. Lives with his wife and son.
+
+
+Family History:
+Non-Contributory
+
+Physical Exam:
+T 96.7  BP 104/64  HR 70  RR 18  Sat 97% on 2L
+Gen: comfortable, elderly cachectic man in NAD
+Neck: JVP at clavicles while sitting at 30 degrees
+CV: reg rate, II/VI systolic murmur at apex
+Chest: faint crackles at both lung bases; clear in middle and at
+apices
+Abd: soft, ntnd, no organomegaly
+Extr: cool, no edema, 2+ DP and PT pulses
+
+Pertinent Results:
+[**2101-7-17**] 12:45AM BLOOD WBC-13.3* RBC-3.17* Hgb-9.9* Hct-29.0*
+MCV-91 MCH-31.1 MCHC-34.1 RDW-14.4 Plt Ct-321#
+[**2101-8-4**] 06:35AM BLOOD WBC-20.2* RBC-3.99* Hgb-11.6* Hct-37.0*
+MCV-93 MCH-29.0 MCHC-31.2 RDW-16.0* Plt Ct-240
+[**2101-7-17**] 12:45AM BLOOD Neuts-75.8* Lymphs-18.7 Monos-3.4 Eos-1.9
+Baso-0.2
+[**2101-7-28**] 06:25AM BLOOD Neuts-89.7* Lymphs-6.1* Monos-3.5 Eos-0.5
+Baso-0.2
+[**2101-7-17**] 12:45AM BLOOD PT-26.8* PTT-31.9 INR(PT)-2.7*
+[**2101-7-20**] 04:58PM BLOOD PT-38.4* PTT-50.9* INR(PT)-6.0*
+[**2101-8-4**] 06:35AM BLOOD PT-21.4* PTT-35.7* INR(PT)-2.1*
+[**2101-7-17**] 12:45AM BLOOD Glucose-186* UreaN-35* Creat-2.5* Na-139
+K-2.7* Cl-100 HCO3-23 AnGap-19
+[**2101-8-4**] 12:35PM BLOOD Glucose-119* UreaN-97* Creat-3.6* Na-145
+K-4.4 Cl-109* HCO3-21* AnGap-19
+[**2101-7-17**] 12:45AM BLOOD ALT-37 AST-63* CK(CPK)-26* AlkPhos-288*
+Amylase-50 TotBili-1.0
+[**2101-8-4**] 06:35AM BLOOD ALT-30 AST-55* AlkPhos-273* TotBili-4.7*
+[**2101-7-17**] 12:45AM BLOOD CK-MB-NotDone cTropnT-0.05*
+[**2101-7-17**] 07:40AM BLOOD CK-MB-2 cTropnT-.11*
+[**2101-7-17**] 03:24PM BLOOD CK-MB-NotDone cTropnT-0.08*
+[**2101-8-3**] 05:25AM BLOOD proBNP-[**Numeric Identifier 108040**]*
+.
+Radiology
+CT Abdomen:
+FINDINGS:  The evaluation of the great vessels and mediastinum
+is somewhat
+limited due to lack of intravenous contrast [**Doctor Last Name 360**].  No
+significant mediastinal lymphadenopathy is noted.  Coronary
+arteries are calcified.  The heart is enlarged in size.  The
+patient is status post CABG with median sternotomy. Note is made
+of bilateral pleural effusion, somewhat larger on the left,
+partially loculated.  There is interlobar effusion on the left
+as well.  In the lung window, note is made of diffuse
+ground-glass opacity with interlobular septal thickening
+predominantly in central distribution involving upper lobes, as
+well as lower lobes and middle lobes.  There is somewhat focal
+patchy opacity in right middle lobe and lower lobes.  Mucous
+secretion in the trachea is seen, however, no central
+obstructing lesion is noted.  NG tube is noted, with the tip
+terminating in the stomach.  There is no suspicious lytic or
+blastic lesion.  Small bone islands are seen in lower thoracic
+vertebra.
+IMPRESSION:
+1.  Moderate amount of pleural effusion, larger on the left and
+somewhat
+loculated on the left, associated with basilar atelectasis.
+Interlobar
+effusion on the left.
+2.  Diffuse ground-glass opacity predominantly in central
+distribution,
+associated with smooth interlobular septal thickening
+bilaterally involving upper and lower lobes.  The finding may
+represent pulmonary edema as mentioned in the report of prior
+chest radiograph, however, in the appropriate clinical setting,
+superimposed infection cannot be excluded.  Other possibility
+includes alveolar hemorrhage if the patient has hemoptysis.
+Please correlate clinically.
+3.  Patchy opacities in the right middle and lower lobes, which
+may be part of diffuse process mentioned in #2, however, please
+perform followup study after effusion and ground-glass opacities
+have resolved.
+4.  Cardiomegaly, status post CABG and coronary artery
+calcification.
+.
+Echocardiogram:
+Conclusions:
+The left atrium is moderately dilated. The right atrium is
+moderately dilated.  Left ventricular wall thicknesses are
+normal. The left ventricular cavity is moderately dilated. There
+is severe global left ventricular hypokinesis (ejection fraction
+20-30 percent). No masses or thrombi are seen in the left
+ventricle. There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. There is no
+mitral valve
+prolapse. Moderate to severe (3+) mitral regurgitation is seen.
+There is no pericardial effusion.
+Compared with the findings of the prior study (images reviewed)
+of [**2101-2-16**], no major change is evident.
+
+
+Brief Hospital Course:
+The patient expired on [**2101-8-5**] after a prolonged
+hospitalization.  I will briefly outline his medical problems
+leading up to his death.
+.
+# Syncope: Patient came in to the hospital secondary to being
+found unresponsive by his wife.  A head CT on admission ruled
+out an intracranial bleed and his potassium was closely
+monitored.  In the emergency department they noted 15-20 beats
+of VTach and also a potassium of 2.7.  It was thought that his
+VTach was the cause of his syncopal episode and his hypokalemia
+was the cause of his VTach.  His potassium was repleted and he
+no longer experienced problems with pacing.
+.
+# CHF: EF 20% -  patient came in appearing euvolemic or even
+slightly dry.  He was kept off his spironolactone, his lasix was
+initially held and his [**Last Name (un) **] and BB were continued.  His fluid
+status was monitored daily with serial exams and he had multiple
+chest xrays to monitor for fluid overload.  He subsequently
+became fluid overload which prompted a visit to the medical ICU.
+ While in the ICU, they tapped a pleural effusion on his left
+side which yielded 1.5L of transudative fluid.  They also gave
+him gentle diuresis with lasix 10 mg IV.  The patient
+subsequently became euvolemic and was transferred back to the
+floor.  A day later, he became hypovolemic with a free water
+deficit of 3L.  We replaced his fluid deficit appropriately but
+struggled with deteriorating respiratory status.
+.
+# CRI: patient has had a baseline creatinine of 2.0 and had been
+increasing over the last month.  His creatinine on admission was
+2.5 and it climbed to 3.5 by the end of his stay.  We initially
+held his [**Last Name (un) **] and ACE inhibitor and involved renal in his care.
+It was thought that his renal impairment was secondary to both
+ATN from ischemic injury during his VTach but also from prerenal
+azotemia.  We balanced his fluid sta

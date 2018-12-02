@@ -1,0 +1,214 @@
+Admission Date:  [**2167-5-25**]              Discharge Date:   [**2167-5-26**]
+
+Date of Birth:  [**2097-12-31**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim Ds
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+SOB/hypoxia
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+[**Hospital Unit Name 20719**] NOTE:
+PCP: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3029**]
+CC: SOB, hypoxia
+.
+HPI: Ms. [**Known lastname 15427**] is a 69 yo F with h/o COPD (4L NC at home at
+baseline; frequent admissions for exacerbations) and s/p small
+cell lung CA with post-XRT fibrosis of the right lung.  She
+presented to the ED this morning c/o 2-3 days of SOB, especially
+at night when she was sleeping.  She has also had worsening of
+sputum production in the last day with change in color to green
+as well as decreased ability to cough up secretions.  She denied
+fevers at home.
+.
+In the ED, VS were T 98.9, HR 73, BP 107/72, RR 20, 93% 6L.  She
+was started on CPAP with sats in the upper 90's, but she then
+refused to continue wearing the mask.  Chest x-ray did not show
+an infiltrate.  No studies were ordered to rule out PE because
+the ED felt this was low probability in the setting of an INR
+2.0.  She was given solumedrol 125 mg IV,
+[**Known lastname **]/ceftriaxone, and albuterol nebulizers.
+
+Social History:
+History of tobacco; quit over 10 years ago. Drinks a glass of
+wine a day. Immigrated from [**Location (un) 311**] in [**2120**].  Used ot be a nanny.
+ Has one son
+.
+Family History:
+Non-contributory.
+.
+ADMISSION PHYSICAL EXAM:
+VS in the ED: T 98.9, HR 73, BP 107/72, RR 20, 93% 6L
+GENERAL: elderly appearing, frail; very vocal about her
+discomfort & frustration with being in the ICU; speaking in full
+sentences
+SKIN: No rashes; scattered ecchymoses on hands
+HEENT: JVD to midneck, neck supple.
+CHEST: decreased BS on right; crackles at right base; minimal
+wheezing throughout; minimal accessry muscle use.
+CARDIAC: Regular rhythm; no murmurs, rubs, or gallops.
+ABDOMEN: + Ostomy, overall NT/ND
+EXTREMITIES:1+ LE edema, warm without cyanosis
+NEUROLOGIC: AA, Ox3; CN II - XII in tact; moving all
+extremities.
+.
+LABS: see below; notable for WBC 11.5, 94% PMN's, 0 bands; INR
+2.0; Na 128
+.
+MICROBIOLOGY: 2 sets of BCx sent from ED; pending
+.
+IMAGING:
+[**2167-5-25**] ADMISSION CXR:
+FINDINGS: The extensive post-treatment changes (post-surgery and
+radiation) involving the right lung are similar. There is
+significant radiation fibrosis at the right lung base with
+persistent right pleural effusion and atelectasis. The known
+spiculated right upper lobe nodule is not well seen on today's
+radiograph. The cardiomediastinal silhouette is similar. The
+cerclage wires and surgical clips are unchanged. The bones are
+unremarkable.
+IMPRESSION: Post-surgical and radiation changes in the right
+lung are stable.  No evidence of pneumonia.
+.
+[**6-/2166**] SPIROMETRY (most recent):
+FEV1 0.56 (29% predicted); FVC 1.12 (41% predicted)
+.
+[**11/2166**] ECHO (most recent):
+The left atrium is elongated. The right atrium is moderately
+dilated. No atrial septal defect is seen by 2D or color Doppler.
+Left ventricular wall thickness, cavity size and regional/global
+systolic function are normal (LVEF >55%) There is no ventricular
+septal defect. The right ventricular cavity is markedly dilated
+with severe global free wall hypokinesis. There is abnormal
+septal motion/position consistent with right ventricular
+pressure/volume overload. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse. Mild to moderate ([**11-26**]+)
+mitral regurgitation is seen. The tricuspid valve leaflets are
+moderately thickened. Moderate to severe [3+] tricuspid
+regurgitation is seen. There is severe pulmonary artery systolic
+hypertension. There is a trivial/physiologic pericardial
+effusion.
+Compared with the prior study (images reviewed) of [**2164-9-20**],
+the RV has further dilated and systolic function has
+deteriorated. The estimated PASP has increased. The LVEF remains
+normal.
+.
+.
+.
+ASSESSMENT/PLAN:
+69 yo F w/ multiple medical problems including severe COPD,
+right-sided pulm fibrosis, and atrial fibrillation, presenting
+with SOB x 2-3 days in setting of increased (green) sputum
+production.
+.
+#. SOB: unclear whether bronchitis-driven COPD exacerbation vs.
+cardiac/pulmonary edema. CXR not especially concerning for
+volume overload and patient with EF 55% on recent echo in
+[**11/2166**]; however, history of worsening SOB with recumbency is c/f
+cardiac source.  Patient refusing additional lasix PO tonight
+given she does not have a foley and does not want to be up all
+night.  Decreased CO in setting of poorly controlled AFib less
+likely given that her HR not elevated on admission.  Said she
+feels better after "treatments" in the ED; on 4 - 6 L NC now,
+speaking in full sentences with minimal accessory muscle use.
+-- albuterol and combivent nebs standing overnight; will change
+to PRN in the am if stable
+-- received solumedrol 125 mg IV in the ED; will continue
+prednisone 30 mg QD with taper beginning in next 1 - 2 days
+pending stability
+-- will wean to 4L NC (home baseline) as tolerated; no need for
+CPAP currently.
+-- will continue [**Year (4 digits) **] x 4 days.
+-- continue home dose lasix 80 mg QD; will consider additional
+dose if with continued O2 requirement > 4LNC in am or volume
+overloaded on exam.
+.
+#. ATRIAL FIBRILLATION: rate well controlled currently
+-- will cont home regimen of digxoin and sotalol
+-- INR 2.0 --> will continue coumadin 3 mg QD; recheck INR in am
+.
+#. PULMONARY HYPERTENSION:
+-- will continue sildenafil 50 mg Q8 hours
+.
+#. CHRONIC BACK PAIN: [**Last Name 20720**] problem in [**Name (NI) **]; on Tylenol
+#3 at home
+-- continue home regimen
+.
+#. PPX:
+-- bowel regimen
+-- will hold on protonix given low risk for stress ulcers (not
+acutely ill currently) and eating a regular diet
+-- will consider starting pneumoboots or SQH in am pending
+patient agrees
+.
+#. FEN: no evidence of dehydration; will place on regular diet
+.
+#. CODE: full
+.
+#. DISPO: to remain in ICU overnight for observation and further
+treatment; will likely transfer to floor in am
+
+Past Medical History:
+PMH:
+1. Small cell lung CA
+-- diagnosed ~14 years ago
+-- s/p XRT and chemo (cisplatinum).
+2. COPD, on 4L NC home oxygen.
+3. History of atrial fibrillation
+4. History of perforated diverticulum status post colostomy.
+5. History of peptic ulcer disease.
+6. Hypertension.
+7. Severe pulmonary hypertension on Viagra.
+8. Status post ASD repair.
+9. Status post ventral hernia repair.
+10. Status post appendectomy.
+11. Depression
+12. Chronic PE in the right middle lobe of the PA
+
+
+Social History:
+History of tobacco; quit over 10 years ago. Drinks a glass of
+wine a day. Immigrated from [**Location (un) 311**] in [**2120**]. Used ot be a nanny.
+Has one son
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS in the ED: T 98.9, HR 73, BP 107/72, RR 20, 93% 6L
+GENERAL: elderly appearing, frail; very vocal about her
+discomfort & frustration with being in the ICU; speaking in full
+sentences
+SKIN: No rashes; scattered ecchymoses on hands
+HEENT: JVD to midneck, neck supple.
+CHEST: decreased BS on right; crackles at right base; minimal
+wheezing throughout; minimal accessry muscle use.
+CARDIAC: Regular rhythm; no murmurs, rubs, or gallops.
+ABDOMEN: + Ostomy, overall NT/ND
+EXTREMITIES:1+ LE edema, warm without cyanosis
+NEUROLOGIC: AA, Ox3; CN II - XII in tact; moving all
+extremities.
+
+
+Pertinent Results:
+[**2167-5-25**] ADMISSION CXR:
+FINDINGS: The extensive post-treatment changes (post-surgery and
+radiation) involving the right lung are similar. There is
+significant radiation fibrosis at the right lung base with
+persistent right pleural effusion and atelectasis. The known
+spiculated right upper lobe nodule is not well seen on today's
+radiograph. The cardiomediastinal silhouette is similar. The
+cerclage wires and surgical clips are unchanged. The bones are
+unremarkable.
+IMPRESSION: Post-surgical and radiation changes in the right
+lung are stable. No evidence of pneumoni

@@ -1,0 +1,220 @@
+Admission Date:  [**2108-1-2**]              Discharge Date:   [**2108-1-27**]
+
+Date of Birth:  [**2041-10-2**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Cephalexin
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+Pain in left 3rd toe and foot
+
+Major Surgical or Invasive Procedure:
+Placement of dialysis cathether in right subclavian vein.
+
+[**11-9**] - Diagnostic abdominal aortogram and pelvic arteriogram
+with unilateral lower extremity runoff, contralateral third
+order catheterization, primary balloon angioplasty of the
+anterior tibialis x 3. Infusion for thrombolysis of the distal
+AT. CPT codes [**Numeric Identifier 4237**], [**Numeric Identifier 4238**], [**Numeric Identifier 8881**],
+
+[**11-10**] - Open third ray amputation left foot
+
+[**11-14**] - Exploration of right groin and repair of bleeding, right
+common femoral artery. [**Numeric Identifier 8882**], [**Numeric Identifier 8883**].
+
+[**11-21**] - OPERATION:
+1.  Open ray amputation left fourth toe.
+2.  Debridement of skin and subcutaneous tissue, muscle, and
+    bone.
+
+
+History of Present Illness:
+Ms. [**Known lastname 8884**] is a 66 yo F with a 6-month history of ulcer on her
+left 3rd toe.  She has been followed by Dr. [**Last Name (STitle) 8885**] of podiatry
+in [**Location (un) **].  She reports that she last saw him three weeks ago
+and he thought her toe was improving.  Two weeks ago, she began
+to have increasing pain in her toe and instep, and noticed that
+her toe appeared darker.  Her cousin, with whom she lives,
+noticed her rubbing her toe frequently and encouraged her to see
+a doctor, but she did not.  One week ago, she noticed redness on
+the dorsal aspect of her foot.  She finally saw her podiatrist
+[**1-2**] and he sent her to the ED. She describes her pain as [**2-4**],
+in her 3rd toe and instep of her left foot.  Additionally, she
+complains of a stinging pain in her great toes bilaterally
+secondary to gouty arthritis.  She has remained afebrile. She
+denies prior foot ulcers or injury, as well as numbness or
+tingling in her feet.  She notes that she normally moves freely
+about her home, and climbs stairs several times a day to do
+laundry.  She has had recent falls without injury after tripping
+over the cord for an electrical blanket.  On review of systems,
+she has had recent nosebleed and asthmatic symptoms.  She denies
+HA, dizziness, CP, SOB, fevers/chills, abdominal discomfort,
+dysuria, urgency, or muscular weakness.  She has had some recent
+intentional weight loss.
+
+Past Medical History:
+1) Chronic renal insufficiency: [**12-30**] FSGS, s/p nephrectomy,
+baseline Cr >3.0
+.
+2) Type II Diabetes, controlled by diet, HbA1c has always been
+less than 6.4%
+.
+3) Endometrial cancer, stage II/III, s/p TAH/BSO and radiation
+.
+4) Complete heart block, apparently related to nephrectomy, with
+[**Month/Day (2) 4448**] implanted 18 months after surgery
+.
+5) Colonic adenomas in [**2099**], [**2102**]
+.
+6) Skull fracture at age 6, [**12-30**] truck [**Last Name (un) 8886**], has mild MR
+.
+7) Hypercholesterolemia, [**5-2**] total chol 206, LDL 105
+.
+8) Gout, primarily in big toes BL
+.
+9) Stress incontinence
+.
+10) Asthma, no prior hospitalizations, no oral steroids.
+.
+11) Osteopenia, height loss of 3 inches
+.
+12) Allergic rhinitis
+.
+13) Atrial fibrillation/flutter, on warfarin
+.
+14) Anemia, [**12-30**] renal failure, on Procrit
+.
+15) Hypertension, controlled on lisinopril, nifedipine
+.
+16) s/p cholecystectomy
+
+
+Social History:
+Lives with cousin [**First Name8 (NamePattern2) **] [**Name (NI) **]).  On Medicare.  Has a dog.
+Past smoking history but quit in [**2078**].  Occasional EtOH.
+
+Family History:
+Father-CA and [**Name2 (NI) **] at age 61, grandmother-breast CA and diabetes,
+mother-diabetes, stroke, CAD.
+
+
+Physical Exam:
+Hgt 4'9" Wgt 52.4 kg (max 102 kg 18 years ago)  T 98.1  P 69
+BP 130/72  RR 18  99% RA
+GEN: Appears older than stated age.  NAD.  AaOx3.  Thin hair.
+HEENT: Right fronto-temporal scar, convexity.  Sclera anicteric.
+ No conjunctival pallor.  MMM.  Clear oropharynx.  No
+thyromegaly or nodules.
+CV: IR / IR, nl S1, S2.  No M/R/G.
+LUNGS: CTAB, clear breath sounds in all fields.
+ABD: Flat, soft, NT, ND.  No organomegaly or mass.
+EXT: Palpable fems b/l, Palp R DP, dopp R PT, L DP/PT
+
+Wounds:
+
+Site: right groin
+Type:  Surgical
+Dressing:  Gauze - dry
+
+Site: left foot amp
+Description: draining sm amount sang drng.
+Care: On VAC  @ 125mm/hg / CHANGE DRESSING EVERY TWO DAYS
+
+Site: right groin thrombectomy site
+Description: staples intact/eccymotic area,hard to touch/old
+dsg. with sang drng sm amount
+
+Site: coccyx
+Description: Stage III
+
+
+Pertinent Results:
+Admission Labs:
+[**2108-1-2**] 01:35PM BLOOD WBC-16.2*# RBC-3.86* Hgb-11.1* Hct-33.0*
+MCV-86 MCH-28.9 MCHC-33.8 RDW-16.7* Plt Ct-280
+[**2108-1-2**] 01:35PM BLOOD Neuts-92.6* Bands-0 Lymphs-5.1*
+Monos-1.9* Eos-0.3 Baso-0
+[**2108-1-2**] 01:35PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL
+Macrocy-NORMAL Microcy-1+ Polychr-NORMAL
+[**2108-1-2**] 01:35PM BLOOD Plt Smr-NORMAL Plt Ct-280
+[**2108-1-2**] 06:20PM BLOOD PT-31.1* PTT-38.0* INR(PT)-3.3*
+[**2108-1-2**] 01:35PM BLOOD ESR-120*
+[**2108-1-2**] 01:35PM BLOOD Glucose-141* UreaN-82* Creat-3.9* Na-138
+K-4.1 Cl-97 HCO3-27 AnGap-18
+[**2108-1-2**] 01:35PM BLOOD Calcium-9.8 Phos-3.3 Mg-2.3
+[**2108-1-2**] 03:15PM BLOOD Lactate-1.8
+.
+Microbiology:
+Blood Cultures x 2 ([**1-2**]) No growth
+Wound Swab: MSSA, Group B Strep (Levo resistant), and
+diptheroids
+Urine cultures: ([**1-4**]) No growth
+([**1-7**]) <10,000 organisms/ml.
+([**1-9**]) YEAST. >100,000 ORGANISMS/ML.
+DFA for varicella ([**1-10**]) negative.
+.
+Studies:
+[**1-2**] XR left foot: IMPRESSION: 1. Indistinct cortical contour of
+terminal tuft of the left third distal phalanx, concerning for
+osteomyelitis, related to an adjacent ulcer.
+2. Cystic change in the first metatarsal head is likely
+degenerative, related to the hallux valgus deformity, although
+the less likely possibility of gout could be considered in the
+appropriate clinical setting.
+3. [**Month/Day (1) **] calcifications.
+.
+[**1-3**] Lower Extremity Arterial Doppler: IMPRESSION:  Significant
+bilateral popliteal/tibial artery occlusive disease with severe
+flow deficit to both forefeet.
+.
+[**1-5**] Venous Dup Extext Bil: FINDINGS: The greater and lesser
+saphenous veins are patent bilaterally.  Please see digitized
+image on PACS for formal sequential vein measurements.
+.
+[**1-6**] Stress P-MIBI: IMPRESSION: No anginal symptoms with an
+uninterpretable EKG for ischemia. Normal pharmacologic
+myocardial perfusion study with normal left ventricular wall
+motion and cavity size.  Compared with the study of [**2100-9-17**], no
+significant change.
+.
+[**1-6**] Dialysis Catheter Placement: IMPRESSION:  Successful
+placement of right internal jugular tunneled hemodialysis
+catheter with tip in the right atrium.  The catheter is now
+ready for use.
+.
+[**1-9**] Pre-op CXR IMPRESSION: 1.  Small bilateral pleural
+effusions with no evidence of parenchymal consolidation.  Mild
+symettric [**Month/Year (2) 1106**] promince suggests possible fluid overload
+related to underlying renal condition.
+.
+[**1-9**] Pre-op EKG Regular ventricular pacing; Atrial flutter;
+Since previous tracing, atrial flutter more apparent.
+.
+Other pertinent results:
+[**2108-1-6**] 07:05AM BLOOD Glucose-133* UreaN-123* Creat-5.5* Na-136
+K-4.0 Cl-97 HCO3-23 AnGap-20
+[**2108-1-7**] 07:30AM BLOOD Hapto-434*
+[**2108-1-3**] 09:30AM BLOOD Triglyc-294* HDL-19 CHOL/HD-8.8
+LDLcalc-89
+[**2108-1-5**] 06:50AM BLOOD PTH-100*
+[**2108-1-7**] 01:15PM BLOOD HBsAg-NEGATIVE HBcAb-NEGATIVE
+[**2108-1-9**] 05:55AM BLOOD Vanco-20.4*
+[**2108-1-7**] 01:15PM BLOOD HCV Ab-NEGATIVE
+[**2108-1-5**] 07:38AM BLOOD pH-7.41
+[**2108-1-5**] 07:38AM BLOOD freeCa-1.08*
+.
+Discharge labs:
+
+[**2108-1-26**] 07:45AM BLOOD WBC-9.3 RBC-2.94* Hgb-8.8* Hct-25.8*
+MCV-88 MCH-30.0 MCHC-34.2 RDW-16.3* Plt Ct-278
+[**2108-1-27**] 04:56AM BLOOD PT-17.3* INR(PT)-1.6*
+[**2108-1-26**] 07:45AM BLOOD Plt Ct-278
+[**2108-1-26**] 07:45AM BLOOD Glucose-143* UreaN-34* Creat-2.2* Na-136
+K-3.6 Cl-97 HCO3-30 AnGap-13
+[**2108-1-26**] 07:45AM BLOOD Calcium-8.3* Phos-3.0 Mg-1.6 UricAcd-4.6
+[**2108-1-19**] 11:47 am SWAB      Source: Left 4th toe ulcer - deep.
+
+FINAL REPORT 02/2

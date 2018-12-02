@@ -1,0 +1,229 @@
+Admission Date:  [**2170-11-29**]              Discharge Date:   [**2170-12-25**]
+
+Date of Birth:  [**2085-2-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+erythromycin / Penicillins
+
+Attending:[**First Name3 (LF) 1711**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+Percutaneous coronary intervention with BMS placement x 2
+Intubation
+Central Line
+Arterial Line
+
+History of Present Illness:
+85 yr old female patient of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 8579**] with hx of CAD, CABG
+[**2131**] and stenting in [**2162**] as well as left leg angioplasty [**2158**],
+s/p right leg stents [**2-28**], also has a left common femoral
+aneurysm (still present after thrombin injection), on coumadin
+for PAF, who presents for elective cardiac catheterization
+tomorrow. Patient has experienced recent increased exertional
+angina. Symptoms occur often at nighttime, where she has noticed
+that she develops chest discomfort when she moves pillows around
+on her bed. She notes relief of the pain with one nitroglycerin
+or rest. She has had an abnormal stress test on [**2170-11-19**], which
+showed a fixed inferior defect but a reversible antero-apical
+defect.. EF is noted to be 41%. Dr. [**Last Name (STitle) 8579**] has requested
+Mucomyst administration prior and after cath.
+.
+Currently, patient reports no chest pain, shortness of breath,
+nausea or vomiting. She is without any pain at the current time.
+She reports no recent fevers or chills.
+.
+On review of systems, s/he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. She denies recent fevers, chills or
+rigors. She denies exertional buttock pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+palpitations, syncope or presyncope.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: - Diabetes, + Dyslipidemia, +
+Hypertension.
+2. CARDIAC HISTORY:
+-CAD s/p CABG in [**2131**].
+-PERCUTANEOUS CORONARY INTERVENTIONS: RCA, LAD ostial vein graft
+in [**2162**]; left SFA angioplasty in 8/99.
+-PACING/ICD: None.
+3. OTHER PAST MEDICAL HISTORY:
+CHF EF 41% on [**2170-11-19**] stress test
+Paroxysmal atrial fibrillation
+COPD
+DJD
+Peripheral vascular disease (s/p PTCA stent R SFA [**2-/2170**], PTCA
+stent L SFA [**2158**])
+spinal stenosis
+
+
+Social History:
+SOCIAL HISTORY: Lives in [**Location **] in [**Hospital3 **] facility.
+Has her own apartment. Has daughter [**Name (NI) 23875**] [**Name (NI) 23876**]
+(daughter-HCP): [**Telephone/Fax (1) 23877**] (cell), [**Telephone/Fax (1) 23878**] (home)
+-Tobacco history: Denies currently, significant past history, 2
+pks/day for many years
+-ETOH: Denies currently, social drinker previously
+-Illicit drugs: none
+
+Family History:
+Father who died of coronary artery disease.
+
+
+Physical Exam:
+On presentation:
+VS: T=96.3 BP=146/58 HR=76 RR=18 O2 sat=92%RA
+GENERAL: AAOx3, NAD. Mood, affect appropriate. Appears
+comfortable
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 3 cm above clavicle.
+CARDIAC: RR, normal S1, S2. 2/6 SEM loudest at LUSB. No thrills,
+lifts. No S3 or S4 noted.
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, no
+crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+
+EXTREMITIES: 2+ pitting edema present up to knees bilaterally.
+Venous stasis changes present bilaterally.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas noted.
+PULSES:
+Right: 2+ DP 2+ PT 2+
+Left: 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+On presentation:
+[**2170-11-29**] 07:45PM BLOOD WBC-4.5 RBC-2.90* Hgb-8.5* Hct-26.2*
+MCV-90 MCH-29.1 MCHC-32.3 RDW-15.3 Plt Ct-218
+[**2170-11-29**] 07:45PM BLOOD PT-12.4 PTT-25.5 INR(PT)-1.0
+[**2170-11-29**] 07:45PM BLOOD Glucose-132* UreaN-59* Creat-1.8* Na-139
+K-4.1 Cl-107 HCO3-24 AnGap-12
+[**2170-11-29**] 07:45PM BLOOD Calcium-9.2 Phos-4.2 Mg-2.2
+.
+On discharge:
+wbc: 6.8
+hgb: 7.3
+hct: 22.4
+plt: 420
+
+Na: 136, K: 4.1  CL: 104  bicarb; 24  BUN: 31  Cr: 1.1
+ca: 8.9  P: 3.1  Mg: 1.9
+
+.
+.
+Microbiology:
+URINE CULTURE (Final [**2170-12-22**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMIKACIN--------------   <=2 S
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+Blood cultures - all negative except for 2 sets pending on d/c
+C. diff toxins - neg x 2
+Respiratory cx - yeast and mold
+.
+Imaging:
+.
+[**11-30**] Cardiac Cath:
+1.  Coronary angiography in this right dominant system
+demonstrated
+a 50% lesion in the LMCA.  The LAD was totally occluded and
+filled via
+vein graft. The Lcx had a mid 50-60% discrete lesion. The RCA
+had a mid
+60-70% discrete instent restenosis.
+2.  Graft angiography demonstrated a svg to the mid LAD witha
+70%
+proximal lesion, instent restenosis with evidence of thrombus.
+3.  Resting hemodynamics revealed elevated right and left sided
+filling
+pressures with a pcwp of 25mmHG and RVEDP of 20mm Hg.  Moderate
+pulmonary hypertension was present with a PAP of 63mm Hg.
+Cardiac
+output was normal at 4L/min.  There was severe systolic
+hypertension at
+163mmHg while on a nitroglycerine drip.
+.
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease of the native arteries.
+Left
+main disease, and instent restenosis of SVG-LAD graft.
+2.  Severe systolic hypertension with evidence of diastolic
+dysfunction.
+3.  Moderate pulmonary hypertension.
+.
+[**11-30**] TTE: The left atrium and right atrium are normal in cavity
+size. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is low normal (LVEF 50%) secondary to inferior
+posterior hypokinesis. Right ventricular chamber size is normal.
+with depressed free wall contractility. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. The mitral valve leaflets are mildly thickened. There
+is no mitral valve prolapse. Mild to moderate ([**12-23**]+) mitral
+regurgitation is seen. Moderate [2+] tricuspid regurgitation is
+seen. There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion. There is an anterior space
+which most likely represents a prominent fat pad.
+.
+[**12-1**] CXR: As compared to the previous radiograph, the inferior
+vena cava
+catheter has been removed. The remaining monitoring and support
+devices are
+in unchanged position. Minimal retrocardiac atelectasis, the
+presence of a
+small left pleural effusion cannot be excluded. Unchanged
+borderline size of the cardiac silhouette without evidence of
+overt pulmonary edema.
+.
+[**12-15**] CXR: As compared to the previous examination, there is no
+relevant
+change. Moderate cardiomegaly without signs of overt pulmonary
+edema.
+Moderate tortuosity of the thoracic aorta. No pleural effusions.
+No focal
+parenchymal opacity suggesting pneumonia.
+
+[**12-19**]: UE venous US:
+IMPRESSION: Non-occlusive thrombus seen adherent to the PICC
+line within the left basilic vein extending into the left
+subclavian vein.
+
+[**12-24**] Renal US:
+1. No renal abscess or son[**Name (NI) 493**] signs of pyelonephritis.
+Please note that
+a normal ultrasound does not exclude the diagnosis of
+pyelonephritis.
+2. Benign simple-appearing right renal cyst.
+3. Bilateral renal calcifications likely representing vascular
+calcifications
+and tiny crystals with no evidence of obstructing stones or
+hydronephrosis.
+
+
+Brief Hospital Course:
+85 yr old female patient of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 

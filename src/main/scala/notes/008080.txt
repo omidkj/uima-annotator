@@ -1,0 +1,233 @@
+Admission Date:  [**2114-5-11**]              Discharge Date:   [**2114-5-17**]
+
+Date of Birth:  [**2056-11-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 552**]
+Chief Complaint:
+Sepsis
+
+Major Surgical or Invasive Procedure:
+Central line placement x2 (femoral and R subclavian)
+PICC placment and repositioning
+
+History of Present Illness:
+57 yo M recent discharge from [**Hospital1 18**] to rehab, now returns with
+tachycardia, hypotension and increasing lethargy/malaise and
+increasing WBC. Pt is positive for C diff, on PO Flagyl. En
+route to [**Hospital1 18**], BP dropped to 70s so diverted to [**Hospital1 **],
+where better access was obtained and an a-line was placed. He
+received 3500cc crystalloid with improvement in his BP and he
+was transferred to [**Hospital1 18**].
+
+Recent admission [**4-27**] to this hospital with fever, leukocytosis
+and hypotension, eventually dx'd with C diff and placed on PO
+VAnco. Urine cx returned yesterday with pseudomonas resistant to
+Cipro.
+
+In the ED here, VS: 97.9, 100/44, 76, 16, 100% A femoral CVL was
+placed. Levophed was started. He received Vanco, Zosyn, and
+Flagyl after cx obtained.
+
+On arrival to the MICU pt indicates that he feels better.
+
+Past Medical History:
+++ Pneumonia
+ - [**2114-1-15**]
+ - respiratory failure, intubation, tracheostomy
+++ Acalculous cholecystitis
+ - percutaneous cholecystostomy tube [**2114-2-21**]
+ - percutaneous tube dislodgement --> fever leukocytosis [**2114-3-12**]
+ - fever leukocytosis --> ERCP ([**First Name4 (NamePattern1) 3075**] [**Last Name (NamePattern1) 3549**]) w/ stent [**2114-4-9**]
+ - open cholecystectomy @ [**Hospital1 18**] [**2114-4-17**]
+++ Diabetes mellitus, insulin dependent
+++ Atrial fibrillation
+++ Congestive heart failure
+++ Chronic renal insufficiency
+++ MRSA
+++ CDiff
+++ hx ESBL-Klebs
+
+Past Surgery History
+- trach/EG
+- cholecystostomy tube on [**2-21**], Tube replaced on [**3-12**]
+
+Social History:
+Rehab since admission in [**Month (only) 1096**].  Used to live with his
+children, Taxi driver, Divorced, 2 children.
+
+
+Family History:
+Mother healthy; father with MI.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS: 96.7   81    136/61     18    100% on AC
+Gen: Chronically ill appearing
+[**Month (only) 4459**]: PERRL
+Neck: trach in place
+Heart: s1s2 RRR
+Pulm: Coarse BS bilaterally
+Abd: +BS, soft, mild TTP diffusely,
+Ext: trace edema
+Back: + sacral decubiti, packed
+Rectal: Guaiac negative brown stool
+Neuro: alert, awake, follows commands, MAE
+
+Pertinent Results:
+ADMISSION LABS:
+
+[**2114-5-10**] 11:00PM   WBC-21.1* RBC-2.89* HGB-8.5* HCT-26.5* MCV-92
+MCH-29.4 MCHC-32.1 RDW-15.0
+[**2114-5-10**] 11:00PM   NEUTS-89.7* LYMPHS-5.1* MONOS-1.6* EOS-3.3
+BASOS-0.3
+[**2114-5-10**] 11:00PM   GLUCOSE-261* UREA N-26* CREAT-1.2 SODIUM-135
+POTASSIUM-4.7 CHLORIDE-98 TOTAL CO2-27 ANION GAP-15
+[**2114-5-10**] 11:35PM   GLUCOSE-245* LACTATE-2.2* NA+-134* K+-4.7
+CL--98* TCO2-28
+[**2114-5-10**] 11:00PM   ALT(SGPT)-24 AST(SGOT)-46* CK(CPK)-24* ALK
+PHOS-391* TOT BILI-0.3
+[**2114-5-10**] 11:00PM   LIPASE-8
+[**2114-5-10**] 11:00PM   TOT PROT-5.6* CALCIUM-7.9* PHOSPHATE-3.8
+MAGNESIUM-1.7
+[**2114-5-10**] 11:00PM   PT-15.7* PTT-40.6* INR(PT)-1.4*
+
+WBC trend:
+[**2114-5-11**] 03:36AM BLOOD WBC-27.1* RBC-2.74* Hgb-7.9* Hct-25.1*
+MCV-92 MCH-28.9 MCHC-31.6 RDW-14.7 Plt Ct-245
+[**2114-5-12**] 04:22AM BLOOD WBC-14.5* RBC-2.88* Hgb-8.2* Hct-25.7*
+MCV-89 MCH-28.5 MCHC-32.0 RDW-15.5 Plt Ct-195
+[**2114-5-13**] 05:48AM BLOOD WBC-10.2 RBC-2.79* Hgb-8.2* Hct-24.9*
+MCV-90 MCH-29.3 MCHC-32.7 RDW-15.7* Plt Ct-182
+[**2114-5-14**] 06:40AM BLOOD WBC-12.5* RBC-3.13* Hgb-9.3* Hct-27.8*
+MCV-89 MCH-29.7 MCHC-33.4 RDW-15.4 Plt Ct-193
+[**2114-5-15**] 05:50AM BLOOD WBC-12.0* RBC-3.42* Hgb-9.8* Hct-30.9*
+MCV-91 MCH-28.7 MCHC-31.7 RDW-15.2 Plt Ct-208
+
+Discharge labs:
+
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC  Hgb   Hct  MCV MCH  MCHC RDW
+PltCt
+[**2114-5-17**] 07:46AM    9.6 3.07* 9.3* 27.1* 88 30.2 34.3 15.8*
+196
+[**2114-5-17**] 07:46AM        PT, PTT, INR, Plt Ct: 14.5*, 39.4*,
+1.3*, 196
+Chemistry
+  RENAL & GLUCOSE    Glucose UreaN Creat  Na   K   Cl HCO3 AnGap
+
+[**2114-5-17**] 09:41AM    136*   11    0.4*  138 3.3 107 25     9
+
+Micro:
+[**2114-5-12**] 5:44 pm SPUTUM      Source: Endotracheal.
+                            **FINAL REPORT [**2114-5-14**]**
+
+   GRAM STAIN (Final [**2114-5-12**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+
+   RESPIRATORY CULTURE (Final [**2114-5-14**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      YEAST.    RARE GROWTH.
+.
+[**2114-5-10**] 11:00 pm BLOOD CULTURE     Site: ARM
+
+                            **FINAL REPORT [**2114-5-16**]**
+
+   Blood Culture, Routine (Final [**2114-5-16**]):    NO GROWTH.
+.
+[**2114-5-10**] 11:45 pm BLOOD CULTURE     Site: CENTRAL LINE
+      CENTRAL LINE-X2.
+
+   Blood Culture, Routine (Pending):
+.
+[**2114-5-11**] 12:45 am URINE     Site: CATHETER
+
+                            **FINAL REPORT [**2114-5-12**]**
+
+   URINE CULTURE (Final [**2114-5-12**]):    NO GROWTH.
+.
+Radiographic studies:
+.
+[**5-11**] CT chest/abd/pelvis:
+IMPRESSION:
+1. No cause for the patient's sepsis identified. No
+intra-abdominal or
+intrapelvic abscess. No evidence of pneumonia.
+
+2. Small bilateral pleural effusions and bibasilar atelectasis.
+
+3. Sacral decubitus ulcer with slightly increased gas in the
+subcutaneous
+tissues to the right of the coccyx. It is unclear if this
+increased gas is
+related to progressive infection or manipulation/debridement.
+Clinical
+correlation is recommended.
+.
+PORTABLE CHEST, [**2114-5-12**]
+
+COMPARISON: Comparison study of one day earlier.
+
+INDICATION: Possible pneumonia.
+
+FINDINGS: Indwelling devices are in standard position, and
+cardiomediastinal contours are unchanged. Lower lung volumes
+result in crowding of bronchovascular structures, limiting
+assessment of volume status of the patient. Increasing patchy
+opacities at both bases may be due to atelectasis, but attention
+to these areas on repeat radiograph with improved inspiratory
+level may be helpful. Left-sided loculated fluid versus pleural
+thickening is unchanged.
+.
+HISTORY: 57-year-old man, now status post placement of new PICC
+line, assess
+for placement.
+
+COMPARISON: [**2114-5-12**].
+
+AP PORTABLE CHEST RADIOGRAPH:
+
+The left-sided PICC line is seen curled around in the axillory
+region.
+
+The right subclavian central venous line is in unchanged
+position with the tip at the mid SVC. The patient is status post
+tracheostomy, but the apparatus is seen without apparent
+complications. There is persistent low lung volume, with
+appearance of crowding of bronchovascular structures. The
+previously noted left side opacity is unchanged and also
+suggestion of left- sided fluid vs. pleural thickening.
+
+LEFT UPPER EXTREMITY DUPLEX ULTRASOUND DATED [**2114-5-16**]:
+IMPRESSION: Thrombosis of the cephalic vein in the region of the
+existing PICC line. No deep venous thrombosis.
+
+
+Brief Hospital Course:
+57M with MMP returning from rehab with rising WBC and hypoTN,
+concerning for sepsis.
+
+# Hypotension: Most likely cause in setting of leukocytosis and
+recent infections is recurrence of sepsis (most likely urine,
+but other possible sources include c diff, pneumonia, sacral
+decubiti). No evidence of cardiogenic shock [**3-19**] cardiac ischemia
+based on 12-lead; no indication of hemorrhage (guaiac neg).  In
+the ED had right femoral line placed, was volume resuscitated
+and started on Levophed.  Upon arrival in the ICU, he was
+continued on volume resuscitation and he pressors were ulimately
+weaned the day of admission.  Given his history of Cipro
+resistent Pseudomonas and ESBL Klebsiella, he was empirically
+started on Meropenum / Vancomycin with Flagyl given history of
+C.diff.  On [**5-11**], a right subclavian line was placed and a CT
+Torso was obtained to evaluate for potential source but was
+unrevealing.  Once hemodynamically stable, he was transferred to
+the floor for continued care. Patient remained stable on the
+floor. Sputum culture showed yeast, all other cultures negative.
+Plastic surgery examined sacral wound and felt was healing well,
+unlikely sou

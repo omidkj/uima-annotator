@@ -1,0 +1,196 @@
+Admission Date:  [**2101-12-27**]              Discharge Date:   [**2102-1-4**]
+
+Date of Birth:  [**2024-11-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim / Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+GI Bleed
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+76 yo female with Diastolic CHF (EF of 60%), SLE, ESRD on HD,
+diverticulosis, CAD on plavix/ASA, known colovaginal fistula,
+presents with bright red blood per vagina mixed with feces
+starting 9AM this morning while going to the bathroom. Patient
+is currently intubated and sedated, but per report, she was in
+her usual state of health until this morning w/ no N/V/abd
+pain/F/C. Pt has had h/o vaginal bleeding previously, but never
+to this extent. She also has a long history of urosepsis [**2-22**]
+stool output from vagina, most recently in [**2-/2101**] per [**Hospital1 18**]
+records.
+
+
+Past Medical History:
+Diastolic CHF (ECHO [**2098**]: LVEF 60%)
+SLE w/ chronic renal insufficiency [**2-22**] focal sclerosis (baseline
+Cr 2.5-3.0)
+CKD on HD (on Aranesp?)
+Atrial fibrillation off coumadin
+HTN
+CAD s/p CABG ([**2093**]) on plavix
+Hyperlipidemia
+Gout
+Mod-Sev MR
+h/o diverticulitis
+Rectovaginal Fistula
+Osteoporosis
+h/o esophagitis
+h/o aspiration pneumonia
+s/p cholecystectomy
+
+Social History:
+Cantonese speaking only.
+- Tobacco: none
+- Alcohol: none
+- Illicits: none
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Physical Exam on Admission:
+GEN:   intubated, sedated
+PULM: cta b/l but decr BS at left base
+CARD: RRR, no m/r/g
+ABD:  +BS, soft, NTND
+EXT:  diminished pulses radial and PT/DP
+GU/RECTAL: Brown stool, guaiac positive in rectum. Oozing bright
+red blood from vagina, no masses or packing on digital vaginal
+exam.
+
+Pertinent Results:
+Labs on Admission:
+[**2101-12-27**] 11:10AM   PT-13.0 PTT-28.1 INR(PT)-1.1
+[**2101-12-27**] 11:14AM   GLUCOSE-115* LACTATE-1.7 NA+-137 K+-4.9
+CL--95* TCO2-23
+[**2101-12-27**] 12:30PM   WBC-6.8# RBC-2.88* HGB-11.0* HCT-34.4*
+MCV-119* MCH-38.3* MCHC-32.1 RDW-14.8
+[**2101-12-27**] 08:20PM   FIBRINOGEN-276
+
+Micro:
+[**12-29**] Blood Cx: budding yeast
+[**12-28**] Urine Cx: E.Coli
+[**12-29**] C.diff negative
+
+Imaging
+- CT abd/pelvis [**12-27**]: 1. No definite evidence for active
+extravasation in the region of the known colovaginal fistula. 2.
+Saccular infrarenal aortic aneurysm measuring up to 3 cm in
+diameter is stable in size. 3. Extensive diverticulosis without
+evidence for diverticulitis. 4. Atrophic kidneys with multiple
+cysts bilaterally consistent with history of end-stage renal
+disease.
+
+-Echo [**12-29**]:
+The left atrium is elongated. Left ventricular wall thicknesses
+are normal. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is low normal (LVEF 50%).
+Right ventricular chamber size and free wall motion are normal.
+The aortic root is mildly dilated at the sinus level. The aortic
+valve leaflets (3) are mildly thickened. No masses or
+vegetations are seen on the aortic valve, but cannot be fully
+excluded due to suboptimal image quality. There is a minimally
+increased gradient consistent with minimal aortic valve
+stenosis. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. There is no mitral valve
+prolapse. An eccentric, posteriorly directed jet of moderate
+(2+) mitral regurgitation is seen. Due to the eccentric nature
+of the regurgitant jet, its severity [**Known firstname **] be significantly
+underestimated (Coanda effect). An echodensity associated with
+the anterior mitral leaflet, on its atrial aspect is seen, most
+likely representing an acoustic artifact, but a vegetation
+cannot be excluded with certainty. The tricuspid valve leaflets
+are mildly thickened. Moderate to severe [3+] tricuspid
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. No vegetation/mass is seen on the
+pulmonic valve. Significant pulmonic regurgitation is seen.
+There is no pericardial effusion.
+Compared with the findings of the prior study (images reviewed)
+of [**2101-2-24**], the findings are similar.
+If clinically indicated, a transesophageal echocardiographic
+examination is recommended. If clinically suggested, the absence
+of a vegetation by 2D echocardiography does not exclude
+endocarditis.
+.
+Echo [**1-2**]: Thickened mitral leaflets with moderate to severe
+mitral regurgitation, but no discrete vegetation. Mild aortic
+regurgitation without discrete vegetation. Moderate pulmonary
+hypertension.
+.
+US AV graft [**1-2**]:
+IMPRESSION: No fluid collection or evidence of abscess is seen
+at the site of the patient's left arm AV fistula.
+
+
+Brief Hospital Course:
+76 yo F with lupus nephritis, CKD on HD, CAD s/p CABG, HTN,
+rectro-vag fistula who presented to the ER with likely GI
+bleeding of diverticular source admitted to the MICU for GI
+bleed, hypotension and respiratory failure.
+.
+# GI bleed: The patient presented to the ER with bright red
+blood per vagina mixed with feces while going to the bathroom.
+The patient has had h/o vaginal bleeding previously, but never
+to this extent. She also has a long history of urosepsis [**2-22**]
+stool output from vagina from a known rectal vaginal fistula.
+CTA did not demonstrate active bleeding. No further BRBPR during
+her admission. Gyn, GI and Surgery were consulted in the ER and
+followed while in the MICU. The likely source of the bleeding
+was deemed to be from a diverticular bleed that was near the
+fistular opening. GI did not pursue colonoscopy at this time
+given patient's tenuous status. GYN stated the potential for
+fistula repair via a sub-total colectomy followed by exision of
+the fistula, should the patient stabilize clinically. Patient
+had no further bleeding after first night of admission and
+hematocrit was stable, but was critically ill throughout her
+stay so no surgical intervention or workup of the fistula was
+pursued.
+.
+# Hypoxic respiratory failure: In the ER she received 1.7L of
+fluid for hypotension and shortly thereafter the patient
+developed acute pulmonary edema and tachypnea. She received
+Bipap, nitro SL, and nitro gtt with no improvement. Her BP
+dropped to 80's/40's and she was intubated. She was sent to the
+MICU for management of her respiratory failure. Thoughts for her
+hypoxic respiratory failure included infection, hypervolemia,
+CHF exacerbation. Less likely TRALI or ARDS following blood
+transfusion since per ED report pt had received fluids prior to
+intubation. She remained intubated and sedated until she was
+terminally extubated at the decision of her family given her
+critical illness and lack of improvement.
+.
+# Septic Shock: On [**12-29**], pt had positive blood cultures that was
++ for [**Female First Name (un) **] with Urine cx showing E.Coli.  Source of blood
+infection unclear, thought to be ascending urinary tract,
+vaginal infection given fistula or AV fistula source. No
+evidence of infection in AV fistula or any lines per transplant
+surgery. The patient was started on Micafungin. A TTE was
+performed which showed an echodensity and they could not rule
+out a vegetation. A TEE did not demonstrate any evidence of
+vegetation and AV graft showed no evidence of infection.
+Transplant surgery did not think the graft looked infected
+either. The patient was given Vanc/Cefepime/flagyl for
+broad-spectrum antibiotic coverage, then started on micafungin
+when [**Female First Name (un) **] grew in the bloodstream.  OB/GYN and ID felt
+candidemia [**Known firstname **] be secondary to source from fistula, and blood
+cultures cleared after she was started on micafungin. However,
+patient remained on double pressors and CVVH during MICU stay.
+Stress dose steroids were also tried one day prior to death.
+.
+# Rectovaginal fistula: The patient has a known diagnosis of
+rectovaginal fistula diagnosed in [**2096**]. Surgery, GI, and gyn
+consulted. No indication to repair while patient septic and
+intubated.
+.
+# CRF: Given hypotension, Pt did not undergo her usual
+Tues/Thurs/Sat HD and instead underwent CVVH for K,H+ clearance.
+When initially started on this on [**12-28**], she became hypothermic
+to 92 degrees and it was stopped. It was restarted 

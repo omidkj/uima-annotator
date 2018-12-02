@@ -1,0 +1,220 @@
+Admission Date:  [**2119-10-2**]              Discharge Date:   [**2119-10-13**]
+
+Date of Birth:  [**2043-5-9**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Lasix
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+Chest pain, shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2119-10-5**] Aortic Valve Replacement(21mm Porcine). Mitral Valve
+Replacement(29mm Porcine). Two Vessel Coronary Artery Bypass
+Grafting utilizing the LIMA to LAD, and vein graft to obtuse
+marginal.
+[**2119-10-2**] Cardiac Catheterization
+
+
+History of Present Illness:
+Mr. [**Known lastname 3315**] is a 76 year old male with chronic diastolic
+congestive heart failure(aortic stenosis, mitral regurgitation)
+and chronic atrial fibrillation who presented to outside
+hospital with progressive shortness of breath and chest pain for
+the last six months. He admits to occasional rest pain as well.
+During that admission, he was found to be anemic and transfused
+with several units of PRBC's. Endoscopy found a nonbleeding AV
+malformation in the proximal duodenum. Given his above cardiac
+status, he was transferred to the [**Hospital1 18**] for further evaluation
+and treatment.
+
+Past Medical History:
+-Coronary Artery Disease, prior PCI
+-Aortic Stenosis
+-Mitral Regurgitation
+-Chronic Diastolic Congestive Heart Failure
+-Cerebrovascular Disease, prior TIA's, s/p right carotid stent,
+s/p Right CEA
+-Hypertension
+-Dyslipidemia
+-Chronic Atrial Fibrillaton
+-Chronic Renal Insufficiency
+-COPD
+-Anemia
+-History of GIB, AV Malformation(duodenum)
+-BPH, s/p TURP
+
+
+Social History:
+Lives alone. Quit tobacco about one months ago, prior heavy
+tobacco use. He denies ETOH.
+
+Family History:
+Father died at age 36 from MI.
+
+Physical Exam:
+Admit PE: 5'[**22**]"   67.1 kg
+T afebrile, BP 169/90, HR 69, R 20, 93% on 2L
+thin male in NAD
+PERRL, EOMI, oropharynx benign
+neck supple, no JVD, no carotid bruits
+irreg, irreg, 3/6 systolic murmur at RUSB and LLSB
+lungs clear anteriorly
+abdomen soft, slightly distended, non tender with normoactive
+bowel sounds
+extremities cool, no edema, decreased distal pulses
+alert and oriented, cn2-12 grossly intact, no focal deficits
+noted
+
+Pertinent Results:
+[**2119-10-11**] 05:47AM BLOOD WBC-8.8 RBC-2.98* Hgb-9.5* Hct-27.1*
+MCV-91 MCH-32.0 MCHC-35.2* RDW-16.3* Plt Ct-189
+[**2119-10-2**] 05:15PM BLOOD WBC-5.7 RBC-3.47* Hgb-10.6* Hct-29.8*
+MCV-86 MCH-30.7 MCHC-35.7* RDW-15.7* Plt Ct-214
+[**2119-10-13**] 05:58AM BLOOD PT-18.6* PTT-33.5 INR(PT)-1.7*
+[**2119-10-11**] 05:47AM BLOOD Plt Ct-189
+[**2119-10-2**] 05:15PM BLOOD Plt Ct-214
+[**2119-10-2**] 05:15PM BLOOD PT-15.5* PTT-114.6* INR(PT)-1.4*
+[**2119-10-13**] 05:58AM BLOOD Glucose-90 UreaN-25* Creat-1.7* Na-136
+K-4.2 Cl-104 HCO3-26 AnGap-10
+[**2119-10-2**] 05:15PM BLOOD Glucose-134* UreaN-25* Creat-1.8* Na-135
+K-3.5 Cl-100 HCO3-26 AnGap-13
+[**2119-10-4**] 12:40PM BLOOD ALT-24 AST-29 LD(LDH)-243 AlkPhos-70
+TotBili-0.5
+[**2119-10-13**] 05:58AM BLOOD Calcium-8.6 Mg-1.9
+[**2119-10-4**] 12:40PM BLOOD %HbA1c-5.6
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 3316**] M  76  [**2043-5-9**]
+
+Cardiology Report ECG Study Date of [**2119-10-10**]  10:16:10 AM
+
+
+Atrial fibrillation with controlled ventricular response.
+Diffuse
+non-specific ST-T wave changes. Compared to the previous tracing
+of [**2119-10-5**]
+the rhythm is now atrial fibrillation and the other findings are
+similar.
+
+
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **] V.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+59 0 90 470/468 0 71 -32
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 3317**] (Complete)
+Done [**2119-10-5**] at 9:40:48 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2043-5-9**]
+Age (years): 76 M  Hgt (in): 71
+BP (mm Hg): 128/66  Wgt (lb): 136
+HR (bpm): 68  BSA (m2): 1.79 m2
+Indication: intraop management for AVR/MVR/CABG.
+ICD-9 Codes: 440.0, 424.1, 424.0, 786.05, 786.51, 799.02
+Test Information
+Date/Time: [**2119-10-5**] at 09:40    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3319**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW2-: Machine: 2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.1 cm  <= 4.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.6 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.5 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.8 cm
+Left Ventricle - Fractional Shortening:  *0.16  >= 0.29
+Left Ventricle - Ejection Fraction:  45% to 50%  >= 55%
+Aorta - Annulus:  2.2 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.0 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.6 cm  <= 3.0 cm
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Aorta - Arch:  2.7 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *2.7 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.9 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  14 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  13 mm Hg
+Aortic Valve - LVOT pk vel:  0.50 m/sec
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *0.7 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. Mild spontaneous echo
+contrast in the body of the LA. No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **]
+LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size.
+Mildly depressed LVEF.
+
+LV WALL MOTION: Regional left ventricular wall motion findings
+as shown below; remaining LV segments contract normally.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending aorta diameter. Normal aortic arch
+diameter. Simple atheroma in aortic arch. Mildly dilated
+descending aorta. Complex (>4mm) atheroma in the descending
+thoracic aorta.
+
+AORTIC VALVE: ?# aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Severe AS (AoVA
+<0.8cm2). Moderate (2+) AR. Eccentric AR jet directed toward the
+anterior mitral leaflet.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Myxomatous mitral valve leaflets. Mild mitral annular
+calcification. MR vena contracta is >=0.7cm Severe (4+) MR.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized. Mild [1+]
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. Results were personally reviewed with the MD
+caring for the patient.
+Conclusions
+PREBYPASS
+
+1. The left atrium is moderately dilated. Mild spontaneous echo
+contrast is seen in the body of the left atrium. No
+mass/thrombus is seen in the left atrium or left atrial
+appendage. No atrial septal defect of PFO is seen by 2D or color
+Doppler.
+
+2. There is moderate symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. Overall left ventricular
+systolic function is mildly depressed (LVEF= 45-50 %). The
+remaining left ventricular segments contract normally.
+
+3. Right ventricular chamber size and free wall motion are
+normal.
+
+4. There are simple atheroma in the aortic arch. The descending
+thoracic aorta is mildly dilated. There are simple atheroma in
+the descending thoracic aorta. There are complex (>4mm) atheroma
+in the descending thoracic aorta.
+
+5. The aortic valve leaflets are moderately thickened. There is
+severe aortic valve stenosis (area <0.8cm2). Moderate (2+)
+aortic regurgitation is seen. The aortic regurgitation jet is

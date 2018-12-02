@@ -1,0 +1,187 @@
+Admission Date:  [**2143-11-2**]              Discharge Date:   [**2143-11-30**]
+
+Date of Birth:  [**2065-10-30**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Quinolones
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+fever, cough
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+78F with hx of HTN, dCHF, COPD (?FEV1), CAD, CVA who presents to
+the ED with weakness, increased wheezing, fever, shortness of
+breath.  Pt's family states that pt was in usual state of health
+until 10 days prior to admission when she got a flu shot at her
+PCP's office.  Since that time, she has been weak, fatigued with
+fevers/chills, nausea and vomiting.  She states that she was
+using her inhaler for shortness of breath and wheezing but it
+wasn't helping.  [**Name (NI) 1094**] son took her out to dinner on the night
+prior to admission and notes that she looked well.  She ate a
+good dinner but afterwards, her son reports that she was more
+wheezy than her baseline.  He got concerned today when she did
+not show up at her hair appointment.  He went to her home and
+found her sitting up in her chair, nauseous, weak and wheezing.
+She had not yet taken her medications yet for the day.  She was
+also complaining of RUQ abdominal pain and short of breath.  He
+then took her to the ER.
+.
+At baseline, pt has a chronic cough productive of white sputum
+which has not recently changed in color or frequency.   She is
+fully functional, lives alone, performs all of her ADLs, walks
+without a walker. Her only residual deficit from her stroke is
+right hand weakness and some word finding difficulties. At
+baseline, she can only walk up 3-4 steps before getting short of
+breath.   She has no recent travel, no sick contacts though her
+son recently had a cold.  She coughs occasionally when she eats
+and depending on what she is eating.  She sleeps on one big
+pillow at home and this has not changed.  No recent medication
+changes, no increase in her weight, no change in her diet.  She
+denies any diarrhea.
+.
+In ED, she was found to have a temp of 101 and O2 sat of 88% on
+RA.  She pt received ceftriaxone/azithro and flagyl for presumed
+PNA.  Pt was then noted to cough up a large amount of blood
+streaked sputum though the next sputum was clear of blood.
+Given concern for PE a CTA was ordered but pt was hydrated with
+1L of NS over 2 hours prior to the study due to her cr of 1.8.
+After the fluid bolus, pt became more hypoxic requiring a NRB
+and then BiPAP which she did not tolerate.  She received 20mg of
+IV lasix x 2 to which she responded poorly to and she was
+started on a nitro drip for hypertension to the 180s.  She
+continued to have increased work of breathing with a RR of 40
+and she asked to be intubated.  On the propofol, she dropped her
+pressure to the 80s and she was given Narcan 1mg x 1.  Her
+pressure improved to the 100s.  The CTA was cancelled given her
+tenuous resp status and she was transferred to the [**Hospital Unit Name 153**].
+
+Past Medical History:
+* left carotid stenosis s/p CEA in [**2137**]
+* hx of left hemisphere stroke in [**2137**]
+* hypertension
+* mild-to-moderate aortic stenosis
+* CAD s/p stent in RCA and stent in OM1 in [**2137**]
+* diastolic CHF (EF 70-80% on echo in [**2141**])
+* COPD
+* hx of prior intubations for resp distress
+* hx of UGIB (H pylori pos) in [**2137**]
+* hx of gallstone pancreatitis s/p cholecystectomy in [**2137**]
+* hx of appendectomy
+
+Social History:
+no history of alcohol or current tobacco use but 2-3 packs per
+day x 40 years, stopped in [**2137**]. She lives alone, performs all
+her ADLs, drives.  Son and daughter both live nearby
+
+Family History:
+grandmother having had valve disease; no hx of early CAD; no
+family hx of blood clots
+
+Physical Exam:
+Exam: temp 101.6, BP 108/44, HR 107, R 19, O2 96% on AC
+400/24/5/100%
+ht 5'2", wt 160#
+Gen: intubated, agitated, following commands
+HEENT: MMM, PERRL
+Neck: JVD not appreciable due to neck size
+CV: regular, tachy, [**1-28**] holosystolic murmur at RUSB --> carotids
+Chest: decreased breath sounds at bilateral bases, R>L; no
+wheezing, no crackles heard
+Abd: hypoactive bowel sounds, soft, nontender
+Ext: no edema, 2+DP
+Neuro: intubated but follows commands
+
+Pertinent Results:
+STUDIES:
+EKG: NSR, nl axis, PRWP with Q waves in V1-V2; J point elevation
+in V1 and V2; compared to prior from [**2137**], V1-V2 J-point is
+higher
+.
+CXR Pa/Lat:
+1.    Persistent  bilateral  pleural  effusions.
+2.    Advanced  emphysema.
+3.    Bibasilar  opacities,  presenting  scarring  versus
+atelectasis.
+.
+pCXR (after fluid bolus): increased interstitial markings
+.
+[**2143-11-4**] TTE:
+1. The left atrium is mildly dilated. No atrial septal defect or
+patent
+foramen ovale is seen by 2D, color Doppler or saline contrast.
+2. The left ventricular cavity size is normal. Due to suboptimal
+technical  quality, a focal wall motion abnormality cannot be
+fully excluded. Left  ventricular systolic function is
+hyperdynamic (EF>75%).
+3. The aortic valve leaflets are moderately thickened. The
+aortic valve is not well seen. There is mild aortic valve
+stenosis. No aortic regurgitation is seen.
+4. The mitral valve leaflets are mildly thickened. Trivial
+mitral
+regurgitation is seen.
+5. There is moderate pulmonary artery systolic hypertension.
+6. Comapred to the previous study of [**2142-11-9**], there is
+probably no
+significant change.
+.
+.
+[**2143-11-16**] R UE USN: negative for thrombosis.
+.
+
+Brief Hospital Course:
+Pt presented to [**Hospital Unit Name 153**] with stable SBP, though intubated
+electively given increasing respiratory distress after IVF bolus
+in anticipation of CTA to evaluate for PE.
+.
+.
+# hypoxia: initial cause of hypoxia felt to be related to
+pneumonia, which was exacerbated by component of CHF caused by
+fluid hydration in anticipation of CTA to rule out PE in ED.
+upon presentation to [**Hospital Unit Name 153**], plan was to treat with antibiotics
+and gentle diuresis, however exact volume status was unclear,
+and SBPs ranged in 80-90s, thus did not appear that pt would
+tolerate diuresis.  antibiotic regimen was broadened to from
+ceftriaxoneazithro/flagyl to cefipime/azithromycin/flagyl [**11-5**]
+after pt spiked fevers (100.4), and pt was treated with
+albuterol and atrovent nebulizers for hypoxia.  initial
+hemoptysis was felt most likely [**1-24**] to chronic cough and
+brochiectasis.  flagyl was d/c'd 11/15 per ID recs, aspiration
+felt unlikely.
+.
+pt's oxygenation initially did not change substantially with
+variation in FiO2, raising concerning about shunt physiology,
+possibly [**1-24**] pneumonia or CHF.  A TTE was obtained which showed
+normal EF, but E/A 0.7, mild MR (though this was felt to be
+underestimated on TTE given her murmur), no intracaridac shunt
+on bubble study.   CT chest showed bilateral pulmonary
+effusions, which were noted on prior CT.  ID consult obtained on
+[**11-3**] to evaluate for other sources of infection, however sense
+was that the pulmonary process was most likely.  thoracentesis
+performed on [**11-8**] which was transudative with ~500 WBC felt
+consistent with para-pneumonic effusion.
+.
+Pt continued to require ventilator support for hypoxia, though
+by HD#5, her pneumonia seemed to be resolving (WBC trending
+down, afebrile), and pulmonary edema [**1-24**] poor UOP was felt to be
+an increasing cause of her hypoxia.  She was started on lasix
+gtt on [**11-6**].  this was initially limited by episodes of
+hypotension, but was ultimately titrated up to 18 mg/hr on
+[**11-16**], with only modest diuresis.  Pt remained +9L on [**11-16**],
+with CXR showing persistent pleural effusion/pulmonary edema.
+.
+On [**11-11**], pt was having low grade temps (100.0), with new
+changes in sputum (thick yellow).  Sputum cultures on [**11-5**]
+showed GNR, on [**11-8**] and [**11-10**] showed pseudomonas.  Pt was
+witched from cefipime to meropenem given concern for resistent
+gram negatives on [**11-11**].  Sputum initially cleared, but on [**11-16**]
+changed again from white to yellow and thick.  Given concern for
+new VAP, low threshold to start vancomycin.
+.
+On HD#9 and again on HD#14 the possibility of tracheostomy/peg
+was discussed with pt's daughter, who is amenable to plan,

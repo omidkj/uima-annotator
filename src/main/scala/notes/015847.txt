@@ -1,0 +1,228 @@
+Admission Date:  [**2133-1-10**]              Discharge Date:   [**2133-1-14**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2751**]
+Chief Complaint:
+coffee-ground emesis.
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+PI: Mrs. [**Known lastname **] is an 88-year-old woman with dementia,
+hypertension, anxiety, and recurrent UTI's who presents from her
+nursing home ([**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Nursing Care Center) with 1 episode of
+coffee-ground emesis, during which she reportedly became
+diaphoretic and dropped her sats. Per nursing home notes, she
+was alert with some confusion at 10:30 pm on the night prior to
+admission. She had an episode of vomitting undigested food, her
+heart rate went to 130 with O2 sat of 91% and otherwise stable
+vitals. She then had another episode of vomiting "dark
+coffee-ground color" emesis, again tachycardic to 110. She was
+at this time noted to be pale with blue lips and chills. She was
+given a neb treatment for sats to 88% and transferred to [**Hospital1 18**]
+for further evaluation.
+
+In the ED, initial vitals: T 99, HR 94, BP 106/58, RR 18, sat
+100% 4L. She had an NG lavage with coffee grounds but
+subsequently cleared. Initial labs were significant for Hct
+40.5, normal coags, Trop 0.05 with negative CK/MB, renal
+function 27/1.0, lactate 3.8, WBC count 11.4 with 15% bandemia.
+About 7 hours later, her Hct was noted to be to 34.2 and Trop
+now 0.07. CXR was concerning for RML consolidation. EKG was
+concerning for ST depressions in V2-V6, I, II, aVL and <[**Street Address(2) 4793**]
+elevations in III. She was not having chest pain and was not
+given an ASA due to the GIB.
+
+Pt has been given Protonix 40mg (80mg?) IV and then gtt. She
+received 1L IV normal saline, but it is unclear if she received
+RBC transfusion. GI was consulted and recommended IVF, NPO, and
+serial hematocrits. She has an active T&S and PIV's x2, 18g in
+her R and L wrists.
+
+The pt reportedly had bp's as low as the high 90's/50's, but
+vitals before transfer to [**Hospital Unit Name 153**] were: HR 87, BP 115/57, RR 14,
+sat 98% 2L.
+
+Of note, patient lives at nursing home largely because of
+dementia, waxing/[**Doctor Last Name 688**] mental status, and dependency for most
+ADLs and IADLs. Per her nephew and healthcare proxy, she has
+moments of clarity, but her short-term memory overall is very
+poor. She does not walk due to severe spinal osteoarthritis and
+pain with standing.
+
+
+Past Medical History:
+PMH:
+# Senile Dementia with Delusional Features
+# Osteoporosis
+# Osteoarthritis
+# Recurrent UTIs: 2 since [**1-13**].
+# Hypertension: +fluctuations in BP with spells of anxiety
+# Spinal stenosis
+# Anxiety
+# S/p rheumatic fever as a child
+# Congestive heart failure
+# Depression and Anxiety
+
+Social History:
+SOCIAL HISTORY:  Lives close to nephew in [**Hospital3 **]
+facility Falls at Cordingly [**Doctor Last Name **] ([**State 55056**], [**Location (un) 745**], MA.
+Tel. [**Telephone/Fax (1) 55057**], primary nurse: [**Doctor First Name **]) with private nursing
+staff/aides. Social EtOH, denies tobacco and illicits.  Born in
+[**Country 4754**] - moved here in [**2068**].
+
+
+Family History:
+FAMILY HISTORY:
+-Mother died of complications of tuberculosis in
+her 30s.
+-Father died in his 80s.
+-She had 2 brothers and 1 sister all of whom died of childhood
+diseases including scarlet fever and diphtheria.
+- 1 remote relative w/ early CVA o./w no premature CAD/ CVA/
+- no familia malignancies
+
+
+Physical Exam:
+PHYSICAL EXAM:
+General: elderly woman, lying on her side, responds to simple
+questions; knows the place, month, and date; does not know the
+president, does not know the year
+Vitals: T 99, BP 115/53, HR 77, sat high 90s on 2L
+HEENT: moist mucus membranes
+Neck: supple
+Chest: regular rate and rhythm, normal s1/s2, no murmurs
+Lungs: clear bilaterally posterior fields, poor inspiratory
+effort
+Abdomen: soft, non-tender, hypoactive bowel sounds
+Extremities: warm, well-perfused, non-edematous
+Hands: DIP joint swelling in fingers, non-erythmatous, not warm,
++tenderness, likly consistent with RA
+
+
+Pertinent Results:
+[**2133-1-10**] 02:37AM   LACTATE-3.8*
+[**2133-1-10**] 02:37AM   COMMENTS-GREEN TOP
+[**2133-1-10**] 02:39AM   PT-12.7 PTT-24.0 INR(PT)-1.1
+[**2133-1-10**] 02:39AM   PLT SMR-NORMAL PLT COUNT-300
+[**2133-1-10**] 02:39AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-1+
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL
+OVALOCYT-OCCASIONAL TEARDROP-OCCASIONAL
+[**2133-1-10**] 02:39AM   NEUTS-74* BANDS-15* LYMPHS-10* MONOS-1* EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2133-1-10**] 02:39AM   WBC-11.4* RBC-4.53 HGB-14.0 HCT-40.5 MCV-89#
+MCH-31.0# MCHC-34.7 RDW-14.1
+[**2133-1-10**] 02:39AM   CK-MB-5 cTropnT-0.05*
+[**2133-1-10**] 02:39AM   CK(CPK)-62
+[**2133-1-10**] 02:39AM   estGFR-Using this
+[**2133-1-10**] 02:39AM   GLUCOSE-149* UREA N-27* CREAT-1.0 SODIUM-137
+POTASSIUM-3.5 CHLORIDE-98 TOTAL CO2-25 ANION GAP-18
+[**2133-1-10**] 09:25AM   HCT-34.2*
+[**2133-1-10**] 09:25AM   cTropnT-0.07*
+[**2133-1-10**] 02:30PM URINE  MUCOUS-FEW
+[**2133-1-10**] 02:30PM URINE  RBC-1 WBC-4 BACTERIA-FEW YEAST-NONE
+EPI-0
+[**2133-1-10**] 02:30PM URINE  BLOOD-TR NITRITE-POS PROTEIN-300
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0
+LEUK-LG
+[**2133-1-10**] 02:30PM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 155**]-1.010
+[**2133-1-10**] 02:30PM   PT-12.9 PTT-28.5 INR(PT)-1.1
+[**2133-1-10**] 02:30PM   PLT SMR-NORMAL PLT COUNT-290
+
+[**2133-1-10**] 2:30 pm URINE     Site: CATHETER      Source: Catheter.
+
+
+                            **FINAL REPORT [**2133-1-12**]**
+
+   URINE CULTURE (Final [**2133-1-12**]):
+      PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMIKACIN--------------   <=2 S
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+[**2133-1-10**] 2:30 pm MRSA SCREEN      Source: Nasal swab.
+
+                            **FINAL REPORT [**2133-1-12**]**
+
+   MRSA SCREEN (Final [**2133-1-12**]):    No MRSA isolated.
+
+[**Known lastname **],[**Known firstname 8031**] [**Medical Record Number 55058**] F  88  [**2044-10-19**]
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2133-1-10**] 3:36 AM
+
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] EU   [**2133-1-10**] 3:36 AM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 55059**]
+Reason: eval for PNA
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   88 year old woman with vomiting and diaphoresis
+REASON FOR THIS EXAMINATION:
+   eval for PNA
+
+
+
+Final Report
+INDICATION: 88-year-old woman with vomiting and diaphoresis.
+Evaluate for
+pneumonia.
+
+COMPARISON: PA and lateral chest radiograph, [**2130-3-29**].
+
+PA AND LATERAL CHEST RADIOGRAPH: Bilateral low lung volumes are
+noted, with
+crowding of bronchovascular markings. Left basilar atelectases
+is noted.
+There is silhouetting of the right heart border on the frontal
+view which is
+not supported by the lateral view, however findings are
+concerning for
+consolidation in the right middle lung. The cardiac silhouette
+is top normal.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2133-1-14**] 07:20    8.6 3.65* 11.4* 30.9* 85 31.2 36.9* 13.4 265
+
+[**2133-1-13**] 07:30    13.7* 3.57* 10.8* 30.5* 86 30.3 35.4* 13.3
+245
+[**2133-1-12**] 07:10    13.2* 3.69* 11.3* 32.7* 89 30.7 34.6 13.7
+240
+[**2133-1-11**] 15:50    14.9* 3.83* 11.7* 33.7* 88 30.6 34.8 13.8
+250
+[**2133-1-11**] 05:42    14.5* 3.70* 11.4* 33.3* 90 30.7 34.1 13.6
+236
+
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2133-1-12**] 07:10    108*1 12 0.6 138 3.3 103 27 11
+[**2133-1-11**] 15:50 

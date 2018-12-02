@@ -1,0 +1,243 @@
+Admission Date:  [**2141-6-13**]              Discharge Date:   [**2141-6-19**]
+
+Date of Birth:  [**2063-3-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Tetracycline
+
+Attending:[**First Name3 (LF) 398**]
+Chief Complaint:
+MS changes
+
+Major Surgical or Invasive Procedure:
+CVL placement
+
+History of Present Illness:
+
+HPI: 78 y/o F with obesity, chronic UTIs in the setting of
+bladder diverticulum, and MMP, presented from her rehab today
+with mental status changes, hypotension, and concern for
+urosepsis. Pt has had 4 episodes of urosepsis in the last month,
+the last 1 week prior. During her hospitalization from [**Date range (1) 36573**]
+she was found to have an MDR-E.coli, Proteus and VSEnterococcus
+urosepsis. She was discharged on 1 week of Gentamicin IM and 2
+weeks of PO Augmentin.
+.
+However, at her rehab today, she was noted to be confused, adn
+hypotensive to 80/50 similar to her prior episodes of urosepsis.
+She was brought to [**Hospital1 **] for further evaluation.
+.
+In the ED, her VS were: 99.6, HR 80, BP 80/50, RR 20, 94%RA. She
+received Cefepime 2g IV x1, Vanco 1g IV x1, Decadron 10mg IV x1.
+She received 4L NS in total during her ED course.
+
+
+Past Medical History:
+
+1) Chronic UTIs; last UTI with E.coli ([**Last Name (un) 36**] imipenem) and VSE
+and Proteus
+2) Hypothyroidism
+3) PMR
+4) COPD
+5) asthma
+6) rheumatoid arthritis
+7) hypertension
+8) DMII
+9) morbid obesity
+10)bladder diverticulum.
+11)anemia
+12)History of syncope.
+13) Peripheral vascular disease.
+14) Coronary artery disease.
+15) Status post sigmoidectomy with ileostomy.
+16) History of C. difficile.
+.
+
+
+Social History:
+She lives at [**Hospital **] Nursing Home.  She is bed bound and uses an
+electric wheelchair.
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+
+VS: Temp:98.0 BP:115/47 HR:85 RR:16 O2sat: 99% 4L NC
+GEN: obese, pleasant, comfortable at rest
+HEENT: PERRL, EOMI, anicteric, MMM. Cannot assess JVD. LIJ in
+place
+RESP: CTA b/l anteriorly
+CV: distant, RR, S1 and S2 wnl, no m/r/g
+ABD: obese, nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+
+EXT: 1+ pitting edema bilaterally
+SKIN: no rashes/no jaundice/no splinters
+NEURO: AAOx1-2. Follows conversation and answers appropriately.
+Moves all ext spontaneously.
+
+
+Pertinent Results:
+Labs:
+
+Imaging:
+CT Head [**6-13**]: 1) No evidence acute intracranial pathology.
+2) Possible old neurocysticercosis infection.
+.
+CXR [**6-13**]: Evaluation is limited by low lung volumes and
+patient's oblique positioning. There is no acute cardiopulmonary
+abnormality. The lungs are clear. Blurred of the left
+costophrenic angle may be due to a tiny pleural effusion. No
+pneumothorax. Cardiac, mediastinal, and hilar contours are
+within normal limits.
+
+[**6-16**] CT abdomen
+1. Multiple large mid to upper pole right renal calculi without
+evidence of obstruction or secondary infection. New soft tissue
+density filling defect within a right upper pole calix may
+represent a noncalcified stone, however a small soft tissue
+calyceal neoplasm cannot be excluded. Findings discussed with
+Dr. [**Last Name (STitle) 14440**].
+2. Multiple splenic cysts, unchaned.
+3. Fluid collection inferior to left rectus sheath likely
+represents a postoperative seroma.
+4. Subcutaneous abdominal nodule may represent a site of
+injection but clinical correlation is required.
+5. Diverticulosis without diverticulitis.
+
+[**2141-6-13**] 06:48PM   COMMENTS-GREEN TOP
+[**2141-6-13**] 06:48PM   LACTATE-1.0
+[**2141-6-13**] 06:20PM   GLUCOSE-112* UREA N-31* CREAT-1.9*#
+SODIUM-130* POTASSIUM-5.5* CHLORIDE-92* TOTAL CO2-27 ANION
+GAP-17
+[**2141-6-13**] 06:20PM   estGFR-Using this
+[**2141-6-13**] 06:20PM   CK(CPK)-81
+[**2141-6-13**] 06:20PM   CK-MB-NotDone cTropnT-<0.01
+[**2141-6-13**] 06:20PM   WBC-21.9*# RBC-3.72* HGB-10.9* HCT-32.4*
+MCV-87 MCH-29.5 MCHC-33.7 RDW-15.8*
+[**2141-6-13**] 06:20PM   NEUTS-91.0* LYMPHS-5.7* MONOS-2.6 EOS-0.7
+BASOS-0
+[**2141-6-13**] 06:20PM   PLT COUNT-497*
+[**2141-6-13**] 06:20PM   PT-12.5 PTT-24.7 INR(PT)-1.1
+[**2141-6-13**] 06:20PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.012
+[**2141-6-13**] 06:20PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-MOD
+[**2141-6-13**] 06:20PM URINE  RBC-[**2-27**]* WBC-[**11-14**]* BACTERIA-2
+YEAST-NONE EPI-0
+
+Brief Hospital Course:
+A/P:78 y/o F with obesity, chronic UTIs in the setting of
+bladder diverticulum, and MMP, presented from her rehab today
+with mental status changes, hypotension, and concern for
+urosepsis
+
+1. Sepsis
+Likely source urine given her frequent episodes of urosepsis
+over the past month.  She was recently admitted at [**Hospital1 **]
+with an E.Coli, Proteus and Vanco-[**Last Name (un) 36**] Enterococcus UTI.  She
+was discharged on Augmentin and Gentamicin despite E.coli not
+being sensitive to augmentin nor gentamicin(although [**Last Name (un) 36**] to
+cephalosporins).  Enterococcus and Proteus appeared covered.
+Was intermittantly hypotensive in the ED requiring fluid
+resuscitation as well as temporary levophed to maintain MAP >65.
+ Was admitted to the MICU and was stable off pressors in the
+first 48 hours.  She was placed on Imipenem and Vancomycin to
+cover her empirically.  Urology/ID was consulted in the setting
+of known staghorn calculi and her recurrent urosepsis episodes.
+ Patient will be discharged on ceftazadime for 2 weeks and
+switched to cefuroxime for suppression per ID.  Urology wants to
+do a procedure once patient finished with IV antibiotics.
+
+2. MS changes
+Improved with IVF, Abx treatment in ED per daughter.  [**Name (NI) 430**] CT
+negative in ED.  Likely toxic-metabolic encephalopathy that is
+improving given her urosepsis.  Patient resolved by discharge.
+
+3.ARF
+Likely in setting of infection; pre-renal. Baseline Cr normal.
+Creat on d/c 1.3.
+
+4. PMR
+Continued prednisone 5mg qD.
+
+5.Chronic LBP
+cont MS contin at lower doses due to concern for resp
+suppression.
+
+6.HTN - restarted lisinopril, bblocker once BP was stable.
+Held Imdur, bblocker
+
+6.CAD
+- cont ASA. restarted bblocker, acei.
+.
+7.RA
+- cont Plaquenil
+
+8.DMII
+- cont NPH [**Hospital1 **], regular ISS
+
+Comm: HCP [**Name2 (NI) 40313**] [**Name (NI) **] [**Name (NI) 31429**] (c) [**Telephone/Fax (1) 40314**] (h) [**Telephone/Fax (1) 40315**]
+Code:DNR/DNI
+
+
+Medications on Admission:
+Ecotrin 325 mg daily,
+Lisinopril 5 mg daily
+Imdur 60 mg daily
+Metoprolol 37.5 mg [**Hospital1 **]
+Gemfibrozil 600 mg [**Hospital1 **]
+Lasix 20 mg daily (except on Monday and Friday, 40 mg p.o. daily
+on
+Humulin N 40 units subcu q.a.m.
+Humulin R 20 units subcu q.a.m.
+RISS
+Prednisone 5 mg daily
+MS Contin 45 mg [**Hospital1 **] 30 mg QHS
+Lidoderm 5% patch 4 patches daily, 12 hours on, 12 hours off
+Gabapentin 00 mg TID
+Cymbalta 60 mg daily
+Levothyroxine 137 mcg daily
+Omeprazole 20 mg daily
+Cardura 20 mEq daily
+Cranberry 25 mg [**Hospital1 **]
+Colace 100 mg [**Hospital1 **]
+Senna 2 [**Hospital1 **]
+Magnesium oxide 400 mg daily
+Multivitamin 1 daily
+Iron 325 mg TID
+Glucerna 1 can daily
+Hydroxychloroquine 400 mg daily
+Gentamicin 200 mg IM q.24h. x7 days
+Augmentin 500/125 mg 1 p.o. b.i.d. x7 days
+
+
+Discharge Medications:
+1. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Ceftazidime-Dextrose (Iso-osm) 1 g/50 mL Piggyback Sig: One
+(1)  Intravenous Q8H (every 8 hours) for 14 days.
+Disp:*36 1* Refills:*0*
+3. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+5. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day): only monday wednesday and friday.
+6. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+7. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical 12 HOURS ON, 12 HOURS
+OFF ().
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q24H (every
+24 hours).
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+11. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+12. Levothyroxine 137 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. A

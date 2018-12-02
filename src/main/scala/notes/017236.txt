@@ -1,0 +1,186 @@
+Admission Date:  [**2190-4-8**]              Discharge Date:   [**2190-5-2**]
+
+Date of Birth:  [**2108-12-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Linezolid
+
+Attending:[**First Name3 (LF) 99**]
+Chief Complaint:
+Hypoxia
+
+Major Surgical or Invasive Procedure:
+-Central venous line
+-Arterial line
+-PICC line
+-Endotracheal intubation
+
+History of Present Illness:
+Mrs. [**Known lastname 3614**] is an 81 year old female with HTN, HL, ESRD on HD,
+CHF, who has been at [**Hospital **] [**Hospital 701**] rehab who presented to
+[**Hospital3 **] on [**2190-4-4**] with acute onset of shortness of breath an
+hypoxia. In [**12-21**], she had a colectomy & ileostomay seconadry to
+obstruction which was complicated by respiartory failure
+secondary to aspiration requiring trach and PEG. She also
+developed renal failure and was initiated on HD. She was
+discharged to [**Hospital **] Rehab where she has suffered several
+infectiosn (MRSA PNA, MRSA bacteremia, VRE UTI). At one point,
+she was seen at [**Hospital1 336**] for "white-out of her right lung",
+underwent bronch. She was evaluated for stent placement, but the
+TBM was thought to be too distal to be amenable to stenting. She
+then was transferred back to [**Hospital1 **]. One week later, she
+devleoped acute SOB with hypoxia to the 70s. She was given
+morphine, bumex, and solumedrol without significant improvement.
+She was placed on BIPAP with some improvement and was
+trasnferred to [**Hospital3 **] for further management. At some point in
+her recent past, she was treated with Vanc/Gent for HAP.
+
+On admission to [**Hospital3 **], she was found to be hypoxic and placed
+on BIPAP. A CTA was performed and was negative for PE or
+pneumonia, but suggestive of atelectasis. Nevertheless, she was
+treated with empiric broad spectrum antibiotics for PNA with
+vanco/levaquin/ceftazidime --> levaquin/ceftaz for unclear
+reasons. She remained bipap depended for days, but was becoming
+progressively more tired. She ultimately was intubated today.
+Her WBC was initially 27. UCx showed yeast (not [**Female First Name (un) **]) so she
+was started on amphotericin b bladder washes. Her WBC trended
+down from 27 to 20.
+
+Upon arrival to [**Hospital1 18**] MICU, she was intubated and sedated so
+unable to obtain further history from the patient.
+
+Past Medical History:
+ESRD on HD MWF
+HTN
+Hyperlipidemia
+Axiety
+Asthma
+Status-post colectomy
+Status-post Trach and Peg in [**2189**] --> later reversed
+Status-post partial knee replacement
+Status-post L THR
+Status-post bilateral cataract
+Status-post of ischemic colitis
+Status-post epistaxis
+Status-post MRSA PNA and bactermia
+Severe malnutrition
+
+Social History:
+She was previously independent prior to bowel obstruction in
+[**Month (only) 1096**]. She is married and has two children. She is currently
+living at [**Hospital **] Rehab. She denies tobacco or alcohol use.
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+On admission:
+Vitals: HR 59, BP 109/43, RR 15, T 95.8, Sat 98% on 450x14, Fio2
+100, PEEP 5
+General: sedated, intubated, not following commands
+HEENT: Sclera anicteric, intubated
+Lungs: diffuse wheezing in all lung fields
+CV: distant heart sounds, Regular rate and rhythm, normal S1 +
+S2, no murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: cool extremities, anasarca
+Lines: left picc, right tunneled HD line
+
+Pertinent Results:
+Labs on admission:
+[**2190-4-8**] 10:35PM BLOOD WBC-16.8* RBC-3.07* Hgb-10.4* Hct-30.9*
+MCV-101* MCH-33.9* MCHC-33.7 RDW-16.1* Plt Ct-121*
+[**2190-4-8**] 10:35PM BLOOD Neuts-96.4* Lymphs-2.3* Monos-1.2*
+Eos-0.1 Baso-0
+[**2190-4-8**] 10:35PM BLOOD PT-13.1 PTT-26.4 INR(PT)-1.1
+[**2190-4-8**] 10:35PM BLOOD Glucose-76 UreaN-40* Creat-2.2* Na-132*
+K-4.2 Cl-99 HCO3-24 AnGap-13
+[**2190-4-8**] 10:35PM BLOOD ALT-135* AST-25 LD(LDH)-350* CK(CPK)-27
+AlkPhos-96 TotBili-0.3
+[**2190-4-8**] 10:35PM BLOOD CK-MB-NotDone cTropnT-0.17*
+[**2190-4-9**] 01:28AM BLOOD CK-MB-NotDone cTropnT-0.15*
+[**2190-4-9**] 03:52AM BLOOD CK-MB-8 cTropnT-0.16*
+[**2190-4-8**] 10:35PM BLOOD Albumin-2.5* Calcium-8.8 Phos-3.5 Mg-2.1
+Iron-34
+[**2190-4-8**] 10:35PM BLOOD calTIBC-137* VitB12-[**2172**]* Folate-GREATER
+TH Hapto-44 Ferritn-[**2103**]* TRF-105*
+[**2190-4-8**] 11:33PM BLOOD Lactate-1.8
+
+Lab values at end of course:
+[**2190-5-2**] 03:47AM BLOOD WBC-24.8* RBC-2.34* Hgb-7.8* Hct-26.0*
+MCV-111* MCH-33.3* MCHC-30.0* RDW-22.9* Plt Ct-76*#
+[**2190-5-2**] 03:47AM BLOOD PT-18.3* PTT-24.7 INR(PT)-1.7*
+[**2190-5-2**] 03:47AM BLOOD Glucose-119* UreaN-37* Creat-1.6* Na-138
+K-5.2* Cl-107 HCO3-21* AnGap-15
+[**2190-5-1**] 04:22AM BLOOD ALT-175* AST-87* LD(LDH)-798*
+AlkPhos-448* TotBili-1.0
+[**2190-5-2**] 03:47AM BLOOD Calcium-9.1 Phos-4.3 Mg-2.8*
+[**2190-5-1**] 05:14AM BLOOD Lactate-2.4*
+
+CT chest [**2190-4-14**]:
+1. Widespread peribronchiolar abnormalities, suggestive of an
+evolving bronchopneumonia with extensive bronchiolitis
+component. The findings are not specific for a particular
+organism, but pseudomonas should be considered considering
+apparent nosocomial infection. Other potential etiologies
+include viral, mycoplasma and less likely granulumatous
+infection.
+2. Small pleural effusions, left greater than right.
+3. Low-lying endotracheal tube, which should be withdrawn
+several centimeters for standard positioning.
+
+Brief Hospital Course:
+This is an 81 year old female with HTN, HL, CHF, ESRD on HD,
+malnutrition, here with recurrent respiratory distress secondary
+to RLL lobar collapse (possible tracheobronchial malacia (TBM)
+vs. aspiration with mucous plugging vs HAP) extubated and then
+reintubated.
+
+#.  Respiratory failure:
+The patient had recurrent lobar collapse with respiratory
+distress.  Reportedly has TBM but left sided lesion is too
+distal to stent. Has positive glucan/galactomannan, and CT on
+[**4-14**] showing diffuse disease, possibly invasive aspergilliosis.
+She was started on oral voriconazole on [**2190-4-15**], but with
+elevated LFT??????s to the thousands, voriconazole was discontinued
+and ambisome was started. Voriconazole was restarted on
+[**2190-4-24**] and again she had elevated LFT??????s. This may have been
+due to repeat shock liver however Voriconazole was again
+discontinued and Ambisome was restarted. On [**2190-4-29**], the patient
+had continually dropping platlets, thought to be due to Ambisome
+so this was discontinued and Micafungin started until LFT??????s come
+down at which point, plan was to start Voriconazole again. She
+had already completed a course for HAP with Vancomycin and
+Cefepime on [**4-17**]. Due to multiple respiratory problems, the
+patient ultimately required another intubation overnight ([**4-26**])
+which she agreed to. Ultimately, CVVH was discontinued due to
+clot and so the ability to remove fluid to help with respiratory
+issues was lost. The patient was noted again to have MRSA
+growing in sputum, and was started back on vancomycin for MRSA
+on sputum from [**4-27**]. Meropenem was also started at this time. ID
+followed the patient and recommended switching Micafungin back
+to Voriconazole when possible. After discussion with the family,
+the decision was made to make the patient comfort measures only
+(CMO) and all antibiotics were discontinued on [**2190-5-2**].
+
+#. HTN/Hypotension:
+The patient was on nitropaste and amlodipine at home. For some
+time, she was on Captopril and Amlodipine here, however switched
+to single [**Doctor Last Name 360**] beta-blocker given rhythm issues.  In the ICU
+she continued to have labile blood pressure.  Significant labile
+BP??????s with hemodialysis (HD) requiring Phenylephrine as well as
+periodic Levophed and fluid boluses for BP support. Utlimately,
+her hypotension became a barrier to HD and she was initiated on
+CVVH. This had to be discontinued on [**5-1**] due to clot formation.
+The patient was unable to tolerate heparin, and had become
+citrate toxic.
+
+#.  Thrombocytopenia:
+The patient's platelets had dropped acutely from 118 to 69 to 50
+on [**2190-4-30**]. The was possibly due to Amphoterocin which was
+briefly discontinued previously and platelets went up. Ambisome
+was discontinued again due to dropping platlets, and the
+pla

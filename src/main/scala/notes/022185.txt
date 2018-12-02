@@ -1,0 +1,235 @@
+Admission Date:  [**2123-10-16**]              Discharge Date:   [**2123-10-23**]
+
+Date of Birth:  [**2044-1-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+Respiratory Distress
+
+Major Surgical or Invasive Procedure:
+PEG tube exchange [**10-19**]
+
+History of Present Illness:
+79y/o F w/ dementia, non-verbal p/w respiratory distress and
+diarrhea. Pt. was recently treated for recurrent respiratory
+infection w/ augmentin and then developed diarrhea. She had been
+having diarrhea for several days and then today her son noted
+respiratory distress and brought her to [**Location (un) 620**] ED. At [**Location (un) **]
+her VS were initially 116/66, 89, 21 and 100%. Labs came back w/
+bicarb of 10 and then lactate of 9. She was given 5L NS, levo
+and flagyl. U/A had >100 WBCs. WBC was 19 w/ 26% bands. Hct 36.
+She was intubated after discussion w/ son re: goals of care
+transferred to [**Hospital1 18**] ED and started on levophed at 0.8 for SBP
+76. she got 2L more NS, cefepime and vanc IV. At [**Location (un) 620**] she had
+hyperkalemia w/o EKG changes and got insulin, D50.
+
+Past Medical History:
+Dementia, nonverbal at baseline
+Left hip decubitus ulcer
+Sacral decubitus ulcer
+diabetes
+urinary retention
+CVA 8 years ago
+Recurrent pulmonary infections
+Old necrotic left great toe
+
+Social History:
+Living at home with the son. Immigrated from [**Country 651**] 18 years ago.
+Dependent on all ADLs. No smoking, no alcohol known.
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: BP: 110/55 P: 98 R: 22 O2: 97% FiO2 100%, CMV TV 400,
+PEEP 5
+General: Unresponsive to stimuli, on vent and levophed drip at
+0.8mcg/min. Extremities contracted.
+HEENT: Sclera anicteric, MMM, oropharynx clear, TMs impacted w/
+wax. Pupils equal and reactive to light.
+Neck: Left triple lumen
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley present w/ cloudy urine
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema, large decubitus ulcer/burn wound on L hip. L foot w/
+necrotic great toe.
+
+Pertinent Results:
+[**2123-10-17**] 1:33 am URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2123-10-20**]**
+
+   URINE CULTURE (Final [**2123-10-20**]):
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..
+      GRAM NEGATIVE ROD(S).    ~6OOO/ML.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------     4 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------     2 I
+GENTAMICIN------------     8 I
+MEROPENEM-------------   0.5 S
+PIPERACILLIN/TAZO-----    16 S
+TOBRAMYCIN------------   <=1 S
+
+[**2123-10-17**] 1:39 am SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2123-10-21**]**
+
+   GRAM STAIN (Final [**2123-10-17**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   BUDDING YEAST WITH
+PSEUDOHYPHAE.
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+
+   RESPIRATORY CULTURE (Final [**2123-10-21**]):
+      Commensal Respiratory Flora Absent.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+         OF THREE COLONIAL MORPHOLOGIES.
+      YEAST.    MODERATE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------     4 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------   0.5 S
+GENTAMICIN------------     8 I
+MEROPENEM-------------     1 S
+PIPERACILLIN/TAZO-----    16 S
+TOBRAMYCIN------------   <=1 S
+
+[**2123-10-17**] 1:33 am MRSA SCREEN      Source: Nasal swab.
+
+                            **FINAL REPORT [**2123-10-18**]**
+
+   MRSA SCREEN (Final [**2123-10-18**]):
+      POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS.
+
+[**2123-10-23**] 03:38AM BLOOD WBC-6.1 RBC-2.83* Hgb-8.3* Hct-23.9*
+MCV-85 MCH-29.5 MCHC-34.8 RDW-16.7* Plt Ct-339
+[**2123-10-22**] 03:32AM BLOOD Neuts-75.4* Lymphs-18.3 Monos-4.3 Eos-1.8
+Baso-0.2
+[**2123-10-23**] 03:38AM BLOOD Glucose-181* UreaN-11 Creat-0.5 Na-140
+K-4.2 Cl-106 HCO3-28 AnGap-10
+[**2123-10-23**] 03:38AM BLOOD Calcium-8.4 Phos-2.8 Mg-1.8
+[**2123-10-22**] 03:58AM BLOOD Type-ART Temp-37.7 Rates-/16 O2 Flow-3
+pO2-74* pCO2-35 pH-7.50* calTCO2-28 Base XS-3 Intubat-NOT INTUBA
+[**2123-10-20**] 02:34AM BLOOD Lactate-0.9
+[**2123-10-22**] 03:58AM BLOOD freeCa-1.16
+
+Brief Hospital Course:
+#Sepsis: Ms [**Known lastname **] was hypotensive and hypoxic on admission and was
+intubated and required pressors.  Lactate was 9.1.  She was
+treated empirically for hospital-acquired pneumonia with
+cefepime and vancomycin; this was narrowed to cefepime after
+sputum cultures returned positive for pseudomonas aeruginosa.
+UA was positive and culture also grew pseudomonas.  A 14-day
+course of cefepime was planned.
+
+For some concern of c. diff colitis she was initially treated
+with PO vancomycin, but this was discontinued after toxin assays
+returned negative.  Other sources of infection considered
+included her various decubitus ulcers, her burn-related ulcer,
+and her necrotic great toe.
+
+Pressors were weaned after 48 hours; her BP remained stable
+throughout the remainder of her hospitalization.   Her
+ventilator settings were gradually weaned and she was extubated
+on HD#7, which she tolerated.
+
+She was discharged with the plan to continue her IV antibiotics
+via PICC for a 14-day course.
+
+#Left upper extremity DVT: Ms. [**Known lastname **] was noted to have an
+edematous left arm during hospitalization in the setting of a
+left internal jugular catheter.  Ultrasound demonstrated a
+cephalic vein DVT.  Heparin was begun and changed to lovanox on
+HD#7, but it was then decided that the risks of anticoagulation
+exceed the benefits, and this was discontinued.
+
+#Nutrition: Ms. [**Known lastname 87266**] gastric tube was clogged after her son
+administered a tube feeding.  The tube then fell out when it was
+flushed.  It was then replaced by a gastrojejunal tube, selected
+to decrease aspiration risk, which was sutured into place.
+
+#[**Last Name (un) **]: Ms. [**Known lastname **] originally had a creatinine of 1.2 on admission
+which was attributed to prerenal factors.  Creatinine decreased
+to 0.4 with blood pressure support and fluids.
+
+#Anemia: Hct trended down from 30 to 26, where it stabilized,
+during hospitalization.
+
+#DM: Ms. [**Known lastname **] was managed on an ISS, which was decreased on HD#3
+following an episode of hypoglycemia.  On discharge, she was
+returned to her home regimen of metformin.
+
+#Goals of care: Ms. [**Known lastname **] was eventually made DNR/DNI after
+discussions with her sons, and was discharged to home with
+hospice services.
+
+Medications on Admission:
+Metformin 500mg QD
+Jenuvia tube feed
+MVI
+Vit C oral
+[**Name (NI) 10687**]
+MOM
+Artificial Tears
+Tylenol
+
+Discharge Medications:
+1. cefepime 1 gram Recon Soln Sig: One (1) Recon Soln Injection
+Q12H (every 12 hours) for 7 days: continue for 7 more days until
+[**10-29**].
+Disp:*14 Recon Soln(s)* Refills:*0*
+2. sodium chloride 0.9 % 0.9 % Parenteral Solution Sig: Ten (10)
+ML Intravenous PRN (as needed) as needed for line flush:
+non-heparin-dependent PICC.
+Disp:*1000 ML(s)* Refills:*0*
+3. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain/fever.
+4. metformin 500 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Januvia continuing at previous home dose (dose not known to
+us at this time)
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VistaCare
+
+Discharge Diagnosis:
+1. Sepsis
+2. Respiratory failure
+3. Dementia
+4. Acute renal failure
+
+
+Discharge Condition:
+Mental Status: Not interactive.
+Level of Consciousness: Lethargic and not arousable.
+Activity Status: Bedbound.
+
+
+Discharge Instructions:
+Dear Mr. [**Known

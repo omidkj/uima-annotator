@@ -1,0 +1,194 @@
+Admission Date:  [**2134-5-24**]              Discharge Date:   [**2134-5-31**]
+
+
+Service: MEDICINE
+
+Allergies:
+Prednisone / Cortisone
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+transfer for episode of neurologic deficit
+
+Major Surgical or Invasive Procedure:
+placement of right carotid stent
+
+History of Present Illness:
+Mr. [**Known lastname **] is an 83yo gentleman with h/o CAD, "ischemic and
+valvular" cardiomyopathy with EF 15-20%, s/p BiV pacer without
+ICD, paroxysmal AFib not on coumadin admitted to [**Hospital3 **] with subacute left-sided weakness and transferred to
+[**Hospital1 18**] after episode of transient L upper extremity weakness and
+dysarthria after using the commode.
+
+Mr. [**Known lastname **] was initially admitted to [**Hospital3 **] with complaints
+of weakness. He was found to have a digoxin level of 3.8, and
+his digoxin was held. On the day of transfer to [**Hospital1 **], he
+experienced transient dysarthria and left arm weakness after
+using the commode. He was transferred to the neurology service
+at [**Hospital1 18**]. His initial event was felt to be vagally mediated, and
+the neurology service was further investigating whether the
+patient would benefit from intervention of his known carotid
+artery stenosis. He had been evaluated by Dr. [**First Name (STitle) **] in [**Month (only) 958**] of
+[**2133**] and intervention was deferred in light of his multiple
+co-morbidities.
+
+During the patient's work-up, he had a similar episode on [**5-26**]
+when he was on the commode and developed transient left-sided
+weakness, at which point it was decided to pursue carotid stent.
+
+
+Past Medical History:
+# CAD: LAD 50-60% prox at first septal perf, 1st septal branch
+60%; RCA 80% prox; RI 80% prox per cath in [**2125**].
+# Cardiomyopathy with EF 15-20%, ?ischemic vs non-ischemic
+# h/o moderate MR and severe TR--Echo [**2134-5-25**] showed trivial MR
+and TR
+# AFlutter and Paroxysmal AFib, remote h/o LV thrombus, on
+amiodarone but not coumadin (developed macular degeneration
+attributed to coumadin)
+# BiV PPM with ICD placed [**2130**], ? ICD deactivated shortly
+thereafter:  BiV PPM [**Company 1543**] Insync III 8042; ICD component
+removed later in [**2130**] to reflect code status
+# HTN
+# Hyperlipidemia
+# Prostate Cancer metastatic to vertebrae, diagnosed [**2130**].
+Followed by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+# h/o BOOP currently on steroid taper
+# COPD--per records BUT PFTs from [**4-/2134**] showed mild decrease
+FEV1 and FVC with normal ratio (RESTRICTIVE pattern)
+# Psoriasis
+# Iron deficiency anemia with hx GI bleed--baseline Hct 28-32
+# CRI (baseline creatinine 2.0)
+# Macular degeneration
+# s/p left hip replacement
+# Hypothyroidism
+# Metastatic prostate cancer dx in [**4-22**]
+# RUL lung opacity - unclear etiology, s/p unremarkable
+bronchoscopy [**2-23**] with cytology negative for malignancy
+
+ALLERGIES: ? Cortisone (although tolerates prednisone)
+
+Cardiologist:  [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 437**]
+PCP: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] (has not seen him yet, was [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 11180**])
+Pulmonologist: Dr. [**Last Name (STitle) **]
+
+Social History:
+Patient was living at [**Last Name (un) 31463**] Pond independent living; he has a
+significant other and several children in the area who have been
+helping to care for him; after his [**Month (only) **] admission to [**Hospital1 18**], he
+was discharged to rehab, where he has been until he was admitted
+to [**Hospital3 **]. There was great concern that he would not be
+able to care for himself at home. He has a wheeled walker and a
+scooter.
+
+Social history is significant for the absence of current tobacco
+use; he has a 55 pack year history and stopped smoking 15 years
+ago. There is no history of alcohol abuse.
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death; his father had an MI at age 63.
+
+Physical Exam:
+VS: T not avail. yet, BP 109/60, HR 111, RR 19, O2 100% on 3L on
+dopamine at 5.
+Gen: Elderly man lying calmly in bed in no acute distress, resp
+or otherwise. Oriented. Mood, affect appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. Pupils not reactive b/l and right
+greater than left (stable as compared to note from 3/[**2133**]).
+EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral
+mucosa.
+Neck: Supple with no JVD. No bruits b/l.
+CV: PMI located in 5th intercostal space, midclavicular line.
+Borderline tachy with regular rhythm, somewhat distant heart
+sounds. No S4, no S3. No murmur or rub.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheeze,
+rhonchi as appreciated anteriorly.
+Abd: Soft, NTND, No HSM or tenderness. No abdominial bruits.
+Ext: No c/c/e. Significant bruising of arms b/l.
+Skin: Mildly pale. No stasis dermatitis, ulcers, scars, or
+xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+; 1+ DP
+Left: Carotid 2+ without bruit; Femoral 2+; 1+ DP
+Neuro: Language intact, no slurred speech, alert and answering
+questions appropriately. Good long term memory. CN III, IV, VI
+intact. CN V intact--sensation intact b/l. CN VII--face
+symmetric. CN VIII grossly intact. CN IX, X, XII tongue midline,
+palate symmetric, gag intact. CN [**Doctor First Name 81**]--shrug intact b/l. Strength
+[**3-22**] in UE both distal and proximal b/l. Strength 5/5 in LLE;
+unable to test strength in RLE [**12-19**] to recent procedure.
+
+pupils noted to be non-reactive vs sluggishly reactive and
+unequal on presentation to the CCU. Although several notes
+suggest that the patient has equal pupils, according to Neuro
+note from [**2134-1-16**] in OMR: "Left pupil 4 to 2mm and brisk. R
+pupil 5-->3mm (surgical)," which is similar to current exam.
+
+Pertinent Results:
+LABS on admission to CCU:
+BUN/Cr 42/1.9
+K 4.0
+Mg 2.1
+
+WBC 11
+Hct 30
+Plt 281
+
+CKs negative x 3; troponin 0.11
+
+ALT 49
+AST 65
+
+HDL 40
+LDL 103
+
+UA negative
+UCx: fecal contamination
+
+LABS during hospital course:
+[**2134-5-26**] 06:10AM BLOOD WBC-11.0 RBC-3.29* Hgb-10.0* Hct-30.0*
+MCV-91 MCH-30.4 MCHC-33.3 RDW-17.3* Plt Ct-281
+[**2134-5-27**] 04:12AM BLOOD WBC-18.8*# RBC-3.08* Hgb-9.2* Hct-28.1*
+MCV-91 MCH-29.9 MCHC-32.7 RDW-17.3* Plt Ct-324
+[**2134-5-28**] 04:00AM BLOOD WBC-19.3* RBC-2.93* Hgb-8.8* Hct-25.6*
+MCV-87 MCH-30.2 MCHC-34.5 RDW-17.9* Plt Ct-177
+[**2134-5-31**] 09:30AM BLOOD WBC-27.5* RBC-3.13* Hgb-9.2* Hct-29.2*
+MCV-93 MCH-29.4 MCHC-31.5 RDW-18.0* Plt Ct-159
+[**2134-5-31**] 09:30AM BLOOD Neuts-87* Bands-0 Lymphs-10* Monos-2
+Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0 NRBC-1*
+[**2134-5-26**] 10:30AM BLOOD PT-12.6 PTT-24.6 INR(PT)-1.1
+[**2134-5-26**] 06:10AM BLOOD Glucose-124* UreaN-42* Creat-1.9* Na-140
+K-4.0 Cl-106 HCO3-24 AnGap-14
+[**2134-5-27**] 04:12AM BLOOD Glucose-228* UreaN-43* Creat-2.5* Na-136
+K-3.8 Cl-92* HCO3-26 AnGap-22*
+[**2134-5-29**] 05:42AM BLOOD Glucose-91 UreaN-56* Creat-4.6*# Na-136
+K-5.0 Cl-100 HCO3-22 AnGap-19
+[**2134-5-31**] 09:30AM BLOOD Glucose-80 UreaN-71* Creat-6.1* Na-134
+K-5.9* Cl-100 HCO3-16* AnGap-24*
+[**2134-5-25**] 09:30AM BLOOD CK(CPK)-52
+[**2134-5-25**] 07:35PM BLOOD CK(CPK)-49
+[**2134-5-27**] 04:12AM BLOOD ALT-48* AST-86*
+[**2134-5-25**] 01:55AM BLOOD CK-MB-NotDone cTropnT-0.11*
+[**2134-5-31**] 09:30AM BLOOD Calcium-8.4 Phos-10.3* Mg-2.7*
+[**2134-5-26**] 06:10AM BLOOD %HbA1c-6.2*
+[**2134-5-26**] 06:10AM BLOOD Triglyc-133 HDL-40 CHOL/HD-4.3
+LDLcalc-103
+[**2134-5-27**] 04:12AM BLOOD PSA-35.0*
+[**2134-5-29**] 05:42AM BLOOD Digoxin-2.6*
+[**2134-5-27**] 01:19PM BLOOD Lactate-3.3*
+[**2134-5-30**] 11:27AM BLOOD Lactate-3.2* K-4.9
+
+EKG demonstrated AV paced rhythm at 60 with no significant
+change compared with prior dated [**2134-5-5**]. Upon arrival to the
+CCU, EKG demonstrated regular wide complex tachycardia with LBBB
+pattern, no visible pacing spikes. EKG from [**2-/2130**] (prior to
+PPM) demonstrates LBBB with same morphology. Repeat EKG
+demonstrated rate of 112 with same QRS morphology and visible
+pacing spikes.
+
+TELEMETRY demonstrated: Regular wide complex tachycardia at
+about 100.
+
+2D-ECHOCARDIOGRAM performed on [**21

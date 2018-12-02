@@ -1,0 +1,223 @@
+Admission Date:  [**2150-11-8**]              Discharge Date:   [**2150-11-20**]
+
+Date of Birth:  [**2086-7-10**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 618**]
+Chief Complaint:
+Left hemiparesis, transfer from OSH as Code Stroke
+
+Major Surgical or Invasive Procedure:
+Cerebral angiography
+Intubation/Extubation
+
+
+History of Present Illness:
+64 y LH Persian woman. According to her sister [**Name (NI) 17**], she was in
+a car at 15:15 h, and then she had a sudden onset of a left
+hemiparesis and left facial droop. She was taken to [**Hospital1 34585**]. She had an MRI imaging and was found to have a M1 R MCA
+stroke. She was given IVtPA by Dr [**First Name (STitle) **] (Neurologist) around
+17:56 h, and the time the IVtPA ended was 18:06 h. She was given
+a 7 mg bolus followed by 63 mg over one hour. Ms [**Known lastname 80321**] is deaf,
+and only understands sign language and her sister's Farsi. She
+was confused and agitated when she was taken to the CT scanner
+at 19:15 h at [**Hospital1 18**], and was intubated. She was transferred to
+[**Hospital1 18**] for IAtPA ([**Hospital1 17436**] device), depending on the repeat CT head
+scan.
+
+Past Medical History:
+1. Hyperthyroidism
+2. Pruritic skin condition
+3. Hyperlipidemia
+
+
+Social History:
+Lives with her sister [**Name (NI) 17**], who is also her health care
+proxy (cell: [**Telephone/Fax (1) 80322**]).
+Her PCP is Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11907**] ([**Hospital3 **])
+Patient is deaf and she does not speak English
+
+
+Family History:
+Father died of an MI in his 50s
+
+
+Physical Exam:
+**NIHSS
+1a LOC =0
+1b Orientation =0
+1c Commands =0
+2 Gaze =1
+3 Visual Fields =0
+4 Facial Paresis =2
+5a Motor Function R UE =0
+5b Motor Function L UE=4
+6a Motor Function R LE=0
+6b Motor Function L LE=3
+7 Limb Ataxia =0
+8 Sensory perception =1
+9 Language = 0
+10 Dysarthria = 0
+11 Extinction/Inattention = 1
+TOTAL = 12
+
+Vitals: T-98 BP-206/45 HR-97 RR-18 O2Sat 98% on room air
+Gen: Lying in bed, obese, agitated, with multiple excoriations
+on the arms, trunk and legs.
+HEENT: NC/AT, moist oral mucosa
+Neck: No tenderness to palpation, normal ROM, supple, no carotid
+or vertebral bruit
+Back: No point tenderness or erythema
+CV: RRR, Nl S1 and S2, no murmurs/gallops/rubs
+Lung: Clear to auscultation bilaterally
+aBd: +BS soft, nontender
+ext: no edema
+
+Neurologic examination:
+Mental status: Awake and alert, difficult exam and her sister
+was having to help with the translation and Ms [**Known lastname 80321**] was
+agitated. She was able to relay her age, her birth day month
+(which is [**Month (only) 956**] and not [**Month (only) **], but legally [**Month (only) **]), and was able
+to identify a pen.  There appeared to be a slight neglect on the
+left side.
+
+Cranial Nerves:
+Pupils equally round and reactive to light, 4 to 2 mm
+bilaterally. Visual field cut on the left, difficult to examine
+fully due to the communication barrier. Extraocular movements
+intact bilaterally, no nystagmus. Appears to have sensation
+V1-V3. Extensive left sided facial droop.  Deaf.  Palate
+elevation symmetrical.  Sternocleidomastoid and trapezius normal
+bilaterally. Tongue midline, movements intact.
+
+Motor:
+Normal bulk bilaterally. Tone normal. No observed myoclonus or
+tremor
+No pronator drift
+  [**Doctor First Name **] Tri [**Hospital1 **]  WF WE FE FF  IP  H  Q DF PF TE TF
+R  5   5   5  5  5  5  5   5   5  5  5  5  5  5
+L  2   2   2  2  2  2  2   1   1  1  1  1  1  1
+
+Sensation: Difficult to assess: light touch, pinprick,
+vibration, proprioception, or extinction to DSS
+
+Reflexes: +2 on the left and 2 on the right, Babinski on the
+left.
+
+Coordination: did not cooperate
+
+Gait: Could not assess due to her left hemiparesis.
+
+Pertinent Results:
+LABS:
+[**2150-11-8**] 07:10PM BLOOD WBC-14.7* RBC-4.62 Hgb-12.9 Hct-37.9
+MCV-82 MCH-27.9 MCHC-34.1 RDW-13.8 Plt Ct-360
+[**2150-11-20**] 04:52AM BLOOD WBC-16.2* RBC-3.92* Hgb-11.0* Hct-31.7*
+MCV-81* MCH-28.2 MCHC-34.8 RDW-14.3 Plt Ct-671*
+[**2150-11-8**] 07:10PM BLOOD Neuts-80.6* Lymphs-15.5* Monos-2.1
+Eos-1.4 Baso-0.4
+[**2150-11-8**] 07:10PM BLOOD PT-13.1 PTT-24.8 INR(PT)-1.1
+[**2150-11-20**] 04:52AM BLOOD PT-15.8* PTT-26.1 INR(PT)-1.4*
+[**2150-11-8**] 07:10PM BLOOD Glucose-137* UreaN-24* Creat-1.0 Na-135
+K-5.8* Cl-105 HCO3-21* AnGap-15
+[**2150-11-20**] 04:52AM BLOOD Glucose-114* UreaN-16 Creat-0.7 Na-131*
+K-4.4 Cl-97 HCO3-25 AnGap-13
+[**2150-11-9**] 10:13AM BLOOD CK(CPK)-529*
+[**2150-11-20**] 04:52AM BLOOD CK(CPK)-27
+[**2150-11-9**] 10:13AM BLOOD cTropnT-<0.01
+[**2150-11-20**] 04:52AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2150-11-8**] 07:10PM BLOOD Calcium-9.1 Phos-4.1 Mg-2.0
+[**2150-11-9**] 10:13AM BLOOD Albumin-3.5 Calcium-7.9* Phos-3.2 Mg-1.9
+Cholest-127
+[**2150-11-9**] 10:13AM BLOOD Triglyc-606* HDL-39 CHOL/HD-3.3
+LDLmeas-55
+[**2150-11-9**] 10:13AM BLOOD %HbA1c-5.9
+[**2150-11-9**] 10:13AM BLOOD TSH-1.9
+[**2150-11-16**] 06:39PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.001
+[**2150-11-16**] 06:39PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+[**2150-11-16**] 06:39PM URINE RBC-1 WBC-0 Bacteri-NONE Yeast-NONE Epi-0
+[**2150-11-16**] 06:39PM URINE Hours-RANDOM Creat-6 Na-LESS THAN
+
+MICRO:
+Blood Cx ([**11-11**]): No growth
+Urine Cx ([**11-11**]): STAPH AUREUS COAG +.   >100,000 ORGANISMS/ML
+Sputum Cx ([**11-11**]):
+GRAM STAIN (Final [**2150-11-11**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS, CHAINS, AND
+CLUSTERS.
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2150-11-13**]):
+      MODERATE GROWTH OROPHARYNGEAL FLORA.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+PENICILLIN G---------- =>0.5 R
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+Urine Cx ([**11-16**]): No growth
+Stool Cx ([**11-18**]):
+   FECAL CULTURE (Pending):
+
+   CAMPYLOBACTER CULTURE (Pending):
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2150-11-19**]):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+
+IMAGING:
+CTA head/neck (OSH) ([**11-8**]):
+1. Dimminished perfusion in the right MCA territory with cutoff
+of the right MCA M1 segment.
+2. Abnormal right pharyngeal tonsil with masslike appearance.
+ENT consultation suggested.
+3. Abnormal multinodular thyroid gland.
+
+MRI brain (OSH) ([**11-8**]): subtle restricted diffusion in the
+right basal ganglia and insula. Impression:  Right MCA territory
+stroke.
+
+CXR (OSH) ([**11-8**]): Impression:  Findings consistent with
+congestive heart failure.
+
+CT Head/CTP ([**11-8**]): IMPRESSION: Increase in mean transit time
+throughout the entire territory of the right MCA. Decrease in
+blood volume and blood flow within the right putamen and globus
+pallidus consistent with infarct in this area.
+
+TTE ([**11-9**]): The left atrium is mildly dilated. No atrial septal
+defect or patent foramen ovale is seen by 2D, color Doppler or
+saline contrast at rest. The interatrial septum is bowed toward
+the right atrium (c/w increased LA pressure). Left ventricular
+wall thickness, cavity size and regional/global systolic
+function are normal (LVEF >60%). Right ventricular chamber size
+and free wall motion are normal. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic stenosis. Trace aortic regurgitation is seen. The mitral
+valve appears str

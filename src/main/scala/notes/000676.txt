@@ -1,0 +1,196 @@
+Admission Date:  [**2141-5-2**]              Discharge Date:   [**2141-5-10**]
+
+
+Service: MEDICINE
+
+Allergies:
+Ace Inhibitors
+
+Attending:[**First Name3 (LF) 905**]
+Chief Complaint:
+Shortness of breath.
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is an 82 year-old male with a history of diastolic
+dysfunction, recent MRSA pneumonia, and asthma, who initially
+presented on [**2141-5-1**] with a 1-day history of increased SOB,
+productive cough and congestion.
+
+On arrival to the ED, CXR showed moderate CHF. He was
+empirically started on Vancomycin, CTX, Prednisone, and Lasix,
+with some improvement. However, after several hours in the ED,
+he became hypertensive, tachycardic, and hypoxemic, with
+desaturation to the 80s. He was started on a nitro drip and
+intubated. In ED, he was also noted to have anterolateral EKG
+changes, with new TWI in I, aVL, and "pseudonormalization" of T
+waves in V3-6. Enzymes elevated. He was admitted to the MICU for
+further care.
+
+Past Medical History:
+1. Diastolic dysfunction
+2. Hypertension
+3. Asthma
+4. History of bronchiolitis obliterans pneumonia ([**4-/2134**])
+5. Chronic renal failure with baseline creatinine high 2s-low 3s
+6. History of diverticular bleed, and upper GI bleed in 03/[**2140**].
+EGD with gastric erosions.
+7. Colonic adenoma
+8. Giardia ([**3-/2137**])
+9. CVA in [**2127**]
+10. MRSA pneumonia in [**2-/2141**]
+
+Social History:
+He is originally from [**Country 4812**]. He lives with his daughter in
+[**Name (NI) **].
+
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Physical examination at the time of transfer from the ICU:
+VITALS: Tm 99.2/98.2, BP 110-140/50-60s, HR 60-70s, RR teens,
+Sat 96-100% on face mask 0.50.
+GEN: Appears comfortable, sitting in chair.
+HEENT: Anicteric, MMM.
+NECK: EJV distended, unable to assess JVP.
+RESP: Bibasilar ronchi. Bilateral expiratory wheezes.
+CVS: RRR. Normal S1, S2. Heart exam limited secondary to breath
+sounds.
+GI: BS NA. abdomen soft, non-tender.
+EXT: Without edema.
+
+
+Pertinent Results:
+Relevant laboratory data on admission:
+CBC [**2141-5-2**]:
+WBC-17.1*# RBC-3.43* HGB-9.8* HCT-29.1* MCV-85 MCH-28.6
+MCHC-33.7 RDW-16.0*
+NEUTS-81* BANDS-3 LYMPHS-10* MONOS-6 EOS-0 BASOS-0 ATYPS-0
+METAS-0 MYELOS-0
+
+Chemistry:
+GLUCOSE-179* UREA N-39* CREAT-2.9* SODIUM-132* POTASSIUM-5.3*
+CHLORIDE-98 TOTAL CO2-19* ANION GAP-20
+CALCIUM-8.9 PHOSPHATE-3.6 MAGNESIUM-1.4*
+
+Coagulation:
+PT-13.9* PTT-24.8 INR(PT)-1.2*
+
+Microbiology:
+[**2141-5-9**] URINE negative
+[**2141-5-4**] URINE CULTURE negative
+[**2141-5-2**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+{MORAXELLA CATARRHALIS, PRESUMPTIVE IDENTIFICATION} INPATIENT
+[**2141-5-2**] URINE CULTURE negative
+[**2141-5-2**] BLOOD CULTURE negative
+
+Other data: HbA1c and PTH pending.
+
+Relevant imaging data:
+[**2141-5-2**] CXR: Moderate CHF
+[**2141-5-2**] CXR: NG tube, worsened CHF
+[**2141-5-2**] CXR: ETT, persistent pulmonary edema
+
+ECHO [**2141-5-2**]: LV thickness normal. Moderate regional LV
+systolic dysfunction. Overall LVEF is moderately depressed (LVEF
+35%). Resting regional wall motion abnormalities include mid to
+distal septal and apical akinesis. RV normal. Aortic valve
+leaflets are mildly thickened and there is focal calcification
+of the noncoronary cusp. No AS. Mild AR. [**12-19**]+ MR. Compared to
+prior, worse EF, new WMA. E/A 1.60.
+
+[**2141-5-3**] CXR: Moderately severe pulmonary edema has changed in
+distribution but not in overall severity, accompanied by
+persistent small left and small-to-moderate right pleural
+effusion and borderline cardiomegaly. ET tube in standard
+placement.
+
+[**2141-5-4**] CXR: Markedly improved CHF.
+
+[**2141-5-9**] CXR: Small bilateral plerual effusions, with RLL
+atelectasis.
+
+Brief Hospital Course:
+82 year-old male with CHF, CRI, prior GI bleed (both upper and
+lower), admitted with respiratory failure. His hospital course
+will reviewed by problems.
+
+1. Respiratory failure: His acute decompensation was felt most
+consistent with flash pulmonary edema, requiring intubation.
+While in the ICU, he was diuresed with IV Lasix, switched to
+oral Lasix with good results. He was also continued empirically
+on Vancomycin and CTX for coverage of CAP. Sputum gram stain
+returned positive for GN diplococci, and culture eventually grew
+Moraxella catarrhalis. Vancomycin was discontinued on [**2141-5-5**].
+He self-extubated on [**2141-5-4**], and did well thereafter. He
+completed a 7-day course of CTX on [**2141-5-8**] for Morazella in his
+sputum. Please see below for further details on his CHF
+management.
+
+2. CAD: His cardiac enzymes on admission were noted to be
+trending up, and an EKG was concerning for "pseudonormalization"
+of T waves in V3-6 versus 04/[**2140**]. It is of note that cardiac
+enzymes were not obtained in [**3-/2141**] in the setting of these
+changes. He was briefly started on heparin, which was
+discontinued in the setting of a hematocrit drop and probable
+demand ischemia rather than ACS. An echo was obtained on
+[**2141-5-2**], which revealed new systolic dysfunction with EF 35%,
+with mid to distal septal and apical akinesis. Cardiology was
+consulted. Review of his records indicated a recent echo with
+preserved systolic function in 03/[**2140**]. He was felt to have
+likely had a recent anterior MI, with superimposed
+demand/subendocardial ischemia. He was deemed a poor
+catheterization candidate given his stage IV CKD, and medical
+management was advised. His troponin continued to rise in the
+ICU, but CK was trending down. He was continued on ASA and
+statin. Toprol was changed to Metoprolol (not renally cleared),
+which was titrated up. He was started on Captopril while in the
+ICU, subsequently discontinued in the setting of an acute rise
+in his creatinine. Hydralazine and Isordil were subsequently
+started (lower dose than before admission).
+
+3. CHF: As noted above, he was found to have new systolic
+dysfunction, felt likely secondary to a recent anterior MI. In
+addition, he likely has a component of diastolic dysfunction.
+His acute presentation was felt secondary to flash pulmonary
+edema, and he responded well to diuresis. He was weaned off
+oxygen, and was saturating well on room air at the time of
+discharge. He was placed back on Lasix 40 mg daily. Please note
+that while in the hospital, his oral Lasix was transiently held
+in the setting of hyponatremia, which improved after holding
+Lasix for 48 hours. His sodium and creatinine will need to be
+closely monitored as an out-patient. He needs to remain on Lasix
+from a cardiac standpoint. He was also discharged oh Hydralazine
+25 mg PO QID and Imdur 30 mg daily for afterload reduction
+(acute rise in creatinine with Captopril).
+
+3. GI bleed: While in the hospital, he was noted to have guaiac
+positive stools, associated with a hematocrit drop to 24 on
+[**2141-5-2**] (albeit also in the setting of a short course of IV
+heparin). He was transfused 2 units of PRBCs on that day. Review
+of his recent data indicated an EGD in [**2-/2141**] remarkable for
+gastric erosion. He was placed on PRotonix 40 mg twice daily
+(initially IV then PO), and Carafate PO QID. His hematocrit
+remained stable thereafter, and further work-up was not pursued.
+
+
+4. CRI: Patient with known CKD with fluctuating creatinine at
+baseline, followed by Dr. [**Last Name (STitle) 3271**] as an out-patient. While in
+the hospital, his creatinine rose to a peak of 4.2, at one point
+with concomitant hyperkalemia and hyperphosphatemia. He was
+started on CaCO3 and Sevelamer, with correction of his
+hyperphosphatemia. A recent renal U/S in [**2-/2141**] was remarkable
+for thin cortices suggestive of parenchymal disease. Prior lab
+data were also remarkable for known nephrotic range proteinuria,
+negative SPEP/UPEP in [**2139**]. The renal service was consulted on
+[**2141-5-9**] for further advice, with an impression of probable
+hypertensive nephrosclerosis possibly also with superimposed
+FSGS. He had no indication for acute hemodialysis, although it
+is likely that he will need long-term hemodialysis in the near
+future. His family, however, is very reluctant to consider it.
+Follow-up appointment scheduled with Dr. [**Last Name (STitle) 118**] in

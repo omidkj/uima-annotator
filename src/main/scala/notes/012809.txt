@@ -1,0 +1,210 @@
+Admission Date:  [**2146-12-11**]              Discharge Date:   [**2146-12-19**]
+
+Date of Birth:  [**2065-7-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Erythromycin Base
+
+Attending:[**First Name3 (LF) 1928**]
+Chief Complaint:
+Hypercarbic Respiratory Failure
+
+Major Surgical or Invasive Procedure:
+Mechanical Ventilation and Intubation
+
+
+History of Present Illness:
+This is an 81 yo female with end-stage COPD, DM2, CRF, anemia of
+renal disease, diastolic CHF, h/o DVT, PMR, OA, OSA, h/o C diff
+who was discharged from [**Hospital1 18**] on [**12-8**] after a COPD exacerbation,
+treated with PO steroids and levofloxacin. She was discharged to
+a rehab and was doing ok. Of note, she was not on several of her
+home COPD meds on discharge. However, her family noted that she
+was becoming progressively more lethargic and tired during her
+stay. Her O2 had been increased from 2 to 3 liters. Family
+denies any fevers, chills, or cough. She presented to [**Hospital 6451**] hospital early today with increasing shortness of
+breath. ABG there showed 7.16/139. Intubated there at her
+husbands request and transferred to [**Hospital1 18**] as her prior care was
+here.
+
+In the ED, initial VS: 88 138/100 16 97% on the ventilator. A
+CXR showed a possible retrocardiac opacity so she was given
+Vanc/CTX for abx and 2L NS. BPs trended down to the 80s-90s but
+daughter at bedside stated she would not want a central line.
+She was successfully managed with IVF and extubated.  She was
+then transferred to the floor for further management.
+
+ROS: Further ROS unable to be obtained due sedation.
+
+Past Medical History:
+COPD on 2.5-3.5L O2 NC, no h/o intubation, never seen by
+pulmonologist, severely disabled, chronic hypercarbia and
+history of CO2 narcosis
+DM2 x 50 years
+diastolic CHF, last hospitalized for this 1 year ago
+CRF stage 3, creatinine 2.0 in [**11-14**]
+anemia of renal disease on epogen
+OSA on CPAP
+h/o DVT - patient states that 50 years ago she injured her left
+leg, never went to the hospital for it and it might have been a
+phlebitis
+PMR on steroids x 50 years
+OA - particularly left shoulder
+osteoporosis, vertebral compression fx [**2138**]
+h/o C diff per records but daughter [**Name (NI) 63582**]'t aware, patient states
+
+it might have been 3-4 years ago
+h/o fall
+cognitive decline, h/o agitation and confusion at night
+
+Social History:
+former nurse, trained at [**Hospital 1474**] Hospital, lives at home with
+husband, daughter lives in [**Name (NI) 3307**], quit smoking decades ago
+
+Family History:
+asked but not contributory
+
+Physical Exam:
+On arrival to the MICU
+Vitals - 97.8, 83, 111/52, 96% AC 400, 16, 40%, 5:
+GENERAL: Intubated and sedated, twitching
+HEENT: PERRL, EOMI
+CARDIAC: RRR, 2/6 SEM
+LUNG: Diffuse rhonchi
+ABDOMEN:  Soft, NT/ND, +bS
+EXT: no edema
+NEURO: intubated and sedated
+
+Pertinent Results:
+URINE CULTURE (Final [**2146-12-10**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------    16 I
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO----- =>128 R
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+[**2146-12-11**] 4:30 am URINE     Site: CATHETER
+
+                            **FINAL REPORT [**2146-12-14**]**
+
+   URINE CULTURE (Final [**2146-12-14**]):
+      ESCHERICHIA COLI.    PRESUMPTIVE IDENTIFICATION.
+         OF TWO COLONIAL MORPHOLOGIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------    16 I
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO----- =>128 R
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+**FINAL REPORT [**2146-12-15**]**
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2146-12-15**]):
+Feces negative for C.difficile toxin A & B by EIA.
+
+[**2146-12-11**] 04:30AM BLOOD WBC-9.0 RBC-4.50 Hgb-11.2* Hct-36.6
+MCV-81* MCH-24.9* MCHC-30.7* RDW-16.6* Plt Ct-255
+
+[**2146-12-19**] 06:10AM BLOOD WBC-7.4 RBC-4.00* Hgb-10.0* Hct-32.2*
+MCV-81* MCH-25.1* MCHC-31.2 RDW-16.7* Plt Ct-213
+[**2146-12-11**] 04:30AM BLOOD Neuts-81.3* Lymphs-14.7* Monos-3.6
+Eos-0.3 Baso-0.2
+[**2146-12-16**] 06:25AM BLOOD Neuts-56.5 Lymphs-31.6 Monos-11.3*
+Eos-0.5 Baso-0
+[**2146-12-11**] 04:30AM BLOOD Glucose-119* UreaN-54* Creat-2.7* Na-145
+K-6.8* Cl-98 HCO3-38* AnGap-16
+[**2146-12-19**] 06:10AM BLOOD Glucose-100 UreaN-52* Creat-3.3* Na-145
+K-4.3 Cl-99 HCO3-34* AnGap-16
+[**2146-12-19**] 06:10AM BLOOD Calcium-9.1 Phos-3.9 Mg-2.2
+[**2146-12-11**] 07:28AM BLOOD Type-ART pO2-73* pCO2-63* pH-7.45
+calTCO2-45* Base XS-16
+[**2146-12-14**] 04:22AM BLOOD Type-[**Last Name (un) **] pO2-145* pCO2-63* pH-7.44
+calTCO2-44* Base XS-16 Comment-GREEN TOP
+[**2146-12-11**] 04:46AM BLOOD Lactate-2.4*
+[**2146-12-12**] 06:23AM BLOOD Lactate-0.6
+
+Imaging:
+CXR [**2146-12-15**]
+IMPRESSION: Status post extubation. Slight improved aeration at
+lung bases with residual atelectasis adjacent to effusions.
+
+ECHO [**2146-12-15**]
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with normal cavity size. Regional
+left ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). The right ventricular
+cavity is mildly dilated with mild global free wall hypokinesis.
+The aortic root is mildly dilated at the sinus level. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. Trace aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. The left ventricular inflow
+pattern suggests impaired relaxation. The tricuspid valve
+leaflets are mildly thickened. There is moderate pulmonary
+artery systolic hypertension. There is an anterior space which
+most likely represents a fat pad.
+IMPRESSION: Suboptimal image quality. Mild symmetric left
+ventricular hypertrophy with preserved left ventricular systolic
+function. Mild right ventricular dilation with probable mild
+hypokinesis. Moderate pulmonary hypertension.
+
+CXR [**2146-12-11**]
+SINGLE UPRIGHT PORTABLE VIEW OF THE CHEST: An endotracheal tube
+terminates approximately 2 cm from the carina. An enteric tube
+extends below the diaphragm and terminates below the bottom of
+the radiograph. Lung volumes are low. There is dense
+retrocardiac opacity which could reflect atelectasis or
+consolidation. There may be bilateral pleural effusions.
+Moderate cardiomegaly is likely unchanged. Scarring at the lung
+apices is again noted. Hilar fullness is likely related to low
+lung volumes. Aortic arch calcifications are noted. Pulmonary
+vascular structures are otherwise normal in caliber.
+IMPRESSION: ETT terminates 2.1 cm from the carina. Dense
+retrocardiac
+opacity could reflect atelectasis, effusion or consolidation.
+
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is an 81 year old woman with COPD, type II diabetes,
+chronic renal failure, anemia of renal disease, diastolic CHF,
+h/o DVT, PMR, OA, OSA, and a history of C. diff who presented to
+an OSH with hypercarbic respiratory failure. She was intubated
+and transfered to [**Hospital1 18**] for further care on [**12-11**]. In the MICU,
+she was weaned off mechanical ventillation on [**12-12**]. She was
+transferred to the medical floor on the evening of [**12-14**].
+.
+# Hypercarbic respiratory failure: Patient had just been
+discharged from the hospital for a COPD exacerbation when she
+went into hypercarbic respiratory failure. This exacerbation
+seems t

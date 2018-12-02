@@ -1,0 +1,169 @@
+Admission Date:  [**2149-9-9**]              Discharge Date:   [**2149-9-11**]
+
+Date of Birth:  [**2116-3-29**]             Sex:   M
+
+Service: [**Hospital Unit Name 196**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2074**]
+Chief Complaint:
+Elective ICD placement
+
+Major Surgical or Invasive Procedure:
+ICD placement
+Intubation
+
+History of Present Illness:
+Pt is a 33 year old male with sarcoid, htn, obesity, hx NSVT and
+idiopathic DCM with EF 10-15%, who presents for elective ICD
+placement based on low EF. Pt became agitated during placement
+of ICD and required increased amounts of conscious sedation,
+finally becoming apneic and requiring intubation.  He then
+recieved 2L NS after becoming hypotensive during general
+anesthesia administration with propofol.
+
+Past Medical History:
+CHF
+HTN
+Sarcoidosis
+Gout
+?Irregular heart beat
+Obesity
+Meningitis as a baby
+[**Name (NI) **] accident 2 years ago- broken ribs
+
+Allergies- NKDA, NKA
+
+
+Social History:
+Social history:- smoker since 18alcohol consumption - 1/wk * 12
+yearsNo use of illicit drugsLives with wife and son
+
+Family History:
+Non-contributory
+
+Physical Exam:
+96.5     109/72       85       18       100%RA
+
+Gen:  NAD, morbidly obese, A&O X 3, pleasant gentleman.
+Heent:  EOMI, PEERL, MMM
+Neck:  difficult to assess JVP 2/2 habitus.
+Heart:  RRR, normal S1 and S2, Could not palpate PMI.
+Lungs:  Occasional end-exp wheezes, no rales.
+Abd:  Obese.  Soft, nt/nd. NABS.
+Ext:  Trace pedal edema [**12-31**] way up shins (stable)
+Neuro:  CN2-12 intact.  Motor and sensation intact globally.
+Gait normal.
+
+Pertinent Results:
+[**2149-9-11**] 05:30AM BLOOD WBC-15.5* RBC-4.43* Hgb-10.0* Hct-33.3*
+MCV-75* MCH-22.6* MCHC-30.1* RDW-16.5* Plt Ct-239
+[**2149-9-11**] 05:30AM BLOOD Neuts-83.7* Lymphs-9.5* Monos-6.1 Eos-0.6
+Baso-0.1
+[**2149-9-11**] 05:30AM BLOOD Hypochr-3+ Anisocy-1+ Microcy-2+
+[**2149-9-11**] 05:30AM BLOOD Plt Ct-239
+[**2149-9-10**] 03:45AM BLOOD PT-14.3* PTT-22.6 INR(PT)-1.3
+[**2149-9-11**] 05:30AM BLOOD Glucose-149* UreaN-32* Creat-1.2 Na-136
+K-4.5 Cl-103 HCO3-24 AnGap-14
+[**2149-9-11**] 05:30AM BLOOD Calcium-8.7 Phos-3.4 Mg-2.2
+[**2149-9-10**] 06:43PM BLOOD Type-ART pO2-123* pCO2-39 pH-7.38
+calHCO3-24 Base XS--1 Intubat-INTUBATED
+
+Brief Hospital Course:
+1.  Apnea:  Pt became apneic during ICD placement and required
+intubation for apnea (likely from sedatives and pre-existing
+sleep apnea).  Pt also became hypotensive during propofol
+administration, and was given 2L NS.
+
+2.  Volume overload/Acute pul edema:  Pt recieved 2L NS
+resucitation for hypotension during intubation.  He then
+developed pink, frothy sputum and displayed signs of acute
+pulmonary edema.  He is quite fluid sensitive given his EF of
+[**9-12**]%.  Pt was diuresed overnight with a IV lasix (40mg X 2 and
+80mg X 1) and was successfully extubated on HD#2.  He diuresed a
+total of 2L and was then 100% on RA and did not desaturate on
+ambulation.  Pt will have CHF nursing dietary education prior to
+discharge.  He will f/u with Dr.[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+
+3.  Hypotension:  The patient became hypotensive during propofol
+administaration.  Fluid was given that increased his BP, but
+only transiently.  He was also put on neosynephrine for total of
+15 minutes and also required levophed for a short time (20
+minutes).  Given his history of long-term steroid use and
+sarcoidosis, he was given 2 doses of IV hydrocortisone which was
+then stopped.  The etiology of his hypotension was likely
+vasodilation from propofol.  He did not mount a reflex
+tachycardia from this probably because he was beta-blocked from
+his carvedilol which he takes at home.  His BP normalized on
+HD#2 and his beta blocker and losartan were re-started without
+problem.
+
+4.  ICD placement:  Post procedure chest films show the leads to
+be in the correct place.  Device deemed to be functional by
+J.Conners N.P.
+
+5.  ARF:  Pt's creatinine increased to 1.8 when he was volume
+overloaded.  This was likely [**12-30**] decreased forward flow
+resulting in pre-renal azotemia.  This corrected with diuresis
+and unloading of LV.  Discharge Cr 1.2 (baseline).
+
+Medications on Admission:
+cozaar 50 mg po qD
+Lasix 40mg po QD
+Coreg 12.5 mg po BID
+ASA 325mg po QD
+
+
+Discharge Medications:
+1. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Losartan Potassium 50 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+4. Lasix 20 mg Tablet Sig: Three (3) Tablet PO once a day: 60 mg
+po QD.
+Disp:*90 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Apnea and volume overload requiring intubation during elective
+ICD placement.
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Go to the ER or call your doctor if you have these symptoms:
+
+1.  shortness of breath
+2.  chest pain
+3.  dizziness
+4.  darkening vision
+5.  weight gain
+6.  fever >102
+
+Take daily weights.  If your wieght increases by 4 pounds from
+your baseline, take an extra dose of lasix.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) 1571**] BREATHING TESTS Where: [**Hospital6 29**]
+Phone:[**Telephone/Fax (1) 5091**] Date/Time:[**2149-9-12**] 11:15
+Provider: [**Name10 (NameIs) **] [**Last Name (STitle) **]/DR [**Last Name (STitle) **] Where: [**Hospital6 29**]
+MEDICAL SPECIALTIES Phone:[**Telephone/Fax (1) 5091**] Date/Time:[**2149-9-12**] 11:30
+Provider:  [**Name10 (NameIs) 676**] CLINIC Where: [**Hospital6 29**] CARDIAC
+SERVICES Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2149-9-17**] 9:30
+Dr.[**Last Name (STitle) **]:  ([**Telephone/Fax (1) 7179**].  Please call and make an appointment.
+
+
+
+
+Completed by:[**2149-9-11**]

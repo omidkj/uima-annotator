@@ -1,0 +1,213 @@
+Admission Date:  [**2155-9-29**]              Discharge Date:   [**2155-10-3**]
+
+Date of Birth:  [**2078-11-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Iodine Containing Agents Classifier
+
+Attending:[**First Name3 (LF) 6195**]
+Chief Complaint:
+respiratory distress
+
+Major Surgical or Invasive Procedure:
+endotracheal intubation
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 76 year old male with history of bronchiectasis
+requiring RLL lobectomy as a child, who was intubated on arrival
+to the ED [**9-29**] secondary to respiratory distress and poor air
+movement.  He had been discharged [**9-28**] after one day admission
+for increasing SOB.  He is followed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] and had
+called [**Company 191**] on [**9-26**] complaining of shortness of breath and
+production of thick yellow sputum.  He had just completed a
+course of Ceclor (2nd generation cephalosporin) and was told to
+increase the duration for another week by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1022**].  A CXR
+on [**9-27**] was not significantly changed when compared to CXR from
+[**2155-7-22**].  He had been releaseed [**9-28**] with prednisone and
+levofloxacin.
+.
+Of note, he was recently admitted to [**Hospital1 18**] from [**7-22**] to [**7-25**] with
+exacerbation on his bronchiectasis, treated with a 10 day course
+of levaquin and NEBS.
+.
+In the ED, vitals were BP 251/135, HR 123, RR 15, 92% on NRB.
+He was intubated on arrival, on AC 500 x 15, 100%, PEEP 5.  Labs
+on arrival notable for a WBC of 23.1.  He was given a dose of
+ceftriaxone and 125 mg solumedrol, as well as NEBS.  ABG after
+intubation was 7.30/60/359.
+
+
+Past Medical History:
+1. Bronchiectasis: requiring RLL lobectomy as a child
+2. Benign prostatic hypertrophy
+3. s/p RLL lobectomy
+4. s/p left cataract surgery
+5. s/p tonsillectomy
+
+
+Social History:
+works as hair dresser; has [**5-24**] drinks per week, never smoked, no
+recreational drug use.
+
+
+Family History:
+1. Uterine CA: mother
+2. Breast CA: sister
+3. Prostate CA: father and brother
+4. CAD: brother (has required 2 stents)
+
+Physical Exam:
+Gen:  Tanned caucasian male, intubated and sedated, appearing
+comfortable.
+HEENT:  Anicteric.  Pupils pinpoint b/l.
+Neck:  No JVD.
+Cor: RR, tachy, no m/r/g; heart on right side.
+Lungs:  dull to percussion on R side. bronchial breath sounds at
+R base, inspiratory whistling with crackles on R side, L side
+CTA.
+Abd:  NABS, soft, NT/ND.
+Extr:  No c/c/e.  DP palpable b/l, strong.
+
+Pertinent Results:
+[**2155-9-29**] 04:25AM BLOOD WBC-23.1*# RBC-5.06 Hgb-15.3 Hct-47.1
+MCV-93 MCH-30.2 MCHC-32.4 RDW-13.0 Plt Ct-315#
+[**2155-10-2**] 09:00AM BLOOD WBC-10.1 RBC-4.35* Hgb-13.0* Hct-38.9*
+MCV-89 MCH-29.9 MCHC-33.5 RDW-13.0 Plt Ct-169
+[**2155-9-29**] 04:25AM BLOOD Glucose-207* UreaN-30* Creat-1.3* Na-145
+K-3.7 Cl-104 HCO3-31 AnGap-14
+[**2155-10-2**] 09:00AM BLOOD Glucose-101 UreaN-17 Creat-1.0 Na-142
+K-3.4 Cl-105 HCO3-27 AnGap-13
+[**2155-10-1**] 06:35AM BLOOD Calcium-9.2 Phos-1.8* Mg-1.7
+[**2155-10-2**] 09:00AM BLOOD Albumin-3.7 Calcium-9.5 Phos-3.0 Mg-1.8
+
+
+Brief Hospital Course:
+A/P:  76 year old male with history of bronchiectasis s/p R
+lower lobectomy as a child, who presents with a few days of
+increased shortness of breath, increased sputum production, labs
+notable for leukocytosis, intubated on arrival for respiratory
+distress with markedly reduced air movement.
+.
+1) Respiratory distress:  Given this patient's history and
+report of lack of air movement on exam on ED arrival, likely
+exacerbation of bronchiectasis/COPD.  Admitted with high WBC, so
+PNA considered given difficult to interpret CXR.  Patient
+hypercarbic, with A-a gradient of 279 suggestive of PNA vs.
+bronchiectasis as etiology.  ABG (7.30/60/359/31) consistent
+with a mixed acute on chronic respiratory acidosis (more chronic
+than acute).    Pt was covered with solumedrol and transitioned
+to prednisone; started on Zosyn IV, nebs with transition to
+Combivent inhaler with spacer.  Given Chest PT and acapella
+device.  Sputum culture showed rare growth of gram negative rods
+- identification pending.  2nd sputum culture pending at time of
+d/c.  hemoptysis x 2 - none on day of d/c.  Received 3d Zosyn
+and discharged on Levaquin for total of 14 day course.  Will f/u
+with Dr. [**First Name (STitle) **] the week after d/c and Dr. [**Last Name (STitle) 575**] 1 week
+after end of abx course and see outpt chest PT next week.
+.
+2) BPH: pt has long h/o BPH; upon admission, unable to urinate
+and Foley could not be placed; urology put in SPT.  SPT capped
+[**10-1**] and pt urinated well during admission.  Discharged with SPT
+in place in case of emergency with plan to pull it upon f/u
+urology appt the week after d/c.  Finasteride continued.  Flomax
+started per urology; switched to Hytrin because of elevated BP
+and was d/c with prescription.
+.
+3) Hypertension: pt's BP elevated during stay; h/o fluctuating
+BP.  Per attending, was started on Hytrin for combination BPH
+and BP control.  Day of discharge, BP ran anywhere from
+120-165/80-92; appears related to pt's level of anxiety.
+.
+4) Rash: small, erythematous, vesicular rash on left lower
+back/buttocks.  Presumed to be herpes simplex and pt given
+prescription for acyclovir.
+.
+5) Leukocytosis:  Unclear if labs drawn after steroids, however
+pt treated for possible infection; urine cx negative; sputum
+culture pending.  Sent out on Levaquin.
+.
+6) EKG changes:  In setting of respiratory failure, cycled
+enzymes - negative.
+.
+7) Tachycardia:  Likely related to respiratory
+failure/intubation/stress/possible infection.  Monitored during
+stay - resolved.  Monitor for now.  Hold on BB as sinus in
+nature.  Address underlying/exacerbating problems.
+.
+8) Acute renal failure:  Creatinine 1.3 from baseline 0.9 on
+admission; resolved after hydration.
+.
+9) PPx:  SQ heparin, protonix while vented.
+.
+10) FEN:  full diet.
+.
+11) Code:  full.  discussed with patient for prolonged period of
+time; explained to pt that question will be asked each time he
+is admitted to hospital.
+
+12) Access:  Peripheral IVs, no need for central at the present
+time.
+.
+13) Dispo:  stable, afebrile; home.
+.
+
+Medications on Admission:
+finasteride 5mg po once daily
+levofloxacin, 500mg po once daily x 7days (started [**9-28**])
+prednisone taper started [**9-28**]
+COMBIVENT 103-18 mcg 2 puffs q6 PRN
+albuterol inh q4-6h prn for SOB or wheezing
+
+Discharge Medications:
+1. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Tablet(s)
+2. Levaquin 500 mg Tablet Sig: One (1) Tablet PO once a day for
+11 days.
+Disp:*11 Tablet(s)* Refills:*0*
+3. Terazosin 2 mg Tablet Sig: Two (2) Capsule PO HS (at
+bedtime).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Combivent 103-18 mcg/Actuation Aerosol Sig: Three (3)
+Inhalation four times a day: Use the spacer as indicated.
+Disp:*1 1* Refills:*2*
+5. Prednisone 10 mg Tablet Sig: Three (3) Tablet PO ONCE (once)
+for 1 doses: Take 3 tabs today, 2 tabs for the next 2 days, and
+then 1 tab next 2 days and discontinue.
+Disp:*9 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Bronchiectasis exacerbation
+2. Benign prostatic hypertrophy
+
+
+Discharge Condition:
+stable, afebrile, tolerating PO's, no shortness of breath.
+
+
+Discharge Instructions:
+Please continue your medications as prescribed
+Please continue Levoquine for 11 more days
+Follow prednisone taper as instructed
+Follow Dr [**Last Name (STitle) **] [**Last Name (STitle) 19057**] for suprapubic catheter
+Use acapella device as instructed
+Drain over side of the bed 4 times a day for 5-10 minutes as
+instructed.
+If shortness of breath, nausea, fevers, chills, chest pain, or
+any other symptoms that may concern you , please call your PCP
+or come to the ED
+
+Followup Instructions:
+Provider: [**Name (NI) 2482**] [**Name (NI) 2483**], PT, CCS Where: [**Hospital6 29**]
+REHABILITATION SERVICES Phone:[**Telephone/Fax (1) 2484**] Date/Time:[**2155-10-8**]
+8:45
+
+Provider: [**First Name8 (NamePattern2) 161**] [**Name11 (NameIs) 162**] [**Name8 (MD) 163**], MD Where: [**Hospital6 29**] SURGICAL
+SPECIALTIES Phone:[**Telephone/Fax (1) 921**] Date/Time:[**2155-10-8**] 4:45
+
+Provider: [**First Name8 (NamePattern2) 

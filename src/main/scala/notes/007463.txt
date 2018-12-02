@@ -1,0 +1,203 @@
+Admission Date:  [**2198-6-16**]              Discharge Date:   [**2198-6-19**]
+
+Date of Birth:  [**2127-11-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 14037**]
+Chief Complaint:
+Hypoxemia and respiratory distress
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname 36881**] is a 70 y/o M with DM2, CVA, mental retardation,
+parkinsonism, asthma, OSA on cpap, recently admitted for
+nosocomial pna, readmitted soon after discharge from his NH
+after desaturating there. He was recently admitted [**Date range (1) **]
+after presenting with three days of cough that developed into
+respiratory distress and mental status changes. On that
+admission, the team started vancomycin and
+piperacillin-tazobactam for healthcare associated pna; he was
+treated with aggressive pulmonary hygiene, including frequent
+suctioning, chest PT, scheduled nebulizers, and guaifenisen. His
+course was notable for improving though ongoing chronic
+hypoxemia and hypercarbia. Shortly after returning to [**Location (un) **]
+Manor, he apparently became febrile to 100.5, tachy to 104,
+tachypneic to the mid-30's, and desaturated to the 70's. He was
+brought to the emergency deparmtent, where he was found to be
+satting in low-mid 80's on 3L nc, so a NRB was applied, with a
+rebound in sats to the mid 90's. For hypoxemia, he had a CTA
+showing no PE, chronic RLL collapse, and improving
+consolidation. He was febrile to 100.5, and cx's were drawn.
+When seen on arrival to ICU, he said he was feeling better and
+that his breathing was more comfortable. His only other
+complaint was of some diarrhea over the past few days.
+
+Past Medical History:
+-DM2
+-Hypercholesterolemia
+-CVA with residual left-sided weakness
+-Mental retardation
+-Parkinsonism
+-Mood disorder
+-OSA on home CPAP
+-Asthma
+-s/p right lobectomy for empyema
+-OA
+
+
+Social History:
+Lives in group home in [**Hospital1 3494**], dependent on aides for ADLs.
+Per OMR, lifetime non-smoker, no h/o heavy etoh use. Has brother
+[**Name (NI) **] who is his HCP.
+
+Family History:
+Family history of Parkinson's, SL, RA, heart attacks
+
+Physical Exam:
+Afebrile, bp 125/61, hr 88, rr 18 spo2 91% on 4L NC
+gen- pleasant male, looks age, in NAD
+[**Name (NI) **]- anicteric, op with mmm
+neck- no jvd, lad, or thyromegaly
+cv- rrr, s1s2, no m/r/g
+pul- no acc muscle use, fair air movement, rales in lll>rll,
+occasional expiratory wheeze at bases
+abd- soft, nt, nd, nabs
+back- no cva/vert tendrn
+extrm- no cyanosis/edema, warm/dry
+nails- no clubbing, no pitting/color change
+neuro- awake, alert and answering questions appropriately, no
+focal cn deficit
+
+
+Pertinent Results:
+LABS on admission:
+WBC-9.4 Hct-36.4* MCV-91 Plt Ct-309
+Glucose-184* UreaN-13 Creat-0.8 Na-141 K-4.2 Cl-100 HCO3-36*
+AnGap-9
+Calcium-9.1 Phos-3.8 Mg-2.3
+ABG: pO2-84* pCO2-76* pH-7.35 calTCO2-44* Base XS-11
+Lactate-1.1
+.
+LABS on discharge:
+WBC-11.1* Hct-37.7* MCV-91 Plt Ct-341
+Glucose-123* UreaN-17 Creat-0.8 Na-140 K-4.3 Cl-96 HCO3-40*
+AnGap-8
+Calcium-9.2 Phos-4.3 Mg-2.1
+.
+MICRO:
+[**2198-6-16**] - blood cx pending (no growth to date)
+.
+IMAGING:
+[**2198-6-15**] CXR: Improved aeration at the left base. Unchanged
+chronic volume loss at the right base.
+.
+[**2198-6-15**] CTA:
+1. No evidence of pulmonary embolism.
+2. Stable appearance of chronic changes within the right
+hemithorax.
+3. Interval improvement in consolidation at the left lung base.
+.
+[**2198-6-19**] VIDEO SWALLOWING STUDY: (prelim) no evidence of
+aspiration; did note backflow/regurgitation within esophagus;
+rec regular texture PO diet at this time, PO meds whole as
+tolerated
+
+Brief Hospital Course:
+70m with DM2, CVA, mental retardation, Parkinsonism, asthma,
+OSA, recent admit for pneumonia who returns shortly after
+discharge with fever, respiratory distress, and hypoxemia.
+.
+# Fever and hypoxemia: Mr. [**Known lastname 36882**] CXR and CTA appear
+improved compared to the imaging from his prior hospitalization
+which showed pneumonia. He was initially sent to the MICU for
+close monitoring given his hypoxemia and need for a NRB. In the
+MICU, the patient improved quickly with minimal intervention and
+it was thought that he had mucous plugging which accounted for
+the rapid improvement in his oxygenation. Other possible causes
+for his hypoxemia were bronchospasm or an aspiration event
+leading to pneumonitis. He was continued on vancomycin for
+coverage of MRSA and completed a 10 day course on [**2198-6-19**]. Given
+his eosinophilia (thought to be [**2-16**] to drug), his Zosyn was
+changed to levofloxacin. He was also started on flagyl given
+concern for aspiration pneumonia and diarrhea, with concern for
+possible C diff. He was also treated with advair, guaifenesin,
+chest PT, and scheduled nebulizer treatments (both albuterol and
+atrovent). He was weaned down from a NRB to nasal cannula. He
+was transferred to the general medical floor on [**2198-6-17**] and
+continued to do well. We continued to wean his oxygen
+requirement down to 4L, with a goal of keeping his O2 sats
+89-92% so as to prevent hypercapnea. His BiPAP continued to be
+held as it was felt that it could be contributing to his mucus
+plugging. He underwent regular suctioning for his secretions,
+but by time of discharge, his secretions were much improved. He
+was discharged to an acute care facility, with the goal of
+aggressive chest and pulmonary physical therapy. He will
+complete a 10 day course of levofloxacin and flagyl at rehab (6
+days remaining).
+.
+# Eosinophilia: On admission, he had an eosinophilia of 11%.
+Within 24 hrs, his eosinophil count dropped to 1%. It was felt
+that his eosinophilia was likely due to a drug reaction, with
+zosyn being the most likely cause. Zosyn was changed to
+levofloxacin and flagyl with good effect. He remained afebrile
+on this regimen.
+.
+# Leukocytosis: WBC was 9.4 on admission, but rose to 11.1 on
+the day of discharge. He was afebrile and had no localizing
+symptoms of infection. His other hematology labs were also
+elevated from baseline and it was felt to be a sign of volume
+contraction in the setting of mild dehydration (as his BUN was
+also slightly elevated from baseline). He was encouraged to take
+adequate PO fluids. No changes were made to his antibiotics.
+.
+# OSA: He has a history of OSA and is supposed to be on CPAP at
+home. However, it was attempted during his last hospitalization
+and was felt to be contributing to his hypercapnea. The CPAP was
+discontinued and his pCO2 and oxygen sats remained stable. His
+CPAP continued to be held during this hospitalization. The
+patient should follow up with his PCP regarding the need for a
+repeat sleep study to insure that he is on the correct CPAP
+settings at home.
+.
+# Diarrhea: He also complained of diarrhea on admission. He was
+started on flagyl empirically for aspiration pneumonia, but also
+with the idea that it would cover possible C diff. However, he
+did not have any stool samples to send for culture and thus was
+never evaluated for C diff.
+.
+# DM2: He was continued on his outpatient dose of metformin and
+ISS. His fingersticks were checked QID and remained within good
+range while on this regimen.
+.
+# FEN: He was kept on a cardiac diet. Given the concern for
+possible aspiration pneumonitis, he underwent a speech and
+swallow evaluation. Bedside evaluation was unable to be
+completed, but the video swallow exam showed no evidence of
+aspiration. It was recommended that he continue on a regular
+texture PO diet and PO meds. He did not require IVF. His
+electrolytes were checked regularly and were repleted prn.
+.
+# PPx: He was given heparin SC for DVT prophylaxis; PPI for GI
+prophylaxis; and bowel regimen was held given ? of diarrhea. He
+may need a bowel regimen initiated if he does not have a bowel
+movement within 24 hrs.
+.
+# Access: PICC line.
+.
+# Code: DNR/DNI
+.
+# Dispo: He was seen by PT who felt that rehab would be best for
+the patient, with a focus on acute pulmonary rehab. He was able
+to ambulate without becoming dyspneic.
+
+Medications on Admission:
+-Vancomycin 1gm q12`, to end [**6-18**]
+-Piperacillin-tazobactam 4.5gm q8`, to end [**6-18**]
+-Omeprazole 20mg daily
+-Fluticasone

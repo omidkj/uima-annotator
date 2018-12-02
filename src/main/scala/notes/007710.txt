@@ -1,0 +1,141 @@
+Admission Date:  [**2148-10-11**]              Discharge Date:   [**2148-10-13**]
+
+Date of Birth:  [**2077-10-1**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Penicillins / Ace Inhibitors
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+abdominal pain
+
+Major Surgical or Invasive Procedure:
+paracentesis
+intubation
+
+History of Present Illness:
+Ms. [**Known lastname 9700**] is a 71 y.o lady w/ R heart failure, COPD, pulm
+fibrosis, pulm HTN, CRI, remote breast ca who presented to the
+ED with increasing abdominal distention x 2 days, severe diffuse
+abdominal pain, and productive cough. In ED, mildly hypotensive
+w/ new vs. worsened ascites, 19% bands. Admitted to [**Hospital Unit Name 153**] for
+worry of early sepsis.
+
+Past Medical History:
+-pulmonary hypertension
+-R sided heart failure
+-severe long- standing mitral regurgitation after radiation and
+chemotherapy for breast cancer [**2127**]
+-cri
+-hypothyroidism
+-obesity
+-sleep apnea
+
+
+Social History:
+has 7 children.  used to be employed at [**Hospital1 18**].
+
+Family History:
+noncontributory
+
+Physical Exam:
+pt has no respiratory effort, no corneal reflexes, no pulse, all
+c/w brain death.
+
+Pertinent Results:
+[**2148-10-13**] 05:43AM BLOOD WBC-20.5* RBC-5.95* Hgb-12.4 Hct-47.9
+MCV-81* MCH-20.8* MCHC-25.8* RDW-23.0* Plt Ct-290
+[**2148-10-10**] 08:35PM BLOOD WBC-8.7 RBC-6.00* Hgb-12.1 Hct-42.6
+MCV-71* MCH-20.2*# MCHC-28.5* RDW-21.5* Plt Ct-503*
+[**2148-10-10**] 08:35PM BLOOD Neuts-71* Bands-19* Lymphs-3* Monos-7
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2148-10-13**] 01:01PM BLOOD PT-28.8* PTT-67.0* INR(PT)-5.2
+[**2148-10-11**] 03:15AM BLOOD PT-16.0* PTT-27.5 INR(PT)-1.6
+[**2148-10-12**] 03:15PM BLOOD FDP-10-40
+[**2148-10-12**] 11:20AM BLOOD Fibrino-683*
+[**2148-10-11**] 03:15AM BLOOD D-Dimer-2800*
+[**2148-10-13**] 01:01PM BLOOD Glucose-126* UreaN-75* Creat-4.0* Na-136
+K-6.5* Cl-96 HCO3-6* AnGap-41*
+[**2148-10-10**] 08:35PM BLOOD Glucose-114* UreaN-67* Creat-2.8*#
+Na-128* K-GREATER TH Cl-91* HCO3-22
+[**2148-10-13**] 05:43AM BLOOD ALT-48* AST-237* LD(LDH)-540*
+AlkPhos-123* TotBili-2.8*
+[**2148-10-13**] 01:01PM BLOOD Calcium-6.5* Phos-12.3* Mg-2.7*
+[**2148-10-13**] 01:21PM BLOOD Type-ART Temp-37.1 Rates-27/ Tidal V-650
+O2-60 pO2-64* pCO2-27* pH-6.96* calHCO3-7* Base XS--26
+Intubat-INTUBATED
+[**2148-10-13**] 05:58AM BLOOD Type-ART Temp-36.7 Rates-28/2 O2 Flow-60
+pO2-84* pCO2-28* pH-7.04* calHCO3-8* Base XS--22 -ASSIST/CON
+Intubat-INTUBATED
+[**2148-10-13**] 12:15AM BLOOD Type-ART Temp-37.2 Rates-28/ Tidal V-600
+PEEP-5 O2-60 pO2-106* pCO2-24* pH-7.07* calHCO3-7* Base XS--22
+-ASSIST/CON Intubat-INTUBATED
+[**2148-10-13**] 01:21PM BLOOD Lactate-11.1*
+[**2148-10-13**] 05:58AM BLOOD Lactate-13.4*
+[**2148-10-13**] 12:15AM BLOOD Lactate-13.2*
+[**2148-10-10**] 11:27PM BLOOD Lactate-3.3*
+
+CT of chest/abd/pelvis:
+1. Significantly limited study, but no evidence of free air or
+bowel dilatation. The oral contrast is only seen within the
+stomach. Ascites. Probable umbilical and ventral hernias,
+without evidence of bowel dilatation to indicate obstruction.
+These findings were discussed with Dr. [**Last Name (STitle) 97153**] and the surgical
+resident at 12:30 p.m. on [**2148-10-13**].
+2. Bilateral lower lobe collapse/consolidation. Underlying
+pleural effusions cannot be excluded.
+3. Bilateral emphysematous change.
+4. Mediastinal lymph adenopathy.
+
+[**2148-10-11**] 04:49PM ASCITES WBC-1625* RBC-[**Numeric Identifier 24440**]* Polys-91*
+Lymphs-2* Monos-7*
+
+Brief Hospital Course:
+Ms. [**Known lastname 9700**] was felt to be septic on admission.  Her urine cx
+grew E coli, and her blood and peritoneal cultures were
+negative.  It was felt likely that she had E coli sepsis despite
+the negative blood cx, and she had peritonitis given the large
+amt of WBCs on her ascitic fluid.  She became hypoxic the night
+after admission and required intubation.  She became hypotensive
+and was maxed out on three pressors.  Her lactate steadily rose,
+and she went into anuric renal failure.  She had a
+chest/abd/pelvic CT on [**10-13**] to look for free air, but it was
+negative.  Renal was consulted with the idea of starting
+dialysis, but at that time she became progressively hypotensive
+and her pressors were maxed out.  After a discussion with all
+seven of her children, it was decided not to pursue dialysis.
+She became progressively more hypotensive and bradycardic, and
+died Sunday afternoon with all of her children at her side.
+
+Medications on Admission:
+ASPIRIN E.C. 325 MG--Taking one daily to protect heart
+AZELASTINE HCL 137MCG--[**1-19**] squirts in each nostril up to twice a
+day as needed for nasal congestion or eustacean tube dysfunction
+FUROSEMIDE 80 MG--Take 2 tablets (=160 mg) daily for fluid
+LEVOXYL 75MCG--Take one tablet every day to replace thyroid
+hormone; brand name medically necessary/dispense as written
+NASALIDE SPRAY --Two sprays in affected nostril(s) twice a day
+for nasal congestion
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+sepsis
+
+Discharge Condition:
+poor
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+

@@ -1,0 +1,173 @@
+Admission Date:  [**2159-10-22**]              Discharge Date:   [**2159-10-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3561**]
+Chief Complaint:
+subdural hematoma, s/p fall
+
+Major Surgical or Invasive Procedure:
+endotracheal intubation
+
+History of Present Illness:
+This is an 89 yo female with afib on coumadin, HT, CHF, history
+of C.diff, who presents s/p fall at home. Per her granddaughter,
+who lives upstairs, she heard a thud and found her grandmother
+had fallen and hit her head, no apparent LOC. She was taken to
+an OSH, where head CT showed bilateral subdural hematoms. Her
+C-spine was cleared, and EKG was reportedly normal. She received
+2 units of FFP, 10mg of IV vitamin K, and 1g of fosphenytoin.
+Her SBP dropped to the 80s with respiratory distress an her
+mental status worsened en route to [**Hospital1 18**] (from alert and
+oriented at OSH). She received benadryl for possible allergic
+reaction.
+.
+On arrival to [**Hospital1 18**], she was in respiratory distress, unable to
+get a good SpO2, so she was intubated and started on propofol.
+The propofol was stopped for hypotension, but low BPs persisted.
+She was started empirically on vanc/zosyn/flagyl. EKG showed ST
+depressions laterally, felt to be demand ischemia by cards. Not
+clinically felt to be cardiogenic shock. FAST scan was performed
+and negative. Her sats dropped to the high 70s, and she was
+started on versed and vecuronium. CXR was done and consistent
+with ARDS. Current vent settings include PEEP 12, and FiO2 of
+100%, now satting 93-95%. 2 units of FFP were given. The
+patient's SBP improved to 142, and she had never received
+pressors (were going to do peripheral dopamine).
+.
+In the MICU, patient satting mid 80s on FiO2 1 and PEEP 12.
+Overbreathing vent but responsive to fent/versed.
+.
+Review of systems: unable to perform
+
+
+Past Medical History:
+Afib - on coumadin
+HTN
+CHF - unknown details
+Gout
+History of C diff
+
+
+Social History:
+Lives in an apartment downstairs from her grand-daughter. [**Name (NI) **]
+[**Name2 (NI) 16429**] on wheels, and a housekeeper who comes 1x/week, but is
+reportedly independent in all other ADLs, and 'sharp as a tack.'
+No EtOH, smoking or illicits.
+
+Family History:
+noncontributory
+
+Physical Exam:
+Vitals: T 99.3, HR 103, 103/53, R31, 75% on AC TV 400 rate 22
+FiO2 1 PEEP 12.
+General: Intubated, sedated, marked facial trauma
+HEENT: Bilateral periorbital ecchymoses, hematoma above R eye.
+Sclera anicteric, PERRL 3->2, ETT in place
+Neck: hard collar in place, no gross deformities
+Lungs: Bilateral rhonchi and coarse crackles, ?pleural rub on
+right.
+CV: Diminished beneath breath sounds, regular, [**1-5**] SM at apex.
+Abdomen: soft, appears non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+Ext: cool UEs, warm LEs, 2+ DP pulses, minimal edema. R hand
+with significant ecchymosis.
+Neuro: sedated, not responsive.
+
+
+Pertinent Results:
+[**2159-10-22**]
+WBC-26.2* Hgb-12.3 Hct-37.8 MCV-93 RDW-14.0 Plt Ct-245
+     Neuts-84* Bands-5 Lymphs-4* Monos-6 Eos-1 Baso-0
+     PT-17.4* PTT-25.0 INR(PT)-1.6*
+Glucose-321* UreaN-16 Creat-1.1 Na-138 K-3.9 Cl-96 HCO3-26
+AnGap-20
+     CK-MB-5 cTropnT-0.01
+.
+ART pO2-63* pCO2-67* pH-7.21* calTCO2-28 Base XS--2 AADO2-612
+REQ O2-96
+Lactate-5.7*
+.
+CT head [**10-22**]: (prelim) Unchanged tiny right frontal SDH and
+parafalcine SDH. No new foci of intracranial hemorrhage. No
+hydrocephalus.
+.
+Plain films pelvis [**10-22**]: (prelim) suboptimal eval of sacrum due
+to overlying bowel gas. linear density projecting over left
+sacrum may = bowel content although fx can not be excluded. rec
+clin correlation and additional imaging as indicated.
+.
+CXR [**10-22**]: Diffuse bilateral infiltrates - ARDS vs. multifocal
+pneumonia, less likely cardiogenic pulmonary edema. ETT in place
+4 cm above carina.
+.
+EKG: sinus at 86, [**Last Name (LF) **], [**First Name3 (LF) **] depressions V4-V6 ST depressions.
+diffuse limb lead TWF.
+
+
+Brief Hospital Course:
+Assessment and Plan:
+89F with Afib on coumadin, presents s/p fall with subdural
+hematoma with interval development of severe hypoxemia and ARDS.
+
+.
+# Hypoxemia/ARDS. Severe refractory hypoxemia. Differential
+included aspiration pneumonia/pneumonitis (feel most likely),
+CAP, pulmonary contusion from fall, ARDS from extrapulmonary
+infection or trauma. Less likely cardiogenic pulm edema given
+appearance of CXR. Bilateral infiltrates go against PE. Some
+improvement with increases in sedation, but short lasting. Grave
+situation discussed with family. Patient continued to actively
+desat to low 70s. Felt that even aggressive intervention (CVL,
+ALine, pressors, paralytics) may not be enough to get patient
+through night. Family expressed understanding and wish to focus
+on comfort care.  Morphine gtt and versed gtt were started.
+With increases in sedation, there were improvements in O2 sats,
+however she became very hypotensive.  The trade-off between
+hypotension and sedation/vent compliance were discussed with the
+family, and the collective feeling was to continue to make her
+comfortable without other aggressive interventions.  She died at
+3:31 am, in the presence of her family.  Autopsy was declined by
+family, but case accepted by medical examiner.
+
+Medications on Admission:
+Medications: dosages unavailable
+Lasix 40mg [**Hospital1 **]
+Lisinopril
+Atenolol
+Norvasc
+Zoloft
+Coumadin
+Potassium
+Aspirin 81mg daily
+
+
+Discharge Medications:
+NA
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Hypoxic respiratory failure
+Acute respiratory distress syndrome
+.
+Hypotension
+Subdural hematoma
+Leukocytosis
+Lactic acidosis
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+

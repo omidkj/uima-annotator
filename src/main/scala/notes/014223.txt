@@ -1,0 +1,196 @@
+Admission Date:  [**2136-2-24**]              Discharge Date:   [**2136-3-3**]
+
+Date of Birth:  [**2060-4-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lopressor
+
+Attending:[**First Name3 (LF) 2159**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+1. Endotracheal intubation
+2. Bronchoscopy
+
+
+History of Present Illness:
+75 F w/ COPD on home O2, asthma, schizophrenia living at
+[**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] started choking on lunch and found to be hypoxic
+to 60's. Given NRB and taken to [**Hospital1 18**] ED where she was found to
+be extremely labored and congested. She was suctioned and also
+noted to be in rate controlled flutter. She appeared fatigued
+and was intubated. Was on steroids since at least [**2-16**] since she
+was dc'd from [**Hospital1 2177**] for similar episode.
+
+
+Past Medical History:
+- COPD w/ recent admission to [**Hospital1 2177**] w/ steroid taper
+- schizophrenia
+- HTN
+- asthma
+
+
+Social History:
+Former smoker. Drinks occasionally. Lives [**Location **] Rest Home.
+PCP at [**Name9 (PRE) **] is [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 60013**]. Went to [**Hospital1 2177**] on [**2136-1-31**] for
+aspiration event/hypoxic respiratory failure. Discharged to
+[**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **] on [**2136-2-16**]. [**First Name8 (NamePattern2) **] [**Name (NI) 2299**] [**Last Name (NamePattern1) **], pt's HCP is [**Name (NI) **]
+[**Name (NI) **], [**Telephone/Fax (1) 72008**], but he was never officially designated as
+will see patient at [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] is [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] from [**Hospital1 2177**].
+
+Family History:
+Unknown
+
+Physical Exam:
+AF 138/75 90 15 100% on AC 500 X12/5/0.4
+Gen: Int, sedated
+Heent: PERRL, Dry MM
+Neck: Flat veins
+Heart: RRR no mrg
+Lungs: Clear, long exp phase
+Abd: Soft, nt/nd.
+Ext: No edema, warm
+
+
+Pertinent Results:
+Admission Labs
+[**2136-2-24**] 02:10PM BLOOD WBC-21.8* RBC-4.24 Hgb-13.0 Hct-39.2
+MCV-93 MCH-30.7 MCHC-33.1 RDW-14.4 Plt Ct-479* Neuts-92.2*
+Bands-0 Lymphs-4.0* Monos-2.0 Eos-1.7 Baso-0.1
+[**2136-2-24**] 02:10PM BLOOD PT-11.1 PTT-27.0 INR(PT)-0.9
+[**2136-2-24**] 02:10PM BLOOD Glucose-231* UreaN-12 Creat-0.6 Na-126*
+K-5.1 Cl-86* HCO3-32 AnGap-13 ALT-26 AST-18 LD(LDH)-258*
+CK(CPK)-46 AlkPhos-71 TotBili-0.3 Albumin-4.1 Calcium-9.1
+Phos-5.5* Mg-2.0
+[**2136-2-24**] 04:26PM BLOOD Type-ART Temp-36.2 Rates-12/ PEEP-5
+FiO2-100 pO2-413* pCO2-66* pH-7.29* calTCO2-33* Base XS-3
+AADO2-242
+.
+IMAGING:
+.
+CXR:
+1. OGT in situ, the tip of which is not seen on this chest
+x-ray.
+2. Endotracheal tube in situ, the tip of which is 3.5 cm above
+the carina.
+3. Hyperinflation with some blunting of the left costophrenic
+angle.
+.
+[**2136-2-29**] CXR: New small bilateral pleural effusions.  No
+consolidations or additional signs of aspiration.
+
+Brief Hospital Course:
+Ms. [**Known lastname 72009**] is a 75 year old female with COPD (on O2 at home)
+and schizophrenia who was recently discharged from [**Hospital1 2177**] to the
+[**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **]. At the [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] the patient had an
+aspiration event and was found to be hypoxic to the 60's. She
+was placed on a NRB and taken to [**Hospital1 18**] ED where she was found to
+be extremely labored and congested. She was suctioned and also
+noted to be in rate-controlled a-flutter. She appeared fatigued
+and was intubated. She had received steroids since at least [**2-16**]
+when she was discharged from [**Hospital1 2177**].
+.
+She was not started on antibiotics in the ICU. Bronchoscopy
+showed white food particles in the RLL. She continued to have
+episodes of a-flutter while being intubated. She was quickly
+extubated without complication. She was treated as aspiration
+pneumonitis. She was started on steroids, with the plan for a
+[**2-23**] day taper, and transferred to the floor. She was also found
+to have a + UA. She was started on Cipro initially, but the
+culture eventually demonstrated FQ resistant E. coli so the
+patient was switched to Keflex for a 7 day course. Subsequent
+UA/culture demonstrated yeast, thus she was given a 3 day course
+of fluconazole.
+.
+On the day of anticipated discharge, the patient was found on
+the bathroom floor with a new ecchymosis on her forehead. CT
+head was negative. EKG demonstrated that the patient was in
+a-fib with RVR, she was given a small dose of beta-blocker which
+caused bradycardia into the 30s. She remained hemodynamically
+stable, but all beta-blockers were subsequently held. She
+subsequently remained in rate-controlled a-fib versus a-flutter
+with variable block with diltiazem only. EP was consulted but
+felt that the patient was not a candidate for cardioversion or
+ablation given the requirement for post-procedural
+anti-coagulation and the patient's concurrent risk of falling.
+.
+On [**2136-2-29**], the patient had an elevated HCO3 and was
+significantly more lethargic. ABG was as follows: 7.41/88/98/58.
+Pulmonary consult and respiratory therapy were called to
+initiate BiPAP given the concern for CO2 retention and risk of
+hypercapnic respiratory failure. She was also started on
+Solu-Medrol 80 IV q8h for presumptive worsening of aspiration
+pneumonitis. Approximately 1.5 hours after being placed on BiPAP
+with 2L O2, the patient was noted to have an O2 sat in the low
+80s. It rose slowly to the low 90s when increased to 4L O2.
+Albuterol neb treatment was attempted, but the patient dropped
+to the high 70s. She recovered to an O2 sat of 90s after being
+placed on 4L O2 by nasal cannula. She was transferred to the
+MICU for closer monitoring given her respiratory instability and
+lethargy. In the MICU, she remained stable on nasal oxygen.
+High-dose steroid therapy was continued. She was subsequently
+transferred back to the floor. It is possible that she was
+over-ventilated in the setting of COPD. She was discharged with
+instructions for a slow steroid taper.
+.
+Clonidine and diltiazem were continued for hypertension. This
+patient should not receive beta-blockers in the future as she
+was very sensitive to a low dose. For her schizophrenia, the
+patient was maintained on Haldol per her outpatient regimen. She
+had no symptoms of psychosis on this admission.
+
+Medications on Admission:
+haldol 5mg AM
+catapres-TTS 2 patch q Mon
+asa 325
+dilt 360 daily
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Clonidine 0.2 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly
+Transdermal QSAT (every Saturday).
+3. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+4. Haloperidol 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+5. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed.
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Steroid Taper
+Please dispense 10 mg tablet. Please taper prednisone by 10 mg
+every 2 days beginning on [**2136-3-4**]. Last dose on [**2136-3-13**].
+.
+Take 6 tablets on [**2136-3-3**]
+Take 5 tablets on [**2136-3-4**] and [**2136-3-5**]
+Take 4 tablets on [**2136-3-6**] and [**2136-3-7**]
+Take 3 tablets on [**2136-3-8**] and [**2136-3-9**]
+Take 2 tablets on [**2136-3-10**] and [**2136-3-11**]
+Take 1 tablet on [**2136-3-12**] and [**2136-3-13**], then stop.
+8. Cephalexin 250 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours) for 3 days: Last day on [**2136-3-4**].
+Disp:*1 Capsule(s)* Refills:*0*
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+10. Diltiazem HCl 360 mg Tablet Sustained Release 24 hr Sig: One
+(1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+11. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+12. Atrovent 0.02 % Solution Sig: 1-2 puffs Inhalation q6hours
+PRN.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1186**] - [**Location (un) 538**]
+
+Discharge Diagnosis:
+Primary:
+1. Aspiration

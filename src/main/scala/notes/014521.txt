@@ -1,0 +1,210 @@
+Admission Date:  [**2126-3-13**]              Discharge Date:   [**2126-3-16**]
+
+Date of Birth:  [**2054-1-23**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Metoprolol
+
+Attending:[**First Name3 (LF) 668**]
+Chief Complaint:
+infected AV graft
+
+Major Surgical or Invasive Procedure:
+[**2126-3-14**] AV graft revision
+
+
+History of Present Illness:
+History of Present Illness (per Dr. [**First Name (STitle) 8589**]: Mr. [**Known lastname 4643**] is a 71
+year old male w/ past medical history of ESRD via  a LUE AVG
+presents for evaluation for infected AVG. Call from Dr. [**Last Name (STitle) **] at
+Care- Mr. [**Last Name (NamePattern4) 8590**] [**Last Name (NamePattern5) **] AVG was found to be thrombosed at his
+chronic HD unit in [**Hospital1 **]. Pt. was sent to AV Care for a
+thrombectomy where the graft was evaluated and felt to be
+infected. Pt's last HD was on Monday. He has a h/o prior graft
+infection and revision.
+
+
+Past Medical History:
+Past Medical History (per OMR):  CABG ([**2115**]) -- (LIMA->LAD,
+SVG->RPDA, SVG->RPL2, SVG->Diagonal),Chronic LV Diastolic
+Dysfunction, HTN, Hyperlipidemia, ESRD on HD since [**2122**], Anemia
+of CKD -- baseline hematocrit low 30s, Hypertensive
+Encephalopathy, Vascular Dementia, Subcortical WMD w/ Brain
+atrophy, Sleep apnea, Osteoarthritis, Spinal Stenosis,
+Peripheral Neuropathy, Left hip fracture ([**2125-11-1**])-- s/p ORIF of
+left femoral neck fracture, Depression, Sleep Apnea, GERD, BPH,
+Nephrolithiasis
+.
+Past Surgical History:
+[**2125-8-27**] Fistulogram with 8-mm balloon angioplasty of the
+venous outflow lesion. ([**Doctor Last Name **])
+[**2125-5-31**] AV graft redo and thrombectomy ([**Location (un) **])
+[**2125-5-31**] evac hematoma and thrombectomy
+[**2125-3-31**] Excision of left arteriovenous graft for infcetion.
+([**Doctor Last Name **])
+[**2125-3-30**] Bedside ligation of left upper arm arteriovenous graft
+and drainage of likely infected hematoma. ([**Location (un) **])
+[**2124-3-22**] Left upper arm arteriovenous graft. ([**Location (un) **])
+- vagotomy and Bilroth procedure for ulcers
+- Cholecystectomy
+
+
+Social History:
+Married with one son and one daughter.  [**Name (NI) 8588**] independent in
+ADLs, including ambulation, prior to hip fracture.
+# Alcohol: None
+# Tobacco: Quit smoking 20 years ago
+-- Smoked up to 1 PPD for 20-30 years
+# Drugs: None
+
+
+Family History:
+# Father -- died after surgery for brain tumor
+# Mother -- died of a stroke at age 879
+# Sister -- Parkinsons disease and diabetes, age 76
+# Sister -- massive MI and passed away in her 60s
+# Sister (mother of [**Name2 (NI) 802**] [**Doctor First Name 717**] -- HTN and HLD, but otherwise
+well
+# Brother -- HTN, HLD, DM2
+
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+97.7 67 119/82 16 98%
+GEN: no acute distress
+CV: nl S1, S2, RRR
+Resp: CTA b/l
+Abd: soft, nontender, nondistended, +BS
+Ext: No edema
+LUE: Graft with thrill, erythematous, warm, and tender to touch.
+No purulent discharge
+
+DISCHARGE PHYSICAL EXAM:
+97.7 67 119/82 16 98%
+GEN: no acute distress
+CV: nl S1, S2, RRR
+Resp: CTA b/l
+Abd: soft, nontender, nondistended, +BS
+Ext: No edema
+LUE: Graft with thrill, erythematous, warm, and tender to touch.
+No purulent discharge
+
+
+Pertinent Results:
+LABS:
+.
+[**2126-3-13**] 11:40PM   GLUCOSE-103* UREA N-87* CREAT-8.5*
+SODIUM-131* POTASSIUM-6.1* CHLORIDE-97 TOTAL CO2-16* ANION
+GAP-24*
+[**2126-3-13**] 11:40PM   CALCIUM-9.7 PHOSPHATE-7.8* MAGNESIUM-3.0*
+[**2126-3-13**] 11:40PM   WBC-8.7 RBC-3.39* HGB-10.6* HCT-32.2* MCV-95
+MCH-31.1 MCHC-32.8 RDW-18.1*
+[**2126-3-13**] 11:40PM   PLT COUNT-273
+[**2126-3-13**] 08:22PM   LACTATE-1.9 K+-5.1
+[**2126-3-13**] 08:05PM   GLUCOSE-121* UREA N-89* CREAT-8.6* SODIUM-134
+POTASSIUM-5.4* CHLORIDE-99 TOTAL CO2-18* ANION GAP-22*
+[**2126-3-13**] 08:05PM   CK(CPK)-33*
+[**2126-3-13**] 08:05PM   cTropnT-0.04*
+[**2126-3-13**] 08:05PM   CK-MB-3
+[**2126-3-13**] 08:05PM   WBC-8.1 RBC-3.37* HGB-10.4* HCT-32.3* MCV-96
+MCH-30.9 MCHC-32.3 RDW-18.0*
+[**2126-3-13**] 08:05PM   NEUTS-68.1 LYMPHS-17.0* MONOS-5.7 EOS-8.0*
+BASOS-1.2
+[**2126-3-13**] 08:05PM   PLT COUNT-276
+[**2126-3-13**] 07:54PM   LACTATE-0.8 K+-2.7*
+[**2126-3-13**] 07:54PM   HGB-6.8* calcHCT-20
+[**2126-3-13**] 05:15PM   PT-23.3* PTT-30.3 INR(PT)-2.2*
+[**2126-3-13**] 04:44PM   LACTATE-1.2 K+-6.5*
+[**2126-3-13**] 04:15PM   GLUCOSE-88 UREA N-92* CREAT-9.0*# SODIUM-128*
+POTASSIUM-10.0* CHLORIDE-90* TOTAL CO2-21* ANION GAP-27*
+[**2126-3-13**] 04:15PM   estGFR-Using this
+[**2126-3-13**] 04:15PM   WBC-8.1# RBC-4.00* HGB-12.5* HCT-38.1* MCV-95
+MCH-31.2 MCHC-32.7 RDW-17.9*
+[**2126-3-13**] 04:15PM   NEUTS-72.4* LYMPHS-13.7* MONOS-6.6 EOS-6.3*
+BASOS-1.0
+[**2126-3-13**] 04:15PM   PLT COUNT-289
+.
+IMAGING:
+CXR                   Date: [**2126-3-13**]
+IMPRESSION:
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 4643**] was admitted on [**2126-3-13**] with an infected AV graft in
+his left upper extremity. He was admitted into the ICU after he
+was found to have an elevated potassium. In the ICU, he had a
+femoral line placed for vascular access. He had blood cultures
+drawn.  He received dialysis in the ICU and was started on IV
+vancomycin 1000mg. He remained afebrile in the ICU.
+
+On [**2126-3-14**], he was taken to the OR and had a partial excision
+of his AV graft. He [**Date Range 8337**] the procedure well and was taken
+to hemodialysis via femoral line post-operatively. His arm was
+bandaged with an ACE wrap and remained cleaned, dry and intact.
+He was resumed on a regular diet when he was transferred to the
+floor.
+
+On [**2126-3-15**], he was taken to hemodialysis in the morning. He
+received another dose of vancomycin. He remained afebrile
+throughout the day. He received 2 units of FFP due to an
+elevated INR of 2.7. IR placed a tunnelled hemodialysis catheter
+and MR. [**Known lastname 4643**] [**Last Name (Titles) 8337**] the procedure without any
+complications.
+
+On [**2126-3-16**], pt was discharged home with plan to complete 6 week
+course of Vancomycin per HD protocol and agreement and
+understanding of plan verbalized by patient.
+
+Medications on Admission:
+- clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+- sevelamer HCl 400 mg Tablet Sig: Six (6) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+- cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY
+- Renal Caps 1 mg Capsule Sig: One (1) Capsule PO once a day.
+- tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+- levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+- pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+- citalopram 40 mg Tablet Sig: One (1) Tablet PO once a day.
+- lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily): Apply
+to left hip 12 hours on, 12 hours off.
+- warfarin 3 mg Tablet Sig: One (1) Tablet PO once a day: Dose
+will be adjusted by PCP after discharge.
+- simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+- amiodarone 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times
+a day):
+- nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1)
+Sublingual once a day as needed for chest pain: Use as directed.
+
+
+- acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every six
+(6) hours as needed for pain: Do not take more than 4000 mg in
+24
+hours.
+- gabapentin 300 mg Capsule Sig: One (1) Capsule PO at bedtime
+- Aggrenox 200-25 mg Cap, Multiphasic Release 12 hr Sig: One (1)
+Cap, Multiphasic Release 12 hr PO twice a day.
+
+
+Discharge Medications:
+1. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+3. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+4. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. sevelamer HCl 400 mg Tablet Sig: Six (6) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+7. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+Disp:*42 Tablet(s)* Refills:*0*
+8. vancom

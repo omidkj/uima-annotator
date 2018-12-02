@@ -1,0 +1,200 @@
+Admission Date:  [**2161-3-31**]              Discharge Date:   [**2161-4-8**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4365**]
+Chief Complaint:
+Hematemesis
+
+Major Surgical or Invasive Procedure:
+Endoscopy x 2
+
+History of Present Illness:
+Mr [**Known lastname **] is an 86 year old man with history of metastatic
+prostate cancer, parkinson's, hepatitis C, admitted witha chief
+complaint of hematemesis. The pt was at [**First Name4 (NamePattern1) 3504**] [**Last Name (NamePattern1) **] NH today
+when, per NH report the pt vomited small amount of frank blood
+mixed with food. The pt denied pain, dizzyness or
+lightheadedness at that time. He also denied chest pain and
+shortness of breath.
+
+In the emergency department the pt was afebrile, P78 BP159/90
+100%RA RR15. The pt received 40 IV protonix, 2 PIVs and an NGT
+were placed and on gastric lavage by the GI service the pt was
+found to have coffee-ground material in lavage fluid. The pt's
+hematocrit was noted to be at 31 (normal baseline around 33-34)
+and a type and screen were sent.
+
+
+Past Medical History:
+- Parkinson's disease
+- Hepatitis C positive with positive viral loads, dx during
+[**11/2158**] admission
+- right knee surgery
+- right ankle surgery
+- Glaucoma
+- BPH, elevated PSA then lost to followup
+- CHF (NOS; EF 75% with grade [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] dysfxn in [**2158**])
+- Afib (per [**Hospital1 1501**] notes), currently in sinus not on anticoag.
+- Depression
+- Pancytopenia per [**Hospital1 1501**] notes.
+
+
+Social History:
+Lives at [**First Name4 (NamePattern1) 3504**] [**Last Name (NamePattern1) **] since d/c from [**Hospital1 18**] in [**2158**]. Moved to the
+US from [**Country 2045**] 30 years ago. Worked as a housekeeper. Denies
+alcohol, tobacco, or other drug use. Daughter and son in area.
+
+
+Family History:
+Noncontributory
+
+
+Physical Exam:
+On admission:
+
+T= afebrile... BP=173/86... HR=79... RR=20... O2=98% RA
+GENERAL: Pleasant, elderly man in NAD
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. No
+scleral icterus. PERRLA/EOMI. MMM. Edentulous.
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. [**2-13**]
+systolic murmur at LUSB, crescendo descrescendo.
+LUNGS: CTAB, good air movement biaterally.
+ABDOMEN: +BS. Soft, NT, ND. No HSM.
+EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior
+tibial pulses.
+SKIN: No rashes/lesions, ecchymoses.
+NEURO: A&Ox2 (not to date). Appropriate. CN 2-12 grossly intact.
+Preserved sensation throughout. 5/5 strength throughout. [**1-9**]+
+reflexes, equal BL. Normal coordination. Gait assessment
+deferred
+PSYCH: Listens and responds to questions appropriately, pleasant
+
+
+
+Pertinent Results:
+Labs on admission:
+[**2161-3-31**] 06:30PM BLOOD WBC-3.7* RBC-3.71* Hgb-10.7* Hct-31.7*
+MCV-85 MCH-28.8 MCHC-33.7 RDW-14.5 Plt Ct-114*
+[**2161-4-1**] 12:25AM BLOOD Hct-29.8*
+[**2161-4-1**] 05:41AM BLOOD WBC-4.6 RBC-3.08* Hgb-9.3* Hct-26.1*
+MCV-85 MCH-30.3 MCHC-35.8* RDW-14.1 Plt Ct-93*
+[**2161-4-4**] 03:26AM BLOOD WBC-3.0* RBC-3.08*# Hgb-9.0* Hct-25.5*
+MCV-83 MCH-29.4 MCHC-35.5* RDW-14.6 Plt Ct-112*
+[**2161-3-31**] 06:30PM BLOOD Neuts-83.6* Lymphs-13.4* Monos-2.9
+Eos-0.1 Baso-0
+[**2161-4-4**] 03:26AM BLOOD Glucose-89 UreaN-9 Creat-0.8 Na-140 K-3.7
+Cl-111* HCO3-22 AnGap-11
+[**2161-4-2**] 05:11AM BLOOD ALT-46* AST-42* LD(LDH)-143 AlkPhos-97
+TotBili-0.4
+[**2161-4-4**] 03:26AM BLOOD Calcium-8.5 Phos-2.6* Mg-2.1
+[**2161-3-31**] 07:30PM URINE Color-Amber Appear-Clear Sp [**Last Name (un) **]-1.020
+[**2161-3-31**] 07:30PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+.
+Microbiology:
+[**2161-4-4**] urinalysis negative, culture positive for enterococcus
+.
+Imaging:
+CXR [**3-31**]: No acute cardiopulmonary abnormality. No radiographic
+evidence
+of tuberculosis.
+.
+Upper endoscopy [**3-31**]:
+Blood in the cardia, fundus and proximal body of the stomach
+Adherent clot and active bleeding at the cardia. (injection)
+.
+Upper endoscopy [**4-2**]:
+Esophageal nodule
+Esophageal ulcer
+Erythema, erosion and congestion in the gastroesophageal
+junction compatible with esophagitis
+Otherwise normal EGD to second part of the duodenum
+.
+Labs on discharge:
+[**2161-4-8**] 06:20AM BLOOD WBC-2.5* RBC-2.85* Hgb-8.4* Hct-24.4*
+MCV-86 MCH-29.4 MCHC-34.3 RDW-14.6 Plt Ct-127*
+[**2161-4-8**] 06:20AM BLOOD Glucose-94 UreaN-12 Creat-0.7 Na-140
+K-3.3 Cl-108 HCO3-26 AnGap-9
+[**2161-4-8**] 06:20AM BLOOD Calcium-8.5 Phos-3.8 Mg-1.7
+
+Brief Hospital Course:
+86 year old man with Hep C cirrhosis, metastatic prostate cancer
+and history of GI bleeding, presenting with new episode of
+hematemesis.
+.
+# GI bleed/hematemesis: Patient had an initial upper endoscopy
+and was found to have actively bleeding at a GE
+(gastro-esophageal) junction ulcer with superimposed clot. This
+was the same site as had previously bled, initiating concern for
+underlying metastatic or primary malignancy.  This site was
+injected with epinephrine, and given his Jehovah's witness
+beliefs (no transfusion of blood products), he was initially
+admitted to the ICU for close monitoring.  He was treated with
+[**Hospital1 **] pantoprazole and sucralfate, and with these measures, his
+hematocrit initially dropped from baseline of low 30's to the
+mid 20's and stabilized there, without further evidence of
+bleeding. A repeat endoscopy after 48hrs showed the known
+ulceration but no further active bleeding, as well as an
+esophageal nodule, again concerning for malignancy.
+He was followed by the GI and surgical services throughout his
+hospitalization.
+He was discharged on pantoprazole [**Hospital1 **] and sucralfate with plans
+to follow up with GI in [**3-11**] weeks time for repeat EGD.
+.
+# Enterococcus urinary tract infection:  Patient was noted to
+have a low grade fever during his hospital course and work up
+yeilded a positive urine culture for enterococcus.  He was
+treated with a 7 day course of ampicillin, to be completed on
+discharge.
+.
+# Neck pain:  Patient was complaining of neck pain upon arrival
+to the floor.  Given his history of metastatic prostate cancer,
+an MRI C spine was obtained that demonstrated multilevel
+cervical spine degenerative changes with spinal canal narrowing.
+ There was much motion artifact given his parkinson's tremor,
+and because of this they could not rule out cord compression.
+However, clinically the patient did not have cord compression as
+his strength and sensation remained intact.  The MRI also
+demonstrated non specific enhancement at C4-5 vertebrae, and in
+the dura by C2/3, likely consistent with degenerative changes.
+Patient was otherwise provided a soft neck collar for support
+given his spondylosis.
+His neurological exam should be monitered for any signs of
+weakness/numbness in which case further evaluation should be
+done.
+.
+# Parkinsons Disease: Given the patient's GI bleed, he was made
+NPO for several days, thus missing his antiparkinson's
+medications. Prior to transfer out of ICU, he developed rigidity
+and worsening of his tremor, thought to be a flair of his
+parkisons. Neurology was curbsided and agreed with this
+diagnosis as opposed to dystonic reaction. He was given a dose
+of cogentin with mild improvement but was believed to be
+improving spontaneously.
+Throughout the remainder of his hospitalization, he continued to
+be quite rigid, which was impacting his mobility.  Because of
+this, neurology was consulted and recommended increased dose of
+his sinemet and of his entacapone with some improvement.
+At time of discharge, his rigidity was stable, and he was
+maintained on above medications.
+.
+# Leukopenia, Thrombocytopenia: Likely myelosuppression
+secondary to metastatic prostate cancer versus Hepatitis C
+cirrhosis. All counts remained at patient's baseline throughout
+his hospitalization.
+.
+# Hypertension: Patient's home regimen of toprol XL and
+lisinopril were intially held in setting of bleeding. They were
+reintroduced upon stabilization of above.
+.
+# Metastatic prostate cancer: This was not an active issue and
+is being managed as an outpatient.
+.
+# Depression: He was continued on home celexa and trazodone.
+.
+# Hepatitis C: No active inp

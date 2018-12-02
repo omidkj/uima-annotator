@@ -1,0 +1,199 @@
+Admission Date:  [**2102-8-5**]              Discharge Date:   [**2102-8-23**]
+
+Date of Birth:  [**2037-9-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 33596**]
+Chief Complaint:
+Fever
+
+Major Surgical or Invasive Procedure:
+1. Thoracocentesis
+2. Bronchoscopy
+3. PICC placement R Arm
+4. pessary fitting
+
+
+History of Present Illness:
+65 year old woman who came to the ED in [**Location (un) 620**] with dyspnea,
+dysuria and bony pain. She was essentially healthy until 2 weeks
+ago when she developed symptoms of urinary burning and also
+developed problems with fatigue. However, she was able to
+function normally and then a few days ago developed significant
+[**Last Name **] problem and had been using some Advil and bone compresses.
+The problem continued with significant fatigue over the past 24
+hours and she came to the emergency room. She was also feeling
+mild degree of dyspnea, which was relieved with a nonrebreathing
+mask.
+Her exam was notable for tachycardia and peripheral cyanosis.
+She was also found to have severe uterine prolapse. She denied
+any symptoms of chest pain, back pain or abdominal pain. She was
+started on Levofloxacin, Gentamicin and Flagyl. Her respiratory
+status worsened over few hours and she was intubated (AC, RR26,
+FiO2 39, PEEP 5, TV450). Her blood gas showed a ph 7.31, pCO2
+32, pO2 221, HCO3 15.6. Her CXR was suggestive for ARDS. She
+also developped acute renal failure with a Creatinine of 4.0.
+Her systolic blood pressure was found to be in the fifties. She
+was given 7 liters of fluid and was started on Levophed and
+Vasopressin. She was admitted to the MICU with the diagnosis of
+urospesis.  An A-line  and a RJ-central line was placed. The was
+Pt was found to have an elevated troponin 141 > 200 and CK 1300
+> 1700 without apparent EKG-changes. She was started on Aspirin,
+Heparin gtt and Plavix. Her blood gas at that time showed a pH
+of 7.3, pCO2 17, PO2 119, HCO3 8.4. She was given 2amp of
+bicarbonate and received more Bicarbonate ? on the transfer to
+[**Hospital1 18**]. Her second showed worsened pulmoary edema. The urine
+culture grew out E.coli and Proteus mirabilis. Her blood culture
+was positive for gram-negative rods,presumptive E.coli,
+pan-sensitive. The pt was started on Rocephin 2mg [**Hospital1 **] and all
+other Abx were discontinued. An US  of the abdomen showed:
+multiple non-obstructive calculi in the left kidney and bladder,
+small echogenic left kidney and cholelithiasis. The pt also
+experienced one episode of Vtach 5 beats, but was asymptomatic.
+The VS at that time were T 100.2, HR 80s, CVP 11. She was given
+2 L of fluids in the ICU.
+The decision was made to tranfer her to the [**Hospital1 18**]. She received
+11 L up to now.
+
+
+Past Medical History:
+Essentially quite unremarkable. She has had a history of
+hemorrhoids.
+She has not seen a physician in almost 10 years.
+
+Social History:
+works for [**Company 38877**], is a nonsmoker,lives with her
+husband. two children
+
+Family History:
+Her son does have a history of asthma.
+
+Physical Exam:
+Gen: NAD, intubated, unresponsive
+HEENT: ET in place, pupils pinpoint with brisk reaction to
+light, no JVD visible, periorbital edema
+Lungs: mild LLL crackles
+Heart: S1 normal, S2 gallop best heard over ICR 2 L, RR,
+relative bradycardia
+Abd: soft, nt, mildly distended, hyporeactive bowel sounds
+Ext: mild distal cyanosis of fingertips and foot soles, toes,
+sacral edema
+Neuro, unresponsive, Reflexes 1+, neg Babinsky
+
+Pertinent Results:
+[**2102-8-5**] 11:58AM   TYPE-ART TEMP-38.1 TIDAL VOL-726 PEEP-5 O2-55
+PO2-153* PCO2-29* PH-7.21* TOTAL CO2-12* BASE XS--15
+INTUBATED-INTUBATED VENT-CONTROLLED
+[**2102-8-5**] 11:59AM   FIBRINOGE-508*
+[**2102-8-5**] 11:59AM   PT-15.6* PTT-71.1* INR(PT)-1.6
+[**2102-8-5**] 11:59AM   PLT SMR-VERY LOW PLT COUNT-51*
+[**2102-8-5**] 11:59AM   WBC-23.8* RBC-2.84* HGB-9.0* HCT-27.4* MCV-96
+MCH-31.6 MCHC-32.8 RDW-15.0
+[**2102-8-5**] 11:59AM   HAPTOGLOB-231*
+[**2102-8-5**] 11:59AM   CALCIUM-6.5* PHOSPHATE-4.6* MAGNESIUM-1.7
+[**2102-8-5**] 11:59AM   CK-MB-88* MB INDX-6.2* cTropnT-6.92*
+[**2102-8-5**] 11:59AM   ALT(SGPT)-124* AST(SGOT)-166* CK(CPK)-1418*
+ALK PHOS-218* TOT BILI-0.2
+[**2102-8-5**] 11:59AM   GLUCOSE-78 UREA N-55* CREAT-2.9* SODIUM-152*
+POTASSIUM-3.3 CHLORIDE-120* TOTAL CO2-11* ANION GAP-24*
+[**2102-8-5**] 01:30PM   FDP-80-160*
+[**2102-8-5**] 02:02PM   LACTATE-1.8
+..
+[**2102-8-5**] 07:53PM   TYPE-ART TEMP-36.5 RATES-32/ TIDAL VOL-469
+PEEP-5 O2-45 PO2-148* PCO2-21* PH-7.28* TOTAL CO2-10* BASE
+XS--14 INTUBATED-INTUBATED VENT-CONTROLLED
+[**2102-8-5**] 05:24PM   WBC-27.1* RBC-3.77*# HGB-11.7*# HCT-34.7*#
+MCV-92 MCH-31.1 MCHC-33.9 RDW-15.8*
+[**2102-8-5**] 11:04PM   GLUCOSE-167* UREA N-48* CREAT-2.6*
+SODIUM-146* POTASSIUM-3.9 CHLORIDE-117* TOTAL CO2-10* ANION
+GAP-23*
+[**2102-8-5**] 11:26PM   LACTATE-4.2*
+
+Abd u/s:
+Conclusion> multiple non-obstructive calculi in the left kidney
+and bladder, small echogenic left kidney and cholelithiasis.
+..
+CXR [**8-4**]: Cardiac silhouette is enlarged.  There is pulmonary
+edema.  No  definite pleural effusion identified.
+..
+Micro
+Urine [**8-4**]: E coli >100,000, proteus <10,000
+Bld [**8-4**]: 2 type of gm neg; first if pan-sensitive E coli
+..
+CT [**8-6**]:
+1.  Moderate sized bilateral pleural effusions with reactive
+atelectasis.
+2.  Left non-obstructing renal stones.  Atrophic and cortical
+scarring seen
+within the left kidney.  No evidence of hydronephrosis or
+hypoattenuating
+areas to indicate an abscess on this limited study in the
+kidneys bilaterally.
+3.  Anasarca, periportal edema and gallbladder wall edema
+consistent with
+fluid third spacing.  Gallstones.
+4.  Bladder calculi.  The bladder appears slightly distended
+with a small
+amount of intravesicular air, likely iatrogenic from Foley
+placement.
+..
+Echo [**8-7**]: Mild biventricular hypokinesis c/w cardiomyopathy:
+The left atrium is elongated. No atrial septal defect is seen by
+2D or color Doppler. Left ventricular wall thicknesses are
+normal. The left ventricular cavity size is normal. There is
+mild global left ventricular hypokinesis. There is mild global
+right ventricular free wall hypokinesis. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No masses or vegetations are seen on the aortic valve.
+Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. No mass or vegetation is seen on the mitral valve.
+Trivial mitral regurgitation is seen. The tricuspid valve
+leaflets are mildly thickened. The estimated pulmonary artery
+systolic pressure is normal. There is no pericardial effusion.
+..
+CT Abdomen [**8-10**]:
+1.  Right pyelonephritis. At least two renal infarcts which
+could be related
+to pyelonephritis although embolic sources should be
+investigated.
+2.  Atrophic left kidney with a large calculus in a renal calix.
+Mildly
+dilated left ureter without evidence of an obstructing stone.
+3.  Gallstones.
+4.  Bilateral pleural effusions.
+..
+Echo [**8-11**]
+1. The left atrium is mildly dilated. No atrial septal defect or
+patent
+foramen ovale is seen by 2D, color Doppler or saline contrast
+with maneuvers.
+2. Left ventricular wall thickness, cavity size, and systolic
+function are
+normal (LVEF>55%). Regional left ventricular wall motion is
+normal.
+3. Mild (1+) aortic regurgitation is seen.
+4. No echocardiographic evidence of endocarditis seen.
+..
+Cytology ([**2102-8-17**])
+DIAGNOSIS: Pleural fluid:ATYPICAL.
+
+One cluster of atypical mesothelial cells, probably
+reactive, in a background of mesothelial cells.
+..
+Bedside Swallow Evaluation ([**2102-8-15**])
+SUMMARY / IMPRESSION:
+There were no signs of aspriation on her bedside swallowing
+evaluation today. She appears safe to take a full PO diet as
+tolerated as long as she is seated fully upright in bed.
+..
+([**2102-8-17**])
+CXR: (multiple CXRs previous - to follow effusions, lines)
+Portable AP view of the chest dated [**2102-8-18**] at 19:14 is compared
+with the same examination from 2 hours earlier. The right
+internal jugular centralvenous catheter has been removed. There
+has been interval withdrawal of the right PICC line, which now

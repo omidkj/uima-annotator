@@ -1,0 +1,201 @@
+Admission Date:  [**2150-11-16**]              Discharge Date:   [**2150-11-19**]
+
+Date of Birth:  [**2093-3-19**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 898**]
+Chief Complaint:
+PCP: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] ([**Hospital1 **] [**Location (un) 620**])
+.
+CC: fever/chills/cough
+
+Major Surgical or Invasive Procedure:
+Intervential Pulmonology: debriedement and stenting of left
+bronchus
+
+
+History of Present Illness:
+Mr. [**Known lastname 75909**] is a 57 year old man with recent diagnosis of lung
+cancer who presented to [**Hospital1 **]-[**Location (un) 620**] with fevers, chills, and
+non-productive cough. He initially felt a cough the morning of
+admission, and over the course of the day felt worse and worse,
+eventually developing a fever (to 102F) and chills. CXR
+demonstrated a post-obstructive PNA. He received IV ceftriaxone,
+4L normal saline after a hypotensive episode, and was
+transferred to [**Hospital1 18**] for further evaluation and treatment.
+.
+In the ED, his initial vital signs were T99.7F, BP 115/55, HR
+107, RR 24, Sat 96%4L. His blood pressure decreased to 91/72 and
+a central line was placed. He required Levophed at rate
+0.03mcg/hr. He was given 1g vancomycin and 600mg IV clindamycin
+and sent to the MICU.
+.
+REVIEW OF SYSTEMS:
+Denies shortness of breath, chest pain, nausea, vomiting,
+diarrhea, abdominal pain, fever, chills, pain.
+.
+In the MICU he was transiently started on pressors and his
+pressures remained stable and responded to IVF boluses and w/
+CVP at 2 and low PO intake, pt was intravascularly depleted. He
+had bronchoscopy on [**11-16**] that confirmed the tumor obstruction on
+the left and chest CT confirming mass and likely
+post-obstructive PNA.  Pt had MRI and PET CT at OSH for staging
+of his disease and will have stent placed [**11-17**] by interventional
+pulmonology.
+
+Past Medical History:
+- Asthma/COPD
+- Recently diagnosed squamous cell lung CA; diagnosed with cough
+requiring ED visit; 18-lb weight loss;
+- Positive PPD exposure on INH (had BCG in [**Country 5881**])-negative
+smear for AFB on recent bronch
+- History of PE on Lovenox
+
+
+Social History:
+Quit smoking 4 weeks ago, had 35 years x 2 ppd. Social EtOH, no
+illicit drugs. Lives in [**Location 1411**]. Moved to US from [**Country 5881**] 40 years
+ago. Has two daughters, one son, several grandchildren.
+
+Family History:
+Father died of/with laryngeal cancer
+
+Physical Exam:
+VITALS: T98.3F, BP 120/76 (on 0.03mcg/hr Levophed), HR 88, RR
+21, Sat 96% 2LNC
+GENERAL: Thin-appearing, no acute distress
+HEENT: OP clear, EOMI, PERRL
+NECK: JVP flat
+CARD: RRR, normal S1/S2, no m/r/g
+RESP: Decreased breath sounds on left throughout, clear on
+right, no wheezes
+ABD: Soft, non-tender, non-distended, + bowel sounds
+EXT: No peripheral edema
+
+
+Pertinent Results:
+CHEST CT:
+IMPRESSION:
+1. Large central left perihilar mass obstructing the left upper
+and lower lobe bronchi with resultant collapse of left lung.
+Findings are consistent with a central lung cancer, likely
+squamous cell carcinoma. This lesion is amenable to
+bronchoscopic biopsy if the diagnosis has not already been
+confirmed.
+2. Moderate left pleural effusion surrounding the atelectatic
+left lung.
+3. Enlarged lower left paratracheal lymph nodes, highly
+suspicious for malignancy as well as additional non-enlarged
+upper left paratracheal nodes with similar degree of
+enhancement. Non-enhancing right hilar lymph nodes could
+potentially also be metastatic. Correlative PET imaging may be
+helpful if warranted clinically.
+4. Poorly defined peripheral right lower lobe opacity is
+nonspecific, but may represent focal area of infection,
+inflammation, or infarction. Neoplastic etiology (second primary
+neoplasm or atypical focus of metastatic disease) is less
+likely. Comparison to older studies would be helpful. In their
+absence, short-term followup CT would be recommended _____ could
+also be helpful for assessing additional smaller peribronchiolar
+nodules in the right lower lobe.
+5. Asymmetrical appearance of left supraglottic region, possibly
+due to asymmetric positioning and dependent secretions.
+Attention to this area with direct visualization may be
+considered if bronchoscopy is performed for the left perihilar
+mass.
+.
+Pathology
+Left mainstem tumor, excision:
+-Fragments of invasive moderately differentiated squamous cell
+carcinoma with necrosis arising in association with squamous
+cell carcinoma in-situ.
+-Focus suspicious for lymphovascular invasion seen.
+
+[**2150-11-19**] 05:20AM BLOOD WBC-7.7 RBC-3.73* Hgb-11.0* Hct-33.1*
+MCV-89 MCH-29.5 MCHC-33.2 RDW-13.4 Plt Ct-298
+[**2150-11-18**] 08:40AM BLOOD Neuts-78.4* Lymphs-15.3* Monos-4.1
+Eos-2.0 Baso-0.2
+[**2150-11-19**] 05:20AM BLOOD PT-14.3* PTT-33.2 INR(PT)-1.2*
+[**2150-11-19**] 05:20AM BLOOD Plt Ct-298
+[**2150-11-19**] 05:20AM BLOOD Glucose-95 UreaN-8 Creat-0.7 Na-140 K-3.6
+Cl-106 HCO3-26 AnGap-12
+[**2150-11-19**] 05:20AM BLOOD ALT-39 AST-31 AlkPhos-89 Amylase-43
+TotBili-0.2
+[**2150-11-19**] 05:20AM BLOOD TotProt-5.7* Albumin-2.8* Globuln-2.9
+Calcium-8.6 Phos-3.0 Mg-2.1
+[**2150-11-16**] 04:04AM BLOOD calTIBC-215* Ferritn-224 TRF-165*
+[**2150-11-15**] 11:26PM BLOOD Lactate-1.1
+
+Brief Hospital Course:
+57 year old man with newly diagnosed lung cancer presenting with
+fever, chills, non-productive cough, and hypotension, found to
+have post-obstructive pneumonia.
+.
+# Lung Cancer
+Patient was diagnosed at [**Hospital1 **] [**Location (un) 620**] with NSCLC (Squamous) via
+bronchoscopic biopsy.  He was initially discharged home w/ the
+hope that he could get outpatient scheduling / workup for
+treatment.  However, he developed a fever and SOB and
+hypotension (see below) and was transferred to [**Hospital1 18**] for
+management.  Inpatient he underwent debriedement and stenting of
+his left bronchus, which re-opened the collapsed LLL.  The LUL
+was infiltrated w/ tumor.  During the bronchoscopy he also
+underwent node bx for staging.  Head MRI and bone scan were
+previously performed for staging.  He also underwent
+thoracentesis to further eval for extent of metastatic spread
+(cytology pending on discharge).  Radiation Oncology saw the
+patient and scheduled him for follow up for future therapy.  He
+was scheduled for outpatient PET and follow up with Oncology as
+well.
+.
+# Hypotension
+Patient was transiently in the MICU for hypotension, treated w/
+levophed and IVFs.  On the medical floor his pressure was
+improved but low overall (SBP 90-110s).  He was continued on IV
+fluids and continued to do well.  The source for hypotension was
+considered secondary to post-obstructive PNA (below), but may
+have also been related directly to cytokine release from tumor.
+.
+# Post-Obstructive Pneumonia
+Presented w/ increased SOB, cough, and fever.  Radiologically
+showed atelectasis and consolidation.  He was treated
+aggressively with vancomycin (MRSA coverage for prior
+instrumentation), clindamycin, and ceftriaxone.  He continued to
+have fevers with negative blood cultures.  Fevers in retrospect
+may have been tumor - fever, however given his clinical state he
+was continued on PO antibiotics (clinda + cefpodoxime) on
+discharge for total of 7 days.
+
+#) TB exposure
+Past positive PPD, however also received BCG vaccine in [**Country 5881**].
+He was started on isoniazid for a TB exposure several years ago,
+but this was never completed.  OSH bronchoscopy showed no AFBs.
+He was re-started on INH / Pyridoxime.
+.
+#) History of PE
+Lovenox was held for his procedures.  Afterwards, he was
+restarted at home dose.  He will continue on Lovenox as an
+outpatient, especially in light of his current malignancy.
+.
+The patient was staged further w/ transbronchial lymph node
+biopsy.  Thoracentesis was performed to evaluate for malignant
+cells.  He was treated w/ a total 10 day course for
+post-obstructive pneumonia.  He will follow up with radiation
+oncology and medical oncology as an outpatient treatment of his
+malignancy.
+
+Medications on Admission:
+Advair 250/50
+Albuterol PRN
+Singulair 10mg daily
+Vitamin B6
+INH 300mg daily
+Lovenox
+
+
+Discharge Medications:
+1. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Dev

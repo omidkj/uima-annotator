@@ -1,0 +1,200 @@
+Admission Date:  [**2143-5-1**]              Discharge Date:   [**2143-5-11**]
+
+Date of Birth:  [**2074-12-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Theophylline / Ethylene dioxide
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+Allergic reaction to dialysis, eosinophilia
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+History of Present Illness:
+
+Patient is a 68 year-old female with HTN/DM II and ESRD recently
+started on dialsyis in [**2142-11-6**] being transferred from the
+[**First Name4 (NamePattern1) 11560**] [**Last Name (NamePattern1) **] ICU after multiple hypotensive episodes during
+dialysis.  She initially presented to [**First Name4 (NamePattern1) 11560**] [**Last Name (NamePattern1) **] on [**4-30**]
+after she experienced diapheresis, chest tightness, headache,
+shortness  of breath, and hypotension (80s) during a dialysis
+session.  These symptoms at dialysis have been progressive with
+each dialysis session. She notes that she had overall felt well
+since she was started on HD in [**Month (only) 1096**].  A "few weeks ago," she
+began to develop nausea during HD. Last week, she developed
+nausea with chest tightness, diaphoresis, dizziness within 30-40
+min into HD. On subsequent HD sessions, these symptoms
+progressively began earlier in the sessions. Her symptoms tend
+to improved following removal of HD.
+
+On presentation to LGH after her last episode on on [**4-30**], her
+WBC was noted to be at 54K w/ 80% eos (the day before her WBC
+was 12K with 20% eos). Absolute IgE count was 479. Thus, it was
+felt that she may be having an allergic reaction to something
+during HD. On Monday, they switched her dialyzer to
+non-polysulfone, however as soon as the HD started she developed
+diaphoresis, dropped her SBP to 90s, became nauseous with chest
+tightness. She was then immediately removed from HD and started
+on solumedrol. She was then transferred to the ICU for close
+monitoring, but by the time she arrived there she was already
+feeling better. She has not had a full session of HD in roughly
+1 week. She had a hematology consult done prior to transfer for
+hypereosinophilia; recommendations included solumedrol to
+supress Eos and consideration of BM bx if no improvement. Due to
+concern for possible infectious process, sh was started
+emperically on daptomycin and meropenem on [**4-30**]. When
+questioned, the patient states that she has been on and off
+antibiotics since [**Month (only) **] for "bacteria in her blood." She does
+mention that she had surgery on her right foot on [**3-13**] for
+Charcot foot deformity at [**Hospital1 2177**], for which she was also on
+antibiotics.
+
+On the floor, patient feels well, but is incredibly anxious
+about what is going on.  She denies any pain, palpitations,
+shortness of breath.
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of breath. Denied chest pain
+or tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias.
+
+
+Past Medical History:
+Past Medical History:
+-Hypertension
+- ESRD with dialysis initiated [**12-17**] via tunneled line; vein
+mapping done for fistula, but not attempted yet
+-DMII
+-Breast cancer status post left mastectomy and node dissection
+-Hyperlipidemia
+-Charcot foot deformities, s/p surgical repair on [**2143-5-13**]
+followed by multiple infections
+-Hand fracture
+-Asthma
+-Glaucoma, blind of L eye
+- Diabetic neuropathy
+- History of allergy: Patient states she used to get IgG shots
+which were stopped 5 years ago
+
+Social History:
+SOCIAL HISTORY: [**Name (NI) 94010**] husband die 3 years ago with
+complications related to HD and DM. She is currently living w/
+oldest daughter who is her main care taker due to her use of WC
+and this does not fit on the doors at her house. No smoking, occ
+ETOH- rarely now, no drugs. She has 3 daughters who live close
+by. Overall feeling very stress with her illness.
+
+Family History:
+FAMILY HISTORY:
+No family hx of kidney disease
+Sister DM
+
+Physical Exam:
+Admission Physical Exam:
+Physical Exam:
+Vitals: 98.1 158/70 84 20 97%RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, left - sided
+ptosis, although patient states this is chronic
+Neck: supple, JVP just above clavicle at 90 degrees, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: RRR, nl S1-S2, III/VI SEM cresendo-decresendo loudest on
+RUSB, but heard throughout
+Abdomen: soft, obese, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+Ext: WWP, bil LE trace of pitting edema on shin area, on L shin
+pink skin warm to touch, non-tender. On R pt with half cast with
+ace wrapping, decrease sensation on bil feet, 2+ peripheral
+pulses on L.
+
+Discharge Physical Exam:
+Vitals: 98.7  110/50 66 18  98% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, left - sided
+ptosis, chronic
+Neck: supple, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: RRR, nl S1-S2, III/VI SEM cresendo-decresendo loudest on
+RUSB, but heard throughout
+Abdomen: soft, obese, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+Ext: 1+ pitting edema bilaterally, right foot wrapped in
+bandages
+
+
+Pertinent Results:
+Admission labs:
+
+[**2143-5-2**] 02:04AM BLOOD WBC-15.1* RBC-4.21 Hgb-11.8* Hct-39.5
+MCV-94 MCH-28.0 MCHC-29.8* RDW-16.7* Plt Ct-208
+[**2143-5-2**] 02:04AM BLOOD Neuts-63.3 Lymphs-13.9* Monos-1.1*
+Eos-21.5* Baso-0.3
+[**2143-5-2**] 02:04AM BLOOD Glucose-270* UreaN-72* Creat-6.7* Na-137
+K-5.9* Cl-100 HCO3-21* AnGap-22*
+[**2143-5-2**] 02:04AM BLOOD Calcium-9.4 Phos-5.2* Mg-2.4
+[**2143-5-2**] 02:04AM BLOOD ALT-16 AST-23 AlkPhos-73 TotBili-0.3
+
+CHEST RADIOGRAPH
+
+INDICATION: Assessment for lymphadenopathy, parenchymal changes.
+
+
+COMPARISON: No comparison available at the time of dictation.
+
+FINDINGS: A hyperlucency over the left inferior hemithorax is
+obviously due
+to a lumpectomy or mastectomy. Moderate cardiomegaly without
+evidence of
+pulmonary edema. No pneumonia, no other relevant parenchymal
+changes. No
+lung nodules or masses. No pleural effusions. A right dialysis
+catheter over
+the internal jugular vein is unremarkable.
+
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4130**]
+Approved: [**Doctor First Name **] [**2143-5-9**] 12:03 PM
+
+Discharge Labs:
+
+[**2143-5-11**] 02:57PM BLOOD WBC-7.7 RBC-3.53* Hgb-9.7* Hct-31.7*
+MCV-90 MCH-27.5 MCHC-30.7* RDW-16.1* Plt Ct-215
+[**2143-5-11**] 02:57PM BLOOD Neuts-48.0* Lymphs-31.2 Monos-12.5*
+Eos-8.1* Baso-0.2
+[**2143-5-8**] 10:35AM BLOOD ESR-7
+[**2143-5-11**] 07:50AM BLOOD Glucose-167* UreaN-48* Creat-3.4*# Na-140
+K-4.0 Cl-101 HCO3-31 AnGap-12
+[**2143-5-11**] 07:50AM BLOOD Albumin-3.7 Calcium-7.5* Phos-2.7 Mg-1.9
+[**2143-5-8**] 07:30PM BLOOD VitB12-881
+[**2143-5-8**] 10:35AM BLOOD ANCA-NEGATIVE B
+[**2143-5-8**] 10:35AM BLOOD PEP-NO SPECIFI
+[**2143-5-3**] 08:40AM BLOOD IgG-1246 IgM-39*
+
+Brief Hospital Course:
+ASSESSMENT AND PLAN: 68 year-old female with HTN/DM II and ESRD
+on dialysis via tunneled line, presenting with hypereosinophilia
+and multiple episodes of hypotension on initiation of dialysis.
+
+# Hypereosinophilia: It was initially felt that her
+hypereosinophilia was a result of hypersenitivity to the
+ethylene oxide dialyzer membrane or tubing. The membrane/tubing
+was changed. Additionally, the patient was pre-medicated prior
+to dialysis with famotidine, singulair, hydroxyzine and IV
+solumedrol to prevent further reactions. The patient underwent
+dialysis uneventfully five times with this regimen. Her last two
+dialysis runs were executed with oral prendisone substitute for
+IV solumdrol. The patient's eosinophil count continued to
+flucuate throughout the hospitalization, with little correlation
+to the patient's dialysis schedule. A large work-up was sent,
+much of which was still pending at the time of discharge.
+Baseline lab data from her PCP indica

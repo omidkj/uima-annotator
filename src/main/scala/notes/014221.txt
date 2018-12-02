@@ -1,0 +1,174 @@
+Admission Date:  [**2117-8-20**]              Discharge Date:   [**2117-9-12**]
+
+Date of Birth:  [**2080-8-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Dilantin
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+slurred speech, headache
+
+Major Surgical or Invasive Procedure:
+endotracheal intubation
+
+History of Present Illness:
+Mr. [**Known lastname 48422**] is a 36-year-old man with a history of metastatic,
+dedifferentiated thyroid cancer on doxarubucin (C1D18) and
+celiac disease, presenting with one day of headache and altered
+mental status. Patient developed a headache after using a
+suppository for constipation yesterday. He has had several weeks
+of low grade temperatures to 99.5 and night sweats. This
+morning, he was noted by his family to not be making any sense
+when they were speaking with him. He states he was having
+difficulty word finding, following commands, and writing
+sentences at that time. It resolved, but re-occured during his
+appointment with his oncologist later that day. He was referred
+to the ED where his symptoms resolved again, but then
+re-occurred in the ED where he was noted to be having difficulty
+finding words, making paraphrasic errors, and appearing overall
+globally confused. He has been on dexamethasone daily and his
+last chemotherapy was cycle 1 day 1 of doxorubicin on [**2117-8-3**].
+.
+In ED VS were 98.9 103 123/82 14 100% on RA. Labs sig for Na of
+123, Hct of 22.7, WBC of 9.9 with 15% bands. Lactate 0.8 He
+received IV Vancomycin, CFTX, and Acylovir (meningitis dosing)
+and 3 L NS. Neurology and neurosurgery were both consulted.
+Neurosurgery did not recommend any intervention for the SDH
+noted on Head CT, stating it was subacute. Neurology recommended
+LP for rule out meningitis which was performed in the ED and
+demonstrated WBC of 8, normal protein and glucose, and RBCS that
+did not clear from tube 1->tube 4.
+.
+Review of systems:
+(+) overall weakness
+(-) Denied cough, shortness of breath. Denied chest pain or
+tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias.
+
+Past Medical History:
+Past Oncologic History (Per Dr.[**Initials (NamePattern4) 11574**] [**Last Name (NamePattern4) **] note):
+-[**2103**]: Nodule felt on physical examination, biopsy revealed
+papillary thyroid cancer and patient underwent a total
+thyroidectomy. Per reports, patient had 1.1 cm tumor with lymph
+node involvement. This was done in [**Location (un) 36413**]. He underwent
+radioactive iodine therapy, and was followed frequently with lab
+tests and scans. Abnormalities were detected in [**2107**] with
+evidence of possible remnant thyroid tissue, and he underwent
+repeat radioactive iodine ablation with good result. Was
+followed closely for a time, had last been seen in [**2113**] when he
+lived in [**Location 18296**], and was lost to follow up until move to
+[**State 350**] in [**2115**].
+-As part of initial evaluation, he had an ultrasound done of his
+neck. The ultrasound demonstrated three enlarged morphologically
+abnormal lymph nodes on the left at level IV and further
+evaluation was recommended. The largest lymph node was 1.9 x 1.7
+x 1.0 cm. He then underwent a Thyrogen radioactive iodine uptake
+scan, which was negative for residual thyroid uptake and had no
+
+evidence of metastatic disease. He subsequently went on to an
+ultrasound-guided biopsy and cytology from this procedure was
+positive for malignant cells consistent with carcinoma. The
+malignant cells had a large nuclei with prominent nucleoli and
+high nuclear to cytoplasmic ratios. The tumor cells were
+positive for CK7 and CK20, and negative for TTF-1 and
+thyroglobulin. These findings were consistent with
+dedifferentiated papillary carcinoma of the thyroid, but second
+primary could not be entirely excluded. As a result of this
+pathology, the patient underwent PET-CT scan, which demonstrated
+FDG avid nodal disease in the left neck at levels IV and IIa
+within the right thyroidectomy bed. There was atypical diffuse
+FDG avid nodal disease within the thorax along the periaortic
+and paraesophageal chain. The findings were consistent
+suggestive of dedifferentiated metastatic thyroid cancer;
+however, the pattern was atypical. There were no other sites of
+abnormal FDG uptake to suggest a secondary malignancy. Biopsy of
+the paraesophageal mass on [**2-17**] with pathology consistent with
+his previously diagnosed, dedifferentiated papillary thyroid
+carcinoma. Lastly, his PET/CT scan in [**2117-5-20**] revealed stable
+disease.
+.
+Other Past Medical History:
+Celiac disease
+
+Social History:
+The patient works as a consultant. His girlfriend and mother are
+present at the bedside. He does not smoke. Occasional EtOH use,
+none in last 5 weeks. Denies any illicit drug use.
+
+
+Family History:
+Mother had papillary carcinoma of the thyroid. Father died of
+colon cancer at age 63, was diagnosed at age 57. He has a
+brother and a sister who are healthy. His family history is
+significant for heart disease, specifically CHF.
+
+Physical Exam:
+Vitals: T: 98.7, BP: 123/74, P: 130, R: 24, O2: 91% 6L NC
+General: tachypnic, anxious, alert, oriented x 3
+HEENT: NC/AT, mild scleral icterus
+Neck: supple, JVP 6 cm, no LAD
+Lungs: decreased BS at right base, dull to purcussion,
+occasional crackles R > L
+CV: tachycardic, regular rate and rhythm, normal S1 + S2, no
+murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+Labs on Admission:
+[**2117-8-20**] 07:50PM CEREBROSPINAL FLUID (CSF)  PROTEIN-107*
+GLUCOSE-102
+[**2117-8-20**] 07:50PM CEREBROSPINAL FLUID (CSF)  WBC-8 RBC-26*
+POLYS-82 LYMPHS-2 MONOS-14 EOS-1 MACROPHAG-1
+[**2117-8-20**] 07:50PM CEREBROSPINAL FLUID (CSF)  WBC-3 RBC-295*
+POLYS-13 LYMPHS-23 MONOS-62 NUC RBCS-1 OTHER-1
+[**2117-8-20**] 05:40PM   COMMENTS-GREEN TOP
+[**2117-8-20**] 05:40PM   LACTATE-0.8
+[**2117-8-20**] 03:30PM URINE  HOURS-RANDOM
+[**2117-8-20**] 03:30PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2117-8-20**] 03:30PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.009
+[**2117-8-20**] 03:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-NEG
+[**2117-8-20**] 02:30PM   GLUCOSE-113* UREA N-16 CREAT-0.9 SODIUM-123*
+POTASSIUM-4.6 CHLORIDE-83* TOTAL CO2-30 ANION GAP-15
+[**2117-8-20**] 02:30PM   CALCIUM-9.8 PHOSPHATE-6.5* MAGNESIUM-1.7
+[**2117-8-20**] 02:30PM   WBC-9.9 RBC-2.97* HGB-7.9* HCT-22.7* MCV-76*
+MCH-26.5* MCHC-34.7 RDW-20.6*
+[**2117-8-20**] 02:30PM   NEUTS-50 BANDS-13* LYMPHS-14* MONOS-8 EOS-0
+BASOS-0 ATYPS-0 METAS-5* MYELOS-9* PROMYELO-1* NUC RBCS-8*
+[**2117-8-20**] 02:30PM   HYPOCHROM-2+ ANISOCYT-2+ POIKILOCY-OCCASIONAL
+MACROCYT-NORMAL MICROCYT-3+ POLYCHROM-1+ SCHISTOCY-OCCASIONAL
+[**2117-8-20**] 02:30PM   PLT SMR-VERY LOW PLT COUNT-34*
+[**2117-8-20**] 02:30PM   PT-13.6* PTT-22.1 INR(PT)-1.2*
+[**2117-8-20**] 12:44PM   UREA N-17 CREAT-1.0
+[**2117-8-20**] 12:44PM   ALT(SGPT)-80* AST(SGOT)-38 LD(LDH)-828* ALK
+PHOS-510* TOT BILI-1.2
+[**2117-8-20**] 12:44PM   ALBUMIN-2.9*
+[**2117-8-20**] 12:44PM   WBC-9.6 RBC-3.18* HGB-8.1* HCT-24.1* MCV-76*
+MCH-25.5* MCHC-33.7 RDW-20.0*
+[**2117-8-20**] 12:44PM   NEUTS-52 BANDS-11* LYMPHS-12* MONOS-5 EOS-0
+BASOS-0 ATYPS-2* METAS-9* MYELOS-9* NUC RBCS-10*
+[**2117-8-20**] 12:44PM   HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-2+
+MACROCYT-NORMAL MICROCYT-2+ POLYCHROM-1+ SPHEROCYT-2+
+SCHISTOCY-2+ TEARDROP-2+ BITE-2+
+[**2117-8-20**] 12:44PM   PLT SMR-VERY LOW PLT COUNT-34*
+[**2117-8-20**] 12:44PM   GRAN CT-7808
+
+Brief Hospital Course:
+36 y/o male with metastatic de-differentiated papillary thyroid
+carcinoma, previously managed in [**Hospital Unit Name 153**] for altered mental status,
+transferred back to ICU for hypoxia, tachycardia, and acute
+hematocrit drop, with concern for hemolysis.
+.
+# Hypoxic respiratory failure: likely multifactorial. DDx is
+broad and includes pulmonary embolism (possible given
+tachycardia, hypercoagulable state in set

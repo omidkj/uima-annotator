@@ -1,0 +1,198 @@
+Admission Date:  [**2111-6-9**]              Discharge Date:   [**2111-7-6**]
+
+Date of Birth:  [**2044-10-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Levofloxacin
+
+Attending:[**First Name3 (LF) 2817**]
+Chief Complaint:
+dyspnea, pneumonia
+
+Major Surgical or Invasive Procedure:
+[**2111-6-18**] ET tube change
+[**2111-6-19**] Arterial line placement
+[**2111-6-20**] Right IJ line placement
+[**2111-6-25**] IR-guided PICC placement
+[**2111-6-29**] Trach placement
+[**2111-6-29**] PEG placement
+[**2111-7-3**] PICC removed for fungemia
+[**2111-7-6**] Single Lumen PICC placed
+
+History of Present Illness:
+66 year-old woman with history of asthma, COPD, DM,
+hypothyroidism, with recent history significant for worsening
+dyspnea over past three months, status post four courses of
+antibiotics and steroids for presumed COPD exacerbation,
+presenting to [**Hospital3 26615**] Hospital on [**2111-6-3**] with acute
+worsening dyspnea, intubated for respiratory distress, and
+transferred to [**Hospital1 18**] for further management.  As noted above,
+she has a history of worsening dyspnea over the past few months
+that has been treated with antibiotics and steroids.  She
+presented to OSH on [**2111-6-3**] with worsening dyspnea and had a
+fever to 103F, and was started on ceftriaxone/azithromycin
+([**Date range (1) 83455**]) for pneumonia and COPD exacerbation.  She developed
+an increasing oxygen requirement, however, and initially
+required nasal canula (94% on 1 L O2) but later required face
+mask (86% on 15 L on [**6-7**]).  Her CXR, which initially was read
+as negative for infiltrate, progressively worsening, with
+increasingly prominent diffuse bilateral infiltrates, right
+greater than left.  She also had a negative chest CTA.  With an
+oxygen requirement that was rising and worsening dyspnea, she
+was transitioned to vanc/zosyn/levo and then vanc/zosyn/ceftaz
+([**Date range (1) 83456**]; ceftaz started [**6-8**]; levo on [**4-21**]) because of
+an allergy to levofloxacin.  It is unclear why she received
+double coverage for gram negatives.  She was also given
+methylprednisolone ([**6-6**] dose 20 mg iv q8; then 80->60 mg iv q8
+afterward).
+.
+On [**6-7**], she was admitted to the ICU and intubated electively
+for hypoxia and SOB.  Sputum culture grew staph aureas that was
+MRSA per report.  Influenza viral screen was negative.
+Phenylephrine was started because of hypotension to SBPs in the
+80s after being intubated and starting on propofol ([**Date range (1) 83456**]),
+which had to be uptitrated for sedation.  She was transferred to
+[**Hospital1 18**] on [**6-9**] based on her family's wishes.
+.
+On arrival, her ventilator settings were Vt 500cc, FiO2 100%,
+PEEP 16.  She was on phenylephrine at 0.6 and rapidly weaned
+off.  Her VS were 98.6 56 18 96%vent
+
+Past Medical History:
+COPD
+Asthma
+Diabetes mellitus
+Hyperlipidemia
+Hypothyroidism
+GERD
+Left breast cancer s/p lumpectomy
+H/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1557**]-[**Doctor Last Name **] Syndrome (per PCP)
+
+Social History:
+She does not smoke or drink.  She lives with her husband.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Vitals: T: 98 BP: 127/60 P: R: 18 O2:
+General: intubated, obese, arousable
+HEENT: ETT, Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: soft inspiratory wheezes bilaterally, no rales or rhonchi
+CV: Regularly irregular rate and rhythm, normal S1 + S2, no
+murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+Admission labs
+[**2111-6-9**] 11:36PM   TYPE-ART TEMP-37.0 RATES-18/5 TIDAL VOL-500
+PEEP-16 O2-100 PO2-98 PCO2-50* PH-7.42 TOTAL CO2-34* BASE XS-6
+AADO2-565 REQ O2-93 INTUBATED-INTUBATED
+[**2111-6-9**] 11:22PM   GLUCOSE-355* UREA N-35* CREAT-0.9 SODIUM-141
+POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-27 ANION GAP-14
+[**2111-6-9**] 11:22PM   CALCIUM-8.1* PHOSPHATE-2.2* MAGNESIUM-2.5
+[**2111-6-9**] 11:22PM   WBC-10.0 RBC-3.53* HGB-10.3* HCT-29.9* MCV-85
+MCH-29.0 MCHC-34.3 RDW-15.3
+[**2111-6-9**] 11:22PM   PLT COUNT-289
+[**2111-6-9**] 11:22PM   PT-12.4 PTT-24.9 INR(PT)-1.0
+.
+[**2111-6-30**] 02:09PM BLOOD CK(CPK)-30 CK-MB-NotDone cTropnT-0.02*
+[**2111-6-30**] 10:41PM BLOOD CK(CPK)-30 CK-MB-NotDone cTropnT-0.01
+[**2111-7-1**] 03:00AM BLOOD CK(CPK)-28 CK-MB-NotDone cTropnT-0.01
+.
+[**2111-6-16**] 06:50AM BLOOD calTIBC-178* Ferritn-578* TRF-137*
+[**2111-6-19**] 09:00PM BLOOD Fibrino-478*
+[**2111-6-21**] 04:13AM BLOOD Ret Aut-3.8*
+[**2111-6-19**] 04:15PM BLOOD Hapto-385*
+.
+[**2111-6-21**] 02:24AM BLOOD Triglyc-303*
+[**2111-6-29**] 05:27AM BLOOD Triglyc-70
+.
+[**2111-6-10**] 04:41AM BLOOD TSH-0.61
+.
+[**2111-6-10**] 05:10AM BLOOD %HbA1c-8.9*
+.
+[**2111-6-16**] SPEP: TRACE ABNORMAL BAND IN GAMMA REGION BASED ON IFE
+(SEE SEPARATE REPORT), IDENTIFIED AS MONOCLONAL IGG KAPPA NOW
+REPRESENTS, BY DENSITOMETRY, ROUGHLY 3% (150 MG/DL) OF TOTAL
+PROTEIN.
+.
+[**2111-6-16**] UPEP: MULTIPLE PROTEIN BANDS SEEN, WITH ALBUMIN
+PREDOMINATING
+BASED ON IFE (SEE SEPARATE REPORT), NEGATIVE FOR BENCE-[**Doctor Last Name **]
+PROTEIN. Immunofixation, Urine: NO DEFINITE M PROTEIN SEEN.
+NEGATIVE FOR BENCE-[**Doctor Last Name **] PROTEIN.
+.
+[**2111-6-8**] BAL Flow Cytometry: There is an immuonphenotypically
+abnormal CD138+/CD56+ cell population that most likely
+represents the highly atypical plasmacytoid immunoblasts seen on
+[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4427**]-Giemsa stained cytocentrifuge preparation of the
+submitted bronchioalveolar lavage fluid. The significance of
+this finding in the context of an acute viral illness is
+unclear. Although a reactive process is favored, a
+lymphoproliferative disorder can not be ruled out.  Repeat
+sampling for cell block preparation and immunohistochemical
+studies is recommended if clinically indicated.
+.
+[**2111-6-17**] BAL Bronchial Washings Cytology: NEGATIVE FOR MALIGNANT
+CELLS.	Many neutrophils, pulmonary macrophages, lymphocytes, and
+few multinucleated giant cells. Rare fungal organisms present
+consistent with [**Female First Name (un) **] species.
+.
+[**2111-6-10**] 6:06 pm BRONCHOALVEOLAR LAVAGE
+  GRAM STAIN (Final [**2111-6-10**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+   RESPIRATORY CULTURE (Final [**2111-6-12**]):    ~[**2102**]/ML
+OROPHARYNGEAL FLORA.
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      [**2111-6-11**]):    NEGATIVE for Pneumocystis jirovecii
+(carinii)..
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+.
+[**2111-6-10**] Rapid Respiratory Viral Screen & Culture
+      Source: Nasopharyngeal swab.
+   Respiratory Viral Culture (Final [**2111-6-12**]):
+      No respiratory viruses isolated.
+      Culture screened for Adenovirus, Influenza A & B,
+Parainfluenza type
+      1,2 & 3, and Respiratory Syncytial Virus..
+      Detection of viruses other than those listed above will
+only be
+      performed on specific request. Please call Virology at
+[**Telephone/Fax (1) 6182**]
+      within 1 week if additional testing is needed.
+   Rapid Respiratory Viral Antigen Test (Final [**2111-6-16**]):
+      THIS IS A CORRECTED REPORT [**2111-6-16**].
+      Respiratory viral antigen test is uninterpretable due to
+the lack of
+      cells.
+      Positive for Swine-like Influenza A (H1N1) virus by RT-PCR
+at State
+      Lab.
+      PREVIOUSLY REPORTED AS Respiratory viral antigens not
+detected
+      [**2111-6-10**].
+      SPECIMEN SCREENED FOR: ADENO,PARAINFLUENZA 1,2,3 INFLUENZA
+A,B AND
+      RSV.
+      Refer to respiratory viral culture for further
+information.
+      REPORTED BY PHONE TO DR. [**Last Name (STitle) **]. [**Doctor Last Name **] 12P [**2111-6-16**].
+.
+[**2111-6-10**] 11:37 am URINE      Source: Catheter.
+   Legionella Urinary Antigen  (Final [**2111-6-11**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+.
+[**2111-6-21**] 6:30 pm SPUTUM      Source: Endotracheal.
+   GRAM STAIN (Final [**2111-6-21**]):
+      [**11-8**] PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+   RESPIRATORY CULTURE (Final [*

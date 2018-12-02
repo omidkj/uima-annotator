@@ -1,0 +1,208 @@
+Admission Date:  [**2133-1-19**]              Discharge Date:   [**2133-1-23**]
+
+Date of Birth:  [**2051-1-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents / Succinylcholine
+
+Attending:[**First Name3 (LF) 348**]
+Chief Complaint:
+Fever/Hypotension
+
+Major Surgical or Invasive Procedure:
+Outside Hospital Femoral Central Line Removed ([**2133-1-20**])
+PICC Placement ([**2133-1-20**])
+PICC Removed ([**2133-1-23**])
+
+
+History of Present Illness:
+82 y/o Portuguese speaking F with PMH of severe COPD with h/o
+respiratory failure [**2-27**] with pseudomonas VAP, VRE bacteremia,
+CMV viremia requiring trach/PEG that were subsequently removed,
+ESRD on HD who presented from OSH [**1-19**] with hypotension, SBP 80s
+and low grade temp. She had been doing well until a recent COPD
+flare that led to an admission at [**Hospital3 **]. She was discharged
+to a rehab facility on [**1-17**] on 60 of prednisone for a taper. She
+had been complaining of some weakness since that discharge. On
+presentation for HD ([**1-19**], day of admission), she was reported
+to have SBPs in the 70s-80s, and was sent to the ED. At the OSH
+ED, she had a rectal temp of 100.2. She had a CXR showing
+bilateral infiltrates. She was given vanco, ceftriaxone and
+levofloxacin. She had a R femoral CVL placed and was started on
+levophed when her pressures were as low as systolics in the 60s.
+ She was transferred to [**Hospital1 18**] MICU at that time.
+
+Past Medical History:
+-COPD
+-Hypertension
+-Hyperlipidemia
+-CAD - s/p MI [**6-27**], s/p stents x 3 @ [**Hospital1 **], nl EF in [**1-27**]
+-Hypothyroid
+-RA
+-Gout
+-ESRD on HD MWF
+-Anemia [**12-24**] CKD - on epo
+-DM2 - on insulin
+-Afib (not anticoagulated given GIB)
+-Asthma - not on home o2
+-Pseudocholinesterase insufficiency
+-H/o HITT ([**2127**] [**Hospital1 2025**])
+-H/o hemoptysis on heparin ([**2127**] [**Hospital1 2025**])
+-H/o UGIB on heparin ([**2127**] [**Hospital1 2025**])
+-H/o respiratory failure [**2-/2130**] with pseudomonas VAP, VRE
+bactermia and CMV viremia, necessitating trach and peg, both
+subsequently removed
+
+Social History:
+Lived in [**Doctor Last Name **] NH. Sons live close by are joint HCPs. [**Name (NI) **]
+[**Name2 (NI) **]/ETOH/drugs. Portugese speaking.
+
+
+Family History:
+non contributory
+
+Physical Exam:
+Discharge:
+Vitals: T97.7; BP 136/82; HR 104; RR 20; O2Sat 100% on 2L
+GEN: pleasant, comfortable, NAD
+HEENT: EOMI, anicteric, MMM, op without lesions, no
+supraclavicular or cervical lymphadenopathy, no jvd
+Pulm: bibasilar crackles, diffuse ins/exp wheezes; no increase
+work of breathing;
+CV: irregular rhythm, S1 and S2 wnl, no m/r/g appreciated
+ABD: nd, +BS, soft, non-tender, no masses
+EXT: no c/c/e; Ulcer R heal, dry w/o erythema; R arm AV fistula
+wnl
+NEURO: AAOx3. Cn II-XII grossly intact. moving all extremities.
+
+Pertinent Results:
+Admission:
+[**2133-1-19**] 08:30PM BLOOD WBC-22.0*# RBC-4.03* Hgb-11.1* Hct-34.9*
+MCV-87 MCH-27.6 MCHC-31.9 RDW-17.1* Plt Ct-192
+[**2133-1-19**] 08:30PM BLOOD Neuts-78* Bands-10* Lymphs-8* Monos-3
+Eos-0 Baso-0 Atyps-1* Metas-0 Myelos-0
+[**2133-1-19**] 08:30PM BLOOD Glucose-46* UreaN-29* Creat-2.6* Na-137
+K-4.2 Cl-97 HCO3-30 AnGap-14
+[**2133-1-19**] 08:48PM BLOOD Lactate-1.8
+
+Discharge:
+[**2133-1-23**] 05:40AM BLOOD WBC-14.1* RBC-3.65* Hgb-10.3* Hct-31.6*
+MCV-87 MCH-28.2 MCHC-32.6 RDW-17.3* Plt Ct-152
+[**2133-1-23**] 05:40AM BLOOD Glucose-193* UreaN-58* Creat-4.0*# Na-133
+K-5.6* Cl-93* HCO3-27 AnGap-19
+[**2133-1-20**] 04:38AM BLOOD ALT-24 AST-15 AlkPhos-128* TotBili-0.4
+[**2133-1-23**] 05:40AM BLOOD Calcium-8.5 Phos-4.7* Mg-2.2
+[**2133-1-23**] 07:30AM BLOOD Vanco-16.7
+
+MICRO:
+[**1-19**]
+Blood Culture, Routine (Preliminary):
+      STAPH AUREUS COAG +.
+         Consultations with ID are recommended for all blood
+cultures
+         positive for Staphylococcus aureus and [**Female First Name (un) 564**] species.
+
+         FINAL SENSITIVITIES.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+[**1-21**], [**1-22**], [**1-23**]
+Blood Culture, Routine (Pending): NGTD
+
+RADIOLOGY:
+CXR:
+FINDINGS: Single frontal view of the chest was obtained. Patchy
+right
+mid-to-lower lung opacity is worrisome for pneumonia. Perihilar
+and
+interstitial opacities raise concern for pulmonary edema. No
+large pleural
+effusions are seen, however, trace effusions would be difficult
+to exclude.
+The cardiac silhouette remains enlarged.
+
+TTE:
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The diameters of
+aorta at the sinus, ascending and arch levels are normal. No
+masses or vegetations are seen on the aortic valve. There is no
+aortic valve stenosis. Trace aortic regurgitation is seen. The
+mitral valve leaflets are moderately thickened. No mass or
+vegetation is seen on the mitral valve. Mild (1+) mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+Moderate [2+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+IMPRESSION: No vegetations seen (adequate-quality study). Normal
+global and regional biventricular systolic function.
+
+
+Brief Hospital Course:
+82 yo F with h/o COPD, ESRD on HD MWF, afib, CAD s/p MI and PCI,
+and hypothyroidism who was transfered to the MICU from an OSH
+for hypotension requiring pressors due to pneumonia and MRSA
+bacteremia.
+.
+#) Pneumonia
+On presentation for HD, she was reported to be hypotensive and
+sent to an OSH ED. She had a CXR showing bilateral infiltrates.
+She was given vanco, ceftriaxone and levofloxacin. She had a R
+femoral CVL placed and was started on levophed and transferred
+to the [**Hospital1 18**] MICU on arrival, her initial vitals were 96.4 102
+108/49 22 97% 4L NC. She had a repeat CXR confirming the
+pneumonia findings. Pt was begun on vanc/cefepime/azithro on
+admission.  Repeat CXR confirmed multifocal pneumonia.  She was
+successfully weaned from levophed over HOD1 and the pt continued
+to hold her BPs (91-153/34-62) at HR of 96-110 (aFib).  Due to
+marked clinical improvement, the patient's femoral CVL was
+removed and she was transferred to the general medicine floor on
+HOD2.  She continued to improve, and was weaned from
+supplemental oxygen on HOD4.  No successful sputum culture was
+ever obtained for organism identification or sensitivities.  She
+was discharged to finish a 14 day course of ceftaz/azithro to
+finish on [**2133-2-1**].  The PICC was removed prior to discharge due
+to concerns of MRSA seeding and therefore Vancomycin treatment
+was extended to 14 days from d/c femoral CVL (last day of
+Vancomycin [**2-3**])  The azithro was switched to PO, and the
+vanc/ceftaz was planned to be administered at hemodialysis.
+-- Ceftazidime 1g QHD for 14 days (last day: [**2-1**])
+-- Azithromycin 250mg q24 for 14 days (last day: [**2-1**])
+-- Vancomycin 1g QHD for 14 days (last day [**2-3**])
+-- please wean O2 as tolerated
+-- O2 sat difficult to read on fingers and more accurate
+readings obtained on forehead.
+.
+#) MRSA bacteremia
+Initial blood culture in the ED grew MRSA.  Unclear whether the
+bacteremia was secondary to the pneumonia, or was related to the
+femoral CVL placement, or from hemodialysis.  She was already on
+vancomycin emperically.  All subsequent blood cultures are
+pending, and are NGTD. An TTE was performed and negative for
+endocarditis.  

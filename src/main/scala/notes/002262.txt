@@ -1,0 +1,190 @@
+Admission Date:  [**2138-3-17**]              Discharge Date:   [**2138-3-22**]
+
+Date of Birth:  [**2075-2-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hypotension, fever
+
+Major Surgical or Invasive Procedure:
+Hemodialysis, placement of a dialysis catheter
+
+
+History of Present Illness:
+Mr. [**Known lastname 32034**] is a 63 yo M s/p cadaveric renal transplant [**3-15**]
+polycystic kidney disease on tacrolimus and prednisone,
+metastatic prostate cancer, and MGUS who presents with fevers
+from his rehabilitation facility. Of note, he had been recently
+hospitalized at [**Hospital1 18**] [**Date range (1) 111347**] for shoulder and arm pains. He
+developed leukocytosis and loose stools during this
+hospitalization for which he was treated with flagyl empirically
+for two weeks ending on [**3-8**]. Per his rehab records, PO
+vancomycin was restarted on [**3-10**]. At rehab, stool had been C
+diff+ as recently as 1/30 per the records available to us.
+
+Per his wife, he developed a fever to 101F the evening prior to
+admission, without any associated chills or sweats. He also
+complained of left thigh pains.
+
+Review of systems is otherwise negative for headache, vision
+changes, neck stiffness, cough, chest or abdominal pain, rash,
+discharge or redness from his urostomy site. He has had loose
+stools, nonwatery, without any gross bleeding in ~2 weeks.
+
+In the ED, vitals were T 98.5 P 120 BP 86/54 RR 16 O2 96%. The
+sepsis protocol was initiated and a central line was placed.
+Patient initially had a CVP of 2 cm, with good response to IVF
+(~2L but total amount not clear from transfer notes). He
+received solumedrol and dexamethasone, as well as zosyn 4.5g,
+vancomycin 1g, and flagyl 500mg. He was also started on
+neosynephrine for additional blood pressure support.
+
+Past Medical History:
+Polycystic kidney disease s/p cadaveric transplant x2 [**2118**]/[**2131**]
+Metastatic prostate cancer (mets to spine) on Lupron
+Chronic LE edema
+SCC skin
+HIT
+MGUS
+Hx c. difficile
+RUE cellulitis
+UGIB [**3-15**] gastritis
+Gout
+
+Social History:
+Married, admitted from [**Hospital3 **]
+
+Family History:
+noncontributory
+
+
+Physical Exam:
+General chronically ill appearing, no acute distress
+HEENT sclera white conjunctiva pink, L eye a little swollen with
+crusting
+Neck supple, LIJ in place
+Pulm lungs clear bilaterally
+CV regular rate S1 S2 II/VI systolic murmur
+Abd soft +bowel sounds well healed scar RLQ mild discomfort to
+palpation RLQ, urostomy with pink stoma no exudate or erythema
+Extrem 2+ pitting edema bilateral LE with faint erythema of skin
+bilaterally, patient says this is a chronic issue for him. range
+of motion of LE bilaterally limited by discomfort. skin bruised,
+tophi present
+Neuro alert and oriented x3, moving all extremities
+
+Pertinent Results:
+[**2138-3-17**] 12:15PM BLOOD WBC-7.7 RBC-2.80*# Hgb-7.4*# Hct-24.8*#
+MCV-88 MCH-26.5* MCHC-30.0* RDW-16.7* Plt Ct-169
+[**2138-3-21**] 04:37AM BLOOD WBC-5.1 RBC-3.26* Hgb-8.5* Hct-27.8*
+MCV-85 MCH-26.1* MCHC-30.6* RDW-16.3* Plt Ct-233
+[**2138-3-17**] 12:15PM BLOOD PT-16.8* PTT-40.3* INR(PT)-1.5*
+[**2138-3-18**] 01:55PM BLOOD PT-13.9* PTT-32.0 INR(PT)-1.2*
+[**2138-3-17**] 07:46PM BLOOD Fibrino-399
+[**2138-3-17**] 12:15PM BLOOD Glucose-141* UreaN-81* Creat-3.2* Na-146*
+K-3.7 Cl-122* HCO3-10* AnGap-18
+[**2138-3-20**] 04:52AM BLOOD Glucose-152* UreaN-113* Creat-5.2* Na-138
+K-5.2* Cl-109* HCO3-13* AnGap-21*
+[**2138-3-21**] 04:37AM BLOOD Glucose-173* UreaN-87* Creat-4.4* Na-143
+K-4.3 Cl-111* HCO3-19* AnGap-17
+[**2138-3-17**] 01:20PM BLOOD ALT-5 AST-10 CK(CPK)-12* AlkPhos-64
+TotBili-0.3
+[**2138-3-17**] 07:46PM BLOOD CK(CPK)-17* Amylase-45
+[**2138-3-18**] 05:42AM BLOOD CK(CPK)-11*
+[**2138-3-18**] 01:56PM BLOOD CK(CPK)-10*
+[**2138-3-20**] 04:38PM BLOOD proBNP-[**Numeric Identifier **]*
+[**2138-3-17**] 01:20PM BLOOD CK-MB-3 cTropnT-0.47*
+[**2138-3-17**] 07:46PM BLOOD CK-MB-3 cTropnT-0.42*
+[**2138-3-18**] 05:42AM BLOOD CK-MB-4 cTropnT-0.35*
+[**2138-3-18**] 01:56PM BLOOD CK-MB-4 cTropnT-0.33*
+[**2138-3-17**] 12:15PM BLOOD Calcium-5.8* Phos-3.0 Mg-1.2*
+[**2138-3-21**] 04:37AM BLOOD Calcium-8.1* Phos-5.5* Mg-1.9
+[**2138-3-17**] 01:20PM BLOOD Cortsol-20.9*
+[**2138-3-21**] 04:37AM BLOOD Vanco-26.2*
+[**2138-3-20**] 04:52AM BLOOD FK506-5.3
+[**2138-3-17**] 12:27PM BLOOD Glucose-135* Lactate-1.2 Na-137 K-3.5
+Cl-124* calHCO3-10*
+[**2138-3-17**] 04:40PM BLOOD Lactate-1.0
+
+CT Abd/Pelvis/Thigh 2/4/8:
+1. Interval development of bilateral pleural effusions, left
+greater than right, compared to the previous study of [**9-13**]. Extensive new subcutaneous stranding and fluid. While the
+majority of this could represent anasarca, there is a more focal
+area of soft tissue density in the medial right thigh (not fully
+evaluated given the lack of intravenous contrast), which most
+likely represents hematoma, although a metastatic focus or an
+area of infection cannot be entirely excluded.
+3. Diverticulosis without diverticulitis.
+
+CXR 2/4/8:
+1. Left IJ terminates at the origin of the SVC.
+2. Moderate congestive heart failure.
+
+Renal Ultrasound 2/5/8:
+Transplant kidney in the left lower quadrant shows normal
+echogenicity and vascularity. Size of the left transplant kidney
+is 10.3 cm, grossly unchanged. There is no hydronephrosis,
+calculus, or perinephric fluid collection. Doppler and spectral
+analysis shows normal vascularity and waveform, with resistive
+indices of 0.7, 0.6 and 0.6, within the range of normal, in the
+upper, mid, and lower poles.
+
+TTE [**2138-3-18**]:
+The left atrium and right atrium are normal in cavity size. The
+estimated right atrial pressure is 0-5 mmHg. There is mild
+symmetric left ventricular hypertrophy with normal cavity size.
+There is mild regional left ventricular systolic dysfunction
+with akinesis of the basal inferior wall and hypokinesis of the
+more distal segments. There is mild hypokinesis of the remaining
+segments (LVEF = 40%). The estimated cardiac index is normal
+(>=2.5L/min/m2). Right ventricular chamber size and free wall
+motion are normal. The ascending aorta is mildly dilated. The
+aortic valve leaflets are moderately thickened. There is
+moderate aortic valve stenosis (area 1.0cm2). Mild to moderate
+([**2-12**]+) aortic regurgitation is seen. The mitral valve leaflets
+are mildly thickened. There is no mitral valve prolapse. There
+is very mild mitral regurgitation. The estimated pulmonary
+artery systolic pressure is high normal. There is a very small
+anterior pericardial effusion.
+
+CXR [**2138-3-20**]:
+Worsening of pulmonary edema and bilateral pleural effusions
+with overall distention in mediastinal vasculature consistent
+with volume overload.
+
+Brief Hospital Course:
+1. Hypotension/Fever
+Initially received broad spectrum antibiotics, stress dose
+steriods and aggressive fluid rehydration.  Although he required
+pressors on admission, he was weaned off after less than 24
+hours.  Given his recent history of C diff and urine cultures
+positive for pseudomonas, he was treated with vancomycin, zosyn
+and flagyl empirically.  There was no obvious source for
+infection; blood cultures as well as PICC line cultures were
+negative.  During the course of his hospitalization, he devloped
+worsening pulmonary edema with anuria, making it difficult to
+support his blood pressure with IV fluids.
+
+2. Acute on Chronic Renal Failure
+Unclear etiology for acute worsening, perhaps secondary to
+volume loss from recent C.diff, possibly secondary to
+pseudomonal UTI, though per renal there is possibilty of chronic
+pseudomonal colonization of patient's urine.  He developed
+anuria and was dialyzed by renal.  After initiating dialysis,
+the patient expressed his wish not to be put on dialysis.  He
+and his wife, who is his health care proxy, agreed to change
+goals of care to make him CMO so that he could go home with
+hospice.
+
+3. Pulmonary Edema
+Likely multifactorial causes including aggressive fluid
+replacement, worsening heart failure, acute renal failure and
+possible pseudomonal UTI.  Echo demonstrated new wall motion
+abnormality; however, upon review of the Echo with cardiology,
+the feeling was that the basal wall akinesis was in fact present
+on prior TTE.  Cardiology wa

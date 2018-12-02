@@ -1,0 +1,196 @@
+Admission Date:  [**2132-1-8**]              Discharge Date:   [**2132-1-22**]
+
+Date of Birth:  [**2060-7-19**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Biventricular pacemaker with ICD
+
+History of Present Illness:
+71M with dilated CMY, EF20% (hospitalized in [**2127**] for CHF
+thought to be due to medication noncompliance), no significant
+CAD on cath in [**2123**], CKD (baseline Cr 1.8), HTN, gout, who has
+had a chronic cough since [**2131-7-11**] that was treated with
+increased Lasix and PPI. As per OMR notes, his cough abated with
+the PPI and his Lasix dose was decreased to 80 [**Hospital1 **]. As per
+patient's wife, he's had a chronic progressive cough since
+[**Month (only) 216**], associated with PND and orthopnea, and yesterday had
+increased SOB and DOE, palpitation and chills. She reports that
+he hasn't been having CP, abdominal pain, or fevers. She also
+denies him reporting hematochezia or melena. In Dr.[**Name (NI) 10697**]
+clinic note yesterday, the patient had apparently been taking
+Lisinopril, which was supposed to be stopped on account of renal
+failure, and there is a question as to whether he was taking his
+carvedilol.
+.
+She does report that last week he had some right hand swelling
+that was thought to be due to gout.
+.
+In the ED he was intubated for SOB, SBP to 70 mmHg, and
+bradycardia to 17bpm (as per cardiology note) responsive to
+atropine. He was started on Norepinephrine and Dopamine for
+cardiogenic shock, and given Levofloxacin for concern for
+pneumonia related sepsis.
+.
+He also had a potassium of 7.6 for which he received calcium,
+insulin, bicarbonate. Repeat K pending. BNP [**Numeric Identifier 10698**]. Uric Acid 14.
+
+.
+He had a CXR that showed no overt failure and correct placement
+of a RIJ central line. He also had a noncontrast Chest CT that
+was negative for aneursym or focal consolidation.
+.
+On review of symptoms, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+ankle edema, syncope or presyncope
+
+
+Past Medical History:
+1. dilated cardiomyopathy: LVEF 23% ([**12/2123**])
+2. Hypertension
+3. chronic renal failure (baseline Cr 1.7)
+.
+Cardiac Risk Factors: -Diabetes, -Dyslipidemia, +Hypertension
+
+
+Social History:
+Lives at home with his wife.  Denies tobacco use, IVDU.  Drinks
+3 drinks/week.
+
+
+Family History:
+Brother with MI at age 75.
+
+Physical Exam:
+VS: T 97, BP 118/73, HR 88, 02 95%
+VENT SETTINGS: AC 550x16 FiO250% PEEP5
+.
+Gen: WDWN middle aged intubated and sedated, family at bedside
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple without obvious JVD
+CV: PMI located in 5th intercostal space, slightly lateral from
+midclavicular line, [**2-14**] holosystolic murmur at apex. RR, normal
+S1, S2. No S4, no S3.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Assisted respirations were unlabored, no accessory muscle use.
+No crackles, wheeze, rhonchi.
+Abd: Obese, soft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Femoral 2+ without bruit; 2+ DP, 2+ PT
+[**Name (NI) 2325**]: Femoral 2+ without bruit; 2+ DP, 2+ PT
+MEDICAL DECISION MAKING
+.
+
+Pertinent Results:
+[**2132-1-7**] 03:24PM BLOOD WBC-6.4 RBC-4.76 Hgb-12.1* Hct-40.1
+MCV-84 MCH-25.4*# MCHC-30.2* RDW-16.2* Plt Ct-557*#
+[**2132-1-7**] 03:24PM BLOOD Plt Ct-557*#
+[**2132-1-7**] 03:24PM BLOOD UreaN-65* Creat-2.6* Na-136 K-5.9* Cl-99
+HCO3-22 AnGap-21*
+[**2132-1-7**] 03:24PM BLOOD UricAcd-14.1*
+[**2132-1-8**] 03:40AM BLOOD Calcium-8.5 Phos-6.1*# Mg-2.5
+[**2132-1-8**] 06:25AM BLOOD Type-ART Rates-16/ Tidal V-550 PEEP-5
+FiO2-100 pO2-488* pCO2-39 pH-7.28* calTCO2-19* Base XS--7
+AADO2-199 REQ O2-41 -ASSIST/CON Intubat-INTUBATED
+.
+.
+TTE ([**2132-1-8**]) - The left atrium is markedly dilated. The right
+atrium is moderately dilated. Left ventricular wall thicknesses
+are normal. The left ventricular cavity is severely dilated.
+There is severe global left ventricular hypokinesis (LVEF =
+15-20%). No masses or thrombi are seen in the left ventricle.
+Right ventricular chamber size and free wall motion are normal.
+The right ventricular cavity is mildly dilated with moderate
+global free wall hypokinesis. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic stenosis. Mild (1+) aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened and do not fully
+coapt. A slightly-eccentric, posteriorly directed jet of severe
+(4+) mitral regurgitation is seen. Quantitative evaluation of
+mitral regurgitation demonstrates an effective regurgitant area
+of 0.4 cm2 and a regurgitant volume of 47 ml/beat. There is
+moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+IMPRESSION: Severely dilated left ventricle with severe global
+systolic dysfunction. Severe secondary mitral regurgitation.
+Mild aortic regurgitation. Moderate pulmonary hypertension.
+Compared with the prior study (images reviewed) of [**2131-9-18**],
+the findings are similar (severity of MR may have beenslightly
+underestimated).
+.
+CT-Torso ([**2132-1-8**]) - IMPRESSION:
+1.  Non-contrast view of the aorta is unremarkable.  No evidence
+of
+mediastinal or retroperitoneal hematoma.
+2.  Marked cardiomegaly.
+3.  Nasogastric tube in high position with tip above the
+gastroesophageal
+junction and advancement suggested.
+4.  Simple cholelithiasis.
+5.  Left inguinal hernia contains small bowel without evidence
+of
+incarceration or obstruction.
+6.  Hepatic and renal cysts as well as hypodensities too small
+to
+characterize.
+7.  Intramuscular lipoma of the gluteus musculature on the left.
+.
+TTE ([**2132-1-18**]) - The left atrium is markedly dilated. No atrial
+septal defect is seen by 2D or color Doppler. Left ventricular
+wall thicknesses are normal. The left ventricular cavity is
+severely dilated. There is severe global left ventricular
+hypokinesis (LVEF = 20 %). There is no ventricular septal
+defect. The right ventricular cavity is dilated with depressed
+free wall contractility. The aortic valve leaflets (3) are
+mildly thickened but aortic stenosis is not present. Mild (1+)
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Severe (4+)
+mitral regurgitation is seen. The tricuspid valve leaflets are
+mildly thickened. Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension. There
+is no pericardial effusion.
+Compared with the findings of the prior study (images reviewed)
+of [**2132-1-8**], the findings are similar.
+.
+.
+
+
+Brief Hospital Course:
+71M with dilated cardiomyopathy with SOB admitted with
+cardiogenic shock and intubated for respiratory distress, s/p
+BIV-ICD placement
+.
+# Decompensated Systolic Heart failure: Initially, patient was
+admitted in decompensated failure with severe pulmonary edema.
+Patient required supportive therapy with milrinone and agressive
+diuresis. Patient was weaned off ventilator and with ongoing
+diuresis, able to maintain adequate oxygen saturation with
+supplemental oxygen. Milrinone was also weaned off and patient
+was able to tolerate re-initiation of cardiac medications.
+Because of significant MR/TR and known dismotility, patient
+underwent [**Hospital1 **]-ventricular ICD placement which he tolerated very
+well. Patient will continue to follow in device clinic and with
+Dr [**First Name (STitle) 437**], his primary cardiologist.
+Please see medications section for details of discharge regimen.
+.
+# CAD/Ischemia: No known coronary artery disease. Patient
+however was kept on aspirin on which he will be discharged.
+Patient

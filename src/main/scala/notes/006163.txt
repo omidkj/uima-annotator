@@ -1,0 +1,223 @@
+Admission Date:  [**2103-2-24**]              Discharge Date:   [**2103-3-5**]
+
+
+Service: MEDICINE
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 2698**]
+Chief Complaint:
+transfer from OSH for complete heart block
+
+Major Surgical or Invasive Procedure:
+Temporary pacer wire placement under fluoroscopy ([**2103-2-24**])
+.
+Permanent pacemaker placement ([**2103-2-27**])
+
+
+History of Present Illness:
+Patient is an 85 y/o F patient with PMHx of DM, CAD, HTN,
+hypothyroidism who presents from OSH with acute pulmonary edema
+in the setting of complete heart block.  Patient was transferred
+from NH to OSH 1 day PTA for symptoms of weakness and was found
+to be bradycardic 20s-40s.  EKG showed initially first degree
+heart block with occasional complete heart block (by report).
+Also at OSH patient was in acute renal failure and was given
+fluids overnight.  Patient was transferred to [**Hospital1 18**] for
+consideration of temp pacemaker.
+.
+When patient arrived to [**Hospital1 18**] her rhythm strip and 12 lead
+confirmed complete heart block with junctional escape rhythm in
+the 30-40s.  Patient was short of breath on arrival with O2Sat
+in the 80s.  She was given 40 IV lasix, started on nitro gtt and
+put on non-invasive ventilation.  Decision made to place temp.
+pacer wire.
+
+
+Past Medical History:
+DM2
+HTN
+CAD; ? silent MI in 20-50 years ago, was medically managed
+Hypothyroidism
+hyperlipidemia
+B/L CEA x 2
+RAS
+Dementia
+
+Social History:
+nursing home resident
+no tobacco use
+no etoh use
+
+Family History:
+no history of CAD or early/sudden cardiac death
+
+Physical Exam:
+T  97.9  HR 30  RR 22  O2Sat 84% -> 100% on Bipap
+Gen: Patient pale, gasping for air, able to talk
+HEENT: PERRL, EOMI, OP clear, MMM
+Neck: no carotid bruits
+CV: RRR S1/S2 grade III/VI SEM
+Pulm: diffuse crackles 1/2 up lungs
+Abd: soft NT NABS
+Extr: +1 edema b/l; + erythema at shin b/l
+Neuro: AAOx2
+
+
+Pertinent Results:
+[**2103-2-24**] 05:17PM BLOOD Glucose-127* UreaN-69* Creat-2.0*# Na-140
+K-4.6 Cl-102 HCO3-30 AnGap-13
+[**2103-2-24**] 05:17PM BLOOD WBC-10.8# RBC-3.81* Hgb-12.2 Hct-35.0*
+MCV-92 MCH-31.9 MCHC-34.7 RDW-14.2 Plt Ct-230
+[**2103-2-24**] 05:17PM BLOOD PT-11.3 PTT-25.7 INR(PT)-1.0
+[**2103-2-24**] 05:17PM BLOOD CK-MB-3 cTropnT-0.07*
+.
+ECG ([**2103-2-24**]): complete heart block with junctional escape
+rhythm @ 30; nl axis
+.
+TTE ([**2103-2-27**]):
+The left atrium is elongated. The right atrium is moderately
+dilated. There is mild symmetric left ventricular hypertrophy
+with normal cavity size. Left ventricular systolic function is
+hyperdynamic (EF>75%). There is a moderate (42mmHg peak) resting
+left ventricular outflow tract obstruction. Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets are moderately thickened. There is mild aortic valve
+stenosis (area 1.2-1.9cm2). Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. There is severe
+mitral annular calcification leading to mild functional mitral
+stenosis (area 1.7cm2). Mild (1+) mitral regurgitation is seen.
+The pulmonary artery systolic pressure could not be quantified.
+There is a very small inferolateral pericardial effusion.
+
+
+Brief Hospital Course:
+Ms. [**Known lastname **] was initially admitted to the CCU and found on
+admission to be severely hypertensive (SBP>200), hypoxic (O2Sat
+in mid-80%s on non-rebreather mask), and in complete heart block
+with a junctional rhythm.  Her BP was controlled with a
+nitroglycerin drip and she was given IV Lasix with good brisk
+diuresis.  She was also put on BiPAP while diuresing and was
+quickly weaned to 6L nasal cannula.  Due to her instability, EP
+place temporary pacer wires under fluoroscopy shortly after
+admission.  With the pacer wires in place, she remained stable
+over the course of the weekend and had a permanent pacemaker
+placed on [**2103-2-27**] and will follow up in device clinic one week
+later.
+.
+Also of note, she was found to be in acute-on-chronic renal
+failure upon admission, thought to be secondary to decreased
+renal perfusion in the setting of her complete heart block.  Her
+ACEi was intially held for this reason.  Once she was paced, her
+creatinine improved back to its baseline (1.3-1.5) and her ACEi
+was resumed and titrated up.
+.
+For the pacer placement, she was started intially on IV Ancef
+which was then switched to vancomycin post-procedure.  This was
+switched to Keflex and she completed a course of antibiotics
+through [**2103-3-4**].  On chest x-ray, she was also noted to have a
+possibility of a community acquired pneumonia and was started
+empirically on PO levofloxacin on [**2103-2-27**]; she will complete a
+10-day course of this (three more days).
+.
+She was evaluated by physical therapy who found her to be
+deconditioned and unsteady/unsafe on her feet; however she was
+not a candidate for acute rehab and will be discharged to
+skilled nursing facility with physical therapy.
+.
+She was found on physical examination to have a cardiac murmur
+which had not been documented on prior exams in our system.  She
+had a TTE which showed mild MR and AS as well as outflow
+obstruction from LV hypertrophy.  She will follow up in device
+clinic one week after pacer placement and will see Dr. [**Last Name (STitle) **]
+for further cardiology follow up next month.
+.
+Her blood pressure was noted to be high, she was controlled on
+the following medications: amlodipine, Toprol XL, Hydralazine,
+Lisinopril, Isosorbide Mononitrate, and Hydrochlorothiazide.
+
+Medications on Admission:
+Novolog sliding scale insulin
+aspirin 325mg daily
+Colace 100mg daily
+Senna 2 tabs daily
+Travatan gtt daily
+Acular 0.5% gtt OU [**Hospital1 **]
+Senna 2 tabs daily
+Tenex 3mg daily
+Imdur 60mg daily
+lisinopril 20mg daily
+MVI daily
+Norvasc 10mg daily
+Zoloft 25mg daily
+Toprol XL 100mg daily
+heparin sc tid
+Synthroid 100mcg daily
+atorvastatin 40mg daily
+
+
+Discharge Medications:
+1. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer
+Inhalation Q6H (every 6 hours) as needed for wheezing.
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+3. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day:
+hold for SBP<100.
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr
+Sig: Three (3) Tablet Sustained Release 24 hr PO DAILY (Daily).
+
+8. Sertraline 50 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+9. Novolog 100 unit/mL Cartridge Sig: [**1-9**] units Subcutaneous
+QACHS: per patient's outpatient sliding scale.
+10. Travoprost 0.004 % Drops Sig: 1-2 drops Ophthalmic daily ():
+to left eye.
+11. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+12. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO once a day
+for 3 days: to complete a ten day course (day 1 = [**2103-2-27**]).
+13. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection three times a day: inject SC tid.
+14. Lisinopril 40 mg Tablet Sig: Two (2) Tablet PO once a day.
+15. Hydralazine 50 mg Tablet Sig: One (1) Tablet PO three times
+a day.
+16. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+17. Toprol XL 100 mg Tablet Sustained Release 24 hr Sig: Three
+(3) Tablet Sustained Release 24 hr PO once a day.
+18. Aspirin EC 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 246**] Nursing Center - [**Location (un) 246**]
+
+Discharge Diagnosis:
+Primary diagnosis: complete heart block
+
+Secondary diagnoses: type 2 diabetes mellitus, hypertension,
+diastolic heart failure
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted to the hospital with a disturbance in the
+conduction system of your heart known as a "complete heart
+block".  For this, you had a pacemaker implanted and you will
+complete a 5 day course of prophylactic antibiotics (Keflex).
+
+You also were found to have a small pneumonia and will complete
+a ten day course of antibiotics (levofloxacin) for this.
+
+Please take all med

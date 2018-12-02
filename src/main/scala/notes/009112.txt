@@ -1,0 +1,220 @@
+Admission Date:  [**2163-12-24**]              Discharge Date:   [**2164-1-17**]
+
+Date of Birth:  [**2103-10-24**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+intubation and mechanical ventilation
+placement of arterial line
+placement of right subclavian central line
+
+History of Present Illness:
+A 60 year old gentleman with HIV (on HAART, CD4 323, VL 500s as
+of [**11-11**]) transferred from the [**Hospital1 3278**] ED with 4 days of cough,
+subjective fever and dyspnea found to be hypoxic and placed on a
+non-rebreather at the time of transfer.
+.
+In the ED, initial vs were: 97.5 83 109/60 16 95 NRB. Patient
+was given NS 1L, albuterol, Ceftriaxone and Azithro with Vanc
+ordered but not given.  He remained normotensive.
+.
+On the floor, the patient is awake but clearly working to breath
+and difficult to understand because of high flow oxygen.  He
+confirms the story above and reports that he is feeling better
+overall after interventions thus far.  He endorses dyspnea with
+cough but no chest pain, abdominal pain or changes in bowel
+habits.  He has not taken any medicines in the past 4 days
+including methadone and HAART.  He is currently without pain.
+.
+Of note, the patient reports variable abdominal distention and
+increased neck girth for the past few months.  He reports of a
+recent sleep study and a potential "belly test," but is unsure
+of the specifics.  Review of his recent records reveals an
+abdominal and chest CT which are reported below. There is no
+record of sleep study that I could obtain at this time.
+
+
+Past Medical History:
+HIV (viral load 558 copies/ml [**2163-11-30**], CD4 323)
+GERD
+Substance Abuse
+Hep B
+Cluster Headaches
+DM2
+
+Social History:
+History of 20-40 pack year history of smoking, alcohol abuse,
+cocaine abuse, all quit >2 years prior.  Lives alone but
+possibly with his sister.
+
+Family History:
+Non-contributory to current illness.
+
+Physical Exam:
+On admission:
+Vitals: T: 97.8 BP: 106/56 P: 83 R: 29 O2: 94%
+General: Obese, uncomfortable appearing, alert but difficult to
+understand [**3-7**] mass.
+HEENT: Mask in place, mm dry.
+Neck: Significantly obese, posterior fat pad as well.  Unable to
+appreciate JVP.
+Lungs: Decreased breath sounds at the bases, some scant wheezes.
+
+CV: S1 & S2 regular without murmur.
+Abdomen:  Distended with protruding umbilicus. Tender
+suprapubicly.
+GU: No foley, scrotal edema
+Ext: warm, well perfused, 2+ pulses, no edema
+
+On discharge:
+
+
+Pertinent Results:
+On admission:
+140  104  43
+-------------<89
+4.2  28  1.5
+estGFR: 48/58
+ALT: 36 AP: 83 Tbili: 0.8 Alb: 3.1 AST: 106 LDH: 328 Lip: 171
+
+.
+    10.6
+6.9>---<234
+    33.6
+N:74.3 L:18.8 M:6.6 E:0.1 Bas:0.3
+.
+PT: 14.5  PTT: 36.0  INR: 1.3
+.
+Lactate 1.2
+.
+ABG 103 55* 7.39 35*
+.
+CXR: IMPRESSION: New bibasilar consolidative opacities with
+peribronchial wall thickening, findings concerning for
+pneumonia.
+.
+CT Scan [**2163-10-26**]:
+IMPRESSION:
+1. Resolution of left lower lobe nodular opacities which may
+have been infectious or inflammatory.
+2. Widespread areas of ground-glass attenuation within the
+lungs, most pronounced in the left upper lobe and both lower
+lobes. This is a nonspecific finding but could reflect an
+opportunistic infection in this immune compromised patient.
+Differential diagnosis includes a noninfectious interstitial
+pneumonitis such as NSIP, but this entity is typically more
+symmetrical.
+3. Enlarged main pulmonary artery suggesting possible pulmonary
+arterial hypertension, which can be associated with HIV.
+4. Numerous lymph nodes throughout the chest and upper abdomen,
+which could be related to generalized lymphadenopathy from HIV,
+or could reflect a complication of HIV, such as lymphoma.
+5. Coronary artery calcifications.
+6. No evidence of acute intraabdominal process.
+.
+Abd US [**2163-10-25**]: 1. No biliary duct dilatation.
+2. No evidence of ascites.
+3. Main portal vein patent.
+.
+EKG: NSR at 85 with RBBB, consistent with [**2155**] EKG.
+.
+Micro: influenza A positive
+
+
+Brief Hospital Course:
+A 60 year old gentleman with HIV on HAART and new hypoxia, found
+to be influenza A positive with radiographic evidence of
+pneumonia, with respiratory failure ultimately requiring
+intubation and mechanical ventilation.
+.
+# Respiratory failure/ARDS/H1N1 Influenza:  The patient had
+respiratory failure from influenza A with what was believed to
+be bacterial superinfection. The patient was a difficult
+intubation and was also difficult to wean off of the ventilator.
+He had a CT which ruled out PE, and LENIs which ruled out DVT.
+He completed a 10 day course of Oseltamivir 150mg PO BID. He
+also completed 10/10 days of Vanc and Ceftriaxone, and was
+switched to Cefepime [**1-2**]; however, CT chest showed PNA still
+present, and due to recurrent fevers, the patient was restarted
+on Cefepime and Vancomycin.  The patient continued to have
+fevers with negative cultures until he was extubated
+successfully [**1-11**]. After that time, his fevers resolved and he
+completed his 8 day course of antibiotics without incident. At
+the time of discharge, he continued to have a 3L oxygen
+requirement.
+.
+# Pneumonia, Ventilator Associated:  The patient had influenza A
+complicated by bacterial superinfection. His influenza was
+treated as above.  As noted above, he had persistent fevers and
+infiltrates despite broad-spectrum antibiotics. He was thus
+started on cefepime and vancomycin.  Bcx, ucx, sputum, and BAL
+cultures have all been negative. The only positive cultures grew
+out yeast (sputum). Per ID, fevers were believed to be caused by
+persistent pneumonia and the patient was re-started on Cefepime
+and Vancomycin on [**1-8**] for an 8 day course. Mini-BAL and
+cultures were negative other than yeast in the sputum and BAL,
+and B-glucan and galactomannin were negative.
+.
+# Elevated INR/Coagulopathy:  Patient admitted with an elevated
+INR likely [**3-7**] nutrition deficit and decreased production of
+enteric flora given prolonged antibiotics course.  He was placed
+on po Vitamin K x3 days and an INR obtained on [**1-13**] was 1.2.
+.
+# Agitation/Altered Mental Status: A significant component of
+anxiety contributed to the patient's initial respiratory
+alkalosis and agitation.  He responded well to seroquel, with
+improvement in agitation.  While intubated, he was placed on a
+Fentanyl/Versed drip, which was subsequently weaned off. By the
+time he was extubated and transferred to the medicine floor, he
+was no longer agitated and did not require chemical or physical
+restraints.
+.
+# DM2, poorly controlled without complications: Blood sugars
+well controlled on ISS.
+.
+# HIV, chronic: Patient's HIV currently well controlled although
+not on HAART initially due to illness, re-started HAART regimen
+as an inpatient.
+.
+# Abdominal pain/Diarrhea: Although he was admitted with a
+complaint of abdominal pain, it resolved spontaneously and no
+acute process was shown on abdominal CT scan. Abdominal U/S
+showed no biliary duct obstruction and KUB had no evidence of
+obstruction.  C.diff negative.  Elevated Lipase was believed to
+be [**3-7**] HAART. He did have some diarrhea after extubation that
+was thought to be due to his antibiotics. Repeat C. difficile
+tests were negative and patient had no other signs or symptoms
+of infection.
+.
+# Acute Renal Failure: Initially elevated on admission, Cr
+normalized at time of discharge.
+ .
+# Anemia, chronic disease: Hct is lower than baseline but stable
+without recent evidence of bleeding.  His MCV is 80, concern for
+iron deficiency anemia.  Hemolysis unlikely w/ normal
+haptoglobin.  Iron studies consistent with chronic disease.
+.
+# Hyperlipidemia:  Patient's home Atorvastatin was held
+initially in the context of  elevated LFT's, but it was
+restarted after extubation without incident.
+
+Medications on Admission:
+Atorvastatin 10mg PO daily
+Darunavir [Prezista] 800mg PO Daily
+Emtricitabine-Tenofovir [Truvada] 200 mg-300 mg Tablet PO daily
+Ritonavir [Norvir] 100mg PO Daily
+Fluoxetine 40mg PO daily
+Methadone 10mg PO TID prn pain
+Omeprazole 20mg PO BID
+Aspirin 81mg PO daily
+
+Discharge Medications:
+1. Darunavir 400 mg Tablet Sig: Two (2) Tablet PO DAILY (

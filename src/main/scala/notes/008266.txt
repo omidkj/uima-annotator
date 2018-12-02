@@ -1,0 +1,215 @@
+Admission Date:  [**2108-1-16**]              Discharge Date:   [**2108-1-24**]
+
+Date of Birth:  [**2037-9-13**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Antihistamines
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+angina with back pressure
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization [**2108-1-17**]
+cabg x3 [**2108-1-19**]
+
+History of Present Illness:
+Pt is 70 yo m with h/o heavy EtOH abuse, anxiety, tobacco use,
+hypercholesterolemia, who awoke on [**1-13**] with 8/10 L sided chest
+pain and L mid scapular pain. He took Maalox, but the pain
+continued and was described as a dull ache. + diaphoresis, but
+no SOB. Had similar pain the past two night prior to admission
+to OSH. Pt was admitted to [**Hospital3 1280**], and had EKG which showed
+inferolateral STD. Pain improved with nitro. CK was normal, trop
+indeterminate. He was given ASA, lovenox, integrilin gtt, and
+nitro paste. Pt reportedly wanted to leave the hospital, and was
+then placed on CIWA scale. Echo at OSH showed EF 15% w/ inf
+akinesis, distal apex and distal anterior wall motion
+abnormalities.
+.
+Pt was then transferred to [**Hospital1 18**] for consideration of cardiac
+cath.
+.
+Pt currently has no complaints. He denies CP, back pain, SOB,
+N/V, F/C.
+
+
+Past Medical History:
+- hypercholesterolemia
+- EtOH abuse: sober for 17 yrs, restarted drinking [**2-25**] wks ago
+(but not heavily, 1-2 drinks every few days).
+- anxiety/depression
+
+
+Social History:
+Lives with wife and son. Smokes [**2-25**] cigs/day since age 17. H/o
+heavy ETOH abuse (has been to detox programs in past), now
+reports 1-2 drinks/day several days per week, sober for 17 years
+but restarted drinking [**2-25**] wks ago. Stopped working as delivery
+person 3 months ago.
+
+Family History:
+Father died at age 57 of heart disease.
+
+Physical Exam:
+Vitals: T 97.9 BP 90/57 HR 68 RR 18 O2sat 96% RA Wt 156lbs
+Gen: NAD, comfortable
+HEENT: PERRL. OP clear.
+Neck: Supple. JVD@5cm
+Cardio: RRR, nl S1S2, [**2-28**] sys murmur @ LLSB
+Resp: decreased air movement at bases BL, but otherwise CTAB
+Abd: soft, nt, nd, +BS. No rebound/guarding.
+Ext: no c/c/e. 2+ DP/PT pulses BL.
+Neuro: A&Ox3
+
+Discharge
+Vitals 98.2, SR 80, 158.58, 18 RA sat 92% wt 73.5kg
+Neuro Alert and oriented x3, non focal
+Pulm: CTA
+Cardiac RRR no murmur/rub/gallop
+Sternal inc healing, midline, sternum stable no
+erythema/drainage
+L Leg EVH CDI with steris
+Ext warm palpable pulses trace edema
+
+
+Pertinent Results:
+[**2108-1-24**] 06:45AM BLOOD WBC-9.0 RBC-3.50* Hgb-10.5* Hct-31.9*
+MCV-91 MCH-30.1 MCHC-33.0 RDW-13.9 Plt Ct-300
+[**2108-1-16**] 07:30PM BLOOD WBC-7.8 RBC-4.04* Hgb-12.7* Hct-36.2*
+MCV-90 MCH-31.4 MCHC-35.0 RDW-14.2 Plt Ct-239
+[**2108-1-16**] 07:30PM BLOOD Neuts-71.6* Lymphs-20.8 Monos-4.4 Eos-2.7
+Baso-0.5
+[**2108-1-24**] 06:45AM BLOOD Plt Ct-300
+[**2108-1-24**] 06:45AM BLOOD PT-13.3* PTT-27.0 INR(PT)-1.2*
+[**2108-1-16**] 07:30PM BLOOD PT-12.5 PTT-27.6 INR(PT)-1.1
+[**2108-1-19**] 11:27AM BLOOD Fibrino-276
+[**2108-1-24**] 06:45AM BLOOD Glucose-79 UreaN-13 Creat-0.9 Na-137
+K-4.3 Cl-101 HCO3-24 AnGap-16
+[**2108-1-16**] 07:30PM BLOOD Glucose-98 UreaN-23* Creat-1.0 Na-139
+K-4.3 Cl-106 HCO3-25 AnGap-12
+[**2108-1-17**] 08:55AM BLOOD ALT-28 AST-18 AlkPhos-60 TotBili-0.4
+[**2108-1-22**] 03:27PM BLOOD Calcium-8.6 Phos-3.2 Mg-2.1
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 71335**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 71336**]
+(Complete) Done [**2108-1-19**] at 9:33:23 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2037-9-13**]
+Age (years): 70 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Dilated cardiomyopathy. Left ventricular function.
+Myocardial infarction. Evaluate aortic atherosclerosis
+ICD-9 Codes: 402.90, 440.0
+Test Information
+Date/Time: [**2108-1-19**] at 09:33    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2006AW4-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.4 cm  <= 4.0 cm
+Right Atrium - Four Chamber Length:  4.4 cm  <= 5.0 cm
+Left Ventricle - Diastolic Dimension:  *6.6 cm  <= 5.6 cm
+Left Ventricle - Peak Resting LVOT gradient:  10 mm Hg  <= 10 mm
+Hg
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Ascending:  2.7 cm  <= 3.4 cm
+Aorta - Arch:  2.6 cm  <= 3.0 cm
+Aortic Valve - Peak Gradient:  3 mm Hg  < 20 mm Hg
+Aortic Valve - Valve Area:  *2.0 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  0.7 m/sec
+Mitral Valve - Mean Gradient:  1 mm Hg
+Mitral Valve - E Wave:  0.7 m/sec
+Mitral Valve - A Wave:  0.5 m/sec
+Mitral Valve - E/A ratio:  1.40
+
+Findings
+LEFT ATRIUM: Mild LA enlargement. No spontaneous echo contrast
+is seen in the LAA. Good (>20 cm/s) LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+Prominent Eustachian valve (normal variant).
+
+LEFT VENTRICLE: Moderate symmetric LVH. Inferobasal LV aneurysm.
+Moderate global LV hypokinesis. Moderately depressed LVEF.
+
+RIGHT VENTRICLE: Borderline normal RV systolic function.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Simple atheroma in ascending aorta.
+Normal aortic arch diameter. Simple atheroma in aortic arch.
+Normal descending aorta diameter. There are complex (>4mm)
+atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MS.
+Mild (1+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications. The patient was under
+general anesthesia throughout the procedure.
+Conclusions
+PRE BYPASS:
+1. The left atrium is mildly dilated. No spontaneous echo
+contrast is seen in the left atrial appendage.
+2. No atrial septal defect is seen by 2D or color Doppler.
+3. There is moderate symmetric left ventricular hypertrophy.
+There is an inferobasal left ventricular aneurysm. There is
+severe global left ventricular hypokinesis with minor regional
+variation (akinetic anterolateral and anterior walls, dyskinetic
+inferior base) . Overall left ventricular systolic function is
+severly depressed. (LVEF >20%)
+4.Right ventricular systolic function is borderline normal.
+5.There are simple atheroma in the ascending aorta. Epiaortic
+scan revealed no appreciable lesions at the point of crossclamp
+or aortic cannulation. There is simple atheroma in the aortic
+arch and complex (>4mm) atheroma in the descending thoracic
+aorta.
+6. The aortic valve leaflets (3) are mildly thickened. There is
+no aortic valve stenosis. No aortic regurgitation is seen.
+7. The mitral valve leaflets are mildly thickened. The posterior
+leaflet is restricted in motion. Trivial regurgitation of mitral
+valve. There is a trivial/physiologic pericardial effusion.
+
+POST BYPASS
+(The patient is receiving epinephrine infusion at 0.02
+ucg/kg/min)
+1.LV systolic function is marginally improved (but still severly
+impaired) in the setting of low dose inotropes.
+2.RV systolic function remains unchanged
+3. Trace MR remains
+4. Study otherwise unchanged from prebypass
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Interpretation assigned to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician
+
+
+?????? [**2104**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+70 yo m with h/o EtOH abuse, who presented to OSH with CP and
+EKG changes. Cath shows 3VD with LM involveme

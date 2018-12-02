@@ -1,0 +1,204 @@
+Admission Date:  [**2119-7-10**]              Discharge Date:   [**2119-7-20**]
+
+Date of Birth:  [**2050-6-9**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Iodine; Iodine Containing / Levaquin
+
+Attending:[**Last Name (NamePattern1) 4377**]
+Chief Complaint:
+Left sided clumsiness and weakness.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+Time Code Stroke called: 12:43pm (24h clock)
+Time Neurology at bedside for evaluation: 12:49 pm (24h clock)
+Time (and date) the patient was last known well: 12:30 pm
+NIH Stroke Scale Score: 8
+t-[**MD Number(3) 6360**]:  NO, chronic thrombocytopenia given lymphoma with
+platelets of 60 today
+
+Reason for Consult: Called by Emergency Department to evaluate
+CODE STROKE
+
+Please see stroke fellow note for full details.
+
+HPI: In brief, this is a 69 year old female with recurrent B
+cell
+lymphoma (on [**Hospital1 **] chemotherapy since [**2119-5-22**]), atrial
+fibrillation (on rate control), history of c diff, hx of DVT,
+HTN
+who presented to the ED with sudden onset of confusion
+associated
+with left facial droop and left arm weakness.
+
+Per husband they were driving to an oncology appointment and
+suddenly she didn't look right and she couldn't tell where a cup
+was in space to take a drink. She couldn't stand up out of the
+car to get her into the ED. In the ED, attending noted left face
+and arm weakness and called a code stroke within 15 minutes of
+symptom onset. NIHSS 8 as below for left arm weakness, limb
+ataxia, and facial droop.
+
+In the ED, VS 122/82-144/73. Initially taken to head CT that did
+not show early evidence of stroke. Patient repeatedly asking for
+Dr.[**Name (NI) 14047**] opinion, in addition to motor symptoms she had
+decreased sensation over her right arm and was noted to develop
+right gaze preference on repeated exams. She had urgent MRI/MRA
+head and neck because of a contrast allergy. Labs revealed
+platelets of 60 and tPA contraindicated. Case was discussed in
+the ED with [**Name (NI) **]. [**First Name (STitle) **], [**Name5 (PTitle) **], and [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] and
+intervention deferred. Following the MRI which showed right
+thalamic stroke, heparin started and placed in IVF with goal BP
+~160. She was admitted to the ICU for further management.
+
+NIH Stroke Scale score was 8
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0
+2. Best gaze: 0
+3. Visual fields: 0
+4. Facial palsy: 1
+5a. Motor arm, left: 2
+5b. Motor arm, right: 0
+6a. Motor leg, left: 0
+6b. Motor leg, right: 0
+7. Limb Ataxia: 1
+8. Sensory: 2
+9. Language: 0
+10. Dysarthria: 0
+11. Extinction and Neglect: 2
+
+On ROS, completed a course of chemotherapy last week. + right
+atrial thrombus on echo. Took neupogen shot today.
+
+Past Medical History:
+ONCOLOGIC HISTORY:
+1. Diagnosed in [**12/2116**] and received six cycles of R-[**Hospital1 **] with
+her last cycle on [**2117-4-19**].
+.
+2. MVA in [**7-/2117**] with extensive injuries including C2 fracture.
+Following recovery, she received one cycle of maintenance
+rituximab in 12/[**2116**].
+.
+3. Follow up PET scan in [**12/2117**] showed worsening adenopathy
+with biopsy consistent with her known lymphoma. She received two
+cycles of ICE chemotherapy on [**2118-2-22**] and [**2118-3-23**] with
+resolution of her FDG-avid adenopathy.
+.
+4. Received high-dose Cytoxan for stem cell mobilization and
+collections on [**2118-4-22**] followed by an autologous stem cell
+transplant on the BEAM regimen starting on [**2118-5-19**]. D 0 was
+on [**2118-5-26**].
+.
+5. Her chemotherapy and posttransplant course were complicated
+byproctitis and rectal pain which resolved with recovery of her
+counts. She also was noted for lymphocytosis of unclear etiology
+felt possibly related to an autoimmune process. She also
+developed a drop in her DLCO with concern for pneumonitis. She
+was initiated on a prednisone taper with improvement in her
+pneumonitis. At the end of [**2118-7-19**], she was noted for
+hemolysis with a slight drop in her hematocrit and hemoglobin.
+This was fully evaluated and felt related to increasing lipids
+with increasing triglycerides seen in the setting of a higher
+glucose with her steroid use.
+.
+6. Restaging CT scan on [**2118-11-1**] showed a new single 21.7 mm
+focus of prevascular adenopathy. She underwent CT guided LN
+biopsy on [**2118-11-23**] which unfortunately showed recurrence of her
+B-cell lymphoma with aggressive features. There was also a small
+component of a possible T cell lymphoma noted on one of the
+cores. Follow up PET/CT scan on [**2118-12-7**] showed further
+progression of her disease with new markedly FDG avid anterior
+mediastinal nodal mass compared to previous PET-CT. New
+mediastinal (including anterior, precarinal and subcarinal),
+right hilar, retrocrural, retroperitoneal and right iliac FDG
+avid lymphadenopathy.
+.
+7. Elected to proceed forward on Protocol #08-064 with treatment
+with Pralatrexate and Gemzar. She required periodic admissions
+during the course of her treatment. Following 2 cycles of
+therapy, repeat PET scan on [**2119-1-30**] showed a 44.6% decrease in
+lymph nodes which is considered stable disease. She received 3
+and [**11-19**] cycles of therapy with noted disease progression on CT
+scan and PET scan.
+.
+8. [**2119-4-5**]--Admitted for 1st cycle of ESHAP.
+.
+9. Admitted on [**2119-4-16**] for fever/neutropenia with cough and
+probable pneumonia. Treated with Cefpodoxime. Readmitted on
+[**2119-4-24**] with cough, weakness, electrolyte abnormalities and
+noted C. diff infection, now on oral vancomycin.
+.
+10. Follow up CT scan showed a mixed response, with interval
+decrease of mediastinal lymphadenopathy but increased of
+retroperitoneal lymphadenopathy. It was not clear whether this
+was related to her recent infections or progression of lymphoma
+particularly as her LDH had increased again. Decision was made
+to proceed with treatment with Gemzar/Oxaliplatin which was
+initiated on [**2119-5-2**].
+.
+11. Mrs. [**Known lastname 103705**] underwent a repeat CT torso on [**2119-5-17**], which
+demonstrated further progression of her disease, with enlarged
+retroperitoneal lymph nodes.  Her counts remained low and she
+underwent bone marrow aspirate and biopsy on [**2119-5-18**] which
+showed no evidence for lymphoma.  The decision was made to
+proceed with a course of [**Hospital1 **] which was initiated on [**2119-5-22**].
+.
+.
+PAST MEDICAL HISTORY:
+1. Recurrent NHL.
+2. Atrial fibrillation, on Diltiazem, Metoprolol with rate
+control. Was on Coumadin which has been on hold with recent
+treatment. Digoxin discontinued since early [**1-/2119**] due to
+increased dig level and bradycardia.
+3. CHF, most recent EF >55% on [**2119-1-26**].
+4. History of DVT in left leg [**8-/2116**], treated with Lovenox
+5. Hypertension
+6. Vasculitis, treated with Imuran for one year.
+7. Asthma
+8. Palindromic Rheumatism
+9. Pancreatitis [**12-20**] Imuran
+10. GERD
+11. MVA, [**7-/2117**] with bilateral C2 vertebral foramen
+fracture/C2 body fracture, manubrium fracture, right rib
+fractures of ribs six through eight, left distal radial/ulnar
+styloid fracture.
+12. Prior torn rotator cuff (left) tendon tear (right) arm.
+13. Recurrent proctitis
+14. Corynebacterium in joint fluid in [**2-/2118**] tx'd w/ Vancomycin.
+15. Increased triglycerides/hypercholesterolemia, now on Tricor
+16. C. difficile infection
+
+
+Social History:
+Mrs. [**Known lastname 103705**] is married with two children. Her
+husband continues to be a tremendous support. She is retired.
+She used to work as a teacher, librarian, and account manager.
+Quit smoking 41 years ago with 10 pack year history. Denies
+alcohol use and illicit drugs.
+
+
+Family History:
+Mother - no cancer. Maternal aunt - BR CA in
+40's. Father - cerebellar hemorrhage; leg amputation due to
+"poor
+circulation."
+
+
+Physical Exam:
+Vital sign: BP: 134/76 RR: 16 HR: 72 100% on 2 Liters
+
+GENERAL: Pleasant, fatigued appearing
+HEENT: Sclera anicteric, oropharynx dry without lesions or
+thrush. JVP wnl
+LN: No cervical, SC LAD
+LUNGS: decreased BS at bases b/l
+HEART: Irregularly irregular rhythm without murmurs, rubs, or
+gallops
+ABDOMEN: Soft, nondistended, normal bowel sounds, diffuse TTP
+througho

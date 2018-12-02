@@ -1,0 +1,160 @@
+Admission Date:  [**2145-12-8**]              Discharge Date:   [**2145-12-17**]
+
+Date of Birth:  [**2071-2-2**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**11-30**] CABGx3 (LIMA to LAD, SVG to OM, PLVC)
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 74 year old gentleman who recently presented to
+the emergency department via EMS for chest pain, nausea, and
+shortness of breath.  Therefore, he was urgently catheterized
+and found to have severe 3 vessel disease.  He aslo ruled in for
+an ST elevation MI.
+
+Past Medical History:
+DM2
+HTN
+vocal Cord CA diagnosed [**2140**]- SCC- s/p surgery
+hyperchol
+GERD
+colonic polyps in [**2140**]
+
+Social History:
+Lives in [**Location 2312**] w/ wife. [**Name (NI) 3003**] tobacco -100 pack-years. No
+ETOH. Retired [**Last Name (un) **] in [**Country 532**].
+
+
+Family History:
+Denies CAD or lung CA
+
+Physical Exam:
+On discharge Mr. [**Known lastname **] was found to be awake, alert, and
+oriented times three. His lungs were clear to auscultation
+bilaterally.  His heart was of irregular rhythm.  His sternum
+was stable and his skin was clean, dry, and intact.  His abdomen
+was soft, non-tender, and non-distended with positive bowel
+sounds.  He was found to have trace lower extremity edema
+bilaterally.
+
+Pertinent Results:
+[**2145-12-17**] 04:30AM BLOOD WBC-7.9 RBC-3.36* Hgb-10.6* Hct-31.0*
+MCV-92 MCH-31.5 MCHC-34.1 RDW-14.0 Plt Ct-385
+[**2145-12-17**] 04:30AM BLOOD PT-27.1* INR(PT)-2.7*
+[**2145-12-17**] 04:30AM BLOOD Glucose-112* UreaN-18 Creat-1.0 Na-138
+K-4.1 Cl-102 HCO3-31 AnGap-9
+[**2145-12-15**] 12:53AM BLOOD ALT-21 AST-19 LD(LDH)-302* AlkPhos-60
+Amylase-99 TotBili-0.7
+
+Brief Hospital Course:
+Upon cardiac catheterization on [**2145-12-8**], Mr. [**Known lastname **] was found
+to have an LMCA 20% diffuse, proximal LAD long 80%, diffuse 40%
+LCx proximal, 50% OM1, and RCA mid 40% and 90% distal.  After
+allowing for a plavix washout, Mr. [**Known lastname **] was taken to the OR
+and underwent a coronary artery bypass graft times three (LIMA
+to LAD, SVG to OM1, SVG to PLB).  He tolerated the procedure
+well and was able to be transferred in critical but stable
+condition to the surgical intensive care unit.  He was given
+Vancomycin perioperatively for 48 hours because of his
+pre-operative inpatient status. In the unit he was found to be
+in atrial fibrillation for which he was started on amiodarone.
+His chest tubes and wires were removed.  He was started on
+coumadin for his atrial fibrillation and quickly became
+supertherapeutic.  His INR was allowed to drift down and he was
+restarted on low dose coumadin.  He experienced some confusion
+which improved with Haldol.  By post operative day 6 he was
+transferred to the floor.  He was seen in consultation by the
+physical therapy service.  He was ready for discharge to rehab
+on post-operative day 7.
+
+Medications on Admission:
+glyburide 5 [**Hospital1 **]
+meclizine 25 [**Hospital1 **]
+protonix 40 [**Hospital1 **]
+actos 45
+flomax 0.4
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO twice a day.
+7. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+9. Meclizine 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+10. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+11. Coumadin 2 mg Tablet Sig: One (1) Tablet PO once a day: take
+one tablet (2mg) daily or as directed to obtain a goal INR of
+[**12-18**].5 for atrial fibrillation.
+Disp:*30 Tablet(s)* Refills:*0*
+12. Pioglitazone 45 mg Tablet Sig: One (1) Tablet PO once a day.
+
+13. Glyburide 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 582**] of [**Location (un) 583**]
+
+Discharge Diagnosis:
+Coronary artery disease
+Diabetes
+Head and neck cancer
+BPH
+GERD
+Colon adenomas
+PVD
+s/p cholectomy
+s/p recent hemorrhoidectomy
+s/p left hemilaryngectomy
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+Do not drive for 4 weeks.
+Do not lift more than 10 lbs. for 2 months.
+Shower daily, let water flow over wounds, pat dry with a towel.
+Do not use creams, lotions, or powders on wounds.
+Call our office for temp>101.5, sternal drainage.
+
+Followup Instructions:
+Please see Dr. [**Last Name (NamePattern1) 54090**]in [**11-17**] weeks. ([**Telephone/Fax (1) 1921**].
+Please see your cardiologist in [**11-17**] weeks.
+Please see Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 914**] in [**2-20**] weeks. ([**Telephone/Fax (1) 11763**].
+
+
+
+Completed by:[**2145-12-17**]

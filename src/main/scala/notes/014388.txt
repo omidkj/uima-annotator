@@ -1,0 +1,225 @@
+Admission Date:  [**2104-7-24**]              Discharge Date:   [**2104-8-5**]
+
+Date of Birth:  [**2037-8-7**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Clindamycin Hcl / Penicillin V Potassium / Ethionamide /
+Isoniazid / Lisinopril / Metformin Hcl / Niaspan / Pyrazinamide
+
+Attending:[**First Name3 (LF) 1406**]
+Chief Complaint:
+angina/DOE
+
+Major Surgical or Invasive Procedure:
+[**2104-7-24**]  CABG x4 (LIMA to LAD, SVG to DIAG, SVG to PDA seq. to
+PLV)/sternal Talon closure/tracheal stent
+
+
+History of Present Illness:
+66 year old female
+with multiple co-morbidities and severe multivessel coronary
+artery disease, who was recently found to have
+tracheobronchomalacia and excessive dynamic airway collapse.
+Prior to surgical revascularization, she will undergo central
+airway stabilization. She currently complains of exertional
+chest
+pain and dyspnea on exertion. She admits to [**2-6**] pillow orthopnea
+and worsening fatigue. Her routine ADLs are moderately to
+severely limited by the above symptoms. Of note, she has had
+multiple hospitalizations for "asthma", receiving repeat courses
+of antibiotics and steroids. She is currently taking neither.
+Referred for surgical evaluation.
+
+
+Past Medical History:
+-Coronary Artery Disease
+-Tracheobronchomalacia
+-Possible Asthma, Restrictive Lung Disease
+-Obstructive sleep apnea, on nocturnal CPAP
+-Hypertension
+-Hyperlipidemia
+-Diabetes Mellitus, Insulin Dependent
+-Morbid Obesity
+-History of GI Bleed, Duodenal Ulcer [**2092**]
+-Hiatal Hernia, GERD
+-Cervical/Lumbar Disc Disease
+-Arthritis
+-Fibromyalgia
+-History of Kidney Stones
+-TMJ
+Past Surgical History:
+-Polypectomy
+-Esophogeal Dilation
+-Hemorrhoidectomy
+
+
+Social History:
+Lives with: Originally from [**First Name9 (NamePattern2) 8880**] [**Country **]. Now lives in [**Hospital1 1559**]
+Tobacco: remote recreational smoker
+ETOH: denies
+
+
+Family History:
+Father died of MI at age 59. Sister [**Name (NI) 85198**] CABG
+in her 50's.
+
+
+Physical Exam:
+Pulse: 96 Resp: 22  O2 sat: 98% room air
+BP  Right: 142/77   Left: 154/81
+Height:  59.8 inches    Weight: 220 lbs
+
+General: Obese female in no acute distress, ambulates with cane
+Skin: Dry [x] intact [x]
+HEENT: NCAT [x] PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x] - no JVD
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur - none
+Abdomen: very obese, otherwise Soft [x] non-distended [x]
+non-tender [x]  bowel sounds + [x]
+Extremities: Warm [x], well-perfused [x]  Edema - none
+Varicosities: None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 1  Left: 1
+DP           Right: NP  Left: NP
+PT           [**Name (NI) 167**]: NP  Left: NP
+Radial       Right: 1  Left: 1
+
+Carotid Bruit: None(patient had difficult time holding breath)
+
+
+Pertinent Results:
+[**2104-8-5**] 05:00AM BLOOD WBC-20.1* RBC-3.92* Hgb-10.5* Hct-33.6*
+MCV-86 MCH-26.9* MCHC-31.4 RDW-19.4* Plt Ct-645*
+[**2104-7-24**] 01:50PM BLOOD WBC-27.9*# RBC-4.30 Hgb-11.6* Hct-34.5*
+MCV-80* MCH-27.0 MCHC-33.6 RDW-15.9* Plt Ct-191
+[**2104-7-28**] 02:30AM BLOOD PT-13.6* PTT-27.4 INR(PT)-1.2*
+[**2104-7-24**] 01:50PM BLOOD PT-14.1* PTT-31.3 INR(PT)-1.2*
+[**2104-8-5**] 05:00AM BLOOD Glucose-69* UreaN-15 Creat-1.0 Na-137
+K-4.2 Cl-98 HCO3-27 AnGap-16
+[**2104-7-24**] 02:44PM BLOOD UreaN-10 Creat-0.7 Na-141 K-3.0* Cl-106
+HCO3-26 AnGap-12
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 85199**] (Complete)
+Done [**2104-7-24**] at 10:14:33 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 18**] - Department of Cardiac S
+[**Last Name (NamePattern1) 439**], 2A
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2037-8-7**]
+Age (years): 66 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Chest pain. Coronary artery disease. Hypertension.
+Shortness of breath.
+ICD-9 Codes: 402.90, 786.05, 786.51
+Test Information
+Date/Time: [**2104-7-24**] at 10:14    Interpret MD: [**First Name8 (NamePattern2) 6506**] [**Name8 (MD) 6507**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6507**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW2-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Aorta - Annulus:  1.8 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.5 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.2 cm  <= 3.0 cm
+Aorta - Ascending:  2.9 cm  <= 3.4 cm
+Aorta - Arch:  2.1 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.0 cm  <= 2.5 cm
+Aortic Valve - LVOT diam:  1.4 cm
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Overall normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal diameter of aorta at the sinus, ascending and arch
+levels. Normal descending aorta diameter. Complex (>4mm)
+atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). Mild (1+) AR.
+
+MITRAL VALVE: Mild (1+) MR.
+
+TRICUSPID VALVE: Mild to moderate [[**1-5**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. The patient appears to be in sinus rhythm. The
+patient is in a ventricularly paced rhythm. The patient has runs
+of a supraventricular tachycardia. Frequent atrial premature
+beats. Frequent ventricular premature beats.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+IMPRESSIONS:
+The left atrium is mildly dilated.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+The diameters of aorta at the sinus, ascending and arch levels
+are normal. There are complex (>4mm) atheroma in the descending
+thoracic aorta.
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion. Mild (1+) aortic regurgitation is seen.
+Mild-moderate ([**1-5**]+) mitral regurgitation is seen.
+
+POST-BYPASS:
+Pt is on a low dose phenylephrine infusion (<0.3 mcg/kg/min) and
+is normal sinus rhythm (not being paced).
+Preserved biventricular systolic function without wall motion
+abnormalities.
+Mild aortic regurgitation and mild-moderate mitral regurgation
+persist.
+Normal aortic contours.
+
+The surgeon, Dr. [**Last Name (STitle) **], was notified of the findings in person.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Interpretation assigned to [**First Name8 (NamePattern2) 6506**] [**Name8 (MD) 6507**], MD, Interpreting
+physician
+
+
+?????? [**2097**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+Admitted [**7-24**] and underwent tracheal stenting with Dr. [**Last Name (STitle) **] and
+CABG with Dr. [**Last Name (STitle) **]. Please refer to Dr[**Doctor Last Name **] operative report for
+further details. Transferred to the CVICU in stable condition on
+titrated phenylephrine and propofol drips. Bedside bronchoscopy
+done [**7-25**]. Chest tubes removed on [**7-26**]. Extubated on POD #4.
+Developed rapid atrial fibrillation and was started on
+amiodarone and lopressor titrated.  Continued to improve and was
+transferred to the floor on POD #10. Physical therapy was
+consulted for strength and mobility evaluation. She had
+persistent fevers and leukocytosis.  Urine culture revealed
+100,000/mL colonies of enterococcus, and sputum grew coag+
+staph.  She was placed on vancomycin and bactrim. Per Dr.[**Last Name (STitle) **],
+upon discharge to rehab, antibiotics are to be changed to oral
+Levoquin x 2 week course 

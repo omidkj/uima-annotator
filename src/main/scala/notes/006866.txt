@@ -1,0 +1,211 @@
+Admission Date:  [**2140-10-1**]              Discharge Date:   [**2140-10-9**]
+
+Date of Birth:  [**2084-5-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Percocet
+
+Attending:[**First Name3 (LF) 2160**]
+Chief Complaint:
+Transferred from OSH for worsening PNA
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Pt is 56 yo m with progressive multiple sclerosis, neurogenic
+bladder with h/o multiple UTI's, h/o upper GIB, who was admitted
+to [**Hospital3 934**] Hospital on [**2140-9-28**] with lethargy and
+generalized weakness noted by VNA. He had been previously
+admitted to [**Location (un) **] in [**Month (only) 359**] and d/c'd on [**9-8**] (diagnosis not
+listed in d/c summary, although pt's wife reports 5 admissions
+in the past 2 months for "sepsis" or "GI bleeding"). On the most
+recent admission, he was noted to have a dirty UA and was
+treated for UTI. He was initially treated with levoflox. Pt then
+had a CXR which showed RLL PNA, with subsequent CXR showing
+worsening R sided PNA, so he was changed to azithro and CTX.
+Subsequent CXR's showed bibasilar pulm process. ID was
+consulted, and Abx were changed to amp/gent, and then back to
+levoflox. Pt intermittently required 100%NRB, but then was
+weaned down to 50% ventimask. Pt currently has no complaints,
+except being "thirsty". Currently denies N/V, F/C, diarrhea,
+hematemesis, melena, hematochezia (although pt had black stools
+in the past prior to GIB diagnosis). Pt was transferred to the
+[**Hospital1 18**] [**Hospital Unit Name 153**] for further management of his PNA.
+
+Past Medical History:
+progressive multiple sclerosis (followed by Dr. [**Last Name (STitle) 25923**] [**Name (STitle) 25924**])
+neurogenic bladder (s/p suprapubic tube placement)
+h/o multiple UTI's
+h/o upper GIB (ulcerative esophagitis and gastritis [**12-24**] NSAIDS)
+
+GERD
+HTN
+CHF (unknown EF)
+h/o "sepsis"
+L eye blindness
+
+
+Social History:
+Retired college professor. Disabled, has personal care
+assistant. Married with 3 children. No smoking. No EtOH.
+
+Family History:
+Father had CAD and CVA. Mother has [**Name (NI) 2481**] disease. Brother
+has diabetes.
+
+Physical Exam:
+Vitals: T 97.6 BP 167/90 HR 106 RR 18 O2 93% on 50% FM
+Gen: NAD, lying on in bed on his side
+HEENT: PERRL. EOMI.
+Neck: Supple
+Cardio: tachycardic, no m/r/g
+Resp: scattered exp wheeze BL
+Abd: soft, nt, nd, +BS. No rebound/guarding. Suprapubic cath and
+baclofen pump in place.
+Ext: extreme spacicity, no c/c/e
+Neuro: Pt does not move LE. 3/5 strength UE BL (only with
+repeated prompting).
+
+
+Pertinent Results:
+CXR (prelim): R sided peri-hilar fullness and RLL infiltrate, L
+sided infiltrate
+.
+CXR ([**9-28**], OSH): New bihilar infiltrates and more patchy
+densities in the periphery of both lungs may represent
+asymmetric pulm edema vs bilateral alveolar infiltrates.
+.
+CXR ([**10-1**], OSH): Again seen is the L sided air space process.
+Much of the increased density has shifted from the lower to the
+upper lung field. This may represent fluid in the pleural
+fissures rather than a parenchymal process. Hoever, PNA cannot
+be excluded. The pulmonary vascularity is congested as before,
+indicating CHF. The cardiac silhouette is ill-defined, though
+likely at least mildly enlarged. Grossly, no left-sided pleural
+abnormality is seen.
+.
+EKG: sinus tach @ 100, nl axis, nl intervals, biphasic PW in
+V1-V2, <1mm STD in V5
+.
+LABS: see below for additional labs
+.
+OSH data:
+[**10-1**] sputum GS: many epis, few WBC's, few GPC, few GNR, few
+GPR, oropharyngeal contamination, cx pending
+[**9-28**] urine cx: Proteus (pan-sensitive), Pseudomonas (Cipro
+resistant), and Enterobacter (resistant to amp/cefazolin,
+otherwise sensitive)
+[**9-28**] blood cx: NGTD
+BNP: 13
+ABG: 7.41/46/52 on 50% FM
+
+[**2140-10-9**] 05:50AM BLOOD WBC-7.5 RBC-3.84* Hgb-10.7* Hct-30.6*
+MCV-80* MCH-27.8 MCHC-34.9 RDW-16.2* Plt Ct-359
+[**2140-10-1**] 11:50PM BLOOD WBC-10.8 RBC-4.08* Hgb-10.9* Hct-33.2*
+MCV-81* MCH-26.8* MCHC-32.9 RDW-15.6* Plt Ct-255
+[**2140-10-9**] 05:50AM BLOOD Neuts-50.2 Lymphs-39.2 Monos-5.1 Eos-5.0*
+Baso-0.5
+[**2140-10-1**] 11:50PM BLOOD Neuts-76.4* Lymphs-18.1 Monos-4.9 Eos-0.5
+Baso-0.1
+[**2140-10-1**] 11:50PM BLOOD PT-12.2 PTT-31.9 INR(PT)-1.0
+[**2140-10-9**] 05:50AM BLOOD Glucose-84 UreaN-18 Creat-0.8 Na-137
+K-4.3 Cl-99 HCO3-29 AnGap-13
+[**2140-10-1**] 11:50PM BLOOD Glucose-100 UreaN-15 Creat-0.7 Na-138
+K-4.3 Cl-99 HCO3-29 AnGap-14
+[**2140-10-8**] 05:38AM BLOOD Calcium-9.9 Phos-3.9 Mg-2.1
+[**2140-10-6**] 05:55AM BLOOD Calcium-9.7 Phos-3.6 Mg-2.3 Iron-64
+[**2140-10-6**] 05:55AM BLOOD calTIBC-303 Ferritn-74 TRF-233
+[**2140-10-3**] 11:26PM BLOOD Type-ART Temp-36.5 Rates-/14 FiO2-100
+pO2-302* pCO2-50* pH-7.47* calTCO2-37* Base XS-11 AADO2-363 REQ
+O2-65 Intubat-NOT INTUBA Vent-SPONTANEOU Comment-SIMPLE FAC
+[**2140-10-3**] 08:35PM BLOOD Type-ART Temp-36.5 FiO2-100 pO2-190*
+pCO2-49* pH-7.45 calTCO2-35* Base XS-9 AADO2-479 REQ O2-81
+Intubat-NOT INTUBA
+[**2140-10-8**] 05:58PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.020
+[**2140-10-8**] 05:58PM URINE Blood-MOD Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+[**2140-10-1**] 11:30PM URINE RBC-11* WBC-0 Bacteri-FEW Yeast-NONE
+Epi-<1
+[**2140-10-1**] 11:30PM URINE Blood-LG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-150 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+[**2140-10-1**] 11:30PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.015
+
+[**2140-10-8**] 5:58 pm URINE
+
+   URINE CULTURE (Pending):
+
+[**2140-10-8**] 1:10 pm BLOOD CULTURE      1 OF 2.
+
+   AEROBIC BOTTLE (Pending):
+
+   ANAEROBIC BOTTLE (Pending
+
+[**2140-10-6**] 5:01 pm STOOL     CONSISTENCY: SOFT      Source: Stool.
+
+
+                            **FINAL REPORT [**2140-10-7**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2140-10-7**]):
+      FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.
+      Reference Range:  Negative.
+
+[**2140-10-7**]
+CHEST, PORTABLE SEMI-UPRIGHT VIEW: Comparison is made to
+[**2140-10-5**]. The heart size is normal. Mediastinal and
+hilar contours are unremarkable. The lungs are clear, with
+interval resolution of previously noted opacities. There are no
+pleural effusions or pneumothorax. Pleural thickening at the
+apices is unchanged.
+
+IMPRESSION: Interval resolution of parenchymal opacities.
+
+ECHO:
+Conclusions:
+1. There is moderate symmetric left ventricular hypertrophy. The
+left
+ventricular cavity size is normal. Regional left ventricular
+wall motion is  normal. Overall left ventricular systolic
+function is normal (LVEF>55%).
+2. The aortic valve leaflets (3) appear structurally normal with
+good leaflet
+excursion. Trace aortic regurgitation is seen.
+3. The mitral valve appears structurally normal with trivial
+mitral
+regurgitation.
+
+
+
+Brief Hospital Course:
+56 year old male with [**Hospital **] transferred to [**Hospital1 18**] with UTI and
+worsening multi-focal PNA likely [**12-24**] aspiration.
+.
+#) PNA: Swallow evaluation determined that the patient may be
+aspirating and a FEES was done. The results are as  follws:
+"Mr [**Known lastname 25925**] presents overall with a functional oral and pharyngeal
+swallow mechanism. He does appear to be limited by his side
+lying, semi-reclined position in the bed, as did appear to
+contribute to premature spill over and penetration of thin
+liquids. However, no aspiration occurred during the exam, and
+strategies were effective at eliminating spill over of liquids
+prematurely to the pharynx.
+
+The pt did c/o sensation of swallowing excessive air when
+drinking. I explained to the pt that since he drinks from a
+straw, this would increase the amount of air he swallows with
+each sip of liquid. However, we discussed that this is typical
+for people who are dependent upon others for feeding, as a
+'feeder' cannot judge how much liquid is 'too much' if they are
+given sips via a cup. I did discuss that adaptive cups, with
+lids
+and handles, may allow him to self-feed and avoid the 'sucking'
+action which is increasing his air intake.
+
+RECOMMENDATIONS:
+1. Regular texture po diet with thin liquids.
+2. Po meds may be given whole with liquids. If too difficult to
+coordinate given bed positioning, pt may require po meds whole
+with purees.
+3. Basic aspiration precautions

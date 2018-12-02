@@ -1,0 +1,263 @@
+Admission Date:  [**2120-1-2**]              Discharge Date:   [**2120-2-2**]
+
+Date of Birth:  [**2043-8-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Sulfonamides / Bactrim / Vancomycin
+
+Attending:[**First Name3 (LF) 2763**]
+Chief Complaint:
+COPD, PEA Arrest, T11 Fracture
+
+Major Surgical or Invasive Procedure:
+Intubation
+Ortho Spine [**2120-1-11**]: Posterior approach and attempted reduction
+of fracture dislocation, Fusion T6 to L4, Laminectomy T12, L1,
+L2, Repair of dura spinal cord injury.
+Ortho Spine [**2120-1-19**]: OR wash out.
+PICC Line
+Arterial Line x 2
+
+
+History of Present Illness:
+This is a 76 year old female with a history of COPD on home
+oxygen, moderate to severe aortic stenosis and diastolic heart
+failure who presented to [**Location (un) 620**] on [**2119-12-30**] with progressive
+dyspnea on exertion and cough productive of clear sputum.  She
+was initially treated for presumed COPD exacerbation with IV
+solumedrol, levofloxacin and nebulizers.  She initially refused
+non-invasive and invasive ventilation.  She developed
+progressive hypercarbia despite ultimate initiation of
+non-invasive ventilation and suffered PEA arrest on [**2120-1-1**].
+ABG during her arrest was 7.07/113/172 and she was intubated.
+She required one round of epinephrine and atropine as well as
+CPR and regained spontaneous circulation.  She did not require
+defibrilation.  She had a femoral line placed after her arrest
+as well as an arterial line.  After the arrest she underwent CT
+torso which was negative for pulmonary embolism but showed an
+unstable T11 fracture with evidence of hemorrhage.  She also
+underwent CT head which showed no acute signs of hemorrhage.
+She initially was started on lovenox given concern for possible
+pulmonary embolism and elevated troponin after the arrest but
+developed bleeding from her right ear as well as from her OGT
+and this was discontinued.  Prior to transfer her antibiotic
+regimen was switched to ceftriaxone from levofloxacin for
+ciprofloxacin resistent e. coli in her urine.  She also
+transiently required levophed after her cardiac arrest but this
+was discontinued on the morning of the day of transfer.  She is
+transferred for orthopedic evaluation of her unstable T11
+fracture.
+.
+On arrival to the ICU she is intubated and sedated.  Review of
+systems unable to be obtained.
+
+
+Past Medical History:
+pmhx:
+1.COPD - GOLD Stage III with FEV1 32% predicted on PFTs in [**2115**],
+
+on home O2
+2.Moderate-to-severe aortic stenosis - valve area 0.9 cm, Mean
+gradient 29mmHg, peak velocity 3.4 on echo in [**8-/2117**]
+3.Diastolic CHF
+4.Obstructive sleep apnea - No formal sleep study and not on
+CPAP
+5.Achalasia, s/p pneumatic dilatation and botulinum toxin
+injection of LES
+6.Morbid obesity
+7.Chronic lower extremity edema
+8.S/P cholecystectomy: [**2102**]
+9.Chronic low-back pain
+
+
+Social History:
+She lives in a skilled nursing facility.  She ambulates
+minimally and uses a wheelchair.  She is dependent for the
+majority of her activities of daily living. Remote history of
+tobacco use, no alcohol or illicit drug use.
+
+Family History:
+Mother deceased at age 72, [**2-6**] to trauma. Daughter died at age
+47 of cancer. 4 children. One adult daughter is deceased at age
+47, [**2-6**] to cancer, the remaining daughers are alive. Previously
+at [**Hospital 100**] Rehab, now lives at home.
+
+Physical Exam:
+Vitals: T: 95.4 BP: 110/67 P: 80 R: 24 O2: 100% (AC 400 x 24,
+PEEP 10, FiO2 40%)
+General: Intubated, sedated, no distress
+HEENT: Sclera anicteric, MMM, OGT with dried blood, right ear
+with dried blood in external canal.
+Neck: obese, unable to appreciate JVP
+Lungs: Coarse breath sounds bilaterally, no wheezes, rales,
+ronchi
+CV: Distant heart sounds, regular, s1 and s2, II/VI SEM at RUSB,
+no rubs or gallops
+Abdomen:  obese, mildly distended, faint bowel sounds, no
+rebound tenderness or guarding
+GU: foley with clear yellow urine
+Ext: Warm, well perfused, trace pedal pulses, trace radial warm,
+no clubbing, cyanosis.  Erythema in the lower extremities
+bilaterally without warmth.  2+ edema bilaterally to knees.
+Femoral line in place, left arterial line in place.
+Neurologic:  PERRL, EOMI, corneal reflexes intact, withdraws
+upper extremities to painful stimuli, does not withdraw lower
+extremities, toes equivocal bilaterally in lower extremities,
+trace patellar reflexes bilaterally, unable to elicit ankle
+reflexes, present biceps, triceps reflexes.
+
+
+Pertinent Results:
+Labs on Admission:
+
+Labs on Discharge:
+
+Microbiology:
+[**2120-1-14**] 3:00 pm CATHETER TIP-IV      Source: right IJ central
+line.
+   WOUND CULTURE (Final [**2120-1-17**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    >15 colonies.
+         COAG NEG STAPH does NOT require contact precautions,
+regardless of
+         resistance.
+         Oxcillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         Please contact the Microbiology Laboratory ([**7-/2416**])
+immediately if
+         sensitivity to clindamycin is required on this
+patient's isolate.
+
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+
+______________________________________________________
+
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+
+                             |
+
+ERYTHROMYCIN----------   =>8 R
+
+GENTAMICIN------------     8 I
+
+LEVOFLOXACIN----------   =>8 R
+
+OXACILLIN-------------   =>4 R
+
+RIFAMPIN-------------- <=0.5 S
+
+TETRACYCLINE----------   <=1 S
+
+VANCOMYCIN------------     2 S
+
+
+
+[**2120-1-17**] 3:32 pm BLOOD CULTURE      Source: Line-picc.
+   Blood Culture, Routine (Preliminary):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    ISOLATED FROM ONE
+SET ONLY.
+         SENSITIVITIES PERFORMED ON REQUEST..
+
+[**2120-1-20**] 4:49 pm BLOOD CULTURE      Source: Line-PICC line #2.
+   Blood Culture, Routine (Preliminary):
+      GRAM POSITIVE COCCUS(COCCI).    IN CLUSTERS.
+
+   Anaerobic Bottle Gram Stain (Final [**2120-1-22**]):
+      GRAM POSITIVE COCCI IN CLUSTERS.
+
+
+
+[**2120-1-14**] 3:48 pm SPUTUM      Source: Endotracheal.
+ GRAM STAIN (Final [**2120-1-14**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI IN
+PAIRS.
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST.
+
+
+
+   RESPIRATORY CULTURE (Final [**2120-1-17**]):
+      MODERATE GROWTH Commensal Respiratory Flora.
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.
+
+
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+
+_________________________________________________________
+
+                             STAPH AUREUS COAG +
+
+                             |          PSEUDOMONAS AERUGINOSA
+
+                             |          |
+
+CEFEPIME--------------              <=1 S
+
+CEFTAZIDIME-----------              <=1 S
+
+CIPROFLOXACIN---------              0.5 S
+
+CLINDAMYCIN-----------   =>8 R
+
+ERYTHROMYCIN----------   =>8 R
+
+GENTAMICIN------------ <=0.5 S      <=1 S
+
+LEVOFLOXACIN----------   =>8 R
+
+MEROPENEM-------------                1 S
+
+OXACILLIN-------------   =>4 R
+
+PIPERACILLIN/TAZO-----              <=4 S
+
+RIFAMPIN-------------- <=0.5 S
+
+TETRACYCLINE----------   <=1 S
+
+TOBRAMYCIN------------              <=1 S
+
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+VANCOMYCIN------------   <=1 S
+
+
+
+[**2120-1-19**] 3:15 pm SWAB     Site: SPLEEN      SPINE.
+
+
+
+   GRAM STAIN (Final [**2120-1-19**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+
+
+
+   WOUND CULTURE (Preliminary):
+      ACINETOBACTER BAUMANNII COMPLEX.    SPARSE GROWTH.
+         "Note, for Amp/sulbactam, higher-than-standard dosing
+needs to be
+         used, since therapeutic efficacy relies on intrinsic
+activity of
+         the sulbactam component".
+         DR. [**Last Name (STitle) 20

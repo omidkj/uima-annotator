@@ -1,0 +1,243 @@
+Admission Date:  [**2159-11-6**]              Discharge Date:   [**2159-11-7**]
+
+Date of Birth:  [**2100-8-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Bee Pollen
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+Cough, increased secretions, neck pain
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+
+History of Present Illness:
+59 y/o M with h/o COPD, chronic tracheotomy tube and PEG,
+presents to OSH with increasing secretions, SOB and cough x2
+days.  Patient had LLL PNA with stenotrophomonas (sensitive to
+Levaquin) in [**7-/2159**], course complicated by prolonged
+intubation, trach/PEG.  Also found to have bilateral DVTs, no
+evidence of PE on CTA.  Since discharge, living at neuro rehab
+in [**Hospital1 1559**].  Was on A/C 12/500/40%/5 in the evening.  In the
+past 2 weeks, has been weaned to PSV 28/5 FiO2 40% with backup
+rate 12.  Also transitioning to PO intake from PEG.  For the
+past 2 days, complained of increased secretions, and cough.
+Denies fevers, chills, chest pain, wheezing, change in bowel
+habits.  Sent to [**First Name8 (NamePattern2) **] [**Hospital3 6783**] Hospital ED from rehab where CXR
+reportedly showed retrocardiac opacity.  Received
+Vanc/Ceftazidime for HCAP.  OSH had no ICU beds, so transferred
+to [**Hospital1 18**] for trach/vent management.  Vitals on transfer BP
+112/78, P 90, 20, T 98.2, on trach collar.
+.
+On arrival to the ICU, patient appears comfortable on trach
+collar, VS 97.6; 100; 101/83; 23; 94% trach collar 10L
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness. Denies chest pain,
+chest pressure, palpitations, or weakness. Denies nausea,
+vomiting, diarrhea, constipation, abdominal pain, or changes in
+bowel habits. Denies dysuria, frequency, or urgency. Denies
+arthralgias or myalgias. Denies rashes or skin changes.
+
+Past Medical History:
+COPD (s/p trach)
+OSA
+Scoliosis
+Anaphylaxist to bee venom
+
+
+Social History:
+Worked as a grounds keeper, now lives at Neuro rehab
+- Tobacco:  quit in [**2147**], 50ppy
+- Alcohol:  quit several years ago
+- Illicits:  Denies
+
+
+Family History:
+Father with CAD, multiple MIs
+
+
+Physical Exam:
+Admission exam:
+VS 97.6; 100; 101/83; 23; 94% trach collar 10L
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, trach collar in
+place, no bleeding, erythema
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, decreased breath
+sounds in left lower field, no wheezes, rales, ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: 2+ pitting edema in bilateral legs, well perfused, 2+
+pulses, no clubbing, cyanosis
+.
+Discharge Exam
+Vital signs
+ Hemodynamic monitoring
+ Fluid balance
+ 24 hours
+ Since [**59**] AM
+Tmax: 36.2 ??????C (97.2 ??????F)
+Tcurrent: 35.8 ??????C (96.5 ??????F)
+HR: 82 (64 - 104) bpm
+BP: 127/89(95) {101/56(70) - 151/91(101)} mmHg
+RR: 16 (16 - 28) insp/min
+SpO2: 98%
+Heart rhythm: SR (Sinus Rhythm)
+
+Wgt (current): 98 kg (admission): 99.4 kg
+ Total In:
+ 2,380 mL
+ 480 mL
+
+PO:
+ 1,980 mL
+ 480 mL
+
+IVF:
+ 400 mL
+
+Total out:
+ 1,625 mL
+ 500 mL
+
+Urine:
+ 1,625 mL
+ 500 mL
+
+Balance:
+ 755 mL
+ -20 mL
+
+Respiratory support
+O2 Delivery Device: Trach mask
+Ventilator mode: CMV/AutoFlow
+Vt (Set): 500 (500 - 500) mL
+Vt (Spontaneous): 636 (636 - 636) mL
+RR (Set): 12
+RR (Spontaneous): 0
+PEEP: 5 cmH2O
+ FiO2: 40%
+PIP: 25 cmH2O
+Plateau: 23 cmH2O
+SpO2: 98%
+ABG: ///38/
+Ve: 1.9 L/min
+
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, trach collar in
+place, no bleeding, erythema
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, decreased breath
+sounds in left lower field, no wheezes, rales, ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: 2+ pitting edema in bilateral legs, well perfused, 2+
+pulses, no clubbing, cyanosis
+
+
+Pertinent Results:
+Admission labs:
+[**2159-11-6**] 01:49AM BLOOD WBC-9.8 RBC-4.96 Hgb-13.8* Hct-40.4
+MCV-82 MCH-27.8 MCHC-34.1 RDW-15.2 Plt Ct-160
+[**2159-11-6**] 01:49AM BLOOD Neuts-66.8 Lymphs-24.8 Monos-7.5 Eos-0.5
+Baso-0.4
+[**2159-11-6**] 01:49AM BLOOD PT-25.8* PTT-44.4* INR(PT)-2.5*
+[**2159-11-6**] 01:49AM BLOOD Glucose-110* UreaN-27* Creat-0.9 Na-141
+K-3.7 Cl-99 HCO3-35* AnGap-11
+[**2159-11-6**] 01:49AM BLOOD Calcium-9.7 Phos-3.6 Mg-2.1
+
+Microbiology:
+Bronchoalveolar lavage- GRAM STAIN (Final [**2159-11-6**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Preliminary):
+      MODERATE GROWTH Commensal Respiratory Flora.
+      GRAM NEGATIVE ROD(S).    MODERATE GROWTH.
+
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.
+
+Sputum culture
+Blood culture
+
+Imaging:
+CXR [**2159-11-5**]:
+IMPRESSION: Left hemidiaphragmatic elevation with large left
+pleural effusion with underlying atelectasis; an additional
+component of pneumonia cannot be excluded. Scoliosis may
+contribute to underestimation of the effusion, so CT may be
+considered.
+
+Micro:
+Sputum Culture/ Blood Culture Pending
+Bronchoalveolar lavage pending
+
+Brief Hospital Course:
+59 male with history of COPD, chronic tracheotomy/PEG, initially
+presenting to OSH with increasing secretions, shortness of
+breath, and cough x2 days, with OSH chest xray showing
+retrocardiac opacity.
+
+# Repiratory distress/Shortness of breath: Patient presented
+with acute onset of cough, increased secretions, initially
+thought to be from a pneumonia.  He was initially placed on
+empiric antibiotics consisting of vancomycin and ceftazadime,
+transitionined to vancomycin, cefepime, levofloxacin at [**Hospital1 18**].
+Throughout stay, patient was clinically stable, was never
+febrile, and was without leukocytosis.  Considered pulmonary
+embolism (PE), however supratherepeutic INR>2 on admission made
+embolism less likely.  He had a chest xray that was initially
+concerning for a left pleural effusion, but ultrasound showed
+minimal thoracic fluid.  Bronchoscopy was performed and was
+unremarkable except for crusted mucus removed from trach edge.
+His transfer note was initially concerning for a "pulsatile
+mass" in the neck which was not appreciated at the time of [**Hospital1 18**]
+evaluation.  Neck pain resolved with dislodging adherent tach
+collar from underlying skin.  Sputum gram stain showed 25
+neutrophils with 4+ gram positive rods, 2+ gram positive cocci,
+1+ gram negative rods.  His outside hospital chest xray was
+reviewed which again was less concerning for a pneumonia.  He
+had his vancomycin and cefepime stopped on day 2 of admission,
+and was continued on levofloxacin for an anticipated 7-day
+course for tracheobronchitis.  Throughout his course he was
+continued on his home dose albuterol, ipratropium and combivent,
+as well as his pressure support ventilation at night with home
+settings of 28/5, FiO2 40%.
+*At time of discharge, bronch sputum culture and blood cultures
+pending
+*Continue levofloxacin for 7 day course (day 1 [**2159-11-6**])
+
+# History of Deep Vein Thrombosis (DVT)- Bilateral DVT in
+[**7-/2159**] without PE.  INR 2.5 on admission.  Held coumadin for
+one day and restarted 3mg daily (home dose) on discharge.
+*As patient is on [**Last Name (LF) 92206**], [**First Name3 (LF) **] have interaction with
+warfarin.  Monitor INR.
+
+# History of frequent PVCs- History of PVCs, and was previously
+started on metoprolol.  Patient with multiple PVCs on telemetry
+of unknown significance, with no symptoms.  Continued home dose
+metoprolol.
+
+TRANSITIONAL ISSUES:
+Make sure to follow up sputum, BAL and blood cultures which are
+pending, and monitor INR while on antibiotics.
+
+
+Medications on Admission:
+Coumadin 3mg daily
+Fluticasone Propionate NASAL 2 SPR

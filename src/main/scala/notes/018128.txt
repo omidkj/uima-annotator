@@ -1,0 +1,189 @@
+Admission Date:  [**2169-12-20**]              Discharge Date:   [**2169-12-27**]
+
+Date of Birth:  [**2101-6-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Prednisone / Aspirin / Codeine / Sulfa (Sulfonamides) / Ivp Dye,
+Iodine Containing / Bactrim / Procardia
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Transfer from [**Hospital 1727**] Medical Center for IP intervention
+
+Major Surgical or Invasive Procedure:
+bronchoscopy
+
+History of Present Illness:
+Ms. [**Known lastname 66188**] is a 66 year old woman with history of COPD and
+tracheobronchomalacia s/p Y stent, now transferred to [**Hospital1 18**] from
+[**Hospital 1727**] Medical Center for interventional pulmonary intervention.
+She initially presented to [**Hospital 66189**] Hospital on [**2169-11-18**] with
+dyspnea, sputum, and increased secretions, and was diagnosed
+with community-acquired pneumonia as an outpatient, which she
+subsequently failed. Sputum grew MRSA, and she was then
+transferred to MMC for furhter evaluation and management.
+.
+Her hospital course at MMC was notable for the following
+problems:
+.
+1. Respiratory failure/MRSA pneumonia. Transferred to MMC on
+vancomycin, which was changed to linezolid when blood cultures
+grew VRE. At MMC, she was difficult to ventilate, given problems
+with auto-PEEP; she did well on CPAP 20/12.
+.
+2. Hypotension. In setting of MRSA pneumonia and VRE bacteremia.
+On phenylephrine
+.
+3. Tracheal bleeding. Had acute bleeding from tracheostomy;
+bronchoscopy demonstrated friable granulation tissue. No other
+bleeding episodes.
+.
+4. VRE bacteremia. Culture on ??? grew VRE (drawn from PICC).
+PICC pulled, CVL placed, surveillance cultures negative to date.
+Linezolid to finish 7-day course on [**12-21**].
+.
+5. History of DVT/Pulmonary Embolism in [**2167**]. She had been on
+coumadin since [**2167**] for treatment; coumadin was held, and she
+was transitioned to heparin on [**12-20**] for IP procedure.
+.
+6. Agitation. Agitation during the hospitalization controlled
+with scheduled phenobarbital and PRN pushes.
+.
+Per the discharge summary, at the time of discharge, her chest
+x-ray demonstrated "stable appearance of multiple patchy
+opacities persistent in the left lung with volume loss in the
+left lung and slight shift of the mediastinum to the left,
+unchanged from prior, as well as persistant left pleural
+effusion".
+.
+On arrival to the floor, an A-line was placed and chest x-ray
+was performed. Chest X-ray showed complete white out of the left
+lung, consistent with complete collapse. Tidal volume was
+immediately decreased, the patient received deep sedation, and
+IP was called in for emergent bronchoscopy (the ICU bronchoscope
+did not fit in her tracheostomy tube). Bronch demonstrated
+granulation tissue on both arms of the Y-stent (L>R) and
+increased mucus in left main bronchus, which was suctioned.
+
+
+Past Medical History:
+- COPD on home oxygen
+- Tracheomalacia s/p Y stent in fall [**2168**]
+- Obstructive sleep apnea
+- Hypertension
+- Recurrent DVTs on anticoagulation
+- Anemia
+- Recurrent MRSA and Klebsiella pneumnonias
+- Steroid-induced myopathy
+- Chronic anemia
+- History of fibromyalgia
+
+
+Social History:
+Lived with husband in [**Name (NI) 1727**]. >40 pack-year history of smokign.
+Rare EtOH use. Denies drug use
+
+Family History:
+Noncontributory
+
+Physical Exam:
+VITALS: T98.3F, BP 122/69, HR 87, RR 25, SaO2 100%
+VENT: TV 400, RR 25 (breathing ~40), FiO2 100%, PEEP 12
+GENERAL: Sedated, breathing over vent, mild respiratory distress
+
+HEENT: Pupils sluggish bilaterally but reactive
+NECK: Unable to appreciate JVD
+CARD: RRR normal S1/S2, no m/r/g appreciated
+RESP: Vent sounds bilaterally R>L, rhonchi at left lung base
+ABD: Soft, midline scar, healing G-tube site, non-tender,
+non-distended, + bowel sounds
+EXT: 2+ DP pulses bilaterally, warm, well perfused; clubbing
+present; no cyanosis or edema
+NEURO: Sedated
+
+
+Pertinent Results:
+7.46/38/155/28 on FiO2 100%, TV 450, RR 18
+.
+Na 131 K 4.3 Cl 95 HCO3 25 BUN 16 Creat 1.0 Gluc 105Ca: 8.4 Mg:
+2.3 P: 4.1
+.
+CK: 15 MB: Notdone Trop-T: <0.01
+.
+ALT: 35 AST: 39 AP: 124 Tbili: 0.5 Alb: 2.5 LDH: 280
+.
+WBC 24.8
+N:88.8 L:8.1 M:2.7 E:0.3 Bas:0.1
+Hgb 9.0
+Hct 27.4
+Plt 822
+.
+PT: 21.4 PTT: 59.7 INR: 2.0
+Fibrinogen: 614
+.
+STUDIES:
+.
+CXR [**12-20**]:
+Leftward shift of mediastinum with complete opacification of the
+left lung field new compared to previous exams. S/p trach and Y
+stent. NG in good position. Right CVL line probably in good
+position. Right lung grossly clear.
+
+
+Brief Hospital Course:
+68yF with history of COPD, tracheomalacia s/p Y-stent,
+tracheostomy, recurrent MRSA pneumonia, transferred from OSH for
+IP intervention and found to have collapsed left lung.  Patient
+was evaluated by interventional pulmonology.  Her Y-stent was
+stenosed and subsequently removed.  The patient underwent
+debridement.  She was thought to have no meaningful recovery
+from a pulmonary stand-point and continued to require
+significant sedation to allow her to tolerate the ventilator.  A
+CT of the chest was performed to evaluate for underlying
+malignancy but did not show clear malignant cause of her
+respiratory failure.  On [**12-27**] the family decided to provide
+comfort measures only and mechanical ventilation was
+discontinued and a few hours later, at 21:17, the patient
+expired.  Primary cause of death was cardiopulmonary arrest,
+immediate cause was chronic respiratory failure.  The family was
+present.
+
+
+Medications on Admission:
+Heparin gtt on protocol
+Linezolid 600mg IV q12h (through [**12-21**])
+Paroxetine 40mg PO daily
+Methadone 10mg PO Q8H
+Phenobarbital 65mg IV Q12H with 65mg IV Q1H pushes PRN
+Omeprazole suspension 20mg PO Q24H
+Albuterol INH Q6H
+Ipratropium INH Q6H
+Colace
+Senna
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Cardiopulmonary arrest
+
+
+Discharge Condition:
+deceased
+
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+deceased
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

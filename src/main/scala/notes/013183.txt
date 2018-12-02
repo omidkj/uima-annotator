@@ -1,0 +1,193 @@
+Admission Date:  [**2167-9-14**]              Discharge Date:   [**2167-9-19**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+respiratory distress
+
+Major Surgical or Invasive Procedure:
+Insertion right radial line
+
+History of Present Illness:
+HPI: 83 male w/ oropharyngeal carcinoma s/p laryngectomy, copd,
+reported frequent aspiration pna, now being admitted for further
+evaluation and monitoring of acute respiratory distress. History
+and records limited but apparently pt recently d/c'd from VA for
+reported RLL PNA for which recently completed course of
+Ceftriaxone and Zithromax. Apparently, staying at [**Hospital3 1186**]
+and today had a witnessed episode of aspiration following
+Nystatin swish and swallow. Reportedly became diaphoretic,
+tachypneic and hypoxic to low 80's, improving to low 90's on
+several liters of nasal cannula. Transferred to [**Hospital1 18**] for
+further evaluation where upon arrival found afebrile, tachy to
+100's, normotensive but tachypneic to 40 and satting in high
+90's on NRB. Given Levaquin and Flagyl empirically for presumed
+aspiration PNA. Wet read CXR demonstrates r. sided pleural
+effusion, mildly enlarged cardiac silohette. Labs unremarkable
+and ABG shows 7.36/43/213 on NRB. Pt subjectively still SOB but
+feeling improved. Given concerns about persistent tachypnea and
+poor functional status, transferrd to [**Hospital Unit Name 153**] for closer
+monitoring.  While awaiting transfer, pt reportedly was weened
+to 4l NC and RR of 30.  Immediately prior to transfer, EMS
+states that pt had a large amount of emesis, unclear if
+aspirated.
+.
+On arrival to [**Name (NI) 153**], pt in respiratory distress with RR 40, HR
+130s, SBP 160s, diaphoretic, accessory muscle use.  Had very
+prominent course upper airway rhonchi.  Deep suctioning by RT
+returned thick, copious secretions but minimal improvement in
+respiratory status.  ABG on NRB = 7.25/59/100.  Patient was
+subsequently intubated given substantial distress.  Of note, he
+had previously signed a DNR/DNI order but in the ED the patient
+reportedly expressed to Dr. [**Last Name (STitle) **] the desire to undergo a
+limited intubation if there was a reversible process.  Although
+in significant distress, the pt confirmed this wish in the [**Hospital Unit Name 153**].
+ The patient was subsequently intubated and placed on assist
+control mechanical ventilation.
+
+
+Past Medical History:
+-squamous cell carcinoma of right tongue base, s/p supraglottic
+laryngectomy and radical neck dissection with postoperative
+radiation therapy
+-depression
+-COPD
+-vocal cord paralysis
+-recurrent aspiration pna s/p recent admit to VA for reported
+RLL and RML PNA
+-s/p G tube
+-OA
+-asbestosis
+bilateral knee athroplasty
+-bilateral frozen shoulder s/p XRT
+-chest wall pain
+
+Social History:
+Patient came to [**Hospital1 18**] from [**Hospital3 1186**] where he had been for
+rehab after recent VA hospitalization. Previously had been
+living in apartment downstairs from daughter. Daughter reports
+that patient does not have smoking history.
+
+Family History:
+NC
+
+Physical Exam:
+PE: 97.3, hr 102, 101/58, rr 22, 100% on AC 600/16/5/0.60
+gen: intubated, calm, sedated
+heent: PERRLA, anicteric, ET tube in lf nares
+neck: stiff, indurated w/ post-operative changes; unable to
+assess JVP
+cv: tachycardic, regular
+lungs: coarse rhonchi t/o, scattered wheezes, decreased bs at rt
+base
+abd: +bs, soft, ntnd; G-tube in place w/o evidence of infection
+ext: 1+ LE edema, warm, 1+dp pulses b/l
+neuro: following commands, moving all extremities
+
+
+Pertinent Results:
+[**2167-9-14**] 09:35PM   TYPE-ART TEMP-36.7 RATES-/40 O2-100 PO2-213*
+PCO2-43 PH-7.36 TOTAL CO2-25 BASE XS--1 AADO2-477 REQ O2-79
+INTUBATED-NOT INTUBA COMMENTS-NON-REBREA
+[**2167-9-14**] 09:35PM   LACTATE-1.1
+[**2167-9-14**] 09:35PM   freeCa-1.25
+[**2167-9-14**] 09:00PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.012
+[**2167-9-14**] 09:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0
+LEUK-NEG
+[**2167-9-14**] 07:42PM   GLUCOSE-103 UREA N-16 CREAT-1.0 SODIUM-136
+POTASSIUM-4.8 CHLORIDE-98 TOTAL CO2-26 ANION GAP-17
+[**2167-9-14**] 07:42PM   WBC-9.7 RBC-4.28* HGB-13.7* HCT-40.9 MCV-96
+MCH-32.0 MCHC-33.5 RDW-14.9
+[**2167-9-14**] 07:42PM   NEUTS-75.9* LYMPHS-16.9* MONOS-4.1 EOS-2.6
+BASOS-0.4
+[**2167-9-14**] 07:42PM   MACROCYT-1+
+[**2167-9-14**] 07:42PM   PLT COUNT-539*
+[**2167-9-15**] 05:49AM BLOOD WBC-19.2*# RBC-3.43* Hgb-11.1* Hct-32.7*
+MCV-95 MCH-32.4* MCHC-34.0 RDW-14.5 Plt Ct-384
+[**2167-9-17**] 03:20AM BLOOD WBC-10.9 RBC-3.83* Hgb-12.2* Hct-35.8*
+MCV-94 MCH-31.9 MCHC-34.1 RDW-14.4 Plt Ct-370
+[**2167-9-17**] 03:20AM BLOOD Plt Ct-370
+[**2167-9-15**] 05:49AM BLOOD PT-12.7 PTT-27.7 INR(PT)-1.1
+[**2167-9-17**] 07:22AM BLOOD Glucose-97 UreaN-8 Creat-0.9 Na-135 K-4.4
+Cl-99 HCO3-27 AnGap-13
+[**2167-9-17**] 07:22AM BLOOD Calcium-9.4 Phos-3.9 Mg-1.9
+[**2167-9-17**] 11:12AM BLOOD Vanco-13.1*
+
+ABGs
+[**2167-9-14**] 09:35PM BLOOD Type-ART Temp-36.7 Rates-/40 FiO2-100
+pO2-213* pCO2-43 pH-7.36 calHCO3-25 Base XS--1 AADO2-477 REQ
+O2-79 Intubat-NOT INTUBA Comment-NON-REBREA
+[**2167-9-15**] 12:10AM BLOOD Type-ART pO2-100 pCO2-59* pH-7.25*
+calHCO3-27 Base XS--2 Intubat-NOT INTUBA
+[**2167-9-17**] 07:44AM BLOOD Type-ART Temp-37.1 PEEP-5 pO2-274*
+pCO2-44 pH-7.42 calHCO3-30 Base XS-4 Intubat-INTUBATED
+
+Microbiology
+GRAM STAIN (Final [**2167-9-15**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS, CHAINS, AND
+CLUSTERS.
+
+   RESPIRATORY CULTURE (Final [**2167-9-17**]):
+      MODERATE GROWTH OROPHARYNGEAL FLORA.
+
+ecg: nsr, nl intervals/axis; isolated q-wave III, PRWP, no
+ischemic ST/T wave changes
+
+CXR
+[**9-14**]:  1. Mild pulmonary edema superimposed on emphysematous
+changes. Bilateral
+pleural effusions, right greater than left.
+2. Ill-defined opacity over right mid lung zone. Proper PA and
+lateral chest
+film should be obtained when the patient is able.
+
+
+Brief Hospital Course:
+83m w/ significant h/o oropharyngeal carcinoma s/p laryngectomy
+and [**Hospital 2182**] transferred from rehab facility following witnessed
+aspiration event, subsequently intubated [**3-11**] respiratory
+distress.
+
+1. Respiratory failure:  Patient was intubated shortly after his
+arrival to the ICU [**3-11**] significant respiratory distress in the
+setting of copious secretions/ mucous plugging.  He was
+initially placed on assist control but was able to transition to
+Pressure Support for much of the time.  He maintained good
+oxygen saturations and he experienced no further respiratory
+distress.  After two days on mechanical ventilation he an SBT
+with a RSBI of 42 and was subsequently extubated without
+complication.  After being extubated he maintained good O2 sats
+and was able to handle his secretions with much less difficulty
+than on admission.  His respiratory status was much improved
+prior to discharge.
+
+2. Pneumonia
+He was started on Clindamycin initially for anaerobic coverage
+of a presumed aspiration pneumonia.  Shortly after he was put on
+Vancomycin when a sputum culture on admission grew out gram
+positive cocci in pairs and clusters.  Given his multiple
+hospitalizations it was thought that he was likely colonized
+with MRSA. Patient should complete a 10 day course of treatment
+with Vancomycin and Clindamycin which would be completed on
+[**2167-9-24**].  Sputum culture later more suggestive of oropharyngeal
+flora but continued Vancomycin as he had clinically improved and
+he was recently hospitalized with a pneumonia. A PICC line was
+inserted so that patient can receive IV antibiotics at rehab.
+Patient kept NPO as patient seemed to have an aspiration event
+that triggered his respiratory decompensation.  It is possible
+that he never fully recovered from his recent pneumonia and that
+it may have worsened at rehab precipitating his current
+admission.
+
+As noted above, unclear as to whether or not patient had primary
+bacterial PNA or aspiration PNA.  It is clear however that
+hospitalization was precipitated by aspiration event after
+witnessed episode 

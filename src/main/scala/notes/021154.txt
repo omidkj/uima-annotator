@@ -1,0 +1,202 @@
+Admission Date:  [**2145-10-12**]              Discharge Date:   [**2145-10-15**]
+
+Date of Birth:  [**2071-10-8**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Morphine Sulfate
+
+Attending:[**First Name3 (LF) 14820**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+
+
+History of Present Illness:
+74yo woman with h/o CAD s/p MI and CABG, MVR with porcine valve
+in [**2141**], chronic GI bleed [**1-1**] AVMs, recent tibial, fibular, and
+pelvic fractures, who presents from rehab with chest pain and
+dyspnea.  Patient reports that 2 nights prior to admission, she
+had acute chest pain to the left of her sternum radiating to her
+arm and back.  Pain felt like a pressure and was associated with
+dyspnea, nausea, and sweating.  She also notes increased dyspnea
+that does not have a positional component over the last week.
+Patient received nitroglycerin and ASA without relief of her
+pain, and she was transferred to an OSH, where she ruled in for
+NSTEMI with peak TnI of 1.17.  Echo done at OSH was significant
+for newly depressed EF (10-20% vs normal EF in [**2145-7-31**]).
+Heparin and integrilin gtt were started.  Patient also had b/l
+LE ultrasound which was negative for DVT.
+.
+She is now transferred to [**Hospital1 18**] for cardiac cath.  Of note, the
+patient woke at 4am today with 15/10 chest pain across her
+chest, relieved by fentanyl but not by nitroglycerin.  Pain was
+reproducible on exam.  She now c/o [**2148-1-3**] chest pain; she is not
+feeling SOB.
+
+Past Medical History:
+Dyslipidemia
+IMI in [**2135**] treated with thrombolytics
+CABG:  SVG to Ramus in [**2141**], concurrent MVR with 25mm porcine
+valve
+Occult GI bleeding [**1-1**] upper and lower AVMs, for which she has
+required numerous transfusions, most recently 1 unit [**Unit Number **] weeks ago
+and 2 units about 3 weeks ago
+GERD
+Diverticulosis
+s/p bilateral hip replacements with revision on the right
+recent fall with R tibia-fibula fractures
+recent pelvic fracture--3 weeks ago
+costochondritis
+pseudogout
+fibromyalgia
+anxiety
+depression
+.
+PCP: [**Name10 (NameIs) 60169**] [**Name11 (NameIs) **]
+Cardiologist: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+.
+ALLERGIES:
+PCN-->rash and pruritus and hands swell
+morphine -->pruritus, reports she tolerates morphine when given
+benadryl
+
+Social History:
+Currently in rehab/short term [**Hospital1 1501**] at [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 731**] in
+[**Location (un) 47**]; otherwise, lives with husband in [**Name (NI) 47**].  Quit
+smoking 25 years ago (+tob x 15-20 years).  No etoh, or illicit
+drug use.
+
+Family History:
++Mother w/ MI at 54yo (also a diabetic)
+Maternal uncle with MI at 42yo
+2 half-sisters with DM
+
+Physical Exam:
+VS: 98.2   97.0   88/50 (SBP 88-125),  61   16   100% 3L
+GENERAL: No apparent distress, alert & oriented x 3, appropriate
+
+HEENT: EOMI, pale conjunctiva. Oral mucosa moist and clear.
+NECK: supple. No carotid bruits. No thyromegaly or nodule.
+CHEST: scar from prior sternotomy w/ minor scabbing, no
+scoliosis or kyphosis.  Lungs clear b/l
+CVS: RRR, nl S1/S2. No M/R/G.
+ABD: +BS. soft, NT/ND. The abdominal aorta was not palpated. No
+hepatosplenomegaly.
+EXT: Warm, without edema.
+NEURO:  alert, oriented, answers questions appropriately
+.
+Pulses:
+Right: Carotid 2+ Femoral 2+ DP 2+
+Left: Carotid 2+ Femoral 2+ DP 2+
+
+Pertinent Results:
+[**2145-10-12**] 09:44PM BLOOD WBC-5.2 RBC-4.16* Hgb-12.4 Hct-37.1
+MCV-89 MCH-29.9 MCHC-33.6 RDW-13.2 Plt Ct-259
+[**2145-10-15**] 07:50AM BLOOD WBC-6.3 RBC-3.98* Hgb-11.9* Hct-34.8*
+MCV-88 MCH-29.8 MCHC-34.1 RDW-13.0 Plt Ct-205
+[**2145-10-15**] 07:50AM BLOOD PT-13.1 PTT-31.0 INR(PT)-1.1
+[**2145-10-12**] 09:44PM BLOOD Glucose-111* UreaN-23* Creat-1.3* Na-139
+K-3.6 Cl-100 HCO3-30 AnGap-13
+[**2145-10-13**] 04:45AM BLOOD Glucose-202* UreaN-23* Creat-1.5* Na-137
+K-3.8 Cl-96 HCO3-30 AnGap-15
+[**2145-10-13**] 07:44PM BLOOD Glucose-125* UreaN-19 Creat-1.2* Na-140
+K-3.7 Cl-102 HCO3-29 AnGap-13
+[**2145-10-15**] 07:50AM BLOOD Glucose-98 UreaN-19 Creat-1.1 Na-139
+K-4.6 Cl-101 HCO3-29 AnGap-14
+[**2145-10-12**] 09:44PM BLOOD ALT-32 AST-39 LD(LDH)-223 CK(CPK)-48
+AlkPhos-72 TotBili-0.5
+[**2145-10-15**] 07:50AM BLOOD ALT-74* AST-76* LD(LDH)-276* AlkPhos-82
+Amylase-51 TotBili-0.5
+[**2145-10-12**] 09:44PM BLOOD CK-MB-NotDone cTropnT-0.17* proBNP-[**Numeric Identifier **]*
+[**2145-10-13**] 04:45AM BLOOD CK-MB-NotDone cTropnT-0.24*
+[**2145-10-14**] 03:34AM BLOOD CK-MB-NotDone cTropnT-0.18*
+[**2145-10-12**] 09:44PM BLOOD ALT-32 AST-39 LD(LDH)-223 CK(CPK)-48
+AlkPhos-72 TotBili-0.5
+[**2145-10-13**] 04:45AM BLOOD CK(CPK)-93
+[**2145-10-12**] 09:44PM BLOOD Triglyc-99 HDL-54 CHOL/HD-2.5 LDLcalc-61
+.
+EKG:
+NSR with normal axis, inf Q waves and TWI in inferior and
+lateral leads, new compared to [**2141**] (T waves flat at that time).
+
+.
+2D-ECHOCARDIOGRAM:
+[**2145-8-16**] (report from [**Hospital1 **]): "LVH, normal LV fxn, mild
+to mod pulmonic insufficiency"
+[**2145-10-12**] (report from [**Hospital1 **]): "limited
+2d-echocardiogram: dense septal and apical akinesis with EF
+10-20%, profoundly changed from prior."
+.
+ETT:
+p-[**First Name9 (NamePattern2) 1608**] [**2145-8-20**] (report from [**Hospital1 **]): "no significant
+perfusion defects"
+.
+CARDIAC CATH:
+([**Hospital1 **] in [**2141**]): 40% occluded RCA, 50% LMCA
+.
+LABORATORY DATA:
+from [**Hospital1 **]:
+CPK 28-->43-->44
+TnI 0.04-->1.17-->1.10
+.
+CXR [**10-12**]:
+Cardiac size is top normal. The patient is post median
+sternotomy CABG and MVR. The lungs are grossly clear. There is
+no evidence of CHF or pneumonia. There are no sizeable pleural
+effusions.
+.
+CT abdomen/pelvis without contrast [**2145-10-13**]:
+1. No evidence of intra-abdominal or retroperitoneal hematoma to
+account for patient's hematocrit drop. Hematoma in the left
+iliopsoas region likely relates to subacute pelvic fractures.
+2. Left lobe hepatic cyst.
+3. Small bilateral pleural effusions and atelectasis.
+.
+TTE [**2145-10-14**]:
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses and cavity size are normal. Regional left
+ventricular wall motion is normal. There is mild global left
+ventricular hypokinesis (LVEF = 45-50%). The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. A bioprosthetic mitral
+valve prosthesis is present. The mitral prosthesis appears well
+seated, with normal leaflet/disc motion and transvalvular
+gradients. Trivial mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion
+IMPRESSION: Mild global left ventricular systolic dysfunction.
+Normally-functioning mitral valve bioprosthesis.
+.
+Cardiac Cath [**2145-10-13**] (prelim report):
+No flow-limiting lesions; patent graft
+
+Brief Hospital Course:
+74yo woman with CAD s/p CABG, chronic GI bleed from AVMs, and
+recent pelvic fracture who presents with chest pain.
+.
+# Chest pain:
+In setting of small troponin leak and new LV dysfunction,
+patient was initially suspected of having CAD, put on heparin
+gtt, and brought to cath lab.  She did not have any
+flow-limiting lesions and her graft was patent (final report
+pending).  Alternative explanations for her presentation were
+considered, including viral myocarditis or Takotsubo syndrome.
+Repeat echocardiogram done at [**Hospital1 18**], however, showed only mild
+global hypokinesis with EF 45%, which did not suggest Takutsobu
+syndrome.  Moreover, her CKs were never elevated.  The patient
+has multiple other potential causes of chest pain, including
+costochondritis, fibromyalgia, and anxiety. PE was deemed
+unlikely given that patient has been on lovenox and her RV
+pressures were not significantly elevated at cath. Some of her
+pain is reproducible on exam, suggesting a musculoskeletal
+component.  She was put on IV morphine with good control of her
+pain and no symptomatic itch (although morphine is listed as an
+allergy for her).  She was transitioned to MS contin with
+oxycodone for breakthrough pain.
+.
+# Acute systolic heart failure:
+Patient had no clinical evidence of heart failure by h

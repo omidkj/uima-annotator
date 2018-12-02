@@ -1,0 +1,197 @@
+Admission Date:  [**2142-1-13**]              Discharge Date:   [**2142-1-26**]
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 18141**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Intubation
+Colonoscopy
+EGD
+
+
+History of Present Illness:
+This is a 84 y/o with h/o AVR, CHF, pAF, h/o LGIB, who complains
+of progressive SOB x 1 mo. Presently, she is SOB even at rest.
+No CP, N/V associated with this SOB. She has also been very
+fatigued for about one year. She endorses orthopnea, PND and occ
+LE edema. She has been having black stools recently and reports
+diarrhea after eating since her last intestinal operation
+(unclear date). She reports a 20 lb weight loss in the last five
+months. She has had decreased appetite over this time period.
+She has not been ambulating over the last few days [**12-29**] fatigue
+but normaly walks independently and can climb stairs.
+.
+Of note, one mo ago the pt was hospitalized at [**Hospital1 2025**] for virus and
+periph edema and then was sent to [**First Name4 (NamePattern1) 1785**] [**Last Name (NamePattern1) **] from there.
+.
+In the ED, noted to have: AF, BP 122/59 HR 75 RR 16, sats 91-98
+RA, 100 on 4 L NC. CXR consistent with
+effusion/collapse/consolidation wet read per radiology. HCT 23,
+unknown baseline. ED called up to floor that pt. was guaiac
+negative, but it is not documented anywhere in ED paperwork. On
+arrival to the floor, found to be guaiac positive with brown
+stool. Called [**Hospital3 1186**], no baseline hct info. Called PCP,
+[**Name10 (NameIs) **] [**Name Initial (NameIs) **]/c MD Dr. [**Last Name (STitle) **], who called [**Hospital1 2025**] and reported back that her
+hct [**2141-11-2**] was 33.9.
+
+
+Past Medical History:
+--CAD
+--CHF
+--AVR
+--Paroxysmal A fib
+--Hypothyroidism
+--Hx. LGIB
+--Anemia
+--PVD
+
+
+Social History:
+Lives at [**Hospital3 1186**]. No tob, etoh, drugs.
+
+Family History:
+NC
+
+Physical Exam:
+Tm/c 97.9, BP 103/67 SBP 82-103, P 90 (90-100) R 23, Sa02 100%
+RA
+Gen - Alert, spanish speaking, cachectic female, breathing with
+mod effort
+HEENT - PERRL, extraocular motions intact, anicteric, MMM, pale
+conjunctiva
+Neck - JVD to earlobes, no cervical lymphadenopathy
+CV - harsh, mechanical $/6 SEM with click, PMI displaced
+laterally
+Pulm- Diminished BS RLL with occ crackles, + exp wheeze in LLL
+Abd - Soft, nontender, nondistended, with normoactive bowel
+sounds
+Back - No costovertebral angle tendernes
+Extr - No clubbing, cyanosis, 1+ edema. trace DP pulses
+bilaterally
+Neuro - Alert and oriented x 3,
+Skin - No rash, chronic venous stasis changes in LE.
+
+
+Pertinent Results:
+[**2142-1-13**] 05:50PM BLOOD WBC-7.5 RBC-2.50* Hgb-7.5* Hct-23.3*
+MCV-93 MCH-29.9 MCHC-32.1 RDW-20.2* Plt Ct-240
+[**2142-1-14**] 08:25AM BLOOD WBC-7.9 RBC-3.08* Hgb-9.5*# Hct-27.6*
+MCV-90 MCH-30.8 MCHC-34.4 RDW-19.9* Plt Ct-177
+[**2142-1-14**] 10:05AM BLOOD Hct-29.0*
+[**2142-1-15**] 06:00AM BLOOD WBC-10.2 RBC-3.15* Hgb-9.6* Hct-28.6*
+MCV-91 MCH-30.6 MCHC-33.7 RDW-19.7* Plt Ct-180
+[**2142-1-17**] 05:40AM BLOOD WBC-5.3 RBC-2.97* Hgb-9.2* Hct-26.8*
+MCV-90 MCH-30.9 MCHC-34.2 RDW-19.5* Plt Ct-150
+[**2142-1-20**] 01:24AM BLOOD WBC-10.2# RBC-3.29* Hgb-10.1* Hct-30.0*
+MCV-91 MCH-30.8 MCHC-33.8 RDW-18.9* Plt Ct-140*
+[**2142-1-24**] 05:30AM BLOOD WBC-4.3 RBC-3.08* Hgb-9.3* Hct-28.1*
+MCV-91 MCH-30.0 MCHC-32.9 RDW-18.4* Plt Ct-107*
+[**2142-1-26**] 05:20AM BLOOD WBC-4.5 RBC-2.99* Hgb-8.8* Hct-27.0*
+MCV-90 MCH-29.4 MCHC-32.5 RDW-18.0* Plt Ct-105*
+[**2142-1-13**] 05:50PM BLOOD PT-31.6* PTT-37.7* INR(PT)-3.4*
+[**2142-1-18**] 06:30AM BLOOD PT-22.1* PTT-78.0* INR(PT)-2.2*
+[**2142-1-24**] 05:30AM BLOOD PT-16.9* PTT-62.8* INR(PT)-1.6*
+[**2142-1-13**] 05:50PM BLOOD Glucose-110* UreaN-18 Creat-0.8 Na-130*
+K-3.7 Cl-97 HCO3-29 AnGap-8
+[**2142-1-20**] 01:24AM BLOOD Glucose-80 UreaN-24* Creat-1.0 Na-133
+K-3.4 Cl-100 HCO3-21* AnGap-15
+[**2142-1-26**] 05:20AM BLOOD Glucose-93 UreaN-9 Creat-0.8 Na-134 K-3.3
+Cl-101 HCO3-27 AnGap-9
+[**2142-1-14**] 08:25AM BLOOD ALT-18 AST-34 CK(CPK)-37 AlkPhos-70
+TotBili-2.5*
+
+CXR ([**1-13**]):
+1.  Cardiomegaly, with slight upper zone redistribution, but no
+overt CHF.
+2.  Prosthetic ball and cage type valve noted.
+3.  Opacification at right base consistent with right lower lobe
+collapse
+and/or consolidation and effusion.
+
+Echo ([**1-17**]):
+The left atrium is elongated. The right atrium is markedly
+dilated. No atrial septal defect or patent foramen ovale is seen
+by 2D, color Doppler or saline contrast. The estimated right
+atrial pressure is 11-15mmHg. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. The right
+ventricular cavity is markedly dilated. There is mild global
+right ventricular free wall hypokinesis. There is abnormal
+septal motion/position consistent with right ventricular
+pressure/volume overload. The aortic root is mildly dilated at
+the sinus level. The ascending aorta is moderately dilated. A
+"ball-and-cage" type aortic valve prosthesis is present. The
+prosthetic aortic leaflets appear normal.The transaortic
+gradient is top normal for this prosthesis. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are moderately
+thickened. The mitral valve shows characteristic rheumatic
+deformity. There is no mitral valve prolapse. There is moderate
+thickening of the mitral valve chordae. There is moderate mitral
+stenosis (area 1.0-1.5cm2). Moderate to severe (3+) mitral
+regurgitation is seen. The mitral regurgitation jet is
+eccentric. The tricuspid valve leaflets are moderately
+thickened. Severe [4+] tricuspid regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension. The
+end-diastolic pulmonic regurgitation velocity is increased
+suggesting pulmonary artery diastolic hypertension. The main
+pulmonary artery is dilated. There is no pericardial effusion.
+
+CXR ([**1-18**]):
+There has been  interval increase in moderate right pleural
+effusion
+with increase in right lower and right middle lobe atelectasis.
+Left lower
+lobe retrocardiac opacity consistent with atelectasis is new.
+There is no
+overt CHF. ETT tip is 3.9 cm above the carina. Unchanged
+calcified granuloma is in the left upper lobe. There is no
+pneumothorax. The patient is post median sternotomy and valve
+replacement. There is no overt CHF.
+
+CT Chest ([**1-18**]):
+1.  Right lower lobe atelectasis surrounded by moderate sized
+simple right
+pleural effusion.  Ground glass opacities within the lingula are
+likely
+related to pulmonary edema.
+2.  Mild interstitial pulmonary edema, cardiomegaly with
+biatrial enlargement and RV failure, and 5cm ascending aorta
+dilatation.  Mild dilatation to main pulmonary artery suggestive
+of underlying pulmonary hypertension.
+3.  Unchanged appearance to appropriately positioned
+endotracheal tube and
+malpositioned left-sided PICC catheter with tip in unclear
+location and
+possibly extravascular.
+
+CXR ([**1-20**]): Bilateral pleural effusions, worse on the right than
+the left and unchanged. CHF, unchanged.
+
+Brief Hospital Course:
+84 y/o with hx of AVR, CHF, pAF, h/o LGIB, who complains of
+progressive SOB x 1 mo, found to have possible RLL PNA and GIB
+with an INR of 3.4 on warfarin and a greater than 10 point
+hematocrit drop from baseline.
+
+# GIB: On admission the patient was found to have a GIB with
+guaiac + brown stool and a Hct 23 from a baseline of about 30
+per [**Hospital1 2025**] records. She received a total of three units PRBC from
+[**Date range (1) 71723**] with a Hct stable between 27-29. She was started on
+protonix IV BID and her Hct was checked Q4 hrs. She continued to
+have melena with one episode of BRBPR. GI was following the
+patient and recommended letting her INR drift down from 3.4 on
+admission. They advised a heparin bridge once her INR was <1.5.
+The plan was to scope her when her INR<1.5. She completed 4L
+golytely without worsening of her black tarry stool. She
+received 2u FFP on the morning of [**5-18**]. After the first unit had
+infused, the patient became tachypneic and hypoxic with Sa02 in
+the low 70s and had rigors and diffuse wheezes/crackles on lung
+exam. She was given IV methylprednisolone and diphenhydramine
+for presumed transfusion rxn, furosemide for volume overload and
+was intubated. She was th

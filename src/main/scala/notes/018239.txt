@@ -1,0 +1,202 @@
+Admission Date:  [**2126-7-8**]              Discharge Date:   [**2126-7-17**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+dyspnea and peripheral edema
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Mr. [**Known lastname 66000**] is an 84 year old male with PMH of CAD and
+biventricular congestive heart failure who presented to his PCP
+with [**Name Initial (PRE) **] chief complaint of increasing edema and fatigue. The
+patient was admitted to [**Location (un) **] and found to have a HR up to
+120; he received IV lopressor with a drop in his blood pressure.
+Echocardiogram demonstrated EF 10% (down from prior 20-25%) as
+well as a thickened septum thought to be consistent with
+amyloid. He was placed on renally-dosed dopamine and BP meds
+were held. Dr. [**Last Name (STitle) 1911**] evaluated the patient on [**7-7**] and on
+interrogation of his AICD found him to be in atrial tachycardia
+at a rate 130. He was placed on IV heparin for atrial
+fibrillation. Dopamine was continued but as his blood pressures
+improved, he was started back on a beta blocker and aldactone.
+The decision was made for transfer to [**Hospital1 18**] for further
+treatment.
+
+At the time of transfer, the patient was still on dopamine at a
+rate of 7.5. He stated that his breathing is "not too good," but
+only woke up briefly to relate this. He denied chest pain.
+
+ROS: Endorses urinary frequency. Not able to obtain other ROS
+due to mental status.
+
+EKG demonstrated an atrial rate of ~ 100, ventricular rate 70.
+At times appeared V paced but not consistently. No ST/T wave
+changes.
+
+Past Medical History:
+PMHx:
+Biventricular heart failure:CHF: Dilated biventricular
+cardiomyopathy EF 20-25%. Mild MR, Pulm HTN
+Atrial tachycardia/atrial fibrillation (at OSH); prior history
+of atrial fibrillation but taken off of amiodarone,
+Pacemaker/ICD [**2125-3-7**]
+2V CAD
+Hypertension
+DM type 2, insulin dependent
+CRI (baseline creatinine 2.6)
+Dementia
+Arthritis
+History of hernia repair
+GI bleed
+
+Cardiac studies:
+Cardiac cath [**3-/2125**]:
+Right dominant system. Two vessel CAD - 60% lesion in distal
+portion of the RPDA. LCx 90% distal stenosis. Elevated right and
+left pressures (RVEDP = 24 mm Hg; PCWP mean = 32 mm Hg). Severe
+pulmonary HTN.
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Severe systolic ventricular dysfunction.
+3. Severe pulmonary hypertension.
+.
+Echo: EF 25-30%.
+The left atrium is mildly dilated. There is moderate symmetric
+left
+ventricular hypertrophy. The left ventricular cavity size is
+normal with severe global hypokinesis and inferior wall
+akinesis. Tissue velocity imaging E/e' is elevated (>15)
+suggesting increased left ventricular filling pressure
+(PCWP>18mmHg). Right ventricular chamber size is normal with
+moderate global free wall hypokinesis. The aortic root is
+moderately dilated. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve appears structurally normal with
+
+trivial mitral regurgitation. The estimated pulmonary artery
+systolic pressure is normal. There is no pericardial effusion.
+
+IMPRESSION: Prominent symmetric left ventricular hypertrophy
+with global and regional systolic dysfunction c/w multivessel
+CAD or other diffuse process. Right ventricular free wall
+hypokinesis. Dilated aortic root.
+
+
+Social History:
+The patient lives in [**Hospital3 **] with his daughter and
+son-in-law who are essentially his 24 hour/day caregivers.
+Retired. [**Name2 (NI) **] previously smoked but quit several years ago. He
+does not drink alcohol.
+
+Family History:
+Not obtainable from patient.
+
+Physical Exam:
+PHYSICAL EXAMINATION:
+VS: T 96.1 BP 96/66 HR 72 RR 14 O2 97% on 4 L NC Wt 100 kg
+Gen: Obese male in mild distress. Oriented to self. Using
+accessory muscles to breath. Drowsy but arousable.
+HEENT: Conjunctiva injected bilaterally. PERRL, EOMI. No pallor
+or cyanosis of the oral mucosa. Wearing glasses.
+Neck: JVP at angle of the mandible.
+CV: RR and rhythm. normal S1, S2. No thrills, lifts. No S3 or
+S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were slightly labored with use of accessory muscle use. Crackles
+with rhonchi bilaterally throughout lung fields.
+Abd: Obese but nontender. Normoactive bowel sounds. No HSM or
+tenderness. Abd aorta not palpated. No abdominial bruits.
+Ext: total body anasarca. R UE swelling more pronounced than L
+UE swelling.
+Skin: Scattered ecchymoses.
+
+Pulses:
+Right: Carotid 1+ DP 1+ PT 1+
+Left: Carotid 1+ DP 1+ PT 1+
+
+Pertinent Results:
+LABORATORY DATA (from OSH):
+potassium 5.6, BUN 61, creatinine 2.8
+WBC 6.6, Hct 47, plt 133
+BNP 866 (normal 0-100)
+CK  111 --> 107
+Troponin  0.22 --> 0.24 --> 0.22
+
+LAB RESULTS (at [**Hospital1 18**]):
+[**2126-7-8**] WBC-5.6 RBC-4.20* Hgb-14.4 Hct-44.1 MCV-105* MCH-34.2*
+MCHC-32.5 RDW-15.3 Plt Ct-118*
+[**2126-7-13**] WBC-5.8 RBC-3.44* Hgb-12.3* Hct-34.5* MCV-100*
+MCH-35.7* MCHC-35.7* RDW-16.0* Plt Ct-178
+
+[**2126-7-8**] Glucose-60* UreaN-54* Creat-2.2* Na-131* K-4.5 Cl-95*
+HCO3-29
+[**2126-7-12**] Glucose-175* UreaN-51* Creat-2.2* Na-129* K-4.1
+[**2126-7-13**] Calcium-9.4 Phos-2.7 Mg-2.3
+
+[**2126-7-8**] ALT-21 AST-26 LD(LDH)-293* AlkPhos-175* TotBili-2.2*
+[**2126-7-8**] Albumin-3.4 Calcium-8.8 Phos-3.1 Mg-2.8*
+
+EKG from [**2126-7-8**] demonstrated v-paced (inconsistent) with atrial
+rate ~ 100. No ST/T wave changes
+
+IMAGING:
+2D-ECHOCARDIOGRAM performed on [**7-7**] at [**Location (un) **] demonstrated (by
+report):  LV not dilated; moderate biatrial enlargement. Marked
+septal thickening (2.2). LV walls considerably more thickened
+compared to [**2125-3-7**]. Elevated CVP 20 mmHg. Elevated PA
+systolic pressure (50 mmHg). EF ~ 10%. RV is dilated. Septal
+flattening consistent with volume overload. No significant
+valvular disease. Does have restrictive mitral inflow pattern.
+
+TTE performed on [**7-8**]: The left atrium is markedly dilated. The
+right atrium is markedly dilated. The estimated right atrial
+pressure is >20 mmHg. There is severe symmetric left ventricular
+hypertrophy. Overall left ventricular systolic function is
+severely depressed (ejection fraction 20 percent) secondary to
+akinesis of the inferior and posterior walls and severe
+hypokinesis of the inferior septum and lateral wall. Tissue
+Doppler imaging suggests an increased left ventricular filling
+pressure (PCWP>18mmHg). There is no ventricular septal defect.
+The right ventricular cavity is dilated. There is severe global
+right ventricular free wall hypokinesis. The aortic root is
+moderately dilated at the sinus level. The ascending aorta is
+mildly dilated. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Mild (1+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is borderline pulmonary artery systolic
+hypertension. There is a small pericardial effusion. There are
+no echocardiographic signs of tamponade. No right atrial or
+right ventricular diastolic collapse is seen. The mitral inflow
+is consistent with a restrictive filling pattern, a marker of
+severe diastolic and/or systolic dysfunction. Compared with the
+findings of the prior study (images reviewed) of [**2125-3-26**],
+the left ventricular ejection fraction is further depressed;
+right ventricular contractile function is now severely
+depressed.
+
+R upper extremity ultrasound performed on [**7-7**] at [**Location (un) **] was
+negative for DVT
+
+R upper extremity ultrasound on [**7-11**] demonstrated: No evidence of
+DVT in the right upper extremity.
+
+KUB on [**7-7**] at [**Location (un) **]: large amount of stool, mildly dilated
+small bowel loops which are nonspecific and probably due to
+ileus
+
+CXR (from [**Location (un) **], [**7-7**]): limited study with possible tiny
+pleural effusions or pleural thickening
+CXR [**7-8**] demonstrated: The heart is enlarged. Considerable
+tortuosity of the aorta is present. The position of the multiple
+pacemaker leads is unchanged since the prior chest x-

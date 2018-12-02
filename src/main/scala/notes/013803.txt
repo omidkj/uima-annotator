@@ -1,0 +1,226 @@
+Admission Date:  [**2146-12-26**]              Discharge Date:   [**2147-1-24**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+s/p fall
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+Tracheostomy
+Percutaneous gastrostomy tube placement
+
+History of Present Illness:
+Ms. [**Known lastname **] is a [**Age over 90 **]F with DM, HTN, s/p pacer placement for
+complete heart block transferred to [**Hospital1 18**] on the date of
+admission, s/p a fall 2 days prior to her arrival. In the
+incident, Ms. [**Known lastname **] was vacuuming at home and fell backwards,
+striking her head against toilet.  She denies loss of
+consciousness. A CT head was without acute changes, and the pt
+was noted to be dehydrated and had LLL PNA.  A CT C spine showed
+C2 and C5 laminar fractures, and the pt was transferred to [**Hospital1 18**]
+for neurosurgical evaluation.  At time of transfer, pt
+reportedly had no neuro deficits, was able to move all
+extremities, and c/o neck pain at times. She was initially
+admitted to the wards for ongoing treatment. Shortly after her
+admission, she was noted to have increasing O2 requirements.
+She was tachypneic to the 30s-40s, worse with being woken up.
+Her O2 requirement - initially 94% 4L NC - increased to 93% on
+6L NC, then up to 97-98% on 100% NRB.  At the time of eval, she
+was 95% on 12L and she was transferred to the MICU for closer
+monitoring with hypercarbic and hypoxemic respiratory failure.
+
+
+Past Medical History:
+DM2
+HTN
+complete heart block s/p pacer placement ([**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] trilogy DR[**Last Name (STitle) 71016**],
+[**2138**])
+cerebellar degeneration
+s/p partial thyroidectomy
+
+
+Social History:
+Lives independently, no tobacco or EtOH.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS: 96.6  136/74  83  28  95% 12L Venti
+Gen: appears somewhat tachypneic, more with being awakened; is
+sleeping on initial evaluation
+HEENT: neck in C collar
+CV: RRR, nl S1/S2, no murmurs
+Pulm: clear anteriorly, no wheezes or crackles
+Abd: soft, NT/ND, +BS, no masses
+Ext: no c/c/e
+
+
+Pertinent Results:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2147-1-24**] 03:13AM    11.2* 3.23* 9.3* 28.7* 89 28.9 32.4 15.4
+354
+Source: Line-rt PICC
+  DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+[**2147-1-19**] 03:07AM    71.5*   18.0 5.1 4.5* 0.9
+Source: Line-PICC
+RED CELL MORPHOLOGY Hypochr
+[**2147-1-19**] 03:07AM    1+
+Source: Line-PICC
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2147-1-24**] 03:13AM        354
+Source: Line-rt PICC
+[**2147-1-24**] 03:13AM    12.1 33.0   1.0
+Source: Line-rt PICC
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2147-1-24**] 03:13AM    80 30* 0.9 142 3.8 99 37* 10
+Source: Line-rt PICC
+  ESTIMATED GFR (MDRD CALCULATION) estGFR
+[**2147-1-19**] 03:07AM    Using this1
+Source: Line-PICC
+1 Using this patient's age, gender, and serum creatinine value
+of 1.2,
+Estimated GFR = 42 if non African-American (mL/min/1.73 m2)
+Estimated GFR = 51 if African-American (mL/min/1.73 m2)
+For comparison, mean GFR for age group 70+ is 75 (mL/min/1.73
+m2)
+GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure
+  ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+[**2146-12-28**] 05:16AM    9 10 207   49 51 0.6
+LFT ADDED [**12-28**] @ 09:12
+OTHER ENZYMES & BILIRUBINS Lipase
+[**2146-12-28**] 05:16AM    36
+LFT ADDED [**12-28**] @ 09:12
+CPK ISOENZYMES CK-MB MB Indx cTropnT
+[**2146-12-27**] 04:15AM    21* 2.7 <0.011
+1 <0.01
+CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+
+[**2147-1-24**] 03:13AM          10.8* 2.9 2.4
+Source: Line-rt PICC
+HEMATOLOGIC calTIBC Ferritn TRF
+[**2147-1-22**] 02:22AM    247* 201* 190*
+Source: [**Name (NI) 71017**]
+THYROID PTH
+[**2147-1-19**] 03:07AM    97*
+Source: Line-PICC
+  ANTIBIOTICS Vanco
+[**2147-1-22**] 07:27AM    15.21
+Source: Line-Right PICC; Vancomycin @ Trough
+1 UPDATED REFERENCE RANGE AS OF [**2146-7-27**] == REPRESENTS
+THERAPEUTIC TROUGH
+  LAB USE ONLY GreenHd HoldBLu RedHold
+[**2147-1-20**] 04:50PM        HOLD
+
+Blood Gas
+  BLOOD GASES Type Temp Rates Tidal V PEEP FiO2 O2 Flow pO2 pCO2
+pH calTCO2 Base XS Intubat Vent Comment
+[**2147-1-18**] 01:00PM    [**Last Name (un) **] 37.5               7.46*
+  WHOLE BLOOD, MISCELLANEOUS CHEMISTRY Glucose Lactate
+[**2146-12-30**] 02:26PM      0.9
+[**2146-12-30**] 08:08AM      0.6
+  HEMOGLOBLIN FRACTIONS ( COOXIMETRY) O2 Sat
+[**2147-1-2**] 03:03PM    94
+  CALCIUM freeCa
+[**2147-1-18**] 01:00PM    1.29
+
+
+CERVICAL SPINE CT WITHOUT INTRAVENOUS CONTRAST:
+
+The bones are severely demineralized. There is a comminuted
+fracture of the vertebral body of C2, which extends through the
+base of the odontoid (odontoid fracture type III, which is
+unstable). The odontoid fragment is displaced anteriorly by 4
+mm. A small posterior fragment of C2 vertebral body is displaced
+into the spinal canal (series 2, images 20-21) without any
+significant narrowing of the spinal canal. The fracture extends
+into the left vertebral foramen.
+
+There are minimally displaced fractures of the right and left
+lamina and the spinous process of C7. There is a nondisplaced
+fracture of the left lamina of T3. No definite fractures are
+identified at C5, although severe demineralization limits
+evaluation.
+
+Mild loss of vertebral body height, disc space narrowing,
+degenerative endplate changes and facet arthrosis is present at
+multiple levels. Disc/osteophyte complexes at C3/4, C4/5, and
+C5/6 result in mild narrowing of the spinal canal.
+
+The left mastoid is underpneumatized compared to the right and
+partially opacified. There is a retention cyst in the right
+maxillary sinus. The patient is intubated. The thyroid gland is
+diffusely enlarged and heterogeneous with multiple nodules.
+
+Findings and recommendations were discussed with Dr. [**First Name8 (NamePattern2) 698**]
+[**Last Name (NamePattern1) **] at 4:00 p.m. on [**2146-12-27**].
+
+IMPRESSION:
+1. Comminuted C2 fracture involving the odontoid (type III
+odontoid fracture), which is unstable. The fracture extends
+through the left vertebral foramen. If there is a clinical
+concern for vertebral dissection, MRA may be performed for
+further evaluation.
+2. Fracture of bilateral posterior elements of C7.
+3. Fracture of left T3 lamina.
+4. Partially opacified left mastoid air cells.
+5. Diffusely enlarged and nodular thyroid. Further evaluation by
+ultrasound is recommended, if not performed previously.
+
+OPERATIVE REPORT
+
+[**Last Name (LF) **],[**First Name3 (LF) **]
+Signed Electronically by [**Last Name (LF) **],[**First Name3 (LF) **] on MON [**2147-1-9**]
+9:11 AM
+
+
+Name:  [**Known lastname **], [**Known firstname **] [**Last Name (NamePattern1) **]
+Unit No:  [**Numeric Identifier 71018**]
+Service:  MED
+Date:  [**2147-1-5**]
+Sex:  F
+Surgeon:  [**First Name8 (NamePattern2) **] [**Name8 (MD) **], [**MD Number(1) 19187**]
+
+ASSISTANT:  [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD
+
+PREOPERATIVE DIAGNOSIS:  Respiratory failure.
+
+POSTOPERATIVE DIAGNOSIS:  Bronchoscopic-guided tracheostomy
+tube placement.
+
+PROCEDURE:  Flexible bronchoscopy with therapeutic aspiration of
+secretions.
+
+INDICATION FOR PROCEDURE:  Tracheostomy tube placement and
+therapeutic aspiration of secretions.
+
+DESCRIPTION OF PROCEDURE:  After informed consent was
+obtained, Ms. [**Known lastname **] was prepped with lidocaine applied to the
+endotracheal tube. A flexible bronchoscope was introduced
+through the ET tube and into the airway. There were a
+moderate amount of secretions throughout the airways which were
+therapeutically aspirated. There were no endobronchial lesions
+up
+to the subsegmental levels. Bronchoscopic imaging was then
+performed in order to guide a percutaneous tracheostomy tube
+insertion.  After the trachesotomy, a minimal amount of bloody
+secretions were removed with the bronchoscope.
+
+COMPLICATIONS:  None.
+OPERATIVE REPORT
+
+Name:  [**Known lastname **], [**Known firstname **] [**Last Name (NamePattern1) **]
+Unit No:  [**Numeric Identifier 71018**]
+Service:  MED
+Date:  [**2147-1-5**]
+Se

@@ -1,0 +1,208 @@
+Admission Date:  [**2176-6-15**]              Discharge Date:   [**2176-7-8**]
+
+
+Service: MED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+slurred speech
+
+Major Surgical or Invasive Procedure:
+hemodialysis access inserted [**2176-6-28**]
+Percutaneous tracheostomy [**2176-7-2**]
+PEG placement [**2176-7-2**]
+
+History of Present Illness:
+89 yo M w/ h/o R medullary stroke '[**70**], dementia, CAD, htn,
+hyperchol, and h/o AAA + femoral aneursyms s/p repair admitted
+[**2176-6-15**] w/ c/o speech slurring/L facial droop, confusion, and R
+hand/leg weakness. Intubated in the ER for hypoxic respiratory
+failure.
+
+Past Medical History:
+dementia, right medullary stroke ([**2170**]), CAD s/p CABG [**86**] yrs
+ago, CHF (EF 20%), htn, hyperchol, AAA s/p repair '[**59**], femoral
+aneurysm repair, PVD, CRI (baseline 2-2.4)
+
+
+Social History:
+He is a retired attorney who lives at home w/ a 24 hour
+assistant.  Before admission, he was ambulatory, dressed
+himself.  Does not use tobacco, alcohol, or other illicit drugs.
+
+Family History:
+No h/o stroke in family.
+No h/o aneurysm.
+
+Physical Exam:
+Gen:  nonverbal, unresponsive, agitates to stimuli
+heent: perrla (3->2mm), corneal reflexes intact, no doll's eyes,
+trach in place w/ no erythema or drainage
+cv:  s1/s2; no s3/s4/m/r
+pulm:  coarse BS t/o B, no crackles or wheezes
+abd:  scaphoid, soft, NT, +BS, PEG tube in place w/ no erythema
+or drainage
+ext:  2+ pitting edema to knees B, 1+ pitting edema to elbow in
+LUE, 2+ R pulses B, DP pulses non-palpable [**1-29**] edema
+neuro: moves both LE and RUE spontaneously, withdraws to pain in
+all extremities, bilateral upgoing toes and hyperreflex in bilat
+UE
+
+
+Pertinent Results:
+[**2176-7-6**] 05:09AM BLOOD WBC-7.6 RBC-3.55* Hgb-9.5* Hct-31.5*
+MCV-89 MCH-26.8* MCHC-30.1* RDW-16.7* Plt Ct-127*
+[**2176-6-30**] 02:28AM BLOOD Neuts-89.5* Lymphs-4.8* Monos-2.7 Eos-2.8
+Baso-0.3
+[**2176-6-15**] 10:20PM BLOOD FDP-10-40
+[**2176-6-15**] 01:51PM BLOOD Fibrino-128* D-Dimer-5422*
+[**2176-7-6**] 05:09AM BLOOD Glucose-97 UreaN-50* Creat-2.9* Na-146*
+K-4.1 Cl-110* HCO3-25 AnGap-15
+[**2176-7-5**] 04:41AM BLOOD ALT-33 AST-100* LD(LDH)-202 AlkPhos-58
+TotBili-0.5
+[**2176-7-6**] 05:09AM BLOOD Calcium-8.3* Phos-2.5* Mg-2.2
+[**2176-6-15**] 01:51PM BLOOD calTIBC-311 Ferritn-70 TRF-239
+
+[**2176-7-3**] 12:20 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2176-7-5**]**
+
+   GRAM STAIN (Final [**2176-7-3**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST.
+
+   RESPIRATORY CULTURE (Final [**2176-7-5**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------   <=1 S
+
+[**2176-6-26**] 4:00 pm BLOOD CULTURE      CORDIS.
+
+                            **FINAL REPORT [**2176-7-2**]**
+
+   AEROBIC BOTTLE (Final [**2176-7-2**]):    NO GROWTH.
+
+   ANAEROBIC BOTTLE (Final [**2176-7-2**]):    NO GROWTH.
+
+[**2176-6-26**] 3:05 pm BLOOD CULTURE      CVP.
+
+                            **FINAL REPORT [**2176-7-2**]**
+
+   AEROBIC BOTTLE (Final [**2176-7-2**]):    NO GROWTH.
+
+   ANAEROBIC BOTTLE (Final [**2176-7-2**]):    NO GROWTH
+
+[**2176-6-25**] 9:41 pm URINE
+
+                            **FINAL REPORT [**2176-6-27**]**
+
+   URINE CULTURE (Final [**2176-6-27**]):    NO GROWTH.
+
+
+Brief Hospital Course:
+NSURG course:   Noncontrast head CT revealed bilateral frontal
+contusions w/ SAH c/w trauma, though patient never told his
+family about a past fall but is now nonverbal. Serial CTs show
+stable contusion and stable SAH. Course also significant for new
+ARF on CRI w/diuresis, resp failure, chf. Transferred to MICU
+for further management of ongoing acute on chronic renal failure
+and ventilator dependent.
+
+MICU Course:  Pt transferred to MICU w/ stable frontal cerebral
+contusions and SAH, hypoxic respiratory failure, acute on
+chronic renal failure, CHF, and iron deficiency anemia.
+  1.  Cerebral contusions/SAH:  on transfer, he had a stable
+neuro exam:  nonverbal, unresponsive; moving both LE and the RUE
+spontaneously; withdrawing all limbs from pain.  He was treated
+with lopressor, hydralazine, and a nitrate to maintain SBP in
+the 140s; his outpatient ASA and Plavix were held to avoid
+exacerbating cerebral hemorrhage.  His neurological status
+remained stable throughout his MICU stay.
+  2.  Hypoxic respiratory failure:  the patient was intubated on
+SIMV on transfer.  His respiratory failure was thought to be [**1-29**]
+a combination of pulmonary edema and community acquired PNA.  He
+had just finished a 10-day course of levaquin for PNA upon
+transfer.  He was observed to have a variable respiratory drive,
+often with poor minute ventilation, likely [**1-29**] neuro insult.  He
+was transitioned from SIMV to MMV with maintenance of good O2
+sats.  He underwent tracheostomy on [**7-2**] in preparation for
+long-term ventilator dependence.  He received hemodialysis
+multiple times in the MICU for fluid removal in order to proceed
+towards extubation.  At DC, he remains stable on MMV with a
+tenuous respiratory drive.
+  3.  Acute on chronic renal failure:  on transfer, the pt
+demonstrated ARF likely [**1-29**] overdiuresis in the setting of
+intravascular volume depletion, with a creatinine of 4.1
+(baseline 2-2.2).  He was treated with IV hydration to maintain
+even fluid status, and underwent HD for total body fluid
+removal.  His renal fxn improved over his MICU course, with
+creatinine down to 2.9 at DC.
+  4.  CHF:  on transfer, he had improving pulmonary edema [**1-29**]
+CHF and hypoalbuminemia.  He was treated with lopressor,
+hydralazine, and isosorbide dinitrate, with rapid resolution of
+pulm edema.  On DC, he has no pulm edema by clinical exam.  Can
+consider changing hydralazine/isosorbide over to ace-inhibitor
+as tolerates as pt likely to remain on hemodialysis.
+  5.  Anemia:  labs indicate an iron deficiency anemia, likely
+[**1-29**] chronic slow GI bleed as stool is hemoccult positive.  On
+[**6-30**] HCT dropped below 28; he received 1U PRBCs, with appropriate
+increase in HCT to above 30.  HCT remained stable after
+transfusion until DC.  Will start niferex given iron studies of
+iron 36, ferritin 70, tibc 311.
+  6. GI/FEN: Pt is s/p feeding tube placement.  He will continue
+with his tube feeds.  Pt had episode of increased sodium which
+had improved with free water boluses through his NG tube.
+
+Discharge Medications:
+Active Medications [**Known lastname 109320**],[**Known firstname **]
+1. Acetaminophen 650 mg PO Q4-6H:PRN  Order date: [**6-27**] @ 1809
+2. Atorvastatin 10 mg PO QD  Order date: [**6-27**] @ 1809
+3. Bisacodyl 10 mg PO/PR [**Hospital1 **]:PRN  Order date: [**6-27**] @ 1809
+4. Calcium Gluconate 2 gm / 100 ml IV PRN for Ca<8.5  Order
+date: [**6-27**] @ 1809
+5. Docusate Sodium (Liquid) 100 mg PO BID  Order date: [**6-27**] @
+1809
+6. Hydralazine HCl 20 mg NG Q6H hold for MAP < 60  Order date:
+[**7-3**] @ 1043
+7. Isosorbide Dinitrate 20 mg NG TID hold for MAP < 60  Order
+date: [**7-3**] @ 1438
+8. Lansoprazole Oral Suspension 30 mg NG QD  Order date: [**6-27**] @
+1809
+9. Lorazepam 0.5 mg IV Q4-6H:PRN agitation  Order date: [**7-1**] @
+[**2123**]
+10. Metoprolol 50 mg PO TID hold for sbp < 120 or hr < 60  Order
+date: [**7-4**] @ 1357
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospi

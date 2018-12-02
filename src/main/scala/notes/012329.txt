@@ -1,0 +1,229 @@
+Admission Date:  [**2167-4-4**]              Discharge Date:   [**2167-4-15**]
+
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 148**]
+Chief Complaint:
+1. Epigastric Pain
+2. Chest pain
+
+
+Major Surgical or Invasive Procedure:
+[**2167-4-4**]: ERCP
+[**2167-4-6**]: ERCP
+[**2167-4-8**]: 1. Distal gastrectomy with Billroth II reconstruction
+and
+partial duodenectomy.
+2. Open cholecystectomy.
+
+
+History of Present Illness:
+87M with significant cardiac history p/w 4 days of epigastric
+and chest pain radiating into the back.  Patient presented to ED
+Friday evening after no improvement in the pain. He reports
+having subject fevers at home, though he never measured his
+temperature.  Otherwise he denies nausea, vomiting, shortness of
+breath.  He did report some constipation over the past few days
+though reports having a bowel movement today.
+
+
+Past Medical History:
+1. Coronary artery disease status post coronary artery
+bypass graft in [**2144**] and [**2142**]
+2. Left ventricular aneurysm.
+3. Congestive heart failure with ejection fraction less than
+20% from the echocardiogram in [**2160-6-10**]. He had a
+biventricular implantable cardioverter-defibrillator placed
+in [**2160-6-10**].
+4. s/p IMI
+5. AAA - repaired in [**2147**]
+6. Chronic obstructive pulmonary disease.
+7. Hypertension.
+8. Hyperlipidemia status post appendectomy in [**2092**].
+9. BPH
+10. DM2
+
+
+Social History:
+1 PPD x 30 years
+
+He grew up in [**Location (un) 3146**], [**State 350**]. He is a veteran of the
+Army. He was in the air corps. He is married, has a wife and
+three grown children. He is a retired fireman and insurance
+salesman. No tobacco use. He did smoke but quit 20 years ago. He
+is an ex-smoker for 50 pack per year, he quit in [**2142**]. No
+intravenous drug use. Social alcohol use. No drug use.
+
+
+Family History:
+Significant for father dying of lung cancer and mother dying of
+myocardial infarction at age 65.
+
+
+Physical Exam:
+On Admission:
+T100.6 HR102 BP148/80 RR24 O299 RA
+NAD
+PERRL, EOMI b/l, sclera anicteric
+Neck supple
+CV: RRR, paced
+Pulm: CTA b/l
+Abd: soft, min TTP in RUQ, non distended, no rebound/gaurding,
+neg [**Doctor Last Name 515**] sign
+Ext: no edema
+
+On Discharge:
+VS: T 97.4, HR 83, BP 115/65, RR 18, 94% RA
+Gen: NAD
+CV: RRR, paced
+Lungs: CTAB
+Abd: Midline incision with staples, clean/dry and intact. JP
+site with suture c/d/i. Soft, tenderness around incision site.
+Nondistended
+Ext: Warm, no c/c/e
+
+
+Pertinent Results:
+[**2167-4-3**] 08:10PM   WBC-14.8*# RBC-4.67 HGB-13.9* HCT-40.8 MCV-87
+MCH-29.8 MCHC-34.2 RDW-13.4
+[**2167-4-3**] 08:10PM   NEUTS-95.5* LYMPHS-1.7* MONOS-2.0 EOS-0.5
+BASOS-0.4
+[**2167-4-3**] 08:10PM   PT-21.7* PTT-29.8 INR(PT)-2.0*
+[**2167-4-3**] 08:10PM   GLUCOSE-207* UREA N-26* CREAT-1.4* SODIUM-137
+POTASSIUM-4.2 CHLORIDE-101 TOTAL CO2-20* ANION GAP-20
+[**2167-4-3**] 08:10PM   ALT(SGPT)-313* AST(SGOT)-402* ALK PHOS-135*
+TOT BILI-2.9*
+[**2167-4-3**] 08:10PM   LIPASE-23
+[**2167-4-3**] 09:15PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-12* PH-5.0 LEUK-NEG
+[**2167-4-3**] 09:15PM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE
+EPI-0 TRANS EPI-0-2
+[**2167-4-8**] 06:58AM BLOOD WBC-10.4 RBC-4.41* Hgb-12.7* Hct-39.5*
+MCV-90 MCH-28.9 MCHC-32.2 RDW-14.2 Plt Ct-168
+[**2167-4-8**] 06:58AM BLOOD PT-14.9* PTT-29.1 INR(PT)-1.3*
+[**2167-4-8**] 06:58AM BLOOD Glucose-121* UreaN-9 Creat-0.9 Na-141
+K-3.8 Cl-109* HCO3-23 AnGap-13
+[**2167-4-8**] 06:58AM BLOOD ALT-67* AST-62* LD(LDH)-220 AlkPhos-115
+TotBili-1.0
+[**2167-4-8**] 06:58AM BLOOD Calcium-8.1* Phos-2.6* Mg-2.0
+
+[**2167-4-3**] 8:15 pm BLOOD CULTURE
+                      **FINAL REPORT [**2167-4-6**]**
+Blood Culture, Routine (Final [**2167-4-6**]):
+ESCHERICHIA COLI.
+IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE #
+296-0154H [**2167-4-3**]. Anaerobic Bottle Gram Stain (Final [**2167-4-4**]):
+   GRAM NEGATIVE ROD(S).
+Aerobic Bottle Gram Stain (Final [**2167-4-4**]):    GRAM NEGATIVE
+ROD(S).
+SENSITIVITIES: MIC expressed in MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+[**2167-4-9**] 6:20 am MRSA SCREEN      Source: Nasal swab.
+**FINAL REPORT [**2167-4-11**]**
+MRSA SCREEN (Final [**2167-4-11**]):    No MRSA isolated
+
+[**2167-4-3**] EKG:
+Ventricular paced rhythm. Compared to the previous tracing of
+[**2164-5-6**] there is no change.
+[**2167-4-3**] CHEST XRAY:
+IMPRESSION: Chronic interstitial lung disease, most pronounced
+at the lung
+bases, similar to prior. No acute cardiopulmonary abnormality
+otherwise
+visualized.
+[**2167-4-3**] ABD CT:
+IMPRESSION: 1. Obstructive choledocholithiasis at the distal CBD
+resulting in severe intrahepatic and extrahepatic biliary ductal
+dilatation. Recommend ERCP to further assess.
+2. No pulmonary embolism or acute aortic pathology. Mild
+infrarenal aortic
+ectasia.
+3. Calcified pleural plaques with pulmonary fibrosis with lower
+lobe
+predominance, compatible with asbestosis. Multiple pulmonary
+nodules, grossly similar or slightly larger in appearance, for
+which a nonurgent dedicated CT chest is recommended for further
+evaluation.
+4. Significant aortic calcification, but major intra-abdominal
+arteries are patent.
+5. Large right exophytic renal cyst.
+
+[**2167-4-4**] ERCP:
+Impression: 1. A moderate amount of semi solid food residue was
+noted in the stomach.
+2. A stricture was seen in the pylorus. The scope did not
+traverse the lesion.
+3. A 12mm balloon was introduced for dilation and the diameter
+was progressively increased to 15 mm successfully.
+4. The duodenoscope was then successfully passed into the
+duodenum.
+5. A mass was found at the duodenal bulb. Due to duodenal
+deformity, we were unable to position the scope in front of the
+ampulla to attempt biliary cannulation. Large capacity forceps
+biopsies were performed for histology at the mass in the
+duodenal bulb.
+6. Mass in the duodenal bulb
+7. Otherwise normal ercp to third part of the duodenum
+
+[**2167-4-5**] EKG:
+Normal sinus rhythm, rate 81, with ventricular synchronous
+pacing. Occasional ventricular premature beat. Compared to the
+previous tracing of [**2167-4-3**] sinus tachycardia has given way to
+normal sinus rhythm and ventricular ectopy is new.
+
+[**2167-4-6**]: ERCP:
+Impression: Small ulcer noted at the pylorus, which was stenotic
+but improved after dilation 2 days ago.
+Mass in the duodenal bulb as seen previously - biopsies pending
+A single diverticulum with large opening was found at the major
+papilla.
+Cannulation of the biliary duct was successful and deep with a
+sphincterotome after a guidewire was placed.
+Contrast medium was injected resulting in complete
+opacification.
+A moderate diffuse dilation was seen at the biliary tree with
+the CBD measuring 18 mm.
+Three round stones ranging in size from 8 mm to 12 mm that were
+causing partial obstruction were seen at the lower third of the
+common bile duct.
+There was post-obstructive dilation.
+A sphincterotomy was performed in the 12 o'clock position using
+a sphincterotome over an existing guidewire.
+4 large stones and biliary sludge were extracted successfully
+using a 15 mm balloon.
+The bile duct was clear at the end of the procedure
+Otherwise normal ercp to third part of the duodenum
+
+[**2167-4-7**] CARDIAC PERFUSION PERSANTINE:
+INTERPRETATION:
+The image quality is adequate.
+Left ventricular cavity size is normal, with EDV of 114 mL.
+Rest and stress perfusion images reveal a severe fixed inferior
+wall defect.
+Gated images reveal mild global hypokinesis.
+The calculated left ventricular ejection fraction is 47%.
+IMPRESSION: Severe fixed inferior wall defect. Mild global
+hypokinesis.
+
+[**2167-4-8**]             Pathology Examination
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 109061**],[**Known first

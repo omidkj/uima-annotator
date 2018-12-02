@@ -1,0 +1,192 @@
+Admission Date:  [**2112-7-10**]              Discharge Date:   [**2112-7-15**]
+
+Date of Birth:  [**2034-5-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Patient had a repeat bronchoscopy on [**2112-7-11**], performed by Dr.
+[**First Name8 (NamePattern2) **] [**Name (STitle) **], to observe the patency of the stent
+previously placed in his left mainstem bronchus for invasive
+esophageal cancer. Report stated that the stent was
+approximately 50% obstructed by tumor/granulation tissue, and
+showed proximal migration of the
+stent into the trachea, jailing the right mainstem bronchus. No
+significant change was noted from previuos bronchoscopy on
+[**2112-6-20**]. Recommendations were close surveillance with a follow
+up bronchoscopy in two weeks. Removal of the stent was not
+recommended due to tumor ingrowth, and balloon dilation of the
+stent would be considered if the patient continued to have
+problems with airway obstruction.
+
+
+History of Present Illness:
+78M w/ esophageal CA (s/p resection and stent placement),
+prostate CA, and GERD presenting from an OSH after admission for
+respiratory failure. He was in his USOH until [**7-7**] when he
+became acutely dyspneic. He was intubated in the field by EMS
+and sent to an OSH where he was dx w/ MRSA PNA (ceftaz/azithro
+-> zosyn/azithro/vanco -> vanco alone). He failed extubation
+twice between [**7-7**] -> [**7-10**] because of secretions but was
+extubated successfully prior to transfer on [**7-10**].
+.
+At [**Hospital1 18**], he underwent repeat broncoscopy showing a proximal
+migration of his stent w/ near-complete obstruction of the R
+mainstem bronchus. No intervention was attempted given the fact
+that there little change from his previous bronch in [**6-16**] and
+significant tumor ingrowth over the stent. He tolerated the
+procedure well w/out need for intubation and was called out to
+medicine for further management.
+
+
+Past Medical History:
+- Esophageal adenocarcinoma s/p Ivor-[**Doctor Last Name **] esophagectomy [**4-12**]
+with recurrence [**2110**], currently undergoing chemotherapy
+- s/p left mainstem bronchus stenting [**2-17**] [**2-12**] tumor invasion,
+complicated by cardiogenic shock, bronch in [**6-16**] revealed some
+proximal stent migration and nonobstructive (50-60% of lumen)
+tumor growth at the distal end of the stent
+- Prostate CA s/p XRT (dx ~10 years ago), currently on Casodex
+and Zoladex
+- Throat cancer in [**2096**] s/p radiation and surgery
+- GERD
+
+
+Social History:
+The patient [**Doctor Last Name **] with family ( wife and grand-daughter). He is
+a vacuum system mechanic,and was in the Navy before that.
+Patient reports being exposed to asbestos about 30 years prior,
+during his time in Navy shipyards. Patient admitted to ETOH use,
+approximately 4 cans per day. He has a 25 pack/year history of
+tobacco use, but quit in [**2096**].
+
+
+Family History:
+Patient had a brother who died of esophageal cancer at age 65.
+Patient also mentioned that multiple deceased family members had
+carried a diagnosis of cancer,but he could not recall the
+specifics.
+
+
+Physical Exam:
+PE: 97.3, 180/90, 83, 20, 98% 4L
+Gen: Elderly [**Male First Name (un) 4746**] lying in bed in NAD
+HEENT: MMM, O/P clear, pupils equal and reactive, no cervical
+LAD
+CV: RRR, 2/6 SEM at the LUBS
+Lungs: Coarse inspiratory and expiratory breath sounds w/ a
+prolonged expiratory phase (L>R)
+Abd: S/NT/ND, +BS, -HSM
+Ext: No C/C/E, cool but quick capillary refill
+Neuro: Appropriate in conversation and moving all his
+extremities spontaneously
+Skin: No rashes
+
+
+Pertinent Results:
+[**2112-7-11**] 04:57AM BLOOD WBC-7.4 RBC-3.52* Hgb-11.6* Hct-33.8*
+MCV-96 MCH-32.9* MCHC-34.3 RDW-18.7* Plt Ct-175
+[**2112-7-15**] 06:10AM BLOOD WBC-7.2 RBC-3.52* Hgb-11.8* Hct-33.4*
+MCV-95 MCH-33.5* MCHC-35.4* RDW-17.9* Plt Ct-214
+[**2112-7-14**] 03:40AM BLOOD PT-12.5 PTT-26.0 INR(PT)-1.1
+[**2112-7-11**] 04:57AM BLOOD Glucose-145* UreaN-20 Creat-0.9 Na-141
+K-3.2* Cl-103 HCO3-30 AnGap-11
+[**2112-7-15**] 06:10AM BLOOD Glucose-100 UreaN-9 Creat-0.8 Na-139
+K-3.8 Cl-99 HCO3-34* AnGap-10
+[**2112-7-14**] 03:07PM BLOOD Calcium-8.6 Phos-2.3* Mg-2.0
+[**2112-7-13**] 08:04PM BLOOD Type-ART pO2-346* pCO2-51* pH-7.37
+calTCO2-31* Base XS-3
+[**2112-7-13**] 06:28PM BLOOD Type-ART pO2-160* pCO2-113* pH-7.05*
+calTCO2-33* Base XS--2RESPIRATORY CULTURE (Final [**2112-3-8**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      STAPH AUREUS COAG +.    RARE GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+
+[**7-10**] UPRIGHT AP CHEST: A left central catheter has been placed
+via the subclavian approach, with the tip overlying the left
+side of the superior mediastinum and aorta. The left main stem
+bronchus stent protrudes into the trachea, at the carina. No
+pneumothorax is seen. There is a left pleural effusion, moderate
+and left lower lobe atelectasis. The right lateral costophrenic
+angle is excluded from the image, but appears blunted were seen.
+There are degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. Probable arterial central catheter placement. This finding
+was discussed with Dr. [**Last Name (STitle) 656**] at the time of interpretation on
+[**7-12**].
+2. Left effusion and left lower lobe atelectasis.
+
+[**7-13**] Chest CT. IMPRESSION:
+
+1. Progression of mediastinal metastatic disease, including
+lymphadenopathy and mediastinal and left hilar mass.
+
+2. Progression of narrowing of left segmental bronchi distal to
+left mainstem bronchial stent.
+
+3. Mixed interval behavior of pulmonary metastases, with
+individual nodules appearing stable to equivocally increased,
+but with increased left upper lobe opacity, possibly suggestive
+of lymphangitic spread of tumor.
+
+[**7-13**] ECG Sinus rhythm with ventricular and atrial premature
+beats. No significant change
+compared to the previous tracing of [**2112-7-10**]
+
+
+Brief Hospital Course:
+At [**Hospital1 18**], he underwent repeat broncoscopy showing a proximal
+migration of his stent w/ near-complete obstruction of the R
+mainstem bronchus. No intervention was attempted given the fact
+that there little change from his previous bronch in [**6-16**] and
+significant tumor ingrowth over the stent. He tolerated the
+procedure well w/out need for intubation and was called out to
+medicine for further management.
+.
+On the floor, the patient was stable and w/out significant
+complaints. He was continued on IV Vancomycin for his MRSA
+pneumonia. He notes that his breathing is much better than it
+was at home and he denied any CP, abdominal pain, N/V, diarrhea,
+weakness, paresthesias, HA, or dizziness.  He developed
+tachycardia up to 150's on [**7-13**], unclear whether sinus or not.
+Tachycardia was ubnresponsive to fluid bolus.  the paient was
+asymptomatic throughout episode.  He was transferred to MICU,
+given Metoprolol 25mg TID, and his HR dropped to 80s.  He has
+been stable in the 80's since receiving metoprolol.
+Radiation Oncology consulted with the patient, and after
+reviewing his old records, and discussing the patient's goals of
+treatment, it was decided not to proceed with further radiation.
+ The patient was transferred back to the floor, where he
+remained stable.  He had one episode of a 12 beat run of VT on
+[**7-14**].  He was completely asymptomatic, without chest pain or
+hypotension. His metoprolol was increased to 37.5mg PO tid, and
+he did not have any further runs of VT on [**7-15**].  The patient's
+breathing and cough continued to be a problem, and were both
+relieved with nebulizers, saline mask, mucinex, guafenesin with
+codeine.  On [**7-15**], the patient was discharged per his request.
+He was afebrile, with stable vital signs. He was instructed to
+follow-up with interventional pulmonology, and to continue a
+course of linezolid.
+
+Medications on Admission:
+Lansoprazole 30 mg daily
+Albuterol/Ipratropium q6hrs prn
+Casodex 50 mg daily
+Zoladex every three months
+Cough syrup with codeine
+
+Discharge M

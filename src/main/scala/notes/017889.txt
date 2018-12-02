@@ -1,0 +1,201 @@
+Admission Date:  [**2102-12-25**]              Discharge Date:   [**2103-1-1**]
+
+Date of Birth:  [**2030-9-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1436**]
+Chief Complaint:
+worsening shortness of breath, recurrent pericardial effusion
+found on routine echo
+
+Major Surgical or Invasive Procedure:
+Pericardial window ([**2102-12-28**])
+
+
+History of Present Illness:
+72M with PMH of DM, AFib on coumadin, and RA complicated by
+pericardial effusion and tamponade in [**5-6**], transferred from
+[**Hospital1 **]-[**Location (un) 620**] for further evaluation and management of recurrent
+pericardial effusion and tamponade seen on routine repeat echo.
+.
+Patient had past admission on [**5-5**]/09 for fatigue, edema,
+and decreased exercise tolerance. Found to have pericardial
+effusion, underwent pericardiocentesis with removal 300 cc clear
+slightly blood-tinged pericardial fluid, with decrease in
+pericardial pressure from 26 to 10 mmHg. Patient also underwent
+pericardial drain placement. Pericardial fluid culture and
+cytology returned negative. Fluid analysis revealed WBC# 6100
+(81% PMN), RBC [**Numeric Identifier 83167**] TP 5.1 albumin 2.9 gluc 4 LDH 4230. The
+effusion was attributed to RA, but methotrexate was discontinued
+(and prednisone increased from 20 to 30 mg daily) in case the
+former was contributing.
+.
+Routine follow-up TTE today at [**Hospital1 **]-[**Location (un) 620**] showed a small to
+moderate mainly anterior pericardial effusion with diastolic
+right ventricular collapse suggestive of tamponade. Transferred
+to the [**Hospital1 18**] ED for further management, where triage V/S 98 125
+138/83 18 94%RA. HR 101 without intervention. Labs notable for
+INR 3.7, Hct 30.5. EKG showed low voltage in the limb leads. CXR
+showed only bibasilar linear atelectasis. Vital signs prior to
+transfer 95 132/87 20 97%RA.
+.
+On the floor, patient is feeling relatively well. Reports having
+some shortness of breath, but is at his baseline due to his
+COPD. Denies any chest pain, worsening SOB, orthopnea,
+palpitations, headache, lightheadedness, dizziness.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes(+), Dyslipidemia(?),
+Hypertension(+)
+2. CARDIAC HISTORY:
+-CABG: None
+-PERCUTANEOUS CORONARY INTERVENTIONS: None
+-PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY:
+- Rheumatoid arthritis: Diagnosed within the past one year.
+Usually takes Tylenol for pain control. Recently (within the
+past one month) was started on methotrexate.
+- COPD
+
+
+Social History:
+Retired. Drinks once per week. Denies tobacco, illicit drug use
+now or in the past. Lives with wife. [**Name (NI) **] a daughter. Currently
+volunteers at hospital cafe.
+
+
+Family History:
+No FH of RA.
+Denies history of early MI.
+
+Physical Exam:
+VS: T 98.2, BP 128/84, HR 97, RR 18, SO2 100% RA, Pulsus 5-7mmHg
+GENERAL: WDWN male in NAD. AAOx3. Mood, affect appropriate.
+Resting comfortably
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI, MMM
+CV: RRR, S1S2, no murmurs, rubs.  Slightly distant heart sounds
+LUNGS: Diffuse rhonchi, good air movement, resp unlabored
+ABD: Obese, soft, NT, ND, no HSM or tenderness
+EXT: WWP, 2+ radial and DP pulses.  1+ LE edema b/l
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Pertinent Results:
+CBC
+[**2102-12-26**] 05:10AM BLOOD WBC-7.3 RBC-3.57* Hgb-9.1* Hct-28.5*
+MCV-80* MCH-25.4* MCHC-31.8 RDW-18.6* Plt Ct-264
+[**2102-12-25**] 06:30PM BLOOD WBC-9.2 RBC-3.73* Hgb-9.6* Hct-30.5*
+MCV-82 MCH-25.7* MCHC-31.5 RDW-18.0* Plt Ct-253
+
+Coags
+[**2102-12-26**] 05:10AM BLOOD PT-30.0* PTT-30.0 INR(PT)-3.0*
+[**2102-12-25**] 06:30PM BLOOD PT-35.8* PTT-30.3 INR(PT)-3.7*
+
+Chemistry
+[**2102-12-26**] 05:10AM BLOOD Glucose-190* UreaN-25* Creat-1.3* Na-140
+K-4.3 Cl-104 HCO3-27 AnGap-13
+[**2102-12-25**] 06:30PM BLOOD Glucose-274* UreaN-28* Creat-1.2 Na-138
+K-4.3 Cl-102 HCO3-25 AnGap-15
+
+Echocardiogram ([**2102-12-25**])
+FINDINGS:
+Overall left ventricular systolic function is low normal (LVEF
+50-55%). Right ventricular chamber size and free wall motion are
+normal. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic regurgitation. The
+mitral valve appears structurally normal with trivial mitral
+regurgitation. There is a small to moderate sized pericardial
+effusion. There is right ventricular diastolic collapse,
+consistent with impaired fillling/tamponade physiology.
+
+IMPRESSION:
+Limited study,. Overall left ventricular systolic function is
+low normal. A small to moderate mainly anterior pericardial
+effusion is present with diastolic right ventricular collapse
+suggestive of tamponade.
+Reffering physician [**Name Initial (PRE) 13109**].
+
+Additional In-house Read:
+Small amount of pericardial fluid and no evidence of RV
+diastolic collapse.
+.
+ECHO [**2102-12-30**]
+GENERAL COMMENTS: Suboptimal image quality - bandages,
+defibrillator pads or electrodes. Suboptimal image quality -
+body habitus. The patient appears to be in sinus rhythm.
+.
+Conclusions
+The left atrium is normal in size. Overall left ventricular
+systolic function is probably normal although views are
+technically suboptimal. Due to suboptimal technical quality, a
+focal wall motion abnormality cannot be fully excluded. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets are mildly thickened (?#). There is no
+valvular aortic stenosis. The increased transaortic velocity is
+likely related to high cardiac output. The mitral valve leaflets
+are mildly thickened. Physiologic mitral regurgitation is seen
+(within normal limits). There is a trivial pericardial effusion.
+
+.
+Compared with the prior study (images reviewed) of [**2102-5-26**],
+the pericardial effusion is now smaller.
+.
+AP Chest [**2102-12-31**]
+Study is limited as the lung bases have been excluded from the
+field of view. There is again seen some streaky densities at the
+bases most consistent with subsegmental atelectasis which is
+unchanged. The upper lung fields are clear without focal
+consolidation or signs of overt pulmonary edema. Cardiac
+silhouette is unchanged, within normal limits.
+.
+
+CHEST (PORTABLE AP)	Study Date of [**2102-12-25**] 6:28 PM
+UPRIGHT AP VIEW OF THE CHEST: Cardiac silhouette is normal in
+size. The
+mediastinal and hilar contours are unremarkable. Pulmonary
+vascularity is
+normal. Linear opacities within both lung bases are compatible
+with linear
+atelectasis. No focal consolidation, pleural effusion or
+pneumothorax is
+visualized. No acute skeletal abnormalities are seen.
+
+IMPRESSION: Bibasilar linear atelectasis. No acute
+cardiopulmonary
+abnormality otherwise visualized.
+.
+CXR [**2103-1-1**]
+IMPRESSION: Heterogeneous opacification at both lung bases has
+improved since
+[**12-30**], probably atelectasis. On the left, it is conceivable
+that
+pneumonia was present and is rapidly clearing, but there is no
+new or
+worsening consolidation. There is no pulmonary edema, pleural
+effusion or
+mediastinal widening. Heart size is normal
+
+Brief Hospital Course:
+72M with PMH of DM, AFib on coumadin, and RA complicated by
+pericardial effusion and tamponade in [**5-6**], presents with
+recurrent pericardial effusion concerning of tamponade and
+complaints of some progressive shortness of breath.
+
+#. Pericardial effusion - patient has had history of pericardial
+effusion in the past, thought to be a complicaton of RA. Had a
+pericardiocentesis with drain placement in 5/[**2101**]. Initially had
+methotrexate discontinued for concerns of worsening pericardial
+effusion, but was restarted back on it in [**Month (only) 205**] when patient did
+not tolerate Humira well. Patient has been receiving regular
+follow up with his cardiologist with a repeat echo every 6
+weeks.  His echo read done at [**Location (un) 620**] showed a small to moderate
+mainly anterior pericardial effusion with evidence of diastolic
+right ventricular collapse suggestive of tamponade.  An
+additional read done by cardiology service here showed small
+amount of fluid with no evidence of RV diastolic collapse.  He
+was hemodynamically stable during his admission and breathing
+was not labored, although reported to be slightly worse over the
+last few weeks.  Pulsus was checked twice a day and remained

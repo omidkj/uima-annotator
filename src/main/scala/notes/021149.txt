@@ -1,0 +1,154 @@
+Admission Date:  [**2141-5-28**]              Discharge Date:   [**2141-6-3**]
+
+Date of Birth:  [**2059-1-20**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2777**]
+Chief Complaint:
+R foot pain/weakness
+
+Major Surgical or Invasive Procedure:
+[**2141-5-28**] - R SFA-AKA [**Doctor Last Name **] stent, R BK [**Doctor Last Name 39865**] PTA
+[**2141-5-29**] - b/l CIA stent, evac retroperitoneal hematoma, R CFA
+repair, L CFA endarterectomy
+[**2141-6-1**] - L brachial artery exploration
+
+History of Present Illness:
+82yo F with CAD s/p MI developed R foot weakness and pain
+last evening, called her daughter at 2am.  She noted the foot to
+appear pale, feel cool, and absent pulses.  Brought to [**Hospital3 9683**] where noted pulmonary infiltrate c/w PNA, rx'd
+Levaquin,
+and obtained Head CT (reportedly negative).  Upon transfer to
+[**Hospital1 18**], CTA obtained and vascular surgery subsequently consulted.
+
+Pt currently reports constant pain in R foot.  No prior
+episodes.
+
+ROS: recent cough/URI symptoms, with mild dyspnea currently. no
+CP or palpitations.  no HA or dizziness.  no dysuria.  no
+history
+of CVA, remote h/o gastric ulcer
+
+
+Past Medical History:
+CAD s/p MI (~5y ago), hypothyroid, gastroparesis, glaucoma,
+peptic ulcer
+PSH: appy, hysterectomy
+
+
+Social History:
+former Tob, quit 20y ago after 2ppd. no EtOH
+
+Family History:
+EtOH cirrhosis, CVA/CAD
+
+Physical Exam:
+on admission:
+
+97.9  79s  174/82  32  100% on NRB
+A&Ox3, NAD
+BL rales
+RRR sans M/R/G
+soft, mild distended, NT. well-healed lower midline scar without
+hernia.
+(rectal deferred during setup of CPAP, but reportedly guaiac
+negative per ED)
+RLE: below ankle is cool to touch (not cold), pale, insensate,
+with decreased motor strength compared to contralateral side
+that
+is normal is those regards.
+Pulses:  Fem   [**Doctor Last Name **]   DP    PT
+R        1+    none  none  none
+L        2+    dop   mono  none
+
+
+Pertinent Results:
+[**2141-5-28**] 09:10AM   WBC-8.6 RBC-3.26* HGB-10.6* HCT-30.1* MCV-92
+MCH-32.6* MCHC-35.3* RDW-13.6
+[**2141-5-28**] 09:10AM   cTropnT-0.29*
+[**2141-5-28**] 09:10AM   CK-MB-6 proBNP-1646*
+[**2141-5-28**] 09:10AM   GLUCOSE-134* UREA N-24* CREAT-0.8 SODIUM-126*
+POTASSIUM-3.8 CHLORIDE-92* TOTAL CO2-22 ANION GAP-16
+
+Brief Hospital Course:
+Ms. [**Known lastname 9201**] was seen by our vascular surgical service in the ER
+on [**2141-5-28**], and was diagnosed with occlusion of both of her
+superficial femoral arteries resulting in RLE ischemia.  She was
+started on a heparin drip and bolus, and taken to the operating
+room emergently, where an angiojet thrombectomy of the right SFA
+and popliteal thrombus and R SFA stent was placed and
+angioplasty performed on the R BK poplitial arteria and AT
+artery and a lysis catheter was placed in the bk [**Doctor Last Name **] / AT.  She
+was continued on her TPA and low dose
+heparin drip, and transferred to the CVICU.  She was found to
+have a pulseless L foot, so her sheath was downgraded to a 5Fr
+sheath, the lysis catheter was removed and the TPA was stopped
+and full dose heparin was started with immediate return of
+doppler signals to her foot after the sheath change.  Her
+troponin also increased dramatically, and the cardiology service
+was consulted.
+
+She was found to have a L common iliac artery rupture on [**5-29**] and
+taken back to the operating room emergently on [**2141-5-29**] for
+treatment of a retroperitoneal bleed, b/l iliac stent grafts,
+b/l CFA repairs, left SFA embolectomy, and an aortic stent.
+Given her recent esophageal dilatation for CREST syndrome she
+was not a candidate for TEE and underwent a TTE which showed no
+apical thrombus.  She was presumed to have either left atrial
+thrombus (as she had evidence of likely bilateral lower
+extremity embolization and had a history of palpitations with
+multiple prior holter monitors) or a severe prothrombotic state
+with hypoperfusion/dehydration related to MI and CHF as the
+etiologic event.  However, given her severe hemorrhage we
+elected to proceed without heparin at this time.
+
+ She remained anemic, requiring multiple units of PRBC, and
+developed evidence of shock liver.  On [**2141-6-1**] she developed
+rapid AFib, and was started on an amiodarone drip. Her L hand
+was noted to be acutely ischemic, and she was taken back to the
+OR, where brachial artery exploration revealed no evidence of
+thrombus or embolus.
+
+Renal was consulted for her gradually rising creatinine, and
+determined that she likely had contrast and
+hypoperfusion-related ATN, and would likely need dialysis.  The
+family, who remained quite involved throughout her hospital
+stay, decided that she would not have wanted to undergo a
+prolonged hospital stay or dialysis, with likely chronic nursing
+home care to follow, and as her renal failure and liver failure
+continued to worsen, decided to withdraw care on [**2141-6-3**].
+
+Medications on Admission:
+ecASA 81', prednisone 5', lopressor 25', nifedipine XL 60',
+isosorbide dinitrate 20'', lipitor 10', SL nitro prn, prilosec
+20', levothyroxine 50', metamucil, miralax, MVI, floragen, vitD
+[**Numeric Identifier 1871**]', vitC, vitE 400', Fe, compazine prn, zofran prn, timolol
+0.5% OU, travatan 0.004% OU hs, tylenol prn
+
+Discharge Medications:
+none.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Peripheral arterial disease
+Acute ischemia of RLE
+Acute ischemia of L hand
+Multisystem organ failure
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+none.
+
+Followup Instructions:
+none.
+
+
+Completed by:[**2141-6-3**]

@@ -1,0 +1,226 @@
+Admission Date:  [**2185-3-9**]              Discharge Date:   [**2185-3-22**]
+
+Date of Birth:  [**2115-10-24**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Vancomycin
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Angina
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafts (LIMA-LAD,SVG-OM,SVG-RI,SVG-PDA)
+[**2185-3-16**]
+left heart catheterization, coronary angiogram
+
+
+History of Present Illness:
+This 69 year old white male with medical history as noted has
+previously undergone coronary intervention.  He developed
+recurrent angina ans was admitted for catheterization.  This
+revealed triple vessel disease with well preserved ventricular
+function.  He was referred for revascularization.
+
+Past Medical History:
+Hyperlipidemia
+hypertension
+s/p right total knee replacement
+left leg claudication
+insulin dependent diabetes mellitus
+obstructive sleep apnea (w/o BiPAP)
+Chronic obstructive pulmonary disease
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 81356**]TTE (Complete)
+Done [**2185-3-10**] at 11:17:22 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 18**] - Cardiac Services
+[**Location (un) 830**], [**Hospital Ward Name 23**] 7
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2115-10-24**]
+Age (years): 69 M  Hgt (in): 66
+BP (mm Hg): 151/78  Wgt (lb): 200
+HR (bpm): 68  BSA (m2): 2.00 m2
+Indication: Coronary artery disease. Preoperative assessment
+ICD-9 Codes: 414.8, 424.0, 424.2
+Test Information
+Date/Time: [**2185-3-10**] at 11:17    Interpret MD: [**Known firstname 449**] [**Last Name (NamePattern4) **],
+MD
+Test Type: TTE (Complete) Son[**Name (NI) 930**]: [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 18401**]
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2009W008-0:19 Machine: Vivid [**6-28**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.1 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.2 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.6 m/s
+Left Atrium - Peak Pulm Vein D:  0.4 m/s
+Left Atrium - Peak Pulm Vein A:  0.2 m/s  < 0.4 m/s
+Right Atrium - Four Chamber Length:  4.5 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  1.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.4 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.8 cm
+Left Ventricle - Fractional Shortening:  0.36  >= 0.29
+Left Ventricle - Ejection Fraction:  70%  >= 55%
+Left Ventricle - Lateral Peak E':  *0.04 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.06 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  14  < 15
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.3 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  0.7 m/sec
+Mitral Valve - A Wave:  0.9 m/sec
+Mitral Valve - E/A ratio:  0.78
+Mitral Valve - E Wave deceleration time:  227 ms  140-250 ms
+TR Gradient (+ RA = PASP):  24 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size and
+regional/global systolic function (LVEF >55%). No resting LVOT
+gradient. No VSD.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Focal calcifications in ascending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.
+Mild mitral annular calcification. Mild thickening of mitral
+valve chordae. Calcified tips of papillary muscles. No MS.
+Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Normal tricuspid valve supporting structures. No TS. Normal
+PA systolic pressure.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR. Normal main PA. No Doppler evidence for
+PDA
+
+PERICARDIUM: No pericardial effusion.
+Conclusions
+The left atrium is mildly dilated. Left ventricular wall
+thickness, cavity size and regional/global systolic function are
+normal (LVEF 70%). There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Trivial mitral
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. There is no pericardial effusion.
+  Electronically signed by [**Known firstname 449**] [**Last Name (NamePattern4) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2185-3-10**] 13:10
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   69 year old man with LM and 3VD, preop CABG tomorrow
+REASON FOR THIS EXAMINATION:
+   Please evaluate for carotid stenosis
+
+
+
+Final Report
+There are no prior studies for comparison.
+
+CLINICAL HISTORY: Preop CABG surgery.
+
+TECHNIQUE: Grayscale imaging supplemented by duplex
+ultrasonography was
+performed.
+
+FINDINGS: There is evidence of atherosclerotic plaque formation,
+which is
+partially calcified. However, this does not result in a
+significant ICA
+stenosis on either side. There is antegrade flow in both
+vertebral arteries.
+The following peak systolic flow velocities were obtained in
+m/sec.
+
+RIGHT SIDE: CCA 0.94, proximal ICA 0.79, mid ICA 0.81 and distal
+ICA 0.71.
+
+LEFT SIDE: CCA 1.06, proximal ICA 0.87, mid ICA 1.06 and distal
+ICA 0.98.
+
+The ICA/CCA ratios are 0.86 on the right and 1.0 on the left.
+
+IMPRESSION:
+
+1. No significant ICA stenosis on either side.
+
+2. Antegrade flow in both vertebral arteries.
+
+
+
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+Approved: [**Doctor First Name **] [**2185-3-17**] 12:03 PM
+WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2185-3-20**] 05:51AM    7.0 2.98* 9.2* 26.0* 87 30.8 35.3* 14.9
+220
+Source: Line-PICC
+  DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+[**2185-3-16**] 02:05PM    77.5*   16.4* 4.2 1.4 0.5
+[**2185-3-16**] 06:15AM    58.0   27.1 7.1 7.0* 0.9
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2185-3-20**] 05:51AM        220
+Source: Line-PICC
+BASIC COAGULATION (FIBRINOGEN, DD, TT, REPTILASE, BT) Fibrino
+[**2185-3-16**] 02:05PM    166
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2185-3-21**] 05:40AM    107* 27* 1.3* 134 5.0 97 28 14
+
+
+
+
+
+
+Brief Hospital Course:
+This 69 year old man has a history of hypertension,
+hyperlipidemia, diabetes, LE claudication, sleep apnea and known
+CAD, s/p Cx and OM stenting at [**Hospital1 2025**] in [**2179**].
+The patient reports that he has had stable exertional angina but
+that over the past month he has noticed an escalation in his
+symptoms. He describes shortness of breath and mid chest
+pressure
+after carrying bundles approximately 100 feet, resolving with
+relaxation.
+Because of these complaints he was evaluated by Dr. [**First Name8 (NamePattern2) 122**]
+[**Last Name (NamePattern1) **] on [**2185-3-8**] and underwent a persantine ETT (74% of
+predicted
+heart rate). He had no anginal symptoms but did have
+inferolateral ST depression. Imaging revealed a dilated LV
+cavity
+with stress. A large reversible lateral and apical wall defect
+was noted. LVEF was noted at 57%. He is now referred for cardiac
+catheterization to further evaluate. Cardiac catherization was
+done on [**3-9**] which revealed LM 60%, 90% proximal ramus, serial
+LAD- 70% diagonal branch, D2 100% occluded, proximal LCX disease
+70-80%, RCA 100% occluded.
+
+Mr [**Known lastname 61836**] was evaluated for Coronary artery bypass graft and
+was taken to the OR on [**3-16**] once he completed his plavix washout
+and his creatinine which had elevated after his cath dye load
+had returned to baseline.
+
+On [**3-1

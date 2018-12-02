@@ -1,0 +1,228 @@
+Admission Date:  [**2156-6-30**]              Discharge Date:   [**2156-7-3**]
+
+Date of Birth:  [**2106-10-1**]             Sex:   M
+
+Service: MED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+Line infection
+
+Major Surgical or Invasive Procedure:
+Portacath Removal in the OR [**2156-6-30**]
+PICC line insertion [**2156-7-2**]
+
+
+History of Present Illness:
+49M with Crohn's disease status post bowel resection complicated
+by short gut syndrome, now with chronic TPN dependence and
+therefore history of six line infections further complicated by
+septic pulmonary emboli. Patient was in usual state of health
+until approximately three weeks prior to admission, had
+nonproductive cough, fatigue.  Saw primary care physician,
+[**Name10 (NameIs) **] to feel ill, similar to previous line infxns. Blood
+cultures drawn in clinic two days prior to admission.  On day
+prior to admission, felt feverish, had rigors at home and came
+to [**Hospital1 18**] ED, where he was given vancomycin/gentamicin/levaquin,
+2L NS, norepinephrine for SBP 80s. Remained hypotensive, and was
+transferred to [**Hospital Unit Name 153**].
+
+Past Medical History:
+Crohn's dz s/p proctocolectomy, short gut, TPN dependent; h/o
+line infxns & septic pulomonary emboli; s/p CCY; s/p
+parathyroidectomy.
+
+Social History:
+Lives with wife and 2 children. ETOH in past. No tobacco. No
+IVDU. Works in finance dept of [**Hospital1 34**].
+
+Family History:
+Non contributory
+
+Physical Exam:
+T97.5 BP104/60 P68 RR16 O299% RA
+
+
+Pertinent Results:
+CT CHEST W/O CONTRAST  [**2156-6-30**] 12:48 AM
+1) Multiple, bilateral, ill defined, peripheral pulmonary
+nodules, some of which appear to cavitating. Findings are most
+consistent with septic emboli. If the patient is
+immunocompromised, fungal infection is also considered. The
+radiographic differential also includes vasculitis.
+2) Right middle lobe bronchiectasis with patchy opacity present,
+which may represent atelectasis and/or infection.
+------------
+ECHO Study Date of [**2156-6-30**]
+1. The left atrium is normal in size.
+2.Left ventricular wall thicknesses are normal. The left
+ventricular cavity
+size is normal. Overall left ventricular systolic function is
+normal
+(LVEF>55%).
+3.Right ventricular chamber size is normal. Right ventricular
+systolic
+function is normal.
+4.The aortic valve leaflets (3) appear structurally normal with
+good leaflet
+excursion and no aortic regurgitation. 5.The mitral valve
+leaflets are mildly
+thickened. Trivial mitral regurgitation is seen.
+6.The estimated pulmonary artery systolic pressure is normal.
+7.There is no pericardial effusion.
+------------
+
+   AEROBIC BOTTLE (Final [**2156-7-2**]):
+      REPORTED BY PHONE TO DR.[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] @ 0431 ON [**6-29**] - #[**Numeric Identifier 22398**].
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES.
+      [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 16437**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+GENTAMICIN------------     2 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   ANAEROBIC BOTTLE (Final [**2156-7-2**]):
+      ESCHERICHIA COLI.
+         IDENTIFICATION AND SENSITIVITIES PERFORMED FROM AEROBIC
+BOTTLE.
+      [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 16437**].
+         IDENTIFICATION PERFORMED FROM AEROBIC BOTTLE.
+
+[**2156-6-30**] 4:50 pm CATHETER TIP-IV
+
+                            **FINAL REPORT [**2156-7-2**]**
+
+   WOUND CULTURE (Final [**2156-7-2**]):
+      ENTEROBACTER AEROGENES.    >15 colonies.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROBACTER AEROGENES
+                             |
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+GENTAMICIN------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+
+Brief Hospital Course:
+49M with Crohn's disease/short gut, TPN-dependent here with
+sepsis likely due to portacath infection.
+
+Given hypotension on presentation, patient was initially
+admitted to intensive care unit and pressor support continued.
+Indwelling line (portacath) was removed on hospital day one in
+the operating room due to high suspicion of line infection.
+Catheter tip culture revealed Enterobacter aerogenes in addition
+to Escherichia coli and [**Female First Name (un) 564**] cultured from blood two days
+prior to admission.  Nonetheless, following continued antibiotic
+therapy and removal of infected line, patient's blood pressure
+and fevers improved, and patient was weaned of pressors at the
+end of hospital day one.
+
+On hospital day two, patient was felt to be stable for transfer
+to floor, and TPN was reinitiated through central line.
+Surveillance blood cultures were drawn on hospital day three
+prior to placement of a new peripheral intravenous central
+catheter as patient had been afebrile for 48 hours at that
+point.  Patient's antibiotic regimen was tailored to
+levofloxacin alone as both gram negative rods were sensitive to
+this antibiotic.  Patient was initiated on fluconazole for
+treatment of candidemia.
+
+Patient continued to remain hemodynamically stable and afebrile
+and was discharged on hospital day four.  Patient was instructed
+to continue antibiotics for a full course, and to follow up with
+primary care physician within two weeks of discharge.
+
+Medications on Admission:
+6-mercaptopurine
+Imodium
+Total Parenteral Nutrition
+
+Discharge Medications:
+1. Loperamide HCl 2 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+2. Opium 10 % Tincture Sig: Ten (10) Drop PO TID (3 times a
+day).
+3. Mercaptopurine 50 mg Tablet Sig: One (1) Tablet PO QD (once a
+day) as needed for Crohn's disease.
+4. Levofloxacin in D5W 500 mg/100 mL Piggyback Sig: Five Hundred
+(500) mg Intravenous  Q24H (every 24 hours) for 10 days.
+Disp:*7000 mg* Refills:*0*
+5. Fluconazole in Normal Saline 400 mg/200 mL Piggyback Sig:
+Four Hundred (400) mg Intravenous  once a day for 14 days.
+Disp:*5600 mg* Refills:*0*
+6. TPN Electrolytes     Solution Sig: One (1) not applicable
+Intravenous  once a day: Please see attached sheet for exact
+instructions.
+Disp:*1 n/a* Refills:*2*
+7. Outpatient Lab Work
+Serum AST, ALT, alkaline phosphatase, albumin, total bilirubin,
+LDH
+
+Results to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 572**].
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Last Name (un) 6438**]
+
+Discharge Diagnosis:
+-Multiorganism Bacteremia/Sepsis [**12-29**] Infected Portacath
+   (E.coli, [**Female First Name (un) 564**] [**Female First Name (un) **], Enterobacter)
+-Stable Thrombocytopenia
+
+
+Discharge Condition:
+good - BP stable, tolerating POs, afebrile
+
+Discharge Instructions:
+1. Take all your prescribed medications.
+2. Keep yourself well-hydrated.
+3. Call your physician or return to the ED for any fevers,
+chills, redness/swelling around your PICC site, increased
+diarrhea, or anything else that concerns you.
+
+Followup Instructions:
+1. Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4465**], MD W

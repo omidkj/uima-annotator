@@ -1,0 +1,199 @@
+Admission Date:  [**2136-11-11**]              Discharge Date:   [**2136-11-16**]
+
+Date of Birth:  [**2099-8-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2009**]
+Chief Complaint:
+Cough
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+PCP:  [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at [**Hospital1 **]
+
+Patient is a 37 yo woman with PMHx sig. for asthma who presents
+with several days of cough, shortness of breath.  For the past
+four days, she has been feeling short of breath, worse in the
+last 2 days.  She had a productive cough, but now it's dry.  She
+has pleuritic chest pain.  Abdomen is sore from coughing.  She
+has stress incontinence with coughing.  She is currently using
+her albuterol machine 5-6x a day, with no relief.   She had both
+fevers and chills, nightsweats.
+.
+She was seen at [**Hospital 1263**] Hospital ED this AM.  CXR was reportedly
+clear.  She was started on prednisone and Z-pack.  However, her
+coughing has continued.
+.
+In the ED, initial VS were: 101.6 128 28 95%. Exam was notable
+for diffusely wheezy and rhoncherous. Labs were notable for WBC
+10.7. lactate 3.1. CXR shows RLL pneumonia.  The patient
+received CTX, nebulizers, and tylenol.  Vitals prior to transfer
+to the floor were:  119, 131/55, 18, 94 on RA.
+.
+Review of Systems:
+(+) Per HPI plus:  headache with coughing, rhinorrhea, urinary
+frequency from water pills from a vitamin store
+(-) Denies sinus tenderness, nasal congestion. Denies nausea,
+vomiting, diarrhea, constipation. No dysuria. Denies arthralgias
+or myalgias. All other review of systems negative.
+
+Past Medical History:
+Asthma, no history of intubation
+
+Social History:
+Patient lives with her 2 kids, 17 and 4; one child had a cold.
+She does not work.
+Tobacco:  [**11-26**] ppd x 15 years
+ETOH:  1-2 drinks a week
+Recreational drugs: none
+
+Family History:
+Mother died from esophageal cancer.
+
+Physical Exam:
+VS:  100.8, 104, 155/95, 40, 97 on 2L
+Gen: NAD, AOX3
+HEENT: MMM, sclera anicteric, not injected
+Neck: no LAD, no JVD
+Cardiovascular: tachy, regular rhythm, no murmurs appreciated
+Respiratory: difficult exam due to persistent coughing,
+rhoncerous at bases bilaterally, no wheezes noted
+Abd: normoactive bowel sounds, soft, non-tender, non distended
+Extremities: No edema, 2+ DP pulses
+NEURO: face symmetric, no tongue deviation
+Integument: Warm, moist, no rash or ulceration
+Psychiatric: appropriate, pleasant, not anxious
+
+
+Pertinent Results:
+Admission labs:
+[**2136-11-11**] 05:00PM   WBC-10.7 RBC-4.28 HGB-13.6 HCT-38.9 MCV-91
+MCH-31.7 MCHC-34.8 RDW-13.5
+[**2136-11-11**] 05:00PM   NEUTS-90.5* LYMPHS-6.9* MONOS-1.6* EOS-0.8
+BASOS-0.2
+[**2136-11-11**] 05:00PM   PLT COUNT-218
+[**2136-11-11**] 05:00PM   GLUCOSE-127* UREA N-9 CREAT-0.8 SODIUM-136
+POTASSIUM-4.4 CHLORIDE-104 TOTAL CO2-20* ANION GAP-16
+[**2136-11-11**] 05:07PM   LACTATE-3.1*
+[**2136-11-11**] 08:22PM   LACTATE-2.8*
+
+CHEST (PA & LAT) Study Date of [**2136-11-11**]
+Atypical pneumonia, viral pneumonia, or edema.
+
+Chest CT [**11-13**]:
+NONCONTRAST CHEST CT: Extensive bilateral airspace opacities,
+much of which is ground-glass in appearance are present
+throughout the lungs, which spare the peripheral lung and
+relatively spare the lung bases, where the distribution is more
+patchy. There is no pleural effusion. The cardiac silhouette is
+normal in size. There is no pericardial effusion. The airways
+are patent bilaterally to the subsegmental level. Mediastinal
+lymph nodes measure up to 1 cm in short axis in the pretracheal
+station.
+There are no bone lesions concerning for malignancy.
+This study is not tailored for subdiaphragmatic evaluation
+except to note a laparoscopic band around the proximal stomach.
+There are no bone lesions concerning for malignancy.
+IMPRESSION: Extensive bilateral pulmonary opacities, with large
+areas of ground-glass opacity. The distribution and lack of
+pleural effusion are most suggestive of ARDS. Borderline
+enlarged mediastinal lymph nodes are most likely reactive.
+.
+CXR [**11-15**]:
+FINDINGS: In comparison with the study of [**11-12**], there has been
+a slight
+improvement in the diffuse bilateral pulmonary opacifications
+consistent with ARDS or widespread pneumonia.
+
+.
+Microbiology results:
+Influenza A/B negative
+Respiratory cultures contaminated with respiratory secretions.
+Legionella urine antigen negative
+Legionella culture pending, but preliminary negative.
+PCP negative
+HIV antibody negative
+Blood culture [**11-11**], [**11-13**] pending, no growth to date
+Urine culture negative
+.
+Pending at discharge:
+Hypersensitivity panel
+Beta glucan
+Blood cultures 12/19, [**11-13**]
+Legionella culture
+.
+Discharge labs:
+[**2136-11-14**] 08:00AM BLOOD WBC-12.0* RBC-3.70* Hgb-11.3* Hct-34.6*
+MCV-94 MCH-30.5 MCHC-32.6 RDW-13.0 Plt Ct-198
+[**2136-11-14**] 08:00AM BLOOD Glucose-117* UreaN-8 Creat-0.7 Na-139
+K-3.6 Cl-106 HCO3-25 AnGap-12
+
+Brief Hospital Course:
+37 yo woman with asthma who presents with several days of cough,
+shortness of breath, and fever and radiographic evidence of
+diffuse bilateral parenchymal infiltrates.
+.
+#. Acute hypoxic respiratory failure, in setting of asthma:
+The patient was initially treated on the floor with Ceftriaxone
+and Azithromycin for community acquired pneumonia and
+Oseltamivir for possible influenza pneumonia. Influenza DFA came
+back as negative and Oseltamivir was discontinued. The second
+day of the patient's hospitalization she became increasingly
+hypoxic and tachypnic and was transferred to the [**Hospital Unit Name 153**] for
+further management. Azithromycin was discontinued and
+Levofloxacin was started. Steroids were changed from Prednisone
+40 mg PO daily to Methylprednisolone 60 mg IV Q8H. The patient
+was also placed on Nebs both standing and PRN. Sputum gram stain
+and cultures and urine cultures were sent. Urine was negative
+for legionella antigen. The morning after transfer to the ICU,
+the patient felt much better and was ambulating on room air. Her
+steroids were transitioned to Prednisone 60 mg PO daily. Despite
+the patient's clinical improvement, a non-contrast CT was
+ordered and revealed diffuse bilateral opacities, concentrated
+in the apices, with sparing of the periphery, concerning for a
+hypersensitivity pneumonitis. Clinically this seemed consistent
+given her rapid clinical improvement on steroids and removal
+from any possible environemntal exposures at home. On further
+questioning, the patient did report a possible recent mold
+exposure in her home. After transfer to the floor, she was seen
+by the pulmonary service, and beta glucan (for PCP) and
+hypersensitivity panel were sent (still pending at discharge).
+She improved clinically, and was oxygenating well on room air.
+A repeat CXR prior to discharge showed small amount of
+improvement, but persistent bilateral opacities,  concerning for
+ARDS or multifocal pneumonia.  She will require pulmonary follow
+up, as the differential continued to include a hypersensitivity
+pneumonitis or a viral or bacterial pneumonia.  She was
+discharged on levofloxacin and a slow prednisone taper, as well
+as cough suppressants and nebulizers.
+.
+#. Dehydration: Patient presented with an elevated lactate of
+2.1 and ketones in her urine, for which she received IVF on the
+medicine floor. Lactate had returned to [**Location 213**] by transfer to
+the ICU but patient still appeared hypovolemic and continued to
+receive IVF.
+.
+#. Sinus tachycardia: Patient presented with sinus tachycardia
+to the 150s that was attributed to either her fevers,
+dehydration or frequent albuterol nebs, or some combination of
+each. HR decreased to low 100s by transfer back to the medicine
+service following IVF and Tylenol PRN for fevers.   This
+persisted, but slowly improved over her hospitalization.
+.
+#. Hematuria: Patient on depoprovera injections, expecting
+menstrual period. No further episodes were observed in the ICU.
+
+Outstanding tests:  as mentioned above, hypersensitivity panel,
+beta glucan, blood cultures and urine culture.  Also final CXR
+read.
+.
+# Key follow up:  PCP follow up next week, and pulmonary follow
+up in 2 weeks.
+
+Med

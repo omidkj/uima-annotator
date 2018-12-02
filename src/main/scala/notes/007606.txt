@@ -1,0 +1,224 @@
+Admission Date:  [**2104-10-26**]              Discharge Date:   [**2104-11-6**]
+
+Date of Birth:  [**2024-9-19**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Known firstname 4765**]
+Chief Complaint:
+shortness of breath and chest pain
+
+Major Surgical or Invasive Procedure:
+Right Radial Arterial Line
+Tracheal Intubation
+
+
+History of Present Illness:
+80 y/o male presented from rehab with shortness of breath and
+found to be in Afib with rapid ventricular response.  Plan was
+for direct cardioversion, and patient was intubated for airway
+protection, as he was in worsening respiratory distress when
+cardioversion was to be done.  During intubation, patient
+spontaneously converted to sinus rhythm.
+
+Past Medical History:
+[**Known firstname **] Disease with CNS involvement
+s/p ccy
+s/p inguinal hernia surgery
+s/p bilateral cataract surgery
+h/o Tuberculosis in very distant past
+
+Social History:
+Pt is now retired lives in [**Location **].  Used to work for a
+insurance company.  Goes to [**State 3914**] to visit his sons.  [**Name (NI) 6934**] 2
+miles per day.  Does not smoke, drink.  Previous h/o tobacco,
+quit 30 yrs ago.  Previous 25 pack year history.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+T 99.8 BP 70/40  HR 150  RR 30  O2Sat 91% on 100% facemask
+Thin, elderly male.
+PEERL, EOMI
+No carotid buits, 2+ carotid pulses
+Tachycardic, No M/G/R
+Breath Sounds decreased at lung bases with dullness to
+percussion.
+Abdomen with good bowel sounds, soft, NT, ND, no masses
+Ext without edema. Good peripheral pulses.
+
+Pertinent Results:
+Admission Labs:
+
+[**2104-10-26**] 09:20PM   WBC-8.7# RBC-3.71* HGB-10.6* HCT-32.0* MCV-86
+MCH-28.6 MCHC-33.3 RDW-14.4
+[**2104-10-26**] 09:20PM   NEUTS-72.9* LYMPHS-16.7* MONOS-9.2 EOS-0.9
+BASOS-0.3
+[**2104-10-26**] 09:20PM   PLT COUNT-305
+[**2104-10-26**] 09:20PM   PT-13.9* PTT-34.5 INR(PT)-1.3
+[**2104-10-26**] 09:20PM   LACTATE-2.1*
+[**2104-10-26**] 09:20PM   GLUCOSE-134* UREA N-36* CREAT-1.1 SODIUM-133
+POTASSIUM-4.8 CHLORIDE-103 TOTAL CO2-17* ANION GAP-18
+[**2104-10-26**] 09:20PM   CK(CPK)-49
+[**2104-10-26**] 09:20PM   CK-MB-NotDone cTropnT-0.03* proBNP-[**Numeric Identifier **]*
+[**2104-10-26**] 09:20PM   PHOSPHATE-4.3 MAGNESIUM-1.6
+.
+Discharge Labs:
+[**2104-11-5**] WBC 8.7 Hb 11.3* Hct 34.6* Plt 486*
+[**2104-11-5**] PT 17.8* PTT 45.2* INR 2.2
+[**2104-11-5**] Gluc 92 BUN 17 Cr 1.0 Na 139 K 4.6 Cl 104 HCO3 26
+[**2104-11-5**] ALT 41* AST 15 LDH 171 AP 70 TBili 0.4
+[**2104-11-5**] TSH 2.4
+.
+Cardiology Report ECG Study Date of [**2104-10-26**]  6:48:44 PM
+Probable atrial fibrillation with rapid ventricular response
+Left bundle branch block
+Since previous tracing of [**2104-10-6**], sinus rhythm now absent
+.
+Cardiology Report ECHO Study Date of [**2104-10-27**]
+PATIENT/TEST INFORMATION:
+Indication: [**Date Range **] carditis; rapid AF.
+Height: (in) 70
+Weight (lb): 153
+BSA (m2): 1.86 m2
+BP (mm Hg): 97/59
+HR (bpm): 114
+Status: Inpatient
+Date/Time: [**2104-10-27**] at 12:45
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2005W417-0:22
+Test Location: West CCU
+Technical Quality: Adequate
+
+REFERRING DOCTOR: DR. [**Known firstname **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+  DR. [**Known firstname **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *4.5 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: 4.7 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: 4.7 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: 1.1 cm (nl 0.6 - 1.1 cm)
+
+Left Ventricle - Inferolateral Thickness: 0.8 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 3.8 cm (nl <= 5.6 cm)
+Left Ventricle - Ejection Fraction: 40% (nl >=55%)
+Aorta - Valve Level: 3.6 cm (nl <= 3.6 cm)
+Aorta - Ascending: 3.1 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: 1.0 m/sec (nl <= 2.0 m/sec)
+TR Gradient (+ RA = PASP): *42 mm Hg (nl <= 25 mm Hg)
+
+INTERPRETATION:
+
+Findings:
+
+This study was compared to the report of the prior study (tape
+not available)
+of [**2104-10-1**].
+
+
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Lipomatous
+hypertrophy of the interatrial septum.
+
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size. Mild
+global LV hypokinesis. [Intrinsic LV systolic function depressed
+given the severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Normal RV chamber size. Mild global RV free
+wall hypokinesis.
+
+AORTA: Normal aortic root diameter. Normal ascending aorta
+diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+Moderate (2+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Eccentric TR jet. Moderate PA systolic hypertension.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Resting tachycardia (HR>100bpm). Based on [**2096**]
+AHA
+endocarditis prophylaxis recommendations, the echo findings
+indicate a
+moderate risk (prophylaxis recommended). Clinical decisions
+regarding the need for prophylaxis should be based on clinical
+and echocardiographic data. Bilateral pleural effusions.
+
+Conclusions:
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses and
+cavity size are normal. There is mild global left ventricular
+hypokinesis.
+[Intrinsic left ventricular systolic function may be more
+depressed given the severity of valvular regurgitation.] Right
+ventricular chamber size is normal with mild global free wall
+hypokinesis. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic regurgitation.
+
+The mitral valve appears structurally normal with trivial mitral
+
+regurgitation. Moderate (2+) mitral regurgitation is seen. The
+tricuspid
+regurgitation jet is eccentric and may be underestimated. There
+is moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+Compared with the report of the prior study (tape unavailable
+for review) of [**2104-10-1**], biventricular systolic function is now
+mildly depressed (global - without regionality) - may be related
+to tachycardia. Moderate mitral regurgitation and pulmonary
+artery systolichypertension are now seen.
+
+Based on [**2096**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate a moderate risk (prophylaxis
+recommended). Clinical decisions regarding the need for
+prophylaxis should be based on clinical and echocardiographic
+data.
+
+Electronically signed by [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4083**], MD on [**2104-10-27**]
+15:18.
+[**Location (un) **] PHYSICIAN: [**Name10 (NameIs) **],[**First Name3 (LF) **] J.
+.
+Cardiology Report ECHO Study Date of [**2104-10-31**]
+No evidence of valvular vegitations
+.
+CXR ([**2104-11-4**]): Small bilateral pleural effusions are unchanged.
+The lungs are clear. The heart is normal size.
+
+Brief Hospital Course:
+80 y/o male presented from rehab with shortness of breath and
+found to be in Afib with rapid ventricular response.
+
+Hospital course is detailed below by problem:
+
+1. Atrial fibrillation with rapid ventricular response - The
+initial plan of treatment was for direct cardioversion, and the
+patient was intubated for airway protection, as he was in
+worsening respiratory distress when cardioversion was to be
+done. During intubation, however, the patient spontaneously
+converted to sinus rhythm. He was transfered to the CCU where he
+was shortly extubated secondary to intolerance of ET tube and
+hypotension preventing use of sedatives.
+He was treated for atrial fibrillation with metoprolol for rate
+control. He spontaneously converted to sinus rhythm several
+times with relapse to atrial fibrillation, so he was not
+cardioverted. Instead, amiodarone was started and he again
+converted into sinus rhythm, which was his status at discharge.
+He was also noted to have occasional episodes of NSVT during
+which he was assymptomatic. He was anticoagulated initially with
+a heparin drip which was eventually converted to coumadin with
+an INR of 2.2 on discharge. Coumadin dose was halved with the
+addition of amiodarone

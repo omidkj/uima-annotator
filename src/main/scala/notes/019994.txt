@@ -1,0 +1,204 @@
+Admission Date:  [**2114-7-18**]              Discharge Date:   [**2114-7-25**]
+
+Date of Birth:  [**2053-4-12**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+lisinopril / Losartan
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Worsening fatigue and dyspnea
+
+
+Major Surgical or Invasive Procedure:
+1. Mitral valve repair with a [**Company 1543**] Profile 3D 32-mm
+    ring annuloplasty.Profile 3D annuloplasty ring is model
+#680R, serial #[**Serial Number 89255**]. Tricuspid valve valvuloplasty with a [**Company 1543**] Contour
+    3D 32-mm ring.Contour 3D annuloplasty ring,
+    model #690R, serial #[**Serial Number 89256**]. Full left and right-sided Maze procedure with AtriCure
+    bipolar RF system.
+4. Epicardial left ventricular pacing lead x2, [**Company 1543**] 35
+    cm leads, serial #[**Serial Number 89257**].
+5. Pericardial reconstruction using CoreMatrix product
+
+
+History of Present Illness:
+This is a 61 year old male with known
+chronic systolic heart failure and atrial fibrillation. Atrial
+fibrillation has been intermittent for the last eight years or
+so. Patient was not on Warfarin until suffered an acute
+pulmonary
+embolus in [**2113-11-15**]. Since [**2113-11-15**], he also has been
+on medical therapy for this heart failure with no improvement in
+symptoms. Patient actually feels his symptoms have worsened
+since
+medical therapy was initiated. His main complaints are fatigue
+and dyspnea on exertion. He remains very active however, and can
+still walk one mile without difficulty. He frequently requires a
+"nap". He currently denies chest pain, dyspnea at rest,
+orthopnea, PND, pedal edema, palpitations, syncope and
+pre-syncope. Patient has already been evaluated by Dr [**Last Name (STitle) 89258**],
+cardiac surgeon at [**First Name8 (NamePattern2) 7635**] [**Last Name (NamePattern1) **] who recommends valve repair
+and
+Maze procedure. He presents today for second opinion.
+
+
+Past Medical History:
+Chronic Systolic Heart Failure/Dilated cardiomyopathy
+Mitral regurgitation/Tricuspid regurgitation
+Chronic atrial fibrillation
+History of Pulmonary Embolus in [**2113-11-15**]
+History of Pleural Effusion, s/p Thoracentesis
+History of Spontaneous Pneumothorax
+History of Prostate Cancer, s/p surgery and XRT
+History of Gastric ulcer
+Intermittent Colitis
+Bilateral Cataracts
+History of Sinusitis
+
+
+Social History:
+Race: Caucasian
+Last Dental Exam: Several months ago
+Lives with: Wife in [**Name2 (NI) 35073**] NY
+Occupation: Retired Electric and Gas Utility Worker
+Cigarettes: Smoked no [] yes [x] remote, quit over 35 years ago
+ETOH: < 1 drink/week []  [**1-22**] drinks/week [x] >8 drinks/week []
+Illicit drug use: Denies
+
+
+Family History:
+Denies premature coronary artery disease. Brother died of viral
+cardiomyopathy
+
+Physical Exam:
+Physical Exam
+
+Pulse: 46-50   Resp: 18  O2 sat: 100%   BP: 125/89
+
+General: WDWN male in no acute distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck: Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x] Irregular [] Murmur [x] grade 2/6 systolic murmur
+
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds
++
+[x]
+Extremities: Warm [x], well-perfused [x]
+Edema - trace
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2  Left: 2
+DP           Right: 2  Left: 2
+PT           [**Name (NI) 167**]: 2  Left: 2
+Radial       Right: 2  Left: 2
+
+Carotid Bruit      Right: none  Left: none
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 89259**]TTE (Complete)
+Done [**2114-7-22**] at 1:38:51 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 18**] - Cardiac Services
+[**Location (un) 830**], [**Hospital Ward Name 23**] 7
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2053-4-12**]
+Age (years): 61 M  Hgt (in): 70
+BP (mm Hg): 118/74  Wgt (lb): 155
+HR (bpm): 81  BSA (m2): 1.87 m2
+Indication: Aortic valve disease. Congestive heart failure.
+Dilated cardiomyopathy. Mitral valve disease. Murmur. Needs EF
+eval prior to ICD.
+ICD-9 Codes: 425.4, 396.9
+Test Information
+Date/Time: [**2114-7-22**] at 13:38    Interpret MD: [**Initials (NamePattern4) **] [**Known firstname **]
+[**Last Name (NamePattern1) **], MD
+Test Type: TTE (Complete) Son[**Name (NI) 930**]:
+Doppler: Limited Doppler and no color Doppler Test Location:
+West Echo Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2011W000-0:00 Machine: Other
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  25% to 30%  >= 55%
+
+Findings
+This study was compared to the prior study of [**2114-7-18**].
+LEFT ATRIUM: LA not well visualized.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: RA not well visualized.
+
+LEFT VENTRICLE: Severely depressed LVEF.
+
+RIGHT VENTRICLE: RV not well seen. Dilated RV cavity. RV
+function depressed. Paradoxic septal motion consistent with
+conduction abnormality/ventricular pacing.
+
+AORTIC VALVE: Aortic valve not well seen.
+
+MITRAL VALVE: Mitral valve leaflets not well seen.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized.
+
+PULMONIC VALVE/PULMONARY ARTERY: PVR not well seen.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: The rhythm appears to be A-V paced.
+Conclusions
+Left ventricular wall thicknesses and cavity size are normal.
+Overall left ventricular systolic function is severely depressed
+(LVEF= 25-30 %). The right ventricle appears dilated and
+depressed.The aortic valve is not well seen. The mitral valve
+leaflets are not well seen. The pulmonic valve prosthesis is not
+well seen. There is no pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Patient with multiple
+dressings on chest following valve surgery, only apical views
+obtained. LV function severely depressed, LVEF - 25-30%.
+
+Compared with the prior study (images reviewed) of [**2114-7-18**],
+image quality is suboptimal on the current study. The valves are
+not seen clearly. Biventricular function appears similar.
+  Electronically signed by [**Initials (NamePattern4) **] [**Known firstname **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2114-7-23**] 08:38
+
+
+[**2114-7-24**] 08:05AM BLOOD WBC-8.3 RBC-3.30* Hgb-10.7* Hct-30.8*
+MCV-93 MCH-32.5* MCHC-34.8 RDW-14.0 Plt Ct-126*
+[**2114-7-25**] 07:50AM BLOOD PT-14.7* INR(PT)-1.3*
+[**2114-7-24**] 08:05AM BLOOD Glucose-91 UreaN-20 Creat-0.7 Na-136
+K-4.0 Cl-102 HCO3-23 AnGap-15
+
+Brief Hospital Course:
+Mr.[**Known lastname 9036**] was admitted to the hospital preoperatively for a
+Heparin bridge, as he is on Coumadin given his history of
+pulmonary embolus and atrial fibrillation. Cardiac cath and PATs
+were completed and dental clearance obtained. On [**7-20**] Mr.[**Known lastname 9036**]
+was taken to the operating room and underwent a mitral valve
+repair with a [**Company 1543**] Profile 3D 32-mm ring  annuloplasty/
+Tricuspid valve valvuloplasty with a [**Company 1543**] Contour 3D 32-mm
+ring/Full left and right-sided Maze procedure with AtriCure
+bipolar RF system/ Epicardial left ventricular pacing lead x2,
+[**Company 1543**] 35 cm leads, and a Pericardial reconstruction using
+CoreMatrix product. Please refer to operative report for further
+surgical details. Cardiopulmonary Bypass Time:150 minutes. Cross
+clamp time:91 minutes. He tolerated the procedure well and was
+transferred to the CVICU intubated, sedated in critical but
+stable condition requiring inotropy and pressor support. He
+awoke neurologically intact and was extubated without incident.
+He was weaned off pressors, however, beta-blockers were
+initially held due to the patient's underlying junctional
+rhythm. Electrophysiology was consulted perioperatively for
+Mr.[**Known lastname 89260**] need for a possible PPM/ICD with a preop LVEF of
+25%. Lines and drains were discontinued in a timely fashion. On
+[**7-23**] Mr.[**Known lastname 9036**] was taken to the electrophysiology lab and
+underwent a [**Hospital1 **]-V ICD implant with a [**Company 1543**] End

@@ -1,0 +1,205 @@
+Admission Date:  [**2175-12-11**]              Discharge Date:   [**2175-12-23**]
+
+Date of Birth:  [**2092-8-31**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Atorvastatin / Celebrex
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+The patient is an 83-year-old woman with chronic diastolic CHF
+(LVH, EF 75%), chronic atrial fibrillation on anticoagulation,
+severe pulmonary hypertension, diabetes, hypertension,
+dyslipidemia, and metastatic thyroid cancer undergoing
+cyberknife therapy, who presents to the ED today with complaints
+of 20-pound weight gain over the last two weeks and increasing
+shortness of breath, dyspnea on exertion, orthopnea, and PND.
+She denies any palpitations, presyncope, or syncope. She was
+evaluated by Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 437**] on [**2175-11-6**], at which
+point her digoxin was stopped due to her normal EF and her
+Lopressor was changed to Toprol XL and the dose was doubled. She
+subsequently has been undergoing CyberKnife therapy for her
+metastatic thyroid cancer, completing treatment [**4-16**] today. She
+complained of progressive symptoms and was referred in to the ED
+for further evaluation.
+.
+In the ED: VS - HR 130s, BP 80/54, Weight 148lbs (up from
+124lbs). Her baseline SBPs are known to be in the 100s. ECG
+showed AFib w/ RVR. CXR showed no significant effusion,
+pneumothorax, or focal consolidation. She had a shock ultrasound
+that was negative and was started on Neosynephrine for her
+hypotension. She received Ceftriaxone as empiric coverage given
+concern for sepsis contributing to her hypotension and possible
+underlying pneumonia. She was seen by the CCU team in the ED and
+started on an Esmolol drip and IV Digoxin. Esmolol and
+Neosynephrine were titrated up and she received 1 more dose of
+IV Digoxin. She was also hypoxic, with room air ABG 7.35/51/61.
+She did not tolerate BiPAP so she was transitioned to NRB. She
+is being admitted to the CCU for further care.
+.
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. She denies recent fevers, chills or
+rigors. She denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+
+Past Medical History:
+PAST CARDIAC HISTORY:
+1. Chronic Diastolic Heart Failure: EF 75%
+2. Atrial Fibrillation on Coumadin
+3. Severe pulmonary hypertension
+.
+OTHER PAST MEDICAL HISTORY:
+4. Type 2 DM: complicated by diabetic retinopathy and peripheral
+neuropathy
+5. Hyperlipidemia
+6. Chronic Lymphedema with multiple lower extremity ulcers
+7. Goiter: prior Radioiodine therapy, followed Dr. [**Last Name (STitle) 80040**]
+8. GERD
+9. Crohn's Disease
+10. Cholelithiasis - seen on U/S in past, no previous sx.
+11. Achalasia
+12. Sleep Apnea: h/o abnormal overnight pulse oximetry, but
+large thryoid goiter obstructs depending upon patient position
+.
+PAST SURGICAL HISTORY:
+1. TAH-BSO
+2. Tonsillectomy
+3. Cataract surgery
+
+Social History:
+Widowed. Lives in [**Location 3915**], MA in an apartment by herself. Her
+son, [**Name (NI) **] leaves nearby, as do multiple grandchildren. Remote
+smoking history, occasional alcohol consumption, no illicit
+drugs.
+
+Family History:
+Father with coronary artery disease,
+Two children and five grandchildren alive and healthy
+Daughter with hyperthyroidism
+
+Physical Exam:
+VS: afeb, BP= 90s/40s, HR= 110s-130s, RR= 14-18, O2 sat= 96-99%
+NRB
+GENERAL: WD/WN elderly woman in moderate respiratory distress.
+HEENT: NC/AT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink,
+no pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple with significant JVD to just below the angle of the
+jaw. Large firm multinodular mass in the thyroid area. Carotid
+upstrokes normal in volume and contour, without bruits. Trachea
+is midline but not highly mobile. Tachycardia sensitive to
+Carotid Sinus Massage.
+CARDIAC: PMI located in 5th intercostal space, anterior axillary
+line. Irregularly irregular. Normal S1, widely split S2 w/
+prominent P2, no S3 or S4. +[**2-16**] HSM at apex.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+tachypneic but unlabored, mild accessory muscle use. +Crackles
+and decreased breath sounds at the bases bilaterally. No rhonchi
+or wheezes.
+ABDOMEN: +BS, soft/NT/ND. Mildly obese. No HSM or tenderness.
+Abd aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: WWP, 2+ pedal edema bilaterally, [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] in
+compressive wrappings.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+NEURO: Awake, A&Ox3, mood and affect appropriate. Fluently
+conversant w/ no focal neurologic abnormalities.
+PULSES:
+Right: Carotid 2+ DP 2+ PT 2+ Radial 2+
+Left: Carotid 2+ DP 2+ PT 2+ Radial 2+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2175-12-11**] 11:30AM   WBC-4.6 RBC-4.15* HGB-10.5* HCT-33.0* MCV-79*
+MCH-25.3*# MCHC-31.8 RDW-17.5*
+[**2175-12-11**] 11:30AM   GLUCOSE-82 UREA N-72* CREAT-1.4* SODIUM-139
+POTASSIUM-5.5* CHLORIDE-102 TOTAL CO2-27 ANION GAP-16
+[**2175-12-11**] 11:45AM   PT-26.2* PTT-32.8 INR(PT)-2.6*
+.
+Cardiac enzymes:
+[**2175-12-11**] 11:45AM   CK(CPK)-62
+[**2175-12-11**] 11:45AM   cTropnT-<0.01
+[**2175-12-11**] 08:00PM   cTropnT-<0.01
+[**2175-12-11**] 08:00PM   CK(CPK)-49
+.
+Thyroid labs:
+[**2175-12-11**] 08:00PM   T4-9.2 FREE T4-1.7
+[**2175-12-11**] 08:00PM   TSH-0.067*
+.
+.
+Labs on Transfer:
+[**2175-12-21**] 05:31AM BLOOD PT-55.3* PTT-37.2* INR(PT)-6.5*
+[**2175-12-21**] 05:31AM BLOOD Glucose-177* UreaN-86* Creat-1.5* Na-143
+K-4.4 Cl-95* HCO3-38* AnGap-14
+.
+.
+CARDIOLOGY:
+.
+EKG [**2175-12-11**]
+Atrial fibrillation with rapid ventricular response. Right axis
+deviation.
+Low limb lead QRS voltage. RSR' pattern in lead VI. Persistent
+prominent
+S waves in the left precordial leads. Modest right precordial
+lead T wave
+changes. Findings are consistent with right ventricular
+hypertrophy/right
+ventricular overload. Clinical correlation is suggested. No
+previous tracing
+available for comparison.
+.
+TTE [**2175-12-12**]
+IMPRESSION: Markedly dilated right ventricle with moderate
+global hypokinesis and relative sparing of the basal right
+ventricular segments. Preserved left ventricular regional and
+global systolic function. Severe diastolic dysfunction. Moderate
+to severe pulmonary hypertension. Mild aortic and moderate
+mitral regurgitation.
+.
+.
+RADIOLOGY:
+CXR ([**2175-12-12**]):
+FINDINGS: Large right thyroid masses again appreciated with
+calcification and leftward deviation of the trachea. Numerous
+rounded masses within the chest bilaterally are again depicted
+consistent with known metastatic disease. No significant
+effusion or pneumothorax is detected. Double density with regard
+to the cardiac shadow is consistent with a large hiatal hernia.
+No focal consolidation to suggest pneumonia is detected.
+.
+CTA Chest ([**2175-12-13**]):
+IMPRESSION:
+1. No pulmonary embolism. Large pulmonary artery measuring 3.4
+cm, greater
+than the aorta. The heart is enlarged with large atria
+bilaterally, right
+ventricle greater than the left, although this has not changed
+in appearance since [**8-14**]. Septal thickening consistent with fluid overload.
+3. Large pleural effusions, right greater than left, much worse
+than in
+[**Month (only) **]. Significant right and left lower lobe atelectasis.
+4. Numerous metastatic pulmonary nodules as before.
+5. Hiatal hernia.
+.
+CT Chest ([**12-21**]): pending
+
+
+Brief Hospital Course:
+ASSESSMENT AND PLAN: 83-yo woman w/ chronic dCHF (LVH, EF 75%),
+chronic A-fib on anticoagulation, severe pulm HTN, DM, HTN, HL,
+and metastatic thyroid Ca s/p CyberKnife therapy, p/w 20-pound
+weight gain x2 weeks and progressively worsening SOB and DOE,
+found to be in A-fib w/ RVR in the ED, hypotensive, and hypoxic,
+admitted to the CCU, improved w diuresis and transferred
+temporarily to regular floor. Readmitted to CCU for hypercarbic
+respiratory failure improved on BiPaP.   Diltiazem had been used
+for rate control - beta blockers were discontinued given concern
+for ?contribution to resp

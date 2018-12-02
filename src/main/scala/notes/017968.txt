@@ -1,0 +1,170 @@
+Admission Date:  [**2131-9-9**]              Discharge Date:   [**2131-9-18**]
+
+
+Service: [**Hospital Unit Name 196**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2704**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+Intubation
+Right Subclavian Central Line
+Swan Ganz catheter
+
+
+History of Present Illness:
+HPI: 89 yo with severe 3VD, declines CABG who has had multiple
+admits to OSH for CHF exacerbation transferred from [**Location (un) **] ED
+for cardiogenic shock, intubated and on pressors. Initially
+presented there with SaO2 70%, cyanotic, rales, BP 70/P. On 100%
+NRBFM 97%, followed by BiPAP -> intubated, dopamine, IV lasix
+and transferred to [**Hospital1 18**].
+In ambulance route, given 2L IVF for hypotension. Switched from
+dopamine to levophed in ED. VT in ED which resolved without
+intevention.
+
+
+Past Medical History:
+1. CAD, cath [**2128**] with 99% LAD, TO RCA, 90% LCx. Refused CABG
+2. CHF with EF 15-25%
+3. DM
+4. HTN
+5. Hyperlipidemia
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+T 100.2 HR 74 BP 115/56
+Gen: intubated, frothy pink ETT sputum
+Neck: jugular vein distension
+Resp: intubated, + diffuse crackles
+Cardio: RRR S1/S2 +S3 difficult to hear heart sounds through
+load rales, vented BS
+Abd: NABS, NTND
+Ext: mild cyanosis
+Neuro: follows commands
+
+Pertinent Results:
+[**2131-9-9**] 09:25PM   PTT-150 IS HIG
+[**2131-9-9**] 08:05PM   POTASSIUM-4.1
+[**2131-9-9**] 08:05PM   CK(CPK)-1243*
+[**2131-9-9**] 08:05PM   CK-MB-95* MB INDX-7.6*
+[**2131-9-9**] 08:05PM   MAGNESIUM-2.5
+[**2131-9-9**] 05:33PM   HCT-27.6*
+[**2131-9-9**] 05:33PM   PT-18.3* PTT-150 IS HIG INR(PT)-2.2
+[**2131-9-9**] 05:33PM   PT-18.3* PTT->150* INR(PT)-2.2
+[**2131-9-9**] 05:30PM   TYPE-ART TIDAL VOL-600 O2-40 PO2-135*
+PCO2-34* PH-7.34* TOTAL CO2-19* BASE XS--6 INTUBATED-INTUBATED
+[**2131-9-9**] 05:30PM   HGB-10.6* calcHCT-32 O2 SAT-73
+[**2131-9-9**] 05:30PM   O2 SAT-98
+[**2131-9-9**] 02:41PM   TYPE-ART TEMP-36 TIDAL VOL-600 PEEP-5 O2-40
+PO2-96 PCO2-33* PH-7.32* TOTAL CO2-18* BASE XS--8
+INTUBATED-INTUBATED
+[**2131-9-9**] 02:41PM   O2 SAT-98
+[**2131-9-9**] 12:26PM   O2 SAT-65
+[**2131-9-9**] 12:21PM   TYPE-ART O2-0 PO2-74* PCO2-38 PH-7.25* TOTAL
+CO2-17* BASE XS--9 INTUBATED-INTUBATED VENT-CONTROLLED
+[**2131-9-9**] 12:21PM   LACTATE-2.3*
+[**2131-9-9**] 11:57AM   GLUCOSE-157* UREA N-56* CREAT-1.7* SODIUM-137
+POTASSIUM-3.7 CHLORIDE-108 TOTAL CO2-16* ANION GAP-17
+[**2131-9-9**] 11:57AM   ALT(SGPT)-61* AST(SGOT)-209* LD(LDH)-704*
+CK(CPK)-1413* ALK PHOS-100 TOT BILI-0.3
+[**2131-9-9**] 11:57AM   CK-MB-99* MB INDX-7.0*
+[**2131-9-9**] 11:57AM   WBC-4.8 RBC-3.22* HGB-9.6* HCT-27.2* MCV-85
+MCH-29.9 MCHC-35.4* RDW-17.5*
+[**2131-9-9**] 11:57AM   ALBUMIN-3.1*
+[**2131-9-9**] 11:57AM   PLT COUNT-190
+[**2131-9-9**] 09:54AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.010
+[**2131-9-9**] 09:54AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2131-9-9**] 09:54AM URINE  RBC-0 WBC-0 BACTERIA-OCC YEAST-NONE
+EPI-<1
+[**2131-9-9**] 09:54AM URINE  HYALINE-4*
+[**2131-9-9**] 09:20AM   O2 SAT-70
+[**2131-9-9**] 09:17AM   TYPE-ART PO2-240* PCO2-32* PH-7.25* TOTAL
+CO2-15* BASE XS--11 INTUBATED-INTUBATED
+[**2131-9-9**] 09:17AM   HGB-11.5* calcHCT-35 O2 SAT-98
+[**2131-9-9**] 07:09AM   TYPE-ART PO2-136* PCO2-33* PH-7.25* TOTAL
+CO2-15* BASE XS--11 INTUBATED-INTUBATED
+[**2131-9-9**] 07:09AM   HGB-10.1* calcHCT-30 O2 SAT-98
+[**2131-9-9**] 07:08AM   TYPE-MIX
+[**2131-9-9**] 07:08AM   O2 SAT-56
+[**2131-9-9**] 05:20AM   GLUCOSE-290* UREA N-58* CREAT-1.8* SODIUM-133
+POTASSIUM-4.1 CHLORIDE-106 TOTAL CO2-12* ANION GAP-19
+[**2131-9-9**] 05:20AM   CK(CPK)-744*
+[**2131-9-9**] 05:20AM   CK-MB-46* MB INDX-6.2*
+[**2131-9-9**] 05:20AM   cTropnT-6.01*
+[**2131-9-9**] 05:20AM   CALCIUM-6.5* PHOSPHATE-4.8* MAGNESIUM-1.8
+[**2131-9-9**] 05:20AM   WBC-8.3 RBC-3.47* HGB-10.2* HCT-30.9* MCV-89
+MCH-29.3 MCHC-33.0 RDW-17.3*
+[**2131-9-9**] 05:20AM   NEUTS-78* BANDS-13* LYMPHS-7* MONOS-1* EOS-0
+BASOS-0 ATYPS-1* METAS-0 MYELOS-0
+[**2131-9-9**] 05:20AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL
+MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL
+[**2131-9-9**] 05:20AM   PLT SMR-NORMAL PLT COUNT-255#
+[**2131-9-9**] 05:20AM   PT-16.1* PTT-37.9* INR(PT)-1.7
+[**2131-9-9**] 04:35AM   TYPE-ART PO2-117* PCO2-37 PH-7.22* TOTAL
+CO2-16* BASE XS--11 INTUBATED-INTUBATED
+[**2131-9-9**] 04:35AM   LACTATE-3.1*
+
+Brief Hospital Course:
+1) CHF - Pt was initially started on dobutamine and levophed,
+and pt was diuresed with lasix.  Pt was eventually switched from
+dobutamine to milrinone.  Initially tried to wean pt off pressor
+but continued to become hypotensive. Pt had swan cath placed to
+monitor volume status and cardiogenic shock.  Once pt was
+determined to be DNI/DNR with comfort support, pressors were
+stopped as well as lasix.  Pt BP and HR remained stable once pt
+was off pressor support.  Restarted pt on Imdur.
+
+2) Ischemia - Pt refused CABG or cath procedures. Initial EKG
+showed STE in AVR and inf lat STD.  Follow up EKG showed
+improvement of ST depressions.  Pt was intially kept on heparin
+drip, ASA, plavix.  Medications stopped after discussion with
+pt/family and wishes changed to comfort support.
+
+3) Respiratory Failure - secondary to cardiogenic shock.  Pt was
+intially intubated, did well, then exubated and switched to
+Bipap.  Pt did well on Bipap and was switched to oxygen via
+nasal cannula.  Once pt wished for only comfort support.
+Morphine drip started and titrated to comfort support.  Pt
+respiratory status stable once on oxygen via nasal cannula.
+Restarted pt on lasix.  Pt switched to oral morphine and ativan
+for comfort support.
+
+4) ID - Pt had one blood culture bottle come back positive for
+gram + cocci.  Most likely contamination, Pt given vancomycin 1g
+and repeat bld cultures and urine cx sent.  Repeat bld cultures
+showed no growth to date, and urine cultures negative.  Pt WBC
+remianed WNL and pt remained aferbrile.
+
+Medications on Admission:
+Lasix 40mg [**Hospital1 **]
+ASA 325
+Hydroxyurea 500 qd
+bisoprolol 2.5 [**Hospital1 **]
+plavix 75 qd
+enalopril 10 [**Hospital1 **]
+spironolactone 25 qd
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Tower [**Doctor Last Name **] Center
+
+Discharge Diagnosis:
+CHF exacerbation
+
+
+Discharge Condition:
+Fair
+
+

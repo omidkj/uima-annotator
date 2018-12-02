@@ -1,0 +1,221 @@
+Admission Date:  [**2116-1-28**]              Discharge Date:   [**2116-2-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2901**]
+Chief Complaint:
+Syncope
+
+
+Major Surgical or Invasive Procedure:
+temporary pacing wire placed
+permanent pacemaker placed
+
+History of Present Illness:
+Ms. [**Known lastname 71073**] is an 86 yo woman with a h/o CAD s/p CABG, AS s/p
+[**Known lastname 1291**], HTN, DM2, CHF, and dementia who p/w syncope and was found
+to have complete heart block. On [**1-28**], she awoke with nausea,
+walked to the bathroom, became lightheaded and fell. Per the
+family, she has had several syncopal episodes over the last 6
+months and had been feeling general fatigue over the last 2
+weeks. Denied fevers, wt loss, n/v/d. Following this episode and
+fall, she presented to OSH with c/o MSK pain, but was found to
+be becoming less responsive with HR in 30s. EKG showed complete
+heart block with ventricular escape of 38. She received atropine
+x1 with transient improvement, then had transcutaneous pacing
+pads placed. She was transferred to [**Hospital1 18**] for further evaluation
+and pacemaker.
+
+
+Past Medical History:
+CAD s/p 2-vessel CABG [**2104**]
+RBBB and L posterior fascicular block on EKG in [**2115**] [**Month (only) **]
+s/p [**First Name8 (NamePattern2) **] [**Initials (NamePattern4) 1525**] [**Last Name (NamePattern4) 1291**] in [**2104**] for AS
+CHF
+HTN
+Diabetes on glyburide
+Hypothyroid, non-compliant
+Dementia, mild-moderate
+
+
+Social History:
+A widow, she lives alone and has a home health aide who visits
+daily; she is unable to complete most IADLs. She walks with a
+walker. Supportive daughter. [**Name (NI) **] EtOH, no smoking
+
+Family History:
+n/c
+
+Physical Exam:
+T97.8 BP149/58 P65 R18 100%2L
+Gen: Well-appearing woman in NAD, appearing her stated age.
+HEENT: NC/AT. MMM no erythema/exudate. JVP normal. Neck supple
+w/o LAD. Edentulous.
+Pulm: Clear to auscultation bilaterally. PM site without
+erythema/exudate
+CV: Regular Rate and Rhythm, with 3/6 HSM RUSB, mechanical S2.
+Abd: Soft, non-tender and non-distended. Bowel sounds are
+normoactive.
+Ext: 2+ dorsalis pedis pulses; no edema, clubbing, or cyanosis.
+
+Neuro: AAOx2 (thought it was [**Month (only) **]). Speech fluent with intact
+comprehension, naming; impaired repetition. Recall [**1-22**]. Serial
+7s [**1-24**]. CNII-XII grossly intact.
+
+
+Pertinent Results:
+Notable Labs (Also see below):
+Chem 7:
+135  99  15.  121
+3.8  28  0.7
+Ca: 8.4 Mg: 2.0 P: 2.5
+WBC: 10.6; Hct: 29.6; Plt: 188; MCV 80.
+PT: 15.8  PTT: 123.0  INR: 1.4
+.
+Studies:
+ - EKG: Sinus rhythm at 64, R axis, 1st degree AV block, RBBB,
+TWI III and aVF.
+ - Tele: Paced at 68
+ - CXR: The patient has had median sternotomy.  Cardiac
+silhouette is moderately enlarged with particular left atrial
+and pulmonary artery enlargement. Mild interstitial edema is
+present.  There is no pleural effusion or pneumothorax. A right
+transjugular right ventricular temporary pacer lead follows the
+expected course to the floor of the right ventricle.  There is
+no mediastinal widening.
+ - CT HEAD: No intracranial hemorrhage or mass effect.
+ - CT C-Spine: No cervical spinal fractures.  Mild degenerative
+anterolisthesis at C3/4 and C5/6 as well as mild posterior
+degenerative spondylolisthesis at C6/7. Prominence of the
+pulmonary vessels and thickening of the inter- and intra-lobular
+septa consistent with pulmonary edema.
+ - CT Angio Chest:
+1.  No evidence of aortic dissection.
+2.  Dense atherosclerosis involving the coronary arteries,
+mitral valve, thoracic and abdominal aorta, and proximal
+mesenteric branches.  Severe stenosis of the celiac artery at
+its origin. Moderate stenosis of the SMA at its origin.
+3.  Loss of height of L1 and T9 - age indeterminate.
+4.  5-mm nodule in the left upper lobe.  Followup in six months'
+time is recommended to document stability.
+ - ECHO: Mild symmetric left ventricular hypertrophy with
+hyperdynamic systolic function. Bileaflet aortic valve
+prosthesis with high transvalvular gradients and mild aortic
+regurgitation. Moderate mitral stenosis, likely secondary to
+extensive mitral annular calcification. Mild-to-moderate mitral
+regurgitation. Moderate pulmonary hypertension. Moderate
+tricuspid regurgitation.
+
+Brief Hospital Course:
+A/P: This is an 86 y/o F w/ h/o HTN, CAD, [**Month/Day (1) 1291**], p/w syncope,
+found to have complete heart block. She had a pacemaker placed,
+complicated by a post-placement hematoma which was evacuated.
+.
+# Cardiac:
+a) Rhythm: Ms [**Known lastname 71073**] presented with  complete heart block,
+likely [**2-21**] worsening of long-documented conduction disease (RBBB
+and L post-hemiblock).  She had reverted to sinus rhythm with
+prolonged AV conduction by [**Hospital1 18**] presentation; a temporary
+pacing wire was placed and she was eventually taken to the EP
+lab for permanent pacemaker.  This procedure was complicated by
+a large hematoma (requiring 9 U pRBCs) which was also associated
+with hypotension requiring dopamine.  She was sent to the CCU
+for monitoring; her anticoagulation was not reversed secondary
+to her mechanical AV valve.  She was intubated and taken to the
+EP lab on [**2-7**] for hematoma evacuation. She improved and was
+taken to the floor on [**2-11**] for further cares.
+.
+b) Ischemia: Ms. [**Name14 (STitle) 71074**] is s/p old IMI. She is currently on
+statin therapy. Her aspirin was held throughout her hospital
+stay given her persistent risk of bleeding. It may need to be
+restarted as an outpatient, after documentation of stable hct.
+
+c) Pump: She has a [**Hospital3 9642**] [**Hospital3 1291**] and Diastolic CHF with
+pulmonary edema s/p intra-op fluid recussiation. EF 75%. She was
+maintained on amlodipine and metoprolol. Her INR goal of [**2-22**] was
+maintained with coumadin after heparin bridging.
+
+d) St Jude's valve: Goal INR [**2-22**]. Maintained on coumadin.
+
+#) Fever. Ms. [**Known lastname 71073**] had intermittent fever during her stay.
+She was given a course of vancomycin to cover concern for
+hematoma abscess. She was also treated with cipro for a UTI. Her
+fevers resolved prior to discharge.
+
+#) Hematoma. A large hematoma post-operatively required 9 Units
+pRBCs and operative evacuation on [**2-7**] with resulting hct
+stabilization. Retention sutures were placed. She received a six
+day course of antibiotics and her arm was kept in a sling for
+one week. Her wound was followed by the surgery wound care RN.
+
+#) Anemia. GI was consulted for anemia on admission. They have
+recommended iron supplementation and colonoscopy as an
+outpatient.
+
+#) HTN. She has chronic HTN and was maintained on lisinopril as
+discussed above.
+
+#) DM2. Ms. [**Known lastname 71075**] blood sugars remained in control on
+standing lantus and sliding scale insulin. She will be returned
+to her oral medications on discharge.
+
+#) Hypothyroid. Maintained on levothyroxine.
+
+#) Dementia/Social: Pt is moderately demented, and we continued
+lexapro and risperdal. Her baseline status does not suggest
+capability for safe functioning at home at this time and a rehab
+screen was initiated with the help of occupational and physical
+therapy.
+
+#) Dispo: She was screened for rehab and discharged to
+
+
+
+Medications on Admission:
+synthroid 25
+metoprolol 12.5 daily
+norvasc 5
+diovan 80mg dialy
+lasix 20mg daily
+lipitor 80mg daily
+glyburide 7.5 [**Hospital1 **]
+lexapro 5mg daily
+risperdal 0.25 daily
+prn inhaler "qvar"
+tylenol #3
+coumadin: 2.5 q sun, mon, tues, wed, fri; 5mg thurs and sat
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 26478**] Care Center
+
+Discharge Diagnosis:
+Complete heart block.
+Congestive heart failure.
+Pacemaker placement.
+Wound hematoma.
+Urinary tract infection.
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+You were admitted to the hospital for a cardiac condition known
+as complete heart block. This condition necessitated the
+placement of a device called a pacemaker to regulate your
+heartbeat.
+
+You were also treated for an exacerbation of congestive heart
+failure (CHF) and had a wound hematoma evacuation that will
+continue to require daily dressing changes.
+
+You should maintain a low sodium, heart healthy di

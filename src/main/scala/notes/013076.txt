@@ -1,0 +1,165 @@
+Admission Date:  [**2137-10-10**]              Discharge Date:   [**2137-11-1**]
+
+Date of Birth:  [**2063-1-4**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 281**]
+Chief Complaint:
+respiratory distress
+fevers
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+74 yo female, transferred from [**Hospital1 1872**] rehab for recurrent
+flash pulmonary edema.  Pt recently admitted/hospital stay at
+[**Hospital1 **] on [**9-8**] for DKA and NSTEMI.  At this time, pt had a
+long/complicated hospital course, determined not to be a
+candidate for cardiac catheterization and MI managed medically.
+She developed pulm edema, respiratory failure, was intubated,
+developed vent-associated pna (MSSA), treated with levo until
+[**10-7**].  She failed extubation and was eventually PEG/Trached,
+sent to rehab on [**10-2**].  At rehab, pt had multiple episodes of
+flash pulm edema that were managed with Morphine and lasix prn.
+This morning, she had a similar episode with desat to 85%,
+tachypnea to 30's, and SBP=78 with leukocytosis.  At family's
+request and with these symptoms, she was transferred back here.
+On presentation, she received MSO4 for dyspnea, was febrile to
+102.2, BP=90/41, WBC=19 with left shift.  Pt with some new EKG
+changes (t-wave inv v5-6, st elev v2-4), and elevated tnt.  Pt
+admitted to MICU at this time for management of respiratory
+failure vs. pneumonia.
+
+
+Past Medical History:
+DM2 on insulin
+Hypercholesterolemia
+Dementia/[**Doctor Last Name 122**] disease (an inherited spinocerebellar ataxia:
+progressive neurological disorder of ataxia, peripheral
+neuropathy)
+(No known HTN)
+Vent-associated PNA
+NSTEMI
+CHF
+Anemia
+
+
+Social History:
+Prior to admission the patient was living at home with her
+daughter. The patient was bedridden and very dependent on family
+members to care for her. She has a significant smoking history
+of 50 pack years, though she quit smoking 10 years ago. Denies
+EtOH or other drugs.
+
+Family History:
+[**Last Name (un) 32665**]-[**Doctor Last Name 11042**] disease.
+
+Physical Exam:
+102.2       85         90/41      18   99%
+Gen:  elderly appearing, lethargic, sedated
+HEENT: PERRL, dry MM, tracheostomy c, d, i
+CV: RRR, 2/6 SEM
+Pulm: coarse BS, occasional rhonchi, no crackles
+Abd: PEG-c,d,i; soft, NABS, nt
+Extr: warm, no edema, good pulses, L PICC line-c, d, i
+Neuro: non arousable
+
+Pertinent Results:
+[**2137-10-10**] 09:34PM   TYPE-ART PO2-126* PCO2-42 PH-7.50* TOTAL
+CO2-34* BASE XS-8
+[**2137-10-10**] 09:34PM   LACTATE-1.8
+[**2137-10-10**] 04:44PM   TYPE-ART PO2-144* PCO2-45 PH-7.50* TOTAL
+CO2-36* BASE XS-10
+[**2137-10-10**] 04:44PM   LACTATE-2.2*
+[**2137-10-10**] 03:21PM   GLUCOSE-276* UREA N-47* CREAT-0.6 SODIUM-138
+POTASSIUM-5.1 CHLORIDE-94* TOTAL CO2-33* ANION GAP-16
+[**2137-10-10**] 03:21PM   ALT(SGPT)-44* AST(SGOT)-38 LD(LDH)-278*
+CK(CPK)-52 ALK PHOS-403* AMYLASE-65 TOT BILI-0.4
+[**2137-10-10**] 03:21PM   LIPASE-53
+[**2137-10-10**] 03:21PM   CK-MB-NotDone cTropnT-0.28*
+[**2137-10-10**] 03:21PM   ALBUMIN-3.5 CALCIUM-8.9 PHOSPHATE-3.8
+MAGNESIUM-2.3
+[**2137-10-10**] 03:21PM   WBC-19.1*# RBC-3.65* HGB-11.5* HCT-35.5*
+MCV-97 MCH-31.4 MCHC-32.4 RDW-13.9
+[**2137-10-10**] 03:21PM   NEUTS-88.5* LYMPHS-6.8* MONOS-4.0 EOS-0.4
+BASOS-0.3
+[**2137-10-10**] 03:21PM   MACROCYT-1+
+[**2137-10-10**] 03:21PM   PLT COUNT-446*
+[**2137-10-10**] 03:21PM   PT-12.2 PTT-23.7 INR(PT)-0.9
+[**2137-10-10**] 03:21PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.022
+[**2137-10-10**] 03:21PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG
+GLUCOSE-100 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-TR
+[**2137-10-10**] 03:21PM URINE  RBC-0-2 WBC-0-2 BACTERIA-OCC YEAST-NONE
+EPI-0
+
+Brief Hospital Course:
+A/P: 74F s/p recent NSTEMI, VAP, with recurrent flash pulmonary
+edema, presenting with respiratory distress, fever,
+leukocytosis, in setting of likely more flash pulmonary edema.
+
+1.  Fever/leukocytosis - The patient was pan cultured and grew
+out MSSA from her sputum for which she was treated with
+clindimycin.
+
+2.  Respiratory Failure - likely multifactorial with
+contributions from both PNA and CHF.  The MSSA PNA was treated
+with clindimycin for a 2 week course.  The CHF team was
+consulted regarding the patients CHF.  A cardiac cath was
+performed which demonstrated three vessel coronary artery
+disease, moderate systolic ventricular dysfuction, and moderate
+diastolic ventricular function. It was decided at this time that
+the patients CAD was not amenable to PCI and that medical
+management was the best option.  Hence the patient was optimized
+on a medical regimen which included hydralazine, clonidine,
+captopril, metoprolol, amlodipine, isordil, plavix, and aspirin.
+ On this regimen, the patients BP's were maintained with
+systolics in the 140's.
+
+3. DM - The patient's blood sugars were controlled on an insulin
+drip.  At discharge the drip was converted to an equivalent dose
+NPH/Regular.
+
+4. Hypothyroidism - the patient was continued on her home dose
+of synthroid.
+
+5. Code Status - DNR.  Given the patient's severe CAD/CHF the
+patient's functional status is severely impaired and she is now
+vent dependent.  Her prognosis for any meningful recovery is
+grim and this was discussed in detail with the family which ha
+decided to make her DNR.
+
+
+Medications on Admission:
+Meds: lantus, ssi, asa, captopril, colace, laxis, sq heparin,
+HCTZ, levothyroxine, lopressor, nystatin, senna
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+coronary artery disease
+congestive heart failure / flash pulmonary edema
+pneumonia
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Please take medications as directed.
+
+Followup Instructions:
+none
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 286**]
+

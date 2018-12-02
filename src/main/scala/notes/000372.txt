@@ -1,0 +1,207 @@
+Admission Date:  [**2147-4-17**]              Discharge Date:   [**2147-4-24**]
+
+
+Service: MEDICINE
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 4232**]
+Chief Complaint:
+mental status change
+
+Major Surgical or Invasive Procedure:
+central venous catheter placement
+
+History of Present Illness:
+This is a [**Age over 90 **] year-old man with coronary artery disease, diabetes
+mellitus, chronic renal insufficiency and dementia presenting
+from [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **] rehab with altered mental status. As per
+report there, patient noted to be shivering and moaning earlier
+tonight. (Baseline as per report is alert, verbal but confused
+and completely dependent for ADL's.) Vital signs largely
+unremarkable at that time. CBC/chem-10 sent and patient noted to
+be hyperglycemic to 800's, hypernatremic to 149, potassium of 7.
+2, creatinine 3.6 and crit of 30 (unknown baselines). He was
+given levoquin and transferred to [**Hospital1 18**] for further management.
+
+.
+In the ER, patient afebrile, tachycardic to 102, tachypneic to
+20's, bp's 130's to 140's, patient moaning, responsive to pain,
+moving all four extremities. Above lab abnormalities confirmed,
+lactate of 3.3, cxr revealed RML pneumonia, dirty U/A with
+apparent UTI, treated with 10 units insulin followed by drip,
+bicarbonate, calcium gluconate, 2 liters NS, vancomycin,
+levoquin and flagyl. Urine output not recorded but by report,
+good.
+
+
+Past Medical History:
+1. Coronary Artery Disease
+2. Diabetes Mellitus
+3. Chronic Renal insufficiency
+4. Dementia
+5. UTI's
+6. Suprapubic prostatectomy/catheter
+7. S/p right nephrectomy?
+8. hypertension
+
+
+Social History:
+lives at [**Hospital3 **]. former cook at [**Last Name (un) 16356**] [**Location (un) 16357**] in [**Location (un) 7349**],
+travelled extensively with the merchant marines, ? tobacco
+history.
+
+Family History:
+unavailable
+
+Physical Exam:
+On Admission-
+VS: Temp: 98.4/98.2 BP:122/58 HR:105 RR:24 95%rm airO2sat
+.
+general: responds to pain, moves all four extremities,
+intermittenly responds to name, cachectic
+HEENT: EOMI, anicteric, no sinus tenderness, MMdry, op without
+lesions, no jvd
+lungs: crackles at right base, left lung field clear
+heart: RR, S1 and S2 wnl, no murmurs, rubs or gallops
+appreciated
+abdomen: nd, +b/s, multiple scars, suprapubic catheter in place
+without surrounding erythema, soft, nt
+extremities: no edema
+skin/nails: no rashes/no jaundice/
+neuro: unable to follow commands, intermittently responds to
+voice, moves all four extremities
+.
+
+
+Pertinent Results:
+[**2147-4-17**] 01:05AM BLOOD WBC-20.6*# RBC-3.26* Hgb-10.3* Hct-31.5*
+MCV-97# MCH-31.6 MCHC-32.7 RDW-15.4 Plt Ct-473*
+[**2147-4-23**] 07:05AM BLOOD WBC-15.3* RBC-3.69* Hgb-11.2* Hct-34.4*
+MCV-93 MCH-30.3 MCHC-32.5 RDW-15.3 Plt Ct-510*
+[**2147-4-23**] 07:05AM BLOOD Glucose-32* UreaN-41* Creat-2.5* Na-144
+K-4.7 Cl-113* HCO3-17* AnGap-19
+[**2147-4-18**] 03:52AM BLOOD ALT-19 AST-25 AlkPhos-93 Amylase-296*
+TotBili-0.4
+[**2147-4-19**] 06:50AM BLOOD Lipase-57
+[**2147-4-23**] 07:05AM BLOOD Calcium-9.7 Phos-3.6 Mg-2.3
+[**2147-4-19**] 06:50AM BLOOD calTIBC-183* Ferritn-421* TRF-141*
+[**2147-4-18**] 03:52AM BLOOD %HbA1c-7.5*
+.
+RENAL U.S.  [**2147-4-20**] 4:08 PM
+RENAL ULTRASOUND: Study is limited due to patient cooperativity.
+No gross abnormality seen in the right renal bed. The left
+kidney measures 9.7 cm. There is no hydronephrosis. There is a
+small cyst in the mid-to-lower pole measuring up to 14 mm. There
+is no overt solid mass. Probable extrarenal pelvis. No
+hydronephrosis.
+.
+CHEST PORTABLE [**2147-4-17**] 2:02 AM
+FINDINGS: Placement of right internal jugular venous catheter is
+identified in the expected region of the mid SVC. No pleural
+effusion or pneumothorax identified. Again noted is airspace
+opacity within the right lower lobe.
+
+IMPRESSION:
+1. Normal placement of right internal jugular venous catheter
+without pneumothorax identified.
+2. Right lower lobe pneumonia as described previously.
+.
+
+
+Brief Hospital Course:
+This is a [**Age over 90 **] year-old man with history of dementia, cad,
+diabetes mellitus, chronic renal insufficiency who presented
+with mental status change, work up remarkable for HONK,
+hypernatremia, pneumonia, UTI.
+
+1)Mental Status change:
+Multifactorial in secondary to hyperglycemia, hypernatremia,
+pneumonia, metabolic derangements. The patient's mental status
+returned to baseline once metabolic derangements and infections
+were treated.
+
+2)Endocrine:
+The patient has an unclear history of DM, but not presently on
+medications. Hyperosmolar state (HONK) likely precipitated by
+pneumonia/UTI. He was given aggressive fluids with NS initially,
+then changed to D5W since hypernatremia was not improving.
+Briefly required an Insulin drip, added D5 when sugar <200,
+converted to long-acting insulin on [**4-17**]. He was tapered to
+standing NPH insulin, then later became hypoglycemic with
+treatment of his infection. He was discharged on Humalog sliding
+scale. Treatment with an oral antidiabetic [**Doctor Last Name 360**] should be
+considered as an outpatient as Pt's Hgb A1C was 7.5 on
+admission.
+
+4)Acute on Chronic Renal Failure:
+Pt is s/p L nephrectomy. Likely secondary to ATN in setting of
+hypotension, hypovolemia. Pt's baseline Creatinine is 1.9
+according to PCP. [**Name10 (NameIs) **] improved from 3.8 to 3.0 with IV
+fluids, but was in plateau phase for several days. Renal service
+was consulted, renal ultrasound did not reveal hydroureter.
+Gentle intravenous fluids continued to improved pt's Cr
+clearance leading up until discharge. His medications were
+renally dosed.
+
+5) Heme:
+Anemia consistent with AKD in combination with chronic kidney
+disease. Guaiac negative. Renal recommended starting EPO q
+M,W,F. Hematocrit was stable on serial checks.
+
+6) Infectious Disease:
+a) Pneumonia: required ICU admission
+--vancomycin, ceftriaxone, levoquin initially - was changed to
+vanc/zosyn on [**4-17**] for a health care associated pneumonia. He
+should complete a full 14 day course of Vancomycin as his sputum
+grew MRSA.
+b) UTI--grew cipro and bactrim resistant E. Coli- 14 day course
+of ceftriaxone for complicated UTI
+c) [**Name (NI) 1069**] Pt developed copius diarrhea on HD #4, was started
+on empiric Flagyl PO, C. diff x 2 negative. His stools
+normalized following initiation of treatment. He should complete
+a 14 day course following the last day of Vancomycin and
+Ceftriaxone.
+
+7) Suprapubic Catheter:
+Pt was noted to have copious urine drainage from around his
+suprapubic catheter, without evidence for skin infection.
+Urology was consulted and recommended Tolteridine 1mg [**Hospital1 **] for
+potential bladder spasm. He has a 24 Fr foley. There is no
+further role for intervention except for continued monitoring to
+assure his catheter flushed, dressed properly for good position
+within the bladder.
+
+8) Speech and Swallowing evaluation:
+Recommended PO diet of soft solids with thin liquids, pills
+crushed as allowable.
+Aspiration precautions with 1:1 assist at meals.
+
+Code Status: DNR/DNI per discussion with [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 284**]
+[**Telephone/Fax (1) 16358**] or [**Telephone/Fax (1) 16359**](lives in [**State 2690**]) and [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) 284**] [**Telephone/Fax (1) 16360**](lives in [**Location 86**]) Pt's grandchildren and
+HCP. At this time, Ms. [**Name13 (STitle) 284**] expressed that they would not
+be opposed to dialysis should Mr. [**Known lastname 16361**] eventually require it.
+
+Medications on Admission:
+(As [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **] notes):
+1. omeprazole 20mg daily
+2. felodipine 10mg daily
+3. MVI
+4. MOM
+5. bisacodyl
+6. tylenol prn
+7. levoquin started [**4-16**]
+
+
+Discharge Medications:
+1. Docusate Sodium 50 mg/5 mL Liquid Sig: [**11-15**]  PO BID (2 times a
+day).
+2. Senna 8.6 mg Capsule Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Heparin Flush CVL  (100 units/ml) 1 ml IV DAILY:PRN
+10ml NS followed by 1ml of 100 units/ml heparin (100 units
+heparin) each lumen QD and PRN.  Inspe

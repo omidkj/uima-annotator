@@ -1,0 +1,220 @@
+Admission Date:  [**2195-2-20**]              Discharge Date:   [**2195-4-3**]
+
+Date of Birth:  [**2139-7-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 11754**]
+Chief Complaint:
+Nausea, vomiting, and loose stools.
+
+Major Surgical or Invasive Procedure:
+Bone marrow biopsy
+Hickmann Placement & Removal
+PICC line placement
+Endoscopy
+Intubation
+Bilateral Sinus Biopsy
+
+
+History of Present Illness:
+This 55 yo female with CML on Gleevec presents with several days
+of nausea, vomiting, and loose stools. She had three loose
+stools last night that she qualifies as diarrhea. She has had
+two loose stools today. She describes her loose stools as black.
+She has also had several days of fevers and chills. She has not
+taken her temperature at home but has episodes of chills. Often
+with the "fever" and chills she has nausea and vomited twice
+yesterday evening. Yesterday evening she also had two episodes
+where she felt as if she had facial swelling, dizziness, ear
+blockage, eye redness, stomach pain, and leg weakness. These
+episodes lasted 10 minutes and have since resolved. Prior to
+this she had episodes of hot flashes in the evening which
+consisted of headache, dizziness, and occassional palpitations.
+She has not noticed any association between these episodes and
+her medications. All of her symptoms have currently resolved.
+.
+In the ED she had a temp of 99.8. CTA showed no evidence of PT.
+EKG was unchanged from prior. She was admitted to OMED for
+observation.
+.
+She currently has some nausea and slight epigastric discomfort.
+She has no current pain beyond this epigastric discomfort. A
+complete review of systems was performed as above.
+
+
+Past Medical History:
+Oncologic History:
+She presented with elevated white cell count with a monocytosis,
+fever, diarrhea, and nausea. Bone marrow biopsy done on
+[**2194-8-8**] was consistent with CML. Cytogenetics indicated a
+translocation of chromosomes 9 and 12, BCR-ABL translocation.
+Monocytosis resolved on its own. She began on Gleevec 400 mg per
+day on [**2194-9-2**].
+.
+Past Medical History
+CML on gleevec
+Pulmonary embolus 2 years ago
+Cholecystectomy [**95**] years ago
+
+
+Social History:
+She lives with her husband. She is currently on disability. She
+doesn't smoke or drink alcohol. Pt is from [**Country 7192**], has been
+living in the USA for 22 years.
+
+
+Family History:
+Leukemia (+) Brother
+Esophageal [**Name (NI) 3730**] (+) Father
+
+
+Physical Exam:
+On admission -
+Vital signs: Temp 97.2, BP 98/60, Pulse 73, 100% on RA
+GEN: alert, oriented spanish speaking female in no acute
+distress
+HEENT: conjunctiva pink, oropharynx without lesion or exudate,
+moist mucus membranes
+LYMPH: no anterior/posterior cervical, occipital,
+supraclavicular adenopathy
+LUNGS: clear to auscultation bilaterally without rhonchi,
+wheezes, or crackles
+ABDOMEN: soft, nontender, nondistended with normal active bowel
+sounds. No hepatosplenomegally.
+CARDIOVASCULAR: Regular Rate and Rhythm, no added heart sounds
+or murmurs
+NEURO: alert, oriented. cranial nerves II-XII intact, nonfocal,
+strength 5/5 throughout
+EXT: No edema
+
+
+Pertinent Results:
+Microbiology:
+Blood Culture [**3-7**], Routine (Preliminary):
+      SENT TO [**Hospital1 4534**] [**2195-3-12**].
+      GRAM NEGATIVE ROD(S) finalized as Leptotrichia trevosani
+
+      MEROPENEM = .023 MCG/ML.
+      CEFTRIAXONE = .38 MCG/ML.
+
+CSF:
+
+Initial Bone Marrow Biopsy [**2195-2-25**]:
+B cells comprise 13% of lymphoid gated events, are polyclonal,
+and do not express aberrant antigens. Cell marker analysis
+demonstrates that the majority of the cells within the blasts
+gate isolated from this peripheral blood express CD33, lymphoid
+associated antigens CD10 (dim), and are negative for TdT, CD19.
+Blast cells comprise 16% of total events.
+
+Day 14 Marrow Biopsy [**2195-3-13**]:
+A majority of the analyzed events are in the cell debris/lysed
+cell area. No clear CD34-immunoreactive blast population is
+identified, gating on this region.
+
+Sinus Biopsy [**2195-3-12**]:
+A.  Right inferior turbinate:
+1.  Sinonasal mucosa with chronic inflammation.
+2.  No fungal forms seen on PAS and GMS stains.
+
+B.  Left inferior turbinate:
+1.  Sinonasal mucosa with chronic inflammation.
+2.  No fungal forms seen on PAS and GMS stains.
+
+Endoscopy [**2195-3-12**]:
+[**Doctor First Name **]-[**Doctor Last Name **] tear
+Erythema and congestion in the stomach
+Normal mucosa in the first part of the duodenum and second part
+of the duodenum
+Otherwise normal EGD to second part of the duodenum
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 25067**] was admitted to the hospital with nausea and vomiting,
+fever and flushing concerned for a wide differential diagnoses.
+During her work up, a bone marrow biopsy displayed acute blast
+crisis from her chronic myelogenous leukemia.  Initial
+immunophenotyping suggested biphenotypic blast crisis.  She was
+treated presumptively for Strongyloides with Ivermectin x2 days
+given her travel history & country of origin, prior to
+initiating chemotherapy.  In addition, her PPD turned positive
+and review of her chest CT suggested old Tuberculosis.
+Treatment was deferred per ID until the chemotherapy effects on
+her liver could be evaluated.
+
+The patient was started on HyperCVAD with intrathecal
+Methotrexate and dasatinib.  The day after Hyper-CVAD initiation
+repeat/further immunophenotyping revealed that it was in fact a
+myleoblastic crisis.  She was switched to 7+3 induction regimen
+without dasatinib.  The patient's course was complicated by
+neutropenia and intermittent fever, later found to be due to GNR
+bacteremia and PNA. Cultures finalized as Leptortrichia. Patient
+was treated with broad spectrum antimicrobials including
+Meropenem, Vancomycin, Flagyl, Micafungin and Acylovir.  Her
+hickmann line was removed and replaced with a PICC. She was
+treated with IV antibiotics until her counts recovered and she
+was afebrile. She was discharged on oral flagyl as this bacteria
+usually is susceptible to this antibiotic per case reports. She
+will complete a two weeek course as an outpatient. Chest CT
+revealed improvement of her pneumonia. In addition, the patient
+developed intractable nausea and vomiting, which, poorly
+controlled, led ultimately to hematemesis found to be due to
+[**Doctor First Name 329**] [**Doctor Last Name **] tears. On return from the ICU, the patient's
+nausea was well controlled on PPI, Zofran, Zyprexa.  She had no
+more episodes of hematemesis but continued to have fevers and
+neutropenia. Fevers abated and counts recovered. Decision was
+made for patient to complete antibiotics as outpatient for two
+week course of po flagyl and return for transplant. She will
+restart destanib as an outpatient. Counts will be checked two
+days post-discharge.
+
+
+Medications on Admission:
+Furosemide 20 mg Tablet 1 Tablet(s) by mouth once a day
+Imatinib [Gleevec] 400 mg Tablet one Tablet(s) by mouth each day
+
+Omeprazole 20 mg Capsule 1 Capsule(s) by mouth twice a day
+Oxycodone-Acetaminophen 5 mg-325 mg Tablet q6h prn
+K-Phos Original 500 mg Tablet by mouth each day
+Zolpidem 5 mg Tablet by mouth once a night
+Docusate Sodium 100 mg Capsule one Capsule(s) by mouth each day
+
+
+
+Discharge Medications:
+1. Scalp prosethesis
+2. Desatanib
+3. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 9 days.
+Disp:*27 Tablet(s)* Refills:*0*
+4. Colace 100 mg Capsule Sig: One (1) Capsule PO once a day.
+Disp:*30 Capsule(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnoses:
+1. CML Blast Crisis
+2. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Tear
+3. Bacteremia/Pneumonia
+
+
+Discharge Condition:
+stable, afebrile
+
+
+Discharge Instructions:
+You have been admitted for fever and nausea found to be a
+conversion of your Chronic Myelogenous Leukemia into an acute
+"blast crisis."  While you were here you underwent chemotherapy
+which was complicated by nausea and vomiting.  After a brief
+transfer to the ICU you returned to the floor and did well. You
+were found to have a bacteria in your blood and will need to
+continue to take antibiotics through [**2195-4-12**]. Please come back
+on Tuesday to the o

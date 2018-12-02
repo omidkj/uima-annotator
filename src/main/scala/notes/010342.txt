@@ -1,0 +1,217 @@
+Admission Date:  [**2146-9-17**]              Discharge Date:   [**2146-10-5**]
+
+Date of Birth:  [**2086-6-30**]             Sex:   M
+
+Service: TSURG
+
+Allergies:
+Penicillins / Iodine
+
+Attending:[**Last Name (NamePattern1) 1561**]
+Chief Complaint:
+Left empyema
+Fevers
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+Video assisted thoracoscopy
+Decortication with empyema drainage
+Endotracheal tube placement
+Chest tube placement
+Foley catheter placement
+Dobhoff feeding tube placement
+Central venous line placement
+Peripherally inserted central catheter placement
+Rectal tube placement
+
+
+History of Present Illness:
+60-year-old gentleman who recently underwent a left upper
+lobectomy for primary lung cancer ([**2146-9-5**]). He subsequently
+developed a staph aureus left empyema postoperatively requiring
+re-exploration and drainage.  He was recovering from that when
+he again developed fevers to 103.  Repeat imaging demonstrated
+residual pockets within the chest space.  He was transferred to
+the [**Hospital1 69**] on [**2146-9-17**] for further
+care and evaluation.
+
+Past Medical History:
+Primary lung cancer
+Diabetes
+Bronchitis/COPD
+Arthritis
+Hemorrhoids
+Cholelithiasis
+Pilonidal cyst
+Pelvic fracture secondary to MVA s/p repair [**2140**]
+L4-L5 disc disease
+Sinusitis
+Hepatomegaly
+
+Family History:
+Mother with pancreatic cancer
+
+Physical Exam:
+On admission, the patient's vital signs were as follows:
+
+Vitals: T=39.3C, BP=, P=80-110, R=23, TV=620, PEEP=5, SpO2=97%,
+FiO2=0.5, ABG=7.41/33/167/97%/6
+Gen: NAD, intubated, sedated
+Neuro: has purposeful spontaneous movements, opens eyes to pain
+HEENT: PERRL, sclera anicteric, conjunctiva clear, MMM
+CVS: RRR, no MRG, +DP pulses bilaterally
+Pulm: rales on right, decreased lung sounds on left
+Abd: soft, moderately distended, +BS
+Ext: +2 bilateral pitting edema
+
+
+Pertinent Results:
+[**2146-9-17**] 04:51PM   WBC-13.7* RBC-3.15* HGB-9.9* HCT-29.9* MCV-95
+MCH-31.6 MCHC-33.2 RDW-14.2
+[**2146-9-17**] 04:51PM   NEUTS-85* BANDS-1 LYMPHS-6* MONOS-2 EOS-3
+BASOS-1 ATYPS-0 METAS-1* MYELOS-1*
+[**2146-9-17**] 04:51PM   PLT COUNT-304
+[**2146-9-17**] 04:51PM   PT-12.6 PTT-21.9* INR(PT)-1.0
+[**2146-9-17**] 04:51PM   GLUCOSE-339* UREA N-26* CREAT-0.5 SODIUM-146*
+POTASSIUM-4.6 CHLORIDE-111* TOTAL CO2-30* ANION GAP-10
+[**2146-9-17**] 04:51PM   ALT(SGPT)-16 AST(SGOT)-12 LD(LDH)-235
+CK(CPK)-51 ALK PHOS-79 AMYLASE-39 TOT BILI-0.3
+[**2146-9-17**] 04:51PM   ALBUMIN-2.6* CALCIUM-7.8* PHOSPHATE-3.3
+MAGNESIUM-2.1
+[**2146-9-17**] 04:51PM   LIPASE-65*
+[**2146-9-17**] 07:53PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-15 BILIRUBIN-NEG UROBILNGN-4* PH-6.5 LEUK-NEG
+[**2146-9-17**] 10:36PM   TYPE-ART TEMP-39.3 RATES-/23 TIDAL VOL-620
+PEEP-5 O2-50 PO2-167* PCO2-50* PH-7.41 TOTAL CO2-33* BASE XS-6
+
+Pathology Examination [**2146-9-21**]
+Pleural tissue, left: Fibrin, inflammatory cells and pleural
+tissue with inflammation and reactive changes. Clinical: Left
+empyema.
+
+CHEST (PORTABLE AP)  [**2146-9-20**] 5:28 AM
+Continued evidence of layering left pleural effusion with
+associated volume loss and unchanged tube positions.
+
+CHEST (PORTABLE AP)  [**2146-9-21**] 6:15 AM
+Unchanged evidence of layering left pleural effusion with
+associated volume loss.
+
+VIDEO OROPHARYNGEAL SWALLOW  [**2146-9-27**] 10:34 AM
+Moderately impaired oral phase. Aspiration of all consistencies
+of barium.
+
+
+Brief Hospital Course:
+The patient was admitted to the Thoracic Surgery Service at
+[**Hospital1 18**] on [**2146-9-17**] under Dr.[**Name (NI) 1816**] care.  Patient was
+sedated/intubated upon arrival and on clindamycin-he was
+switched to vancomycin and meropenem upon admission.  A chest CT
+scan again demonstrated residual areas, particularly in the left
+lower paravertebral sulcus, along the edge of the diaphragm.  A
+second chest tube was then placed on the left and drained a
+significant amount of fluid.  Over the next few days, attempts
+to wean from the ventilator had failed.  Because of continuing
+low grade temperatures, elevated white blood cell counts and
+failure to wean from the ventilator, it was decided to return to
+the operating room.  On [**2146-9-21**], the patient underwent a video
+assisted thoracoscopy, decortication/clean-out and empyema
+drainage.  A flexible bronchoscopy was also done to rule-out a
+bronchopleural fistula.  For details of the procedures, see
+operative note.
+
+Patient's post-operative course was significant for continued
+fevers (for which multiple cooling modalities were tried),
+elevated blood sugar levels (on insulin gtt while in unit, SQ
+NPH insulin while on floor), pulmonary edema following
+extubation on [**2146-9-23**] (treated with lasix and face mask
+oxygen), intermittent states of confusion/ICU psychosis (which
+completely resolved by [**2146-10-1**]), and a sacro-coccygeal
+decubitus ulcer.
+
+Patient finally defervesced on [**9-23**] and has remained afebrile
+throughout the remainder of his hospital course.  Blood and
+urine, C. difficile and pleural fluid cultures have been
+negative to date.  A sputum culture sent on [**9-22**] grew
+methicilin resistant Staph. aureus.  He was finally transferred
+to the floor on [**2146-9-26**].
+
+On [**2146-9-26**], a Speech and Swallow study had been performed for
+inability to clear secretions, concerns of aspiration and
+aphonia following extubation.  This was followed by a video
+swallow study on [**2146-9-27**].  Both reports showed overt
+aspiration; patient was maintained NPO.  ENT evaluated the
+patient on [**2146-9-28**] and felt that his aphonia was due to
+pulmonary deconditioning and that it would slowly resolve.  He
+is asked to follow-up with Dr. [**First Name (STitle) **] in ENT in [**12-10**] weeks.  On
+follow-up video swallow ([**2146-10-3**]) patient was phonating much
+better and clearing secretions spontaneously.  His diet was
+advanced to a regular diet following teaching strategies for
+eating and medications were allowed to be given whole with
+pureed foods.
+
+On [**2146-9-29**], the patient had fallen out of bed despite
+restraints.  Follow-up films were negative for any traumatic
+injury.  The remainder of his hospital course was benign; he
+continued with physical therapy and conditioning.
+
+On [**2146-10-4**], Vascular surgery had kindly seen the patient
+regarding complaints of the patient's left 5th toe being dusky
+black/purple.  He was deemed as having a small blister that was
+resolving and in no immediate threat of limb loss, etc.  He is
+asked to follow-up with Dr. [**Last Name (STitle) 1391**] in Vascular Surgery in [**12-10**]
+weeks for further care and evaluation especially given his
+history of diabetes and slight peripheral neuropathy.
+
+Furthermore, he was deemed able to go to rehab by the surgical
+team and was discharged on [**2146-10-4**], POD#14-ambulating with
+assistance, tolerating a regular diabetic diet and voiding
+spontaneously.  He is also to continue on linezloid for another
+14 days and his current regimen of 18 units of NPH insulin [**Hospital1 **].
+He is asked to follow-up with Dr. [**Last Name (STitle) 952**] in [**12-10**] weeks.
+
+Medications on Admission:
+Meropenem
+Vancomycin
+Pantoprazole
+Insulin
+Tylenol
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 2 weeks.
+Disp:*28 Tablet(s)* Refills:*0*
+3. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Hospital of [**Location (un) **] & Islands - [**Location (un) 6251**]
+
+Discharge Diagnosis:
+Left empyema
+Decubitus ulcer
+Aphonia
+Diabetes
+Chronic obstructive pulmonary disease
+Pulmonary edema
+
+
+Discharge Condition:
+Good and ambulating with assistance, tolerating a regular
+diabetic diet and voiding spontaneously
+
+Discharge Instructions:
+You may restart any home medi

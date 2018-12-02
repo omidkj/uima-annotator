@@ -1,0 +1,187 @@
+Admission Date:  [**2141-4-25**]              Discharge Date:   [**2141-5-1**]
+
+
+Service: MEDICINE
+
+Allergies:
+Quinidine / Propranolol / Heparin Agents / Warfarin / Zolpidem
+
+Attending:[**First Name3 (LF) 2610**]
+Chief Complaint:
+Unresponsiveness
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known firstname **] [**First Name4 (NamePattern1) 122**] [**Known lastname **] is a very nice 87 YO M with end-stage
+diastolic heart faillure (EF 65%), moderate AS, mild AI, mild
+MR, moderate TR, HTN, HL, Stage IV CKD, positive HIT antibody
+(negative seronotin assay), recent episode of c diff who comes
+with somnolence. Patient was discharged from [**Hospital1 18**] after a hip
+fracture 11 days ago to [**Hospital **] Rehab, where he was noted by his
+wife to be somnolent, bed-bound, with poor apetite. Lab work on
+[**4-17**] showed Tbili: 26, Dbili: 14, AST 101, ALT 31, Alk phos:
+644, which was thought to be secondary to either medication (PO
+Vanc) versus other pathology. Patient has extensive work up
+including ceruloplasmin, alpha1 anti-tripsin, AMA, anti-smooth
+muscle, [**Doctor First Name **], hepatitis cerologies Ca [**49**]-9 and everything was
+negative except [**Doctor First Name **], which were mildy positive at 1:40.
+Initially it was decided to undergo liver biopsy for diagnosis,
+but after discussion with Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 696**] it was decided it
+was too high risk.
+.
+Today he was evaluated by ortho in a normal scheduled post-op
+visit. Dr [**Last Name (STitle) 1005**] was pleased with the results and he removed
+the staples (per wife). He was on his way back home, when he was
+found somnolent and BP was very difficult to take as well as
+pulse. So he was brought to the ER.
+.
+In the ER his initial VS were: T 98.4, HR 54 X', BP 134/93 mmHg,
+SpO2 100% on RA. His BP dropped to 81/57 and did not respond to
+2 L NS, so he was started on peripheral norepinephrine. He wa
+safebrile and with HR in 50s to 60s. Physical exam reported CTA
+lung fields, normal JVP. ECG was unchanged from prior. CT scan
+of the head did not show any acute bleed or pathology, CT
+abdomen showed anasarca, but no signs of infection, CT chest no
+PNA and worsening effusions. His WBC was 6, LFTs were unchanged
+from [**4-17**] at OSH and slightly worsened compared to prior at
+[**Hospital1 18**]. Pt received levofloxacin for possible UTI? and was
+admitted to the ICU given his multiple medical comorbidities.
+
+Past Medical History:
+-Congestive heart failure with preserved LVEF (65% 1/10) --> per
+DCS from [**2-8**], thought to have left HF leading to right HF
+without primary pulm HTN
+-Chronic Atrial fibrillation, not on warfarin given recent UGIB
+([**2-8**])
+-Pulmonary artery hypertension (30mmHg + RA [**11-6**])
+-Mild MR, moderate TR, mild AI, mild AS (peak 25 mmHg [**11-6**])
+-Mild ascending aortic dilatation (3.7 cm)
+-Left ventricular hypertrophy
+-Prostate enlargement (followed by Dr. [**Last Name (STitle) **] [**Last Name (STitle) 79**])
+-Hypertension
+-Hypercholesterolemia
+-Severe essential tremor, since [**2076**] (WWII)
+-Venous stasis, followed by Dr. [**Last Name (STitle) **]
+[**Name (STitle) 104985**] hernia repair
+-Anemia, multifactorial (chronic illness, CKD, recent GIB)
+-Hemorrhoid repair
+-History of MRSA cellulitis ([**2-7**])
+-Chronic Renal Failure [**1-31**] poor forward flow from CHF: Stage IV
+with eGFR of 24 ml/min (MDRD). Near dialysis. Recommend to check
+PTH every 3 months with target of 70-110.
+-Left foot abscess s/p I&D
+-Multiple episodes of C. Diff colitis (third episode this year
+during [**3-17**] hospitalization)
+-GIB ([**2141-3-17**]) with guaiac positive stools, but no endoscopy
+performed
+.
+Recent hospitalizations:
+[**2140-12-29**] to [**2141-1-4**]
+-- for CHF exacerbation, given lasix ggt
+-- left foot cellulitis/fluid collection managed medically with
+Vanc/Cipro/Flagyl
+-- AFib subtherapeutic on Coumadin so bridged with Heparin with
+subsequent rectal bleeding, traumatic hematoma, oozing from
+newly placed PICC line
+-- incidentaloma seen in pancreas on RUQ u/s without further w/u
+.
+[**2141-1-31**] to [**2141-2-15**]
+-- also for CHF exacerbation, given lasix ggt and metolazone
+-- supratherapeutic INR on admission, complicated by epistaxis
+and melena (GI followed but endoscopy was deferred)
+-- C diff colitis treated with ? both Po flagyl and vancomycin,
+course should have been completed [**2141-2-19**]
+.
+[**2141-3-7**] to [**2141-3-10**]
+-- Unresponsive while sleeping after trazadone; negative
+infectious work up
+-- 16 beat run of VT
+-- Decreased metoprolol from 12.5mg->6.25mg [**Hospital1 **]
+-- Renal failure attributed to torsemide and pre-renal
+.
+[**2141-3-17**] to [**2141-3-31**]
+-- Sent in by rehab for sleepiness, low Hct, weight gain, cough.
+-- C. Diff colitis
+-- GIB (Guaiac positive, had been on coumadin until [**Month (only) 956**]
+when had presumed UGIB requiring 1U pRBC); transfused for Hct
+23.5 (but near baseline of 24)
+-- Hypotension to the 70s systolic (baseline 90-100s)
+-- CHF
+-- UTI
+-- Acute on chronic kidney disease
+-- Pancytopenia: found to be HIT antibody positive but serotonin
+assay negative so not likely HIT; nonetheless heparin products
+were avoided. Pancytopenia improved over hospital course;
+thought to be infection related.
+-- Increased AP and GGT with elevated lipase and an abnormality
+on ultrasound suggestive of a pancreatic mass. GI was consulted
+and recommended an outpatient MRCP.
+.
+
+[**2141-4-6**] to [**2141-4-14**]
+-- Hypotension: Most likely due to combination of dehydration
++/- acute bleed in setting of poor cardiac function. Responded
+to fluids.
+-- Hip fracture: s/p ORIF with TFN
+-- Acute on chronic renal failure
+-- LFTs: direct>indirect with elevated alk phos, however no
+evidence of obstruction on US. Seen by liver. Work up was
+pending on discharge.
+-- CHF
+-- RETROPERITONEAL MASS: Adrenal mass seen on CT this admission
+(8x6.2 cm). Plan was work up as outpatient.
+-- Thrombocytopenia: initial concern for HIT, but r/o with
+negative serotonin assay. Avoiding heparin anyway.
+
+Social History:
+Usually lives with wife, married for >50yrs, currently at [**Hospital 100**]
+Rehab. 3 children. No tobacco, EtOH, IVDU. Retired, formerly
+worked manufacturing and distributing batteries. He smoked
+cigars for 2-3 years and quit >45 years ago. He has not smoked
+cigarettes. He does not drink alcohol on a regular basis. Denies
+IV, illicit, or herbal drug use.
+
+
+Family History:
+Parents are both deceased. Father (73 years; "heart" disease);
+Mother (48 years; stomach cancer). He has 2 siblings (80- breast
+cancer, brother with ? abdominal cancer). He has 3 children (55,
+53, 49 years; all well). A son [**Doctor Last Name **] has atrial fibrillation.
+
+
+Physical Exam:
+VITAL SIGNS -  BP 115/64 mmHg, HR 59 BPM, RR 11 X', O2-sat 100%
+2L NC
+GENERAL - well-appearing man in NAD, comfortable, appropriate,
+jaundiced (skin, mouth, conjuntiva)
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD, no carotid bruits
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp
+unlabored, no accessory muscle use
+HEART - PMI diosplaced to the left, RRR, SEM [**2-4**] RUSB no
+radiation, SEM [**2-4**] apex radiating towards axila, SEM [**2-4**] in
+tricuspid region, nl S1-S2, no S3 or S4
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no
+rebound/guarding.
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials,
+DPs), severe edema
+SKIN - no rashes or lesions
+LYMPH - no cervical, axillary, or inguinal LAD
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength
+[**5-3**] throughout, sensation grossly intact throughout, DTRs 2+ and
+symmetric, cerebellar exam intact, steady gait. Pt has baseline
+tremor, no asterexis.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+IMAGING:
+CT Head ON [**2141-4-25**]:
+There is no intracranial hemorrhage, mass effect, or [**Doctor Last Name 352**]-white
+matter differentiation abnormality. Prominence of the sulci and
+ventricles is consistent with age related global atrophy.
+Periventricular and subcortical white matter hypodensities are
+compatibl

@@ -1,0 +1,216 @@
+Admission Date:  [**2171-1-29**]              Discharge Date:   [**2171-2-3**]
+
+
+Service: MEDICINE
+
+Allergies:
+Percocet
+
+Attending:[**First Name3 (LF) 1185**]
+Chief Complaint:
+Respiratory distress
+
+
+Major Surgical or Invasive Procedure:
+G-tube repositioning
+
+History of Present Illness:
+This is an 87-year-old woman with a pmhx. significant for CVA,
+HTN, DM2 and recent admission for UTI (treated with 3 days of
+Bactrim) who is admitted from nursing home with fever to 104 and
+hypoxia.  Patient was discharged from [**Hospital1 18**] on [**1-26**] after
+admission for altered mental status in the setting of UTI.
+Patient was treated with 3 days of DS bactrim and sent back to
+[**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **].  Urine culture during that admission showed
+fecal contamination.
+.
+According to patient's daughter, Ms. [**Known lastname **] never fully returned
+to her baseline after last admission.  She continued to have
+copious secretions and leakage around her G tube.  At nursing
+home she spiked to 104 this morning; she was also found to be
+tachypneic and hypoxic to the 80s on room air.  EMS was called
+and patient was brought to ED for further care.
+.
+In the ED, initial vitals were: 110/78, RR 20s, HR 120, Temp
+102, and 97% on BiPap.  Labs were significant for: WBC of 17.4,
+lactate of 4.0, sodium of 150, BNP of 4510, and creatinine of
+2.2 (up from baseline of Ms. [**Known lastname **] was treated broadly for
+respiratory and urinary source with vanc and zosyn.  Received 2
+L of NS.  Patient was also started on BiPap for respiratory
+distress.
+
+
+Past Medical History:
+CVA
+systolic heart failure
+depression
+
+
+Social History:
+Had 9 children.  Ocassional ETOH use, hasn't used tobacco for
+many years.  Now resides in [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **].
+
+
+Family History:
+History of HTN and diabetes
+
+Physical Exam:
+Admission exam
+T: 99.6, HR: 107, BP 127/59, SP02 99% on 40% Fi02
+GENERAL:  Lying in bed, no acute distress, BiPap on
+HEENT:  Mucous membranes difficult to appreciate with BiPap mask
+in place
+CARDIAC:  Tachycardic, JVP elevated to about 8 cm
+RESPIRATORY:  Diffusely rhonchorous anteriorly
+ABDOMEN:  Gtube in place, positive bowel sounds
+EXTREMITIES:  Mild edema bilaterally
+SKIN:  Warm and dry, no skin breakdown
+
+Discharge exam
+
+
+Pertinent Results:
+Admission labs
+[**2171-1-29**] 08:50AM BLOOD WBC-17.4*# RBC-4.60 Hgb-13.7 Hct-43.5
+MCV-95 MCH-29.8 MCHC-31.5 RDW-13.4 Plt Ct-489*
+[**2171-1-29**] 08:50AM BLOOD Neuts-79.5* Lymphs-14.7* Monos-5.2 Eos-0
+Baso-0.5
+[**2171-1-29**] 08:50AM BLOOD PT-12.2 PTT-25.4 INR(PT)-1.1
+[**2171-1-29**] 08:50AM BLOOD Glucose-318* UreaN-85* Creat-2.2*#
+Na-150* K-4.5 Cl-103 HCO3-27 AnGap-25*
+[**2171-1-29**] 02:30PM BLOOD ALT-74* AST-73* LD(LDH)-291* AlkPhos-207*
+TotBili-0.3
+[**2171-1-29**] 02:30PM BLOOD Lipase-46
+[**2171-1-29**] 08:50AM BLOOD cTropnT-0.04*
+[**2171-1-29**] 08:50AM BLOOD proBNP-4510*
+[**2171-1-29**] 02:30PM BLOOD Albumin-3.0*
+[**2171-1-29**] 09:38AM BLOOD Type-ART Rates-/46 Tidal V-357 PEEP-5
+FiO2-50 pO2-128* pCO2-32* pH-7.49* calTCO2-25 Base XS-2
+Intubat-NOT INTUBA Vent-SPONTANEOU Comment-NIV
+[**2171-1-29**] 02:27PM BLOOD Lactate-3.7*
+.
+Discharge labs
+[**2171-2-3**] 12:24PM BLOOD WBC-12.0* RBC-3.21* Hgb-9.7* Hct-30.7*
+MCV-96 MCH-30.1 MCHC-31.5 RDW-13.6 Plt Ct-332
+[**2171-2-3**] 06:15AM BLOOD Glucose-113* UreaN-14 Creat-0.7 Na-144
+K-3.6 Cl-113* HCO3-22 AnGap-13
+.
+Studies
+[**2170-1-29**] CXR: The cardiac, mediastinal, and hilar contours appear
+unchanged.  Shaggy mitral annular calcifications are again
+present. The lungs remain clear. There is no evidence for
+pleural effusion or pneumothorax.  IMPRESSION: No evidence of
+acute disease.
+.
+[**2171-1-31**] CT CHEST w/o CONTRAST:
+IMPRESSION:
+1. Multifocal pneumonia, most severe at right lung base,
+consistent with
+aspiration. Endobronchial occlusion superior segmental bronchus
+left lower
+lobe probably retained secretions or aspirate.
+2. Moderate cardiomegaly. Probable pulmonary arterial
+hypertension, and
+possible mitral regurgitation. No pulmonary edema.
+3. Nonobstructing papillary right renal calculus.
+.
+[**2171-2-2**]
+FINDINGS: Two bedside supine views of the abdomen after
+injection of contrast via the indwelling gastric tube
+demonstrates the gastric tube to now terminate within the
+stomach. No contrast leak is identified. The bowel gas pattern
+is normal. No ileus, obstruction, or free air. The visualized
+osseous structures are unremarkable.
+IMPRESSION: GJ tube conversion to G-tube. No contrast leak
+identified.
+
+Brief Hospital Course:
+Primary Reason for Hospitalization:
+This is an 87-year-old woman with a pmhx. of CVA, HTN, and DM2
+with recent admission for AMS and UTI presents with fever and
+hypoxia, found to have aspiration pna.
+.
+Active issues:
+# Aspiration pna: Presented with fever/leukocytosis, hypoxia,
+found to have multifocal aspiration pna on chest CT.  She was
+treated with IV Zosyn and should complete a 10 day course (to
+end [**2-8**]).  Her WBC trended down and her fever and hypoxia
+resolved (on room air on day of discharge).  Recommend chest PT
+2-3x daily due to poor clearance of airway secretions.
+.
+# Hypernatremia: Improved with free water, likely [**2-28**]
+dehydration.  Recommend 500cc free water flushes Q6H via G-tube.
+
+.
+# G-tube leakage: Pt's G-tube was noted to be leaking bile,
+causing skin breakdown around insertion site.  G-tube study
+showed tube had advanced to small bowel.  GI service was
+consulted and the tube was re-positioned, repeat G-tube study
+confirmed placement in stomach.
+.
+# Goals of care: The palliative care service and inpatient
+social worker were consulted due to confusion surrounding her
+code status on admission.  Per family meeting on [**2-1**], family
+would like to maintain DNR/DNI code status.  They would like to
+continue tube feeds through G-tube and offer PO food if pt
+expresses interest (but request no scheduled PO feedings by
+[**Hospital1 1501**]).
+.
+# Hyperglycemia: Pt had blood glucose levels monitored QACHS
+with ISS, FS ranged 200s.  Would recommend continued monitoring
+of blood glucose levels with regular ISS if consistent with
+family's wishes regarding her goals of care.
+.
+# [**Last Name (un) **]: Resolved with IV fluids, c/w pre-renal etiology.
+Creatinine 0.7 on discharge.
+.
+Chronic issues:
+# Depression: Stable on home duloxetine.
+.
+# HLD: Stable. Recommend discontinue statin due to transaminitis
+(chronic since [**2166**], may be [**2-28**] statin).
+.
+# H/o CVA: Stable. She was continued on her home ASA.
+.
+Transitional issues:
+-She should continue IV Zosyn to complete 10 day course (to end
+[**2-8**]).
+-Recommend d/c statin due to transaminitis.
+-Recommend 500cc free water flushes via G-tube Q6H
+-Recommend regular chest PT to help clear airway secretions.
+-Per family meeting on [**2-1**], she is DNR/DNI.
+
+Medications on Admission:
+--Aspirin 81 mg Tablet QD
+--Duloxetine 30 mg Capsule [**Hospital1 **]
+--Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+--Senna 8.6 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime).
+--Docusate sodium 50 mg/5 mL Liquid Sig: Five (5) ml PO BID (2
+times a day).
+--Glycopyrrolate 1 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+--Hyoscyamine sulfate 0.125 mg Tablet, Sublingual Sig: One (1)
+Tablet, Sublingual Sublingual Q 12H (Every 12 Hours).
+--Guaifenesin 100 mg/5 mL Syrup Sig: Twenty (20) ML PO BID (2
+times a day).
+--Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+--Sodium phosphates 19-7 gram/118 mL Enema Sig: One (1) enema
+Rectal DAILY (Daily) as needed for constipation.
+--Potassium chloride 10 mEq Capsule, Extended Release Sig: One
+Capsule, Extended Release PO once a day.
+--Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+--Tramadol 50 mg Tablet Sig: 0.5 Tablet PO TID (3 times a
+day).
+--Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+--Magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q 24H (Every 24 Hours).
+--Ipratropium bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+
+or wheezing.
+--Albuterol sulfate 2.5 mg /

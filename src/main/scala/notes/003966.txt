@@ -1,0 +1,195 @@
+Admission Date:  [**2169-6-14**]              Discharge Date:   [**2169-6-21**]
+
+Date of Birth:  [**2096-3-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+morphine
+
+Attending:[**First Name3 (LF) 7333**]
+Chief Complaint:
+Dizziness
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+The patient is a 73 yo man with a h/o rheumatic heart disease
+s/p bioprosthetic AVR, non-ischemic cardiomyopathy with an EF of
+20%, and s/p AICD in [**2168**] who presented to [**Hospital3 **] Hospital on
+[**2169-6-12**] with dizziness.  Per the patient's daughter, the patient
+was in his normal state of health until approximately one week
+ago, when he began to experience periodic episodes of dizziness
+associated with tachycardia, nausea, weakness, and urinary
+incontinence.  The day of admission, Mr. [**Known lastname 99580**] was noted by
+his daughter to be "grey" during one of these episodes, so EMS
+was called and he was brought to [**Hospital3 **] Hospital for further
+evaluation.
+.
+At [**Hospital3 **] Hospital, his AICD was interrogated and demonstrated
+sustained monomorphic VT, the longest of which lasted for 19
+minutes.  This rate was apparently slower than the VT detect
+rate on his defibrillator, so he was not shocked.  His pacemaker
+was reprogrammed to a slower rate, and he was thereafter
+cardioverted once in the ED.  He was started on an amiodarone
+gtt and was admitted to the CCU.
+.
+In the OSH CCU, he was started on Lopressor IV and was continued
+on the amiodarone gtt to suppress his arrythmia.  He then became
+febrile to 104.9, hypotensive to 81/35 and was found to have [**5-8**]
+bottles of GPCs in chains in his blood. He was started on
+CTX/Vancomycin and was transferred to [**Hospital1 18**] for further
+evaluation.
+.
+On arrival to the CCU, the patient was very uncomfortable with
+his foley in place, and he was occasionally speaking in Polish.
+He stated that he had occasional nausea and dizziness but
+otherwise had no acute complaints. Of note, he was alert and
+oriented to person, place, and date but did not demonstrate
+insight into his condition.
+.
+On review of systems, he denied any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denied recent fevers, chills or rigors.
+He denied exertional buttock or calf pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems was notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: -Diabetes, -Dyslipidemia, -Hypertension
+2. CARDIAC HISTORY:
+- PACING/ICD: VVI [**Company 1543**] pacer/AICD, placed in [**2168**]
+- Non-ischemic cardiomyopathy with EF of 20%
+- Rheumatic Heart Disease (in childhood) s/p bioprosthetic AVR
+[**68**] years ago in FL
+- paroxysmal atrial fibrilation on Coumadin (confirmed by phone
+by his [**State 108**] cardiologist Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 99581**] (Holywood,
+[**Numeric Identifier 99582**])
+- Ventricular tachycardia
+3. OTHER PAST MEDICAL HISTORY:
+- Gout
+- Hypothyroidism
+- Traumatic injury to his left arm 30 years ago
+
+Social History:
+The patient's girlfriend lives in FL. He lived in [**State 108**] up
+until recently, when he moved to [**Location (un) **] to live with his
+daughter. [**Name (NI) **] does not smoke cigarettes.
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+GENERAL: Restless, oriented x3
+HEENT: NCAT. Sclera anicteric. Pin-point pupils, round, reactive
+to light b/l; EOMI. Clear oropharynx without exudates.
+NECK: Supple, no JVD.
+LYMPH: No cervical, axillary, or inguinal lymphadenopathy.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. Soft systolic ejection murmur (Grade
+II/VI) at RUSB. No r/g. No thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominal bruits.
+EXTREMITIES: Well-healed scar around left ante-cubital fossa,
+with large circumferential bulbous area of erythema distally;
+non tender, no crepitus, but warm to touch. Area of
+discoloration and mild erythema w/o tenderness on extensor
+surface of left arm. No c/c/e. Several toes b/l with
+onychomycosis. No splinter hemorrhages, no Osler nodes/[**Last Name (un) 1003**]
+lesions.
+SKIN: Well-healed surgical incision near ICD/pacer. Pacemaker
+pocket without erythema, exudate, fluctuance, or tenderness. No
+stasis dermatitis, ulcers, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+  DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+  DP 2+ PT 2+
+.
+On Discharge:
+HEENT: NCAT. Sclera anicteric. pin point pupils, round, reactive
+to light b/l; EOMI. Clear oropharynx w/o exudates.
+NECK: Supple, no JVD.
+LYMPH: no cervical, axillary, or inguinal lymphadenopathy
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. soft systolic ejection murmur (Grade
+II/VI) at RUSB. No r/g. No thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominal bruits.
+EXTREMITIES: Well healed scar around left ante-cubital fossa,
+with large circumferential bulbous area of erythema distally;
+non tender, no crepitus, minimal warmth. Area of discoloration
+and mild erythema w/o tenderness on extensor surface of left
+arm. No c/c/e. Several toes b/l with onychomycosis. No splinter
+hemorrhages, no Osler nodes/[**Last Name (un) 1003**] lesions.
+SKIN: Well healed surgical incision near ICD/pacer. Pacemaker
+pocket without erythema, exudate, fluctuance, or tenderness. No
+stasis dermatitis, ulcers, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+  DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+  DP 2+ PT 2+
+
+Pertinent Results:
+OSH:
+- OSH Cx
+- blood: pansensitive beta hemolytic GAS
+- urine: pansensitive e.coli
+         enterococcus faecalis:
+levofloxacin R
+ciprofloxacin R
+tetracycline R
+.
+On Admission:
+
+[**2169-6-14**] 04:00PM   WBC-7.9 RBC-5.07 HGB-13.5* HCT-40.1 MCV-79*
+MCH-26.7* MCHC-33.7 RDW-15.8*
+[**2169-6-14**] 04:00PM   NEUTS-68.0 LYMPHS-21.6 MONOS-6.7 EOS-3.2
+BASOS-0.5
+[**2169-6-14**] 04:00PM   PLT COUNT-171
+[**2169-6-14**] 04:00PM   GLUCOSE-92 UREA N-16 CREAT-1.1 SODIUM-135
+POTASSIUM-4.5 CHLORIDE-102 TOTAL CO2-25 ANION GAP-13
+[**2169-6-14**] 04:00PM   CALCIUM-8.7 PHOSPHATE-3.0 MAGNESIUM-2.1
+[**2169-6-14**] 04:00PM   ALT(SGPT)-15 AST(SGOT)-28 LD(LDH)-203 ALK
+PHOS-78 TOT BILI-0.5
+[**2169-6-14**] 04:00PM   TSH-0.74
+[**2169-6-14**] 04:14PM   LACTATE-1.7
+[**2169-6-14**] 04:00PM   PT-30.9* PTT-34.1 INR(PT)-3.0*
+.
+Micro:
+[**2169-6-17**] 5:56 am STOOL     CONSISTENCY: LOOSE      Source:
+Stool.
+
+                            **FINAL REPORT [**2169-6-18**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2169-6-18**]):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+.
+Blood cxs: NGTD
+.
+TTE [**6-15**]
+The left atrium is moderately dilated. There is moderate
+symmetric left ventricular hypertrophy. The left ventricular
+cavity is mildly dilated. There is severe global left
+ventricular hypokinesis (LVEF = 25-30 %) with akinesis of the
+basal inferior, inferolateral and lateral segments. The right
+ventricular cavity is moderately dilated with depressed free
+wall contractility. The aortic root is moderately dilated at the
+sinus level. A bioprosthetic aortic valve prosthesis is present.
+No masses or vegetations are seen on the aortic valve, but
+cannot be fully excluded due to suboptimal image quality. The
+mitral valve leaflets are mildly thickened. No masses or
+vegetations are seen on the mitral valve, but cannot be fully
+excluded due to suboptimal image quality. Trivial mitral
+regurgitation is seen. The tricuspid valv

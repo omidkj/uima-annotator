@@ -1,0 +1,234 @@
+Admission Date:  [**2195-3-25**]              Discharge Date:   [**2195-3-31**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+Pneumonia, sepsis
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+89M h/o HTN, hyperlipidemia and prostate CA presented with
+increased confusion, fever, lethargy with multiple falls for
+several days prior to admission.
+.
+In the ED, patient was febrile to 102F, and found to have a
+retrocardiac opacity concerning for pneumonia as well as a
+creatinine of 2.3 increased from his baseline of 1.2.  Oxygen
+saturation on room air was in the low 80s, and the patient was
+found to have systolics in the 80s.  The patient had a central
+line placed in the ED, received ceftriaxone and levofloxacin as
+well as volume resuscitation, and admitted to the MICU for
+sepsis.
+.
+On arrival to the MICU, patient had received 3L NS with
+improvement in SBP to low 100s, and therefore did not require
+pressors.  No other source of fever was located and antibiotics
+were therefore tailored to levofloxacin for community acquired
+pneumonia.  Influenza testing was negative.  After
+stabilization, the patient was transferred to the floor.
+.
+On arrival to the floor, the patient had only mild dyspnea, and
+no other complaints.
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Osteoarthritis
+Seasonal allergies
+Prostate cancer:  IV tx q6 months
+
+Social History:
+# Personal: Russian speaker.  Lives at home with wife.
+# Professional: Retired ship captain.
+# Tobacco, alcohol, recreational drugs: No current use
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vital signs: T 96.1, BP 144/80, HR 60, RR 16, O2sat 96% on 3L
+General: NAD
+HEENT: NCAT, EOMI, sclera anicteric. MM dry appearing
+Neck: No JVD, dressing over right neck s/p triple lumen
+Chest: CTAB at anterior fields, few rales at left base.
+CV: RRR, normal S1/S2, 3/6 SEM throughout precordium, loudest at
+apex
+Abdomen: RLQ healed scar. Soft, NT, NT +BS.
+Ext: No C/C/E
+
+
+Pertinent Results:
+Admission labs:
+.
+[**2195-3-25**] 04:45PM WBC-24.1*# RBC-3.76* HGB-12.4* HCT-35.5* MCV-94
+MCH-33.0* MCHC-35.0 RDW-12.6
+[**2195-3-25**] 04:45PM NEUTS-92.8* BANDS-0 LYMPHS-4.7* MONOS-2.4 EOS-0
+BASOS-0.1
+[**2195-3-25**] 04:45PM GLUCOSE-137* UREA N-61* CREAT-2.3*# SODIUM-134
+POTASSIUM-4.6 CHLORIDE-99 TOTAL CO2-23 ANION GAP-17
+.
+Microbiology:
+.
+# UA: Small leukocytes, no bacteria
+.
+# Blood cultures no growth
+.
+STUDIES:
+# CXR [**2195-3-25**]: No definite consolidation however there is
+relatively [**Name2 (NI) 15410**] atelectasis in both lung bases worse on the
+left. There is an indistinct opacity adjacent to the superior
+mediastinum in the right apex. While this may be due to
+underlying aortic tortuosity, either airspace process,
+atelectasis, or possible underlying ground-glass nodule cannot
+be excluded on the basis of this examination. PA and lateral
+views may be of benefit however CT may be indicated given the
+multiple complaints listed in the history.
+.
+# CXR [**2195-3-25**]: Left lower lobe atelectasis/consolidation with
+worsening failure. Right upper lobe opacity is concerning for a
+mass, and should be further investigated with cross-sectional
+imaging.
+.
+# CT head: No intracranial hemorrhage
+.
+# CT chest [**2195-3-27**]:
+1. Well marginated 3.5 cm mass abutting the pleura in the
+posterior segment of the right upper lobe corresponding with the
+region of abnormality seen on the previous chest radiograph.
+Further characterization with PET CT is recommended to exclude
+malignancy. If no FDG activity is seen within this lesion on PET
+imaging, a followup chest CT is recommended in three months to
+assess for temporal stability.
+2. Bilateral small pleural effusions with adjacent relaxation
+atelectasis.
+3. Calcified mediastinal lymph nodes suggesting previous
+granulomatous infection.
+4. Moderately severe compression fractures of several mid
+thoracic vertebral bodies of unknown chronicity. Recommend
+correlation with outside imaging studies to assess stability.
+
+Brief Hospital Course:
+89M Russian speaking h/o HTN, hyperlipidemia, prostate cancer,
+admitted to the MICU with CAP and sepsis, and found to have a
+mass in right lung apex.
+.
+# Community acquired pneumonia/sepsis:  Given patient's
+admission x-ray, community acquired pneumonia was considered the
+most likely cause for his symptoms and hypotension.  Blood and
+urine cultures were negative.  Patient was begun on a 10 day
+course of levofloxacin and was discharged with good ambulatory
+oxygen saturations on room air.
+.
+# Acute renal failure: Patient was in acute renal failure with
+elevated creatinine of 2.3 on admission.  He received IV fluids
+and antibiotics for septic pneumonia, and his creatinine
+returned to baseline.
+.
+# Falls: Patient's falls were considered likely secondary to
+infection and sepsis.  CT head on admission was negative for
+ICH, and he received physical therapy while inpatient.
+.
+# Hypertension: Patient presented with hypotension, and his home
+regimen of antihypertensives were initially held.  On transfer
+to the floor he was borderline hypertensive and outpatient
+antihypertensive regimen resumed including nifedipine.  Atenolol
+stopped and he was changed to metoprolol given acute renal
+failure on admission.
+.
+# Lung mass NOS: CXR on admission revealed a rounded nodule at
+right apex concerning for malignancy.  CT chest demonstrated a
+3.5 cm mass abutting pleura in posterior segment of RUL.
+Radiology recommending characterization with PET CT.  the
+patient was provided with a PET CT appointment and given
+instructions on preparing for the exam.  Follow-up was arranged
+as an outpatient.
+.
+# Prostate cancer: Patient's history of known prostate cancer
+was considered a possible source of his new lung mass.  Patient
+was continued on doxazosin, with PSA less than 0.1.
+.
+# Full code
+
+Medications on Admission:
+Atenolol 25mg [**Hospital1 **]
+Nifedipine XR 30mg daily
+Atorvastatin 10mg daily
+Aspirin 81mg daily
+Doxazosin 2mg QHS
+Loratadine 10mg daily
+Calcium carbonate 500mg TID
+Magnesium 250mg daily
+Oxycodone/acetaminophen 10/325mg 1 tab Q6H
+Meloxicam 7.5mg daily
+Diazepam 2mg QHS PRN
+Zolpidem 10mg QHS PRN
+
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. Nifedipine 30 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO once a day.
+Disp:*30 Tablet Sustained Release(s)* Refills:*2*
+4. Doxazosin 2 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Tablet(s)
+5. Atenolol 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+Tablet(s)
+6. Diazepam 2 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Magnesium 250 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+10. Calcium Carbonate 500 mg (1,250 mg) Tablet Sig: One (1)
+Tablet PO once a day.
+11. Endocet 10-325 mg Tablet Sig: One (1) Tablet PO every six
+(6) hours.
+12. Lidocaine HCl  Topical
+13. Meloxicam 7.5 mg Tablet Sig: One (1) Tablet PO daily ().
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+family extended care
+
+Discharge Diagnosis:
+Primary Diagnoses:
+Community acquired pneumonia
+Acute renal failure
+Lung mass NOS
+.
+Secondary diagnosis:
+Hypertension
+Prostate cancer
+
+Discharge Condition:
+Stable. Ambulatory oxygen saturation 97% on room air.
+
+
+Discharge Instructions:
+You were admitted to the hospital because you were confused,
+falling and having fevers.  You were found to have a pneumonia,
+you were treated with antibiotics, and you improved.  You were
+also found to have kidney failure.  Later, you were found to
+have a mass in your right lung.  You had a CT scan that
+confirmed the mass and its location.  We will be referring you
+to workup this mass as an outpatient; please see below for
+information on the appointments for the workup.
+.
+We have made no changes to your medications.
+.
+Please call your doctor or return to the hospital if you
+experience any concerning symptoms incl

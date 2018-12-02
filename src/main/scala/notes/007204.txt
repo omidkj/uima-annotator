@@ -1,0 +1,242 @@
+Admission Date:  [**2146-9-6**]              Discharge Date:   [**2146-10-14**]
+
+Date of Birth:  [**2079-8-1**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Haldol / Clozaril / Risperdal / Seroquel
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+Found unresponsive on floor.
+
+Major Surgical or Invasive Procedure:
+1. Tracheostomy.
+2. Percutaneous endoscopic gastrostomy.
+3. Bronchcoscopy
+
+
+History of Present Illness:
+Patient is 67 yo M with history of schizophrenia, dementia, NMS,
+anxiety, cardiomyopathy, OA, and catatonia myositis.  At
+baseline he lives in a nursing home and is noted to be "alert,
+verbally responsive, confused, and able to ambulate."  He was
+seen in bed at 7 AM.  At 7:30 AM he was found lying face-down on
+the floor, unresponsive.  His O2 sat was noted to be in the 40s
+and his pupils were fixed and constricted.  He was taken to
+[**Hospital1 18**] ED and intubated.
+
+Past Medical History:
+Schizophrenia
+Dementia
+NMS
+Anxiety
+Cardiomyopathy
+OA
+Catatonia myositis
+
+
+Social History:
+Resident at Stonehedge Care facility.  Guardian is [**Name (NI) **]
+[**Name (NI) 29768**] [**Telephone/Fax (1) 29769**].  No further details available at this time.
+
+
+Family History:
+Unable to be obtained
+
+Physical Exam:
+VS; T 99.8  BP 170/102  P 63  RR 15  100% on vent (BP 191/131 at
+time of arrival)
+Gen; intubated, unarousable
+CV; RRR, +S1,S2
+Pulm; CTA anteriorly
+Abd; soft, NT, ND
+Extr; no edema
+Neuro; intubated, non-responsive to verbal or tactile stimuli.
+Pupils 2mm in R and 1.5 mm in L and minimally reactive, mild
+downward skew of L eye with ocular bobbing.  No corneals or gag.
+
+Normal bulk, increased tone in lower extremities R > L.  Minimal
+withdrawl to pain in left arm, extensor response in right arm,
+triple flexion response in lower extremities.  Reflexes 2+ and
+symmetric at bicep and patellar, upgoing toes bilaterally.
+
+
+Pertinent Results:
+Admission Labs
+
+[**2146-9-6**] 08:30AM
+FIBRINOGE-307
+PLT COUNT-263
+WBC-9.1 RBC-4.07* HGB-12.3* HCT-37.0* MCV-91 MCH-30.2 MCHC-33.2
+RDW-13.8
+PT-11.9 PTT-22.9 INR(PT)-1.0
+ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG
+tricyclic-NEG
+LIPASE-21
+UREA N-11 CREAT-0.7
+freeCa-1.08*
+HGB-13.4* calcHCT-40
+GLUCOSE-111* LACTATE-1.9 NA+-142 K+-4.8 CL--100
+
+Arterial Gas:
+PH-7.33* LACTATE-1.1
+PO2-110* PCO2-36 PH-7.46* TOTAL CO2-26 BASE XS-1
+
+ECG Study Date of [**2146-9-6**]  8:30:52 AM
+Sinus or supraventricular rhythm. Left axis deviation. Early R
+wave
+progression. No previous tracing available for comparison.
+Clinical
+correlation is suggested.
+Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+85 112 100 378/421 57 -47 68
+
+CT C-SPINE W/O CONTRAST Study Date of [**2146-9-6**] 8:56 AM
+IMPRESSION:
+No acute displaced fracture or subluxation
+
+CT HEAD W/O CONTRAST Study Date of [**2146-10-2**] 8:04 AM
+IMPRESSION:
+1. No new focus of parenchymal hemorrhage.
+2. Evolving known right internal capsule and right pons
+hemorrhage with
+interval decrease in attenuation. Residual tiny intraventricular
+hemorrhage, layering dependently in both occipital horns.
+3. Unchanged mild hydrocephalus, right greater than left.
+NOTE ADDED IN ATTENDING REVIEW: There is expected evolution with
+
+encephalomalacia and early cavitary change in the infarcted
+region within the right pontine tegmentum, at the level of the
+middle cerebellar peduncle, now measuring 19 x 17mm. There is
+only trace residual intraventricular blood, with no parenchymal
+hemorrhage seen.
+
+CHEST (PORTABLE AP) Study Date of [**2146-9-14**] 12:05 PM
+IMPRESSION: Persistent left lower lobe opacity suggesting
+atelectasis or
+pneumonia.
+
+MICROBIOLOGY:
+[**2146-9-6**] 1:17 pm MRSA SCREEN      NASAL SWAB.
+**FINAL REPORT [**2146-9-8**]**
+MRSA SCREEN (Final [**2146-9-8**]):
+POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS.
+
+[**2146-9-12**] 4:23 pm Mini-BAL
+**FINAL REPORT [**2146-9-14**]**
+GRAM STAIN (Final [**2146-9-12**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+RESPIRATORY CULTURE (Final [**2146-9-14**]):
+OROPHARYNGEAL FLORA ABSENT.
+HAEMOPHILUS INFLUENZAE, BETA-LACTAMASE NEGATIVE.
+         10,000-100,000 ORGANISMS/ML..
+         Beta-lactamse negative: presumptively sensitive to
+ampicillin.
+         Confirmation should be requested in cases of treatment
+failure in
+         life-threatening infections..
+BETA STREPTOCOCCI, NOT GROUP A.    10,000-100,000 ORGANISMS/ML..
+
+
+[**2146-9-18**] 10:09 am SPUTUM      Source: Expectorated.
+**FINAL REPORT [**2146-10-2**]**
+GRAM STAIN (Final [**2146-9-18**]):
+      [**11-20**] PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+RESPIRATORY CULTURE (Final [**2146-9-21**]):
+SPARSE GROWTH OROPHARYNGEAL FLORA.
+STAPH AUREUS COAG +.    SPARSE GROWTH OF TWO COLONIAL
+MORPHOLOGIES.
+GRAM NEGATIVE ROD(S).    RARE GROWTH.
+SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+FUNGAL CULTURE (Final [**2146-10-2**]):      YEAST.
+
+[**2146-9-29**] 1:22 pm BLOOD CULTURE      Source: Line-picc left 2 OF
+2.
+Blood Culture, Routine (Preliminary):
+STAPHYLOCOCCUS, COAGULASE NEGATIVE.    FINAL SENSITIVITIES.
+SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------     4 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN--------------  =>32 R
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     2 S
+
+Anaerobic Bottle Gram Stain (Final [**2146-10-1**]):
+GRAM POSITIVE COCCI IN CLUSTERS.
+
+[**2146-9-29**] 6:20 pm CORNEAL EYE SCRAPINGS      RIGHT CORNEA.
+GRAM STAIN (Final [**2146-9-29**]):
+4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+NO MICROORGANISMS SEEN.
+WOUND CULTURE (Final [**2146-10-1**]):
+      REPORTED BY PHONE TO DR. [**Last Name (STitle) 51932**] [**2146-9-30**] 14:40.
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    RARE GROWTH.
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+POTASSIUM HYDROXIDE PREPARATION (Final [**2146-9-30**]):
+      NO FUNGAL ELEMENTS SEEN.
+
+CT HEAD W/O CONTRAST Study Date of [**2146-10-2**] 8:04 AM
+IMPRESSION:
+1. No new focus of parenchymal hemorrhage.
+2. Evolving known right internal capsule and right pons
+hemorrhage with
+interval decrease in attenuation. Residual tiny intraventricular
+hemorrhage, layering dependently in both occipital horns.
+3. Unchanged mild hydrocephalus, right greater than left.
+NOTE ADDED IN ATTENDING REVIEW: There is expected evolution with
+
+encephalomalacia and early cavitary change in the infarcted
+region within the right pontine tegmentum, at the level of the
+middle cerebellar peduncle, now measuring 19 x 17mm. There is
+only trace residual intraventricular blood, with no parenchymal
+hemorrhage seen.
+
+TEE (Complete) Done [**2146-10-5**] at 4:19:52 PM      FINAL
+Conclusions
+No atrial septal defect is seen by 2D or color Doppler. Overall
+left ventricular systolic function is normal (LVEF>55%). The
+aortic valve leaflets (3) are mildly thickened. No masses or
+vegetations are seen on the aortic valve. There is no aortic
+valve stenosis. No aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. No mass or vegetation is
+seen on the mitral valve. Mild (1+) mitral regurgitation is
+seen. There is no pericardial effusion. A pleural effusion is
+seen.
+CONCLUSION: No valvular vegetations or paravalvar abcess seen.
+No evidence of endocarditis.
+
+EEG Study Date of [**2146-10-4**]
+IMPRESSION: This is a mildly abnormal routine EEG in the waking
+state
+secondary to a right hemispheric breach artifact. There were no
+focal,
+lateralized, or epileptiform features noted.
+
+CHEST (PORTABLE AP) Study Date of [**2146-10-13**] 4:50 AM
+IMPRESSION: Mild interval improvement of retrocardiac
+atelectasis with
+persistent moderate left effusion.
+
+Brie

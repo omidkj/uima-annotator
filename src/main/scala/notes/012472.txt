@@ -1,0 +1,162 @@
+Admission Date:  [**2134-6-25**]              Discharge Date:   [**2134-6-28**]
+
+Date of Birth:  [**2072-5-2**]             Sex:   M
+
+Service: [**Hospital Unit Name 196**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2698**]
+Chief Complaint:
+Chest pressure x 1.5 hours
+
+Major Surgical or Invasive Procedure:
+Cardiac catherization with LAD stent (taxus) placed
+
+
+History of Present Illness:
+Pt is a 62 year old male with no past medical history and a
+strong smoking history of 2 ppd who presented to the ED for one
+and a half hours of sharp substernal chest pain, radiating down
+his left shoulder, present since he had awoken that morning.
+ECG demonstated 5-6mm ST elevation in V2-V5, and he was given
+ASA, heparin and GP IIB/IIIa inhibitors.  Pt underwent cardiac
+catheterization (showing 100% occlusion of the LAD after the
+first diagonal branch, 70% narrowing of D1 at its origin, no
+significant circumflex disease, and 60% narrowing of RCA) and
+stenting of LAD with taxus stent and was transferred to the CCU.
+
+Past Medical History:
+None
+
+Social History:
+Pt is married, unemployed
+Tobacco -- 2 packs per day
+Etoh -- moderate use
+No illicit drug use
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Gen -- pt is awake, alert and oriented, comfortable, lying in
+bed
+Neck -- No JVD
+CV -- RRR, s1s2, no m/r/g
+Pul -- moves air well, cta, no wheezes/rales/ronchi
+abd -- soft, nontender, NABS
+extrm -- no edema, cath site (right groin) shows no hematoma,
+oozing,  tenderess, or inflammation
+
+Pertinent Results:
+[**2134-6-25**] 07:50AM BLOOD CK(CPK)-629*
+[**2134-6-25**] 07:50AM BLOOD CK-MB-57* MB Indx-9.1*
+[**2134-6-25**] 07:50AM BLOOD cTropnT-0.64*
+[**2134-6-25**] 03:15PM BLOOD CK(CPK)-1713*
+[**2134-6-25**] 03:15PM BLOOD CK-MB-234* MB Indx-13.7*
+[**2134-6-25**] 09:57PM BLOOD CK(CPK)-1218*
+[**2134-6-25**] 09:57PM BLOOD CK-MB-134* MB Indx-11.0*
+[**2134-6-26**] 03:45PM BLOOD CK(CPK)-466*
+[**2134-6-26**] 03:45PM BLOOD CK-MB-36* MB Indx-7.7*
+[**2134-6-26**] 06:28AM BLOOD Triglyc-162* HDL-54 CHOL/HD-3.0
+LDLcalc-75
+[**2134-6-26**] 06:28AM BLOOD %HbA1c-5.1
+[**2134-6-25**] 07:50AM BLOOD Glucose-119* UreaN-21* Creat-0.8 Na-140
+K-4.2 Cl-106 HCO3-23 AnGap-15
+[**2134-6-28**] 10:10AM BLOOD Glucose-116* UreaN-15 Creat-0.8 Na-140
+K-4.3 Cl-104 HCO3-26 AnGap-14
+[**2134-6-28**] 10:10AM BLOOD PT-12.7 PTT-44.0* INR(PT)-1.1
+[**2134-6-28**] 10:10AM BLOOD WBC-10.3 RBC-4.38* Hgb-13.2* Hct-38.8*
+MCV-89 MCH-30.2 MCHC-34.1 RDW-13.2 Plt Ct-229
+[**2134-6-28**] 10:10AM BLOOD Plt Ct-229
+
+Brief Hospital Course:
+Pt was admitted to the CCU from the cath lab with stable vitals
+on [**6-25**].  Echo on [**6-25**] show mildly depressed EF (35-40%) with
+hypokinesis of mid and distal anterior septum, anterior wall,
+and apex, and so pt was maintained on heparin anticoagulation,
+then switched over to coumadin.  Pt remained in CCU [**6-26**] and the
+morning of [**6-27**] with vitals remaining stable, no arrhythmias,
+and cardiac enzymes consistently trending downward and so was
+transferred to the floor on the afternoon of [**6-27**].  Pt continued
+to remain stable overnight and was deemed ready for discharge.
+
+Medications on Admission:
+Celebrex 200mg qd
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QD (once a day).
+Disp:*90 Tablet, Delayed Release (E.C.)(s)* Refills:*3*
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*90 Tablet(s)* Refills:*3*
+3. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*90 Tablet(s)* Refills:*3*
+5. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+Disp:*90 Tablet(s)* Refills:*3*
+6. Warfarin Sodium 5 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 **] Family & [**Hospital1 1926**] Services
+
+Discharge Diagnosis:
+Acute Myocardial Infarction
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Follow up with primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] (for first
+visit, will see his partner, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]) for monitoring of
+blood thinner and primary care.  Appointment is [**First Name9 (NamePattern2) 55926**] [**6-30**]
+at 12:30, phone number [**Telephone/Fax (1) 55927**].
+
+Follow up with Dr [**Last Name (STitle) 3357**] (cardiologist) telephone number
+([**Telephone/Fax (1) 55928**] on [**2134-7-6**] at 0830am.  His office address is
+[**State **], [**Location (un) 583**], [**Numeric Identifier 994**].
+
+Please take your medications as prescribed below.  It is crucial
+that you take your medications every day unless specifically
+instructed by Dr [**Last Name (STitle) 3357**] or other cardiologist.  Particularly
+important is the daily aspirin and another medication called
+Plavix (Clopridogen) - these must be taken each day
+
+One medication added to your regiment is called coumadin which
+is a blood thinner.  You must have your blood drawn by your
+primary care physician once [**Name Initial (PRE) **] week to monitor the level of this
+drug.  If you fall or hit your head while on this medication it
+is important that you go to the ER.
+
+Followup Instructions:
+Follow up with Dr [**Last Name (STitle) 3357**] on [**2134-7-6**] at 0830 - cardiology
+
+Follow up with your primary care physician who will follow your
+coumadin level within the next two weeks
+
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **]  [**Telephone/Fax (1) 2634**]  Call to schedule
+appointment
+
+Please forward a copy of this summary to
+
+Dr. [**Last Name (STitle) 3357**]
+[**Name (STitle) 55929**] - [**Location (un) 583**]
+[**Last Name (un) 55930**], [**Numeric Identifier 994**]
+
+Dr. [**Last Name (STitle) **]
+[**Street Address(2) 55931**].
+[**Location (un) **], [**Numeric Identifier 55932**]
+
+

@@ -1,0 +1,216 @@
+Admission Date:  [**2165-2-8**]              Discharge Date:   [**2165-2-18**]
+
+Date of Birth:  [**2089-4-28**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Statins-Hmg-Coa Reductase Inhibitors / Morphine / Citalopram /
+Thiazides
+
+Attending:[**First Name3 (LF) 1406**]
+Chief Complaint:
+Cough, dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+left heart catheterization, coronary angiogram, left
+ventriculogram [**2165-2-11**]
+coronary artery bypass grafts x4(LIMA-LAD, SVG-dg,
+SVG-OM,SVG-PDA) [**2165-2-12**]
+
+
+History of Present Illness:
+This is a 75 year old man with chronic obstructive pulmonary
+disease, hypertension and Hepatitis C who presented to the
+[**Hospital 882**] Hospital with 4-5 days of increasing cough and
+shortness of breath. He has not seen a doctor for a year [**First Name8 (NamePattern2) **]
+[**Hospital1 882**] report.
+
+He reported that dysnea is typical for him but that it had been
+worse in the last 4-5 days  and that his sputum is typical but
+had been darker and yellow-green in the last 4-5 days. He
+reported that his baseline is to be able to walk 1 block before
+getting short of breath..
+A CXR showed no clear signs of pneumonia. EKG showed sinus
+rhythm at 95,,no ST-T changes.
+
+In the [**Hospital1 882**] ED he was given 2L NS, 500 mg IV levofloxacin;
+albuterol; duonebs and 125 mg solumedrol.
+
+He was admitted to the medicine floor for further management. On
+the [**Hospital1 882**] medicine floor he had [**8-30**] SSCP on 2 AM of [**2-8**]
+which was relieved with nitro x3 and Maalox. He again had [**8-30**]
+SSCP which nitrox3 and Maalox only brought down to 3/10. On both
+of these occasions, EKG showed [**Street Address(2) 4793**] depressions in V4-6. He
+got Heparin 4000 units followed by drip of 1100 units/hr; Plavix
+300 mg; and Metoprolol 12.5 mg. A statin allergy was listed in
+his chart so a statin was not given. (Pt denied allergies but
+was judged to be possibly an unreliable historian.)
+
+He had already received his home Aggrenox at 10 am; Enalapril 10
+mg at 10:30 am; and Verapamil 40 mg at 2 pm. Transfer to [**Hospital1 18**]
+for cath was arranged. Cardiac surgery evaluated for coronary
+artery revascularization.
+
+Past Medical History:
+paroxysmal atrial fibrillation
+hypertension
+chronic obstructive pulmonary disease
+Hepatitis C
+gastroesophageal reflux
+anxiety/depression
+s/p herniorraphy
+s/p shoulder surgery
+
+
+Social History:
+edentulous
+120pack year smoker, stopped 7 years ago
+heavy ETOH until 7 years ago
+lives in [**Hospital3 **] facility
+
+Family History:
+father died of MI in his 60s
+
+Physical Exam:
+admission:
+
+Pulse:64  Resp:20   O2 sat: 94%RA
+B/P  Right:162/76    Left:170/91
+Height:5'9"     Weight:72.6kg
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur ii?vi sem
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact x
+Pulses:
+Femoral      Right:  +1 Left: +1
+DP           Right:  +1 Left: +1
+PT           [**Name (NI) 167**]:  +1 Left: +1
+Radial       Right:  +1 Left: +1
+
+Carotid Bruit        Right: 0   Left: 0
+
+
+Pertinent Results:
+[**2165-2-17**] 03:32AM BLOOD WBC-8.1 RBC-3.07* Hgb-9.3* Hct-27.0*
+MCV-88 MCH-30.3 MCHC-34.6 RDW-15.0 Plt Ct-149*
+[**2165-2-9**] 07:25AM BLOOD WBC-13.4* RBC-4.06* Hgb-12.6* Hct-37.6*
+MCV-93 MCH-30.9 MCHC-33.4 RDW-13.8 Plt Ct-184
+[**2165-2-12**] 12:41PM BLOOD PT-14.4* PTT-36.9* INR(PT)-1.2*
+[**2165-2-9**] 12:25AM BLOOD PT-13.9* PTT-67.2* INR(PT)-1.2*
+[**2165-2-17**] 03:32AM BLOOD Glucose-115* UreaN-15 Creat-0.8 Na-136
+K-3.4 Cl-98 HCO3-34* AnGap-7*
+[**2165-2-9**] 07:25AM BLOOD Glucose-100 UreaN-18 Creat-0.8 Na-144
+K-4.2 Cl-107 HCO3-30 AnGap-11
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 177**]       [**Hospital1 18**] [**Numeric Identifier 85808**] (Complete)
+Done [**2165-2-12**] at 10:31:10 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 18**] - Department of Cardiac S
+[**Last Name (NamePattern1) 439**], 2A
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2089-4-28**]
+Age (years): 75 M  Hgt (in): 69
+BP (mm Hg): /  Wgt (lb): 160
+HR (bpm):  BSA (m2): 1.88 m2
+Indication: Intraop CABG ?AVR. Evaluate valves, wall motion,
+aortic contours
+ICD-9 Codes: 424.0, 424.1
+Test Information
+Date/Time: [**2165-2-12**] at 10:31    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW1-: Machine: AW 2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  4.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.2 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.6 m/s
+Left Atrium - Peak Pulm Vein D:  0.3 m/s
+Left Atrium - Peak Pulm Vein A:  0.1 m/s  < 0.4 m/s
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.1 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.4 cm
+Left Ventricle - Fractional Shortening:  *0.17  >= 0.29
+Left Ventricle - Ejection Fraction:  45% to 50%  >= 55%
+Left Ventricle - Stroke Volume:  76 ml/beat
+Aorta - Annulus:  2.7 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.1 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  3.0 cm  <= 3.0 cm
+Aorta - Ascending:  *4.1 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  2.0 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  17 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  12 mm Hg
+Aortic Valve - LVOT pk vel:  0.80 m/sec
+Aortic Valve - LVOT VTI:  22
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *1.7 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  0.9 m/sec
+Mitral Valve - Mean Gradient:  1 mm Hg
+Mitral Valve - Pressure Half Time:  90 ms
+Mitral Valve - MVA (P [**12-22**] T):  2.4 cm2
+Mitral Valve - E Wave:  0.7 m/sec
+Mitral Valve - A Wave:  0.6 m/sec
+Mitral Valve - E/A ratio:  1.17
+
+Findings
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Normal
+LV cavity size. Mild regional LV systolic dysfunction.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Moderately
+dilated ascending aorta. Normal aortic arch diameter. Simple
+atheroma in aortic arch. Normal descending aorta diameter.
+Simple atheroma in descending aorta.
+
+AORTIC VALVE: Moderately thickened aortic valve leaflets. Mild
+AS (area 1.2-1.9cm2). No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MS. The
+MR vena contracta is <0.3cm. Eccentric MR jet. Mild (1+) MR. [**Name13 (STitle) 15110**]
+to the eccentric MR jet, its severity may be underestimated
+(Coanda effect).
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+No PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+Pre Bypass: Left ventricular wall thicknesses and cavity size
+are normal. The left ventricular cavity size is normal. There is
+mild regional left ventricular systolic dysfunction with mild to
+moderate anterior hypokinesis. Right ventricular chamber size
+and free wall motion are normal. The ascending aorta is
+moderately dilated. There are simple atheroma in the aortic
+arch. There are simple atheroma in the descending thoracic
+aorta. The aortic valve leaflets are moderately thickened. There
+is mild aortic valve stenosis (valve area 1.2-1.9cm2). No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. An eccentric, posteriorly directed jet of Mild (1+)
+mitral regurgita

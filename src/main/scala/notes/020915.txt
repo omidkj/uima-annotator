@@ -1,0 +1,205 @@
+Admission Date:  [**2146-12-15**]              Discharge Date:   [**2147-2-11**]
+
+Date of Birth:  [**2113-8-7**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1556**]
+Chief Complaint:
+pedestrian struck by car
+
+Major Surgical or Invasive Procedure:
+intubation, mechanical ventilation 1/13
+R craniotomy and epidural evacuation [**12-15**]
+IVC placement [**12-17**]
+LLE plate for tib fib fracture [**12-28**]
+
+History of Present Illness:
+35-year-old male pedestrian struck by a motor vehicle traveling
+at unknown speed, interactive at first then decreasing mental
+status. Right ear, nose bleeding. Taken to [**Hospital3 7362**],
+intubated, given FFP for INR 1.4, transferred to [**Hospital1 18**] for
+further management. Found to have right EDH, left SDH, SAH,
+pneumocephalus, right temporal fracture, occipital fracutre,
+skull base fracture, right ICA intimal flap, left superior and
+inferior pubic rami fractures, left tibial plateau fracture.
+Admitted to the TSICU.
+
+Past Medical History:
+None
+
+Social History:
+1. Home Country:  El [**Country 19118**].  Illegal immigrant with no
+insurance.  Bulk of family lives in [**Location 7349**].
+2. Husband in [**Name2 (NI) 86**]
+3. Denies tobacco or drug abuse
+
+Family History:
+NC
+
+Physical Exam:
+On arrival:
+Intubated
+VS: BP 118/46 HR 88 RR 12  sat. 100
+GEN: intubated, moving all extr
+HEENT: grossly disrupted R EAC, blood in nasopharynx, c-collar,
+trachea midline, no JVD
+CARDIO: S1S2, RRR
+PULM: CTAB, atraumatic
+[**Last Name (un) **]: soft, ND, ventral ecchymoses
+PELVIS: blood from perineum, no vaginal tears, rectal tone
+normal, guaiac positive
+ORTHO: back atraumatic, no deformities, extremities atraumatic,
+distal pulses palpable
+NEURO: GCS E4, VT, M5: 9T
+
+Pertinent Results:
+[**2146-12-15**] 09:10PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2146-12-15**] 09:10PM URINE  RBC-[**10-22**]* WBC-0 BACTERIA-NONE
+YEAST-NONE EPI-0
+[**2146-12-15**] 09:10PM   WBC-19.0* RBC-3.67* HGB-10.2* HCT-31.2*
+MCV-85 MCH-27.8 MCHC-32.7 RDW-14.1
+[**2146-12-15**] 09:10PM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2146-12-15**] 09:10PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2146-12-15**] 09:11PM   TYPE-ART PO2-394* PCO2-41 PH-7.41 TOTAL
+CO2-27 BASE XS-1 INTUBATED-INTUBATED
+[**2146-12-15**] 10:41PM   WBC-20.4* RBC-3.37* HGB-9.4* HCT-28.5* MCV-84
+MCH-28.0 MCHC-33.1 RDW-14.0
+[**2146-12-15**] 10:56PM   TYPE-ART TEMP-38.9 RATES-14/ TIDAL VOL-500
+PEEP-5 O2-100 PO2-557* PCO2-41 PH-7.41 TOTAL CO2-27 BASE XS-1
+AADO2-136 REQ O2-32 -ASSIST/CON INTUBATED-INTUBATED
+##
+CT orbit [**12-15**]
+IMPRESSION: Multiple fractures as described above including
+right skull base fracture, temporal bone fracture extending to
+the nasopharynx.
+ADDENDUM: There may be a fracture fragment extending to the
+right jugular foramen.
+##
+XR extremity and pelvis [**12-15**]
+IMPRESSION: 1. Left lateral tibial plateau fracture.
+2. Fracture proximal left tibia.
+3. Fracture left superior and inferior pubic rami.
+##
+CT Cspine [**12-15**]
+IMPRESSION: No visualized cervical spine fractures. Small bubble
+of air adjacent to the anterior arch of C1 and in the right
+parapharyngeal space, likely related to adjacent injuries,
+though there is no clear explaination of these findings on the
+given images. Motion at C4-5, if this is an area of concern a
+repeat scan could be performed.
+##
+CT head [**12-15**]
+IMPRESSION: Left subdural hematoma, subarachnoid hemorrhage, and
+right epidural hemorrhage. Brain edema and mass effect on
+basilar cisterns. Occipital, parietal, and temporal bone
+fractures on the right with fluid/hemorrhage in the right
+mastoid and other sinuses. Pneumocephalus. These findings were
+discussed with Dr. [**Last Name (STitle) 955**] at 10 PM.
+Fracture extends across the jugular foramen and near the right
+carotid canal, as well ad through the skull base, and
+angiography may be warranted to evaluated for vascular injury.
+##
+CT Cerbral Angio [**12-16**]
+IMPRESSION: Traumatic dissection of the right internal carotid
+artery at the carotid bifurcation with a small raised intimal
+flap compromising approximately 40 to 50% of the cross-sectional
+luminal area. These findings were discussed with the trauma
+team. Recommendations were made for repeat imaging with CT
+angiography or cerebral angiography.
+##
+IVC filter [**12-17**]
+IMPRESSION
+1. Normal-appearing IVC without evidence of intraluminal
+thrombus or extrinsic compression.
+2. Uncomplicated placement of an IVC retrievable filter into the
+infrarenal position. This filter can be retrieved at any time
+when the patient is no longer at risk for possible pulmonary
+embolism.
+##
+EEG [**12-18**]
+IMPRESSION: This is an abormal portable EEG due to the presence
+of a
+low-voltage background rhythm, somewhat more so over the left
+hemisphere. These findings suggest diffuse subcortical
+dysfunction
+consistent with a severe encephalopathy, and may be secondary to
+a
+medication affect from pentobarbital. The voltage asymmetry
+suggests
+the left hemisphere is more affected and could suggest a
+structural
+abnormality such as an increased recording distance as can be
+seen with
+extra axial blood or scalp edema. No epileptiform abnormalities
+were
+seen.
+##
+MRI brain MRA head [**12-24**]
+IMPRESSION: No evidence of acute infarct. Left frontal and
+temporal contusions. Thin rim of left-sided subdural collection.
+Right-sided frontoparietal fracture with associated soft tissue
+changes. Extensive soft tissue changes in the mastoid air cells
+and in the paranasal sinuses including blood products. The basal
+cisterns are patent without evidence of herniation.
+IMPRESSION: Flow signal is seen in the arteries of anterior and
+posterior circulation without evidence of occlusion.
+##
+Repeat CT head [**12-26**]
+IMPRESSION:
+1) Evolving left frontal contusion with interval decrease in
+subarachnoid blood.
+2) Collapse, slit-like left lateral ventricle.
+3) Increased fluid in the paranasal sinuses and mastoid air
+cells.
+##
+OR Tib/fib [**12-28**]
+CLINICAL HISTORY: Tibial plateau fracture. Three fluoroscopic
+images from the operating room are provided during ORIF of a
+tibial plateau fracture, side nonspecified. Radiologist was not
+present. Lateral buttress plate with screws is present. There is
+also a fibular metaphysis fracture.
+##
+CT head/CTA [**12-29**]
+IMPRESSION:
+1. No hydrocephalus. Interval re-expansion of the left lateral
+ventricle status post removal of the ventricular drainage
+catheter on that side.
+2. Stable appearance of complex right temporal bone fracture.
+3. No significant change in size and appearance of the
+previously seen dissection at the origin of the right internal
+carotid artery in the neck.
+##
+RUQ US [**12-29**]
+IMPRESSION:
+1) Normal appearing gallbladder; no evidence of cholecystitis.
+2) Simple cyst in the mid/upper pole of the right kidney.
+3) Otherwise normal abdominal ultrasound
+
+Brief Hospital Course:
+35yo F pedestrian struck by MVA traveling @ unknown speed,
+interactive at first then decreasing mental status. R ear, nose
+bleeding. Taken to [**Hospital 3597**] hosp, intubated, FFP for INR 1.4, tx to
+[**Hospital1 18**]. Found to have R EDH, L SDH, SAH, pneumocephalus, R
+temporal fracture, occipital fracture, and skull base fracture.
+Went to OR with Neurosurgery from ED for emergent craniotomy and
+epidural evacuation after which she was admitted to TSICU for
+neuro checks and further management. Further imaging
+demonstrated a R ICA intimal dissection, a L superior and
+inferior pubic rami fractures and a L tibial plateau fracture.
+##
+NEURO: Over HD [**1-11**] pt remained with poor neurologic status, then
+began to recover some baseline function of right sided extremity
+movement, and eye opening.  Brain scan HD 7 demonstrated no
+evidence of brain death.  Extubated on HD 12 which she tolerated
+well, and transfered to floor on HD 14.  Repeat CTA head/neck
+demonstrated stable intimal dissection of [**Country **] therefore
+neurosurgery recommended aspirin 325QD and followup for repeat
+imaging 1 month which also demonstrated stable flap wi

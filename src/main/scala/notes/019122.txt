@@ -1,0 +1,212 @@
+Admission Date:  [**2130-12-21**]              Discharge Date:   [**2131-1-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+Prednisone / Cortisone
+
+Attending:[**First Name3 (LF) 2641**]
+Chief Complaint:
+diarrhea and fever
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname **] is an 80 year old man with likely c.diff pan colitis.
+He reports a liquid stools without blood or melena up to 7 times
+in a day despite taking Imodium up to 4 pills a day. Less than a
+week prior to admission, Mr. [**Known lastname **] finished a course of
+levaquin, started for CAP.
+
+Of note, patient admitted in [**Month (only) 404**] for influenza, although he
+had received the vaccine, and was sent out to rehab. The patient
+has had diarrhea since he was hospitalized in [**Month (only) **], but it
+is worse lately, now described as caramel colored.
+
+Mr. [**Known lastname **] states that morning of admission he had a 45 minute
+period of nonradiating substernal chest pain while at rest that
+was relieved by one SLNG. It was not accompanied by
+N/V/diaphoresis/palpitations/HA. In the past he reported PND,
+but he states that he no longer has it. He denies DOE,
+peripheral edema, or orthopnea.
+
+ROS: He also reports anorexia and now some nausea with dry
+heaves. No fever, chills, sweats.
+
+Past Medical History:
+CAD
+ -1 vd; LAD 50-60% prox at first septal perf, 1st septal branch
+60%; RCA 80% prox; RI 80% prox
+ -no perfusion defects by MIBI ([**1-19**])
+CHF
+ -LVEF <20% with global HK and no focal segmental abnormalities
+PAF (prior hx of LV thrombus now resolved)
+HTN
+Hyperlipidemia
+COPD, mild with FEV1 83% pred
+Psoriasis
+Community acquired pneumonia (recurrent over last 2-3 years)
+Iron deficiency anemia with hx GI bleed
+CRI (baseline creatinine 2.0-2.5)
+Macular degeneration
+s/p left hip replacement
+Hard of hearing
+hypothyroidism
+
+
+Social History:
+Retired fireman captain.  lives alone in [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], he has several
+children in the area, has good social support.  2-3 episodes of
+smoke inhalation.  55-75 pack years tobacco hx quit in [**2123**].  no
+alcohol.  no illicit drugs.Patient has been finding it
+increasingly difficult to care for himself at home, his children
+also have concerns.  The patient is adamant about not moving in
+with one of his children although they have offered.  He would
+like to improve his functional status so he can remain
+independent at home.
+
+Family History:
+noncontrib
+
+Physical Exam:
+T 97.1, HR 89, BP 115/52, RR 16 O2 sat 94% on RA
+Gen: pleasant and cooperative, thin
+HEENT: MMM, PERRLA, JVD 7 cm
+Cor: RRR no murmurs
+Pulm: CTAB no crackles
+Abd: +BS, very tender to mild palpation, + rebound, no guarding
+Ext: WWP, DP 2+ bilaterally, strength 5/5 bilaterally upper
+extremities, left lower extremity with 4/5 hip flexor, right
+with 5/5 strength, hands with thenar atrophy
+neuro: CN II-XII individually tested and intact but left side of
+face very slightly drooping
+
+Pertinent Results:
+EKG: paced
+Labs: WBC 31.1, Troponin 0.10, Creatinine 2.6
+CT abdomen: effusion at lung base, diffuse abnormality of colon
+from splenic flexure to rectum but also around cecum showing
+diffuse wall edema consistent with c.diff pan-colitis, liver
+with multiple lesions consistent with simple cysts, muliple
+diverticuli in colon, left sided hip prosthesis, DJD in right
+hip, aorta with multiple atheroma
+CXR: mild fluffy opacities consistent with pulmonary edema
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is an 80 year old man with c.difficile pancolitis, in
+the setting of recent levofloxacin use. He also presented a
+troponin leak from likely demand ischemia. Recently, he had a
+normal TSH ruling out hyperthyroidism as an etiology and a
+virtual colonoscopy that showed no colonic lesions though there
+was poor visualization of the descending colon and no
+intraabdominal masses or other pathology.
+
+1. C. diff pancolitis
+
+In terms of his colitis, Mr. [**Known lastname 31337**] stool was negative for
+toxin A on several occasional but positive for c.difficile toxin
+B. He had multiple bowel movements per day, usually OB positive,
+and he even had an episode of melena. He was made NPO and
+started on PO vancomycin and IV flagyl in additional to morphine
+and tylenol for pain. He was followed by surgery and GI but it
+was felt that there were no indications for intervention since
+he's a poor surgical candidate and colonoscopy could potentially
+perforate the colon.
+
+He continued to improve with diarrhea resolving.  He remained on
+po vancomycin for this infection. He will complete a course of
+po vancomycin for about two months in
+total.
+
+2. VRE UTI/Bacteremia
+
+Mr. [**Known lastname **] made progress in his recovery until he spiked a
+fever. His blood cultures grew 4/4 bottles of VRE on [**1-11**] and
+4/4 bottles on [**1-12**]; he was started on linezolid. He appears to
+have seeded his blood from his urine where his urine culture
+grew out 10,000 colonies of VRE [**1-6**]. His PICC was pulled. He
+had a TTE to r/o evidence of endocarditis.  Of note, he had an
+AICD placed in [**11-22**].  THe TTE did not show any evidence of
+endocarditis.  He then underwent a TEE which showed no evidence
+of endocarditis.
+
+- An initial CT abd/pelvis on admission raised the possibility
+of intravesical air as a sign of entero-vesical fistula (which
+might explain the VRE uti and subsequent bacteremia
+- A f/u CT abd/pelvis was done with rectal contrast to evaluate
+for this possibility. While the rectal contrast did not reach
+high enough to directly visualize a potential fistula, there was
+no evidence of intra-vesical air on this study, making a fistula
+less likely.
+
+*** will f/u with Dr. [**First Name (STitle) **] in ID
+- plan 4 weeks of po linezolid 600 [**Hospital1 **] (start date of [**1-13**] -
+first date of negative cultures)
+- f/u with Dr. [**First Name (STitle) **] on [**2-9**] at 9:30 AM
+- will f/u with PCP, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 4035**] [**Last Name (NamePattern1) 976**] after d/c
+
+*** will need f/u TEE.
+
+*** will need weekly CBC to follow for cytopenias with linezolid
+therapy.
+
+3. Chronic renal insufficiency:
+
+Mr. [**Known lastname **] has chronic renal insufficiency, with a baseline
+1.7-2.0. He was initially thought to be prerenal from CHF
+combined with contrast induced ARF. Within 3 days of admission,
+he became oliguric and hypotensive. He was sent to the MICU
+where he was fluid resuscitated with 8 liters. His hypotension,
+oliguria, and acute renal failure resolved within a few days. He
+was transferred back to the floor, where he was effectively
+diuresed without precipitating a rise in creatinine.
+Creatinine on discharge was 1.5; lasix and ACE-I were held on
+account of
+bump in crn from 1.2 to 1.5
+
+4. Troponin leak:
+
+Mr. [**Known lastname **] had a troponin leak which was thought to be secondary
+to congestive heart failure. He has an EF of < 20%, and was
+initially started ASA, with continuation of his statin. His
+Lisinopril and metoprolol were initially discontinued, as he was
+hypotensive. They were both restarted once he stabilized.
+
+5. Urinary retention:
+
+Mr. [**Known lastname **] has urinary retention.  Once his foley was pulled, he
+was able to urinate. The Tamsulosin was continued.
+
+6. Hypothyroidism:
+
+For his hypothyroidism, the levothyroxine was continued.
+
+7. COPD:
+
+For his COPD, he was continued on
+albuterol/ipratropium/fluticasone MDIs in addition to nebulizer
+treatments. He no longer required oxygen by the end of his stay.
+
+8. Oral candidiasis:
+
+Mr. [**Known lastname **] had oral candidiasis in addition to urinary [**Female First Name (un) **].
+He was treated with one dose of fluconazole and nystatin swish
+and swallow.
+
+
+Medications on Admission:
+Allergies: prednisone
+
+Medications: toprol xl 50, synthroid 25, lipitor 20, lisinopril
+5, furosemide 20, protonix 40, MVI, coenzyme Q, SLNTG
+
+Discharge Medications:
+1. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation [**Hospital1 **] (2 times a day).
+Disp:*3 inhalers* Refills:*2*
+2. Zolpidem Tartrate 5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed.
+Disp:*21 Tablet(s)* Refills:*0*
+3. Calcium Carbonate 500 m

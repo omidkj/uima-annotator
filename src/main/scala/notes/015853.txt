@@ -1,0 +1,205 @@
+Admission Date:  [**2151-10-27**]              Discharge Date:   [**2151-11-9**]
+
+Date of Birth:  [**2087-5-24**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Gemfibrozil / Ranitidine / Aloe / Lipitor / Avandia
+
+Attending:[**First Name3 (LF) 1406**]
+Chief Complaint:
+angina
+
+Major Surgical or Invasive Procedure:
+1.Coronary artery bypass grafting x3 with left internal
+    mammary artery to left anterior descending artery and
+    reverse saphenous vein graft to the diagonal artery and
+    the posterior left ventricular branch artery.
+2. Aortic valve replacement with an [**Doctor Last Name **] Magna Ease
+    pericardial tissue valve size 21 mm, model number
+    3300TFX
+
+
+History of Present Illness:
+64yo diabetic female who was recently hospitalized for foot
+ulcers.  She is also being treated for pneumonia.  She was
+worked up for her anginal pain at this time and told she needed
+AVR/CABG.  She presents to [**Hospital1 18**] for a second opinion.  Cath
+reveals 2vessel CAD and critical aortidc stenosis.  She is
+referred for surgical evaluation
+
+Past Medical History:
+# Coronary artery disease status post myocardial infarction x 4
+per patient with multiple PCIs in [**2131**], performed at [**Hospital3 15054**],
+anatomy unknown)
+# s/p Removal of external fixator left foot ([**2149-12-30**])
+# s/p Bilateral Charcot reconstruction [**2149-10-14**]
+# H/o MRSA ([**2149-10-14**]) from skin wounds
+# H/o Pseudomonas ([**2149-7-31**]) from skin wounds
+# Diabetes mellitus, type 2, since [**2133**]
+# Hypercholesterolemia
+# Hypertension
+# Neuropathy
+# B/l charcot s/p RLE recon ([**1-28**])
+# H/o sepsis, in MICU [**4-/2147**]
+# Rheumatic fever at age 7 or 8
+
+
+Social History:
+Lives in [**Hospital1 1559**] with her significant other, [**Name (NI) **]. She works
+occasionally as a bookkeeper. She has three children. Denies
+tobacco, EtOH, and illicits.
+
+
+Family History:
+Family h/o CAD; no Family h/o DM or Charcot joints
+
+Physical Exam:
+Admission Physical Exam
+
+Pulse: 89  Resp: 20  O2 sat: 91%RA
+B/P  Right: 122/69   Left:
+Height: 5'9"    Weight: 98.4kg
+
+General: NAD, WG, obese female, appears stated age
+Skin: Warm[x] Dry [x] intact [x]
+HEENT: NCAT[x] PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur 2/6 SEM
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x] obese
+Extremities: Warm [x], well-perfused [x]  Edema  1+ bilaterally
+numerous scars s/p multiple orthopedic procedures of bilateral
+lower extremities
+ulceration of plantar surface of right foot- (dressed by
+podiatry)
+Varicosities: None [x]
+Neuro: Grossly intact x
+
+Pulses:
+Femoral      Right: cath site  Left: 2+
+DP           Right: NP  Left: 1+
+PT           [**Name (NI) 167**]: 1+  Left: NP
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right:    Left:
+radiation of cardiac murmur
+
+
+Pertinent Results:
+[**2151-11-9**] 05:48AM BLOOD WBC-7.1 RBC-3.35*# Hgb-10.3*# Hct-29.5*#
+MCV-88 MCH-30.6 MCHC-34.8 RDW-15.0 Plt Ct-212
+[**2151-10-26**] 12:11PM BLOOD WBC-6.3 RBC-3.79* Hgb-11.7* Hct-35.8*
+MCV-95 MCH-30.9 MCHC-32.7 RDW-15.1 Plt Ct-284
+[**2151-11-7**] 12:01AM BLOOD PT-13.6* PTT-29.8 INR(PT)-1.2*
+[**2151-10-27**] 11:45AM BLOOD PT-13.0 PTT-28.2 INR(PT)-1.1
+[**2151-11-9**] 05:48AM BLOOD UreaN-20 Creat-0.7 Na-138 K-4.2 Cl-101
+[**2151-10-26**] 12:11PM BLOOD UreaN-23* Creat-1.0 Na-140 K-4.4 Cl-102
+HCO3-23 AnGap-19
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 62970**] (Complete)
+Done [**2151-11-4**] at 2:42:07 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 18**] - Department of Cardiac S
+[**Last Name (NamePattern1) 439**], 2A
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2087-5-24**]
+Age (years): 64 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Intraoperative TEE for CABG/AVR
+ICD-9 Codes: 424.1, 424.0
+Test Information
+Date/Time: [**2151-11-4**] at 14:42    Interpret MD: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Name Initial (MD) **] [**Name8 (MD) 4901**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2010AW1-: Machine: AW1
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  *6.0 cm  <= 5.2 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Aorta - Ascending:  3.1 cm  <= 3.4 cm
+Aorta - Arch:  2.1 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  1.9 cm  <= 2.5 cm
+Aortic Valve - Peak Gradient:  *70 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  55 mm Hg
+Aortic Valve - LVOT diam:  2.2 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+Mitral Valve - MVA (P [**1-23**] T):  2.6 cm2
+
+Findings
+LEFT ATRIUM: Elongated LA. Dilated LA. Mild spontaneous echo
+contrast in the body of the LA. Good (>20 cm/s) LAA ejection
+velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness. Mild regional
+LV systolic dysfunction.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Focal calcifications in aortic root. Normal ascending
+aorta diameter. Simple atheroma in ascending aorta. Focal
+calcifications in ascending aorta. Normal aortic arch diameter.
+Simple atheroma in aortic arch. Normal descending aorta
+diameter. Complex (>4mm) atheroma in the descending thoracic
+aorta. Focal calcifications in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Severe AS (area
+0.8-1.0cm2). Mild to moderate ([**1-23**]+) AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Moderate mitral annular calcification. No MS. [**Name13 (STitle) 15110**] to co-existing
+AR, the pressure half-time estimate of mitral valve area may be
+an OVERestimation of true area. Moderate (2+) MR.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized.
+Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+No PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. Suboptimal image
+quality. The patient appears to be in sinus rhythm. Results were
+Conclusions
+PRE BYPASS The left atrium is elongated. The left atrium is
+dilated. Mild spontaneous echo contrast is seen in the body of
+the left atrium. No atrial septal defect is seen by 2D or color
+Doppler. Left ventricular wall thicknesses are normal. There is
+mild regional left ventricular systolic dysfunction with
+moderate apical and distal anteroseptal hypokinesis. Right
+ventricular chamber size and free wall motion are normal. There
+are simple atheroma in the ascending aorta. There are simple
+atheroma in the aortic arch. There are complex (>4mm) atheroma
+in the descending thoracic aorta. There are three aortic valve
+leaflets. The aortic valve leaflets are severely
+thickened/deformed. There is severe aortic valve stenosis (valve
+area 0.6 cm2). Mild to moderate ([**1-23**]+) aortic regurgitation is
+seen. The mitral valve leaflets are moderately thickened. Due to
+co-existing aortic regurgitation, the pressure half-time
+estimate of mitral valve area may be an OVERestimation of true
+mitral valve area. Moderate (2+) mitral regurgitation is seen.
+Dr. [**Last Name (STitle) **] was notified in person of the results in the operating
+room at the time of the study.
+
+POST BYPASS The patient is in sinus rhythm. The right ventricle
+displays normal systolic function. The left ventricle displays
+slightly improved systolic function compared to pre-bypass
+study. There is still apical and anteroseptal hy

@@ -1,0 +1,204 @@
+Admission Date:  [**2167-10-7**]              Discharge Date:   [**2167-10-16**]
+
+Date of Birth:  [**2107-7-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Sulfa (Sulfonamide Antibiotics) / Aspirin
+
+Attending:[**First Name3 (LF) 398**]
+Chief Complaint:
+Right hip fracture
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation [**2167-10-9**]
+Central venous catheter placement [**2167-10-8**]
+Intramedullary rod fixation of right peritrochanteric hip
+fracture [**2167-10-8**]
+
+
+History of Present Illness:
+Ms. [**Known lastname 41330**] is a 60yo F w/hx of CAD s/p IMI PCI to LCx [**2164**], CHF
+w/EF 20% s/p AICD, COPD on 2L home O2, SLE, scleroderma,
+recurrent C. Diff who presents as a transfer from [**Hospital1 5109**] for hip fracture. She was previously admitted [**2167-10-1**]
+for C. Diff pancolitis, discharged on [**2167-10-6**] on PO vancomycin.
+During that stay she had a CT scan showing pancolitis. While
+walking into the house on [**2167-10-6**], she tripped and fell off of 2
+stairs. No LOC. She was taken to [**Hospital3 **] were she
+was found to have a R intertrochanteric hip fracture which was
+displaced. She was evaluated by orthopedics and cardiology who
+recommended transfer to [**Hospital 86**] hospital for more sophisticated
+intraoperative cardiac monitoring and higher level postoperative
+surgical ICU.
+.
+On arrival, she is somnolent and complaining of pain in the R
+hip. She denies chest pain, shortness of breath, fever. She has
+mild abdominal pain. Per her husband and daughter, she has been
+having several ([**7-8**]) BMs per day with some blood in the stool.
+Otherwise, no complaints.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of breath. Denied chest pain
+or tightness, palpitations. Denied nausea, vomiting. No recent
+change in bowel or bladder habits. No dysuria. Denied
+arthralgias or myalgias.
+
+Past Medical History:
+- CAD s/p IMI, cardiac cath [**2164**] with PCI to LCx, minor
+irregularities in LAD and RCA territories
+- CHF, EF in [**2164**] was 55%, EF [**5-8**] was 30%, EF [**10-8**] 20%,
+thought to be due to systemic sclerosis
+- s/p AICD for low EF
+- Severe Pulmonary Hypertension
+- Systemic Sclerosis with ischemia to L index finger with
+osteomyelitis
+- Multiple episodes of C. Diff diarrhea while on antibiotics
+- Stress Test [**10-8**] without active ischemia
+- Severe Raynaud's syndome
+- SLE/CREST
+- COPD on 2L oxygen, ? scleroderma lung disease
+- s/p RHC [**12-7**] to evaluate response to vasodilator therapy, no
+response, PAP 100mm Hg, Cardiac Index 2L/min
+- GERD
+- Occipital Neuralgia
+- SBO/lysis of adhesions
+- Meningitis [**3-9**], treated with braod-spectrum abx and developed
+C. Diff
+
+
+Social History:
+25 pack year smoking history, quite smoking 11 years ago, no
+prior alcohol use.
+
+Family History:
+NC, no history of autoimmune disease.
+
+Physical Exam:
+VS: 98.4 BP131/73 HR 97 94%on 4L
+GENERAL: appears older than stated age, lying in bed in NAD
+HEENT: No scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck
+Supple, No LAD.
+CARDIAC: RR. Normal S1, S2. No m/r/g.
+LUNGS: Limited to due patient positioning and body habitus but
+clear anteriorly.
+ABDOMEN: +BS. tender to palpation diffusely without rebound or
+guarding. Non-distended. Well-healed surgical scar in lower
+right abdomen.
+EXTREMITIES: R hip rotated. 2+ peripheral pulses bilaterally in
+DP and PT. No edema. Fingers demonstrate scleroderma changes.
+Acrocyanosis of fingers and toes.
+NEURO: Alertness waxes and wanes through intervies. CN 2-12
+grossly intact. Pt unable to follow commands to squeeze fingers
+but able to move legs. Unable to assess sensation as pt does not
+follow commands.
+
+Pertinent Results:
+Discharge labs:
+[**2167-10-16**] 03:05AM BLOOD WBC-12.3* RBC-3.44* Hgb-9.7* Hct-30.7*
+MCV-89 MCH-28.3 MCHC-31.8 RDW-17.8* Plt Ct-352
+[**2167-10-16**] 03:05AM BLOOD Glucose-101 UreaN-27* Creat-0.9 Na-146*
+K-3.8 Cl-114* HCO3-25 AnGap-11
+[**2167-10-11**] 04:06AM BLOOD ALT-25 AST-39 LD(LDH)-254* AlkPhos-34*
+TotBili-0.3
+[**2167-10-16**] 03:05AM BLOOD Calcium-7.5* Phos-1.8* Mg-2.1
+.
+MICRO:
+[**2167-10-9**] 3:08 am URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2167-10-12**]**
+
+   URINE CULTURE (Final [**2167-10-12**]):
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------              <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S      <=2 S
+CEFAZOLIN-------------   <=4 S      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CEFUROXIME------------   <=1 S      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------    64 I     <=16 S
+PIPERACILLIN----------              <=4 S
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+.
+RADIOLOGY:
+AXR [**10-15**]:
+ABDOMEN, SINGLE VIEW: Bowel gas pattern is non-obstructive.
+There is
+interval improvement of small bowel dilatation as compared to
+[**2167-10-13**].
+There is no evidence of pneumoperitoneum. Air is visualized in
+the rectum.  An NG tube is coiled in the stomach. Scattered
+phleboliths are seen in the right hemipelvis. A gamma nail in
+the right femoral head is partially visualized.
+IMPRESSION: No evidence of bowel obstruction.
+.
+CXR [**10-15**]:
+FINDINGS: The support lines and tubes are unchanged. The
+evaluation is
+limited by motion. Moderate cardiomegaly is unchanged. The lung
+volumes
+remain low, with right infrahilar and left retrocardiac
+atelectasis. Small
+left effusion may be present. There is no pulmonary edema.
+.
+CT head [**10-11**]:
+FINDINGS: There is no intracranial hemorrhage, edema, mass
+effect or vascular territorial infarction. Ventricles and sulci
+are large bilaterally, consistent with global parenchymal volume
+loss. Periventricular white matter hypodensities are also
+bilateral, the sequela of chronic microvascular ischemia.
+Extracranial soft tissue structures are unremarkable. The
+included mastoid air cells are notable for partial opacification
+of the mastoid air cells on the right/underpneumatization. The
+visualized paranasal sinuses are clear.
+IMPRESSION:
+1. No acute intracranial hemorrhage.
+2. Partial opacification of the right mastoid air cells
+.
+ECHO [**10-9**]:
+The left atrium is dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is small
+and underfilled. Regional left ventricular wall motion is
+normal. There is mild global left ventricular hypokinesis (LVEF
+= 50-55%), although in the context of a small cavity size, this
+may be slightly underestimated. The right ventricular free wall
+is hypertrophied. The right ventricular cavity is markedly
+dilated with severe global free wall hypokinesis. There is
+abnormal systolic septal motion/position consistent with right
+ventricular pressure overload. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic regurgitation. The mitral valve appears structurally
+normal with trivial mitral regurgitation. Moderate [2+]
+tricuspid regurgitation is seen. There is severe pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+IMPRESSION: Dilated, hypertrophied and markedly hypokinetic
+right ventricle. Small left ventricle with mild systolic
+dysfunction. Moderate tricuspid regurgitation. Severe pulmonary
+hypertension.
+.
+[**10-8**] Femur X-ray
+Six fluoroscopic images of the right femur demonstrate interval
+placement of an intramedullary rod with proximal gamma nail.
+This is fixating an
+intertrochanteric fracture of the right femur. There is good
+anatomic
+alignment and no hardware-related complications. The

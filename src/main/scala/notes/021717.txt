@@ -1,0 +1,202 @@
+Admission Date:  [**2125-5-15**]              Discharge Date:   [**2125-6-22**]
+
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1556**]
+Chief Complaint:
+84 year old male with multiple medical problems including
+diabetes, CAD, CHF, CRI who is admitted with cholangitis.
+
+Major Surgical or Invasive Procedure:
+[**5-16**] [**Month/Year (2) **] and stent placement
+[**5-16**] percutaneous cholecystostomy tube placement
+[**5-28**] Tracheostomy
+
+
+History of Present Illness:
+Patient came to the ER with three days of right upper quadrant
+pain. In ER was found to be afebrile but a CT of the abdomen was
+suggestive of gall bladder pathology. He was admitted and
+started on broad spectrum antibiotics with
+Vancomycin/levo/flagyl administered in the ER. He had a
+percutaneous cholecystostomy tube placed on [**5-16**] after elective
+intubation for respiratory
+distress. He underwent an [**Month/Year (2) **] which revealed a compacted
+ampullary stone, likely cholangitis and possible CBD stone; a
+biliary stent was placed.
+
+Past Medical History:
+1. CAD, cath 5 years ago at NEBH (cardiologist [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **])
+2. CHF, TTE [**3-5**] w/depressed EF
+3. Hypertension, per daughter pt's bp usually 90s-100s on meds
+4. Severe Lumbar Spinal stenosis, mild cervical stenosis
+5. Sleep apnea, on 2L home O2 at night
+6. Afib, s/p DCCV which failed, now rate controlled
+7. Arthritis
+8. Gout
+9. COPD
+10. NIDDM
+11. E-coli-Sepsis (admission [**2122-12-23**] - [**2123-1-1**])
+12. BPH
+13. Parkinson's disease
+
+
+Social History:
+Patient uses a cane for assistance at baseline. He lives with
+his daughter [**Name (NI) 13118**]. Formerly worked at Sears. Widowed. No tobacco
+or EtOH use.
+
+
+Family History:
+Notable for CAD, HTN, and stroke.
+
+Physical Exam:
+T: 100.4  P: 64  R: 16-20 BP: 96/62
+General: resp distress, acute pain, alert and oriented times
+three
+HEENT:	Mucous membranes moist
+Neck: Supple without LAD
+Cardiovascular: Irregular S1 S2
+Respiratory: Diffuse wheezes throughout; decreased breath sounds
+at right base
+Gastrointestinal: Soft, NT, ND bowel sounds normal and active
+Musculoskeletal: Knees swollen and warm bilaterally with
+effusion
+L>R,left elbow warm and swollen
+Skin: Multiple eccymoses
+
+Pertinent Results:
+[**2125-5-15**] Abdominal CT - Thickened gallbladder wall with
+stranding, without evidence of gallstones, however, concerning
+for acute cholecystitis. This was posted to the ED dashboard on
+the afternoon of the study.
+
+[**2125-5-15**] Abdominal Ultrasound - There is a small area of
+increased echogenicity in the gallbladder, which is not
+shadowing and may represent sludge, polyp, or much less likely
+gallstone. The gallbladder wall is 4 mm but not striated. There
+was no tenderness when scanning over the gallbladder. The common
+bile duct was normal measuring 3.2 mm. There is normal
+hepatopetal flow in the portal vein.
+
+[**2125-5-15**] Labs -
+[**2125-5-15**] 10:06PM   GLUCOSE-132* UREA N-19 CREAT-1.4* SODIUM-134
+POTASSIUM-3.7 CHLORIDE-97 TOTAL CO2-25 ANION GAP-16
+[**2125-5-15**] 10:06PM   ALT(SGPT)-204* AST(SGOT)-236* LD(LDH)-360*
+ALK PHOS-267* AMYLASE-148* TOT BILI-3.4*
+[**2125-5-15**] 10:06PM   WBC-15.0* RBC-3.75* HGB-11.9* HCT-36.3*
+MCV-97 MCH-31.6 MCHC-32.6 RDW-16.3*
+
+[**2125-5-16**] - Successful ultrasound-guided placement of a
+percutaneous cholecystostomy tube.
+
+[**2125-5-22**] Central Line placement - In comparison with the study of
+[**5-20**], there has been placement of a left subclavian line that
+extends to the mid portion of the SVC. No evidence of
+pneumothorax. There appears to be some increasing prominence of
+the pulmonary markings, suggesting elevated pulmonary venous
+pressure.
+
+[**2125-5-29**] Hemodialysis Catheter placed.
+
+[**2125-5-29**] 02:11AM BLOOD Glucose-127* UreaN-85* Creat-2.5* Na-133
+K-4.2 Cl-99 HCO3-21* AnGap-17
+[**2125-5-28**] 01:30AM BLOOD WBC-35.5* RBC-3.31* Hgb-10.0* Hct-30.7*
+MCV-93 MCH-30.2 MCHC-32.5 RDW-16.7* Plt Ct-504*
+
+[**2125-6-19**]
+1. No evidence of colonic wall thickening or megacolon to
+suggest C. difficile.
+2. Bilateral pleural effusions with some adjacent consolidation
+and atelectasis, right greater than left.
+3. Anasarca.
+4. Interval removal of cholecystostomy tube.
+
+[**2125-6-21**] 05:14AM BLOOD WBC-6.6 RBC-2.93* Hgb-9.0* Hct-27.3*
+MCV-93 MCH-30.8 MCHC-33.0 RDW-17.5* Plt Ct-373
+[**2125-6-21**] 10:18AM BLOOD PTT-61.9*
+[**2125-6-21**] 05:14AM BLOOD PT-15.5* PTT-52.9* INR(PT)-1.4*
+[**2125-6-21**] 05:14AM BLOOD Glucose-136* UreaN-56* Creat-1.3* Na-143
+K-3.7 Cl-107 HCO3-26 AnGap-14
+[**2125-6-19**] 09:07AM BLOOD ALT-10 AST-26 AlkPhos-71 Amylase-35
+TotBili-0.2
+[**2125-6-19**] 09:07AM BLOOD Lipase-12
+
+Microbiology:
+5/16-8:C diff neg x 3
+[**6-11**] BAL: staph aureus, coag +; yeast
+([**6-3**]) sputum cx: coag MRSA
+UCx >100k E. Coli
+([**5-23**]) BAL: Coag + staph Pleural fluid: MRSA BCx: neg UCx: neg,
+L elbow fluid: no WBCs, 97 polys, many monosodium urate crystals
+
+([**5-22**]) cath tip: MRSE
+([**5-21**]) Pancx: negative except, Sputum: MRSA and yeast,
+Joint aspirate: WBC 25K Mod amount - monourate sodium crystals
+([**5-19**]) Bile Cx: neg; BCx: neg, Sputum Cx: MRSA, UCx: neg;
+([**5-18**]) Sputum: MRSA;
+
+[**6-18**] Echo: LA, RA dilated. Mild symmetric LV hypertrophy.
+LVEF>55%. Ao root moderately dilated @sinus level. Mildly
+thickened Ao & mitral valve leaflets. Mild 1+ MR. [**First Name (Titles) **] [**Last Name (Titles) **] a
+systolic HTN.
+
+
+Brief Hospital Course:
+The patient was admitted on [**2125-5-15**] and started on broad
+spectrum antibiotics with Vancomycin/levo/flagyl administered in
+the ER. He had a percutaneous cholecystostomy
+tube placed on [**5-16**] after elective intubation for respiratory
+distress. He underwent an [**Month/Year (2) **] which revealed a compacted
+ampullary stone, likely cholangitis and possible CBD stone; a
+biliary stent was placed.
+
+He had post procedure hypotension and SIRS with progressive low
+grade fever, elevated WBC and a pressor requirement and he
+remained intubated. He spiked to 101.5 and was pan cultured on
+[**5-18**]. Sputum from that date ultimately grew MRSA.
+
+Neuro: The patient was initially sedated with fentanyl and
+propofol as needed.  [**6-1**]: APS consult, started ketamine infusion
+for acute gout flare.  PO Dilaudid started and fentanyl patch
+started [**6-7**].  Fentanyl drip stopped [**6-10**].  For pain control, the
+patient continued on a fentanyl patch, tylenol liquid and PO
+dilaudid.
+
+Cardiovascular: initially started on cardizem on arrival to ICU
+but this was changed to levophed for hypotension.  The levophed
+was titrated to a goal MAP >60.  Throughout his stay in the ICU,
+his blood pressure and heart rate were treated intermittently
+with neo, levo, lopressor, and IVF boluses.  Midodrine started
+[**6-12**].  He was eventually weaned off all pressors on [**6-19**].  He
+continued on metoprolol digoxin 0.125mg PO daily for rate
+control.  A heparin drip was started on [**6-18**] for anticoagulation
+for atrial fibrillation with a goal PTT of 60-80 until
+therapeutic on coumadin.  Coumadin was started on [**6-19**] at low
+doses with an INR goal of [**3-4**].  Lovenox was started on day of
+discharge as a bridge to a therapeutic INR.
+
+Pulmonary:  The patient was intubated on [**5-16**] for respiratory
+distress.  He underwent a tracheostomy on [**5-28**].  The patient
+continued on the ventilator and was weaned to a trach collar on
+[**6-11**].  Pulmonary toilet continued with intermittent ventilator
+support as needed.
+
+GI: [**5-18**] dobbhoff feeding tube placed and enteral nutrition
+started.  Nutren Renal full strength with beneprotein 40gm/day,
+banana flakes 3 packets per day tube feedings continued at goal
+rate of 40ml/hr.
+
+GU: Foley catheter placed on admission.  A sore on the meatus
+was noted.  Urology was consulted and recommended changing
+position of the foley daily, changing the foley every six weeks
+and appyling bacitracin ointment daily. [**6-7**]: Foley changed
+
+FEN: The patient was initially started on IV lasix for fluid
+overload and was dosed prn.  CVVH started on [**5-29**] for fluid
+overload. It continued for a goal of 50-100ml/hr and eventually
+stopped [**6-8**].  Lasix

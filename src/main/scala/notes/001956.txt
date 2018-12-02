@@ -1,0 +1,73 @@
+Admission Date:  [**2138-3-13**]       Discharge Date:  [**2138-3-27**]
+
+Date of Birth:   [**2065-10-30**]       Sex:  F
+
+Service:
+CONTINUATION:
+
+The patient remained stable throughout the remainder of her
+hospital course while on the medical floor.
+
+1.  The patient is to follow up with a new primary care
+physician, [**Last Name (NamePattern4) **]. [**Name (NI) **] [**Name (NI) **] (pt's family chose to switch PCP at
+the time of discharge) at [**Hospital3 4262**] Group .  In addition, she
+is to follow up with Dr.
+[**Last Name (STitle) 24736**] in the Department of Neurology on [**2138-4-8**] and the
+Department of Otolaryngology on [**2138-4-4**].  She will also
+need to be set up for outpatient pulmonary follow up for
+cardiologist for reevaluation after stent placement.
+Finally, she will need to be followed by her orthopedic
+surgeon as an outpatient as well.
+
+DISCHARGE DIAGNOSES:
+1.  Hypoxic respiratory failure.
+2.  Congestive heart failure.
+3.  Chronic obstructive pulmonary disease.
+4.  Status post right RCA and OM1 stent placement.
+5.  Pneumonia.
+6.  Upper gastrointestinal bleed.
+7.  Peptic ulcer disease with H. Pylori infection
+8.  Status post cerebrovascular accident c/b right hemiparesis
+and expressive aphasia with swallowing dysfunction.
+9.  Open reduction internal fixation of a right ankle
+fracture.
+
+DISCHARGE MEDICATIONS:
+1.  Prednisone 30 mg po q day x2 days, then 20 mg po q day x2
+days, then 10 mg po q day x2 days, then 5 mg po q day x2
+days, then stop.
+2.  Flovent metered dose inhaler 110 mcg 4 to 6 puffs [**Hospital1 **] via
+spacer.
+3.  Combivent metered dose inhaler 4 puffs inhaled qid via
+spacer.
+4.  Ambien 10 mg po q hs prn sleep.
+5.  Heparin 5000 units subcutaneous [**Hospital1 **].
+6.  Prilosec 40 mg po q day.
+7.  Plavix 75 mg po q day, discontinue on [**2138-4-20**].
+8.  Flagyl 500 mg po tid, discontinue on [**2138-3-27**].
+9.  Lisinopril 20 mg po q day.
+10. Lopressor 75 mg po bid.
+11. Colace 100 mg po bid.
+12. Tylenol 650 mg po q 4 to 6 hours prn.
+13. Ativan 0.5 to 1 mg intravenous or po q 2 to 4 hourly prn.
+14. Morphine sulfate 0.5 to 1 mg intravenous q 2 to 4 hourly
+prn.
+15. Dulcolax 10 mg po or pr q day prn.
+16. Tetracycline 500 mg po qid, discontinue on [**2138-3-27**].
+17. Bismuth subsalicylate 525 mg po q day, discontinue on
+[**2138-3-27**].
+18.  Aspirin 325 mg po q day.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD  [**MD Number(1) 3023**]
+
+Dictated By:[**Name8 (MD) 5469**]
+MEDQUIST36
+
+D:  [**2138-3-27**]  10:23
+T:  [**2138-3-27**]  11:27
+JOB#:  [**Job Number 33751**]
+
+cc:[**Location (un) 33752**]

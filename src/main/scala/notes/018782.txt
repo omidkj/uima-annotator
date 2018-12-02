@@ -1,0 +1,205 @@
+Admission Date:  [**2150-12-29**]              Discharge Date:   [**2150-12-30**]
+
+Date of Birth:  [**2131-9-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Haldol / Morphine / Percocet / Dilaudid / Demerol
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+dyspnea and stridor
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+pt is a 19 yo female with PMH of multiple admissions with
+intubation for presumed asthma exacerbations, paradoxical vocal
+cord dysfunction, depression, and conversion disorder presents
+with dyspnea and stridor.  She states that today after walking
+on the treadmill and then walking to Starbucks she began feeling
+dyspnea, stridor, and chest tightness typical of her usual
+symptoms.  She reports a dry cough and congestion during the
+last few days but no fevers/chills, HA, photophobia, CP, N/V.
+She reports two sick contacts who live in her dorm. Of note, she
+has three recent [**Hospital1 18**] admissions (most recent [**12-23**], [**11-22**],
+[**10-23**]) for paradoxical vocal cord movement vs asthma flare
+requiring intubation during two of them. During her last
+admission, she was not intubated and she was noted to respond
+well to prn ativan.
+.
+In the ED, she had a RR in the 30's, and she received albuterol
+nebs, heliox, and 3mg ativan.  Her O2 sats remained 98-100%. She
+was transferred to the [**Hospital Unit Name 153**] for continued monitoring.
+.
+In the [**Name (NI) 153**], pt is satting well on 35% O2 and reports that she
+feels better with no more chest tightness.  She continues to
+have audible inspiratory stridorous sounds that increase during
+examination and were no longer present when she fell asleep.
+
+
+Past Medical History:
+# Question asthma: Patient had been treated for asthma since
+[**2148**], with home medications including prednisone, albuterol,
+ipratropium, montelukast, and fluticasone. Additionally, pt had
+
+been hospitalized for supposed asthma flares requiring
+intubation. Supposed to have methacoline challange PFT as an
+outpatient but hasn't been performed yet. Followed by Dr.
+[**Last Name (STitle) 2171**].
+# Paradoxical vocal fold dysfunction: Diagnosed per ENT
+fiberoptic exam 9/[**2150**].
+# Depression
+# Conversion disorder: Per OMR notes recounting conversation
+with
+[**Hospital1 2025**] psychiatry ([**First Name8 (NamePattern2) **] [**Doctor Last Name **]), pt demonstrated fictitious
+symptoms including asthma, hyperventilation, LOC [**3-20**]
+hyperventilation, pseudo-seizures, and self-induced cellulitis.
+
+
+
+Social History:
+She is a sophomore nursing student at [**University/College **].  She
+lives in a dorm.  She denies tobacco, alcohol, and other illicit
+drugs.
+
+Family History:
+# Brother: Seasonal allergies
+# Father died of MI in his 40s
+
+Physical Exam:
+vitals: T 96.1  BP 127/79  HR 98  RR 21 SpO2 99
+gen: overall well appearing, in NAD
+heent: NCAT, EOMI grossly
+pulm: inspiratory stridorous sounds, no crackles or wheezes
+cv: tachycardic, no m/r/g
+abd: s/nt/nd/nabs/no hsm
+extr: no c/c/e
+neuro: aox4, ch [**3-30**] intact grossly
+
+Pertinent Results:
+[**2150-12-29**] 10:45PM   GLUCOSE-102 UREA N-9 CREAT-1.0 SODIUM-141
+POTASSIUM-3.9 CHLORIDE-104 TOTAL CO2-25 ANION GAP-16
+[**2150-12-29**] 10:45PM   WBC-7.3 RBC-4.65 HGB-13.2 HCT-38.1 MCV-82
+MCH-28.3 MCHC-34.6 RDW-16.0*
+[**2150-12-29**] 10:45PM   NEUTS-71.8* LYMPHS-22.6 MONOS-4.6 EOS-0.6
+BASOS-0.4
+[**2150-12-29**] 10:45PM   PLT COUNT-234
+.
+CHEST (PORTABLE AP)  [**2150-12-29**] 11:16 PM
+FINDINGS: AP view of the chest in upright position. The
+cardiomediastinal silhouette is normal. The lungs are clear.
+There is no pneumothorax or pleural effusion. The pulmonary
+vasculature is normal. The osseous structures are unremarkable.
+IMPRESSION: No acute cardiopulmonary process.
+
+
+Brief Hospital Course:
+19 yo female with hx of question of asthma with many
+exacerbations, vocal cord dysfunction, depression, and
+conversion disorder presents with stridor and tachypnea.
+.
+# dyspnea and stridor: this is typical of her previous ? asthma
+exacerbations, for which she does not appear to have a
+definitive diagnosis. She received ativan, heliox, and nebs in
+the ED with some resolution of symptoms. Although she has a
+question of airway disease and a diagnosis of vocal cord
+dysfuction, this is most likely a manifestation of her
+conversion disorder. CXR appears normal and unchanged. Most
+recent admission reported good response to ativan. She continues
+to sat well in the upper 90s. She will likely benefit most from
+consistent social and outpatient medical support to help her
+more effectively deal with anxieties and avoid the ED/ICU where
+iatrogenic harm may come to her. She has seen ENT before.  She
+was given ativan prn, reassurance, and her inhalers were
+continued.  A coordinated attempt improve her support structure
+was already in development, but further impetus was placed by
+emails and phone calls to her major sources of health care
+support - her PCP, [**Name10 (NameIs) 19039**] and [**University/College 3036**].  Will
+discuss with PCP, [**Name10 (NameIs) 19039**], and [**University/College 68304**]:
+coordination of care.  Follow up appointments are set up [**University/College 68305**]health services on [**12-31**] at 9 am.  They agreed to
+set up support services necessary to her after the visit
+tomorrow. Will encourage her to follow up with
+speech/swallow/behavioral therapy as outpatient
+.
+# conversion disorder: previously diagnosed at [**Hospital1 2025**]. As above,
+this is likely the root cause of her exacerbations and would
+benefit from greater outpatient and social support.
+.
+# depression: previously treated with lamotrigine, though not
+currently treated.
+Possible [**Hospital1 18**] or [**University/College **]psychiatric referal after
+appointments at [**University/College **]and/or PCP.
+.
+# FEN: regular diet, replete lytes prn
+.
+# PPx: ambulation, cont outpatient PPI
+.
+# Code: full
+
+
+Medications on Admission:
+# Pantoprazole 40 mg Q12H
+# Ferrous Sulfate 325 mg DAILY
+# Fluticasone-Salmeterol 250-50 [**Hospital1 **]
+# singulair 10
+# [**Doctor First Name **]-D 24 Hour 180-240 mg PO once a day.
+# Ativan 0.5 mg Tablet Sig: 1-2 Tablets PO Q4-6H prn shortness
+of breath or wheezing for 1 weeks.
+# Flonase 50 mcg/Actuation Aerosol 2 sprays once a day.
+
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+2. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+3. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+5. [**Doctor First Name **]-D 24 Hour  Oral
+6. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2)
+Spray Nasal DAILY (Daily).
+7. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+PRIMARY
+1. Paroxysmal vocal cord dysfunction
+SECONDARY
+1. Depression
+2. ? Reactive airways disease
+
+
+Discharge Condition:
+Good.  Afebrile and hemodynamically stable.
+
+
+Discharge Instructions:
+You were admitted to the intensive care unit with difficulty
+breathing and URI-like symptoms. Your symptoms are likely due to
+vocal cord dysfunction, please follow the management plan
+discussed. Please continue your breathing and relaxing exercises
+as these helped improve your symptoms.
+.
+Please take all of your medications as prescribed.
+.
+Please keep your follow-up appointments.
+
+Followup Instructions:
+Please call [**Telephone/Fax (1) 250**] to schedule an appointment with your
+primary care provider, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].
+.
+You also have an appointment scheduled with [**First Name8 (NamePattern2) 402**] [**Last Name (NamePattern1) 68306**] at
+[**University/College **]Health Services on [**12-31**] at 9 am.  They
+will arrange for any further services needed.
+
+Please keep your previously scheduled appointments:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 30764**], MD Phone:[**Telephone/Fax (1) 1723**]
+Date/Time:[**2151-1-6**] 

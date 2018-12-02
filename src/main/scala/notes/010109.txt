@@ -1,0 +1,199 @@
+Admission Date:  [**2146-5-2**]              Discharge Date:   [**2146-5-9**]
+
+Date of Birth:  [**2077-10-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin / Zometa / Keflex / Tetracycline / erythromycin /
+Iodine Containing Agents Classifier
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+decompensated heart failure
+
+Major Surgical or Invasive Procedure:
+[**2146-5-3**]: Right heart catheterization
+[**2146-5-6**]: Left PICC line insertion
+
+
+History of Present Illness:
+Ms. [**Name14 (STitle) 71180**] is a 68y/o lady with a history of a nonischemic
+cardiomyopathy (EF 10-15%) originally diagnosed at age 49
+(possibly related to a viral cardiomyopathy) s/p BiV ICD
+placement, PAF s/p ablation and severe asthma who was admitted
+to the Cardiology floor yesterday from Cardiology clinic for
+right heart catherization and is transferred to the CCU for
+milrinone initiation.
+
+She has been followed by Dr. [**Last Name (STitle) **] for perhaps 20 years and
+during this time her LV contractile function has been
+persistently and severely reduced. She received cardiac
+resynchronization therapy in [**2141**] which resulted in a transient
+marked improvement in her functional status. However, during the
+past year or so, there has been a progressive and severe decline
+in her functional status, accompanied by the development of
+significant mitral regurgitation, pulmonary hypertension, and
+tricuspid regurgitation. She is now at the point where she is
+unable to function. She is in [**State 531**] Heart Association class
+III (borderline stage IV), with dyspnea during any physical
+activity including ordinary activities of daily living. She does
+have occasional orthopnea but in general sleeps on two pillows.
+She denies chest pains, palpitations, lightheadedness,
+dizziness, presyncope, and actual syncope. Yesterday's
+echocardiogram shows an even further deterioration of both left
+ventricular and right ventricular contractile dysfunction. She
+now has a severely dilated and severely hypocontractile right
+ventricle.
+
+On right heart cath today, procedure went well per attgs, pt had
+excellent response to milrinone. PICC placement failed due to
+?sclerosed veins.
+
+Upon arrival to the CCU, Ms. [**Known lastname 71175**] was feeling "OK". She
+denies HA, SOB, CP, abdom pain; only feels slightly tired.
+
+
+Past Medical History:
+1. Severe nonischemic cardiomyopathy with LVEF of 10% s/p BiVICD
+placment
+2. Severe mitral regurgitation, severe tricuspid regurgitation
+and moderate pulmonary hypertension.
+3. PAF status post ablation.
+4. Severe asthma.
+5. Old compression fractions of T8 and T10.
+6. Venous stasis disease.
+7. Anxiety, depression.
+8. Restless legs syndrome.
+9. Recent septic bursitis of the right knee.
+
+Social History:
+The patient used to work as a jeweler and makes jewelry. She
+lives with her husband. Remote smoking history, quit over 40
+years ago, occasional ETOH and no illicit drug use
+
+Family History:
+Father may have had a heart attack, but died from a blood clot
+to the brain. Mother had diabetes and cirrhosis. Son with
+[**Name2 (NI) 14595**]-1 antitrypsin deficiency.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+GENERAL: NAD, but does get short of breath during conversation.
+Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple, JVP not assessed as pt has to be supine.
+CARDIAC: PMI displaced laterally, RR, normal S1, S2. No m/r/g.
+No thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. crackles bilaterally
+half- way up the lung fields, slightly decreased BS on left.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: 2+ pitting edema to the level of the mid-shin. No
+femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Discharge Physical Exam:
+
+Pertinent Results:
+ADMISSION LABS:
+[**2146-5-2**] 05:40PM BLOOD WBC-14.8*# RBC-4.37 Hgb-13.4 Hct-43.3
+MCV-99* MCH-30.7 MCHC-30.9*# RDW-14.2 Plt Ct-240
+[**2146-5-2**] 05:40PM BLOOD PT-20.4* INR(PT)-1.9*
+[**2146-5-2**] 05:40PM BLOOD Glucose-94 UreaN-22* Creat-1.1 Na-141
+K-4.2 Cl-104 HCO3-27 AnGap-14
+[**2146-5-2**] 05:40PM BLOOD Calcium-9.4 Phos-2.7 Mg-2.2
+
+Discharge Labs:
+
+IMAGING:
+Echocardiogram [**2146-5-4**]:
+The left atrium is mildly dilated. The left atrium is elongated.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is moderately dilated. Overall left
+ventricular systolic function is severely depressed
+(quantitative biplane LVEF= 20 % ) secondary to severe global
+hypokinesis with the basal infero-lateral and antero-lateral
+segments contracting best. A left ventricular mass/thrombus
+cannot be excluded. Tissue Doppler imaging suggests an increased
+left ventricular filling pressure (PCWP>18mmHg). The right
+ventricular cavity is markedly dilated with severe global free
+wall hypokinesis. There is abnormal septal motion/position. The
+diameters of aorta at the sinus, ascending and arch levels are
+normal. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic stenosis. Trace aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. The mitral valve leaflets do not fully
+coapt. Moderate (2+) mitral regurgitation is seen. The left
+ventricular inflow pattern suggests a restrictive filling
+abnormality, with elevated left atrial pressure. Moderate [2+]
+tricuspid regurgitation is seen. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+Compared with the prior study dated [**2146-5-2**] (images reviewed),
+LVEF has improved slightly, mainly due to more vigorous
+contraction of the basal lateral segments. Other findings are
+similar.
+
+Bilateral Upper Extemity Ultrasound [**2146-5-4**]:
+IMPRESSION: Patent internal jugular, subclavian and axillary
+veins
+bilaterally. Patent right upper extremity veins. The SVC cannot
+be seen with ultrasound. Imaging assessment of the SVC, if
+indicated, could be performed with contrast-enhanced CT (it is
+reported to us by the clinical team that the patient would
+require premedication for such due to contrast allergy).
+
+Procedures:
+
+[**5-3**] Cardiac Catherization:
+1. Limited resting hemodynamics revealed modereately elevated
+right and
+left sided filling pressures with an RVEDP of 24mmHg and LVEDP
+of
+29mmHg. There was severely elevated pulmonary artery systolic
+pressure
+at rest of 78mmHg. At rest there was severely depressed cardiac
+index of
+1.39L/min/m2. Patient was infused with Milrinone, first bolused
+with
+50mcg/kg over 3 minutes then 0.375mcg/kg/min over 15 minutes.
+With
+milrinone infusion there was a significant improvement in
+cardiac index
+from 1.39 to 2.22L/min/m2. There was a significant reduction in
+PASP
+from 78 to 58mmHg.
+
+FINAL DIAGNOSIS:
+1. Severe reduction in cardiac index and elevation in PASP at
+baseline.
+2. Marked hemodynamic response to milrinone therapy.
+3. Will admit to CCU for monitoring.
+4. Likely left sublclavian vein stenosis.
+
+Brief Hospital Course:
+Ms. [**Known lastname 71175**] is a 68y/o lady with nonischemic cardiomyopathy
+(EF 10%), PAF s/p ablation and severe asthma who has had a
+marked progressive decline in functional capacity over the past
+year with worsened MR/pHTN/TR/RV function, directly admitted
+with cardiology clinic for initiation of milrinone infusion.
+
+Active Issues:
+
+# Non-ischemic cardiomyopathy: Now end-stage CHF, NYHA class
+III/IV.  Right heart cath showed excellent response to
+milrinone.  Main options for symptomatic improvement include
+heart transplant (though she is at the upper limit of age for
+this) or PDE inhibitor in order to reduce her pulmonary
+hypertension and improve right ventricular function. Patient
+admitted to CCU for Milrinone infusion given good CO and PAH
+response to Milrinone. She was maintained on Milrinone 0.38
+mcg/kg/min which she tolerated well. In terms of rest of her
+heart failure 

@@ -1,0 +1,207 @@
+Admission Date:  [**2154-11-23**]              Discharge Date:   [**2154-12-2**]
+
+Date of Birth:  [**2079-10-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 1171**]
+Chief Complaint:
+Palpitations
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname 16063**] is a 75M with history of atrial fibrillation on
+aspirin, non-small cell lung cancer status post neoadjuvant
+chemotherapy/radiation and excision, ulcerative colitis, and
+bladder cancer status post radical cystectomy and neobladder who
+presents from an outside hospital with atrial fibrillation with
+rapid ventricular response. At the outside hospital, he received
+IV diltiazem, and his rate decreased to 110s with blood pressure
+to the high 80s systolic. Of note, he was admitted recently to
+[**Hospital1 69**] from [**Date range (1) 16065**], during
+which time he developed rapid atrial fibrillation to 140s-150s
+in the setting of community-acquired pneumonia. On that
+admission, he was transferred to the medical ICU after he became
+hypotensive following 5mg IV metoprolol x3 for attempted rate
+control. Given a CHADS score of 1 at that time, the decision was
+made to anticoagulate with aspirin only in discussion with the
+patient's son.
+
+Through his son, the patient, who is primarily Russian-speaking,
+reports that he was in his usual state of health until the day
+prior to admission, when he developed palpitations. Upon
+awakening on the morning of admission, he felt lightheaded and
+dizzy and later developed an intermittent dull ache in his left
+chest, radiating to the ipsilateral shoulder, [**5-21**] in intensity
+and not reliably associated with activity. He endorses chills
+without documented fever, as well as mild shortness of breath at
+rest unchanged from baseline and without cough. He denies weight
+gain, paroxysmal nocturnal dyspnea/orthopnea, or peripheral
+edema. He has been exposed to relatives with upper respiratory
+symptoms, but has not himself experienced upper respiratory
+symptoms and denies dysuria/hematuria; chronic diarrhea in the
+setting of ulcerative colitis has been consistent with baseline.
+His son notes that his father typically develops atrial
+fibrillation in the setting of infection, however.
+
+In the ED, initial vital signs were as follows: 97.2, 102,
+104/66, 16, 98% RA. Admission labs were notable for lactate of
+2.4 (down to 0.8 with 4L IV fluids), Ca of 7.1, Hct of 29.9, and
+TnT <0.01. CTA demonstrated no pulmonary embolism or acute
+aortic pathology, but did reveal post-treatment changes to the
+left lung with trace bilateral pleural effusions and bibasilar
+opacities, which may reflect aspiration or atelectasis/scarring.
+He received diltiazem 10mg IV x2 and diltiazem 30mg PO x1. He
+also was given calcium gluconate 1g IV x1. Vital signs at
+transfer were as follows: 98.1, 115, 105/50, 18, 98% RA.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes(-), Dyslipidemia(-),
+Hypertension(-)
+2. CARDIAC HISTORY:
+-CABG: None
+-PERCUTANEOUS CORONARY INTERVENTIONS: None
+-PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY:
+-Ulcerative proctitis with evidence of ulcerative colitis
+-Bladder cancer status post radical cystectomy and neobladder
+-Non-small cell lung cancer status post neoadjuvant
+chemotherapy/radiation and left thoracotomy, left upper
+lobectomy, left chest wall resection, ribs one through four
+-Small bowel obstruction
+-Pneumonia in [**1-21**] complicated by rapid atrial fibrillation and
+medical ICU admission
+
+
+Social History:
+He is a former welder who was born in Leningrad and moved to the
+United States in
+[**2137**]. He is married and has a son and a daughter, who is a
+physician. [**Name10 (NameIs) **] smoked one pack per day over an uncertain period,
+but quit 12 years ago. He denies alcohol use.
+
+
+Family History:
+Son with atrial fibrillation, necessitating ablations.
+
+Physical Exam:
+On admission:
+VS: Afebrile, 110/64, 115, 94% 1L
+Telemetry: Atrial fibrillation, largely to 110s, occasionally to
+140s
+GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.
+HEENT: PERRL, EOMI. Conjunctivae pink, no pallor or cyanosis of
+the oral mucosa. No xanthelasma.
+NECK: Supple with no JVD.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. Irregularly irregular, normal S1, S2. No m/r/g. No
+thrills, lifts. No S3 or S4. Left upper chest without sensation
+in the setting of past operative interventions.
+LUNGS: Respirations were unlabored, no accessory muscle use.
+CTAB, LUL quiet in the setting of past lobectomy, RLL crackles.
+
+ABDOMEN: Soft, NT/ND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+At discharge:
+Afebrile
+GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.
+HEENT: PERRL, EOMI. Conjunctivae pink, no pallor or cyanosis of
+the oral mucosa. No xanthelasma.
+NECK: Supple with no JVD.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. Irregularly irregular, normal S1, S2. No m/r/g. No
+thrills, lifts. No S3 or S4. Left upper chest without sensation
+in the setting of past operative interventions.
+LUNGS: Respirations were unlabored, no accessory muscle use.
+CTAB, LUL quiet in the setting of past lobectomy, RLL crackles.
+
+ABDOMEN: Soft, NT/ND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Pertinent Results:
+On admission:
+CBC: 6.8 (76.4P,15.1L,7.5M)/29.9/473
+Coags: 10.9/1/31.4
+Lytes: 137/4.1/107/20/13/0.9/95  7.1/2.1/2.9
+Cardiac enzymes: TnT <0.01 -> 0.01
+Other: Lactate 2.4 -> 0.8
+UA: Small blood, negative nitrite/leuks, 31 Rbc, 9 Wbc, no
+bacteria
+
+At discharge:
+
+Microbiology:
+UCx ([**2154-11-23**]): NG
+BCx x2 ([**2154-11-23**]): NG
+BCx ([**2154-11-24**]): NG
+BCx ([**2154-11-25**]): NG
+
+.
+EKG ([**2154-11-23**]): Atrial fibrillation with rapid ventricular
+response. Right axis deviation. Low limb lead voltage. Compared
+to the previous tracing of [**2154-2-7**] atrial fibrillation with
+rapid ventricular response has appeared and the axis is more
+rightward.
+
+ 	Intervals	Axes
+Rate	PR	QRS	QT/QTc	P	QRS	T
+112	0	86	322/413	0	95	3
+
+EKG ([**2154-11-24**]): Atrial fibrillation with rapid ventricular
+response. Low limb lead voltage and right axis deviation.
+Compared to the previous tracing of [**2154-11-23**] no diagnostic
+interim change.
+
+ 	Intervals	Axes
+Rate	PR	QRS	QT/QTc	P	QRS	T
+118	0	90	288/389	0	90	-9
+
+.
+CXR PA/lateral ([**2154-11-23**]):
+Stable background chronic lung changes. Stable top normal heart
+size with evidence of volume overload consistent with provided
+diagnosis of
+right ventricular regurgitation.
+
+CTA chest with/without contrast ([**2154-11-23**]):
+1.  No pulmonary embolism or acute aortic pathology.
+
+2.  Changes of prior left upper lung and chest wall resection
+due to non-small cell lung cancer with multiple enlarged
+mediastinal and hilar lymph nodes concerning for recurrence with
+bibasilar septal thickening potentially related to pulmonary
+edema, with lymphangitic tumor infiltration is a less likely
+consideration.
+
+3.  Trace bilateral pleural effusions with bibasilar and
+lingular opacities, which could reflect aspiration or an
+infectious process. Due to nodular nature of the lingular
+opacity, short term interval follow up (6-8 weeks) is
+recommended, to assess for resolution.
+
+Portable CXR ([**2154-11-25**]):
+As compared to the previous radiograph, the post-surgical left
+lung
+is unchanged.  In the right lung, there is an increase in
+interstitial
+markings, notably at the lung bases and in the right lower lung.
+ In addition, there is blunting of the right costophrenic sinus,
+suggesting the presence of a small right pleural effusion.  The
+size of the cardiac silhouette is unchanged. The findings in the
+right lung might represent a combination of pulmonary edema and
+pneumonia.
+
+CXR [**2154-11-27**]
+Patient has had left upper thoracoplasty, usually for
+tuberculosis or lung cancer.  Heterogeneous opacification in the
+right lung has worsened since [**11-23**], probably pulmonary
+edema, accompanied by increasing small right pleural effusion.
+Predominant abnormality in the a

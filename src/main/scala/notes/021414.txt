@@ -1,0 +1,203 @@
+Admission Date:  [**2189-12-9**]              Discharge Date:   [**2189-12-24**]
+
+Date of Birth:  [**2142-11-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Benadryl
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+Transfer from [**Hospital 6136**] hospital for a portex tracheostomy.
+
+Major Surgical or Invasive Procedure:
+[**2189-12-15**] Open tracheostomy, esophagoscopy, flexible
+bronchoscopy, open gastrostomy tube.
+
+
+History of Present Illness:
+This is a 47 yo F smoker with hx of sleep apnea on CPAP at home,
+obesity hypoventilation syndrome, and COPD who was initially
+admitted to [**Hospital 77152**] hospital on [**2189-11-20**] for productive cough,
+shortness of breath, and bilateral wheezing.  Pt had low grade
+fevers [**2189-11-21**] and was hypoxic to 84% on RA [**2189-11-21**] which improved
+to 95% on 3LNC.  She was started on levofloxacin, nebs, and
+systemic steroids for treatment of COPD exacerbation with
+suspected PNA.  On [**2189-11-22**] she developed worsening hypoxia
+w/lethargy on CPAP 5LO2, ABG at that time was 7.27/90/31 with
+bicarb 41. She was transferred to the OSH MICU and she was
+intubated.  She had bronchoscopy [**11-22**] which showed secretions in
+the airways BL and easily collapsible airway.  Cultures of these
+washings grew MRSA.  Levofloxacin was changed to vancomycin and
+systemic steroids were decreased.  She continued on the vent
+with frequent episodes of coughing and ??????fighting the vent?????? with
+accompanying cyanosis.  These episodes lasted ~1 minute, and
+would require ambu-bag ventilation after which time it would
+resolve.  She never had to be paralyzed due to these events, but
+she was continued on propofol gtt.
+.
+On [**2189-11-26**] pt had a repeat bronch showed mild erythema of the
+airways.  She was started on theophyline.
+.
+On [**2189-11-29**] blood cultures grew MRSA and coag negative staph.  Pt
+was continued on vancomycin.
+.
+Mutiple attempts at weaning off the vent were attempted but were
+unsuccessful, leading the team at the OSH to consider
+tracheostomy.  General an thoracic surgery were consulted at the
+OSH, and felt that the pt would require an extra-long
+tracheostomy tube called a portex tracheostomy tube.  Despite
+multiple attempts, the OSH hospital was unable to obtain such a
+tube, and the pt was transferred to [**Hospital1 18**] for placement
+evaluation and possible placement of this tracheostomy tube.
+.
+Because of the MRSA bacteremia, the team at the OSH had
+considered echocardiogram to r/o endocarditis.  Due to the pt??????s
+body habitus it was felt that she would require TEE.  However,
+the pt did not have the echo before being transferred to [**Hospital1 18**].
+
+Past Medical History:
+h/o childhood asthma
+morbid obesity
+obesity hypoventilation syndrome
+sleep apnea
+COPD
+tobacco use
+hyperlipidemia
+DM2
+HTN
+
+Social History:
+Tobacco: 1ppd
+Other: lives w/husband
+
+Family History:
+non-contributory
+
+Physical Exam:
+Tmax: 36.5 ??????C (97.7 ??????F)
+HR: 69 (69 - 80) bpm
+BP: 126/76(89){123/88(75) - 144/81(95)} mmHg
+RR: 18 (18 - 24) insp/min
+SpO2: 100%
+Heart rhythm: SR (Sinus Rhythm)
+.
+Respiratory
+Ventilator mode: CMV/ASSIST
+Vt (Set): 550 (550 - 550) mL
+PEEP: 8 cmH2O
+FiO2: 50%
+PIP: 33 cmH2O
+ Plateau: 32 cmH2O
+SpO2: 100%
+ABG: 7.39/46/77.[**Numeric Identifier 71132**]//1
+Ve: 13.7 L/min
+PaO2 / FiO2: 156
+.
+General: obese female, Intubated, sedated, not following
+commands
+HEENT: NCAT, LSC central line in place with clean dressing,
+PEERL, ETT tube in place, OG tube in place, neck obese and
+unable to evaluate JVP
+CV: Distant HS, no murmurs appreciated
+Chest: Good air entry bilaterally, rales at bilateral bases
+ABD: obese, soft, NT ND, distant BS
+Ext: 2+ pitting edema of bil lower extremities and bilateral
+upper extremity
+Peripheral Vascular: DP and PT pulses Dopplerable
+Skin:  Hyperemic dorsal feet bilaterally c/w venous stasis
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2189-12-9**] 02:51PM BLOOD WBC-5.5 RBC-4.22 Hgb-13.9 Hct-42.7
+MCV-101* MCH-32.9* MCHC-32.5 RDW-12.6 Plt Ct-319
+[**2189-12-9**] 02:51PM BLOOD Neuts-55.6 Lymphs-30.4 Monos-7.2 Eos-6.3*
+Baso-0.5
+[**2189-12-9**] 02:51PM BLOOD PT-12.4 PTT-23.2 INR(PT)-1.0
+[**2189-12-9**] 02:51PM BLOOD Glucose-106* UreaN-9 Creat-0.7 Na-143
+K-3.7 Cl-103 HCO3-31 AnGap-13
+[**2189-12-11**] 04:37AM BLOOD ALT-31 AST-39 AlkPhos-69 TotBili-0.5
+[**2189-12-9**] 02:51PM BLOOD Calcium-9.6 Phos-4.6* Mg-1.8
+[**2189-12-16**] 12:48PM BLOOD %HbA1c-6.7*
+[**2189-12-9**] 02:11PM BLOOD Type-ART pO2-78* pCO2-46* pH-7.39
+calTCO2-29 Base XS-1 Intubat-INTUBATED
+[**2189-12-9**] 02:11PM BLOOD Lactate-1.0
+.
+echo [**12-16**]
+Technically limited study. The left ventricle is not well seen.
+Overall RV systolic function appears normal. Suboptimal image
+quality.
+
+Brief Hospital Course:
+47 yo morbidly obese female smoker with history of sleep apnea
+presented to OSH with cough and pneumonia, went on to develop
+respiratory distress requiring intubation.  Despite weaning
+attempts at the OSH pt has been unable to pass SBT, and came to
+[**Hospital1 18**] for portex tracheostomy.
+.
+Acute on Chronic Resp failure:  Pt is morbidly obese, tobacco
+smoker with COPD/asthma, tracheobronchomalacia, sleep apnea and
+obesity hypoventilation.  On admission to OSH pt had elevated
+bicarb suggesting pre-existing presence of obesity
+hypoventilation syndrome.  Then she developed acute worsening of
+SOB and cough likely [**12-19**] MRSA PNA and required intubation.
+Before intubation ABG was performed and showed hypercapnea in
+the presence of high bicarb, suggesting that chronic obesity
+hypoventilation syndrome had caused CO2 retention and
+compensatory metabolic acidosis before the insult of PNA.  Due
+to prolonged vent requirement, Thoracics evaluated her for a
+tracheostomy.  Pt was treated with bronchodilators and inhaled
+steroids.  Patient was taken for trach by thoracics, with a
+succesful operation.  Please see seperate op report for full
+details of that procedure.  After that procedure the patient was
+slowly weaned from the vent.  She   was successful on [**3-23**] hours
+of trach mask trial and 1 day later she was successful on [**5-25**]
+hours of trach trial.  Complicating problem of abdominal wound
+dehiscence requiring ex-lap and fascial closure, for which she
+required AC mode briefly, but quickly was weaned to pressure
+support at her previous settings.  She was evaluated for a PM
+valve but was unable to tolerate it secondary to bronchospasm.
+On the day of discharge she was tolerating a trach mask very
+well.
+.
+Obesity Hypoventilation Syndrome: as described above, pt has
+obesity hypoventilation syndrome causing significant CO2
+retention.
+
+.
+Tracheobronchomalacia: Pt was shown to have easily collapsible
+airway on bronchoscopy.  This is likely a chronic problem, but
+is probably contributing to her respiratory distress.
+Respiratory distress with Tracheobronchomalacia was managed as
+described above.
+.
+Sleep Apnea: Pt has hx of severe sleep apnea.  A trachestomy was
+thought to offer some relief from nighttime apnea.  Thoracics
+team evaluated for tracheostomy and it was done as above.
+.
+COPD: Hx of asthma with smoking hx, contributing to underlying
+chronic resp failure.
+Pt was treated with bronchodilators and inhaled steroids as
+described above.
+.
+MRSA Bacteremia/PNA: Pt had PNA with BAL cx showing MRSA and
+subsequently had positive BCx.  Vancomycin was continued to
+complete a 14 day course.  Pt did not have persistent fevers or
+persistently positive Cx so it was felt that endocarditis was
+unlikely and echocardiogram was therefore not obtained.
+.
+Diabetes Mellitus: continued Lantus 30/30 and HISS which had
+been started at the OSH.  This was insufficient for control of
+her elevated blood sugars, and was elevated, eventually to a
+level of 60/60.  Intervally, she was on an insulin drip for
+control of these elevated sugars.  She was followed by the
+[**Hospital **] clinic while in the hospital and it was felt that her
+elevated blood sugars were secondary to infection (UTI and
+pneumonia).  On discharge she was on an insulin sliding scale
+and glargine 60 [**Hospital1 **].
+.
+UTI: the patient developed a fever s/p trach that initially was
+felt to be a ?VAP due to gram negative organisms on sputum.
+However, these grew as 

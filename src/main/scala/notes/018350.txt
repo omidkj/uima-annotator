@@ -1,0 +1,211 @@
+Admission Date:  [**2169-10-20**]              Discharge Date:   [**2169-10-30**]
+
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Vasotec / Cortisporin / Ciloxan / Atenolol /
+Lisinopril / Diovan / Percocet / Ciprofloxacin
+
+Attending:[**First Name3 (LF) 2880**]
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+Temporary dialysis line placement
+Tunneled dialysis line placement
+
+History of Present Illness:
+88F with hx sCHF (EF 40%), CAD, dyslipidemia, HTN, DM, HL who
+presents with sudden onset shortness of breath today. She was at
+an appointment for an EMG of her hand; when she was laid flat
+she experienced sudden onset shortness of breath that has
+continued.  also c/o mild b/l leg edema.  Denies chest pain,
+fevers, nausea, vomiting, diarrhea, abdominal pain. She is not
+on home O2. She endorses increased fatigue for the last 2 days,
+as well as dry cough at night and occasional wheezing. She notes
+mild leg swelling. She is on torsemide 100mg PO daily and
+metolazone twice a week.  Dry weight from last CHF exacerbation
+in [**Month (only) 958**] is 164lb.
+
+In the ED
+EKG: SR 68, QRS 104, NA, Q III (old), STD 1, avl, V5/6
+Labs - crit drop from prior 28 (pt says she has been having
+bleeding from hemorrhoids); Cr bumped from prior 2.8 guiaic -
+neg
+BNP [**Numeric Identifier 389**] (chronically elevated)
+UA- dirty
+CXR - diminished lung volumes, diffuse edema, cardiac silhouette
+enlarged but stable
+Patient given lasix 80mg IV and [**Numeric Identifier 9847**], developed [**Last Name (LF) **], [**First Name3 (LF) **] given
+Benadryl
+
+On arrival to the floor, patient still has some SOB, no CP, UOP
+500ml.
+
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. S/he denies recent fevers, chills or
+rigors. All of the other review of systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain,
+DOE, palpitations, syncope or presyncope.
+
+Past Medical History:
+- Dyslipidemia
+- Hypertension, difficult to control on multiple agents
+- Diabetes Mellitus since [**95**] years, on insulin
+- Frequent exacerbations of CHF in the past (most recent [**4-21**])
+- CAD with multiple cardiac interventions in the past, including
+balloon angioplasty of the RCA in [**2157**], stenting of the ostial
+RCA with two overlapping BMS in [**3-/2167**], stenting of the
+proximal LAD with BMS in 05/[**2168**].
+- Peripheral arterial disease
+a.) Left common iliac and external iliac artery stenting in
+4/[**2164**].
+b.) left superior femoral artery angioplasty complicated by
+dissection, requiring stent placement in 5/[**2166**].
+- Renal Insufficiency
+- Appendicitis treated sx
+- Bladder suspension by sx
+- GERD
+- Hyperparathyroidism ([**2162**])
+- Colonic Polyps in [**2157**]
+- Catarct sx in both eyes
+- BL Hearing impaired, uses hearing aids
+
+Social History:
+The patient currently lives [**Location 107650**] [**Location (un) **] with her
+[**Age over 90 **] year old husband whom she has been married to for 63 years.
+She has 1 son. At baseline she walks with a walker, she is
+otherwise independent in all ADLs.
+Tobacco: None
+EtOH: None
+Illicits: None
+
+Family History:
+-Father: heart problems, DM
+-Mother: heart problems
+-4 brothers: CAD, one with stroke
+
+Physical Exam:
+ADMISSION EXAM:
+VS: T=96.6 BP=152/63  HR=73 RR=20 O2 sat= 92%2LNC weight 79.1kg
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with JVP of [**9-20**] cm.
+CARDIAC: RR, normal S1, S2. +S3 No m/r. No thrills, lifts. No
+S4.
+LUNGS: bilateral wheezes in upper lung fields.  Crackles 1/2 up
+lung.  Resp were unlabored, no accessory muscle use.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: 1+ edema b/l to ankles.  No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ DP 1+ PT 1+
+Left: Carotid 2+ DP 1+ PT 1+
+
+DISCHARGE EXAM:
+VS: 98.9; 130-148/49-83; 58-76; 16; 93%RA
+I/O: 670/525 Weight: 75.1kg
+GENERAL: NAD. AAOx3
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with no JVP elevation
+CARDIAC: RR, normal S1, S2. +S3 No m/r. No thrills, lifts. No
+S4.
+LUNGS: Minimal crackles at lung bases, R>L.  No wheezes, no
+rhonchi.  Resp were unlabored, no accessory muscle use.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: trace edema b/l to ankles.  No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ DP 1+ PT 1+
+Left: Carotid 2+ DP 1+ PT 1+
+
+Pertinent Results:
+[**2169-10-20**] 03:10PM BLOOD WBC-6.0 RBC-2.26* Hgb-7.8* Hct-22.4*
+MCV-99*# MCH-34.3* MCHC-34.5 RDW-14.9 Plt Ct-148*
+[**2169-10-20**] 03:10PM BLOOD Neuts-85.5* Lymphs-7.8* Monos-5.8 Eos-0.9
+Baso-0.1
+[**2169-10-20**] 03:10PM BLOOD PT-12.3 PTT-26.7 INR(PT)-1.0
+[**2169-10-20**] 03:10PM BLOOD Plt Ct-148*
+[**2169-10-21**] 08:56AM BLOOD Ret Aut-2.0
+[**2169-10-20**] 03:10PM BLOOD Glucose-306* UreaN-137* Creat-3.2* Na-137
+K-4.1 Cl-96 HCO3-26 AnGap-19
+[**2169-10-21**] 08:56AM BLOOD LD(LDH)-326* CK(CPK)-80 TotBili-0.6
+DirBili-0.4* IndBili-0.2
+[**2169-10-20**] 03:10PM BLOOD proBNP-[**Numeric Identifier 42619**]*
+[**2169-10-20**] 03:10PM BLOOD cTropnT-0.47*
+[**2169-10-21**] 08:56AM BLOOD CK-MB-6
+[**2169-10-21**] 05:17AM BLOOD Albumin-3.6 Calcium-9.0 Phos-5.4*#
+Mg-3.1*
+[**2169-10-21**] 08:56AM BLOOD Hapto-137
+[**2169-10-23**] 05:50AM BLOOD calTIBC-246* Ferritn-849* TRF-189*
+[**2169-10-20**] 03:25PM BLOOD Lactate-1.1
+[**2169-10-21**] 08:21AM BLOOD Type-ART pO2-261* pCO2-45 pH-7.43
+calTCO2-31* Base XS-5
+[**2169-10-23**] 10:05AM BLOOD Type-ART pO2-124* pCO2-42 pH-7.46*
+calTCO2-31* Base XS-6
+
+Urine Culture
+URINE CULTURE (Final [**2169-10-23**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+CXR [**2169-10-20**]:
+FINDINGS: Lung volumes are diminished. There is diffuse
+interstitial and alveolar edema and engorgement of the [**Year (4 digits) 1106**]
+pedicle. Calcified plaque is seen at the aortic arch. The
+cardiac silhouette is enlarged but stable accounting for patient
+and technical factors. No definite large effusion is noted.
+Limited evaluation of the left costophrenic angle due to the
+enlarged cardiac silhouette. There is no pneumothorax.
+
+IMPRESSION: Heart failure. Recommend repeat radiography after
+appropriate diuresis to assess for underlying infection
+
+CT head [**2169-10-21**]:
+IMPRESSION: No acute intracranial process.
+
+CXR [**2169-10-22**]:
+FINDINGS: As compared to the previous radiograph, there is no
+relevant change. The distribution of the pre-existing
+parenchymal opacities, likely caused by pulmonary edema, is
+changed but its overall severity has not decreased. Unchanged
+appearance of the cardiac silhouette. Unchanged mild
+retrocardiac atelectasis.
+
+ECHO [**2169-10-23**]:
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with normal cavity size. There is
+mild to moderate regional left ventricular systolic dysfunction
+with hypokinesis of the distal half of the septum and anterior
+wall, distal inferior wall and apex. The apex is not aneurysmal.
+The remaining segments contract normally (LVEF = 40 %). No
+masses or thrombi are seen in the left ventricle. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) are mildly thickened but aorti

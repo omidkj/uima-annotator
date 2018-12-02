@@ -1,0 +1,221 @@
+Admission Date:  [**2144-4-14**]              Discharge Date:   [**2144-5-18**]
+
+Date of Birth:  [**2068-6-9**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Amoxicillin
+
+Attending:[**First Name3 (LF) 3913**]
+Chief Complaint:
+Fever
+
+Major Surgical or Invasive Procedure:
+lumbar puncture
+
+
+History of Present Illness:
+75yo woman w T cell lymphoma, s/p CHOP D11, presents to clinic
+with 1 day of fatigue and subjective fevers. Noted to have T
+101.2 in clinic. Denies any symptomatic focus of infection. Had
+one day of loose watery diarrhea x 4 episodes 2 days prior to
+admission but none since. She is also complaining of poor po
+intake due to oral mucositis. Denies cough, SOB, dysuria,
+sputum.
+.
+ROS
+Apart from mouth sores, otherwise negative in detail.
+
+Past Medical History:
+1. Lumbar spinal spondylosis.
+2. Hypertension
+3. Bronchiectasis.
+4. Hyperlipidemia.
+5. History of pancreatic cyst.
+6. Elevated 5-HIAA, without further w/u
+7. Irritable Bowel Syndrome
+8. spinal stenosis
+9. Newly diagnosed T cell lymphoma s/p 1 cycle of CHOP
+
+Social History:
+Originally from [**Country 5881**], moved here 40 years ago. Now splits time
+in homes in [**Location (un) 2624**] and [**Location (un) 9188**]; also goes to [**Hospital3 **], but  not
+recently. No recent travel; has mostly stayed indoors in the
+last few months. Denies tobacco use, social drinker, no IVDU.
+
+
+Family History:
+Father died of complications of EtOH use. Mother died of TB of
+spine when pt was 3 yo, and sister had TB ~60-70 years ago, when
+they were in [**Country 5881**]. Does not recall ever having TB herself.
+
+Physical Exam:
+On admission -
+Exam: T99.3 BP 150/86 HR 80 RR 18 sats 98% RA
+Gen: resting comfortably, NAD
+HEENT: Anicteric MMM OP clear
+Neck: no palp LAD. Healed mediastinoscopy scar. JVP NE
+Lungs: L basal crackles
+Cards: RRR no MGR
+Abd: BS+ NT ND soft, no HSM
+Ext: no edema
+
+Pertinent Results:
+==========
+Labs
+==========
+admission -
+
+[**2144-4-13**] 12:00PM BLOOD WBC-0.5*# RBC-3.51* Hgb-10.3* Hct-29.5*
+MCV-84 MCH-29.2 MCHC-34.8 RDW-15.2 Plt Ct-117*
+[**2144-4-13**] 12:00PM BLOOD Glucose-140* UreaN-12 Creat-0.8 Na-134
+K-3.7 Cl-100 HCO3-26 AnGap-12
+[**2144-4-14**] 11:30AM BLOOD ALT-15 AST-11 LD(LDH)-164 AlkPhos-44
+TotBili-0.4
+[**2144-4-14**] 11:30AM BLOOD Albumin-2.6* Phos-1.9* Mg-1.1*
+
+===========
+Microbiology
+===========
+Urine [**4-14**] and [**4-15**]
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     2 S
+
+=============
+Radiology
+=============
+CT Head [**4-18**]
+Extensive chronic microvascular infarct without evidence of
+neoplastic or infectious process; however, MRI remains more
+sensitive for this indication.
+.
+CT Torso [**4-18**]
+1. Prominent mediastinal and hilar adenopathy is slightly less
+bulky along
+the right paratracheal region but unchanged in the subcarinal
+region.
+Adenopathy in the abdomen is improved.
+2. Since [**2144-3-31**], there has been interval near-complete
+resolution of right
+pleural effusion but the patient now has new small to moderate
+left pleural
+effusion with adjacent compressive atelectasis. However, no
+evidence of new
+pneumonia.
+3. Distended gallbladder with cholelithiasis, but no wall
+thickening or
+pericholecystic fluid.
+4. Small hiatal hernia. Sigmoid diverticulosis.
+.
+MRI Head [**4-21**]
+1. No acute infarction. No focal lesions in the brain parenchyma
+to suggest
+neoplastic or infectious etiology. Nonspecific white matter
+changes in the
+cerebral white matter on both sides, likely due to sequelae of
+chronic small vessel occlusive disease, with other etiologies
+being less likely, due to lack of IV contrast enhancement.
+.
+CT Head [**4-23**]
+IMPRESSION:
+1. No intracranial hemorrhage.
+2. Periventricular white matter changes, stable from prior,
+likely
+representing chronic microvascular disease.
+.
+CT head [**5-2**]
+IMPRESSION:
+1. No acute intracranial process. Meningeal inflammation cannot
+be excluded on this non-contrast study.
+2. Stable extensive microvascular disease.
+.
+MR head [**5-13**]
+IMPRESSION:
+1. Stable patchy confluent nonenhancing T2/FLAIR
+hyperintensities within the subcortical white matter, centrum
+semiovale, corona radiata, and periventricular regions. This is
+nonspecific and likely represents chronic microangiopathic small
+vessel ischemic changes.
+2. No evidence for acute infarct or hemorrhage.
+
+
+Brief Hospital Course:
+# Fever and Neutopenia: Patient initially covered with broad
+spectrum antibiotics including Vancomycin and Cefepime. Culture
+data only revealed Eneterococcus in the urine sensitive to
+Vancomycin. Counts recovered with Neupogen but patient remained
+febrile. CT Torso was unremarkable and blood cultures were
+negative. As mental status progressively deteriorated (see
+below) antibiotics were changed to Ceftriaxone, Ampicillin,
+Vancomycin and Acyclovir for meninigitis coverage.
+.
+# Altered mental status: Patient's mental status worsened and
+eventally became non-responsive. LP was not consistent with
+bacterial meningitis, but since WBC was poly predominant
+meningitis doses of antibiotics were administered. Viral studies
+and CSF culture data were negative. An EEG revaled that patient
+was in nonconvulsive status epelepticus. Patient was started on
+Keppra and Ativan, and mental status cleared. An MRI head
+revealed signs consistent with CNS lymphoma and CSF revealed
+atypical cells. Goals of care were changed to comfort measures
+only on [**4-23**], and confirmed on [**4-24**], but family decided to
+discontinue CMO order on [**4-25**]. After further conversations with
+family, the decision was made to make her FULL CODE and to
+proceed with further chemotherapy.
+.
+Events in chronological fashion:
+[**4-27**]: Pt received a one-time administration of high dose
+methotrexate intravenously on the night of [**4-27**]. She was given
+aggressive hydration with bicarb solution to keep her urine
+alkalinized (pH>8.0), promoting elimination of methotrexate.
+Despite this, serial levels showed that the clearance of
+methotrexate was delayed. In the first few days after
+methotrexate, pt remained alert and oriented x 3, although her
+mentation did wax and wane at times for unclear reasons.
+[**4-28**]: Keppra was uptiratred from 750 mg to 1000 mg IV BID
+[**4-29**]: New hives on back. Derm consult was obtained. NOT thought
+to be due to any medications, more likely dermatographism. Pt
+c/o itchiness however only topical sarna lotion was used in
+favor of avoiding sedating medications.
+[**4-30**]: Pt became febrile to 100.5 early morning of [**4-30**]. Cefepime
+was started. In the afternoon of [**4-30**], pt was noted to be more
+somnolent and yet more irritable. Pt appeared very
+uncomfortable. Pt did not answer questions or follow commands
+consistently. She failed to make eye contact. She was noted to
+have body tremors, which subsided briefly after 1 mg of Ativan
+then returned.
+[**5-1**]: Overnight of [**2050-4-29**] pt continued to be somnolent and
+tremulous. Multiple doses of ativan were given to little effect.
+Acyclovir was started for concern of HSV encephalitis.
+Infectious work up was initiated.
+[**5-2**]: CT scan did not show any acute changes. Vancomycin was
+started. 24hr video EEG monitoring was begun.
+[**5-3**]: Pt was noted to be back in status epilepticus. Keppra was
+increased to 1 g TID. Pt was loaded with phenytoin 1 g followed
+by 100 mg IV Q8 hrs, Dexamethasone 10 mg IV then 4 mg IV BID.
+EEG monitoring was continued. All antimicrobials were continued
+although microbiology data so far had been negative. A lumbar
+puncture was performed for interval check of lymphoma in CNS and
+pt was also given IT Ara-C.
+[**5-4**]: Pt remained in status despite the multiple anti-epileptics
+and pt was transferred to the ICU for phenobarbital
+administration.
+
+MICU course:
+
+She was transferred to [**Hospital Unit Name 153**] for elective intubation for
+initiation of phenobarbital
+
+# Sedation/ Unresponsiveness:  Her mental status continued to be
+nonresponsive for >1 week.  This was likely secondary to
+persiste

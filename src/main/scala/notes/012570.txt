@@ -1,0 +1,210 @@
+Admission Date:  [**2161-4-29**]              Discharge Date:   [**2161-5-5**]
+
+Date of Birth:  [**2096-6-28**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics) / Vancomycin
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+mitral regurgitation
+
+Major Surgical or Invasive Procedure:
+Mitral Valve Repair (32mm St.[**First Name4 (NamePattern1) 923**] [**Last Name (NamePattern1) **]) [**2161-5-1**]
+
+
+History of Present Illness:
+This 64 year old white male with no significant history, aside
+from arthroscopic knee surgery, sought care for several months
+of progressive dyspnea.  He was found to be in atrial
+fibrillation and underwent evaluation which revealed 4+ mitral
+regurgitation with torn chordae and clean coronaries.  He was
+transferred to [**Hospital1 18**] for definitive care.
+
+Past Medical History:
+Lt knee arthroscopy
+T&A as child
+
+Social History:
+retired commercial pilot
+rare ETOH use
+remote pipe smoker
+
+Family History:
+noncontributory
+
+Physical Exam:
+Admission:
+Awake, alert, NAD
+neuro: intact
+lungs: clear
+cro: Af 106, Gr 3/6 SEM at apex
+ext: no CCE
+
+
+Pertinent Results:
+[**2161-5-4**] 06:10AM BLOOD WBC-11.9* RBC-2.98* Hgb-9.6* Hct-26.9*
+MCV-90 MCH-32.1* MCHC-35.6* RDW-13.9 Plt Ct-113*
+[**2161-5-4**] 06:10AM BLOOD PT-17.8* INR(PT)-1.6*
+[**2161-5-3**] 07:10AM BLOOD PT-16.2* INR(PT)-1.4*
+[**2161-5-2**] 03:09AM BLOOD PT-18.4* PTT-36.5* INR(PT)-1.7*
+[**2161-5-1**] 11:58AM BLOOD PT-16.7* PTT-35.6* INR(PT)-1.5*
+[**2161-5-4**] 06:10AM BLOOD Glucose-108* UreaN-12 Creat-1.0 Na-134
+K-4.3 Cl-96 HCO3-31 AnGap-11
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 80799**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 80800**]TTE (Complete)
+Done [**2161-4-29**] at 4:01:39 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2096-6-28**]
+Age (years): 64 M  Hgt (in): 71
+BP (mm Hg): 127/78  Wgt (lb): 212
+HR (bpm): 111  BSA (m2): 2.16 m2
+Indication: Preoperative assessment.
+ICD-9 Codes: 427.89, 424.0, 424.2
+Test Information
+Date/Time: [**2161-4-29**] at 16:01    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **],
+MD
+Test Type: TTE (Complete)
+3D imaging. Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1661**], RDCS
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2009W006-0:51 Machine: Vivid [**8-12**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.3 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *7.0 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *6.4 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.0 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.7 cm
+Left Ventricle - Fractional Shortening:  0.38  >= 0.29
+Left Ventricle - Ejection Fraction:  60% to 65%  >= 55%
+Left Ventricle - Lateral Peak E':  0.17 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  0.10 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  13  < 15
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aorta - Arch:  *3.1 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  1.5 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  1.8 m/sec
+Mitral Valve - A Wave:  0.0 m/sec
+Mitral Valve - E Wave deceleration time:  157 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *56 mm Hg  <= 25 mm Hg
+
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+
+LEFT ATRIUM: Marked LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. No ASD
+by 2D or color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+regional/global systolic function (LVEF>55%). No resting LVOT
+gradient. No VSD.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Mildly dilated aortic arch. No 2D or
+Doppler evidence of distal arch coarctation.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Moderate/severe MVP. Moderate thickening of mitral valve
+chordae. Torn mitral chordae. No MS. Moderate to severe (3+) MR.
+
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild
+[1+] TR. Moderate PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: No PS.
+
+PERICARDIUM: No pericardial effusion.
+Conclusions
+The left atrium is markedly dilated. The right atrium is
+moderately dilated. No atrial septal defect is seen by 2D or
+color Doppler. There is mild symmetric left ventricular
+hypertrophy with normal cavity size and regional/global systolic
+function (LVEF>55%). There is no ventricular septal defect.
+Right ventricular chamber size and free wall motion are normal.
+The aortic arch is mildly dilated. The aortic valve leaflets (3)
+are mildly thickened but aortic stenosis is not present. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is moderate/severe mitral valve prolapse
+(predominantly the posterior leaflet). There is moderate
+thickening of the mitral valve chordae. Torn mitral chordae are
+present with prolapse through the mitral valve in systole.
+Moderate to severe (3+) mitral regurgitation is seen. The
+tricuspid valve leaflets are mildly thickened. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+IMPRESSION: Mitral valve prolapse with moderate to severe mitral
+regurgitation. Preserved biventricular systolic function.
+Moderate pulmonary hypertension.
+  Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2161-4-29**] 16:28
+
+
+Brief Hospital Course:
+He was transferred to the CVICU in stable condition and Heparin
+was begun for atrial fibrillation.  Dental clearance was
+obtained and Mitral valve repair and annuloplasty with a 32mm
+St. [**Male First Name (un) 923**] Saddle Ring was performed on [**5-1**].  See operative note
+for details.  Attempts at DCCV prebypass resulted in VF and the
+institution of urgent bypass. Amiodarone was administered
+postoperatively. A MAZE procedure was not undertaken due to the
+dilated atrium. His LVEF was 25-30% after surgery by TEE.
+
+He weaned from bypass on Epinephrine, neosynephrine ansd
+Propofol.  He transferred back to the CVICU where Milrinone was
+begun due to low CI with elevated SVR despite adequate volume
+resuscitation.  His index rose, epinephrine was stopped and he
+remained stable.  He was weaned from the ventilator and
+extubated easily.  The Milrinone and neosynephrine were weaned
+and beta blockde was resumed with good ventricular rate control.
+Diuretics were administered and coumadin resumed.
+
+Following transfer to the floor he was ambulated, PT worked with
+him for strength and mobility and medications were titrated for
+maximum bebefit.
+
+He was discharged home having been instructed to medications,
+restrictions and followup care.  Arrangements were made for
+Dr.[**First Name (STitle) 1075**] to follow and manage his Coumadin.
+
+
+Medications on Admission:
+Lopressor 50mg [**Hospital1 **]
+ASA 325mg/D
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Influen Tr-Split [**2160**] Vac (PF) 45 mcg/0.5 mL Syringe Sig: One
+(1) ML Intramuscular ASDIR (AS DIRECTED).
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily). Tablet, Delayed
+Release (E.C.)(s)
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day for
+7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+6. Potassium Chloride 20 mEq Tab Sust.Rel. Part

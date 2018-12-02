@@ -1,0 +1,213 @@
+Admission Date:  [**2158-3-11**]              Discharge Date:   [**2158-3-21**]
+
+Date of Birth:  [**2087-5-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Fever, altered mental status
+
+Major Surgical or Invasive Procedure:
+Central line placement, adjustment of tracheostomy
+
+History of Present Illness:
+Ms. [**Known lastname 30984**] is a 70F with a PMH s/f severe COPD, chronically
+trach-dependent with chronic pseudomonas colonization and
+recurrent pulmonary infections. She has had multiple recent ICU
+admissions for respiratory failure, and was recently discharged
+on [**2158-3-1**] after presenting with respiratory failure secondary
+to severe PNA, c/b intubation, and a VAP. She was unfortunately
+unable to be extubated at that time, and required tracheostomy
+placement during that admission. Today she presents from her
+rehabilitation facility where she was found to be transiently
+"lethargic" by the pulmonologist rounding in the MACU. At that
+time, she was hypoxic to 70% on SIMV (FiO2 35, TV 450, RR 12 PS
+14, PEEP 5) with increased secretions, BP 98/50. She was
+non-verbal and not following commands, afebrile, ABG showed
+7.32/73/82. EKG unchanged. Of note, the patient had been
+complaining of epigastric pain on [**3-10**]. She was taken off her
+Aspirin that day, EKG was wnl.
+.
+In the ED, her initial vital signs were T=103.6, BP=100/palp,
+HR=119, RR=20, O2sat=99% on trach/vent. On exam she was noted to
+be rhonchorous, R>L, with melena in her diaper, PEG lavage did
+not show any bleeding. A RIJ was placed for access. Labs were
+notable for a WBC count of 13, a HCT of 22 (baseline 30),
+relatively normal coags, a chronically elevated bicarbonate at
+baseline, mild troponin elevation to 0.02 in the absence of
+renal failure, and a positive UA. A CXR showed some new
+multifocal opacities concerning for PNA. The patient was given
+1L NS, vancomycin, zosyn, levaquin, 125mg IV solumedrol, one
+unit of pRBCs, and IV pantoprazole. A gastroenterology
+consultation was called. Unfortunately, the patient experienced
+a pneumothorax during CVL placement.
+.
+
+
+Past Medical History:
+1. Severe COPD.
+-Multiple ICU admissions for respiratory failure
+-S/p tracheostomy placement on [**2158-2-27**], after failed extubation
+
+-Baseline CO2 retention in 60-80 range, with Bicarb in 30s
+2. Chronic pseudomonal colonization/infections
+-Recent sputum cultures from [**2158-2-24**] showing highly resistant
+pseudomonas
+-VAP during [**2158-2-27**] admission
+3. CAD: reportedly had an acute event during her last ICU
+admission, echo from [**2-/2158**] with preserved LV function, EF >55%
+
+4. Carotid stenosis
+5. Peripheral vascular disease
+6. Osteoporosis
+7. Malnourishment:
+-S/p PEG placement on [**2158-2-27**]
+8. ?C. difficile, has been negative on testing, but is
+undergoing treatment given loose stools
+.
+
+
+Social History:
+Resides in the [**Hospital 100**] Rehab MACU. Niece is local and serves as
+her HCP.  Formerly worker in publishing, ETOH: one drink [**3-8**]
+days per week, nonsmoker, quit smoking 15 yrs ago, smoked for
+about 30 years. Former VP of Celtics Business Operations.
+
+
+Family History:
+non contributory
+
+Physical Exam:
+
+GENERAL: Ill-appearing elderly female. Able to answer questions
+by mouthing yes/no. Following simple commands.
+HEENT: Normocephalic, atraumatic. +conjunctival pallor, no
+scleral icterus. PERRLA/EOMI. Dry mucous membranes. OP clear.
+Neck Supple, No LAD, No thyromegaly.
+CARDIAC: Regular rhythm, tachycardic. Normal S1, S2. No murmurs,
+rubs or [**Last Name (un) 549**].
+LUNGS: Coarse ventilated breath sounds, audible expiratory
+wheezes.
+ABDOMEN: Hypoactive bowel sounds. +Tenderness in the epigastrium
+to deep palpation, no rebound tenderness or guarding. No
+palpable hepatosplenomegaly.
+EXTREMITIES: Extremities are warm and well-perfused. +Bilateral
+pitting pedal edema. Cachectic with ecchymoses at left shoulders
+and bilateral LE.
+
+
+Pertinent Results:
+[**2158-3-11**] 10:40AM BLOOD WBC-13.0* RBC-2.42*# Hgb-7.1*# Hct-22.3*#
+MCV-92 MCH-29.4 MCHC-32.0 RDW-15.4 Plt Ct-480*
+[**2158-3-21**] 04:29AM BLOOD WBC-26.0* RBC-3.29* Hgb-9.9* Hct-30.8*
+MCV-94 MCH-30.0 MCHC-32.0 RDW-15.5 Plt Ct-499*
+[**2158-3-11**] 10:40AM BLOOD Neuts-89.3* Lymphs-7.0* Monos-3.4 Eos-0.1
+Baso-0.2
+[**2158-3-16**] 04:27AM BLOOD Neuts-85* Bands-5 Lymphs-3* Monos-4 Eos-0
+Baso-0 Atyps-2* Metas-0 Myelos-1*
+[**2158-3-11**] 10:40AM BLOOD Glucose-147* UreaN-22* Creat-0.5 Na-131*
+K-4.8 Cl-90* HCO3-35* AnGap-11
+[**2158-3-21**] 04:29AM BLOOD Glucose-113* UreaN-10 Creat-0.3* Na-139
+K-4.0 Cl-94* HCO3-39* AnGap-10
+.
+.
+[**2158-3-19**] 3:11 am BLOOD CULTURE      Source: Line-cvp.
+
+   Blood Culture, Routine (Preliminary):
+      GRAM NEGATIVE ROD(S).    PRELIMINARY SENSITIVITY.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             GRAM NEGATIVE ROD(S)
+                             |
+CIPROFLOXACIN---------       R
+GENTAMICIN------------       R
+TOBRAMYCIN------------       R
+
+   Aerobic Bottle Gram Stain (Final [**2158-3-20**]):
+.
+.
+[**2158-3-11**] 9:19 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2158-3-14**]**
+
+   GRAM STAIN (Final [**2158-3-12**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2158-3-14**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+         OF TWO COLONIAL MORPHOLOGIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+AMIKACIN--------------     8 S
+CEFEPIME--------------    16 I
+CEFTAZIDIME-----------    16 I
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------     4 S
+PIPERACILLIN----------       R
+PIPERACILLIN/TAZO-----    64 S
+TOBRAMYCIN------------  =>16 R
+.
+.
+[**2158-3-19**] 3:11 am BLOOD CULTURE      Source: Line-cvp.
+
+   Blood Culture, Routine (Preliminary):
+      DORIPENEM AND COLISTIN SENSITITIES REQUESTED BY DR. [**Last Name (STitle) **]
+[**2158-3-21**].
+      PSEUDOMONAS AERUGINOSA.    PRELIMINARY SENSITIVITY.
+
+   Aerobic Bottle Gram Stain (Final [**2158-3-20**]):
+      REPORTED BY PHONE TO [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] @ 0210 ON [**3-20**] - 4I.
+      GRAM NEGATIVE ROD(S).
+
+.
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2158-3-20**] 4:13
+AM
+Final Report
+INDICATION: Assessment for interval change.
+EXAMINATION: Chest radiograph.
+FINDINGS: As compared to the previous radiograph of [**2158-3-19**], there is no relevant change. Minimal right apical
+pneumothorax without signs of
+tension. Unchanged multifocal bilateral opacities consistent
+with the history of multifocal pneumonia. No evidence of newly
+occurred focal parenchymal opacities.
+
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 30984**] is a 70F with a PMH s/f severe, steroid and
+trach-dependent COPD, with chronic pseudomonas colonization and
+recurrent pulmonary infections, who presents with fevers,
+altered mental status, hypoxia, and a GIB.
+.
+Hospital course by problem:
+.
+#. Hypotension/Pseudomonas Pneumonia: On admission the
+differential diagnosis included sepsis, gastrointestinal bleed,
+and tension pneumothorax. The patient was febrile, tachycardic
+with a leukocytosis, with increasing respiratory distress
+(hypoxia), increased secretions from her tracheostomy and a
+chest x-ray concerning for multifocal pneumonia. The pt had a
+history of chronic pseudomonal colonization and tracheostomy
+dependence (since [**2-13**]) which were concerning for another
+ventilator-associated pneumonia. However, she did have dark,
+guaiac positive stools, with a hematocrit drop from 22.6 to 20
+despite getting part of the first transfusion she received on
+admission. Initially the pt was started on vancomycin and zosyn
+for VAP, and was double covered for pseudomonas with gentamycin.
+Then, per the infectious disease consult ser

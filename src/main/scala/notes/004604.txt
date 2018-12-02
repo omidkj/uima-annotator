@@ -1,0 +1,204 @@
+Admission Date:  [**2199-9-2**]              Discharge Date:   [**2199-10-1**]
+
+Date of Birth:  [**2118-9-1**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+[**2199-9-16**] - Redo Sternotomy, Aortic Valve Replacement (27mm
+[**Company 1543**] Mosaic Ultra Porcine)
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is an 81 year old man with a diabetes, squamous cell
+carcinoma of the neck s/p resection, hypertension, coronary
+artery disease, severe aortic stenosis, and anemia who presented
+to [**Hospital6 3105**] with a syncopal episode on [**2199-8-27**].
+Prior to this event, he had been complaining of worsening lower
+extremity edema, dyspnea on exertion and orthopnea for two
+months. On [**2199-8-27**], he was bending forward when he fell over and
+hit the floor with his head. At [**Hospital6 3105**], CT
+head without contrast [**Hospital6 3780**] stable volume loss and
+microvascular ischemic changes but no acute changes. An
+echocardiogram performed at [**Hospital6 3105**] on
+[**2199-8-28**], which [**Date Range 3780**] mild concentric left ventricular
+hypertrophy with an ejectino fraction of 55%, severe aortic
+stenosis 0.64 cm2, and mean gradient 57 mmHg. Cardiac
+catheterization was performed on [**2199-8-30**] with visualization of
+clean grafts.
+Upon presentation to [**Hospital6 3105**], he was found to
+have acute on chronic kidney injury with a creatinine of 2.2.
+Lisinopril and lasix were held, and the creatinine downtrended
+to 1.4 upon discharge. Upon presentation, he was also found to
+be anemic with iron deficiency anemia (ferritin of 7). Fecal
+occult blood was positive, and he was scheduled for a
+colonoscopy. Febrile to 101 degrees on [**9-1**], and was started on
+vancomycin and levaquin for pneumonia as a chest film
+[**Month/Year (2) 3780**] a right basilar infiltrate. Also of note, on [**9-1**]
+he went into atrial fibrillation and metoprolol 12.5mg [**Hospital1 **] was
+restarted.
+
+Upon arrival to the floor at [**Hospital1 18**], Mr. [**Known lastname **] was tachycardic to
+130's in atrial fibrillation. He was also borderline febrile to
+100. Otherwise, he was oxygenating well and was hemodynamically
+stable. He complained of pleuritic right sided chest pain, but
+was otherwise without complaint.
+
+
+Past Medical History:
+Aortic Stenosis
+Diabetes
+Hypertension
+hyperlipidemia
+CABG: in [**2182**]
+CKD -baseline Cr 1.4
+Skin cancer to his R neck SCC s/p resection in [**2193**]
+Pneumonias in past
+Glaucoma
+BPH
+
+
+Social History:
+Mr. [**Known lastname **] has lived in [**Location 86**] since [**2155**]. He lives with his
+wife, his daughter and son. [**Name (NI) **] emigrated from [**Country 6257**]. He quit
+smoking 24 years ago, and reports having smoked 40 pack years.
+He denies alcohol or ellicit drug use.
+
+Family History:
+non-contributory.
+
+Physical Exam:
+ADMISSION EXAM:64"  80kg ( pre-op)
+
+VS: T=100.5.BP=137/75.HR=110.RR=20-30.O2 sat=98% on 3L
+GENERAL: elderly frail man in NAD. Oriented x3. Portuguese
+speaking only. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: JVD unable to determine given altered neck anatomy
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. II/VI systolic ejection murmur. No
+thrills, lifts. No S3 or S4.
+LUNGS:  Resp were labored, bibasilar crackles were present, no
+accessory muscle use.
+ABDOMEN: Soft, obese and distended No HSM or tenderness. Abd
+aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: 2+ peripheral edema. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+.
+DISCHARGE EXAM: Same as above except for the following:
+VS: T= BP=.HR=.RR=.O2 sat=%
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 831**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 91441**] (Complete)
+Done [**2199-9-16**] at 3:23:48 PM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2118-9-1**]
+Age (years): 81 M  Hgt (in): 64
+BP (mm Hg): 135/55  Wgt (lb): 176
+HR (bpm): 62  BSA (m2): 1.85 m2
+Indication: Atrial fibrillation. Chest pain. Coronary artery
+disease. Hypertension. Left ventricular function. Preoperative
+assessment. Shortness of breath. Valvular heart disease.
+Intraoperative TEE for AVR. Aortic valve disease.
+ICD-9 Codes: 402.90, 427.31, 786.05, 424.1
+Test Information
+Date/Time: [**2199-9-16**] at 15:23    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2011AW-:1 Machine: us3
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.5 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.4 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  50%  >= 55%
+Left Ventricle - Stroke Volume:  62 ml/beat
+Left Ventricle - Cardiac Output:  3.87 L/min
+Left Ventricle - Cardiac Index:  2.09  >= 2.0 L/min/M2
+Left Ventricle - Lateral Peak E':  *0.05 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.00 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *32  < 15
+Aorta - Annulus:  2.5 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.2 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.5 cm  <= 3.0 cm
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aorta - Arch:  2.7 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.3 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *5.0 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *100 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  49 mm Hg
+Aortic Valve - LVOT VTI:  18
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  0.8 m/sec
+Mitral Valve - A Wave:  0.3 m/sec
+Mitral Valve - E/A ratio:  2.67
+
+Findings
+LEFT ATRIUM: Mild spontaneous echo contrast in the body of the
+LA. Mild spontaneous echo contrast in the LAA. Good (>20 cm/s)
+LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. Left-to-right shunt
+across the interatrial septum at rest. Small secundum ASD.
+
+LEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size.
+Mild regional LV systolic dysfunction. Low normal LVEF. TDI E/e'
+>15, suggesting PCWP>18mmHg. Doppler parameters are most
+consistent with c/w Grade II (moderate) LV diastolic
+dysfunction.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Borderline normal RV
+systolic function. TASPE normal (>=1.6cm)
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal aortic arch diameter. Complex
+(mobile) atheroma in the aortic arch. Normal descending aorta
+diameter. Complex (>4mm) atheroma in the descending thoracic
+aorta.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Critical AS (area <0.8cm2). Moderate (2+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification. No MS. Mild to moderate ([**12-16**]+) MR.
+
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The rhythm appears
+to be atrial fibrillation. Results were personally reviewed with
+the MD caring for the patient. See Conclusions for post-bypass
+data
+
+R

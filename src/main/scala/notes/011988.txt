@@ -1,0 +1,222 @@
+Admission Date:  [**2104-4-7**]              Discharge Date:   [**2104-4-23**]
+
+Date of Birth:  [**2023-12-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Codeine
+
+Attending:[**First Name3 (LF) 613**]
+Chief Complaint:
+OSH transfer for severe anemia, acute renal failure, and left
+leg hematoma.
+.
+
+Major Surgical or Invasive Procedure:
+Left leg debridement and lavage with VAC dressing.
+Right IJ central line.
+Peripherally inserted central catheter (left).
+Peripherally inserted central catheter (right).
+Esophagogastroduodenoscopy (EGD).
+.
+
+History of Present Illness:
+Ms. [**Known lastname **] is an 80 year old female with history of atrial
+fibrillation, anemia of unclear etiology (baseline hct ~33) and
+asthma who presented to an OSH on [**2104-4-6**] with malaise and LE
+swelling after a mechanical fall one week prior. She was found
+to be in ARF with creatinine 4.6 (baseline 0.9) and K of 8. Her
+hct was 19, down from baseline 33. Her hyperkalemia was treated
+and she was transfered to [**Hospital1 18**] ICU for ARF, anemia and
+hypotension.
+.
+
+
+Past Medical History:
+-Atrial septal defect
+-Pulmonary hytpertension
+-Chronic atrial fibrillation (no anti-coagulation because of
+frequent bleeding, previously on digoxin but was d/c'd for
+hypotension ~1y ago)
+-Papillary TCC, grade II/III (dx [**6-9**])
+-Chronic anemia of unclear etiology (baseline hct ~33);
+colonoscopy [**5-10**] revealed 2mm benign polyp in descending colon,
+diverticulitis, large internal hemorrhoids
+-Barrett's esophagus with high grade esophageal dysplasia (dx by
+EGD [**3-10**])
+
+Social History:
+lives with daughter, no smoking, no EtOH
+.
+
+Family History:
+Non-contributory
+.
+
+Physical Exam:
+PHYSICAL EXAM ON TRANSFER TO THE MEDICAL FLOOR.
+VITALS: 98.7, 144/62, 65, 20, 96% RA
+GEN: A+Ox3, NAD, smiling
+HEENT: OP clear, MMM
+NECK: JVP difficult to assess because of neck size and IJ
+catheter.
+CV: Irregular, II/VI SEM at upper borders, no G/R
+PULM: CTAB, diffuse expiratory wheeze, no rales, speaking in
+short sentences
+ABD: Soft, NT, ND, +BS
+EXT: 2+ pedal edema bilaterally. LLE dressed with some
+serosanguinous drainage. Toes warm and well perfused.
+.
+
+
+Pertinent Results:
+PERTINENT LABS:
+[**2104-4-7**] 12:31AM BLOOD WBC-8.7 RBC-2.13* Hgb-6.9* Hct-19.8*
+MCV-93 MCH-32.4* MCHC-34.9 RDW-15.0 Plt Ct-249
+[**2104-4-23**] 04:34AM BLOOD WBC-3.1* RBC-2.39* Hgb-7.5* Hct-22.0*
+MCV-92 MCH-31.6 MCHC-34.4 RDW-15.4 Plt Ct-171
+[**2104-4-7**] 12:31AM BLOOD Neuts-78.7* Lymphs-13.0* Monos-6.4
+Eos-1.6 Baso-0.3
+[**2104-4-7**] 12:31AM BLOOD PT-14.7* PTT-29.1 INR(PT)-1.3*
+[**2104-4-13**] 06:30AM BLOOD PT-21.5* PTT-35.6* INR(PT)-2.0*
+[**2104-4-23**] 04:34AM BLOOD Plt Ct-171
+[**2104-4-23**] 04:34AM BLOOD PT-13.3 PTT-27.8 INR(PT)-1.1
+[**2104-4-7**] 12:31AM BLOOD Fibrino-477*
+[**2104-4-7**] 12:31AM BLOOD Ret Aut-6.2*
+[**2104-4-7**] 12:31AM BLOOD Glucose-66* UreaN-105* Creat-4.6* Na-132*
+K-7.2* Cl-100 HCO3-14* AnGap-25*
+[**2104-4-23**] 04:34AM BLOOD Glucose-109* UreaN-15 Creat-0.8 Na-136
+K-4.4 Cl-109* HCO3-23 AnGap-8
+[**2104-4-7**] 12:31AM BLOOD LD(LDH)-293* CK(CPK)-102 TotBili-0.3
+[**2104-4-7**] 12:31AM BLOOD CK-MB-8 proBNP-9575*
+[**2104-4-7**] 12:31AM BLOOD cTropnT-0.27*
+[**2104-4-7**] 12:31AM BLOOD calTIBC-267 VitB12-1229* Folate->20
+Ferritn-297* TRF-205
+[**2104-4-7**] 12:31AM BLOOD TSH-1.1
+[**2104-4-7**] 12:31AM BLOOD Cortsol-36.2*
+[**2104-4-22**] Epo level- pending
+.
+MICRO DATA:
+BLOOD CX ([**4-8**], [**4-9**], /[**4-10**]): negative
+URINE CX ([**4-8**]):
+ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+      LACTOBACILLUS SPECIES.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------    64 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     4 S
+TRIMETHOPRIM/SULFA----  =>16 R
+.
+LLE WOUND:
+GRAM STAIN (Final [**2104-4-9**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      3+  (5-10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   WOUND CULTURE (Final [**2104-4-13**]):
+      Due to mixed bacterial types ( >= 3 colony types) an
+abbreviated
+      workup is performed (including a screen for Pseudomonas
+aeruginosa,
+      Staphylococcus aureus and beta streptococcus).
+      Susceptibility will be performed on P. aeruginosa and S.
+aureus if
+      sparse growth or greater.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         SENSITIVITIES PERFORMED ON CULTURE # 250-7774L [**2104-4-9**].
+
+   ANAEROBIC CULTURE (Final [**2104-4-13**]):
+      BACTEROIDES FRAGILIS GROUP.    MODERATE GROWTH.
+         BETA LACTAMASE POSITIVE.
+.
+H. pylori ([**4-17**]):  negative.
+.
+.
+STUDIES:
+CT LLE ([**4-7**]): 1. Large hematoma of the medial calf located
+within the subcutaneous fat. There is no involvement of the
+underlying muscle.
+2. No fracture of the tibia or fibula. Please note the study is
+not tailored to evaluate the knee. If there is clinical
+suspicion for fracture about the knee, then radiographs or CT
+would be recommended for further evaluation.
+.
+CXR ([**4-7**]): Right-sided central venous line is again seen with
+tip overlying the SVC. Heart size again appears enlarged. There
+is unchanged pulmonary congestion compared to prior study. No
+new focal consolidations are identified.
+.
+LLE US ([**4-7**]): Limited examination, but no evidence of DVT in the
+left lower extremity.
+.
+TTE ([**4-7**]): The left atrium is mildly dilated. No left atrial
+mass/thrombus seen (best excluded by transesophageal
+echocardiography). The right atrium is moderately dilated. There
+is mild symmetric left ventricular hypertrophy with normal
+cavity size and regional/global systolic function (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+The ascending aorta is mildly dilated. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. The pulmonary artery systolic
+pressure could not be determined. There is no pericardial
+effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Mild aortic regurgitation. Dilated ascending aorta. This
+constellation of findings is c/w hypertensive heart.
+.
+LUE US ([**4-15**]): No evidence of deep vein thrombosis in the left
+arm.
+.
+CT ABD/PELVIS ([**4-17**]): 1. No evidence of retroperitoneal
+hematoma.
+2. Focal fluid density, cystic structure in the retroperitoneum
+adjacent to the aorta. The lesions is incompletely characterized
+without intravenous contrast, but likely benign. Possibilities
+include an enteric duplication cyst or a low attenuation lymph
+node.
+.
+EGD ([**4-17**]): Normal mucosa in the whole esophagus,
+Erosions in the antrum, Normal mucosa in the first part of the
+duodenum and second part of the duodenum, Otherwise normal EGD
+to second part of the duodenum.
+.
+
+
+Brief Hospital Course:
+80 year old female with asthma, anemia, and afib transferred
+from an OSH s/p fall with LLE hematoma, ARF, anemia.
+.
+# L lower leg hematoma. Occurred s/p fall at home. Followed by
+plastics in house. Underwent I+D of the wound with initial
+removal of 800cc of clot. This was felt to be a large cause of
+her anemia. A VAC dressing was placed. Wound culture had heavy
+growth of MSSA but this was felt to be most likely a
+contaminant. She was initially started on vancomycin but this
+was discontinued. Went to OR today for further wound debridement
+and now has VAC dressing in place. IV dilaudid was required for
+pain control with dressing changes.
+.
+# Acute blood loss anemia: Felt to be multifactorial. In l

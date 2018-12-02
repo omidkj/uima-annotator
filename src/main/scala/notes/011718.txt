@@ -1,0 +1,220 @@
+Admission Date:  [**2189-2-4**]              Discharge Date:   [**2189-2-12**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Lyrica / Nabumetone
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+mitral regurgitation
+
+Major Surgical or Invasive Procedure:
+Mitral Valve Replacement (27 St. [**Male First Name (un) 923**] Porcine) [**2-4**]
+
+
+History of Present Illness:
+Mr. [**Known lastname 81828**] is a 89 year old gentleman who recently has been
+experiencing worsening shortness of breath and dyspnea on
+exertion.  Work-up for this complaint revealed severe mitral
+regurgitation.  He presented to [**Hospital1 1170**] for mitral valve replacement.
+
+Past Medical History:
+mitral regurgitation
+benign prostatic hypertrophy
+mild COPD
+glaucoma
+transitional cell bladder tumor/hematuria
+First degree atrioventricular block
+osteoarthritis
+dejenerative joint disease
+pulmonary hypertension
+neuropathy
+carpal tunnel syndrome
+s/p appendectomy
+s/p tonsillectomy
+s/p cataract surgery
+s/p total knee replacement (bilateral)
+s/p back surgery
+
+Social History:
+Mr. [**Known lastname 81828**] is retired.  He quit smoking 40 years ago, but
+has a 30 pack year history.  He drinks socially only.  He lives
+alone.
+
+Family History:
+He denies a family history of premature coronary artery disease.
+
+Physical Exam:
+General: Well appearing elderly gentleman in NAD
+VS: 98.6, 74, 135/67, 20, 945 on RA
+HEENT: unremarkable
+Chest: left chest pacer site w/ intact steri-strips and small
+area of eccyhmosis. Sternal incision healing well w/ no redness
+or drainage.
+COR: RRR S1, S2
+abd; Soft, round, NT, non-distended, +BS
+extrem: trace BLE edema. LUE decreasing.
+Neuro: Intact.
+
+
+Pertinent Results:
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2189-2-11**] 12:55PM          27.1*
+DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+[**2189-2-4**] 12:06PM    81.4*   16.5* 1.5* 0.6 0
+ADDED CAD AT 12:34 PM ON [**2189-2-4**]
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2189-2-10**] 05:30AM        189
+  BASIC COAGULATION (FIBRINOGEN, DD, TT, REPTILASE, BT) Fibrino
+[**2189-2-7**] 02:42AM    697*#
+Source: Line-arterial
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2189-2-11**] 12:55PM    151* 48* 1.4* 140 4.1 103 27 14
+ESTIMATED GFR (MDRD CALCULATION) estGFR
+[**2189-2-4**] 01:25PM    Using this1
+Source: Line-a / SAMPLE SLIGHTLY HEMOLYZED
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 81829**] M  89  [**2099-6-14**]
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2189-2-10**] 10:40
+AM
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG CSRU [**2189-2-10**] SCHED
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 81830**]
+Reason: s/p ppm placement. check leads and ptx.
+
+[**Hospital 93**] MEDICAL CONDITION:
+   89 year old man with new dual chamber ppm.
+REASON FOR THIS EXAMINATION:
+   s/p ppm placement. check leads and ptx.
+
+Final Report
+HISTORY: Pacemaker placement, to evaluate for leads and
+pneumothorax.
+
+FINDINGS: In comparison with study [**2-9**], there has been
+placement of a
+dual-lead pacemaker device, with the leads in the region of the
+right atrium
+and apex of the right ventricle. Specifically, no evidence of
+pneumothorax.
+The right IJ sheath has been removed. Left retrocardiac opacity
+and small
+effusion persists.
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 81831**]
+(Complete) Done [**2189-2-4**] at 9:50:00 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2099-6-14**]
+Age (years): 89 M  Hgt (in): 70
+BP (mm Hg): 134/86  Wgt (lb): 207
+HR (bpm): 58  BSA (m2): 2.12 m2
+Indication: Intra-op TEE for MVR, ? TVR
+ICD-9 Codes: 745.5, 786.05, 440.0, 424.0
+Test Information
+Date/Time: [**2189-2-4**] at 09:50    Interpret MD: [**Name6 (MD) 928**]
+[**Name8 (MD) 929**], MD, MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW02-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.3 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.3 cm
+Left Ventricle - Fractional Shortening:  0.38  >= 0.29
+Left Ventricle - Ejection Fraction:  55% to 60%  >= 55%
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Dynamic interatrial septum. PFO
+is present. Left-to-right shunt across the interatrial septum at
+rest.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+global systolic function (LVEF>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Partial
+mitral leaflet flail. Mild mitral annular calcification. No MS.
+Eccentric MR jet. Effective regurgitant orifice is >=0.40cm2. MR
+vena contracta is >=0.7cm Severe (4+) MR. [**Name13 (STitle) 15110**] to the eccentric
+MR jet, its severity may be underestimated (Coanda effect).
+
+TRICUSPID VALVE: No TS. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+The post-bypass study was performed while the patient was
+receiving vasoactive infusions (see Conclusions for listing of
+medications).
+Conclusions
+PRE-BYPASS:
+1. The left atrium is moderately dilated. A patent foramen ovale
+is present. A left-to-right shunt across the interatrial septum
+is seen at rest.
+2. Left ventricular wall thickness, cavity size, and global
+systolic function are normal (LVEF>55%).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are simple atheroma in the descending thoracic aorta.
+5. There are three aortic valve leaflets. There is no aortic
+valve stenosis. No aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. There is
+partial mitral leaflet flail. An eccentric, anterior directed
+jet of severe MR is seen. The effective regurgitant orifice is
+>=0.40cm2 The mitral regurgitation vena contracta is >=0.7cm.
+Severe (4+) mitral regurgitation is seen. Due to the eccentric
+nature of the regurgitant jet, its severity may be significantly
+underestimated (Coanda effect).
+
+Dr. [**Last Name (STitle) **] was notified in person of the results.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including phenylephrine and is
+being AV paced
+
+1. A bioprosthesis is well seated in the mitral position. Trace
+central MR is noted that is normal for this prosthesis. Mean
+gradient across this valve is 7 mmof Hg.
+2. LV function is unchanged. RV function initially moderate
+depressed then improved to normal.
+3. No flow is seen across the interatrial septum, evidence of
+septal repair/closure seen.
+4. Aorta is intact post decannulation.
+5. TR is still mild.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 928**] [**Name8 (MD) 929**], MD, MD,
+Interpreting physician [**Last Name (NamePattern4) **] [**2189-2-4**] 12:51
+
+
+Brief Hospital Course:
+On [**2189-2-4**], Mr. [**Known lastname 81828**] [**Last Name (Titles) 1834**] a mitral valve
+replacement with a 17mm St. [**Male First Name (un) 923**] porcine valve.  This procedure
+was performed by Dr. [**First Name (STitle) **] [**Name (STitl

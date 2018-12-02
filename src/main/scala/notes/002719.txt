@@ -1,0 +1,152 @@
+Admission Date:  [**2109-4-19**]              Discharge Date:   [**2109-4-26**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1674**]
+Chief Complaint:
+sob
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+[**Age over 90 **]yoW with diastolic CHF, pulmonary fibrosis, htn, recently
+hospitalized at [**Hospital1 **] [**Location (un) 620**] for sob thought possibly due to
+pneumononia (ambiguous cxr) presents to [**Hospital1 18**] ED with sob, htn >
+200/100. Admitted to ICU for BP control.
+
+Past Medical History:
+pulmonary fibrosis
+htn
+chf (diastolic)
+mild as
+1+MR
+
+Social History:
+lives on [**Location (un) **] in apartment, daughter [**Name (NI) **] [**Name (NI) 103645**] very
+involved in care
+
+Family History:
+nc
+
+Physical Exam:
+On arrival to ICU:
+T 100.2 BP 113/52 HR 73 RR 22 Sat 96% on 4 L/min nc
+Gen: thin elderly woman thrashing around in bed
+HEENT: dry MM, no OP lesions
+Neck: supple, unable to assess JVP due to lack of pt cooperation
+
+Chest: fine bibasilar rales, several inches up from the bases;
+no wheezes/ronchi; exam limited by patient's lack of cooperation
+in sitting up and sitting still
+CV: rrr, nl s1s2, no m/r/g
+Abd: soft, nondistended, no grimacing with deep palpation,
+normal BS, no masses/HSM
+Extr: warm, 2+ DP pulses, no edema
+Skin: warm, dry, no rashes or jaundice
+Neuro: thrashing around in bed, localizes vision to verbal
+stimuli, EOMI, PERRL, moving all extremities equally
+
+
+Brief Hospital Course:
+1)Fever: Unclear whether this was due to pneumonia or viral URI.
+ CXR cleared quicly after diuresis in ICU. Sputum grew MRSA, but
+pt appeared well.  It was felt in discussion with the pulmonary
+team that this likely represented colonization rather than MRSA
+pneumonia.  She was treated conservatively for course of
+possible community acquired pneumonia.
+
+2)SOB: Hypoxia on arrival to ICU.  Improved shortly there after.
+ Unclear whether represented pulmonary edema in setting of htn
+or pneumonia.  Diuresed to 4 pounds below normal weight
+(euvolemic weight approx 98-100 lbs).  Once on the floor
+diuresis was discontinued as pt had developed hyponatremia.
+Case was discussed with pt's cardiologist, pulmonologist, and
+[**Name (NI) 3390**].  [**Name10 (NameIs) 3390**] asked to send pt home on prn lasix regimen - lasix 20
+mgs po only if gains weight from one day to next.  Echo
+unchanged.
+
+3)Htn:  Pt continued on atenolol 50, imdur 60. She had recently
+had losartan dc'd by her cardiologist, who recommended
+restarting as her SBPs continued to be in the 140s-150s.  This
+was restarted, she did have morning htn to 150s/80s just before
+receiving morning meds but was otherwise well controlled
+throughout the day.  Cardiologist, Dr. [**Last Name (STitle) **], [**First Name3 (LF) **] see her
+in 2 weeks and decide whether losartan needs to be increased.
+
+4)Frequent urination at night.  Post void residual bladder scan
+was normal.  This was when pt was not receiving lasix.  Pt
+referred to outpt urology.
+
+Send home with telemonitoring and VNA.
+
+Daughter [**First Name4 (NamePattern1) **] [**Known lastname 103645**] had multiple concerns throughout the
+hospital course, including concern that patient was not safe for
+home.  Meeting required with case management and myself due to
+inflammatory comments and behavior by pt's daughter to nursing
+and physician [**Name Initial (PRE) **].  At end of meeting, daughter seemed
+satisfied with discharge plan.
+
+Discharge Medications:
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+5. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+6. Levofloxacin 250 mg Tablet Sig: Three (3) Tablet PO Q48H
+(every 48 hours) for 1 days: Take on [**2109-4-28**].
+Disp:*3 Tablet(s)* Refills:*0*
+7. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every
+12 hours) for 2 days.
+Disp:*8 Tablet(s)* Refills:*0*
+8. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day: Only
+take if patient has gained more than 4 pounds in 48 hours.
+11. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+pneumonia
+diastolic heart failure
+hypertension
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please call Dr. [**Last Name (STitle) **] with any concerning delerium, problems
+breathing, or other concerning symptoms.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) 1571**] FUNCTION LAB Phone:[**Telephone/Fax (1) 609**]
+Date/Time:[**2109-5-23**] 2:25
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 612**]
+Date/Time:[**2109-5-23**] 2:45
+Provider: [**Name10 (NameIs) 1570**],INTERPRET W/LAB NO CHECK-IN [**Name10 (NameIs) 1570**] INTEPRETATION
+BILLING Date/Time:[**2109-5-23**] 2:45
+
+[**5-29**] at 10:50am with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at [**Hospital6 733**].
+Recommend scheduling this for sooner, within next 2 weeks.
+
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 1677**]
+
+Completed by:[**2109-5-1**]

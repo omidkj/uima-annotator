@@ -1,0 +1,226 @@
+Admission Date:  [**2137-2-27**]              Discharge Date:   [**2137-3-4**]
+
+Date of Birth:  [**2065-2-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Azithromycin / Ace Inhibitors / Codeine
+
+Attending:[**Doctor Last Name 10493**]
+Chief Complaint:
+Allergic reaction.
+
+Major Surgical or Invasive Procedure:
+Nasotracheal Intubation
+
+
+History of Present Illness:
+Mrs. [**Known lastname **] is a 71 year old woman with a history of hypertension
+and diabetes who recently presented with bronchitis and now
+presents with tounge swelling after a dose of azithromycin. She
+initially complained 11 days of cough which was productive for
+about 5 days. She denied any fevers, chills, nausea or vomiting.
+She presented to her PCP on the day of admission and was
+prescribed azithromycin. Around 3pm, she took the first dose of
+azithromycin and by about 4pm, she noticed a tingling sensation
+in her tongue. At 5pm, the left side of her tongue became
+swollen. She was concerned that her throat might close off so
+she presented to the ED.
+.
+In the ED, ENT was consulted and a fiberoptic intubation was
+performed given the rapidity of her airway compromise. She was
+given 0.3mg 1:1000 epinephrine sc, afrin, bendaryl 50mg iv,
+solumedrol 125mg iv, and was sedated with propafol.
+.
+She was monitored overnight in the ED and initially staffed with
+west ICU team, but a bed became avaliable in [**Hospital Unit Name 153**].  ENT
+suggested following cuff-leak throughout intubation and possible
+allergy consult.  On arrival to [**Hospital Unit Name 153**], nursing noted some
+decreased breath sounds on the left side.  She had a temp of 94,
+was placed on warming blanket.
+
+
+Past Medical History:
+1. Hypertension
+2. Diabetes
+3. Obesity
+
+Social History:
+No history tobacco abuse, [**1-11**] alcoholic beverages per day.
+
+
+Family History:
+Daughter with history of allergic reaction to fish.
+
+Physical Exam:
+VS: T 96 BP 120/80 HR 73 RR 12 Sat 98-100%
+VENT: CPAP 10/5 0.5  572-588
+GEN: Intubated/sedated
+HEENT: Protruding, swollen tongue, peri-oral edema
+CV: Normal s1/s2, RRR
+PUL: CTA bilaterally anteriorly, decreased breath sounds on Left
+side.
+ABD: Soft, obese, nontender, NABS
+EXT: 1+ UE edema bilaterally, no LE edema
+NEURO: Sedated, unarousable
+
+Pertinent Results:
+[**2137-2-27**] 11:47PM   TYPE-ART PEEP-5 O2-.5 PO2-88 PCO2-43 PH-7.33*
+TOTAL CO2-24 BASE XS--3 -ASSIST/CON INTUBATED-INTUBATED
+[**2137-2-27**] 05:59AM   GLUCOSE-228* UREA N-32* CREAT-1.2* SODIUM-134
+POTASSIUM-5.0 CHLORIDE-103 TOTAL CO2-19* ANION GAP-17
+[**2137-2-27**] 05:59AM   CALCIUM-8.3* PHOSPHATE-4.0 MAGNESIUM-1.9
+[**2137-2-27**] 05:59AM   WBC-10.5 RBC-4.10* HGB-12.7 HCT-36.7 MCV-90
+MCH-31.0 MCHC-34.6 RDW-13.5
+[**2137-2-27**] 05:59AM   PLT COUNT-248
+[**2137-2-26**] 07:35PM   GLUCOSE-123* UREA N-37* CREAT-1.3* SODIUM-134
+POTASSIUM-4.5 CHLORIDE-97 TOTAL CO2-21* ANION GAP-21*
+[**2137-2-26**] 07:35PM   WBC-12.8* RBC-4.67 HGB-14.3 HCT-41.3 MCV-89
+MCH-30.6 MCHC-34.6 RDW-13.5
+[**2137-2-26**] 07:35PM   NEUTS-62.4 BANDS-0 LYMPHS-27.5 MONOS-7.4
+EOS-1.7 BASOS-0.9
+[**2137-2-26**] 07:35PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**2137-2-26**] 07:35PM   PT-11.9 PTT-22.1 INR(PT)-1.0
+============
+STUDIES:
+CXR [**2137-2-26**]
+INDICATION: Intubation.
+An endotracheal tube has been placed, terminating at
+approximately the thoracic inlet level. The lung volumes are
+quite low accentuating the cardiac silhouette and
+bronchovascular structures. There is a patchy area of opacity in
+the right retrocardiac region which likely reflects atelectasis,
+although aspiration is an additional consideration. The
+remainder of the lungs are grossly clear.
+.
+CXR [**2137-2-26**]
+Lungs are clear. Heart size normal. No pleural abnormality or
+evidence of central adenopathy. Right heart border is obscured
+by mediastinal fat, as before. The thoracic aorta is very
+tortuous and moderately calcified but not definitely aneurysmal.
+.
+CXR [**2137-2-27**]
+IMPRESSION:
+1. Endotracheal tube in appropriate position with tip
+approximately 6 cm above the carina.
+2. Bilateral right and left retrocardiac opacities, which may
+represent atelectasis or aspiration.
+.
+
+Brief Hospital Course:
+71 year old woman with obesity, diabetes, hypertension who
+presents with tongue swelling after taking a dose of
+azithromycin for bronchitis as well as cough syrup containing
+codeine.
+.
+# Angioedema: As described in the HPI, ENT was consulted and
+performed a fiberoptic nasal intubation in the ED and pt was
+sent to the [**Hospital Unit Name 153**].  Her reaction was thought to be due to either
+the azithromycin or the codeine but it was heard the tell as she
+took both at the same time.  There was a question of whether the
+ACE-I was the culprit as it can cause angioedema at any time.
+All three of these medications are now listed as allergies.  She
+was treated initially with decadron, benadryl, and zantac.  Her
+tongue swelling slowly improved and she was extubated on
+hospital day #2.  Fiberoptic scope by ENT the next day revealed
+persistent laryngeal edema, mild erythema of nasal pharynx,
+moderate supraglottis edema, fair glottic airway but the
+following day this had all improved.  She will follow up with
+Dr. [**Last Name (STitle) 2603**] as an outpatient.  She will continue the benedryl and
+zantac for 5 days and begin a prednisone taper over 7 days. She
+was given a prescription for an epi-pen.
+.
+# Hypertension: The pt's HCTZ and ACE-I were initially held
+given her sedation.  Once she was extubated, her HCTZ was
+restarted.  As above, pt's ACE-I was not restarted given concern
+for the possible etiology of her angioedema.
+.
+# Bronchitis/Sinusitis: Pt remained afebrile but was noted to
+have excessive nasal secretions on fiberoptic exam by ENT.  She
+was started on a course of levofloxacin on [**3-1**].  Levofloxacin
+was started as it was hoped to be the least allergenic of
+potential antibiotics.  She will continue this for a 10-day
+course.
+.
+# Diabetes: Metformin was restarted once pt started eating.
+.
+# Dispo: PT evaluated the patient and recommended rehab and pt
+was agreeable.
+.
+# Code: Full.
+
+
+Medications on Admission:
+Metformin  500mg [**Hospital1 **]
+Vasotec  20mg [**Hospital1 **]
+aspirin 325
+ranitidine 150mg [**Hospital1 **]
+HCTZ  25mg QD
+Tylenol prn
+lipitor 20mg qd
+guaituss/codine syrup 1teaspoon q3h prn
+mucinex
+
+Discharge Medications:
+1. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+2. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+4. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 4 days.
+Disp:*4 Tablet(s)* Refills:*0*
+5. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. EpiPen 0.3 mg/0.3 mL Syringe Sig: One (1) injection
+Intramuscular  ONCE as needed for anaphylactic reaction.
+Disp:*1 pen* Refills:*1*
+7. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO once a day:
+Take 3 pills for 3 days, 2 pills for 2 days and 1 pill for 2
+days.
+Disp:*15 Tablet(s)* Refills:*0*
+8. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+9. Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q
+8H (Every 8 Hours) for 5 days.
+Disp:*15 Capsule(s)* Refills:*0*
+10. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+11. Insulin Regular Human 100 unit/mL Solution Sig: per insulin
+sliding scale  Injection ASDIR (AS DIRECTED).
+12. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 6692**] Nursing & Rehabilitation - [**Location (un) 38**]
+
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Anaphylactic reaction
+2. Bronchitis and Sinusitis
+
+Secondary Diagnosis:
+1. Hypertension
+2. Diabetes
+
+
+Discharge Condition:
+good, oxygenating 90% on ambulation on room air
+
+
+Discharge Instructions:
+Resume all prior medications except:
+- we have stopped your ACE-I given concern for throat swelling
+- do NOT take azithromycin or codeine until cleared by the
+allergist
+
+Call Dr. [**Last Name (STit

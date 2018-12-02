@@ -1,0 +1,204 @@
+Admission Date:  [**2153-8-8**]              Discharge Date:   [**2153-10-12**]
+
+Date of Birth:  [**2107-10-20**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 4377**]
+Chief Complaint:
+Fever, night sweats, cough
+
+Major Surgical or Invasive Procedure:
+Intubation
+Lumbar puncture
+Bone marrow biopsy x 3
+Right subclavian central line x 2
+PICC line insertion
+
+
+History of Present Illness:
+Ms. [**Known lastname 83420**] is a 45 year old female with no significant past
+medical history who developed B symptoms of fevers and night
+sweats as well as some cough and progressive dyspnea.  This led
+her to present to [**Hospital6 2561**] after approximately one
+week of symptoms on [**2153-8-7**].  At [**Hospital3 2568**] she was found to have
+a leukocytosis to 115,000 as well as thrombocytopenia with 7%
+blasts on differential.  LDH was 1661 and uric acid was 4.2.
+She had a CT chest that showed diffuse ground glass opacities in
+both lungs, thickening of bronchovascular bundle, small right
+pleural effusion, and  centrilobular emphysematous changes of
+the upper lobes with pretracheal and subcarinal adenopathy.
+Thus, she was started on levofloxacin and ceftriaxone.
+Hematology/Oncology evaluated her and a bone marrow biopsy was
+obtained prior to transfer to [**Hospital1 18**] for further work up.  She
+was hypoxic, requiring supplementary oxygen by nasal cannula on
+arrival here but denied other complaints.  Her antibiotics were
+switched to vancomycin, cefepime, and oseltamavir.
+
+After arrival at [**Hospital1 18**] a repeat CT showed similar findings to
+those seen on the [**Hospital3 **] scan and she was started on
+hydroxyurea for her initial leukocytosis of 120,000.  With
+hydroxyurea her WBC count l WBC 120,000 and her WBC has improved
+today to 32,000. Bone marrow bx here suggestive of acute myeloid
+leukemia, cytogenetics pending. Despite broad antibiotic
+coverage, her O2 requirement began to increase and micafungin
+was added empirically [**8-10**] for fungal coverage. On [**8-11**] pt had
+worsening hypoxia with O2 sat 90% on 50% FM. She was given lasix
+10 mg IV with ~1.5L urine output. ABG revealed respiratory
+alakalosis with concomittant metabolic alkalosis. Bicarb gtt was
+discontinued to improve metabolic alkalosis. She was noted to
+have a temperature of 104 and standing tylenol was ordered. She
+underwent a repeat CT thorax that revealed worsening widespread
+ground glass opacities in the lungs bilaterally, with airspace
+opacities in the lung bases, right middle lobe, and lingula. Due
+to lack of improvement in respiratory status, and also with
+plans to initiate chemotherapy for presumed component of
+infiltrative leukemia adding to worsening respiratory status,
+she was transferred to the [**Hospital Unit Name 153**].
+
+In the [**Hospital Unit Name 153**] she was started on vancomycin and Bactrim and was
+transfused platelets and blood.  She was intubated for increased
+work of breathing.  A BAL was negative for PCP and the Bactrim
+was stopped.  The bronch later was galactomannan positive and
+the pt was started on voriconazole.  The pt eventually required
+pressors.  On [**8-16**] she developed hypertension with bradycardia
+and suspicion for [**Location (un) 3484**] triad led to getting a head CT.
+This showed wedge-shaped hypodensity seen in the left cerebellar
+hemisphere and neurology was consulted.  Pt was extubated [**8-22**].
+MRI [**8-23**] showed Ring-enhancing lesion suspicious for abscess,
+lymphoma, or solitary metastasis.
+
+Pt came to the BMT floor in stable condition.  She denied fever,
+chills, HA, vision changes, SOB, Chest pain, Cough, abdominal
+pain, diarhea, constipation, or urinary symptoms.
+
+
+Past Medical History:
+Rheumatic fever
+toxoplasmosis - causing spontaneous abortion at 8 months
+gestation in [**2133**]
+
+Social History:
+She moved to US from [**Country 9362**] 7 years ago. Russian is her native
+language. She also speaks English. Married. 2 sons, age 15 and
+20, worked as a health aid. 25 pack year smoking history, quit 9
+days ago.
+
+Family History:
+Mother with history of breast cancer, father with history of
+throat cancer.
+
+Physical Exam:
+ON ADMISSION:
+VS: 97.8  131/72  66  18  100% RA
+Gen: Well appearing, NAD
+HEENT: Normocephalic, anicteric, pupils constricted,
+symmetrical, OP mild petechia on roof of mouth and under tounge,
+MMM
+Neck: No masses or lymphadenopathy, no thyroid nodules
+appreciated
+CV: RRR, no M/R/G; there is no jugular venous distension
+appreciated;  DP, 2+ bilaterally
+Pulm: decreased breath ounds in upper right lung, no wheezes,
+rhonchio, rhales
+Abd:Soft, NT, ND, BS+, no organomegaly or masses appreciated
+Extrem: Warm and well perfused, trace edema bilat
+Neuro: A and O*3, CNII-XII grossly intact, strength 5/5 in all
+extremities, left gaze nystagmus, normal gait, negative rhomberg
+Psych: Pleasant, cooperative
+
+ON DISCHARGE:
+afebrile, VSS
+Gen: Well appearing, NAD
+HEENT: Normocephalic, anicteric, pupils constricted,
+symmetrical, OP clear, MMM
+Neck: No masses or lymphadenopathy, no thyroid nodules
+appreciated
+CV: RRR, no M/R/G; there is no jugular venous distension
+appreciated;  DP, 2+ bilaterally
+Pulm: CTAB, no wheezes, rhonchi, rhales
+Abd: Soft, NT, ND, BS+, no organomegaly or masses appreciated
+Extrem: Warm and well perfused, no CCE
+Neuro: A and O*3, CNII-XII grossly intact, strength 5/5 in all
+extremities, normal gait.
+Psych: Pleasant, cooperative
+
+Pertinent Results:
+Labs on admission:
+[**2153-8-8**] 11:35AM   GLUCOSE-106* UREA N-7 CREAT-0.6 SODIUM-138
+POTASSIUM-3.9 CHLORIDE-103 TOTAL CO2-25 ANION GAP-14
+Ca: 8.2 Mg: 2.1 P: 5.1
+ALT: 55 AP: 280 Tbili: 0.3 Alb:
+AST: 24 LDH: 665 Dbili:  TProt:
+[**Doctor First Name **]:  Lip:
+Other Hematology
+FDP: 10-40
+[**2153-8-8**] 11:35AM   WBC-114.4* RBC-2.20* HGB-7.7* HCT-23.0*
+MCV-104* MCH-34.7* MCHC-33.3 RDW-20.7*
+N:35 Band:8 L:8 M:9 E:0 Bas:0 Metas: 20 Myelos: 10 Promyel: 1
+Nrbc: 2 Other: 9
+Neuts: 200 CELL DIFFERENTIAL
+Other: Blasts
+Other: Reviewed By [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **],Md On [**2153-8-9**]
+PT: 14.8  PTT: 26.6  INR: 1.3
+Fibrinogen: 343
+
+Ca: 8.3 Mg: 2.1 P: 4.8
+ALT: 64 AP: 307 Tbili: 0.4 Alb:
+AST: 27 LDH: 639 Dbili:  TProt:
+[**Doctor First Name **]:  Lip:
+UricA:4.8
+N:46 Band:6 L:14 M:6 E:0 Bas:0 Metas: 11 Myelos: 3 Promyel: 4
+Nrbc: 4 Other: 10
+Comments: WBC: Notified Dr. [**First Name (STitle) **] [**2153-8-8**] 1pm
+Plt-Ct: Verified By Smear
+Lymphs: CORRECTED RESULT,PREVIOUS RESULT WAS 9
+Other: Corrected Result,Previous Result Was 15
+Other: Blasts
+Other: Reviewed By [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **],Md On [**2153-8-9**]
+Hypochr: 1+ Anisocy: 2+ Poiklo: 1+ Macrocy: 3+ Microcy: 1+
+Ovalocy: 1+ Tear-Dr: OCCASIONAL
+Plt-Est: Very Low
+PT: 14.9  PTT: 31.4  INR: 1.3
+Fibrinogen: 348
+___________________________
+Micro:
+CSF [**8-30**]: no organisms, no PMLs, toxo PCR negative,
+galactomannan negative
+
+[**8-25**]: cryptococcal antigen - negative
+
+[**2153-8-24**] Blood toxo: IgM negative, IgG positive
+
+[**2153-8-23**] CSF: no fungus isolated, bacterial and viral cultures
+pending, galactomannan pending, cryptococcal antigen negative
+
+[**2153-8-14**] BAL:
+   Acid fast bacterial culture: pending
+   FUNGAL CULTURE (Preliminary):  no fungus isolated
+   RESPIRATORY CULTURE (Final [**2153-8-16**]): no growth, <1000
+CFU/ml.
+   Pneumocystis jirovecii (carinii): negative
+   ACID FAST SMEAR (Final [**2153-8-15**]): None seen on smear
+   LEGIONELLA CULTURE (Final [**2153-8-22**]):  no legionella isolated
+[**2153-8-11**]: Blood fungal and mycobacterial cultures (PRELIM): none
+isolated
+
+Influenza negative
+HIV-1 RNA not detected
+Sputum cultures negative x2 (final)
+C. diff negative
+MRSA negative
+Blood cultures [**2153-8-9**] - [**2153-8-16**]: no growth (all final)
+Urine cultures: no growth (all final), negative for legionella
+[**2153-8-16**]
+________________________________________________________
+IMAGING:
+[**8-9**] CT Chest:
+1. Moderate diffuse upper lobe centrilobular emphysema.
+2. Widespread ground-glass changes involving all lobes with a
+lower lobe reticular pattern due to uniform interlobular septal
+thickening with peribronchial cuffing and engorgeme

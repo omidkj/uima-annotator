@@ -1,0 +1,201 @@
+Admission Date:  [**2181-6-16**]              Discharge Date:   [**2181-6-29**]
+
+Date of Birth:  [**2104-2-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2279**]
+Chief Complaint:
+Shortness of breath,hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+The patient is a 77 year old male with multiple myeloma
+diagnosed in [**Month (only) 116**] s/p recent hospitalization ([**Date range (1) 17333**]) for a
+T10 mass, treated with XRT on [**5-22**] and [**5-29**] and recent
+chemotherapy who presents with one day of intermittent pleuritic
+chest pain.  The pain began on [**2181-6-15**] when the patient was at
+rest and was accompanied by shortness of breath.  The pain was
+localized to the lower left chest near the costal margin.  He
+thinks that the shortness of breath started first, followed by
+the pain.  He denies any fevers or chills, but did have a cough
+productive of clear sputum, which is new for him.  He then
+experienced a 1 hour long pain-free period and delayed going to
+the ED.  The pain returned today with increased intensity, and
+he decided to call EMS.
+.
+In the ED, initial vitals in triage were: T 99.8, HR 106, BP
+115/63, RR 20, and SpO2 100% on 10L NC.  He had already been
+given a NS bolus in the ambulance for hypotension (to SBP 90)
+and tachycardia (to 120).  He triggered for hypoxia (to 80% when
+decreased to 4L NC), tachypnea, and tachycardia.  Exam showed no
+evidence of peripheral edema or DVT.  He was placed on 100%
+non-rebreather, satting 100%, and his tachycardia and tachypnea
+resolved.
+.
+Differential diagnosis included pneumonia vs. PE vs. ACS.  After
+taking blood and sputum cultures, empiric antibiotics for HCAP
+were started with Vancomycin, Levofloxacin, and Cefepime.  He
+was given Aspirin 325 mg and placed on a Heparin gtt.  EKG
+showed no acute ischemic changes, initial Troponin was negative,
+and CXR showed chronic interstitial opacities with no evidence
+of superimposed pneumonia.  Labs were notable for D-dimer [**Numeric Identifier **],
+proBNP 1484, bicarb 19, lactate 1.7, and platelets 71.
+.
+There was significant concern for PE given his cancer history
+and presentation.  No evidence of DVT was seen on physical exam.
+ CTA was not performed due to increased risk of contrast
+nephropathy in patients with active multiple myeloma.  A heparin
+drip was started empirically for possible PE.  He was admitted
+to the ICU for further management and inpatient V/Q scan.
+.
+On reaching the ICU, he reported feeling somewhat better.  His
+chest pain had resolved and his breathing was less labored, but
+still significantly worse than his baseline.  He reported that
+he does not use any oxygen or inhalers at home.  He is not aware
+of having lung disease, despite ILD noted in medical history and
+on CXR.  He has never experienced a similar episode before.  He
+notes that he was staying in bed most of the time since
+completing chemotherapy a few weeks ago.  He has not had any
+fevers or chills.  He is not aware of any recent sick contacts.
+
+
+Past Medical History:
+# Diabetes Mellitus (Borderline)
+# Multiple myeloma -- recent admission ([**Date range (3) 101666**])
+-- Diagnosed in [**2181-3-25**] after presenting with bone pain
+-- Spike on SPEP and bone marrow biopsy with 25-30% plasma
+cells.
+-- Negative mets x-ray series [**2181-4-17**]
+-- Left hip MRI showed no lytic lesions [**2181-5-1**]
+-- T10 soft tissue mass extending into canal surrounding spinal
+cord, with extensive bony lysis of T10 vertebral body and L>R
+pedicle.
+-- Tissue biopsy [**2181-5-11**] consistent with a small-cell variant of
+plasma cell myeloma.
+-- Treated with steroids and XRT on [**5-22**] and [**5-29**] (Dr.
+[**Last Name (STitle) 3929**].
+# Abdominal Aortic Aneurysm
+# Interstitial lung disease
+-- No home O2 requirement
+# Hypercholesterolemia
+# Hypertension
+# Elevated PSA
+# Mild CKD (baseline Cr 1.3) -- proteinuria
+
+
+Social History:
+The patient lives with his wife and daughter.
+# Tobacco: Quit many years ago.
+# Alcohol: None
+# Illicit: None
+
+
+Family History:
+No family history of DVT, PE, or clotting disorders.  No family
+history of early CAD.
+# Mother: lived to age 83
+# Father: died from cancer (unsure of type) at age 46
+# Siblings: two sisters with diabetes
+
+Physical Exam:
+ADMISSION EXAM
+Vitals: T 98.3, BP 136/81, HR 80, RR 21, SpO2 92-97% on 6L NC
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, PERRL, EOMI, MMM, oropharynx clear
+Neck: Supple, JVP not elevated, no LAD
+Lungs: Decreased air movement and tight breath sounds.  Wheezes
+and squeaks throughout all lung fields.  Fine crackles at bases.
+CV: Irregularly irregular. Normal S1, S2.  No murmurs, rubs,
+gallops
+Abdomen: Bowel sounds present. Soft, non-tender, non-distended.
+No rebound tenderness or guarding.  No organomegaly.
+GU: no foley
+Ext: Warm, well perfused. Pulses 2+.  No lower extremity edema.
+No calf tenderness.
+
+DISCHARGE EXAM
+General: Patient sitting in bed in no acute distress
+HEENT: MMM, oropharynx clear, pupils are equal round and
+reactive to light b/l
+CV: RRR. No M/R/G
+LUNGS: Clear to auscultation bilaterally with minimal end
+expiratory wheezes, no rubs or crackles
+ABDOMEN:  BS+. Soft. NT/ND
+EXT: No pitting edema bilaterally. No clubbing or cyanosis.
+
+
+Pertinent Results:
+[**2181-6-16**] 06:05PM   WBC-4.3# RBC-3.53* HGB-12.6* HCT-36.0*
+MCV-102* MCH-35.8* MCHC-35.1* RDW-14.8
+[**2181-6-16**] 06:05PM   NEUTS-60.1 LYMPHS-35.7 MONOS-2.3 EOS-0.6
+BASOS-1.3
+[**2181-6-16**] 06:05PM   PLT SMR-VERY LOW PLT COUNT-71*
+[**2181-6-16**] 06:05PM   proBNP-1484*
+[**2181-6-16**] 06:05PM   cTropnT-<0.01
+[**2181-6-16**] 06:05PM   GLUCOSE-142* UREA N-29* CREAT-1.1 SODIUM-140
+POTASSIUM-4.2 CHLORIDE-110* TOTAL CO2-19* ANION GAP-15
+[**2181-6-16**] 06:23PM   LACTATE-1.7 K+-4.1
+[**2181-6-16**] 06:53PM   D-DIMER-[**Numeric Identifier **]*
+[**2181-6-16**] 09:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-4* PH-5.0
+LEUK-NEG
+[**2181-6-16**] 09:30PM URINE  COLOR-DkAmb APPEAR-Clear SP [**Last Name (un) 155**]-1.021
+[**2181-6-16**] 09:30PM URINE  RBC-1 WBC-1 BACTERIA-FEW YEAST-NONE
+EPI-<1
+[**2181-6-16**] 09:30PM URINE  MUCOUS-RARE
+MICRO
+[**6-16**] Blood cultures x2--no growth
+[**6-17**] MRSA Screen
+-[**2181-6-17**] 2:08 am MRSA SCREEN      Source: Nasal swab.
+
+                            **FINAL REPORT [**2181-6-19**]**
+
+   MRSA SCREEN (Final [**2181-6-19**]):    No MRSA isolated.
+
+IMAGING
+[**6-18**] CTA
+PULMONARY ARTERIES: The main pulmonary artery proximal to the
+bifurcation
+measures 3.5 mm and is dilated. There is a large filling defect
+in the right main, lobar and segmental pulmonary arteries of the
+right lower lobe
+suggestive of a massive pulmonary artery embolism. On the left
+side pulmonary emboli are in the segmental pulmonary arteries of
+the left lower lobe, however, the left main pulmonary artery is
+devoid of any filling defects. However, there is no evidence of
+any septal bulge or cardiac strain. There is minimal left
+pleural effusion and adjacent basal atelectasis. Bilateral lungs
+showing moderate-to-severe emphysema changes with diffuse
+subpleural interstitial thickening and fibrosis, which is lower
+lobe prominence. Diffuse heterogeneity of the lungs is
+attributed to the air trapping. The features are suggestive of
+emphysema with chronic interstitial lung disease.
+
+Mediastinum: Imaged thyroid gland is normal. There are multiple
+enlarged
+mediastinal lymph nodes at all stations, for example, the right
+upper
+paratracheal lymph node measures 1.6 x 1.4 cm. No pathologic
+enlargement of supraclavicular and axillary lymph nodes. There
+is mild-to-moderate
+cardiomegaly without pericardial effusion. Calcification in the
+coronary
+arteries and the aortic arch is mild-to-moderate .
+
+ABDOMEN: Study is not tailored for evaluation of the abdomen;
+however,
+limited views revealed non-calcified plaque measuring 1.7 x 0.9
+cm in the
+abdominal aorta (3:75) along the posterior wall causing less
+than 50%
+narrowing of the aortic lumen. Limited views of liver, spleen,
+both kidneys and pancreas are unremarkable.
+
+BONES: Bones are of diffusely low density with multiple small
+osteolyt

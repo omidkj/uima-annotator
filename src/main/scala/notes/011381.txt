@@ -1,0 +1,198 @@
+Admission Date:  [**2162-12-28**]              Discharge Date:   [**2163-1-23**]
+
+Date of Birth:  [**2083-8-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 425**]
+Chief Complaint:
+Chest pain, shortness of breath, diarrhea, chills
+
+Major Surgical or Invasive Procedure:
+DC cardioversion x 2
+
+History of Present Illness:
+79 year old man with a PMH of CABG [**92**] years ago, CVA, HTN, DM,
+CKD (? baseline Cr.), who presents with SSCP that started on the
+afternoon of [**2162-12-26**], associated with shortness of breath. The
+pain has been intermittant, lasting between 5 and 20 minutes.
+Also starting [**12-26**], he has had nausea, diarrhea (liquid
+brown-green, 20+ bm per day per his report), dysuria, and
+shaking chills. He has had dysuria and frequency as well. He
+denies vomiting. He denies recent antibiotics or
+hospitalizations. He recently forgot his nitro patch when he was
+vacationing in [**State **].  He also has not been taking his insulin
+(lantus) because he felt he didn't need it as he was not eating
+much with his diarrhea and other complaints.
+.
+Patient became CP free in the ED with 2 x SL NTG.  He was found
+to have a troponin leak (ruled in for NSTEMI), UTI, DKA
+(resolved in ED) and was admitted to the [**Hospital Unit Name 196**] service, where he
+was maintained on medical management with ASA, BB, statin, nitro
+gtt, no heparin as pt w/ hematuria.  For his UTI, he was started
+on levofloxacin.  He was also started empirically on flagyl for
+C Diff.
+.
+Patient was stable on floor until morning of [**12-31**] when medical
+team got called that patient was c/o chest pain.  On eval, pt
+noted to be in sustained VT, semi-stable with HR 160's and BP
+80's/60's.  Patient was given 5mg IV lopressor x 1, lidocaine
+100mg IV x 1, and was transferred to CCU and cardioverted with
+180 joules.  VT became polymorphic -> monomorphic with
+lidocaine.  He was then given an amiodarone bolus (150mg over 10
+minutes) and started on amiodarone drip 1mg/min x 6 hours and
+0.5mg/min x 18 hours.
+.
+Currently patient in AFib, good rate control, BP stable,
+mentating well, no complaints of chest pain/pressure, shortness
+of breath.  c/o penile discomfort [**2-3**] catheter.
+.
+
+Past Medical History:
+PMHx:
+1.) CAD s/p CABG [**92**] years ago - His family states that they have
+breached the subject of PCI on multiple occasions with his
+longstanding friend and cardiologist in [**Location (un) 5131**] ([**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 3315**]) and have always opted for conservative, medical,
+management. Given his multiple medical issues the plan is to do
+as little as possible re: interventions.
+Per family, last cath 4 years ago - will obtain OSH records.
+2.) s/p CVA (no obvious residual defecits)
+3.) HTN
+4.) DM (type 2 on lantus, glipizide)
+5.) CKD (? baseline Cr)
+6.) ? Hx. A fib?
+7.) CHF
+RECENT ECHO [**2162-12-29**]: EF 35%
+Conclusions:
+The left ventricular cavity size is normal. Overall left
+ventricular systolic function is moderately depressed.
+[Intrinsic left ventricular systolic function is likely more
+depressed given the severity of valvular regurgitation.] Resting
+regional wall motion abnormalities include inferior and
+inferolateral akinesis/hypokinesis and distal anterior septal
+and apical akinesis/hypokinesis. Right ventricular chamber size
+and free wall motion are normal. The aortic valve leaflets are
+moderately thickened. There is mild aortic valve stenosis. Trace
+aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Moderate to severe (3+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+Social History:
+Married, children, lives on [**Location (un) **], [**Doctor Last Name 6165**] in [**State **], no
+etoh, former smoker (quit 40 yrs ago).
+
+Family History:
+non-contributory
+
+Physical Exam:
+96.9 84-94 122/66 24 100 on 2L
+Mildly tachypneic, but NAD
+Pleasant, alert, oriented, interactive, hard of hearing
+Crackles to bilateral bases
+Reg, systolic murmur [**2-7**]
+Midline thoracotomy scar -old
+Abd soft, nd, nt, bs+
+Incontinent of loose, green-brown stool, Guaiac neg. Mild
+scrotal edema
+Foley catheter in place, draining bloody urine (? foley trauma).
+
+Tr Rt. LE edema (SVG from this side)
+No lt. le edema
+No calf tenderness or palpable venous cord.
+Some ecchymoses
+no rash
+Gait and station not tested.
+
+Pertinent Results:
+[**2162-12-28**] 11:55AM   WBC-20.8* RBC-3.37* HGB-11.6* HCT-33.5*
+MCV-100* MCH-34.4* MCHC-34.5 RDW-13.7
+[**2162-12-28**] 11:55AM   PLT SMR-LOW PLT COUNT-116*
+[**2162-12-28**] 11:55AM   PT-18.1* INR(PT)-2.3
+[**2162-12-28**] 11:55AM   CALCIUM-8.2* PHOSPHATE-3.2 MAGNESIUM-1.8
+[**2162-12-28**] 11:55AM   CK-MB-43* MB INDX-5.2
+[**2162-12-28**] 11:55AM   cTropnT-0.97* proBNP-[**Numeric Identifier 33438**]*
+[**2162-12-28**] 11:55AM   CK(CPK)-826*
+[**2162-12-28**] 11:55AM   GLUCOSE-535* UREA N-72* CREAT-2.1*
+SODIUM-127* POTASSIUM-5.3* CHLORIDE-92* TOTAL CO2-19* ANION
+GAP-21
+[**2162-12-28**] 01:45PM   CK(CPK)-732*
+[**2162-12-28**] 01:45PM   CK-MB-44* MB INDX-6.0 cTropnT-1.09*
+.
+ECG on admission: PR prolongation, NSR, LBBB. Vs. old (faxed by
+pcp [**Name Initial (PRE) 767**] [**4-/2159**]) - he had the prolonged PR, and had IVCD, but
+not frank LBBB.
+.
+CXR on admission - moderate CHF
+.
+CXR [**2162-12-29**]: Mild CHF.
+.
+ECHO [**2162-12-29**]: EF 35%
+Conclusions:
+The left ventricular cavity size is normal. Overall left
+ventricular systolic function is moderately depressed.
+[Intrinsic left ventricular systolic function is likely more
+depressed given the severity of valvular regurgitation.] Resting
+regional wall motion abnormalities include inferior and
+inferolateral akinesis/hypokinesis and distal anterior septal
+and apical akinesis/hypokinesis. Right ventricular chamber size
+and free wall motion are normal. The aortic valve leaflets are
+moderately thickened. There is mild aortic valve stenosis. Trace
+aortic regurgitation is seen. The mitral valve  leaflets are
+mildly thickened. Moderate to severe (3+) mitral regurgitation
+is seen. The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension. There
+is no pericardial effusion.
+.
+PROCEDURE DATE: [**2163-1-4**]
+INDICATIONS FOR CATHETERIZATION:
+Coronary artery disease. s/p CABG. Ventricular tachycardia.
+NSTEMI.
+Chest pain.
+FINAL DIAGNOSIS:
+1. Native three vessel and left main coronary artery disease.
+2. Patent SVG-RCA and SVG-D. Stenosis of the proximal SVG-LAD.
+3. Successful stenting of the proximal SVG ( to LAD)
+COMMENTS: 1. Selective coronary angiography demonstrated severe
+native three vessel and left main coronary artery disease in
+this right
+dominant circulation. The LMCA had a 60% stenosis in the distal
+vessel.
+The LAD was totally occluded proximally. A small diagonal branch
+with
+diffuse disease filled from the SVG-D. The distal LAD was
+diffusely
+diseased. A ramus intermedius is present without flow limiting
+disease.
+The LCX was totally occluded in the ostium. The RCA was totally
+occluded
+in the proximal vessel. The distal RCA filled via the SVG-RCA.
+2. Graft angiography demonstrated the SVG-RCA with a distal 50%
+stenosis
+at the touchdown site. The SVG-D was patent. The SVG-LAD had an
+80%
+proximal stenosis, moderate mid vessel disease, and a
+moderate-severe
+stenosis proximal to the touchdown site.
+3. Left ventriculography not performed to reduce contast load.
+4. Limited resting hemodynamics demonstrated mild systemic
+arterial
+hypertension.
+5. Successful stenting using a 2.0 X 18mm Mini vision bare metal
+stent
+and post dilation using a 2.5 X 15mm NC Ranger balloon of the
+proximal
+SVG (to LAD) with lesion reduction from 80% to 10%. The final
+angiogram
+showed TIMI III flow with no dissection or embolisation.
+.
+[**2163-1-16**] CXR: An endotracheal tube has been withdrawn slightly in
+the interval, now terminating approximately 4.5 cm above the
+carina. Other indwelling devices are unchanged in position. The
+heart remains enlarged and there is persistent vascular
+engorgement. There is a bilateral asymmetrical patt

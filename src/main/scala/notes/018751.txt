@@ -1,0 +1,189 @@
+Admission Date:  [**2122-5-19**]              Discharge Date:   [**2122-6-12**]
+
+Date of Birth:  [**2051-10-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamides) / Tape
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+cc: Respiratory failure
+
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+HPI:  This 70 year old female with a history of COPD with trach,
+HTN, and CAD was transfered from [**Hospital1 **] with difficulty
+breathing/broncospasm.  She was noted to have elevated PIP
+(40s), HR 110-120, BP 166/73, given Lasix/Morphine for presumed
+COPD exacerbation and transfered to [**Hospital1 18**].  Here she was treated
+with Albuterol/Atrovent nebs and IV Solumedrol.
+She had been initially admitted to [**Hospital1 18**] on [**2122-4-11**] after
+transfer from [**Location (un) 60966**] for failure to wean.  She had a
+tracheostomy and G-tube placement.  Her course was complicated
+by MAT, steroid induced hyperglycemia, bronchitis, and c.diff
+colitis.
+
+
+Past Medical History:
+1. [**Name (NI) 3672**] Pt has had COPD for 10 to 15 years. She has required
+multiple intubation inthe last 5 years.
+2. HTN
+3. CAD
+4. GERD
+5. S/P TIAs
+6. S/P vertebral fractures
+7. Osteopenia
+
+Social History:
+Pt is married and lives with her husband, she comes from
+[**Name (NI) **] at this time. He is her primary care giver. They have
+seven children who are very involved. She quit smoking 20 years
+ago after smoking 1 PPD for many years. Occasional ETOH. No
+drugs.
+
+
+Family History:
+[**Name (NI) 1094**] father had a CVA at age 38. Her mother died from
+complications of ovarian cancer.
+
+Physical Exam:
+VS
+General alert, responsive trached patient in NAD
+HEENT Pupils unequal, reactive
+
+Pertinent Results:
+[**2122-5-19**] 11:00PM BLOOD WBC-18.8*# RBC-3.19* Hgb-10.0* Hct-29.1*
+MCV-91 MCH-31.4 MCHC-34.4 RDW-14.7 Plt Ct-307#
+[**2122-5-19**] 11:00PM BLOOD Neuts-89.5* Lymphs-7.1* Monos-2.8 Eos-0.3
+Baso-0.2
+[**2122-5-19**] 11:00PM BLOOD PT-11.8 PTT-28.3 INR(PT)-0.9
+[**2122-5-19**] 11:00PM BLOOD Plt Ct-307#
+[**2122-5-24**] 04:46AM BLOOD Fibrino-269
+[**2122-5-19**] 11:00PM BLOOD Glucose-129* UreaN-33* Creat-1.0 Na-129*
+K-5.3* Cl-90* HCO3-29 AnGap-15
+[**2122-5-19**] 11:00PM BLOOD ALT-17 AST-18 LD(LDH)-285* CK(CPK)-29
+AlkPhos-69 Amylase-38 TotBili-0.4
+[**2122-5-19**] 11:00PM BLOOD Lipase-27
+[**2122-5-20**] 08:08AM BLOOD CK-MB-2 cTropnT-0.01 proBNP-9437*
+[**2122-5-19**] 11:00PM BLOOD Albumin-3.4 Calcium-8.7 Phos-6.0*# Mg-1.7
+[**2122-5-24**] 04:46AM BLOOD calTIBC-192* VitB12-667 Folate-15.4
+Ferritn-854* TRF-148*
+[**2122-5-23**] 05:18PM BLOOD Vanco-55.7*
+[**2122-5-19**] 10:53PM BLOOD Type-ART pO2-472* pCO2-62* pH-7.31*
+calHCO3-33* Base XS-3
+[**2122-5-19**] 10:53PM BLOOD Glucose-140* Lactate-1.0 Na-127* K-5.6*
+Cl-91*
+[**2122-5-23**] 10:13AM BLOOD TRYPTASE-Test
+
+Brief Hospital Course:
+1. Respiratory failure - This 70 year old female with severe
+COPD s/p trach was transfered from Rehab with respiratory
+failure most likely secondary to COPD exacerbation.  Her
+respiratory failure was felt to be most likely bronchospastic
+secondary to severe COPD and superimposed infection.  She might
+also have some component of fluid overload.  She was started on
+broad spectrum antibiotics given high risk since she was coming
+from a nursing home.  She was started on Vancomycin for possible
+MRSA and Zosyn for broad coverage including Pseudomonas.  On [**5-20**]
+she grew Stenotrophomonas in her sputum and Timentin was added
+for coverage.  On [**5-26**] the Zosyn was discontinued, the Vanco was
+discontinued once a 14 day course was complete.  The Timentin
+was continued for a 5 day course.
+  Throughout her hospital stay attempts were made to wean her
+off the ventilator.  She was able to tolerate pressure support
+however every occasion when the PEEP was decreased below 8 she
+had episodes of desaturation and respiratory difficulty.  On [**5-22**]
+a bronchoscopy was performed on which she was noted to have
+posterior membrane collapse on exalation with agitation.
+Numerous further attempts to wean her off the ventilator were
+unsuccessful.  She was continued on steroids and nebs as
+treatment for her COPD.  In addition she was treated briefly
+with IV Aminophyline which she tolerated without complication.
+Based upon this she was started on PO Theophyline which was
+titrated up to obtain levels between 8 and 12.  She was also
+diuresed aggressively for possible fluid overload as a cause of
+increased respiratory failure.
+  On [**5-27**] she began to have copious bloody secretions per
+her trachostomy.  These were initially felt to be due to trauma
+and it they were monitored.  These bloody secretions continued
+for several days and repeat CXR showed increased nodular
+densities.  Given concern for vasculitis vs. trauma vs. other
+cause of hemoptysis.  On [**5-29**] a bronchoscopy was performed which
+showed diffuse oozing blood in all airways, no focal bleeding
+source.  Otherwise the airways were normal and BAL was
+performed.  A chest CT was also performed which showed bilateral
+upper love consolidation with nodular opacification.  She was
+briefly treated with Voriconazole and cyclophosphamide with
+concern for fungal infection vs. vasculitis.  These were d/cd
+given low clinical suspicion as well as a normal ESR and CRP.
+It was felt that the most likely cause of bleeding was still
+trauma for suctioning and the frequency of suctioning was
+decreased.
+Pt continued to be intubated, in discussion with family, her
+code status was changed to comfort measures only and she was
+started on a morphine drip.  Pt died on [**6-12**] from respiratory
+failure.
+.
+2. Hypotension - She had some hypotension post diuresis which
+resolved with fluid.  She had no further hypotension on
+admission.  Her blood pressure was monitored closely.
+.
+3. Throughout admission she had episodes of tachycardia,
+diaphoresis, hypertension, and hypoxia. These episodes were felt
+to be due to agitation.  However other possible causes were
+ruled out.  A Triptase was normal indicating no allergic
+reaction.  Her pain was controlled with morphine.  Psychiatry
+was involved in controlling her agitation.  They felt that she
+might have some level of delerium and held all benzos.  In
+addition she was weaned off her Paxil, however she seemed more
+depressed and it was restarted.  She was treated with Haldol as
+needed for agitation.  She was continued on calcium channel
+blockers for tachycardia.
+- Urine Metanephrines pending to evaluate for pheo. 5HIAA
+pending to evaluate for carcinoid.
+.
+4. C.diff - On admission she had just completed a course of PO
+Vanco for C.diff.  A repeat sample was sent for c.diff assay
+which was negative.  She was monitored for diarrhea given the
+inititation of antibiotics, and had no further diarrhea.
+.
+5. Klebsiella UTI (based on cultures from [**Hospital1 **] - [**5-8**]).  She
+was treated with Zosyn on admission which covered the Klebsiella
+UTI.  Repeat urine cultures here were negative.
+
+6. She had some Hyponatremia on admission which resolved with NS
+IV fluid.
+
+7. CAD/HTN - She was continued on Diltiazem for a.fib and BP
+control. Her Captopril was D/Cd on admission given hypotension.
+.
+8. Anemia. Her HCT dropped at which time she was noted to have
+some guiaic positive stool.  NG lavage was negative.  She will
+need colonoscopy/EGD once active issues resolved.  Her HCT was
+also noted to be dropping at the time of the bloody hemoptysis.
+Her HCTs were checked [**Hospital1 **] and she was transfused to keep her HCT
+greater than 30.
+.
+9. Access - On this admission a second PICC line was placed as
+her single lumen PICC on the left was inadequate for IV
+antibiotics and her multiple other IV medications.
+.
+10. FEN - She was continued on tube feeds via her g-tube on this
+admission.  Her lytes were repleted as needed.
+.
+11. PPx -  She was treated with Heparin SC for DVT prophylaxis.
+She was also treated with a PPI.
+13. Social work and Case Management were involved in her care
+and further dispo.
+14. Code: DNR
+15. Rt LE swelling - LENIs were performed for some LE swelling,
+they were negative for DVT.
+
+Medications on Admission:
+Seroquel, Zanax, Pulmicort, Oscal, Capoten, Cardizem, [**Doctor First Name **],
+Heparin S

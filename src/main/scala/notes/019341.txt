@@ -1,0 +1,186 @@
+Admission Date:  [**2147-10-16**]              Discharge Date:   [**2147-10-20**]
+
+Date of Birth:  [**2083-9-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Fentanyl / Compazine / Dilaudid
+
+Attending:[**First Name3 (LF) 3556**]
+Chief Complaint:
+Altered mental status
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+History of Present Illness (adapted from Med Consult Note by Dr.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6137**] and Neurology Note by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]):
+64 F with HCV, initially admitted to [**Hospital6 20592**] with mental status changes and fever. Per her husband,
+she was found speaking "gibberish" and groaning, not following
+commands. On the way to the hospital, they had stopped at a
+railroad crossing, at which time she tried to exit the vehicle,
+and needed to be restrained.
+.
+Of note, she had presented to her PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 15131**], at [**University/College **]
+Mass on [**10-11**] with a herpetic-rash on the right side of her face
+and back. These were cultured and grew MSSA, and treated with
+Bactroban and Keflex.
+.
+Her review of systoms is otherwise negative. Specifically, she
+has had no recent travel history, any hiking or any recent sick
+contacts or unusual exposures. According to the husband, the
+patient was fine about 1 week ago.
+.
+At [**Location (un) **], a head CT showed bilateral subarachnoid hemorrhages.
+In addition, her laboratory values were significant for a plt
+62, Hct 28, Cr 1.6, and TBili 2.2. Of note, in [**2147-4-18**], her plt
+was 231 and Hct 33. Her creat in [**2146-5-19**] was 0.7.
+.
+Of note, her [**Location (un) **] labs also included a tox screen that was
+positive for benzos, amphetamines, and opiates.
+.
+She was transferred to the neurosurgery service here at the
+[**Hospital1 18**]. Here, she was loaded with dilantin, a R radial A-line
+placed, and CT imaging performed of her head and neck. This
+showed subarachnoid hemorrhages in her right frontal, left
+frontal, and left parietooccipital lobes. In addition, a 2-mm
+aneurysm from the supraclinoid internal carotid artery was
+visualized, as well as a subcentimeter lesion along the left
+parietotemporal lobe likely representing a meningioma. An LP was
+also performed, which showed 450 RBCs, 110 WBCs, with 81% polys
+and 14% bands. She was given vanco, ceftriaxone, ampicillin, and
+acyclovir.
+.
+Her course here is also significant for finding of a cool,
+cyanotic right hand after placement of the right radial A-line.
+
+
+Past Medical History:
+Hepatitis C, according to husband pt has been treated with an
+incomplete course of Interferon in the past at [**Hospital3 2358**]
+unsuccessfully; he denies any h/o cirrhosis but he is a poor
+historian
+Anemia (unclear baseline or etiology)
+Fibromyalgia
+Depression
+s/p tubal ligation
+s/p D&C
+s/p tonsillectomy
+
+
+Social History:
+married, lives with husband; former ER nurse, abruptly ended
+job, but never gave an explanation to husband or family; no
+Etoh; h/o IVDU
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+On admission:
+Vitals - Tm 102.1, Tc 98.1, BP 116/68, HR 113, RR 32, O2 sat
+100%, wt 54.2 kg
+AC 450x20/0.4/5.0
+General - Intubated and sedated
+HEENT - Sclera anicteric, PERRL, C-collar in place
+CV - tachy, but regular; [**1-24**] syst mur best heard at apex
+Chest - Course ventilated breath sounds, but grossly CTAB
+Abd - no stigmata of chronic liver diseasea; NABS, soft, NT/ND,
+no g/r; no hepatosplenomegaly; R femoral A-line c/d/i
+Ext - no edema; R hand, and bilat L>R feet cool and cyanotic
+appearing
+Skin - no patechia; ? [**Last Name (un) 1003**] & Oslers lesions on L hand
+
+
+Pertinent Results:
+AP Chest ([**10-16**]) - The tip of an endotracheal tube projects
+approximately 2.9 cm above the carina.  The proximal sideport of
+a nasogastric tube is below the diaphragm though the tip courses
+below the confines of the radiograph. The cardiomediastinal
+silhouette is unremarkable, and the lungs are grossly clear
+without evidence of overt edema. There is no evidence of pleural
+effusion or pneumothorax.
+.
+CTA Head/Neck ([**10-16**]): Several foci of subarachnoid hemorrhage
+in the right frontal, left frontal, left parietooccipital lobes
+are noted.  There is minimal associated edema without evidence
+of mass effect or infarction.  A 5-mm extra-axial lesion (2, 18)
+along the left parietotemporal lobe may represent a meningioma.
+The carotid and vertebral arteries and their major branches are
+patent with no evidence of stenosis.  There is a 2-mm aneurysm
+in the posterior margin of the supraclinoid internal carotid
+artery.
+.
+CT Head ([**10-17**]): New 4 mm hemorrhage within the left posterior
+thalamic region. In conjunction with evidence of one and
+possibly two infarcts within the left parietal lobe region, as
+well as the rather posteriorly situated area of subarachnoid
+blood, it seems unlikely that the left supraclinoid internal
+carotid artery aneurysm is cause for any of the hemorrhagic or
+ischemic lesions seen.  Trauma could certainly account for the
+subarachnoid hemorrhage but would seem less likely as a cause of
+the thalamic hemorrhage.
+
+
+Brief Hospital Course:
+64 F with Staph Aureus bacteremia including endocarditis,
+pneumonia, and meningitis.
+.
+Bacteremia/septic shock - GPC cultures growing from blood,
+urine, and sputum, with wbc in CSF and vegetations on mitral
+valve.  Possibly stemming from recent MSSA skin lesion.  PT
+started on gentamycin, vancomycin and acyclovir, but was
+switched to nafcillin as cultures showed MSSA.  C/s ID for
+appropriate antibiotic use.  Gave fluid bolluses to maintained
+BP, but eventulally ussed pressors to continue to support BP
+.
+Respiratory failure - Intubated in ED for airway protection
+respiratory alkalosis.  Morphine for comfort while intubated
+.
+Endocarditis:  Pt with heart murmer and evidence for Mitral
+regurg and vegitations seen on TTE.  Clinical signs of septic
+emboli throught body.  TEE was performed to better define extent
+of disease, and cardiology and CT surtery were consulted.  Pt's
+family decided to not consider surgery in acute period, so daily
+EKG's were performed to monitor cardiac progress
+.
+AMS: Pt presented with AMS and evidence of SAH on CT scan.
+Given Endocarditis, septic emboli are likely cause, but many
+other possible causes.  Given elevated WBC on LP, could be
+encephalitis, and viral cultures are pending.  Thrombocytopenia
+not severe enough to cause hemorage. There was concern for
+domestic abuse, but pattern of injury does not suggest trauma,
+and other more likely causes. Repeat head CT from [**10-18**] shows no
+new hemorrhage.  Pt showed signs of flaicd paraysis.  Given ICH
+nsgy and neuro recommended to trasnfuse platelets to goal of 70
+and continue dilantin for seizure prophylaxis.  We did not
+administer anticoagulants based on the concern for new or
+reoccurance of intracranial hemorrhage.
+.
+Thrombocytopenia:  Given overal septic picture, likely from DIC.
+ Baseline labs from [**4-24**] with plt in 230s. Schistocytes on
+smear reviewed overnight and an elevated LDH, along with mental
+status changes, fever, and renal failure raises concern for TTP;
+However, Hct stable and normal haptoglobin. Time course too
+rapid for HIT. Recent abx use for treatment of MSSA skin lesion
+may be precipitant for ITP. Cool extremities also raises
+consideration of arterial thrombi.  Abdominal US showed no
+splenic enlargement, so sequestration is less likely.  Heme was
+consulted to hep determine origin and possible treatments.
+.
+Acute renal failure: creat elevated from 0.7 last year; FeNa
+last night consistent with prerenal physiology. TTP also in the
+differential, as are arterial or septic thromboemboli.  Pt was
+hydrated based on CVP, but eventually pt becam anuric.
+.
+Pt had thrombosis of R radial artery, and went to the OR with
+vascular surgery for venous graft.  Post op the venous graft
+clotted as well due to the lack of anticoagulation due to ICH.
+Simutaneously extensive clot burden was extending in the legs
+and throughout the right arm.  The option of amputation was
+discussed with the family, but was decided against given the
+poor prognosis.
+.

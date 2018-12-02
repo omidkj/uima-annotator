@@ -1,0 +1,194 @@
+Admission Date:  [**2149-8-6**]              Discharge Date:   [**2149-8-15**]
+
+Date of Birth:  [**2068-2-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 4963**]
+Chief Complaint:
+difficulty breathing / new onset Atrial fibrillation
+
+Major Surgical or Invasive Procedure:
+Left internal jugular central line catheter placement, w/ swan
+ganz catheter
+
+
+History of Present Illness:
+81 yo female with DM2, PVD, hyperlipidemia, and 50 py tobacco
+abuse hx presents with new onset atrial fibrillation (dx by PCP
+[**First Name8 (NamePattern2) 46**] [**Last Name (NamePattern1) **]), increasing LE edema, DOE, PND.  At ED tachycardic
+to 140s and given IV diltiazem, and PO metoprolol.  Patient then
+experienced episode of bradycardia to the 40s, hypoxia w/
+saturation 70-80% on RA, and hypotension to the low 90's
+systolic.  She was diuresed w/ lasix drip since she was
+considered to be in florid CHF.
+
+Past Medical History:
+DM type II
+hypercholesterolemia
+PVD
+Mitral regurgitation
+Macular degeneration, legally blind
+Rheumatoid arthritis
+Hypothyroidism
+Depression
+Carotid stenosis s/p ?
+Cardiac Risk Factors: Diabetes, Dyslipidemia
+
+
+Social History:
+[**12-31**] ppd x > 50 y tobaccco hx
+denies etoh, ivda
+
+
+Family History:
+Family history is significant for CAD in her father, and her
+paternal grandfather had stomach cancer. Her father also had
+lung cancer. Mother had diabetes and [**Name (NI) 13483**] thyroiditis.
+
+Physical Exam:
+VS - T:95.0   BP:108/82  HR: 58  RR: 22  O2: 100% on Face Mask
+-> 88% on room air
+.
+General: Patient is a thin, pale, frail appearing elderly
+female, appears tired, in mild to moderate respiratory distress,
+wheezing intermittently
+HEENT: NCAT, Sclera anicteric. EOMI
+Neck: Thin, JVP up to ear sitting upright, +hepatojugular reflex
+CV: Irregular, normal S1/S2 without obvious murmurs or gallops
+although limited secondary to lung sounds
+Chest: Mildly tachypneic, diffuse wheezes and rhonchi with
+moderate air movement, prolonged expiratory phase.
+Abdomen: Mildly distended, tympanitic but non-tender to
+palpation. Bowel sounds present but hypoactive. No rebound, no
+guarding
+Rectal: Dark brown stool in rectal vault, guaiac negative
+Extremity: feet cool bilaterally. 1+ pitting edema
+
+Pertinent Results:
+[**2149-8-6**] 12:00PM BLOOD WBC-6.6 RBC-3.21* Hgb-9.8*# Hct-29.7*#
+MCV-92# MCH-30.6 MCHC-33.1 RDW-14.2 Plt Ct-349
+[**2149-8-6**] 12:00PM BLOOD Neuts-77.2* Lymphs-17.3* Monos-3.5
+Eos-1.7 Baso-0.3
+[**2149-8-7**] 01:33PM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-2+
+Macrocy-NORMAL Microcy-NORMAL Polychr-OCCASIONAL Ovalocy-1+
+Schisto-1+ Burr-2+
+[**2149-8-6**] 12:00PM BLOOD Glucose-194* UreaN-17 Creat-1.1 Na-132*
+K-5.1 Cl-99 HCO3-24 AnGap-14
+[**2149-8-8**] 01:30AM BLOOD Glucose-219* UreaN-34* Creat-2.0* Na-132*
+K-5.0 Cl-101 HCO3-17* AnGap-19
+[**2149-8-12**] 06:55AM BLOOD Glucose-105 UreaN-23* Creat-1.0 Na-140
+K-3.8 Cl-106 HCO3-24 AnGap-14
+[**2149-8-7**] 06:30AM BLOOD ALT-352* AST-416* LD(LDH)-680* CK(CPK)-59
+AlkPhos-131* TotBili-0.7
+[**2149-8-7**] 04:04PM BLOOD ALT-2399* AST-3918* LD(LDH)-3310*
+AlkPhos-113 Amylase-35 TotBili-0.4
+[**2149-8-8**] 01:30AM BLOOD ALT-3547* AST-6027* LD(LDH)-3920*
+AlkPhos-103 TotBili-0.3
+[**2149-8-11**] 03:45AM BLOOD ALT-1087* AST-355* LD(LDH)-253*
+AlkPhos-77 TotBili-0.6
+[**2149-8-6**] 06:45PM BLOOD CK-MB-NotDone cTropnT-0.01 proBNP-3778*
+[**2149-8-7**] 01:00AM BLOOD CK-MB-NotDone cTropnT-0.01
+[**2149-8-7**] 10:04AM BLOOD Glucose-150* Lactate-3.9* Na-130* K-6.7*
+Cl-107
+[**2149-8-7**] 11:27AM BLOOD Lactate-4.4* K-5.0
+
+Brief Hospital Course:
+Patient is a 81 yo female with hx type 2 DM, hyperlipidemia, +50
+pack year tobacco abuse history, PVD who presented with dyspnea,
+new onset afib and decompensated systolic CHF.
+
+#PUMP
+Patient initially presented w/ CHF symtoms and was diuresed as
+well as rate controlled for new onset atrial fibrillation.  Rate
+control was likely overzealous, and given low ejection fraction
+in setting of structural heart disease, patient experienced
+hypotension and systemic hypoperfusion.  Echo in setting of
+decompensation on revealed severely depressed EF (10-20%) with
+global hypokinesis and relative akinesis of the septum and basal
+inferior walls as well as 4+ TR and 2+ MR.  She was transferred
+to the CCU for management of CHF in setting of renal failure,
+and rising liver function tests.  The initial differential in
+the CCU included sepsis (broad spectrum antibiotics were
+initiated), CHF (lasix was given), viral / other hepatitis
+(supportive care given).  A swan ganz catheter was placed in the
+CCU and revealed a low-normal cardiac index and normal SVR.
+Patient was observed and nodal agents were witheld; gentle
+diuresis was also continued for overloaded state.  Diagnosis of
+ARF and shock liver were made given sustained hypotension and
+bradycardia in setting of systemic decompensation.  Renal
+function and LFT's returned toward baseline as SBP's and HR
+increased.  Broad spectrum antiobotics were discontinued.
+Digoxin 0.0625 mg and lisinopril 20 mg daily were started for
+CHF. Lisinopril was increased to 40mg daily.  Metoprolol was
+also given, however this was discontinued since it was thought
+to contribute to impaired respiratory status / wheezing. Patient
+was put back on her home lotensin for discharge.
+
+#. Rhythm -
+Patient presented with atrial fibrillation and subsequently was
+converted to sinus bradycardia with nodal agents.  Beta blockade
+was initially used for rate control however was discontinued
+given respiratory status. It was restarted on the day prior to
+discharge at low dose. Heparin was initiated for paroxysmal afib
+and used to bridge coumadin until INR was >2. The patient will
+continue coumadin with INR checks as outpatient. PT also noted
+to have prolonged QT interval, stable, was recommended to
+continue to follow as an outpatient.
+
+#. CAD / Ischemia - Patient has not had a "known" MI, however
+presents with EKG findings such as inferior and lateral q's on
+EKG as well as ventricular hypokinesis on echo which signify
+likely CAD.  ASA was initiated as well as beta blockade; the BB
+was stopped for above mentioned reasons and restarted.
+
+#Transaminitis
+As mentioned LFTs began to increase on hospital day 2 and peaked
+in the thousands on hospital day 3.  Subsequently they trended
+down. Hepatitis serologies were sent and were negative except
+for HAV IgG positivity. HAV IgM was negative. The transaminitis
+was considered secondary to prolonged hypotension in setting of
+acute decompensation.
+
+#. Dyspnea/Hypoxia
+Patient became quite hypoxic initially. In the CCU patient was
+considered to have a COPD flare (despite lack of hx of COPD,
+extensive smoking abuse and exam suggested otherwise) as well as
+cardiogenic wheezing from failure.  Diuresis was performed as
+mentioned.  For suspected COPD flare the patient was initiated
+on levofloxacin and a prednisone taper starting at 60 mg daily.
+Levofloxacin was changed to doxycycline given risks of QT
+prolongation. The patient was restarted on lasix 20mg po daily
+prior to discharge. Patient will need to complete 3 additional
+days of 20mg PO prednisone at home.
+
+#. ARF / Hyperkalemia
+Patient had an increasing creatinine (max 2.0, baseline 1.0)
+level during decompensation which was also considered [**1-31**]
+hypotension and pre-renal causes.  Renal ultrasound was
+negative.  Creatinine trended down as heart function improved.
+Patient initially experienced hyperkalemia (up to max 7.3,
+without ekg changes) and was treated appropriately.  As renal
+function improved along with diuresis, K returned to [**Location 213**] and
+occasionally required supplementation.
+
+#. DM
+Initially patient had poorly controlled BS in setting of
+decompensation (BS > 400).  An insulin gtts was initiated and
+then converted to lantus / humalog sliding scale with good
+control. She later developed hypoglycemia and her dose of lantus
+was decreased to 18UQHS. We are discharging her on 10U of lantus
+as she will be completing her prednisone taper.
+
+#. Hypothyroidism
+Home synthroid was continued.
+
+#. Anemia
+Stable normocytic anemia; outpatient f/u is appropriate.
+
+#. Depression
+Home meds of Lexapro, Seroquel, Lithium were withheld initially
+during decompensa

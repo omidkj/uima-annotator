@@ -1,0 +1,138 @@
+Admission Date:  [**2138-8-7**]              Discharge Date:   [**2138-8-13**]
+
+Date of Birth:  [**2072-12-18**]             Sex:   F
+
+Service: [**Hospital Unit Name 196**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+History of Present Illness:
+65yoF with h/o COPD initially admitted to [**Hospital3 3834**] on
+[**8-5**] with respiratory failure. At the time, pt had several days
+of increased productive cough and progressive shortness of
+breath. She required intubation in the field despite a previous
+DNR/DNI. While at [**Hospital3 **], she was treated with
+steroids/nebs for COPD, Ceftriaxone/Azithromax for
+COPD/Pneumonia, and diuresed for question of CHF. Patient had an
+elevated BNP and troponin and developed anterior ST elevations
+and then TWI--thus was transferred to [**Hospital1 18**] for cardiac
+catheterization.
+
+Past Medical History:
+COPD
+DM2
+CAD(s/p NQWMI)
+hypercholesterolemia
+s/p hysterectomy
+
+Social History:
+Pt has >100pk/yrs and continues to smoke
+Has supportive involved family
+Worked as a bookkeeper until recently
+
+Family History:
+non-contributory
+
+Physical Exam:
+t 98.4 hr 83 BP 138/60 RR 18 SaO2 99%
+AC 400/12/Peep=5/FiO2=0.4
+GEN:Sedated intubated
+HEENT:Poor dentition
+CHEST:diffuse expiratory wheezing
+CV:RR no murmurs
+ABD:Soft, NT/ND, normal bowel sounds
+EXT:no edema
+Skin: no rashes
+
+Pertinent Results:
+notable for WBC of 17 with 57polys and 17 bands
+ABG 7.37/64/161
+
+Brief Hospital Course:
+65yo F with COPD and respiratory failure transferred for cardiac
+catheterization.
+
+1)Cardiovascular:Pt underwent cardiac cath on [**8-8**], which
+revealed normal coronary arteries, Mildly elevated PA pressures
+(34mmHg), wedge of 12, and EF 55% with normal LV wall motion.
+Pts ASA, beta blocker were discontinued by the cardiology
+service, however her ACE inhibitor was continued and she was
+started on verapamil for persistent tachycardia and hypertension
+post extubation.
+
+2)Respiratory Failure: Pt respiratory initially felt to be
+multi-factorial with a component of CHF in addition to COPD
+flare. Pt was thus diuresed aggressively, both at [**Hospital3 **]and while on the CCU service. Pt was extubated successfully on
+[**8-10**], however she continued to require frequent nebulizer
+treatments for the first 24h, at present she is requiring them
+q4h. Steroids were continued and were reduced to 20mg of
+Prednisone on the day of discharge. Our feeling is that these
+could be tapered rather rapidly given the deleterious effects on
+the patients glucose control and her delerium. Patient is
+currently on day [**9-23**] day course of ceftriaxone to treat
+presumed community acquired pneumonia, and completed a 3d course
+of azithromax.
+
+3)Leukocytosis:despite decreasing doses of steroids, the
+patients WBC has increased to 33 on [**8-12**]. She has been cultured
+broadly and has blood and urine cultures pending at this time.
+There is no current evidence of pneumonia on her CXR. If the
+patient begins to stool we will send it for C.Diff
+
+4)Delerium:Post extubation patient was confused and
+agitated--this was felt to be multifactorial and due to
+hypernatremia(a peak of 151), steroids, and critical illness.
+She was treated symptomatically with Haldol and Risperdal PRN
+and showed continued improvement as her sodium returned to
+[**Location 213**] (142 on [**8-12**]) and steroids were reduced. At the present,
+she is oriented to person and place but continues to express
+paranoid ideology regarding people "comming to get me."
+
+5)Code status: Prior to intubation, patient had expressed a wish
+to be DNR/I.  The events surrounding her intubation remain
+unclear. A family meeting was held with the CCU staff on [**8-10**]
+prior to extubation and the patient was confirmed DNR/DNI.
+
+6)Dispo:Patient will be transferred back to [**Hospital3 7571**]as it
+is closer to home and easier for her family to visit her there.
+She continues to improve and will likely be ready for rehab in
+the next few days.
+
+Medications on Admission:
+mucomyst
+combivent
+ASA
+lipitor
+Azithromax
+Ceftriaxone
+Plavix
+Fentanyl drip
+Protonix
+Lisinopril
+Solumedrol
+Integrilin gtt
+heparin gtt
+Metoprolol
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Respiratory Failure
+COPD
+Delerium
+
+
+Discharge Condition:
+good
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

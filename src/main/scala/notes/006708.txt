@@ -1,0 +1,236 @@
+Admission Date:  [**2100-12-11**]              Discharge Date:   [**2100-12-24**]
+
+Date of Birth:  [**2045-6-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 8388**]
+Chief Complaint:
+Chief Complaint: anasarca, need for start of HD
+Reason for MICU admission: hypoxemia and tachycardia
+
+
+Major Surgical or Invasive Procedure:
+[**12-21**], [**12-22**], [**12-23**]- hemodialysis
+Paracenteses x3
+Initation of CVVH and Hemodialysis.
+Tunnelled dialysis catheter placed.
+PICC line placement
+
+
+History of Present Illness:
+55 year old man with Afib, dilated cardiomyopathy, alcoholic
+cirrhosis, COPD, ESRD; presenting to ED w/ anasarca not
+responsive to Lasix. He has noted increased shortness of breath,
+pedal edema, orthopnea, and cough x 3 days. Has gained 13 pounds
+at rehab over the last week. Increased diuresis was attempted at
+rehab (80 mg IV lasix TID). He was seen by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4883**] at his
+rehab, decision to admit for initiation of HD (?CVVHD vs. daily
+HD). Will need a line for HD. Other ROS at rehab notable for
+several days of lower extremity redness concerning for
+cellulitis (not recently on antibiotics) and dropping
+hematocrits with guiaiac positive stools (in setting of
+supratherapeutic on coumadin) necessitating 2 units PRBCs over
+the last two days.
+.
+In the ED, initial vs were: T98.9 76 115/82 20 98% on 6L. HRs
+mostly in 120s. BPs in low 100s. Tried and then refused bipap
+and facemask. 90% on 6L. Patient was given vanc, zosyn, 80 mg
+lasix plus zaroxlyn 5 mg.
+.
+In the MICU, patient sleepy but arousable. Denies pain
+complaints. Does endorse cough, nonproductive of sputum.
+Endorses that he is DNR/DNI but does not provide further
+history.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, headache, blurry vision, shortness of
+breath, chest pain or tightness, palpitations. Denied nausea,
+vomiting, diarrhea, constipation or abdominal pain.
+
+
+Past Medical History:
+- CKD - baseline unclear ?in [**3-23**].5 range
+- Afib usually on coumadin.
+- COPD on 2-4L O2 at rehab
+- EtOH cirrhosis. History of hepatic encephalopathy. Had
+transjugular liver biopsy at [**Hospital1 112**] on [**11-23**].
+- Congestive heart failure - R heart failure with TR (?due to
+pericardial disease)
+- recurrent LE cellulitis; recently on a course of IV vancomycin
+through [**2100-11-17**]. Had a hematoma evacuated on [**2100-11-21**].
+- HTN
+- Morbid obesity
+- Lymphedema of lower extremities
+- h/o idiopathic constrictive pericarditis s/p pericardial
+stripping in [**2083**]
+- Psoriasis
+- History of MRSA cellulitis
+
+
+Social History:
+Currently living at [**Hospital 100**] Rehab. On disability. Past smoker and
+EtOH abuse of unclear duration.
+
+Family History:
+noncontributory
+
+Physical Exam:
+ADMISSION EXAM:
+General: Lethargic but arousable. When awoken, appropriate and
+oriented x3, but falls asleep easily (mid-conversation). Mildly
+tachypneic with pursed lip breathing at times.
+HEENT: PERRL, R subconjunctival hemorrhage with much more mild
+erythema of L sclera as well. EOMI. MM slightly dry.
+Neck: supple, JVD elevated at least to ear at 30 degrees with
+prominent neck vein distension.
+Lungs: Poor effort. Clear to auscultation on right, diminished
+breath sounds on left.
+CV: Irregularly irregular, S1 + S2 with loud P2, [**2-26**] SM at LLSB,
++RV heave.
+Abdomen: slightly tense, non-tender, prominent distension with
+peripheral dullness, bowel sounds present, no rebound tenderness
+or guarding. Abdominal wall edema also present.
+Ext: L arm with 3+ edema, R arm with minimal edema. PICC site
+benign appearing. Lower extremities with 4+ edema; anterior
+shins covered with thick yellow scaly skin; generalized venous
+stasis changes. L anterior shin with large ulceration, no
+bleeding or purulent drainage.
+
+DISCHARGE VS: T 97.6 HR 89 BP 103/ 52 RR 18 SaO2 100% 3L NC
+
+Pertinent Results:
+WBC 7.8  N82.2  L8.1  M5.2  E4.0  B0.5
+Hct 28.0 MCV 90
+Plts 223
+PT 17.2  PTT 33.4   INR 1.6
+
+138     98     113
+4.9     30     3.8
+
+Ca 9.2  Mg 2.7   Phos 6.4
+ALT 10 AST 19 LDH 157  CK 23  AlkP 97  Tbili 0.8
+Tprot 7.6   Alb 3.3   Globuln 4.3
+Trop 0.11
+BNP [**Numeric Identifier 38477**]
+Dig 0.3
+
+ABG  7.25/76/84/35
+lactate 1.3
+UA large blood 741 RBC's, neg nitrite, large LE, >1000 WBC's
+many bacteria, 100 protein, neg ketones and glucose
+
+BCx negative x2 [**12-11**]
+URINE CULTURE (Final [**2100-12-13**]):
+      ENTEROBACTER CLOACAE.    >100,000 ORGANISMS/ML..
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROBACTER CLOACAE
+                             |
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------   128 R
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+Influenza A and B negative by DFA
+Peritoneal fluid pending
+
+Ascites  WBC 235  Poly 61  L1  Mono 11  Macroph 27
+RBC 205
+Tprot 3.7
+Glucose 130
+LDH 120
+Alb 1.7
+
+[**12-10**] EKG
+Tracing is suspicious for reversal of left arm and left leg
+electrodes.
+Atrial fibrillation, average ventricular rate 120, with right
+bundle-branch block (possibly rate-related) with secondary
+repolarization abnormalities in most leads, but primary
+repolarization abnormalities in leads II and V6. Low limb lead
+voltage. Poor anterior R wave progression, question normal
+variant versus prior anterior wall myocardial infarction.
+Compared to the previous tracing of [**2083-12-13**] atrial fibrillation
+with a rapid ventricular response has replaced sinus rhythm and
+right bundle-branch block is more pronounced. Low limb lead
+voltage and poor R wave progression are new. Differential
+includes pericardial effusion, worsened pulmonary process, and
+ischemia. Clinical correlation is suggested.
+
+[**12-11**] EKG
+Atrial fibrillation with a rapid ventricular response. Right
+bundle-branch
+block. Non-specific ST-T wave changes. Low voltage in the limb
+leads.
+Compared to the previous tracing there is no significant change.
+
+
+[**12-11**] Echo
+IMPRESSION: Marked right ventricular cavity enlargement with
+free wall hypokinesis. Moderate pulmonary artery systolic
+hypertension. Moderate to severe tricuspid regurgitation.
+Mild-moderate mitral regurgitation.
+[**12-11**] CXR
+
+A bedside upright radiograph of the chest in the frontal
+projection was
+obtained with the patient slightly rotated. Note is made of
+cardiomegaly. In addition, there is diffuse engorgement of the
+pulmonary vasculature. Left basal atelectasis is also noted. A
+right pleural effusion is small. Multiple sternotomy wires are
+visualized, one of which is fractured.
+
+IMPRESSION: Cardiomegaly and pulmonary vascular engorgement .
+
+[**12-11**] UE u/s
+
+No evidence of deep venous thrombosis in the left upper
+extremity.
+
+[**12-11**] BLE u/s
+
+Limited study secondary to patient discomfort and marked lower
+extremity
+edema. The calf veins were not interrogated secondary to
+overlying dressings. No DVT in the bilateral lower extremities.
+Non-compressibility of the right common femoral vein and
+superficial femoral vein is attributed to marked lower extremity
+edema.
+
+[**12-13**] CXR
+
+FINDINGS: As compared to the previous examination, there is no
+relevant
+change. Perihilar haziness and increase in diameter of the
+pulmonary
+vasculature suggests mild-to-moderate pulmonary edema. In
+addition, a
+preexisting left-sided consolidation in the basal lateral parts
+of the thorax could suggest a combination of pleural effusion
+and subsequent atelectasis.  The fact that this opacity is
+completely unchanged since [**2100-12-11**] makes pneumonia
+rather

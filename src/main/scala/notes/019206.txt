@@ -1,0 +1,217 @@
+Admission Date:  [**2197-1-3**]              Discharge Date:   [**2197-1-20**]
+
+Date of Birth:  [**2112-2-19**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Aspirin
+
+Attending:[**First Name3 (LF) 3376**]
+Chief Complaint:
+Anemia.
+
+Major Surgical or Invasive Procedure:
+[**2197-1-5**] Colonoscopy
+[**2197-1-11**] Colonoscopy
+
+[**2197-1-12**]
+1. Open ileocecectomy.
+2. Takedown splenic flexure.
+3. Partial left colectomy with stapled #28 colocolostomy
+
+
+History of Present Illness:
+PCP:
+[**Name Initial (NameIs) 7274**]: [**Last Name (LF) **],[**First Name3 (LF) 2946**] S.
+Location: [**Hospital1 **] HEALTHCARE - [**State 3753**]GROUP
+Address: [**State **], [**Apartment Address(1) 3745**], [**Location (un) **],[**Numeric Identifier 809**]
+Phone: [**Telephone/Fax (1) 2936**]
+Fax: [**Telephone/Fax (1) 7922**]
+Email: [**University/College 98191**]
+
+Admission Date/Time:[**2197-1-3**] 2100
+
+CC:[**CC Contact Info 98192**]
+HPI: 84F who was admitted 4 months PTA with maroon colored
+stools and HCT drop from 30-20. She was monitored as an
+inpatient and transfused and bumped appropriately. No endoscopy
+was performed. She was seen in [**Hospital **] clinic 1 day PTA with Dr. [**First Name (STitle) 452**]
+and was found to have HCT of 24. No tachycardia, some minimal
+RUQ pain. No SOB, fatigue more than baseline. Admits to
+occasional
+blood on toilet paper with bowel movements, but denies any
+melana. She was sent to the ER to get a transfusion and to try
+to convince her to get a c-scope which she has never had and
+refused in the past.
+
+In ER: (Triage Vitals:97.7 74 144/51 15 99) GI consult was
+called who said they would see her in the morning. Given 1 of 2
+units in ER. Guiac positive. LBBB in ER noted. TnI neg.
+
+ROS:
+-Constitutional: [x]WNL []Weight loss []Fatigue/Malaise []Fever
+[]Chills/Rigors []Nightweats []Anorexia
+-Cardiac: [x]WNL []Chest pain []Palpitations []LE edema
+[]Orthopnea/PND []DOE
+-Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough
+
+-Gastrointestinal: see HPI
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain
+-Neurological: [ x]WNL []Numbness of extremities []Weakness of
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo
+[]Confusion []Headache
+
+
+Past Medical History:
+Coronary Artery Disease, baseline LBBB
+- MIBI [**1-/2196**] 1. No definite perfusion defect
+              2. Increased left ventricular cavity size
+                 global hypokinesis.
+              3. LVEF of 45%.
+
+Hypertension
+AFIB not on coumadin
+COPD  [**2194**] FEV1 89% Ratio 93%
+Colon CA S/P L Colectomy in [**2166**]
+S/P L THR (Secondary to OA) [**2187**]
+GERD
+Rectocele
+Achalasia [**4-13**] on esophageal motility study
+Shingles
+L femoral neck fx, s/p L hip arthroplasty [**12-10**]
+R hip OA
+L knee OA
+s/p fall in [**2-10**] with L femur periprosthetic fx, now healed
+T11, T12 compression fractures, now healed
+L3 compression fracture s/p vertebroplasty [**2196-2-2**]
+
+MOST RECENT COLONOSCOPY: [**4-/2191**]
+Polyp at 18 cm in the rectosigmoid (biopsy, polypectomy)
+Grade 2 internal hemorrhoids
+Otherwise normal Colonoscopy to cecum. There was melanosisoli
+involvement of the whole colon.; A small percentage of polyps or
+other lesions might be missed
+
+
+Social History:
+Lives alone in senior citizens building in [**Location (un) 583**], 2 children
+(one in [**Location (un) 4628**], one in [**State 4565**]).  Husband died 20 yr ago.
+Auschwitz Holocaust-survivor. Former factory worker. No history
+of smoking, EtOH or illegal drugs. Has a homemaker who visits
+1x/week. Has another person help her shower 3x/week and do her
+shopping. Comes from [**Location (un) 98105**].
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: 96.9 67 152/79 20 100 2L
+Gen: Well appearing, no acute distress, awake, alert,
+appropriate, and oriented x 3, but does not remeber seeing Dr.
+[**First Name (STitle) 452**] yesterday. Seems to have difficultly with memory, but
+answers questions appropriately.
+Skin: warm to touch, no apparent rashes.
+HEENT:  OP clear, no cervical LAD, no palpable thyroid nodules.
+CV: II/VI systolic murmur early peaking, +S4.
+Lungs: clear to auscultation
+Abd: soft, NT, normal BS
+Ext: No C/C/E
+Neuro: strength and sensation intact bilaterally.
+
+
+Pertinent Results:
+[**2197-1-3**] 03:45PM URINE  HOURS-RANDOM
+[**2197-1-3**] 03:45PM URINE  GR HOLD-HOLD
+[**2197-1-3**] 03:45PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.006
+[**2197-1-3**] 03:45PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0
+LEUK-TR
+[**2197-1-3**] 03:45PM URINE  RBC-2 WBC-3 BACTERIA-FEW YEAST-NONE
+EPI-0
+[**2197-1-3**] 01:47PM   K+-4.0
+[**2197-1-3**] 01:47PM   HGB-8.2* calcHCT-25
+[**2197-1-3**] 01:40PM   GLUCOSE-108* UREA N-70* CREAT-1.5* SODIUM-137
+POTASSIUM-5.1 CHLORIDE-95* TOTAL CO2-30 ANION GAP-17
+[**2197-1-3**] 01:40PM   estGFR-Using this
+[**2197-1-3**] 01:40PM   cTropnT-0.01
+[**2197-1-3**] 01:40PM   WBC-6.0 RBC-2.95* HGB-7.6* HCT-23.6* MCV-80*
+MCH-25.7* MCHC-32.1 RDW-16.1*
+[**2197-1-3**] 01:40PM   NEUTS-70.3* LYMPHS-21.5 MONOS-6.8 EOS-1.3
+BASOS-0.1
+[**2197-1-3**] 01:40PM   PLT COUNT-190
+[**2197-1-3**] 01:40PM   PT-12.6 PTT-25.6 INR(PT)-1.1
+[**2197-1-2**] 12:50PM   FERRITIN-17
+[**2197-1-2**] 12:50PM   WBC-6.7 RBC-3.01* HGB-7.7* HCT-24.5* MCV-81*
+MCH-25.6* MCHC-31.5 RDW-16.5*
+[**2197-1-2**] 12:50PM   PLT COUNT-219
+
+CT Chest IMPRESSION: No evidence of metastastic disease within
+the thorax
+CT Abd/Pelvis: No evidence for metastatic disease in the abdomen
+or pelvis
+Stable compression deformities at the T11, T12 and L3 vertebral
+bodies are
+noted. Post-kyphoplasty changes at T10 and L3. Tortuous,
+calcified and slightly ectatic abdominal aorta, without frank
+aneurysm.
+
+GI Tissue Biopsy: Colon Adenocarcinoma
+
+[**2197-1-9**] 06:52AM BLOOD WBC-5.6 RBC-3.76* Hgb-10.3* Hct-31.2*
+MCV-83 MCH-27.4 MCHC-33.0 RDW-16.1* Plt Ct-204
+[**2197-1-10**] 06:40AM BLOOD WBC-5.0 RBC-3.91* Hgb-10.4* Hct-32.5*
+MCV-83 MCH-26.7* MCHC-32.1 RDW-16.3* Plt Ct-196
+[**2197-1-11**] 07:10AM BLOOD WBC-11.2*# RBC-3.55* Hgb-9.6* Hct-28.8*
+MCV-81* MCH-27.1 MCHC-33.5 RDW-15.9* Plt Ct-169
+[**2197-1-12**] 06:19PM BLOOD WBC-4.5# RBC-2.59*# Hgb-7.1*# Hct-21.4*#
+MCV-83 MCH-27.6 MCHC-33.3 RDW-16.3* Plt Ct-110*
+[**2197-1-14**] 03:31AM BLOOD WBC-10.7# RBC-3.88* Hgb-10.8* Hct-32.6*
+MCV-84 MCH-27.9 MCHC-33.2 RDW-15.8* Plt Ct-125*
+[**2197-1-15**] 03:30AM BLOOD WBC-12.0* RBC-3.74* Hgb-10.3* Hct-31.9*
+MCV-85 MCH-27.6 MCHC-32.4 RDW-15.7* Plt Ct-123*
+
+[**2197-1-12**] 03:25AM BLOOD Plt Ct-160
+[**2197-1-13**] 03:00AM BLOOD Plt Smr-LOW Plt Ct-126*
+[**2197-1-15**] 03:30AM BLOOD PT-13.7* PTT-40.5* INR(PT)-1.2*
+
+[**2197-1-13**] 03:00AM BLOOD ALT-8 AST-24 LD(LDH)-165 CK(CPK)-131
+AlkPhos-64 TotBili-1.1
+[**2197-1-14**] 03:31AM BLOOD ALT-9 AST-25 LD(LDH)-160 CK(CPK)-120
+AlkPhos-73 TotBili-0.6
+[**2197-1-13**] 03:00AM BLOOD CK-MB-6 cTropnT-0.06*
+[**2197-1-13**] 10:24AM BLOOD CK-MB-5 cTropnT-0.05*
+[**2197-1-14**] 03:31AM BLOOD CK-MB-3 cTropnT-0.05*
+
+Brief Hospital Course:
+84F with slow GIB, presented for admission after seeing her
+gastroenterologist, Dr. [**First Name (STitle) 452**] due to concerns of progressive
+anemia.  Pt was transfused 2 units PRBC on admission. Pt had
+previously been declining colonoscopy as an output, however, pt
+consented here, and is now s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] which found a mass
+concerning for malignancy.
+.
+Colon mass, probable malignancy:
+Surgery was consulted, and CT Chest, abd/pelvis was obtained for
+staging purposes.  CEA was drawn, and was low (3.3). [**Name (NI) 1094**] son
+came in to town to assist patient with decision making process.
+- CEA 3.3
+.
+Chronic blood loss anemia:
+Probable colon cancer on [**Last Name (un) **].
+-s/p transfusion 2 units
+-consulted surgery for probable colon cancer
+.
+CAD, NATIVE VESSEL
+Pt denies any cardiac symptoms on history for perioperative
+cardiac risk stratification.  Pt was not on aspirin as an
+outpatient due to concern of her chronic GI bleed.  This has not
+been restarted due to ongoing source of GI bleed, and in
+anticipation of possible surgical intervention.
+-unclear why not on statin
+.
+Secondary Diagnosis: 427.31 ATRIAL FIBRILLATION
+-continued amio at home dose
+.
+Secondary Diagnosis: 530.

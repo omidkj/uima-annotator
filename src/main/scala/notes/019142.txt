@@ -1,0 +1,212 @@
+Admission Date:  [**2123-2-11**]              Discharge Date:   [**2123-2-20**]
+
+Date of Birth:  [**2077-1-30**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4679**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2123-2-15**] L VATS decortication
+
+
+History of Present Illness:
+Mr. [**Known lastname 37148**] is a 46 year-old man with a history of chronic
+pain who presents with shortness of breath. He had subjective
+fevers, cough, and headache for 4 days. He presented [**2-9**] to
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] and was found to have L PNA, was admitted overnight,
+and was discharged [**2-9**] with PO levofloxacin. He re-presented
+[**2-10**] to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on [**2-11**] with increasing SOB and pleuric chest
+pain. CT chest demonstrated L>R loculated pleural effusion as
+well as extensive left-sided PNA. He was was febrile to 102. He
+was given Zosyn and transferred to [**Hospital1 18**] ED.
+.
+In the [**Hospital1 18**] ED, vital signs were initially BP 98/59, 97% on
+nonrebreather, RR 28, HR 113. Patient looked very uncomfortable,
+and RR rose to 40. O2 Sat decreased to 90%. He was intubated to
+decrease WOB and improve oxygentation. Difficult intubation
+including further precipitous drop in O2 Sat to 80. After 3
+attempts to intubate by ED staff failed, anesthia was paged
+stat. He received versed 4 mg and 100 mg succ and was
+successfully intubated. He waw started on fentanyl and versed
+gtt. He was bucking the vent and tachycardic to 118 so he was
+given vecuronium. He also received ~3 L IVNS and a dose of
+vancomycin. ABG after intubation was 7.22/62/79. He was admitted
+to the MICU for further evaluation and management.
+
+Past Medical History:
+- L knee surgery
+- pyeloplasty through R flank c/b rib injury
+- chronic pain in R flank secondary to rib injury
+
+Social History:
+lives with wife
+
+Family History:
+noncontributory
+
+Physical Exam:
+VS: T: 99.2  HR: 82 SR  BP: 114-130/70  Sats: 93% RA
+General: no apparent distress
+HEENT: normocephalic, mucus membranes moist
+Neck: supple
+Card: RRR
+Resp: Left lung base, decreased breath sounds
+GI: benign
+Extr:warm no edema
+Chest tube site clean
+Neuro: non-focal
+
+Pertinent Results:
+Admission labs:
+
+[**2123-2-11**] 12:15AM   WBC-21.5* RBC-4.61 HGB-13.1* HCT-38.2* MCV-83
+MCH-28.3 MCHC-34.2 RDW-12.1
+[**2123-2-11**] 12:15AM   NEUTS-74* BANDS-20* LYMPHS-2* MONOS-2 EOS-0
+BASOS-0 ATYPS-0 METAS-2* MYELOS-0
+[**2123-2-11**] 12:15AM   GLUCOSE-103* UREA N-17 CREAT-1.0 SODIUM-134
+POTASSIUM-4.0 CHLORIDE-94* TOTAL CO2-28 ANION GAP-16
+[**2123-2-11**] 12:22AM   LACTATE-1.5
+
+Admission CXR:
+1. Large left pleural effusion, with severe atelectasis of the
+left lung.
+2. Right hilar adenopathy or vascular engorgement
+
+[**2-18**] CXR - Mild improvement in left pleural effusion and
+bibasilar atelectasis
+
+Brief Hospital Course:
+46-year-old man presents with respiratory failure secondary to
+pneumonia.
+.
+#. Pneumonia with empyema and sepsis: Community acquired, no
+underlying risk factors, complicated by effusion.  Intubated on
+admission as below.  BP was supported with IVF.  Pressors were
+not required. Apparently failed a partial course of
+levofloxacin.  Vancomycin and Zosyn were started for broad
+coverage.  Flu swab and legionella antigen were sent and
+negative.  Sputum cultures from OSH grew GAS, and shortly
+thereafter sputum cx from [**Hospital1 18**] also grew GAS.  Antibiotics were
+briefly narrowed to Penicillin, but when fever recurred this was
+broadened to Zosyn. Pleural effusion was tapped and demonstrated
+pH 7.02 consistent with empyema.  Chest tube was placed. On
+follow-up the following day chest tube had stopped draining. CT
+chest showed multifocal pneumonia no abscess seen.  He continued
+on IV antibiotics while in house.  He was seen by Interventional
+Pulmonary on [**2123-2-11**] for a Left chest ultrasound with Placement
+of 18-French chest tube.  On [**2123-2-14**] Thoracic Surgery was
+consulted for a loculated hydropneumothorax seen on Chest CT.
+They recommended Left VATs decortication with 3 chest tube
+placement which occurred on [**2123-2-15**].
+
+#ID: infectious disease was consulted for group A strep empyema.
+They recommended stopping vancomycin and Zosyn starting
+ceftriaxone 2 g iv q24 x 7 days hours continue following
+cultures.  On discharge he was converted to Cefpodoxime 200mg.
+Consider acyclovir 400 mg po tid for empirical therapy of likely
+oro labial HSV.
+.
+# Respiratory failure: Intubated in ED.  ARDS net ventilation
+was initiated. He was quickly intubated after ~48 hours without
+difficulty.  He was extubated on [**2123-2-12**] stable on BiPAP
+overnight.  He was intubated for the L VATS  and was extubated
+on [**2123-2-16**] without difficulty.  With aggressive pulmonary
+toilet, chest PT his oxygen requirements improved and he was
+discharged with oxygen saturations of 96%.
+
+# Chest-tube 3 anterior apical, basilar and posterior apical
+remained on low-wall suction draining moderate amount of
+serosanguinous fluid changed to water-seal [**2123-2-17**] they changed
+to pneumostats on [**2123-2-18**].  He was followed by serial chest
+x-rays which showed resolution of left basilar pneumothorax and
+stable effusion and atelectasis.
+.
+# Altered mental status:  For 24 hours after extubation patient
+remained was arousable but not following commands. Given ongoing
+fevers, lumbar puncture was performed which ruled out
+meningitis.  His mental status returned to baseline following
+treatment of his pneumonia.
+
+## Chronic on acute pain. Per OMR records, the patient has
+chronic right flank pain following a pyeloplasty for
+hydronephrosis of the right kidney in [**2113-3-25**]. He has a
+history of intercostal neuralgia and myofascial pain syndrome.
+- Continue IV morphine PRN for pain for now (will trend
+requirement overnight)
+- His OxyContin 20 mg PO TID, ibuprofen 600 mg TID, gabapentin
+800 mg TID (home pain regimen) were restarted and he was given
+oxycodone prn for breakthrough pain
+
+## Renal function.  Remained at baseline with good urine output.
+
+## GI: no issues
+
+## Heme: On [**2123-2-20**], prior to discharge, the patient developed
+bilateral calf tenderness without swelling.  Bilateral lower
+extremity ultrasound was negative for DVT.
+
+## Disposition: He was seen by physical therapy who deemed him
+safe for home.  He was discharged on [**2123-2-20**] with 3 chest tubes
+to pneumostat and antibiotics.  He will follow-up with Dr. [**First Name (STitle) **]
+in 2 weeks for Chest CT.
+
+Medications on Admission:
+oxycontin 20 mg PO TID
+ibuprofen 600 mg TID
+gabapentin 800 mg TID
+
+
+Discharge Medications:
+1. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO Q8H (every
+8 hours).
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+3. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q8H (every
+8 hours).
+4. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours).
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: [**12-27**]
+Tablet Sustained Release 12 hrs PO Q8H (every 8 hours) as needed
+for pain.
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+8. Acyclovir 400 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day) as needed for HSV: Continue taking until lip sores crust
+over.
+Disp:*21 Tablet(s)* Refills:*0*
+9. Cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO every twelve
+(12) hours for 4 days.
+Disp:*8 Tablet(s)* Refills:*0*
+10. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO every six (6)
+hours as needed for pain.
+Disp:*75 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Left empyema s/p L VATS, decortication
+
+
+Discharge Condition:
+Stable
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane)
+
+
+Discharge Instructions:
+Call Dr. [**First Name (STitle) **] at [**Telephone/Fax (1) 2348**] if you

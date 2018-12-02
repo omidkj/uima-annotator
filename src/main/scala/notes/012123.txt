@@ -1,0 +1,219 @@
+Admission Date:  [**2150-12-1**]              Discharge Date:   [**2150-12-3**]
+
+Date of Birth:  [**2131-9-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Haldol / Morphine / Percocet / Dilaudid / Demerol
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+# Apparent asthma flare
+
+Major Surgical or Invasive Procedure:
+# Intubation
+
+History of Present Illness:
+19-year-old female h/o (1) presumed asthma requiring intubation,
+(2) vocal cord dysfunction, (3) depression and (4) conversion
+disorder, with multiple psychiatric admissions, now admitted for
+apparent asthma flare.  Patient was in her usual state of health
+when she went running on the evening of admit, after which she
+reportedly experienced dry coughing and difficulty breathing.
+Patient then used her asthma nebulizers and called her
+pulmonologist, who advised her to continue nebulizer treatment.
+Patient experienced no relief with nebulizers, and upon the
+advice of her pulmonologist, presented to the emergency room.
+.
+Of note, patient was recently admitted in [**10/2150**] and intubated
+for respiratory distress [**3-20**] presumed asthma flare and PNA, and
+was diagnosed at that time with paradoxical vocal cord
+dysfunction per ENT fiberoptic study.  Prior hospitalizations
+for asthma exacerbations had also involved intubation.
+.
+ED course:
+# VS: T not recorded, HR 106, BP 146/54, RR 15, SaO2 100/RA
+# Medications:  Lorazepam 1 mg x2, ipratropium nebs, albuterol
+nebs, epinephrine 0.3 mg SC x1, methylprednisolone 125 mg x1,
+magnesium sulfate 2 g x1, Heliox
+# Studies:
+--CXR: Low lung volumes. No acute cardiopulmonary disease.
+# Treatments: Intubation (pt received no ABGs before intubation)
+.
+ROS per mother: Significant only for dry cough shortly before pt
+presented to ED.
+
+Past Medical History:
+# Question asthma: Patient had been treated for asthma since
+[**2148**], with home medications including prednisone, albuterol,
+ipratropium, montelukast, and fluticasone.  Additionally, pt had
+been hospitalized for supposed asthma flares requiring
+intubation.
+# Question paradoxical vocal fold dysfunction: Diagnosed per ENT
+fiberoptic exam 9/[**2150**].
+# Depression
+# Conversion disorder: Per OMR notes recounting converstion with
+[**Hospital1 2025**] psychiatry ([**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1693**] MD), pt demonstrated fictitious
+symptoms including asthma, hyperventilation, LOC [**3-20**]
+hyperventilation, pseudo-seizures, and self-induced cellulitis.
+
+Social History:
+# Professional: [**University/College **]nursing student.
+# Personal: Lives in dormitory.
+# Alcohol: None known by mother.
+# Tobacco: None known by mother.
+# Recreational drugs: None known by mother.
+
+Family History:
+# Brother: Seasonal allergies
+
+Physical Exam:
+VS: T 99.2, BP 131/54, HR 106, RR 24, SaO2 100 (vented)
+.
+Gen: Intubated
+HEENT: NCAT
+CV: RRR, S1S2, no m/r/g noted
+Chest:  Limited exam.  CTAB at anterior fields.
+Abdomen: Soft, nontender, non-distended, positive bowel sounds
+Ext: No edema.  R wrist bandaged s/p scar revision for [**3-/2150**]
+I&D of cellulitis.
+
+d/c exam:
+temp 98.1  BP 127/65  HR 70  RR 18  O2 sat 97%
+Gen: awake, alert, responsive, NAD
+HEENT: NCAT
+CV: RRR no m/g/r
+Chest: CTAB no wheezes or crackles
+Abdomen: soft, nt, nd + BS
+Ext: no edema or cyanosis.  Right hadn bandaged with scar
+revision from 11 days prior.
+
+Pertinent Results:
+Notable labs:
+.
+[**2150-12-1**] 11:30PM   freeCa-1.10*
+[**2150-12-1**] 11:30PM   LACTATE-2.4*
+[**2150-12-1**] 11:30PM   TYPE-ART PO2-234* PCO2-36 PH-7.40 TOTAL
+CO2-23 BASE XS--1
+[**2150-12-1**] 11:49PM   WBC-12.0* RBC-4.37 HGB-12.2 HCT-33.9* MCV-78*
+MCH-27.8 MCHC-35.9* RDW-16.5*
+[**2150-12-1**] 11:49PM   NEUTS-92.7* LYMPHS-6.4* MONOS-0.5* EOS-0.4
+BASOS-0
+[**2150-12-1**] 11:49PM   PLT COUNT-245
+[**2150-12-1**] 11:49PM   GLUCOSE-164* UREA N-14 CREAT-1.0 SODIUM-142
+POTASSIUM-3.9 CHLORIDE-107 TOTAL CO2-23 ANION GAP-16
+[**2150-12-1**] 11:49PM   CALCIUM-9.2 PHOSPHATE-3.4 MAGNESIUM-2.8*
+.
+Notable studies:
+.
+# CHEST (PORTABLE AP)  [**2150-12-1**] 8:42 PM
+IMPRESSION: Low lung volumes. No acute cardiopulmonary disease.
+
+
+Brief Hospital Course:
+19F h/o questionable asthma requiring previous intubations, as
+well as conversion disorder and depression, admitted with
+presumed asthma flare with intubation in the ED, no ABG.
+.
+# Respiratory distress: Possible etiologies included conversion,
+anxiety, PNA, or true asthma flare.  No ABGs were performed in
+the ED before patient was incubated, and therefore there were no
+laboratory data as to whether patient was becoming hypercarbic
+with respiratory failure.  Per ED records, it appeared that
+patient was intubated given a clinical picture of increasing
+respiratory distress.  Past spirometries were normal, but
+performed in setting of recent bronchodilator administration;
+therefore, no spirometry studies had been recorded comparing
+lung function before and after bronchodilator use.  Current vent
+settings are 500 cc x16, PEEP 5, FIO2 35 %.
+.
+Diagnostic: SBT in a.m. to assess whether pt demonstrates active
+bronchospasm by increasing PaCO2 with respiratory work.  Pt not
+continued on steroids or bronchodilators; consider assessing
+CBC/differential for eosinophilia.  CXR to monitor for possible
+PNA, which is unlikely given recently completed five day course
+of azithromycin.
+.
+Management: SBT on HD2 was successful and pt had no further
+respiratory distress.  N osigns of infection, or asthma
+exacerbation with no wheezing on exam.  Likely episode was
+seconday to paroxysmal vocal cord dysfunction.  Arranged follow
+up appointment with allergy physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) 68303**] on Monday
+[**12-7**].  No futher steriod treatment needed a this time, will
+discharge on home medications.
+.
+# Conversion disorder: Patient had been diagnosed with
+conversion disorder per [**Hospital1 2025**] psychiatrists, with identified
+symptoms including respiratory distress.  Patient was recently
+intubated in [**2150-10-17**] for presumed asthma exacerbation,
+and with this latest intubation, appeared to have accelerated
+her hospitalizations possibly [**3-20**] increased stress in her school
+or personal life.
+.
+Diagnostic: Patient has a long-term relationship with [**Hospital1 2025**]
+psychiatry.
+.
+Management: Will refer pt back to [**Hospital1 2025**] psychiatry for follow up
+.
+# Depression: Pt had h/o depression requiring medications
+although currently not taking lamotrigine.  As this hospital
+admission was possibly related to increased school stress,
+consider psychiatry outpatient f/u to assess coping skills,
+extent of depression, and relationship with conversion disorder.
+.
+# Paradoxical vocal cord dysfunction: During last
+hospitalization for presumed asthma exacerbation, patient was
+scoped by ENT who diagnosed patient with paradoxical vocal cord
+dysfunction given vocal fold adduction during inspiration.
+Patient was advised to seek speech therapy as outpatient.  Given
+that this is a stable issue, and may likely be related to her
+conversion disorder, defer additional diagnostic workup for
+outpatient management.
+
+Medications on Admission:
+Albuterol PRN
+Montelukast 10mg daily
+Fluticasone/salmeterol 500mg/50mg
+Ipratropium 2 puff QID
+Pantoprazole 40mg Q12H
+Fexofenadine 1 tab daily
+.
+Allergies: Haloperidol (dystonia), morphine (rash), Percocet
+(rash), Dilaudid (rash), Demerol (rash)
+
+Discharge Medications:
+Return to home medications:
+Albuterol PRN
+Montelukast 10mg daily
+Fluticasone/salmeterol 500mg/50mg
+Ipratropium 2 puff QID
+Pantoprazole 40mg Q12H
+Fexofenadine 1 tab daily
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Respiratory distress secondary to Paradoxical vocal cord
+dysfunction
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+You were admitted to the hospital with respiratory distress from
+vocal cord dysfunction. It is very important that you follow-up
+with psychiatry, allergy, and your primary care physician
+regarding these
+issues.
+.
+Please contact a physician if you experience fevers, chills,
+chest pain, shortness of breath, or any other concerning
+symptoms.
+.
+Please continue to take your home medications as before.
+
+
+Followup Instructions:
+Please follow up with your PCP [**Last Name (NamePa

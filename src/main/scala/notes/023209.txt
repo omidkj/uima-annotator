@@ -1,0 +1,198 @@
+Admission Date:  [**2161-4-23**]              Discharge Date:   [**2161-5-1**]
+
+Date of Birth:  [**2096-2-23**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Status post myocardial infarction.
+
+Major Surgical or Invasive Procedure:
+CABGx2(LIMA->LAD, SVG->OM) [**2161-4-24**]
+
+
+History of Present Illness:
+Ms. [**Known lastname 6483**] is a splendid 65 year old female who was admitted
+to [**Hospital 1474**] Hospital on [**2161-4-9**] increased dsypnea. She ruled in
+for a myocardial infarction and was managed medically. A cardiac
+catheterization was peformed which revealed severe 2 vessel
+coronary artery disease and she was subsequently transferred to
+the [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1675**] [**Last Name (NamePattern1) **] [**First Name (Titles) **] [**Last Name (Titles) **] for further management.
+
+
+Past Medical History:
+Smoking
+Pneumonia
+Ventricular tachycardia
+Hyperlipidemia
+Non ST elevation MI
+Right toe amputation
+
+Social History:
+Smoked 2 packs daily for 50 years. No alcohol. Lives with
+husband.
+
+Family History:
+Mother with coronary artery disease.
+
+Physical Exam:
+Temp: 97.9   Pulse: 66  BP: 137/74
+GEN: No acute distress
+HEENT: NCAT, anicteric sclera, PERRL, EOMI, oropharynx benign
+NECK: No lymphadenopathym no JVD, 2+ carotids without bruit
+LUNGS: Bibasilar crackles
+HEART: RRR, no murmur
+ABD: Soft, nontender, nondistended, normoactive bowel sounds
+PULSES: 2+ throughout
+NEURO: Cranial nerves II-XII intact
+
+Pertinent Results:
+[**2161-4-23**] 06:20PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2161-4-23**] 05:33PM   WBC-13.7* RBC-4.51 HGB-12.8 HCT-37.3 MCV-83
+MCH-28.3 MCHC-34.2 RDW-14.6
+[**2161-4-23**] 05:33PM   ALT(SGPT)-25 AST(SGOT)-16 LD(LDH)-228 ALK
+PHOS-112 TOT BILI-0.7
+[**2161-4-23**] 05:33PM   GLUCOSE-98 UREA N-19 CREAT-0.9 SODIUM-140
+POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-22 ANION GAP-17
+[**2161-5-1**] 05:45AM BLOOD WBC-10.0 RBC-3.50* Hgb-10.1* Hct-30.6*
+MCV-87 MCH-29.0 MCHC-33.2 RDW-14.4 Plt Ct-283
+[**2161-5-1**] 05:45AM BLOOD Plt Ct-283
+[**2161-5-1**] 05:45AM BLOOD Glucose-89 UreaN-23* Creat-0.9 Na-138
+K-4.8 Cl-98 HCO3-31* AnGap-14
+[**2161-5-1**] 05:45AM BLOOD Calcium-8.7 Phos-3.0 Mg-2.2
+
+[**2161-4-29**] CNIS:
+Less than 40% stenosis bilateral internal carotid and
+extracranial internal carotid arteries.
+
+[**2161-4-23**] CXR:
+No acute cardiopulmonary process.
+
+[**2161-4-23**] ECHO:
+There is moderate global left ventricular hypokinesis. No masses
+or thrombi are seen in the left ventricle. There is mild global
+right ventricular free wall hypokinesis. There is no aortic
+valve stenosis. No mitral regurgitation is seen. The estimated
+pulmonary artery systolic pressure is normal.
+
+[**2161-4-23**] EKG:
+Sinus rhythm with PACs.
+Prolonged QT interval
+Lateral ST-T changes are nonspecific
+No previous tracing
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 6483**] was admitted to the [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1675**] [**Last Name (NamePattern1) **] Medical
+Center on [**2161-4-23**] for further management of her coronary artery
+disease. The cardiac surgery service was consulted for surgical
+revascularization and Ms. [**Known lastname 6483**] was worked-up in the usual
+preoperative manner including a carotid duplex ultrasound which
+revealed a less then 40% stenosis of the bilateral internal
+carotid arteries. An echocardiogram was performed which revealed
+mild mitral regurgitation and an ejection fraction of 15-20%. On
+[**2161-4-24**], Ms. [**Known lastname 6483**] was taken to the operating room where she
+underwent coronary artery bypass grafting to two vessels.
+Postoperatively she was taken to the cardiac surgical intensive
+care unit for monitoring. Amiodarone was started
+prophylactically for prevention of a ventricular arrythmia given
+her low ejection fraction and past history. On postoperative day
+one, Ms. [**Known lastname 6483**] [**Last Name (Titles) 5058**] neurologically intact and was extubated.
+The electrophysiology service was consulted in regards to
+placing a prophylactic internal cardiac defibrillator given her
+low ejection fraction and past run on non sustained ventricular
+tachycardia however elected to not treat her for ventricular
+tachycardia given her preoperative run of ventricular
+tachycardia was likely ischemia related. Beta blockade and an
+Ace inhibitor were started and her amiodarone was discontinued.
+Plavix was started for anticoagulation. She developed atrial
+fibrillation on postoperative day two and her amiodarone was
+restarted which converted her back to a normal sinus rhythm. The
+congestive heart failure service was consulted for assistance in
+her care. Gentle diuresis was continued. On postoperative day
+four, she was transferred to the cardiac surgical step down unit
+for further recovery. The physical therapy service was consulted
+for assistance with her postoperative strength and recovery. The
+diabetes service from [**Last Name (un) **] was consulted for assistance with
+her diabetes medication management. Ms. [**Known lastname 6483**] continued to
+make steady progress and was discharged to her home on
+postoperative day seven. She will follow-up with Dr. [**Last Name (STitle) **],
+her cardiologist and her primary care physician as an
+outpatient.
+
+Medications on Admission:
+None until 2 weeks prior to admission:
+Imdur 30mg daily
+Lopressor 25mg twice daily
+Lisinopril 5mg daily
+Lasix 20mg daily
+Spirinolactone 25mg daily
+Plavix 75mg daily
+Lipitor 80mg daily
+
+Discharge Medications:
+1. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO twice a day for 7
+days.
+Disp:*14 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Atorvastatin Calcium 80 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day) for 5 days: Then decrease to 400 mg PO daily for 1
+week, then decrease to 200 mg PO daily.
+Disp:*50 Tablet(s)* Refills:*0*
+6. Metformin HCl 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+8. Acetaminophen-Codeine 300-30 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+9. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day for 7
+days.
+Disp:*14 Tablet(s)* Refills:*0*
+10. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1474**] VNA
+
+Discharge Diagnosis:
+Coronary artery disease.
+
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+You may not drive for 4 weeks.
+You may not lift more than 10 lbs. for 3 months.
+You should shower, let water flow over wounds, pat dry with a
+towel.
+
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) 17887**] for 1-2 weeks.
+Make an appointment with Dr. [**Last Name (STitle) **] for 4 weeks.
+
+
+
+Completed by:[**2161-5-1**]

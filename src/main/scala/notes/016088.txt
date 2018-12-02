@@ -1,0 +1,210 @@
+Admission Date:  [**2125-3-12**]              Discharge Date:   [**2125-3-19**]
+
+Date of Birth:  [**2072-12-13**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+DOE/fatigue/palpitations
+
+Major Surgical or Invasive Procedure:
+[**3-14**] Bilateral thoracoscopic MAZE/LAA resection
+
+
+History of Present Illness:
+52 yo F with history of PAF since her early 30s. In [**12-19**] she
+underwent elective breast reduction surgery and abdominoplasty
+which was compicated by a CVA. She was treated with TPA at [**Hospital1 112**]
+but has some residual aphasia. She re-developed AF in [**1-19**] and
+has remained in it since. Her iNR is extremely difficult to
+control on coumadin. Referred for thoracoscopic MAZE.
+
+Past Medical History:
+PAF (s/p unsuccesful ablations X 2), GERD, Depression,
+Migraines, Anemia, GI bleed (ulcers), s/p CVA w/ residual
+expressive aphasia following breast reduction & abdominoplasty
+surgery [**11-18**].
+
+Social History:
+works as retailer
+occasional etoh
+quit tobacco in [**2116**] after 30 pack year history
+
+
+Family History:
+NC
+
+Physical Exam:
+HR 70 RR 14 BP 118/74
+NAD
+Lungs CTAB
+Well healed bilateral intramammary incisions
+Heart RRR no M/R/G
+Abdomen Obese, Abdominoplasty
+Extrem warm, no edema
+
+
+Pertinent Results:
+[**2125-3-18**] 07:00AM BLOOD WBC-7.8 RBC-4.37 Hgb-13.1 Hct-38.8 MCV-89
+MCH-29.9 MCHC-33.7 RDW-16.1* Plt Ct-229
+[**2125-3-19**] 05:26AM BLOOD PT-25.1* INR(PT)-2.5*
+[**2125-3-18**] 07:00AM BLOOD PT-17.4* PTT-25.6 INR(PT)-1.6*
+[**2125-3-17**] 02:00AM BLOOD PT-14.3* PTT-23.9 INR(PT)-1.2*
+[**2125-3-16**] 03:33AM BLOOD PT-13.4 PTT-25.0 INR(PT)-1.1
+[**2125-3-18**] 07:00AM BLOOD Glucose-107* UreaN-16 Creat-0.6 Na-143
+K-3.9 Cl-103 HCO3-29 AnGap-15
+
+CHEST (PA & LAT)  [**2125-3-18**] 11:12 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate effusion
+
+[**Hospital 93**] MEDICAL CONDITION:
+52 year old woman with s/p maze
+REASON FOR THIS EXAMINATION:
+evaluate effusion
+EXAMINATION: PA and lateral chest.
+
+INDICATION: Status post maze.
+
+PA and lateral views of the chest are obtained on [**2125-3-18**] at
+11:16 hours and compared with the prior radiograph performed
+[**2125-3-15**] at 21:01 hours. The lung volumes have improved since the
+prior examination. Bibasilar atelectasis, however, persists.
+There is mild blunting of the left costophrenic angle on both
+the AP and lateral views, consistent with small left pleural
+effusion. Right-sided IJ line is unchanged with its tip
+projected over the proximal SVC. Mild pulmonary vascular
+congestion is unchanged.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 77970**]Portable TTE
+(Complete) Done [**2125-3-19**] at 8:45:00 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2072-12-13**]
+Age (years): 52 F  Hgt (in): 68
+BP (mm Hg): 122/60  Wgt (lb): 220
+HR (bpm): 76  BSA (m2): 2.13 m2
+Indication: S/p Maze. Atrial fibrillation. Left ventricular
+function. Pericardial effusion.
+ICD-9 Codes: 427.31, 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2125-3-19**] at 08:45    Interpret MD: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4083**],
+MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4587**],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: [**Location 13333**]/[**Hospital Ward Name 121**] 6
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008W000-0:00 Machine: Vivid i-3
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.8 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  4.4 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.2 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.8 cm
+Left Ventricle - Fractional Shortening:  0.33  >= 0.29
+Left Ventricle - Ejection Fraction:  55% to 60%  >= 55%
+Aorta - Sinus Level:  3.2 cm  <= 3.6 cm
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Aorta - Arch:  3.0 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.0 cm  <= 2.5 cm
+TR Gradient (+ RA = PASP):  22 mm Hg  <= 25 mm Hg
+Pulmonic Valve - Peak Velocity:  0.7 m/sec  <= 1.5 m/sec
+
+Findings
+LEFT ATRIUM: Mild LA enlargement. No LA mass/thrombus (best
+excluded by TEE).
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+global systolic function (LVEF>55%). Suboptimal technical
+quality, a focal LV wall motion abnormality cannot be fully
+excluded.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Mildly dilated
+ascending aorta. Normal aortic arch diameter. Normal descending
+aorta diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Trace AR.
+
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.
+Mild (1+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Normal PA systolic pressure.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor apical views.
+Suboptimal image quality - poor subcostal views.
+Conclusions
+The left atrium is mildly dilated. No left atrial mass/thrombus
+seen (best excluded by transesophageal echocardiography). Left
+ventricular wall thickness, cavity size, and global systolic
+function are normal (LVEF>55%). Due to suboptimal technical
+quality (no apical or subcostal windows), a focal wall motion
+abnormality cannot be fully excluded. Right ventricular chamber
+size and free wall motion are normal. The ascending aorta is
+mildly dilated. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+stenosis. Trace aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Transmitral Doppler could not be
+assess due to absence of apical windows, but there appears to be
+atrial mechanical function on M-mode of the mitral leaflets.
+There is no mitral valve prolapse. Mild (1+) mitral
+regurgitation is seen.The estimated pulmonary artery systolic
+pressure is normal. There is no pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Preserved global
+biventricular systolic function. Mild mitral regurgitation.
+Trace aortic regurgitation.
+
+CLINICAL IMPLICATIONS:
+Based on [**2123**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis is NOT recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+
+
+Brief Hospital Course:
+She was admitted to cardiac surgery in preparation for surgery.
+She was seen by neurology and underwent MRA brain. Chest CT was
+done to evaluated her coronaries. She was started on IV heparin
+as she stopped her coumadin preoperatively. She was taken to the
+operating room on [**2125-3-14**] where she underwent a bilateral
+thoracoscopic MAZE and LAA resection. She was transferred to the
+ICU in stable condition. She had bilateral subcutaneous pain
+pumps. She was extubated in the OR but was reintubated for
+agitation. She was again extubated on POD #1. Her pain pumps and
+chest tubes were dc'd. She had intermittent rapid atrial
+fibrillation and was restarted on amiodarone and coumadin. She
+was seen by electrophysiology for difficult rate control. She
+was transferred to the floor on POD #3. She was followed closely
+by electrophysiology and her medications were adjusted. Echo on
+[**3-19**] showed no pericardial effusion and she was ready for
+discharge home.
+
+Medications on Admission:
+Rhythmol (d/c'd [**3-6**]), Celexa 40', Cartia 180", FeSo4 325',
+Toprol XL 100", Detrol 2", Aciphex 40", Zocor 20', Digoxin 250',
+Coumadin (last dose 3/30), Lovenox (last dose 3/30), Amiodarone
+200', Ambien prn.
+
+Discharge Medications:
+1. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr

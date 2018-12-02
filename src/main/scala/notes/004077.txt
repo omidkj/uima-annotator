@@ -1,0 +1,189 @@
+Admission Date:  [**2151-11-21**]              Discharge Date:   [**2151-12-2**]
+
+Date of Birth:  [**2084-11-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Ambien
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+s/p redo sternotomy OPCABGx1 (SVG to PDA) on [**11-22**], MVR (#29
+Medtroinc Mosaic), TV repair (#32 CE ring) via right thoracotomy
+[**11-23**]
+
+
+History of Present Illness:
+Mr. [**Known firstname **] [**Known lastname **] is a 67 year old gentleman who has had
+multiple recent hospital admissions for congestive heart
+failure.  A subsequent work-up revealed severe mitral
+regurgitation, severe tricuspid regurgitation, and 90% occlusion
+of left main.  He was therefore recommended for surgical
+correction of his cardiac pathologies.
+
+Past Medical History:
+- CHF, EF 20%
+- Hyperlipidemia
+- Hypertension
+- Severe Mitral valve disease.
+- Severe Tricuspid valve disease.
+- Chronic renal failure.
+- Idiopathic thrombocytopenic purpura (ITP).
+- Cholestatic jaundice.
+- Pancreatic cysts s/p biopsy.
+- Renal artery stenosis.
+- Bilateral EEA approximately [**2147**].
+- Coronary artery bypass graft (CABG) x 5.
+- Pulmonary hypertension.
+- Left inguinal hernia repair in [**2149**].
+- Knee surgery.
+- Cardiomyopathy.
+- Atrial fibrillation.
+- Congestive heart failure.
+- Hypothyroidism.
+
+
+Social History:
+He used to drink alcohol excessively, but had his last drink
+several months ago. He smoked a half pack to one pack per day
+for 15 years until he quit in [**2113**]. He lives with his wife.
+.
+
+
+Family History:
+His mother died of a heart attack. His brother died of a heart
+attack at age 33. His father died with [**Name (NI) 2481**] disease. Pt's
+maternal side of the family has marked hyperlipidemia. He has no
+known family history of cancer.
+
+
+Physical Exam:
+On physical exam Mr. [**Name13 (STitle) **] was found to be awake, alert, and
+oriented.  On auscultation of his lungs, he was found to have
+scattered rales.  His heart was of regular rate and rhythm.  His
+sternum was stable and his incision was clean, dry, and intact
+with no erythema or drainage.  His abdomen was soft, non-tender,
+and non-distended.  His extremities were warm with no edema.
+His lower extremity harvest site was clean and dry.
+
+Pertinent Results:
+[**2151-12-2**] 07:40AM BLOOD WBC-8.3# RBC-3.82* Hgb-11.4* Hct-36.5*#
+MCV-96 MCH-29.9 MCHC-31.3 RDW-17.9* Plt Ct-195#
+[**2151-12-2**] 07:40AM BLOOD Plt Ct-195#
+[**2151-12-2**] 07:40AM BLOOD Glucose-76 UreaN-48* Creat-1.8* Na-147*
+K-4.1 Cl-109* HCO3-28 AnGap-14
+
+Brief Hospital Course:
+[**Known firstname **] [**Known lastname **] is a 67 year old gentleman who has had multiple
+recent hospital admissions for congestive heart failure.  A
+subsequent work-up revealed severe mitral regurgitation, severe
+tricuspid regurgitation, and 90% occlusion of left main.  He was
+therefore recommended for surgical correction of his cardiac
+pathologies.
+
+He was taken to the operating room on [**2151-11-22**] with [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] for a redo sternotomy and off pump CABGx1.  He
+tolerated the procedure well and transferred to the surgical
+intensive care unit in critical but stable condition.  On the
+following day on [**2151-11-23**] he underwent the second stage of his
+intervention, a mirtal valvereplacement with a #29 [**Company 1543**]
+mosaic valve and a tricuspid valve repair with a 32 CE ring via
+a right thoracotomy.  He tolerated this procedure well and was
+transferred in critcal but stable condition to the surgical
+intensive care unit.
+
+He was extubated on post-operative day 7 after multiple failed
+attempts. He was weaned from his pressors, his chest tubes were
+removed.  His LFTs were found to be elevated early in his
+post-operative course, but these lab values were trending toward
+normal by the end of his stay.
+
+By post-operative day 9 he was transferred to the step down
+floor.  His epicardial wires were removed.  Mr. [**Known lastname **] was
+ready for discharge to a rehab by post-operative day 10.
+
+Medications on Admission:
+protonix 40
+toprol XL 25
+lisinopril 2.5
+lasix 80 TID
+digoxin 0.125
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q4H (every 4 hours).
+Disp:*qs qs* Refills:*0*
+7. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+Disp:*qs qs* Refills:*0*
+8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q6H
+(every 6 hours) as needed.
+Disp:*qs ML(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 12414**] Healthcare Center - [**Location (un) 12415**]
+
+Discharge Diagnosis:
+CAD, severe mitral regurgitation, severe tricuspid regurgitation
+s/p redo sternotomy OPCABGx1, MVR, TV repair
+congestive heart failure
+hypercholesterol
+hypertension
+chronic renal failure
+ITP
+pancreatic cysts
+renal artery stenosis
+s/p CEA
+s/p CABG1984
+pulmonary hypertension
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+Do not drive for 4 weeks.
+Do not lift more than 10 lbs. for 2 months.
+Shower daily, let water flow over wounds, pat dry with a towel.
+Do not use creams, lotions, or powders on wounds.
+
+Followup Instructions:
+Please see your primary care physician and your cardiologist in
+[**1-26**] weeks.
+Please see Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in [**3-28**] weeks. ([**Telephone/Fax (1) 11763**].
+Call to make appointments.
+Provider: [**First Name11 (Name Pattern1) 2295**] [**Last Name (NamePattern4) 11222**], MD Phone:[**Telephone/Fax (1) 22**]
+Date/Time:[**2151-12-22**] 3:00
+Provider: [**Name10 (NameIs) 706**] MRI Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2152-3-7**]
+10:20
+
+
+
+Completed by:[**2151-12-2**]

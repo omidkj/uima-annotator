@@ -1,0 +1,194 @@
+Admission Date:  [**2200-1-7**]              Discharge Date:   [**2200-1-28**]
+
+Date of Birth:  [**2130-11-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 759**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+central line placement
+
+History of Present Illness:
+68 yo male with ESRD on dialysis, HTN, L BKA, CAD, presents with
+fevers (Tm 103.8 per EMS at [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **]), rigors, hypotension
+(90/60s in field, 100/52 in ED) and altered mental status. In
+the ED, got 1 gm tylenol PR and ampicillin/sulbactam and
+vancomycin for suspected sepsis secondary to decubitus ulcer.
+After 2 L NS, his BP did not improve. He was started on
+neosynephrine drip which improved his BP to low 100's/60. A left
+subclavian was placed after it was not possible to thread a
+femoral guidewire. He was noted to have stage 2+ sacral
+decubitus ulcers. Heel does not look infected. Last HD on Monday
+and usually dialyzes M, W, F in [**Location 9583**].
+.
+ROS: intermittent nausea/NBNB emesis over last couple weeks,
+non-productive cough x 2-3d, back pain at site of ulcer, mild
+diarrhea, 30 lbs weight loss over unspecified amount of time,
+denies fever, hematochezia, SOB, CP, hematuria
+
+Past Medical History:
+ESRD
+s/p L BKA
+HTN
+CAD
+DM
+
+
+Social History:
+SH: lives at home with his sister, but has been staying at
+[**Name (NI) 2299**] [**Last Name (NamePattern1) **] since [**2199-12-24**]. Previously smoked 4 packs/day x 20
+years, but quit in [**2168**]. Drinks occasionally. Since his recent
+BKA he has required more help with ADLs
+Mr. [**Known lastname 11622**] has lived alone at home in [**Location (un) 7658**], but more recently
+his sister [**Name (NI) **] [**Name (NI) **] has stayed with him, occasionally replaced
+by
+other siblings. He has VNA to help with meals.
+
+Family History:
+brother with MI at 70s. Pt has 3 brother, 4 sisters
+
+Physical Exam:
+PHYSICAL EXAM:
+VS: 98.4   93/64   93   11   100%
+GEN: NAD, somnolent
+HEENT: PERRL, MM dry
+CV: tachy, RR, nl s1/s2, no m/R/G appreciated
+Lungs: diffusely rhonchorous but sub-optimal exam
+Abd: + BS, s/NT/slight distension, no HSM
+Ext: 2+ radial pulse, L BKA, well healed lateral surgical
+incision of R ankle, 3 toes on R foot
+Neuro: arousable, oriented to person, place, not date; CN II-XII
+intact, MAFE, no rigidity
+Skin: R gluteal stage II-III ulcer, dry, w/o exudate or
+bogginess
+Lines: R SC dialysis catheter, L SC placed [**2200-1-7**], R arterial
+A-line
+
+Pertinent Results:
+[**2200-1-7**] 10:18PM   LACTATE-2.1* K+-4.1
+[**2200-1-7**] 10:18PM   HGB-9.9* calcHCT-30
+[**2200-1-7**] 10:10PM   GLUCOSE-272* UREA N-30* CREAT-4.7* SODIUM-141
+POTASSIUM-4.1 CHLORIDE-99 TOTAL CO2-27 ANION GAP-19
+[**2200-1-7**] 10:10PM   WBC-14.8* RBC-3.51* HGB-9.6* HCT-30.7* MCV-87
+MCH-27.4 MCHC-31.3 RDW-17.9*
+.
+
+[**2200-1-9**] 04:28AM BLOOD CK(CPK)-128
+[**2200-1-23**] 02:37AM BLOOD Mg-1.8
+[**2200-1-21**] 06:00AM BLOOD Calcium-7.8* Phos-4.0 Mg-2.2
+[**2200-1-12**] 02:19AM BLOOD calTIBC-94* Ferritn-1861* TRF-72*
+[**2200-1-22**] 11:59AM BLOOD WBC-13.1* RBC-3.16* Hgb-9.5* Hct-28.7*
+MCV-91 MCH-30.0 MCHC-33.1 RDW-18.7* Plt Ct-253
+[**2200-1-23**] 02:37AM BLOOD WBC-11.2* RBC-3.11* Hgb-9.2* Hct-28.3*
+MCV-91 MCH-29.5 MCHC-32.4 RDW-18.6* Plt Ct-258
+[**2200-1-11**] 04:59PM BLOOD WBC-13.6* RBC-3.57* Hgb-10.0* Hct-30.4*
+MCV-85 MCH-28.0 MCHC-32.9 RDW-17.4* Plt Ct-215
+[**2200-1-12**] 08:20PM BLOOD WBC-13.1* RBC-2.79* Hgb-7.8* Hct-23.1*
+MCV-83 MCH-28.1 MCHC-34.0 RDW-17.4* Plt Ct-246
+[**2200-1-13**] 03:45AM BLOOD WBC-16.1* RBC-3.04* Hgb-8.6* Hct-24.9*
+MCV-82 MCH-28.2 MCHC-34.4 RDW-17.1* Plt Ct-237
+[**2200-1-23**] 09:06AM BLOOD PT-21.4* PTT-77.2* INR(PT)-2.1*
+[**2200-1-23**] 02:37AM BLOOD Plt Ct-258
+[**2200-1-23**] 02:37AM BLOOD PT-17.5* PTT-57.5* INR(PT)-1.6*
+[**2200-1-22**] 07:33PM BLOOD PTT-62.6*
+[**2200-1-22**] 11:59AM BLOOD PT-15.4* PTT-150* INR(PT)-1.4*
+[**2200-1-22**] 01:36AM BLOOD PT-13.3* PTT-98.8* INR(PT)-1.2*
+[**2200-1-18**] 09:30AM BLOOD ESR-23*
+[**2200-1-23**] 02:37AM BLOOD Glucose-55* UreaN-12 Creat-2.6*# Na-139
+K-4.0 Cl-104 HCO3-29 AnGap-10
+[**2200-1-22**] 01:36AM BLOOD Glucose-209* UreaN-23* Creat-4.4* Na-136
+K-4.4 Cl-102 HCO3-24 AnGap-14
+[**2200-1-13**] 03:45AM BLOOD ALT-9 AST-14 LD(LDH)-167 AlkPhos-58
+Amylase-23 TotBili-0.3
+[**2200-1-11**] 02:17AM BLOOD CK-MB-9 cTropnT-1.08*
+[**2200-1-10**] 03:19PM BLOOD CK-MB-10 MB Indx-18.5* cTropnT-1.18*
+.
+Micro:
+[**2200-1-7**] BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL {PREVOTELLA SPECIES} INPATIENT
+[**2200-1-7**] BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+[**2200-1-8**] CATHETER TIP-IV WOUND CULTURE-FINAL negative.
+[**2200-1-8**] 04:01AM BLOOD CK(CPK)-111
+[**2200-1-8**] 03:46PM BLOOD CK(CPK)-154
+.
+Echo [**2200-1-8**]:
+Conclusions:
+The left atrium is moderately dilated. Left ventricular wall
+thicknesses and cavity size are normal. There is mild to
+moderate regional left ventricular systolic dysfunction with
+focal akinesis of the inferior and inferolateral walls and
+hypokinesis of the anterolateral wall. The remaining left
+ventricular segments contract normally. Right ventricular
+chamber size is normal with focal basal free wall hypokinesis.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. An eccentric jet of mild to moderate ([**1-28**]+)
+mitral regurgitation is seen directed along the lateral wall.
+There is mild pulmonary artery systolic hypertension. There is
+no pericardial effusion.
+
+IMPRESSION: Regional left and right ventricular systolic
+dysfunction c/w CAD (LV and RV infarction). Mild-moderate mitral
+regurgitation. Pulmonary artery systolic hypertension.
+.
+[**2200-1-16**]:
+IMPRESSION: Successful placement of 28 cm (23 cm tip-to-cuff
+length) Angiodynamics Even More hemodialysis catheter. The
+catheter tip is in the right atrium. The catheter is ready to
+employ.
+.
+
+
+Brief Hospital Course:
+A/P: 69 yo M w/ ESRD, HTN, DM p/w fever, hypotension from line
+sepsis.
+.
+1. Sepsis:
+The pt initially presented to the ICU with sepsis requiring
+pressors. The suspected source was the HD catheter and this was
+pulled. The patient was covered with broad spectrum empiric
+antibiotics. The blood cultures showed Prevotella 1/4 bottles,
+which was clearly no confirmatory for line infection, although
+no other definitive source was identified and line infection was
+most likely. The antibiotics were changed to vanc/unasyn which
+was continued until [**1-21**] which was a 14 day course. A new HD
+line was placed on [**1-16**].
+.
+2. Cardiac:
+a. Ventricular tachycardia:
+On [**1-20**], the pt was being prepared for discharge to rehab and
+he was noted to have episodes of non-sustained ventricular
+tachycardia noted on telemetry monitor. The patient has EF 35%
+and known scar. EP was consulted and in their estimation, the
+patient was not a candidate for ICD given the ESRD and infection
+risk. Metoprolol was continued.  He will be monitored on tele at
+the acute rehab facility for one more week.
+.
+b. Atrial fibrillation:
+The patient was noted to have episodes of atrial fibrillation,
+although he mostly remained in sinus rhythm. Anticoagulation was
+started on [**1-21**] with heparin bridge and coumadin. He was
+monitored for bleeding given that he had a significant bleed
+from his sacral decubitis ulcer requiring transfusion after
+debridement. Metoprolol was continued as well. Amiodarone was
+started for maintenence of NSR. This was started at 200 mg TID
+and should be continued at this frequency for three more weeks
+after discharge. Then frequency should be decreased to once per
+day after that.  At discharge, his INR was 2.6. At the nursing
+facility, the patient will continue to have daily PT/INR until
+his INR is stable. He will follow up with Dr. [**Last Name (STitle) **] in
+Electrophysiology.
+.
+b. CHF, EF 35%:
+On echo, the patient was noted to have EF 35%. He remained
+euvolemic after the sepsis had resolved. Fluid control was with
+dialysis. Low dose lisinopril was started towards the end of his
+hospital

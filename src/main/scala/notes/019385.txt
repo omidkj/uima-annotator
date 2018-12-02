@@ -1,0 +1,223 @@
+Admission Date:  [**2109-11-11**]              Discharge Date:   [**2109-11-21**]
+
+Date of Birth:  [**2036-1-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Morphine
+
+Attending:[**First Name3 (LF) 5119**]
+Chief Complaint:
+Altered Mental Status
+
+Major Surgical or Invasive Procedure:
+Intubation [**2109-11-11**]
+
+
+History of Present Illness:
+Initial Histpry and physical is as per ICU resident, Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+
+73 yo W with PMH of CAD, CM, COPD, DM, afib, s/p pacemaker [**11-1**]
+brought in by ambulance with AMS since this AM. Hx previous fall
+from wheelchair 1 week ago without evaluation. Noted lethargy,
+labored breathing. FS was 41 at NH. Pt given D50.
+On arrival, VS: T 97, HR 85, BP 114/82, RR 17 98 RA, FS 29. She
+received 2 amps D50 with repeat FS 179. Despite correction of
+hypoglycemia, she remained altered. Utox positive for opiates
+and she was given narcan with little response. Initially placed
+on BiPAP, but then intubated for airway protection. She was
+noted to have ST depressions in leads V3-V6. Cards felt this was
+not ACS and CE's could be followed. Patient was transferred to
+the [**Hospital Unit Name 153**] for further management.
+
+Past Medical History:
+CAD s/p cath on [**8-2**] with non obstructive CAD
+DM Type 2
+COPD
+Afib on ASA/plavix
+s/p pacemaker on [**11-1**]
+Osteoporosis
+Chronic joint pain
+Hyperlipidemia
+GERD
+Anxiety
+
+Social History:
+Nursing home resident
+
+Family History:
+NC
+
+Physical Exam:
+Initial exam in ICU
+VS: Afebrile, 77, 127/60
+GEN: Elderly woman, sedated, intubated, minimally responsive to
+voice
+HEENT: PERRL, OG, ETT in place
+NECK: Supple, No JVD
+CHEST: CTA anteriorly, no w/r/r
+CV: irregular, no m/r/g
+ABD: Soft/NT/ND, + BS
+EXT: Cool, palpable pulses
+SKIN: mottled, blue toes, no rashes
+NEURO: Intubated, sedated
+
+Pertinent Results:
+[**2109-11-11**] 01:00PM   WBC-13.3* RBC-3.45* HGB-10.1* HCT-34.3*
+MCV-100* MCH-29.3 MCHC-29.5* RDW-13.9
+[**2109-11-11**] 01:00PM   NEUTS-90.0* LYMPHS-4.8* MONOS-4.9 EOS-0.2
+BASOS-0.1
+[**2109-11-11**] 01:00PM   PLT COUNT-323
+[**2109-11-11**] 01:00PM   PT-13.5* PTT-33.6 INR(PT)-1.2*
+[**2109-11-11**] 01:00PM   SED RATE-20
+[**2109-11-11**] 01:00PM   CK(CPK)-40
+[**2109-11-11**] 01:00PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2109-11-11**] 01:00PM   GLUCOSE-413* UREA N-34* CREAT-0.9 SODIUM-147*
+POTASSIUM-4.3 CHLORIDE-111* TOTAL CO2-31 ANION GAP-9
+[**2109-11-11**] 01:27PM   PO2-291* PCO2-66* PH-7.23* TOTAL CO2-29 BASE
+XS--1
+
+EKG:  Atrial fibrillation with controlled ventricular response
+at 89bpm. Left ventricular hypertrophy with secondary ST-T wave
+abnormalities. No change from previous.
+
+CXR: Limited study with bibasilar atelectasis and vague right
+upper lung opacity. Cardiomegaly.
+
+CT head:  No acute intracranial hemorrhage or infarction
+
+CT chest:  Scattered ground glass and nodular opacities are
+worrisome for multifocal pneumonia.  Cardiomegaly with bilateral
+small pleural effusions.
+
+
+Brief Hospital Course:
+Mrs. [**Known lastname **] is a 73 year old female with a PMH significant for
+COPD, CAD, Type 2 DM, afib s/p pacer admitted with hypoglycemia
+and altered mental status likely secondary to aspiration
+pneumonia.
+
+1. Healthcare associated pneumonia:  This was the most likely
+cause of the patient's altered mental status and respiratory
+failure.  Patient had a leukocytosis, and CXR findings revealed
+a vague right upper lung opacity.  Patient was intially
+intubated for respiratory failure and treated in the ICU.
+Patient is s/p bronchoscopy with BAL and blood cultures NGTD.
+Sputum culture from [**11-14**] with sparse coag neg Staph.  Patient is
+a NH resident, and was treated empirically for healthcare
+associated pneumonia with vancomycin and ceftazidime.  Her Vanco
+trough was checked [**2109-11-20**] and was elevated to 24 so Vanco was
+held.  Another vanco trough should be checked at the NH the
+morning of [**2109-11-22**] and Vanco should be restarted at 750mg iv
+q12h if trough is <20.  Patient will need three more days of
+antibiotics to finish her course.
+
+2. RUE Swelling: Patient developed RUE swelling and discomfort.
+A right upper extremity duplex was obtained and no DVT was
+found.  The swelling may have been due to trauma.  The swelling
+was subsiding at discharge.  The patient had some discomfort
+which was helped by Tylenol #3 (which she was already on at her
+nursing home for chronic joint pain.
+
+3. COPD:  The patient was not felt to be having a COPD
+exacerbation at admission.  She was continued on her home
+regimen of Advair, low dose prednisone, diamox and
+albuterol/atrovent prn.
+
+4. Atrial fibrillation:  Patient was monitored on telemetry.
+She became tachycardic to 110-130s during admission and her
+metoprolol was titrated upward for better rate control.  She
+will be discharged on Lopressor 200mg po bid.  The patient was
+not anticoagulation at admission and this is reportedly due to
+fall risk.
+
+5. CAD:  At admission ECG showed ST depression in II, III, avL,
+v3-v4.  Cards was consulted and recommended following CE.
+Cardiac biomarkers x4 drawn with rise in troponin to 0.04 with
+flat CK likely representing demand ischemia or LV strain.  The
+patient was continued on her home regimen of metoprolol, ASA,
+Plavix, and Lipitor.
+
+6. Type 2 Diabetes mellitus:  Patient hypoglycemic on
+presentation on home basal NPH, which was initially held.  NPH
+was reintroduced slowly and was titrated based on ISS
+requirement during admission.  She will be discharge on NPH
+25units [**Hospital1 **] (Her admission regimen was 40u qam and 25u qpm)
+This should continue to be adjusted as necessary at the NH.  The
+patient was also covered with a RISS.
+
+7. Anxiety:  The patient was restarted on her home regimen of
+Paxil adn prn Klonopin prior to discharge.
+
+8. Chronic joint pain:  The patient complained of joint pain all
+over which was controlled once we restarted the Tylenol #3 which
+she was on at her NH.  It is unclear if she carries a diagnosis
+of osteoarthritis or not.
+
+9. Hypernatremia: The patient had a serum Na of 150 at admission
+whioh was treated with free water and self correction with po
+intake.  Her Na should be monitored periodically at the NH.
+
+10. Constipation:  Patient was continued on Senns, Colace with
+prn Miralax.
+
+11.  F/E/N:  The patient had a speecha dn swallow eval whcih
+revealed mild dysphagia.  Her recommended diet is ground solids
+and thin liquids with pills whole with thin liquid.  She may
+need assistance with meals. If her upper dentures are found, and
+if they fit well when placed, it would be safe to upgrade her
+diet to soft or regular consistency solids
+
+12. Prophylaxis: Patient treated with heparin SQ for DVT
+prophylaxis during admission.
+
+13.  Code: Full
+
+14.  Dispo: Patient to be discharged back to the [**Location (un) 745**] Health
+Care Center in stable condition
+
+Medications on Admission:
+Paxil 40mg PO daily
+Lidoderm Patch TD q12
+Lasix 40mg PO daily
+Fosamax 70mg PO q week
+Diamox 250mg PO daily
+Senna 1 tab PO daily
+Colace
+KCL SR 20mg PO daily
+Lipitor 40mg PO daily
+Lopressor 100mg PO bid
+Insulin NPH 40U qAM, 25U qPM
+Regular insulin sliding scale
+Prednisone 5 PO bid
+Klonopin 0.5mg po bid prn anxiety
+Advair 100-50 mcg/Dose Disk 1 puff inh [**Hospital1 **]
+Tylenol #3 1-2 tabs po q6h prn pain
+Fosamax 70mg po weekly
+Plavix 75mg po daily
+Albuterol nebs prn
+
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Paroxetine HCl 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+5. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Acetaminophen-Codeine 300-30 mg Tablet Sig: 1-2 Tablets PO
+Q6H (every 6 hours) as needed for pain.
+8. Acetazolamide 250 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours).
+9. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QSAT (every
+Saturday).
+10. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) as needed for anxiety.
+11. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device

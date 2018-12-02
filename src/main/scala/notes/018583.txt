@@ -1,0 +1,230 @@
+Admission Date:  [**2123-12-28**]              Discharge Date:   [**2124-1-4**]
+
+Date of Birth:  [**2050-11-15**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+s/p MAZE,Coronary artery bypass grafts x 2( LIMA-LAD, RA-DG),
+[**Last Name (un) 84256**] Mitral Valve Repair, ligation of left Atrial Appendage
+[**12-30**]
+
+
+History of Present Illness:
+Ms. [**Known firstname 450**] [**Known lastname 92892**] is a 73 year old woman with a complex
+past medical history including myocardial infarction in [**2104**] who
+underwwent a cardiac catheterization after complaining of
+dyspnea on exertion.  This study revealed multi-vessel coronary
+artery disease and she was referred for coronary artery bypass
+surgery.
+
+Past Medical History:
+coronary artery disease s/p myocardial infarction [**2104**]
+diabetes mellitis
+paroxysmal atrial fibrillation
+hypercholesterolemia
+hypothyroidism
+chronic obstructive pulmonary disease
+carotid stenosis
+kidney stones
+gastroenteritis
+mitral valve prolapse
+WPW s/p ablation
+hypertention
+s/p tonsillectomy
+s/p c-section
+s/p vein stripping
+
+Social History:
+Ms. [**Known lastname 92892**] is an assistant manager in a retail store.  She
+quit smoking 15 years ago, but has a 35 pack year history.  She
+lives alone.
+
+Family History:
+Her family history is significant for a mother with a heart
+murmur.
+
+Physical Exam:
+general: well appearing obese female in NAD.
+VS: 98.6, 128/59, 59, 20, 99% on 2liters
+HEENT: unremarkable
+Chest: CTA bilat. Sternum stable.
+COR: RRR S1, S2
+ABD: obese, soft, round, NT,+BS
+Extrem: Trace/ +1 edema of bilat LE. Left LE SVG intact and
+healing well. Steri-strips in place.
+neuro: intact. Affect flat.
+
+Pertinent Results:
+Last Day  Last Week  Last 30 Days  All Results   Hide Comments
+  From Date   To Date
+
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2124-1-2**] 07:00AM    12.9* 3.45* 11.0* 31.3* 91 31.9 35.2*
+14.5 176
+DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+[**2123-12-28**] 11:00AM    63.5   29.0 4.2 2.1 1.3
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2124-1-4**] 05:20AM    24.9*     2.4*
+BASIC COAGULATION (FIBRINOGEN, DD, TT, REPTILASE, BT) Fibrino
+[**2123-12-30**] 04:28PM    141*
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2124-1-4**] 05:20AM      16 0.6   4.2
+ESTIMATED GFR (MDRD CALCULATION) estGFR
+[**2123-12-28**] 11:00AM    Using this1
+
+
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+[**2123-12-28**] 11:00AM    19 21 249   66   0.5
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+
+[**2124-1-2**] 07:00AM              2.0
+DIABETES MONITORING %HbA1c
+[**2123-12-28**] 11:00AM    7.2*1
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 92893**]
+(Complete) Done [**2123-12-30**] at 5:59:34 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2050-11-15**]
+Age (years): 73 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Ischemic heart disease, Mitral regurg. Intraop
+management
+ICD-9 Codes: 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2123-12-30**] at 17:59    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW2-: Machine: 2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.1 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.1 cm
+Left Ventricle - Fractional Shortening:  *0.24  >= 0.29
+Left Ventricle - Ejection Fraction:  65%  >= 55%
+Aorta - Annulus:  1.7 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.9 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.2 cm  <= 3.0 cm
+Aorta - Ascending:  2.9 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  1.9 cm  <= 2.5 cm
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Normal
+regional LV systolic function. Overall normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending aorta diameter. Normal aortic arch
+diameter. Simple atheroma in aortic arch. Normal descending
+aorta diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Mild (1+)
+AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification. Torn mitral chordae. No MS.
+Moderate (2+) MR. [**First Name (Titles) **] vena contracta is >=0.7cm
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to
+moderate [[**12-24**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. Houseofficer caring
+for the patient was notified of the results by e-mail.
+Conclusions
+PREBYPASS
+
+1. The left atrium is normal in size. Left atrial appendage PWD
+velocities were > 20 cm/sec
+
+2. No atrial septal defect or PFO is seen by 2D or color
+Doppler.
+
+3. Left ventricular wall thicknesses and cavity size are normal.
+Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is normal (LVEF 65%).
+
+4. Right ventricular chamber size and free wall motion are
+normal.
+
+5. There are simple atheroma in the aortic arch. There are
+simple atheroma in the descending thoracic aorta.
+
+6. The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion. Mild (1+) aortic regurgitation is seen.
+
+7. The mitral valve leaflets are mildly thickened with a
+significant thickening along the tip of the anterior leaflet
+between A2 and A3. A small torn mitral chordae may be present in
+the right atria. Predominantly moderate or at worst
+Intermittently moderate to severe (3+) mitral regurgitation is
+seen with a >=0.7cm withan eccentric, posteriorly directed jet.
+Mitral valve area is 2.5 cm2, with a mitral annular diameter of
+3.4 cm.
+
+8. There is no pericardial effusion.
+
+9. Dr. [**Last Name (STitle) 914**] told of all results during the surgery.
+
+POSTBYPASS
+1. Patient is on phenlyephrine and low dose epinephrine
+
+2. The left ventricular function remains similar to prebypass
+
+3. The mitral valve had [**First Name8 (NamePattern2) **] [**Last Name (un) 84256**] stitch placed. Post bypass
+MVA measured 3.4 cm2 with a mitral annular diameter of 2.3 cm.
+The vena contracta was 0.7 cm. The MR jet is directed along the
+posterior wall.
+
+4. The aortic wall is smooth after decannulation.
+
+5. There is no left atrial appendage seen s/p ligation.
+
+6. All findings discussed with surgeons at the time of the exam.
+
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2123-12-31**] 18:14
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 92892**] was admitted pre-operatively for heparin given her
+history of atrial fibrillation.  On [**2123-12-30**] she underwent a
+coronary artery bypass graft, mitral valve replacement, and MAZE
+procedure with left atrial ligation.  This procedure was
+performed by Dr. [**Last Name (STitle) 914**].  The patient tolerated the procedure
+well and was transferred in cri

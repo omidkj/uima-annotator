@@ -1,0 +1,153 @@
+Admission Date:  [**2192-7-12**]              Discharge Date:   [**2192-7-23**]
+
+Date of Birth:  [**2122-4-12**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Coronary artery disease
+
+Major Surgical or Invasive Procedure:
+CABG x2
+
+
+History of Present Illness:
+Mr. [**Known lastname 916**] is a 70-year-old male who was transferred from an
+outside institution urgently with an intra-aortic balloon pump
+in place after he was found to have
+a 90% left main stenosis involving the origin of the left
+anterior descending. His ejection fraction was preserved. He is
+presenting for urgent coronary surgery.
+
+Past Medical History:
+Diabetes mellitus (diet controlled)
+Hyperlipidemia
+Gout
+COPD/asthma
+
+Social History:
+Patient has a 90 pack-year history of smoking, quit 8 years ago,
+rare ETOH, denies drugs
+
+Family History:
+Mother and father had both CAD and DM
+
+Physical Exam:
+Afebrile, HR 60's, BP 138/78, RR 20, SPO2 99%2L
+NAD, awake and alert
+PERRLA, no carotid bruits
+RRR, +2/6 SEM at LUSB
+CTA b/l
+Abd soft, NT/ND, NABS
+Ext warm, no varicosities
+
+Pertinent Results:
+[**2192-7-12**] 11:19AM BLOOD WBC-8.2 RBC-4.91 Hgb-15.2 Hct-43.5 MCV-89
+MCH-31.0 MCHC-34.9 RDW-13.9 Plt Ct-385
+[**2192-7-12**] 11:19AM BLOOD Plt Ct-385
+[**2192-7-12**] 11:19AM BLOOD PT-14.2* PTT-94.7* INR(PT)-1.3
+[**2192-7-12**] 11:19AM BLOOD Glucose-126* UreaN-22* Creat-0.8 Na-137
+K-4.4 Cl-100 HCO3-27 AnGap-14
+[**2192-7-12**] 03:42PM BLOOD ALT-22 AST-23 LD(LDH)-165 AlkPhos-59
+Amylase-90 TotBili-0.4
+[**2192-7-12**] 03:42PM BLOOD Lipase-34
+[**2192-7-12**] 11:19AM BLOOD Calcium-10.1 Phos-2.2* Mg-2.1
+Cholest-219*
+[**2192-7-12**] 11:19AM BLOOD Triglyc-67 HDL-66 CHOL/HD-3.3
+LDLcalc-140*
+
+Brief Hospital Course:
+The patient was admitted to the hospital on [**2192-7-12**] and was
+urgently taken to the operating room the following day, where he
+underwent a CABG x2. Please see operative note for full details.
+The patient tolerated this procedure well. Following surgery, he
+was transferred to the CSRU for recovery. That night, the
+patient acutely desaturated. A chest xray showed a right tension
+penumothorax, and a chest tube was emergently placed. The IABP
+was removed on post-op day #1. That day, the patient's LFT's
+were found to be markedly elevated, and a hepatico-biliary
+surgery consult was called. Work-up included a right upper
+quadrant ultrasound, which revealed a few gallstones but did not
+show evidence of cholecystitis, biliary tree dilation, or
+enlarged common bile duct. The patient's transaminitis
+eventually improved, and it was felt that, in the end, this was
+most likely due to hemolysis secondary to IABP. On post-op day
+#3, the patient was transferred to the floor. On post-op day #4,
+routine chest xray demonstrated a persistent pneumothorax that
+was refractory to chest tube suctioning. A thoracic surgery
+consult was called, and a new chest tube was inserted. On
+post-op day #5, repeat chest xray demonstrated an interval
+increase in the pneumothorax, and the chest tube was replaced by
+thoracic surgery. On post-op day #7, the decision was made to
+undergo doxycycline pleurodiesis. On post-op day #10, chest xray
+showed near resolution of the patient's pneumothorax. The chest
+tube was removed, and the patient was discharged home in stable
+condition.
+
+Medications on Admission:
+ASA 325mg PO Qdaily
+Lopressor 25mg PO BID
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*1*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain for 30 doses.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Allopurinol 300 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+6. Zocor 40 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours).
+Disp:*120 Capsule, Sustained Release(s)* Refills:*2*
+9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**11-20**]
+Puffs Inhalation Q4H (every 4 hours).
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1474**] VNA
+
+Discharge Diagnosis:
+Coronary artery disease
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please return tot he hospital or call Dr. [**Last Name (STitle) **] office of you
+experience chills or fever greater than 101 degrees F. Please
+call if you notice redness, swelling, or tenderness of your
+chest wound, or if it begins to drain pus.
+No heavy lifting or driving until follow up with Dr. [**Last Name (STitle) **].
+You may shower. Wash incision with mild soap and waten, then pat
+dry.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **].  [**Telephone/Fax (1) 170**]  Follow-up appointment
+should be in 1 month
+Provider: [**Name10 (NameIs) 62755**], MD  Follow-up appointment should be in 1 week
+Follow up with Dr. [**Last Name (STitle) **] in 2 weeks.
+
+
+

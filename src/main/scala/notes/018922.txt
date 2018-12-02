@@ -1,0 +1,197 @@
+Admission Date:  [**2139-4-25**]              Discharge Date:   [**2139-4-26**]
+
+Date of Birth:  [**2065-6-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Phenergan
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+transfer for ERCP
+
+Major Surgical or Invasive Procedure:
+ERCP with sphincterotomy and common bile duct temporary stent
+placement.
+
+
+History of Present Illness:
+73 yo man with COPD on 3L home O2, CAD s/p CABG ~12 yrs ago,
+atrial fibrillation on coumadin, HTN, HL, OSA on CPAP who
+presented to [**Hospital1 392**]
+on [**4-24**] with abdominal pain that started earlier that day. The
+pain was not associated with food and not releived by OTC
+antiacids. At the OSH he was found to have a fever to 100.5,
+elevated LFT's concerning for cholecystitis. RUQ U/S revealed
+distended gallbladder with stones but no evidence of
+cholecystitis and dilated common bile and intrahepatic ducts.
+MRCP revealed 4 large stones (up to 1 cm) in the common bile
+duct, no ductal dilation and periportal edema consistent with
+ascending cholangitis. He remained hemodynamically stable, he
+received one dose of gentamycin and was subsequently started on
+Zosyn/Flagyl, given 2 units of FFP and transfered to [**Hospital1 18**] for
+ERCP. Of note, he was found to have a new RBBB at OSH and was
+ROMI.
+.
+On admssion he was found to have WBC 12.1, BUN/Cr 41/2.0, ALT
+340, AST 238, AP 253, Tbili 5.5 and amylase 564 and was taken
+directly to ERCP. Patient received ampicillin/gentamycin prior
+to procedure and was intubated. ERCP revealed two 1 cm stones,
+multiple smaller stones, CBD dilation to 12 mm, a stent was
+placed and a sphynteromy done. He was succesfully extubated
+after the procedure.
+.
+In the [**Hospital Unit Name 153**], patient denied any pain and stated that he was
+feeling well.
+
+
+Past Medical History:
+CAD s/p CABG
+AFib on coumadin
+COPD on home O2 at 3L
+OSA on CPAP
+DM II
+HTN
+HL
+Melanoma s/p resection
+Asthma
+GERD
+? Dementia
+Depression
+
+
+Social History:
+Patient is retired. He has a 60 pk/yr smoking history, quit in
+the [**2109**]. Denies EtOH
+
+Family History:
+Non-contributory
+
+Physical Exam:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, DMM, oropharynx clear
+Neck: supple
+Lungs: Pursed lip breathing, clear to auscultation bilaterally,
+no wheezes, rales, rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+Labs:
+
+[**2139-4-25**] 05:58PM   WBC-12.1* RBC-4.43* HGB-11.8* HCT-36.9*
+MCV-83 MCH-26.7* MCHC-32.0 RDW-20.7*
+[**2139-4-25**] 05:58PM   PT-22.7* PTT-30.0 INR(PT)-2.1*
+[**2139-4-25**] 05:58PM   GLUCOSE-223* UREA N-41* CREAT-2.0* SODIUM-138
+POTASSIUM-5.1 CHLORIDE-103 TOTAL CO2-19* ANION GAP-21*
+ALT(SGPT)-340* AST(SGOT)-238* ALK PHOS-253* AMYLASE-564* TOT
+BILI-5.5* CALCIUM-8.6 PHOSPHATE-5.3* MAGNESIUM-2.0
+[**2139-4-26**] 05:43AM BLOOD WBC-8.3 RBC-4.04* Hgb-10.7* Hct-33.9*
+MCV-84 MCH-26.5* MCHC-31.6 RDW-21.1* Plt Ct-144*
+[**2139-4-26**] 05:43AM BLOOD PT-19.2* INR(PT)-1.8*
+[**2139-4-26**] 05:43AM BLOOD Glucose-200* UreaN-45* Creat-1.9* Na-141
+K-4.3 Cl-106 HCO3-21* AnGap-18 ALT-281* AST-187* AlkPhos-240*
+Amylase-312* TotBili-3.9*
+
+ERCP Report:
+Date: Saturday, [**2139-4-25**] Endoscopist(s): [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 52995**],
+M.D. (attending)
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD (fellow)
+
+Patient: [**Known firstname **] [**Known lastname 52996**]
+ Ref.Phys.: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+    Anesthesiologists: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 25731**], MD
+    Assisting Nurse(s)/
+Other Personnel: [**Name6 (MD) 39403**] [**Name8 (MD) **], RN
+Birth Date: [**2065-6-3**] (73 years) Instrument: TJF-160VF ([**Numeric Identifier 52997**])
+
+ [**Numeric Identifier 52998**] Indications: A level 4 consult was performed
+Fever, RUQ abdominal pain, jaundice, and an abnormal MRCP with
+dilated bile ducts and choledocholithiasis all consistent with
+cholangitis
+
+Medications: General Anesthesia
+Ampicillin 2 gm IV
+Gentamycin 60 mg IV
+
+Procedure: The procedure, indications, preparation and potential
+complications were explained to the patient, who indicated his
+understanding and signed the corresponding consent forms. A
+physical exam was performed. The patient was administered
+General anesthesia. The patient was placed in the supine
+position and an endoscope was introduced through the mouth and
+advanced under direct visualization until the third part of the
+duodenum was reached. Careful visualization was performed. The
+procedure was not difficult. The quality of the preparation was
+good. The patient tolerated the procedure well. There were no
+complications.
+Findings: Esophagus: Limited exam of the esophagus was normal
+Stomach: Limited exam of the stomach was normal
+Duodenum: Limited exam of the duodenum was normal
+Major Papilla: A single periampullary diverticulum with a medium
+opening was found at the major papilla. There was also a
+medium-sized peri-ampullary lipoma.
+Cannulation:  On the first attempt, cannulation of the biliary
+duct was successful and deep with a sphincterotome after a
+guidewire was placed. Contrast medium was injected resulting in
+complete opacification. The procedure was not difficult. The
+pancreatic duct was not cannulated.
+
+Biliary Tree: Two 10 mm piston-like stones that were causing
+partial obstruction were seen at the lower third of the common
+bile duct. There was post-obstructive dilation of the mid and
+distal CBD to 12 mm with a mild dilation of the upper CBD and
+CHD to 8-9 mm. A sphincterotomy was performed in the 12 o'clock
+position using a sphincterotome over an existing guidewire. Two
+large 1 cm stones and a copious amount of small stones, stone
+fragments, and thick sludge were extracted successfully using a
+9-12mm Rx balloon catheter. A 9cm by 10FR plastic biliary stent
+was placed successfully in the CBD using a Microvasive 10FR
+stent introducer kit. Multiple stones were seen in the
+gallbladder. The cystic duct did opacify with contrast and did
+not appear to be obstructed.
+Impression: A single periampullary diverticulum with a medium
+opening was found at the major papilla.
+There was also a medium-sized peri-ampullary lipoma.
+On the first attempt, cannulation of the biliary duct was
+successful and deep with a sphincterotome after a guidewire was
+placed. Contrast medium was injected resulting in complete
+opacification. The procedure was not difficult.
+The pancreatic duct was not cannulated.
+Two 10 mm piston-like stones that were causing partial
+obstruction were seen at the lower third of the common bile
+duct. There was post-obstructive dilation of the mid and distal
+CBD to 12 mm with a mild dilation of the upper CBD and CHD to
+8-9 mm.
+A sphincterotomy was performed in the 12 o'clock position using
+a sphincterotome over an existing guidewire.
+Two large 1 cm stones and a copious amount of small stones,
+stone fragments, and thick sludge were extracted successfully
+using a 9-12mm Rx balloon catheter.
+A 9cm by 10FR plastic biliary stent was placed successfully in
+the CBD using a Microvasive 10FR stent introducer kit.
+Multiple stones were seen in the gallbladder. The cystic duct
+did opacify with contrast and did not appear to be obstructed.
+
+Recommendations: Return to [**Hospital1 18**] ICU overnight.
+NPO overnight with aggressive IV hydration. He will need several
+liters of NS upfront and then a high infusion rate of
+250-300cc/hr for cholangitis and gallstone pancreatitis.
+Continue IV antibiotics for cholangitis.
+Transfuse 2 units of FFP and please give 2.5 mg of vitamin K.
+No coumadin, ASA, plavix, or NSAIDs for 5-7 days.
+Repeat ERCP with Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 10532**] in 4 weeks for
+stent removal. He will need to hold coumadin for 5 days prior to
+this procedure.
+Additional notes: The procedure was performed by the ERCP fellow
+and Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 52995**].
+
+
+Brief Hospital

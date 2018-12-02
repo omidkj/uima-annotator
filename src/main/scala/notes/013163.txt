@@ -1,0 +1,218 @@
+Admission Date:  [**2196-12-1**]              Discharge Date:   [**2196-12-13**]
+
+Date of Birth:  [**2132-11-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Aspirin
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+anemia and black stools
+
+Major Surgical or Invasive Procedure:
+EGD
+Cardiac catheterization
+
+History of Present Illness:
+64-year-old woman with polycythemia [**Doctor First Name **], myelofibrosis, myeloid
+metaplasia started on revlimid last friday. Pt. reports feeling
+fatigued for the past 2 weeks. She had routine labs drawn 2
+weeks ago. Her HCT at the time was 24 per pt. report. She was
+transfused 2 units pRBCs last Friday. Labs drawn this past
+Sunday again showed an HCT of 28.4. Pt. was sent to [**Hospital1 **], here her
+HCT was 25 and she admitted to melanotic stools. Pt. is being
+admitted for further workup of GI bleeding.
+.
+On review of systems, the patient denies any chest pain,
+shortness of breath, night sweats, fevers, chills, weight loss,
+headaches, dizziness, blurred vision, sore throat, nausea,
+vomiting, abdominal pain, any new rashes, denies dysuria,
+hematuria, increased urgency, diarrhea, constipation, epistaxis.
+Pt. admits to melanotic stools of soft consistency.  All other
+systems reviewed in detail and negative except for what has been
+mentioned above.
+
+
+Past Medical History:
+Aortic Stenosis s/p bovine valve repair in [**3-7**]
+Hypertension
+Polycythemia [**Doctor First Name **]
+Myelodysplastic Syndrome
+Pneumonia [**1-6**]
+s/p Bunion removal
+s/p T&A
+s/p Laser eye surgery
+
+Social History:
+Widow, live alone. Denies tobacco or ETOH use.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: T: 96.9  HR: 86  BP: 131/86  RR: 20
+Gen: NAD
+HEENT:EOMI, PERRL
+CV: RRR III/VI early systolic murmur with radiation to clavicles
+Lungs: CTA bilat.
+Abdomen: BS normoactive, NT/ND, palpable spleen 10cm beyond ribs
+Ext: 2+ tibial pitting edema
+Neuro: A + O x 3, CN II-XII grossly intact, Motor [**5-6**] both upper
+and lower extremities.
+
+Pertinent Results:
+Admission Labs:
+142  101  51
+-------------< 128
+4.7  30  1.0
+estGFR: 56/68 (click for details)
+Ca: 8.4 Mg: 2.3 P: 4.7 D
+ALT: 21 AP: 82 Tbili: 4.6 Alb: 4.2
+AST: 17 LDH: 321
+.
+MCV: 114
+      7.9
+14.5 >----<  283
+      23.8
+N:98 Band:0 L:1 M:1 E:0 Bas:0
+Gran-Ct: [**Numeric Identifier 42606**]
+.
+Blood bank labs:
+Direct coombs positive
+indirect coombs positive
+Anti I positive
+IgG weak
+anti-C3 3+
+cold agglutin negative
+eluate negative
+.
+Trends:
+Hct: 23.8 - 21 - 18.7 - 18.9
+WBC: 14.5 - 12.9 - 16.5 - 25.2
+Plt: [**Telephone/Fax (3) 48657**] - 111
+Fibrinogen: 298 - 334
+Retic count: 5.7 - 2.4 - 3.9
+Tbili: 4.6 - 5.8 - 8.5 - 5.0
+Iron 231, TIBC 239, B12 1661, Folate elevated, hapto <20,
+Ferritin 1890
+.
+[**2196-12-7**] 10:35AM pO2-47* pCO2-37 pH-7.32*
+[**2196-12-7**] 11:17AM pO2-60* pCO2-41 pH-7.30*
+.
+Images:
+admission EKG: Irregular supraventricular rhythm, borderline for
+multifocal atrial tachycardia, and then probable sinus
+tachycardia
+.
+12/1/0: Abdominal ultrasound: 1. Enlarged liver with patent but
+pulsatile portal vein. This reflects increased resistance within
+the portal vein, likely from diffuse liver disease, though the
+hepatic echotexture is normal. Gallbladder wall edema also
+likely reflects sequelae of liver dysfunction. No ascites.  2.
+Markedly enlarged spleen as was seen on outside hospital CT of
+[**2194-1-20**]. Patent splenic vein with normal flow direction.
+.
+[**2196-12-2**]: ECHO: The left atrium is moderately dilated. There is
+mild symmetric left ventricular hypertrophy with normal cavity
+size. Regional left ventricular wall motion is normal. Left
+ventricular systolic function is hyperdynamic (EF>75%). Right
+ventricular chamber size and free wall motion are normal. A
+bioprosthetic aortic valve prosthesis is present. The leaflets
+appear thin/mobile, but the transaortic gradient is higher than
+expected for this type of prosthesis (?related to the dynamic
+left ventricle). No aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. Moderate [2+] tricuspid regurgitation is
+seen. There is severe pulmonary artery systolic hypertension.
+There is no pericardial effusion.  IMPRESSION: Increased
+gradient across the aortic bioprosthesis (?related to dynamic
+left ventricle). Severe pulmonary artery systolic hypertension.
+Preserved global and regional biventricular systolic function.
+.
+[**2196-12-5**]: LENIs: 1. Proximal left greater saphenous vein thrombus
+without extension to the common femoral vein. This finding can
+be present post saphenous vein graft sequalae (cardiac bypass
+surgery).
+2. No additional evidence of superficial or deep venous
+thrombosis.
+.
+[**2196-12-7**]: CXR: Prominence of the central pulmonary vasculature
+with upper zone redistribution and infrahilar hazy opacity _____
+moderate interstitial pulmonary edema. Presumed bilateral
+pleural effusions, if present, are small. No pneumothorax.
+Patient is status post median sternotomy and CABG.
+.
+Micro:
+Guaiac negative x3
+C Diff neg x3
+Urine Cx: klebsiella pansensitive
+Blood cx: NGTD as of [**2196-12-7**]
+
+Brief Hospital Course:
+Pt is a 64 yo female with polycythemia [**Doctor First Name **], myelodysplastic
+syndrome, and myeloid metaplasia who was admitted to [**Hospital1 18**] on
+[**2196-12-1**] with two weeks of fatigue, melena, and decreased Hct.
+She had EGD [**2196-12-2**] which only showed friable mucosa but no
+evidence of bleeding site. Hct drop was thought to be [**2-4**] cold
+agglutin hemolytic anemia from mycoplasma infection and pt was
+always guaiac negative per review of notes. Prednisone 60 mg po
+qday was started on [**2196-12-4**]. Pt received 12 units of pRBC from
+[**2196-12-1**]- [**2196-12-7**]. On [**2196-12-7**] pt desatted to 83% on RA and was
+tachypnic. CXR showed pulmonary edema. Of note, Hct was 18 at
+that time but had just received 1 unit of pRBC. She was
+intubated and transferred to the [**Hospital Unit Name 153**] where she was thought to
+have flash pulmonary edema. She was transfused 2 units of PRBC
+and diuresed with lasix > 1 L. EKG was reportedly unremarkable.
+She was able to extubated on [**2196-12-8**]. She was diuresed 2 L the
+next day and returned to BMT service on [**2196-12-9**].
+.
+Complicating this was ARF to peak of 2.2. She was given
+allopurinol, bicitra, sodium bicarb, D51/2 for lysis with
+elevated uric acid to 14. On [**2196-12-11**] rituxin was added for the
+hemolytic anemia. This am, pt felt SOB, was satting 90% on RA
+(after receiving rituxin in 600 cc fluid). She denied CP but was
+noted to have altered mental status and was only oriented x 1.
+CXR showed b/l pulmonary edema. ABG was 7.43/48/58. Pt was
+transferred to the [**Hospital Unit Name 153**] for BIPAP and intubated for hypoxic
+respiratory failure. In the [**Hospital Unit Name 153**], noted to have an EKG showing
+STE in V4-V6, III. She given ASA 300 mg PR, Clopidogrel 600 mg
+po x 1, and started on heparin gtt. Cardiac catheterization
+showed a 70% left circumflex lesion, not thought to be the
+culprit and not intervened upon. It also showed LVEP of 40 mm
+hg, mod MR, minimal wall motion abnormality of inferior wall,
+and EF 50%. She was then transferred to the CCU and then MICU
+teams. BP decreased to 80s systolic with ventricular ectopy and
+run of SVTS. She was started on neosynephrine. A-line was
+attempted multiple times and fem a line was placed.
+.
+Ms [**Known lastname 48658**] was found to be anuric with a lactacte of 15.  she was
+also found to have focal neurologic signs with deviation of the
+right eye and lack of corneal reflex.  She went for head CT
+which was unrevealing.  THe family was contact[**Name (NI) **] because of her
+extremely poor prognosis; the decision was made to not escalate
+care.  She died shortly after from cardiac arrest.
+
+
+Medications on Admission:
+Anagrelide 2 mg [**Hospital1 **]
+hydroxyurea 1000mg p.o. [**Hospital1 **]
+folic acid 1 mg p.o. b.i.d.,
+prednisone 5mg qday
+omeprazole 20 mg p.o. daily,
+fludrocortisone 0.1 mg p.o. daily,
+Neurontin 300 mg p.o. b.i.d.,
+Toprol-XL 150mg qday
+Lasix 80mg po qd
+Allopurinol 400 po qHS
+Revlimid 25mg.
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+- hemolytic anemia
+- aortic stenosis s/p b

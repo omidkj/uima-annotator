@@ -1,0 +1,165 @@
+Admission Date:  [**2106-1-10**]              Discharge Date:   [**2106-1-16**]
+
+Date of Birth:  [**2036-1-10**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Levaquin / Lovastatin / Fenofibrate
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+vertigo this morning
+
+Major Surgical or Invasive Procedure:
+cerebral angiography
+intubation
+
+
+History of Present Illness:
+The pt is a 70 year-old woman with a history of CAD,
+hypothyroidism and depression who presents following an episode
+of vertigo this morning.  Patient was intubated at the time of
+arrival to [**Hospital1 18**], so history was obtained from [**Location (un) **]
+medical
+records and the patient's son.  Reportedly at 7:30am the patient
+reported sudden onset of severe vertigo accompanied by nausea
+and
+vomiting, to the extent that she was unable to stand or walk.
+She called EMS, however they had to call the police department
+to
+get into the house, as the patient was so vertiginous she was
+unable to even walk to the door to let them in.  She was taken
+to
+[**Hospital3 7569**], and apparently on evaluation there she was
+initially reportedly 'neurologically intact' aside from a mild
+nystagmus and gait instability.  She underwent a NCHCT which
+showed evidence of prior infarcts, however no new hemorrhage or
+infarct.  Arrangements were made to transport her to [**Hospital1 18**] for
+further evaluation, and [**Location (un) **] arrived at 9:45am.  In the
+process of obtaining signout and preparing her for transport,
+they report that she acutely decompensated, developing left
+facial droop, left arm and leg weakness, and dysarthria and
+swallowing difficulties.  She was noted to be quite agitated,
+flailing her arm and leg on the right side.  Given the acute
+decline, the decision was made to intubate her, which was done
+at
+10:07am, and then she was immediately transferred to [**Hospital1 18**],
+arriving at 10:49am.
+
+
+
+Past Medical History:
+- Hypothyroidism
+- CAD s/p stenting,
+- s/p CEA
+- Depression
+- Prior TIAs, which son describes as transient left sided
+weakness that resolved.
+
+
+Social History:
+unknown
+
+Family History:
+unknown
+
+Physical Exam:
+P: 40 R: 16  BP: 160/80 SaO2: 100% intubated
+General: Intubated, sedated, not following commands.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic (performed off sedation, ~1 hour after patient
+received fentanyl, versed and succinylcholine for intubation)
+
+-Mental Status: Not responsive to verbal or painful stimuli
+
+-Cranial Nerves: Pupils 2mm and minimally reactive.  Sluggish
+corneals, negative oculocephalics.  Intact gag.
+
+-Motor/Sensory: Flaccid paralysis throughout.  Triple flexion
+vs.
+withdrawal on the right leg to painful, stimuli, otherwise no
+response in other limbs.
+
+-DTRs:
+  [**Name2 (NI) **] Tri [**Last Name (un) 1035**] Pat Ach
+L  1  1    1    1   1
+R  1  1    1    1   1
+Plantar response was extensor on the right, mute on the left.
+
+
+
+Pertinent Results:
+[**2106-1-15**] EEG This is an abnormal video EEG due to the presence of
+a slow
+background, reaching a maximum of 6 Hz. This represents a
+moderate
+encephalopathy. It is also abnormal due to the presence of L>R
+hemisphere bursts of delta slowing, suggesting additional focal
+subcortical dysfunction, though the tracing cannot specify the
+etiology.
+There were no electrographic seizures in the recording.
+
+[**2106-1-11**] MRI/A 1. Multiple acute/subacute infarcts, both in the
+supra- and infratentorial compartments as described above.
+2. Lack of flow related enhancement in the right vertebral and
+the right
+posterior cerebral artery, are consistent with occlusion.
+
+
+
+Brief Hospital Course:
+Patient was admitted to the ICU service after tPA was given and
+it was determined that she was not a candidate for intervention
+due to b/l vertebral artery occlusion. She was intubated and
+during hospital course she became less responsive and stopped
+moving her extremities or withdrawing to painful stimuli. EEG
+was consistent with encephalopathy, but no evidence of seizures.
+Discussion with family memebers revealed that she would not want
+to live like this and the decision wa smade with her son to not
+trach/PEG and to make her comfort measures only.
+
+Patient was extubated with family present and died within 24
+hours.
+
+Medications on Admission:
+unknown on admission
+
+Discharge Medications:
+deceased
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+stroke (top of the basilar syndrome)
+basilar artery thrombosis
+
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+Ms. [**Known lastname **] developed severe vertigo with progression to left side
+hemiplegia and slurred speech. Initially [**Last Name (un) 4662**] to [**Hospital **]
+Hospital and then transferred to [**Hospital1 18**], IV tpA started upon here
+and she was taken to angio suite; thrombectomy not possible, but
+IA tPA given. No improvement clinically. She was made comfort
+measures and pronounced on [**2106-1-16**] at 13:50.
+
+Followup Instructions:
+N/A
+
+
+
+Completed by:[**2106-2-17**]

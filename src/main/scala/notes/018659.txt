@@ -1,0 +1,229 @@
+Admission Date:  [**2103-9-6**]              Discharge Date:   [**2103-9-10**]
+
+Date of Birth:  [**2026-4-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Zithromax / Erythromycin Base
+
+Attending:[**First Name3 (LF) 13541**]
+Chief Complaint:
+Melena and hypotension
+
+Major Surgical or Invasive Procedure:
+Upper Endoscopy
+Duodenal ulcer biopsy and cauterization
+
+
+History of Present Illness:
+This is a 77 yo M with h/o DM II, dementia, HTN, COPD, and
+recent admission for cellulitis on Levo/Flagyl/Bactrim who
+presents from Nursing home with melena and hypotension.  Patient
+reports one episode of melena yesterday which he describes as
+black loose stool.  He denies any hematochezia, BRBPR, bloody or
+coffee ground emesis, abdominal pain, fevers, or chills.  He
+does reports some nausea.  Per report at his nursing home, BPs
+were noted to be in the 70s along with decreased HCT so he was
+transferred to [**Hospital1 18**].
+
+In the ED:  Temp 97.7, HR 83, BP 116/60.  Patient was given 1u
+PRBC, NG lavage showed coffee ground emesis which cleared with
+200cc lavage.
+
+On arrival to the SICU, patient denies diarrhea, melena,
+abdominal pain, bloody emesis, coffee ground emesis.
+
+Otherwise ROS negative.
+
+Past Medical History:
+Past Medical History:
+1. Hypertension.
+2. Type 2 diabetes.
+3. Chronic renal impairment.
+4. Peripheral vascular disease s/p stent to left SFA, s/p
+therectomy and PTA of the right
+5. Atrial fibrillation.
+6. Hyperlipidemia.
+7. Chronic obstructive pulmonary disease.
+8. [**Last Name (un) 309**] body dementia.
+9. CAD s/p stents on Plavix
+
+
+Social History:
+Currently lives in Stone [**Hospital3 **] home.  He continues to
+smoke at least one pack of cigarettes a day.  Denies etoh use,
+h/o IVDU.
+
+
+Family History:
+Not obtained
+
+Physical Exam:
+VS: BP 115/69  HR 91  RR 12  95% RA
+GEN: AAO X 3, lethargic, responds to verbal stimuli
+HEENT: EOMI, PERRLA, dry mucous membranes, OP clear
+NECK: Supple, no JVD appreciated
+CV: normal S1, S2. irregularly irregular. no m/r/g appreciated
+CHEST: +minor crackles at bilateral bases, +mild expiratory
+wheezes
+ABD: Soft, NT, ND, no HSM, normoactive BS
+EXT: no peripheral edema, +1 distal pulses
+SKIN: erythema noted over bilateral lower shins, warm to touch,
+several overlying healing skin ulcers, no pus.
+Rectal: +small amount black stool, guaiac +, +stage 2 ulcer of
+superior buttocks
+
+
+Pertinent Results:
+STUDIES:
+.
+[**2103-8-31**] 4:19 pm SWAB      Source: R anterior LE.
+
+   WOUND CULTURE (Preliminary):
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         OF TWO COLONIAL MORPHOLOGIES.
+Please contact the Microbiology Laboratory ([**7-/2401**])immediately
+if
+sensitivity to clindamycin is required on this patient's
+isolate.
+Oxacillin RESISTANT Staphylococci MUST be reported as
+alsoRESISTANT to other penicillins, cephalosporins,
+carbacephems,carbapenems, and beta-lactamase inhibitor
+combinations. Rifampin should not be used alone for therapy.
+
+               SENSITIVITIES: MIC expressed in MCG/ML
+     _______________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------   =>4 R
+PENICILLIN G---------- =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------   <=1 S
+.
+
+[**2103-9-6**] 01:25AM   WBC-11.9* RBC-3.11* HGB-9.1*# HCT-29.1*
+MCV-94 MCH-29.4 MCHC-31.4 RDW-14.0
+[**2103-9-6**] 01:25AM   NEUTS-74.7* LYMPHS-18.8 MONOS-5.4 EOS-0.8
+BASOS-0.3
+[**2103-9-6**] 01:25AM   PLT COUNT-449*#
+[**2103-9-6**] 01:25AM   PT-15.6* PTT-25.6 INR(PT)-1.4*
+[**2103-9-6**] 01:25AM   ALT(SGPT)-23 AST(SGOT)-25 ALK PHOS-83 TOT
+BILI-0.3
+[**2103-9-6**] 01:25AM   GLUCOSE-86 UREA N-51* CREAT-1.0 SODIUM-138
+POTASSIUM-5.1 CHLORIDE-102 TOTAL CO2-31 ANION GAP-10
+[**2103-9-6**] 01:31AM   HGB-9.8* calcHCT-29
+[**2103-9-6**] 05:45AM   HGB-9.3* HCT-28.0*
+[**2103-9-6**] 08:39AM   HGB-10.0* calcHCT-30
+
+Brief Hospital Course:
+77 yo M with h/o CAD, DM II, PVD, COPD, cellulitis, who
+presented with melena and hypotension, and underwent
+embolization after duodenal ulcers were identified.
+
+# Melena: Patient with melena x 1, along with hypotension at
+nursing home and HCT drop from 37.3 on [**9-1**] to 29.1.  GI was
+consulted. GI performed an EGD on the morning of [**9-7**], which
+showed 2 duodenal ulcers, cauterized. Pt was initially
+transfused 1 unit PRBCs in emergency department.  Hct was 28,
+stable at 29.9-30 while on MICU service. Pt. was treated with
+PPI IV BID.  BP meds were held.  After discussion with GI,
+decision was made to continue plavix given pt's CAD s/p stents,
+but ASA was decreased from 325 to 81 mg. Pt should discuss
+resumption of full dose ASA with his PCP.
+
+# Hypotension: Likely in setting of UGIB, was hemodynamically
+stable in MICU.  Hct stable as above.  Did not require fluid
+boluses while on MICU service or on floor. Generally maintained
+good pressures 110-122 systolic while on floor. The patient was
+discharged on Metoprolol Succinate 100 mg Tablet Sustained
+Release one per day.
+
+# Cellulitis: Patient with recent discharge for cellulits, on
+Bactrim/Levo/Flagyl PO.  These antibiotics were discontinued as
+the wound culture showed resistance, and patient was started on
+Vanco IV for 14 days first dose [**2103-9-6**].
+
+# CAD s/p stents - Pt s/p PCI of LAD in [**6-/2103**] with 2 Bare Metal
+Stents.  Plavix continued and ASA decreased to 81 mg as above.
+In the context of his hypotension on presentation, his home
+ACEi, BB, and statin were initially held. Metoprolol was later
+introduced. We advise that the patient's PCP consider
+[**Name9 (PRE) 18290**] his ACE-I as outpatient if pressures remain stable.
+
+# COPD: Patient lethargic on arrival, on O2.  O2 stopped, ABG
+taken, hypoxic to 89% transiently which improved immediately.
+ABG 7.39/49/68.  Lethargy likely [**2-24**] to lack of sleep.  His
+tiotropium was continued, and albuterol nebs were ordered.
+
+# DM II - Pt continued on half dose NPH while NPO.
+
+# Atrial fibrillation - Hx of afib, not on coumadin.  Continued
+on ASA 81mg as above.  When patient was NPO, he was continued on
+Digoxin IV and his digoxin level was checked.  As above, his
+beta blocker was held, and restarted at the end of his course
+with good results. Patient should discuss restarting Coumadin
+with PCP after GI tract has had some time to heal.
+
+# PVD - History of SFA stent: Continued plavix, decreased ASA
+dose as above.
+
+# Dementia - Held aricept, paroxetine while NPO, these were
+reintroduced at the end of his course.
+
+# Sacral Ulcer:  Pt was seen by wound care.  Wound was dressed
+with wet to dry dressings.
+
+Medications on Admission:
+Bactrim 80-400mg 2tabs PO BID
+Levofloxacin 500mg daily
+Flagyl 500mg TID
+Insulin Sliding Scale
+NPH 36u SQ [**Hospital1 **]
+Furosemide 20mg daily
+Digoxin 125mcg daily
+Lisinopril 20mg daily
+Toprol XL 150mg daily
+MVI
+Paroxetine 10mg qAM
+Plavix 75mg daily
+Spiriva 18mcg capsule daily
+Thiamine 1 tab daily
+Aricept 10mg daily
+Simvastatin 40mg daily
+Trazodone 37.5mg daily
+ASA 325mg daily
+Bisacodyl 10mg supp PRN
+Simethicone 30mg q6h PRN
+Milk of Magnesia 30mg daily PRN
+Acetaminophen PRN
+
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*0*
+3. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: [**1-24**]  Inhalation Q6H (every 6 hours) as needed.
+Disp:*120 * Refills:*0*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24 hr(s)* Refills:*0*
+6. Paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+Disp:*60 Tablet(s)* Refills:*0*
+8. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+9. Trazodone 50 mg Tablet Sig: 0.75 Tabl

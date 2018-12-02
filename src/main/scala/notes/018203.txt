@@ -1,0 +1,99 @@
+Admission Date:  [**2112-9-23**]              Discharge Date:   [**2112-10-1**]
+
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 371**]
+Chief Complaint:
+Fall
+
+Major Surgical or Invasive Procedure:
+1. Stent graft repair of ruptured descending thoracic aorta.
+2. Right femoral artery exposure for delivery of stent graft
+and extensive femoral artery reconstruction.
+3. Thoracic aortography.
+
+History of Present Illness:
+The patient is an 89 year-old male who fell 15 feet off a
+ladder. He was found by a passerby and taken to a hospital where
+he was found to have an aortic tear, multiple rib fractures with
+hemothorax, and was transferred to [**Hospital1 18**] for further care.
+
+Past Medical History:
+Dementia, prostate cancer, h/o kidney stones, right foot drop
+
+Social History:
+Widow, lives alone, has two sons close by.
+No EtOH or tobacco currently.
+
+Physical Exam:
+On admission to the T-ICU:
+
+Temp 99.3, HR 73, BP 146/43, RR 28, SaO2 97% on pressure support
+ventilation
+Neuro: not responding to commands
+HEENT: PERRLA
+CV: RRR
+Resp: CTAB
+Abd: Soft, NTND, +BS
+Ext: 1+ edema
+
+Pertinent Results:
+[**2112-9-23**] 06:15PM   WBC-16.6* RBC-3.31* HGB-11.0* HCT-31.3*
+MCV-95 MCH-33.3* MCHC-35.2* RDW-14.4
+
+Brief Hospital Course:
+The patient was taken emergently to the operating room for
+repair of aortic disruption (see operative note for details).
+Postoperative TEE showed the thoracic aortic stent graft in good
+placement with no aortic disruption visualized. The patient was
+taken to the CSRU for immediate post-op care. He was transferred
+to the Trauma ICU on post op day one. A CT scan of the head
+showed foci of intraventricular hemorrhage within the posterior
+horns of the lateral ventricles bilaterally. There were no
+c-spine fractures identified on imaging. Fractures of the right
+1st rib and left 4th, 5th, and 12th ribs were seen as well as
+left transverse processes of T1 and T2. Neurosurgery,
+ortho-spine, vascular, and trauma surgery teams followed the
+patient's progress. The patient developed new onset atrial
+fibrillation and was treated with Amiodarone. He developed
+increasing O2 requirements requiring increased ventilatory
+support. He also developed a fever and underwent a fever workup
+while starting empiric antibiotic treatment. His neurologic
+status did not improve, and a neurology consult was obtained.
+The neurological consult impression was that MRI findings and
+clinical exam could be consistent with diffuse axonal injury.
+The patient remained in a comatose state. Attending physician,
+[**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], had extensive discussions with the patient's
+two sons who decided to withdraw care in accordance with the
+patient's advance directive. On hospital day 8, the patient was
+made "comfort measures only" as agreed upon by his two sons and
+attending physician. [**Name10 (NameIs) **] patient expired at 1:30am on hospital
+day 9.
+
+Medications on Admission:
+Anacin prn
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Aortic disruption secondary to trauma, multiple rib fractures
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+
+Completed by:[**2112-11-29**]

@@ -1,0 +1,222 @@
+Admission Date:  [**2171-6-4**]              Discharge Date:   [**2171-6-18**]
+
+Date of Birth:  [**2091-8-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 896**]
+Chief Complaint:
+Abdomnal pain
+
+Major Surgical or Invasive Procedure:
+ERCP with placement of a plastic stent ([**2171-6-4**])
+PICC line placement ([**2171-6-6**])
+Percutaenous cholecystostomy drain ([**2171-6-7**])
+Drainage of liver abscess by interventional radiology ([**2171-6-13**])
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 79yoM with a history of HTN, HLD, and previous
+bladder neoplasm who developed acute RUQ pain two days ago. It
+occurred suddenly, has been constant, dull, and nonradiating in
+nature. He has been anorexic but denies nausea or vomiting. He
+notes subjective fevers. He had confusion per his wife. His
+urine has been cola-colored, but denies changes in his stool.
+Has not noticed yellowing of skin. No previous history of
+biliary or hepatic disease. Denies previous gall stones. He saw
+his PCP, [**Name10 (NameIs) 1023**] referred him to the [**First Name4 (NamePattern1) 5871**] [**Last Name (NamePattern1) **]. There he was
+febrile to 103.8F with systolic blood pressures in the upper 80s
+which responded well to fluid resuscitations. He had a RUQ US
+showing acute cholecystitis with a CBD diameter of 5mm. A CT
+showed pneumobilia with scattered hepatic densities concerning
+for abscesses.
+
+He was transferred to [**Hospital1 18**], initial VS were T99.4 BP83/42 HR80
+RR18 Sat97RA. His lactate was elevated to 4.4, he received 2L
+NC. His initial labs showed transaminitis of AST/ALT 198/167,
+Tbili 4.9 Dbili 4.0, AP 34, Lipase 86. Surgery was consulted for
+suspicion of cholangitis. He received zosyn, and was admitted to
+[**Hospital Unit Name 153**] briefly before undergoing ERCP, which revealed only sludge
+in the gallbladder without note of stone. A stent was placed,
+and he received tetracycline/clindamycin for suspected
+claustridium given his pneumobilia. He was transferred back to
+the [**Hospital Unit Name 153**] in stable condition.
+
+On arrival back to the [**Hospital Unit Name 153**], his initial VS were T95.6 P82
+BP118/39 RR14 Sat94%RA. He has mild RUQ pain but he is
+comfortable and has no acute complain. On ROS, denies chest
+pain, shortness of breath, N/V/D, no palps, myalgias,
+arthralgieas, dysuria, hematuria.
+
+Past Medical History:
+PMH:
+- HTN
+- hyperlipidemia
+- ? bladder neoplasm
+
+PSH:
+- TURP
+- ? resection of tumor from the bladder
+
+
+Social History:
+Lives with wife, retired, smoked a pack a day for about 40
+years, quit several years ago
+
+
+Family History:
+No family history of biliary or hepatic disease, gallstones,
+pancreatitis
+
+Physical Exam:
+on admission:
+gen: NAD, pleasant, jaundiced sclera, flushed in the face,
+uncomfortable in pain
+VS: 99.4 80 83/42 16 97% Nasal Cannula
+CV: RRR
+pulm: CTA b/l
+abdomen: mildly softly distended, + BS, tender in the RUQ
+tolight palpation, also tender in RLQ to deeper palpation
+extremities: no LE edema, no cyanosis
+
+
+Pertinent Results:
+ERCP ([**2171-6-4**])
+The common bile duct, common hepatic duct, right and left
+hepatic ducts, biliary radicles and cystic duct were filled with
+contrast and well visualized. The course and caliber of the
+structures are normal with no evidence of extrinsic compression.
+There was a filling defect in the middle third of the common
+bile duct. This could represent stone fragment or debris. The
+intrahepatics appeared normal, but the cholangiogram was limited
+due to a small amount of contrast injection due to the patient's
+sepsis from cholangitis. Successful placement of a plastic
+biliary stent for decompression. Otherwise normal ercp to third
+part of the duodenum
+
+CT ABDOMEN ([**2171-6-4**])
+1. Air within a mildly distended gallbladder with associated
+pericholecystic stranding is compatible with acute
+cholecystitis, with likely involvement of a gas-forming
+organism.
+2. Pneumobilia and ill-defined hypodensities in the left lobe of
+the liver are concerning for infection with developing hepatic
+abscesses, likely secondary to ascending cholangitis.
+3. Calcifications in the region of the distal common bile duct
+could be within the lumen of the duct, although could also be
+within the pancreatic head. Further evaluation could be
+performed with MRCP, if clinically indicated.
+4. Right adrenal nodule, not fully characterized.
+5. Well-defined hypodense liver lesions are likely simple cysts,
+as described above.
+
+DISCHARGE LABS ([**2171-6-17**])
+WBC-7.0 RBC-3.55* Hgb-11.1* Hct-33.4* MCV-94 MCH-31.2 MCHC-33.2
+RDW-13.4 Plt Ct-362
+Glucose-107* UreaN-8 Creat-1.0 Na-141 K-3.7 Cl-104 HCO3-26
+AnGap-15
+BLOOD ALT-63* AST-51* LD(LDH)-248 AlkPhos-52 TotBili-0.6
+
+BLOOD CULTURE ([**2171-6-4**]): pansensitive
+
+BLOOD CULTURE ([**2171-6-10**])
+    GRAM POSITIVE ROD(S).
+      CONSISTENT WITH CLOSTRIDIUM OR
+
+      BACILLUS SPECIES.
+
+BILE CULTURE ([**2171-6-7**])
+     KLEBSIELLA PNEUMONIAE
+                             |          KLEBSIELLA OXYTOCA
+                             |          |
+AMPICILLIN/SULBACTAM--   <=2 S        8 S
+CEFAZOLIN-------------   <=4 S       16 I
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN/TAZO-----       S          S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+   ANAEROBIC CULTURE (Final [**2171-6-11**]):
+      CLOSTRIDIUM PERFRINGENS.    SPARSE GROWTH.
+
+
+Brief Hospital Course:
+1. SIRS/sepsis with:
+     - cholangitis
+     - septicemia (GNR and anaerobic bacteremia)
+     - liver abscess
+
+Initially presented to an OSH with signs and symptoms suggestive
+of cholangitis (RUQ pain, fever and hypotension; labs and
+ultrasound indicative of biliary obstruction). He was taken for
+ERCP on [**6-4**] which revealed gallbaldder sludge and a filling
+defect in the middle third of CBD without stone presence or
+extrinsic compression; a stent was placed.
+
+Surgery recommended PTC drain to decompress the gallbladder
+which was done on [**6-7**]. Blood cultures returned with klebsiella
+and clostridium species. After initially treating broadly,
+antibiotics were narrowed. Unfortunately, the patient worsened
+with RUQ ultrasound and MRCP showed worsening perihepatic
+abscesses; repeat blood culture returned positive for bacillus.
+After drainage of the largest liver abscess by interventional
+radiology and use of vancomycin (for empiric enterococcus),
+pip-tazo, and fluconazole (for empiric fungal coverage) he once
+again improved.
+
+At the time of discharge, plan included;
+     - antibiotics (vancomycin and ertepenem) until
+cholecystectomy
+     - cholecystectomy in [**4-3**] weeks
+     - once cholecystectomy performed, both the gallbladder
+drain and plastic stent can be removed
+
+2. CHF, acute diastolic, resolved. After volume repletion was
+grossly overloaded requiring diuresis.
+
+3. Acute renal failure. Improved with supportive care.
+
+Medications on Admission:
+- HCTZ 25 mg PO qd
+- cetirizine 10 mg PO qd
+- citalopram 20 mg PO qd
+
+
+Discharge Medications:
+1. citalopram 40 mg Tablet Sig: One (1) Tablet PO once a day.
+2. hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once
+a day.
+3. cetirizine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+4. ertapenem 1 gram Recon Soln Sig: One (1) gram Injection once
+a day for 4 weeks.
+Disp:*qs mg* Refills:*0*
+5. vancomycin 500 mg Recon Soln Sig: 1250 (1250) mg Intravenous
+Q 12H (Every 12 Hours) for 4 weeks.
+Disp:*[**Numeric Identifier **] mg* Refills:*0*
+6. Outpatient Lab Work
+[**2171-6-24**] - result to Dr. [**Last Name (STitle) 9461**] (fax [**Telephone/Fax (1) 17715**])
+Vancomycin trough
+LFTs
+CBC with diff
+Chem 7
+7. Outpatient Lab Work
+[**2171-7-2**] - result to Dr. [**Last Name (STitle) 9461**] (fax [**Telephone/Fax (1) 17715**])
+Vancomycin trough
+LFTs
+CBC with diff
+Chem 7
+8. Outpatient Lab Work
+[**2171-7-8**] - result to Dr. [**Last Name (STitle) 9461**] (fax [**Telephone/Fax (1) 17715**])
+Vancomycin trough
+LFTs
+CBC with diff
+Chem 7
+9. Outpati

@@ -1,0 +1,225 @@
+Admission Date:  [**2131-2-24**]              Discharge Date:   [**2131-3-21**]
+
+Date of Birth:  [**2077-12-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 465**]
+Chief Complaint:
+Right heel osteomyelitis
+
+Major Surgical or Invasive Procedure:
+Partial debridement of right heel osteomyelitis
+Hemodialysis
+
+History of Present Illness:
+This is a 53 year-old male with end stage renal disease, insulin
+dependent diabetes, coronary artery disease, congestive heart
+failure, and right heel chronic osteomyeltis who was admitted to
+an outside hospital on [**2131-2-10**] with fevers and weakness.  A wound
+culture of his right heel grew out MRSA, providencia stuartii,
+and e. coli.  He also had a MRSA bacteremia that has
+subsequently cleared.  He was treated with vancomycin and
+ertapenem.  He had a transesophageal echocardiogram that showed
+no vegetations and no involvement of his pacer leads.  He also
+had a tagged white cell scan that only showed enhancement at the
+right heel.  He was transfered to the [**Hospital1 18**] for surgical
+debridement of his right heel osteomyelitis.
+.
+At this time, he states that he continues to have some fevers
+with chills although they are less than previously.  He denies
+any pain in his right heel as he has no sensation in either
+foot.  He denies shortness of breath, chest pain, abdominal
+pain, fatigue, weakness, diarrhea, or urinary symptoms.
+
+Past Medical History:
+1. Chronic osteomyelitis in his right foot for 18 months
+complicated by MRSA bacteremia.
+2. Status post skin graft to left heel in [**2126**] for ulcer.
+3. Congestive heart failure with an EF of 60%
+4. Coronary artery disease status post 2 stent placements
+5. Status post pacemaker placement
+6. Insulin dependent diabetes diagnosed at age 37, complicated
+by neuropathy and retinopathy
+7. Peripheral vascular disease status post bilateral lower
+extremity bypass grafts
+8. Hypertension
+9. Hypercholesterolemia
+10. End stage renal disease on hemodialysis
+11. GERD
+12. Constipation
+13. Depression
+14. Insomnia
+
+
+Social History:
+He lives with his wife.  [**Name (NI) **] doesn't smoke or drink.
+
+Family History:
+There is a history of diabetes.  His mother is on hemodialysis.
+
+Physical Exam:
+Vitals: Temperature: Pulse: Blood Pressure: Respiratory Rate:
+Oxygen Saturation:
+General: Well appearing gentleman lying in bed in no acute
+distress
+HEENT: Pupils equal and reactive, extraoccular movements intact,
+moist mucous membranes.
+Neck: Supple. No cervical, submadibular, supraclavicular
+lymphadenopathy.
+Cardiac: Regular rate and rhythm, s1, s2
+Pulmonary: Clear to ascultation bilaterally
+Abdomen: Normoactive bowel sounds, soft, nontender,
+nondistended.
+Extremities: Warm and well perfused without cyanosis or edema, 6
+cm in diameter ulcer to bone on right heel that is about 1 cm
+deep. Left forearm AV fistula.
+Neuro: Cranial nerves II-XII grossly intact, decreased
+senstation in bilateral feet, otherwise exam non-focal.
+
+Pertinent Results:
+Outside Hospital Studies:
+.
+Cultures:
+1. Blood ([**Date range (1) 24213**]): MRSA
+2. Right heel: MRSA, providencia stuartii, and e. coli
+.
+Imaging:
+1. CT lower extremity ([**2-9**]): osteomyelitis of right calcaneus
+and talus, large ulcer of plantar surface.
+2. TEE: No vegetations, LA enlargement, dilated LV with
+concentric hypertrophy, EF = 50%.
+3. Tagged white cell scan: Enhancement of right heel
+.
+Labs on Admission
+[**2131-2-24**] 05:35PM BLOOD WBC-14.0* RBC-3.99* Hgb-10.6* Hct-31.3*
+MCV-79* MCH-26.7* MCHC-34.0 RDW-19.0* Plt Ct-214
+[**2131-2-24**] 05:35PM BLOOD Glucose-149* UreaN-31* Creat-6.8* Na-134
+K-3.5 Cl-97 HCO3-22 AnGap-19
+[**2131-2-24**] 05:35PM BLOOD Calcium-8.1* Phos-3.9 Mg-1.6
+.
+Labs on Discharge
+[**2131-3-21**] 07:25AM BLOOD WBC-10.1 RBC-3.41* Hgb-9.3* Hct-29.1*
+MCV-85 MCH-27.3 MCHC-32.0 RDW-18.3* Plt Ct-345
+[**2131-3-21**] 07:25AM BLOOD Plt Ct-345
+[**2131-3-21**] 07:25AM BLOOD PT-13.9* PTT-25.3 INR(PT)-1.2*
+[**2131-3-21**] 07:25AM BLOOD Glucose-99 UreaN-27* Creat-9.2*# Na-136
+K-4.6 Cl-97 HCO3-26 AnGap-18
+.
+Micro
+AEROBIC BOTTLE (Final [**2131-3-14**]):
+      STAPH AUREUS COAG +.    FINAL SENSITIVITIES.
+         STRAINS #1 AND #3.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+      STAPH AUREUS COAG +.    FINAL SENSITIVITIES.
+         STRAIN#2.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |          STAPH AUREUS COAG +
+                             |          |
+CLINDAMYCIN-----------   =>8 R      =>8 R
+ERYTHROMYCIN----------   =>8 R      =>8 R
+GENTAMICIN------------ <=0.5 S    <=0.5 S
+LEVOFLOXACIN----------   =>8 R      =>8 R
+OXACILLIN-------------   =>4 R      =>4 R
+PENICILLIN------------ =>0.5 R    =>0.5 R
+RIFAMPIN-------------- <=0.5 S    <=0.5 S
+TETRACYCLINE----------   <=1 S      <=1 S
+VANCOMYCIN------------   <=1 S      <=1 S
+
+   ANAEROBIC BOTTLE (Final [**2131-3-16**]):
+      STAPH AUREUS COAG +.    SENSITIVITIES PERFORMED FROM
+AEROBIC BOTTLE.
+.
+
+RADIOLOGY
+[**2131-2-24**]
+[**Hospital 93**] MEDICAL CONDITION:
+53 year old man with right heel osteo
+REASON FOR THIS EXAMINATION:
+evaluate for other bone involvement
+INDICATION: History of right heel osteomyelitis, evaluate for
+bone involvement.
+
+COMPARISONS: [**2130-6-29**].
+
+RIGHT FOOT THREE VIEWS:
+
+Again seen is a fracture through the proximal third of the
+calcaneus with sclerotic margins. There is evidence of
+destruction, osseous debris, and sclerosis in the region of the
+calcaneus. There has been interval development of a large soft
+tissue defect on the plantar aspect of the heel. Again seen is
+diffuse osteopenia and vascular calcifications.
+
+IMPRESSION: Old non-united fracture of the anterior calcaneus
+with sclerotic margins and evidence of osseous debris and
+destruction. Chronic infection could have a similar appearance.
+.
+[**2131-3-12**]
+ECHO
+Conclusions:
+Pacemaker wire is identified in the RA/RV. There is a large (>3
+cm long),
+highly mobile echodense mass(es) associated with the RV pacing
+lead. The mass  is adherent to the pacing lead in multiple loci,
+and extends from the high  right atrium, along the lead, to the
+tricuspid valve. The mass may also  involve the tricuspid valve.
+The mass likely represents avegetation, although  the
+differential diagnosis includes a lead-associated thrombus. No
+atrial  septal defect is seen by 2D or color Doppler. Left
+ventricular wall thickness, cavity size, and systolic function
+are normal. There are simple atheroma in the descending thoracic
+aorta. The aortic valve leaflets (3) are mildly  thickened. No
+masses or vegetations are seen on the aortic valve. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. No mass
+or vegetation is seen on the mitral valve. Mild (1+) mitral
+regurgitation is  seen. The tricuspid valve leaflets are mildly
+thickened. There is a small  circumferential pericardial
+effusion.
+IMPRESSION: Large mass/vegetation on the right ventricular
+pacing lead. Mild
+tricuspid regurgitation. Small pericardial effusion.
+
+[**2131-3-15**]
+CHEST PA & L
+IMPRESSION:
+1) Pacing lead terminates in right ventricle with no
+pneumothorax.
+2) Patchy posterior basilar right lower lobe opacity which may
+relate to atelectasis, aspiration or evolving pneumonia. Follow
+up radiographs may be helpful.
+
+
+
+
+
+Brief Hospital Course:
+This is a 53 year-old male with diabetes, end stage renal
+disease on dialysis, coronary artery disease, chronic
+osteomyletis complicated by MRSA bacteremia admitted for
+surgical debridement of his osteomyelitis.
+.
+#. Osteomyelitis: He was continued on vancomycin and imipenem
+beca

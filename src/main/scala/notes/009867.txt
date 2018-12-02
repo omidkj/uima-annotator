@@ -1,0 +1,193 @@
+Admission Date:  [**2137-5-31**]              Discharge Date:   [**2137-6-6**]
+
+Date of Birth:  [**2061-9-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Neurontin
+
+Attending:[**Last Name (NamePattern1) 495**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+Thoracentesis
+
+History of Present Illness:
+Mrs. [**Known lastname **] is a 75 year old female with a PMH significant
+for metastatic colon cancer on palliative cetuximab therapy
+admitted to the MICU for dyspnea and hypoxia. The patient
+reports that she has had progresive shortness of breath over the
+past 2 weeks such that she was dyspneic with minimal activity
+inclduing activities such as showering. She denies any
+orthopnea, PND, increased LE edema, CP, f/c/s, or productive
+cough.  The patient presented to oncology clinic this morning
+for scheduled cetuximab therapy and was noted to have a SaO2
+87%RA increased to mid-90s on 3L nc.  Upon infusion of
+cetuximab, she developed acute worsening of her dyspnea and was
+transferred to the [**Hospital1 18**] ED for further evaluation.
+.
+In the [**Hospital1 18**] ED, VS 95.2 146 132/87 46 94%NRB.  An ECG was
+notable for afib with RVR, CXR for right-sided pleural effusion
+and diffuse parenchymal opacities, and a large right-sided
+pleural effusion, and CTA was negative for PE. The patient was
+placed on BiPap with subjective improvement and subsequently
+converted to NSR.  Attempts to discontinue BiPap resulted in
+marked increase in dyspnea and O2 sat 90%.  The patient was also
+noted to have a TnT of 0.4 up from <0.01 on admission, BNP 700,
+and lactate 4.  Cardiology was called in the ED and based on ECG
+and cardiac biomarkers, elevated TnT was felt to be secondary to
+demand ischemia but recommended heparin gtt.  The patient
+received ASA 325 mg, vancomycin, heparin gtt, and pip/tazo and
+was transferred to the MICU for further management.
+
+Past Medical History:
+Colon CA
+Hypothyroid
+Hyperlipidemia
+Iron deficiency anemia
+Gastritis
+.
+Oncologic history:
+Metastatic colon cancer, status post five cycles of FOLFOX and
+Avastin on protocol, which was completed in [**2135-4-10**].
+Chemotherapy was resumed in [**2135-9-10**] in the setting of
+rising CEA and CT evidence of disease progression.  She
+completed 13 cycles of oxaliplatin, capecitabine, and Avastin as
+of [**2136-6-29**].  She had a rise in her CEA and therefore her
+regimen was switched to FOLFIRI and Avastin on [**2136-7-20**].
+Infusional 5-FU was reduced by 50% given her history of
+myelosuppression, diarrhea.  Her second cycle of therapy, bolus
+5-FU was reduced by 25% in the setting of mucositis and vaginal
+irritation.  In total, she completed three cycles of this
+regimen.  Chemotherapy was discontinued as of [**2136-10-17**].
+She had a rise in her CEA in addition to interval disease
+progression at the end of [**Month (only) 1096**] and therefore she was started
+on single [**Doctor Last Name 360**] cetuximab and has received 13 doses.  KRAS
+testing of her original tumor specimen was wild type.
+
+
+Social History:
+Patient lives with husband. Independent in AIDLS. Former smoker
+(quit 12 years ago, 1ppd x20 years). Denies EtOH, IV, illicit,
+or herbal drug use.
+
+
+Family History:
+Father died of colon cancer @about 77.  Sister died of ovarian
+cancer @57.  Mother died of CHF @56.  Daughter died of glioma
+@20.
+
+Physical Exam:
+Gen: On BiPap
+HEENT: Perrl, eomi, sclerae anicteric. NIV mask in place.
+CV: Nl S1+S2
+Pulm: Rhonchorous throughout bilaterally. Dullness to percussion
+at right base [**1-11**] way up lung field.
+Abd: S/NT/ND +bs
+Ext: No c/c/e
+
+
+Pertinent Results:
+[**2137-6-1**] 04:32PM PLEURAL WBC-283* Hct,Fl-2* Polys-35* Lymphs-51*
+Monos-13* Eos-1*
+[**2137-6-1**] 04:32PM PLEURAL TotProt-5.2 Glucose-116 LD(LDH)-934
+
+[**2137-6-1**] 4:32 pm PLEURAL FLUID
+
+   GRAM STAIN (Final [**2137-6-1**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Final [**2137-6-4**]):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+
+CTA ([**5-31**]): No pulmonary embolism. Stable large right-sided
+pleural effusion with slightly more collapse of the right lower
+lobe.
+
+CTH ([**5-31**]): No acute intracranial path
+
+TTE ([**6-4**]): The left atrium is normal in size. The estimated
+right atrial pressure is 10-20mmHg. Left ventricular wall
+thicknesses and cavity size are normal. There is severe global
+left ventricular hypokinesis (LVEF < 20 %) with some
+preservation of the basal inferior and inferolateral walls. The
+right ventricular cavity is moderately dilated with depressed
+free wall contractility. The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Trivial mitral
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is a trivial/physiologic
+pericardial effusion.
+
+IMPRESSION: Severe global left ventricular hypokinesis with
+relative preservation of the basal inferior and inferolateral
+walls. Marked tachycardia. Right ventricular dilation and
+dysfunction. Moderate pulmonary hypertension.
+
+Brief Hospital Course:
+Mrs. [**Known lastname **] is a 75 year old female with metastatic colon
+cancer admitted from oncology clinic with sub-acute dyspnea.
+
+# Respiratory distress: The patient reports that dypsnea has
+been worsening over the past 2 weeks.  On CT chest review,
+parenchymal disease burden is worse compared to last CT scan
+performed prior to admission, and right lower lobe is now
+completely collapsed. Dsypnea less likely to be related to
+cetuximab therapy given dyspnea and hypoxia prior to chemo
+infusion.  Respiratory decline unlikely to be PE given negative
+CTA.  There was initial concern given tumor burden for malignant
+pericardial effusion with resulting hypoxia and tachyarrythmia,
+but CT and TTE did not demonstrate significant pericardial
+effusion. The patient was placed on BiPaP in the ED and had a
+persistent BiPaP requirement during her admission for comfort.
+She had a diagnostic and therapeutic thoracentesis with
+exudative pleural fluid based on Light's criteria with cytology
+pending at the time of death.  Serial CXR after therapeutic
+paracentesis was performed were notable for reaccumulation of
+pleural effusion, and attempts at weaning BiPaP were
+unsuccessful.  After numerous family meetings in discussion with
+the patient's primary oncologist (Dr. [**Last Name (STitle) **] and PCP (Dr.
+[**Last Name (STitle) **] and the patient and her family, the patient was made
+comfort measures only.  BiPaP was titrated for comfort and the
+patient expired shortly thereafter.
+
+# Narrow complex tachycardia: The patient presented in the ED
+with atrial fibrillation that spontaneously converted to NSR.
+During her hospital course, she intermitently had runs of narrow
+complex tachycardia with a ventricular rate up to 220 that was
+minimally responsive to AV nodal blockade with IV metoprolol and
+diltiazem.  The frequency of the patient's SVT increased during
+her admission such that by the time of her death she had a
+HR>100 despite po metoprolol.
+
+# CV: Increase in TnT during admission likely represented demand
+ischemia rather than ACS in setting of tachyarrythmia.  BNP was
+also elevated to 700 on admission suggesting element of heart
+failure that may have been rate-related.  She was initially
+heparinized per discussion with cardiology, and this was held as
+the patient was transitioned to comfort measures only.
+
+# Colon CA: Patient with extensive mets on palliative biologic
+therapy with cetuximab.  The patient's primary oncologist was
+involved in family discussions as the patient was transitioned
+to CMO.
+
+# Goals of care: As above, multiple family meetings were held
+during her admission in consultation with the patient's primary
+oncologist, PCP, [**Name10 (NameIs) **] palliative care and the patient was
+transitioned to comfort measures only.
+
+Medications on Admission:
+Atenolol 50 mg daily
+Diazepam 5 mg Q8H prn
+Lomotil 2 tablets Q4-6H prn for diarrhea
+HCTZ 25 mg daily
+Irbesartan 150 mg daily
+Levothyroxine 200 mcg daily
+Lorazepam 0.5 mg tablet Q8H prn for anxiety
+Opium tincture 10 mg

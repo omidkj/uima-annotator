@@ -1,0 +1,188 @@
+Admission Date:  [**2166-2-24**]              Discharge Date:   [**2166-3-6**]
+
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2569**]
+Chief Complaint:
+Code stroke with left sided weakness
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+88yo with AF on coumadin, distant hx of TIA, found on floor
+this AM by family not moving left side.  Apparently last seen
+well at approx 07:30am by his wife, conversant, in USOH.  Pt
+reports some HA yesterday.  Pt arrived to [**Hospital1 18**] at 0902am,
+NIHSS=16.  Pt taken to emergent CT head without contrast which
+revealed R thalamic hemorrhage approx 6.5cm x4cm x3cm (35cc)
+with
+extension into the L ventricle.  Given absolute contraindication
+of ICH, IV tPA not administered.  Pt loaded with Dilantin 1g IV.
+Awaiting INR result.
+
+
+Past Medical History:
+Hx of TIA
+AF on coumadin
+HTN
+hyperlipidemia
+
+Social History:
+He lives with his wife and has a remote smoking history.
+
+Family History:
+Unknown.
+
+Physical Exam:
+VS:    afeb  150/98  108
+General: WNWD, NAD
+HEENT: Anicteric, MMM without lesions, OP clear
+Neck: Supple, no LAD, no carotid bruits, no thyromegaly
+CV: RRR  s1s2     no m/r/g
+Resp: CTAB   no r/w/r
+Abd: +BS    Soft/NT/ND    no HSM/masses
+Ext: No c/c/e, distal pulses intact
+Skin: No rashes, petechiae
+
+MS: A&O x 3, interactive, appropriate, following all commands
+Speech dysarthric although w/o paraphasic errors, +naming of
+wholes & parts, +repetition, +comprehension
+Left sided neglect with visual and tactile stimulation
+CN: I - not tested, II,III - PERRL (2-1.5mm bilat), L homonymous
+hemianopia versus neglect; III,IV,VI -Rightward gaze preference,
+rarely crossing midline to the left, no ptosis, no nystagmus;
+V-
+sensation intact to LT, masseters strong symmetrically; VII - L
+facial weakness/asymmetry; VIII - hears finger rub B; IX,X -
+voice normal, palate elevates symmetrically; XII - tongue
+protrudes midline, no atrophy or fasciculations
+Motor: nl bulk and tone, no tremor, rigidity or bradykinesia.
+ Deltd   Bicep   Tricp   ECR/U   ExDig   FlDig   DorsI   OppPB
+ Axill   mscut   [**Hospital1 21443**]   [**Name6 (MD) 21443**]   [**Name8 (MD) 21443**]   md/ul   ulnar   medin
+        C5     C5-6     C7     C6-7     C7      C8      T1 C8-T1
+      L  [**1-17**]---------------->
+      R  5       5       5       5       5       5       5 5
+       Ilpso   Qufem   Hamst   TibAn   [**First Name9 (NamePattern2) 2778**]    [**Last Name (un) 938**]
+ Femor   femor   [**First Name9 (NamePattern2) 21444**]   [**Last Name (un) 18709**]   tibil   dpper
+       L1-2    L3-4    L5-S2   L4-5    S1-2     L5
+      L  [**1-17**]--------------->
+      R  5       5       5       5       5  5
+DTRs: [**Name2 (NI) **] (C56) BR (C6) Tri (C7) Pa (L34) Ac (S12)  Plantar
+        L [**Numeric Identifier 65760**]   up
+        R [**Numeric Identifier 65760**]    up
+Sensory: LT mildly decr throughout L, though extinguishes with
+DSS.  w/d purposefully to pinch.
+Coord: no focal incoordination, ataxia, dysmetria noted.
+Gait: cannot assess.
+
+Pertinent Results:
+[**2166-2-24**] 09:00AM   WBC-6.2 RBC-4.24* HGB-13.2* HCT-38.5* MCV-91
+MCH-31.1 MCHC-34.2 RDW-13.9
+[**2166-2-24**] 09:00AM   NEUTS-65.5 LYMPHS-21.8 MONOS-7.9 EOS-3.7
+BASOS-1.0
+[**2166-2-24**] 09:00AM   PLT COUNT-166
+[**2166-2-24**] 09:00AM   PT-23.2* PTT-31.7 INR(PT)-2.3*
+[**2166-2-24**] 09:00AM   GLUCOSE-109* UREA N-27* CREAT-0.9 SODIUM-137
+POTASSIUM-8.7* CHLORIDE-107 TOTAL CO2-24 ANION GAP-15
+[**2166-2-24**] 10:46AM   K+-4.1
+[**2166-2-24**] 10:46AM   TYPE-[**Last Name (un) **] COMMENTS-NOT SPECIF
+[**2166-2-24**] 02:20PM   PT-13.6* PTT-28.6 INR(PT)-1.2*
+[**2166-2-24**] 06:20PM   PT-18.7* INR(PT)-1.8*
+[**2166-2-24**] 10:00PM   CK-MB-2 cTropnT-<0.01
+[**2166-2-24**] 10:00PM   CK(CPK)-49
+[**2166-2-24**] 10:30PM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE
+EPI-0
+[**2166-2-24**] 10:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-NEG
+[**2166-2-24**] 10:30PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.021
+
+EKG
+Baseline artifact in lead V1
+Atrial fibrillation
+Ventricular premature complexes
+Right bundle branch block
+No previous tracing available for comparison
+Read by: [**Last Name (LF) **],[**First Name3 (LF) 177**] W.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+78 0 148 436/469 0 -24 50
+
+
+NON-CONTRAST HEAD CT SCAN: There is a large intraparenchymal
+hemorrhage centered at the right putamen, which extends into the
+right lateral ventricle and the third ventricle, with reflux
+into the left lateral ventricle. The large intraparenchymal
+hemorrhage produces mass effect on the right lateral ventricle,
+with perhaps 1-2 mm of shift of the normally midline structures
+right to left. There is hypodensity of the brain parenchyma
+surrounding the hemorrhage. In addition, there is hypodensity
+diffusely within the cerebral periventricular white matter,
+consistent with chronic microvascular ischemia. The [**Doctor Last Name 352**]-white
+matter differentiation appears preserved. The visualized
+paranasal sinuses and mastoid air cells are clear. Osseous and
+soft tissue structures are unremarkable.
+
+IMPRESSION: Large right putaminal hemorrhage, extending into the
+lateral ventricles, likely hypertensive. There is approximately
+1-2 mm of shift of the normally midline structures.
+
+Findings discussed with Dr. [**Last Name (STitle) 23804**] in the emergency department
+on the morning of [**2166-2-24**].
+
+REPEAT HEAD CT [**2-25**]:
+
+NON-CONTRAST HEAD CT: Comparison with [**2166-2-24**]. Again seen
+is an intraparenchymal hemorrhage centered in the right basal
+ganglia, with extension into the right frontal lobe, right
+parietal lobe, and right temporal lobe. It has slightly
+increased in size. Additionally, in addition to the blood
+layering along the right lateral ventricle, there is extension
+into the left lateral ventricle, with a small amount of layering
+blood in the left occipital [**Doctor Last Name 534**], and third ventricle. Cisterns
+otherwise remain patent, and there is no interval change in the
+size of the ventricles. This study is extremely limited by
+motion, however, hypodensity surrounding the intraparenchymal
+hemorrhage can be seen, representing edema, which exerts
+unchanged mild mass effect shifting the septum pellucidum to the
+left. Additionally, there is extensive hypodensity in the left
+periventricular and subcortical white matter. Visualized sinuses
+are clear. No fractures are identified. No definite subdural
+blood is seen.
+
+IMPRESSION: Slight interval increase in size of right-sided
+intraparenchymal hemorrhage, with new extension of blood into
+the left lateral ventricle.
+
+
+Brief Hospital Course:
+The patient was admitted to the Neuro ICU with a right thalamic
+bleed (estimated at 35cc) with extension into the lateral
+ventricle.  He was seen by neurosurgery and neurology as a "code
+stroke" (initial NIHSS score 16); for INR 2.3 he received
+proplex and FFP.  He required more FFP later when his INR was
+still found to be high.  In the ED, the patient's initial BP was
+150/98, HR 108, afebrile.  Initial exam was significant for a
+left neglect to visual and tactile stimulation, left homonomous
+hemianopsia versus neglect, right gaze preference with rarely
+crossing the midline, left arm weakness (proximal and distal
+2-3/5) with full right arm strength, left leg weakness (also
+2-3/5), brisk reflexes (absent at ankles), with bilaterally
+upgoing toes.  The bleed was felt to be most likely related to
+hypertension, though underlying mass, vascular anomaly were also
+in differential.  Anticoagulation was held as were antiplatelet
+agents.  Blood pressure was kept under 140 goal systolic, tight
+blood glucose control was initiated with ISS for ICU level of
+care, prophylaxis was initiated with pneumoboots and protonix.
+The patient developed a cough and transient episodes of
+tachypnea (which apparently happened at home as well); he had a
+chest xray which revealed a right lower lobe pneumonia, mild
+CHF, and left lower lobe atelectasis.  The patient remained
+sleepy while in the ICU but arousable.  On [**2-26**], he was sleepier
+than he had been and a head CT w

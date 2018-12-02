@@ -1,0 +1,208 @@
+Admission Date:  [**2167-2-3**]              Discharge Date:   [**2167-2-10**]
+
+Date of Birth:  [**2110-8-10**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Fentanyl
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+persistant AFIB, RCA disease on cath
+
+Major Surgical or Invasive Procedure:
+CABG x2, MAZE, LAA ligation
+
+
+History of Present Illness:
+The patient is 56-year-old gentleman who was
+initially sent to me for minimally invasive Maze procedure
+for paroxysmal atrial fibrillation. The patient had longer
+and longer episodes of atrial fibrillation and now
+constitutes persistent atrial fibrillation. One time he was
+admitted for his minimally invasive Maze procedure and a left
+atrial clot was noted in his left atrial appendage and he
+underwent anticoagulation for that with subsequent resolution
+of his left atrial thrombus. The last time he was admitted to
+hospital for the minimally invasive Maze procedure, a
+diagnostic cardiac cath was performed by Dr. [**First Name4 (NamePattern1) 401**] [**Last Name (NamePattern1) 1295**] due
+to some atherosclerosis which was noted on the preoperative
+CT angiogram to evaluate his left atrium. The diagnostic
+cardiac cath revealed anomalous right coronary artery with a
+significant lesion within the mid to proximal segment as well
+as a subtotally occluded first obtuse marginal coronary
+artery. The decision was therefore made to proceed with
+concomitant Maze on top of a coronary artery bypass grafting
+procedure. The patient therefore agreed to proceed
+
+Past Medical History:
+Paroxysmal Atrial Fibrillation [**2159**]
+Tachybrady Syndrome s/p PPM [**11-4**]
+Stroke [**1-4**]
+Upper GI bleed
+Hepatitis C in the setting of IV drug use
+Diabetes
+Hpertension
+Oesity
+
+Social History:
+He is a prior smoker.  He is currently self-employed as an
+exterminator.  He used to use IV drugs but does not use them
+anymore.
+
+
+Family History:
+There is a family history of diabetes and early stroke in his
+mother.
+
+Physical Exam:
+General: well appearing male in NAD. generalized edema noted.
+VS: 98.5, 126/78, 102, 20, 98% on RA
+HEENT: unremarkable
+Chest: CTA bilat. Sternal incision well approx, no redness, no
+drainage. sternum stable.
+COR: RRR S1, S2
+ABD: soft, round, NT, ND, +bowel sounds, +flatus.
+Extrem: bilat Extrem edema.
+Neuro: intact.
+
+Pertinent Results:
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 104665**]Portable TTE
+(Complete) Done [**2167-2-10**] at 11:00:00 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2110-8-10**]
+Age (years): 56 M  Hgt (in): 74
+BP (mm Hg): 131/76  Wgt (lb): 280
+HR (bpm): 80  BSA (m2): 2.51 m2
+Indication: Pericardial effusion.
+ICD-9 Codes: 423.9, 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2167-2-10**] at 11:00    Interpret MD: [**First Name11 (Name Pattern1) 553**] [**Last Name (NamePattern4) 4133**], MD
+
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) 4134**] [**Last Name (NamePattern1) 4135**],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: [**Location 13333**]/[**Hospital Ward Name 121**] 6
+Contrast: None Tech Quality: Adequate
+Tape #: 2009W006-0:20 Machine: Vivid [**8-4**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.3 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.8 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.5 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.9 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.2 cm
+Left Ventricle - Fractional Shortening:  0.35  >= 0.29
+Left Ventricle - Ejection Fraction:  >= 60%  >= 55%
+Aorta - Sinus Level:  *4.0 cm  <= 3.6 cm
+Aortic Valve - Peak Velocity:  1.6 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  1.2 m/sec
+TR Gradient (+ RA = PASP):  *45 mm Hg  <= 25 mm Hg
+Pericardium - Effusion Size:  1.5 cm
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV.
+
+LEFT VENTRICLE: Normal LV cavity size. Overall normal LVEF
+(>55%). No resting LVOT gradient.
+
+RIGHT VENTRICLE: Dilated RV cavity.
+
+AORTA: Moderately dilated aortic sinus.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets. Mild (1+)
+AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Moderate PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+No PS.
+
+PERICARDIUM: Small to moderate pericardial effusion. Sgnificant,
+accentuated respiratory variation in mitral/tricuspid valve
+inflows, c/w impaired ventricular filling.
+Conclusions
+The left ventricular cavity size is normal. Overall left
+ventricular systolic function is normal (LVEF>55%). The right
+ventricular cavity is dilated The aortic root is moderately
+dilated at the sinus level. The aortic valve leaflets are mildly
+thickened. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. Trivial mitral
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is a small to moderate sized
+pericardial effusion. There is significant, accentuated
+respiratory variation in mitral/tricuspid valve inflows,
+consistent with impaired ventricular filling. The effusion is
+partially echodense consistent with some degree of organization.
+
+  Interpretation assigned to [**First Name11 (Name Pattern1) 553**] [**Last Name (NamePattern4) 4133**], MD, Interpreting
+physician
+
+Pathology Examination
+
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 104666**],[**Known firstname **]       [**2110-8-10**]    56 Male      [**Numeric Identifier 104667**] [**Numeric Identifier **]
+Report to:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]
+Gross Description by:   DR. [**Last Name (STitle) **]. [**Doctor Last Name 395**]/mtd
+
+
+
+SPECIMEN SUBMITTED: Atrial Appendage.
+
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2167-2-5**] [**2167-2-5**] [**2167-2-7**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/ttl
+
+DIAGNOSIS:
+
+
+
+Atrial appendage:
+Focal muscle hypertrophy, slight mural fibrotic changes.
+
+Clinical: Coronary artery disease, coronary artery bypass graft.
+Gross: The specimen is received fresh in a container labeled
+with the patient's name, "[**Known firstname 25368**] [**Known lastname 11622**]", the medical record
+number and additionally labeled "left atrial appendage". It
+consists of an atrial appendage measuring 4 x 2 x 0.5 cm. There
+is a 4 cm staple line at the resection margin. The specimen is
+opened revealing approximately 5 cc of blood but no thrombi. The
+appendage wall appears unremarkable. Representative sections are
+submitted in cassette A.
+
+
+Brief Hospital Course:
+pt was admitted [**2167-2-3**] for heparinization prior to Maze, CABG. A
+pre-operative ECH was done- see results section.
+He was taken to the OR on HD#2 [**2167-2-5**] for CABG , Maze. See
+operative note for details.
+[**Name (NI) **] pt was admitted to tne Cardiac ICU for invasive
+monioring. Extubated on POD#1 and transferred from the ICU to
+the floor. Diuresed, started on lopressor and coumadin.
+Developed SVT- treated w/ sotalol and lopressor dose increased.
+Progressed well and passed activity requirements for d/c home w/
+VNA follow up.
+D/C'd to home on 5mg coumadin and INR follow up w/ [**Hospital3 **]
+coumadin clinic.
+
+Medications on Admission:
+Lisinopril 40/D,Hctz 25/D,Coumadin 5mg/D(LD [**1-30**]),ToprolXL
+100/D,Glargine 35u dinner,Humalog SSI(bfst,lunch,HS),VitC,Fish
+oil.
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Ascorbic Acid 500 mg Tablet Sig: One (1

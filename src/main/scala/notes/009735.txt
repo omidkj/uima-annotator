@@ -1,0 +1,167 @@
+Admission Date:  [**2178-12-4**]              Discharge Date:   [**2178-12-5**]
+
+Date of Birth:  [**2124-11-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 495**]
+Chief Complaint:
+Shortness of breath, hypoxia
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is a very pleasant 54 yo female w/ pmh significant for L
+breast CA-invasive ductal cancer in [**2169**], s/p lumpectomy with
+chemo followed by taxol and radiation tx, hx of 45 pack years of
+smoking, COPD, Polycythemia and recent dx of stage IV lung Ca
+(adenocarcinoma) who comes in today for hypoxia and increase in
+SOB. Pt states that she has been using home O2-2L with sats in
+at 88-90% for the last month since her dx of lung CA a few weeks
+ago. On Wed she went to see her new PCP,  [**Name10 (NameIs) **] [**Last Name (STitle) 92442**] [**Name (STitle) 92443**],
+due to change insurance coverage, who obtained a CXR at [**Hospital1 18**]
+[**Location (un) 620**] which showed RML infiltrate and she was started on
+moxifloxin. She denies having any fever or chills at the time
+and her cough seems to be improving on tessalon pearls and
+guaifenasine-codeine. Her SOB has been stable at home for the
+last several days until today when she was off the oxygen for ~
+2hours while travelling to see her doctor. She also walked
+around at [**Company 12679**] prior to her appointment. She then had
+increase in SOB "difficult catching her breath". On arrival to
+her PCP office her O2 sat was 78% on RA. She was started on
+Oxygen and sent to [**Hospital1 **] [**Location (un) 620**] ED. On arrival to [**Hospital1 **] [**Location (un) 620**] her
+vitals were: 98.5 HR: 104 BP: 132/68 Resp: 18 O(2)Sat: 88 2 L
+Low. Her labs at the time were notable for WBC 8.4/Hgb 16.4/Hct
+50.6/ MCV 98.2/ Plats of 257, no diff. BUN of 7/creat of 0.4.
+Her D.dimer of 0.8 (normal range of 0-0.49), so she had a CTA
+earlier in the day which showed no PE but a lung tumor pressing
+on right bronchial and pulmonary artery (prelim report). She was
+then transfer to our ED for admission to oncology. Pt has an
+appointment with Dr. [**Last Name (STitle) **] next week (new patient eval).
+
+On arrival to our ED her vitals were: 97.2 99 124/69 20 92% 4L.
+As per note she was in no appearent distress. Her O2 sats
+remained in the low 90s on 4L N/C. She was given nebs and
+started on vanco and zosyn for the pna previously seem on cxray
+on [**12-2**]. She was then admitted to the ICU due to her O2
+requirement and for further monitoring.
+
+On transfer her vitals were: 97.8ta. HR: 104. BP: 122/68. O2:
+91% 4lnc. RR 20. She appears well and breathing without any
+difficulty. She is accompanied by her 2 children.
+
+ROS: As per HPI, she denies any fever, chills, no wt loss (wt
+gain in the last few months), baseline fatigue for the last few
+months. Baseline SOB on home O2 at 2L N/c, + non-productive
+cough which is improving over the last few days with meds. No
+chest pain, no LE edema. Decrease in appetite, no abd pain, no
+n/v, no change in her bowel movements. + abd lumps that she
+initially noticed in [**Month (only) **]. No bloody stools/no melena. No
+dysuria, no hematuria, no freq. No muscle pain. No HA, no
+dizziness, no visual or hearing changes, no gait disturbance.
+
+
+Past Medical History:
+ONCOLOGY HISTORY:
+-[**2169**] She was noted to have a 1.5-2.0 cm area of nodularity in
+the left breast on examination. A core biopsy was nondiagnostic.
+      [**2170-4-28**] she had an excisional biopsy performed. This
+showed a 0.9 cm moderately differentiated invasive ductal
+cancer. There was DCIS comprising about 5% of the mass. There
+was LCIS present. There was no LVI. The cancer was noted to be
+ER positive, PR positive and HER 2/neu negative. There was as
+positive margin.
+-[**5-2**] she underwent a left breast reexcision and sentinel LN
+mapping procedure. This showed invasive ductal cancer,
+moderately differentiated in several foci around the biopsy
+cavity. The largest foci measured 1.5 cm. There was DCIS as well
+but the margins were negative for both invasive and in-situ
+cancer. There was LCIS present. A single sentinel LN was
+identified and this was positive for a metastases measuring 4
+mm.
+-[**6-1**] She had a completion axillary dissection which showed that
+12 additional axillary LN were negative.
+- [**Date range (1) 92444**] she received chemotherapy with "dose dense" CA for
+4 cycles followed by 4 cycles of taxol.
+-[**Date range (1) 92445**] she received breast irradiation under the direction
+of Dr [**Last Name (STitle) **].
+-[**Date range (1) 92446**] She was treated with tamoxifen
+-[**Date range (1) 92447**] she completed a 5 year course of aromasin
+-[**Date range (3) 92448**] She was admitted to the [**Hospital6 **] for
+bilobar pneumonia and hypoxia. Her initial O2 sat was 77% on RA.
+She was given antibiotics and nebulizers. She had a Chest CT on
+[**2178-1-9**] which showed no evidence of pulmonary embolus. There
+were enlarged mediastinal and hilar lymph nodes with bronchial
+cutoff and RML collapse and partial LLL collapse, as well as
+bilateral adrenal masses and ?left hepatic lobe lesion. An MRI
+of the abdomen on [**2178-1-13**] showed bilateral adrenal adenoma and
+focal fatty infiltration of the medial segment of the left lobe
+of the liver adjacent to the falciform ligament.
+-[**2178-1-30**] She had a repeat chest CT at [**Location (un) 2274**]:
+IMPRESSION: Significant improved aeration throughout all lung
+zones. Residual atelectasis or small infiltrates right middle
+and both lower lobes. No evidence of pathologically enlarged
+mediastinal or hilar lymphadenopathy. Enlarged bilateral adrenal
+lesions.
+-[**2178-11-5**] seen by Dr [**First Name (STitle) 1356**] and reported having noticed 3 firm
+masses in the subcutaneous tissue of the abdomen-one to the left
+of the umbilicus measured 4 x 3 cm, one in the epigastrium
+measured 1 x 2 cm and one in the later mid abdominal wall
+measured 1 x 0.5 cm
+-[**2178-11-6**] seen by Dr [**Last Name (STitle) 92449**] who biopsied the mass in the
+epigastrium. This showed metastatic adenocarcinoma. The cancer
+was positive for CK7, EMA and CEA and negative for ER,
+mammoglobin, CK 20, CD 10, S100, TTF-1, vimentin, RCC, PAX 8
+andp63. In discussion with the pathologist-she noted that up to
+22% of lung cancers may be negative for TTF-1. Differential dx
+was either lung or breast cancer by morphology
+-[**2178-11-13**] CT scan of the head was negative. Chest CT showed
+extensive mediastinal and right hilar adenopathy. There was
+compression of the right sided bronchi with atelectasis of the
+RML. Abdomen/pelvic CT showed no liver metastases. Prior CT
+scans showed a 2.4 cm right adrenal nodule and this was without
+change. However the left adrenal nodule is now significantly
+larger and more heterogenous appearing measuring 3.7 x 2.0 cm
+suggesting superimposed metastatic disease. There are several SQ
+nodules: there is a 3.1 cm cavity containing an air-fluid level
+a the site of the biopsy (this area was included in the chest CT
+from [**2-7**] and was new). There is a 8 mm nodule int he left
+lateral anterior SQ fat also new. Inferiorly there are
+additional nodules-largest in the left paraumbilical measuring
+3.1 cm. Another nodule is seen lateral to the left acetabulum
+measuring 1.7 cm, there is a right paramedian nodule posterior
+to the gluteus maximus measuring 1.8. There are no bone lesions
+seen.
+
+OTHER MEDICAL HX:
+COPD (Chronic Obstructive Pulmonary Disease)
+POLYCYTHEMIA
+COLONIC ADENOMA
+TOBACCO DEPENDENCE
+
+
+Social History:
+She is widowed. She is currently unemployeed. she lives by
+herself and her 2 children live close by. She has 2
+grandchildren who she usually watches over. Smoked 1.5 ppd x 30
+years. She drinks socially.
+
+
+Family History:
+Mother: breast cancer on her early 60s and die at age of 66 yo
+with complications r/t breast cancer.  (Pt had genetic testing
+and had no evidence of either the BRCA 1 and 2 germline
+mutations)
+Sister: brain CA uncertain what time, died in her 50s
+2 children who are healthy
+
+
+Physical Exam:
+VITALS: 127/61, 87, 91-92% ON 4L
+GEN: well appearing female sitting in bed in NAD
+HEENT: PERRLA, EOM i

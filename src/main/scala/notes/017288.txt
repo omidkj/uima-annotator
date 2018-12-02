@@ -1,0 +1,260 @@
+Admission Date:  [**2137-5-12**]              Discharge Date:   [**2137-5-16**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 297**]
+Chief Complaint:
+Reason for MICU admission: respiratory distress s/p intubation
+in ED
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+RIJ central line placement
+
+History of Present Illness:
+This is an 85 year old man with PMH significant for HTN, CHF,
+chronic kidney disease who presents with repiratory distress. He
+had been hospitalized multiple times recently at [**Hospital1 18**],
+beginning in [**11-24**] with a mechanical fall then re-presented that
+month with pneumonia. In [**2-25**] he returned with a DVT in the
+right common and deep common femoral veins and CHF exacerbation,
+as well as troponin elevations and a bibasilar pneumonia.
+.
+He now presents following a fall at home. Per his wife and
+notes, he was at home for the last three days following
+discharge from rehab. He was reportedly sitting in a chair at
+home, then fell off the chair. His wife found him on the ground,
+awake and talking, and called EMS to get him to [**Hospital1 18**] for
+evaluation. He did not have any obvioud trauma. His wife says he
+noted chest heaviness and heart racing earlier in the day, and
+had seemed short of breath since discharge from rehab.
+.
+In the ED, he was noted to be in respiratory distress, tachypnic
+to 35, and O2 sat was 80%. His extremities were cool. He denied
+chest pain, nausea, vomiting, incontinence, fevers, chills,
+palpitations. Due to his respiratory distress, code status was
+confirmed and the patient was intubated. Antibiotics were
+started with vancomycin, levofloxacin, and flagyl, then blood
+cultures were sent. CXR was felt to not have a striking
+pneumonia. CT angiogram was considered but not done due to
+elevated creatinine, and VQ scan was also considered. He got 1.8
+liters of fluid and was empirically started on heparin because
+his INR was 1.8, then transferred to the MICU.
+
+
+Past Medical History:
+1. HTN
+2. CKD: baseline around 2.3
+3. bipolar disorder - on lithium previously
+4. hyperlipidemia
+5. prostate surgery many years ago - indication not specified
+6. Patient reports hospitalization in [**2111**]'s for MI but does not
+know details.
+7. Urinary incontinence
+8. MI ([**2111**]) and a recent NSTEMI in [**Month (only) **]/06
+9. DVT
+10. CHF with EF [**2-25**] 30-40% with multiple hypokinetic walls
+11. UTI's
+12. Anemia
+13. Possible reactive airway disease with response to prednisone
+[**2-25**]
+14. Hematuria
+15. Pneumonia [**2-25**]
+
+
+Social History:
+Patient lives with his wife of > 60 years in an [**Hospital3 **]
+senior facility in [**Location (un) **]. Has 2 grown children, one is
+[**State **] and one in [**State 760**]. Remote history of tobacco. No
+alcohol.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+V: T101.2 100/50 P85 98% AC 500x18 100%
+Gen: intubated, sedated, in no distress
+HEENT: pupils small, reactive
+Neck: JVP elevated at 30 degrees
+Resp: lungs with crackles diffusely bilaterally
+CV: irreg irreg, normal S1s2 no murmurs
+Abd: soft NTND +BS
+Ext: cool extremities, 2+ pitting edema bilaterally
+Neuro: sedated.
+
+
+Pertinent Results:
+EKG: atrial fibrillation at rate of 98, ST depressions in V5 and
+V6, likely J point elevation in V2/V3. LVH. Wide QRS -
+interventricular conduction abnormality.
+.
+   RADIOLOGY  Final Report
+
+BILAT LOWER EXT VEINS PORT  [**2137-5-13**] 9:13 AM
+
+BILAT LOWER EXT VEINS PORT
+
+Reason: SWOLLEN LEGS AND HYPOXIA
+
+[**Hospital 93**] MEDICAL CONDITION:
+85 year old man with swollen LEs and hypoxia.
+REASON FOR THIS EXAMINATION:
+?DVT
+DOPPLER ULTRASOUND STUDY OF BOTH LOWER LIMB VEINS
+
+CLINICAL DETAILS: Evaluate for deep venous thrombosis.
+
+FINDINGS:
+
+Right and left lower limb veins are patent and compressible with
+phasic venous flow and increased venous return with augmentation
+demonstrated on Doppler.
+
+CONCLUSION:
+
+1. No right or left lower limb deep venous thrombosis.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 42121**]
+DR. [**First Name11 (Name Pattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+Approved: MON [**2137-5-13**] 1:34 PM
+
+
+
+.
+    Cardiology Report ECHO Study Date of [**2137-5-13**]
+
+
+
+PATIENT/TEST INFORMATION:
+Indication: Congestive heart failure.
+Weight (lb): 182
+BP (mm Hg): 103/58
+HR (bpm): 103
+Status: Inpatient
+Date/Time: [**2137-5-13**] at 13:11
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: Definity
+Tape Number: 2006W000-0:00
+Test Location: West MICU
+Technical Quality: Adequate
+
+
+
+
+REFERRING DOCTOR: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+  DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *4.9 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *6.3 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: *6.3 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.3 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 5.4 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 4.5 cm
+Left Ventricle - Fractional Shortening: *0.17 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: 15% to 20% (nl >=55%)
+Aorta - Valve Level: 2.8 cm (nl <= 3.6 cm)
+Aorta - Ascending: 2.9 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: 1.4 m/sec (nl <= 2.0 m/sec)
+Mitral Valve - E Wave: 1.2 m/sec
+Mitral Valve - E Wave Deceleration Time: 142 msec
+TR Gradient (+ RA = PASP): *30 mm Hg (nl <= 25 mm Hg)
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Mild LA enlargement. Elongated LA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Severe global LV
+[**Name (STitle) 39407**]. Severely depressed LVEF. [Intrinsic LV systolic
+function likely
+depressed given the severity of valvular regurgitation.] No LV
+mass/thrombus.
+
+RIGHT VENTRICLE: Normal RV wall thickness. Normal RV chamber
+size. Normal RV
+systolic function. [Intrinsic RV systolic function likely more
+depressed given
+the severity of TR].
+
+AORTA: Normal aortic root diameter. Normal ascending aorta
+diameter.
+
+AORTIC VALVE: Mild to moderate ([**1-21**]+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular
+calcification. Moderate (2+) MR.
+
+TRICUSPID VALVE: Moderate [2+] TR. Borderline PA systolic
+hypertension.
+
+PERICARDIUM: No pericardial effusion.
+
+Conclusions:
+1. The left atrium is mildly dilated. The left atrium is
+elongated. The right
+atrium is moderately dilated.
+2.There is mild symmetric left ventricular hypertrophy. The left
+ventricular
+cavity size is normal. There is severe global left ventricular
+[**Month/Day (2) 39407**].
+Overall left ventricular systolic function is severely
+depressed. No masses or
+thrombi are seen in the left ventricle. Intrinsic LV function
+likely more
+depressed given the mitral and aortic regurgitation.
+3. Right ventricular chamber size is normal. Right ventricular
+systolic
+function is normal. [Intrinsic right ventricular systolic
+function is likely
+more depressed given the severity of tricuspid regurgitation.]
+4. Mild to moderate ([**1-21**]+) aortic regurgitation is seen.
+5.The mitral valve leaflets are mildly thickened. Moderate (2+)
+mitral
+regurgitation is seen.
+6.Moderate [2+] tricuspid regurgitation is seen.
+7.There is borderline pulmonary artery systolic hypertension.
+8.There is no pericardial effusion.
+
+Compared with the findings of the prior study (images reviewed)
+of [**2137-3-7**],
+the MR is now worse and the anterior, inferior and inferolateral
+walls are
+more hypokinetic with a marked decrease in overall LV function.
+
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD on [**2137-5-13**]
+16:28.
+[**Location (un) **] PHYSICIAN: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **].
+
+
+([**Numeric Identifier 99680**])
+
+
+
+
+.
+   RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  [**2137-5-12**] 7:50 PM
+
+CHEST (PORTABLE AP)
+
+Reason: r/o chf
+
+[**Hospital 93**] MEDICAL CONDITION:
+85 

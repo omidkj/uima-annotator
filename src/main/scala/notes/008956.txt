@@ -1,0 +1,131 @@
+Admission Date:  [**2143-9-6**]              Discharge Date:   [**2143-9-12**]
+
+
+Service: MED
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 297**]
+Chief Complaint:
+Fever, hypoxia, tachycardia
+
+Major Surgical or Invasive Procedure:
+Intubated on [**2143-9-6**] for hypoxic respiratory failure, extubated
+[**2143-9-9**].  Right subclavian central line placed [**2143-9-6**].  Left
+vascath replacement on [**2143-9-11**].
+
+Hemodialysis - [**2143-9-9**]
+
+
+History of Present Illness:
+80yo female presented to ED from [**Hospital3 2558**] with
+fevers/chills, hypoxia of 88% on room air, tachycardia, and
+tachypnea.  Patient had recent diagnosis of pneumonia at [**Hospital 2586**] ([**2143-8-28**]) & treated with 10-day course of Tequin.
+Pt also with h/o enterococcus bacteremia for which she has been
+receiving vancomycin with her dialysis.
+
+Past Medical History:
+End-stage renal disease, hemodialysis x 3/week
+Alzheimer's dementia, severe
+Hypertension
+Diabetes Mellitis
+h/o seizures
+h/o MRSA line infection
+
+Social History:
+Resides at [**Hospital3 2558**].
+No tobacco/drugs/alcohol.
+Pt has two sons.
+
+Physical Exam:
+Physical Exam on Admission:
+Temp=99, HR=107, BP=90/55, RR=28, Sats=98% on 6L mask
+Gen - unresponsive, withdraws to pain
+HEENT - PERRL/EOMI, dry oral mucosa
+CV - tachy, reg rhythm
+Lungs - bilat course breath sounds
+Abd - soft, obese, diffuse tenderness, PEG tube in place
+Ext - 2+ pedal edema bilaterally
+Neuro - moaning, moving all extremities.
+
+Chest x-ray - LLL pneumonia
+
+Pertinent Results:
+[**2143-9-11**] 04:00AM BLOOD WBC-9.1 RBC-3.45* Hgb-10.5* Hct-35.0*
+MCV-102* MCH-30.4 MCHC-29.9* RDW-17.7* Plt Ct-398
+[**2143-9-6**] 01:40PM BLOOD WBC-28.0*# RBC-3.22* Hgb-9.9* Hct-33.7*
+MCV-105*# MCH-30.9 MCHC-29.5*# RDW-16.8* Plt Ct-554*#
+[**2143-9-11**] 04:00AM BLOOD Neuts-80.2* Lymphs-12.7* Monos-4.3
+Eos-2.7 Baso-0.2
+[**2143-9-6**] 01:40PM BLOOD Neuts-91* Bands-5 Lymphs-2* Monos-2 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2143-9-11**] 04:00AM BLOOD Glucose-126* UreaN-42* Creat-3.6* Na-143
+K-4.2 Cl-104 HCO3-29 AnGap-14
+[**2143-9-6**] 01:40PM BLOOD Glucose-434* UreaN-92* Creat-4.6*# Na-137
+K-8.3* Cl-94* HCO3-31* AnGap-20
+[**2143-9-8**] 06:05AM BLOOD ALT-20 AST-19 AlkPhos-141* TotBili-0.4
+[**2143-9-11**] 04:00AM BLOOD Calcium-8.4 Phos-3.5 Mg-2.0
+[**2143-9-6**] 01:40PM BLOOD Calcium-9.1 Phos-2.8 Mg-2.3
+
+Brief Hospital Course:
+Patient admitted to the MICU on [**2143-9-6**] and was intubated for
+hypoxic respiratory failure.  She was transiently placed on
+levophed/dopamine pressors, which were stopped that same day.
+Chest CT Angiogram was obtained to r/o PE, which confirmed LLL
+pneumonia without evidence of PE.  Patient's antibiotic coverage
+included Levaquin/Vancomycin/Gentamycin empirically.  Patient
+did well with mechanical ventilation & antibiotics, subsequent
+extubation on [**2143-9-9**] and continued to do well.  She continued
+with hemodialysis while in MICU without complication.  On [**2143-9-11**]
+her hemodialysis catheter became dislodged & was replaced via
+IR, causing her to delay dialysis by one day - completed on
+[**2143-9-12**].  Discharged back to [**Hospital3 2558**] on [**2143-9-12**] after
+dialysis.
+
+Medications on Admission:
+Tylenol
+Nephro cap
+Nystatin swish & swallow
+Phoslo caps
+Magnesium oxide
+Risperdal
+Vancomycin at dialysis
+Tequin
+Trazadone
+Milk of magnesia
+Vitamin E
+
+Discharge Medications:
+Levaquin, 500mg PO Q48H - 2 more doses
+Miconazole nitrate vaginal, 1 Appl VG QAM - 2 more doses
+Resume outpatient medications.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 2558**] - [**Location (un) **]
+
+Discharge Diagnosis:
+Sepsis, left lower lobe pneumonia, end-stage renal disease
+requiring dialysis, dementia.
+
+
+Discharge Condition:
+Good, stable.
+
+Discharge Instructions:
+Antibiotics:
+Levaquin - day #7 of 8 for pneumonia
+Miconazole vaginal applicator - day # 6 of 7 for yeast infection
+
+Diet:  Nepro tube feeds with 30 grams Promod - goal rate of
+30cc/hr.
+
+Followup Instructions:
+Follow-up with primary care physician [**Last Name (NamePattern4) **] 1 week.
+
+
+

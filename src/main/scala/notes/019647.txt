@@ -1,0 +1,197 @@
+Admission Date:  [**2137-6-7**]              Discharge Date:   [**2137-6-25**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 134**]
+Chief Complaint:
+Chest pain; aphasia
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname 1557**] is an 83 year-old man with a past medical history of
+coronary artery disease and multiple recent admissions,
+presenting with aphasia.
+.
+Of note, multiple recent admissions --
+1. [**2137-2-21**] - [**2137-3-5**]: Admitted with a large STEMI (occluded
+LAD, RCA, 90% circumflex. His course was complicated by LAD
+in-stent thrombosis, vfib/vtach, cardiogenic shock, and right
+sided femoral to popliteal DVT.
+2. [**2137-3-13**] - [**2137-3-20**]: Admitted with chest pain and CHF.
+3. [**2137-5-5**] - [**2137-6-3**]: Admitted with acute CHF. Course
+complicated by cholecystitis. A percutaneous cholecystostomy
+tube was placed, and he was treated with daptomycin, then
+linezolid (after ARF) for VRE. He then underwent ERCP with
+placement of stent in ampulla for stone in CBD. Of note, during
+this admission, his blood pressures were consistently in the 80s
+to 90s systolic.
+.
+On the morning of admission, patient awoke at 6am with
+right-sided chest pain with mild shortness of breath. He was
+given Maalox and SL nitro, the combination of which resolved his
+pain. He was also noted at this time to have a systolic blood
+pressure in the 80s, although this is his baseline. The patient
+reports that approximately an hour later, when the physician
+came to see him, he was initially "just out of it." After saying
+something to the physician, [**Name10 (NameIs) **] was then unable to talk. This
+period of aphasia lasted ~10 minutes and was not associated with
+weakness or apparent sensory deficits. He was then transferred
+to [**Hospital1 18**].
+.
+In the emergency room, initial vitals showed a HR of 68, BP
+72/39, RR 18 and 94% on 2 liters. His blood pressure trended in
+the 80-90s systolic. He received 1.5 of IVF and potassium
+repletion
+
+
+Past Medical History:
+# Myocardial Infarction [**1-/2137**], s/p cath with PTCA and 2 stents
+placed in proximal LAD. C/b cardiogenic shock and VT requiring
+defibrillation/pacing for heart block
+# Myocardial Infarction with two stents placed in the RCA in
+[**2127**].
+# RLE DVT [**3-1**]
+# Diabetes: HA1c 6.4% on [**11-30**]. High grade proteinuria X 1 yr.
+# Hypertension
+# Hypercholesteremia
+# Asthma
+# Stage IV Chronic Kidney Disease (baseline creatinine 2.5 to
+2.8)
+
+Social History:
+Social history is significant for a long standing history of
+smoking prior to his myocardial infarction.  He is now residing
+at [**Hospital 100**] Rehab and is not currently smoking.  He does not use
+alcohol.
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.
+
+Physical Exam:
+VITALS - T 98.2, HR 84, BP 95/45, 94% on 2 liters NC.
+GEN - Elderly appearing male, lying
+HEENT - No carotid bruits bilaterally.
+CV - Regular. No murmurs. No S3/S4.
+PULM - Bibasilar crackles. No wheezes.
+ABD - Soft. Chole tube in place. Mild tenderness in RLQ, below
+tube. No rebound/guarding. No tenderness otherwise.
+EXT - Warm. Very thin extremities.
+NEURO - Pupils are irregular and surgical. EOMI with mild
+nystagmus on lateral movement. Otherwise normal cranial nerves.
+Mildly diminished muscle bulk diffusely. Strength 5/5 in upper
+and lower extremeties bilaterally. Sensation intact to light
+touch throughout.
+
+Pertinent Results:
+ADMISSION LABS
+---------------
+[**2137-6-7**] 11:20AM BLOOD WBC-13.9* RBC-3.89* Hgb-9.8* Hct-30.3*
+MCV-78* MCH-25.3* MCHC-32.5 RDW-17.3* Plt Ct-375
+[**2137-6-7**] 11:20AM BLOOD Neuts-82.0* Lymphs-11.3* Monos-4.9
+Eos-1.5 Baso-0.2
+[**2137-6-7**] 11:20AM BLOOD PT-12.3 PTT-24.6 INR(PT)-1.0
+[**2137-6-7**] 11:20AM BLOOD Glucose-123* UreaN-57* Creat-2.4* Na-138
+K-4.5 Cl-99 HCO3-27 AnGap-17
+[**2137-6-7**] 11:20AM BLOOD TotProt-6.5 Albumin-3.2* Globuln-3.3
+Phos-4.5 Mg-2.2
+
+ROMI
+-----
+[**2137-6-7**] 11:20AM BLOOD ALT-13 AST-28 LD(LDH)-310* CK(CPK)-39
+AlkPhos-43 TotBili-0.4
+[**2137-6-7**] 05:50PM BLOOD CK(CPK)-16*
+[**2137-6-8**] 06:50AM BLOOD CK(CPK)-14*
+[**2137-6-8**] 09:55AM BLOOD CK(CPK)-19*
+[**2137-6-7**] 11:20AM BLOOD cTropnT-0.06*
+[**2137-6-7**] 05:50PM BLOOD CK-MB-NotDone cTropnT-0.06*
+[**2137-6-8**] 06:50AM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2137-6-8**] 09:55AM BLOOD CK-MB-NotDone cTropnT-0.05*
+
+OTHER LABS
+----------
+[**2137-6-10**] 05:00AM BLOOD TSH-1.7
+[**2137-6-8**] 06:50AM BLOOD Triglyc-98 HDL-35 CHOL/HD-2.7 LDLcalc-38
+[**2137-6-8**] 06:50AM BLOOD %HbA1c-5.6
+
+MICRO
+------
+Blood culture, Urine culture-NGTD
+Stool culture-c.diff positive
+
+IMAGING
+-------
+
+[**6-7**] CT head: No hemorrhage, edema, or mass effect. Chronic
+small vessel ischemic disease. Age-related parenchymal atrophy.
+
+[**6-8**] MRI/MRA: No acute infarcts. Minimal amount of chronic
+microangiopathic change and moderate degree of atrophy. Possible
+irregularity of the basilar artery which may be artifactual due
+to patient motion versus atherosclerotic disease. Limited
+T2-weighted images of the head were obtained as the patient was
+not able to tolerate the exam. There are scattered white matter
+T2 hyperintensities, which likely represent
+chronic microangiopathic change. There is generalized moderate
+atrophy. The visualized major flow voids are grossly normal.
+
+[**6-8**] Gallbladder US: Cholelithiasis, with a cholecystostomy tube
+in place.  Relatively decompressed gallbladder compared to [**5-21**], [**2136**] with mild
+improvement in wall thickening.
+
+[**6-8**] echo: The left atrium is mildly dilated. A left-to-right
+shunt across the interatrial septum is seen at rest c/w a small
+secundum atrial septal defect/stretched [**Doctor Last Name **] ovale. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity is severely dilated with severe regional systolic
+dysfunction and apical aneurysm. The basal inferolateral wall
+contracts best. No masses or thrombi are seen in the left
+ventricle. The right ventricular cavity is mildly dilated with
+hypokinesis of the distal free wall. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Moderate to severe (3+) mitral regurgitation
+is seen. There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion. Compared with the prior study
+(images reviewed) of [**2137-3-22**], the left ventricular cavity is now
+larger with more severe systolic dysfunction. A small secundum
+type atrial septal defect is now identified. The estimated
+pulmonary artery systolic pressure is now lower.
+
+[**6-10**] Abdominal CT: 1. No acute abnormality is seen. 2.
+Questionable thickening of the distal sigmoid colon which likely
+reflects the patient's known Clostridium difficile colitis. 3.
+Abdominal aortic aneurysm. 4. Biliary stent and percutaneous
+cholecystostomy tube identified. 5. Large bilateral pleural
+effusions are seen.
+
+[**6-10**] Carotid US: Left 60-69%, right <40%.
+
+
+Brief Hospital Course:
+83M with coronary artery disease, congestive heart failure,
+chronic kidney disease, diabetes mellitus presenting with chest
+pain and aphasia.
+
+Aphasia:
+Seen by the stroke service in the emergency room.  Symptoms
+possibly related to left hemisphere event, most probably in the
+MCA distribution.  Unclear what role hypotension plays given
+that this has been a persistent problem; no watershed infarct
+seen.  Pt now fully communicative. Neuro believes it could have
+been a TIA.  MRI/MRA suboptimal as he moved; carotid US with
+left side stenosis of 60-69% but likely symptomatic as he is
+hypotensive at baseline (SBP 80-90).  Dr. [**First Name (STitle) **] from Cardiology
+evaluated patient on [**6-12**], felt that maximizing CHF treatment
+and anti-coagulation would be the best course at this time
+unless patient were to develop additional neurologic symptoms,
+as potential difficulties with hypotension and bradycardia would
+be concerning in this patient if he were to get a carotid stent.
+ He was continued on coumadin, aspirin and plavix.  The INR was
+3.3 on discharge and [**Hospital 

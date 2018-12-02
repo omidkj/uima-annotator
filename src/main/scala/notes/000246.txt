@@ -1,0 +1,220 @@
+Admission Date:  [**2162-5-16**]              Discharge Date:   [**2162-6-3**]
+
+Date of Birth:  [**2094-7-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+Respiratory distress
+Pulmonary emboli
+
+Major Surgical or Invasive Procedure:
+Endotrachial intubation and mechanical ventilation
+Central venous line placement
+Arterial line placement
+IVC filter placement
+PICC line placement
+
+
+History of Present Illness:
+This is a 67 year old man with hx Non-Small Cell Lung CA, DVT,
+recent GIB who is transfered from [**Hospital1 **] [**Location (un) 620**] with dx of PE. [**First Name8 (NamePattern2) **]
+[**Location (un) 620**] notes, he was found to be hypoxic with SaO2 50%. CTA
+showed multifocal PE's with RV strain on CT. Heparin gtt
+started. Bp 96/73 and HR 135. Given recent GIB, decided not to
+TPA but transfer to [**Hospital1 18**].
+
+In the ED: The patient arrived tachpnic, "dusky", BP 118/80. ABG
+showed alkalosis and hypoxia: 7.56/28/56. The patient was
+intubated and required high amounts of versed for sedation.
+Cardiothoracic surgery saw the patient and did not think
+embolectomy would be indicated. An echo was performed by
+cardiology, with RV strain and dilation but no collapse or HD
+compromise.
+Vitals on arrival: 96.1 133 118/80 34 abg 87 nrb
+Vitals at transfer: Hr 106 BP 90/60 (87/67 - since sedation)
+
+Past Medical History:
+1. Non-small cell Lung CA s/p resection in [**2157**]
+2. History GIB in [**2162-4-17**]
+3. DVT [**2152**], on coumadin for years, dc'ed one month ago
+4. Hypertension
+5. Low back pain
+6. Alcohol abuse
+7. History of alcoholic hepatitis
+
+Social History:
+He worked as a painting contractor.  He is married, with two
+grown children.  His wife works part-time at the [**Name (NI) 4068**].  He
+smoked at least a pack per day for about 45 years but was able
+to stop smoking albeit with some difficulty and help of a patch
+since his diagnosis.  He drinks two to three alcoholic drinks
+per night.
+
+Family History:
+His father also heavy smoker died at age 53 of lung or head/neck
+ca. His mother had a stroke. His one-half sibling died of a
+ruptured aneurysm, one died of motor vehicle accident. He thinks
+his grandmother may have had ovarian cancer.
+
+Physical Exam:
+General: Awake, alert, NAD.
+HEENT: NC/AT, PERRL, EOMI without nystagmus, no scleral icterus
+noted, MMM, no lesions noted in OP
+Neck: supple, no JVD or carotid bruits appreciated
+Pulmonary: Lungs CTA bilaterally
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly
+Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses
+b/l.
+Lymphatics: No cervical, supraclavicular, axillary or inguinal
+lymphadenopathy.
+Skin: no rashes or lesions noted.
+Neurologic: Alert, oriented x 3. Able to relate history without
+difficulty.
+-cranial nerves: II-XII intact
+-motor: normal bulk, strength and tone throughout. No abnormal
+movements.
+-sensory: No deficits to light touch throughout.
+-cerebellar: No nystagmus, dysarthria, intention or action
+tremor
+-DTRs: 2+ biceps, triceps, brachioradialis, patellar and 1+
+ankle jerks bilaterally. Plantar response was flexor
+bilaterally.
+
+Pertinent Results:
+ADMISSION LABS:
+[**2162-5-16**] 06:22PM   WBC-4.4 RBC-2.95* HGB-10.0* HCT-31.2*
+MCV-106* MCH-34.0* MCHC-32.2 RDW-13.7
+[**2162-5-16**] 06:22PM   PLT COUNT-147*
+[**2162-5-16**] 06:22PM   PT-14.3* INR(PT)-1.2*
+[**2162-5-16**] 06:22PM   GLUCOSE-87 UREA N-12 CREAT-1.0 SODIUM-145
+POTASSIUM-3.2* CHLORIDE-117* TOTAL CO2-20* ANION GAP-11
+
+DISCHARGE LABS:
+White Blood Cells 8.5
+Red Blood Cells 2.29
+Hemoglobin 7.3
+Hematocrit 23.8
+MCV 104
+MCH 32.1
+MCHC 30.9
+RDW 14.3
+Platelet Count 838
+
+ANEMIA LABS:
+Iron: 19
+TIBC: 166
+Ferritin: 232
+Reticulocyte count: 3.0
+Haptoglobin: 253
+LDH: 236
+Tbili: 0.4
+Folate: 14.7
+Vitamin B12: 534
+
+ECHO ([**2162-5-16**]):
+The left ventricular cavity is unusually small. Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. Left ventricular systolic function is
+hyperdynamic (EF>75%). The right ventricular cavity is markedly
+dilated with severe global free wall hypokinesis. There is a
+trivial/physiologic pericardial effusion. There are no
+echocardiographic signs of tamponade.
+
+ECHO ([**2162-5-18**]):
+The left ventricular cavity is small. Left ventricular systolic
+function is hyperdynamic (EF>75%). The right ventricular cavity
+is dilated with depressed free wall contractility. The
+interatrial septum is markedly thickened around the fossa ovale
+secondary to lipomatous hypertrophy. Compared with the findings
+of the prior study (images reviewed) of [**2162-5-17**], the
+interatrial septum and right atrium are better visualized, and
+the mass in the right atrium is now seen clearly to be secondary
+to lipomatous hypertrophy of the interatrial septum.
+
+LENI ([**2162-5-16**]):
+1. Right popliteal DVT extending to the calf veins.
+2. Partially occlusive DVT in the left popliteal [**Last Name (LF) 5703**], [**First Name3 (LF) **] be
+subacute, with extension to the calf veins.
+
+CT HEAD WITHOUT CONTRAST ([**2162-5-22**]):
+No evidence for acute hemorrhage or acute transcortical
+infarction.
+
+ABDOMINAL ULTRASOUND ([**2162-5-27**]):
+1. Diffusely fatty liver markedly limits evaluation for focal
+liver lesion although no large liver lesion is identified.
+2. Mild splenomegaly to 12.3 cm. No evidence of ascites.
+
+LOWER EXTREMITY ULTRASOUND ([**2162-5-31**]):
+Partially occlusive DVT in the left popliteal [**Month/Day/Year 5703**], which has
+not significantly changed from [**2162-5-16**].
+
+PLAIN FILMS LEFT HIP AND FEMUR ([**2162-6-1**]):
+There is severe degenerative change of the lower lumbar spine.
+There are mild degenerative changes of the hip joints. No
+fracture is identified.
+Incidental note is made of a sclerotic lesion in the distal
+femur of unclear etiology. Does the patient have a history of
+primary malignancy or metastatic disease?
+
+MRI LEFT LEG ([**2162-6-2**]): (wet read):
+Preliminary Report !! WET READ !! 18.7 cm hematoma in left
+vastus lateralis muscle. While this may reflect trauma and
+anticoagulation, an underlying neoplasm cannot be excluded and
+follow-up upon resolution (ie 4 months) is recommended.
+Bilateral femoral head avascular necrosis. Sclerotic femur
+diaphysis lesion atypical for metastasis though should be
+followed radiographically.
+
+MICRO DATA:
+-respiratory culture ([**2162-5-27**]):
+GRAM NEGATIVE ROD(S).    SPARSE GROWTH.
+GRAM NEGATIVE ROD #2.    RARE GROWTH.
+SENSITIVITIES: MIC expressed in MCG/ML
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+-respiratory culture from ET tube ([**2162-5-19**]):
+SENSITIVITIES: MIC expressed in MCG/ML
+                             CITROBACTER FREUNDII COMPLEX
+                             |          AEROMONAS HYDROPHILA
+                             |          |
+AMPICILLIN/SULBACTAM--              <=8 S
+CEFAZOLIN-------------               16 I
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S      <=2 S
+CEFTRIAXONE-----------   <=1 S      <=4 S
+CEFUROXIME------------                  S
+CIPROFLOXACIN---------<=0.25 S    <=0.5 S
+GENTAMICIN------------   <=1 S      <=1 S
+IMIPENEM--------------              <=1 S
+LEVOFLOXACIN----------                  S
+MEROPENEM-------------<=0.25 S          S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----              <=8 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=2 S
+
+-fecal culture ([**2162-5-18**]):
+FECAL CULTURE (Final [**2162-5-21**]):    NO SALMONELLA OR SHIGELLA
+FOUND.
+CAMPYLOBACTER CULTURE (Final [**2162-5-20**]):    NO CAMPYLOBACTER
+FOUND.
+OVA + PARASITES (Final [**2162-5-19**]): NO OVA AND PARASITES SEEN.
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2162-5-18**]):
+REPORTED BY PHONE TO [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 48228**] AT 13:15PM ON [**2162-5-18**].
+CLOSTRIDIUM DIFFICILE.
+FECES POSITIVE FOR C. DIFFICILE TOXIN

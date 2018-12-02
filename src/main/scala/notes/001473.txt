@@ -1,0 +1,208 @@
+Admission Date:  [**2136-2-23**]              Discharge Date:   [**2136-2-29**]
+
+Date of Birth:  [**2063-9-2**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Shellfish
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+congestive heart failure in past, referred for cabg/mvr after
+cardiac  catheterization
+
+Major Surgical or Invasive Procedure:
+CABG x4(LIMA-LAD,SVG-OM,SVG-Diag, SVG-PDA0MVR(#31 [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**]
+porcine)[**2-23**]
+Re-exploration for bleeding [**1-/2057**]
+
+
+History of Present Illness:
+multiple episodes of CHF before cardiac cath in [**September 2135**],
+then referred for surgical evaluation. Currently symptom free.
+
+Past Medical History:
+CAD
+Ischemic Cardiomyopathy
+CHF
+DM2
+CRI(2.2)
+Nephrolithiasis
+s/p Lithotripsy
+s/p cystoscopy
+
+Social History:
+Retired insurance [**Doctor Last Name 360**]. Lives w/wife in [**Name (NI) 14840**], MA
+Denies tobacco, rare ETOH use
+
+Family History:
+Brother w/CAD in 50's
+
+Physical Exam:
+Admission
+VS: T  HR 63  BP 136/74  RR 12
+Ht 6'1"  Wt 202lbs
+Gen NAD
+Neuro A&Ox3, MAE, nonfocal
+Skin unremarkable
+HEENT EOMI, PERRL, OP benign
+Neck supple no JVD
+Pulm CTA bilat
+CV RRR distant heart sounds
+Abdm soft, NT/+BS
+Ext warm, well perfused, no varicosities or edema
+
+Discharge
+
+Pertinent Results:
+[**2136-2-27**] 03:07AM BLOOD WBC-6.7 RBC-2.99* Hgb-9.0* Hct-25.8*
+MCV-86 MCH-30.2 MCHC-35.0 RDW-13.7 Plt Ct-68*
+[**2136-2-29**] 08:30AM BLOOD PT-24.5* INR(PT)-2.4*
+[**2136-2-28**] 01:14PM BLOOD PT-15.2* INR(PT)-1.3*
+[**2136-2-29**] 08:30AM BLOOD UreaN-47* Creat-1.7* K-3.5
+[**2136-2-28**] 01:14PM BLOOD Glucose-199* UreaN-48* Creat-1.6* Na-137
+K-3.4 Cl-102 HCO3-27 AnGap-11
+[**2136-2-27**] 03:07AM BLOOD Glucose-151* UreaN-42* Creat-1.6* Na-136
+K-4.0 Cl-102 HCO3-26 AnGap-12
+[**2136-2-26**] 04:57AM BLOOD Glucose-164* UreaN-35* Creat-1.7* Na-133
+K-4.6 Cl-102 HCO3-22 AnGap-14
+
+RADIOLOGY  Final Report
+CHEST (PORTABLE AP)  [**2136-2-27**] 10:00 AM
+CHEST (PORTABLE AP)
+Reason: s/p ct removal ?ptx
+[**Hospital 93**] MEDICAL CONDITION:
+72 year old man with s/p cabg
+REASON FOR THIS EXAMINATION:
+s/p ct removal ?ptx
+HISTORY: Status post CABG with removal of chest tube.
+FINDINGS: In comparison with the study of 2/29, there has been
+removal of all of the tubes except for residual right IJ stent
+and right chest tube. No evidence of pneumothorax or change in
+the appearance of the heart and lungs.
+DR. [**First Name8 (NamePattern2) 1569**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11006**]
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname 74493**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 74494**]Portable TEE
+(Complete) Done [**2136-2-24**] at 3:29:00 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+[**Street Address(2) 15115**]
+[**Location (un) 15116**], [**Numeric Identifier 15117**]  Status: Inpatient DOB: [**2063-9-2**]
+Age (years): 72 M  Hgt (in): 73
+BP (mm Hg): 100/60  Wgt (lb): 220
+HR (bpm): 60  BSA (m2): 2.24 m2
+Indication: Congestive heart failure. Coronary artery disease.
+H/O cardiac surgery. Pericardial effusion. Mitral valve disease.
+
+ICD-9 Codes: 423.3, 423.9
+Test Information
+Date/Time: [**2136-2-24**] at 15:29    Interpret MD: [**First Name11 (Name Pattern1) 449**] [**Last Name (NamePattern4) **],
+MD
+Test Type: Portable TEE (Complete) Son[**Name (NI) 930**]: Cardiology
+Fellow
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2008W99-9:9 Machine: Vivid i-4
+    Sedation: (See comments below for other sedation.)
+Patient was monitored by a nurse throughout the procedure
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV.
+LEFT VENTRICLE: Moderately depressed LVEF.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Simple atheroma in descending aorta.
+AORTIC VALVE: Normal aortic valve leaflets (3).
+MITRAL VALVE: MVR well seated, with normal leaflet/disc motion
+and transvalvular gradients.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+
+PERICARDIUM: Effusion is loculated.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was monitored by a nurse [**First Name (Titles) **] [**Last Name (Titles) 9833**]
+throughout the procedure. Local anesthesia was provided by
+benzocaine topical spray. The patient was sedated for the TEE.
+Medications and dosages are listed above (see Test Information
+section). 0.2 mg of IV glycopyrrolate was given as an
+antisialogogue prior to TEE probe insertion. No TEE related
+complications. The patient appears to be in sinus rhythm.
+Conclusions
+Overall left ventricular systolic function is moderately
+depressed. Right ventricular chamber size and free wall motion
+are normal. There are simple atheroma in the descending thoracic
+aorta. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion. The mitral prosthesis appears well
+seated, with normal leaflet motion. There is a large echodense
+(>2cm) collection (likely clot) in the pericardium. This
+echodense mass is impinging on the right atrium and right
+ventricle.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Electronically signed by [**First Name11 (Name Pattern1) 449**] [**Last Name (NamePattern4) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2136-2-24**] 16:08
+
+
+Brief Hospital Course:
+Mr [**Name13 (STitle) 74495**] was a direct admission to the operating room where
+he had a CABGx4/MVR on [**2-23**]. Please see OR report for details.
+In summary he had CABG x4 with LIMA-LAD, SVG-OM, SVG-Diag,
+SVG-PDA and MVR with #31 [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] Epic porcine valve. His bypass
+time was 181 minutes with a cross-clamp of 107 minutes. He
+tolerated the operation well and was transferred from the
+operating room to the cardiac surgery ICU in stable condition.
+He had marked bleeding from the chest  tubes on the day of
+surgery and returned to the operating room for reexploration. He
+tolerated this well and again returned to the ICU in stable
+condition. He was kept sedated after the reexploration and  on
+POD2/1 was allowed to wake, weaned from the ventilator and
+extubated. Over the next 24 hours he was weaned from his iv
+drips and his PA catherter removed. He was noted to have
+intermittant episodes of Atrial fibrilation and was started on
+Amiodarone and Warfarin. On POD [**3-29**] he was transferred to the
+step down floor for continued care. Once on the floors his
+activity level was advanced with PT and nursing, his chest tubes
+and epicardial wires were removed and on POD 6 he was ready for
+discharge to rehab.
+
+Medications on Admission:
+ASA 81'
+Lipitor 80'
+Januvia 100'
+Toprol XL 25'
+Avapro 150'
+Urocrit-K 20"
+Aldactone 25'
+Humalog75/25 20 QAM
+Lasix 40'
+
+Discharge Medications:
+1. Sitagliptin 100 mg Tablet Sig: 0.5 Tablet PO daily ().
+2. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+7. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day): 400mg QD x7 days then 200mg QD.
+9. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+10. Lantus 100 unit/mL Solution Sig: Thirty (30)  Subcutaneous
+at bedtime.
+11. Insulin Lispro 100 unit/mL Solution Sig: sliding scale
+Subcutaneous four times a day.
+12. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 10 days: 40

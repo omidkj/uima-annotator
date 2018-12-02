@@ -1,0 +1,189 @@
+Admission Date:  [**2158-8-8**]              Discharge Date:   [**2158-9-5**]
+
+Date of Birth:  [**2128-3-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Haldol / Compazine / Desipramine / Chlorpromazine
+/ Imipramine / Zoloft / Shellfish Derived
+
+Attending:[**First Name3 (LF) 5893**]
+Chief Complaint:
+transfered to [**Hospital1 18**] for Chest pain.
+Transfered to [**Hospital Unit Name 153**] for: unresponsiveness/respiratory failure
+
+Major Surgical or Invasive Procedure:
+endotracheal intubation
+central line
+arterial line
+
+History of Present Illness:
+30 yo female morbid obesity past history of DVTs and PEs s/p IVC
+filter placement 2 years ago who was transferred to [**Hospital1 18**] ED for
+PE.
+Initially went to [**Hospital 26380**] hospital on Thursday and had
+bilateral DVTs + PEs (lower ext swelling) and was placed on
+heparin + coumadin. After discharge, she returned to OSH with
+horrible CP 2 days ago and also had leg pain. She was found to
+have a worsening PE w/ increased clot burden despite being
+supratherapeutic, with INR of 4.8, and filter placement.
+Repeat CT at [**Hospital1 18**] ED -> small subsegmental right lower lobe
+with no evidence of infarct; LENIs were not repeated.
+Patient reports that she has had 2 days of sharp throbbing chest
+pain that is worse upon respiration and radiates to lower L
+chest, similar to pain she had with previous PEs. Also has had
+3-4 days of BL leg pain and numbness along with 'sores' on lower
+legs. Has difficulty moving legs, but unsure if due to pain or
+weakness. Has been at [**Hospital **] Rehab since discharge from [**Hospital 27217**]
+Hospital and reports being certain that she has been taking
+coumadin daily.
+.
+Also has had 4 days indwelling catheter -> dark + bloody urine;
+as per pt was being treated for UTI with ceftin
+
+
+Past Medical History:
+1. Borderline personality disorder
+2. Mood Disorder, NOS
+3. History of self-mutilation
+4. History of DVT/PE
+5. Obesity hypoventilation vs. sleep apnea
+6. Asthma
+7. Urinary Incontinence
+8. History of hypercarbic respiratory failure
+9. Obesity
+10. History of suicidal ideation with multiple past attempts
+11. History of MRSA cellulitis
+12. History of Pneumonia
+13. History of Bacteremia
+
+
+Social History:
+After recent admission for PE at [**Hospital 27217**] hospital, has been at
+[**Hospital **] Rehab center in [**Location (un) **]. Pt reports having no family or
+contacts. Denies cigarette or recreational drug use. Previous
+social alcohol use but has not had drink for several months. Has
+history of psychogenic hyporesonsiveness episodes requiring
+intubation.
+
+Family History:
+Parents deceased; otherwise noncontributory.
+
+Physical Exam:
+98.9 100/65 108 18 98%on 3L
+Gen: alert, cooperative, morbidly obese, in NAD.
+Pulm: anterior exam, ctab w/o coarse breath sounds.
+Cor: tachycardic, RR, nl S1S2
+Abd: obese, protuberant, nontender.
+Extrem: multiple pink tender blisters on anterior lower legs
+1cm.
+1+ DP and 2+ radial pulses. Acyanotic extremities.
+Neuro: LE perception to light touch intact. Strength appears to
+be limited by pain.
+
+
+Pertinent Results:
+[**2158-8-12**] 3:39 pm SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal.
+
+                            **FINAL REPORT [**2158-8-14**]**
+
+   GRAM STAIN (Final [**2158-8-12**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST.
+
+   RESPIRATORY CULTURE (Final [**2158-8-14**]):
+      MODERATE GROWTH Commensal Respiratory Flora.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         SENSITIVITIES PERFORMED ON CULTURE # [**Numeric Identifier 53485**] FROM
+[**2158-8-10**].
+
+[**2158-8-11**] 12:10 am BLOOD CULTURE      Source: Line-central line.
+
+                            **FINAL REPORT [**2158-8-17**]**
+
+   Blood Culture, Routine (Final [**2158-8-17**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    OF TWO COLONIAL
+MORPHOLOGIES.
+         ISOLATED FROM ONE SET ONLY SENSITIVITIES PERFORMED ON
+REQUEST..
+
+
+Brief Hospital Course:
+FLOOR COURSE:
+Ms. [**Known lastname **] was admitted with complaint of chest pain found to
+have right subsegmental PE and supratherapeutic INR. Patient has
+been maintained on room air while INR corrected in setting of
+warfarin being held. Two days after admission, patient was found
+incontinant of stool face down in her bed, unresponsive. Vitals
+at that time were afebrile, SBP 120-130's, HR 110's, RR 12-18,
+SpO2 100% RA, she had a pulse and did not appear to have
+respiratory difficulty. She was not responsive to verbal or
+tactile stimuli. Fingerstick was slightly elevated blood
+glucose. Patient recieved small amount of narcotic, Narcan given
+and she remained non-responsive. Also noted, patient had
+flickering of eyelids, concerning for seizure. She recieved 5mg
+ativan with no significant improvement. Due to concern for
+possible ICH and inability to protect airway, patient was
+transferred to [**Hospital Ward Name 332**] ICU for emergent intubation with plan for
+CT Head. Of note, patient was vomitting [**3-14**] to ambu bag.
+
+ICU course:
+#Unresponsiveness: Upon further investigation of Ms. [**Known lastname **]
+chart, it appears that she has a history of psychogenic
+hyporesponsivenss requiring multiple intubations in the past.
+Head CT returned negative and neuro team did not feel that this
+episode was a seizure. Psych was consulted and said there was
+nothing to do while patient was intubated.
+
+#Respiratory Failure: During the code, patient was found to have
+vomited resulting in an aspiration pneumonia. She was intubated
+and vented and treated with empiric antibiotics. Sputum and
+blood cultures grew staph aureus and she was continued on
+Vancomycin and Meropenem, [**Last Name (un) **] changed to Linezolid on Day 8 due
+to known MRSA in her sputum.  On ICU Day 9, her left lower lobe
+asp PNA seems to have cleared, but patient developed a new right
+middle lobe infiltrate. She continued to have persistent
+infiltrate on CXR L > R and ID was consulted. They recommended
+continuing vancomycin therapy for MRSA and also obtaining input
+from interventional pulmonology to evaluate for possible
+empyema. IP did not feel there was an obvious complicated
+effusion present. The patient was continued on the ventilator
+and antibiotics. She had persistent hypoxic respiratory failure
+requiring increasing levels of PEEP and 100% FiO2. She was
+transitioned to APRV when unable to oxygenate on volume cycle
+ventilation.  Eventually she was placed back on ACV, but
+required 100% FIO2 and high PEEP levels (20's). She desaturated
+with any re-positioning adn we were unable to wean from the
+ventilator..
+
+#Septic shock: Found to have staph aureus in the blood. She was
+hypotensive requiring pressors. By ICU Day 10, patient is still
+dependent on pressors.  She continues to spike fevers despite
+broad spectrum antibiotic coverage. Blood culture from [**8-19**] grew
+coag (-) staph in 1 of 2 sets; patient maintained on vancomycin.
+An IJ tip grew yeast and the patient was started on fluconazole
+per ID. A urine culture grew [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 563**] and the patient
+was treated with micafungin. The patient remained on pressor
+support. The patient remained persistently febrile during her
+hospital course. Infectious disease followed the patient each
+day. She had documented infections including [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 563**] in
+urine, pseudomonas/klebsiella in sinuses, pseudomonas in sputum
+as well as urine, and MRSA in lungs. Unfortunately, due to the
+patient's body habitus, we were unable to evaluate her for
+abscess with CT and had to rely on U/S, which did not show an
+obvious abscess or loculated fluid.
+
+#Bipolar: patient was continued on all psych meds as well as her
+antidepressants until she began having high OG residuals and she
+was not able to tolerate PO meds.
+
+#Diabetes: given ISS, glargine, and closely  monitored glucose
+levels. She had an increasing insulin requirement during her ICU
+course.
+
+#Guardianship: [**Name2 (NI) **] not found to have a guardian or proxy.
+Group hom

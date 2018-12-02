@@ -1,0 +1,214 @@
+Admission Date:  [**2112-2-23**]              Discharge Date:   [**2112-3-1**]
+
+Date of Birth:  [**2056-1-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine Sulfate / Pronestyl / Quinidine-Quinine Analogues /
+Mexiletine / Captopril / Sulfa (Sulfonamide Antibiotics) / Latex
+/ Nitrofurantoin
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+progressive dyspnea
+
+Major Surgical or Invasive Procedure:
+right heart cath
+PICC placement
+
+History of Present Illness:
+Mrs. [**Known lastname 111334**] is a 56 year old woman with a history of severe
+dilated cardiomyopathy with an EF of [**10-24**]% (?viral vs
+post-partum) s/p ICD placement who was admitted on [**2112-2-23**] for
+severe shortness of breath and PND, presumably due to worsening
+congestive heart failure. Given the lack of edema or hypoxia,
+the patient was continued on her home regimen fo torsemide 30mg
+PO QAM and 10mg PO QPM. Notable findings during her stay
+included a BNP >4000 (baseline of 1000), trigger for severe
+dyspnea/orthopnea, and an echo that showed profoundly worsened
+EF now down to 5% from 10-15%, with severe dilation of the LV.
+At the behest of her cardiologist, Dr. [**First Name (STitle) 437**], she underwent a
+right heart cath with plans for a trial of milrinone therapy.
+RHC revealed markedly elevated left and right heart filling
+pressures that significantly improved with milrinone infusion.
+If this milrinone trial fails, she would likely be transferred
+to [**Hospital1 3278**] for a heart transplant evaluation.
+.
+On arrival to the CCU, the patient subjectively felt much better
+after milrinone infusion. She had by that point made nearly
+700cc of urine.
+.
+REVIEW OF SYSTEMS
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. She denies recent fevers, chills or
+rigors. She denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: - Diabetes, - Dyslipidemia, -
+Hypertension
+2. CARDIAC HISTORY:
+- Idiopathic vs post partum cardiomyopathy atleast since [**2092**],
+EF of [**10-24**]%
+- 64 year old female with post-partum dilated cardiomyopathy s/p
+
+abdominal ICD implantation for NSVT and inducible VT in EP study
+
+in [**2092**]. She had an abdominal ICD generator change on [**2096-2-8**].
+
+In [**4-/2098**] she had abdominal ICD explantation and lead capping
+due to discomfort. She had first transvenous ICD implant on
+[**2098-5-29**] in the L pectoral region and had a device change
+[**2103-3-7**]. Implantation of a [**Company 1543**] Secura VR Single Chamber
+
+ICD in [**2108-9-14**].
+3. OTHER PAST MEDICAL HISTORY:
+- Incidental finding noted on chest CT scan of a 6 mm nodule,
+mild restriction on PFTs
+- status post cholecystectomy, status post appendectomy, two
+C-sections
+- remote asthma and multiple allergies
+- anxiety
+- ovarian cysts
+- Lyme disease seeing specialists in [**State 531**].
+
+Social History:
+[**Known firstname **] is married, lives with her husband and has two daughters.
+She smoked cigarettes in her 20s and has not smoked tobacco
+since. Occasional wine.
+
+
+Family History:
+Father died suddenly at age 74. She reports he may have had a
+heart attack and had diabetes near the end of his life. Mother
+is alive and fairly healthy.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: T 97.8 HR 90 BP 95/63 RR 25 O2 95%RA
+GENERAL: Chronically ill appearing woman in NAD, AOx3 and
+appropriate but mildly drowsy
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with no JVD
+CARDIAC: large palpable precordial heave RRR, normal S1, S2. No
+m/r/g. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: Warm extremities with good cap refill. No c/c/e
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+PHYSICAL EXAM ON DISCHARGE:
+VS: T97.4, HR:95, BP99/50, RR18, O2sat:97%RA
+General: less drowsiness
+Extremities: PICC in place
+Exam otherwise unchanged from admission
+
+
+Pertinent Results:
+ADMISSION LABS:
+WBC-8.9 RBC-4.82 Hgb-14.3 Hct-42.6 MCV-88 MCH-29.7 MCHC-33.6
+RDW-13.1 Plt Ct-275
+Neuts-74.3* Lymphs-21.1 Monos-3.1 Eos-0.7 Baso-0.7
+Glucose-120* UreaN-27* Creat-0.9 Na-140 K-3.4 Cl-98 HCO3-31
+AnGap-14
+proBNP-4779*
+cTropnT-<0.01
+.
+STUDIES:
+.
+CXR ([**2112-2-23**]): PA and lateral views of the chest are compared to
+previous exam from [**2111-8-10**]. Again seen is cardiomegaly
+which is essentially stable from prior. The lungs remain clear.
+There is a small left pleural effusion. Pacemaker wires are in
+stable position. There are surgical clips in the upper abdomen,
+potentially from prior cholecystectomy.
+IMPRESSION: Small left pleural effusion. Stable cardiomegaly.
+.
+RIGHT HEART CATH ([**2112-2-24**]):
+1.  Resting hemodynamics revealed severely elevated filling
+pressures
+with a mean PCPW of 39mmHg and an RVEDP of 25mmHg.  There was
+severe
+pulmonary hypertension with a PA pressure of 71/41mmHg.  Cardiac
+output
+was diminished at 2.4L/min with an index of 1.3L/min/m2.
+2.  Following milrinone bolus and infusion of 0.5mcg/kg/min,
+PCWP
+decreased to mean of 30mmHg.  PA pressure fell to 60/42mmHg, and
+cardiac
+output increased to 3.4L/min with an index of 1.9L/min/m2.
+
+FINAL DIAGNOSIS:
+1. Severe right- and left-sided heart failure with elevated
+filling
+pressures at rest.
+2. Positive response to milrinone infusion with decrease in PA
+pressure,
+PCWP, and increase in cardiac output.
+.
+ECHO ([**2112-2-24**]):
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is severely dilated. Overall left ventricular
+systolic function is profoundly depressed (LVEF= 5 %). The right
+ventricular free wall thickness is normal. The right ventricular
+cavity is dilated with severe global free wall hypokinesis. The
+mitral valve leaflets are structurally normal. The left
+ventricular inflow pattern suggests a restrictive filling
+abnormality, with elevated left atrial pressure. AT LEAST
+moderate [2+] tricuspid regurgitation is seen. [Due to acoustic
+shadowing from the ICD coil, the severity of tricuspid
+regurgitation may be significantly UNDERestimated.] There is no
+pericardial effusion.
+
+Compared to the prior study of [**2111-4-20**], the left
+ventricular ejection fraction is even further reduced, and now
+severe right ventricular contractile dysfunction is present,
+with markedly increased tricuspid regurgitation and at least
+moderate pulmonary hypertension.
+.
+LENIs ([**2112-2-24**]): Normal appearance of the deep venous structures
+of the right and left lower extremities. No evidence of deep
+venous thrombosis.
+.
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2112-2-25**] 7:30
+AM
+FINDINGS: As compared to the previous radiograph, the patient
+has received a right internal jugular vein device, in addition
+to the left pacemaker.
+The size of the cardiac silhouette is still substantially
+enlarged and the
+presence of a small pleural effusion on the left cannot be
+excluded.
+Otherwise, there are signs of minimal fluid overload but no
+overt pulmonary edema with no evidence of pneumonia. Unchanged
+retrocardiac atelectasis.
+.
+Radiology Report CHEST PORT. LINE PLACEMENT Study Date of
+[**2112-2-25**] 2:00 PM
+Radiology Report -77 BY DIFFERENT PHYSICIAN [**Name9 (PRE) 2221**] Date of
+[**2112-2-25**] 2:00 PM
+The right PICC line tip is at the level of cavoatrial junction.
+Right
+internal jugular line tip is at the level of superior SVC. The
+rest of the
+findings are unchanged.
+.
+Cardiovascular Report ECG Study Date of [**2112-2-26**]  10:29:02 AM
+Sinus rhythm with ventricular premature depolarizations.
+Compared to the
+previous tracing heart rate is reduced. Otherwise, no
+significant change.
+TRACING #2
+.
+Cardiovascular Report ECG Study Date of [**2112-2-26

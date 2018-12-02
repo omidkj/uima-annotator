@@ -1,0 +1,204 @@
+Admission Date:  [**2103-2-5**]              Discharge Date:   [**2103-2-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1171**]
+Chief Complaint:
+respiratory distress
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+Intubation
+
+
+History of Present Illness:
+89 yo F hx CAD s/p NSTEMI [**2103-1-19**] treated medically presents with
+acute onset dyspnea. Pt was brought in by EMS from home for
+respiratory distress, found seated in bathroom, AAOx3, in resp
+distress with pink forthy sputum, given 40mg IV lasix, nitro
+spray, progressively lethargic and ashen, intubated in the field
+(nasal intubation x1 unsucessful), BP initially 200/140,
+bradycardic to 36. Initially seen at OSH, where EKG revealed a
+previously known LBBB, CXR demonstrated pulmonary edema, labs
+notable for CK 153, MB 11.0, Trop I 0.28 (nl 0-0.03), INR 1.0.
+She was started on heparin drip with 5,500U bolus, drip at
+1,000U/hr, lasix 40mg IV x2, ASA 650mg, plavix 300mg,
+nitropaste, transferred to [**Hospital1 18**] for further care.
+Urine output thus far 800cc. On arrival notable for intermittent
+bradycardia to 30's, BP stable, bleeding from nares b/l, packing
+placed. Transferred to CCU for further care.
+On arrival pt intubated, sedated.
+
+
+Past Medical History:
+CAD s/p MI [**2103-1-19**] treated medically
+Hypothyroidism
+HTN
+Hyperlipidemia
+.
+Cardiac Risk Factors: Dyslipidemia, Hypertension
+.
+Cardiac History: NSTEMI [**2103-1-19**] treated medically
+
+
+Social History:
+Pt has daughter who is involved in her care. Smoking hx unknown.
+
+
+Physical Exam:
+VS - 95.8, BP 103/46, HR 40, RR 16 on AC 100%/450/14/5
+Gen: elderly female, inbutated sedated, unresponsive, pupils 2mm
+b/l minimally reactive.
+HEENT: anicteric, OP with dry blood, nares with packing and dry
+blood.
+Neck: Supple with JVP to jaw
+CV: RRR nl s1, s2, no murmur auscultated.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Femoral 2+ DP 2+ PT 2+
+Left: Femoral 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+[**2103-2-5**] 03:45AM BLOOD WBC-7.5 RBC-4.50 Hgb-12.7 Hct-38.7 MCV-86
+MCH-28.1 MCHC-32.8 RDW-13.3 Plt Ct-321
+[**2103-2-7**] 02:45AM BLOOD WBC-11.0 RBC-3.05* Hgb-8.7* Hct-25.3*
+MCV-83 MCH-28.5 MCHC-34.3 RDW-14.0 Plt Ct-248
+[**2103-2-8**] 05:16AM BLOOD WBC-9.6 RBC-3.35* Hgb-9.8* Hct-27.9*
+MCV-84 MCH-29.4 MCHC-35.2* RDW-13.9 Plt Ct-228
+[**2103-2-5**] 03:45AM BLOOD PT-66.5* PTT-150* INR(PT)-8.1*
+[**2103-2-8**] 05:16AM BLOOD PT-11.7 PTT-30.4 INR(PT)-1.0
+[**2103-2-5**] 03:45AM BLOOD Glucose-316* UreaN-29* Creat-1.4* Na-137
+K-3.5 Cl-100 HCO3-27 AnGap-14
+[**2103-2-8**] 05:16AM BLOOD Glucose-141* UreaN-63* Creat-1.8* Na-146*
+K-4.1 Cl-110* HCO3-25 AnGap-15
+[**2103-2-5**] 03:45AM BLOOD ALT-56* AST-118* LD(LDH)-311*
+CK(CPK)-643* AlkPhos-72 TotBili-0.3
+[**2103-2-5**] 03:51PM BLOOD CK(CPK)-565*
+[**2103-2-6**] 04:15AM BLOOD CK(CPK)-368*
+[**2103-2-7**] 02:45AM BLOOD CK(CPK)-226*
+[**2103-2-5**] 03:45AM BLOOD cTropnT-1.01*
+[**2103-2-5**] 03:51PM BLOOD CK-MB-76* MB Indx-13.5* cTropnT-3.01*
+[**2103-2-6**] 09:06AM BLOOD CK-MB-21* MB Indx-6.4* cTropnT-2.16*
+[**2103-2-7**] 02:45AM BLOOD CK-MB-8 cTropnT-1.88*
+[**2103-2-6**] 04:15AM BLOOD Calcium-7.5* Phos-4.5 Mg-1.6
+[**2103-2-8**] 05:16AM BLOOD Calcium-8.2* Phos-4.6* Mg-2.5
+[**2103-2-5**] 02:00PM BLOOD Free T4-0.97
+[**2103-2-5**] 02:00PM BLOOD TSH-3.2
+.
+Cardiac Cath [**2-5**]
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Normal left and right ventricular diastolic function.
+3. Moderate pulmonary arterial hypertension.
+4. Successful bifurcation stenting of the LAD and D1 with
+Culotte
+technique with Endeavor DES
+.
+Echo [**2-6**]
+Conclusions
+The left atrium is normal in size. Left ventricular wall
+thicknesses and cavity size are normal. Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Overall left ventricular systolic function is
+low normal (LVEF 50-55%). Right ventricular chamber size and
+free wall motion are normal. The aortic valve leaflets (3) are
+mildly thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened with trivial mitral regurgitation. The pulmonary
+artery systolic pressure could not be determined. There is an
+anterior space which most likely represents a fat pad.
+IMPRESSION: Suboptimal image quality. Low normal left
+ventricular systolic function. Preserved right ventricular
+systolic function.
+.
+CT Head [**2-7**]
+IMPRESSION:
+1. No CT evidence of acute vascular territorial infarction. If
+this is of significant clinical concern, further evaluation with
+MRI with diffusion- weighted imaging is suggested as this is
+more sensitive for ischemia.
+2. Opacification and fluid levels of the paranasal sinuses may
+be related to intubation.
+.
+CT neck [**2-7**]
+IMPRESSION:
+1. Presence of the endotracheal tube which somewhat distorts
+normal anatomy of the airway, limits evaluation for airway
+narrowing, although none is definitely seen.
+2. Dependent consolidation of both upper lungs may represent
+aspiration or pneumonia.
+3. Extensive atherosclerotic calcification of the aortic arch
+
+
+Brief Hospital Course:
+Patient presented with respiratory distress and was nasally
+intubated in the field, no reported chest pain, however
+concerning for ACS given positive cardiac enzymes.  She was
+taken to the cardiac cath lab where she had bifurcation stenting
+of the LAD and D1.  Medical treatment included aspirin, plavix,
+heparin drip, and statin.  She was not given a beta-blocker
+because of bradycardia.  Echocardiogram did not show
+significantly depressed cardiac function.
+  In the setting of nasal intubation patient had nasopharyngeal
+bleeding.  ENT was consulted and she was changed to oral
+intubation with nasal packing.  Plans for extubation were
+complicated by lack of consistent cuff leak.  She was given
+steroids and had a CT scan of the neck which was difficult to
+interpret with the ET tube in place.  After course of steroids,
+she was extubated successfully but family chose to make patient
+DNR/DNI understanding the risk of not reintubating patient.
+Soon after she was made CMO.  She was maintained on mask oxygen
+and was initially hypoxic after extubation however O2 sat
+recovered.  In the evening after extubation patient became
+asystolic and passed away.
+  While patient intubated as well as post-extubation, patient
+exhibited right-sided hemiparesis.  This was concerning for CVA.
+ A head CT without contrast and CT neck did not show hemorrhage
+or large ischemia to explain these findings.  An MRI was not
+pursued given patient's clinical instability and lack of
+therapeutic options.
+
+Medications on Admission:
+Plavix 75mg daily
+Atenolol 25mg daily
+Lisiopril 10mg daily
+Lipitor 10mg daily
+Synthroid 50 mcg daily
+Imdur 30mg daily
+
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Respiratory failure
+Stroke
+STEMI
+
+
+Discharge Condition:
+expired
+
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+
+

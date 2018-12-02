@@ -1,0 +1,202 @@
+Admission Date:  [**2131-9-28**]              Discharge Date:   [**2131-10-10**]
+
+Date of Birth:  [**2061-1-9**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Lipitor / Prednisone
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+coronary artery disease/Thyroid mass
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafts x 4(LIMA-LAD,SVG-OM1,y
+y-DG,SVG-OM2),Left thyroidectomy [**2131-9-28**]
+
+
+History of Present Illness:
+This 70 year old white female vasculopath underwent intervention
+for a left ankle ulceration in [**Month (only) **].  She had angina and
+ruled in for an infarct at that time.  Catheterization then
+demonstrated significant left sided disease and preserved LV
+function.  She also has a large substernal goiter, which by
+prior biopsy was not malignant.  This was removed after
+sternotomy.  She is admitted now for revascularization and
+partial thyroidectomy.
+
+Past Medical History:
+coronary artery disease
+thyroid mass
+hypertension
+Hyperlipidemia
+s/p balloon angioplasty of L superficial femoral and popliteal
+arteries [**2131-8-29**]
+carotid artery disease
+Noninsulin dependent diabetes mellitus
+chronic obstructive pulmonary disease
+s/p left mastectomy
+h/o gastrointestinal hemorrhage
+gastroesophageal reflux disease
+Vertigo
+s/p Left hand surgery for Ganglion cyst
+
+
+Social History:
+75 pack year history
+nondrinker
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+Admission:
+Pulse: 64 SR   Resp: 14   O2 sat: 97% RA
+B/P  Right: 172/84   Left:  No BP s/p mastectomy
+Height:5'2"     Weight:143 lbs
+
+General: NAD
+Skin: Warm, Dry, intact. Well healed mastectomy scar.
+HEENT: NCAT, PERRLA, EOMI, Sclera anicteric, OP benign. Mild
+thyroid fullness however no significant thyromegally palpated.
+Neck:  Supple [X] Full ROM [X] No JVD
+Chest: Lungs clear bilaterally [X] with delayed expiration.
+Heart: RRR [X], Nl S1-S2, No M/R/G
+Abdomen: Soft [X] non-distended [X] non-tender [X]  bowel sounds
++ [X] Obese
+Extremities: Warm [X], well-perfused [X]  1+ Left and no right
+lower extremity edema. Left heal ulcer with granulation tissue
+present.
+Varicosities: Left thigh and lower leg grossly varicosed. Some
+right thigh and lower leg varicosities also noted.
+Neuro: Grossly intact, MAE, Mild balance issues as she is
+slightly unstable on standing. Falls forward to right.
+Pulses:
+Femoral      Right: 2  Left: 2  **Bilateral bruits
+DP           Right: trace  Left: trace
+PT           [**Name (NI) 167**]: 1  Left: 1
+Radial       Right: 2  Left: 2
+
+Carotid Bruit        Right: + Bruit    Left: + Bruit
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 84547**] (Complete) Done
+[**2131-9-28**] at 11:42:34 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2061-1-9**]
+Age (years): 70 F  Hgt (in): 63
+BP (mm Hg): 140/62  Wgt (lb): 142
+HR (bpm): 65  BSA (m2): 1.67 m2
+Indication: Intraop CABG, partial thyroidectomy
+ICD-9 Codes: 440.0
+Test Information
+Date/Time: [**2131-9-28**] at 11:42    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW1-: Machine: [**Doctor Last Name **] 2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.4 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.7 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.5 m/s
+Left Atrium - Peak Pulm Vein D:  0.3 m/s
+Left Atrium - Peak Pulm Vein A:  0.1 m/s  < 0.4 m/s
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.0 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.4 cm
+Left Ventricle - Fractional Shortening:  0.40  >= 0.29
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Left Ventricle - Stroke Volume:  69 ml/beat
+Left Ventricle - Cardiac Output:  4.49 L/min
+Left Ventricle - Cardiac Index:  2.69  >= 2.0 L/min/M2
+Left Ventricle - Peak Resting LVOT gradient:  3 mm Hg  <= 10 mm
+Hg
+Aorta - Annulus:  2.1 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.9 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.1 cm  <= 3.0 cm
+Aorta - Ascending:  2.6 cm  <= 3.4 cm
+Aorta - Arch:  2.2 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.4 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.3 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  7 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  2 mm Hg
+Aortic Valve - LVOT VTI:  22
+Aortic Valve - LVOT diam:  2.0 cm
+Aortic Valve - Valve Area:  *2.1 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  0.7 m/sec
+Mitral Valve - Pressure Half Time:  100 ms
+Mitral Valve - MVA (P [**12-1**] T):  2.2 cm2
+Mitral Valve - E Wave:  0.7 m/sec
+Mitral Valve - A Wave:  0.6 m/sec
+Mitral Valve - E/A ratio:  1.17
+Mitral Valve - E Wave deceleration time:  229 ms  140-250 ms
+Findings
+LEFT ATRIUM: Moderate LA enlargement. All four pulmonary veins
+identified and enter the left atrium.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal
+interatrial septum. No ASD by 2D or color Doppler.
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Overall normal LVEF (>55%).
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+No atheroma in ascending aorta. Normal aortic arch diameter.
+Complex (>4mm) atheroma in the aortic arch. Normal descending
+aorta diameter. Complex (>4mm) atheroma in the descending
+thoracic aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification. No MS. Physiologic MR (within
+normal limits).
+TRICUSPID VALVE: Normal tricuspid valve leaflets. No TS. Mild
+[1+] TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications.
+Conclusions
+Pre Bypass: The left atrium is mildly dilated. No atrial septal
+defect is seen by 2D or color Doppler. There is mild symmetric
+left ventricular hypertrophy. The left ventricular cavity size
+is normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. There are complex (>4mm) atheroma in the aortic
+arch. There are complex (>4mm) atheroma in the descending
+thoracic aorta. The aortic valve leaflets (3) are mildly
+thickened. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened and the posterior leaflet is heavily calcified.
+Physiologic mitral regurgitation is seen (trace to no mr). There
+is no mitral stenosis. There is no pericardial effusion.
+Post Bypass: Patient is paced on phenylepherine infusion.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Interpretation assigned to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician
+
+
+Brief Hospital Course:
+Ms.[**Known lastname 13393**] was taken to the Operating Room where Coronary artery
+bypass grafts x 4(Left Internal Mammary Artery was grafted to
+Left Anterior Descending ,Saphenous Vein Grafted to Obtuse
+Marginal1,Y-Diag, SVG-OM2) were performed.  The  thyroid mass
+was also resected after sternotomy. Cross clamp time=69 minutes.
+Cardiopulmonary Bypass time= 86 minutes. Please refer to the
+operative note for further details. The thyroid mass was excised
+after sternotomy and then revascularization was done.  She
+weaned from bypass on neosynephrine and Propofol. Intubated and
+sedated, she was transf

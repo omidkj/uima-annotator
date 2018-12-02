@@ -1,0 +1,233 @@
+Admission Date:  [**2140-8-25**]              Discharge Date:   [**2140-8-29**]
+
+Date of Birth:  [**2067-3-15**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Chest and arm pain
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafting x3, (left internal mammary
+artery, left anterior descending coronary artery; reverse
+saphenous vein single graft from the aorta to the ramus
+intermedius coronary artery; as well as reverse saphenous vein
+graft from the aorta to the distal right coronary artery) on
+[**2140-8-25**]
+
+History of Present Illness:
+73 year old female who began to develop exertional arm and chest
+pain this past [**Month (only) 547**]. She was referred to a cardiologist who
+performed an exercise tolerance test which was positive for
+ischemia. She underwent a cardiac catheterization which revealed
+severe coronary artery disease with a 50% left main stenosis,
+80%
+LAD and 90% RCA. Given these findings, she has been referred for
+surgical evaluation.
+
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Chronic renal insufficiency - Stage III
+Anemia
+Obesity
+COPD
+Hypothyroid
+Osteoporosis
+Past Surgical History
+Abd. surgery for perforated ulcer
+Right knee surgery
+Hysterectomy with Bladder resuspension [**2137**]
+
+Social History:
+Race: Caucasian
+Last Dental Exam: full dentures
+Lives with: husband
+Occupation: N/A
+Tobacco: quit [**2102**]
+ETOH: denies
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Admission Physical Exam
+
+Pulse: 64 Resp: 16  O2 sat: 98%
+B/P  Right: 147/62   Left: 150/75
+Height: 59"    Weight: 200
+
+General: Well-developed obese female with in no acute distress
+Skin: Dry [X] intact [X]
+HEENT: PERRLA [X] EOMI [X]
+Neck: Supple [X] Full ROM [X]
+Chest: Expiratory wheeze bilateral
+Heart: RRR [X] Irregular [] Murmur -
+Abdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds
++
+[X]
+Extremities: Warm [X], well-perfused [X] large LE Edema: 2+
+Varicosities: None [X]
+Neuro: Grossly intact [X]
+Pulses:
+Femoral      Right: 1+   Left: 1+
+DP           Right: 1+   Left: 1+
+PT           [**Name (NI) 167**]: 1+   Left: 1+
+Radial       Right: 2+   Left: 2+
+
+Carotid Bruit    Right: -    Left: -
+
+Pertinent Results:
+[**2140-8-28**] 09:46AM BLOOD WBC-10.8 RBC-3.43* Hgb-9.9* Hct-29.3*
+MCV-85 MCH-28.8 MCHC-33.7 RDW-16.4* Plt Ct-133*
+[**2140-8-25**] 03:10PM BLOOD WBC-8.0 RBC-3.14* Hgb-9.2* Hct-26.4*
+MCV-84 MCH-29.4 MCHC-35.0 RDW-15.9* Plt Ct-106*#
+[**2140-8-25**] 04:23PM BLOOD PT-14.3* PTT-33.3 INR(PT)-1.2*
+[**2140-8-25**] 03:10PM BLOOD PT-14.6* PTT-33.0 INR(PT)-1.3*
+[**2140-8-28**] 09:46AM BLOOD UreaN-20 Creat-0.8 Na-137 K-4.1 Cl-102
+[**2140-8-25**] 04:23PM BLOOD UreaN-20 Creat-0.8 Na-143 K-4.0 Cl-114*
+HCO3-23 AnGap-10
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 87588**] (Complete)
+Done [**2140-8-25**] at 1:07:41 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2067-3-15**]
+Age (years): 73 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Chest pain. Coronary artery disease. Shortness of
+breath. For CABG.
+ICD-9 Codes: 402.90, 786.05, 786.51
+Test Information
+Date/Time: [**2140-8-25**] at 13:07    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 18397**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW1-: Machine: siemens
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  0.7 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.6 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.7 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  4.0 cm
+Left Ventricle - Fractional Shortening:  0.30  >= 0.29
+Left Ventricle - Ejection Fraction:  45% to 50%  >= 55%
+Aorta - Sinus Level:  2.8 cm  <= 3.6 cm
+Aorta - Ascending:  2.4 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.1 cm  <= 2.5 cm
+Aortic Valve - Mean Gradient:  7 mm Hg
+Aortic Valve - LVOT diam:  1.8 cm
+Mitral Valve - E Wave:  0.8 m/sec
+Mitral Valve - A Wave:  0.3 m/sec
+Mitral Valve - E/A ratio:  2.67
+
+Findings
+LEFT ATRIUM: Mild spontaneous echo contrast in the body of the
+LA. Depressed LAA emptying velocity (<0.2m/s)
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD or PFO by 2D, color
+Doppler or saline contrast with maneuvers.
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Mildly depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTIC VALVE: Three aortic valve leaflets. No AR.
+
+MITRAL VALVE: Mild (1+) MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. Results were
+Conclusions
+Pre CPB:
+Mild spontaneous echo contrast is seen in the body of the left
+atrium. The left atrial appendage emptying velocity is depressed
+(<0.2m/s).
+No atrial septal defect or patent foramen ovale is seen by 2D,
+color Doppler or saline contrast with maneuvers.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is mildly depressed (LVEF= 45 %).
+Right ventricular chamber size and free wall motion are normal.
+There are three aortic valve leaflets. No aortic regurgitation
+is seen.
+Mild (1+) mitral regurgitation is seen. Dr. [**Last Name (STitle) 914**] was notified
+in person of the results.
+Epi-Aortic ultrasound performed prior to cannulation.
+
+Post CPB:
+Aortic contours intact.
+No change in mild MR.
+Preserved or slightly improved biventricular systolic function.
+
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2140-8-25**] 17:04
+
+
+?????? [**2132**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+[**2140-8-25**] Ms. [**Known lastname **] was taken to the operating room and
+underwent Coronary artery bypass grafting x3,(left internal
+mammary artery, left anterior descending coronary
+ artery; reverse saphenous vein single graft from the aorta to
+the ramus intermedius coronary artery; as well  as reverse
+saphenous vein graft from the aorta to the distal right coronary
+artery) with Dr.[**Last Name (STitle) 914**]. Please see operative report for further
+details. She tolerated the procedure well and was transferred to
+the CVICU intubated and sedated in critical but stable
+condition. She awoke neurologically intact and was weaned to
+extubate without difficulty. All lines and drains were
+discontinued [**Female First Name (un) **] timely fashion. Beta-Blocker/Statin?aspirin and
+diuresis was initiated. POD#2 she was transferred to the step
+down unit for further monitoring. Physical Therapy was consulted
+for evaluation of strength and mobility. The remainder of her
+post operative course was essentially uneventful. She continued
+to progress and was cleared by Dr.[**Last Name (STitle) 914**] for discharge to home
+with VNA on POD#4. All follow up appointments were advised.
+
+
+Medications on Admission:
+Aspirin 325mg daily
+Crestor 20mg daily
+Imdur 30mg daily
+Zetia 10mg daily
+Atenolol 25mg twice daily
+Lisinopril 40mg daily
+Clonidine 0.3mg twice daily
+Lasix 40mg twice daily
+Potassium chloride 8mEq three times daily
+Nitroglycerin 0.3mg PRN
+Fosamax 70mg weekly
+Synthroid 100mcg daily
+Combivent 1 puff every 4 hours
+Tums
+Ferous fumarate 38mg daily
+Procrit 10,000 units SC every 2 weeks
+Ambien 5mg at bedtime
+Glucosamine/Chondroitin
+M

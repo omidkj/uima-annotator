@@ -1,0 +1,209 @@
+Admission Date:  [**2103-10-3**]              Discharge Date:   [**2103-10-22**]
+
+Date of Birth:  [**2034-8-31**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Cephalosporins
+
+Attending:[**Last Name (NamePattern1) 1561**]
+Chief Complaint:
+transfer from OSH
+
+Major Surgical or Invasive Procedure:
+tracheoplasty [**2103-10-19**]
+tracheostomy [**2103-10-22**]
+
+History of Present Illness:
+69M with severe tracheobronchial malacia transferred from OSH
+for evaluation for possible surgical intervention for definitive
+tracheal modification.
+
+Patient was initially admitted from home to OSH ([**Location (un) 8117**], NH)
+[**2103-9-19**] for fatigue, dehydration and several week h/o daily
+diarrhea and transferred to [**Hospital1 18**] [**2103-10-3**].  Prior to his
+admission on [**2103-9-19**], the patient was at a rehab facility from
+early [**8-22**] to [**2103-9-6**] where he was being treated for a PNA
+with Vancomycin and for a UTI with Ciprofloxacin.  Given recent
+courses of antibiotics, patient was treated empirically with
+flagyl for possible c.diff, but this was later d/c'd when stool
+cultures returned negative for c. diff x1.  Diarrhea resolved
+during most of his hospitalization in [**Location (un) 8117**], but restarted one
+day prior to transfer.
+
+Patient reports that he has been having a non-productive cough
+at home associated with worsening shortness of breath.  He
+denied fevers and chills.  No associated
+CP/palpitations/N/V/diaphoresis.  CXR and Chest CT at OSH
+revealed new R pleural effusion, but no evidence of infiltrate
+suggestive of PNA.  Patient was s/p diagnostic thoracentesis
+[**2103-10-1**].  Preliminiary results: Glucose 68, LDH 1106, TProt
+5.4.  Thoracentesis was complicated by AFib with RVR that was
+rate controlled with Diltiazem.  Patient later spontaneously
+converted to sinus rhythm.
+
+On transfer to [**Hospital1 18**], patient with no specific complaints.
+Reported that respiratory status was close to baseline, but
+perhaps a little worse.  He felt comfortable, denied chest
+pain/abdominal pain and baseline appetite.  He noted 1 episode
+of diarrhea one day prior to transfer.
+
+
+
+Past Medical History:
+1.  Tracheobroncheal malacia, dx [**11-22**]; s/p Y stent placement
+[**2-20**] and removal [**7-23**]
+2.  CAD
+3.  Hypercholesterolemia
+4.  HTN
+5.  AFib
+6.  Pulm HTN
+7.  LLE DVT -> PE '[**99**]
+8.  OSA, intolerant to CPAP
+9.  h/o MRSA PNA
+10. BPH (foley changed [**2-26**], needs to be changed q month- will
+have laser surgery once resp issues resolved.)
+11. CVA x3 -> L hemiparesis.
+12. Recurrent bronchitis
+13. Home O2 (3L at baseline)
+
+Social History:
+He has worked as a technical writer, a desk job,
+Lives w/ wife in southern [**Name (NI) **], 3 children, daughter [**Name (NI) **]
+involved/supportive.
+6 grandchildren
+lifelong non-smoker
+no etoh
+
+
+Family History:
+Father died at age [**Age over 90 **], and a history of TIAs.
+Mother died at age 75 and a history pneumonias, hypertension,
+and
+stroke. Brother died of an embolic stroke to the brainstem.
+Aunt died of colon cancer. Three children, six grandchildren,
+and one of his daughters has been recently diagnosed with
+incurable pancreatic cancer.
+
+
+Physical Exam:
+T98.9  BP104/60  HR92  RR18  94%3L
+Gen: sitting in bed, NAD
+HEENT: PERRL, EOMI, OP-clear, MMM
+Neck supple, no LAD
+Resp:  loud, upper airway sounds.  +ronchi throughout, no
+wheezes, no crackles
+CV: RR no murmurs/rubs/gallops
+Abd: NT/ND, +BS
+ext: no edema. TEDS in place
+Neuro: AOx3, grossly normal.
+
+Pertinent Results:
+[**2103-10-3**] 09:20PM
+WBC-11.0 HGB-11.5* HCT-32.8* MCV-85 PLT COUNT-368
+SODIUM-143 POTASSIUM-3.8 CHLORIDE-102 TOTAL CO2-27 UREA N-23*
+CREAT-1.4*
+GLUCOSE-148*
+
+CALCIUM-8.9 PHOSPHATE-3.0 MAGNESIUM-2.0
+
+UA pending
+EKG: Sinus rhythm at 91 with frequent atrial and ventricular
+ectopy.  No ST-T changes.  No significant change from prior
+([**2-20**]).
+.
+STUDIES:
+[**2103-10-5**] P-MIBI:
+CONCLUSION: Normal myocardial perfusion study, no evidence for
+ischemia, normalwall motion with a 65% ejection fraction.
+.
+[**2103-10-5**] STRESS:
+IMPRESSION: No anginal type symptoms or ischemic EKG changes.
+Nuclear
+report sent separately.
+.
+[**2103-10-5**] CXR:
+PORTABLE AP CHEST RADIOGRAPH: There are poor inspiratory lung
+volumes, with pulmonary vascular crowding. The cardiac and
+mediastinal contours are stable. There is a tortuous aorta. No
+pneumothorax is seen. There is slight elevation of the right
+hemidiaphragm which is unchanged from the prior study.
+Additionally, there may be minimal blunting of the right
+costophrenic angle. There is limited evaluation of the trachea
+and bronchus, likely due to technical factors. A stent can be
+seen within the main trachea, however, the distal extent of this
+into the bronchi is not visualized on this exam.
+.
+[**2103-10-8**] VIDEO SWALLOW:
+IMPRESSION: Mild residue which cleared with repeated swallows.
+Trace penetration with no aspiration.
+.
+[**2103-10-9**] CHEST CT:
+IMPRESSION:
+1. Tracheal stent extending from the thoracic inlet down into
+the left main stem bronchus.
+2. Right lower lobe atelectasis.
+.
+[**2103-10-9**] PLEURAL FLUID:
+10cc Bloody fluid collected, NEGATIVE FOR MALIGNANT CELLS.
+Histiocytes and blood.
+.
+[**2103-10-11**] CXR:
+Since the previous exam, the tracheobronchial stent has been
+removed. The trachea above the carina shows narrowing. There are
+bilateral small pleural effusions. There is also pleural
+thickening along the lateral chest wall. The lungs are clear.
+There is slight asymmetric aeration of the lungs, which may be
+due to air-trapping.
+IMPRESSION: Bilateral small pleural effusions, right greater,
+and narrowing of the distal trachea.
+.
+
+
+Brief Hospital Course:
+69M with severe tracheobronchial malacia here for surgical
+evaluation.
+
+#.  Tracheobronchial malacia- Awaiting eval and input from Dr.
+[**Last Name (STitle) 952**] and Dr. [**Last Name (STitle) **]. Per IP 2 tracheobronchial metal stents
+were placed on [**10-5**], initially thought stents would improve
+breathing. Stents were followed with serial CXR and chest CT
+which showed no migration or stents. However, pt had persistent
+cough without releif with atrovent nebs, lidocaine IH, and
+guafenesin. On [**10-10**] metal stents were removed per IP for
+symptomatic relief of persistent cough.  CT [**Doctor First Name **] followed pt
+throughout course of hospitalization. Atrovent nebs qid, ativan
+qhs, guaifenesin prn, and lidocaine nebs PRN per respiratory
+were continued.
+
+[**2103-10-19**]: Patient was transferred to the thoracic surgery service
+and underwent a tracheoplasty for his tracheobronchial malacia.
+Postoperatively, he was transferred to the ICU intubated.  He
+was restarted on his heparin drip immediately postoperatively.
+He remained stable overnight and was given intermittent fluid
+for low blood pressures. Pain was controlled using an epidural.
+POD #1-Bronchoscopy was performed on POD #1 and the patient was
+extubated. On the evening of POD #1, patient became less alert
+with desaturations despite supplemental oxygen. His creatinine
+also increased despite gentle fluid resuscitation. Anesthesia
+was called for increasing desaturations and the patient was
+reintubated at the bedside without complication.
+POD #2-Patient maintained on mechanical ventilation, remained
+stable throughout the day.
+POD #3-Patient stable on a low neosynephrine drip. He went back
+to the operating room for an uncomplicated tracheostomy.
+Postoperatively, patient was noted to be unresponsive despite
+weaning of his anesthetics as well as hypoxic to the low 80's
+despite mechanical ventilation via his tracheostomy. He
+experienced episodes of ventricular tachycardia treated with
+amiodarone and lidocaine. Laboratory values at this time
+demonstrated the patient to be severely acidemic with a
+bicarbonate of 16 as well as an arterial pH of 7.12. The patient
+was given bicarbonate supplementation and aggressively
+ventilated. At this time, the patient remained unresponsive with
+unequal pupils on exam. He continued to deteriorate with
+decreasing urine output, continuing acidemia, and elevated
+transaminases to >1000. A Swan Ganz catheter was placed at the
+bedside and the patient's pulmonary artery pressures were noted
+to be markedly elevated. A stat echocardio

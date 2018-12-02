@@ -1,0 +1,218 @@
+Admission Date:  [**2192-7-30**]              Discharge Date:   [**2192-8-3**]
+
+Date of Birth:  [**2130-6-29**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+Left sided weakness, aphasia
+
+Major Surgical or Invasive Procedure:
+tPA
+
+History of Present Illness:
+62 yo F with hx HTN and HLD was at work this afternoon and
+reported to not be speaking much around 2 PM onward.  At 4 PM
+she developed global aphasia and right hemiplegia and EMS was
+called. No further information was available at time code stroke
+was called.
+
+
+Past Medical History:
+- HTN
+- HLD
+- CAD s/p CABG/AVR [**12-13**]
+- Dilated Cardiomyopathy
+- Systolic CHF with EF 20%
+
+Social History:
+Pt reports that she used to live alone but since her recent
+cardiac surgery her daughter has moved in with her.  Resides in
+[**Location (un) 686**]. Has a history of EtOH abuse and cocaine use. Has
+been decreasing her alcohol consumption since her daugther moved
+in.
+
+
+Family History:
+No early CAD or SCD per patient.
+
+
+Physical Exam:
+INITAL ADMISSION EXAM:
+1a. Level of Consciousness: 0
+1b. LOC Question: 2
+1c. LOC Commands: 2
+2. Best gaze: 2
+3. Visual fields: 2
+4. Facial palsy: 1
+5a. Motor arm, left: 0
+5b. Motor arm, right: 4
+6a. Motor leg, left: 0
+6b. Motor leg, right: 4
+7. Limb Ataxia: n/a
+8. Sensory: 1
+9. Language: 3
+10. Dysarthria: n/a
+11. Extinction and Neglect: 1
+
+VS; BP 151/108 P 110 RR 20
+Gen; awake, NAD
+HEENT; NC/AT
+CV; tachycardic, regular rate
+Pulm; CTA anteriorly
+Abd; soft, nt, nd
+Extr; no edema
+Neuro; Awake with eyes open but does not follow any commands and
+does not verbalize.  Fixed left gaze deviation, unable to
+overcome.  Does not blink to threat on the right.  Right facial
+droop.  Moves LUE and LLE spontaneously.  0/5 strength in RUE
+and
+RLE.  Grimaces to noxious stimuli in RUE but no movement.
+Upgoing toe on right, mute on left.
+
+
+Pertinent Results:
+TOX SCREENS
+[**2192-7-30**] 10:00PM
+URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-POS
+amphetmn-NEG mthdone-NEG
+
+[**2192-7-30**] 04:55PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+
+[**2192-7-31**] 05:38AM BLOOD ALT-30 AST-33 CK(CPK)-71 AlkPhos-96
+TotBili-1.2
+
+[**2192-7-31**] 05:38AM BLOOD %HbA1c-5.1 eAG-100
+
+[**2192-7-31**] 05:38AM BLOOD Triglyc-65 HDL-52 CHOL/HD-2.5 LDLcalc-67
+
+[**2192-8-3**] 06:15AM BLOOD PT-16.8* INR(PT)-1.5*
+
+[**2192-7-30**]
+CT PERFUSION: There is a matched perfusion abnormality with
+reduced flow and increased mean transit time involving the left
+inferior division MCA territory consistent with established
+infarction.
+IMPRESSION:
+Area of increased mean transit time with reduced flow in the
+left inferior
+division of MCA with a vessel cutoff suggesting a reversible
+infarct. No
+evidence of intracranial hemorrhage.
+
+MR HEAD W/O CONTRAST Study Date of [**2192-7-31**] 10:59 AM
+1. Moderately large evolving acute infarct in the left posterior
+MCA
+territory, and additional small evolving acute infarcts in the
+left ACA
+territory and medial left temporal lobe. Embolic etiology should
+be
+considered.
+
+ECHO
+The left atrium is elongated. The right atrium is moderately
+dilated. No atrial septal defect or patent foramen ovale is seen
+by 2D, color Doppler or saline contrast with maneuvers. There is
+mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is top normal/borderline dilated.
+Overall left ventricular systolic function is severely depressed
+(LVEF= 15-20%) with septal akinesis/dyskinesis, apical akinesis
+and mid inferior/inferolateral akinesis and hypokinesis
+elsewhere. The basal to mid anterolateral segments contract
+best. [Intrinsic left ventricular systolic function is likely
+more depressed given the severity of valvular regurgitation.] No
+left ventricular thrombus was identified. The right ventricular
+cavity is mildly dilated with normal free wall contractility.
+The aortic valve leaflets (3) are mildly thickened. There is no
+aortic valve stenosis. Trace aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. A mitral valve
+annuloplasty ring is present. Moderate to severe (3+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. Moderate to severe [3+] tricuspid regurgitation is
+seen. There is at least moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion. There is
+atherosclerotic plaque in the aortic arch (in limited
+
+
+
+Brief Hospital Course:
+NEURO: R MCA STROKE
+62 yo F with hx HTN and HLD was at work when she developed
+global aphasia and right
+hemiplegia. Her NIHSS was 22 and exam was notable for global
+aphasia, fixed left gaze deviation, and right hemiplegia.  There
+were no early infarct signs on CT
+head, CTA showed L M2 cutoff, and CT perfusion imaging showed
+smaller infarct than what would expect given deficits.  After
+discussion with stroke fellow and attending, IV TPA was
+administered at 0.9 mg/kg with 10% bolus over one minute at
+17:43 followed by remainder as drip for one hour.
+
+At 19:05, she was awake, alert but unable to vocalize. She
+followed some simple one step command but inconsistently.
+Conjugate eye deviation to left but can look over to the right
+on volition. Decreased blink to visual threat on right. R-facial
+droop. Dense right sided HP with hemisensory loss.
+
+The patient was admitted to the Neuro ICU for post-tPA
+monitoring. BP was allowed to autoregulate with goal SBP 120-185
+(home antihypertensives were held).
+The following morning, the neuro exam was significantly
+improved. She was alert and oriented x 3, with intact naming,
+repetition and comprehension. She had extreme difficulty
+controlling her R arm and leg, and it seemed to be moving on its
+own (severe flinging movements, such that the R wrist was
+restrained). We wondering if this was an alien limb syndrome,
+however her sensation was significantly impaired, in particular
+her position sense, so this could also explain her difficulty.
+The following day, the flinging and uncontrolled movements had
+stopped. She was able to reach and grab objects with the R hand,
+though it remained clumsy due to poor sensory input.
+
+MRI showed moderately large evolving acute infarct in the left
+posterior MCA
+territory, and additional small evolving acute infarcts in the
+left ACA
+territory and medial left temporal lobe.
+
+The etiology is most likely cardioembolic, given her history of
+dilated cardiomyopathy. She was started on coumadin without a
+bridge.  Her fasting lipid panel was: CHOL 132, HDL 52, LDL 67,
+TG 65.
+
+LANGUAGE:
+Pt was seen by the speech team. Summary and recommendations are
+as follows:
+Ms. [**Known firstname **] [**Known lastname **] presents with at least mild auditory
+comprehension, moderate verbal expression deficits, and moderate
+[**Location (un) 1131**] comprehension deficits on today's brief, informal
+aphasia evaluation.  Speech and voice appear WNL and pragmatics,
+insight, problem solving, and attention were functional for
+structured tasks.  She is meeting acute needs in this setting
+with verbal communication, though relies on her listener for
+some inference to her specific thoughts.  She will benefit from
+further dx/tx of aphasia in a rehab setting upon d/c.  Specific
+goals should
+include improved auditory comprehension of complex information,
+reduced frequency of paraphasias and word finding, and
+functional [**Location (un) 1131**] tasks to promote indepedence in the
+community.  Prognosis for improvement in communication is good
+given her age, previous level of functioning, family supports,
+and motivation.  Her current personal goal is to determine
+whether or not she'll be able to return to work at the Gap, as
+she's concerned her physical and communication deficits will
+make this too
+challenging.
+
+CARDS:
+Her cardiac history was discussed with her outpatient
+cardiologist, Dr. [**Last Name (STitle) 89031**] at [**Hospital 1263**] Hospital. She had MVR in
+[**2191-10-5**] and has dilated CM (non-ischemic) with EF 25%. Repeat
+TTE during this hospitalizaton showed EF 15-20%. She had no
+evidence of failure. Blood pressures were low on minimal
+medications (100-125) and so she was kept on only 25mg T

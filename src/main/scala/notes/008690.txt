@@ -1,0 +1,242 @@
+Admission Date:  [**2114-3-24**]              Discharge Date:   [**2114-3-26**]
+
+
+Service: MEDICINE
+
+Allergies:
+Glipizide
+
+Attending:[**First Name3 (LF) 2751**]
+Chief Complaint:
+Agitation
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+[**Age over 90 **] year old male from [**Hospital 100**] Rehab, dementia at baseline,
+transferred for worsening agitation. Patient has progressive
+dementia and has been declining rapidly in the past several
+weeks. PCP drew labs yesterday. Found to have WBC 16, and Cr 1.7
+(baseline 0.8).
+
+Initial ED VS 98.2, 124, 145/77, 24 and 97/RA. Ultimately in ED
+was febrile 101.2, HR 125. Abdominal exam notable for TTP,
+unable to relay more historical details (baseline). Given 2L NS
+with improved HR control, now in the 90s. Also with recent poor
+glucose control, recently in 400s at NH. Given 10U Regular, 12U
+Humalog. No anion gap and no ketones in urine. CT abdomen
+preliminarily negative for acute process. Given for Vanc
+1g/Zosyn 4.5gm for ?GI source (pre-CT). Also given Tylenol 1gm
+PR, UA notable for bacteria, pyuria. CXR negative, blood and
+urine cx pending. 20g IV x2.
+
+Past Medical History:
+1. CAD s/p CABG,
+2. Type 2 DM
+3. Alzheimer-type dementia
+4. Macular degeneration
+5. S/p prostatectomy
+6. S/p hernia repair
+
+
+Social History:
+Resident of [**Hospital 100**] Rehab.  Originally from [**State 531**].  Rabbi with
+law degree.
+
+
+Family History:
+Not contributory.
+
+Physical Exam:
+VS: T 98.7, BP 126/72, HR 74, RR 19, O2 98%4L
+Gen: Elderly man lying in bed. Alert, oriented to person only.
+Says he doesnt know where he is.
+HEENT: PERRL, EOMI, dry mucus membranes, poor dentition
+Neck: Supple with JVP of 8 cm.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No S4, no S3.
+Chest: CTAB, no crackles
+Abd: No abdominal pain. NABS
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Pertinent Results:
+[**2114-3-24**] 04:25PM   PLT SMR-NORMAL PLT COUNT-344
+[**2114-3-24**] 04:25PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**2114-3-24**] 04:25PM   NEUTS-83* BANDS-2 LYMPHS-9* MONOS-4 EOS-0
+BASOS-0 ATYPS-0 METAS-1* MYELOS-1*
+[**2114-3-24**] 04:25PM   WBC-14.5*# RBC-4.81# HGB-13.8*# HCT-44.6#
+MCV-93 MCH-28.8 MCHC-31.0 RDW-13.5
+[**2114-3-24**] 04:25PM   CALCIUM-10.4*
+[**2114-3-24**] 04:25PM   CK-MB-3 cTropnT-0.04*
+[**2114-3-24**] 04:25PM   LIPASE-44
+[**2114-3-24**] 04:25PM   ALT(SGPT)-82* AST(SGOT)-162* CK(CPK)-208 ALK
+PHOS-99 TOT BILI-0.4
+[**2114-3-24**] 04:25PM   estGFR-Using this
+[**2114-3-24**] 04:25PM   GLUCOSE-520* UREA N-71* CREAT-2.5*#
+SODIUM-144 POTASSIUM-9.5* CHLORIDE-108 TOTAL CO2-23 ANION
+GAP-23*
+[**2114-3-24**] 04:28PM   GLUCOSE-463* LACTATE-5.0* K+-5.6*
+[**2114-3-24**] 04:55PM URINE  RBC->50 WBC->50 BACTERIA-OCC YEAST-NONE
+EPI-[**4-6**]
+[**2114-3-24**] 04:55PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-75
+GLUCOSE-250 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-MOD
+[**2114-3-24**] 04:55PM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 155**]-1.024
+[**2114-3-24**] 06:50PM   GLUCOSE-426* LACTATE-3.7* K+-5.0
+
+[**2114-3-26**] 01:30AM BLOOD WBC-11.8* RBC-3.85* Hgb-11.4* Hct-35.6*
+MCV-93 MCH-29.7 MCHC-32.1 RDW-13.3 Plt Ct-257
+[**2114-3-26**] 10:00AM BLOOD Na-141 K-3.7 Cl-108
+[**2114-3-26**] 01:30AM BLOOD Glucose-116* UreaN-25* Creat-0.9 Na-146*
+K-3.7 Cl-113* HCO3-24 AnGap-13
+
+[**2114-3-24**] 4:55 pm URINE     Site: CATHETER
+
+                            **FINAL REPORT [**2114-3-26**]**
+
+   URINE CULTURE (Final [**2114-3-26**]):
+      PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     2 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+
+Brief Hospital Course:
+[**Age over 90 **] yo M with CAD, DMII, dementia presents from nursing home with
+acute renal failure, leukocytosis, and hypoactive dementia,
+febrile in ED and with UA c/w UTI.
+.
+# Acute Renal Failure: Consistent w/ prerenal azotemia secondary
+to decreased PO intake.  Resolved with ivfs.
+.
+# UTI: Patient presented w/ leukocytosis and fevers.  CT
+abdomen/pelvis w/o abcess, but air in bladder likely secondary
+to UTI.  Patient started on cipro for treatment of Proteus
+mirabilis UTI, but sensitivities showed resistance so changed to
+Cefpodoxime which was sensitive to.
+.
+# Delerium: Secondary to infection (see above).  Improved with
+treatment
+.
+# Hyperglycemia / Diabetes: Likely [**3-6**] infectious process. No
+evidence of DKA or HONK. Patient maintained on lantus, moved to
+20units from 26U, and a sliding scale.
+.
+# ST depressions on ECG: Demand ischemia in the setting of
+infection with troponin leak. CE trended and did not rise. Have
+noted for [**Hospital 100**] rehab to see about putting on beta blockade,
+aceihibitor, statin if these have not otherwise been
+intentionally omitted.
+.
+# CHF: Patient monitored clinically while receiving ivfs.  Not
+on ACE, though may have been omitted intentionally by rehab.
+HAve asked daughter to corroborate with them, and [**Hospital 48630**]
+rehab to corroborate with daaughter to determine need to go back
+on these.  If no other known contraindications, should be on low
+dose beta blocker, ace inhibitor, and a statin as tolerated.
+.
+# Hypoactive Dementia/Agitation
+Per report, not oriented at baseline, now even less responsive
+over last two weeks. Was on seroquel and ativan. Seroquel d/c'd
+at NH. Ativan held.
+.
+# GERD
+--cont home pepcid
+
+Patient DNR/DNI
+HCP = daughter [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (1) 48631**]
+
+
+Medications on Admission:
+pepcid 20 daily
+ativan 0.125 hs prn
+aspirin 325 daily
+tylenolol 325 prn
+NGL prn
+lantus 26 hs
+
+Discharge Medications:
+1. Insulin Glargine 100 unit/mL Cartridge Sig: Twenty (20) Units
+Subcutaneous at bedtime.
+2. Insulin Regular Human 100 unit/mL Cartridge Sig: sliding
+scale  Injection every six (6) hours: for FS ____ give ___ units
+Humalog:
+151-200; 2U
+201-250; 4U
+251-300; 6U
+301-350; 8U
+351-400; 10U
+>400 [**Name8 (MD) 138**] MD on call
+<70 [**Name8 (MD) 138**] MD on call.
+3. Famotidine 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)
+Sublingual q 5min x 3 as needed for chest pain.
+6. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO twice a day as
+needed for pain.
+7. Clotrimazole 1 % Cream Sig: One (1) application Topical twice
+a day.
+8. Cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO Q12H (every
+12 hours) for 12 days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - LTC
+
+Discharge Diagnosis:
+Urinart Tract Infection - + Proteus
+Delerium
+Acute Renal Failure
+Hypernatremia
+
+
+Discharge Condition:
+Mental Status:Confused - always
+Level of Consciousness:Alert and interactive
+Activity Status:Out of Bed with assistance to chair or
+wheelchair
+
+
+Discharge Instructions:
+You were admitted with agitation/delerium secondary to UTI. You
+were treated with IV and then oral antibiotics for Proteus
+mirabilis UTI. You had acute renal failure and high sodium,
+which improved with IV fluids and antibiotics.
+
+Followup Instructions:
+[**Hospital 100**] Rehab doctor to see on admission to [**Hospital **] rehab.  Please
+see additional orders on Page 1 referral about medication
+reconcilitation with daughter (HCP).  She could not answer why
+pt not on cardiac regimen.
+
+
+

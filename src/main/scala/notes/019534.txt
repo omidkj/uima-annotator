@@ -1,0 +1,203 @@
+Admission Date:  [**2110-12-15**]              Discharge Date:   [**2110-12-17**]
+
+Date of Birth:  [**2074-8-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 898**]
+Chief Complaint:
+"scrathcy throat", dry cough
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Name13 (STitle) **] is a 36 yo male with a h/o DM1 who presents with ~10
+days of not feeling well.  He states that his symptoms initially
+began with migraine headaches in his occiput and fatigue.  He
+then developed a dry cough with chest tightness, body aches,
+malaise, headache, fatigue, a "scratchy throat," rhinorrhea,
+fevers, chills and sweats.  These symptoms prompted a visit to
+his PCP [**Last Name (NamePattern4) **] [**12-11**].  He was told at that time that he had
+"pneumonia" and was started on Amantadine.
+.
+Since then, he states that he has had persistent tightness in
+his chest which is worse with cough.  He had two episodes of
+emesis, one on Saturday and one on Sunday. He continued to have
+low-grade fevers until 3 days PTA but is unable to quantify his
+fevers. He denies diarrhea.  He reports that his children have
+been ill and that his wife took them to the hospital to have
+them checked out.  Today, he became dizzy and pushed his
+daughter out of the way before falling down, prompting his
+father-in-law to bring him to the [**Name (NI) **].  He denies LOC.
+.
+He states that he has been consuming crackers, soup, and small
+amounts of juice.  He last checked his fingerstick 6 days prior
+to admission; it was ~120 at that time.  He states that he has
+been taking his insulin as directed.  He admits to consuming a
+12-pack of beer and a bottle of wine one week ago during the
+Patriot's game.
+.
+On arrival to the ED, T 98.4, HR 98, BP 146/83, RR 18, SpO297%
+on RA.  His fingerstick was 268.  He was found to have an anion
+gap of 25 with ketonuria and glucosuria.   He received 3 L NS
+and was started on an insulin gtt at 2 units/hour.
+
+Past Medical History:
+1) DM1, diagnosed 4 years ago, reported as noncompliant by PCP
+2) GERD
+3) Depression
+
+Social History:
+He is married with 3 daughters, ages 8, 5, and 7 months.  He
+works at the [**Company 3596**].  He states that he consumes an average of 12
+beers over the course of a week, with binge drinking on the
+weekends.  He currently smokes approximately 1 PPD.  He admits
+to marijuana use "once every blue moon" but none recently.
+
+Family History:
+He has a younger sister who also has DMI, diagnosed at age 9.
+
+Physical Exam:
+VS: T 98, HR 80's-90's, BP 136/69, SpO2 95% on RA
+Gen: WDWN young male in NAD, cresting comfortably
+HEENT: PERRL, EOMI, MMM, sclerae anicteric
+CV: RRR, no m/r/g, normal S1 and S2, no JVD
+Resp: lungs CTA, scattered rhonchi
+Abdomen: soft non-tender, non-distented, normoactive bowel
+sounds in all four quadrants.
+Extrem: 2+ DP pulses, no peripheral edema, no clubbing or
+cyanosis
+Musculoskeletal: anterior chest wall TTP
+
+Pertinent Results:
+ADMISSION LABS
+
+[**2110-12-14**] 08:45PM BLOOD WBC-8.4 RBC-5.99 Hgb-16.8 Hct-48.9 MCV-82
+MCH-28.1 MCHC-34.5 RDW-12.8 Plt Ct-200
+[**2110-12-14**] 08:45PM BLOOD Neuts-76.0* Lymphs-18.2 Monos-4.4 Eos-0.9
+Baso-0.5
+[**2110-12-14**] 08:45PM BLOOD Plt Ct-200
+[**2110-12-14**] 08:45PM BLOOD Glucose-288* UreaN-16 Creat-1.2 Na-132*
+K-4.8 Cl-95* HCO3-12* AnGap-30*
+[**2110-12-15**] 12:01AM BLOOD CK(CPK)-51
+[**2110-12-15**] 04:57AM BLOOD ALT-13 AST-16 AlkPhos-61 Amylase-31
+TotBili-0.3
+[**2110-12-15**] 12:01AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2110-12-15**] 08:50AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2110-12-15**] 04:57AM BLOOD Calcium-8.0* Phos-2.1*# Mg-1.6
+[**2110-12-14**] 10:57AM BLOOD %HbA1c-13.8*
+[**2110-12-15**] 12:01AM BLOOD Acetone-MODERATE
+[**2110-12-15**] 12:01AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2110-12-14**] 10:55PM BLOOD Lactate-1.3
+EKG: sinus rhythm, rate 100, slight LAD, normal intervals, TWI
+in III, AVR.  No prior available for comparison.
+.
+IMAGING:
+CXR [**2110-12-15**]: Heart size and mediastinal contours are normal.
+Lungs are clear.  No pleural effusion or pneumothorax is
+identified.  Normal pulmonary vascularity.
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 36 yo male with DMI who presented to the ED
+with DKA after a viral illness, he was initially admitted to the
+MICU on an insulin drip and was able to be transitioned to
+subcutaneous insulin and transferred to the floor the following
+day.
+.
+1) Diabetic ketoacidosis:  The patient presented with an anion
+gap of 25, glucosuria, and ketonuria. Considered were
+dehydration vs. viral syndrome vs. drug/EtOH abuse vs. MI as
+possible triggers for DKA.  As his EKG was negative for ischemic
+changes and initial set of cardiac biomarkers were negative, and
+especially in the context of pain with palpation of the anterior
+chest wall-cardiac trigger of DKA was considered extremely
+unlikely. CXR was negative as well blood cultures.  Urine/serum
+tox screen were negative. His preceeding viral illness with
+recent alcohol use as well as poor adherence were considered
+factors in his DKA.  He received NS @ 500 cc/hour until serum
+glucose <200 then D51/2NS @ 200 cc/hour with 20 meq KCl in each
+liter of fluid to keep serum K+ in [**2-21**] range.  His insulin gtt
+titrated to serum glucose 150-200 mg/dL until anion gap was
+closed and was continued for 2 hours after a sliding scale was
+started.  HbA1c (last documented was 9.9 in [**7-25**]) was 13.3.
+
+He was evaluated by [**Hospital **] clinic and his insulin regimen was
+increased.  He was discharged on 70/30 30 units before breakfast
+and dinner as well as humalog sliding scale.  Outpatient follow
+up at the [**Hospital **] clinic was arranged prior to discharge.  On
+discharge FSBG was well controlled <200 on this regimen of
+insulin.
+
+2)Anemia - he had a borderline microcytic (MCV 79) during his
+admission which is new.  Possibly due to combination of long
+term poorly controlled diabetes as well as hemodilution due to
+IV fluids during this hospitalization.  He was advised to follow
+up and have repeat CBC by his PCP.
+
+3) GERD - he was continued on PPI which he takes as an
+outpatient
+
+4) Code status: Full code.
+
+Medications on Admission:
+Omeprazole 40 mg once daily
+Humulin 70/30 20 units qAM, 25 units qPM
+Amantadine 100 mg [**Hospital1 **] (started [**12-11**])
+
+Discharge Medications:
+1. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+2. Insulin NPH & Regular Human 100 unit/mL (70-30) Suspension
+Sig: Thirty (30) units Subcutaneous twice a day: Inject 30 units
+everday before breakfast and 30 units every day before dinner.
+Disp:*1 bottle* Refills:*2*
+3. Insulin Lispro 100 unit/mL Solution Sig: as directed based on
+sliding scale  Subcutaneous four times daily.
+Disp:*1 bottle* Refills:*2*
+4. BD Ultrafine II Insulin Syringe
+Dispense #100
+Refills 2
+Sig: use as directed
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+diabetic ketoacidosis
+diabetes mellitus type I
+GERD
+
+
+Discharge Condition:
+Good
+Serum glucose 121, HR 76 T98.4, anion gap 10
+
+
+Discharge Instructions:
+You were admitted with Diabetic Ketoacidosis (a condition when
+your blood sugar is very high and ketones build up in your
+blood).  This is a very serious condition.  You received
+treatment which includes IV fluids, insulin.  You were seen by
+the [**Last Name (un) **] diabetes specialists and changes were made to your
+insulin regimen.  It is very important that you check your blood
+sugar at least four times per day and keep a record of the
+readings.  Please bring this to your appointment with the [**Last Name (un) **]
+doctors.
+
+You also had anemia, or low red blood cells, on your blood work.
+ This might be due to the IV fluids that you were treated with.
+Please have your blood count re-checked when you follow up with
+your primary care doctor.
+
+Please call your doctor [**First Name (Titles) **] [**Last Name (Titles) **], abdominal pain, nausea,
+vomiting, very high or very low blood sugar, fever, chills,
+shortness of breath or any other concerning symptoms.
+
+Please continue to take your medications as prescribed.  Your
+new insulin

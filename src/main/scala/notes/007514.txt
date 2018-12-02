@@ -1,0 +1,23 @@
+Admission Date:  [**2120-7-31**]       Discharge Date:  [**2120-8-7**]
+
+
+Service:
+
+STAT ADDENUM:
+
+Please CC a copy of the [**2120-8-7**] discharge summary to the
+patient's primary care physician, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 22484**].  His
+address is [**Hospital6 **] of [**Hospital1 **], [**Street Address(2) 42812**],
+[**Hospital1 **], [**Numeric Identifier 42813**].
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3184**], M.D.  [**MD Number(1) 5211**]
+
+Dictated By:[**Doctor Last Name 27212**]
+MEDQUIST36
+
+D:  [**2120-8-9**]  10:53
+T:  [**2120-8-9**]  11:04
+JOB#:  [**Job Number 34820**]

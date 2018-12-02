@@ -1,0 +1,236 @@
+Admission Date:  [**2147-12-4**]              Discharge Date:   [**2147-12-17**]
+
+Date of Birth:  [**2085-10-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+preop for MVR-case aborted
+
+History of Present Illness:
+62 y/o male with severe CAD, s/p CABG [**2124**], s/p CABG [**2132**]
+(LIMA-LAD, SVG-RCA, SVG-Diag, SVG-OM), s/p PTCA and BMS to
+SVG-OM on [**2147-11-8**] at [**Hospital1 18**], dilated cardiomyopathy, severe MR,
+moderate PA HTN, and chronic AF on coumadin. He was planned to
+undergo MVR by Dr. [**Last Name (STitle) 1290**] [**12-11**] but after intubation patient
+crashed, PA line with PA pressures equal to systemic pressures.
+He had insertion & removal of ECMO femoral cannulas with closure
+of R femoral [**Month/Year (2) **] with perclose device [**12-11**] Dr. [**Name (NI) **]
+didn't want to do right thoracotomy and one lung ventilation
+with high pulmonary pressures. The surgeons considered doing an
+from mediansterotomy, but if doesn't go well then they wanted a
+back-up out strategy of ? LVAD +/- ? heart transplant. The
+patient refused this option and now is being medically managed
+for his heart failure.
+.
+ON transfer to the CCU he was complaining of no CP or SOB. He
+can lie flat in bed without SOB. Denies swelling in legs. Does
+endorse feeling lightheaded when standing or walking. Few weeks
+ago he had black stools for ~1wk. UGI and LGI scoping in last
+1.5 years with only benign polyps. He was told to avoid ASA at
+the time.
+
+
+Past Medical History:
+CAD-CABG '[**22**]/'[**31**],PCI '[**46**]
+Cardiomyopathy
+Sev MR
+Afib
+^chol
+CVA after 2nd CABG
+CCY
+Appy
+Tonsillectomy
+
+Social History:
+Lives with wife. retired
+denies tobacco or etoh
+
+Family History:
+father MI @63yo
+
+Physical Exam:
+BP 117/54 (MAP 70), HR 73, O2 sat 100% on 2L NC
+General: lying in bed in NAD; very pleasant male.
+HEENT: PERRL, EOMI, MMM, anicteric sclera, non-injected
+conjunctiva, OP mild erythema but no exudate. No cervical or
+supraclavicular LAD. RIJ in place.
+CV: irreg irreg, 3/6 systolic murmur heard best at apex but
+throughout precordium.
+Lungs: CTAB no w/r/r
+Abdomen: +BS, soft, NTND
+Ext: trace bilateral lower extremity edema. No clubbing or
+cyanosis. R groin dressing c/d/i. no hematoma or bruit. DP
+pulses 1+ BLE.
+Neuro: CNII-XII in tact, strength 5/5 in right UE, [**1-22**] in left
+UE distally. [**3-23**] in bilateral LE
+
+
+Pertinent Results:
+Hemo: Systemic pressures 110/50, PA 83/30 mean 50, PCW 30, CO 5.
+
+PVR = 442, [**Doctor Last Name **] units = 5.5 on Milrinone 0.25
+Milrinone 0.5 --> [**Doctor Last Name **] units 2.7, milrione 0.75 --> 4.0 [**Doctor Last Name **]
+units
+.
+.
+133 102 10
+-------------<
+-- 24 0.6
+Ca: 9.4 Mg: 2.2 P: 3.9
+.
+91
+6.0 8.9 139
+>-------<
+24.8
+.
+PT: 13.3 PTT: 56.1 INR: 1.2
+.
+[**2147-12-13**] ECHO:
+Conclusions:
+1. The left atrium is moderately dilated.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is severely depressed. 20% given the severity
+of valvular regurgitation.] Global hypokinesis with inferior
+wall akinesis.
+3.The mitral valve leaflets are mildly thickened. Severe (4+)
+mitral
+regurgitation is seen. The left ventricular inflow pattern
+suggests a restrictive filling abnormality, with elevated left
+atrial pressure.
+4.There is moderate pulmonary [**Month/Day/Year **] systolic hypertension.
+5. The RV function is deverely reduced.
+Compared with the findings of the prior study (images reviewed)
+of [**2147-12-8**], the MR [**First Name (Titles) **] [**Last Name (Titles) **] are slightly less while the EF is
+slightly reduced. However the MR is worse relative to the study
+of [**2147-12-11**].
+
+
+Brief Hospital Course:
+A/P: 62 yo M with severe MR transferred to CCU for medical
+management of his heart failure.  As described in the HPI, he
+was admitted to the surgery team for MVR.  He was hospitalized
+for about a week before the surgery, and he was planned to
+undergo MVR by Dr. [**Last Name (STitle) 1290**] [**12-11**].  DUring induction, he
+crashed.  A PA line was placed and showed PA pressures equal to
+systemic pressures. He had insertion & removal of ECMO femoral
+cannulas with closure of R femoral [**Month/Year (2) **] with perclose device
+[**12-11**]. He quickly stablized after this event and was transferred
+to the CCU for medical management as the patient did not want
+surgery with if the risk was LVAT and transplant.  He wanted to
+improve his CHF at least to allow him to walk across a room. The
+rest of his hospital course is described below.
+.
+#cardiac:
+.
+PUMP: LVEF of 20% and severe MR 4+ on latest ECHO. Patient does
+not want surgery if there is possibility of LVAD or transpant
+needed if surgery fails. He prefers medical management. He was
+euvolemic by exam.  He was briefly tried on a milrinone drip;
+but it became clear that he did not want to go home on an IV
+infusion although the milrinone did help his [**Doctor Last Name **] units
+improve.  This was discontinued and his Swan line was pulled.
+He was kept on lisinopril 10, coreg 3.125 [**Hospital1 **], lasix 20 daily.
+He walked with nurses prior to leaving and was asymptomatic.
+.
+ISCHEMIA: s/p CABG x2 years ago and PCI in [**10-24**] with stent to
+SVG to OM.  He was continued on plavix and aspirin as well as a
+beta blocker and ACEI.
+.
+RHYTHM: He remained in rate controlled afib throughout his
+hospitalization.
+He was kept on a heparin gtt during the hospitalization, and
+then transitioned to warfarin 4 prior to discharge.  He will
+follow up with his PCP for INR check.
+.
+#anemia: normocytic anemia. HCT decreased likely secondary to
+blood draws and surgical procedure. He had recent c-scope and
+UGI in last 1.5 years with only benign polyps seen. He was told
+to avoid ASA at that time.  He was started on low dose ASA and
+maintained on a PPI for GI ppx. He was transfused 1 Unit of
+pRBCs for a low HCT of 24.8.  His hct was stable prior to
+discharge.
+.
+#FEN: heart healthy, low sodium diet. Replete lytes prn. Fluid
+restriction
+.
+#PPX: coumadin for afib. PPI for GI ppx given possible h/o of GI
+bleeding
+.
+#code: full code
+
+
+Medications on Admission:
+ASA 325'
+Lisinopril 20'
+Plavix 75'
+Aldactone 25'
+Crestor 20' Celexa 20'
+Coreg 3.125"
+Lasix 40"
+Digoxin 0.125'
+KCL 20'
+Warfarin 4'
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Warfarin 2 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+
+7. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+8. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+CHF, severe MR
+[**First Name (Titles) **] [**Last Name (Titles) **] disease
+atrial fibrillation
+
+
+Discharge Condition:
+fair
+BP 90/50, HR 70, 95% RA
+
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+.
+Please continue to take all medications as prescribed.  You
+should seek medical attention if you have worsening shortness of
+breath, fatigue, light headedness, palpitations, or for any
+other concern.
+.
+You will need to see you primary care doctor for an INR check
+within the week as well.
+
+
+Followup Instructions:
+please make a follow-up appointment with your cardiologist and
+PCP [**Name Initial (PRE) 176**] 1 week
+[**Last Name (LF) **],[**First Name3 (LF) **] [**Telephone/Fax (1) 101099**]
+[**Last Name (LF) **],[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 975**] [**Telephone/Fax (1) 445

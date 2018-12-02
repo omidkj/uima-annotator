@@ -1,0 +1,166 @@
+Admission Date:  [**2179-6-3**]              Discharge Date:   [**2179-6-4**]
+
+Date of Birth:  [**2095-9-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5608**]
+Chief Complaint:
+septic shock
+pnemonia
+
+Major Surgical or Invasive Procedure:
+none, arrived intubated with CVL in place from OSH
+
+History of Present Illness:
+Chief Complaint: Respiratory failure
+.
+History of Present Illness (Of note, much of the hx is obtained
+from family as the pt was intubated):
+Mr. [**Known lastname **] is a 83 yo M with HLD, CAD s/p MI (unknown
+intervention hx), and RCC metastatic to liver and ?bone, who
+presented this morning to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] hospital complaining of 1
+day of nausea and vomiting. As per the patient's family, the pt
+was found in the AM having had vomitted numerous times O/N. The
+pt denied any cough or fever, but did endorse chills, fatigue,
+and recent loss of appetite. The friend that found the pt noted
+him to be quite pale, and brought him to the [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Last Name (NamePattern1) **]. At
+the OSH ED, he was found to have a WBC of 14 with 40% bands, CXR
+showed PNA. He was given levofloxacin 750 mg, azithromycin 500
+mg, subsequently developed respiratory failure, was intubated,
+given 4L NS and transfered to [**Hospital1 18**]. During his transfer his SBP
+was low and he was started on norepinephrine.
+.
+In the ED, initial VS were: T 97, HR 73, BP 85/73, on a vent.
+Patient's antibiotics were broadened to vanc/zosyn, a RIJ was
+placed, he was given 500 mL NS and admitted to the CCU.
+.
+On the floor, the patient is intubated and unable to answer
+questions.
+
+
+Past Medical History:
+Past Medical History:
+HLD
+CAD s/p MI (before the age of 40)
+RCC metastatic to liver/bone marrow
+
+
+Social History:
+Social History (unable to obtain):
+- Tobacco: Unknown
+- Alcohol: Unknown
+- Illicits: Unknown
+
+
+Family History:
+Family History (unable to obtain): Unknown
+
+Physical Exam:
+Physical Exam:
+Vitals: T: BP: 98/59 P:93 R: 31 O2: 96% on vent
+General: Intubated and sedated
+HEENT: NCAT
+Neck: RIJ c/d/i
+Lungs: Coarse breath sounds and crackles noted R>L, no wheezes
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present
+Ext: cold, poorly perfused, 2+ pulses in femorals, unable to
+feel pulses in radials and DPs, no edema
+Neuro: Intubated and sedated, no response to noxious stimuli
+
+
+Pertinent Results:
+[**2179-6-3**] 10:23PM   TYPE-ART RATES-24/16 TIDAL VOL-500 PEEP-5
+O2-100 PO2-224* PCO2-45 PH-7.16* TOTAL CO2-17* BASE XS--12
+AADO2-464 REQ O2-77 -ASSIST/CON INTUBATED-INTUBATED
+[**2179-6-3**] 10:23PM   GLUCOSE-156* LACTATE-6.0* NA+-134* K+-3.9
+CL--106
+[**2179-6-3**] 10:23PM   HGB-9.0* calcHCT-27 O2 SAT-99 CARBOXYHB-0.9
+MET HGB-0.3
+[**2179-6-3**] 10:23PM   freeCa-0.98*
+[**2179-6-3**] 09:59PM   PH-6.97* COMMENTS-GREEN TOP
+[**2179-6-3**] 09:59PM   GLUCOSE-60* LACTATE-7.8* NA+-141 K+-3.9
+CL--108 TCO2-16*
+[**2179-6-3**] 09:59PM   HGB-9.8* calcHCT-29 O2 SAT-74 CARBOXYHB-1.8
+MET HGB-0.2
+[**2179-6-3**] 09:59PM   freeCa-0.92*
+[**2179-6-3**] 09:45PM   UREA N-26* CREAT-2.6*
+[**2179-6-3**] 09:45PM   estGFR-Using this
+[**2179-6-3**] 09:45PM   ALT(SGPT)-38 AST(SGOT)-96* ALK PHOS-77 TOT
+BILI-0.8
+[**2179-6-3**] 09:45PM   LIPASE-8
+[**2179-6-3**] 09:45PM   cTropnT-0.47*
+[**2179-6-3**] 09:45PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2179-6-3**] 09:45PM   WBC-19.8* RBC-3.44* HGB-9.1* HCT-30.0* MCV-87
+MCH-26.5* MCHC-30.5* RDW-23.8*
+[**2179-6-3**] 09:45PM   NEUTS-68 BANDS-13* LYMPHS-7* MONOS-8 EOS-0
+BASOS-0 ATYPS-0 METAS-3* MYELOS-1*
+[**2179-6-3**] 09:45PM   HYPOCHROM-2+ ANISOCYT-2+ POIKILOCY-2+
+MACROCYT-1+ MICROCYT-1+ POLYCHROM-1+ OVALOCYT-1+ TARGET-1+
+SCHISTOCY-1+ BURR-2+
+[**2179-6-3**] 09:45PM   PT-20.1* PTT-54.4* INR(PT)-1.9*
+[**2179-6-3**] 09:45PM   PLT COUNT-207
+[**2179-6-3**] 09:45PM   FIBRINOGE-319
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 83 yo M with HLD, CAD s/p MI (unknown
+intervention hx), and RCC metastatic to liver and bone marrow,
+who presented to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] hospital complaining of 2 days of
+nausea and vomiting found to have PNA, who was transferred to
+[**Hospital1 18**] for further management after developing respiratory
+failure.  His family arrived the following morning and goals of
+care were shifted to comfort. Pressors [**Last Name (un) 8966**] discontinued and
+the pt expired shortly thereafter.  His family declined a
+post-mortem examination.
+.
+#. PNA/ Respiratory failure: Patient found to have PNA at OSH,
+subsequently developed respiratory failure, was intubated and
+started on norepinephrine on transfer. Admission CXR revealed
+large right mid-lower lobe consolidation. He was treated with
+Vanco/Zosyn and mechanical ventilation was continued until he
+expired.
+.
+#. Septic shock: Patient presented developed hypotension on
+transfer from the OSH and started on norepinephrine. On
+admission pH 7.16 and lactate of 7.8. Lactate improved with
+fluid resuscitation.  Pressors discontinued when goals of care
+were focused on comfort.
+.
+#. Metastic RCC: Prior to pursuing comfort, confirmed pt's
+previously guarded prognosis from an oncologic perspective with
+his onocologist, Dr. [**Last Name (STitle) 1492**].
+
+Medications on Admission:
+Crestor
+Sutent (sunitinib) 25 mg PO daily
+
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Lobar Pneumonia
+Hypoxic Resp Failure
+Septic Shock
+Metastatic Renal Cell Carcinoma
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+
+Completed by:[**2179-6-7**]

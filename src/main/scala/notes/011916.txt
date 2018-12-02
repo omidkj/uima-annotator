@@ -1,0 +1,225 @@
+Admission Date:  [**2175-11-12**]              Discharge Date:   [**2175-12-1**]
+
+Date of Birth:  [**2107-3-28**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Codeine / Iodine
+
+Attending:[**First Name3 (LF) 3376**]
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+[**11-12**] Laparotomy, lysis of adhesions, sigmoid colectomy and
+transverse loop colostomy.
+[**11-21**] Endotracheal intubation, cardio-pulmonary resuscitation
+
+
+History of Present Illness:
+The patient is a 68 y/o male who presented to an outside
+hospital on [**2175-11-12**] for lower abdominal pain.  The abdominal
+pain started the day prior to presentation and has worsened in
+severity.  He denies fever, chills, nausea/vomiting, or a change
+in bowel habits.  He was evaluated at the outside hospital where
+a CT scan showed sigmoid diverticulitis, adjacent stranding, and
+a small amount of free air.  He is referred to [**Hospital1 18**] for
+management of his comorbidities.
+
+Past Medical History:
+1. CAD - MI, PTCA in [**2170**], deccreased EF
+2. CVA - left monocular blindness
+3. COPD on home O2
+4. Chronic renal insufficiency
+5. Renal cell carcinoma s/p nephrectomy
+6. sleep apnea
+7. diverticulitis
+8. iliac stent
+
+
+Social History:
+Patient smokes a pack per day of cigarettes.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+T 98.0  P 88  BP 132/85  R 26  SaO2 95% 5L nc
+Gen - mild discomfort, non-toxic appearing
+Lungs  - decreased in bases bilaterally
+Heart - Regular rate and rhythm, no murmurs rubs or gallops
+ABD - very distended, tender to palpation in lower quadrants, no
+rebound or guarding
+Ext - no lower extremity edema
+
+
+Pertinent Results:
+[**2175-11-12**] 08:42PM BLOOD WBC-23.4* RBC-4.13* Hgb-12.4* Hct-37.3*
+MCV-90 MCH-30.2 MCHC-33.4 RDW-15.3 Plt Ct-337
+[**2175-11-12**] 08:42PM BLOOD Neuts-90* Bands-4 Lymphs-3* Monos-2 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-1*
+[**2175-11-12**] 08:42PM BLOOD Glucose-224* UreaN-72* Creat-2.4* Na-140
+K-4.2 Cl-99 HCO3-28 AnGap-17
+[**2175-11-12**] 08:42PM BLOOD ALT-15 AST-11 CK(CPK)-26* AlkPhos-58
+Amylase-53 TotBili-0.5
+[**2175-11-12**] 08:42PM BLOOD Lipase-30
+[**2175-11-12**] 08:42PM BLOOD Albumin-3.2* Calcium-8.3* Phos-5.6*
+Mg-2.1
+
+[**2175-11-13**] 8:57 pm SWAB     Site: ABDOMEN
+
+                            **FINAL REPORT [**2175-11-18**]**
+
+   GRAM STAIN (Final [**2175-11-14**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+
+   WOUND CULTURE (Final [**2175-11-17**]):
+      THIS IS A CORRECTED REPORT [**2175-11-16**].
+      PROBABLE ENTEROCOCCUS.    MODERATE GROWTH.
+      PROBABLE ENTEROCOCCUS.    SPARSE GROWTH.  2ND MORPHOLOGY.
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.
+      [**Female First Name (un) **] ALBICANS, PRESUMPTIVE IDENTIFICATION.    SPARSE
+GROWTH.
+         PREVIOUSLY REPORTED AS MOLD ([**2175-11-15**]).
+         REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] R.N CC6 [**2175-11-16**] 1PM.
+      BACILLUS SPECIES; NOT ANTHRACIS.    SPARSE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+CEFEPIME--------------              <=1 S
+CEFTAZIDIME-----------                2 S
+CIPROFLOXACIN---------           <=0.25 S
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S      <=1 S
+IMIPENEM--------------             =>16 R
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------                2 S
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+PIPERACILLIN----------              <=4 S
+PIPERACILLIN/TAZO-----              <=4 S
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TOBRAMYCIN------------              <=1 S
+VANCOMYCIN------------   <=1 S
+
+   ANAEROBIC CULTURE (Final [**2175-11-18**]):    NO ANAEROBES ISOLATED.
+
+[**2175-11-20**] 3:21 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool.
+
+                            **FINAL REPORT [**2175-11-21**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2175-11-21**]):
+      REPORTED BY PHONE TO M. MAL [**2175-11-21**] @8:07 AM.
+      CLOSTRIDIUM DIFFICILE.
+         FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+         Reference Range:  Negative.
+         A positive result in a recently treated patient is of
+uncertain
+         significance unless the patient is currently
+symptomatic
+         (relapse).
+
+Operative report [**11-12**]:
+Perforated sigmoid diverticulitis
+with intraabdominal contamination.
+PROCEDURE PERFORMED:  Laparotomy, lysis of adhesions, sigmoid
+colectomy and transverse loop colostomy.
+
+CT scan [**11-21**]:
+IMPRESSION:
+1. No evidence of pulmonary embolism. Please note that
+evaluation of small branches in lower lobes are somewhat limited
+due to quantum mottle and atelectasis.
+2. Severe centrilobular emphysema with peribronchial opacities,
+pulmonary edema, and bilateral small effusion and atelectasis.
+Enlarged main pulmonary artery.
+3. Probable tracheobronchomalacia.
+4. Mediastinal lymphadenopathy, which can be reactive.
+5. Multiple small hypodense lesions in the liver, too small to
+characterize.
+6. Gallstones.
+7. 1-cm right renal lesion, of indeterminate appearance on this
+one-phase CT. Further characterization by dedicated MRI or CT
+scan is recommended on non- urgent basis.
+8. Changed appearance of the bowel in this patient with recent
+sigmoidectomy.
+
+Head CT scan [**11-21**]:
+CONCLUSION:
+No evidence of hemorrhage. No mass effect. Opacified ethmoid
+sinus.
+
+Chest X-Ray [**2175-11-27**]:
+FINDINGS: Since the prior study, the patient has been extubated
+and there is a right CVL with the tip in the SVC and no PTX.
+There is no focal consolidation; the left CP angle is cutoff
+from view. There is continued demonstration of right pleural
+thickening, unchanged from the previous study. Pulmonary
+vascular markings are within normal limits. Previously seen area
+of increased density in left upper lung zone is not seen on the
+current film.
+IMPRESSION: No radiographic explanation for the patient's
+dyspnea
+
+EKG [**2175-11-27**]:
+Baseline artifact
+Sinus rhythm
+Probable left atrial abnormality
+Right bundle branch block
+Consider prior inferolateral myocardial infarct
+Since previous tracing of [**2175-11-22**], no significant change
+Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+62 172 136 464/468.71 -1 47 11
+
+Right upper extremity ultrasound [**2175-11-27**]:
+MPRESSION: Negative right upper extremity DVT study.
+
+Discharge Labs:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2175-11-29**] 06:14AM    8.9 3.15* 9.6* 27.6* 88 30.6 34.9 15.4
+282
+BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Smr Plt Ct
+INR(PT) [**Name (NI) 36549**]
+[**2175-11-29**] 06:14AM          282
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2175-11-30**] 04:45AM    138* 20 1.5* 137 4.1 100 32 9
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+[**2175-11-30**] 04:45AM          8.0* 2.5* 1.9
+
+
+
+
+Brief Hospital Course:
+The patient was deemed a poor surgical candidate given his co
+morbidities and the initial plan was to admit him to the SICU
+for monitoring and to treat his diverticulitis with IV
+antibiotics of ampicillin, ciprofloxacin, and Flagyl, and bowel
+rest.  [**Last Name (un) **]-rectal surgery was consulted to provide
+recommendations on management and concurred with the decision to
+manage the patient non-operatively.  Serial exams were performed
+on the patient and he continued not to display any peritoneal
+signs.  On hospital day #2, conservative management was
+continued.  However, the patient's abdomen became firmly
+distended and became larger throughout the course of the day.  A

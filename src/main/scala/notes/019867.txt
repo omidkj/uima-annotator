@@ -1,0 +1,227 @@
+Admission Date:  [**2118-9-29**]              Discharge Date:   [**2118-10-6**]
+
+Date of Birth:  [**2086-2-9**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Diarrhea and epigastric pain
+
+Major Surgical or Invasive Procedure:
+[**2118-9-30**] laparoscopic cholecystectomy
+
+
+History of Present Illness:
+The patient is a 32-year-old male who reports epigastric
+pain which started last night followed by large bowel movements.
+
+Reports associated subjective fevers and chills.  Localizes pain
+to RUQ and reports that pain worsens prior to bowel movements
+but
+then is relieved after passing stools.  Reports ten bowel
+movements today which he describes as watery and loose.  Denies
+nausea or emesis.
+
+
+Past Medical History:
+PMH
+depression
+OSA
+post concussive syndrome post traumatic head injury [**2114**]
+
+PSH
+S/P Appendectomy
+
+Social History:
+Patient is from [**Country 3587**]. Works as a food handler in a meat
+factory. Lives with brother.
+[**Name (NI) **] ETOH or tobacco
+
+Family History:
+Non-contributory
+
+Physical Exam:
+TEMP  99  HR 120  BP 130/80  RR18  O2sat 100%
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD:  soft, obese, TTP RUQ, no rebound or guarding, no CVAT
+Ext: No LE edema, LE warm and well perfused
+
+
+Pertinent Results:
+CBC:
+[**2118-9-29**] 02:50PM BLOOD WBC-13.7*# RBC-4.99 Hgb-13.0* Hct-39.3*
+MCV-79* MCH-26.1* MCHC-33.1 RDW-13.7 Plt Ct-216
+[**2118-9-30**] 04:25AM BLOOD WBC-9.2 RBC-4.88 Hgb-12.4* Hct-38.4*
+MCV-79* MCH-25.5* MCHC-32.4 RDW-13.7 Plt Ct-192
+[**2118-10-1**] 02:09AM BLOOD WBC-9.1 RBC-4.96 Hgb-13.0* Hct-39.1*
+MCV-79* MCH-26.2* MCHC-33.2 RDW-13.5 Plt Ct-165
+[**2118-10-1**] 03:55PM BLOOD WBC-10.0 RBC-4.35* Hgb-11.4* Hct-35.0*
+MCV-81* MCH-26.2* MCHC-32.5 RDW-13.6 Plt Ct-193
+[**2118-10-2**] 03:19AM BLOOD WBC-8.8 RBC-4.01* Hgb-10.5* Hct-31.4*
+MCV-78* MCH-26.1* MCHC-33.4 RDW-13.7 Plt Ct-205
+[**2118-10-2**] 01:55PM BLOOD WBC-8.3 RBC-3.91* Hgb-10.2* Hct-30.2*
+MCV-77* MCH-26.1* MCHC-33.7 RDW-13.5 Plt Ct-197
+[**2118-10-3**] 03:06AM BLOOD WBC-7.5 RBC-3.74* Hgb-9.8* Hct-28.9*
+MCV-77* MCH-26.1* MCHC-33.8 RDW-13.7 Plt Ct-197
+[**2118-10-4**] 03:18AM BLOOD WBC-8.6 RBC-3.73* Hgb-9.7* Hct-29.1*
+MCV-78* MCH-26.1* MCHC-33.4 RDW-13.6 Plt Ct-238
+
+COAGS:
+[**2118-10-1**] 03:55PM BLOOD PT-14.3* PTT-22.0 INR(PT)-1.2*
+[**2118-10-2**] 03:19AM BLOOD PT-15.3* PTT-22.2 INR(PT)-1.3*
+[**2118-10-4**] 03:18AM BLOOD PT-14.0* PTT-23.2 INR(PT)-1.2*
+
+CHEMISTRY:
+[**2118-9-29**] 02:50PM BLOOD Glucose-115* UreaN-16 Creat-1.3* Na-136
+K-3.7 Cl-101 HCO3-25 AnGap-14
+[**2118-9-30**] 04:25AM BLOOD Glucose-118* UreaN-16 Creat-1.1 Na-137
+K-3.4 Cl-100 HCO3-22 AnGap-18
+[**2118-10-1**] 02:09AM BLOOD Glucose-132* UreaN-16 Creat-1.4* Na-136
+K-4.0 Cl-101 HCO3-21* AnGap-18
+[**2118-10-1**] 03:55PM BLOOD Glucose-267* UreaN-12 Creat-1.1 Na-134
+K-4.2 Cl-99 HCO3-26 AnGap-13
+[**2118-10-2**] 03:19AM BLOOD Glucose-126* UreaN-10 Creat-1.0 Na-136
+K-3.6 Cl-100 HCO3-28 AnGap-12
+[**2118-10-2**] 01:55PM BLOOD Glucose-105* UreaN-10 Creat-0.7 Na-135
+K-3.8 Cl-100 HCO3-27 AnGap-12
+[**2118-10-3**] 03:06AM BLOOD Glucose-104* UreaN-10 Creat-0.7 Na-137
+K-3.8 Cl-101 HCO3-27 AnGap-13
+[**2118-10-4**] 03:18AM BLOOD Glucose-110* UreaN-10 Creat-0.7 Na-136
+K-3.6 Cl-99 HCO3-28 AnGap-13
+
+LFTS:
+[**2118-9-29**] 02:50PM BLOOD ALT-21 AST-19 AlkPhos-83 TotBili-0.6
+[**2118-10-1**] 02:09AM BLOOD ALT-74* AST-97* AlkPhos-74 TotBili-0.4
+[**2118-10-1**] 03:55PM BLOOD ALT-64* AST-82* AlkPhos-68 Amylase-50
+TotBili-0.3
+[**2118-10-1**] 07:57PM BLOOD CK(CPK)-1331*
+[**2118-10-2**] 03:19AM BLOOD CK(CPK)-1147*
+[**2118-10-2**] 01:55PM BLOOD ALT-51* AST-49* CK(CPK)-845* AlkPhos-63
+TotBili-0.2
+
+ELECTROLYTES:
+[**2118-9-30**] 04:25AM BLOOD Calcium-8.2* Phos-2.2*# Mg-1.9
+[**2118-10-1**] 02:09AM BLOOD Calcium-8.4 Phos-2.9 Mg-2.1
+[**2118-10-1**] 03:55PM BLOOD Calcium-7.4* Phos-4.1 Mg-2.0
+[**2118-10-2**] 03:19AM BLOOD Calcium-7.9* Phos-1.8*# Mg-2.0
+[**2118-10-2**] 01:55PM BLOOD Calcium-7.7* Phos-2.0* Mg-2.1
+[**2118-10-3**] 03:06AM BLOOD Calcium-8.1* Phos-2.5* Mg-2.2
+[**2118-10-4**] 03:18AM BLOOD Calcium-8.1* Phos-3.0 Mg-2.2
+
+IMAGING:
+[**2118-9-30**] CT abdomen/ pelvis
+1. Nondistended gallbladder with mild gallbladder wall
+thickening. If acute cholecystitis is a clinical concern, then a
+HIDA scan may be obtained for further evaluation. An US is
+unlikely to add additional infomration (above excluding
+gallstones altogether.) Discussed with Dr. [**Last Name (STitle) 33038**] at
+approximately 5:30 pm day of study.
+2. Fluid-filled large and small bowel loops consistent with
+diarrhea and
+likely represent gastroenteritis.
+
+[**2118-9-30**] US gallbladder
+Findings as described above are equivocal for acute
+cholecystitis. If further imaging confirmation is required, a
+HIDA scan is recommended for evaluation.
+
+[**2118-9-30**] HIDA
+No activity within the gallbladder, concerning for acute
+cholecystitis. Of note, the patient has not eaten for 48 hours,
+making this finding less specific.
+
+[**2118-10-1**] CT head
+Subtle focal hypodensity in the left cerebellar hemisphere is
+likely
+artifactual; attention on next follow-up study, if of clinical
+concern.
+
+[**2118-10-1**] CT abdomen/pelvis
+1. No findings of pulmonary embolism or aortic dissection.
+2. Endotracheal tube terminates just proximal to the carina and
+repositioning is recommended. Bilateral lower lobe atelectasis
+with slightly heterogeneous enhacement which may suggest a
+component of superimposed pneumonia. Trace bilateral pleural
+effusions.
+3. Fatty infiltration of the liver. Small fluid collection in
+the
+gallbladder fossa with mild enhancement noted which may reflect
+some residual gallbladder mucosa given the difficult operation
+per review of operative history.
+
+[**2118-10-1**] CT chest
+1. No findings of pulmonary embolism or aortic dissection.
+2. Endotracheal tube terminates just proximal to the carina and
+repositioning is recommended. Bilateral lower lobe atelectasis
+with slightly heterogeneous enhacement which may suggest a
+component of superimposed pneumonia. Trace bilateral pleural
+effusions.
+3. Fatty infiltration of the liver. Small fluid collection in
+the
+gallbladder fossa with mild enhancement noted which may reflect
+some residual gallbladder mucosa given the difficult operation
+per review of operative history.
+
+MICROBIOLOGY:
+[**9-29**] UCx: No growth, final
+[**9-29**] BCx: pending
+[**9-30**] Bile Cx: [**2118-9-30**] 10:45 pm BILE
+GRAM STAIN (Final [**2118-10-1**]):
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Preliminary):
+      SALMONELLA SPECIES.    SPARSE GROWTH.
+         REPORTED BY PHONE TO [**First Name8 (NamePattern2) 4224**] [**Last Name (NamePattern1) **] @ 0925AM, [**2118-10-4**].
+         Presumptive identification pending confirmation by
+State
+         Laboratory.
+         Isolate was found to be susceptible to nalidixic acid.
+Naladixic
+         acid results should be considered along with
+fluoroquinolone
+         susceptibility results when assessing the
+appropriateness of
+         fluoroquinolone therapy.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             SALMONELLA SPECIES
+                             |
+AMPICILLIN------------   <=2 S
+CEFTRIAXONE-----------   <=1 S
+LEVOFLOXACIN----------<=0.12 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   ANAEROBIC CULTURE (Final [**2118-10-5**]):    NO ANAEROBES ISOLATED.
+
+
+[**10-1**] MRSA screening: negative
+
+[**2118-10-1**] 6:33 pm BLOOD CULTURE      Source: Line-left femerol.
+
+   Blood Culture, Routine (Preliminary):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    FINAL
+SENSITIVITIES.
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    SECOND MORPHOLOGY.
+         FINAL SENSITIVITIES.
+         

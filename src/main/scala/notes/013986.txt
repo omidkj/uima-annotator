@@ -1,0 +1,198 @@
+Admission Date:  [**2174-11-14**]              Discharge Date:   [**2174-11-23**]
+
+Date of Birth:  [**2092-10-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2880**]
+Chief Complaint:
+ICD firing x2.
+
+Major Surgical or Invasive Procedure:
+Ventricular Tachycardia ablation
+
+
+History of Present Illness:
+Mr [**Known lastname 108925**] is an 82 year old man with ischemic cardiomyopathy
+(EF 30-35% in [**2172**]), coronary artery disease, status post CABG
+in 93 and multiple coronary interventions, status post ICD
+implantation and upgrade to biventricular ICD, presenting with 2
+episodes of ICD firing this morning.  It felt like a punch in
+his chest.  The first episode woke him from sleep and the second
+one occurred about a 1/2 hour later.  The patient denied feeling
+unwell, lightheaded, dizzy or fainting.  He denied any chest
+pain or pressure, SOB or dyspnea on exertion.  He had been
+feeling well overall.  He has never felt a shock before.
+However, he says he was told by his physician that his ICD had
+fired in the past, but he did not feel it at that time.  He
+reports stable DOE at baseline and a 3lb weight gain.
+
+In the ED, his initial VS were: 97.2 72 125/70 14 100% ra.  EP
+was consulted and interrogated his pacer.  They found that he
+has underlying AF and has had ~10 episodes of VT.  He
+successfully paced out of all but 2, which required ICD firing.
+In the ED, he was having more runs of VT 120-130, but has been
+hemodynamically stable.  He received a bolus of amiodarone 150mg
+x1.  His most recent vitals are: HR 85, BP 130/88, RR 16 Sats
+99% RA.
+
+In the CCU, the patient felt well and was asymptomatic; however,
+he developed continuous slow VT and the decision was made to
+take him to the lab for an ablation. In the lab he underwent a
+successful ablation of a single focus of VT in inferior left
+ventricle close to his septum. After the procedure the VT was
+non-inducible.  Patient is having a few PVCs.
+
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain,
+paroxysmal nocturnal dyspnea, ankle edema, palpitations, syncope
+or presyncope.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:
+-CABG: [**2157**] (LIMA-LAD,SVG-RCA,SVG-OM1/OM2)
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+[**10/2168**]:
+1. Native severe three vessel coronary artery disease.
+2. Patent LIMA->LAD, patent SVG->OM2->OM2 with widely patent
+stent,
+ulcerated stenosis in the SVG->RCA, with distal 30% in-stent
+restenosis.
+3. Successful stenting of the SVG-RCA.
+4. Mild ventricular diastolic dysfunction.
+.
+[**3-/2166**]
+1. Successful stenting of the saphenous vein graft to RCA.
+2. Patent vein graft to obtuse marginal (stented [**4-17**]).
+.
+[**3-/2166**]: Three vessel coronary artery disease. Patent LIMA-LAD,
+moderately diseased SVG-RCA and totally occluded SVG-OM1/OM2.
+Successful stenting of the SVG-OM1-OM2.
+.
+[**3-/2158**]: Left Main and two vessel CAD. Normal ventricular
+function
+.
+-PACING/ICD: [**Hospital1 **]-ventricular ICD ([**Company 1543**] Concerto, generator
+changed [**2174-1-7**])
+_____ PR Amplitude | Threshold | Impedance
+Atrial Lead 1.8 mV | 0.5 V | 432 ohms
+RV Lead    14.7 mV | 1.8 V | 390 ohms
+LV Lead    13.1 mV | 0.9 V | 603 ohms
+.
+3. OTHER PAST MEDICAL HISTORY:
+- Atrial fibrillation
+- CHF (systolic and diastolic) s/p ICD/pacer
+- prior IMI '[**41**] s/p CABG '[**57**], s/p PCI
+- CHB/VF
+- Hypothyroidism
+- Mitral regurgitation
+- CKD - stage IV.
+
+Social History:
+Married.  Lives with his wife.  [**Name (NI) **] several grown children.  Use
+to have a furniture business.  Now retired.
+-Tobacco history: Denies.
+-ETOH: 1 beer rarely.
+-Illicit drugs: Denies.
+
+Family History:
+Father died of an MI at age 62.  Mother with diabetes. No family
+history of arrhythmia, cardiomyopathies, or sudden cardiac
+death.
+
+Physical Exam:
+GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 8.  no LAD
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. soft systolic murmur at apex.   No
+thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. femoral sheath in place.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ DP 1+ PT dop +
+Left: Carotid 2+ DP 1+ PT dop +
+
+
+Pertinent Results:
+ADMISSION LABS [**2174-11-14**]:
+[**2174-11-14**] 08:05AM WBC-5.0 Hgb-10.9* Hct-32.3* Plt Ct-135*
+[**2174-11-14**] 08:05AM Neuts-66.2 Lymphs-25.1 Monos-6.1 Eos-2.4
+Baso-0.2
+[**2174-11-14**] 08:05AM PT-19.7* PTT-30.1 INR(PT)-1.8*
+[**2174-11-14**] 08:05AM Glucose-121* UreaN-60* Creat-2.5* Na-143 K-4.5
+Cl-105 HCO3-27 AnGap-16
+[**2174-11-14**] 08:05AM CK(CPK)-63
+[**2174-11-14**] 08:05AM cTropnT-0.06*
+[**2174-11-14**] 08:05AM Calcium-9.5 Phos-3.5 Mg-2.1
+
+STUDIES:
+[**11-14**] CXR:
+As compared to the previous radiograph, there is no relevant
+change. The position and course of the ICD is constant.
+Unchanged minimal
+cardiomegaly without evidence of overhydration. Calcifications
+and mild
+tortuosity of the thoracic aorta. No focal parenchymal opacities
+suggesting pneumonia, no pleural effusions. No pneumothorax.
+
+
+Brief Hospital Course:
+Mr [**Known lastname 108925**] is a 82 yo male with a ischemic cardiomyopathy (EF
+30-35% in [**2172**]), coronary artery disease, status post CABG in 93
+and multiple coronary interventions, status post ICD
+implantation and upgrade to biventricular ICD, presenting with 2
+episodes of ICD firing this morning s/p EP ablation.
+
+1. Ventricular Tachycardia: The patient presents with 2 episodes
+of ICD firing while at home 30 minutes apart.  There were no
+preceding events or symptoms.  He came to the ED and his pacer
+was interrogated. They found that he has underlying AF and has
+had ~10 episodes of VT. He successfully paced out of all but 2,
+which required ICD firing. He continued to have runs of VT
+120-130 in the ED, but remained hemodynamically stable. He
+received a bolus of amiodarone 150mg x1, but continued to have
+slow VT in the CCU.  The decision was made to take him to the EP
+lab for ablation.  In the lab he underwent a successful ablation
+of a single focus of VT in inferior left ventricle close to his
+septum. After the procedure the VT was non-inducible.  The
+patient was continued on 200mg amiodarone and carvedilol
+increased to 25 mg [**Hospital1 **].  The patient's groin site was
+complicated by bleeding and hematoma after an episode of nauesa
+and vomiting.  Pressure was applied for 30 minutes and bleeding
+stopped.  Patient developped aneurysm in the cath insertion.
+[**Hospital1 **] surgery was consulted and recommended thrombin
+injection, which went succesfully on [**Hospital1 766**] [**2174-11-21**]. The
+patient remained hemodynamically stable and had an episode of
+slow VT that he was ATP paced out of.  The patient will continue
+amiodarone 200mg daily and carvedilol 25mg [**Hospital1 **].
+
+2.. Pseudoaneurysm: Patient underwent U/S on [**11-18**] that showed
+2.8cm pseudoaneurysm.  He was evaluated by [**Month/Year (2) 1106**] surgery and
+coumadin was held.  The patient's Hct was monitored and remained
+stable.  He underwent on [**2174-11-21**] thrombin injection to repair
+the pseudoaneurysm.
+
+3. Acute on chronic anemia - The patient had a groin bleed on
+[**11-15**] after nausea/vomiting following his ablation.  Pressure
+was held for 30mins he remained hemodynamically stable.  The
+patient Hct remained stable between 26-28.  The patient had no
+further evidence of bleeding.  On [**11-17**] his Hct trended 

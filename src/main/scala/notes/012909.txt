@@ -1,0 +1,207 @@
+Admission Date:  [**2129-5-7**]              Discharge Date:   [**2129-5-30**]
+
+Date of Birth:  [**2084-8-24**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+IV Dye, Iodine Containing Contrast Media / Penicillins
+
+Attending:[**First Name3 (LF) 1515**]
+Chief Complaint:
+hypotension
+
+Major Surgical or Invasive Procedure:
+Chest tube
+Endotracheal intubation
+Central line
+CVVH, hemodialysis
+Laparoscopic Right Adrenelectomy, Urology
+
+
+History of Present Illness:
+The patient is a 44 yo woman with h/o anxiety who presented to
+an OSH ED with abdominal pain. Mrs. [**Known lastname 8738**] was reportedly in
+her normal state of health until approximately 9 am this
+morning, when she developed abdominal pain. She vomited twice
+and then developed worsening abdominal pain radiating to her
+back. She also had associated palpitations and diaphoresis. She
+thus presented to [**Hospital1 18**] [**Location (un) 620**] for further evaluation.
+.
+At the OSH ED, her initial VS were BP 204/100, P 138, R 36, O2
+99% on RA. She was initially given Zofran, 1L of NS, and she was
+ordered for a CTA to evaluate for PE and aortic dissection.
+While in the CT scanner, she became increasingly hypoxic and
+confused and was emergently intubated. She was also given
+Diltiazem 10 mg IV for tachycardia and received one dose of
+Lasix 60 mg IV. EKG at the time demonstrated STE in V2 with ST
+depressions in V3-V6, so she was sent to [**Hospital1 18**] for urgent
+cardiac catheterization.
+.
+In the cath lab, she was found to have clean coronary arteries.
+She was found to have a PCWP of 25, and bedside TTE demonstrated
+an EF of 25-30%. She developed tachycardia to the 160s, for
+which she received Adenosine x3 and carotid massage, which did
+not improve the tachycardia. She was then given another dose of
+Diltiazem, which briefly decreased her pulse to the 130s. She
+became hypotensive to SBP of 70, was started on Levophed, and
+was transferred to the CCU.
+.
+In the CCU, the patient is intubated and sedated and cannot
+provide further history. Per her family, she has been
+complaining of frequent sweating, an increase in her resting
+tremor, and recent diarrhea. Otherwise, she has had no recent
+complaints.
+.
+Review of systems was unable to be obtained.
+
+
+Past Medical History:
+Anxiety
+Tremor
+
+
+Social History:
+ The patient lives with her husband and son in [**Name (NI) **], MA. She
+has three children who all live in the area. She currently works
+in medical records. She does not smoke cigarettes and she drinks
+~1 glass wine/night. She does not use illicit drugs
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+Admission Exam
+VS: T= 102.8 (rectal) BP= 107/93 HR= 156 RR= 25
+GENERAL: Intubated, sedated. Not withdrawing to painful stimuli.
+
+HEENT: PERRL.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. tachycardic. No m/r/g. No S3 or S4.
+LUNGS: Course breath sounds diffusely. Crackles at bases.
+ABDOMEN: Soft, NTND.
+EXTREMITIES: Cool, mottled extremities.
+SKIN: No rashes appreciated.
+PULSES:
+Right: Femoral 1+ DP dopplerable
+Left: Femoral 1+ DP dopplerable
+.
+Discharge Exam
+VS: T= Afebrile BP= 110/80's HR= 90-100 RR= 15
+GENERAL: NAD, Pleasant
+HEENT: PERRL. EOMI
+CARDIAC: Regular, No m/r/g. No S3 or S4.
+LUNGS: CTA B
+ABDOMEN: Soft, NTND.
+EXTREMITIES: Lower extremity swelling bilaterally
+SKIN: No rashes appreciated.
+
+
+Pertinent Results:
+Admission labs:
+[**2129-5-7**] 03:00PM   GLUCOSE-252* UREA N-21* CREAT-2.0* SODIUM-143
+POTASSIUM-4.4 CHLORIDE-108 TOTAL CO2-13* ANION GAP-26*
+[**2129-5-7**] 06:01PM   WBC-21.3* RBC-4.95 HGB-14.8 HCT-45.7 MCV-92
+MCH-29.9 MCHC-32.4 RDW-13.4
+[**2129-5-7**] 06:01PM   NEUTS-87* BANDS-4 LYMPHS-3* MONOS-6 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2129-5-7**] 03:00PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-POS barbitrt-NEG tricyclic-NEG
+[**2129-5-7**] 03:09PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+.
+Discharge labs:
+[**2129-5-30**] 08:50AM BLOOD WBC-5.8 RBC-3.17* Hgb-9.6* Hct-28.4*
+MCV-90 MCH-30.2 MCHC-33.7 RDW-14.2 Plt Ct-373
+[**2129-5-30**] 08:50AM BLOOD Glucose-107* UreaN-56* Creat-7.9* Na-133
+K-4.2 Cl-97 HCO3-22 AnGap-18
+.
+Plasma Metanephrines and MEN2 AND FMTC MUTATIONS:
+  Test                          Result              Reference
+Range/Units
+EXONS 10,11,13-16             SEE NOTE
+
+RESULT: NO MUTATION DETECTED
+
+Interpretation: Nucleotide sequence analysis of the RET
+[**Last Name (un) **]-oncogene (exons 10, 11, 13, 14, 15, and 16) was
+negative for mutations associated with MEN2 or FMTC. This
+negative result must be evaluated in conjunction with this
+patient's clinical findings and family history. This assay
+will not detect all mutations causing MEN2 or FMTC.
+
+Laboratory results and submitted clinical information
+reviewed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 61649**]-Burckle, Ph.D., ABMG, CGMB, HCLD.
+
+Multiple endocrine neoplasia type 2 (MEN2) is an autosomal
+dominant genetic disorder with a high lifetime risk of
+medullary thyroid cancer. It is classified into three
+subtypes, MEN2A, familial medullary thyroid carcinoma
+(FMTC), and MEN2B, based on the presence of other clinical
+presentations. MEN2 is caused by mutations in the RET
+[**Last Name (un) **]-oncogene. This assay detects disease-causing mutations
+in over 95% of MEN2A and MEN2B cases, and over 85% of FMTC
+cases. Mutation identification can be used to confirm a
+diagnosis, screen individuals at risk for familial disease,
+or distinguish familial from sporadic disease.
+
+In this assay, sequences including exons 10, 11, 13, 14, 15
+and 16 of the RET [**Last Name (un) **]-oncogene are amplified from genomic
+DNA by polymerase chain reaction (PCR) followed by
+nucleotide sequence analysis on an automated capillary DNA
+sequencer. Particular attention is paid to the sequence
+changes at the codons known to be hot spots for mutations
+causing MEN2. Since genetic variation and other problems can
+affect the accuracy of direct mutation testing, the results
+should always be interpreted in light of clinical and
+familial data.
+
+This test is performed pursuant to a license agreement with
+[**Doctor Last Name **] Molecular Systems, Inc.
+
+This test was developed and its performance characteristics
+have been determined by [**Company 5620**] [**Doctor Last Name **] Institute,
+[**Location (un) 42066**] Capistrano. Performance characteristics refer to
+the analytical performance of the test.
+.
+Metanephrines (Plasma)
+  Test Name                     Flag     Results     Units
+Reference Value
+---------                     ----     -------     -----
+---------------
+Metanephrines, Fract., Free
+   Normetanephrine, Free       H         405                <
+0.90 nmol/L
+   Metanephrine, Free          H         325                <
+0.50 nmol/L
+.
+STUDIES:
+[**5-7**] TTE:  Overall left ventricular systolic function is severely
+depressed (LVEF= 20 %) secondary to akinesis of all basal
+segments, hypokinesis of the midventricular segments, and
+relative preservation of apical function, although the true apex
+was poorly visualized. The aortic valve leaflets (?#) appear
+structurally normal with good leaflet excursion. The number of
+aortic valve leaflets cannot be determined. No aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is no
+pericardial effusion.
+
+[**5-7**] post-line CXR:  In comparison with the earlier study of this
+date, there has been placement of a left IJ catheter that
+extends to the mid portion of the SVC.  However, there has also
+been the development of a large left pneumothorax.
+
+Transabdominal U/S:
+IMPRESSION: 8.9 cm right adnexal mass appears to engulf the
+right ovary but does not appear to arise from it and appears
+immediately adjacent to the right uterine fundus, though it does
+not show typical signs that it arises from it.  This suggests
+that it may be adnexal in origin and a differential possibility
+includes extra-adrenal paraganglioma, given the known right
+adrenal mass. For further characterization of this lesion, MRI
+would be very helpful.
+
+MRI Abdomen
+3.1 cm right adrenal mass, nonspecific by

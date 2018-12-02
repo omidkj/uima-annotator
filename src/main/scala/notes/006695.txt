@@ -1,0 +1,212 @@
+Admission Date:  [**2194-9-17**]              Discharge Date:   [**2194-9-24**]
+
+Date of Birth:  [**2124-6-27**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+SOB/edema
+
+Major Surgical or Invasive Procedure:
+s/p CABG x2(Lima->LAD/SVG->PDA)/MVR (#29mm ST.[**Male First Name (un) 923**] Epic Porcine)
+
+
+History of Present Illness:
+70yo F with 3-4 week hx of worsening SOB/LE edema admitted to
+[**Hospital3 **]. Further workup revealed [**Hospital3 **]/4+MR and right
+pulmonary artery embolus/(negative DVT).She was started on
+Lovenox and transferred to [**Hospital1 18**] for surgical consultation for
+MVR/CABG with Dr.[**Last Name (STitle) **].
+
+Past Medical History:
+CHF
+Severe MR
+[**First Name (Titles) **]
+[**Last Name (Titles) **]
+Osteoporosis
+remote (L)wrist FX
+s/p (L)Hip replacement
+s/p (L)triple cmpd FX
+
+Social History:
++social ETOH
++former tobacco,40PY
+
+Family History:
+Brother had MI at 63yo
+
+Physical Exam:
+DISCHARGE PE:
+VSS: 98.7, 97/54, p:68, 95% R/A O2SAT
+General: pleasant, anxious, A&Ox3
+CVS: RRR, no m/r/g
+Lungs:CTA
+ABD: benign
+EXT:warm, (B) 1+LE edema
+wounds: Sternal incsion C/D/I, No [**Doctor Last Name **]/click, stable sternum
+
+Pertinent Results:
+[**2194-9-23**] 05:25AM BLOOD WBC-11.5* RBC-3.20* Hgb-9.8* Hct-28.9*
+MCV-90 MCH-30.7 MCHC-34.1 RDW-15.8* Plt Ct-105*#
+[**2194-9-17**] 07:38PM BLOOD WBC-8.2 RBC-4.08* Hgb-12.5 Hct-37.1
+MCV-91 MCH-30.7 MCHC-33.8 RDW-14.6 Plt Ct-211
+[**2194-9-23**] 05:25AM BLOOD PT-13.3 PTT-28.9 INR(PT)-1.1
+[**2194-9-17**] 07:38PM BLOOD PT-15.4* PTT-36.2* INR(PT)-1.4*
+[**2194-9-23**] 05:25AM BLOOD Glucose-108* UreaN-25* Creat-1.3* Na-129*
+K-4.5 Cl-94* HCO3-26 AnGap-14
+[**2194-9-17**] 07:38PM BLOOD Glucose-154* UreaN-20 Creat-1.3* Na-140
+K-4.3 Cl-95* HCO3-31 AnGap-18
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 40043**]Portable TTE
+(Complete) Done [**2194-9-18**] at 2:21:53 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2124-6-27**]
+Age (years): 70 F  Hgt (in): 63
+BP (mm Hg): 102/70  Wgt (lb): 134
+HR (bpm): 77  BSA (m2): 1.63 m2
+Indication: Preoperative assessment. Mitral valve disease.
+ICD-9 Codes: 424.1, 424.0, 424.3, 424.2
+Test Information
+Date/Time: [**2194-9-18**] at 14:21    Interpret MD: [**Name6 (MD) **] [**Name8 (MD) **], MD
+Test Type: Portable TTE (Complete)
+3D imaging. Son[**Name (NI) 930**]: [**Name2 (NI) 8154**] Bzymek, RDCS
+Doppler: Full Doppler and color Doppler Test Location: [**Location 13333**]/[**Hospital Ward Name 121**] 6
+Contrast: None Tech Quality: Adequate
+Tape #: 2008W056-0:42 Machine: Vivid [**8-18**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *7.2 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *6.5 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.5 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  5.6 cm
+Left Ventricle - Fractional Shortening:  *0.14  >= 0.29
+Left Ventricle - Ejection Fraction:  27%  >= 55%
+Left Ventricle - Lateral Peak E':  0.10 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.08 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  13  < 15
+Aorta - Sinus Level:  2.8 cm  <= 3.6 cm
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.2 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  1.2 m/sec
+Mitral Valve - A Wave:  0.6 m/sec
+Mitral Valve - E/A ratio:  2.00
+Mitral Valve - E Wave deceleration time:  156 ms  140-250 ms
+Mitral Valve - [**Last Name (un) **]:  0.40 cm2
+TR Gradient (+ RA = PASP):  *27 to 46 mm Hg  <= 25 mm Hg
+Pericardium - Effusion Size:  0.7 cm
+
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+
+LEFT ATRIUM: Marked LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA.
+
+LEFT VENTRICLE: Normal LV wall thickness. Moderately dilated LV
+cavity. Severe global LV hypokinesis. Severely depressed LVEF.
+[Intrinsic LV systolic function likely depressed given the
+severity of valvular regurgitation.] No resting LVOT gradient.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Moderate global RV
+free wall hypokinesis.
+
+AORTA: Normal aortic diameter at the sinus level. Mildly dilated
+ascending aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Trace AR.
+
+
+MITRAL VALVE: Eccentric MR jet. Effective regurgitant orifice is
+>=0.40cm2. Severe (4+) MR. LV inflow pattern c/w restrictive
+filling abnormality, with elevated LA pressure.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Moderate [2+] TR. Moderate PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Mild PR. The end-diastolic PR velocity is increased c/w PA
+diastolic hypertension.
+
+PERICARDIUM: Small pericardial effusion.
+Conclusions
+The left atrium is markedly dilated. The right atrium is
+moderately dilated. Left ventricular wall thicknesses are
+normal. The left ventricular cavity is moderately dilated. There
+is severe global left ventricular hypokinesis. Overall left
+ventricular systolic function is severely depressed. [Intrinsic
+left ventricular systolic function is likely more depressed
+given the severity of valvular regurgitation.] Quantitative (3D)
+LVEF = 27 %. The right ventricular cavity is mildly dilated with
+moderate global free wall hypokinesis. The ascending aorta is
+mildly dilated. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+stenosis. Trace aortic regurgitation is seen. An eccentric,
+posterioly directed jet of severe 4+) mitral regurgitation is
+seen. The effective regurgitant orifice is >=0.40cm2 The left
+ventricular inflow pattern suggests a restrictive filling
+abnormality, with elevated left atrial pressure. The tricuspid
+valve leaflets are mildly thickened. Moderate [2+] tricuspid
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. The end-diastolic pulmonic regurgitation
+velocity is increased suggesting pulmonary artery diastolic
+hypertension. There is a small pericardial effusion.
+
+IMPRESSION: Severely depressed left ventricular function. Severe
+mitral regurgitation. Depressed right ventricular function.
+Moderate pulmonary artery systolic pressure.
+  Electronically signed by [**Name6 (MD) **] [**Name8 (MD) **], MD, Interpreting physician
+[**Last Name (NamePattern4) **] [**2194-9-18**] 16:00
+       [**Known lastname **],[**Known firstname **] G [**Medical Record Number 40044**] F  70  [**2124-6-27**]
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2194-9-23**] 9:04
+AM
+
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) 1112**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] FA6A [**2194-9-23**] SCHED
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 40045**]
+Reason: tamponade
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   70 year old woman s/p MVR/CABG
+REASON FOR THIS EXAMINATION:
+   tamponade
+
+
+
+Final Report
+HISTORY: Post cardiac surgery.
+
+FINDINGS: In comparison with study of [**9-21**], the Swan-Ganz
+catheter has been
+removed. Persistent atelectatic changes at the left base. Little
+change in
+the appearance of the heart and lungs otherwise.
+
+DR. [**First Name8 (NamePattern2) 1569**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11006**]
+Approved: TUE [**2194-9-23**] 10:30 AM
+
+  Imaging Lab
+
+
+
+Brief Hospital Course:
+[**2194-9-19**] mrs. [**Known lastname 8389**] was taken to the OR by Dr.[**Last Name (STitle) **] and underwent
+CABGx 2(LIMA->LAD/SVG->PDA)/MVR (#29mm ST.[**Male First Name (un) 923**] Epic porcine).
+Please refer to Dr.[**Name (NI) 3502**] operative report for further
+details.She was transferred to the CVICU intubated, requiring
+Propofol, Amiodarone, Epinephrine,Milrinone, and Levophed dri

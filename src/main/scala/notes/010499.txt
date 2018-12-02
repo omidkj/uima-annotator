@@ -1,0 +1,214 @@
+Admission Date:  [**2125-1-10**]              Discharge Date:   [**2125-1-16**]
+
+Date of Birth:  [**2061-11-20**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Erythromycin Base / Nickel
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+aortic stenosis, dilated ascending aorta
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement (23mm ON-X mechanical), 28mm Gelweave
+graft ascending aorta, Cor-Matrix pericardial closure [**2125-1-10**]
+
+
+History of Present Illness:
+This 63 year old white female has a known bicuspid aortic valve
+and a history of rheumatic fever.  Serial echos have
+demonstrated progressive stenosis of the valve and now a dilated
+ascending aorta. She has had peripheral edema and increasing
+dyspnea with exertion.  She was admitted now for operation
+having a catheterization in [**2124-11-23**] showing no coronary
+disease.
+
+Past Medical History:
+Aortic stenosis
+h/o rheumatic fever
+Hypertension
+ypercholesterolemia
+hypothyroidism
+rt foot fracture (s/p ORIF)
+s/p appendectomy
+s/p ovarian cyst removal
+osteoporosis
+
+
+Social History:
+She is a widow, living alone. Looking for part-time work. She
+used to manage medical records for [**Hospital1 1501**]. Does not exercise. She
+is a widow, living alone. Sister lives nearby. Tobacco: quit
+[**2097**] ETOH: [**2-25**] wine/wk.
+
+
+Family History:
+Both parents died early of alcohol abuse. Brother died of
+esophageal cancer. She has two sisters living. Paternal uncle
+with sudden cardiac death in his 40's.
+
+Physical Exam:
+Pulse: 92
+B/P: Right 116/65 Left 116/54
+Resp: 18
+O2 Sat: 99% RA
+Temp:98
+Height: 4'6"  Weight: 140
+General: alert short statured female in NAD
+Skin: color pink, skin warm and dry. Rash right chest and neck.
+Belly button without erythema or drainage. There is a small
+lesion with scab noted. The skin is friable.
+HEENT: conjunctiva pink, left eye lower lid droop, left eye skin
+tag lower lid. Oropharynx moist, dental bridge, good dentition.
+Neck:supple, trachea midline. Chest:clear
+Heart: RRR, III/VI SEM, holosystolic. Nl S1-S2 No S3 or S4
+Abd: soft, nontender, nondistended. (+)bowel sounds
+Extremities: No CCE. No varicosities
+Neuro: alert and oriented, mildy anxious, gait steady, gross
+FROM
+Pulses:             Right   Left
+         Radial        2   2
+         femoral       2   2
+         PT            2   2
+         DP            2   2
+
+Carotids No bruits, transmitted cardiac Murmur bilaterally
+
+
+Pertinent Results:
+[**2125-1-15**] 02:57AM BLOOD WBC-7.1 RBC-2.93* Hgb-8.9* Hct-27.3*
+MCV-93 MCH-30.4 MCHC-32.6 RDW-13.0 Plt Ct-185
+[**2125-1-10**] 01:56PM BLOOD WBC-10.1# RBC-2.46*# Hgb-7.6*# Hct-22.7*#
+MCV-92 MCH-30.9 MCHC-33.5 RDW-12.9 Plt Ct-151
+[**2125-1-15**] 02:57AM BLOOD PT-16.0* PTT-59.7* INR(PT)-1.5*
+[**2125-1-14**] 04:53AM BLOOD PT-14.2* PTT-45.0* INR(PT)-1.3*
+[**2125-1-13**] 04:30AM BLOOD PT-13.6* PTT-25.7 INR(PT)-1.3*
+[**2125-1-12**] 01:16AM BLOOD PT-15.3* PTT-31.8 INR(PT)-1.4*
+[**2125-1-15**] 02:57AM BLOOD Glucose-124* UreaN-21* Creat-0.5 Na-136
+K-3.5 Cl-98 HCO3-30 AnGap-12
+[**2125-1-10**] 03:45PM BLOOD UreaN-11 Creat-0.4 Na-142 K-4.3 Cl-115*
+HCO3-21* AnGap-10
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 88965**]Portable TTE
+(Complete) Done [**2125-1-11**] at 7:44:37 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2061-11-20**]
+Age (years): 63 F  Hgt (in): 56
+BP (mm Hg): 120/60  Wgt (lb): 140
+HR (bpm): 84  BSA (m2): 1.53 m2
+Indication: Aortic valve disease. H/O cardiac surgery. Left
+ventricular function. Prosthetic valve function.
+ICD-9 Codes: V43.3, 424.1, 428.0
+Test Information
+Date/Time: [**2125-1-11**] at 07:44    Interpret MD: [**First Name8 (NamePattern2) 35980**] [**Name8 (MD) 35981**],
+MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West SICU/CTIC/VICU
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2012AW000-0:00 Machine: vivid q
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.6 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30% to 35%  >= 55%
+Left Ventricle - Stroke Volume:  51 ml/beat
+Left Ventricle - Cardiac Output:  4.29 L/min
+Left Ventricle - Cardiac Index:  2.80  >= 2.0 L/min/M2
+Aortic Valve - Peak Velocity:  1.2 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT VTI:  18
+Aortic Valve - LVOT diam:  1.9 cm
+Mitral Valve - E Wave:  1.0 m/sec
+Mitral Valve - A Wave:  0.8 m/sec
+Mitral Valve - E/A ratio:  1.25
+Mitral Valve - E Wave deceleration time:  147 ms  140-250 ms
+TR Gradient (+ RA = PASP):  >= 11 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the prior study of [**2124-9-4**].
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Moderately depressed LVEF.
+
+RIGHT VENTRICLE: RV not well seen.
+
+AORTIC VALVE: Mechanical aortic valve prosthesis (AVR). AVR well
+seated, normal leaflet/disc motion and transvalvular gradients.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. No MR.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized.
+Physiologic TR. Normal PA systolic pressure.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+The rhythm appears to be A-V paced. Results were personally
+Conclusions
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is moderately depressed (LVEF= 30-35%). A
+mechanical aortic valve prosthesis is present. The aortic valve
+prosthesis appears well seated, with normal leaflet/disc motion
+and transvalvular gradients. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. No mitral
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. The right ventricle is not well [**Doctor First Name **] but its
+function is probably normal. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2124-9-4**]
+there is now global left ventricular systolic dysfunction which
+is new.
+  Electronically signed by [**First Name8 (NamePattern2) 35980**] [**Name8 (MD) 35981**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2125-1-11**] 18:00
+
+
+
+Brief Hospital Course:
+As a same day admit she went to the Operating Room where the
+aortic valve was replaced and the ascending aorta replaced using
+a 23mm ON-X valve and a 28mm gelweave graft. The peicardium was
+closed with Cor-matrix as well.  She weaned from bypass on Neo
+Synephrine in stable condition.  She weaned from the ventilator
+and pressor support easily.  Chest tubes and temporary pacing
+wires were removed per protocol.  Coumadin was started for the
+mechanical valve and Heparin on POD 3.
+Heaprain was stopped on POD#6 when her INR was therapeutic at
+2.5 and was given 5mg of coumadin.
+
+She developed a junctional rhythm in the 70s postoperatively and
+Electrophysiology was consulted. She converted to sinus rhythm
+subsequently.  She was aggresively diuresed towards her
+preoperative weight. Physical Therapy worked with her for
+strength and mobility.
+
+On POD #6 she was cleared for discharge to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in
+[**Last Name (un) 17679**]. Appropriate follow up instructions, medications and
+appointments were given.
+
+
+Medications on Admission:
+EZETIMIBE-SIMVASTATIN [VYTORIN 10-40] 10 mg/40 mg Tablet daily
+GENTAMICIN - 0.1 % Cream - apply twice daily
+HYDROCHLOROTHIAZIDE 25 mg  daily
+KETOCONAZOLE - 2 % Cream - apply to rash daily
+LEVOTHYROXINE 112 mcg  daily
+LISINOPRIL 40 mg daily
+TRIAMCINOLONE ACETONIDE 0.1 % Cream - apply to ears and neck
+daily for 7 to 10 days
+TYLENOL EXTRA STRENGTH 1000 mg [**Hospital1 **]
+CALCIUM CITRATE-VITAMIN D3 [CALCIUM CITRATE + D] Dosage
+uncertain
+
+
+Discharge Disposition:
+Ex

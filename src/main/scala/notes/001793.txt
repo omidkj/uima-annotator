@@ -1,0 +1,299 @@
+Admission Date:  [**2125-6-14**]              Discharge Date:   [**2125-6-29**]
+
+Date of Birth:  [**2060-7-29**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Linezolid
+
+Attending:[**First Name3 (LF) 2777**]
+Chief Complaint:
+Fevers and increased WBC
+
+Major Surgical or Invasive Procedure:
+Interventional Radiology placed PICC line
+
+
+History of Present Illness:
+64 year old female with two-day vascular surgery ~ 5/808. Has
+bovine aortic arch and innominate artery aneurysm. Had bypasses
+to all of his great vessels and then covered stent to aorta (
+anatomy unclear). Was dc'd to rehab and then represented [**6-14**] to
+[**Hospital1 **] with resp distress and infection (multiple possible sources).
+
+
+Past Medical History:
+-- DM2
+-- chronic foot ulcers/PVD
+-- HTN
+-- OA
+-- obesity
+-- asthma
+-- leg pain/neuropathy
+-- depression
+-- anemia
+-- h/o MRSA bacteremia [**11-18**], also septic arthritis treated at
+[**Hospital3 **]
+.
+Right thalamic hemorrhage resulting in a gait disorder and
+incontinence of urine, followed by Dr. [**Last Name (STitle) **].
+Old CVAs.
+Neuropathy, peripheral.
+Anxiety and panic disorder.
+Status post total abdominal hysterectomy.
+Hypercholesterolemia.
+
+
+Social History:
+The patient lives with her daughter [**Name (NI) 2048**] and her three kids
+since being d/c'ed from a nursing home last [**Month (only) 205**]. Has seven
+children, many grandchildren. Smokes [**1-16**] to 1 pack per day.
+
+Family History:
+Brother died of an MI in his 30's, she denies diabetes mellitus
+in the family. Cancer in parents (mother died in 40s, father in
+80s), at least two siblings, but unsure what kind.
+
+
+Physical Exam:
+Obese AA woman laying in bed, appears to be acutely ill and
+older
+than staged age.
+cta
+rrr
+abd benign
+palp fems, dopp L DP only, dopp R DP/PT
+
+Nuero
+Comprehension seems intact.
+Able to do months/days forwards but not backwards.
+Registration intact but recall 0/3 in 3 min and [**2-17**] with prompt.
+
+Speech is extremely slowed but coherent. Minimal output.
+Mood is "OK".
+Affect is flat
+
+Pertinent Results:
+ON ADMISSION:
+[**2125-6-14**] 05:22PM BLOOD WBC-11.8* RBC-2.68* Hgb-7.5* Hct-23.4*
+MCV-88 MCH-28.1 MCHC-32.2 RDW-17.3* Plt Ct-287
+[**2125-6-14**] 05:22PM BLOOD PT-21.8* PTT-38.9* INR(PT)-2.1*
+[**2125-6-14**] 05:22PM BLOOD Glucose-132* UreaN-25* Creat-1.6* Na-142
+K-4.2 Cl-109* HCO3-22 AnGap-15
+[**2125-6-14**] 05:22PM BLOOD CK(CPK)-348*
+[**2125-6-14**] 05:22PM BLOOD CK-MB-2
+[**2125-6-14**] 11:00PM BLOOD Mg-2.1
+[**2125-6-14**] 08:57PM BLOOD Type-ART pO2-211* pCO2-25* pH-7.45
+calTCO2-18* Base XS--4
+[**2125-6-14**] 05:28PM BLOOD Lactate-1.7
+[**2125-6-14**] 08:57PM BLOOD Glucose-103 Lactate-1.0
+[**2125-6-14**] 08:57PM BLOOD O2 Sat-98
+[**2125-6-14**] 10:22PM BLOOD freeCa-1.00*
+.
+ON DISCHARGE:
+
+[**2125-6-28**] 05:26AM BLOOD WBC-10.1 RBC-3.23* Hgb-9.2* Hct-26.9*
+MCV-83 MCH-28.5 MCHC-34.2 RDW-18.1* Plt Ct-256
+[**2125-6-29**] 08:56AM BLOOD PT-15.9* PTT-33.4 INR(PT)-1.4*
+[**2125-6-28**] 05:26AM BLOOD Glucose-79 UreaN-11 Creat-1.1 Na-141
+K-4.0 Cl-107 HCO3-24 AnGap-14
+[**2125-6-28**] 05:26AM BLOOD CK(CPK)-91
+[**2125-6-28**] 05:26AM BLOOD Calcium-8.5 Phos-4.1 Mg-2.2
+
+[**2125-6-14**] 5:22 pm BLOOD CULTURE
+
+STAPH AUREUS COAG +.    FINAL SENSITIVITIES.
+
+STAPHYLOCOCCUS, COAGULASE NEGATIVE.    ISOLATED FROM ONE SET
+ONLY.
+
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------   =>8 R
+DAPTOMYCIN------------       S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA----       S
+VANCOMYCIN------------   <=1 S
+
+[**2125-6-20**] 6:44 pm BLOOD CULTURE      Source: Line-picc.
+
+ENTEROCOCCUS FAECIUM.    FINAL SENSITIVITIES.
+
+                             ENTEROCOCCUS FAECIUM
+                             |
+AMPICILLIN------------  =>32 R
+LINEZOLID-------------     2 S
+PENICILLIN------------  =>64 R
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------  =>32 R
+
+[**2125-6-14**] 7:10 pm URINE     Site: CATHETER
+
+PROTEUS MIRABILIS.    10,000-100,000 ORGANISMS/ML..
+
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   0.5 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------    16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+
+Brief Hospital Course:
+Started on broad spectrum AB on admission
+
+Pan CX'd
+
+On first hospital night had resp distress followed PEA arrest
+after meds given for intubation.  transferd to the SICU. Got 1
+min cpr, epi which led to af with rvr, and then dccv for AF.
+Echo (reviewed with [**Doctor Last Name **]) showed large anterior mi with
+aneurysmal apex. EKG also suggests anterior event in past month
+(prwp). Suspect that she decompensated from cariopulmonary
+perspective because of this infection and presented for care.
+
+Cardiology consult / ID consult obtained
+
+Pt delined / Cx's taken / Pt delined / blood, urine, surgical
+site, cxr
+
+Bronchoscopy performed [**6-15**]
+
+Swnaz ganz placed [**6-16**]
+
+orignal PICC pos for staph coag pos.
+
+proteus UTI
+
+[**6-19**] epi weaned / extubate / transfer to VICU
+
+ID adjusts AB
+
+PT consult / OT consult
+
+heparin started per cardiology for ACAS / DVT upper extremity,
+possible catherizationn discusse. Coumadin on hold.
+
+Psych consult / depression.
+
+[**6-21**] cipro dc for UTI
+
+[**6-22**] vanco stopped / daptomycin started
+
+pt with 2 days negative blood cx's / PICC replaced
+
+[**6-26**] foley DC'd
+
+Cardiolgy decides against catherization / to be arranged at
+alter date
+
+Id makes final recommendations
+
+Pt stable for DC
+
+
+Medications on Admission:
+vicodin 500, lipitor 20, lopressor 25", aricept 10', celexa 10',
+plavix 75'
+
+Discharge Medications:
+1. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Albuterol 90 mcg/Actuation Aerosol Sig: Four (4) Puff
+Inhalation Q6H (every 6 hours).
+4. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+INH Inhalation Q6H (every 6 hours).
+5. Beclomethasone Dipropionate 80 mcg/Actuation Aerosol Sig: One
+(1) INH Inhalation [**Hospital1 **] (2 times a day).
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed for pain.
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day): Hold for SBP < 100 or HR < 60.
+10. Daptomycin 500 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous Q24H (every 24 hours) for 4 weeks: from [**6-15**] /
+may DC [**7-29**] Follow labs as on Pg 1.
+11. Insulin
+Sliding Scale
+
+Fingerstick Q6H
+
+Insulin SC Sliding Scale
+
+Regular
+
+Glucose Insulin Dose
+
+0-60      mg/dL 1 amp D50
+61-120    mg/dL 0   Units
+121-140   mg/dL 2   Units
+141-160   mg/dL 4   Units
+161-180   mg/dL 6   Units
+181-200   mg/dL 8   Units
+201-220   mg/dL 10   Units
+221-240   mg/dL 12   Units
+241-260   mg/dL 14   Units
+261-280   mg/dL 16   Units
+281-300   mg/dL 18   Units
+> 300   mg/dL Notify M.D.
+
+12. Enoxaparin 120 mg/0.8 mL Syringe Sig: One (1)  Subcutaneous
+Q12H (every 12 hours) for 7 days: DC when INR is greater then 2/
+Keep INR [**2-17**].
+13. Coumadin 5 mg Tablet Sig: One (1) Tablet PO at bedtime: INR
+goal is [**2-17**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis:
+Primary:
+
+Wound infection
+PEA arrest after
+MI
+VRE, MRSA
+
+Secondary:
+
+HTN, PVD, depression, urinary incontinence, DM2, anemia(iron
+def), CRI (1.1-1.4), vascular dementia,
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+WOUND CARE:
+
+PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS:
+
+Redness in or drainage from your wound(s).
+
+New pain, numbne

@@ -1,0 +1,197 @@
+Admission Date:  [**2163-11-6**]              Discharge Date:   [**2163-11-11**]
+
+Date of Birth:  [**2096-10-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 613**]
+Chief Complaint:
+PCP: [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at [**Hospital6 **]
+.
+CHIEF COMPLAINT: Fever.
+REASON FOR MICU ADMISSION: Sepsis, mechanical ventilation.
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+
+History of Present Illness:
+Mr. [**Known lastname 1557**] is a 67 y.o. M from [**Hospital3 537**] with recent history
+of pneumonia, presented with fever, tachycardia, and increased
+lethargy. History from RN at [**Hospital3 537**] and faxed medical
+records.  The patient lives at [**Hospital3 537**] and was recently
+hospitalized at [**Hospital1 2177**] from [**10-31**] to [**11-4**] and diagnosed with
+aspiration pneumonia.  He completed a course of cefpodoxime and
+Flagyl.  Around 8 PM, the patient was noted to be lethargic and
+did not open eyes with name calling, moaning.  He desat'ed to
+88% on RA and improved to 92% on 2 L NC He was also noted to be
+febrile.  MD was called and referred patient via ambulance to
+[**Hospital1 2177**].  VS at [**Last Name (un) **]: 140/69  HR 121  RR 28  T 100.6.  Ambulance
+diverted to [**Hospital1 18**].  Of note, patient was to complete hospice
+referral on [**2163-11-7**].
+.
+In the ED, initial VS: T 101.6  HR 122  BP 127/70  RR 33  O2 96%
+on 10 L NRB.  Labs, blood cultures x 2, and urine culture were
+sent. Portable CXR was completed. EKG completed, noted with some
+lateral changes so Cards consulted.  The patient was intubated
+with etomidate and succinylcholine, then sedated with fentanyl
+and midazolam.  ABG performed.  Placed OG tube and noted thick
+green coating on dry tongue.  NG lavage with some thick black
+looking material, ? coffee grounds, but cleared quickly.  Rectal
+with guiaic + brown stools, so GI consulted.  He was given
+levofloxacin 750 mg IV x 1 and Zosyn x 1.  Acetaminophen 1300 mg
+PR x 1, IV Protonix 40 mg IV x 1 then gtt at 8/hour, and Vitamin
+K 10 mg IV x 1 were given. He was also given 3.5 L IVFs.
+Discussed CVL but deferred given supratherapeutic INR.
+.
+Currently, the patient is sedated and intubated.
+.
+ROS: Unable to obtain due to sedation and intubation
+
+
+Past Medical History:
+Per [**Hospital3 537**] Records
+Type 2 DM
+HTN
+Hyperlipidemia
+s/p R nephrectomy due to renal cancer
+PVD (s/p RLE bypass, s/p AAA repair)
+L carotid artery occlusion
+h/o alcohol withdrawal sz in [**2134**]
+Positive PPD with negative CXR
+Incisional hernia
+Severe pharyngeal dysphagia
+Embolic CVA at [**Hospital1 2025**] in [**2145-4-16**] (left superior frontal,
+posterior parietal and temporal-occipital)
+Stage 4 CKD with R arm fistula (not useD)
+CAD with positive dobutamine stress in [**6-25**]
+Atrial fibrillation on coumadin
+History of aspiration pneumonia (on nectar thickened liquids)
+
+Social History:
+Lives at [**Hospital3 537**]
+
+Family History:
+DM in 2 brothers.  Aneurysms - mom in brain, fatal; brother in
+heart.  Brother with melanoma.
+
+Physical Exam:
+Vitals - T: 98.7  BP: 110/57  HR: 85  RR: 14  02 sat: 100% on AC
+500 x 16, PEEP 5, FiO2  100%
+GENERAL: sedated, intubated, appears older than stated age
+HEENT: eyes not reactive to light, but equal, no cervical LAD
+CARDIAC: III/VI SEM best heard at LLSB, no r/g
+LUNG: on anterior exam, breath sounds bilaterally, no w/r/r
+ABDOMEN: NDNT, soft, NABS
+EXT: no c/c/e, R knee with ecchymoses
+NEURO: sedated
+DERM: sacral decub stage II
+
+Pertinent Results:
+[**Hospital3 537**]: INR 5.01 on [**2163-11-1**]
+[**Hospital3 537**]: WBC 10.7, Hgb 8.8, Hct 28.5, Plt 307, Neut 75.3,
+L 15, Monos 6, Eos 3.1, Baso 0.4
+.
+MICROBIOLOGY:
+Blood Culture x 2 - pending
+Urine Culture - pending
+.
+STUDIES:
+EKG: tachy at 100 bpm, LAD; II-III-aVF with Qwaves, [**Street Address(2) 4793**]
+depression in V4-V6. No prior to compare to.
+.
+PORTABLE CXR [**2163-11-6**]: ETT tube 2 cm above carina. NGT over LUQ
+in stomach.  Dense opacity at LLL with diffuse nodular
+consolidation in mid and upper lungs. Air bronchograms in
+retrocardiac space. R lung clear. Worrisome for pneumonia.
+Impression: Extensive pna in left lung.
+
+
+Brief Hospital Course:
+67 y.o. M from [**Hospital3 537**] with recent history of pneumonia,
+presented with fever, tachycardia, and increased lethargy, found
+to have pneumonia, admitted to ICU s/p intubation for
+respiratory failure.
+
+1. Respiratory Failure: Secondary to dense pneumonia that was
+seen on portable CXR. Intubated in ED for tachypnea and work of
+breathing.  Pt was admitted to the ICU.  Treated with broad
+spectrum antibiotics, vancomycin / cefepime / ciprofloxacin, for
+hospital acquired pneumonia given recent hospitalization and
+living in [**Hospital3 537**].  Pt was rapidly weaned from ventilator
+and extubated on [**11-7**].  Sputum culture without pseudomonas, so
+ciprofloxacin was stopped.  Course of antibiotics for 8 days.
+
+2. Sepsis: Secondary to pneumonia on CXR.  Treated with
+antibiotics as above. Pan-cultured.  Lactate was not elevated.
+No pressors needed.
+
+3. Altered mental status: On admission to ICU, pt's eyes noted
+to be non-reactive to light.  ?  cataract surgery, but unable to
+get history. CT head negative for acute bleed.  Per family, pt's
+baseline is "yes" and "no".  Likely altered mental status due to
+infections, R arm pain (RSD).
+
+4. ? GI bleeding: + guiaic positive in ED with supratherapeutic
+INR.  GI was consulted. Followed patient's Hct which was stable.
+Active T&S maintained, Guiaiced all stools. 2 large bore PIVs.
+IV PPI gtt initiated in the ED, then changed to IV PPI [**Hospital1 **].
+
+5. Elevated troponins: Elevated Troponin may be secondary to
+renal failure, ruled out MI with serial enzymes and EKGs.  Cards
+evaluated EKG in ED and believed it was demand ischemia.  By
+report, EKG with old inferior Qs.
+.
+6. Coagulopathy: PT, PTT, INR all elevated. Likely interaction
+between recent flagyl use and coumadin.  But also may be
+secondary to DIC, although platelets within normal limits. Also
+likely nutritional deficiency. DIC labs negative. Held coumadin.
+ Given 10 IV K in ED with decrease in INR.  Restarted low dose
+coumadin but stopped given goals of care.
+
+7. CKD, stage 4: Recently discharged with Cr 2 from [**Hospital1 2177**]. Likely
+pre-renal as pt appeared intravasculary dry on admission. Fluid
+resuscitated with D5W given hypernatermia. Cr trended down.
+
+8. Hypernatremia: Na 155 on admission.  D5W @ 120 cc / hour for
+20 hours for correction.  Na serially monitored and normalized
+during ICU stay.
+
+9. Type 2 DM: Fingersticks and labs were discontinued as per
+family wishes for patient to receive comfort measures only.
+
+10. Hyperlipidemia: Zetia and Lipitor were discontinued as per
+family wishes for patient to receive comfort measures only.
+
+11. HTN: Beta blocker and amlodipine were initially held in
+setting of questionable GI bleed, but discontinued as per family
+wishes for patient to receive comfort measures only.
+
+12. Stage 2 Sacral Decub:  Patient received wound care.  Cleaned
+with normal saline, duoderm gel, and gauze dressing daily.
+
+14. R arm pain: X ray negative. From OSH records, may be RSD.
+Continued low dose neurontin and lidocaine patch.
+
+15. Goals of care: On [**11-8**], family meeting was held and patient
+was made DNR/DNI/comfort measures only by HCP.  [**Name (NI) **] was
+transferred to the floor on [**11-9**]. Antibiotics were continued as
+he was clinically improving, but they were discontinued on
+discharge.  Morphine for pain.  Palliative care was consulted.
+Patient is discharged with hospice care.
+
+CONTACT: [**First Name8 (NamePattern2) 32000**] [**Last Name (NamePattern1) 32001**] [**Telephone/Fax (1) 32002**]
+
+Medications on Admission:
+Vitals - T: 98.7  BP: 110/57  HR: 85  RR: 14  02 sat: 100% on AC
+500 x 16, PEEP 5, FiO2  100%
+GENERAL: sedated, intubated, appears older than stated age
+HEENT: eyes not reactive to light, but equal, no cervical LAD
+CARDIAC: III/VI SEM best heard at LLSB, no r/g
+LUNG: on anterior exam, breath sounds bilaterally, no w/r/r
+ABDOMEN: NDNT, soft, NABS
+EXT: no c/c/e, R knee with ecchymoses
+NEURO

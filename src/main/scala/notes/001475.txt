@@ -1,0 +1,190 @@
+Admission Date:  [**2139-11-5**]              Discharge Date:   [**2139-11-9**]
+
+Date of Birth:  [**2063-8-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2736**]
+Chief Complaint:
+Chest Pain
+
+Major Surgical or Invasive Procedure:
+1. Cardiac Catheterization
+2. Emergent vascular surgery with ligation of inferior
+epigastric artery and evacuation of right groin/pelvic hematoma
+
+History of Present Illness:
+The patient is a 76-year-old female transferred from the [**First Name4 (NamePattern1) 3075**]
+[**Last Name (NamePattern1) 3549**] Hospital ER on the evening of [**2139-11-4**] with chest pain
+radiating to her right posterior shoulder area. Initial EKG had
+some non-specific ST changes concerning for NSTEMI and EF per
+ECHO (TTE) done at OSH noted to be 15%.  Per outside hospital
+records the patient had reported that her pain was relieved
+after SL nitroglycerin tablets x 3 and Lopressor 5mg IV x 3. She
+was also given a loading dose of Plavix 600mg in the ER and 75mg
+the following morning and she was started on both Integrillin
+and Heparin and was transferred directly to the cardiac
+catheterization lab at [**Hospital1 18**] and found to not have any
+obstructive coronary disease, LV-gram showing EF closer to 30%
+but prominent apical ballooning consistent with Takotsubo's
+Cardiomyopathy presentation. She began to have severe
+hypotension during her cardiac catheterization and was started
+on Dopamine then switched to Neosynephrine. She was noted to
+have an expanding right groin. Of note, given reported
+difficulty obtaining access initially thought was that she was
+having a iatrogenic bleed.
+.
+In the operating room the patient was continued on
+Neosynephrine, and had a right internal jugular central venous
+line placed and failed attempt at a radial arterial line.
+Intubation was uncomplicated. The patient was also given a total
+of 3.5L of NS and 2 Units blood were given. Just prior to going
+to the operating room with the vascular surgery team the patient
+was also given IVFs and 2 Units of blood in cardiac
+catheterization lab. Thus, she received in total, 4 Units of
+blood before transfer up to CCU post-operatively. She was able
+to be slowly weaned off of Neosynephrine and BP was 115/70 upon
+presentation to the CCU. Per vascular team, the inferior
+epigastric artery on the right was ligated and a hematoma was
+evacuated, removing roughly 500cc of blood. Pressure dressing
+was applied. Patient arrived to the CCU intubated and sedated
+and a few continued bouts of intermittent low blood pressures.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: negative for Diabetes, no significant
+dyslipidemia, but positive for age, hypertension, sedentary
+lifestyle
+2. CARDIAC HISTORY:
+-CABG: None
+-PERCUTANEOUS CORONARY INTERVENTIONS: None / No priors
+-PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY:
+Glaucoma
+Osteoporosis
+Cataracts
+
+
+Social History:
+The patient is married and lives in [**Location 1110**] with her husband. She
+has one daughter who lives locally. In terms of recent stressors
+the patient reports some anxiety regarding an upcoming Glaucoma
+surgery and some additional stress and residual grief as she
+learned that her brother died several months ago.
+
+She denies any smoking history /tobacco use. She drinks
+approximately 5 glasses of wine per week and denies any other
+illicit drug use.
+
+Family History:
+No known family history of significant CAD, premature coronary
+artery disease or sudden death.
+
+Physical Exam:
+On admission:
+
+Vital Signs: 98.2F, BP 115/70 HR 70s, O2 100% on AC ventilation
+550x14, PEEP of 5 and FiO2 of 100%. CVP 11
+
+GENERAL: Intubated and sedated. responds to painful stimuli and
+moving all 4 extremities.
+HEENT: PERRLA bilaterally, sclera anicteric and EOMI, moist
+mucosal membranes
+CARDIAC: S1/S2 regular, no murmurs, rubs or gallops appreciated,
+ soft heart sounds noted, 2+ carotid upstrokes
+LUNGS: No tracheal deviation, CTA bilaterally anteriorly and
+laterally
+ABDOMEN: Soft, nontender and nondistended. No HSM. Abdomnal
+aorta not enlarged by palpation. No abdominal bruits.
+EXTREMITIES: Right groin with thick pressure dressing, no
+ecchymoses or tense areas noted
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: diminished 1+ radial pulses bilaterally, DP and PT
+pulses are measured by doppler, PT pulses 1+ and palpable but
+DPs difficult to palpate
+
+Pertinent Results:
+[**2139-11-5**] 07:24PM   TYPE-MIX PO2-29* PCO2-40 PH-7.24* TOTAL
+CO2-18* BASE XS--10
+[**2139-11-5**] 07:24PM   LACTATE-1.5
+[**2139-11-5**] 07:24PM   O2 SAT-52
+[**2139-11-5**] 06:35PM   GLUCOSE-178* UREA N-27* CREAT-0.7 SODIUM-139
+POTASSIUM-4.4 CHLORIDE-118* TOTAL CO2-18* ANION GAP-7*
+[**2139-11-5**] 06:35PM   estGFR-Using this
+[**2139-11-5**] 06:35PM   CK(CPK)-189*
+[**2139-11-5**] 06:35PM   CK-MB-27* MB INDX-14.3* cTropnT-0.60*
+[**2139-11-5**] 06:35PM   CALCIUM-6.8* PHOSPHATE-3.1 MAGNESIUM-1.2*
+[**2139-11-5**] 06:35PM   WBC-15.1*# RBC-3.79*# HGB-11.2*# HCT-32.5*#
+MCV-86# MCH-29.6 MCHC-34.5 RDW-14.9
+[**2139-11-5**] 06:35PM   NEUTS-90.7* LYMPHS-5.5* MONOS-3.6 EOS-0.1
+BASOS-0.1
+[**2139-11-5**] 06:35PM   I-HOS-D
+[**2139-11-5**] 06:35PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**2139-11-5**] 06:35PM   PLT SMR-LOW PLT COUNT-87*#
+[**2139-11-5**] 06:35PM   PT-15.7* PTT-47.5* INR(PT)-1.4*
+[**2139-11-5**] 06:35PM   FIBRINOGE-111*
+[**2139-11-5**] 05:54PM   TYPE-CENTRAL VE PO2-66* PCO2-48* PH-7.14*
+TOTAL CO2-17* BASE XS--12
+[**2139-11-5**] 05:20PM   TYPE-ART PO2-341* PCO2-43 PH-7.14* TOTAL
+CO2-15* BASE XS--14
+[**2139-11-5**] 05:20PM   HGB-11.2* calcHCT-34
+[**2139-11-5**] 05:20PM   GLUCOSE-309* LACTATE-4.0* NA+-133* K+-5.7*
+CL--113*
+[**2139-11-5**] 03:28PM   TYPE-ART O2-100 PO2-434* PCO2-30* PH-7.38
+TOTAL CO2-18* BASE XS--5 AADO2-267 REQ O2-50 INTUBATED-NOT
+INTUBA
+[**2139-11-5**] 03:28PM   GLUCOSE-205* LACTATE-1.5 K+-4.4
+[**2139-11-5**] 03:00PM   WBC-7.2 RBC-2.17*# HGB-6.9*# HCT-20.3*#
+MCV-94 MCH-32.1* MCHC-34.3 RDW-14.3
+[**2139-11-5**] 02:49PM   TYPE-ART O2 FLOW-2 PO2-94 PCO2-37 PH-7.32*
+TOTAL CO2-20* BASE XS--6 COMMENTS-NASAL [**Last Name (un) 154**]
+
+[**2139-11-5**] CARDIAC CATHETERIZATION RESULTS:
+LMCA mild plaquing, LAD 20% origin, LCX patent, mid-RCA with
+mild 25% diffuse plaquing. LV gram showing some MR, EF 30%,
+bases intact, severe hypokinesis of anterolateral, apical and
+inferior walls, bedside echo without pericardial effusion, no
+LVOT gradient, depressed EF.
+.
+HEMODYNAMICS:
+RA 4, RV 23/0
+PCW mean 4
+PA 15/4
+Aorta 95/75, MAP 80
+post angio:
+PCW mean 7, PA 28/9
+LV 134
+Aorta 134/86
+Cardiac index 1.32 pre angio, 1.30 post angio
+Art sat 98%, SVC saturation 49%, PA sat 40%
+.
+[**2139-11-5**] ECHO: Left ventricular wall thicknesses are normal. The
+left ventricular cavity size is normal. The overall LV ejection
+fraction appears moderately-to-severely depressed secondary to
+extensive apical akinesis , and severe hypokinesis of the
+anterior septum. There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. There is no pericardial effusion.
+Overall impression is severe anteroseptal hypokinesis/akinesis,
+LVEF = 30%.
+.
+[**2139-11-7**] REPEAT ECHO: The left atrium is normal in size. There
+is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. LV systolic function appears
+moderately-to-severely depressed (ejection fraction 30 percent)
+secondary to akinesis of the anterior septum and anterior free
+wall; there is extensive apical akinesis with focal dyskinesi..
+Right ventricular chamber size and free wall motion are normal.
+The aortic arch is moderately dilated. There are focal
+calcifications in the aortic arch. The aortic valve leaflets (3)
+are mildly thickened but aortic stenosis is not present. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Mild (1+)
+mitral regurgitation is seen. The estimated pulmonary artery
+systolic pressure is normal. There is no pericardial effusion.
+There is an anterior space whi

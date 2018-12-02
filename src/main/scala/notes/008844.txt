@@ -1,0 +1,219 @@
+Admission Date:  [**2101-2-19**]              Discharge Date:   [**2101-2-20**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+85 M with history of DVT, recent large UGIB from bleeding
+duodenal ulcer s/p ex lap one month ago; now admit with
+pulmonary embolism, hypoxia, and hypotension.  Patient with
+recent admission to surgical service for large UGIB related to
+duodenal ulcer.  Had ex lap with duodenotomy and oversewing of
+ulcer on [**2101-1-16**].  Received 10 units PRBCs, 4 FFP, 1 bag
+platelets.  Discharged to rehab on [**1-21**].  Continued to get TPN
+via PICC (?still on).
+.
+In the ED, initial vs were hypoxic, hypotensive, tachycardic.
+HR up to 190 with poor pulses and thus cardioverted (x2 total,
+synchronized).  Neo and 4L IVFs for hypotension.  L femoral line
+placed.  Intubated.  Vanco and ceftaz for antibiotics.  CTA with
+lingular PE.  Heparin gtt started.  No TPA due to recent surgery
+and large bleed.  CT abd/pelvis without acute pathology.  Other
+ED meds: midaz, fent, verapamil.  After intubation pt was
+dysynchronous with the vent, became tachy to 170 and dropped
+pressures to 40 and they paralyzed him with vec temporarily.
+
+Past Medical History:
+- recent bleeding duodenal ulcer s/p exploratory laparotomy,
+duodenotomy, and oversewing of bleeding duodenal ulcer [**2101-1-16**].
+- moderate dementia
+- gait d/o, h/o falls
+- dual chamber pacemaker for sinus node dysfunction
+- HTN
+- orthostatic hypotension on midodrine
+- HOH
+- Urinary incontinence
+- Chronic lower extremity edema
+- Hx of recurrent PNA
+- DVT in R femoral vein (1 yr ago) on lovenox at prophylactic
+dose
+- Hyperlipidemia
+- Diastolic heart failure, LVH, EF > 55% on last ECHO by report
+w/ Mild MR, Mild TR, mod/severe pulm HTN, LAE
+- Anemia of chronic disease
+- Basal cell carcinoma
+- Prosthetic R eye
+- Hypoalbuminemia w/ recent wt loss of 18 pounds since [**5-30**].
+- H/o PNA (last [**12-30**])
+- Peripheral neuropathy
+- Chronic L pleural effusion
+- OSA but did not tolerate CPAP
+
+Social History:
+Needs assistance w/ all ADLs exc feeds self.
+Ambulates w/ assistance. No tob/etoh. [**Hospital 100**] rehab resident.
+Supportive son who is [**Name8 (MD) **] MD.
+
+
+Family History:
+Noncontribitory
+
+Physical Exam:
+Tmax: 36.9 ??????C (98.4 ??????F)
+Tcurrent: 36.9 ??????C (98.4 ??????F)
+HR: 108 (108 - 111) bpm
+BP: 109/50(64) {84/45(54) - 109/50(64)} mmHg
+RR: 14 (0 - 28) insp/min
+SpO2: 90%
+Heart rhythm: ST (Sinus Tachycardia)
+
+O2 Delivery Device: Endotracheal tube
+Ventilator mode: CMV/ASSIST
+Vt (Set): 500 (500 - 500) mL
+RR (Set): 32
+RR (Spontaneous): 0
+PEEP: 5 cmH2O
+FiO2: 100%
+PIP: 29 cmH2O
+Plateau: 15 cmH2O
+Compliance: 54.3 cmH2O/mL
+SpO2: 90%
+ABG: 7.21/38/84.[**Numeric Identifier 80717**]//-12
+Ve: 17 L/min
+PaO2 / FiO2: 84
+
+General: Intubated, sedated, paralyzed.
+HEENT: Sclera anicteric, MMM, ET in place
+Neck: supple, JVP not elevated, no LAD
+Lungs: rhonchi throughout.
+CV: Tachy rate and sometimes irrhythm, normal S1 + S2, no
+murmurs, rubs, gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+[**2101-2-19**] 10:25PM   TYPE-ART PO2-58* PCO2-23* PH-7.39 TOTAL
+CO2-14* BASE XS--8
+[**2101-2-19**] 10:25PM   GLUCOSE-103
+[**2101-2-19**] 10:06PM   PTT-141.3*
+[**2101-2-19**] 07:59PM   TYPE-ART PO2-69* PCO2-23* PH-7.40 TOTAL
+CO2-15* BASE XS--7
+[**2101-2-19**] 03:50PM   TYPE-ART PO2-108* PCO2-24* PH-7.34* TOTAL
+CO2-14* BASE XS--10
+[**2101-2-19**] 03:45PM   PT-17.6* PTT-150* INR(PT)-1.6*
+[**2101-2-19**] 01:49PM   LACTATE-2.1*
+[**2101-2-19**] 10:45AM   TYPE-ART PO2-69* PCO2-41 PH-7.13* TOTAL
+CO2-14* BASE XS--15
+[**2101-2-19**] 10:45AM   LACTATE-3.4*
+[**2101-2-19**] 10:36AM   PT-18.5* PTT-150* INR(PT)-1.7*
+[**2101-2-19**] 08:26AM   GLUCOSE-121* UREA N-50* CREAT-1.5* SODIUM-142
+POTASSIUM-3.9 CHLORIDE-116* TOTAL CO2-16* ANION GAP-14
+[**2101-2-19**] 08:26AM   ALT(SGPT)-34 AST(SGOT)-26 LD(LDH)-174
+CK(CPK)-75 ALK PHOS-70 TOT BILI-0.4
+[**2101-2-19**] 08:26AM   CK-MB-NotDone cTropnT-0.03*
+[**2101-2-19**] 08:26AM   ALBUMIN-2.3* CALCIUM-7.0* PHOSPHATE-4.1
+MAGNESIUM-1.7
+[**2101-2-19**] 08:26AM   WBC-7.0 RBC-3.22* HGB-9.5* HCT-30.2* MCV-94
+MCH-29.5 MCHC-31.4 RDW-14.6
+[**2101-2-19**] 08:26AM   PLT COUNT-204
+[**2101-2-19**] 08:11AM   TYPE-ART PO2-84* PCO2-38 PH-7.21* TOTAL
+CO2-16* BASE XS--12
+
+[**2-19**] CTA CHEST
+1. Acute pulmonary embolism involving the lingular branch of the
+left
+pulmonary artery and subsegmental right basilar artery. No CT
+findings to
+suggest RV strain.
+
+2. Multifocal pneumonia with bilateral pleural effusions.
+
+3. No acute intra-abdominal pathology. Moderate fecal load
+present within
+the rectum and sigmoid colon.
+
+4. Small bowel containing right inguinal hernia.
+
+[**2-19**] ECHO
+Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. Overall left ventricular
+systolic function is normal (LVEF>55%). Right ventricular
+function is at least mildly depressed. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion. Very limited study.
+
+[**2101-2-19**] 08:11AM   LACTATE-3.0*
+[**2101-2-19**] 04:54AM   COMMENTS-GREEN TOP
+[**2101-2-19**] 04:54AM   LACTATE-4.7*
+[**2101-2-19**] 04:50AM   GLUCOSE-121* UREA N-57* CREAT-1.7* SODIUM-143
+POTASSIUM-4.0 CHLORIDE-116* TOTAL CO2-15* ANION GAP-16
+[**2101-2-19**] 04:50AM   WBC-5.9 RBC-3.03* HGB-9.2* HCT-27.9* MCV-92
+MCH-30.3 MCHC-32.8 RDW-14.5
+[**2101-2-19**] 04:50AM   NEUTS-89.9* LYMPHS-6.3* MONOS-3.2 EOS-0.1
+BASOS-0.4
+[**2101-2-19**] 04:50AM   PLT COUNT-164
+[**2101-2-19**] 03:27AM   TYPE-ART RATES-/16 TIDAL VOL-500 PEEP-5
+PO2-105 PCO2-33* PH-7.26* TOTAL CO2-15* BASE XS--11
+[**2101-2-19**] 02:30AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.023
+[**2101-2-19**] 02:30AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-SM UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2101-2-19**] 02:23AM   VoidSpec-CLOTTED SP
+[**2101-2-19**] 02:04AM   COMMENTS-GREEN TOP
+[**2101-2-19**] 02:04AM   LACTATE-6.1*
+[**2101-2-19**] 02:00AM   GLUCOSE-138* UREA N-62* CREAT-2.0*#
+SODIUM-145 POTASSIUM-4.2 CHLORIDE-111* TOTAL CO2-15* ANION
+GAP-23*
+[**2101-2-19**] 02:00AM   estGFR-Using this
+[**2101-2-19**] 02:00AM   ALT(SGPT)-51* AST(SGOT)-39 CK(CPK)-40 ALK
+PHOS-92 TOT BILI-0.6
+[**2101-2-19**] 02:00AM   LIPASE-61*
+[**2101-2-19**] 02:00AM   CK-MB-NotDone cTropnT-0.02*
+[**2101-2-19**] 02:00AM   CALCIUM-9.1 PHOSPHATE-4.3 MAGNESIUM-2.1
+[**2101-2-19**] 02:00AM   WBC-8.9 RBC-3.88*# HGB-11.4* HCT-35.4*#
+MCV-91 MCH-29.4 MCHC-32.3 RDW-14.5
+[**2101-2-19**] 02:00AM   NEUTS-78.9* LYMPHS-17.5* MONOS-3.1 EOS-0.1
+BASOS-0.3
+[**2101-2-19**] 02:00AM   PLT COUNT-201#
+[**2101-2-19**] 02:00AM   PT-15.1* PTT-24.5 INR(PT)-1.3*
+
+Brief Hospital Course:
+This is a 85M with dementia, history of DVT, admitted with
+lingular PE and septic shock secondary to multifocal pneumonia.
+.
+# Pulmonary embolism: Pt did not have overt signs of right-sided
+heart strain on presentation and given his co-presentation with
+sepsis likely due to pneumonia the pt was not treated with
+thrombolytics.  Pt was placed on a heparin gtt until [**2-20**] when he
+was made CMO.
+.
+# Sepsis: Pt presented with septic shock likely secondary to
+multifocal pneumonia.  Pt was treated with vancomycin and zosyn
+given that he lives at [**Hospital1 100**] MACU.  Pt required Levophed and
+Neosynephrine as well as IVF for resuscitation.  Pressors were
+withdrawn on [**2-20**] when the pt was made CMO.
+.
+# Respiratory failure: Likely combination of pulmonary embolism
+as well as multifocal pneumonia.  Pt was placed on heparin gtt
+and vancomycin/zosyn respectively.  Pt was kept on mechanical
+ventilation (required intermittent vecuronium for ventilator
+dyssynchrony) until terminally extubated on [**2-20**].
+.
+# Acute renal failure: Likely combination of prerenal/ATN in the
+setting of septic shock.  Pt was resuscitated with IVF PRN.
+.
+# FEN: Pt was NPO on the ventilator, fluids boluses PRN and
+electrolytes repleted as 

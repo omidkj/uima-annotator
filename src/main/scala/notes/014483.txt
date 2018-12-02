@@ -1,0 +1,273 @@
+Admission Date:  [**2192-11-30**]              Discharge Date:   [**2192-12-21**]
+
+Date of Birth:  [**2132-11-12**]             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 78**]
+Chief Complaint:
+headache
+
+Major Surgical or Invasive Procedure:
+[**2192-11-30**] external ventricular drain placement
+[**2192-11-30**] craniotomy for frontal IPH
+Multiple cerebral angiograms
+[**2192-12-18**] PEG PLACEMENT
+[**2192-12-18**] TRACHEOSTOMY PLACMENT
+
+
+History of Present Illness:
+The patient is a 60 year old man from [**Country 2784**] h/o HTN who
+had a headache last night, took aspirin and went to bed. The
+patient came into the ER after seizing, vomiting. He required
+intubation because he could not protect his airway. The patient
+was withdrawing all extremities to pain according to the ER
+resident. Currently the patient is on propofol. Neurosurgery was
+called because there was a large IVH seen on CT scan.
+
+
+Past Medical History:
+HTN
+
+
+Social History:
+Social Hx: is from [**Country 2784**] and is visiting friends in [**Name (NI) 86**]
+
+
+Family History:
+Family Hx:unknown
+
+
+Physical Exam:
+PHYSICAL EXAM:
+T: 99.8       131/65      HR:97    R17       O2Sats: 100%
+Gen: intubated opens eyes to stimuli
+HEENT: Pupils: 4mmto 2mm bil mm bilaterally
+Neck: in cervical collar
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: intubated and sedated
+
+Cranial Nerves:
+I: Not tested
+II: Pupils pinpoint
+III-XII: unable to test
+Motor: withdraws left Upper and Bil. lower extremities to
+noxious stimuli. Does not move the right UE to noxious.
+
+Toes downgoing bilaterally
+
+ON DISCHARGE
+********************
+
+
+Pertinent Results:
+[**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]
+
+Cardiology Report ECG Study Date of [**2192-11-30**]  11:00:24 AM
+
+
+Sinus rhythm. Left ventricular hypertrophy. Non-specific septal
+ST-T wave
+changes. No previous tracing available for comparison.
+
+
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **] D.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+74 140 114 404/428 79 63 74
+
+
+([**Numeric Identifier 81929**])
+[**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]
+
+Radiology Report CT C-SPINE W/O CONTRAST Study Date of [**2192-11-30**]
+11:16 AM
+
+
+[**Last Name (LF) 14311**],[**First Name3 (LF) **] EU   [**2192-11-30**] SCHED
+CT C-SPINE W/O CONTRAST   Clip # [**Clip Number (Radiology) 81930**]
+Reason: eval for cspine fx
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   60 year old man with HTN p/w acute ALOC w/ HA and ? Sz,
+obtunded, + Fall no
+   signs of sig head trauma
+REASON FOR THIS EXAMINATION:
+   eval for cspine fx
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Wet Read: ENYa [**First Name9 (NamePattern2) **] [**2192-11-30**] 12:26 PM
+No acute cervical fracture or dislocation. No significant
+prevertebral soft
+tissue swelling. Small posterior osteophyte at C5/C6.
+
+
+Final Report
+HISTORY: 60-year-old man with hypertension, presenting with
+acute loss of
+consciousness with headache and questionable seizure. Possible
+fall but no
+signs of acute trauma. Evaluate for possible cervical spine
+fracture.
+
+TECHNIQUE: Helical MDCT images were acquired from the skull base
+to the
+cervicothoracic junction. Multiplanar reformatted images were
+acquired.
+
+COMPARISON: No comparison is available.
+
+FINDINGS: There is no evidence of acute cervical fracture or
+subluxation.
+There is no prevertebral soft tissue swelling. The normal
+cervical lordosis is preserved. There is normal atlanto-axial
+alignment. There are multilevel chronic degenerative changes,
+most prominent at C5-6 with posterior osteophyte, causing mild
+spinal canal stenosis.
+
+In the visualized lung apices, there are mild paraseptal
+emphysematous changes and bilateral dependent atelectasis. There
+are an endotracheal tube and a nasogastric tube. There is
+secretion pooling in the dependent position of the posterior
+pharynx.
+
+IMPRESSION:
+1. No acute cervical fracture or subluxation.
+
+2. Prominent posterior osteophytosis at level C5/C6, which
+increases risk of spinal cord injury even in minor trauma.
+Recommend MRI if clinically
+concerned for cord trauma.
+
+ [**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]
+
+Neurophysiology Report EEG Study Date of [**2192-12-6**]
+
+
+
+OBJECT: EVALUATE FOR BRAIN ACTIVITY. THIS IS A DIGITAL EEG
+MONITORING
+WITH EKG AND VIDEO [**12-5**] - [**2192-12-6**]. THERE WERE NO PUSHBUTTON
+ACTIVATIONS.
+ROUTINE SAMPLING AND SPIKE AND SEIZURE DETECTION PROGRAMS WERE
+UTILIZED.
+
+
+REFERRING DOCTOR: DR. [**First Name (STitle) **] L. [**Doctor Last Name **]
+
+
+FINDINGS:
+ROUTINE SAMPLINGS: Showed a general suppression of the
+background with
+bursts of either generalized or left or right activity seen with
+a
+frequency of between 8 and 12 seconds. There were no
+epileptiform
+features seen.
+SLEEP: There were no normal sleep features seen.
+CARDIAC MONITOR: Showed a generally regular rhythm.
+SPIKE DETECTION PROGRAMS: Showed occasional sharp and slow wave
+complexes in the left frontal region.
+SEIZURE DETECTION PROGRAMS: There were 12 entries in this file.
+Showed
+no epielptiform features.
+PUSHBUTTON ACTIVATIONS: There were no pushbutton activations in
+this
+file.
+IMPRESSION: This telemetry captured no ongoing seizure activity.
+The
+background activity was suggestive of a burst-suppression
+pattern and
+occasional sharp and slow wave complexes were seen in the left
+frontal
+region.
+
+
+INTERPRETED BY: [**Last Name (LF) **],[**First Name3 (LF) **] L.
+
+(09-0137F)
+
+[**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]
+
+Radiology Report UNILAT UP EXT VEINS US LEFT PORT Study Date of
+[**2192-12-7**] 8:23 AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-B [**2192-12-7**] SCHED
+UNILAT UP EXT VEINS US LEFT PO   Clip # [**Clip Number (Radiology) 81931**]
+Reason: BRAIN HAEMORRHAGE ASSESS FOR DVT
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   60 year old man with
+REASON FOR THIS EXAMINATION:
+   r/o DVT
+
+
+
+Final Report
+HISTORY: 60-year-old male. Rule out DVT.
+
+COMPARISON: None available.
+
+FINDINGS: Grayscale and color son[**Name (NI) 493**] imaging of the left
+internal
+jugular, subclavian, axillary, basilic, and brachial veins was
+performed. The right subclavian vein was interrogated for
+comparison purposes. There is a dampened waveform appreciated in
+the left subclavian vein compared to the right, suggestive of
+central obstruction. In the remainder of the vessels; however,
+there is normal flow, compressibility, and augmentation. There
+is no intraluminal thrombus identified.
+
+IMPRESSION:
+1. Nonvisualization of the left internal jugular vein. This
+could be
+secondary to prior occlusion or aplasia.
+
+2. Dampened waveforms in the left subclavian vein compared to
+the right. This of uncertain clinical significance. If there is
+clinical concern for an SVC syndrome, further evaluation with
+MRV could be considered.
+
+3. No evidence for deep venous thrombosis in the left upper
+extremity.
+
+These findings were communicated to the referring physician, [**Last Name (NamePattern4) **].
+[**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 81932**] at 2:30 p.m. on [**2192-12-7**] by Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **].
+
+[**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]
+
+Radiology Report BILAT LOWER EXT VEINS PORT Study Date of
+[**2192-12-7**] 10:27 AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-B [**2192-12-7**] SCHED
+BILAT LOWER EXT VEINS PORT   Clip # [**Clip Number (Radiology) 81933**]
+Reason: BRAIN HAEMORRHAGE ASSESS FOR DVT
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   60 year old man with
+REASON FOR THIS EXAMINATION:
+   r/o dvt
+
+
+
+Provisional Findings Impression: AJy [*

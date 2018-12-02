@@ -1,0 +1,210 @@
+Admission Date:  [**2143-11-2**]              Discharge Date:   [**2143-11-5**]
+
+Date of Birth:  [**2075-9-29**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Norvasc
+
+Attending:[**First Name3 (LF) 7651**]
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+68 yo female w/ HTN, CRI (baseline 2.9), p/w SOB for the past
+week. She reports this began 3 weeks ago and slowly worsened
+until this morning when she felt extraodinarily SOB and
+"couldn't breath". She presented to [**First Name4 (NamePattern1) 2251**] [**Last Name (NamePattern1) **], where her BP
+222/150. She was given ASA 325, Lopressor 5mg IV x3, Lasix 180mg
+IV with 1 Liter UOP. She reported mild chest tightness, EKG with
+? evolving ST changes, CK 4.3, Trop 0.05. She was given
+morphine, heparin (bolus + gtt) and nitro gtt and transferred to
+[**Hospital1 18**].
+
+In ED, she was noted to be severely hypertensive - 200s/145,
+T97.7, HR 88, RR 21, 95%5L. Exam with diffuse wet crackles, 2+
+edema.  CXR done no pulmonary edema or consolidation. Trop 0.06,
+CK 132. Started on Lasix gtt and bolus of 120mg. Heparin and
+nitro gtt continued in ED prior to arrival in CCU.
+
+Taken from admission note
+
+Past Medical History:
+HTN
+Chronic renal sufficiency
+Borderline personality
+Glaucoma
+Hyperlipidemia
+Gout
+Hyperparathyroidism
+
+Social History:
+Lives in [**Location 3146**] alone.
+-Tobacco history: smokes 1 pack/week
+-ETOH: occasional (<1 drink/wk)
+-Illicit drugs:denies
+
+Family History:
+Pt does not know family history; reports "no family"
+
+
+Physical Exam:
+VS: T=98.6  BP=170/112 HR= 94 RR=12 O2 sat=99%RA
+GENERAL: Middle aged AA female in NAD. Oriented x3. Odd affect
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with JVP of 12 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g.
+LUNGS:  Resp were unlabored, no accessory muscle use. Crackles
+at bases bilaterally
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: 2+ edema at ankles, warm and well perfused
+extremities.
+SKIN: No stasis dermatitis
+PULSES:
+Right: Carotid 2+  DP 2+ PT 2+
+Left: Carotid 2+   2+ DP 2+ PT 2+
+NEURO: A&O x3, CN 2-12 grossly intact, Sensation intact
+throughout, Strength 5/5 in UE/LE equally
+
+Pertinent Results:
+[**2143-11-5**] 06:55AM BLOOD WBC-5.8 RBC-3.77* Hgb-10.3* Hct-32.0*
+MCV-85 MCH-27.2 MCHC-32.1 RDW-16.8* Plt Ct-236
+[**2143-11-2**] 02:05PM BLOOD PT-13.5* PTT-111.2* INR(PT)-1.2*
+[**2143-11-5**] 06:55AM BLOOD Glucose-96 UreaN-87* Creat-5.3* Na-138
+K-4.2 Cl-99 HCO3-23 AnGap-20
+[**2143-11-2**] 02:05PM BLOOD Glucose-110* UreaN-75* Creat-3.9* Na-132*
+K-4.5 Cl-98 HCO3-22 AnGap-17
+[**2143-11-2**] 08:58PM BLOOD CK(CPK)-112
+[**2143-11-3**] 04:46AM BLOOD proBNP-[**Numeric Identifier 7652**]*
+[**2143-11-2**] 08:58PM BLOOD CK-MB-4 cTropnT-0.06*
+[**2143-11-5**] 06:55AM BLOOD Mg-1.9
+[**2143-11-2**] 08:58PM BLOOD Triglyc-67 HDL-15 CHOL/HD-12.7
+LDLcalc-162* LDLmeas-<50
+
+CXR [**11-2**]:
+No evidence of pneumonia or CHF. Rounded opacities projecting
+over the right hilum may represent vascular structures or
+prominent lymph nodes. Lateral chest radiograph is recommended
+for further evaluation.
+
+ECHO [**11-4**]:
+The left atrium is elongated. Left ventricular wall thicknesses
+and cavity size are normal. There is mild regional left
+ventricular systolic dysfunction with inferior and inferolateral
+hypokinesis. Overall left ventricular systolic function is
+low-normal (LVEF= 50 %). Right ventricular chamber size and free
+wall motion are normal. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve leaflets are structurally
+normal. There is no mitral valve prolapse. Mild (1+) mitral
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. There is no pericardial effusion.
+
+IMPRESSION: Mild regional left ventricular dysfunction.
+
+
+Brief Hospital Course:
+68 yo female with history of HTN, hyperlipidemia and CRI who
+presented with hypertensive emergency and pulmonary edema.
+.
+HYPERTENSION: Pt presented with severe HTN, dypsnea and elevated
+JVP.  Neuro exam non-focal.  She appeared to be in volume
+overload, and was agressively diuresed with a lasix drip.  She
+was weaned off nitroglycerin gtt and her labetalol dose was
+increased.  These interventions brought her blood pressure under
+better control.  A repeat Echo showed ef of 50% and mild
+regional left ventricular dysfunction.
+
+CORONARY ARTERY [**Name (NI) 7653**] Pt was without symptoms of chest pain,
+EKG initially concerning for ST elevations/T wave abnl in V1-V3.
+Trop 0.06, Ck 132.  She was started on heparin, which was then
+stopped in light of negative enzymes.  She was continued on ASA.
+ A lipid panel was checked.
+
+Acute on Chronic Renal Failure- baseline appears to be 2.9, and
+was elevated to 3.9 on admission.  Cr rose to 5.3 on discharge.
+Cr elevation though to be related to poor forward flow
+
+#Gout- held allopurinol given renal failure
+
+# Borderline Personality- Continued haldol per home dose
+
+
+Medications on Admission:
+Allopurinol 100 mg once daily
+Lasix 80mg daily
+benztropine 1 mg b.i.d.
+Haldol 0.5 mg b.i.d.
+labetalol 200 mg b.i.d.
+aspirin 81 mg once daily
+
+Discharge Medications:
+1. Labetalol 300 mg Tablet Sig: Two (2) Tablet PO twice a day.
+Disp:*120 Tablet(s)* Refills:*2*
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Haloperidol 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+4. Benztropine 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+5. Furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO once a day.
+
+7. Outpatient Lab Work
+Please check BUN, creatinine, K on [**2143-11-8**] and call results to
+Dr. [**Last Name (STitle) 7654**] Phone: [**Telephone/Fax (1) 1144**] and Dr. [**Last Name (STitle) **]: ([**Telephone/Fax (1) 7655**]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Hypertensive Urgency
+Pulmonary Edema
+Acute on Chronic Renal Failure
+
+
+Discharge Instructions:
+You had very high blood pressure and fluid in your lungs. You
+received more Labetolol to control your blood pressure. Your
+kidney function is worse. It is important that you get an appt
+with Dr. [**Last Name (STitle) **] to assess your laboratory test results.
+.
+New medicines:
+.We increased your Furosemide to twice daily
+.We increased your Labetolol to 600mg twice daily
+.
+Please keep your follow up appt with Dr. [**Last Name (STitle) **], Dr. [**First Name (STitle) **] and
+Dr. [**Last Name (STitle) **].
+
+Please stop smoking. Information regarding smoking cessation was
+given to you on admission. This is the most important thing you
+can do for your health.
+
+Followup Instructions:
+Primary Care:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone: [**Telephone/Fax (1) 1144**] Date/Time:
+[**11-12**] at 11:00am.
+.
+Cardiology:
+Provider: [**First Name4 (NamePattern1) **] [**Name Initial (NameIs) **]. Phone: [**Telephone/Fax (1) 62**] Date.time:
+[**11-19**] at 3:20pm.
+.
+Nephrology:
+[**First Name8 (NamePattern2) 7656**] [**Name8 (MD) **], MD Phone:([**Telephone/Fax (1) 7655**]  Please call your
+nephrologist to schedule an appointment in the next 1-2 weeks.
+
+
+
+Completed by:[**2143-11-16**]

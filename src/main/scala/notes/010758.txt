@@ -1,0 +1,193 @@
+Admission Date:  [**2145-12-9**]              Discharge Date:   [**2145-12-16**]
+
+Date of Birth:  [**2097-8-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Bactrim Ds / Indomethacin / Linezolid
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+found down
+
+Major Surgical or Invasive Procedure:
+Intubated; extubated successfully
+
+
+History of Present Illness:
+48 y.o. M with h/o AIDS (CD 4 105 [**11-13**]), HCV, asthma, h/o TB,
+h/o PCP, [**Name10 (NameIs) 1023**] was found down today by VNA [**12-9**] sitting in urine
+"indian" style.  Unknown down time, patient was last seen on
+[**2145-12-6**].  Patient was responsive to touch with grimaces, but
+not following comands.  [**Name (NI) 1094**] brother was [**Name (NI) 653**] and full code
+was confirmed in ED, along with confirmation by PCP.  [**Name10 (NameIs) **]
+was subsequently intubated after Etomidate/Succinylcholine.
+Patient's VS were 96.8, patient was placed on bearhugger, they
+were 101.6 upon transfer to the MICU.  Patient's HR was 122
+initially, after given 1 L NS, then 3 L LR, and his HR was down
+to 60-70s.  His SBP remained in 140s-160s.  Patient was
+oxygenating well on 2L (100%) but was intubated for airway
+protection.  Patient was started on propofol gtt for
+precautions.  He was started on vanco/zosyn/CTX.
+Patient of note recently admitted on [**11-30**] to [**12-2**] after being
+found down, however patient left after full completion of
+medical therapy.  It is very likely that he is noncompliant with
+his medications.
+Patient in ED had a L IJ placed, RIJ was attempted but was
+complicated by R carotid puncture.  Patient subsequently has a 6
+cm hematoma on the R side.  His CTA is also concerning for
+possible opportunistic infectious including TB.
+ROS: patient unable to provide.
+
+Past Medical History:
+1. HIV/AIDS - last CD4 105, VL > 100,000 on [**11-13**], off HAART
+because of suicidality and depression, on dapsone ppx for PCP [**Name Initial (PRE) **]
+[**Name10 (NameIs) 1095**] noncompliant
+2. Hepatitis C
+3. Asthma
+4. h/o Tuberculosis ([**2129**], now resolved)
+5. h/o PCP x 2
+6. h/o pericarditis ([**2139**])
+7. h/o pneumococcal pneumonia with bacteremia ([**11-10**])
+8. h/o LLL pneumonia ([**12-11**])
+9. h/o MAC on BAL ([**5-11**])
+10. h/o Neuropathy, thought [**1-8**] HIV
+11. Disseminated herpes zoster [**2144**]
+12. ? depression.
+13. h/o pseudomonal pneumonia (+BAL- pan sensitive)
+
+Social History:
++smoker-- <1 ppd X 25 years, + h/o IVDA in past, + MJ 3
+marajuanas per week, No etoh per pt. sexually active
+"occasionally" with one [**Last Name (un) 1063**], same partner for the last 4
+years.
+
+Family History:
+NC
+
+Physical Exam:
+Physical Exam: 101.5  122  111/87  19  100%  50%/500x 14 5
+GENERAL: frail, cachectic appearing male, comfortable, no
+responding to pain, temporal wasting
+HEENT: neck collar, R hematoma ~ 3 cm.
+CV: tachycardic, dynamic precordium, no extra HS appreciated
+LUNGS: CTAB/l, no focal findings appreciated, good air movement
+b/l
+ABDOMEN: + BS, snt/nd, no guarding
+EXTREMITIES: no edema, several bruises on b/l lower extremities,
++ 1 DP b/l
+Neuro: responds to painful stimuli, does not follow commands,
+opens eyes to pain, no blink reflex
+
+Pertinent Results:
+[**2145-12-9**] 01:00PM   PT-14.5* PTT-29.6 INR(PT)-1.3*
+[**2145-12-9**] 01:00PM   PLT SMR-NORMAL PLT COUNT-337
+[**2145-12-9**] 01:00PM   WBC-9.0# RBC-4.60# HGB-14.9# HCT-45.3#
+MCV-99* MCH-32.5* MCHC-33.0 RDW-14.6
+[**2145-12-9**] 01:00PM   NEUTS-53 BANDS-4 LYMPHS-35 MONOS-8 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2145-12-9**] 01:00PM   CALCIUM-10.5* PHOSPHATE-6.9*# MAGNESIUM-3.0*
+[**2145-12-9**] 01:00PM   cTropnT-0.03*
+[**2145-12-9**] 01:00PM   LIPASE-37
+[**2145-12-9**] 01:00PM   ALT(SGPT)-82* AST(SGOT)-113* CK(CPK)-3996*
+ALK PHOS-58 AMYLASE-139* TOT BILI-0.8
+[**2145-12-9**] 01:00PM   GLUCOSE-142* UREA N-89* CREAT-1.6*
+SODIUM-160* POTASSIUM-3.4 CHLORIDE-121* TOTAL CO2-22 ANION
+GAP-20
+[**2145-12-9**] 01:07PM   LACTATE-4.8* K+-3.8
+[**2145-12-9**] 01:16PM   LACTATE-3.4*
+[**2145-12-9**] 01:50PM   AMMONIA-21
+[**2145-12-9**] 05:37PM   ACETMNPHN-NEG
+
+[**2145-12-9**] 08:59PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS
+cocaine-NEG mthdone-NEG
+[**2145-12-9**] 09:04PM   ASA-5 ETHANOL-NEG bnzodzpn-NEG barbitrt-NEG
+tricyclic-NEG
+studies:
+CT abd/pelvis [**2145-12-9**]: 1. Nodular opacities within a
+bronchovascular distribution most notable in the left lung base
+and less so on the right most consistent with aspiration
+pneumonia given clinical history. However given
+immunocompromised status atypical infections including
+tuberculosis must be considered and respirtory precautions
+advised.  2. Cystic pancreatic tail lesion also noted on study
+from [**2141**] without detectable change.  3. Generalized cachexia,
+likely AIDS-wasting syndrome
+.
+CT C-spine [**2145-12-9**]: 1. Right supraclavicular fossa hematoma
+corresponding with recent central venous line attempt in this
+location.  2. No evidence of acute fracture or dislocation.  3.
+Partially imaged right apical opacity and right apical
+subpleural blebs.
+.
+CT head [**2145-12-9**]: 1. No acute hemmorage or mass effect.  2. Mild
+cerebral atrophy which is not age appropriate consistent with
+HIV encephalopathy.  3. Confluent regions of hypoattenuation in
+the deep white matter which is unchanged from [**Month (only) 1096**] yet new
+since [**2141**]. While this may represent sequlae of HIV
+encephalopathy, an underlying infectious etiology such as PML
+may be considered and an MRI may be helpful.
+.
+CXR [**2145-12-9**]: IMPRESSION:
+1. Slightly low lying ET tube, approximately 3 cm above the
+carina. This could be withdrawn slightly.
+2. Small, patchy opacities at the left lung base which appear to
+correspond to tree-in-[**Male First Name (un) 239**] opacities seen on previous chest CT
+.
+MRI head [**2145-12-10**]: 1. No evidence of bacterial or fungal
+infection. However, extensive white matter hyperintensity is
+often found in patients with HIV encephalopathy.  2. Several
+foci of apparent infarction or encephalitis in the corpus
+callosum raise the possibility of meningitis.
+.
+Echo [**2145-12-13**]: The left atrium is normal in size. Left ventricular
+wall thicknesses and cavity size are normal. Regional left
+ventricular wall motion is normal. Left ventricular systolic
+function is hyperdynamic (EF>75%). A 24mmHg peak mid-cavitary
+gradient is identified. Right ventricular chamber size and free
+wall motion are normal. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve appears structurally normal with
+trivial mitral regurgitation. There is no mitral valve prolapse.
+There is mild pulmonary artery systolic hypertension. There is
+no pericardial effusion.
+.
+Compared with the prior study (images reviewed) of [**2144-2-6**],
+left ventricular systolic function is now dynamic with a higher
+heart rate and mild resting mid-cavitary gradient.
+Is there a history to suggest a high output state (e.g.,
+thiamine deficiency, hyperthyroidism, anemia, fever, etc.?
+.
+CT chest w/o contrast [**2145-12-16**]:
+.
+.
+Micro:
+** Blood cultures [**2145-12-9**], 2 sets - No growth final
+** Blood fungal culture [**2145-12-9**] - No Growth (preliminary)
+** Urine legionella [**2145-12-9**] - negative
+** Blood for Cryptococcal Ag [**2145-12-9**] - negative
+** TOXOPLASMA IgG ANTIBODY (Final [**2145-12-10**]):
+      EQUIVOCAL FOR TOXOPLASMA IgG ANTIBODY BY EIA.
+      4 IU/ML.
+      Reference Range:  Negative < 4 IU/ml, Positive >= 8 IU/ml.
+
+
+   TOXOPLASMA IgM ANTIBODY (Final [**2145-12-10**]):
+      NEGATIVE FOR TOXOPLASMA IgM ANTIBODY BY EIA.
+** CMV [**2145-12-9**]  - positive for IgG, negative for IgM, viral load
+undetectable
+** Sputum [**2145-12-9**] -
+      SPARSE GROWTH OROPHARYNGEAL FLORA.
+      Due to mixed bacterial types ( >= 3 colony types) an
+abbreviated
+      workup will be performed appropriate to the isolates
+recovered from
+      this site.
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.
+         WORK-UP IDENTIFICATION AND SENSITIVITIES PER DR.[**First Name (STitle) **]
+PAGER [**Numeric Identifier 1097**]
+         [**2145-12-13**].
+      YEAST.    SPARSE GROWTH.
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+      PSEUDOMONAS AERU

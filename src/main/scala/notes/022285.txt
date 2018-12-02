@@ -1,0 +1,201 @@
+Admission Date:  [**2114-6-13**]              Discharge Date:   [**2114-7-26**]
+
+Date of Birth:  [**2045-2-17**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Amoxicillin
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+abdominal aortic aneurysm
+
+Major Surgical or Invasive Procedure:
+[**2114-6-13**] open retroperitoneal AAA repair
+[**2114-6-13**] exploratory laparotomy, splenectomy
+[**2114-6-29**] retroperitoneal exploration, evacuation of hematoma,
+bronchoscopy
+[**2114-7-17**] tunneled hemodialysis catheter placement
+[**2114-7-21**] PEG tube placement
+
+
+History of Present Illness:
+[**Known firstname **] [**Known lastname 41841**] is a 69-year-old patient of Dr. [**Last Name (STitle) 2903**] who presents
+for evaluation of an aortic aneurysm recently discovered.  She
+has a twin sister with both cerebral and abdominal aortic
+aneurysm and had treatments.  She also has other sisters and
+family members with aneurysms.  No early ruptures that I was
+aware of.  Over the last few months, she describes as a beating
+sensation in her abdomen.  Dr. [**Last Name (STitle) 2903**] examined her and ordered a
+CT scan and identified the aneurysm.  In addition, she has had
+some weight loss about 18 lbs over the last year.  It is not
+clear why.  She has no food fear.  She has no pain when she
+eats.  She does have some depression and thinks as a part of it.
+
+Past Medical History:
+PMH: Hypertension, COPD, depression/anxiety, high cholesterol,
+chronic renal insufficiency.
+PSH: TAH.
+
+Social History:
+Alcohol, occasionally.  Tobacco, stopped a week ago, smoked a
+pack a day for 50 years.  She is retired waitress. G2, P2.
+Widowed with 2 adult children, grandchildren,
+great-grandchildren.
+
+
+Family History:
+unknown
+
+Physical Exam:
+She is a thin female in no acute distress. Carotids are 2+
+without bruit. Lungs are clear. Heart is regular rate and
+rhythm. Neck is supple. Thyroid is without
+masses. Neuro is grossly intact.
+
+Peripheral vascular exam:  Palpable femoral, popliteal and
+dorsalis pedis pulses bilaterally.  Palpable radial and brachial
+pulses bilaterally.
+
+
+Pertinent Results:
+Hematocrit drop following AAA repair, secondary to splenic lac.
+[**2114-6-13**] 08:07PM BLOOD Hct-25.7*
+[**2114-6-13**] 08:32PM BLOOD Hct-18.6*#
+
+Rising WBC:
+[**2114-6-19**] 02:24AM BLOOD WBC-10.5 RBC-3.69* Hgb-11.0* Hct-32.8*
+MCV-89 MCH-29.7 MCHC-33.5 RDW-18.1* Plt Ct-169
+[**2114-6-20**] 02:05AM BLOOD WBC-12.0* RBC-3.74* Hgb-11.3* Hct-33.0*
+MCV-88 MCH-30.1 MCHC-34.1 RDW-17.8* Plt Ct-209
+[**2114-6-21**] 03:00AM BLOOD WBC-14.7* RBC-3.58* Hgb-10.6* Hct-32.3*
+MCV-90 MCH-29.5 MCHC-32.7 RDW-17.7* Plt Ct-262
+[**2114-6-22**] 02:42AM BLOOD WBC-18.3* RBC-3.62* Hgb-10.6* Hct-32.2*
+MCV-89 MCH-29.2 MCHC-32.8 RDW-17.8* Plt Ct-371
+[**2114-6-22**] 11:36AM BLOOD WBC-17.7* RBC-3.58* Hgb-10.4* Hct-32.5*
+MCV-91 MCH-29.1 MCHC-32.1 RDW-17.7* Plt Ct-371
+[**2114-6-23**] 02:56AM BLOOD WBC-21.1* RBC-3.34* Hgb-9.8* Hct-30.2*
+MCV-90 MCH-29.4 MCHC-32.6 RDW-17.9* Plt Ct-439
+
+[**2114-6-19**] 2:47 am SPUTUM CULTURE    Source: Endotracheal.
+
+                            **FINAL REPORT [**2114-6-22**]**
+
+   GRAM STAIN (Final [**2114-6-19**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2114-6-22**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      KLEBSIELLA PNEUMONIAE.    MODERATE GROWTH.
+      PSEUDOMONAS SPECIES.    SPARSE GROWTH.  PSEUDOMONAS
+ORYZIHABITANS.
+         sensitivity testing performed by Microscan.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          PSEUDOMONAS SPECIES
+                             |          |
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S          S
+CEFTAZIDIME-----------   <=1 S      <=2 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------<=0.25 S    <=0.5 S
+GENTAMICIN------------   <=1 S      <=1 S
+IMIPENEM--------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S          S
+PIPERACILLIN----------              <=8 S
+PIPERACILLIN/TAZO-----   <=4 S      <=8 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+[**2114-6-27**] 11:46 am URINE CULTURE     Source: Catheter.
+
+                            **FINAL REPORT [**2114-6-28**]**
+
+   URINE CULTURE (Final [**2114-6-28**]):
+      YEAST.    >100,000 ORGANISMS/ML..
+
+Hematocrit drop secondary to retroperitoneal hematoma.
+[**2114-6-28**] 12:16PM BLOOD Hct-28.2*
+[**2114-6-29**] 12:22AM BLOOD Hct-16.7*
+
+Rising creatinine secondary to ARF.
+[**2114-6-13**] 03:08PM BLOOD Glucose-86 UreaN-17 Creat-1.3* Na-138
+K-4.5 Cl-114* HCO3-21* AnGap-8
+[**2114-6-14**] 03:52PM BLOOD Glucose-84 UreaN-19 Creat-1.6* Na-142
+K-4.4 Cl-118* HCO3-21* AnGap-7*
+[**2114-6-15**] 03:26AM BLOOD Glucose-124* UreaN-21* Creat-1.7* Na-146*
+K-4.0 Cl-116* HCO3-23 AnGap-11
+[**2114-6-15**] 09:32PM BLOOD Glucose-100 UreaN-25* Creat-2.1* Na-143
+K-4.1 Cl-111* HCO3-24 AnGap-12
+[**2114-6-16**] 04:18AM BLOOD Glucose-94 UreaN-28* Creat-2.2* Na-142
+K-3.9 Cl-111* HCO3-23 AnGap-12
+[**2114-6-17**] 07:51PM BLOOD Glucose-113* UreaN-39* Creat-2.4* Na-141
+K-3.9 Cl-112* HCO3-22 AnGap-11
+[**2114-6-20**] 02:05AM BLOOD Glucose-120* UreaN-50* Creat-2.6* Na-138
+K-4.2 Cl-107 HCO3-22 AnGap-13
+[**2114-7-1**] 02:59AM BLOOD Glucose-145* UreaN-101* Creat-2.8* Na-144
+Cl-109* HCO3-25
+[**2114-7-2**] 03:07AM BLOOD Glucose-97 UreaN-112* Creat-3.0* Na-146*
+K-4.0 Cl-110* HCO3-24 AnGap-16
+[**2114-7-2**] 05:56PM BLOOD UreaN-118* Creat-3.2* K-4.6
+[**2114-7-3**] 01:59AM BLOOD Glucose-140* UreaN-123* Creat-3.3* Na-142
+K-4.5 Cl-107 HCO3-22 AnGap-18
+[**2114-7-3**] 03:08PM BLOOD UreaN-130* Creat-3.5* K-4.7
+[**2114-7-4**] 02:56AM BLOOD Glucose-126* UreaN-137* Creat-3.7* Na-140
+K-4.4 Cl-105 HCO3-22 AnGap-17
+[**2114-7-5**] 03:14AM BLOOD Glucose-95 UreaN-148* Creat-4.1* Na-138
+K-4.4 Cl-103 HCO3-22 AnGap-17
+[**2114-7-6**] 04:28AM BLOOD Glucose-96 UreaN-146* Creat-4.3* Na-136
+K-4.5 Cl-100 HCO3-21* AnGap-20
+[**2114-7-7**] 03:07AM BLOOD Glucose-105 UreaN-149* Creat-4.6* Na-137
+K-4.4 Cl-100 HCO3-19* AnGap-22*
+[**2114-7-8**] 03:59AM BLOOD Glucose-121* UreaN-151* Creat-5.0* Na-137
+K-4.1 Cl-99 HCO3-18* AnGap-24
+[**2114-7-8**] 02:33PM BLOOD Glucose-107* UreaN-154* Creat-5.2* Na-135
+K-4.3 Cl-97 HCO3-20* AnGap-22
+
+Brief Hospital Course:
+On [**6-13**], patient underwent open abdominal aortic aneurysm repair
+with Dacron
+graft via a retroperitoneal approach.  During the procedure, she
+had mobilization of her left kidney and spleen over the aorta
+and retracted to allow access to the
+supraceliac aorta. The case proceeded very smoothly and the
+patient was taken to the recovery room and kept intubated.
+Initially the patient appeared to be hypovolemic and was given a
+combination of fluid and blood and stabilized. She was not on
+pressors at the time. Later in the evening, a hematocrit came
+back at 25. She was given 2 units of blood and was still very
+stable, making urine with no acidosis. However, she became more
+distended and the decision was made to return her to the
+operating room for exploratory laparotomy.  The spleen was found
+to have a significant laceration and was thus removed.  She had
+Cell [**Doctor Last Name **] and multiple transfusions intraoperatively.  She was
+taken to the ICU afterwards.
+
+On [**6-15**], she began to have bursts of afib with rate up to 140s.
+IV heparin, lopressor, and amiodarone were started as per
+Cardiology recs.  These episodes continued throughout her
+hospitalization despite treatment.
+
+Vanco was started on [**6-16**] for wound leakage.  Cefepime was added
+on [**6-21**] when her WBC rose to 18.3 from 14.7.  WBC further
+increased to 21 on [**6-23**].  A CT chest/abdomen was performed to
+look for a source of infection; none was found.  Sputum cultures
+drawn [**6-19**] grew Pseudomonas & Klebsiella.  Cipro was added on
+[**6-25**].  Urine cultures from [**6-27**] grew yeast, and caspofungin was
+added.
+
+She was extubated on [**6-26**].
+
+On [**6-27**], the [**Doctor Last Name 406**] drain was removed.
+
+On [**6-29**], patient's Hct dropped from 2

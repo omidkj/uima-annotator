@@ -1,0 +1,226 @@
+Admission Date:  [**2108-2-28**]              Discharge Date:   [**2108-3-15**]
+
+Date of Birth:  [**2037-10-7**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+increased SOB, lower extremity edema
+
+Major Surgical or Invasive Procedure:
+AVR (25mm [**First Name8 (NamePattern2) **] [**Male First Name (un) **] tissue), CABGx3(SVG>PDA, SVG>LAD, SVG>Diag)/
+Lt CEA [**3-8**]
+tooth extraction [**3-3**]
+
+
+History of Present Illness:
+70 yo M who has not received medical care for most of his life
+presented to ED on [**2-23**] with SOB, edema. Received lasix gtt with
+some relief, cath at OSH with 2 VD, ech  with AS and EF 10%.
+
+Past Medical History:
+DM, ischemic cardiomyopathy-new dx, etoh abuse, s/p cyst removal
+from tailbone as child
+
+Social History:
+worked in plumbing and heating
+quit tobacco [**2060**]
+quit etoh 25 years ago
+
+Family History:
+NC
+
+Physical Exam:
+NAD HR 86, R 14 BP 87/56
+HEENT teeth in poor repair
+Lungs decreased t/o
+Heart RRR 2/6 SEM
+Abdomen benign
+Extrem with 1+ edema to knees
+No varicose veins, 1+ dp/pt pulses
+Left carotid with loud bruit
+
+Pertinent Results:
+[**2108-3-15**] 06:55AM BLOOD WBC-9.7 RBC-3.44* Hgb-9.7* Hct-30.0*
+MCV-87 MCH-28.0 MCHC-32.2 RDW-17.1* Plt Ct-319
+[**2108-3-15**] 06:55AM BLOOD Plt Ct-319
+[**2108-3-13**] 07:15AM BLOOD PT-14.9* INR(PT)-1.3*
+[**2108-3-15**] 06:55AM BLOOD Glucose-128* UreaN-26* Creat-1.5* Na-140
+K-4.2 Cl-101 HCO3-29 AnGap-14
+[**2108-3-13**] 07:15AM BLOOD Glucose-137* UreaN-36* Creat-2.0* Na-134
+K-4.2 Cl-99 HCO3-26 AnGap-13
+[**2108-3-12**] 01:15PM BLOOD UreaN-33* Creat-1.9* K-4.9
+
+CHEST (PA & LAT)  [**2108-3-14**] 2:35 PM
+
+CHEST (PA & LAT)
+
+Reason: eval for pleural effusions
+
+[**Hospital 93**] MEDICAL CONDITION:
+70 year old man s/p AVR CABG
+REASON FOR THIS EXAMINATION:
+eval for pleural effusions
+
+PROCEDURE: Chest PA and lateral on [**2108-3-14**].
+
+COMPARISON: [**2108-3-12**].
+
+HISTORY: 70-year-old man status post AVR and CABG, evaluate for
+pleural effusions.
+
+FINDINGS: In the interim, there is a gradual decrease in the
+bilateral pleural effusions with gradual decrease in the
+bibasilar lower lobe atelectasis. Persistent stable
+cardiomegaly. There is no evidence of pulmonary edema.
+
+IMPRESSION:
+1. Gradual decrease in the bilateral bibasilar pleural effusions
+which are small to moderate on today's examination along with
+gradual decrease of the bilateral bibasilar lower lobe
+atelectasis.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 77685**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 77686**] (Complete)
+Done [**2108-3-8**] at 9:22:59 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2037-10-7**]
+Age (years): 70 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: CABG/AVR
+ICD-9 Codes: 428.0, 402.90, 435.9, 786.05, 786.51, 799.02,
+440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2108-3-8**] at 09:22    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW-1: Machine: [**Pager number **]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *7.5 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  10% to 15%  >= 55%
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.5 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *2.8 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *30 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  23 mm Hg
+Aortic Valve - LVOT pk vel:  0.50 m/sec
+Aortic Valve - LVOT diam:  2.2 cm
+Aortic Valve - Valve Area:  *0.7 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum.
+
+LEFT VENTRICLE: Severely depressed LVEF.
+
+RIGHT VENTRICLE: Severe global RV free wall hypokinesis.
+
+AORTA: Normal ascending aorta diameter. Simple atheroma in
+descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Severe AS (AoVA
+<0.8cm2). Mild (1+) AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Moderate (2+) MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications.
+
+Conclusions
+Pre-CPB: No spontaneous echo contrast is seen in the left atrial
+appendage. Overall left ventricular systolic function is
+severely depressed (LVEF= 10 - 15%). RV also with severe global
+free wall hypokinesis. There are simple atheroma in the
+descending thoracic aorta. There are three aortic valve
+leaflets. The aortic valve leaflets are severely
+thickened/deformed. There is severe aortic valve stenosis (area
+<0.8cm2). Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are moderately thickened. Moderate (2+) mitral
+regurgitation is seen. There is no pericardial effusion.
+
+Post- CPB: The patient is in SR, with infusions of milrinone and
+epinephrine.
+A well-seated and functioning aortic valve prosthesis is seen,
+with no AI, and no perivalvular leak. Mean gradient is 15.
+Aorta intact.
+MR is 1+.
+Biventricular systolic fxn is still moderately depressed.
+
+
+Brief Hospital Course:
+He was admitted to cardiac surgery. Carotid duplex showed Left
+CCA stenosis of 80-99%, he was seen by vascular surgery. CT scan
+showed very calcified aortic arch and carotid arteries and CEA
+was recommended. He was seen by dentistry and tooth extraction
+was recommended. He underwent 1 tooth extraction on [**3-4**]. On
+[**3-8**] he was taken to the operating room where he underwent an
+AVR, CABG x 3 and Left CEA. He was transferred to the ICU in
+critical but stable condition on epinephrine, nitroglycerine,
+and milrinone. He was extubated on POD #1. He was weaned from
+his milrinone over several days and transferred to the floor on
+POD #3. He required extensive diuresis. he was seen by [**Last Name (un) **]
+for preoperative HbA1c of 9 and uncontrolled diabetes postop. He
+was started on lantus and humalog sliding scale. He was seen by
+PT and cleared for home over several days. He was ready for
+discharge on POD #7.
+
+Medications on Admission:
+aspirin
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+5. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*0*
+6. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+7. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+8. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units
+Subcutaneous at bedtime.
+Disp:*qs 1 month* Refills:*0*
+9. Insulin Lispro 100 unit/mL Solution Sig: sliding scale
+Subcutaneous four times a day.
+Disp:*qs 1 month* Refills:*0*
+10. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day for 10
+days: then 40 mg da

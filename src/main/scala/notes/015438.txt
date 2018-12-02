@@ -1,0 +1,220 @@
+Admission Date:  [**2197-2-4**]              Discharge Date:   [**2197-2-7**]
+
+Date of Birth:  [**2113-4-18**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ace Inhibitors
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+diarrhea
+
+Major Surgical or Invasive Procedure:
+central line placed
+intubation
+
+History of Present Illness:
+EAST HOSPITAL MEDICINE ATTENDING ADMISSION NOTE
+
+Date: [**2197-2-5**]
+Time: 00:30
+PCP: [**Name10 (NameIs) **], [**Name11 (NameIs) 449**] [**Name Initial (NameIs) **]. [[**Hospital3 **] [**Hospital Ward Name 23**]]
+
+
+The patient is an 83 y/o female with h/o Afib on coumadin, CHF,
+HTN, rheumatic HD who was recently admitted ([**Date range (3) 13547**])
+for abdominal pain s/p perc chole tube placed [**2197-1-27**] for acute
+cholecystitis and Mirrizzi syndrome. She now p/w diarrhea. She
+reports a 3d h/o worsening diarrhea and a fever to 101.0 today
+while at home. She describes the diarrhea as foul smelling and
+occuring four times per day, but did not notice any blood in her
+stool. She denies N/V/dysuria and any other symptoms. Of note,
+on her last admission, she was placed on unasyn and then
+narrowed to cipro when blood and bile cultures grew out E. coli.
+This course was to end [**2197-2-11**].
+
+Upon review of OMR, blood ([**2197-1-26**]) and fluid (bile; [**2197-1-30**])
+cultures grew E. coli resistant to ampicillin and unasyn.
+
+
+In ER:
+VS: 98.8 80 170/66 18 98%RA
+PX: irreg irreg CV exam, guiac neg, green fluid in perc drain
+Studies: sent for C. diff/stool cx
+Fluids given: 1L NS
+Meds given: Ciprofloxacin IV 400mg
+Consults called: Surgery: No surgical indications
+VS prior to transfer to the floor: 77 19 145/57 100%RA
+
+
+Review of Systems:
+(+) Per HPI
+(-) Denies night sweats, recent weight loss or gain. Denies
+visual changes, headache, dizziness, sinus tenderness, neck
+stiffness, rhinorrhea, congestion, sore throat or dysphagia.
+Denies chest pain or tightness, palpitations, orthopnea, dyspnea
+on exertion. Denies cough, shortness of breath, wheezes or
+pleuritic pain. Denies nausea, vomiting, heartburn,
+constipation, BRBPR, melena, or abdominal pain. No dysuria,
+urinary frequency. Denies arthralgias or myalgias. Denies
+rashes. No increasing lower extremity swelling. No
+numbness/tingling or muscle weakness in extremities. No feelings
+of depression or anxiety. All other review of systems negative.
+
+
+
+
+Past Medical History:
+CKD, Stage IV, baseline Cr 2-2.3
+Chronic atrial fibrillation on anti-coagulation
+HTN
+Diastolic dysfunction, mild systolic dysfunction
+Rheumatic heart disease involving mitral valve with subsequent
+mild MS and 2+ MR, AI
+Hypothyroidism
+Pulmonary Hypertension (TR gradient 61 on TTE in [**2191**])
+OA - knees
+
+
+Social History:
+Lives with son, [**Name (NI) **], who was admitted this weekend for a
+UTI, and performs her ADLs independently.  Denies tobacco, EtOH
+or drug use.
+
+
+Family History:
+Mother died traumatically at age 23.  Father died of stomach
+cancer at age 51.  No brothers or sisters.
+
+Physical Exam:
+VS: 98.7 157/73 71 20 100%RA, 0/10 pain
+
+GEN: No apparent distress
+HEENT: no trauma, pupils round and reactive to light and
+accommodation, no LAD, oropharynx clear, no exudates
+CV: regular rate and rhythm, no murmurs/gallops/rubs
+PULM: clear to auscultation bilaterally, no
+rales/crackles/rhonchi
+GI: soft, non-tender, non-distended; no guarding/rebound; obese;
+perc chol tube in place draining bilious fluid
+EXT: 2+ pitting leg edema B; no clubbing/cyanosis; 2+ distal
+pulses; peripheral IV present
+NEURO: Alert and oriented to person, place and situation; CN
+II-XII intact, [**5-18**] motor function globally
+DERM: no lesions appreciated
+
+
+
+Pertinent Results:
+[**2197-2-4**] 08:20PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.011
+[**2197-2-4**] 08:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-150
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2197-2-4**] 08:20PM URINE  RBC-0-2 WBC-0 BACTERIA-OCC YEAST-NONE
+EPI-0-2
+[**2197-2-4**] 08:20PM URINE  AMORPH-FEW
+[**2197-2-4**] 06:45PM   GLUCOSE-87 UREA N-26* CREAT-2.2* SODIUM-137
+POTASSIUM-3.8 CHLORIDE-106 TOTAL CO2-21* ANION GAP-14
+[**2197-2-4**] 06:45PM   ALT(SGPT)-14 AST(SGOT)-23 ALK PHOS-103 TOT
+BILI-0.6
+[**2197-2-4**] 06:45PM   LIPASE-86*
+[**2197-2-4**] 06:45PM   WBC-9.8 RBC-3.18* HGB-8.4* HCT-26.1* MCV-82
+MCH-26.5* MCHC-32.4 RDW-16.1*
+[**2197-2-4**] 06:45PM   NEUTS-75.5* LYMPHS-19.2 MONOS-4.2 EOS-0.6
+BASOS-0.6
+[**2197-2-4**] 06:45PM   PLT COUNT-286
+.
+Stool Cx [**2-4**]-CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final
+[**2197-2-5**]):
+      REPORTED BY PHONE TO [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], R.N. ON [**2197-2-5**] AT 0515.
+      CLOSTRIDIUM DIFFICILE.
+         FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+           (Reference Range-Negative).
+         A positive result in a recently treated patient is of
+uncertain
+         significance unless the patient is currently
+symptomatic
+         (relapse).
+
+
+Brief Hospital Course:
+Pt is an 83 y.o female with h.o afib on Coumadin, CKD, HTN,
+diastolic dysfxn/systolic dysfxn 25-30%, RHD, hypothyroidism,
+PHTN recent cholecystitis s/p perc chole, e.coli bacteremia/bile
+who presented with watery diarrhea while on cipro.
+.
+#fever/C.diff colitis-likely precipitated by recent cipro usage.
+Pt with positive C.diff toxin. Pt was tx with PO flagyl. IVF
+were given due to appearing dry on exam.
+.
+#s/p perc Chole for cholecystitis (recent E.coli
+bacteremia/bile). General surgery were made aware of admission.
+Perc Tube was placed to gravity. Cipro held due to c. diff. Pt
+had compelted 10 days of tx.
+.
+#afib on Coumadin-Was rate controlled. Therapeutic INR. Pt was
+continued on BB, CCB, and Coumadin.
+.
+#HTN-continued carvedilol and losartan.
+.
+#CKD-baseline Cr 2-2.7.
+
+#normocytic anemia-baseline 21-27 recently. Stable during
+admission with no signs of active bleeding. On Aranesp ast
+outpt.
+.
+#chronic systolic HF-pt with LE edema but clear lungs and dry
+MM. Continued on BB, losartan, simvastatin. Metolazone for now
+given diarrhea.
+.
+On [**2197-2-6**], Pt was found unresponsive in cardiac arrest at
+8:02pm on the floor, a code was called. CPR was started and pt
+was in PEA arrest. Pt was given epinephrine x 3, atropine x 2,
+bicarb x 2amps, mag x 2g, dextrose x 1 amp. Pt was intubated and
+femoral line was placed. Pt was given started on levo and neo
+gtts at max dose. IVF were given wide open.  Pt became minimally
+responsive and tried to pull at ET tube, no pulse was felt, SBP
+was briefly at 60. Pt was moved to [**Hospital Unit Name 153**]. On arrival pt went into
+VT and was unresponsive. CPR was resumed. Pt was shocked at 200
+Joules and went into PEA arrest. Pt was given atropine x 1,
+epinephrine x 3, bicarb x 2, mag x 2g, cal x 2grams. Pt did not
+regain a pulse and CPR was stopped at 9pm. Family were at the
+bedside and declined autopsy. HMED Dr.[**First Name4 (NamePattern1) 1439**] [**Last Name (NamePattern1) **] was present
+during the code. ICU attending was notified. Death examination
+was at 9:15pm. Pt chief cause of death was sCHF, immediate cause
+was cardiac dysrrythmia, and other causes were cholecystitis
+with recent percutaneous chole tube, c. diff diarrhea, and a
+fib. Pt case was reported to the medical examiner due to recent
+procedure (tube placement).
+
+
+
+
+
+
+Medications on Admission:
+1. diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+2. carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID
+3. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+4. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+5. metolazone 2.5 mg Tablet Sig: One (1) Tablet PO DAILY
+6. Hectorol 2.5 mcg Capsule Sig: One (1) Capsule PO every
+Mon-Wed-Fri.
+7. Vitamin D 50,000 unit One Capsule PO once a week.
+8. Aranesp (polysorbate) 60 mcg/0.3 mL One injection Injection
+once a month.
+9. Combivent 18-103 mcg/Actuation Aerosol One puff Inh QID prn
+sob or wheeze.
+10. losartan 100 mg One (1) Tablet PO once a day.
+11. Coumadin 5 mg [**1-15**] Tablet PO once a day
+12. ciprofloxacin 500 mg 1.5 Tablets PO Q24H thru [**2197-2-11**].
+13. omeprazole 20 mg (E.C.) One Capsule PO twice a day.
+
+
+Discharge Medications:
+none
+
+Discharge Disposit

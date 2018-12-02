@@ -1,0 +1,188 @@
+Admission Date:  [**2130-5-2**]              Discharge Date:   [**2130-5-4**]
+
+Date of Birth:  [**2049-7-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+Shortness of breath.
+
+Major Surgical or Invasive Procedure:
+Arterial monitoring line.
+
+History of Present Illness:
+Mr. [**Known lastname **] is an 80 year old male with hypertension, atrial
+fibrillation, and recent right MCA stroke s/p trach and peg who
+presents from [**Hospital 100**] Rehab with worsening shorness of breath for
+one day. The patient was noted to be short of breath on the
+morning of presentation and this worsened throughout the day.
+Per report he was noted this afternoon to have acute onset of
+atrial fibrillation with rapid ventricular response this
+afternoon. In this setting he was noted to have irregular
+respirations with periords of apnea. ABG drawn at that time was
+notable for a respiratory alkalosis and hypoxemia 7.58/32/55 on
+FiO2 50%. CXR per report showed a consolidation and was given
+vancomycin and zosyn. He was also given lasix 40 mg IV x 2 and
+nitroglycerin paste without significant improvement. He was
+transferred to [**Hospital1 18**] for further management.
+
+In the ED, initial vs were: T: 100.6 P: 140 BP: 135/88 R: 18 O2
+sat 100% on trach mask. Prior to arrival he had received 40 mg
+IV lasix as well as nitroglycerin. EKG showed atrial
+fibrillation with rapid ventricular response with ST depression
+in V3. CXR showed moderate bilateral pleural effusions with
+bibasilar opacities and mild congestion. He was placed on
+positive pressure ventilation with improvement of his
+respiratory status. He was admitted to the MICU for further
+management.
+
+On arrival to the floor he is somnolent but responds to simple
+commands. Unable to clearly respond to questions. Unable to
+obtain review of systems. Breathing comfortably on assit
+control.
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Systolic CHF (EF 25%)
+s/p CVA in [**3-6**] s/p trach and peg
+Atrial Fibrillation on coumadin
+
+Social History:
+Currently living at [**Hospital 100**] Rehab. Retired. Used to be an
+electrical engineer. No history of smoking or alcohol abuse.
+Prior to stroke was independent of ADLS. Now responds to simple
+commands but significant speech impairment, significant left
+sided weakness.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Vitals: T: 98.2 BP: 102/58 P: 114 R: 18 O2: 96% on ventilator
+General: Does not open eyes to voice, withdraws to painful
+stimuli
+HEENT: Sclera anicteric, MMM, oropharynx clear, PERRL, EOMI
+Neck: JVP 10 cm, trach site intact
+Lungs: Decreased breath sounds at bases with diffuse ronchi
+anteriorly
+CV: Irregular, tachycardic, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly, PEG site in
+tact
+GU: Foley draining clear yellow urine
+Ext: warm, well perfused, 2+ pulses, 2+ edema left > right
+Neurologic: Does not open eyes to voice, withdraws x 4 to
+painful stimuli
+
+Pertinent Results:
+Labs on admission:
+[**2130-5-2**] 08:10PM BLOOD WBC-11.7* RBC-4.07* Hgb-12.5* Hct-35.8*
+MCV-88 MCH-30.6 MCHC-34.8 RDW-15.0 Plt Ct-222
+[**2130-5-2**] 08:10PM BLOOD Neuts-81.7* Lymphs-12.5* Monos-5.1
+Eos-0.5 Baso-0.3
+[**2130-5-2**] 08:10PM BLOOD PT-32.2* PTT-39.6* INR(PT)-3.3*
+[**2130-5-2**] 08:10PM BLOOD Glucose-117* UreaN-25* Creat-0.8 Na-137
+K-3.6 Cl-99 HCO3-24 AnGap-18
+[**2130-5-2**] 08:10PM BLOOD CK(CPK)-21*
+[**2130-5-2**] 08:10PM BLOOD CK-MB-NotDone proBNP-[**Numeric Identifier 80561**]*
+[**2130-5-2**] 08:10PM BLOOD Calcium-8.4 Phos-4.2 Mg-2.0
+[**2130-5-2**] 09:29PM BLOOD Type-ART Rates-[**7-9**] Tidal V-500 PEEP-5
+FiO2-100 pO2-335* pCO2-38 pH-7.47* calTCO2-28 Base XS-4
+AADO2-337 REQ O2-62 -ASSIST/CON Intubat-NOT INTUBA
+
+Labs on discharge:
+[**2130-5-4**] 02:09AM BLOOD WBC-8.4 RBC-3.63* Hgb-11.2* Hct-31.5*
+MCV-87 MCH-30.8 MCHC-35.5* RDW-15.2 Plt Ct-222
+[**2130-5-4**] 02:09AM BLOOD Neuts-53 Bands-0 Lymphs-36 Monos-9 Eos-2
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2130-5-4**] 02:09AM BLOOD PT-27.8* PTT-36.3* INR(PT)-2.8*
+[**2130-5-4**] 02:09AM BLOOD Glucose-103 UreaN-23* Creat-0.8 Na-137
+K-3.3 Cl-100 HCO3-27 AnGap-13
+[**2130-5-4**] 02:09AM BLOOD CK(CPK)-22*
+[**2130-5-3**] 10:56AM BLOOD CK-MB-NotDone cTropnT-0.03*
+[**2130-5-4**] 02:09AM BLOOD CK-MB-3
+[**2130-5-4**] 02:09AM BLOOD Calcium-8.6 Phos-4.2 Mg-1.9
+[**2130-5-4**] 06:59AM BLOOD Type-ART Temp-37.4 Rates-14/ Tidal V-500
+PEEP-5 FiO2-50 pO2-145* pCO2-37 pH-7.52* calTCO2-31* Base XS-7
+-ASSIST/CON Intubat-INTUBATED
+
+Chest x-ray [**2130-5-2**]:
+1. Moderate-sized bilateral pleural effusion with bibasilar
+opacities which likely represent atelectasis, but infection is
+not excluded.
+2. Mild pulmonary edema.
+
+ECHO [**2130-5-3**]:
+The left atrium is dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is
+moderately dilated. There is severe global left ventricular
+hypokinesis (LVEF = 25-30 %). Right ventricular chamber size is
+normal. with focal hypokinesis of the apical free wall. The
+aortic root is moderately dilated at the sinus level. The
+ascending aorta is moderately dilated. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened. There
+is mild pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+IMPRESSION: Moderately dilated LV with severe global
+hypokinesis. Focal hypokinesis of the RV apex. Mild aortic and
+mitral regurgitation.
+Compared with the prior study (images reviewed) of [**2130-3-1**], the
+LV is more dilated. The other findings are similar.
+
+Chest x-ray [**2130-5-4**]:
+Tracheostomy tube remains in place. Lung volumes are larger
+compared to the previous study, and positional differences limit
+comparison. Moderate bilateral pleural effusions are probably
+unchanged allowing for these factors. Persistent left
+retrocardiac opacity, likely a combination of atelectasis and
+effusion.
+
+Brief Hospital Course:
+This is an 80 year old male with hypertension, atrial
+fibrillation, and recent right MCA stroke status-post
+tracheostomy and PEG-tube who presents from [**Hospital 100**] Rehab with
+worsening shorness of breath for one day and CXR consistent with
+CHF.
+
+#. Shortness of breath: Differential diagnosis includes systolic
+congestive heart failure versus infection.  Currently afebrile
+with mildly elevated WBC and no significant increase in tracheal
+secretions.  Chest x-ray shows evidence of congestion with large
+left sided effusion and small right sided effusion.  Low
+suspicion at this time for cardiac ischemia and cardiac enzymes
+did not suggest acute infarct. PE appears less likely given
+therapeutic INR.  BNP [**Numeric Identifier 45281**]. He was placed on a lasix drip for
+negative fluid balance with improved oxygentation. He is being
+discharge on standing PO lasix (20mg TID) which may be adjusted
+by his physicians. In addition, he was started on Digoxin for
+systolic heart failure and his dose of Metoprolol does reduced.
+He was also continued on a course of vancomycin and zosyn and
+will continue an additional five days of vancomycin for possible
+pneumonia.
+
+Atrial Fibrillation:  His heart rate was generally 70-100
+although he has periods of rapid ventricular response.  During
+the first day with episodes of RVR to 180??????s, he was started on
+an esmolol gtt which was then weaned off without complications.
+Given he was started on Digoxin, his dose of Metoprolol was
+decreased to 75mg PO TID. His Coumadin was initially held due to
+supratherapeutic INR but was restarted at discharge.
+
+Systolic Congestive Heart Failure:  As above; EF 25% again on
+this admission.  Evidence of congestive failure on exam.  CXR on
+[**2130-5-4**] showed marked improvement from initial CXR in regards to
+fluid removal on diuresis.
+
+Urinary Tract Infection:  UA from emergency room with evidence
+of infection, however culture did not show infection.
+
+Hypertension:  Blood pressures were low dur

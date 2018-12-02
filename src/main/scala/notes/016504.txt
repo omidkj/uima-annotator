@@ -1,0 +1,225 @@
+Admission Date:  [**2131-2-1**]              Discharge Date:   [**2131-2-5**]
+
+Date of Birth:  [**2073-3-23**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+Hypoxemic respiratory distress
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Mrs. [**Known lastname 82433**] is a 57 year old female with a past medical history
+significant asthma, HTN, and a recent admission to the [**Hospital Unit Name 196**]
+service for hypertensive urgency and shortness of breath now
+admitted to the MICU for dyspnea on CPAP. The patient was
+initially admitted to [**Hospital Unit Name 196**] from [**Date range (1) 82616**] after presenting to
+her PCP for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 82617**] cough and worsening shortness of
+breath with a BP 200/100.  At that time, ECG demonstrate TWI in
+the precordial leads. He was ruled out for ACS and felt to have
+hypertension and a reactive airways disease component that led
+to her wheezing.  She presented to [**Company 191**] on [**1-29**] for follow-up,
+and at that time had a clear lung exam but noted chronic 2
+pillow orthopnea. This morning, the patient reports that she
+awoke with shortness of breath, subjective fevers, wheeze,
+productive cough of white/yellowish sputum, and fatigue. She
+denies any CP, palpitations, abdominal pain, diarrhea, sick
+contacts, or recent travel.  Per EMS, the patient received a
+combivent neb without benefit and was placed on CPAP.
+.
+In the [**Hospital1 18**] ED, initial VS 97.5 90 116/113 30 100%CPAP 40%. She
+received 4 gram magnesium, 125 mg solumedrol, combiven nebs,
+vancomycin 1 gram, and levofloxacin 750. She was continued on
+CPAP with an FiO2 0.4 with an ABG demonstrating 7.39/44/100.
+She was then admitted to the MICU for further management.
+.
+Currently, the patient is complaining of dyspnea and subjectve
+fevers.
+
+
+Past Medical History:
+- Hypertension
+- Asthma: Patient has been on albuterol for the past year. She
+states that her breathing is particularly bad while cooking at a
+Thai restaurant with hot oil.
+
+
+Social History:
+She was living in [**Country 3396**] until [**2125**]. Her husband was
+travelling in [**Country 3396**], they met there, got married, and she him
+followed here, moved here in [**2125**]. She currently works in a Thai
+restaurant, does not smoke. No alcohol use. She has a son who is
+28, but he still lives in [**Country 3396**] and lives with her husband.
+[**Name (NI) **] pets including birds.
+
+
+Family History:
+Mother hypertension in her 80s. Father died of hypertension
+around 61 and complications of it unclear although, younger
+brother also has had high blood pressure. No family history of
+early MI, arrhythmia, cardiomyopathies, or sudden cardiac death;
+otherwise non-contributory.
+
+
+Physical Exam:
+ADMISSION:
+VS: 96.9 74 124/69 27 94%4L nc
+Gen: Mild respiratory distress
+HEENT: PERRL, sclerae anicteric.  MM dry, OP clear without
+lesions, exudate, or erythema. Neck supple.
+CV: Nl S1+S2
+Pulm: Bilateral expiratory wheezes, worst at the right bse.
+Abd: S/NT/ND +bs
+Ext: No c/c/e.
+Neuro: AOx3, CN II-XII intact.
+.
+On transition to the floor:
+VS: 97.2 HR 95 with frequemnt bigeminyon monitor 166/88 RR 20
+sO2 98% on 2L O2
+Gen: Settled
+HEENT: PERRL, sclerae anicteric. MM moist, OP clear without
+lesions, exudate, or erythema. Neck supple.
+CV: Nl S1+S2 with some ectopcs and bigeminy at which point pulse
+drops to 44/min SR JVP not elevated
+Pulm: Bilateral mild scattered wheeze and harsh BS right base
+Abd: S/NT/ND +bs
+Ext: No c/c/e. Calves SNT.
+Neuro: AOx3, CN II-XII normal. No focal deficits with normal
+tone, power, reflexes and coordination( only tested in UE) and
+plantars flexor bilat.
+
+
+Pertinent Results:
+ECG: Sinus with 1:1 conduction. Abnormal P waves, although may
+be artifact. Incomplete RBBB. Unchanged compared to [**1-26**].
+
+Admission labs:
+[**2131-2-1**] 08:50PM BLOOD WBC-14.1* RBC-5.50* Hgb-14.0 Hct-41.9
+MCV-76* MCH-25.4* MCHC-33.4 RDW-13.0 Plt Ct-336
+[**2131-2-1**] 08:50PM BLOOD PT-13.2 PTT-28.6 INR(PT)-1.1
+[**2131-2-1**] 08:50PM BLOOD Glucose-315* UreaN-15 Creat-1.2* Na-133
+K-4.1 Cl-93* HCO3-26 AnGap-18
+[**2131-2-1**] 08:50PM BLOOD ALT-27 AST-30 LD(LDH)-260* CK(CPK)-200
+AlkPhos-94 TotBili-0.6
+[**2131-2-1**] 08:50PM BLOOD Calcium-9.0 Phos-7.0* Mg-2.0
+.
+Other labs:
+[**2131-2-1**] 08:50PM BLOOD CK-MB-3 cTropnT-<0.01 proBNP-642*
+[**2131-2-1**] 11:51PM BLOOD D-Dimer-671*
+[**2131-2-2**] 06:14AM BLOOD TSH-0.20*
+[**2131-2-2**] 06:14AM BLOOD Free T4-1.2
+.
+ABG:
+[**2131-2-1**] 09:42PM BLOOD Type-ART FiO2-40 pO2-100 pCO2-44 pH-7.39
+calTCO2-28 Base XS-0 Intubat-NOT INTUBA
+.
+Discharge labs:
+[**2131-2-5**] 07:30AM BLOOD WBC-14.9* RBC-5.30 Hgb-13.6 Hct-39.1
+MCV-74* MCH-25.7* MCHC-34.8 RDW-13.2 Plt Ct-301
+[**2131-2-5**] 07:30AM BLOOD Glucose-96 UreaN-16 Creat-0.8 Na-139
+K-3.3 Cl-97 HCO3-34* AnGap-11
+[**2131-2-5**] 07:30AM BLOOD Calcium-9.5 Phos-3.7 Mg-2.0
+.
+.
+Urine
+[**2131-2-5**] 07:30AM BLOOD Calcium-9.5 Phos-3.7 Mg-2.0
+[**2131-2-2**] 04:24AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.011
+[**2131-2-2**] 04:24AM URINE Blood-TR Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+[**2131-2-2**] 04:24AM URINE RBC-3* WBC-12* Bacteri-FEW Yeast-NONE
+Epi-1 TransE-<1
+[**2131-2-2**] 04:24AM URINE CastHy-15*
+[**2131-2-2**] 04:24AM URINE Mucous-RARE
+[**2131-2-2**] 04:24AM URINE Eos-NEGATIVE
+[**2131-2-2**] 04:24AM URINE Hours-RANDOM Creat-53 Na-127 K-64 Cl-147
+[**2131-2-2**] 04:24AM URINE Osmolal-511
+.
+.
+Microbiology:
+[**2131-2-2**] 12:25 pm SPUTUM      Source: Expectorated.
+
+                            **FINAL REPORT [**2131-2-2**]**
+
+   GRAM STAIN (Final [**2131-2-2**]):
+      <10 PMNs and >10 epithelial cells/100X field.
+      Gram stain indicates extensive contamination with upper
+respiratory
+      secretions.
+.
+[**2131-2-2**] 12:36 am Influenza A/B by DFA
+      Source: Nasopharyngeal swab.
+
+                            **FINAL REPORT [**2131-2-2**]**
+
+   DIRECT INFLUENZA A ANTIGEN TEST (Final [**2131-2-2**]):
+      REPORTED BY PHONE TO [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 82618**] 11:55AM [**2131-2-2**].
+      POSITIVE FOR INFLUENZA A VIRAL ANTIGEN.
+
+   DIRECT INFLUENZA B ANTIGEN TEST (Final [**2131-2-2**]):
+      Negative for Influenza B.
+[**2131-2-2**]	URINE	Legionella Urinary Antigen - Negative
+[**2131-2-2**]	URINE	URINE CULTURE No growth
+[**2131-2-1**]	BLOOD CULTURE	Blood Culture, No growth at
+time of writing
+[**2131-2-1**]	BLOOD CULTURE	Blood Culture, No growth at
+time of writing
+.
+.
+Radiology:
+CHEST (PORTABLE AP)	Study Date of [**2131-2-2**] 4:39 AM
+Portable AP chest radiograph was compared to [**2-1**].
+
+Cardiomediastinal silhouette is stable. The lungs are
+essentially clear.
+There is no appreciable pleural effusion or pneumothorax noted.
+There is
+prominence of the hila bilaterally which might potentially
+represent large
+pulmonary arteries, and hypertension as a result might be
+considered.
+.
+TRAUMA #3 (PORT CHEST ONLY)	Study Date of [**2131-2-1**] 8:55 PM
+FINDINGS: AP upright portable view of the chest was obtained.
+Subtle
+increased opacity projecting over the right lower lobe could
+relate to
+aspiration or early infectious process. Consider dedicated PA
+and lateral
+views when patient able for further evaluation. The left lung is
+clear. No
+pleural effusion or pneumothorax is seen. The cardiac and
+mediastinal
+silhouettes are unremarkable. Calcification is noted at the
+aortic knob. No
+overt pulmonary edema is seen.
+
+IMPRESSION: Subtle increase in opacity projecting over the right
+lower lobe,
+underlying mild infectious process or aspiration cannot be
+entirely excluded
+in the appropriate clinical setting. Suggest dedicated PA and
+lateral views
+if patient able.
+.
+.
+Cardiology:
+ECG	Study Date of [**2131-2-1**]  9:00:24 PM
+
+Normal sinus rhythm with right bundle-branch block. Non-specific
+ST-T wave
+abnormalities. Compared to the previous tracing of [**2131-1-27**].
+TRACING #1
+
+Read by:	[**Last Name (LF) **],[**First Name8 (NamePattern2) 2206**] [**Doctor Last Name **]
+ 	Intervals	Axes
+Rate	PR	QRS	QT/QTc	P	QRS	T
+84	166	114	404/446	19	80	29
+.
+Portable TTE (Complete) D

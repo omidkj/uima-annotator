@@ -14,7 +14,7 @@ scalaVersion := "2.12.7"
 // Lines like the above defining `scalaVersion` are called "settings" Settings
 // are key/value pairs. In the case of `scalaVersion`, the key is "scalaVersion"
 // and the value is "2.12.6"
-
+//libraryDependencies += "com.carrotsearch" % "hppc" % "0.7.1"
 
 
 // Note, it's not required for you to define these three settings. These are
@@ -38,7 +38,16 @@ libraryDependencies += "org.apache.ctakes" % "ctakes-drug-ner" % "4.0.0"
 libraryDependencies += "org.apache.ctakes" % "ctakes-ne-contexts" % "4.0.0"
 libraryDependencies += "org.apache.ctakes" % "ctakes-clinical-pipeline" % "4.0.0"
 libraryDependencies += "org.apache.ctakes" % "ctakes-context-tokenizer" % "4.0.0"
-
+libraryDependencies += "commons-io" % "commons-io" % "2.5"
+// https://mvnrepository.com/artifact/org.t3as/metamap-tagger
+libraryDependencies += "org.t3as" % "metamap-tagger" % "1.3.4"
+libraryDependencies += "au.com.bytecode" % "opencsv" % "2.4"
+// https://mvnrepository.com/artifact/org.apache.spark/spark-core
+libraryDependencies += "org.apache.spark" %% "spark-core" % "2.3.2" exclude("com.carrotsearch", "hppc")
+libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.3.2" exclude("com.carrotsearch", "hppc")
+libraryDependencies += "org.apache.spark" %% "spark-streaming" % "2.3.2" % "provided" exclude("com.carrotsearch", "hppc")
+libraryDependencies += "org.apache.spark" %% "spark-mllib" % "2.3.2" % "runtime" exclude("com.carrotsearch", "hppc")
+libraryDependencies += "org.apache.spark" %% "spark-hive" % "2.3.2" % "provided" exclude("com.carrotsearch", "hppc")
 
 
 

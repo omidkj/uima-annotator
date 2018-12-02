@@ -1,0 +1,206 @@
+Admission Date:  [**2129-6-27**]              Discharge Date:   [**2129-7-1**]
+
+Date of Birth:  [**2050-1-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Haldol
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+[**Known lastname **] [**Known firstname 6339**] is a 79-year-old gentleman with MMP including
+critical aortic stenosis s/p valvuloplasty, IDDM, paroxysmal
+atrial fibrillation, h/o MRSA pna, h/o c.diff, who is s/p trach
+and peg after MVC ~19 weeks ago who presented to the Emergency
+Department from [**Hospital3 7**] with bleeding around trach and
+hypotension. Per ED notes, on day prior to admission patient had
+significant bleeding from tracheostomy site and increasing
+hematuria -> INR was 4.7 at that time. He was given vit K and
+INR improved to 1.7 the following day. On evening of admission,
+patient dropped blood pressure to systolic of 70s, which
+responded to IV fluid and FFP. He was then transferred to [**Hospital1 18**]
+for management.
+.
+In the ED, initial vitals were T 101.6 rectal, HR 75, BP 132/77
+at triage (later dropped to systolics in 80s). He was started on
+neosynephrine and received 1L IVFs. Stool was guiaic positive,
+no melena. He received Vancomycin/Cipro/Flagyl. He was admitted
+to the ICU for further management.
+.
+Of note, patient recently in MICU from [**Date range (1) 74060**] for altered
+mental status, which improved during ICU stay with supportive
+care. EEG consistent with encephalopathy. Patient had 1 blood
+culture with coagulase negative staph, presumed contaminant. No
+other sources of infection were identified.
+
+
+Past Medical History:
+s/p MVC in [**2-2**] with prolonged 4 month hospital stay at
+[**University/College **] with trach placed [**2129-5-25**] after several intubations
+for hypercarbic respiratory failure
+CAD
+chronically depressed mental status
+critical AS s/p valvuloplasty
+A fib, on coumadin
+chronic b/l pleural effusions
+anemia
+MRSA PNA
+
+
+Social History:
+Non-smoker. Currently lives at [**Hospital **] rehab. Has several
+children. Daughter [**First Name8 (NamePattern2) **] [**Name2 (NI) 74057**] is a nurse and makes many of his
+health decisions.
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: T 99.3 Ax;
+GEN: Elderly gentleman in NAD, does not engage with verbal
+stimuli, withdraws to pain
+HEENT: PERRL. EOMI. Trach tube in place without surrounding
+erythema or bleed
+LUNGS: coarse BS b/L
+CV: irregular irregular. Grade II,VI systolic murmur at RUSB
+radiating to carotids
+ABD: soft, NT. + distension, no fluid wave, G-tube in place
+without surrounding erythema or drainage
+EXT: Significant LE and UE edema bilaterally. Multiple
+ecchymoses over arm. Venous stasis changes LE B/L.
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2129-6-26**] 08:58PM BLOOD WBC-6.3 RBC-2.64* Hgb-7.8* Hct-24.4*
+MCV-93 MCH-29.4 MCHC-31.7 RDW-17.1* Plt Ct-162
+[**2129-6-26**] 08:58PM BLOOD Neuts-85.1* Bands-0 Lymphs-9.6* Monos-3.9
+Eos-1.0 Baso-0.5
+[**2129-6-27**] 04:13PM BLOOD PT-17.8* PTT-48.4* INR(PT)-1.7*
+[**2129-6-26**] 08:58PM BLOOD Glucose-127* UreaN-34* Creat-0.7 Na-141
+K-3.5 Cl-95* HCO3-45* AnGap-5*
+[**2129-6-27**] 03:48AM BLOOD Albumin-2.4* Calcium-8.2* Phos-2.4*
+Mg-2.0
+[**2129-6-27**] 03:48AM BLOOD ALT-51* AST-63* LD(LDH)-189 AlkPhos-119*
+TotBili-0.8
+[**2129-6-26**] 09:29PM BLOOD Type-ART Rates-/18 Tidal V-420 FiO2-100
+pO2-401* pCO2-60* pH-7.51* calTCO2-50* Base XS-21 AADO2-255 REQ
+O2-50 -ASSIST/CON Intubat-INTUBATED
+DISCHARGE labs:
+[**2129-7-1**] 03:56AM BLOOD WBC-6.5 RBC-2.85* Hgb-8.2* Hct-25.8*
+MCV-91 MCH-28.9 MCHC-31.9 RDW-17.4* Plt Ct-177
+[**2129-6-27**] 03:48AM BLOOD Neuts-87.2* Lymphs-8.6* Monos-3.6 Eos-0.4
+Baso-0.2
+[**2129-7-1**] 03:56AM BLOOD Plt Ct-177
+[**2129-7-1**] 03:56AM BLOOD PT-15.8* PTT-43.3* INR(PT)-1.4*
+[**2129-7-1**] 03:56AM BLOOD Glucose-105 UreaN-31* Creat-0.8 Na-138
+K-3.5 Cl-99 HCO3-34* AnGap-9
+[**2129-6-30**] 04:08AM BLOOD ALT-38 AST-52* AlkPhos-134* Amylase-22
+TotBili-0.6
+[**2129-7-1**] 03:56AM BLOOD Calcium-7.9* Phos-3.4 Mg-2.3
+[**2129-7-1**] 04:30AM BLOOD Type-ART Temp-37.5 Rates-/20 FiO2-40
+pO2-151* pCO2-46 pH-7.52* calTCO2-39* Base XS-13 -ASSIST/CON
+Intubat-INTUBATED
+[**2129-6-30**] 11:47 pm STOOL **FINAL REPORT [**2129-7-1**]**
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2129-7-1**]):
+      FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.
+           (Reference Range-Negative).
+
+.
+
+ECHO:
+[**2129-6-27**]
+Conclusions:
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular  hypertrophy with normal cavity size and
+regional/global systolic function  (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal.
+The aortic valve leaflets are moderately thickened. There is
+moderate aortic  valve stenosis (area 1.0-1.2cm2). Trace aortic
+regurgitation is seen. The  mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is  seen. The
+estimated pulmonary artery systolic pressure is normal. There is
+no pericardial effusion.
+
+IMPRESSION: Moderate aortic valve stenosis. Mild symmetric left
+ventricular hypertrophy with normal cavity sizes and
+regional/global biventricular systolic function. Mild mitral
+regurgitation.
+
+RUE ultrasound [**2129-6-27**]:
+FINDINGS: Grayscale and Doppler son[**Name (NI) 1417**] of the right jugular,
+subclavian, axillary, and brachial veins were performed. There
+is normal compressibility, flow, and augmentation.
+IMPRESSION: No evidence of DVT in the right upper extremity.
+.
+CXR: [**6-29**]: REASON FOR EXAM: Diminished LS at bases bilaterally.
+AP bedside suboptimal due to body habitus and low lung volumes.
+Cardiovascular status is difficult to evaluate. There is
+equivocal vascular congestion that is unchanged from prior study
+performed 2 days earlier ([**2129-6-27**]). Equivocal improved
+aeration in the left lower lobe. There is probable small left
+pleural effusion. Cardiac silhouette is obscured by the pleuro-
+parenchimal abnormality. Tracheostomy tube is seen in adequate
+position.
+
+IMPRESSION: Equivocal increased aeration of the left lower lobe
+.
+
+
+Brief Hospital Course:
+A/P 79-year-old gentleman residing at [**Hospital **] rehab s/p MVC in
+[**Month (only) 958**] with prolonged hospital stay s/p trach/vent, IDDM,
+critical AS s/p valvuloplasty, admitted to MICU for hypotension
+
+.
+# HYPOTENSION: Patient was admitted with hypotension that was
+initially thought due to infection.  For this he was started on
+broad spectrum antibiotics that were weaned to have narrower
+spectrum given that the sputum cultures showed pansensitive
+pseudomonas.  The patient should continue a course of
+ciprofloxacin for 3 more days (total of 8)
+- ECHO during this admission showed normal ejection fraction and
+persistent aortic stenosis.
+
+# FEVER: thought to be secondary to his pneumonia, improved
+rapidly.  Blood cultures negative.
+.
+# Respiratory failure: Thought due to both pneumonia as well as
+possible critical care myopathy causing poor function. However,
+the patient had a NIF -17, c/w myopathic process. Additionally
+the patient was transitioned from pressure support to assist
+control intermittently depending on his minute ventilation and
+work of breathing.  He was stable on pressure support for approx
+24 hours prior to discharge.  Also had pleural effusions on
+chest x-ray that are likely due to fluid overload that should
+improve with improving diuresis.
+To improve oxygenation, we recommend continuing lasix for goal
+500 to 1000cc neg/24hrs x3 days, ie lasix 80mg [**Hospital1 **] with close
+monitoring of creatinine and electrolytes.
+.
+# Aortic stenosis: s/p valvuloplasty with initial valve area of
+0.76 and now 1-1.2.  Thought by cardiology to need diuresis and
+was started.  Initially he was given lasix with good effect that
+should be continued until the patient is euvolemic.
+.
+# ANEMIA:
+- Patient with known Fe-deficiency anemia from last admission.
+Was continued on supplements and had serial hcts drawn.
+Initially patient had a decrease in hct, but was stable after 1
+U PRBCs.
+.
+# ATRIAL FIBRILLATION : Rate controlled on beta-blocker as
+outpatient, with good rate control without betablocker.  Will
+restart coumadin today.
+.
+# CAD
+- Stable
+- Continue ASA, sho

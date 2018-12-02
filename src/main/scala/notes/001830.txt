@@ -1,0 +1,191 @@
+Admission Date:  [**2122-1-14**]              Discharge Date:   [**2122-2-6**]
+
+Date of Birth:  [**2057-2-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Fentanyl / Oxycodone / Meperidine
+
+Attending:[**First Name3 (LF) 11040**]
+Chief Complaint:
+ARDS seconrday to septic shock
+
+Major Surgical or Invasive Procedure:
+Tracheostomy and G-tube placement.
+
+
+History of Present Illness:
+Ms. [**Known lastname 69940**] is a 64 year old woman with HTN, RA, Type 2 DM
+admitted to OSH on [**1-10**] with confusion, chills, fevers to 103
+and a week of green sputum found to have PNA on CXR,
+hypotension, and hypoxic respiratory failure. She was intubated
+in ED, started on dopamine, and transfered to the ICU. She ruled
+in for NSTEMI. She was switched to Norepinephrine (per cards)
+and hydrocort. She also received Xigris. Within 24 hours her HCT
+dropped from 35% to 28% and Xigris was stopped. Pt was initially
+on Ceftriaxone and Azithro which was changed to Levoquin Vanco
+and Clinda which was stopped on [**1-14**]. Due to possible [**Location (un) **]
+exposure, Doxycycline was also started. She went into A flutter
+with RVR and was cardioverted once unsuccessfully at the OSH.
+She was started on Diltiezem drip for rate control. For ? PCP
+PNA, she was started on high dose Bactrim as well. Throughout
+her OSH course she developed an increasing O2 requirment, and
+there was concern for ARDS with increasing difficulty in
+ventilation. Her last ABG on transfer was 7.30/45/51 sating 88%
+on 100%FiO2; IMVO 14; PEEP 8; Tv 700. She was transfered here
+for further management.
+.
+PCP: [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+
+
+Past Medical History:
+RA- Stopped Methotrexate 5 months ago for a "reverse effect"
+according to notes. Maintained on 20mg Prednisone daily
+HTN
+NIDDM
+GERD
+
+
+Social History:
+Lives with husband, quit smoking 23 years ago, occasional wine,
+no drug use.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+PE: Admitted intubated, on rotating bed
+T:36.9 HR:104 BP:133/51 (off pressors) RR:19 90% O2 Sats
+Wt:98.6kg
+AC Tv:400 FiO2:100% Peep:15 PP:24
+Gen: intubated, sedated
+HEENT: ET tube in place
+NECK: unable to asses JVP 2/2 habitus
+CV: Regular Rate and rhythym, occasional PVCs.
+LUNGS: course BS anteriorly/laterally
+ABD: Soft, NT, ND. NL BS.
+EXT: No edema. 2+ DP pulses BL
+SKIN: No lesions
+
+
+Pertinent Results:
+[**2122-1-14**] 11:03PM   PT-12.9 PTT-27.2 INR(PT)-1.1
+[**2122-1-14**] 11:03PM   PLT COUNT-268
+[**2122-1-14**] 11:03PM   WBC-15.9* RBC-3.81* HGB-11.4* HCT-31.7*
+MCV-83 MCH-30.1 MCHC-36.1* RDW-16.8*
+[**2122-1-14**] 11:03PM   CALCIUM-5.9* PHOSPHATE-1.9* MAGNESIUM-2.1
+[**2122-1-14**] 11:03PM   estGFR-Using this
+[**2122-1-14**] 11:03PM   GLUCOSE-275* UREA N-30* CREAT-0.9 SODIUM-138
+POTASSIUM-3.8 CHLORIDE-108 TOTAL CO2-22 ANION GAP-12
+[**2122-1-14**] 11:09PM   freeCa-0.72*
+[**2122-1-14**] 11:09PM   LACTATE-2.3*
+[**2122-1-14**] 11:09PM   TYPE-ART PO2-69* PCO2-45 PH-7.38 TOTAL CO2-28
+BASE XS-0
+.
+OSH MICRO DATA:
+Mycoplasma IgG - posative
+Blood Cx [**1-10**] - Gm posative cocci, speciation/sensis pending
+Legionella - negative
+Strep Pneumo antigen - negative
+RSV - negative
+Influenza A/B - negative
+.
+STUDIES: CXR - has large left pulmonary infiltrate
+.
+[**1-21**] CT abd/pelvis:
+1. Uncomplicated pancreatitis with no evidence of abscess or
+fluid collection.
+2. Pleural effusions, left greater than right, with
+consolidation in the right lower lobe consistent with pneumonia.
+3. Old fractures of the pelvis.
+
+
+Brief Hospital Course:
+# Hypoxic Respiratory Failure - Secondary to mycoplasma PNA for
+which she completed 14 day course of levofloxacin, evolved to
+ARDS from sepsis. Subsequently complicated by likely ventilator
+associated pneumonia, culture and bronchial lavage negative,
+empirically treated with a course of Vancomycin and Cefepime.
+Also, complicated by severe polyneuropathy from likely critical
+care neuropathy. NIF was measured and was in the 30s range. Pt
+was weaned to PS 5/0 on the 13th day of hospitalization and
+extubation was attempted. However the patient became
+increasingly tachypneic and agitated about 12 hours after
+extubation and was reintubated. Failure was thought to be due to
+respiratory muscle fatigue, poor underlying lung function in the
+context of pneumonia, possible component of volume overload. A
+tracheostomy was placed the next day as well as a PEG tube. She
+was successful with trach mask trials several days after trach
+placement on high flow O2.  She was successful for > 12hours
+daily, but on several occasions became tachypneic in the
+evening, thought to be influenced largely by anxiety rather than
+fatigue, requiring placement back on PS overnight.  She was,
+however, trialed for 24 hours on trach mask and was fatigued the
+following day requiring full 24 hours back on PS.  This was
+likely [**3-6**] to true respiratory muscle fatigue.
+.
+# PNA: From mycoplasma, treated with 14 day course of
+levofloxacin. Subsequently complicated by likely ventilator
+associated pneumonia, culture and bronchial lavage negative,
+empirically treated with a course of Vancomycin and Cefepime.
+.
+# Septic shock: Lactate on admission 2.3, hypotension, elevated
+WBC with 2 bands, tachypnea and tachycardia. Initially with
+pressor requirement. Initial broad spectrum Abx were
+discontinued once source of sepsis was found to be due to
+mycoplasma and a course of 14 days of Levofloxacin was
+completed. The patient also was treated with stress dose
+steroids initially, which were subsequently weaned to baseline
+Prednisone dose for chronic RA of 20mg.
+.
+# Clostridium difficile infection: diagnosed on [**1-22**]. Pt. will
+complete a 7 day (post other antibiotics) course of flagyl
+(flagyl course to be completed on [**2122-2-6**] after receiving her tid
+dosing that day). Diarrhea is much improved.
+.
+# Pancreatitis:  Thought [**3-6**] to propofol originally with
+elevated amylase and lipase.  Once her propofol was d/c'd, her
+amylase normalized.  Her lipase decreased, but remained elevated
+in the 150s.  Other LFTs were normal.  Her tube feeds were held
+transiently when her lipase failed to completely resolve and she
+had mild epigastric discomfort.  Given that her epigastric
+discomfort was post G tube placement, it resolved and tube feeds
+were reinitiated.  She did have high residuals so was not
+originally at goal.  Reglan was started and tube feeds were
+advanced.  She is now tolerating tube feeds at goal without
+reglan.
+.
+# Critical illness neuropathy: severe distal weakness, slight
+improvement towards the end of her hospital stay. EMG and nerve
+conduction studies showed mild, proximal myopathy with a
+superimposed geneneralized polyneuropathy, predominantly axonal.
+The picture is consistent with critical illness polyneuropathy
+and myopathy.  Her strength has been consistently increasing,
+but deficit remains.  She will need continued physical therapy
+for this.
+.
+# Rash, eosinophilia:  During her course of cefepime and
+vancomycin she developed a rash and eosinophilia.  Once her 7
+day course of cefepime and vanco was complete, her rash resolved
+although she remained mildly subjectively itchy requiring
+fexofenadine.  Her eosinophils remained elevated, but this also
+started to resolve.  There was no other clear drug source and
+suspiscion for infective cause was very low.
+.
+# Low grade fever: Intermittent low grade fever to Tmax of
+100.2.  She has BAL, Urine and blood cultures pending from
+[**2122-2-5**], but suspiscion for infection is low given normal WBC
+count and no left shift on diff.  These cultures should be
+followed up.
+.
+# Rheumatoid arthritis:  Patient was transiently on stress dose
+steroids in the setting of sepsis.  Steroids were reduced to her
+home dose of 20mg PO prednisone with the resolution of sepsis.
+The need for PCP prophylaxis was discussed given chronically on
+20mg prednisone daily.  The need for this dose in the setting of
+her RA and PCP prophylaxis was discussed with her rheumatologist
+and her dose of prednisone was decreased to 15mg po prednisone
+as she is not currently complaining of joint symptoms.  She was
+not started on bactrim while inpatient and if her chronic
+prednisone dose requirement increas

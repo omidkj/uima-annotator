@@ -1,0 +1,119 @@
+Admission Date:  [**2191-7-28**]              Discharge Date:   [**2191-8-7**]
+
+Date of Birth:  [**2129-3-6**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Iodine; Iodine Containing
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+Aortic Aneurysm
+
+Major Surgical or Invasive Procedure:
+repair of ascending aortic aneurysm
+
+
+History of Present Illness:
+This is a 62 year old woman who was found to have an asecnding
+aortic anerysm.  She had a AVR in [**2179**], for which she is
+anticoagulated.  The aneursym was found to be 5.6 cm and was
+foudn on an echo.  She is otherwise doing well, and is without
+complaint at this time
+
+Past Medical History:
+AVR (rheumatic fever)
+Lymphedema
+
+Social History:
+Former tobacco user
+
+Family History:
++ for early MI
+
+Physical Exam:
+HR 60  BP 107/87  RR18  Sat 99%
+NAD
+RRR, mechanical sounds
+CTA
+Abd: benign
+Ext: warm, well perfused
+
+Pertinent Results:
+[**2191-7-28**] 04:40PM BLOOD WBC-5.5 RBC-4.07* Hgb-12.3 Hct-35.8*
+MCV-88 MCH-30.2 MCHC-34.3 RDW-13.6 Plt Ct-205
+[**2191-7-28**] 04:40PM BLOOD PT-14.7* PTT-26.5 INR(PT)-1.4
+[**2191-7-28**] 04:40PM BLOOD Glucose-85 UreaN-13 Creat-0.8 Na-139
+K-3.6 Cl-104 HCO3-26 AnGap-13
+[**2191-7-28**] 04:40PM BLOOD ALT-14 AST-23 LD(LDH)-283* AlkPhos-61
+Amylase-64 TotBili-0.7
+[**2191-7-28**] 04:40PM BLOOD Albumin-4.5 Calcium-9.9 Phos-3.0 Mg-1.9
+
+[**Last Name (NamePattern4) 4125**]ospital Course:
+The patient was admitted to the hospital for a pre-op
+cathertization and heparinization.  She did well prior to the
+surgery, and the cath was uneventful, it was used for pre-op
+planning.  She went to the OR on HD5, for aortic repair,  the
+surgery was uneventful, see Dr. [**Last Name (STitle) **] [**Last Name (Prefixes) 2546**] operative report
+for more detail.  Post op, she was admitted to the CSRU, where
+she was extubated without difficulty.  She was maintatined on
+lopressor/lasix, and the chest tubes were kept in untill POD 3.
+At HIT was sent for low platelets.  Her coumadin was restarted
+on POD 2, and her INR was brought to a goal of [**3-17**].  She was
+sent to the floor, and PT was consulted, who felt she could go
+home.  She was sent home on POD 6, tolerating diet well.
+
+Medications on Admission:
+ASA
+Conjugated Estrogens
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Conjugated Estrogens 0.625 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+4. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4
+to 6 hours) as needed.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 1 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+7. Warfarin Sodium 1 mg Tablet Sig: Three (3) Tablet PO at
+bedtime.
+Disp:*90 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Last Name (un) 2646**]
+
+Discharge Diagnosis:
+Ascending aortic aneursym
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Seek medical attention if you experience increasing pain,
+shortness of breath, dizzyness or any other sign that is
+concering to you.  You should take all of your medications as
+described.  You should follow up with your PCP for checking of
+your INR, as you have done before your surgery
+
+[**Last Name (NamePattern4) 2138**]p Instructions:
+Call Dr. [**Last Name (STitle) **] [**Last Name (Prefixes) 2546**] office for an appointment in 2 weeks. You
+should see your PCP for following your INR
+
+
+Completed by:[**2191-8-8**]

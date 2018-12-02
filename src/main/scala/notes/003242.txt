@@ -1,0 +1,226 @@
+Admission Date:  [**2197-1-13**]              Discharge Date:   [**2197-2-3**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+chest discomfort and fatigue
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement (27mm [**Company 1543**] Mosaic),coronary artery
+bypass x3(Lima-LAD,SVG-ramus, SVG-OM) and ligation of left
+atrial appendage [**2197-1-17**]
+
+
+History of Present Illness:
+Mr. [**Known lastname 84178**] is an 86 year old man who has been experiencing
+increasing episodes of chest discomfort and fatigue over the
+past month.  A recent echocardiogram revealed an EF of 45% with
+modest aortic stenosis ([**Location (un) 109**] 1.2) and moderate
+aortic regurgitation and 2+ mitral regurgitation and modest
+tricuspid regurgitation. A subsequent cath revealed 90% LM and
+RCA, LCX, and Ramus lesions.  He is admitted for surgical
+revasularization and aortic valve replacement.
+
+
+Past Medical History:
+Past Medical History: PAF, HTN, Meniere's, Aortic stenosis,
+Aortic insufficiency, non-STEMI
+[**12-14**], TIA (two episodes ten years ago), AFib
+
+
+Social History:
+Race:caucasian
+Last Dental Exam:2 yrs ago
+Lives with:alone
+Occupation:retired
+Tobacco:never
+ETOH:never
+
+
+Family History:
+non contributory
+
+Physical Exam:
+Pulse: 77 Resp: 18  O2 sat: 100% RA
+B/P  137/71
+Height: 5'[**97**]"    Weight:150 lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR []  Irregular [x]  Murmur IV/Vi SEM
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+superficial veins b/l None []
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:2+    Left:2+
+DP           Right:2+    Left:2+
+PT           [**Name (NI) 167**]:2+   Left:2+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right:    Left: transmitted murmur
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 84179**] (Complete)
+Done [**2197-1-17**] at 1:08:20 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2110-1-20**]
+Age (years): 86 M  Hgt (in): 70
+BP (mm Hg): 110/70  Wgt (lb): 150
+HR (bpm): 50  BSA (m2): 1.85 m2
+Indication: Coronary artery disease, aortic valve disease
+ICD-9 Codes: 424.1, 424.0
+Test Information
+Date/Time: [**2197-1-17**] at 13:08    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW01-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.2 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.2 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.7 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  40%  >= 55%
+Aorta - Sinus Level:  3.4 cm  <= 3.6 cm
+Aorta - Ascending:  *3.6 cm  <= 3.4 cm
+Aortic Valve - LVOT diam:  2.3 cm
+Aortic Valve - Valve Area:  *1.1 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Dilated LA. Moderate to severe spontaneous echo
+contrast in the LAA. Depressed LAA emptying velocity (<0.2m/s)
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Focal calcifications in ascending aorta. Normal aortic arch
+diameter. Focal calcifications in aortic arch. Simple atheroma
+in descending aorta.
+
+AORTIC VALVE: Moderately thickened aortic valve leaflets.
+Moderate AS (area 1.0-1.2cm2) Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. The rhythm appears to be atrial fibrillation.
+patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. Moderate to severe spontaneous echo
+contrast is present in the left atrial appendage. The left
+atrial appendage emptying velocity is depressed (<0.2m/s). No
+atrial septal defect is seen by 2D or color Doppler.
+
+Right ventricular chamber size and free wall motion are normal.
+
+There are focal calcifications in the aortic arch. There are
+simple atheroma in the descending thoracic aorta.
+
+The aortic valve leaflets are moderately thickened. There is
+moderate aortic valve stenosis (valve area 1.0-1.2cm2). Mild
+(1+) aortic regurgitation is seen.
+
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. There is no pericardial effusion.
+Dr. [**Last Name (STitle) 914**] was notified in person of the results on Mr.[**Known lastname 84178**]
+before surgical incision.
+Post_Bypass:
+Normal RV systolic function.
+LVEF 40%.
+Intact thoracic aorta.
+The bioprosthetic aortic valve is stable and functioning well.
+NO periprosthetic leaks. Residual mean gradient is 4mm of Hg.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 84178**] was admitted and taken tot he operating room for the
+following:(see operative note for details)
+
+1. Aortic valve replacement with a 27-mm [**Company 1543**] Mosaic
+    ULTRA Bioprosthesis.
+2. Coronary bypass grafting x3 with the left internal
+    mammary artery, left anterior descending coronary;
+    reversed after sustaining a single graft from the aorta
+    to ramus intermedius coronary artery; as well as reverse
+    saphenous vein single-graft from the aorta to the first
+    obtuse marginal coronary artery.
+3. Resection of left atrial appendage.
+4. Endoscopic left greater saphenous vein harvesting.
+
+Post operatively he remained intubated and was admitted to the
+CVICU for invasive hemodynamic monitoring and care. He awoke
+neurologically intact and was weaned from the ventilator and
+extubated without difficulty. Mr. [**Known lastname 84180**] chest tubes and
+temporary pacing wires were removed per protocol. He was started
+on betablockers, statins and diuresed toward his pre-operative
+weight however he continues to have 2+ LE edema bilateral which
+is being treated with IV lasix and zaroxyln. He remains in rate
+controlled atrial fibrillation. Mr. [**Known lastname 84178**] was anticoagulated
+with coumadin. He was evaluated and treated by physical therapy
+for strength and conditioning. He was noted to have endo-vein
+harvest site cellulitus on POD 8 and was placed on Vancomycin.
+Leukocytosis was persistent, and ID was consulted and agreed
+with vancomycin treatment.  He developed loose stools and his
+laxatives were tapered and C-diff toxin would return negative
+twice.  Cellulitis did improve on vancomycin.
+Rehab was recommmended upon discharge. Mr. [**Known lastname 84178**] was
+discharged to rehab on POD #17 after being cleared for discharge
+by Dr. [**Last Name (STitle) 914**].
+
+Medications on Admission:
+ASA 81mg daily, plavix 75mg daily, lopressor 50mg [**Hospital1 **], zocor
+20mg daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.

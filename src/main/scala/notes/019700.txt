@@ -1,0 +1,208 @@
+Admission Date:  [**2199-1-24**]              Discharge Date:   [**2199-1-26**]
+
+Date of Birth:  [**2119-3-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Nifedipine / Singulair
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+shortness of breath, fatigue
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+79 yo F with COPD, DMII, HTN who lives at [**Location **] presented to an OSH
+early today with fever, increasing sputum production, and
+shortness of breath. Per report, she has been having increased
+shortness of breath and productive cough over the proceeding
+week and was completing a course of Levofloxacin (started [**1-18**]).
+The patient is unable to report why she was brought to the
+hospital today and denies productive cough. She denies chest
+pain, palpitations, fevers, chills, sweats, nausea, vomiting,
+diarrha, dysuria. She has had no recent hospitalizations.
+.
+At [**Hospital1 **], she received albuterol/ipratropium nebs,
+levofloxacin IV, methylprednisolone 250mg IV, morphine IV,
+budesonide nebs. Due to persistent hypercarbia, she was
+transferred to [**Hospital1 18**] for non-invasive ventilation when her ABG
+was 7.36/61/98 on 2-4L NC. Most recent ABG at the time of
+transfer to the [**Hospital1 18**]-[**Location (un) 86**]: 7.38/54/107/31.9.
+.
+On arrival to the [**Hospital Unit Name 153**], patient reports that she is uncertain
+how she got to the hospital, but acknowledges 1 week of
+shortness of breath and fatigue and a new scratchy sore throat.
+
+
+
+Past Medical History:
+Diabetes Mellitus Type II
+Iron deficiency Anemia
+Hypertension
+COPD/Emphysema
+Asthma
+Anxiety
+Arthropathy
+CHF (EF unknown)
+
+
+Social History:
+Patient was a homemaker, raised 14 children. She now lives by
+herself at [**Location (un) 1036**].
+Tobacco: 45 pack years, quit 5-6 months ago
+EtOH: None
+Illicits: None
+
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: BP:153/81 P:123 R:19 O2: 95% 2L
+General: Alert, oriented (hospital, [**2199-1-21**]), in mild
+respiratory distress sitting upright in bed (sleeps this way at
+baseline)
+HEENT: Sclera anicteric, MMD, oropharynx mildly erythematous
+Neck: supple, JVP not elevated, no LAD
+Lungs: Purse lipped breathing, deminished through out, prolonged
+expiratory phase with diffuse expiratory wheezing, no rhonchi or
+crackles
+CV: Tachy, reg, heart sounds very distant
+Abdomen: obese, soft, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, 1+ edema to mid calf b/l,
+no cynanosis or clubbing
+
+
+Pertinent Results:
+Labs: OSH
+WBC 9.5 RBC 4.39 HGB 13.2 HCT 39.7 MCV 90.3 MCH 30.1 MCHC 33.4
+PLT 190 RDWCV 14.0 SEG 74.8 [**Last Name (un) **] 11.2 MON 11.7 EO 2.1 BAS 0.3
+.
+INR 1.1 PTT 28
+.
+139 97 12
+------------< 133
+4.1 34.3 0.7
+.
+ABG 7.36/61/97
+.
+Lactate 1.0 Trop <0.01
+Theophylline 8.5L
+
+
+Brief Hospital Course:
+Mrs. [**Known lastname **] is a 79 yo F with DMII, HTN, COPD who presented to the
+[**Hospital Unit Name 153**] as an OSH transfer for 2 weeks of shortness of breath,
+fever, and cough productive of yellow sputum.
+.
+At 03:15 on [**2199-1-26**], the patient was noted by her RN who was in
+her room to begin seizing (no seizure history). She was given
+Ativan 2 mg IV x 2, and found to be non-responsive. She was
+noted to be desaturating, and given her DNI status, was placed
+on a non-rebreather.  An ABG done with the patient on the
+non-rebreather showed a marked acidosis: 7.11/132/397/45. An EKG
+done at that time showed NSR. The family was called.  The
+seizure was felt to be secondary to acidemia and hypercarbia vs.
+PFO with embolus vs. mass lesion or other CNS event. Given the
+goals of care decided by the patient's family, the patient was
+made CMO later on [**2199-1-26**], and a morphine drip was initiated.
+The patient expired at 3:05 PM on [**2199-1-26**] with her family
+present.
+.
+Below is her detailed hospital course by problem.
+.
+She was found to be in respiratory distress with fever. She had
+a h/o COPD/Asthma requiring oral steroids at home. Per
+documentation, patient had a fever to 102, cough productive of
+yellow sputum, and shortness of breath x 1 week for which she
+completed a 5 day course of Levaquin without improvement in
+symptoms. An ABG at OSH suggested chronic CO2 retention and a
+CXR did not demonstrate a consolidation or infiltrate. Concern
+for a pulmonary infection with resulting COPD exacerbation was
+high at the time of admission. She was treated with steroids,
+ipratropium and albuterol nebs, and antibiotics. Initially she
+was placed on vancomycin and ceftrixone for HAP, but as culture
+data was unrevealing, and our suspicion for CAP became  higher,
+these were switched to Azithromycin. The patient was doing well
+on ICU day #2, with resolution of her fever and improvement in
+her respiratory status.
+.
+On presentatation to the OSH, the patient was noted to be
+tachycardic-and remained tachycardic here to the 120's. ECG
+demonstrates sinus tachycardia. She did not receive any IVF's or
+nodal agents at the OSH given concern for her uncertain h/o
+heart failure. Her tachycardia seemed c/w COPD exacerbation with
+possible concomitant infection, a repeat EKG showed no acute
+changes. Her heart rate was noted to improve with resolution of
+her fever and improvement of her respiratory status.
+.
+She was also hypertensive on presentation to 170's per report
+from [**Hospital1 18**]-[**Location (un) 620**]. She did not receive any medication for her
+hypertension and this was also noted to resolve with treatment
+of her COPD exacerbation.
+.
+The patient was a type II diabetic: unknown HgbA1c.
+Diet-controlled at home, but received high dose steroids at
+[**Hospital1 18**]-[**Location (un) 620**] for COPD exacerbation, so was maintained on QACHS
+fingersticks and Humalog SS.
+.
+CHF (EF unknown): Patient with unknown/uncertain history of
+congestive heart failure. No recent echocardiograms, not on any
+cardiac medications at home aside from a statin. ECG
+demonstrates RBBB. She was continued on her home Zocor 10mg PO
+qHS.
+.
+Communication: Patient & patient's daughters ([**Name (NI) **] [**Doctor Last Name 4048**] or [**First Name4 (NamePattern1) **]
+[**Name (NI) **] [**Telephone/Fax (1) 86385**])
+
+
+Medications on Admission:
+Advair 250/50 [**Hospital1 **]
+Spiriva 18mcg daily
+Fortical 200u NAS daily
+Senna 2 tabs qHS
+Requip 0.5mg qHS
+Zocor 10mg qHS
+Colace 200mg PO qHS
+Omeprazole 20mg PO daily
+Multivitamin PO daily
+Prednisone 5mg PO daily
+Aspirin 81mg PO daily
+Calcium 500 + D 1 tab [**Hospital1 **]
+Vitamin B-12 1000mcg daily
+Theophylline 100mg PO QID
+Xopenex 1.25ml/3ml Neb PRN
+Tylenol 650mg PO PRN
+Milk of Magnesia PRN
+Bisacodyl 10mg PR PRN
+Fleet Enema PRN
+
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+hypercarbic respiratory failure
+COPD
+seizure
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+
+Completed by:[**2199-1-26**]

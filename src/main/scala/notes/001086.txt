@@ -1,0 +1,198 @@
+Admission Date:  [**2204-6-4**]              Discharge Date:   [**2204-6-11**]
+
+Date of Birth:  [**2142-12-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Norvasc / Infed
+
+Attending:[**Last Name (NamePattern1) 1171**]
+Chief Complaint:
+Pulmonary Edema
+
+Major Surgical or Invasive Procedure:
+RIGHT tunneled IJ HD catheter
+
+History of Present Illness:
+61 yo F with CAD, CHF EF 30%, ESRD s/p transplant, now failed
+who presents with pulmonary edema, AoCRF and need for dialysis.
+Patient was seen by PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] on [**5-29**] who thought she was
+euvolemic at the time.  After that went to [**Hospital3 **] for vacation
+with her family and for the past several days she has been
+feeling progressively more SOB. Today was the worst day so she
+decided to go to [**Hospital3 **] Hospital.  At CCH she was found to be
+in respiratory distress and was intubated.  She was given
+furosemide 60 mg IV and kayexalate 30 mg but her urine output
+was only 30 mL.  Her labs were remarkable for WB 8.3, trop
+0.274, BNP 4428, K 5.5 and BUN/Cr 88/5.4.  She was then
+transferred to [**Hospital1 18**] for futher care.
+.
+In the ED, initial labs remarkable for WBC 11.3, Hct 27.8, BNP
+[**Numeric Identifier 104608**], BUN 88/5.7. Patient was initially on dopamine for low BP
+but after propofol was switched to fentanyl/midazolam her BP
+came up and dopamine was weaned off. CXR was consistent with
+pulmonary edema. Renal was contact[**Name (NI) **] for need of emergent
+dialysis. VS prior to transfer BP 97/59 HR 57 Sat 100% on CMV
+100% FiO2, Tv 480 mL and PEEP 10.
+.
+On the floor, she is intubated and sedated.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:
+- systolic CHF with EF 30 %
+- recent NSTEMI
+3. OTHER PAST MEDICAL HISTORY:
+-end-stage renal disease, status post allograft transplant in
+[**2197**] complicated by rejection, now again with chronic renal
+insufficiency
+-CAD, status post LAD and RCA stents
+-congestive heart failure (EF 30%, [**2201**])
+-HTN, poorly controlled
+-peripheral [**Year (4 digits) 1106**] disease s/p R to L fem-fem bypass, R
+external iliac stenting
+-scleroderma
+-history of GI bleed
+
+Social History:
+Lives at home with husband and son.
+- Tobacco history: Heavy [**Year (4 digits) 1818**], quit in [**Month (only) 958**]
+- Alcohol/Drugs: Denies EtOH and drug use.
+
+
+Family History:
+No FmHx of MI, HTN, CA, HL.  Father - brain cancer, died in his
+30's
+
+Physical Exam:
+ADDMISSION EXAM:
+General: Intubated, sedated, not responding to stimuli
+HEENT: Sclera anicteric, DMM, 1-2mm pupils but equal and
+reactive
+Neck: supple, no LAD
+Lungs: Bilateral crackles
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly, multiple
+surgical scars
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+DISCHARGE EXAM:
+General: NAD, comfortable
+HEENT-PERRLA, EOMI
+LUNGS: CTABL, symmetrical chest wall movement
+GU: foley removed, urinating without difficulty
+Rest of exam unchanged from admission
+
+Pertinent Results:
+[**2204-6-4**] 11:49AM   GLUCOSE-145* UREA N-89* CREAT-5.8* SODIUM-143
+POTASSIUM-5.0 CHLORIDE-104 TOTAL CO2-23 ANION GAP-21*
+[**2204-6-4**] 04:23AM   UREA N-88* CREAT-5.7*
+[**2204-6-4**] 04:23AM   CK-MB-6 proBNP-[**Numeric Identifier 104608**]*
+[**2204-6-4**] 04:23AM   WBC-11.3* RBC-3.06* HGB-9.0* HCT-27.8* MCV-91
+MCH-29.2 MCHC-32.2 RDW-15.5
+[**2204-6-4**] 04:23AM   FIBRINOGE-545*
+[**2204-6-4**]:Rate PR QRS QT/QTc P QRS T
+         67 172 106 394/406 47 -1 106
+
+DISCHARGE LABS:
+[**2204-6-10**] 07:00AM BLOOD WBC-6.2 RBC-3.08* Hgb-9.2* Hct-27.6*
+MCV-90 MCH-29.9 MCHC-33.3 RDW-15.1 Plt Ct-154
+
+[**2204-6-11**] 06:40  Glucose  140  UreaN 58* Creat3.9*  Na141 K 4.0
+Cl100  HCO327     AnGap18
+[**2204-6-11**] 06:40   Ca 9.0 P 5.6* Mg 1.9
+[**2204-6-9**] 08:00    TacroFK <2.01
+
+
+[**2204-6-4**] ECHO:  The left atrium is elongated. No atrial septal
+defect is seen by 2D or color Doppler. There is mild symmetric
+left ventricular hypertrophy. The left ventricular cavity size
+is normal. Overall left ventricular systolic function is
+severely depressed (LVEF= 20-25 %) with global hypokinesis and
+regional akinesis/dyskinesis of the distal LV/apex.The inferior
+wall is akinetic. No masses or thrombi are seen in the left
+ventricle. There is no ventricular septal defect. The right
+ventricular free wall is hypertrophied. Right ventricular
+chamber size is normal with borderline free wall contractility
+(RV apex not well seen). The diameters of aorta at the sinus,
+ascending and arch levels are normal. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild (1+) mitral regurgitation is seen. The
+pulmonary artery systolic pressure could not be determined.
+There is an anterior space which most likely represents a
+prominent fat pad.
+
+CXR [**2204-6-4**]:  Cardiomegaly, [**Month/Day/Year 1106**] congestion, and bilateral
+parenchymal
+opacities most compatible with pulmonary edema. Radiographic
+followup after diuresis is recommended.
+
+Renal Transplant US [**2204-6-4**]:  Progression of high resistance
+pattern of flow within the transplanted kidney with lack of
+antegrade diastolic flow in the intrarenal and main renal
+arteries. Patent renal vein.
+
+BILAT LOWER EXT VEINS PORT  [**2204-6-4**]
+No evidence of DVT.
+
+CHEST (PORTABLE AP) [**2204-6-5**]:
+Pulmonary edema present on [**6-4**] has substantially improved.
+Residual
+opacification at the lung bases is probably a combination of
+residual edema, pleural effusions and atelectasis.
+Heart size is normal. Mediastinal and hilar contours are
+unremarkable. Tip
+of the endotracheal tube, with the chin in neutral or elevation
+is less than 2 cm from the carina and should be withdrawn 2-3 cm
+to avoid unilateral intubation. Clinical service notified.
+
+CHEST (PA & LAT)  [**2204-6-7**]
+Comparison is made with prior study [**6-5**].
+Cardiomegaly is unchanged. Moderate-to-large bilateral pleural
+effusions are larger on the left side associated with
+atelectasis in the bases of the lungs, left greater than right.
+Multiple calcified lung nodules in the right upper lobe are
+again noted. Pulmonary edema continues to improve, now mild.
+There are no new lung abnormalities.
+
+
+Brief Hospital Course:
+Assessment and Plan:
+61 yo F with CAD, CHF EF 30%, ESRD s/p transplant now failing,
+not yet on HD who presented to OSH with dyspnea and was
+intubated due to pulmonary edema causing respiratory distress.
+Now transferred to [**Hospital1 18**] for emergent HD.
+
+#. Respiratory distress: Patient presented to OSH with dyspnea
+and was intubated due to respiratory distress. A CXR showed
+pulmonary edema and her BNP was measured at [**Numeric Identifier 104608**]. Felt to be
+secondary to worsening renal function causing oliguria, fluid
+overload and pulmonary edema due to fluid poor cardiac reserve.
+Patient was started on lasix drip with good urine output and was
+extubated on [**6-6**]. She has been slowly weaned off of O2
+requirements and is now saturating 98% on room air.
+
+#. AoCRF: Patient's last Cr was 4.4 at PCP's office on [**5-29**] and
+5.7 on [**6-6**] during this admission. Unclear as to cause of acute
+change but failing transplant is most likely.  Renal ultrasound
+showed progression of high resistance pattern of flow within the
+transplanted kidney with lack of antegrade diastolic flow in the
+intrarenal and main renal arteries. Patent renal vein. A right
+IJ tunneled line was placed and hemodialysis was started during
+this admission. She received 3 HD treatments prior to discharge.
+She will be continuing HD on a regular out patient basis. Per
+nephrology recommendations we will be continuing Tacrolimus,
+Mycophenolate Mofetil and Prednisone for her renal transplant.
+She was setup for M,W,F HD as outpt.
+
+#. Congestive Heart Failure: A cardiolgy evaluation was
+performed while she was in the MICU given her history of
+worsening SOB and fluid overload on admission. An echocardiogram
+was performed on this admission which showed overa

@@ -1,0 +1,118 @@
+Admission Date:  [**2178-7-26**]              Discharge Date:   [**2178-7-31**]
+
+Date of Birth:  [**2121-3-31**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Thorazine
+
+Attending:[**Last Name (NamePattern1) 1561**]
+Chief Complaint:
+Respiratory Failure
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+57 M with PMH COPD on home oxygen, chronic prednisone and
+increased dose on days prior to admit. no reported sx of URI but
+noted resp distress. Pt had resp failure on floor, intubation
+and ICU transfer,and CT showing question tracheomalacia pt then
+transfered to [**Hospital1 18**] for eval possible surgical intervention
+
+Past Medical History:
+COPD
+Afib/Flutter
+depression
+OSA
+prior IVDA
+
+Social History:
+90 PY smoking hx, (presently 1ppd)
+EtOH abuse quit 15 yr ago
+hx IVDA (heroin)
+
+Family History:
+F-CVA @44
+M-breast CA
+
+Physical Exam:
+VS:  HR 77, BP 132/67, RR 20, 98%
+:intubated sedated
+HEENT:[**Last Name (LF) 2994**], [**First Name3 (LF) 2995**]
+CV:IRREG,
+Resp:CTA Bilat
+Abd:soft, ND
+
+
+Pertinent Results:
+[**2178-7-26**] 10:16PM   TYPE-ART PO2-105 PCO2-73* PH-7.43 TOTAL
+CO2-50* BASE XS-20 INTUBATED-INTUBATED
+[**2178-7-26**] 09:50PM   WBC-5.8 RBC-4.15* HGB-12.5* HCT-37.5* MCV-90
+MCH-30.1 MCHC-33.4 RDW-14.1
+[**2178-7-26**] 09:50PM   PT-17.4* PTT-28.7 INR(PT)-2.0
+
+Brief Hospital Course:
+Pateint admitted to the ICU, imaging reviewed and Bronchoscopy
+performed which showed only mild tracheomalacia not requiring
+surgical intervention, end stage lung disease from emphysema and
+mediastinal and hilar adenopathy not suspicious and patient felt
+to be doubtful candidate for any type of surgical intervention.
+Findings were discussed with family who decide to make patient
+DNR/DNI and [**Name (NI) 3225**], pt was extubated on that protocol and
+fortunately was able to tolerate extubation, and was responsive
+and interactive. with continued respiratory therapy, nebulizers,
+and oxygen, pt improved and was able to tolerate diet. The [**Name (NI) 3225**]
+order was rescinded, the DNR/DNI order was maintained and the
+patient was felt to be a candidate for hospice.
+
+Medications on Admission:
+coumadin
+lopressor
+methadone
+lasix
+protonix
+albuterol
+ipratropium
+methylpredisone
+
+Discharge Medications:
+albuterol nebs prn
+ipratropium nebs prn
+Oxygen
+1. Methadone 40 mg Tablet, Soluble Sig: Three (3) Tablet,
+Soluble PO DAILY (Daily).
+2. Midazolam 1 mg/mL Solution Sig: 1-2 mg Injection Q4H (every 4
+hours) as needed.
+3. Lorazepam 2 mg/mL Syringe Sig: 2-6 mg Injection Q4H (every 4
+hours) as needed for anxiolytic.
+4. Morphine 10 mg/mL Syringe Sig: 1-10 mg Injection Q2H (every 2
+hours) as needed.
+5. Dolasetron 12.5 mg/0.625 mL Solution Sig: One (1) solution
+Intravenous  Q8H (every 8 hours) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) **]
+
+Discharge Diagnosis:
+Respiratory Failure
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Discharge to Hospice. Comfort care. No follow up indicated
+unless prn with PCP
+
+Followup Instructions:
+ patient being discharged to Hospice
+follow up with PCP as needed
+
+
+

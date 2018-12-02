@@ -1,0 +1,224 @@
+Admission Date:  [**2124-5-20**]              Discharge Date:   [**2124-7-6**]
+
+Date of Birth:  [**2066-4-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3913**]
+Chief Complaint:
+productive cough, shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Patient is a 58 yo man with PMH significant for CML s/p allo SCT
+approximately 2 1/2 years ago and chronic GVHD on
+Cellcept/Prednisone, chronic RUQ pain, pseudomonas in sputum, PE
+on Lovenox, multiple vertebral fractures, and chronic lower
+extremity edema with intermittent episodes of cellulitis
+presenting with a productive cough and shortness of breath for a
+few weeks.  His cough has been productive of a significant
+amount of greyish-white sputum.  He has noticed intermittent
+wheezing and congestion.  He has noticed that his shortness of
+breath has worsened dramatically over the past few weeks.
+Currently he can only wheel himself 20 yards without getting
+short of breath, whereas he stated that he could wheel himself
+for a mile or so in the past.  He also has significant lower
+extremity edema, although he can ambulate with a walker.  His
+legs are wrapped, weeping fluid, and the bandage on his right
+leg is soaked through with blood.  He denies any fevers, sweats,
+chills, loss of appetite, nausea, vomiting, or change in bowel
+habits.  He has a history of a recent pneumonia for which he was
+treated with azithromycin.  He also has had a course of
+linezolid for VRE bacteremia which he contracted during a
+hospitalization
+for cellulitis.
+
+Past Medical History:
+# CML see below
+# chronic GVH on immunosuppressants
+# Chronic RUQ pain since [**2113**]
+- work up unrevealing
+- on narcotics
+# h/o pseudomonas and stenotrophomonas in sputum
+# GERD w/ Barrett's esophagus
+# Hypertension
+# h/o pulmonary embolism in [**3-24**]
+
+
+Social History:
+Lives with his sister. Previously worked as a manufacturing
+manager, is now on disability
+Tob: quit x12yrs; 1ppd 10yrs pack-year history
+EtoH: none
+Illicits: remote MJ use
+
+
+Family History:
+Father with diabetes mellitus, BPH, alive at 85yrs
+Mother with h/o breast cancer; d. TIAs and CVD at 75yrs
+Sister with h/o breast cancer in her 50s, atrial fibrillation
+Two brothers with h/o melanoma
+
+
+Physical Exam:
+Admission Exam:
+
+VS: T 97.3 BP 110/70 HR 92 R 20 O2 sat 94% 2L
+Gen: visibly short of breath, but in NAD
+HEENT: NCAT, anicteric, PERRLA, EOMI, OP clear, no thrush, MM
+dry
+Neck- supple, no LAD
+Cor-tachy but regular, no murmurs
+Lungs- coarse rhonchi throughout, expiratory wheezing throughout
+
+Abd- +bs, distended, non-tender, no rebound or guarding
+Extrem- 2+ pitting edema to knees b/l, bleeding wound on right
+anterior shin, toes on right foot are dusky and cool, left foot
+is warm, no palpable pulses
+Neuro- grossly intact
+
+Discharge exam:
+
+Gen: NAD
+HEENT: NCAT, anicteric, PERRLA, EOMI, OP clear, no thrush, MMM
+Neck- supple, no LAD
+Cor-regular rate and rhythm, no m/r/g
+Lungs- mild crackles throughout
+Abd- +bs, distended, non-tender, no rebound or guarding
+Extrem- 1+ edema to knees b/l, wound on right anterior shin not
+bleeding, toes on right foot are dusky and cool, left foot is
+warm, no palpable pulses
+Neuro- grossly intact
+
+Pertinent Results:
+GRAM STAIN (Final [**2124-5-21**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2124-5-25**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      ESCHERICHIA COLI.    HEAVY GROWTH.
+         WARNING! This isolate is an extended-spectrum
+beta-lactamase
+         (ESBL) producer and should be considered resistant to
+all
+         penicillins, cephalosporins, and aztreonam. Consider
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species.  Ertapenem = SENSITIVE.
+         Ertapenem sensitivity testing performed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+      ESCHERICHIA COLI.    MODERATE GROWTH.
+         WARNING! This isolate is an extended-spectrum
+beta-lactamase
+         (ESBL) producer and should be considered resistant to
+all
+         penicillins, cephalosporins, and aztreonam. Consider
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species.  Ertapenem = SENSITIVE.
+         Ertapenem sensitivity testing performed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------  =>32 R     =>32 R
+AMPICILLIN/SULBACTAM--    16 I        4 S
+CEFAZOLIN-------------  =>64 R     =>64 R
+CEFEPIME--------------       R          R
+CEFTAZIDIME-----------       R          R
+CEFTRIAXONE-----------  =>64 R          R
+CEFUROXIME------------  =>64 R     =>64 R
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN---------- =>128 R          R
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R     =>16 R
+
+[**2124-7-6**] 12:00AM BLOOD WBC-3.6* RBC-2.93* Hgb-9.4* Hct-29.8*
+MCV-102* MCH-32.0 MCHC-31.5 RDW-19.3* Plt Ct-157
+[**2124-7-4**] 12:19AM BLOOD Neuts-77.7* Lymphs-9.8* Monos-12.1*
+Eos-0.4 Baso-0.1
+[**2124-7-5**] 12:00AM BLOOD PT-10.2* PTT-27.4 INR(PT)-0.8*
+[**2124-7-6**] 12:00AM BLOOD Glucose-97 UreaN-20 Creat-0.5 Na-140
+K-4.0 Cl-100 HCO3-34* AnGap-10
+[**2124-7-6**] 12:00AM BLOOD ALT-69* AST-62* LD(LDH)-292* AlkPhos-419*
+TotBili-0.2
+[**2124-7-6**] 12:00AM BLOOD Calcium-8.6 Phos-2.5* Mg-2.0
+[**2124-6-30**] 03:21PM BLOOD Type-ART Temp-37 pO2-42* pCO2-57* pH-7.38
+calTCO2-35* Base XS-6 Intubat-NOT INTUBA Comment-RECEIVED O
+
+[**2124-6-8**] 10:31 am BRONCHOALVEOLAR LAVAGE     Site: UPPER LOBE
+      BRONCHIAL LAVAGE, RT UPPER LOBE.
+
+   GRAM STAIN (Final [**2124-6-8**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      1+    (<1 per 1000X FIELD):   COLUMNAR EPITHELIAL CELLS.
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      2+   (1-5 per 1000X FIELD):   BUDDING YEAST.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS, CHAINS, AND
+CLUSTERS.
+
+   RESPIRATORY CULTURE (Final [**2124-6-13**]):
+      10,000-100,000 ORGANISMS/ML. OROPHARYNGEAL FLORA.
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..
+         SECOND MORPHOLOGY.
+      YEAST.    QUANTITATION NOT AVAILABLE.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+CEFEPIME--------------    16 I        8 S
+CEFTAZIDIME-----------    16 I        8 S
+CIPROFLOXACIN---------     1 S        2 I
+GENTAMICIN------------     8 I        4 S
+MEROPENEM-------------  =>16 R     =>16 R
+PIPERACILLIN----------    32 S       32 S
+PIPERACILLIN/TAZO-----    64 S       16 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+
+   LEGIONELLA CULTURE (Final [**2124-6-15**]):    NO LEGIONELLA
+ISOLATED.
+
+   POTASSIUM HYDROXIDE PREPARATION (Final [**2124-6-8**]):
+      NO FUNGAL ELEMENTS SEEN.
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      [**2124-6-8**]):    NEGATIVE for Pneumocystis jirovecii
+(carinii)..
+
+   FUNGAL CULTURE (Final [**2124-6-22**]):
+      YEAST.
+
+   ACID FAST SMEAR (Final [**2124-6-9**]):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+
+
+Brief Hospital Course:
+This is a 58 yo man with PMH significant for CML s/p allo SCT
+approximately 2 1/2 years ago and chronic GVHD on
+Cellcept

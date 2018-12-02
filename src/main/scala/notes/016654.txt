@@ -1,0 +1,223 @@
+Admission Date:  [**2129-3-22**]              Discharge Date:   [**2129-3-28**]
+
+Date of Birth:  [**2091-7-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Gatifloxacin / Bactrim / Seroquel / Latex
+
+Attending:[**Last Name (NamePattern1) 495**]
+Chief Complaint:
+pneumonia, hypotension, sepsis
+
+Major Surgical or Invasive Procedure:
+Subclavian Central Venous Line insertion and removal
+Left internal jugular central venous line insertion
+Bronchoscopy
+
+
+History of Present Illness:
+37 yo male with spina bifida, chronic respiratory failure on
+chronic vent, stage IV decub ulcer, h/o PE, h/o frequent UTIs,
+and a patient in [**Hospital3 105**] who presents today for
+hypotension, mental status change, LLL pneumonia, diarrhea.
+Patient also has large Stage IV sacral decubitus ulcer. Patient
+was initially noted to have LLL infiltrate with WBC 20K, started
+on augmentin. Then on [**1-20**], noted to have some altered mental
+status and started on unasyn for broad coverage. SBP at [**Hospital1 **]
+was down to the 70s, but on the way to the ED, improved to 90s
+with IVFs (unknown amount).
+
+In the ED, the patient's vitals were 100.2, 78/42, 90, 25, 98%
+on AC 650/10/50%/5. In the ED, the patient was given Cefepime 2
+gm IV x 1, and vancomycin 1 gm IV x 1, as well as 3 liters of
+NS. The UA was positive, cultures sent and pending, and WBC
+18.8. He had a left SC placed in the ED and transferred for
+sepsis.
+
+ROS: denies pain, no nausea, vomiting, CP, SOB, excessive
+secretions, abdominal pain. Reports having fevers, diarrhea.
+Otherwise without complaints.
+
+
+Past Medical History:
+Spina Bifida
+Chronic Respiratory Failure due to hypercapnea, vent dependant
+s/p tracheostomy
+Stage IV sacral decubitus ulcer
+kyphoscoliosis
+H/o gallstones
+h/o necrotizing pancreatitis
+h/o prostatitis
+DM secondary to pancreatic insufficiency
+Anemia of chronic disease
+Hypertension
+h/o frequent UTIs
+s/p cholecystectomy
+s/p gastrocutaneous fistula repair
+
+
+Social History:
+Long term acute care rehabilitation hospital patient.
+Chronically on ventilator. No tobacco; ETOH, or drug
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: 98.3 102/56 92 100% on AC 650/12/50%/5
+GEN: obese, trach in place, responding to questions
+HEENT: trach in place; difficult to assess JVP 2/2 body habitus
+CV:  RRR, no murmurs appreciated
+LUNGS:  coarse mechanical BS; decreased on left lower base; no
+wheezes
+ABDOMEN:  obese, NT.  normal BS; urostomy tube in place
+EXTREMITIES: 1+ edema BLE
+NEURO:  A/O x 3; minimally able to move lower extremities; able
+to move upper extremitis
+SKIN:  large approx 8-10 cm Stage IV sacral decubitus ulcer; no
+pus drainage
+
+
+Pertinent Results:
+[**2129-3-28**] 04:20AM BLOOD WBC-10.9 RBC-3.79* Hgb-8.3* Hct-27.2*
+MCV-72* MCH-22.0* MCHC-30.6* RDW-19.3* Plt Ct-296
+[**2129-3-22**] 05:10PM BLOOD WBC-18.8* RBC-4.02* Hgb-8.8* Hct-29.1*
+MCV-72* MCH-21.8* MCHC-30.2* RDW-16.9* Plt Ct-226
+[**2129-3-28**] 04:20AM BLOOD PT-15.6* PTT-26.9 INR(PT)-1.4*
+[**2129-3-28**] 04:20AM BLOOD Glucose-96 UreaN-10 Creat-0.7 Na-140
+K-4.0 Cl-113* HCO3-17* AnGap-14
+[**2129-3-22**] 11:00PM BLOOD ALT-13 AST-14 LD(LDH)-135 AlkPhos-105
+TotBili-1.2
+[**2129-3-28**] 04:20AM BLOOD Calcium-8.4 Phos-2.0* Mg-1.8
+[**2129-3-22**] 05:17PM BLOOD Lactate-1.4
+
+CXR [**3-22**]:
+IMPRESSION:
+1. Placement of left subclavian central venous catheter
+terminating in the left jugular vein. Repositioning needed. This
+has been flagged to the ED dashboard.
+2. Near complete opacification of the left hemithorax, which
+could represent pneumonia and/or effusion.
+
+CXR [**3-23**]:
+IMPRESSION:
+1. Status post replacement of an endotracheal tube with a
+tracheostomy tube in satisfactory location.
+2. Better aeration left main bronchus, but persistent left
+atelectasis.
+
+CXR [**3-25**]:
+IMPRESSION: Persistent left upper and lower lobe pneumonia.
+
+CXR [**3-28**]:
+As compared to the previous radiograph, the normally ventilated
+apical areas in the left lung have further decreased. Otherwise,
+the radiographic appearance is unchanged.
+
+[**2129-3-22**] 05:18PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.022
+[**2129-3-22**] 05:18PM URINE Blood-LG Nitrite-NEG Protein-100
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-MOD
+[**2129-3-22**] 05:18PM URINE RBC-21-50* WBC->50 Bacteri-MOD Yeast-NONE
+Epi-0
+[**2129-3-23**] 12:11AM URINE Hours-RANDOM UreaN-148 Creat-82 Na-28
+
+[**2129-3-22**] 4:50 pm BLOOD CULTURE      #2.
+   Blood Culture, Routine (Final [**2129-3-28**]):    NO GROWTH.
+
+[**2129-3-22**] 5:18 pm URINE     Site: CLEAN CATCH
+
+                            **FINAL REPORT [**2129-3-25**]**
+
+   URINE CULTURE (Final [**2129-3-25**]):
+      ESCHERICHIA COLI.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------     2 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN-------- =>512 R
+PIPERACILLIN---------- =>128 R
+PIPERACILLIN/TAZO----- =>128 R
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+[**2129-3-23**] 8:00 am SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal.
+
+                            **FINAL REPORT [**2129-3-27**]**
+
+   GRAM STAIN (Final [**2129-3-23**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2129-3-27**]):
+      SPARSE GROWTH OROPHARYNGEAL FLORA.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+      GRAM NEGATIVE ROD(S).    SPARSE GROWTH.
+         OF TWO COLONIAL MORPHOLOGIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+AMIKACIN--------------     8 S
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     2 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------     4 S
+PIPERACILLIN----------    32 S
+PIPERACILLIN/TAZO-----    16 S
+TOBRAMYCIN------------  =>16 R
+
+
+Brief Hospital Course:
+A/P: 37 yo male with spina bifida, h/o hypercarbic resp failure
+on chronic vent support, h/o recurrent UTIs, a/w sepsis
+(hypotension, fever, LLL infiltrate, positive UA)
+
+#. Sepsis: Patient was admitted to the [**Hospital Unit Name 153**] tachycardic,
+initially hypotensive responding to IVFs, and leukocytosis with
+positive UA and CXR c/w pneumonia.  He was initially started on
+vanco/cefepime in the ICU.  His blood cultures remained
+negative, but his urine grew resistant E.coli which was
+sensitive to cefepime.  The sputum grew P. aureginosa which was
+also found to be sensitive to cefepime.  His fever curve
+improved, his WBC improved, and he was hemodynamically stable.
+He did not require any changes to his home ventilator settings
+except for a slight decrease in TV to prevent barotrauma to his
+right lung that did not have evidence of PNA.  He had diarrhea,
+but was found to have negative C.diff.  He also had a large
+sacral stage IV decubitus ulcer which was evaluated by wound
+care.  The patient does not like frequent turning, but nursing
+tried to maintain the area clean.  His hypotension resolved with
+IVFs.  He had a left subclavian placed initially which was then
+removed and a Left IJ was placed.  He also had a midline placed
+prior to coming to [**Hospital1 18**].  He will be treated for a full 2 week
+course of cefepime (started [**3-22**]) to cover for complicated UTI
+and Hospital/Ventilator associated pneumonia.
+
+#. Acute Kidney Injury: creatinine up to 1.9 from 0.7 on [**3-21**];
+this was most likely in the setting of hypotension/sepsis in the
+setting of infection.  With IVFs his creatinine improved back to
+his baseline of <1.0.  His furosemide was held initially but
+then restarted at home dose prior to discharge.
+
+#. Chroni

@@ -1,0 +1,222 @@
+Admission Date:  [**2113-3-17**]              Discharge Date:   [**2113-3-30**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+s/p AVR(#21StJude porcine)CABGx2(SVG-PDA,SVG-OM)[**3-24**]
+
+
+History of Present Illness:
+83 yo female with known severe AS, CAD presents with acute on
+chronic diastolic heart failure.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+# Deaf, communicates well & reads lips well
+# HTN
+# H/O TIA
+# COPD (emphysema) - on albuterol
+# Hysterectomy
+# Appendectomy
+
+
+Social History:
+Cardiac Risk Factors: Hypertension, tobacco
+
+
+Family History:
+NC
+
+Physical Exam:
+VS:Hr:73, 126/83,RR-20, 96% on 2Lpm
+General:AxOx3
+Lungs: (B) basilar crackles
+CVS: SEM III/VI, RRR
+ABD:benign
+EXT: o C/C/E
+No varicosities/No carotid bruits
+
+Pertinent Results:
+[**2113-3-28**] 05:15AM BLOOD WBC-7.7 RBC-3.07* Hgb-8.0* Hct-25.3*
+MCV-82 MCH-26.1* MCHC-31.7 RDW-16.0* Plt Ct-297
+[**2113-3-25**] 03:18AM BLOOD PT-13.1 PTT-36.8* INR(PT)-1.1
+[**2113-3-28**] 05:15AM BLOOD Glucose-114* UreaN-8 Creat-0.4 Na-137
+K-3.7 Cl-103 HCO3-30 AnGap-8
+RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  [**2113-3-27**] 4:19 PM
+
+CHEST (PORTABLE AP)
+
+Reason: ? ptx s/p chest tube removal
+
+[**Hospital 93**] MEDICAL CONDITION:
+83 year old woman with s/p cabg
+REASON FOR THIS EXAMINATION:
+? ptx s/p chest tube removal
+HISTORY: Chest tube removal. Pneumothorax.
+
+A single portable radiograph of the chest demonstrates interval
+removal of the support lines seen on [**2113-3-24**]. There are
+bilateral pleural effusions, worse on the left than the right.
+Bibasilar atelectasis is present as well. Patient is status post
+CABG. The aorta is calcified and tortuous.
+
+IMPRESSION:
+
+Interval removal of support lines. No pneumothorax.
+
+Persistent left-sided pleural effusion and bibasilar
+atelectasis.
+
+DR. [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 77924**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 77925**]
+(Complete) Done [**2113-3-24**] at 2:44:54 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2029-5-27**]
+Age (years): 83 F  Hgt (in): 64
+BP (mm Hg): 123/57  Wgt (lb): 125
+HR (bpm): 82  BSA (m2): 1.60 m2
+Indication: Intra-op TEE for AVR, CABG, ? MVR
+ICD-9 Codes: 786.05, 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2113-3-24**] at 14:44    Interpret MD: [**Name6 (MD) 928**]
+[**Name8 (MD) 929**], MD, MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW01-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.1 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  4.3 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  1.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.7 cm
+Left Ventricle - Fractional Shortening:  *0.26  >= 0.29
+Left Ventricle - Ejection Fraction:  50%  >= 55%
+Left Ventricle - Stroke Volume:  79 ml/beat
+Left Ventricle - Cardiac Output:  6.44 L/min
+Left Ventricle - Cardiac Index:  4.03  >= 2.0 L/min/M2
+Aorta - Annulus:  2.3 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.6 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.5 cm  <= 3.0 cm
+Aorta - Ascending:  3.3 cm  <= 3.4 cm
+Aorta - Arch:  2.3 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *2.6 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *5.0 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *98 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  67 mm Hg
+Aortic Valve - LVOT pk vel:  0.68 m/sec
+Aortic Valve - LVOT VTI:  25
+Aortic Valve - LVOT diam:  2.0 cm
+Aortic Valve - Valve Area:  *0.5 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  1.5 m/sec
+Mitral Valve - Mean Gradient:  4 mm Hg
+Mitral Valve - Pressure Half Time:  94 ms
+Mitral Valve - MVA (P [**12-7**] T):  2.3 cm2
+
+Findings
+LEFT ATRIUM: Mild LA enlargement. Moderate to severe spontaneous
+echo contrast in the LAA. Depressed LAA emptying velocity
+(<0.2m/s)
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum. No
+ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Low
+normal LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Focal calcifications in ascending aorta. Normal aortic arch
+diameter. Simple atheroma in aortic arch. Normal descending
+aorta diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Severe AS (AoVA
+<0.8cm2). Moderate (2+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Severe
+mitral annular calcification. Calcified tips of papillary
+muscles. Cannot exclude MS. [**Name13 (STitle) 15110**] to co-existing AR, the pressure
+half-time estimate of mitral valve area may be an OVERestimation
+of true area. Mild to moderate ([**12-7**]+) MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. See Conclusions for post-bypass data The
+post-bypass study was performed while the patient was receiving
+vasoactive infusions (see Conclusions for listing of
+medications).
+Conclusions
+PRE-BYPASS:
+1. The left atrium is mildly dilated. Moderate spontaneous echo
+contrast is present in the left atrial appendage. The left
+atrial appendage emptying velocity is depressed (<0.2m/s). No
+atrial septal defect is seen by 2D or color Doppler.
+2. Left ventricular wall thicknesses and cavity size are normal.
+Overall left ventricular systolic function is low normal (LVEF
+50-55%).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are simple atheroma in the aortic arch. There are
+simple atheroma in the descending thoracic aorta.
+5. There are three aortic valve leaflets. The aortic valve
+leaflets are severely thickened/deformed. There is severe aortic
+valve stenosis (area <0.8cm2). Moderate (2+) aortic
+regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. There is
+severe mitral annular calcification. The study is inadequate to
+exclude significant mitral valve stenosis. Due to co-existing
+aortic regurgitation, the pressure half-time estimate of mitral
+valve area may be an OVERestimation of true mitral valve area.
+Mild to moderate ([**12-7**]+) mitral regurgitation is seen.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including phenylephrine and is
+being AV paced.
+1. A bioprosthesis is well seated in the aortic position.
+Leaflets open well. Mean gradient across the valve is 16 mm of
+Hg. No AI jets are seen.
+2. MR is trace to mild.
+3. Aorta is intact post decannulation
+4. [**Hospital1 **]-ventricular function is preserved
+
+
+
+
+
+
+Brief Hospital Course:
+on [**2113-3-17**] Mrs.[**Known lastname **] was admitted to MWMC with acute
+exacerbation of CHF.She was stabilized and transferred to [**Hospital1 18**]
+for further cardiac workup. She has known severe AS ([**Location (un) 109**] 0.8
+cm'2), CAD, recent UGIB with duodenal ulcer and AVMs associated
+with SOB. GI was consulted for her recent history of GI bleed
+and guiac positive stools. Serial hematocrits were followed and
+on [**2113-3-20**] EGD was performed which showed previous treated

@@ -1,0 +1,221 @@
+Admission Date:  [**2107-12-3**]              Discharge Date:   [**2107-12-12**]
+
+Date of Birth:  [**2029-1-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Nafcillin
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+RLE weakness, fever
+
+Major Surgical or Invasive Procedure:
+[**2107-12-4**]
+1. Bilateral T12 laminotomy.
+2. Laminectomy, L1, L2.
+3. Bilateral L3 laminotomy.
+4. Open bone biopsy, deep.
+[**2107-12-12**]
+-PICC placement
+
+
+History of Present Illness:
+The patient is a 78 yoM with h/o DM2, HTN, CKD (Cr was 2.4 on
+[**2107-11-26**] on last admission), CAD s/p MI on [**2107-11-26**], who
+presents with 3 days of lumbar back pain and F/C/rigors.  The
+day prior to admission, the patient went to [**Hospital1 **] [**Location (un) 620**] for
+acute on chronic lower extremity weakness without trauma (he
+normally uses two canes to ambulate, which is thought to be due
+to spinal stenosis).  He was found to be febrile to 104 with
+progressive right leg weakness and decreased rectal tone.  At
+[**Hospital1 **] [**Location (un) 620**], C/T/L spine MRI was concerning for epidural abscess
+though it was a poor quality film as they did not use gadolinium
+given CRI.  He was also found to have a UTI (has a urosomy bag)
+and was started on vanco/cipro prior to transfer for the UTI,
+possible leg cellulitis and epidural abscess.  He was
+transferred for surgery evaluation.  On admission to [**Hospital1 18**], [**Hospital1 **]
+[**Location (un) 620**] called to report he was growing GPC in [**3-19**] blood culture
+bottles from [**12-2**].
+.
+In the ED, he also received acetaminophen x2, zosyn,
+atorvastatin 80 mg, Carvedilol 25 mg, and isosorbide mononitrate
+(Extended Release) 30mg.
+.
+Of note, on [**2107-11-26**], he was admitted for c/f STEMI, though
+ultimately did not have a cath b/c it was felt his case was
+atypical for STEMI.  He was managed medically with asa, plavix
+600 mg, heparin gtt, nitro gtt. He subsequently underwent an
+ECHO with limited views which revealed hypokinesis of the distal
+septum, apex and distal anterior and inferior walls with an EF
+of 45% and no prior ECHO for comparison. Patient requested
+transfer to [**Hospital 1268**] [**Hospital6 **] for insurance issues
+and was transferred shortly thereafter. Initial TnT was 0.1 and
+rose to 1.3 prior to transfer. CK rose to 250 with MB 18.  It is
+unclear exactly what happened at [**Last Name (un) **] VA and he was
+discharged on [**2107-11-29**].
+
+Past Medical History:
+# Diabetes 20 years, neuropathy, nephropathy, ?charcot foot
+# Dyslipidemia
+# HTN
+# CAD s/p recent MI 6 days ago
+- h/o silent MI, ?PCI in past
+# CKD
+# PMR on prednisone
+# Bladder CA s/p urostomy
+# Depression
+# s/p Appendectomy
+
+Social History:
+Lives alone in [**Location (un) **] with his girlfriend. Korean [**Name2 (NI) **]
+veteran. 90 pack year smoking history, quit 40 years ago. Denies
+tobacco or illicit drug use.
+
+Family History:
+Doesn't know family history
+
+Physical Exam:
+VS on arrival to the ED: T 104.4, BP 214/82, HR 86, 20, 95% on
+RA
+VS on arrival to the ICU: T 98.2 (post Tylenol), BP 113/55, HR
+63, 20, 94% on RA
+Gen: elderly man, comfortable in bed
+HEENT: poor dentition, OP clear, nml sclera
+NECK: JVD to midneck
+CV: RR, no m/r/g appreciated
+LUNGS: CTA b/l, no w/c
+ABD: somewhat obese, soft, NTND, + BS, no fluid wave; RLW ostomy
+bag with clean healthy-looking stump
+EXT: 2+ LE edema
+NEURO: AAOx3, CN II-XII in tact, 2-3/5 strength on LE b/l, [**3-20**]
+strength on upper extremities b/l, 2+ patellar & ankle reflexes
+b/l symmetric, down-going Babinski, normal sensation on legs
+throughout
+DRE: deferrred on arrival to ICU (decreased tone per ED and
+ortho spine)
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**2107-12-2**] 10:36PM   LACTATE-2.1*
+[**2107-12-2**] 10:20PM   GLUCOSE-179* UREA N-59* CREAT-2.9* SODIUM-137
+POTASSIUM-5.2* CHLORIDE-105 TOTAL CO2-24 ANION GAP-13
+[**2107-12-2**] 10:20PM   CK(CPK)-110
+[**2107-12-2**] 10:20PM   CK-MB-2 cTropnT-0.71*
+[**2107-12-2**] 10:20PM   CRP-78.8*
+[**2107-12-2**] 10:20PM   WBC-9.9 RBC-3.58* HGB-10.8* HCT-32.2* MCV-90
+MCH-30.3 MCHC-33.7 RDW-16.3*
+[**2107-12-2**] 10:20PM   NEUTS-84.4* LYMPHS-10.5* MONOS-3.4 EOS-1.4
+BASOS-0.3
+[**2107-12-2**] 10:20PM   PLT COUNT-149*
+[**2107-12-2**] 10:20PM   PT-12.8 PTT-30.5 INR(PT)-1.1
+[**2107-12-2**] 10:20PM   SED RATE-90*
+.
+PERTINENT LABS/STUDIES:
+.
+Hct: 27.8 ([**12-3**]) -> 26.1 ([**12-7**]) -> 24.7 ([**12-12**])
+INR: 1.2
+ESR: 66
+CRP: 125.8
+Cr: 3.1 ([**12-3**]) -> 4.8 ([**12-7**]) -> 3.1 ([**12-12**])
+BUN: 62 -> 71
+K: 5.0 ([**12-3**]) -> 5.6 ([**12-12**])
+.
+Troponin: 0.70 ([**12-3**]) -> 0.32 -> 0.30 ([**12-5**])
+.
+TIBC: 172
+Vit  B12: 509
+Folate: 10.1
+Ferritin: 582
+TRF: 132
+.
+Vanco trough: 25.8 ([**12-12**]).
+.
+Urine eosinophils: positive ([**12-6**])
+.
+MICROBIOLOGY:
+[**2107-12-2**] 10:20 pm BLOOD CULTURE
+
+                            **FINAL REPORT [**2107-12-5**]**
+
+   Blood Culture, Routine (Final [**2107-12-5**]):
+      STAPH AUREUS COAG +.
+SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   Aerobic Bottle Gram Stain (Final [**2107-12-3**]):
+      GRAM POSITIVE COCCI IN CLUSTERS.
+      REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Numeric Identifier 100825**] AT 1814 ON
+[**2107-12-3**].
+
+   Anaerobic Bottle Gram Stain (Final [**2107-12-3**]):
+      GRAM POSITIVE COCCI IN CLUSTERS.
+===
+[**12-3**], [**12-4**] No growth blood cultures
+===
+[**2107-12-3**] 1:00 am URINE CULTURE (Final [**2107-12-4**]):
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION.
+===
+
+[**2107-12-7**] 12:55 pm URINE CULTURE (Final [**2107-12-8**]):    NO GROWTH.
+
+
+.
+ADMISSION EKG: sinus @ 71. RBBB. RAD. Inferior QWs. Compared to
+prior, little diagnostic change.
+.
+TRANSTHORACIC ECHOCARDIOGRAM [**2107-11-28**](@WXVA):
+Nl RV. Moderating thickened AV w/o AS. Trace AI. Mild MAC. No
+MS.
+[**Name13 (STitle) **] MR. [**First Name (Titles) **] [**Last Name (Titles) **]. EF 55%. Moderate concentric LVH. No regional
+WMA. Grade I diastolic dysfunction.
+.
+TRANSTHORACIC ECHOCARDIOGRAM [**2107-11-26**]:
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size. There is mild regional left ventricular systolic
+dysfunction with hypokinesis of the distal septum, apex and
+distal anterior and inferior walls. Not all of the remaining
+segments are visualized, but most appear to contract normally
+(LVEF = 45%). The aortic valve is not well seen. The mitral
+valve
+appears structurally normal with trivial mitral regurgitation.
+There is a trivial/physiologic pericardial effusion.
+IMPRESSION: Mild regional left ventricular systolic dysfunction,
+c/w CAD.
+.
+[**2107-12-3**] MRI C/T/L SPINE w/o CONTRAST (prelim read):  At L1-2,
+there is moderate spinal stenosis seen secondary to disc and
+facet degenerative changes. At L2-3, mild-to-moderate spinal
+stenosis with moderate right subarticular recess narrowing seen.
+ From L3-4 to L5-S1 level, degenerative disc disease and mild
+bulging identified. No spinal stenosis seen. There is no
+discitis, osteomyelitis, or epidural abscess. No paraspinal
+abscess identified.  IMPRESSION: Degenerative changes with
+moderate spinal stenosis at L1-2 and mild-to-moderate spinal
+stenosis at L2-3 level. No evidence of discitis, osteomyelitis,
+or epidural abscess.
+ .
+12/21 Persantine Stress Test:  No anginal symtoms or ischemic ST
+segment changes. Appropriate hemodynamic response to the
+Persantine infusion. Nuclear report sent separately. MPRESSION:
+Normal myocardial perfusion. Moderately enlarged left
+ventricular cavity size with mild global hypokinesis. Calculated
+left ventricular ejection fraction is 44%.
+.
+[**12-6**] ECHO TEE: No spontaneous echo contrast or thrombus is seen
+in the body of the left atrium/left atrial appendage or the body
+of the right atrium/right atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler. There is symmetric left
+vent

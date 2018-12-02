@@ -1,0 +1,213 @@
+Admission Date:  [**2140-4-28**]              Discharge Date:   [**2140-5-11**]
+
+Date of Birth:  [**2065-1-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+morphine / Zosyn
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+Respiratory failure, mass in left upper lobe
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+
+History of Present Illness:
+This is a 75-year-old gentleman with a pmhx. significant for
+malignant bladder cancer s/p elective radical cystectomy/ileal
+conduit on [**4-25**], HTN, hyperlipidemia, and new mass-like lesion
+obstructing proximal orifice of left upper lobe, who is
+transferred from [**Location (un) 28318**], [**State 1727**] for IP evaluation of lung
+lesion.
+.
+Mr. [**Known lastname 56711**] was initially diagnosed with low-grade high-volume
+bladder tumor approximately 1 year ago.  He had multiple
+resections of his tumor, but continued to suffer from gross
+hematuria.  In preparation for radical cystectomy, patient had
+an extensive metastatic evaluation, including chest CT, that
+revealed no metastatic disease outside of the bladder.  On [**4-25**],
+patient went for radical cystectomy; he initially did well but
+then developed increased 02 requirements over the next few days
+and eventually required reintubation.  A repeat CXR showed
+evidence of collapse of the left upper lobe, and a repeat CT
+scan confirmed collapse and question of a mass (The prior CT
+images were reviewed and in retrospect it appeared as though
+there was an upper lobe hilar mass i [**2140-3-1**] as well).
+Patient underwent bronchoscopy on [**4-27**] and a mass-like lesion
+was found obstructing the proximal orifice of the left upper
+lobe.  Washings were taken but biopsy was not done due to
+bleeding.    During hospitalization, patient also had fascial
+dehiscence and evisceration that required emergent return to the
+OR.
+.
+Patient is now being transferred to [**Hospital1 18**] for Interventional
+Pulmonology evaluation of bronchial mass.  He is intubated and
+on fentanyl boluses.  Vitals on arrival were: 100.1, HR: 143,
+BP: 119/66, and SPo2 92% on Fi02 70%, 8 driving pressure, 5 of
+PEEP.
+
+Past Medical History:
+--Bladder CA
+--Tracheal mass
+--COPD
+--HTN
+--Hyperlipidemia
+--Appendectomy
+--Bladder tumor resection
+
+Social History:
+Patient has a 60-pack-year history of smoking but is a current
+non-smoker.  He does not drink alcohol.  Other social history
+unable to be obtained.
+
+Family History:
+Significant for cardiac disease.
+
+Physical Exam:
+Admission Exam:
+VS: 100.1, HR: 141, BP: 108/64, SPO2 94% on FIO2 70%
+GENERAL:  Intubated, comfortable, responds to commands
+CHEST:  Clear anteriorly
+CARDIAC:  Tachycardic, regular rhythm, no MRG
+ABDOMEN: Abdominal wound with sutures in place, no drainage,
+tissue is pink, urostomy bag in place, no bowel sounds
+EXTREMITIES:  2+ edema in all four extremities, pneumoboots in
+place
+NEURO:  Responds to commands, sedated, looks comfortable
+.
+Discharge Exam [**2140-5-11**]
+VS: Tm99.6 tc98.7 p89 (88-109) BP 146/55 (125-169/51-87) rr13-25
+Sa02 92% 4LNC
+General Appearance: Alert, attentive, conversational and
+pleasant.
+HEENT: no oral lesions or ulcers
+Skin: diffuse symmetric erythematous macular coalescing rash
+over buttocks, groin, medial aspect of upper extremities BL
+Cardiovascular: S1/S2, RRR, no MRG
+Respiratory / Chest: L>R ronchi with transmitted breath sounds
+Abdominal: distension improved, non-tender, bandage over
+surgical retention sutures. Midline surgical incision without
+drainage. Urostomy with yellow drainage, hypoactive BS
+Extremities: Right lower extremity edema: 2+, Left lower
+extremity edema: 2+
+Neurologic: Conversant, following commands,  moving all
+extremities
+
+
+Pertinent Results:
+Admission Labs ([**2140-4-28**]):
+- ABG:
+TYPE-ART PEEP-8 O2-70 PO2-40* PCO2-51* PH-7.32* TOTAL CO2-27
+BASEXS-0
+- Chem:
+GLUCOSE-118* UREA N-34* CREAT-2.3* SODIUM-141 POTASSIUM-4.4
+CHLORIDE-106 TOTAL CO2-25 CALCIUM-7.8* PHOSPHATE-3.2
+MAGNESIUM-1.8
+- LFTs:
+ALT(SGPT)-14 AST(SGOT)-44* LD(LDH)-274* ALK PHOS-73 TOT BILI-0.5
+ALBUMIN-2.8* [**2140-4-28**] 03:34PM
+- CBC:
+WBC-11.2* RBC-3.20* HGB-10.2* HCT-29.1* MCV-91 MCH-31.9
+MCHC-35.0 RDW-14.5
+NEUTS-84.5* LYMPHS-9.9* MONOS-4.9 EOS-0.6 BASOS-0.2 PLT
+COUNT-263
+- Coags:
+PT-12.8 PTT-25.7 INR(PT)-1.1
+.
+[**2140-5-3**] 03:45PM BLOOD Glucose-114* UreaN-32* Creat-3.5* Na-142
+K-3.6 Cl-107 HCO3-28 AnGap-11
+
+DISCHARGE LABS
+[**2140-5-11**] 03:28AM BLOOD WBC-9.5 RBC-3.12* Hgb-9.5* Hct-29.1*
+MCV-93 MCH-30.5 MCHC-32.7 RDW-13.6 Plt Ct-466*
+[**2140-5-10**] 04:17AM BLOOD Neuts-90.3* Lymphs-5.1* Monos-3.5 Eos-1.0
+Baso-0.2
+[**2140-5-11**] 03:28AM BLOOD Glucose-133* UreaN-27* Creat-1.9* Na-141
+K-4.0 Cl-96 HCO3-35* AnGap-14
+[**2140-5-10**] 04:17AM BLOOD ALT-16 AST-33 LD(LDH)-333* AlkPhos-67
+TotBili-0.2
+[**2140-5-11**] 03:28AM BLOOD Calcium-8.0* Phos-3.1 Mg-2.0
+
+Micro:
+- BCx ([**4-29**]): negative
+- BCx ([**4-29**]): negative
+- UCx ([**5-3**]): negative
+- UCx ([**5-6**]): negative
+- BCx ([**5-7**]): no growth to date [**2140-5-11**]
+- Sputum cx [**5-7**]:
+   GRAM STAIN (Final [**2140-5-7**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**2140-5-9**]):
+      Commensal Respiratory Flora Absent.
+      YEAST.    SPARSE GROWTH.
+      YEAST.    RARE GROWTH.  2ND MORPHOLOGY.
+- Sputum Cx ([**4-29**]):
+   SPUTUM GRAM STAIN:
+      [**11-22**] PMNs and <10 epi cells/100X field. NO MICROORGANISMS
+SEEN.
+   RESPIRATORY CULTURE (Final [**2140-5-1**]):
+      Commensal Respiratory Flora Absent.
+      YEAST.    SPARSE GROWTH.  OF TWO COLONIAL MORPHOLOGIES.
+.
+Imaging:
+CXR [**2140-4-28**]:  Followup of the patient with bladder cancer after
+radical prostatectomy and new bronchial mass.  Portable AP chest
+radiograph was reviewed with no prior studies available for
+comparison.  Current study demonstrates the intubated patient
+with the ET tube tip being 5 cm above the carina. The NG tube
+tip is in the stomach. There is a large left hilar mass with
+left upper lobe atelectasis. The left hemidiaphragm is elevated.
+There is a curvilinear lucency surrounding the aortic arch most
+likely representing the Luftsichel sign associated with left
+upper lobe atelectasis. Right lung demonstrates a right lower
+lobe opacity, partially characterized on that study and may
+represent infectious process or partial atelectasis. Correlation
+with cross-sectional imaging is required. The partial imaging of
+the upper abdomen shows bilateral ureteral stents.
+.
+ECHO [**2140-4-29**]: Suboptimal images. The left atrium is normal in
+size. Left ventricular wall thickness, cavity size, and global
+systolic function are normal (LVEF >70%). Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. The estimated
+pulmonary artery systolic pressure is normal.
+.
+CT ABDOMEN / PELVIS [**2140-5-3**]
+1. Status post radical cystectomy and ileal conduit with no
+evidence of leak. Small amount of free fluid in the pelvis does
+not communicate with
+contrast-filled ileal conduit.
+2. Fatty liver. Cystic liver lesion in segment II with adjacent
+fatty
+sparing.
+3. Soft tissue lesion narrowing the left main and left upper
+lobe bronchus
+with left upper lobe atelectasis; incompletely imaged.
+4. Cholelithiasis; no evidence of acute cholecystitis.
+5. Incidental intramuscular lipoma between the internal and
+external left
+oblique muscle.
+
+CT CHEST [**2140-5-6**]
+FINDINGS:
+
+The patient is intubated, with the ET tube tip being
+approximately 4 cm above the carina. The NG tube tip is in the
+stomach. The right PICC line tip is at the low SVC.
+
+There are several mediastinal lymph nodes, some of them more
+than 1 cm in
+diameter. Although they may represent reactive findings, but
+they also can be enlarged due to neoplastic involvement giving
+the large mass in the left hilus, that appears to be located at
+the level of left main pulmonary artery, where it enters the
+lungs. The exact dimension of the mass is difficult to estimate
+given 

@@ -1,0 +1,211 @@
+Admission Date:  [**2182-8-9**]              Discharge Date:   [**2182-8-21**]
+
+Date of Birth:  [**2130-8-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Fentanyl
+
+Attending:[**Male First Name (un) 5282**]
+Chief Complaint:
+hematemesis
+
+Major Surgical or Invasive Procedure:
+intubation, extubation
+
+History of Present Illness:
+ Ms. [**Known lastname **] is a 51 yo woman with PMH significant for MELD 20
+EtOH cirrhosis c/b esophageal varices, encephalopathy, and
+ascites, EtOH abuse with history of DTs, and asthma admitted to
+the MICU for hematemesis. The patient woke this morning with and
+found blood coming from her mouth. The patient also notes
+diarrhea, abdominal pain and headache. The patient was found in
+the field to be confused with a bottle of alcohol and unable to
+provide a history. She was transferred to [**Hospital1 18**] ED. Of note, the
+patient was admitted to [**Hospital1 18**] from [**Date range (1) 31378**] for shortness
+of breath secondary to a large pleural effusion, EtOH withdrawl,
+alchohol hepatitis, and acute on chronic pancreatitis.
+.
+In the [**Hospital1 18**] ED, VS 137/77, HR 92-100, RR 20-30, 99% on face
+mask. The patient was intubated for airway protection. An OGT
+revealed 5cc of bright red blood and the patient was guaiac
+positive. Octreotide and PPI were started. Hepatology was
+consulted. Pt was given vanco and pip/tazo over concern for
+right lung field white out and ceftriaxone for SBP prophylaxis.
+The patient was then transferred to the MICU for further
+management.
+.
+ROS: Unable to obtain.
+
+
+Past Medical History:
+1. Alcoholic cirrhosis: Diagnosed in [**2178**], course has been
+compicated by esophageal varices, ascites, and hepatic
+encephalopathy
+2. Chronic pancreatitis
+3. Alcohol abuse: h/o DTs
+4. Asthma: Patient has required intubation on prior
+hospitalizations
+5. Uterine and cervical cancer: s/p hysterectomy in [**2166**]
+
+
+Social History:
+Patient lives alone. She has one son who lives in [**State 15946**] and is
+involved with legal troubles. She had a significant male partner
+for 8 years who died sudden 3 years ago with ICH. As a result,
+this has been extremely difficult for her and her alcohol
+consumption has continued to increase.
+
+Usually drinks mixed drinks with vodka - unable to say how many
+per day, but at least 4.  Smokes 1/2ppd for many years.  Denies
+IVDU
+
+
+Family History:
+Mother- died in 70s from GI bleeding [**1-21**] alcohol abuse
+Father- died in 70s from some type of cancer, also had alcohol
+abuse
+
+Physical Exam:
+vs: temp 99.3 F, BP 149/82, HR 120 (sinus tachy on monitor), O2
+sat 94-100% on 4 L NC
+Gen: lethargic, easily arousable by verbal stimuli, Ox3, +
+asterixis
+HEENT: Scleral icterus, small pupils 2mm/PERRLA, intact EOM
+CV: Nl S1+S2, no m/r/g
+Pulm: Decreased breath sounds on right base, dullness to
+percusion, + upper airway and upper lung fields with exp wheeze,
+Rales bil
+Abd: patient guarding during abdominal exam, abdomen distended,
+tender to palpation on epigastric area, +BS x4,
+Ext: Trace edema bilaterally.
+Neuro: lethargic and resposive to verbal stimuli, CNII-XII
+intact, able to follow commands
+Skin: Spider angioma
+GU: foley to BSD with dark yellowish/brownish urine
+
+
+Pertinent Results:
+[**2182-8-9**] 10:59PM URINE  COLOR-Yellow APPEAR-Clear SP
+[**Last Name (un) 155**]->1.050*
+[**2182-8-9**] 10:59PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM  UROBILNGN-4* PH-6.5 LEUK-NEG
+[**2182-8-9**] 10:59PM URINE  RBC-7* WBC-12* BACTERIA-NONE YEAST-NONE
+EPI-0
+[**2182-8-9**] 09:20PM   TYPE-ART TEMP-35.8 PO2-301* PCO2-44 PH-7.31*
+TOTAL CO2-23 BASE XS--4 INTUBATED-INTUBATED
+[**2182-8-9**] 09:04PM   GLUCOSE-127* UREA N-5* CREAT-0.4 SODIUM-138
+POTASSIUM-3.8 CHLORIDE-105 TOTAL CO2-21* ANION GAP-16
+[**2182-8-9**] 09:04PM   CALCIUM-7.6* PHOSPHATE-3.8 MAGNESIUM-2.0
+[**2182-8-9**] 09:04PM   WBC-10.1 RBC-2.73* HGB-9.4* HCT-29.8*
+MCV-109* MCH-34.6* MCHC-31.7 RDW-19.6*
+[**2182-8-9**] 04:23PM   LACTATE-2.4*
+[**2182-8-9**] 04:15PM   ALT(SGPT)-70* AST(SGOT)-176* ALK PHOS-112 TOT
+BILI-9.5* DIR BILI-4.7* INDIR BIL-4.8
+[**2182-8-9**] 04:15PM   LIPASE-136*
+[**2182-8-9**] 04:15PM   ALBUMIN-3.3* CALCIUM-8.4 PHOSPHATE-3.7
+MAGNESIUM-2.3
+[**2182-8-9**] 04:15PM   NEUTS-59.9 LYMPHS-25.7 MONOS-8.6 EOS-5.1*
+BASOS-0.7
+
+Micro:
+URINE CULTURE (Final [**2182-8-9**]):
+ESCHERICHIA COLI. >100,000 ORGANISMS/ML..
+WARNING! This isolate is an extended-spectrum beta-lactamase
+(ESBL) producer and should be considered resistant to all
+penicillins, cephalosporins, and aztreonam. Consider Infectious
+
+Disease consultation for serious infections caused by
+ESBL-producing species.
+ENTEROCOCCUS SP.. 10,000-100,000 ORGANISMS/ML..
+SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+ESCHERICHIA COLI
+| ENTEROCOCCUS SP.
+| |
+AMPICILLIN------------ =>32 R <=2 S
+AMPICILLIN/SULBACTAM-- 4 S
+CEFAZOLIN------------- =>64 R
+CEFEPIME-------------- R
+CEFTAZIDIME----------- R
+CEFTRIAXONE----------- =>64 R
+CEFUROXIME------------ =>64 R
+CIPROFLOXACIN--------- =>4 R
+GENTAMICIN------------ <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN-------- <=16 S <=16 S
+PIPERACILLIN---------- =>128 R
+PIPERACILLIN/TAZO----- <=4 S
+TETRACYCLINE---------- =>16 R
+TOBRAMYCIN------------ <=1 S
+TRIMETHOPRIM/SULFA---- =>16 R
+VANCOMYCIN------------ <=1 S
+.
+Studies:
+CTH: no significant change from prior study or acute process.
+.
+Chest Xray: Large right sided pleural effusion compared to the
+xray from recent admission that had small pleural effusion
+on....
+2nd x-ray; ET Tube in place.
+.
+CT Abdomen/pelvis [**8-4**]:
+1. Diffuse thickening of mucosal folds throughout the jejunum.
+Although thickened folds may be seen from portal hypertension,
+usually the right colon shows the most prominent fold thickening
+in that scenario. Findings may accordingly be more consistent
+with an infectious or inflammatory process. Hemorrhage and
+ischemia are felt less likely particularly given selective
+jejunal involvement, but please correlate with INR, platelets
+and recent clinical course. The major mesenteric arteries and
+veins are not optimally assessed, but appear patent. Please
+correlate with clinical findings.
+2. Known cirrhosis of the liver with small amount of free
+peritoneal fluid.
+3. Right moderate pleural effusion.
+.
+US abdomen [**2182-8-1**]
+Limited Doppler study due to bowel gas establishing patent left
+and right portal veins with a new hepatofugal flow.
+Cirrhotic-appearing liver with minimal ascites and right pleural
+effusion as well as borderline splenomegaly.
+.
+EGD [**3-28**]:
+4 cords of grade 1 varices at the lower third of the esophagus
+Erythema, congestion and mosaic appearance in the whole stomach
+compatible with portal hypertensive gastropathy
+Abnormal mucosa in the duodenum. 2 small nonbleeding ulcers were
+seen
+in duodenum.
+.
+EGD [**2-25**]:
+Mosaic pattern; erythematous in the fundus and body compatible
+with congestive gastropathy (biopsy)
+Ulcers in the duodenal bulb
+Polyps in the duodenal bulb and second portion of duodenum
+(biopsy)
+Otherwise normal EGD to third part of the duodenum
+
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is a 51 yo woman with PMH significant EtOH
+cirrhosis c/b esophageal varices, encephalopathy, and ascites,
+hepato hydrothorax, EtOH abuse, asthma admitted for questionable
+hematemesis and was found to have E.coli ESBL UTI transferred
+out from MICU on [**2182-8-10**] now with improved mental status.
+.
+ALCOHOL HEPATITIS/Cirrhosis: Given AST:ALT ratio >2:1, this was
+likely secondary to EtOH cirrhosis. Discriminant function of
+decreased from 60s->49->51. Her LFTs and t bili trended down to
+ALT/AST 41/88 (from 60/155 on admission) and tbili 6.7 (from
+12.2 on admission). She was continued lactulose and ursodiol,
+and started rifaxamin [**8-14**].  She was also restarted on
+diuretics, spirolactone 100mg and lasix 40mg Qday on [**8-15**].  She
+was on SBP prophylaxis with meropenem which was transitioned to
+nitrofurantoin ([**8-19**]).  At time of discharge her MELD was 20.
+.
+CHANGE MS: Pt was lethargic in the first 3 days of admission.
+She was on CIWA protocol and on dilaudid IV, both were d/ced
+given that patient was lethargic. As per addiction nurse who has
+been following 

@@ -1,0 +1,213 @@
+Admission Date:  [**2199-12-23**]              Discharge Date:   [**2200-1-28**]
+
+Date of Birth:  [**2143-8-4**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Aldactone
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+DOE
+
+Major Surgical or Invasive Procedure:
+[**2199-12-24**]  redo sternotomy/PVR ( 29 mm aortic [**Company 1543**] Mosaic
+porcine valve)/TV repair (36 mmCE MC-3 annuloplasty ring)/MVR
+(33 mm [**Company 1543**] Mosaic porcine valve)/closure VSD/closure PFO
+[**2200-1-2**]  PICC line
+[**2200-1-8**] trach/open J-tube
+
+History of Present Illness:
+56 yo male with congenital heart disease who had a pulmonic
+valvulotomy in [**2160**] and a VSD repair in [**2185**]. He presented in
+with pulmonic stenosis and sx of CHF. Referred for surgery.
+
+Past Medical History:
+CHF
+congenital heart disease
+anxiety
+depression
+A fib
+RBBB
+RLE varicosities
+
+PSH: pulmonic valvulotomy [**2160**]
+VSD repair [**2185**]
+Right hernia repair
+appy
+
+
+Social History:
+disabled
+never used tobacco
+occasional ETOH
+
+
+Family History:
+father had MI at age 55
+
+Physical Exam:
+Admission
+68"  80.4 kg
+97.5  108/64  HR 80   RR 20  95% RA sat
+pale
+neck supple, full ROM, no lymphadenopathy
+CTAB
+RRR 3/6 SEM
+soft, NT, ND
+extrems warm, well-perfused, no edema
++ fems/DP/PT/radials
+no carotid bruit appreciated
+
+Discharge
+VS T 98.2  HR 88 SR  BP 139/55  RR 23  O2sat 100% on 50% [**Last Name (un) **]
+collar
+Gen NAD
+Neuro A&Ox3, nonfocal exam
+Pulm scattered rhonchi. Trach site CDI
+CV RRR freq PVC's. Sternum stable, incision CDI
+Abdm soft, NT/+BS. Peg site CDI. Abdm wound w/vac-CDI. wound 1
+in diam x 1 in   depth
+Ext warm, no edema
+
+
+Pertinent Results:
+[**2199-12-23**] 10:13PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.022
+[**2199-12-23**] 10:13PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0
+LEUK-NEG
+[**2199-12-23**] 10:13PM URINE  RBC-21-50* WBC-0-2 BACTERIA-RARE
+YEAST-NONE EPI-0
+[**2199-12-23**] 07:30PM   GLUCOSE-148* UREA N-30* CREAT-1.4* SODIUM-139
+POTASSIUM-4.3 CHLORIDE-99 TOTAL CO2-32 ANION GAP-12
+[**2199-12-23**] 07:30PM   WBC-3.8* RBC-3.63* HGB-11.7* HCT-34.7* MCV-96
+MCH-32.2* MCHC-33.6 RDW-13.7
+[**2199-12-23**] 07:30PM   PLT COUNT-120*
+[**2199-12-23**] 07:30PM   PT-12.8 PTT-40.4* INR(PT)-1.1
+[**2200-1-13**] 01:42AM BLOOD WBC-13.5* RBC-2.74* Hgb-8.6* Hct-26.4*
+MCV-96 MCH-31.5 MCHC-32.7 RDW-14.2 Plt Ct-450*
+[**2200-1-13**] 01:42AM BLOOD PT-15.9* PTT-57.5* INR(PT)-1.4*
+[**2200-1-13**] 01:42AM BLOOD Plt Ct-450*
+[**2200-1-13**] 01:42AM BLOOD Glucose-118* UreaN-25* Creat-0.7 Na-143
+Cl-102 HCO3-39*
+[**2200-1-13**] 01:42AM BLOOD Calcium-8.3* Phos-1.6*# Mg-2.1
+
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2200-1-28**] 04:34AM    11.2* 2.44* 7.1* 23.2* 95 29.0 30.5*
+15.9* 389
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Smr Plt Ct
+INR(PT)
+[**2200-1-28**] 04:34AM          389
+Source: Line-PICC
+[**2200-1-28**] 04:34AM    19.8* 31.5     1.8*
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2200-1-28**] 04:34AM    137* 34* 0.7 138 4.4 98 37* 7
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname 1843**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 75009**]Portable TTE
+(Congenital, complete) Done [**2200-1-2**] at 3:00:05 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Last Name (Prefixes) 413**], [**First Name3 (LF) 412**]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2143-8-4**]
+Age (years): 56 M  Hgt (in): 66
+BP (mm Hg): 126/76  Wgt (lb): 176
+HR (bpm): 76  BSA (m2): 1.90 m2
+Indication: s/p redo [**Doctor Last Name **] MVR, TVR, PVR, PFO,VSD failure to
+wean of vent
+ICD-9 Codes: 745.4, 745.5, V43.3, 424.0, 424.2
+Test Information
+Date/Time: [**2200-1-2**] at 15:00    Interpret MD: [**First Name11 (Name Pattern1) 449**] [**Last Name (NamePattern4) **],
+MD
+Test Type: Portable TTE (Congenital, complete) Son[**Name (NI) 930**]:
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 7749**]
+Doppler: Full Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Adequate
+Tape #: 2008W008-0:20 Machine: Vivid [**6-10**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *8.4 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *8.7 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *8.1 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.9 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.8 cm
+Left Ventricle - Fractional Shortening:  0.36  >= 0.29
+Left Ventricle - Ejection Fraction:  60% to 70%  >= 55%
+Left Ventricle - Lateral Peak E':  *0.07 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.06 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *26  < 15
+Aorta - Sinus Level:  *4.0 cm  <= 3.6 cm
+Aortic Valve - Peak Velocity:  1.2 m/sec  <= 2.0 m/sec
+Mitral Valve - Peak Velocity:  1.7 m/sec
+Mitral Valve - Mean Gradient:  8 mm Hg
+Mitral Valve - E Wave:  1.7 m/sec
+Mitral Valve - E Wave deceleration time:  *423 ms  140-250 ms
+Tricuspid Valve - Peak Velocity:  1.0 m/sec
+Tricuspid Valve - Mean Gradient:  2 mm Hg
+TR Gradient (+ RA = PASP):  *42 to 48 mm Hg  <= 25 mm Hg
+Pulmonic Valve - Peak Velocity:  *2.8 m/sec  <= 1.5 m/sec
+Pulmonic Valve - Mean Gradient:  17 mm Hg
+Findings
+LEFT ATRIUM: Marked LA enlargement.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Markedly dilated RA.
+LEFT VENTRICLE: Mild symmetric LVH. Mildly dilated LV cavity.
+Overall normal LVEF (>55%). No resting LVOT gradient. Muscular
+VSD.
+RIGHT VENTRICLE: Normal RV wall thickness. Mildly dilated RV
+cavity. Normal RV systolic function.
+AORTA: Moderately dilated aortic sinus.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild to moderate ([**12-4**]+) AR.
+MITRAL VALVE: Bioprosthetic mitral valve prosthesis (MVR). MVR
+well seated, with normal leaflet/disc motion and transvalvular
+gradients.
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Tricuspid valve annuloplasty ring. Normal tricuspid valve
+supporting structures. Mild [1+] TR. Moderate PA systolic
+hypertension.
+PULMONIC VALVE/PULMONARY ARTERY: Abnormal PVR. Normal main PA.
+PERICARDIUM: No pericardial effusion.
+Conclusions
+The left atrium is markedly dilated. The right atrium is
+markedly dilated. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity is mildly dilated.
+Overall left ventricular systolic function is normal
+(LVEF60-70%). There is a possible muscular ventricular septal
+defect (VSD). The right ventricular cavity is mildly dilated
+with normal free wall contractility. The aortic root is
+moderately dilated at the sinus level. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present.
+Mild to moderate ([**12-4**]+) aortic regurgitation is seen. A
+bioprosthetic mitral valve prosthesis is present. The mitral
+prosthesis appears well seated, with normal leaflet/disc motion
+and transvalvular gradients. The tricuspid valve leaflets are
+mildly thickened. A tricuspid valve annuloplasty ring is
+present. There is moderate pulmonary artery systolic
+hypertension. The pulmonic prosthesis is abnormal. There is no
+pericardial effusion.
+Compared with the findings of the prior study (images reviewed)
+of [**2199-12-16**], the mitral, tricuspid, and pulmonic valves
+have been repaired/replaced.
+Electronically signed by [**First Name11 (Name Pattern1) 449**] [**Last Name (NamePattern4) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2200-1-2**] 15:54
+
+   RADIOLOGY   Preliminary Report
+CHEST (PORTABLE AP)  [**2200-1-13**] 7:32 AM
+CHEST (PORTABLE AP)
+Reason: evaluation of effusion
+[**Hospital 93**] MEDICAL CONDITION:
+56 year old man with s/p pvr mvr mvr
+REASON FOR THIS EXAMINATION:
+evaluation of effusion
+CHEST RADIOGRAPH
+INDICATION: Followup.
+COMPARISON: [**2200-1-9**].
+FINDINGS: The tracheostomy tube a

@@ -1,0 +1,211 @@
+Admission Date:  [**2179-11-21**]              Discharge Date:   [**2179-12-3**]
+
+Date of Birth:  [**2108-5-29**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+shoulder pain
+
+Major Surgical or Invasive Procedure:
+1. Irrigation and debridement left shoulder via anterolateral
+deltopectoral miniarthrotomy with cultures.
+2. Aspiration left hip joint under fluoroscopy.
+3. Irrigation and debridement 3rd metacarpophalangeal joint,
+superficial abscess.
+4. Endotracheal Intubation
+
+History of Present Illness:
+71 yo F w/ CAD, ischemic CMY (EF 10%) s/p [**Hospital1 **]-V ICD, atrial
+fibrillation, CKD, with past history of DVT and PE on Coumadin
+who was recently discharged from the CCU ([**11-6**]) for CHF
+exacerbation c/b C.diff infection, who is now being transferred
+from [**Hospital **] hospital for ?Septic shoulder joint and hypoxia,
+requiring intubation.  Patient is intubated and sedated so
+history obtained from HCP (niece) and transfer records.  She
+presented to [**Location (un) **] on [**11-18**] with left shoulder pain.
+Orthopedics was consulted and joint aspiration was done which
+showed +hemarthrosis.  Joint culture now growing staph aureus.
+She was given oxacillin initially and then per discharge note,
+received Vancomycin althouth transfer medication list does not
+have Vancomycin listed as being given.  Today, the patient
+developed hypoxia and required increasing O2 requirement and was
+placed on a NRB with O2 sat in 90-92% range per HCP.  O2 sat
+then declined to 70% on NRB and patient was then electively
+intubated prior to transfer.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:
+-CABG: None
+-PERCUTANEOUS CORONARY INTERVENTIONS: BM stent to the LAD in
+[**2164**], Occluded RCA/no intervention
+-PACING/ICD: Ischemic cardiomyopathy (EF 10-25%) s/p BiV ICD and
+atrial fibrillation
+3. H/o PE secondary to DVT s/p IVC filter on Coumadin
+4. PVD
+5. Small VSD
+6. Hypothyroidism
+7. CKD
+8. Osteoarthritis
+
+
+Social History:
+-Tobacco history: 20 pack year history, however she quit 30 yrs
+ago
+-ETOH: Denies
+-Illicit drugs: Denies
+Pt lives alone but currently resides at [**Hospital 599**] rehab. She is not
+married.
+
+
+Family History:
+Mother had MI at age 50, maternal uncle died of MI in his 50's.
+
+No family history of arrhythmia, cardiomyopathies, or sudden
+cardiac death; otherwise non-contributory.
+
+Physical Exam:
+VS:  Temp   BP 99/58  HR 70  RR 14 on AC TV 450, PEEP 5, 100%
+FiO2
+GENERAL: Elderly female, intuabed, sedated
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.
+NECK: Supple with JVP to angle of jaw
+CARDIAC: normal S1, S2. II/VI SEM, RRR
+LUNGS: CTAB, no wheezes, crackles or ronchi
+ABDOMEN: Soft, NT, +ascites, +fluid wave
+EXTREMITIES: No c/c/e, dopplerable pedal pulses, Right shoulder
+with +effusion no erythema, right MCP joint with +blanching
+erythema and edema, +TTP
+SKIN: +dry skin
+
+Pertinent Results:
+ADMISSION LABS [**2179-11-21**]:
+[**2179-11-21**] 03:48AM WBC-10.9# Hgb-12.3 Hct-39.3 Plt Ct-207
+[**2179-11-21**] 03:48AM PT-80.1* PTT-48.4* INR(PT)-9.6*
+[**2179-11-21**] 03:48AM Glucose-141* UreaN-70* Creat-2.7* Na-129*
+K-5.5* Cl-93* HCO3-22 AnGap-20
+[**2179-11-21**] 03:48AM ALT-9 AST-17 LD(LDH)-213 CK(CPK)-15*
+AlkPhos-130* TotBili-1.7*
+[**2179-11-21**] 03:48AM CK-MB-NotDone cTropnT-0.07*
+[**2179-11-21**] 03:48AM Albumin-3.5 Calcium-8.9 Phos-4.6*# Mg-2.4
+[**2179-11-21**] 03:48AM ESR-30*
+[**2179-11-21**] 03:48AM CRP-291.3*
+[**2179-11-21**] 03:48AM Vanco-10.1
+[**2179-11-21**] 03:48AM Digoxin-3.8*
+[**2179-11-21**] 04:13AM Type-ART pO2-81* pCO2-46* pH-7.32* calTCO2-25
+Base XS--2
+[**2179-11-21**] 04:13AM Lactate-1.4
+
+URINE:
+[**2179-11-21**] 05:45AM Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.007
+[**2179-11-21**] 05:45AM Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR
+[**2179-11-21**] 05:45AM RBC-[**2-18**]* WBC-[**5-26**]* Bacteri-RARE Yeast-NONE
+Epi-0-2 RenalEp-[**2-18**]
+[**2179-11-21**] 05:45AM Hours-RANDOM UreaN-190 Creat-20 Na-69
+
+JOINT FLUID:
+[**2179-11-21**] 10:19AM WBC-[**Numeric Identifier **]* RBC-[**Numeric Identifier 44665**]* Polys-84* Lymphs-3
+Monos-5 Macro-8
+[**2179-11-21**] 10:19AM Crystal-FEW Shape-RHOMBOID Locatio-INTRAC
+Birefri-POS Comment-c/w calcium phosphate deposits
+[**2179-11-25**] 08:30AM WBC-[**Numeric Identifier 42138**]* RBC-[**Numeric Identifier 44666**]* Polys-91* Lymphs-1
+Monos-8
+
+OTHER PERTINENT LABS:
+[**2179-11-21**] 03:48AM INR(PT)-9.6*
+[**2179-11-21**] 10:24AM INR(PT)-11.2*
+[**2179-11-21**] 08:04PM INR(PT)-3.3*
+[**2179-11-22**] 04:04AM INR(PT)-3.4*
+[**2179-11-23**] 02:30AM INR(PT)-2.7*
+[**2179-11-24**] 06:29AM INR(PT)-2.8*
+[**2179-11-24**] 03:32PM INR(PT)-2.8*
+[**2179-11-25**] 03:28AM INR(PT)-2.7*
+[**2179-11-25**] 11:27AM INR(PT)-2.0*
+[**2179-11-26**] 05:25AM INR(PT)-2.4*
+[**2179-11-27**] 03:10AM INR(PT)-2.5*
+[**2179-11-28**] 03:56AM INR(PT)-2.2*
+[**2179-11-29**] 02:56AM INR(PT)-2.0*
+[**2179-11-29**] 10:56AM INR(PT)-2.0*
+[**2179-11-30**] 05:44AM INR(PT)-1.8*
+
+MICRO:
+[**Date range (1) 44667**] BCx: MRSA
+[**2179-11-21**] MRSA Screen: positive
+[**2179-11-21**] Joint fluid (shoulder): MRSA
+[**2179-11-21**] UCx: negative
+[**2179-11-21**] Sputum Cx: respiratory flora
+[**2179-11-23**] Catheter tip: negative
+[**2179-11-25**] Joint fluid (L hip): MRSA
+[**2179-11-25**] R 3rd MCP: MRSA
+[**2179-11-25**] Shoulder: MRSA
+[**Date range (1) 44668**] BCx: NGTD
+
+IMAGING:
+[**2179-11-21**] CXR:
+There is opacification in the right upper zone. This could
+represent volume loss in the right upper lobe or possible
+supervening consolidation.
+
+[**2179-11-21**] Repeat CXR:
+In comparison with the earlier study of this date, there has
+been
+substantial clearing of the right upper lung opacification. This
+suggests
+expectoration of a mucous plug with relief of volume loss.
+
+[**2179-11-21**] Shoulder XR:
+No previous films are available for comparison. There is
+sclerosis, with narrowing and some irregularity involving the
+glenohumeral
+joint. This may merely reflect degenerative changes, though the
+possibility of an indolent infection cannot be excluded. MRI
+might be helpful for further evaluation.
+
+[**2179-11-21**] Hand XR:
+The third MCP joint is quite well maintained without convincing
+erosions. Degenerative change is seen involving the first CMC as
+well as the second DIP joint. Some narrowing is also seen
+involving several other DIP and PIP joints.
+
+[**2179-11-22**] CXR:
+No significant change from prior exam, allowing for significant
+leftward rotation of the patient
+
+[**2179-11-23**] ECHO:
+The left atrial appendage emptying velocity is depressed
+(<0.2m/s). A probable thrombus is seen in the left atrial
+appendage. No mass or thrombus is seen in the right atrium or
+right atrial appendage. No atrial septal defect is seen by 2D or
+color Doppler. Overall left ventricular systolic function is
+severely depressed. The right ventricular cavity is dilated with
+moderate global free wall hypokinesis. There are simple atheroma
+in the ascending aorta. There are simple atheroma in the aortic
+arch. There are simple atheroma in the descending thoracic
+aorta. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. No masses or vegetations are
+seen on the aortic valve. No aortic regurgitation is seen. The
+mitral valve leaflets are structurally normal, though restricted
+motion of the posterior leaflet is seen. There is no mitral
+valve prolapse. No mass or vegetation is seen on the mitral
+valve. Mild (1+) mitral regurgitation is seen. Moderate [2+]
+tricuspid regurgitation is seen. [Due to acoustic shadowing, the
+severity of tricuspid regurgitation may be significantly
+UNDERestimated.] No vegetation/mass is seen on the pulmonic
+valve. There is a trivial/physiologic pericardial effusion.
+
+IMPRESSION: No valvular vegetation or wire-associated
+vegetation. Probable left atrial appendage thrombus with
+spontaneous echo contrast also identified within the body of the
+left atrial appendage. Mild mitral regurgitation, at least
+moderate tricuspid regurgitation. Severe biventricular systolic
+dysfunction.
+
+[**2179-11-29**] ECHO:
+The lef

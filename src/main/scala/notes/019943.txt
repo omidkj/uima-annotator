@@ -1,0 +1,222 @@
+Admission Date:  [**2158-2-20**]              Discharge Date:   [**2158-3-6**]
+
+Date of Birth:  [**2096-10-21**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+fatigue, DOE
+
+Major Surgical or Invasive Procedure:
+redo-redosternotomy/AVR(#21 [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 923**] [**Last Name (NamePattern1) **])[**2-20**]
+
+
+History of Present Illness:
+61 yo M with s/p AVR x 2 (last in [**2155**]) with recent echo showing
+increased gradient and thickened/defromed leaflets.
+
+Past Medical History:
+PMH:
+1. Alcohol detox 2 wks ago
+2. Abdominal malignancy - 2.7cm iliac LN/abdominal LAD currently
+being worked up by Dr. [**Last Name (STitle) **]
+3. Bicuspid aorta s/p aortic valve replacement with porcine
+valve in [**2151**]
+4.Presence of venous angioma vs AV malformation seen on prior
+MRAs.
+5. Status post traumatic splenectomy
+6. Depression
+7. Essential tremor
+8. Status post bilateral herniorrhaphy
+9. Status post right thumb surgery
+[**59**]. Status post ACL repair.
+
+
+Social History:
+retired police officer
+occasional cigars
+occasional binge drinker, history of etoh abuse
+
+Family History:
+GM with open heart surgery (unclear indication)
+
+Physical Exam:
+NAD HR 70 BP 110/60
+Poor dentition
+Lungs CTAB
+Heart RRR 3/6 SEM -> carotids
+Abdomen Soft/NT/ND
+Extrem warm, trace LE edema
+Mild L GSV varicosities
+Tremor
+
+Pertinent Results:
+[**2158-3-6**] 06:00AM BLOOD WBC-16.5* RBC-3.37* Hgb-10.8* Hct-32.6*
+MCV-97 MCH-32.0 MCHC-33.1 RDW-16.5* Plt Ct-680*
+[**2158-3-6**] 06:00AM BLOOD PT-23.9* INR(PT)-2.3*
+[**2158-3-5**] 07:30AM BLOOD PT-23.6* INR(PT)-2.3*
+[**2158-3-4**] 12:45PM BLOOD PT-25.0* INR(PT)-2.5*
+[**2158-3-3**] 06:20AM BLOOD PT-24.7* INR(PT)-2.4*
+[**2158-3-2**] 06:00AM BLOOD PT-28.4* INR(PT)-2.9*
+[**2158-3-6**] 06:00AM BLOOD Glucose-99 UreaN-13 Creat-0.8 Na-137
+K-4.4 Cl-100 HCO3-30 AnGap-11
+
+CHEST (PORTABLE AP)  [**2158-3-5**] 1:34 PM
+
+CHEST (PORTABLE AP)
+
+Reason: ? infiltrate
+
+[**Hospital 93**] MEDICAL CONDITION:
+61 year old man with CABG
+REASON FOR THIS EXAMINATION:
+? infiltrate
+STUDY: AP CHEST, [**2158-3-5**].
+
+HISTORY: 61-year-old male with CABG. Evaluate for infiltrate.
+
+FINDINGS: Comparison is made to previous study from [**2158-3-2**].
+
+There has been no interval change. There is persistent bibasilar
+subsegmental atelectasis. No focal consolidation or overt
+pulmonary edema is seen. The right CP angle has been cutoff from
+the study.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 103199**] (Complete)
+Done [**2158-2-20**] at 10:23:53 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2096-10-21**]
+Age (years): 61 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Aortic valve disease. H/O cardiac surgery. Left
+ventricular function. Mitral valve disease. Prosthetic valve
+function. Valvular heart disease.
+ICD-9 Codes: 440.0, V43.3, 396.9
+Test Information
+Date/Time: [**2158-2-20**] at 10:23    Interpret MD: [**First Name8 (NamePattern2) 6506**] [**Name8 (MD) 6507**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6507**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW04-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.9 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  4.8 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.6 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  4.8 cm
+Left Ventricle - Fractional Shortening:  *0.14  >= 0.29
+Left Ventricle - Ejection Fraction:  35% to 40%  >= 55%
+Aorta - Annulus:  2.3 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.6 cm  <= 3.6 cm
+Aortic Valve - Peak Velocity:  *2.4 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *54 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  29 mm Hg
+Aortic Valve - Valve Area:  *0.7 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Mild LA enlargement. No spontaneous echo contrast
+or thrombus in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA. All four pulmonary
+veins not identified.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Mild symmetric LVH. Top
+normal/borderline dilated LV cavity size. Moderately depressed
+LVEF.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Borderline normal RV
+systolic function.
+
+AORTA: Normal ascending aorta diameter. Normal descending aorta
+diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR). AVR
+leaflets move normally. Severe AS (AoVA <0.8cm2). Mild (1+) AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. No MS.
+Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications.
+
+Conclusions
+PRE-BYPASS: The left atrium is mildly dilated. No spontaneous
+echo contrast or thrombus is seen in the body of the left atrium
+or left atrial appendage. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity size is top
+normal/borderline dilated. Overall left ventricular systolic
+function is moderately depressed (LVEF= 35-40%). The right
+ventricular cavity is mildly dilated with borderline normal free
+wall function. There are simple atheroma in the descending
+thoracic aorta. A bioprosthetic aortic valve prosthesis is
+present. The aortic valve prosthesis leaflets appear to move
+normally. There is severe aortic valve stenosis (area <0.8cm2).
+Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are moderately thickened. Trivial mitral regurgitation
+is seen. There is no pericardial effusion.
+
+POST:
+Prosthetic valve in aortic position.
+Well seated and mechanically stable.
+No appreciable gradient.
+Improved biventricular systolci function
+
+
+Brief Hospital Course:
+On [**2-20**] he underwent redo-sternotomy and AVR. He was transferred
+to the ICU in stable condition on epi, neo and propofol. He was
+extubated the morning of POD #1 secondary to agitation. He was
+started on coumadin for his mechanical valve. He was transferred
+to the floor on POD #1. His white count remained elevated and he
+was pancultured and started on azithromycin for ? of
+bronchitis/pneumonia. He became confused and on [**2-25**] a code
+purple was called. He was started on ativan. Neurology was
+called and a head CT which showed nothing acute was obtained. He
+was started on IV thiamine. He continued to be confused at times
+and on [**2-27**] overnight another code purple was called. A
+psychiatry consult was called, ativan was tapered and haldol was
+started. He began to clear, and was weaned from his haldol. He
+awaited placement, and was ready for discharge home on POD #14.
+
+Spoke with Dr. [**Last Name (STitle) **] office who has agreed to manage his
+coumadin.
+
+Medications on Admission:
+Inderal 10", Zantac 150", ASA 81', Lipitor 40', Lexapro 20',
+MVI, Folic Acid 1'
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: O

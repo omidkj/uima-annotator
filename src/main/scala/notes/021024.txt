@@ -1,0 +1,179 @@
+Admission Date:  [**2140-9-11**]              Discharge Date:   [**2140-9-21**]
+
+
+Service: MEDICINE
+
+Allergies:
+Erythromycin Base
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mrs. [**Known lastname **] is an 87-year-old woman with a history of MDS with
+AML, HTN, DM and COPD, initially admitted to [**Hospital Unit Name 153**] from [**Date range (1) 17433**]
+with sepsis and hypotension, called out to floor, and now
+re-admitted for recurrent hypotension.
+.
+She was initially admitted on [**2140-9-11**] after being transferred
+from a rehab facility with fever and AMS in the setting of
+receiving Decitabine cycle #2, Day #7. She was transferred to
+the [**Hospital Unit Name 153**] shortly after presentation and her course was notable
+for septic shock requiring pressors and removal of her PICC
+line; culture data demonstrated likely corynbacterium. She was
+stabilized and transferred back to BMT on [**9-14**]. She remained
+hemodynamically stable though continuing to spike fevers until
+102F until [**2140-9-19**], when she had an episode of hyotension to the
+60s in the setting of rapid cooling while febrile. Her SBP
+increased to the 80s after a 500cc bolus of NS.
+.
+She again became hypotensive to the 70s overnight in the setting
+of fever, but SBP did not improve with 250cc x 2 + 500cc x 1
+bolus. She was then transferred to the [**Hospital Unit Name 153**] for further
+management.
+.
+Her course on the floor was notable for worsening mental status,
+c. diff + stool, and a gradually increasing O2 requirement, from
+room air/3L intermittently on [**9-16**] to 5L nasal cannula on the
+day of transfer.
+.
+On arrival to the floor, she was laying in bed, intermittently
+responsive, and poorly managing her oral secretions. An ABG/VBG
+was performed that demonstrated 7.26/55/53.
+.
+
+Past Medical History:
+- MDS with AML conversion in [**2139**], responded will to Decitabine,
+with 9 month remission. [**2139-1-22**], started hydroxyurea for
+increasing WBC count. Now on Decitabine cycle 2.
+- HTN
+- DM
+- COPD
+- Recent GI bleed
+
+Social History:
+In rehab at [**Hospital1 **] [**Hospital1 8**], no longer smoking.
+
+Family History:
+Grandson with ALL.
+
+Physical Exam:
+Vital Signs: 96.8 HR: 99 BP 64/29 RR 25 O2 Sat 98%
+GEN: Ineractive, communicating with son. Complaining of pain.
+HEENT: dry mucous membranes, OP clear
+NECK: no JVD appreciated,
+PULM: L basilar crackles posteriorly clear to ascultation.
+CARD: Normal S1 and S2. No S3 or S4. No hyperdynamic PMI.
+ABD: Tenderness to palpation, +BS
+EXT: no c/c/e,
+SKIN: no rashes noted
+NEURO: arousable, interacts with son in hungarian. Motor and
+sensation grossly intact.
+
+Pertinent Results:
+Admission Labs:
+[**2140-9-11**] 12:30AM   WBC-92.1*# RBC-2.91* HGB-8.1* HCT-24.3*
+MCV-84 MCH-28.0 MCHC-33.6 RDW-18.5*
+[**2140-9-11**] 12:30AM   NEUTS-15* BANDS-0 LYMPHS-3* MONOS-7 EOS-1
+BASOS-0 ATYPS-0 METAS-1* MYELOS-1* BLASTS-72* NUC RBCS-1*
+[**2140-9-11**] 12:30AM   PLT SMR-VERY HIGH PLT COUNT-79*
+[**2140-9-11**] 12:30AM   GLUCOSE-198* UREA N-13 CREAT-0.7 SODIUM-130*
+POTASSIUM-4.2 CHLORIDE-93* TOTAL CO2-30 ANION GAP-11
+[**2140-9-11**] 12:30AM   ALT(SGPT)-11 AST(SGOT)-33 ALK PHOS-60 TOT
+BILI-0.3
+[**2140-9-11**] 12:30AM   CALCIUM-8.2* PHOSPHATE-4.0 MAGNESIUM-1.6 URIC
+ACID-5.0
+
+CT HEAD - No acute findings
+CXR - Stable opacity at left base, most likely atelectasis, but
+cannot rule out infection
+
+
+Brief Hospital Course:
+87F with history of MDS with AML transformation in [**2139**],
+currently on Decitarbine cycle 2 admitted with fever in 102's
+and altered mental status.  Patient was admitted to the [**Hospital Unit Name 153**]
+with septic shock causing altered mental status, hypotension in
+the setting of a blast crisis from her AML.  She was neutropenic
+and her course was complictated by acute kidney injury, anemia
+requiring blood transfusions, hypovolemic hyponatremia, and
+diabetes   She was initially treated with broad spectrum
+antibiotics, including intravenous Vancomycin, Cefepime, Flagyl
+and Oral vancomycin.  Patient was resuscitated IVF, and received
+pRBCs while in the ICU. She was eventually found to have C.
+difficile and so cefepime and intravenous vancomycin were
+discontinued.  She was initially on high doses of vasopressin
+and levophed, which were subsequently weaned and discontinued.
+She was eventually stabilized and transferred to the oncology
+team.  However she began spiking fevers again.  The source of
+the fevers was uncertain.  Broad spectum antibiotics were
+restarted.  However, she became hypotensive and began to develop
+respiratory distress and hypoxia.  Her wishes were to be
+DNR/DNI.  Her goals of care were discussed with her sons and
+they felt that she would wish to pursue comfort care at this
+point given the state of her underlying AML and the severity of
+her sepsis.  She was placed on a morphine drip and she passed
+away peacefully on [**2140-9-21**].
+
+
+Medications on Admission:
+- Albuterol neps
+- Allopurinol 300 mg qday
+- Bacitracin ointemnt [**Hospital1 **] to pustule on labia
+- Benzonatate 100 mg TID
+- Cephalexin 500 mg q6h
+- Cipro 250 mg [**Hospital1 **]
+- Colace 100 mg [**Hospital1 **]
+- Duloxetine 30 mg qday
+- Fluconazole 400 mg qday
+- Fluticasone
+- Guaifenesin
+- Hydroxyurea 1000 mg qam, 500 mg qpm
+- Insulin Lispro SS
+- Ipratroprium nebs
+- miconazole to axilla
+- MV
+- Nystatin oral susp 10 mL qid
+- omeprazole 50 mg [**Hospital1 **]
+- senna 2 qhs
+- trazodone 50 mg qhs
+- artificial tears prn
+- guaifenesin prn
+- lactulose prn
+- maalox plus prn
+- magnesium hydroxide prn
+- PEG prn
+- prochlorperazine prn
+- oxycodone 5 mg q4h prn
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Septic Shock secondary to C. Difficile
+Acute Myelocytic Leukemia with Blast crisis
+Metabolic acidosis
+Acute kidney injury
+Anemia
+Diabetes mellitus
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+
+Completed by:[**2141-8-3**]

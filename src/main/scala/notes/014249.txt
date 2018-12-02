@@ -1,0 +1,207 @@
+Admission Date:  [**2150-7-26**]              Discharge Date:   [**2150-8-22**]
+
+Date of Birth:  [**2088-2-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Shortness of breath.
+
+Major Surgical or Invasive Procedure:
+Left Heart Catheterization
+Right Heart Catheterization
+
+History of Present Illness:
+62M w/ hx of PE, COPD, hep C, AICD, and bronchiolitis obliterans
+presents with increasing dyspnea x1 week. Pulmonary problems
+began after he started new interferon tx for HCV in 11/[**2148**]. He
+has had multiple effusions tapped w/ no malignancy, bx showed
+bronchiolitis obliterans. Last set of PFTs revealed: Vital
+capacity is 3.92 liters, 80% predicted; his FEV1 is 1.63 liters,
+48% predicted, the vital capacity has increased from 64%
+predicted; FEV1 is increased from 41% predicted.
+
+He started home oxygen in [**2150-3-29**]. In the last week, he
+has had increasing dyspnea at rest, chest pain when dyspneic,
+and increasing orthopnea. Requires home O2 of 2L, has had
+decreasing sats at home, reported to 82% on RA. He thinks he has
+gained more weight. Increasing cough in past 24 hrs, mildly
+productive, but has been taking mucinex.  No swelling in
+extremities.
+
+ROS: +DOE, orthopnea, subjective fever, pleuritic chest pain,
+dry cough. Negative for PND, sick contacts, hemoptysis, chest
+pain or recent travel.
+
+
+
+Past Medical History:
+COPD
+HCV genotype 1 s/p treatment with
+interferon/ribavirin/boceprevir, most recent viral load [**Numeric Identifier 4731**] in
+[**5-/2150**]
+cardiac arrest [**2131**] s/p ICD
+AF s/p AV node ablation s/p BiV PPM
+diastolic CHF (details unclear, no cardiology reports in our
+system)
+Cryptogenic organizing pneumonia (seen on biopsy of RLLobe mass)
+Subsegmental PE on coumadin (for afib)
+
+Social History:
+Born in [**Location (un) **], moved to US in his 20s. Lives in [**Location 81241**]
+NY with his wife. Until [**Name2 (NI) 404**] had been working as a bartender.
+Former heavy smoker (40+ pack-years), quit 8 mos ago. No longer
+drinks EtOH since HCV diagnosis, remote h/o cocaine use but none
+for many years. No known mold exposures, no
+chemicals/dusts/particles.
+
+
+Family History:
+Father had TB with pneumonectomy - prior to patient's birth.
+Mother had emphysema.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T: 97.7 BP: 104/78 P: 62 R: 410 O2: 85%3LNC
+General: Alert, oriented, thin older Caucasian genntleman in no
+acute distress. Mildly dyspneic, some accessory muscle use.
+HEENT: Sclera anicteric, MMM, oropharynx clear, PERRLA, EOMI
+NECK: supple, elevated JVP to the level of the jaw, no LAD
+LUNGS: Clear to auscultation on right, crackles at left base
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+ABDOMEN: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+EXTREMITIES: Warm, well perfused, 2+ pulses, no clubbing,
+cyanosis or edema
+NEURO: A&O x3, CNs II-XII intact, 5/5 strength in upper and
+lower extremities bilaterally, sensation grossly intact to light
+touch. Reflexes 1+ bilaterally and symmetrically. Downgoing toes
+bilaterally.
+
+DISCHARGE PHYSICAL EXAM:
+98.1 88/55-97/62 60-61 20 100% 4L
+GENERAL- NAD. Oriented x3. Mood, affect appropriate.
+HEENT- NCAT. Sclera anicteric. PERRL, EOMI. MMM.
+NECK- Supple, Prominent distend EJ, JVP 1/4 way up to angle of
+jaw while sitting up.
+CARDIAC- RRR, distant heart sounds, machine like systolic murmer
+loudest at the apex. No thrills, lifts. No S3 or S4.
+LUNGS- No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Improved aeration
+throughout lung fields, particularly mid and upper fields.
+Bibasilar crackles present
+ABDOMEN- Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES- No c/c/e. No femoral bruits. Extremities cool.
+SKIN- No stasis dermatitis or ulcers
+PULSES-
+Right: radial 1+ DP 1+
+Left: radial 1+ DP 1+
+
+Pertinent Results:
+ADMISSION:
+[**2150-7-26**] 11:00AM BLOOD WBC-8.4 RBC-3.35* Hgb-10.4* Hct-31.4*
+MCV-94 MCH-31.0 MCHC-33.1 RDW-18.1* Plt Ct-231
+[**2150-7-26**] 11:00AM BLOOD Glucose-107* UreaN-36* Creat-0.8 Na-132*
+K-3.6 Cl-97 HCO3-27 AnGap-12
+[**2150-7-26**] 11:00AM BLOOD ALT-54* AST-57* AlkPhos-357* TotBili-0.8
+[**2150-7-26**] 11:00AM BLOOD Albumin-3.9 Calcium-9.1 Phos-3.4 Mg-2.3
+
+PERTINENT:
+[**2150-8-3**] 06:20AM BLOOD calTIBC-313 Ferritn-321 TRF-241
+[**2150-8-3**] 06:20AM BLOOD AFP-3.3
+[**2150-8-9**] 01:26AM BLOOD Type-ART pO2-22* pCO2-55* pH-7.41
+calTCO2-36* Base XS-6
+[**2150-8-9**] 12:13PM BLOOD Type-ART pO2-48* pCO2-37 pH-7.52*
+calTCO2-31* Base XS-6
+[**2150-8-9**] 02:59PM BLOOD Type-ART pO2-99 pCO2-49* pH-7.47*
+calTCO2-37* Base XS-10
+[**2150-8-9**] 01:26AM BLOOD Lactate-2.8*
+[**2150-8-9**] 12:13PM BLOOD Lactate-3.6*
+[**2150-8-9**] 02:59PM BLOOD Lactate-1.1
+[**2150-8-9**] 05:30PM BLOOD Lactate-2.0
+
+DISCHARGE:
+[**2150-8-22**] 07:10AM BLOOD WBC-6.2 RBC-2.92* Hgb-9.0* Hct-27.6*
+MCV-95 MCH-30.9 MCHC-32.7 RDW-18.3* Plt Ct-253
+[**2150-8-22**] 07:10AM BLOOD PT-16.8* INR(PT)-1.6*
+[**2150-8-22**] 07:10AM BLOOD Glucose-95 UreaN-46* Creat-1.6* Na-129*
+K-3.3 Cl-82* HCO3-40* AnGap-10
+[**2150-8-22**] 07:10AM BLOOD Calcium-9.0 Phos-3.8 Mg-2.6
+
+STUDIES:
+Admission ECG:
+Atrial fibrillation with ventricular demand pacing
+
+[**2150-7-26**] CXR:
+IMPRESSION:
+1.  Unchanged small bilateral pleural effusions.
+2.  Possible mild pulmonary edema on background of emphysema.
+3.  Slight increase in left basilar opacity may indicate a
+superimposed
+infectious process.
+
+[**2150-7-28**] CT Chest:
+1.  Since the recent CT scan from [**2150-7-13**], multiple lower
+lobe pulmonary
+nodules have slightly decreased in size with improvement in
+ill-defined
+subpleural and lower lobe opacities.  No new nodules or
+opacities are
+identified.
+2.  Small left pleural effusion is essentially stable.
+3.  Severe emphysema is unchanged.
+4.  Stable mediastinal lymphadenopathy.
+5.  Nodularity of the liver, which may be consistent with
+cirrhosis.
+6.  Substantial pericardial calcifications and severe aortic
+valve
+calcifications.
+7.  Enlarged pulmonary artery consistent with pulmonary
+hypertension.
+
+[**2150-7-28**] [**Month/Day/Year **]:
+The left atrium is moderately dilated. The right atrium is
+moderately dilated. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is normal (LVEF 70%). The
+right ventricular free wall thickness is normal. Right
+ventricular chamber size is normal. with borderline normal free
+wall function. The ascending aorta is mildly dilated. The aortic
+valve leaflets are severely thickened/deformed. There is severe
+aortic valve stenosis (valve area 0.9 cm2). Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. There is severe
+mitral annular calcification. There is mild functional mitral
+stenosis (mean gradient 7 mmHg) due to mitral annular
+calcification. Moderate to severe (3+) mitral regurgitation is
+seen (after taking into consideration acoustic shadowing from
+the severely calcified mitral annulus). The tricuspid valve
+leaflets are mildly thickened. Moderate [2+] tricuspid
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of tricuspid regurgitation may be significantly UNDERestimated.]
+There is moderate pulmonary artery systolic hypertension. [In
+the setting of at least moderate to severe tricuspid
+regurgitation, the estimated pulmonary artery systolic pressure
+may be underestimated due to a very high right atrial pressure.]
+There is no pericardial effusion.
+Compared with the findings of the prior study (images reviewed)
+of [**2150-5-14**], the mitral regurgitation may be worse, but the
+technically suboptimal nature of both studies precludes
+definitive comparison. The pressure gradient across the mitral
+valve is increased.
+
+Carotid US:
+There is less than 40% stenosis within the internal carotid
+arteries bilaterally.
+
+Abdominal US:
+1.  Coarse heterogeneous liver parenchyma consistent with
+history of liver
+fibrosis and HCV.  No evidence of focal liver mass.
+2.  Normal

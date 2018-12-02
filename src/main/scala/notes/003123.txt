@@ -1,0 +1,154 @@
+Admission Date:  [**2111-5-16**]              Discharge Date:   [**2111-5-18**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+BRBPR
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+84 year old female with recent diagnosis of adeno CA of
+pancreatic biliary origin with pulm and liver mets, history of
+diverticulosis and colonic polyps, AF and recently d/c'd off
+coumadin, presents from [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] after having large amount
+of bleeding (500cc) with clots per rectum; son elected to send
+in; would want transfusion; DNR/DNI status per prior
+hospitalization.
+.
+In the ED, HCT 18 and passing large BRBPR (450cc), Right groin
+line placed. 1 Liter, and 1 u PRBC. BP 80's HR 120's. unknown
+UO. Mentation, speaking with son. EKG
+.
+After family meeting in [**Hospital Ward Name 332**] MICU today it was decided that
+she and the family would not want aggressive measures including
+excessive medications, endoscopy, lines, or surgery. Pt.
+transferred to floor with goals of care CMO.
+
+
+Past Medical History:
+1. Colon Polyps - s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**10-26**]
+--Sigmoid polyp, (biopsy): Adenoma.
+--Grade 1 internal hemorrhoids.
+--Diverticulosis of the entire colon.
+2. Diverticulosis
+3. Type 2 DM
+4. S/P CVA - on coumadin
+5. Tachybrady s/p pacer (EF >55%, [**11-24**]+ MR, 1+TR, mod pulm HTN -
+[**5-26**])
+6. Glaucoma
+7. Cataracts
+8. OSA
+9. Anemia-source thought to be genitourinary
+
+Social History:
+The patient lives alone. She has a caretaker overnight and goes
+to daycare during the day. She walks with a cane. She does not
+have a history of alcohol/tobacco use.
+
+
+Family History:
+Unknown if GI malignancy, no CAD/DM
+
+Physical Exam:
+Physical Exam:
+Deferred exam as pt. resting comfortably CMO, many family
+members at her bedside
+
+Pertinent Results:
+[**2111-5-16**] 11:04PM   WBC-24.1* RBC-4.06*# HGB-11.2*# HCT-32.9*
+MCV-81* MCH-27.4# MCHC-33.9# RDW-19.6*
+[**2111-5-16**] 11:04PM   PLT SMR-LOW PLT COUNT-82*
+[**2111-5-16**] 05:12PM   POTASSIUM-5.0
+[**2111-5-16**] 05:12PM   CALCIUM-7.9*
+[**2111-5-16**] 05:12PM   HCT-31.4*
+[**2111-5-16**] 05:12PM   PT-16.9* PTT-31.4 INR(PT)-1.6*
+[**2111-5-16**] 12:54PM   LACTATE-4.0*
+[**2111-5-16**] 06:20AM   GLUCOSE-339* UREA N-57* CREAT-1.3* SODIUM-134
+POTASSIUM-6.1* CHLORIDE-100 TOTAL CO2-20* ANION GAP-20
+[**2111-5-16**] 06:20AM   ALT(SGPT)-45* AST(SGOT)-75* ALK PHOS-402*
+AMYLASE-20 TOT BILI-1.5
+[**2111-5-16**] 06:20AM   LIPASE-5
+[**2111-5-16**] 06:20AM   ALBUMIN-2.3* CALCIUM-7.7* PHOSPHATE-2.5*
+MAGNESIUM-3.2*
+
+Brief Hospital Course:
+# GIB: likely lower either from diverticular bleed or colonic
+polyp
+-initially transfused to support hct and BP, but family decided
+they did not want lines/pressors/endoscopy/surgery so pt. was
+made CMO in the [**Hospital Unit Name 153**].
+-plan for CMO per family meeting in [**Name (NI) 153**], pt. deceased [**5-17**] with
+family at bedside
+
+.
+# Hypotension: In setting of GIB. CMO
+-no further vitals
+.
+#Zoster: Morphine IV gtt to control pain
+.
+#Pulm edema: scopolamine patch prn
+-can add additional patches prn
+.
+# Biliary CA: CMO, goals discussed with family at bedside
+-morphine gtt to control pain
+-scopolamine patch
+-Palliative care consult in am
+*
+*Pain: Morphine gtt prn
+-Palliative care consult
+.
+*FEN: NPO, mouth care and swabs prn
+*Access: Fem line:
+.
+*Code Status: DNR/DNI and full CMO, no further
+transfusions/blood draws, control pain with morphine
+.
+Communication: multiple family members at bedside, no formal
+HCP, but in event of death contact son, [**Name (NI) **] [**Name (NI) **], at
+[**Telephone/Fax (1) 36520**] (cell), or [**Last Name (LF) 36521**], [**First Name8 (NamePattern2) 36522**] [**Known lastname **], at [**Telephone/Fax (1) 36523**]
+(cell)
+
+
+Medications on Admission:
+Lopressor 25mg po BID
+Colace 100mg po BID
+ASA 81mg po qd
+MOM
+[**Name (NI) 36524**] 15mg [**Name2 (NI) **] qd
+RISS
+Gabapentin 300mg TID
+Off Coumadin x 10days.
+
+Discharge Medications:
+deceased
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1186**] - [**Location (un) 538**]
+
+Discharge Diagnosis:
+Lower Gastrointestinal Bleed
+Herpes Zoster Rash
+Metastatic Adenocarcinoma
+Congestive Heart Failure
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+patient deceased, family made patient comfort measures only
+
+Followup Instructions:
+patient deceased, family made patient comfort measures only
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2437**] MD [**MD Number(1) 2438**]
+

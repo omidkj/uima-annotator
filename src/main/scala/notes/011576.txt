@@ -1,0 +1,219 @@
+Admission Date:  [**2182-7-28**]              Discharge Date:   [**2182-8-12**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1171**]
+Chief Complaint:
+Fall and SOB
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+
+History of Present Illness:
+89yo CM with PMHx significant for CAD s/p incomplete atherectomy
+and PCA ([**1-27**]), and recent echo ([**7-27**]) demonstrating CHF (EF:
+25-30%), moderate AS (valve area 1.0), mild->mod AR, mod MR, mod
+TR, and mild pulm artery systolic HTN as [**Doctor Last Name **] as DM2, and CKI
+(baseline Cr ?2-2.7) who was admitted to the ICU for managment
+of altered mental status in the setting of hypervolemic
+hyponatremia.
+.
+Prior to his admission the patient had been gaining weight (from
+172 lbs to 180 lbs) and had B/L effusions on CXR, which prompted
+his PCP to increased his Toresimide on [**7-12**] from 10 mg to 20 mg
+in the AM and 5 mg to 10 mg in the PM. Over the next week his
+weight remained stable at 184. And per a prior note his wife
+reports that the patient had experienced a decrease in urine
+output, but no CP, SOB, PND, orthopnea, or abdominal pain.
+.
+On day of admission the patient was leaning over to put on his
+slippers and fell over. His wife found him alert and attempting
+to get up, then called the EMS. In the ED he was awake and
+responsive and his initial vitals were 97.4, 82, 137/89, 16, 91%
+on 3L NC, but throughout the next couple of hours he became
+unresponsive and was found to be hyponatremic to 118. Head CT
+was negative. He was guaic-negative.
+.
+In the MICU it was determined that the patient's hyponatremia
+was hypervolemic hyponatremia consistent with his history of
+heart failure and chronic kidney injury. He was placed on a
+lasix drip and diuresed about 6L, taking into consideration the
+need to not decrease his preload in the setting of AS in order
+to maintain his CO. Renal was consulted for his elevated Cr,
+which occurred likely secondary to poor forward flow state and
+suggested an SPEP/UPEP, which was negative for Bence [**Doctor Last Name **]
+protein. His lasix drip was d/c and he continued to
+auto-diurese. His Toresmide was restarted and a Heart Failure
+consult was requested.
+
+
+Past Medical History:
+Diabetes
+Dyslipidemia
+CAD s/p PCA in [**1-/2182**]
+CHF EF 25-30% ([**7-27**])
+Moderate Aortic Stenosis
+Mild->Moderate AR
+Moderate MR
+[**First Name (Titles) **] [**Last Name (Titles) 71133**]
+Anemia
+CKD (baseline creatinine difficult to assess 2-2.7)
+Gout
+Recent GI bleed thought [**2-19**] [**Month/Day (2) 4532**], no scope
+H. pylori positive [**7-18**] (was being treated prior to hospital)
+
+Social History:
+The patient was born in [**Country 4754**]. He lives in [**Location 1268**] with
+his wife, with whom he has two daughters and a son. [**Name (NI) **] denies
+any history of tobacco or drug use. He drinks alcohol in small
+amounts, occasionally (on the weekend).
+
+Family History:
+No family history of breast, colon, or prostate cancer. Brother
+had heart disease. Children in good health.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+General: Arousable to voice, Oriented x2
+HEENT: MMD
+Neck: supple, JVP elevated
+Lungs: +rhales b/l
+CV: +systolic murmur. S1+, S2+
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: +foley
+Ext: +edema to thigh b/l.
+
+DISCHARGE PHYSICAL EXAM:
+Vitals: T 96.8 / 146/84 (123-146/67-79) / 78 (74-88) / 20 / 98%
+on 2L
+Exam:
+Gen: sick appearing elderly male lying in bed with nasal cannula
+
+Lungs: CTAB in upper fields, decreased airmovement in lower
+lungs (less movement in R than L)
+Cardiac: RRR, 2/6 systolic ejection murmur loudest over aortic
+valve, [**3-23**] diastolic murmur greatest at LLSB, S1 and S2 faint,
+S3, S4
+Abd: Soft, NT, ND, Bowel sounds normoactive, no rashes on
+stomach
+LE: 2+ pulses at DP and PT, [**1-19**]+ edema up to mid shin,
+petichial/maculopapular confluent rash over bilat LE from below
+knees to ankles, feet have small amount of purple on toes. R
+thigh cath site shows no bleeding, erythema, or hematoma.
+UE: peripheral IV in place, radial pulse 2+, no rash on
+extermities
+Neuro: alert, oriented x 1
+
+
+Pertinent Results:
+ADMISSION Labs:
+CBC: WBC-6.4 RBC-4.03* Hgb-13.1* Hct-37.2* MCV-92 MCH-32.4*
+MCHC-35.1* RDW-14.8 Plt Ct-230 Neuts-79.7* Lymphs-11.7*
+Monos-7.2 Eos-1.0 Baso-0.4
+Coags: PT-15.1* PTT-32.6 INR(PT)-1.3*
+Chem: Glucose-108* UreaN-74* Creat-2.7* Na-118* K-5.5* Cl-79*
+HCO3-28 AnGap-17 ALT-49* AST-70* LD(LDH)-330* CK(CPK)-641*
+AlkPhos-112 TotBili-0.9
+Calcium-8.0* Phos-4.9* Mg-2.2 Osmolal-270*
+Cardiac Markers:
+CK(CPK)-561* CK(CPK)-456* CK-MB-8 proBNP-[**Numeric Identifier 104624**]* cTropnT-0.04*
+CK-MB-8 cTropnT-0.04* CK-MB-7 cTropnT-0.03*
+.
+.
+DISCHARGE LABS:
+Glucose UreaN Creat  Na   K   Cl  HCO3 AnGap
+126*     64*   2.2*  142 4.3  101  37
+.
+Hct 33.5
+.
+==========================================
+IMAGING Studies:
+.
+Head CT ([**7-28**]): IMPRESSION: No acute intracranial process.
+CXR ([**7-28**]):
+IMPRESSION: Increased size of right pleural effusion, now
+moderate, with persistent small left pleural effusion.
+Subsegmental atelectasis in the right lung base, as well as mild
+atelectasis in the left lung base.
+.
+ECHO ([**7-29**]):
+Conclusions: The left atrium is mildly dilated. Left ventricular
+wall thicknesses and cavity size are normal. There is moderate
+to severe global left ventricular hypokinesis (LVEF = 25-30 %).
+The estimated cardiac index is borderline low (2.0-2.5L/min/m2).
+No masses or thrombi are seen in the left ventricle. The right
+ventricular cavity is mildly dilated with moderate global free
+wall hypokinesis. The aortic valve leaflets are moderately
+thickened. There is moderate aortic valve stenosis (valve area
+1.0 cm2). Mild to moderate ([**1-19**]+) aortic regurgitation is seen.
+The mitral valve leaflets are structurally normal. There is no
+mitral valve prolapse. Moderate (2+) mitral regurgitation is
+seen. Moderate [2+] tricuspid regurgitation is seen. There is
+mild pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2182-4-10**],
+biventricular systolic function is more depressed suggesting a
+diffuse process. The severity of aortic regurgitation and mitral
+regurgitation are increased. The aortic valve gradient is lower,
+but is likely due to reduced stroke volume.
+.
+Cardiac Cath ([**8-6**]):
+COMMENTS:
+1. Selective coronary angiography of this left dominant system
+was
+limited to the left-sided circulation. The LMCA had mild
+disease. The
+LAD was heavily calcified and had serial diffuse 90% stenoses in
+the
+proximal, mid, and distal portions of the vessel. Angiography of
+the
+left circumflex demonstrated a 40% proximal stenosis and a 70%
+stenosis
+at the ostium of the OM1. There was collateral flow from the LAD
+to the
+distal circumflex system.
+2. Resting hemodynamics revealed elevated left and right heart
+filling
+pressures with a mean PCW of 35 mmHg and RVEDP of 11 mmHg. There
+was
+moderate to severe pulmonary arterial systolic and diastolic
+hypertension with a PASP of 67 mmHg and PADP of 30 mmHg. There
+was
+moderate systemic arterial hypertension with SBP 152 mmHg. The
+cardiac
+index was preserved (3.5 l/min/m2).
+3. Successful PTCA and stenting of distal LAD with 2.5x18 mini
+Vision
+bare metal stent.
+4. Successful PTCA and stenting of mid LAD with 2.5x18mm mini
+Vision
+bare metal stent post dilated to 3.0mm.
+5. Successful PTCA and stenting of proximal LAD with 3.0x18mm
+Vision
+bare metal stent post dilated to 3.0mm.
+6. Successful closure of right femoral arteriotomy with 6F
+angioseal.
+
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Elevated right and left heart filling pressures
+3. Moderate Systemic arterial systolic hypertension
+4. Moderate to severe pulmonary arterial systolic and diastolic
+hypertension
+5. Normal cardiac index
+6. Successful PCI of distal LAD with BMS.
+7. Successful PCI of mid LAD with BMS.
+8. Successful PCI of proximal LAD with BMS.
+9. Successful closure of right femoral arteriotomy with 6F
+angioseal.
+.
+ECHO ([**8-7**]):
+The left atrium is elongated. The right atrium is dilated. Left
+ventricu

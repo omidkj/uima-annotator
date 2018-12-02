@@ -1,0 +1,211 @@
+Admission Date:  [**2154-3-18**]              Discharge Date:   [**2154-3-22**]
+
+Date of Birth:  [**2079-1-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Latex / Amoxicillin / Percocet / Propoxyphene
+
+Attending:[**First Name3 (LF) 1042**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+mechanical ventilation
+Intubation and extubation
+
+
+History of Present Illness:
+75 y/o female with COPD, OSA, T2DM, HTN, CHF EF 40%, frequent
+UTIs, CAD, and CKD who presented from her nursing home ([**First Name4 (NamePattern1) 2299**]
+[**Last Name (NamePattern1) **]) with respiratory distress. Patient was initially admitted
+through the ED when she developed increasing congestion,
+shortness of breath, and somnolence. Patient visited by HCP on
+[**Name (NI) 2974**], and was noted to have increased work of breathing. She
+did not have cough, fevers, chills, chest pain, leg swelling, or
+increased sputum at the time, and did not note nausea, vomiting,
+or diarrhea. Per HCP, patient had a CXR done which was normal.
+Patietn was seen again by her HCP the next day and was noted to
+have worsening respiratory distress, and was given nebulizers by
+nursing home staff. At the time patient was noted to be confused
+as well, and was not alert to place, but did recognize her HCP.
+[**Name (NI) **] HCP states that this is about her baseline. Patient recently
+had Lasix and lisinopril discontinued by her PCP. [**Name10 (NameIs) **] also
+with a recent UTI and was being treated with IV antibiotics.
+Patient has stable orthopnea, lower extremity swelling. She is
+not ambulatory at baseline. Her blood sugars have been stable.
+
+In the ED, patient's initial VS: 99.9 BP 172/113 HR 110 O2sat
+93%.  She received lasix 40 mg IV x1 and put out 600 cc urine,
+and was originally on CPAP satting 99-100%. She was also started
+on a heparin gtt for ACS based on elevated troponins, no EKG
+changes. It is unclear why the patient was intubated, but
+presumably for mental status changes. She was started on a nitro
+gtt for blood pressure control and had a right subclavian line
+placed for access.
+
+Past Medical History:
+COPD
+T2DM on insulin
+HTN
+CHF (EF 40%)
+CAD
+CKD (baseline creatinine 1.8-2.1)
+OSA
+OA
+Depression
+Gout
+Hyperlipidemia
+GERD
+[**2154-1-5**]: I&D/VAC L leg, Ex Fix LLE, splint R leg
+[**2154-1-8**]: I&D, closure, ex-fix adjustment LLE; ORIF R distal
+tibia
+Difficult to wean vent after above recent surgeries
+
+Social History:
+Lives in nursing home. Denies smoking or alcohol. No illicit
+drug use. Patient is Spanish speaking only, from [**Name (NI) 5976**], husband
+passed away after their move to the United States.
+
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Vitals: 100.7 HR 87 BP 142/76 RR 20 O2sat 100% on FiO2 80% PEEP
+5 TV 400 RR 20
+General: well appearing, obese female, intubated, comfortable.
+HEENT: Dried blood over buccal mucosa. MMM.
+Neck: Thick. Unable to assess JVD.
+CV: RRR. Distant heart sounds.
+Pulm: Diffuse expiratory wheezing. Rhonchi diffusely anteriorly.
+
+Abd: Obese. Soft, nontender. Normoactive bowel sounds.
+Ext: WWP. Left tibia externally fixated. 2+pulses.
+Skin: +Candidal intertrigo.
+Neuro: PERRL. Grimaces to sternal rub. Toes downgoing
+bilaterally. Reflexes symmetric bilaterally.
+
+Pertinent Results:
+[**2154-3-18**] 08:45AM   WBC-8.5 RBC-4.03*# HGB-12.3# HCT-38.6#
+MCV-96# MCH-30.6 MCHC-31.9 RDW-17.3*
+[**2154-3-18**] 08:45AM   PLT COUNT-103*#
+[**2154-3-18**] 08:45AM   NEUTS-90.4* BANDS-0 LYMPHS-6.3* MONOS-1.7*
+EOS-1.2 BASOS-0.4
+[**2154-3-18**] 08:45AM   CALCIUM-10.5* PHOSPHATE-4.6* MAGNESIUM-1.6
+[**2154-3-18**] 08:06PM   GLUCOSE-114* UREA N-62* CREAT-2.4*
+SODIUM-146* POTASSIUM-5.3* CHLORIDE-116* TOTAL CO2-19* ANION
+GAP-16
+[**2154-3-18**] 08:45AM   CK(CPK)-77
+[**2154-3-18**] 08:45AM   CK-MB-NotDone cTropnT-0.14* proBNP-[**Numeric Identifier **]*
+[**2154-3-18**] 08:35AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.013
+[**2154-3-18**] 08:35AM URINE  BLOOD-SM NITRITE-NEG PROTEIN-100
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0
+LEUK-NEG
+[**2154-3-18**] 08:35AM URINE  RBC-0-2 WBC-[**4-17**] BACTERIA-MANY YEAST-NONE
+EPI-0-2
+[**2154-3-18**] 07:53AM   GLUCOSE-34* LACTATE-1.7 NA+-143 K+-GREATER TH
+CL--117* TCO2-15*
+[**2154-3-18**] 11:45AM   TYPE-ART O2-100 PO2-71* PCO2-35 PH-7.32*
+TOTAL CO2-19* BASE XS--7 AADO2-617 REQ O2-99 INTUBATED-NOT
+INTUBA COMMENTS-CPAP
+.
+EKG 2/4/8: NSR. No acute ST-T changes.
+.
+Micro
+[**2154-3-18**] 8:35 am URINE     Site: CATHETER
+
+                            **FINAL REPORT [**2154-3-22**]**
+
+   URINE CULTURE (Final [**2154-3-22**]):
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..
+         WARNING! This isolate is an extended-spectrum
+beta-lactamase
+         (ESBL) producer and should be considered resistant to
+all
+         penicillins, cephalosporins, and aztreonam. Consider
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species.
+      KLEBSIELLA PNEUMONIAE.    10,000-100,000 ORGANISMS/ML..
+         2ND MORPHOLOGY.
+         WARNING! This isolate is an extended-spectrum
+beta-lactamase
+         (ESBL) producer and should be considered resistant to
+all
+         penicillins, cephalosporins, and aztreonam. Consider
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          KLEBSIELLA PNEUMONIAE
+                             |          |
+AMIKACIN--------------   <=2 S
+AMPICILLIN/SULBACTAM--  =>32 R       16 I
+CEFAZOLIN-------------  =>64 R     =>64 R
+CEFEPIME--------------       R          R
+CEFTAZIDIME-----------  =>64 R     =>64 R
+CEFTRIAXONE-----------       R          R
+CEFUROXIME------------  =>64 R       32 R
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------     8 I        4 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------   128 R      128 R
+PIPERACILLIN/TAZO-----     8 S        8 S
+TOBRAMYCIN------------     8 I        2 S
+TRIMETHOPRIM/SULFA----  =>16 R     =>16 R
+
+Imaging
+[**3-18**] CXR
+With repositioning of the ET tube in standard position, the left
+upper lobe consolidation has entirely cleared indicating that
+this was atelectasis not pneumonia. There are, however,
+substantial areas of consolidation in the left lower lobe and in
+the right upper lobe marginating the major fissure in the
+posterior segment that are quite likely pneumonia. Severe
+cardiomegaly is stable. There is no pulmonary edema. The small
+left pleural effusion is probably unchanged. Right central
+venous line ends in the region of the superior cavoatrial
+junction and a nasogastric tube passes into the low stomach and
+out of view. No pneumothorax.
+.
+[**3-18**] CT head
+IMPRESSION: No acute intracranial abnormalities.
+.
+
+
+Brief Hospital Course:
+The patient was intubated and admitted to the ICU for
+respiratory failure. Was thought to be a combination of
+pneumonia, acute on chronic systolic heart failure, superimposed
+on COPD exacerbation Was treated with empiric levofloxacin and
+vancomycin, which was subsequently tailured to levofloxacin and
+completed course. She also received a prednisone pulse with
+taper, as well as aggresive inhaler therapy. She was
+subsequently extubated and transferred to the floor without
+further incident.
+
+She was noted to be have acute renal failure, so aggressive
+diuresis was not pursued. Her serum creatinine gradually
+improved without intervention.
+
+Initially, the patient was noted to hypertensive urgency, but
+aggressive control of her blood pressure was accomplished
+despite holding her ACE inhibitor in the setting of ARF. It was
+not necessary to resume her ACE inhibitor on discharge to
+control her blood pressure, but is recommended once her ARF
+resolves.
+
+Her urine culture was intially treated with the levofloxacin,
+when identification and sensitivities returned, she was started
+on Zosyn (piperacillin/tazobactam), dose for her kidney
+function, for a total of 14 days. Her Foley catheter was also
+exchanged. A PICC catheter was placed for the antibiotics.
+
+Thrombocytopeni

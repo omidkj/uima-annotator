@@ -1,0 +1,188 @@
+Admission Date:  [**2123-9-6**]              Discharge Date:   [**2123-9-28**]
+
+Date of Birth:  [**2043-1-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2758**]
+Chief Complaint:
+hypoxic respiratory failure, septic shock
+
+Major Surgical or Invasive Procedure:
+Central line placement on [**9-6**] and [**2123-9-9**]. Failed
+thoracentesis on [**9-21**].
+
+
+History of Present Illness:
+80 y/o male with complicated past medical history of COPD,
+atrial fibrillation, ileus, abdominal abscess status post
+drainage, and C-difficile infection, who was initially admitted
+to [**Hospital1 **]-[**Location (un) 620**] on [**8-31**] for hyponatremia. Per discussion with the
+hospitalist there, patient had a PEG tube placed for FTT. He was
+on ciprofloxacin and tigacycline and required ICU transfer for
+hypotension and septic shock, and was on levophed and dopamine.
+A CVL was placed, and antibiotics were changed to imipenem and
+vancomycin. A urine culture was positive for ESBL Ecoli on
+[**2123-8-31**]. Patient's code status was changed from DNR/DNI to
+full code after discussing goals of care with patient's wife.
+
+Patient remained with a clinical picture of septic shock,
+improved for one day, but then developed hypoxic respiratory
+failure. X-ray was felt to be consistent with multifocal
+pneumonia and CHF/volume overload, for which lasix x 2 was
+attempted. Patient was reportedly agitated and pulled out his
+PICC line and femoral CVL line. A PIV x 1 was placed.
+
+For his shortness of breath, lasix, morphine, and solumedrol
+were initiated. [**Name (NI) **] wife reports that goals of care are
+still full code. An ABG was 7.21/39/77/92% on 100% NRB. Bipap
+was attempted, but patient was still with labored breathing, and
+intubation was performed. ETT position was checked prior to
+transfer and was in adequate position. Patient's ventilator
+settings are AC 440 x 16 x 88% FIO2 x 5 PEEP on transfer.
+
+On transfer, VS: BP 160/100, HR 107, 96% for oxygenation.
+Propofol was initiated. Access is only 1 PIV. Per report,
+further attempt at access was not successful. The patient was
+intubated and sedated on arrival.
+
+Past Medical History:
+- COPD, on home O2
+- atrial fibrillation
+- congestive heart failure
+- history of recurrent urinary tract infections
+- Pseudomonas and Proteus sepsis abdominal abscess
+- C. Diff colitis
+- failure to thrive s/p PEG placement
+
+
+Social History:
+Social History: Lives at [**Location 1036**]
+- Tobacco: none
+- Alcohol: none
+- Illicits:
+
+Family History:
+not-relevant to the current admission
+
+Physical Exam:
+Physical exam on arrival to [**Hospital1 18**]:
+
+General: Intubated, sedated
+HEENT: PERLL, Sclera anicteric
+Neck: supple, JVP 6-8 cm, no LAD
+Lungs: coarse breath sounds bilaterally, rhonchi with occasional
+crackles at bases
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+Discharge laboratory studies:
+ - proBNP-[**Numeric Identifier 87798**]*
+ - [**2123-9-25**] 04:00AM BLOOD WBC-10.8 RBC-2.75* Hgb-8.7* Hct-26.2*
+MCV-95 MCH-31.6 MCHC-33.1 RDW-16.4* Plt Ct-321
+ - [**2123-9-25**] 04:00AM BLOOD Glucose-105* UreaN-27* Creat-0.8
+Na-136 K-4.1 Cl-99 HCO3-31 AnGap-10
+
+Microbiology:
+ - [**9-23**] Urine Culture: yeast
+ - 11/5 Blood Culture: no growth
+ - multiple negative C diff studies
+
+Imaging:
+ - [**2123-9-6**] Chest Xray: The endotracheal tube now terminates 4.5
+cm from the carina. An enteric tube terminates in the stomach. A
+right internal jugular catheter terminates in the mid SVC. There
+has been interval improvement in aeration bilaterally, right
+greater than left, but alveolar and interstitial opacities
+compatible with edema persist. Lung bases remain hyperinflated,
+with small bilateral pleural effusions. The cardiomediastinal
+silhouette is unchanged. IMPRESSION: 1. Supporting devices as
+described. 2. Interval improvement in pulmonary edema, now
+moderate. 3. Unchanged small-to-moderate bilateral pleural
+effusions.
+ - [**2123-9-6**] TTE: The left atrium is normal in size. Left
+ventricular wall thicknesses and cavity size are normal. There
+is moderate regional left ventricular systolic dysfunction with
+near akinesis of the anterior septum and anterior wall. The
+lateral wall is mildly hypokinetic. There is no ventricular
+septal defect. Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Trivial mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Moderate regional LV systolic dysfunction consistent
+with LAD ischemia/infarction. Calcified aortic valve without
+significant stenosis.
+
+[**2123-9-9**] CT Chest notable findings: 1. Bilateral upper lobe
+bronchovascular ground-glass infiltrates, this is most likely
+due to bilateral upper lobe pneumonia or aspiration, hemorrhage
+and pulmonary edema are considered less likely.  2. A renal
+ultrasound is suggested to evaluate possible left hydroureter.
+
+[**2123-9-10**] Renal Ultrasound notable findings: No evidence of
+hydronephrosis, hydroureter, or stones.  Previously seen left
+hydroureter has now resolved, possibly secondary to Foley
+placement in the bladder.
+
+[**2123-9-18**] CT Chest notable findings: 1. No intra-abdominal
+abscess. 2. Interval near-complete resolution of right pleural
+effusion. Interval increase of small-to-moderate on the left. 3.
+Normal aeration of the right lung without focal consolidations.
+4. Subtotal collapse of the left lower lobe with loculated
+pleural effusion.  Superimposed infectious process cannot be
+excluded. 5. Bilateral severe hydronephrosis extending to the
+UVJs but without definite obstructive mass. Could represent
+chronic reflux from a full bladder. 6. Tiny pockets of
+intravesicular air in the anti-dependent portion of the bladder.
+If the patient has no recent instrumentation, differential
+diagnosis of emphysematous cystitis must be considered. 7. A 1.3
+cm right hyperdense renal cyst, better characterized in the
+previous ultrasound study. 8. Tiny urinary bladder stones.
+
+[**2123-9-23**] Renal Ultrasound notable findings:Interval development
+of bilateral symmetric moderate hydronephrosis involving both
+kidneys. Foley catheter in the bladder outlet and likely not
+functioning properly.
+
+[**2123-9-24**] Portable chest X-ray: Cardiac size is normal. Collapse
+of the left lower lobe is stable. Mild left pleural effusion has
+minimally increased in amount. The right lung is clear with no
+pneumothorax. Small right pleural effusion is unchanged.
+
+Brief Hospital Course:
+Mr. [**Known lastname 5655**] is an 80 M with a medical history notable for COPD,
+congestive heart failure with reduced ejection fraction, recent
+G-tube placement for failure to thrive, and recurrent urinary
+tract infections who was transferred from an outside hospital to
+the [**Hospital1 18**] ICU for urosepsis.
+
+He initially was intubated and on pressors. He required
+treatment for urosepsis (OSH cultures grew ESBL E coli), COPD,
+health-care associated pneumonia (culture negative), and CHF
+with reduced LVEF. He eventually improved and was extubated on
+[**9-8**]. However, he required transfer back to the ICU for flash
+pulmonary edema a few days later.
+
+He was eventually transferred back to the floor and treated for
+the above conditions. He continued to have episodes of
+hypotension and respiratory distress and was found to have a
+leukocytosis and suspected empyema. This was unable to be
+drained by thoracentesis and the patient declined additional
+invasive procedures. He stabilized but did not improve on
+broad-spectrum antibiotics. Other active issues during this time
+included frequent episodes of flash pulmonary edema, delirium,
+and anxiety.
+
+A family meeting was held and the pa

@@ -1,0 +1,228 @@
+Admission Date:  [**2119-2-25**]              Discharge Date:   [**2119-2-25**]
+
+Date of Birth:  [**2073-10-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+emergency Type A aortic dissection
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+45 yo male transferred in emergently from [**Hospital **] [**Hospital **] hospital
+ER. He presented in their ER 6 hours prior to transfer here. He
+was intubated there with noted paraplegia and hypotension.
+
+Past Medical History:
+([**First Name8 (NamePattern2) **] [**Hospital1 **] ER record):
+
+CAD
+MI
+past IVDA
+smoker
+
+Social History:
+unknown
+
+Family History:
+unknown
+
+Physical Exam:
+unresponsive, cyanotic, mottled
+BP 60 systolic
+extremities rigid and cool
+fixed and dilated pupils
+
+Pertinent Results:
+[**2119-2-25**] 02:48AM BLOOD Type-ART pO2-61* pCO2-67* pH-6.78*
+calTCO2-11* Base XS--29 Intubat-INTUBATED Vent-CONTROLLED
+[**2119-2-25**] 02:48AM BLOOD Glucose-128* Lactate-6.6* Na-141 K-5.4*
+Cl-119*
+
+RADIOLOGY  Final Report
+
+CHEST PORT. LINE PLACEMENT  [**2119-2-25**] 3:41 AM
+
+CHEST PORT. LINE PLACEMENT
+
+Reason: ?ET tube correctly positioned
+
+[**Hospital 93**] MEDICAL CONDITION:
+45 year old man with aortic dissection
+REASON FOR THIS EXAMINATION:
+?ET tube correctly positioned
+EXAMINATION: AP chest.
+
+INDICATION: Aortic dissection.
+
+Single AP view of the chest was obtained on [**2119-2-25**] at 05:06
+hours. No prior films are available for comparison. The patient
+is intubated with the tip of the ET tube approximately 5.5 cm
+above the carina. A Swan-Ganz catheter has been inserted from
+the right side and its tip lies in the main pulmonary artery.
+There is almost complete opacification of the left hemithorax.
+Bullous changes are seen at both apices. Diffuse haziness seen
+in the right hemithorax likely represents layering pleural
+effusion. Also, there is increased prominence of the
+interstitial markings on the right side.
+
+IMPRESSION:
+
+By history provided, the patient has aortic dissection. As
+described, there is almost complete opacification of the left
+hemithorax which presumably is a combination of fluid/blood and
+atelectasis. Likely layering effusion on the right side.
+Interstitial prominence consistent with overload or edema.
+Bullous changes at both apices. Please correlate the findings
+with any prior imaging, which is not available to us at the time
+of this dictation.
+
+DR. [**Known firstname **] [**Last Name (NamePattern1) **]
+Approved: SAT [**2119-2-25**] 3:11 PM
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 4508**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 78067**] (Complete)
+Done [**2119-2-25**] at 3:37:12 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2073-10-16**]
+Age (years): 45 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Abnormal ECG. Aortic dissection. Aortic valve
+disease. Coronary artery disease. Hypertension.
+ICD-9 Codes: 402.90, 440.0, 441.00, 441.2, 424.1
+Test Information
+Date/Time: [**2119-2-25**] at 03:37    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 168**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW2-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  10% to 15%  >= 55%
+Aorta - Sinus Level:  *4.8 cm  <= 3.6 cm
+Aorta - Ascending:  *4.1 cm  <= 3.4 cm
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. Mild spontaneous echo
+contrast in the body of the LA. Thrombus in the body of the LA.
+No thrombus in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA and extending into the RV. No ASD
+by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Severely dilated LV
+cavity. Severe regional LV systolic dysfunction.
+
+RIGHT VENTRICLE: Moderate global RV free wall hypokinesis.
+
+AORTA: Moderately dilated aortic sinus. Moderately dilated
+ascending aorta. Simple atheroma in ascending aorta. Mildly
+dilated descending aorta. Ascending aortic intimal
+flap/dissection.. Descending aorta intimal flap/aortic
+dissection.
+
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened
+aortic valve leaflets. No AS. Moderate (2+) AR.
+
+MITRAL VALVE: Mild (1+) MR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. Emergency study. Results were personally reviewed
+with the MD caring for the patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+1. The left atrium is moderately dilated. Mild spontaneous echo
+contrast is seen in the body of the left atrium. A thrombus is
+seen in the body of the left atrium. No thrombus is seen in the
+left atrial appendage. No atrial septal defect is seen by 2D or
+color Doppler.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity is severely dilated. There is severe regional
+left ventricular systolic dysfunction with anterior and
+posterior akinesis
+3. The aortic root is moderately dilated at the sinus level. The
+ascending aorta is moderately dilated. There are simple atheroma
+in the ascending aorta. The descending thoracic aorta is mildly
+dilated. A mobile density is seen in the ascending aorta
+consistent with an intimal flap/aortic dissection. The
+dissection originates at the level of the LMCA and flow is not
+seen in the Left Main. Flow is seen in the RCA. A mobile density
+is seen in the descending aorta consistent with an intimal
+flap/aortic dissection.
+5. There are three aortic valve leaflets. The aortic valve
+leaflets are mildly thickened. There is no aortic valve
+stenosis. Moderate (2+) aortic regurgitation is seen.
+6. Mild (1+) mitral regurgitation is seen. Dr. [**Last Name (STitle) **] was
+notified in person of the results .
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2119-2-25**] 03:51
+
+
+?????? [**2113**] CareGroup
+
+
+
+
+
+Brief Hospital Course:
+Taken directly to OR on arrival for possible emergency surgery.
+Hypotensive, in shock,on multiple inotropes close to cardiac
+arrest. TEE done in OR showed EF 10%, no flow in left main
+consistent with LM occlusion, global severe hypokinesia, and
+clots in the left atrium. Both lower extremities rigid, severly
+acidotic pH in the region of 6 and base excess above -20,
+prolonged hypotension during transfer lasting more than a few
+hours, unresponsive for about 4 hours. Decision made by Dr.
+[**First Name (STitle) **] not to proceed with surgery given the findings on echo
+and clinical exam, as well as severe acidosis. Multiple
+unsuccessful attempts were made to contact the family. He was
+transferred to the CVICU and expired at 6:44 AM on [**2-25**]. Unable
+to contact family, and message was left informing them.
+Susequently family contact[**Name (NI) **] and informed.
+
+Medications on Admission:
+unknown
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+ascending aortic dissection
+CAD
+MI
+
+Discharge Condition:
+expired
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]
+
+Completed by:[**2119-4-13**]

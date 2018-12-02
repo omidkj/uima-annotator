@@ -1,0 +1,183 @@
+Admission Date:  [**2146-10-26**]              Discharge Date:   [**2146-10-29**]
+
+Date of Birth:  [**2089-10-3**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Integrilin
+
+Attending:[**First Name3 (LF) 1854**]
+Chief Complaint:
+Tumor
+
+Major Surgical or Invasive Procedure:
+Right frontal craniotomy with excision of mass
+
+
+History of Present Illness:
+57F h/o lung cancer found to have right frontal brain mass.
+
+Past Medical History:
+Lung cancer
+Hypertension
+
+Social History:
+Long time smoker
+
+Family History:
+NC
+
+Physical Exam:
+97.1 126/65 65 15 95%3L
+NAD
+AAOx3. Following commands briskly.
+PERRLA. EOMI.
+Facial sensation/movement symmetrical. Tongue midline.
+Full sensation throughout.
+5/5 strength throughout.
+
+
+Pertinent Results:
+[**2146-10-26**] 06:15PM   GLUCOSE-158* UREA N-16 CREAT-0.9 SODIUM-140
+POTASSIUM-4.1 CHLORIDE-105 TOTAL CO2-25 ANION GAP-14
+[**2146-10-26**] 06:15PM   CALCIUM-8.0* PHOSPHATE-4.4 MAGNESIUM-1.8
+[**2146-10-26**] 06:15PM   WBC-9.7 RBC-3.90* HGB-12.3 HCT-36.4 MCV-93
+MCH-31.7 MCHC-33.9 RDW-16.2*
+[**2146-10-26**] 06:15PM   PT-10.8 PTT-25.2 INR(PT)-0.9
+[**2146-10-26**] 06:15PM   PLT COUNT-190
+
+Head CT [**10-26**]: Status post right frontal craniotomy with
+post-operative changes seen in the right frontal lobe. Small
+amount of high density material seen in the resection bed,
+consistent with post-operative hemorrhage. No evidence of acute
+hemorrhage seen elsewhere. Expected pneumocephalus was
+identified.
+
+Brief Hospital Course:
+Ms. [**Known lastname 51136**] is a 57-year-old woman with a history of breast
+cancer who was found to have a right frontal brain mass. She was
+admitted to the neurosurgery service following her planned
+craniotomy and mass resection (see separate operative report).
+She was observed overnight in the PACU and did well and was
+transferred to the floor on POD#1. Physical therapy evaluated
+her on the floor and felt she needed an additional day of PT;
+she was thus discharged to home on POD#3.
+
+Medications on Admission:
+Advair 250-50 1 dose [**Hospital1 **]
+Albuterol 90 mcg INH 2 Puffs q4-6h prn
+Combivent 2 puffs [**Hospital1 **]
+Commit 4 mg
+Dexamethasone 4 mg po bid
+Flexeril 10 mg po tid prn (rarely)
+Keppra 500 mg po bid
+Lisinopril 20 mg po daily
+Lorazepam 0.5 mg po qid prn anxiety
+Methimazole 5 mg po daily
+Metoprolol 50 mg po bid
+Prilosec 20 mg po daily
+
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily): While taking
+narcotics such as dilaudid.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+Disp:*60 Capsule(s)* Refills:*2*
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) PUFF Inhalation [**Hospital1 **] (2 times a day).
+5. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation [**Hospital1 **] (2 times a day).
+6. Nicotine (Polacrilex) 4 mg Lozenge Sig: One (1) Lozenge
+Mucous membrane Q4H (every 4 hours) as needed: Do not smoke
+while taking this.
+7. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) as needed for back spasm.
+Disp:*30 Tablet(s)* Refills:*1*
+8. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. Methimazole 5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+12. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+13. Dexamethasone 1.5 mg Tablet Sig: Two (2) Tablet PO Q 12
+hours () for 2 doses.
+Disp:*4 Tablet(s)* Refills:*0*
+14. Dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q 12 hours
+() for ongoing doses: Start with evening dose on [**10-30**].
+Disp:*60 Tablet(s)* Refills:*1*
+15. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*2*
+16. Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO
+Q6H (every 6 hours) as needed for itching.
+Disp:*20 Capsule(s)* Refills:*0*
+17. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO every eight (8) hours as needed for nausea.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Brain mass
+Lung cancer
+
+Discharge Condition:
+Neurologically stable
+
+Discharge Instructions:
+DISCHARGE INSTRUCTIONS FOR CRANIOTOMY/HEAD INJURY
+
+??????	Have a family member check your incision daily for signs of
+infection
+??????	Take your pain medicine as prescribed
+??????	Exercise should be limited to walking; no lifting, straining,
+excessive bending
+??????	You may wash your hair only after sutures and/or staples have
+been removed
+??????	You may shower before this time with assistance and use of a
+shower cap
+??????	Increase your intake of fluids and fiber as pain medicine
+(narcotics) can cause constipation
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, aspirin, Advil,
+Ibuprofen etc.
+??????	You have been prescribed an anti-seizure medicine, take it as
+prescribed and follow up with laboratory blood drawing as
+ordered
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING:
+
+??????	New onset of tremors or seizures
+??????	Any confusion or change in mental status
+??????	Any numbness, tingling, weakness in your extremities
+??????	Pain or headache that is continually increasing or not
+relieved by pain medication
+??????	Any signs of infection at the wound site: redness, swelling,
+tenderness, drainage
+??????	Fever greater than or equal to 101?????? F
+
+
+Followup Instructions:
+PLEASE RETURN TO THE OFFICE IN 10 DAYS FOR REMOVAL OF YOUR
+STAPLES/SUTURES [**Telephone/Fax (1) 1669**]
+
+You will be called at home with an appointment for cyberknife.
+
+
+
+Completed by:[**2146-10-29**]

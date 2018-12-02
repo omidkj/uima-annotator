@@ -1,0 +1,284 @@
+Admission Date:  [**2160-9-8**]              Discharge Date:   [**2160-9-14**]
+
+Date of Birth:  [**2100-12-10**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Erythromycin Base / Benadryl / Doxycycline Hcl / Robaxin /
+Nalfon
+
+Attending:[**Doctor First Name 5188**]
+Chief Complaint:
+abdominal wall cellulitis, r/o necrotizing fasciitis
+
+Major Surgical or Invasive Procedure:
+bedside debridement
+
+
+History of Present Illness:
+59F with MMP who presented from [**Hospital6 204**] for a
+concern of necrotizing fasciitis.  She has had a chronic
+subcutaneous infection of her pannus, which was debrided
+multiple times at [**Hospital1 189**].  Over the last days prior to
+admission, she appeared to be septic, with fevers, leukocytosis,
+mental status changes, increasing fluid requirements & a rising
+creatinine.
+
+Past Medical History:
+morbid obesity
+DM2
+CAD s/p MI s/p stent
+PAF
+CRI/ARF
+asthma
+arthritis
+s/p cholecystectomy
+HTN
+neuropathy
+
+Social History:
+[**Hospital 8735**] hospital administrator
+no toxic habits
+
+Family History:
+noncontributory
+
+Physical Exam:
+Afeb,  P 69 (1 AVB),  BP 102/48   17  100%
+AO x3, nontoxic
+Dry membranes
+RRR, no JVD
+bilat wheezing
+Soft, obese, 18 cm open incision in RLQ with surrounding
+cellulitis, large subcutaneous cavity with intact fascia, +fat
+necrosis, +sweet/foul smelling discharge
+1+ bilat LE edema
+
+Pertinent Results:
+LABS
+----
+
+[**2160-9-8**] 01:08PM BLOOD WBC-8.9# RBC-3.30* Hgb-9.5* Hct-28.6*
+MCV-87 MCH-28.6 MCHC-33.0 RDW-16.4* Plt Ct-210#
+[**2160-9-8**] 01:08PM BLOOD Glucose-123* UreaN-56* Creat-3.3*#
+Na-128* K-4.1 Cl-96 HCO3-18* AnGap-18
+
+[**2160-9-9**] 10:45AM BLOOD Cortsol-22.7*
+[**2160-9-10**] 01:30PM BLOOD TSH-0.45
+[**2160-9-10**] 01:30PM BLOOD Vanco-6.0*
+
+[**2160-9-12**] 07:02AM BLOOD WBC-7.0 RBC-3.30* Hgb-9.3* Hct-28.7*
+MCV-87 MCH-28.3 MCHC-32.5 RDW-16.3* Plt Ct-238
+[**2160-9-12**] 07:02AM BLOOD Glucose-146* UreaN-39* Creat-1.3* Na-140
+K-3.8 Cl-108 HCO3-23 AnGap-13
+
+MICRO
+-----
+
+[**2160-9-8**] 1:09 pm URINE
+
+                            **FINAL REPORT [**2160-9-10**]**
+
+   URINE CULTURE (Final [**2160-9-10**]):
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..
+      2ND ISOLATE.    <10,000 organisms/ml.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------     2 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+
+[**2160-9-8**] 5:21 pm SWAB      Source: Rectal swab.
+
+                            **FINAL REPORT [**2160-9-12**]**
+
+   R/O VANCOMYCIN RESISTANT ENTEROCOCCUS (Final [**2160-9-12**]):
+      ENTEROCOCCUS SP..    MODERATE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------  =>32 R
+CHLORAMPHENICOL-------   <=4 S
+LEVOFLOXACIN----------   =>8 R
+LINEZOLID-------------     2 S
+PENICILLIN------------  =>64 R
+VANCOMYCIN------------  =>32 R
+
+[**2160-9-11**] 11:19 am SWAB      Source: Wound.
+
+   GRAM STAIN (Final [**2160-9-11**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   WOUND CULTURE (Preliminary):
+      PSEUDOMONAS AERUGINOSA.    HEAVY GROWTH.
+         OF TWO COLONIAL MORPHOLOGIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+
+   ANAEROBIC CULTURE (Pending):
+
+RADS
+----
+
+[**9-10**] RENAL ULTRASOUND: The right and left kidneys measure 11.9
+and 11.5 cm respectively without evidence of stones, masses or
+hydronephrosis.
+
+[**9-10**] V/Q SCAN: low probability of PE.  mild to moderate airway
+disease
+
+Brief Hospital Course:
+Admitted to SICU, labs & cultures sent (her admission UA showed
+evidence of a UTI).  Given that no evidence of necrotizing
+fasciitis, the patient was managed conservatively for her sepsis
+with antibiotics & IV hydration.  Renal, cardiac & plastics
+consults were obtained.
+
+With hydration, Ms. [**Known lastname 34308**] ARF improved & was noted to have
+improved mental status.  She was transferred to the floor in
+better condition & PT/OT consults were obtained.
+
+On HD2&3, she underwent bedside debridement of the inferior
+aspect of her wound.  Cultures were sent, which eventually grew
+out pseudomonas.
+
+On HD4, she complained of dyspnea & had low O2 sats.  A CT chest
+was considered but because of her renal issues, a V/Q scan was
+obtained, which effectively ruled out a PE.  She improved with
+incentive spiromtery & chest PT.
+
+On the night of HD4, she complained of frustration & threatened
+to injure herself if she could not return closer to home.  Psych
+liasion service felt patient did not have true suicidal
+ideation.
+
+On HD6, she was accepted back at [**Hospital 189**] Hospital and was
+transferred back under the care of her PCP, [**Name10 (NameIs) **] [**Last Name (STitle) 3450**].
+
+Medications on Admission:
+Lopressor
+Mavik
+Lipitor
+Tylenol 3
+Maxzide
+Avandia
+Neurontin
+Quinine
+Ultram
+Synthroid
+Priolosec
+Flexeril
+[**Last Name (STitle) **]
+Alieve
+ASA
+B12
+Albuterol
+Ketocon
+
+Discharge Medications:
+1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 1 weeks.
+Disp:*7 Tablet(s)* Refills:*0*
+2. Oxacillin Sodium 10 g Recon Soln Sig: Two (2) gm Injection
+Q6H (every 6 hours) for 1 weeks.
+Disp:*56 gm* Refills:*0*
+3. Hydromorphone 2 mg/mL Syringe Sig: 0.5-1 mg Injection PRN
+DRESSING CHANGES ().
+Disp:*15 mg* Refills:*2*
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*2*
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day): hold for sbp<100, hr<60.
+Disp:*60 Tablet(s)* Refills:*2*
+7. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*60 Disk with Device(s)* Refills:*2*
+8. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**12-9**]
+Puffs Inhalation every four (4) hours.
+Disp:*2 inhalers* Refills:*2*
+9. Albuterol Sulfate 0.083 % Solution Sig: One (1) treatment
+Inhalation q2 as needed for shortness of breath or wheezing.
+Disp:*5 treatment* Refills:*2*
+10. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ML
+Injection TID (3 times a day).
+Disp:*90 ML* Refills:*2*
+11. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One
+(1) ML Intravenous  three times a day as needed: flush CVL
+qSHIFT & PRN.
+Disp:*30 ML(s)* Refills:*3*
+12. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID
+(4 times a day) as needed: groin.
+Disp:*qs applications* Refills:*0*
+13. Insulin sliding scale
+Fingersticks QID.  Administer regular insulin as follows: BS<70,
+[**12-9**] amp D50; 121-160, 3 units; 161-200, 7 units; 201-240, 10
+units; 241-280, 13 units; 281-320, 17 units; 321+, 20 units &
+contact MD.
+14. [**Name2 (NI) **] 100 mg Capsule Sig: One (1) Capsule PO twice a day:
+hold for loose stools.
+Disp:*60 Capsule(s)* Refills:*2*
+15. Seroquel 25 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 189**] Hospital
+
+Discharge Diagnosis:
+abdominal wall cellulitis (s/p operative I&D)
+bedside wound debridement
+CAD s/p MI s/p stent
+atrial fibrillation
+1st degree AV block
+Depression
+Type 2 diabetes
+asthma
+neuropathy
+chronic renal insufficiency
+acute renal failure
+urinary tract infection
+VRE+ wound infection
+hypovolemia
+hypokalemia
+hypomagnesemia
+delirium, resolved
+
+
+Discharge Condition:
+improved
+
+
+Discharge Instructions:
+Diabetic diet as tolerated.  Continue your wet to dry dressing
+changes and your antibiotic courses.  Can switch to vac
+dres

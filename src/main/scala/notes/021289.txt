@@ -1,0 +1,219 @@
+Admission Date:  [**2153-4-13**]              Discharge Date:   [**2153-4-27**]
+
+Date of Birth:  [**2068-9-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Doctor Last Name 10493**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+intubation
+
+History of Present Illness:
+Mr. [**Known lastname 25816**] is an 84 year old patient of [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 25817**] who
+presented to the ED today after 2 episodes vomiting and
+diarrhea. Per his son, he lives independently and was doing well
+until he woke up this morning with nausea, a single episode of
+vomiting, a loose nonbloody stool, chills, and general malaise.
+He called his son who brought him to the [**Name (NI) **].
+.
+In the waiting room, he had an episode of possible syncope. He
+felt SOB and looked ill, and his family noticed that he seemed
+confused. He was taken to the core area where he was found to
+have 80% on RA. EKG showed no ischemic changes. CXR was
+unremarkable. Labs notable for lactic acidosis with lactate 8.
+CT torso was done to rule out PE. This showed diffuse ground
+glass opacities in the lungs and AAA. Vascular Surgery service
+saw him.
+.
+In the ED waiting room, patient had a brief episode of near
+syncope during which he was feeling SOB and confused and "looked
+bad." He was tachycardic and tachypneic. O2 Sat was 80% on RA
+with venous pH 7.1, prompting intubation. Serial EKGs were
+without ischemic changes. He was noted to be acidotic with
+lactate 8. CT torso was done to rule out PE. No PE was
+demonstrated, but there were diffuse ground glass opacities
+concerning for multifocal pneumonia. He was given vancomycin,
+zosyn, levofloxacin. CT also showed 3.8 cm infrarenal AAA.
+Vascular Surgery service saw him in the ED. He was intubated and
+admitted to the MICU for further managemenet.
+
+
+Past Medical History:
+GERD
+Hyperlipidemia
+Vertigo
+BPH
+
+
+Social History:
+Lives with wife. [**Name (NI) **] is her primary care taker  as she has
+suffered a recent stroke. Remote smoking history (30 pkyr).
+Occasional alcohol use. No history of illicit drug use.
+
+
+Family History:
+The patient has a mother who had HTN and father who had a
+stroke.
+
+Physical Exam:
+Admission exam:
+VS: T 100.0, HR 88, BP 130/70RR 32, O2 100% on PSV with 100%
+FiO2, [**6-20**]
+Gen: intubated, sedated, doesn't open eyes to voice or follow
+commands
+HEENT: NCAT. Sclera anicteric. EOMI. OP clear, no exudates or
+ulceration.
+Neck: JVP flat, RIJ in place
+CV: RRR, normal S1, S2. No m/r/g.
+Chest: diffuse crackles.
+Abd: Soft, NTND. No HSM or tenderness.
+Ext: no edema
+Skin: No stasis dermatitis, ulcers, scars.
+Neuro: PERRL, does not follow commands
+
+
+Pertinent Results:
+Admission labs:
+
+[**2153-4-13**] 01:30PM   WBC-3.7* RBC-4.82 HGB-14.4 HCT-45.2 MCV-94
+MCH-29.9 MCHC-31.9 RDW-13.0
+[**2153-4-13**] 01:30PM   NEUTS-47* BANDS-17* LYMPHS-26 MONOS-4 EOS-0
+BASOS-0 ATYPS-1* METAS-3* MYELOS-2*
+[**2153-4-13**] 01:30PM   GLUCOSE-229* UREA N-26* CREAT-1.2 SODIUM-138
+POTASSIUM-4.6 CHLORIDE-100 TOTAL CO2-21* ANION GAP-22*
+[**2153-4-13**] 01:30PM   CALCIUM-9.3 PHOSPHATE-4.6*# MAGNESIUM-2.0
+
+Brief Hospital Course:
+An 84 year-old man presents with likely sepsis secondary to
+pneumonia.
+.
+# Respiratory failure: patient was intubated in ED for hypoxemic
+respiratory failure, likely secondary to pneumonia. Due to
+initial aggressive fluid resuscitation, patient had to be
+diuresed over several days before extubation. During the course
+of intubation, patient intermittently hyperventilated regardless
+of ventilator settings and failed repeated SBTs. Benzodiazepenes
+and opiates briefly brought down respiratory rate. At one point,
+family considered making patient CMO and terminal extubation.
+However, patient was gradually more alert and once asked
+declined terminal extubation and agreed that if extubation was
+unsuccessful, re-intubation would be okay. Patient was
+successfully extubated on [**2153-4-24**] and called out to the medicine
+floor.  Patient remained comfortable on 4L with improved breath
+sounds.
+.
+# MRSA pneumonia: Patient presented with bandemia and
+leukopenia, fevers, and CT with multilobar infiltrates
+diagnostic of severe pneumonia. Vancomycin, zosyn, and
+levofloxacin were started. He initially required levophed to
+maintain MAP >65.  Sputum cultures grew MRSA.  Antibiotics were
+narrowed to vancomycin.  Levophed was weaned, and BP remained
+normal to hypertensive.  However, a few days into his MICU
+course, he was again febrile and clinically tenuous, so
+antibiotic regimen was broadened back to include cefepime and
+ciprofloxacin in addition to the IV vancomycin. He finished his
+course of antibiotics on [**2153-4-24**] and he has been stable on 4L of
+O2 with gradually improving breath sounds.
+.
+# RUE edema/weakness - upper extremity ultrasound showed an age
+indeterminate midcephalic vein clot with signs of distal flow.
+Vascular surgery was consulted, recommended no anticoagulation.
+Warm packs, elevation, and NSAIDS were used.  Head CT was
+performed with no signs of intracranial process to explain
+weakness.  Patient will require physical rehabilitation of right
+arm.
+.
+# Hct drop: Hct fell from 35 on admission to 27, likely
+secondary to fluids, and was subsequently stable.
+.
+# Hyperlipidemia:  Atorvastatin was continued.
+.
+# AAA: 3 cm, newly discovered.  Patient was seen by vascular in
+ED who recommended repeat US in 6 months
+.
+CODE STATUS: Full code
+
+Medications on Admission:
+Aspirin 81 mg daily
+lipitor 20 mg daily
+omeprazole 20 mg daily
+Multivitamin
+
+
+Discharge Medications:
+1. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+2. Docusate Sodium 100 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO twice
+a day.
+3. Senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+4. Quetiapine 25 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO TID (3 times a
+day).
+5. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization [**Last Name (STitle) **]: One (1) nebulizer Inhalation Q6H (every 6
+hours) as needed for SOB, wheezing.
+6. Ipratropium Bromide 0.02 % Solution [**Last Name (STitle) **]: One (1) nebulizer
+Inhalation Q6H (every 6 hours) as needed for SOB, wheezing.
+7. Heparin (Porcine) 5,000 unit/mL Solution [**Last Name (STitle) **]: 5000 (5000)
+units Injection TID (3 times a day).
+8. Atorvastatin 20 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY
+(Daily).
+9. Aspirin 81 mg Tablet, Delayed Release (E.C.) [**Last Name (STitle) **]: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+10. Multivitamin     Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY
+(Daily).
+11. Acetaminophen 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO Q6H (every 6
+hours) as needed for fever, pain.
+12. Ibuprofen 400 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q8H (every 8
+hours) as needed for pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the [**Doctor Last Name **]
+
+Discharge Diagnosis:
+Primary Diagnosis:
+MRSA pneumonia
+Secondary Diagnosis:
+GERD
+Hyperlipidemia
+Vertigo
+BPH
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes
+Level of Consciousness: Alert and interactive
+Activity Status: Out of Bed with assistance to chair or
+wheelchair
+
+
+Discharge Instructions:
+You were admitted to [**Hospital1 69**] for
+respiratory distress.  You were found to have a MRSA pneumonia,
+and you needed to be admitted to the ICU and required intubation
+to help with your breathing.  You received a course of
+antibiotics to help clear your infection.  You are being
+transferred to a rehabilitation facility to help you improve
+your breathing functions.
+
+Your medications have changed.  Please take only the medications
+as listed below:
+Aspirin 81 mg daily
+Albuterol nebulizer every 6 hours as needed for shortness of
+breath or wheezing
+Atorvastatin 20 mg daily
+Docusate sodium 100 mg twice a day
+Heparin 5000 units injected under the skin three times a day
+Ipratropium nebulizer every 6 hours as needed for shortness of
+breath and wheezing
+La

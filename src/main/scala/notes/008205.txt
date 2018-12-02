@@ -1,0 +1,246 @@
+Admission Date:  [**2155-3-6**]              Discharge Date:   [**2155-3-10**]
+
+Date of Birth:  [**2092-2-6**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass graft x4
+
+
+History of Present Illness:
+63yo male who developed chest pressure and SOB while shoveling
+snow.  Stress test was abnormal.  Subsequent cath revealed 3vd.
+He is referred for cardiac surgery evaluation.
+
+
+Past Medical History:
+Hypertension, Hyperlipidemia, tonsillectomy
+
+Social History:
+Race: hispanic
+Last Dental Exam: summer [**2154**]
+Lives with: wife
+Occupation: retired, but helps wife run home daycare
+Tobacco: ~15pack years, quit 25 yrs ago
+ETOH: 1 bottle wine/week
+
+
+Family History:
+Family History:mom cabg 17yrs ago, living @87yo, dad cva in his
+70s
+
+
+Physical Exam:
+Review of Systems
+
+General: Weight changes denies
+Skin:  Eczema []   Psoriasis []   Skin Cancer [] Other:
+Denies[x]
+HEENT:  Hearing aide(s) []  Glasses [x] Other:   Denies[]
+Respiratory: Asthma []  COPD []  Pneumonia []  Cough []  Sputum
+[] Other: Denies [x]
+Cardiac: Chest pain [] SOB []  DOE [] Orthopnea []  PND []
+Other:
+ Denies [] see hpi
+GI: Nausea [] Vomiting [] Diarrhea []  Constipation []
+Heartburn/GERD []  Other: Denies [x]
+GU: Dysuria []  Frequency []  Prostate [] GYN [] other: Denies
+[x]
+Musculoskeletal:  Arthritis [] Other:   Denies [x]
+Peripheral Vascular: Claudication [] Other:  Denies []
+Psych anxiety []  depression [] Other:  Denies []
+Endoicrine Diabetes []  thyroid [] Other: denies [x]
+Heme/ID: Denies [x]
+Neuro:  TIA [] CVA [] Neuropathy [] Seizures [] Other:  Denies x
+
+Physical Exam
+
+Pulse: 69sr Resp: 13  O2 sat: 100%RA
+B/P  Right:    Left: 137/68
+Height:  5'8"   Weight: 168lb
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact x
+Pulses:
+Femoral      Right: 2+  Left:2+
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) 167**]: 2+  Left:2+
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit        Right:    Left:
+no carotid bruits
+Labs:
+      11
+  6 >----<251
+      33
+PT: 13.1    PTT:     INR: 1.1
+
+142    108   17
+ ----I----I----< 126
+4.1     28   0.8
+ALT: 36  AST: 20  Alk phos: 49   Tbili: 0.4  albumin:4.2
+HgbA1C
+
+U/A:
+
+EKG: NSR
+
+Impression:
+63M w 3vd
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 7405**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 86091**] (Complete)
+Done [**2155-3-6**] at 11:16:33 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2092-2-6**]
+Age (years): 63 M  Hgt (in): 68
+BP (mm Hg): 100/60  Wgt (lb): 168
+HR (bpm): 72  BSA (m2): 1.90 m2
+Indication: Coronary artery bypass grafting
+ICD-9 Codes: 786.05, 424.1
+Test Information
+Date/Time: [**2155-3-6**] at 11:16    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW01-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.0 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  1.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Left Ventricle - Stroke Volume:  46 ml/beat
+Left Ventricle - Cardiac Output:  3.30 L/min
+Left Ventricle - Cardiac Index:  *1.74  >= 2.0 L/min/M2
+Aorta - Sinus Level:  3.2 cm  <= 3.6 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.6 m/sec  <= 2.0 m/sec
+Aortic Valve - Mean Gradient:  5 mm Hg
+Aortic Valve - LVOT VTI:  18
+Aortic Valve - LVOT diam:  1.8 cm
+Aortic Valve - Valve Area:  *1.8 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Dilated LA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size and
+regional/global systolic function (LVEF >55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Focal calcifications in ascending
+aorta. Normal aortic arch diameter. Focal calcifications in
+aortic arch. Normal descending aorta diameter. Simple atheroma
+in descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Mild
+AS (area 1.2-1.9cm2).
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+Physiologic MR (within normal limits).
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. Left ventricular wall thickness,
+cavity size and regional/global systolic function are normal
+(LVEF >55%).
+Right ventricular chamber size and free wall motion are normal.
+There are focal calcifications in the aortic arch. There are
+simple atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened. There is
+mild aortic valve stenosis (valve area 1.8 cm2 by VTI and 2.3 by
+planimetry). There is restricted m obility of the left coronary
+cusp without much evidence of calcification
+The mitral valve appears structurally normal with trivial mitral
+regurgitation. Physiologic mitral regurgitation is seen (within
+normal limits).
+There is no pericardial effusion.
+Dr. [**Last Name (STitle) 914**] was notified in person of the results on [**Known lastname **]
+before surgical incision
+
+POST-BYPASS:
+Preserved biventricualr systolic function. LVEF 55%.
+Intact thoracic aorta.
+Minimal MR, TR and AI.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2155-3-6**] 11:57
+
+
+
+Brief Hospital Course:
+Mr [**Known lastname **] was admitted and taken to the Operating Room for
+Coronary bypass grafting x4:  Left internal mammary artery to
+left anterior descending coronary; reverse saphenous vein single
+graft from aorta to first obtuse marginal coronary artery;
+reverse saphenous vein single graft from aorta to second obtuse
+marginal coronary; as well as reverse saphenous vein single
+graft from aorta to the distal right coronary artery. 2.
+Endoscopic left greater saphenous vein harvesting. See opertaive
+note for details. Post-operatively he was admitted to the ICu
+intubated and sedated for invasive hemodynamic monitoring. he
+awoke neurologically intact, was weaned form the ventilator and
+extubated without difficulty. He was started on diuresis and
+betablockade and his statin therapy was resumed. He was
+transferred to the stepdown unit on POD#1. Chest tubes and
+pacing wires were removed per protocol. He was evaluated by
+physical therpay for strength and conditioning and was cleared
+for discharge to home on POD#4 by Dr. [**Last Name (STitle) **].
+
+
+Medications on Admission:
+lisinopril 40', lopressor 25'', simvastatin
+40', cialis prn, asa 162', MVI
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a

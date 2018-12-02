@@ -1,0 +1,184 @@
+Admission Date:  [**2104-11-6**]              Discharge Date:   [**2104-11-12**]
+
+Date of Birth:  [**2024-12-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Staph aureus bacteremia
+
+Major Surgical or Invasive Procedure:
+Placement of PICC line
+
+History of Present Illness:
+Mr. [**Known lastname 4643**] is a 79 yo male with hx of CAD, CHF, Afib, AS s/p
+[**Known lastname 1291**], DM2 who presents from [**Hospital 100**] Rehab with staph bacteremia
+[**11-4**] and [**11-5**] in need of a TEE. Patient was discharged from
+[**Hospital1 18**] on [**2104-10-23**]. He was admitted at that time for increasing
+dependence on the vent and was thought to have a VAP and
+questionable CHF exacerbation. He was diuresed daily and treated
+with levaquin for stenotrophomonas pna. Patient was also able to
+be weaned from the vent and was discharged on trach mask with
+50% FIO2. Patient then went to [**Hospital 100**] Rehab and during his
+course there developed a klebsiella UTI and pna and is being
+treated with cefaclor per sensitivities. Start date of cefaclor
+appears to be [**11-1**]. On [**11-3**], patient spiked a fever to 101
+rectally and blood cultures were drawn. He has been afebrile
+since then. He also had a rising white count from 8-->13 noted
+on [**11-4**] with diarrhea and was started on po vanco empirically.
+Blood cultures from [**11-4**] and [**11-5**] are growing out staph aureus
+and patient was sent to [**Hospital1 18**] for TEE since he has recent
+history of [**Hospital1 1291**]. Also has stage 4 pressure ulcer on right foot
+which could also be causing the fever and bacteremia as there is
+a question of osteomyelitis.
+
+Past Medical History:
+Past Medical History:
+CAD s/p CABG (LIMA -> LAD, SVG ->OM)
+CHF EF 50%, mod AI
+DM2 with neuropathy and retinopathy
+aortic stenosis s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1291**], [**First Name8 (NamePattern2) **] [**Initials (NamePattern4) 1525**] [**Last Name (NamePattern4) **]
+PVD s/p left bkpop-at with left cephalic vein [**6-6**], s/p left
+fem-pedal [**5-6**] failed
+osteoarthritis-back l/s spine
+AFib with embolic CVA
+cataracts s/p repair bilaterally
+inguinal hernia s/p repair
+retinopathy s/p OD laser
+HIT positive
+s/p trach
+s/p PEG tube
+
+Social History:
+retired, married, living in [**Hospital 100**] Rehab.
+
+Family History:
+NC
+
+Physical Exam:
+vitals: T 99.2 ax P 95 BP 113/50 R 25 O2 sat 98% on 35% cool
+mist neb
+general: sleepy but interactive, NAD
+heent: NCAT , anicteric, no injections, MMM, no oral lesions
+pulm: fine bibasilar crackles
+cv: irreg, irreg no mgr
+abd: + bs, soft, nt, nd, peg in place- no erythema at site
+extr: no cce, pedal pulses dopplerable
+neuro: moves all extrem except left arm which had previous
+plexus injury
+
+Pertinent Results:
+[**2104-11-6**] 09:05PM   LACTATE-1.0
+[**2104-11-6**] 06:37PM   GLUCOSE-188* UREA N-75* CREAT-1.4* SODIUM-144
+POTASSIUM-4.1 CHLORIDE-110* TOTAL CO2-27 ANION GAP-11
+[**2104-11-6**] 06:37PM   CALCIUM-9.0 PHOSPHATE-3.7 MAGNESIUM-3.0*
+[**2104-11-6**] 06:37PM   CRP-192.2*
+[**2104-11-6**] 06:37PM   WBC-18.2* RBC-3.15* HGB-9.6* HCT-29.6* MCV-94
+MCH-30.5 MCHC-32.5 RDW-16.5*
+[**2104-11-6**] 06:37PM   NEUTS-80.9* LYMPHS-13.6* MONOS-3.5 EOS-1.6
+BASOS-0.3
+[**2104-11-6**] 06:37PM   PLT COUNT-266#
+[**2104-11-6**] 06:37PM   PT-18.1* PTT-41.8* INR(PT)-1.7*
+[**2104-11-6**] 06:37PM   SED RATE-124*
+[**2104-11-6**] 09:05PM   LACTATE-1.0
+[**2104-11-9**] 06:58PM BLOOD WBC-17.9* RBC-3.14* Hgb-9.3* Hct-29.2*
+MCV-93 MCH-29.6 MCHC-31.9 RDW-15.7* Plt Ct-246
+[**2104-11-9**] 04:00AM BLOOD PT-25.2* PTT-47.2* INR(PT)-2.5*
+[**2104-11-9**] 06:58PM BLOOD Glucose-67* UreaN-42* Creat-1.0 Na-146*
+K-4.3 Cl-114* HCO3-26 AnGap-10
+[**2104-11-9**] 06:58PM BLOOD Calcium-8.5 Phos-3.7 Mg-2.7*
+.
+Micro:
+[**2104-11-7**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-PRELIMINARY {GRAM NEGATIVE ROD(S), GRAM NEGATIVE ROD #2}
+
+[**2104-11-7**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING
+[**2104-11-6**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING
+[**2104-11-6**] SWAB GRAM STAIN-FINAL; WOUND CULTURE-FINAL
+{CORYNEBACTERIUM SPECIES (DIPHTHEROIDS), STAPHYLOCOCCUS,
+COAGULASE NEGATIVE}; ANAEROBIC CULTURE-FINAL
+[**2104-11-6**] URINE URINE CULTURE-FINAL
+[**2104-11-6**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+[**2104-11-6**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PRELIMINARY {STAPH AUREUS COAG +}
+.
+Imaging:
+CHEST (PORTABLE AP)  [**2104-11-6**] 6:16 PM
+IMPRESSION: AP chest compared to [**10-19**] through 18:
+Extensive infiltrative pulmonary abnormality has improved since
+[**10-23**] and previous moderate bilateral pleural effusions
+have decreased, consistent with improving pulmonary edema.
+Residual abnormality could represent pneumonia to some degree.
+Moderate-to-severe enlargement of the cardiac silhouette due to
+cardiomegaly and/or pericardial effusion is unchanged.
+Tracheostomy tube is in standard placement. No pneumothorax or
+mediastinal widening.
+.
+FOOT 2 VIEWS PORT RIGHT  [**2104-11-7**] 10:16 AM
+IMPRESSION: No radiographic evidence of osteomyelitis.
+.
+TEE [**2104-11-7**]:
+A small secundum atrial septal defect/stretched PFO is seen with
+color Doppler (cine loop #60). The left atrium is dilated. Mild
+spontaneous echo contrast is seen in the body of the left
+atrium. No mass/thrombus is seen in the left atrium or left
+atrial appendage. The left atrial appendage emptying velocity is
+depressed (<0.2m/s). The right atrium is dilated. There is
+symmetric left ventricular hypertrophy. Overall left ventricular
+systolic function appears preserved. There are simple atheroma
+in the ascending aorta, arch and descending aorta. A
+bioprosthetic aortic valve prosthesis is present. The
+transaortic gradient is normal for this prosthesis (but may be
+slightly UNDERestimated on this study). No masses or vegetations
+are seen on the aortic valve. A paravalvular jet of moderate
+(2+) aortic regurgitation is seen. The jet emanates from the
+posterolateral aspect of the aortic annulus, adjacent to the
+left sinus of Valsalva. The mitral valve leaflets are mildly
+thickened. No mass or vegetation is seen on the mitral valve.
+Mild (1+) mitral regurgitation is seen. No vegetation/mass is
+seen on the pulmonic valve. There is no pericardial effusion.
+IMPRESSION: No valvular vegetations seen. Moderate paravalvular
+prosthetic aortic regurgitation.
+
+Brief Hospital Course:
+A/P: 79 yo with CAD, CHF, DM2 who presents with bacteremia
+growing staph.
+.
+#. Staph bacteremia- Patient had positive blood cultures with
+coag + Staph at rehab and GPC in one BCx bottle at [**Hospital1 18**]. TEE
+was negative for endocarditis. GS from foot decub showed coag
+negative staph and diptheriae (likely contaminate). He continued
+to have high white count despite treatment, though he was never
+febrile during his stay. Surveillance blood cultures taken after
+[**2104-11-6**] showed no growth several days after drawn.  He was
+continued on vancomycin IV throughout his stay.  Sensitivities
+of the original positive blood culture showed MRSA that was
+sensitive to Bactrim.  Per vascular, the decision was made to
+treat the infection as if he has osteomyelitis.  The plan is to
+continue IV vancomycin for a total of 6 weeks to end, last day
+[**2104-12-10**].
+.
+#. Klebsiella UTI- diagnosed at rehab and treated with cefaclor
+for 7 days before admission. He was continued on ceftriaxone
+(cefaclor is not formulary at [**Hospital1 18**], though sensitivies from
+rehab showed that it was sensitive to ceftriaxone).  Urine
+culture from [**11-6**] negative.  The plan is to continue the
+ceftriaxone for a total of 14 days of cefaclor/ceftriaxone, last
+day [**11-19**].
+.
+#. Afib: Patient has chronic afib and had periods of RVR on [**11-8**]
+which were controlled with his usual scheduled dose of
+metoprolol. Patient is anticoagulated with coumadin. Will check
+coags on admission. His INR was therapeutic during his stay and
+his rate was controlled with his home metoprolol dose. He was
+monitored on telemetry.
+.
+#. Ulcer right foot- Patient has a stage 2 and stage 4 pressure
+ulcer on right foot, one on his heel and the other on the sole
+of his foot. P

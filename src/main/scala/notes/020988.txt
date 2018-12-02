@@ -1,0 +1,224 @@
+Admission Date:  [**2167-3-29**]              Discharge Date:   [**2167-4-23**]
+
+Date of Birth:  [**2100-12-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfa(Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 31014**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+Cardiac catheterization with bare metal stent to LAD
+Intra-aortic balloon pump placement
+Central venous line placement
+Arterial line placement
+Pulmonary artery catheter placement
+AICD placement
+
+
+History of Present Illness:
+66 yo M with chronic low back pain who presented to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+with chest pain, and collapsed in triage apneic and pulseless.
+Ventilation and CPR was initiated, with monitor showing
+wide-complex tachycardia at 240 bpm. Pulse and spontaneous
+respirations returned quickly, and patient was shocked twice
+with 120 and 150 J without improvement in rhythm. He was bolused
+with 150mg IV amiodarone, then started on an amiodarone drip at
+1mg/min. Blood pressures remained in the 130s systolic. Post
+arrest CXR showed pulmonary edema. Bolused with heparin 4000
+unit then started on drip at 1032 units per hour. He also
+received aspirin 60mg rectally and atorvastatin 80mg. ECG after
+initiation of amiodarone showed sinus tachycardia with wide
+complex. Trop-I of 3.5 after cardioversion.
+.
+Pt noted some dyspnea on exertion about 5 days ago while out
+walking his dog. He had never experienced similar symptoms. On
+morning of admission to [**Hospital1 **], he had substernal chest pain
+like someone sitting on his chest, which he had also never
+experienced.
+.
+On arrival to the floor, patient is without chest pain or
+dyspnea. He is mentating well.
+
+Past Medical History:
+Chronic lower back pain from compression fractures
+Osteoporosis
+h/o EtOH abuse
+
+Social History:
+Previously worked in investment banking, but retired about 10
+years ago. Lives with his wife.
+-Tobacco history: Smoked 1 PPD for 20 yrs, quit 30 yrs ago
+-ETOH: Heavy drinking in the past, quit 5 years ago. Withdrawal
+seizure in [**2158**].
+-Illicit drugs: None
+
+
+Family History:
+Father died of heart attack at unknown age, otherwise
+non-contributory.
+
+
+Physical Exam:
+ADMISSION EXAM:
+VS: 37.1 118 122/73 19 94% on facemask
+GEN: obese, somewhat agitated, comfortable, no acute distress
+HEENT: moist mucus membranes, anicteric, no JVD
+CV: tachycardic, regular rhythm, no murmurs audible
+LUNGS: clear to ausculation bilaterally
+ABD: obese, non tender, non distended, positive bowel sounds
+EXT: no edema
+SKIN: warm and dry, erythema over his chest and stomach
+
+DISCHARGE EXAM:
+Tmax: 36.6 ??????C (97.8 ??????F)
+Tcurrent: 36.4 ??????C (97.5 ??????F)
+HR: 67 (65 - 87) bpm
+BP: 98/50(62) {83/47(58) - 113/68(76)} mmHg
+RR: 14 (11 - 20) insp/min
+SpO2: 97%
+Heart rhythm: SR (Sinus Rhythm)
+Wgt (current): 72 kg (admission): 84.5 kg
+Height: 68 Inch
+General Appearance: Deconditioned, breathing comfortably with NC
+and in no acute respiratory distress, speaking full sentences
+without pauses or SOB
+Eyes / Conjunctiva: PERRL
+Head, Ears, Nose, Throat: Normocephalic
+Cardiovascular: RRR, S1S2 clear and of good quality, no murmurs,
+rubs or gallops appreciated
+Peripheral Vascular: Diminished LLE pulses but full pulses
+bilateral UE and RLE
+Respiratory / Chest: ctab, no crackles/wheezes/rhonchi
+Extremities: no LE edema b/l
+
+Pertinent Results:
+ADMISSION LABS:
+[**2167-3-29**] 05:15PM BLOOD WBC-19.3* RBC-4.87 Hgb-13.3* Hct-41.4
+MCV-85 MCH-27.3 MCHC-32.1 RDW-13.7 Plt Ct-295
+[**2167-3-30**] 12:20PM BLOOD Neuts-85.0* Lymphs-10.0* Monos-4.6
+Eos-0.1 Baso-0.3
+[**2167-3-29**] 05:15PM BLOOD PT-13.5* PTT-70.0* INR(PT)-1.3*
+[**2167-3-29**] 05:15PM BLOOD Glucose-188* UreaN-15 Creat-1.1 Na-139
+K-3.5 Cl-103 HCO3-23 AnGap-17
+[**2167-3-30**] 02:56AM BLOOD ALT-22 AST-35 CK(CPK)-195 AlkPhos-81
+TotBili-0.8
+[**2167-3-29**] 05:15PM BLOOD Calcium-9.0 Phos-2.9 Mg-1.6 Cholest-157
+[**2167-3-29**] 05:15PM BLOOD HDL-31 CHOL/HD-5.1 LDLmeas-127
+[**2167-3-29**] 05:15PM BLOOD TSH-3.0
+.
+ENZYMES & BILIRUBIN ALT AST LD(LDH) AlkPhos TotBili
+[**2167-4-22**] 05:30    26   23 157     103   0.7
+[**2167-4-19**] 04:03    33   21         98   0.5
+[**2167-4-17**] 03:41    37   26         93   0.5
+Source: Line-aline
+[**2167-4-16**] 04:07    34   23 136     86   0.6
+.
+CPK ISOENZYMES    CK-MB MB Indx cTropnT proBNP
+[**2167-4-12**] 12:20    2           0.30*1
+Source: Line-aline
+[**2167-4-12**] 04:30    4           0.28*2
+Source: Line-art
+[**2167-4-3**] 12:38    1           1.79*1
+Source: Line-aline
+[**2167-4-1**] 03:13                        7090*3
+Source: Line-art
+[**2167-3-30**] 21:46    8           2.61*1
+Source: Line-art
+[**2167-3-30**] 12:20    16*   6.3*
+Source: Line-aline
+[**2167-3-30**] 02:56    17*   8.7*
+LFT'S ADDED ON AT 5:45 A.M. [**2167-3-30**]
+[**2167-3-29**] 17:15    7           1.14*4
+.
+DISCHARGE LABS:
+[**2167-4-22**]: WBC 10.8, Hb/Hct 12.0/38.8, Plt 237
+[**2167-4-22**]: INR 1.8
+[**2167-4-22**]: Na 132, K 4.3, Cl 98, HCO3 22, BUN 46, Cr 1.8
+[**2167-4-23**]: Cr 1.2
+.
+MICRO:
+[**2167-4-1**] 3:55 pm SPUTUM      Source: Endotracheal.
+                            **FINAL REPORT [**2167-4-3**]**
+   GRAM STAIN (Final [**2167-4-1**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+   RESPIRATORY CULTURE (Final [**2167-4-3**]):
+      Commensal Respiratory Flora Absent.
+      KLEBSIELLA PNEUMONIAE.    MODERATE GROWTH.
+      YEAST.    SPARSE GROWTH.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_______________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+  GRAM STAIN (Final [**2167-4-8**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST WITH
+PSEUDOHYPHAE.
+
+   RESPIRATORY CULTURE (Final [**2167-4-10**]):
+      Commensal Respiratory Flora Absent.
+      YEAST.    SPARSE GROWTH.
+      KLEBSIELLA PNEUMONIAE.    RARE GROWTH.
+         Cefazolin interpretative criteria are based on a dosage
+regimen of
+         2g every 8h.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+C. diff [**4-10**] and [**4-16**]: negative
+.
+Blood cultures ([**3-31**], 18, 20, 21, 24, [**4-16**]): negative
+Urine cultures ([**3-31**], [**4-3**], [**4-7**], [**4-16**], [**4-18**]): negative
+.
+[**3-29**] TTE:
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity is moderately dilated. Overall left
+ventricular systolic function is severely depressed (LVEF= 15-20
+%) secondary to hypo to akinesis of the mid-distal LV segments
+and apex. The basal-mid inferior and infero-lateral walls are
+hyperdynamic. A left ventricular mass/thrombus cannot be
+excluded. There is no resting LVOT obstruction. Right
+ventricular chamber size and free wall motion are normal. The
+mitral valve leaflets are mildly thickened. Mild to moderate
+([**12-15**]+) mitral regurgitation is seen. There is an anterior space
+which most likely represents a prominent fat pad.
+IMPRESSION: Poor image quality due to body habitus. Moderate
+left ventricular dilatation with severe regional and global
+systolic dysfunction c/w multivessel CAD. Hyperdynamic right
+ventricular systolic function. Mild-moderate mitral
+regurgitation (possibly underestimat

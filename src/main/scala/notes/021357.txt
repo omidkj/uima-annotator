@@ -1,0 +1,222 @@
+Admission Date:  [**2195-6-6**]              Discharge Date:   [**2195-6-22**]
+
+Date of Birth:  [**2125-8-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Azithromycin
+
+Attending:[**First Name3 (LF) 6780**]
+Chief Complaint:
+Shortness of breath.
+
+Major Surgical or Invasive Procedure:
+BiPap
+Arterial Line Placement
+Central Line Placement
+PICC Line Placement
+
+History of Present Illness:
+69 F c hx of CAD s/p multiple stents, ischemic CM EF 25%,
+asthma, multiple recent admissions (most recently [**Date range (1) 27916**] to
+[**Hospital Unit Name 153**] for fall and hypoglycemia thought [**2-21**] insulin use in the
+setting of ARF; previously [**Date range (1) 107613**] c respiratory failure
+thought [**2-21**] COPD and CHF. As per ED history, pt found by VNA to
+hypoxic to 80's on RA.
+
+ED COURSE: She was found to be 86% on ra, HR 100, BP 155/59, RR
+32. She was treated for a copd flare vs. chf. She has a h/o of
+dvt, not anticoagulated at this time at home. Her O2 improved on
+bipap, could not lay flat for CT-PE could not be ruled out. She
+had significant improvement with nitro gtt, lasix, bipap,
+steroids, levofloxacin.
+When pt came up to MICU unable to get complete history, pt
+denied chest pain, shortness of breath. History limited by use
+of BiPAP mask.
+.
+
+
+Past Medical History:
+# CAD s/p MI ([**2190**])
+- known total occlusion of LAD and ramus w/ R->L collaterals
+- aborted CABG ([**2190**]) d/t extensive calcification making it
+impossible to cross clamp aorta
+- s/p stents to LAD, LCx, OM, D2, ramus and RCA
+# CHF: last echo [**3-28**] with EF 25%, 1+MR, infero-lateral and
+distal LV/apical akinesis
+- s/p dual chambered ICD [**2191-7-4**] for primary prevention
+([**Company 1543**] [**Last Name (un) 24119**] DR)
+# Hypertension
+# Diabetes type 2
+# Hyperlipidemia
+# COPD (has been labelled as asthma, however CXR and ABGs more
+c/w COPD along w/ long smoking hx)
+# Depression
+# h/o LV thrombus
+# Carotid artery disease
+- s/p R catorid artery stenting [**2189**]
+# h/o cerebral infarction by MR in [**2190**]
+# s/p ccy
+# Likely dementia (?-Alzhemer's vs. Vascular)
+
+Social History:
+Originally from [**Location (un) 4708**]. She never knew her father and her
+mother left her when she was very young. She grew up with a
+[**Doctor Last Name **] family. She immigrated to America in the [**2157**]. She has 7
+children and 13 grandchildren used to live with many of them in
+a large 3-family house, but most recently was at NH. She used to
+smoke about 1/2ppd for unclear amount of time and currently has
+an occassional cigarette. She doesn't currently use alcohol
+(previously used to only when "partying" - cannot quantify). She
+has never used illicit drugs.
+
+Family History:
+Unknown hx of parents.
+
+Physical Exam:
+VS-T 97.9, 108, 120/97, RR22, SpO2 100% on CPAP 5/5
+GEN-elderly woman, with BiPAP, NAD
+HEENT-NCAT, JVD not markedly elevated
+LUNGS-moderate air movement, no wheezes, no crackles
+HEART-RRR, S1, S2
+ABDOM-soft, NT, +BS
+EXTRE-trace edema bilaterally
+NEURO-grossly normal
+
+
+Pertinent Results:
+ADMISSION LABS:
+================
+      9.8
+5.5 >------< 304
+      31.0
+
+ 133   99   20
+-----|----|-----< 147
+ 4.9   28   0.8
+
+Ca 8.3  Mg 2.1  Phos 2.8
+
+PERTINENT LABS:
+===============
+[**6-6**] BNP [**Numeric Identifier 107614**]
+[**6-7**] Cortisol 25.7 --> 45.3
+[**6-9**] TSH 0.86, T3 52, FT4 1.0
+
+Haptoglobin trend: 20 - undectable - <20 - <20 - 26
+Lactate trend: 2.6 - 8.1 - 8.7 - 7.6 - 3.6 - 1.2 - 8.7 - 10.3 -
+7.8 - 1.3
+
+MICROBIOLOGY:
+============
+[**6-6**] BCx x 2: negative
+[**6-7**] BCx x 2: negative
+[**6-7**] UCx: Staph species ~3000
+[**6-8**] Legionella Antigen: negative
+
+STUDIES:
+==========
+CXR [**6-6**]
+MPRESSION: Blunting of the right costophrenic angle may indicate
+small pleural effusion or basilar atelectasis. A faint right
+lower lobe opacity may be due to bronchovascular crowding,
+however an early developing pneumonia can not be excluded.
+
+RUQ U/S [**6-6**]
+IMPRESSION: Patient is status post cholecystectomy. Study is
+otherwise unremarkable.
+
+CTA CHEST [**6-7**]
+IMPRESSION:
+1. Very small subsegmental left apical pulmonary emboli,
+unlikely to account for the patient's severe hypotensive
+episode.
+2. Bibasilar pleural effusions, right greater than left, with
+associated airspace disease, atelectasis versus aspiration or
+pneumonia.
+3. Cardiomegaly and dense coronary artery calcifications.
+
+LENI [**6-7**]
+IMPRESSION: Limited exam due to patient agitation and motion. No
+definite evidence of right lower extremity DVT.
+Please note that left lower extremity venous ultrasound was not
+performed due to patient incooperation.
+
+CT HEAD [**6-8**]
+IMPRESSION:
+No change in subacute to chronic infarctions at the right
+occipital and parietal lobes. No new evidence of acute ischemia
+or acute hemorrhage is seen.
+
+ECHO [**6-8**]: The left atrium is mildly dilated. The right atrium
+is moderately dilated. No atrial septal defect is seen by 2D or
+color Doppler. Left ventricular wall thicknesses are normal. The
+left ventricular cavity is mildly dilated. No masses or thrombi
+are seen in the left ventricle. Overall left ventricular
+systolic function is severely depressed with global hypokinesis
+and inferior and apical akinesis (LVEF= 20 %). There is no
+ventricular septal defect. The right ventricular cavity is
+moderately dilated with moderate global free wall hypokinesis.
+The aortic root is mildly dilated at the sinus level. The aortic
+valve leaflets (3) are mildly thickened. There is no aortic
+valve stenosis. No aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. There is no mitral valve
+prolapse. Moderate (2+) mitral regurgitation is seen. The
+tricuspid valve leaflets are mildly thickened. Moderate to
+severe [3+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension.
+
+Compared with the prior study (images reviewed) of [**2195-4-7**],
+the degree of mitral and tricuspid regurgitation are probabaly
+similar (underestimated on prior report). The LVEF is similar.
+The degree of pulmonary hypertension detected has increased.
+
+EEG [**6-9**]
+IMPRESSION: This is an abnormal portable EEG in the waking and
+sleeping
+states due to the disorganized, low voltage, and slow background
+with
+admixed bursts of moderate amplitude generalized mixed frequency
+
+slowing. This constellation of findings is consistent with a
+mild
+global encephalopathy due to dysfunction of bilateral
+subcortical or
+deep midline structures. Medications, metabolic disturbances,
+infection
+and anoxia are among the common causes of encephalopathy but
+there are
+others. There were no areas of prominent focal slowing. There
+were no
+epileptiform features.
+
+Brief Hospital Course:
+69 y.o. F h/o CAD s/p multiple stents, ischemic CM EF 25%,
+asthma, multiple recent admissions (most recently [**Date range (1) 27916**] to
+[**Hospital Unit Name 153**] for fall and hypoglycemia thought [**2-21**] insulin use in the
+setting of ARF; previously [**Date range (1) 107613**] c respiratory failure
+thought [**2-21**] COPD and CHF. found by her VNA to hypoxic to 80's on
+RA.  Upon arrival to the ED VS= 86% on ra, HR 100, BP 155/59, RR
+32.
+
+She was treated for COPD flare (steroids), CHF (bipap, lasix,
+nitro gtt), and PNA (levaquin).  CTA not performed [**2-21**] inability
+to lie flat, but pt empirically started on heparin gtt.  Her
+oxygen status improved and she was transferred to the MICU.
+
+In the MICU, pt's antibiotic coverage was broadened to CTX/vanco
+and azithromycin.  In the setting of her first azithromycin dose
+on [**6-6**], pt became hypotensive requiring pressors (levo, neo,
+vaso), felt to be an allergic reaction to the azithromycin.
+Pressors were titrated off ~12 hrs later on [**6-7**].  Her
+respiratory status continued to improve, and she was weaned of
+bipap on [**6-7**], and steroids were discontinued as COPD was felt
+less likely.
+
+On [**6-7**] pt's HCT 31->24, she was transfused 1U PRBC, complicated
+by grand mal seizure, and hypotension, again requiring pressors
+(levo, neo, vaso) for ~12hrs.  Neuro was consulted as there was
+also a question of left dilated pupil, head CT showed no acute
+bleeding, +subacute/chronic infarctions, EEG c/w toxic/metabolic
+insult, heparin gtt was held.  CTA was obt

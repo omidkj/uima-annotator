@@ -1,0 +1,215 @@
+Admission Date:  [**2156-2-23**]              Discharge Date:   [**2156-3-29**]
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamides) / Erythromycin Base / Lactose Intolerance
+
+Attending:[**First Name3 (LF) 545**]
+Chief Complaint:
+Fever, Delerium, UTI, Pneumonia
+
+Major Surgical or Invasive Procedure:
+tracheal intubation
+PICC line
+
+History of Present Illness:
+[**Age over 90 **] yo female with frequent UTIs in the past presents with fever
+and altered mental status for 3 days. She recently discharged
+from [**Hospital1 18**] on [**1-23**] after PVD/chronic leg ulcer work-up and was
+found to have an occluded L popliteal artery which was not
+revascularized due to medical stability and anesthesia. She has
+been at [**Hospital3 **] center until 3 days prior to
+re-admission to [**Hospital1 18**].
+
+Her course at [**Hospital1 100**] was complicated by C.diff colitis and was
+placed on po vancomycin (unclear if she failed Flagyl). Per her
+daughter [**Name (NI) **], the patient's only symptoms were decreased
+mental status and fevers. She did not notice any cough until in
+the [**Hospital1 18**] ED, and pt has not been talking much at all so it has
+been hard to assess her complaints. Her baseline since the
+admission in [**1-9**] has been deteriorating. She used to walk and
+converse, and follwed basic commands, but is now hardly able to
+follow the simplest commands.
+.
+ED COURSE: Initially, in [**Name (NI) **], pt was febrile to 102.2 and
+hypotensive with a BP of 86/42 and tachypneic to 34 and 93% on
+4L via NC. She was given Ceftriaxone 1g for her positive UA and
+and pneumonia, she also received vancomycin 1gm, and
+levofloxacin 500mg iv was ordered but not yet received. Pt also
+received 2L of NS in the ED for Na 152 and hypovolemia.
+
+
+Past Medical History:
+PCP: [**Last Name (NamePattern4) **]. [**Last Name (STitle) 6680**]
+.
+1) Diabetes mellitus (Hgb A1C 5.8% in [**2-8**])
+2) Frequent UTI
+3) Gastroesophageal reflux disease
+4) S/p CVA w/residual mild R hemiparesis
+5) Osteoporosis
+6) Depression/Anxiety
+7) Osteoarthritis
+8) Hypothyroidism (last TSH 2.8 in [**11-7**])
+9) Chronic diarrhea
+10) COPD, on night O2 at home (FEV1 0.88 (73% pred), FVC 1.2,
+elevated EV1/VC ratio in [**1-6**]), no prior intubations, was
+placed on steroid taper at last admission in [**3-10**].
+11)Diastolic CHF
+12)Coronary Artery Disease with cath [**1-8**], no intervention
+13)s/p admission for fall at home discharged on [**2155-8-29**]
+14)LLE 1st MTP ulcer
+15) Traumatic left parietal SDH.
+16) HTN
+17) Anemia of chronic disease
+.
+Allergies:
+Sulfa (Sulfonamides) / Erythromycin Base
+Food Allergies: Milk, [**Name (NI) 37325**] (pt lactose intolerant)
+
+Social History:
+Smoked 2ppd until [**2131**]. [**2-4**] glass of wine 3-4x/week. Worked as a
+
+secretary. Independent with ADLs, not IADL. Has 24 hour
+caretaker. [**Name (NI) **] (daughter) is the Healthcare proxy.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+ROS (by report):
+GEN: + fevers, - Chills, + Weight Loss
+EYES: - Photophobia
+HEENT: - Oral/Gum bleeding
+CARDIAC: - Chest Pain, - Edema
+GI: - Vomitting, - Diarhea, - Constipation, - Hematochezia, -
+melena
+PULM: - Dyspnea, + Cough, - Hemoptysis
+HEME: - Bleeding, - Lymphadenopathy
+GU: - Dysuria, - hematuria, - Incontinence
+SKIN: - Rash
+ENDO: - Heat/Cold Intolerance
+MSK: - Myalgia, - Arthralgia, + Back Pain
+NEURO: - Numbness, - Weakness, - Vertigo, - Headache, +
+confusion/delerium
+
+VSS: 96.4, 102/50, 80, 22, 99%3LNC
+GEN: confused, minimally responsive
+HEENT: PERRL, Dry, - OP Lesions
+PUL: difficult exam, decreased BS in all lung fields
+COR: RRR, S1/S2, II/VI SEM
+ABD: NT/ND, + CVAT
+EXT: - CCE, Heel Ulcer
+NEURO: confused, responds to painful stimuli
+
+
+Pertinent Results:
+[**2156-2-23**] 07:15AM BLOOD WBC-19.6* RBC-3.06* Hgb-9.9* Hct-31.6*
+MCV-103* MCH-32.4* MCHC-31.4 RDW-15.5 Plt Ct-414
+[**2156-2-23**] 07:15AM BLOOD Neuts-77.4* Lymphs-17.9* Monos-4.1
+Eos-0.4 Baso-0.1
+[**2156-2-23**] 07:15AM BLOOD PT-12.4 PTT-25.4 INR(PT)-1.0
+[**2156-2-23**] 07:15AM BLOOD Glucose-112* UreaN-45* Creat-0.8 Na-156*
+K-3.4 Cl-119* HCO3-29 AnGap-11
+[**2156-2-23**] 07:15AM BLOOD Calcium-8.6 Phos-3.3 Mg-2.3
+[**2156-2-22**] 10:49PM BLOOD Lactate-1.9
+.
+DISCHARGE LABS
+
+.
+MICRO
+
+[**2-22**] urine culture Klebsiella pneumoniae
+  URINE CULTURE (Final [**2156-2-28**]):
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..
+      KLEBSIELLA PNEUMONIAE.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          KLEBSIELLA PNEUMONIAE
+                             |          |
+AMPICILLIN/SULBACTAM--     4 S        8 S
+CEFAZOLIN-------------   <=4 S      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CEFUROXIME------------     4 S        4 S
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------   256 R      256 R
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+[**2-22**] blood cultures [**3-6**] negative
+[**2-23**] C difficile toxin assay negative
+[**2-23**] legionella urinary antigen negative
+[**2-24**] blood cultures [**3-6**] negative
+[**2-25**] urine culture yeast
+[**2-25**] catheter tip culture negative
+[**3-1**] urine culture negative
+[**3-1**] blood cultures **** PENDING ****
+[**3-2**] sputum 2+ GPCs in pairs and clusters, 1+ budding yeast;
+cultures with staph aureus 2 morphologies **** PENDING ****
+[**3-2**] catheter tip culture negative
+.
+CT HEAD W/O CONTRAST  [**2156-2-22**] 11:29 PM
+IMPRESSION:
+1. No evidence of acute intracranial pathology including
+hemorrhage or edema.
+2. Stable changes of age appropriate atrophy and chronic
+microvascular ischemia.
+.
+AP SEMI-UPRIGHT CHEST: A drainage catheter projects over the
+left upper abdominal quadrant. Several right abdominal surgical
+clips are seen. Borderline cardiomegaly is unchanged. The aorta
+is mildly calcified and folded. Increased left retrocardiac
+peribronchial nodular infiltration may present aspiration or
+evolving pneumonia. The right lung is grossly clear. There is no
+pleural effusion or pneumothorax. The osseous structures are
+stable. IMPRESSION: Increased left retrocardiac peribronchial
+nodular infiltration, which may represent aspiration or evolving
+pneumonia.
+
+
+Brief Hospital Course:
+1. Altered mental status)
+According to the patient's daughter, she had been less
+interactive at rehab prior to admission. She underwent a CT of
+her head which was unremarkable. Her mental status changes were
+thought to be multifactorial, likely related to electrolyte
+disturbance, infection, recent fall with subdural hematoma --
+and subsequent to her PEA arrest possibly anoxic injury.
+
+2. PEA arrest)
+Ms. [**Known lastname 31102**] had a PEA arrest on [**2-24**]. She was treated with
+epinephrine and atropine a right femoral line was placed, and
+she was intubated. Food particles were noted in the airway at
+intubation, suggestive of an aspiration event. She was
+subsequently transferred to the ICU for further monitoring and
+evaluation. Her troponins were mildly elevated at 0.13 post
+resuscitation, thought secondary to chest compressions. LENIs
+were done as part of PE workup and were negative.
+
+3. Aspiration pneumonia
+CXR at admission showed possible infiltrate, and she was treated
+empirically with vancomycin and cefepime. Cefepime was changed
+to meropenem subsequently on [**3-1**] after she developed a new
+fever to 101.6.  The patient continued to display symptoms of
+aspiration PNA/hospital-acquired pneumonia during her hospital
+course for which she was traeted with vancomycin and
+ceftazadime.
+
+4. Dysphagia)Given her history of dysphagia she was kept NPO and
+continued tube feeds. Her G tube was replaced on [**3-3**] as her
+initial tube was no longer flushing.
+
+5. Urinary tract infection)
+She received ceftriaxone empirically in the ED on [**2-23**] but was
+subsequently changed to cefepime. Urine cultures from admission
+came back positive for quino

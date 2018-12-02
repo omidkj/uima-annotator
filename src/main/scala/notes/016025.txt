@@ -1,0 +1,244 @@
+Admission Date:  [**2178-12-18**]              Discharge Date:   [**2178-12-22**]
+
+Date of Birth:  [**2106-1-8**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Ace Inhibitors
+
+Attending:[**First Name3 (LF) 2777**]
+Chief Complaint:
+back pain and intramural hematoma, diagnosed as descending
+thoracic aortic aneurysm
+
+Major Surgical or Invasive Procedure:
+Endovascular stent of the descending thoracic aorta [**2178-12-18**]
+with bilat. femoral perclosures
+
+
+History of Present Illness:
+72 yo female with history of back pain in [**11-13**], diagnosed with
+intramural hematoma of desc. aorta. Hospitalized at [**Hospital1 18**] then
+for complete work-up, treated with medical therapy and BP
+control. Returned for admission on [**12-18**] for endo-stenting with
+Drs. [**Last Name (STitle) 914**] and [**Name5 (PTitle) **].
+
+Past Medical History:
+HTN
+CHF: necessitating hosp in [**Month (only) 958**]
+Hypercholesterolemia
+Hx thoracic aortic aneurysm with left iliac aneursym
+RA
+osteoporosis
+anemia of chronic inflammation
+RLL nodule
+
+Social History:
+denies smoking, drinking of IV drug use.  Born in [**Last Name (un) **],
+lived in [**Country 6171**] adn [**Country 480**] approx 30yr ago.  Retired; used to
+work in factories.  No hx of blood transfusions.  3 children
+from 3 men, now currently married
+
+
+Family History:
+DM
+CVA
+hx of aneurysms in sister and [**Name2 (NI) 12232**]
+
+Physical Exam:
+from [**11-22**]:
+
+HR 75  RR 20  107/54 (on labetalol at the time)  100% 2L NC
+RRR
+CTAB
+abd soft/NT/ND
+
+Pertinent Results:
+[**2178-12-22**] 07:05AM BLOOD WBC-2.8* RBC-3.03* Hgb-9.8* Hct-28.0*
+MCV-92 MCH-32.5* MCHC-35.2* RDW-15.7* Plt Ct-267
+[**2178-12-22**] 07:05AM BLOOD Neuts-34* Bands-0 Lymphs-33 Monos-28*
+Eos-1 Baso-1 Atyps-3* Metas-0 Myelos-0
+[**2178-12-22**] 07:05AM BLOOD Hypochr-NORMAL Anisocy-NORMAL
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+[**2178-12-22**] 07:05AM BLOOD Plt Smr-NORMAL Plt Ct-267
+[**2178-12-22**] 07:05AM BLOOD Glucose-98 UreaN-7 Creat-0.6 Na-136 K-3.7
+Cl-102 HCO3-24 AnGap-14
+[**2178-12-18**] 05:21PM BLOOD Mg-2.1
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 69077**] (Complete)
+Done [**2178-12-18**] at 3:04:02 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]
+[**Hospital1 **] C
+[**Hospital Unit Name 22682**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2106-1-8**]
+Age (years): 72 F  Hgt (in):
+BP (mm Hg): 120/60  Wgt (lb):
+HR (bpm): 67  BSA (m2):
+Indication: descending thoracic aortic dissection with
+penetrating ulcer
+ICD-9 Codes: 402.90, 440.0, 441.00
+Test Information
+Date/Time: [**2178-12-18**] at 15:04    Interpret MD: [**Name6 (MD) 3892**]
+[**Name8 (MD) 3893**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2006AW01-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.0 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.5 cm
+Left Ventricle - Fractional Shortening:  0.38  >= 0.29
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Valve Level:  2.1 cm  <= 3.6 cm
+Aorta - Arch:  2.4 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *2.8 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec
+
+Findings
+Endo descending thoracic aortic stent was placed and was not
+well visualized with TEE
+LEFT ATRIUM: No spontaneous echo contrast or thrombus in the
+LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. PFO is present.
+
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+systolic function (LVEF>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: There are complex (>4mm) atheroma in the descending
+thoracic aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Physiologic MR (within normal limits).
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications. The TEE probe was
+passed with assistance from the anesthesioology staff using a
+laryngoscope. The patient was under general anesthesia
+throughout the procedure. The patient appears to be in sinus
+rhythm. Emergency study. Results were personally reviewed with
+the MD caring for the patient.
+Conclusions
+No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. A patent foramen ovale is
+present. There is mild symmetric left ventricular hypertrophy
+with normal cavity size and systolic function (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. There
+are complex (>4mm) atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Physiologic mitral
+regurgitation is seen (within normal limits). There is no
+pericardial effusion.
+
+Impression:
+Preserved biventricular systolic function.
+Overall LVEF 55%.
+No valvular abnormalities.
+A descending thoracic aortic penetrating ulcer was seen which
+was covered by the stent. There was a suspicious zone at the
+level of the proximal descending thoracic aorta (left atrial
+level) suggestive of an ulcer or a flap with very little flow
+demonstrated in it at low scales as well. This information was
+conveyed to the surgeons.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician
+
+
+?????? [**2175**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+Admitted [**12-18**] and underwent endo stent- grafting of descendung
+aorta. Transferred to the CSRU in stable condition. Extubated
+after surgery and weaned off esmolol drip that
+evening.Transferred to the floor on POD #1 to begin increasing
+her activity level. Hematology consult done for evaluation of
+anemia and leukopenia. It was recommended that she follow-up
+with rheumatology as an outpatient. MMS protocol CT done on POD
+#3. Cleared for discharge to home on POD #4. Patient is to make
+all follow-up appts. as per discharge instructions.
+
+Medications on Admission:
+calcium
+KCL
+sucralfate
+isosorbide
+metoprolol
+felodipine/amlodipine
+valsartan
+alendronate
+lipitor
+Vit. D
+
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Descending thoracic aortic aneurysm with intramural hematoma
+HTN
+CHF
+Hypercholesterolemia
+anemia
+RA
+osteoporosis
+RLL nodule
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+Call our office with drainage from wound, temp>101.5
+
+Followup Instructions:
+Make an appointment with Dr. [**Doctor First Name 69078**] for 1-2 weeks.
+Make an appointment with Dr. [**Last Name (STitle) 914**] for [**12-31**]
+Make an appointment with Dr. [**Last Name (STitle) **] for 2 weeks.
+CT scan of Tors

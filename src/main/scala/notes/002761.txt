@@ -1,0 +1,196 @@
+Admission Date:  [**2146-5-24**]              Discharge Date:   [**2146-6-2**]
+
+Date of Birth:  [**2077-10-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin / Zometa / Keflex / Tetracycline / erythromycin /
+Iodine Containing Agents Classifier / nuts / fish derived /
+lisinopril
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+syncopal episode
+
+Major Surgical or Invasive Procedure:
+pacer setting adjustment
+
+
+History of Present Illness:
+68-year-old female with nonischemic cardiomyopathy(EF 10-15%),
+NYHA class III heart failure s/p BiV ICD placement, PAF s/p
+ablation, severe asthma, recently discharged from [**Hospital1 18**] on
+[**2146-5-9**] on milrinone for decompensated heart failure,
+transferred from the ED of [**Hospital1 1774**] for VT/VF requiring multiple
+ICD shocks.
+
+She reports a few day history of severe generalized weakness and
+nausea. She had one episode of syncope, which was witnessed by
+her husband while she was sitting in bed. She went to an OSH and
+was found to have polymorphic VT requiring ICD shocks. She was
+tranferred to [**Hospital1 18**] because her cardiac issues are managed here.
+
+Of note, on arrival she was off milrinone and had a 2:1 AV block
+at a rate of 60 beats per minute with QTc 555ms.
+
+On systems review, patient has had nausea, loose stools that
+were green today, containing mucous. No fever, headache, head
+injury, chest pain, SOB. No abdomional pain. Otherwise systems
+review normal.
+
+She has been followed by Dr. [**Last Name (STitle) **] and Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 437**]. She
+received cardiac resynchronization therapy in [**2141**] which
+resulted in a transient marked improvement in her functional
+status. However, during the past year or so, there has been a
+progressive and severe decline in her functional status,
+accompanied by the development of significant mitral
+regurgitation, pulmonary hypertension, and tricuspid
+regurgitation. She was hospitalized from [**5-2**] through [**5-9**],
+during which time milrinone IV therapy was initiated.The patient
+was noted to have a considerable clinical response with
+considerable improvement in functional capacity going from
+having difficulty just speaking and holding up her head in bed
+to being able to walk around her home where she lives on a [**Doctor Last Name **]
+and participated most if not all of her activities of daily
+living.
+
+Past Medical History:
+1. Severe nonischemic cardiomyopathy with LVEF of 10% s/p BiVICD
+placment
+2. Severe mitral regurgitation, severe tricuspid regurgitation
+and moderate pulmonary hypertension.
+3. PAF status post ablation.
+4. Severe asthma.
+5. Old compression fractions of T8 and T10.
+6. Venous stasis disease.
+7. Anxiety, depression.
+8. Restless legs syndrome.
+9. Recent septic bursitis of the right knee.
+
+Social History:
+The patient used to work as a jeweler and makes jewelry. She
+lives with her husband. Remote smoking history, quit over 40
+years ago, occasional ETOH and no illicit drug use
+
+
+Family History:
+Father may have had a heart attack, but died from a blood clot
+to the brain. Mother had diabetes and cirrhosis. Son with
+[**Name2 (NI) 14595**]-1 antitrypsin deficiency.
+
+Physical Exam:
+Physical Exam on Admission:
+Vital signs- BP- 94/61, HR 120, SpO2 96% on 6L via nasal
+cannula, RR 24. A-sense V-Paced rhythm on telemetry.
+GENERAL: Lethargic, in distress.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple, JVP raised to angle of the jaw.
+CARDIAC: PMI displaced laterally, RR, normal S1, S2. No m/r/g.
+No thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. crackles bilaterally
+half- way up the lung fields.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: 2+ pitting edema to the level of the mid-shin. No
+femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Physical Exam on Discharge:
+VS 97.3, 100/70, 94, 18, 96% RA
+exam unchanged except:
+JVD is not elevated
+
+Pertinent Results:
+Labs on Admission:
+[**2146-5-24**] 04:13PM   WBC-12.9* RBC-3.96* HGB-12.1 HCT-38.7 MCV-98
+MCH-30.5 MCHC-31.1 RDW-14.7
+[**2146-5-24**] 04:13PM   NEUTS-80.9* LYMPHS-12.5* MONOS-5.0 EOS-1.2
+BASOS-0.4
+[**2146-5-24**] 04:13PM   PT-30.5* PTT-41.4* INR(PT)-3.0*
+[**2146-5-24**] 04:13PM   DIGOXIN-1.1
+[**2146-5-24**] 04:13PM   TSH-6.0*
+[**2146-5-24**] 04:13PM   CALCIUM-8.6 PHOSPHATE-2.9 MAGNESIUM-1.7
+[**2146-5-24**] 04:13PM   CK-MB-2 cTropnT-<0.01
+[**2146-5-24**] 04:13PM   ALT(SGPT)-17 AST(SGOT)-28 CK(CPK)-64 ALK
+PHOS-90 TOT BILI-1.2
+[**2146-5-24**] 04:13PM   GLUCOSE-153* UREA N-11 CREAT-1.1 SODIUM-141
+POTASSIUM-4.0 CHLORIDE-101 TOTAL CO2-27 ANION GAP-17
+[**2146-5-24**] 09:32PM   LACTATE-0.9
+.
+MICRO:
+Urine cx [**5-24**]: negative
+blood cx [**5-24**]: negative
+c. diff [**5-25**]: negative
+.
+Imaging:
+Chest x-ray [**5-24**]
+Comparison is made with prior study [**5-16**].
+Moderate-to-severe cardiomegaly is unchanged.  Pacemaker leads
+are in standard position.  Right PICC tip is in the lower SVC.
+There are low lung volumes.  There has been interval worsening
+of moderate
+pulmonary edema and bibasilar opacities.  Bibasilar opacities
+could be due to a combination of atelectasis and small pleural
+effusions, larger on the left side, though superimposed
+pneumonia cannot be totally excluded. Asymmetric opacity at the
+periphery of the right upper lobe, is also worrisome for
+pneumonia.
+.
+Echocardiogram [**2146-5-4**]:
+The left atrium is mildly dilated. The left atrium is elongated.
+
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is moderately dilated. Overall left
+ventricular systolic function is severely depressed
+(quantitative biplane LVEF= 20 % ) secondary to severe global
+hypokinesis with the basal infero-lateral and antero-lateral
+segments contracting best. A left ventricular mass/thrombus
+cannot be excluded. Tissue Doppler imaging suggests an increased
+
+left ventricular filling pressure (PCWP>18mmHg). The right
+ventricular cavity is markedly dilated with severe global free
+wall hypokinesis. There is abnormal septal motion/position. The
+diameters of aorta at the sinus, ascending and arch levels are
+normal. The aortic valve leaflets (3) appear structurally normal
+
+with good leaflet excursion and no aortic stenosis. Trace aortic
+
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. The mitral valve leaflets do not fully
+coapt. Moderate (2+) mitral regurgitation is seen. The left
+ventricular inflow pattern suggests a restrictive filling
+abnormality, with elevated left atrial pressure. Moderate [2+]
+tricuspid regurgitation is seen. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+Compared with the prior study dated [**2146-5-2**] (images reviewed),
+
+LVEF has improved slightly, mainly due to more vigorous
+contraction of the basal lateral segments. Other findings are
+similar.
+.
+[**5-3**] Cardiac Catherization:
+1. Limited resting hemodynamics revealed modereately elevated
+right and left sided filling pressures with an RVEDP of 24mmHg
+and LVEDP of 29mmHg. There was severely elevated pulmonary
+artery systolic pressure at rest of 78mmHg. At rest there was
+severely depressed cardiac index of 1.39L/min/m2. Patient was
+infused with Milrinone, first bolused with 50mcg/kg over 3
+minutes then 0.375mcg/kg/min over 15 minutes. With milrinone
+infusion there was a significant improvement in cardiac index
+from 1.39 to 2.22L/min/m2. There was a significant reduction in
+PASP from 78 to 58mmHg.
+.
+Echo [**2146-5-26**]:
+The left atrium is mildly dilated. The right atrium is
+moderately dilated. No atrial septal defect is seen by 2D or
+color Doppler. The estimated right atrial pressure is 0-5 mmHg.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is moderately dilated. Regional left
+ventricular wall motion is normal. Overall left ventricular
+systolic function is severely depressed (LVEF= [**10-17**] %). No
+masses or thrombi are seen in the left ventricle. Tissue D

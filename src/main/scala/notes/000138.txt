@@ -1,0 +1,200 @@
+Admission Date:  [**2133-2-12**]              Discharge Date:   [**2133-2-13**]
+
+Date of Birth:  [**2051-11-13**]             Sex:   F
+
+Service: EMERGENCY
+
+Allergies:
+Aspirin
+
+Attending:[**First Name3 (LF) 2565**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Ms. [**Known lastname 27772**] is an 81 yo female with PMH of trached since
+[**Month (only) **] stomach mass, trouble weaning. Much of the history is
+provided by her husband, who is her HCP, given her ventilatory
+status. She was initially intubated for resection of a gastric
+cardiac tumor, but had difficulty weaning from the vent with
+complications including pna. She spent 72 days at [**Hospital 10287**] for this. She was discharged to [**Hospital 100**] Rehab on [**1-6**],
+where she was slowly weaned. She underwent bronchoscopy and
+endoscopy at [**Hospital3 **] roughly one week ago which showed
+healed resection sites. She was at [**Hospital 100**] Rehab today when she
+noticed sudden onset dyspnea and tachycardia.
+.
+In the ED, initial vs were: T 100.6 P 117 in afib BP 128/52
+(decreased to 91/41 upon signout) R 36 O2 sat 95% on 100% FiO2.
+She had no leukocytosis, HCT was 34, trop was 0.03 but CK was
+36. Lactate was 2.9. CXR showed mild CHF, small bilateral
+effusions, and a retrocardiac opacity. CTA showed PE in his LUL
+pulm artery, right lung pna, and LLL collapse. UA was positive
+for > 50 WBCs. Patient was given diltiazem, levofloxacin 750mg,
+vancomycin 1g, ceftriaxone 1g, and started on heparin. 2 18 gage
+PIVs were placed. UCx and BCx were sent.
+.
+On arrival to the ICU, she is intubated. She is resting and
+comfortable. Denies abd pain, chest pain. She reports continued
+SOB, though it is better than upon presentation to the ED.
+
+
+Past Medical History:
+- stomach/esophageal CA of cardia s/p resection [**2133-10-18**]
+- herpes zoster in [**2093**]
+- MI [**2115**] treated at [**First Name8 (NamePattern2) 3075**] [**Last Name (NamePattern1) **] in [**Location (un) 1110**], s/p heart
+- catheterization in [**Location (un) 47**] [**2115**], unknown details
+- hepatitis in [**2083**], ? medication induced
+- obesity
+- hypercholesterolemia
+- HTN
+.
+
+
+Social History:
+nonsmoker. no EtOH
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: 99.7 BP: 147/68 P:112 R:22 99% on 100% FiO2
+Vent: PSV 10/5 40% FiO2
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple. bounding carotid pulses. JVP not elevated, no LAD.
+TTP right neck. Fullness of right neck and supraclavicular area.
+
+Lungs: bronchial BS in left base. Rales in right base.
+CV: Regular rate and rhythm, normal S1 + S2, 2/6 SEM murmur at
+base. no rubs, gallops
+Abdomen: soft, non-distended, bowel sounds present. Diffuse TTP.
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: answers questions appropriately by nodding. CNs [**1-22**]
+intact grossly.
+
+
+Pertinent Results:
+Admit Labs:
+[**2133-2-11**] 07:40PM BLOOD WBC-9.7 RBC-3.53* Hgb-11.2* Hct-34.0*
+MCV-97 MCH-31.7 MCHC-32.8 RDW-16.3* Plt Ct-333
+[**2133-2-11**] 07:40PM BLOOD Neuts-63.7 Lymphs-28.9 Monos-5.5 Eos-1.4
+Baso-0.4
+[**2133-2-11**] 07:40PM BLOOD PT-12.6 PTT-20.4* INR(PT)-1.1
+[**2133-2-11**] 07:40PM BLOOD Glucose-128* UreaN-12 Creat-0.5 Na-134
+K-4.1 Cl-93* HCO3-33* AnGap-12
+[**2133-2-12**] 03:40AM BLOOD ALT-13 AST-29 LD(LDH)-320* CK(CPK)-40
+AlkPhos-68 Amylase-5 TotBili-0.3
+[**2133-2-11**] 07:40PM BLOOD CK(CPK)-36
+[**2133-2-12**] 11:28AM BLOOD CK(CPK)-30
+[**2133-2-11**] 07:40PM BLOOD cTropnT-0.03*
+[**2133-2-12**] 03:40AM BLOOD CK-MB-NotDone cTropnT-0.05*
+[**2133-2-12**] 11:28AM BLOOD CK-MB-NotDone cTropnT-0.03*
+[**2133-2-12**] 03:40AM BLOOD Lipase-16
+[**2133-2-11**] 07:40PM BLOOD Calcium-9.0 Phos-1.9* Mg-1.5*
+[**2133-2-11**] 07:51PM BLOOD Lactate-2.9*
+[**2133-2-12**] 04:40AM BLOOD Lactate-0.9
+.
+Discharge Labs:
+[**2133-2-13**] 05:15AM BLOOD WBC-7.0 RBC-2.93* Hgb-9.6* Hct-28.4*
+MCV-97 MCH-32.9* MCHC-33.9 RDW-16.0* Plt Ct-267
+[**2133-2-12**] 03:40AM BLOOD Neuts-72.0* Lymphs-20.5 Monos-5.6 Eos-1.3
+Baso-0.5
+[**2133-2-13**] 05:15AM BLOOD PT-15.6* PTT-62.5* INR(PT)-1.4*
+[**2133-2-13**] 05:15AM BLOOD Glucose-142* UreaN-9 Creat-0.4 Na-138
+K-3.8 Cl-98 HCO3-35* AnGap-9
+[**2133-2-13**] 05:15AM BLOOD Calcium-8.3* Phos-3.5 Mg-1.8
+[**2133-2-12**] 04:40AM BLOOD Lactate-0.9
+.
+Studies:
+CXR AP [**2133-2-11**]:
+Mild CHF with small bilateral pleural effusions and retrocardiac
+
+opacity which may represent atelectasis and/or pneumonia. Would
+recommend
+followup post-diuresis.
+.
+CTA chest [**2133-2-11**]:
+Pulmonary artery filling defects, consistent with acute
+thrombus,
+begin at the origin of the right upper lobe pulmonary artery
+extending into segmental and subsegmental right upper lobe
+branches. Focal acute pulmonary embolism is noted in the right
+interlobar pulmonary aretery as well. Other pulmonary artery
+filling defects appear peripherally located within the vessel,
+perhaps representing recannulated arteries in the setting of
+chronic embolism (i.e. branches to the superior segment of the
+left lower lobe). . Breathing artifact obscures evaluation of
+subsegmental levels, particularly to the right lower lobe. No
+left sided pulmonary emboli are identified. There is no overt
+evidence of right- sided heart strain. Atherosclerotic
+calcifications involve the thoracic aorta and its branches
+including the coronary arteries. There is no evidence of
+pericardial effusion. Small scattered mediastinal lymph nodes
+are identified though they do not appear to meet CT criteria for
+
+pathologic enlargement. An tracheostomy tube appears
+appropriately
+positioned. Heterogeneous appearance of the thyroid with rim-
+calcified left thyroid nodules are partially imaged.
+Lung windows reveal extensive right lung peribronchovascular
+opacity
+throughout the upper, middle, and lower lobes. More
+consolidative changes at the right base are also noted. There is
+a small left pleural effusion with consolidation of the left
+lower lobe consistent with collapse. Secretions are noted in the
+left main stem bronchus extending into left lower lobe bronchi.
+
+Although this exam is not tailored to evaluate abdominal organs,
+limited
+evaluation of the upper abdomen is unremarkable.
+There are no bone findings of malignancy. Fracture deformity of
+the left
+seventh rib is old. Multilevel thoracolumbar bridging anterior
+osteophytosis  is noted.
+IMPRESSION:
+1. Pulmonary emboli including those beginning at the origin of
+the right
+upper lobe pulmonary artery extending into segmental and
+subsegmental vessels and another in the right interlobar artery.
+
+2. Focal right basilar consolidation and diffuse right lung
+peribronchovascular opacity is most concerning for infection or
+aspiration, though the sequela of chronic emboli is in the
+differential.
+3. Left lower lobe collapse with opacification of lower lobe
+bronchi, perhaps reflecting mucus impaction. Associated small
+left pleural effusion.
+.
+TTE [**2133-2-12**]:
+The left atrium is normal in size. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and global
+systolic function (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. The right ventricular cavity is mildly dilated with
+mild global free wall hypokinesis. The aortic root is mildly
+dilated at the sinus level. There is no aortic valve stenosis.
+No aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Trivial mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] The estimated pulmonary artery
+systolic pressure is normal. There is no pericardial effusion.
+There is an anterior space which most likely represents a fat
+pad.
+IMPRESSION: Mild right ventricular systolic dysfunction.
+Preserved global left ventricular systolic function. No
+significant valvular disease seen. No pericardial effusion.
+.
+Bilateral LENI:  No evidence of deep vein thrombosis in either
+leg.
+.
+CXR AP [**2133-2-13**]:
+In comparison with the study of [**2-11**], there are persistent low
+lung
+volumes in this patient with a tracheostomy tube in place.
+Opa

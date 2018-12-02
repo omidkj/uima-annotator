@@ -1,0 +1,212 @@
+Admission Date:  [**2172-5-22**]              Discharge Date:   [**2172-6-5**]
+
+Date of Birth:  [**2109-5-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3705**]
+Chief Complaint:
+Hemoptysis
+
+Major Surgical or Invasive Procedure:
+[**5-23**]: bronchoscopy, intubation
+[**6-1**]: bronchscopy, intubation
+[**6-2**]: bronchial artery embolization
+[**6-3**]: bronchoscopy
+
+
+History of Present Illness:
+62yo male with PMHx of PAF on coumadin, prostate cancer, HTN, PE
+admitted with recurrent hemoptysis.
+.
+Patient was in his usual state of health until [**5-13**] when he had
+an episode of hemoptysis.  It worsened over the course of the
+day so he went to the ED.  Of note, he had a similar episode in
+[**2167**] with no clear source ever found.
+.
+He was admitted to an OSH on [**2172-5-15**] where he was intubated
+prophylactically for emergent bronchoscopy.  There was no
+evidence of endobronchial lesion.  Active bleeding was from the
+LLL and it was treated with diluted epi (1:[**Numeric Identifier 961**]) and iced
+saline lavage of the left lung.  Patient received 10 units of
+PRBCs and 5 units of FFP during hospitalization.  INR went from
+2.2 to 1.1 on transfer.  His last blood transfusion was on [**5-18**].
+ Lowest Hct was 22.1- on transfer it was 27.7.  Of note, patient
+experienced hematuria after foley catheter placement on [**5-16**].
+Urology evaluated patient and replaced the catheter.  He
+remained hemodynamically stable while there.
+.
+He underwent a second bronch on [**2172-5-21**] where multiple clots were
+suctioned from the left lower lobe.  There was also a remnant
+clot in the LUL that was left at the site.  His oxygenation
+improved significantly after this procedure.  He remains
+intubated with FiO2 of 40% and PEEP of 10.  The issue at the OSH
+was that each time the patient's sedation was decreased, he
+began coughing and exacerbating the hemoptysis.  Given that, he
+was not given any drug holidays.  He is being transferred to
+[**Hospital1 18**] for bronchial artery embolization.
+.
+On arrival to the floor, patient was intubated and sedated.
+.
+Review of systems: Unable to obtain as patient is intubated and
+sedated.
+(+) Per HPI
+
+
+Past Medical History:
+1.  Paroxysmal atrial fibrillation
+2.  Pulmonary embolism- [**2168**] (on coumadin)
+3.  HTN
+4.  History of posterior nosebleed
+5.  History of PUD and GI bleed in [**2152**]
+6.  Barrett's esophagus on endoscopy
+7.  Kidney stones
+8.  Hyperlipidemia
+9.  Prostate cancer
+
+Social History:
+Single, no children.  Lives with his roommate.  Retired computer
+programmer.  Roommate is his HCP [**First Name8 (NamePattern2) **] [**Name (NI) **])
+- Tobacco: Smoked 1ppd from [**2130**] until [**2167**].
+- Alcohol:  Denies
+- Illicits:  Smokes 2 marijuana joints per day.
+
+Family History:
+Mother died at age 73 with blood dyscrasia. Father died of CHF
+in his 80s.
+
+Physical Exam:
+Vitals: T: 99.6 BP: 128/73 P: 98 R: 18 O2: 95% on AC (Vt 500,
+FiO2 40%, PEEP 10)
+General: Intubated, sedated.  No acute distress
+HEENT: Sclera anicteric, MMM.  Intubated.
+Neck: supple, JVP not elevated, no LAD
+Lungs: Minimal breath sounds in left mid-lower lung.  LUL and
+right lung are clear to auscultation.  No wheezes, rales, ronchi
+CV: Irregularly irregular. normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+[**2172-5-22**] 11:55PM BLOOD WBC-9.2 RBC-3.17* Hgb-9.9* Hct-30.0*
+MCV-94 MCH-31.2 MCHC-33.1 RDW-14.9 Plt Ct-211
+[**2172-5-22**] 11:55PM BLOOD Neuts-84.9* Lymphs-11.2* Monos-3.8 Eos-0
+Baso-0.2
+[**2172-5-22**] 11:55PM BLOOD PT-13.8* PTT-26.5 INR(PT)-1.2*
+[**2172-5-22**] 11:55PM BLOOD Glucose-143* UreaN-36* Creat-1.1 Na-147*
+K-4.5 Cl-110* HCO3-31 AnGap-11
+[**2172-5-23**] 07:00AM BLOOD ALT-45* AST-28 LD(LDH)-214 AlkPhos-42
+TotBili-0.7
+[**2172-5-22**] 11:55PM BLOOD Calcium-9.1 Phos-3.3 Mg-2.5
+[**2172-5-24**] 02:00AM BLOOD Hapto-326*
+[**2172-5-27**] 07:35AM BLOOD Triglyc-143
+[**2172-5-23**] 08:45AM BLOOD ANCA-NEGATIVE B
+[**2172-5-25**] 04:58AM BLOOD Vanco-10.6
+[**2172-5-23**] 01:43AM BLOOD Type-ART Temp-37.6 Tidal V-500 PEEP-10
+FiO2-40 pO2-91 pCO2-53* pH-7.38 calTCO2-33* Base XS-4
+Intubat-INTUBATED
+[**2172-5-23**] 01:43AM BLOOD Lactate-1.2
+[**2172-5-25**] 12:32PM BLOOD O2 Sat-96
+[**2172-5-26**] 08:04AM BLOOD freeCa-1.19
+
+Labs on discharge and pertinent admission labs:
+
+[**2172-6-5**] 04:31AM BLOOD WBC-5.6 RBC-3.11* Hgb-9.4* Hct-27.8*
+MCV-90 MCH-30.3 MCHC-33.8 RDW-14.5 Plt Ct-340
+[**2172-6-1**] 12:01PM BLOOD Neuts-75.8* Lymphs-18.1 Monos-4.3 Eos-1.5
+Baso-0.2
+[**2172-6-4**] 02:57AM BLOOD PT-14.6* PTT-31.1 INR(PT)-1.3*
+[**2172-6-5**] 04:31AM BLOOD Glucose-91 UreaN-11 Creat-0.9 Na-134
+K-4.1 Cl-98 HCO3-26 AnGap-14
+[**2172-5-26**] 04:01AM BLOOD ALT-38 AST-24 LD(LDH)-270* AlkPhos-56
+TotBili-1.1
+[**2172-6-5**] 04:31AM BLOOD Calcium-9.1 Phos-2.1* Mg-2.1
+[**2172-5-24**] 02:00AM BLOOD Hapto-326*
+[**2172-5-27**] 07:35AM BLOOD Triglyc-143
+[**2172-5-23**] 08:45AM BLOOD ANCA-NEGATIVE B
+[**2172-5-30**] 04:49AM BLOOD [**Doctor First Name **]-POSITIVE * Titer-1:80
+[**2172-5-30**] 04:49AM BLOOD RheuFac-9
+
+[**2172-6-2**] 04:04PM URINE RBC-0-2 WBC-21-50* Bacteri-MANY
+Yeast-NONE Epi-0-2
+[**2172-6-2**] 04:04PM URINE Blood-LG Nitrite-POS Protein-75
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-SM
+[**2172-6-3**] 04:22PM URINE Blood-LG Nitrite-NEG Protein-100
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-1 pH-6.0 Leuks-LG
+
+[**2172-6-2**] 4:04 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2172-6-4**]**
+
+   GRAM STAIN (Final [**2172-6-2**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+
+   RESPIRATORY CULTURE (Final [**2172-6-4**]):
+      SPARSE GROWTH Commensal Respiratory Flora.
+      ENTEROBACTER CLOACAE.    MODERATE GROWTH.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROBACTER CLOACAE
+                             |
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+Urine culture [**6-2**] and [**6-3**] >100,000 GNR
+
+blood cultures
+6/15 pending
+[**5-24**] and [**5-23**] negative
+Blood Culture, Routine (Final [**2172-5-29**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    ISOLATED FROM ONE
+SET ONLY.
+         SENSITIVITIES PERFORMED ON REQUEST..
+         OF TWO COLONIAL MORPHOLOGIES.
+
+
+Brief Hospital Course:
+Assessment and Plan: 62yo man with A fib on Warfarin, PE in
+[**2168**], prostate cancer, and prior GI bleed who presented to OSH
+with massive hemoptysis- being transferred to [**Hospital1 18**] for
+bronchial artery embolization.
+
+ Hemoptysis-  Patient experienced massive hemoptysis at OSH
+requiring 10U PRBCs and 5 units of FFP.  His last tranfusion was
+on [**5-18**] and hct remained stable.  Differential diagnosis
+includes bronchiectasis and occult malignancy.  IP service
+consulted and performed bronchoscopy which demonstrated thick,
+organized mucous blood clots in RUL, RLL, and LLL.  Rigid bronch
+performed in OR, notable for friable mucosa suggestive of
+DAH/vasculitis but no visible bleeding source.  Was intubated to
+protect airway.  ANCA and anti-GBM were found to be negative; no
+active sediment on urine an

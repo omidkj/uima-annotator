@@ -1,0 +1,194 @@
+Admission Date:  [**2101-1-23**]              Discharge Date:   [**2101-2-4**]
+
+Date of Birth:  [**2021-6-21**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Motrin / Naprosyn
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2101-1-24**] Mitral valve replacement(27mm [**Company 1543**] Mosaic Porcine)
+and single vessel coronary artery bypass grafting utilizing the
+left internal mammary artery to left anterior descending artery.
+
+
+History of Present Illness:
+This is a 79 year old female with known history of coronary
+artery disease,  mitral regurgitation and paroxysmal atrial
+fibrillation. She presented to [**Hospital1 **] complaining of acute
+shortness of breath awakening her from sleep. Chest x-ray at
+that time was consistent with pulmonary edema. EKG showed normal
+sinus rhythm. Symptoms did improve with diuresis. Subsequent
+cardiac catheterization revealed a 60% in-stent stenosis in the
+proximal LAD stent and a patent RCA stent. The circumflex was
+noted to have only a 50% lesion. Left ventriculography confirmed
+4+ mitral regurgitation and estimated LV function around 60%.
+Based upon the above results, she was transferred to the [**Hospital1 18**]
+for cardiac surgical intervention. Prior to transfer, she was
+started on antibiotics for a urinary tract infection.
+
+Past Medical History:
+Congestive heart failure, Coronary artery disease - History of
+Coronary Stents(LAD & RCA) in [**2094**], Mitral regurgitation,
+Paroxsymal Atrial fibrillation/flutter, Type II Diabetes
+mellitus; Hypertension, Chronic Obstructive Pulmonary Disease,
+Hypercholesterolemia, Pulmonary Hypertension; History of GI
+bleed and Peptic Ulcer Disease, History of Bradycardia - s/p
+Pacemaker Implantation, Anemia, Hypothyroidism
+
+Social History:
+Married, lives alone. She does not smoke or drink alcohol.
+
+Family History:
+Denies history of premature coronary artery disease
+
+Physical Exam:
+Admission Vitals: T 98.3, BP 106/50, HR 60, RR 20, SAT 100% on
+2L
+General: elderly female in no acute distress
+HEENT: oropharynx benign,
+Neck: supple, no JVD, carotids 2+ without bruits
+Heart: regular rate, normal s1s2, s3 noted, 3/6 systolic murmur
+left lower sternal border
+Lungs: bibasilar rales
+Abdomen: soft, nontender, normoactive bowel sounds
+Ext: warm, no edema, no varicosities
+Pulses: decreased distally
+Neuro: nonfocal
+
+
+Pertinent Results:
+[**2101-2-4**] 06:45AM BLOOD WBC-14.2* RBC-3.42* Hgb-10.5* Hct-32.1*
+MCV-94 MCH-30.8 MCHC-32.8 RDW-16.1* Plt Ct-300
+[**2101-2-4**] 06:45AM BLOOD Plt Ct-300
+[**2101-2-4**] 06:45AM BLOOD PT-22.7* PTT-31.1 INR(PT)-2.2*
+[**2101-2-4**] 06:45AM BLOOD Glucose-119* UreaN-19 Creat-0.8 Na-134
+K-4.2 Cl-95* HCO3-28 AnGap-15
+[**2101-1-23**] 09:22PM BLOOD ALT-24 AST-25 LD(LDH)-217 AlkPhos-85
+TotBili-0.5
+[**2101-1-24**] 03:39AM BLOOD ALT-25 AST-24 LD(LDH)-211 AlkPhos-82
+TotBili-0.5
+[**2101-1-24**] 03:39AM BLOOD %HbA1c-8.1* [Hgb]-DONE [A1c]-DONE
+[**2101-2-2**] 06:30AM BLOOD TSH-6.2*
+[**2101-2-2**] 06:30AM BLOOD T4-6.6 T3-77*
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 70304**] (Complete)
+Done [**2101-1-24**] at 9:17:37 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Last Name (Prefixes) 413**], [**First Name3 (LF) 412**]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2021-6-21**]
+Age (years): 79 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Abnormal ECG. Aortic valve disease. Mitral valve
+disease. Shortness of breath.
+ICD-9 Codes: 786.05, 440.0, 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2101-1-24**] at 09:17    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1510**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2006AW2-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.6 cm  <= 4.0 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.5 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Aorta - Sinus Level:  2.1 cm  <= 3.6 cm
+Aortic Valve - Peak Gradient:  5 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  3 mm Hg
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. No spontaneous echo
+contrast in the body of the LA. No spontaneous echo contrast or
+thrombus in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA. Good (>20 cm/s) LAA
+ejection velocity. No thrombus in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No spontaneous
+echo contrast in the body of the RA. A catheter or pacing wire
+is seen in the RA. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Low normal LVEF. [Intrinsic LV systolic function likely
+depressed given the severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Normal RV wall thickness. Normal RV chamber
+size. Normal RV systolic function. [Intrinsic RV systolic
+function likely more depressed given the severity of TR].
+
+AORTA: Normal aortic diameter at the sinus level. Simple
+atheroma in aortic root. Focal calcifications in aortic root.
+Normal ascending aorta diameter. Simple atheroma in ascending
+aorta. Focal calcifications in ascending aorta. Normal aortic
+arch diameter. Simple atheroma in aortic arch. Normal descending
+aorta diameter. There are complex (>4mm) atheroma in the
+descending thoracic aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). Mildly thickened
+aortic valve leaflets. No AS. Trace AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. No
+mass or vegetation on mitral valve. Moderate mitral annular
+calcification. Moderate thickening of mitral valve chordae. No
+MS. Moderate to severe (3+) MR. [**First Name (Titles) **] vena contracta is >=0.7cm
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. No
+mass or vegetation on tricuspid valve. Normal tricuspid valve
+supporting structures. No TS. Moderate [2+] TR. Moderate PA
+systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications. The TEE probe was
+passed with assistance from the anesthesioology staff using a
+laryngoscope. The patient was under general anesthesia
+throughout the procedure.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE BYPASS:
+1. The left atrium is moderately dilated. No spontaneous echo
+contrast is seen in the body of the left atrium. No spontaneous
+echo contrast or thrombus is seen in the body of the left atrium
+or left atrial appendage. No thrombus is seen in the left atrial
+appendage. No spontaneous echo contrast is seen in the body of
+the right atrium. No atrial septal defect is seen by 2D or color
+Doppler.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is low normal (LVEF 50-55%). [Intrinsic left
+ventricular systolic function is likely more depressed given the
+severity of valvular regurgitation.] Right ventricular chamber
+size is normal. Right ventricular systolic function is normal.
+[Intrinsic right ventricular systolic function is likely more
+depressed given the severity of tricuspid regurgitation.]
+3. There are simple atheroma in the aortic root. There are
+simple atheroma in the ascending aorta. There are simple
+atheroma in the aortic arch. There are complex (>4mm) atheroma
+in the descending thoracic aorta. The aortic valve leaflets (3)
+appear structurally normal with good l

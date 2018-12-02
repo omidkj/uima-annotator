@@ -1,0 +1,214 @@
+Admission Date:  [**2156-11-15**]              Discharge Date:   [**2156-12-12**]
+
+Date of Birth:  [**2096-10-21**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+EGD/panc. biopsy [**2156-11-26**]
+redo AVR  [**2156-12-3**] ( 21mm St. [**First Name5 (NamePattern1) 923**] [**Last Name (NamePattern1) **] porcine valve)
+
+
+History of Present Illness:
+60 year old male who presented to [**Hospital6 33**] by
+ambulance with complaints of chest pain on [**11-15**]. He noted
+substernal chest pressure lasting 3-10 min for the past 2 weeks.
+The pain does not radiate. He had DOE. It is made worse by
+exertion and he has difficulty climbing the stairs in his home.
+The pain was worse during night and awoke him from sleep. When
+he has the pain he has also noticed SOB. He was transferred to
+[**Hospital1 18**] for further evaluation.
+
+
+Past Medical History:
+PMH:
+1. Alcohol detox 2 wks ago
+2. Abdominal malignancy - 2.7cm iliac LN/abdominal LAD currently
+being worked up by Dr. [**Last Name (STitle) **]
+3. Bicuspid aorta s/p aortic valve replacement with porcine
+valve in [**2151**]
+4.Presence of venous angioma vs AV malformation seen on prior
+MRAs.
+5. Status post traumatic splenectomy
+6. Depression
+7. Essential tremor
+8. Status post bilateral herniorrhaphy
+9. Status post right thumb surgery
+[**59**]. Status post ACL repair.
+
+
+Social History:
+Divorced but pending re-marriage. 2 children. Smokes [**3-1**] cigars
+per day. EtOH abuse (8 beers/day x 30 years) s/p detox 2 weeks
+ago. 1 beer in last 2 weeks per patient.
+
+Family History:
+GM with open heart surgery (unclear indication)
+
+Physical Exam:
+Admission
+Vitals: T: 98.0 BP: 104/79 P: 84 R: 20 SaO2:93%RA
+General: Awake, alert, NAD.
+HEENT: NC/AT, EOMI without nystagmus, no scleral icterus noted,
+MMM, no lesions noted in OP
+Neck: supple, no JVD or carotid bruits appreciated
+Pulmonary: Decrease BS b/l with dullness to percussion
+Cardiac: RRR, nl. S1S2, systolic murmur heard best at RUSB
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: Trace edema
+Skin: no rashes or lesions noted.
+Neurologic:
+-mental status: Alert, oriented x 3. Able to relate history
+without difficulty.
+-cranial nerves: II-XII intact
+-motor: normal bulk, strength and tone throughout. bilateral
+resting tremor.
+-sensory: No deficits to light touch throughout.
+
+
+
+
+Pertinent Results:
+[**2156-12-9**] 07:10AM BLOOD WBC-14.3* RBC-2.96* Hgb-10.2* Hct-29.4*
+MCV-99* MCH-34.4* MCHC-34.7 RDW-15.5 Plt Ct-208
+[**2156-12-9**] 07:10AM BLOOD Plt Ct-208
+[**2156-11-30**] 07:25AM BLOOD Ret Aut-2.2
+[**2156-12-9**] 07:10AM BLOOD Glucose-106* UreaN-7 Creat-0.7 Na-134
+K-4.1 Cl-96 HCO3-33* AnGap-9
+[**2156-12-9**] 07:10AM BLOOD estGFR-Using this
+[**2156-12-9**] 07:10AM BLOOD ALT-31 AST-43* LD(LDH)-337* AlkPhos-130*
+Amylase-51 TotBili-0.8
+[**2156-12-9**] 07:10AM BLOOD Lipase-38
+[**2156-12-9**] 07:10AM BLOOD Albumin-3.3*
+[**2156-11-30**] 07:25AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 103199**] (Complete)
+Done [**2156-12-3**] at 9:52:21 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2096-10-21**]
+Age (years): 60 M  Hgt (in): 76
+BP (mm Hg): 95/52  Wgt (lb): 200
+HR (bpm): 64  BSA (m2): 2.22 m2
+Indication: Aortic valve disease. Intra-op TEE for re-do AVR
+ICD-9 Codes: 440.0, V42.2, 424.1
+Test Information
+Date/Time: [**2156-12-3**] at 09:52    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2006AW05-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.6 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.0 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  5.0 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.1 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  5.1 cm
+Left Ventricle - Fractional Shortening:  *0.16  >= 0.29
+Left Ventricle - Ejection Fraction:  35%  >= 55%
+Aorta - Valve Level:  2.3 cm  <= 3.6 cm
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aorta - Arch:  3.0 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.5 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *5.4 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *114 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  72 mm Hg
+Aortic Valve - LVOT diam:  2.3 cm
+Aortic Valve - Valve Area:  *0.5 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  1.0 m/sec
+Mitral Valve - Mean Gradient:  1 mm Hg
+Mitral Valve - Pressure Half Time:  68 ms
+Mitral Valve - MVA (P [**12-29**] T):  3.2 cm2
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. Good (>20 cm/s) LAA
+ejection velocity. All four pulmonary veins identified and enter
+the left atrium.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA and extending into the RV. No ASD
+by 2D or color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Moderately dilated LV
+cavity. Moderately depressed LVEF.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Mild global RV free
+wall hypokinesis.
+
+AORTA: Normal aortic root diameter. Focal calcifications in
+aortic root. Normal ascending aorta diameter. Focal
+calcifications in ascending aorta. Normal aortic arch diameter.
+Simple atheroma in aortic arch. Normal descending aorta
+diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Bioprosthetic aortic valve prosthesis (AVR). Thickened AVR
+leaflets. Increased AVR gradient. Abnormal AVR. No masses or
+vegetations on aortic valve. Severe AS (AoVA <0.8cm2). Mild (1+)
+AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Moderate mitral annular calcification. Calcified tips of
+papillary muscles. No MS. Mild to moderate ([**12-29**]+) MR.
+
+TRICUSPID VALVE: Moderate [2+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR. Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications. The patient received
+antibiotic prophylaxis. The TEE probe was passed with assistance
+from the anesthesioology staff using a laryngoscope. The patient
+was under general anesthesia throughout the procedure. The
+patient appears to be in sinus rhythm. Results were personally
+post-bypass data
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS:
+1. The left atrium is moderately dilated. No atrial septal
+defect is seen by 2D or color Doppler.
+2. There is mild symmetric left ventricular hypertrophy. The
+left ventricular cavity is moderately dilated. Overall left
+ventricular systolic function is globally moderately depressed.
+3. The right ventricular cavity is mildly dilated. There is mild
+global right ventricular free wall hypokinesis.
+4. There are simple atheroma in the aortic arch. There are
+simple atheroma in the descending thoracic aorta.
+5. The aortic valve leaflets are severely thickened/deformed.
+There is severe aortic valve stenosis (area <0.8cm2). Mild (1+)
+aortic regurgitation is seen.
+6. The mitral valve leaflets are moderately thickened. Mild to
+moderate ([**12-29**]+) mitral regurgitation is seen.
+7. Moderate [2+] tricuspid regurgitation is seen.
+
+POST-BYPASS: Pt is being A paced and is on an infusion of
+epinephrine and phenylephrine
+1. A 21 mm bioprosthesis well seated in the Aortic position,
+l

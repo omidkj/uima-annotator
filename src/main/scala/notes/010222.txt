@@ -1,0 +1,222 @@
+Admission Date:  [**2196-5-27**]              Discharge Date:   [**2196-6-15**]
+
+Date of Birth:  [**2143-12-16**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamides) / Acyclovir And Derivatives / Lasix
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+chest "tightness"
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+52 yo female s/p DES in Cx who presented with chest tightness at
+[**Hospital1 **], got cathed and was found to have in stent thrombosis
+on [**5-25**]. Pt was initially on neo gtt that was weaned off.  Echo
+in
+the other hospital showed moderate MR and severe AS. Pt is
+transferred to [**Hospital1 18**] for further management.
+
+
+Past Medical History:
+Past Medical History
+Lupus erythematosus
+lupus glomerulonephritis
+htn
+hypercholesterolemia
+coronary artery disease s/p stent [**2191**] left circumflex
+GERD
+history shingles in the past
+diverticulitis with resection of the colon with later
+reconstruction
+right below the knee amputation a year secondary MRSA infection
+
+
+Social History:
+widowed [**January 2196**]
+-lives with 82yo Mother
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Physical Exam
+
+Afebrile Pulse: 91,  Resp:  O2 sat: 97%
+B/P  Right: 110/60   Left:
+Height:     Weight:
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x] LLE, RLE BKA well
+healed
+Edema Varicosities: None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: +3  Left:+3
+DP           Right:+2   Left:+2
+PT           [**Name (NI) 167**]:+2   Left:+2
+Radial       Right:+2  Left:+2
+
+
+Pertinent Results:
+[**2196-6-14**] 10:45AM BLOOD WBC-10.6 RBC-3.42* Hgb-10.0* Hct-31.0*
+MCV-91 MCH-29.2 MCHC-32.3 RDW-17.7* Plt Ct-443*
+[**2196-5-27**] 10:10PM BLOOD WBC-16.1* RBC-3.82* Hgb-10.9* Hct-32.8*
+MCV-86 MCH-28.5 MCHC-33.2 RDW-16.5* Plt Ct-470*
+[**2196-6-14**] 10:45AM BLOOD PT-14.1* PTT-59.4* INR(PT)-1.2*
+[**2196-5-27**] 10:10PM BLOOD PT-12.9 PTT-22.9 INR(PT)-1.1
+[**2196-6-14**] 10:45AM BLOOD Glucose-100 UreaN-15 Creat-1.4* Na-140
+K-4.4 Cl-107 HCO3-22 AnGap-15
+[**2196-5-27**] 10:10PM BLOOD Glucose-107* UreaN-23* Creat-1.3* Na-141
+K-4.0 Cl-110* HCO3-20* AnGap-15
+[**2196-6-6**] 05:45AM BLOOD ALT-18 AST-17 LD(LDH)-397* AlkPhos-81
+Amylase-40 TotBili-0.7
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 56986**]Portable TTE
+(Complete) Done [**2196-5-28**] at 11:10:31 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2143-12-16**]
+Age (years): 52 F  Hgt (in): 65
+BP (mm Hg): 91/71  Wgt (lb): 162
+HR (bpm): 102  BSA (m2): 1.81 m2
+Indication: Aortic valve disease. Left ventricular function.
+Mitral valve disease. Myocardial infarction.
+ICD-9 Codes: 410.91, 424.1, 424.0
+Test Information
+Date/Time: [**2196-5-28**] at 11:10    Interpret MD: [**Name6 (MD) **] [**Name8 (MD) **], MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name4 (NamePattern1) 1022**] [**Last Name (NamePattern1) **],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Adequate
+Tape #: 2009W016-0:13 Machine: Vivid [**7-26**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.7 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.1 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  4.6 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.4 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.6 cm
+Left Ventricle - Fractional Shortening:  *0.18  >= 0.29
+Left Ventricle - Ejection Fraction:  40%  >= 55%
+Left Ventricle - Lateral Peak E':  0.11 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.06 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  13  < 15
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Arch:  2.1 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  *2.6 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *27 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  12 mm Hg
+Aortic Valve - LVOT pk vel:  0.90 m/sec
+Aortic Valve - LVOT diam:  2.0 cm
+Aortic Valve - Valve Area:  *1.1 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  1.1 m/sec
+Mitral Valve - E Wave deceleration time:  *114 ms  140-250 ms
+TR Gradient (+ RA = PASP):  19 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal IVC
+diameter (<2.1cm) with <35% decrease during respiration
+(estimated RA pressure indeterminate).
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Mild
+regional LV systolic dysfunction. Mildly depressed LVEF. No
+resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal aortic
+arch diameter. No 2D or Doppler evidence of distal arch
+coarctation.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Moderate AS (area 1.0-1.2cm2) Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Mild thickening of mitral valve
+chordae. Calcified tips of papillary muscles. Mild to moderate
+([**1-22**]+) MR. [Due to acoustic shadowing, the severity of MR may be
+significantly UNDERestimated.] LV inflow pattern c/w restrictive
+filling abnormality, with elevated LA pressure.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild
+[1+] TR. Normal PA systolic pressure.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Resting tachycardia (HR>100bpm). The rhythm
+appears to be atrial fibrillation.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+The left atrium is mildly dilated. The right atrial pressure is
+indeterminate. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. There
+is mild regional left ventricular systolic dysfunction with
+severe hypokinesis of the inferior, inferolateral,
+anterolateral, and apical walls. Overall left ventricular
+systolic function is mildly depressed (LVEF= 40 %). Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets are severely thickened/deformed. There is
+moderate aortic valve stenosis (valve area 1.1cm2). Mild (1+)
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild to moderate ([**1-22**]+) mitral regurgitation
+is seen. [Due to acoustic shadowing, the severity of mitral
+regurgitation may be significantly UNDERestimated.] The
+tricuspid valve leaflets are mildly thickened. The estimated
+pulmonary artery systolic pressure is normal. There is no
+pericardial effusion.
+
+IMPRESSION: Regional left ventricular systolic function
+consistent with coronary artery disease. Moderate aortic
+stenosis. Mild aortic regurgitation. Mild to moderate mitral
+regurgitation.
+  Electronically signed by [**Name6 (MD) **] [**Name8 (MD) **], MD, Interpreting physician
+[**Last Name (NamePattern4) **] [**2196-5-28**] 15:04
+
+
+?????? [**2190**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+ 52 yo female s/p Drug Eluding Stenet in the Circumflex who
+presented with chest tightness at OSH, got cathed and was found
+to have in stent thrombosis on [**5-25**]. An Echocardiogram at the
+other hospital showed moderate MR and severe AS. Pt was
+transferred to [**Hospital1 18**] for further management and preoperative
+surgical evaluation and work up. While an inpatient, in
+anticipation of aortic and possible mitral valve
+Replacement/repair, Ms.[**Known lastname 131**] was seen by the dental service for
+her poor dentition. It was 

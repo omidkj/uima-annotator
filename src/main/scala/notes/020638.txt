@@ -1,0 +1,227 @@
+Admission Date:  [**2146-10-10**]              Discharge Date:   [**2146-10-17**]
+
+Date of Birth:  [**2066-7-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**Last Name (NamePattern1) 495**]
+Chief Complaint:
+Tachypnea
+
+Major Surgical or Invasive Procedure:
+Tracheostomy
+
+History of Present Illness:
+Mr. [**Known lastname 32913**] is an 80 yo M with h/o recent ex lap with repair of
+bile leak/duodenal enterotomy now with PEG tube and several
+percutaneous biliary drains who presented from rehab with
+tachypnea and respiratory distress.  Before arrival, EMS placed
+him on BiPAP.
+
+According to the rehab note, patient was getting chest therapy
+at nursing home, and during this he became acutely short of
+breath.  Also, he had altered mental status today worse than
+baseline.
+
+In the ED, he continued to be tachypneic but was unable to
+answer further history questions.  His ABG showed respiratory
+acidosis so he was intubated.  After intubation, he became
+hypotensive with pressures nadiring at 67/37.  He was started on
+norepinephrine for this hypotension and right IJ CVL was placed.
+ Because of concern for sepsis, he underwent CT C/A/P which
+showed left lower lobe collapse and no acute intra-abdominal
+process.  His vital signs prior to transfer were 119 129/68 22
+100%, CMV fi02 100%, Vt 460, RR 22, PEEP 5.
+
+On arrival to the MICU, he is intubated and sedated.  He does
+not grimace to abdominal exam.  He was suctioned for large
+amounts of mucus.
+
+Review of systems:
+unable to obtain
+
+
+Past Medical History:
+Medical History: HTN, prostate CA, duodenal ulcer
+
+Surgical History: lap cholecystectomy c/b bile leak and
+duodenal injury, B II recontruction, prostatectomy with
+bilateral
+inguinal node dissection, lateral duodenostomy tube, [**Name (NI) 32914**],
+PTBD, feeding jejunostomy tube
+
+
+Social History:
+He lives in a long term care facility. He does not drink
+alcohol, and has not smoked for 20 years.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+ADMIT:
+Vitals: T: 98.8, BP: 111/36, P: 125, R: 22, O2: 100% CMV
+General: intubated, sedated, opens eyes to voice but does not
+follow commands, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, PERRL but pupils
+2 mm bilaterally
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+Abdomen: firm on the midline and left side with involuntary
+muscle contraction, right side soft, non-distended, bowel sounds
+present, no organomegaly
+GU: foley
+Ext: cool, well perfused, 2+ pulses DP and radial, no clubbing,
+cyanosis or edema
+Neuro:  intubated, sedated, opens eyes to voice but does not
+follow commands
+
+Discharge:
+General: trached, NAD
+HEENT: Sclera anicteric, MMM, oropharynx clear, edentuolus,
+PERRL
+Neck: supple
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: clear bilaterally
+Abdomen: non-tender/distended.  J tube present, as are JP [**Name (NI) 19843**],
+along with biliary [**Name (NI) 19843**]
+GU: foley
+Ext: 2+ pulses DP and radial, no clubbing, cyanosis or edema
+Neuro: following commands
+
+Pertinent Results:
+Admit labs:
+[**2146-10-9**] 08:50PM   LIPASE-39
+[**2146-10-9**] 09:02PM   freeCa-1.19
+[**2146-10-9**] 09:02PM   GLUCOSE-113* LACTATE-1.9 NA+-143 K+-4.5
+CL--108 TCO2-28
+[**2146-10-9**] 09:02PM   TYPE-[**Last Name (un) **] PH-7.33* COMMENTS-GREEN TOP
+[**2146-10-9**] 09:30PM URINE  AMORPH-RARE
+[**2146-10-9**] 09:30PM URINE  HYALINE-34*
+[**2146-10-9**] 09:30PM URINE  RBC-12* WBC-76* BACTERIA-FEW YEAST-FEW
+EPI-<1
+[**2146-10-9**] 09:30PM URINE  UHOLD-HOLD
+[**2146-10-9**] 09:30PM URINE  HOURS-RANDOM
+[**2146-10-9**] 09:35PM   PLT COUNT-906*
+[**2146-10-9**] 09:35PM   PLT COUNT-906*
+[**2146-10-9**] 10:58PM   O2 SAT-99
+[**2146-10-9**] 10:58PM   TYPE-ART TEMP-38.3 RATES-18/ TIDAL VOL-400
+PEEP-5 O2-100 PO2-252* PCO2-69* PH-7.19* TOTAL CO2-28 BASE XS--3
+AADO2-397 REQ O2-69 INTUBATED-INTUBATED
+[**2146-10-10**] 03:00AM   CORTISOL-23.9*
+[**2146-10-10**] 03:00AM   ALT(SGPT)-47* AST(SGOT)-42* LD(LDH)-206 ALK
+PHOS-579* TOT BILI-0.6
+[**2146-10-10**] 03:00AM   ALT(SGPT)-47* AST(SGOT)-42* LD(LDH)-206 ALK
+PHOS-579* TOT BILI-0.6
+[**2146-10-10**] 03:50AM   FIBRINOGE-324
+[**2146-10-10**] 03:50AM   FIBRINOGE-324
+
+Discharge labs:
+[**2146-10-17**] 03:56AM BLOOD WBC-10.3 RBC-2.70* Hgb-8.4* Hct-25.9*
+MCV-96 MCH-31.1 MCHC-32.5 RDW-14.2 Plt Ct-656*
+[**2146-10-17**] 03:56AM BLOOD Glucose-104* UreaN-32* Creat-1.3* Na-142
+K-4.3 Cl-108 HCO3-28 AnGap-10
+[**2146-10-17**] 03:56AM BLOOD Calcium-8.4 Phos-3.4 Mg-2.1
+
+CT ABD & PELVIS WITH CONTRAST Study Date of [**2146-10-9**] 9:53 PM
+IMPRESSION:
+1.  Bilateral lower lobe pneumonia, with necrotic consolidation
+of the left lower lobe, and fluid versus soft tissue attenuation
+of the left lower lobe bronchus.  This may represent mucus
+plugging, or an obstructive lesion.  There is marked mediastinal
+lymph node enlargement in all visualized stations.
+2.  Small bilateral non-hemorrhagic pleural effusions.
+3.  Calcified pleural plaques reflect prior asbestos exposure.
+
+4.  Multiple abdominal drains, with no residual fluid collection
+or acute
+intra-abdominal pathology noted.
+
+[**2146-10-15**] Change of drains
+IMPRESSION:
+Successful exchange and repositioning of a 10 French PTBD,
+internal/external [**Month/Day/Year 19843**].
+
+[**2146-10-16**] Chest X-ray:
+IMPRESSION:
+1.  Left subclavian PICC line and tracheostomy tube remain in
+satisfactory
+position.  Overall, cardiac and mediastinal contour is difficult
+to assess
+given patient rotation on the current examination.  There
+continues to be
+bilateral patchy airspace opacities with a more confluent
+opacity at the left base, which may reflect multifocal
+pneumonia.  An element of superimposed edema cannot be entirely
+excluded as the pulmonary vasculature appears somewhat
+indistinct.  There is a layering left effusion and a smaller
+right effusion.  No pneumothorax.
+
+
+Brief Hospital Course:
+80 yo M with recent ex lap with repair of bile leak/enterotomy
+and placement of PTCB and PEG tube who presented from rehab with
+hypercarbic respiratory failure and altered mental status.
+.
+# Hypercarbic respiratory failure/septic shock: CT compatible
+with necrotizing pneumonia, enterobacter growing from the sputum
+as well as MRSA.  Due to witnessed aspiration event at rehab.
+Low compliance/high resistance on the vent. Started on
+vanc/zosyn for HCAP coverage now switched to vanc/cefepime and
+transiently on pressors.  Pt underwent tracheostomy on [**10-14**].
+Patient will go out on ID recommendations vanco for 21 days and
+cefepime for a total of 8 days. The patient should have weekly
+Chem7, vancomycin troughs, CBC, LFTs.
+.
+# Hypernatremia: Given free water replacement with D5W and
+corrected quickly.
+.
+# Eosinophilia:  Was up to 5.3% of 6.8 wbc. Question remained as
+to if this is medication-related due to zosyn, so this was
+exchanged for cefepime on [**10-15**].
+.
+# Recent bile leak s/p surgery: PTBD (percutaneous biliary [**Month/Year (2) 19843**]
+and JP [**Month/Year (2) 19843**] also in place) replaced by IR [**2146-10-15**] with
+improvement in alkaline phosphotase today. Surgery team
+continued to follow with no additional recommendations.
+
+# CKD:  His admission Cr is 1.3 which is at his recent baseline
+1.4
+
+# Nutrition: Continued on TPN, as tube feeds not viable at this
+time given aspiration occurred shortly after tubefeed
+initiation.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY
+2. Carbidopa-Levodopa (25-100) 1 TAB PO TID
+3. Pantoprazole 40 mg PO Q24H
+4. Metoprolol Tartrate 25 mg PO TID
+5. Lorazepam 0.5 mg PO Q8H:PRN anxiety
+6. Acetaminophen 650 mg PO Q6H:PRN pain
+7. Heparin 5000 UNIT SC TID
+
+
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain
+2. Carbidopa-Levodopa (25-100) 1 TAB PO TID
+3. Heparin 5000 UNIT SC TID
+4. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL [**Hospital1 **]
+5. Aspirin 325 mg PO DAILY
+6. Lorazepam 0.5 mg PO Q8H:PRN anxiety
+7. Metoprolol Tartrate 25 mg PO TID
+8. Pantoprazole 40 mg PO Q24H
+9. CefePIME 1 g IV Q12H
+10. Vancomycin 1000 mg IV Q 24H
+
+
+Discharge Dispositi

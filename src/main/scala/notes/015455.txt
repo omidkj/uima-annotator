@@ -1,0 +1,232 @@
+Admission Date:  [**2113-12-6**]              Discharge Date:   [**2113-12-8**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Diarrhea/Hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+[**Age over 90 **] year old male with DM, CKD, CAD, CHF (EF 25%) p/w acute on
+chronic renal failure and hypotension (SBP 50s).  He was being
+diuresed with Lasix 100 mg PO BID and zaroxolyn 5 mg PO BID at
+[**Hospital 100**] Rehab for CHF exacerbation with good urine output for 1.5
+weeks, but was noted to have rising creatinine starting [**12-1**]
+(2.0), which was up to 4.2 on [**2113-12-5**].  He also has had waxing
+and [**Doctor Last Name 688**] mental status x 1 week, different from his normal
+clear MS per his son.  [**Name (NI) 8389**] was placed the day prior to
+admission and the patient had only about 75ml of urine despite
+an 800cc fluid challenge.  A left midline was also placed on
+[**2113-12-5**].  He was given an additional 250cc fluid with no
+response.  He was transferred to [**Hospital1 18**] for further w/u of renal
+failure.
+
+Of note, he completed a course of Levofloxacin on [**2113-12-2**] for a
+RLL Pna.  He was noted to have loose stool on [**12-4**], with
+negative Cdiff toxin on [**2113-12-4**].
+
+Upon arrival to [**Hospital1 18**] ed, vitals were T98.7  BP 50s/palp, HR 62
+RR 17, 91% 6L NC.  Per [**Hospital 100**] Rehab his baseline BP is 120/60.
+A fresh foley was placed in the ED and about 700-800cc bloody
+urine returned.  U/A was postive for blood and moderate leuks.
+He received 1.5L NS and started on dopamine via a PICC line.  He
+received a dose of vanco and zosyn to cover broadly for sepsis.
+ He was sent for CT abdomen with oral contrast prior to
+admission to MICU.
+
+
+Past Medical History:
+DM2
+CKD, baseline cr 1.6
+CHF (EF 25%) [**8-/2113**])
+CAD, with at least 5 stents (done in [**State 108**])
+PPM since [**2105**] for sick sinus syndrome
+Restrictive lung dz (recent dx at HebReb), on 2L NC
+Pneumonia (last [**11/2113**])
+R cataract surgery.
+Remote hemorrhoid surgery
+s/p CCY
+Chronic LBP
+Constipation
+melanoma resection.
+h/o clear cell carcinoma upper lip
+Morbid obesity
+h/o fractured left shoulder with pin
+
+
+Social History:
+Living at [**Hospital 31844**] rehab since [**2113-10-5**] when not able to
+care for self any longer at [**Hospital3 **].  Was walking with
+walker x 2 yrs, but not as much lately (no more than 20 steps at
+[**Hospital1 1501**]).  Longtime smoker, 50-70 pack years, quit 48 yrs ago.
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS T96.3 BP 123/68, HR 64, RR 24 96% NRB
+Gen: arouses to voice, follows some commands
+HEENT: NC/AT, OP dry, could not assess neck veins [**1-6**] body
+habitus
+Lungs: bibasilar crackles [**12-7**] way up
+CV: RRR, nl S1S2, no M/R/G
+Abd: +BS, soft, ND/NT
+GU: foley with some blood around meatus
+Ext: trace LE edema, 1+ upper ext edema
+Neuro: arouses to voice, opens eyes on command.
+
+
+Pertinent Results:
+Labs:
+WBC 19.9  N:80 Band:6 L:5 M:9 E:0 Bas:0
+HGB 12.9
+HCT 39.0
+PLT 276
+PT: 15.2  PTT: 36.5  INR: 1.3
+
+Lactate 1.6
+Na 136
+K 4.5
+Cl 88
+HCO3 36
+BUN 85
+Cr 4.6
+Glu 191
+
+U/A:
+mod leuks, large blood, neg nitr
+>50 RBCs, 0 WBC, many bacteria, 0 epis
+
+Studies:
+CXR [**2113-12-6**]: Mild CHF; Despite the given history, a right-sided
+PICC is not seen.
+
+Abd x-ray [**2113-12-6**]: Non-obstructive bowel gas pattern with
+moderately dilated stomach.
+
+CT abd w/oral contrast only, [**2113-12-6**]:
+1.  Nonspecific inflammatory stranding and fascial thickening
+around the right kidney and proximal right ureter without
+hydronephrosis or stones.  Assessment for underlying infection
+or urothelial mass is significantly limited without IV contrast,
+and cannot be excluded.
+2.  Bilateral renal cysts.
+3.  Marked prostatic enlargement with evidence of chronic
+bladder outlet obstruction including bladder wall thickening and
+trabeculation.  Assessment for underlying bladder wall mass is
+limited without IV contrast and given the decompressed state of
+the bladder.
+4. Consolidation at the visualized lung bases, left greater than
+right, concerning for pneumonia/aspiration.
+5. Lipoma along the proximal right femoral metadiaphysis
+
+Micro
+Stool, Cdiff [**2113-12-4**] - negative
+Blood cultures  [**2113-12-6**] - pending
+Urine culture [**2113-12-6**] -
+PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------    32 R
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     8 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------    32 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     2 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+
+Brief Hospital Course:
+[**Age over 90 **] y.o. man with CAD, CHF, DM, p/w hypotension and acute on
+chronic renal failure.
+
+Hypotension: The patients hypotension was originally thought
+most likely secondary to sepsis.  He was started on
+vanco/cefepime/flagyl.  Suspected sources were urosepsis given
+retained urine (and positive UA) or colitis (cdiff) given recent
+abx and diarrhea.  The patient was hydrated and briefly on
+dopamine for hypotension.  This was quickly weaned off and the
+patient was volume resusitated.   His urine eventually grew
+Proteus sensitive to ceftriaxone (see results section for full
+sensitivies).  His vancomycin was discontinued.  He remains on
+flagyl for now until stool cultures are able to be sent (did not
+have BM while at [**Hospital1 18**]).
+
+Acute on chronic renal failure: Baseline cr 1.6.  The patient
+was admitted with a creatinine of 4.6.  He was likely pre-renal
+secondary over diuresis while at rehab and infection
+(urosepsis).  The patient creatinine was trending down at the
+time of discharge after volume resusitation.
+
+Urinary Retention: The patient had urinary retention at the time
+of admission and needed a foley placed.  His prostate was noted
+to be large on CT abdomen.  A foley was kept in at the time fo
+discharge.  He was started on proscar and will need follow up in
+the [**Hospital 159**] Clinic in [**12-6**] weeks.
+
+Altered mental status: likely multifactorial, including
+infection, toxic metabolic (uremia).  Was slowly improving at
+the time of discharge.
+
+CHF, ef 25%: Per [**Hospital1 1501**] records, dry weight around 260-264 lbs.
+Admission wt 255.  Bibasilar crackles are likely chronic.  His
+carvedilol, lisinopril, lasix, and metolazone were held on this
+admission because of his hypotension.  These should all be added
+back as tolerated.
+
+Medications on Admission:
+ASA 325 mg daily
+Carvedilol 12.5mg PO BID
+Lisinopril 2.5mg PO Daily
+Celexa 20mg PO daily
+Metolazone 5mg PO BID
+Clonazepam 0.5mg QHS (stopped [**2113-11-30**])
+Lasix 100mg PO BID (stopped [**2113-12-4**])
+Insulin 70/30 12 units daily at 0730
+Colace 250mg PO daily
+Senna 2 tabs PO QHS
+Sorbitol soln 70%, give 30ML PO BID
+RISS
+Tylenol 975mg TID at 0800, 1200, 1800
+Nystatin cream [**Hospital1 **] to groin
+Duoderm and Senicare to sacrum
+
+
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO at bedtime as
+needed.
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Celexa 20 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Ceftriaxone-Dextrose (Iso-osm) 1 gram/50 mL Piggyback Sig:
+One (1)  Intravenous Q24H (every 24 hours) for 10 days: day 1 =
+[**2113-12-6**].
+5. Metronidazole in NaCl (Iso-os) 500 mg/100 mL Piggyback Sig:
+Five Hundred (500) mg Intravenous Q8H (every 8 hours) for 14
+days: day 1 = [**2113-12-6**].
+6. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Colace 100 mg Capsule Sig: 2.5 Capsules PO once a day.
+8. insulin 70/30  Sig: Twelve (12) units  once a day.
+9. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours.
+10. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a da

@@ -1,0 +1,198 @@
+Admission Date:  [**2117-6-3**]              Discharge Date:   [**2117-6-10**]
+
+Date of Birth:  [**2038-4-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine / Ace Inhibitors / Chicken Flavor
+
+Attending:[**First Name3 (LF) 21990**]
+Chief Complaint:
+Hypothermia
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+79 yo woman with diabetes, coronary artery disease, chronic
+renal failure, hypertension presents to the ED from the [**First Name4 (NamePattern1) 1188**]
+[**Last Name (NamePattern1) **] with intense diaphoresis and generalized malaise since
+earlier this evening.  At the time her blood glucose was 339 but
+her temp was 86 F and she was brought to ED.  In the ED, patient
+found to be hypothermic (T 32 C), bradycardic (HR 40s), found to
+have + UA, and patient began having L-sided chest pain (EKG
+without ischemic changes).  Given bear-hugger, levoquin, and
+albuterol neb.
+     Of note, per patient's cardiologist, she has had a number
+of similar episodes in the past few weeks, all of which have
+resolved with no clear etiology.  Early in [**Month (only) 547**], she was
+admitted and ruled out for MI and PE. Late in [**Month (only) 547**] she was
+admitted for neck pain, nausea, diarrhea and was hypoglycemic.
+.
+ROS: +Chest pain--"pulsating" "pressure" [**11-8**] with some SOB and
+nausea, denies diaphoresis.  Resolved spontaneously in ED,
+recurred and resolved after 1 SL nitroglycerine.  +Decreased
+appetite  +Increased thirst x 2 months
+
+
+Past Medical History:
+Congestive Heart Failure
+Stroke
+TIA's
+Hallucinations
+Hypertension
+Coronary Artery Disease documented MI in [**2081**]
+Diabetes with nephropathy, retinopathy, neuropathy
+Glaucoma with bilateral blindness
+Chronic renal failure -baseline creat 2.1
+Anemia
+asthma
+Type IV RTA
+
+Social History:
+Pt lives at the [**Name (NI) 1188**] [**Last Name (NamePattern1) **], HCP is son [**Name (NI) **] [**Telephone/Fax (1) 61022**]
+[**Name2 (NI) 61023**]e EtOH abuse quit in her 40's, no smoking
+
+
+Family History:
+Mother alive with [**Name (NI) 2320**]
+sister, brother, and daughter with [**Name (NI) 2320**]
+Son with CVA
+
+
+Physical Exam:
+PE: VS 91  44  125/70  25  96% 3L
+GEN - Tearful, mildly dyspneic
+HEENT - ATNC, anicteric, MMdry
+NECK - Supple, unable to appreciated JVD given scar tissue
+HEART - Bradycardic, distant heart sounds
+LUNGS - Poor inspiratory effort, use of abdominal musculature,
+no wheezes appreciated
+ABD - Soft, obese, nt/nd, +BS
+EXT - Cool, palpalble peripheral pulses
+SKIN - diaphoretic, cool, burn scars to neck and upper chest
+NEURO - A&O to person, "home" "[**2117-6-3**]"
+
+Pertinent Results:
+[**2117-6-3**] 12:10AM URINE  BLOOD-MOD NITRITE-POS PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-MOD
+[**2117-6-3**] 12:10AM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 155**]-1.013
+[**2117-6-3**] 12:45AM   PLT COUNT-253
+[**2117-6-3**] 12:45AM   HYPOCHROM-3+
+[**2117-6-3**] 12:45AM   NEUTS-74.1* LYMPHS-20.9 MONOS-4.2 EOS-0.5
+BASOS-0.2
+[**2117-6-3**] 12:45AM   WBC-10.5 RBC-3.55* HGB-9.4* HCT-30.7* MCV-86
+MCH-26.4* MCHC-30.6* RDW-15.4
+[**2117-6-3**] 12:45AM   TSH-1.4
+[**2117-6-3**] 12:45AM   ACETONE-NEGATIVE OSMOLAL-316*
+[**2117-6-3**] 12:45AM   ALBUMIN-3.4 CALCIUM-9.4 PHOSPHATE-4.7*
+MAGNESIUM-2.2
+[**2117-6-3**] 12:45AM   CK-MB-NotDone cTropnT-<0.01
+[**2117-6-3**] 12:45AM   LIPASE-31
+[**2117-6-3**] 12:45AM   ALT(SGPT)-38 AST(SGOT)-32 CK(CPK)-61 ALK
+PHOS-87 AMYLASE-104* TOT BILI-0.3
+[**2117-6-3**] 12:45AM   GLUCOSE-160* UREA N-46* CREAT-1.7* SODIUM-145
+POTASSIUM-6.3* CHLORIDE-115* TOTAL CO2-23 ANION GAP-13
+[**2117-6-3**] 01:00AM   PT-12.5 PTT-81.3* INR(PT)-1.0
+[**2117-6-3**] 01:36AM   LACTATE-1.0 K+-6.1*
+[**2117-6-3**] 04:27AM   TYPE-[**Last Name (un) **]
+[**2117-6-3**] 04:30AM   PT-13.9* PTT-29.8 INR(PT)-1.3
+[**2117-6-3**] 04:30AM   PLT SMR-NORMAL PLT COUNT-220
+[**2117-6-3**] 04:30AM   HYPOCHROM-3+
+[**2117-6-3**] 04:30AM   NEUTS-74.3* BANDS-0 LYMPHS-21.4 MONOS-3.9
+EOS-0.3 BASOS-0.2
+[**2117-6-3**] 04:30AM   WBC-9.8 RBC-3.26* HGB-8.6* HCT-28.1* MCV-86
+MCH-26.4* MCHC-30.6* RDW-15.4
+[**2117-6-3**] 04:30AM   MAGNESIUM-2.0
+[**2117-6-3**] 04:30AM   CK-MB-NotDone cTropnT-<0.01
+[**2117-6-3**] 04:30AM   CK(CPK)-64
+[**2117-6-3**] 04:30AM   GLUCOSE-135* UREA N-42* CREAT-1.5*
+SODIUM-146* POTASSIUM-5.1 CHLORIDE-114* TOTAL CO2-25 ANION
+GAP-12
+[**2117-6-3**] 05:21AM   CORTISOL-24.6*
+[**2117-6-3**] 05:41AM   CORTISOL-26.2*
+[**2117-6-3**] 05:41AM   CALCIUM-8.7 PHOSPHATE-4.3
+.
+[**2117-6-3**] CXR
+The heart size and mediastinal contours are unchanged. The
+pulmonary vasculature appears unchanged, without evidence of
+pulmonary vascular congestion. No pleural effusion and no
+pneumothorax. No focal pulmonary parenchymal consolidation.
+Degenerative changes at the shoulder joints bilaterally.
+IMPRESSION: Stable radiographic appearance of the chest. No
+evidence of congestive heart failure.
+.
+[**2117-6-2**] EKG
+Baseline artifact. Sinus bradycardia 44. Left axis deviation.
+Left bundle-branch
+block. Compared to the previous tracing of [**2117-5-23**] no diagnostic
+change.
+.
+[**5-4**] CT Head
+No acute hemorrhage or mass effect.  No CT evidence of an acute
+major territorial infarction.
+.
+[**5-4**] V/Q Scan
+Low likelihood ratio for pulmonary embolism.
+.
+[**6-4**] MRI neg for stroke or mass
+.
+[**6-7**] Echo
+The left atrium is normal in size. Left ventricular wall
+thicknesses and
+cavity size are normal. There is moderate regional left
+ventricular systolic dysfunction with hypokinesis of the basal
+anterior septum and anterior wall, and akinesis of the
+mid-to-distal anterior wall, anterior septum and inferior
+wall... No masses or thrombi are seen in the left ventricle.
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The
+mitral valve leaflets are structurally normal. Mild to moderate
+([**1-31**]+) mitral regurgitation is seen. The pulmonary artery
+systolic pressure could not be determined. There is a
+trivial/physiologic pericardial effusion.
+IMPRESSION: Regional left ventricular systolic dysfunction c/w
+multivessel CAD. Mild-moderate mitral regurgitation.
+
+
+Brief Hospital Course:
+The patient presented hypothermic, bradycardic to the emergency
+department early morning on [**6-3**].  A femoral line was placed, and
+active external rewarming began.  The patient was afebrile but
+urinalysis was consistent with a urinary tract infection.  The
+patient was admitted to the medical intensive care unit because
+of concern for sepsis in light of her hypothermia, bradycardia,
+and infection picture.
+.
+The patient was stable in the intensive care unit on 2L oxygen
+by nasal cannula.  She had good urine output (greater than
+30cc/hr) in response to a 500cc normal saline bolus.  Active
+external rewarming was continued, and both temperature and heart
+rate rose to normal levels.  The patient's primary care provider
+felt that her hypothermia was due to profuse diaphoresis caused
+by bethanechol (a cholinergic medication she had taken for
+urinary retention).  Plans were made for discharge, but when the
+patient became febrile, she was transferred to the general
+medical service.   The patient was treated for her urinary tract
+infection with ceftriaxone, and the infection resolved.
+.
+However the morning of [**2117-6-5**] she had an episode of chest pain
+and shortness of breath.  Troponin T enzymes returned positive,
+indicating cardiac ischemia.  In consultation with cardiology
+and the patient, it was determined that the benefits of a
+cardiac catheterization would not outweigh the risks in this
+79-year-old woman with a number of co-morbidities.  She was
+managed medically with increased statin and beta blocker.  She
+was also kept on heparin gtt for 48 hours.  Echo demonstrated
+and EF of 30% likely [**3-3**] her STEMI.
+.
+The patient continued to have episodes of chest pain every
+morning with shortness of breath.  A CXR demonstrated failure
+and she was diuresed with lasix.  A BNP was 24,000.  The patient
+repsonds well to 40mg IV.  Her symptoms improved and she will be
+sent home on 60mg po lasix [**Month/Day (2) 24018**].  This should be titrated up or
+down based on he

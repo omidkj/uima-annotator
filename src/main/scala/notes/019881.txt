@@ -1,0 +1,212 @@
+Admission Date:  [**2199-9-24**]              Discharge Date:   [**2199-10-2**]
+
+Date of Birth:  [**2137-9-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1974**]
+Chief Complaint:
+fever/hypoxia
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+HPI: 62M with hx of schizophrenia, dementia, recurrent pneumonia
+ presents to the ER with worsening shortness of breath x 1 day.
+Per transfer notes, pt was found to be febrile this am to 101
+(rectal) with pulse of 103, RR 44 and O2 of 89% on 2L.  He was
+given a duoneb for wheezing and tylenol for the fever and
+transferred to [**Hospital1 18**].  Of note, pt was recently hospitalized at
+both [**Hospital1 2177**] and NEBH for pneumonia.  He was found down at his
+nursing home on [**8-16**] with a swollen right shoulder.  He was
+taken to [**Hospital1 2177**] and diagnosed with a RLL PNA and a right humeral
+neck fracture.  He was initially started on levaquin but then
+switched to Vancomycin for MRSA pneumonia.  He received 14 days
+of vancomycin through a L-sided PICC (last dose on [**2199-8-30**]).  A
+repeat CXR on [**9-4**] showed a persistent right basilar infiltrate
+and he was started on clindamycin.  On [**9-6**], pt was found to be
+lethargic with a temp of 101.7 and O2 sat of 82% on 2L.   He was
+then admitted to NEBH and started on linezolid.  This was
+continued for 14 days and finished on [**9-18**].  Also during this
+admission, pt had a PEG tube placed due to chronic dysphagia and
+dehydration (cr to 2.0).  He was discharged back to his nursing
+home on [**9-13**] and was doing well until the day prior to
+admission.
+.
+In the ER, pt was 88% on 6L.  He was given combivent nebs x 3,
+steroids, ceftriaxone/vanc(given hx of MRSA) and he improved to
+100% on 2L.  A CTA was done given his tachypnea and it showed no
+PE but bilateral pleural effusions with atelectasis vs
+infiltrate on the right.  It also showed his right humeral neck
+fracture.
+
+Past Medical History:
+* Dementia
+* Schizophrenia
+* hx of recurrent pneumonia, most recently treated in [**8-23**] with
+linezolid (finished on [**9-18**])
+* Insulin dependent diabetes
+* HTN
+* COPD/emphysema on 92-93% on 2L chronically
+* high cholesterol
+
+Social History:
+- lives at [**Hospital **] Health Care Center
+
+Family History:
+not obtainable [**12-20**] mental status
+
+Physical Exam:
+Exam: temp 101.2 --> 99, BP 128/89, HR 96, R 23, O2 98% on 2L
+--> 93% on RA, I/O: 2.2/320
+Gen: awake, tracking across the room with his eyes, nonverbal
+HEENT: MM dry, PERRL, EOMI
+Neck: rigid, no appreciable JVD
+CV: tachy, regular, no murmurs
+Chest: crackles throughout, no wheezes
+Abd: PEG tube in place, site appears clean/dry/intact;
+nontender, nondistended, +BS
+ext: no edema, 2+DP; rigid, increased tone in all ext
+neuro: nonverbal at baseline, rigid extremities, hyperreflexic
+R>L; upgoing toes bilaterally, not following commands
+
+Pertinent Results:
+CXR: Cardiomegaly.  Congestive heart failure.  The underlying
+infectious process cannot be excluded.
+.
+CTA chest:
+1.  No evidence of pulmonary embolism.
+2.  Bilateral pleural effusions with adjacent compressive
+atelectasis versus infiltrates.
+3.  Prominent bilateral hilar and subcarinal soft tissue likely
+represents lymphadenopathy.
+4.  Comminuted, impacted fracture of the right humeral neck,
+incompletely evaluated on this CT of the chest. Recommend plain
+films of right shoulder.
+5.  Cardiomegaly with moderate coronary artery atherosclerotic
+calcifications.
+-
+
+[**2199-9-24**] 11:20AM   WBC-7.1 RBC-3.34* HGB-10.0* HCT-29.0* MCV-87
+MCH-30.0 MCHC-34.5 RDW-18.5*
+[**2199-9-24**] 11:20AM   NEUTS-63 BANDS-0 LYMPHS-21 MONOS-13* EOS-2
+BASOS-0 ATYPS-1* METAS-0 MYELOS-0
+[**2199-9-24**] 11:20AM   PLT SMR-NORMAL PLT COUNT-150
+
+[**2199-9-24**] 11:20AM   GLUCOSE-241* UREA N-19 CREAT-1.0 SODIUM-136
+POTASSIUM-6.9* CHLORIDE-102 TOTAL CO2-28 ANION GAP-13
+[**2199-9-24**] 11:20AM   ALT(SGPT)-39 AST(SGOT)-104* LD(LDH)-737* ALK
+PHOS-130* AMYLASE-40 TOT BILI-0.4
+[**2199-9-24**] 11:20AM   LIPASE-27
+[**2199-9-24**] 11:20AM   ALBUMIN-3.1*
+
+[**2199-9-25**] 11:58 am SPUTUM      NASOTRACHEAL SUCTION.
+
+                            **FINAL REPORT [**2199-9-29**]**
+
+   GRAM STAIN (Final [**2199-9-26**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+
+   RESPIRATORY CULTURE (Final [**2199-9-29**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      KLEBSIELLA PNEUMONIAE.    RARE GROWTH.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+      YEAST.    RARE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------    16 I
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   0.5 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+
+
+Brief Hospital Course:
+1) RESP:  Pt presents with recently with recurring pneumonia in
+RLL s/p ~1 month of antibiotic treatment, presenting now with
+recurrent fevers, increased work of breathing and hypoxia.  (of
+note, at baseline, pt is 92-93% on 2L).  Ddx included new
+pneumonia, partially treated PNA over past month, aspiration
+PNA, loculated pleural effusion (although pt's effusions were
+not felt to be substantial effusion on bedside USN [**9-26**] AM).
+CHF and COPD flare were felt unlikely given lack of wheezing,
+good air movement, and impression that pt was hypovolemic.  Pt
+was rapidly tapered off of steroids.  PE unlikely given negative
+CTA.
+.
+Pt was put on empiric antibiotics with cefepime and vanco.
+Micro work up revealed klebsiella in sputum so pt was continued
+on cefepime only for a 7 day course.  With this, his fevers
+resolved.  His oxygenation improved as well.  He was ruled out
+for Tb with AFB sputum x 3 (negative).
+.
+CTA of chest did reveal lymphadenopathy.  Initial consideration
+was for bronch but given active pneumonia, pulmonary consult
+recommended waiting 6-8 weeks to see if lymphadenopathy resolves
+with resolution of pneumonia.  (Pt was seen by Dr. [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **] ([**Telephone/Fax (1) 513**]).  If lymphaden persistes, pt can be
+referred to pulm for possible bronchoscopy.
+.
+2) C DIFF:  Checked given fever and came back positive.  Started
+on flagyl.  Last day will of 2 week course will be [**10-10**].
+.
+3) CHF:  Pt did appear volume overloaded after initial ICU
+course and volume repletion.  Echo showed severely depressed EF
+of 20-25% and PA HTN, which were known previously.  Pt was
+periodically diuresed with lasix.  He was started on ACE-I,
+continued on beta blocker.  He was not discharged with any
+standing lasix.
+.
+4) Anemia:  Hct ranged between 23 and 30 while at NEBH.  Most
+recent hct from nursing home was 32.9 on [**9-18**].  During the last
+week of hospitalization, Hct stable in 29-30 range.  Restarted
+outpt iron.
+.
+5) Fracture of humerus: Appeared to be old (dating back to
+[**8-17**]); spoke with ortho [**9-25**] who recommended plain films which
+showed callus formation suggesting prior injury.  Pt can f/u
+with Dr. [**Last Name (STitle) **] of ortho ([**Telephone/Fax (1) 1228**]) after discharge.
+.
+6) Schizophrenia:  Continued on risperdal.
+.
+7) CODE STATUS: FULL
+.
+--- Contact: daughter [**Name (NI) 9619**] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 70250**] (c),
+[**Telephone/Fax (1) 70251**] (h)
+
+Medications on Admission:
+* ferrous sulfate 325mg [**Hospital1 **]
+* metoprolol 25mg [**Hospital1 **]
+* vicodin 1tab [**Hospital1 **]
+* Linezolid 600mg [**Hospital1 **] (last day [**9-18**])
+* combivent nebs q4hr prn
+* RISS
+* Bactroban to bilateral nares [**Hospital1 **] x 2 weeks (last day [**9-29**])
+* Trazodone 50mg qhs
+* Risperdal 2mg qhs
+* ASA 325mg qd
+* Lipitor 10mg qd
+* Colace 200mg qd
+
+Discharge Medications:
+1. Metoprol

@@ -1,0 +1,222 @@
+Admission Date:  [**2148-10-4**]              Discharge Date:   [**2148-10-23**]
+
+Date of Birth:  [**2085-7-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Iodine; Iodine Containing / Trileptal / Dilantin
+
+Attending:[**First Name3 (LF) 8388**]
+Chief Complaint:
+Hypotension, tachycardia
+
+Major Surgical or Invasive Procedure:
+Diagnostic Paracentesis
+Therapeutic Paracentesis
+
+History of Present Illness:
+Ms. [**Known lastname 92802**] is a 63 year old lady with a history of
+polycystic kidney disease and resulting nephrectomies and end
+stage liver disease. She presented to the ED today at the
+request of her nephrologist ([**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4883**]) after an episode of
+hypotension to the 60s systolic yesterday at dialysis. The
+patient reports consistently low blood pressures in ths 60s-100s
+systolic. Of note, the patient was found to have a clot in her
+RUE fistula yesterday morning and had temporary HD access placed
+yesterday evening without complication.
+In the ED, initial vs were: 97.9 120 60/p 22. A diagnostic
+paracentesis was performed. The patient received a 250mL bolus
+of NS for SBP in the 60s which did correct her to the 80s. She
+also received Vancomycin and Ceftriaxone (1g each) and 10mg of
+Decadron as a stress dose given her chronic steroid use.
+Transfer vitals: VS: 120 72/48 22 100%RA
+On arrival to the MICU, the patient appears quite comfortable.
+She complains of some abdominal discomfort (therapeutic
+paracentesis scheduled for today independently) and otherwise
+denies chest pain, dyspnea greater than baseline, changes in her
+chronically loose stools, or any symptoms of viral illness.
+Per initial Nephrology notes, the patient is normally
+hypotensive but has not been tachycardic in the past which
+prompted their concern.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath. Denied chest pain or
+tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation. No recent change in bowel or bladder habits. No
+dysuria. Denied arthralgias or myalgias.
+
+
+Past Medical History:
+Past Medical History (Per OMR, confirmed with patient):
+- [**Last Name (NamePattern1) 93249**] (autosomal dominant w renal/liver involvement, c/b [**Doctor Last Name **]
+
+aneurysmal bleed and ESRD)
+- multiple liver cysts
+- ESRD [**1-1**] [**Month/Day (2) 18048**] now s/p bilateral nephrectomies
+- subarachnoid hemorrhage 2/2 L MCA [**Doctor Last Name **] aneurysm s/p surgical
+
+clipping c/b peri-operative hemorrhagic stroke resulting in
+right hemiparesis([**2136**])
+- HTN
+- secondary hyperparathyroidism
+- anemia
+- acidosis
+- nephrolithiasis
+- stress fracture of the right ankle.
+- seizure disorder
+
+
+Social History:
+Lives w husband in [**Name (NI) 86**]. Ambulates w cane. Worked as a city
+planner.
+Smoking: denies
+EtOH: 1 glass of wine/day
+Drugs: denies
+
+
+Family History:
+Father and son with [**Name (NI) 18048**].
+F - died in his 80s, [**Name (NI) 18048**] and prostate cancer
+M - died at [**Age over 90 **] yrs of old age
+Sister w [**Name (NI) 11398**].
+
+
+Physical Exam:
+Vitals: T: 99.9 BP: 84/56 P: 119 R: 17 O2: 100% 2LNC
+General: Alert, oriented, some discomfort on deep breathes
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, lying flat, could not easily evaluate JVP, no LAD
+
+Lungs: Clear to auscultation anteriorly, difficulty with deep
+inspiration, unable to sit patient up for sufficient exam
+CV: S1 & S2 fast without murmur.
+Abdomen: Distended, tense with signs of previous paracentesis.
+Bowel sounds present. Prominent spleen and liver.
+Ext: R Subclavian/IJ HD line in place, no peripheral edema.
+
+
+Pertinent Results:
+Admission labs:
+
+[**2148-10-4**] 11:50AM   PLT COUNT-380
+[**2148-10-4**] 11:50AM   NEUTS-89.6* LYMPHS-4.7* MONOS-5.4 EOS-0.1
+BASOS-0.2
+[**2148-10-4**] 11:50AM   WBC-8.9 RBC-3.55* HGB-9.8* HCT-34.1* MCV-96
+MCH-27.6 MCHC-28.7* RDW-16.5*
+[**2148-10-4**] 11:50AM   CK-MB-NotDone
+[**2148-10-4**] 11:50AM   cTropnT-0.90*
+[**2148-10-4**] 11:50AM   LIPASE-27
+[**2148-10-4**] 11:50AM   ALT(SGPT)-18 AST(SGOT)-20 CK(CPK)-39 ALK
+PHOS-168* TOT BILI-1.3
+[**2148-10-4**] 11:50AM   estGFR-Using this
+[**2148-10-4**] 11:50AM   GLUCOSE-111* UREA N-40* CREAT-3.6* SODIUM-139
+POTASSIUM-4.4 CHLORIDE-95* TOTAL CO2-29 ANION GAP-19
+[**2148-10-4**] 12:02PM   LACTATE-3.6*
+[**2148-10-4**] 12:02PM   COMMENTS-GREEN TOP
+[**2148-10-4**] 01:06PM   PT-15.6* PTT-33.2 INR(PT)-1.4*
+[**2148-10-4**] 01:20PM ASCITES  WBC-9000* RBC-1100* POLYS-80*
+LYMPHS-1* MONOS-0 MACROPHAG-19*
+[**2148-10-4**] 01:20PM ASCITES  TOT PROT-2.7 GLUCOSE-71 LD(LDH)-171
+ALBUMIN-1.5
+[**2148-10-4**] 07:59PM   PT-17.3* PTT-33.3 INR(PT)-1.6*
+[**2148-10-4**] 07:59PM   PLT COUNT-309
+[**2148-10-4**] 07:59PM   WBC-7.2 RBC-2.69* HGB-7.6* HCT-25.3*# MCV-94
+MCH-28.4 MCHC-30.1* RDW-17.8*
+[**2148-10-4**] 07:59PM   ALBUMIN-4.9* CALCIUM-9.0 PHOSPHATE-3.5
+MAGNESIUM-2.2
+[**2148-10-4**] 07:59PM   CK-MB-4 cTropnT-0.62*
+[**2148-10-4**] 07:59PM   GLUCOSE-125* UREA N-46* CREAT-3.9* SODIUM-138
+POTASSIUM-4.4 CHLORIDE-92* TOTAL CO2-26 ANION GAP-24*
+[**2148-10-4**] 10:55PM   HCT-25.8*
+=
+=
+=
+=
+=
+================================================================
+DISCHARGE LABS
+PITUITARY TSH
+[**2148-10-22**] 07:20AM    26*
+TSH ADDED 10;40AM
+THYROID Free T4
+[**2148-10-22**] 07:20AM    1.1
+
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2148-10-23**] 07:00AM    14.7* 2.54* 7.1* 23.1* 91 27.9 30.7*
+18.0* 379
+RENAL & GLUCOSE     Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2148-10-23**] 07:00AM    108* 56* 4.1* 136 5.2* 95* 28 18
+
+MICRO:
+
+[**2148-10-4**] Blood culture: STAPH AUREUS COAG +.
+         LINEZOLID :PENDING.
+         DAPTOMYCIN : PENDING.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+ Anaerobic Bottle Gram Stain (Final [**2148-10-5**]): GRAM POSITIVE
+COCCI IN CLUSTERS.
+
+-[**2148-10-4**] Peritoneal Fluid Culture:
+GRAM STAIN (Final [**2148-10-4**]): 3+ PMNs. No microorganisms seen.
+FLUID CULTURE (Final [**2148-10-7**]): STAPH AUREUS COAG +. SPARSE
+GROWTH.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+ ANAEROBIC CULTURE (Final [**2148-10-8**]):    NO ANAEROBES ISOLATED.
+
+-[**2148-10-9**] Peritoneal Fluid:
+GRAM STAIN (Final [**2148-10-9**]):
+ 4+   (>10 per 1000X FIELD):  POLYMORPHONUCLEAR LEUKOCYTES.
+ 2+   (1-5 per 1000X FIELD):  GRAM POSITIVE COCCI. IN PAIRS AND
+CLUSTERS.
+FLUID CULTURE (Final [**2148-10-12**]): STAPH AUREUS COAG +. SPARSE
+GROWTH.
+         SENSITIVITIES PERFORMED ON CULTURE # 284-9889S [**2148-10-4**].
+
+ANAEROBIC CULTURE (Final [**2148-10-13**]):    NO ANAEROBES ISOLATED.
+
+-[**2148-10-10**] Peritoneal Fluid:
+GRAM STAIN (Final [**2148-10-10**]):
+ 4+   (>10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES.
+ 2+   (1-5 per 1000X FIELD): GRAM POSITIVE COCCI IN PAIRS.
+FLUID CULTURE (Final [**2148-10-13**]): STAPH AUREUS COAG +.    SPARSE
+GROWTH.
+         SENSITIVITIES PERFORMED ON CULTURE # 284-9889S [**2148-10-4**].
+
+ANAEROBIC CULTURE (Final [**2148-10-14**]):    NO ANAEROBES ISOLATED.
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+-[**2148-10-10**] Mycolytic Blood Culture:
+BLOOD/FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+BLOOD/AFB CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+-[**2148-10-13**] Peritoneal Fluid:
+GRAM STAIN (Final [**2148-10-13**]):
+ 4+   (>10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES.
+ 1+    (<1 per 1000X FIELD): GRAM POSITIVE COCCI IN PAIRS IN
+CLUSTERS.
+FLUID CULTURE (Final [**2148-10-16**]): STAPH A

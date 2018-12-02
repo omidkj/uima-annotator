@@ -1,0 +1,223 @@
+Admission Date:  [**2179-5-11**]              Discharge Date:   [**2179-5-19**]
+
+Date of Birth:  [**2099-2-23**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Ivp Dye, Iodine Containing
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2179-5-13**]  Mitral Valve repair (30 mm [**Company 1543**] ring)/ Ligation of
+left atrial appendage
+
+History of Present Illness:
+80 yo male with known mitral regurgitation and recent stenting
+of RCA in [**3-22**]. Continues to have severe dyspnea, and was
+referred for mitral valve repair vs. replacement.
+
+Past Medical History:
+mitral regurgitation
+coronary artery disease s/p RCA stenting [**3-22**]
+premature vent. contractions with ventricular tachycardia
+hypertension
+chronic diastolic heart failure
+prostate cancer
+obstructive sleep apnea
+glaucoma
+arthritis
+chronic back pain
+? Parkinson's disease
+
+Social History:
+lives alone, widowed
+occasional ETOH use
+remote cigar use
+works as a part-time headhunter
+
+Family History:
+no premature CAD
+
+Physical Exam:
+98% RA sat  146/79  HR 70-90 SR, frequent PVCs, occ. runs of
+VTach
+RR 18-22   T 98.4
+98.1 kg  73"
+NAd
+skin /HEENT unremarkable
+elevated JVP neck supple, full ROM, no carotid bruits
+appreciated
+CTAB
+Irregular, [**5-17**] holosystolic murmur radiates to precordium
+mild hepatomegaly, soft NT, ND
+warm, well-perfused, no edema
+no varicosities noted
+neuro grossly intact
+2+ bil. fems/ radials
+1+ bil. DP/PTs
+
+Pertinent Results:
+[**2179-5-19**] 06:00AM BLOOD Hct-28.9*
+[**2179-5-18**] 05:40AM BLOOD WBC-6.2 RBC-3.01* Hgb-9.9* Hct-29.0*
+MCV-97 MCH-32.8* MCHC-34.0 RDW-13.4 Plt Ct-196
+[**2179-5-11**] 05:58PM BLOOD WBC-5.4 RBC-4.28* Hgb-13.4* Hct-40.6
+MCV-95 MCH-31.4 MCHC-33.1 RDW-14.0 Plt Ct-162
+[**2179-5-18**] 05:40AM BLOOD Plt Ct-196
+[**2179-5-13**] 11:56AM BLOOD PT-15.5* PTT-41.6* INR(PT)-1.4*
+[**2179-5-11**] 05:58PM BLOOD PT-14.6* PTT-26.5 INR(PT)-1.3*
+[**2179-5-11**] 05:58PM BLOOD Plt Ct-162
+[**2179-5-19**] 06:00AM BLOOD Glucose-94 UreaN-37* Creat-1.6* Na-136
+K-5.1 Cl-101 HCO3-23 AnGap-17
+[**2179-5-18**] 05:40AM BLOOD Glucose-89 UreaN-34* Creat-1.3* Na-137
+K-4.9 Cl-103 HCO3-25 AnGap-14
+[**2179-5-11**] 05:58PM BLOOD Glucose-113* UreaN-31* Creat-1.4* Na-141
+K-4.5 Cl-107 HCO3-26 AnGap-13
+[**2179-5-11**] 05:58PM BLOOD ALT-23 AST-26 CK(CPK)-189* AlkPhos-68
+Amylase-42 TotBili-0.3
+[**2179-5-11**] 05:58PM BLOOD Lipase-36
+[**2179-5-11**] 05:58PM BLOOD CK-MB-8
+[**2179-5-19**] 06:00AM BLOOD Phos-4.7*# Mg-2.5
+[**2179-5-11**] 05:58PM BLOOD %HbA1c-5.8
+
+[**Known lastname **], [**Known firstname 396**]       [**Hospital1 18**] [**Numeric Identifier 92143**]Portable TTE
+(Complete) Done [**2179-5-17**] at 2:25:44 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2099-2-23**]
+Age (years): 80 M  Hgt (in): 73
+BP (mm Hg): 112/60  Wgt (lb): 213
+HR (bpm): 70  BSA (m2): 2.21 m2
+Indication: S/p mitral valve repair.
+ICD-9 Codes: 423.9, 424.1, 424.0
+Test Information
+Date/Time: [**2179-5-17**] at 14:25    Interpret MD: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4083**],
+MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1661**],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2009W008-0:41 Machine: Vivid [**8-18**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.2 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.4 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.3 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.8 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  4.0 cm
+Left Ventricle - Fractional Shortening:  0.31  >= 0.29
+Left Ventricle - Ejection Fraction:  >= 60%  >= 55%
+Aorta - Sinus Level:  *4.0 cm  <= 3.6 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.3 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT diam:  2.1 cm
+Mitral Valve - Mean Gradient:  3 mm Hg
+Mitral Valve - Pressure Half Time:  87 ms
+Mitral Valve - MVA (P [**2-12**] T):  2.5 cm2
+Mitral Valve - E Wave:  1.3 m/sec
+Mitral Valve - A Wave:  0.8 m/sec
+Mitral Valve - E/A ratio:  1.63
+Mitral Valve - E Wave deceleration time:  *287 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *32 to 36 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. No LA mass/thrombus (best
+excluded by TEE).
+
+LEFT VENTRICLE: Mild symmetric LVH. Top normal/borderline
+dilated LV cavity size. Normal regional LV systolic function.
+Overall normal LVEF (>55%). No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+Paradoxic septal motion consistent with prior cardiac surgery.
+
+AORTA: Mildly dilated aortic sinus. Normal ascending aorta
+diameter.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mitral
+valve annuloplasty ring. Well-seated mitral annular ring with
+normal gradient. Mild thickening of mitral valve chordae. No MR.
+
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to
+moderate [[**2-12**]+] TR. Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+
+Conclusions
+The left atrium is moderately dilated. No left atrial
+mass/thrombus seen (best excluded by transesophageal
+echocardiography). There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is top
+normal/borderline dilated. Regional left ventricular wall motion
+is normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. The aortic root is mildly dilated at the sinus
+level. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. Mild (1+) aortic regurgitation
+is seen. The mitral valve leaflets are mildly thickened. A
+mitral valve annuloplasty ring is present. The mitral annular
+ring appears well seated and is not obstructing flow. No mitral
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Normal functioning mitral valve ring. Mild pulmonary artery
+systolic hypertension. Dilated ascending aorta.
+Compared with the prior study (images reviewed) of [**2179-4-27**], the
+mitral valve has been repaired with a normal functioning mitral
+annular ring. The estimated pulmonary artery systolic pressure
+is higher.
+
+CLINICAL IMPLICATIONS:
+Based on [**2177**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis IS recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+  Electronically signed by [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4083**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2179-5-17**] 15:39
+
+[**Known lastname **],[**Known firstname 396**] [**Medical Record Number 92144**] M  80  [**2099-2-23**]
+
+Cardiology Report ECG Study Date of [**2179-5-16**]  7:46:18 AM
+
+
+Normal sinus rhythm with frequent ventricular couplets. Leftward
+axis.
+Except for the change in rhythm, compared to previous tracing of
+[**2179-5-15**],
+no diagnostic interval change. Compared to the previous tracing
+of [**2179-5-14**],
+except for the rhythm and taller voltage in the lateral
+precordial leads, no
+diagnostic interval change.
+TRACING #2
+
+
+Read by: [**Last Name (LF) **],[**First Name3 (LF) 125**] M.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+78 [**Telephone/Fax (3) 92145**]/453 77 -23 12
+
+
+
+Brief Hospital Course:
+Admitted preoperatively for brid

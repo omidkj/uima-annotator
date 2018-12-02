@@ -1,0 +1,213 @@
+Admission Date:  [**2187-12-17**]              Discharge Date:   [**2187-12-19**]
+
+Date of Birth:  [**2116-10-30**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Proxy[**Name (NI) 67216**] / Caffeine / Butalbital / Barbiturates / Xanthines
+
+Attending:[**First Name3 (LF) 330**]
+Chief Complaint:
+Transfer [**Hospital1 100**] MACU for hemodialysis line replacement for
+poorly functioning catheter
+
+Major Surgical or Invasive Procedure:
+s/p R subclavian tunnelled line removal
+s/p a new tunnelled hemodialysis line placement
+
+
+History of Present Illness:
+71yo F with ESRD on HD, respiratory failure s/p trach on vent,
+s/p PEG, COPD, recurrent aspiration PNA, and C.diff colitis is
+transferred from [**Hospital 100**] Rehab MACU for poorly functioning HD
+catheter and thus HD catheter change. She tolerated HD today
+well at [**Hospital 100**] rehab and removed 1.7kg. She has multiple medical
+problems as above, but all has been stable.
+.
+For respiratory failure, she is on pressure support and has had
+30 minutes trial of trach mask this past weekend which was
+stopped due to hypoxia. Rehab has been slowing weaning her from
+the vent. Pt is on PS 4/5/50%.
+.
+For PVD, pt has necrotic, dry gangrene that is auto-amputating.
+Getting pain meds/prn and lidoderm patch.
+.
+For AF, pt is on digoxin. Last level checked on [**12-12**] was 0.8. Pt
+is not anticoagulated.
+
+
+Past Medical History:
+#. ESRD on HD of unclear etiology. ? d/t chronic pyelo and
+uncontrolled HTN.  Outpatient nephrologist: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1366**]
+#. Respiratory failure s/p trach in [**2-11**], on vent dependent
+chronically on PS at rehab with currently underogoing trach
+collar trials.
+#. COPD
+#. Recurrent aspiration PNA
+#. PVD, s/p R CEA, s/p bilateral iliac stents and gangrene of
+toew bilaterally and autoamputating
+#. HTN
+#. Hypothyroidism
+#. h/o GI bleeding
+#. CHF no previous echo here, so unclear [**Name2 (NI) **]
+#. h/o Cholesterol emboli syndrome
+#. Paroxysmal AF
+# Anemia
+# s/p multiple embolic CVA
+# Dementia
+# Adenocarcinoma of the colon s/p resection in [**2186**]
+# s/p PEG
+# h/o MRSA colonization
+# h/o VRE infection
+# C.diff colitis
+
+
+Social History:
+Per rehab d/c summary, she has been bouncing around various long
+term care facilities since her tracheostomy and vent dependency.
+She is divorced. She is a former smoker 3 packs per day x 13
+years. Occasionally used alcohol. Has 3 adult children. Her son
+[**Name (NI) **] is her health care proxy and is very involved in her
+care.
+
+Family History:
+Per rehab d/c summary, her parents lived until old age. One
+brother died of an MI in his 60s. Another brother with
+schizophrenia. Son with hypothyroidism
+
+Physical Exam:
+VS: 98.7, 84, 110/50, 28, 95% on PS 5/5, 50%, Tv 525
+GEN: Awake, opens eyes spontaneously. Does not follow commands.
+
+HEENT: PERRL, cloudy cornea, Mouth open with dry tongue. no
+obvious OP lesions
+NECK: trached with collar
+CV: RRR, nl S1 and S2, no m/r/g
+PULM: CTA bilaterally, no wheezes/rhonchi/crackles.
+ABD: Soft, grimaces on palpation, mildly distended, active bowel
+sounds. No hepatosplenomegaly
+EXT: warm, no edema of LEs, no rashes, lidoderm patch on feet
+bilaterally, dry gangrenous toes bilaterally and auto-amputated
+toes on L. R great toe looks dry and auto-amputating. No signs
+of infection in any toes, however.
+NEURO: awake, alert and opens eyes spontaneously, but does not
+follow any commands.
+
+
+Pertinent Results:
+Admission labs:
+PT: 13.3  PTT: 35.7  INR: 1.2
+140  100  29
+---------------< 90
+3.8  28  2.5
+Ca: 9.2 Mg: 2.4 P: 3.4 D
+WBC: 7.3
+Hct 33.6
+Plt 284
+.
+PT: 13.7  PTT: 137.3  INR: 1.2
+.
+Hct: 33 - 34 - 31 - 32 - 31
+.
+IR REPORT:
+RADIOLOGISTS: The procedure was performed by Drs. [**Last Name (STitle) 9441**] and
+[**Name5 (PTitle) 2492**], the attending radiologist who was present and
+supervising throughout.
+PROCEDURE AND FINDINGS: After informed consent was obtained, the
+patient was placed supine on the angiography table and the right
+neck and chest were prepped and draped in the standard sterile
+fashion. After using approximately 10 cc of 1% lidocaine along
+the subcutaneous tract of the previously placed hemodialysis
+catheter, blunt dissection was performed until the cuff of the
+catheter was completely exposed. Then two super stiff glide
+wires were advanced through each one of the two lumens of the
+previously placed catheter into the inferior vena cava and right
+atrium under fluoroscopic guidance. The previously placed
+catheter was then removed and a new double-lumen hemodialysis
+catheter was advanced over both wires and the tip was positioned
+into the right atrium under fluoroscopic guidance. The wires
+were removed, the entry site on the skin was sutured with Vicryl
+suture, and the catheter was secured to the skin with 2-0 silk
+sutures. Catheter was then flushed, hep locked and a sterile
+dressing was applied. The patient tolerated the procedure well
+without immediate complications.
+Moderate sedation was provided by administering divided doses of
+75 mcg of fentanyl and 1 mg of versed throughout the total intra
+service time of 55 minutes during which the patient's
+hemodynamic parameters were continuously monitored.
+IMPRESSION: Successful replacement of a double-lumen
+hemodialysis catheter. Final fluoroscopic image of the chest
+demonstrates the tip of the catheter to be located in the right
+atrium approximately 2.0 cm below the tip of the previously
+placed catheter. The line is ready for use.
+
+
+Brief Hospital Course:
+71yo F with multiple chronic medical problems but stable
+admitted for a new HD catheter placement.  Brief hospital
+course:
+.
+# ESRD: Pt was admitted in a very stable condition.  She
+underwent HD with 1.7kg fluid removal at rehab prior to arrival
+to MICU. Her 'lytes were all wnl.  She was continued on her
+tums.  She was also given mucomyst per son's (HCP) request to
+preserve any remaining renal function she has.  She was also
+written for prn dilaudid for feet pain she has during HD after
+fluid/electrolytes shift.  The malfuncting RSC tunnelled line
+was removed and a new tunnelled line was placed by IR on
+[**2187-12-18**].  She received 1h HD on [**12-18**] to confirm that it is
+functioning.  She then received a more complete round of HD on
+[**12-19**] prior to transfer back to MACU.
+.
+# Anemia: hct was 33.3 at admission which is stable. Epogen can
+be continued during HD.   She had hematoma and bleeding at site
+of HD line after the procedure.  Pressure was applied and it
+stabilized.  Her HCT was followed serially and remained stable.
+She was hemodynamically stable.
+.
+# Respiratory failure s/p trach: Pt is being followed closely by
+Dr. [**Last Name (STitle) **]. Vent satting at [**Hospital **] rehab is PS 4/5/50%, rr25-30,
+Vt350-402 satting 93-95%. Pt was placed on PS 5/5/50% and O2 sat
+was in 93-95%.  Trach collar trial can be restarted at the
+rehab.  Her COPD inhalers were continued.
+- Continue pressure support
+- trach collar trial as tolerated
+- continue nebs for COPD
+.
+# C.diff colitis: continued PO vanc but [**Hospital1 18**] does not have
+lactobacillus, so it was not given. Lactobacillus can be
+continued at rehab.
+.
+# Hypothyroidism: Continued synthroid
+.
+# Atrial Fibrillation: Pt was in sinus rhythm.  We continued
+digoxin every other day, recent digoxin level was 0.8 at the
+rehab.  Pt was not started on anticoagulation as she was not on
+it as outpatient.
+.
+# PVD: Followed by vascular surgery at rehab. dry gangrene of
+toes and auto-amputating.  Continued wound care with betadine
+and dry dressing and lidoderm patch on the feet and
+oxycodone/prn for pain control.
+.
+# Decub ulcer: Followed by wound care team at rehab. Frequent
+turns and [**Doctor First Name **] air bed.
+.
+# Pruritis: [**3-9**] previous fentanyl. Continued benadryl/prn
+.
+# FEN: Continued g-tube feeding with Nepro at 35cc/hr with [**Hospital1 **]
+Prostat.
+.
+# PPX: Pt did receive a flu vaccine at rehab. PPI. No bowel
+regimen given c.diff diarrhea.
+.
+# DNR per rehab d/c summary, confirmed with Dr. [**Last Name (STitle) 67217**]/HCP at
+rehab
+.
+# Dispo: back to MACU
+
+Medications on Admission:
+1. Hydromophone 0.75mg q2h/prn during HD sessions only
+2. Vancomycin 125mg QID GT
+3. Oxycodone 2.5mg q6h/prn GT

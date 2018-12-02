@@ -1,0 +1,196 @@
+Admission Date:  [**2134-9-27**]              Discharge Date:   [**2134-10-9**]
+
+Date of Birth:  [**2066-11-25**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 371**]
+Chief Complaint:
+Abdominal pain.
+
+Major Surgical or Invasive Procedure:
+[**2134-9-28**]:
+Right hemicolectomy with end ileostomy and mucous fistula.
+
+[**2134-9-30**]:
+Cardioversion.
+
+
+History of Present Illness:
+67 year old male was transferred to [**Hospital1 18**] from [**Hospital3 19345**] where he was admitted on [**2134-9-22**] for bilateral UE pain.
+Approximately 2 weeks ago he received IM Vidaza for his MDS and
+then subsequently developed bilateral upper extremity cellulitis
+and blistering at the injection sites. While hospitalized, his
+abdomen slowly became more distended and tender. WBC count has
+trended upward (12 --> 26). Over the past 24 hrs he was also
+found to be in atrial fibrillation and was transferred to [**Hospital1 18**]
+this morning for further care. On presentation to the MICU, his
+abdomen was markedly distended and tender, and he was intubated
+for respiratory distress. OG placed and 200 cc of bile returned.
+
+Past Medical History:
+Myelodysplastic syndrome, Carpal tunnel syndrome, COPD.
+
+Past Surgical History:
+L knee surgery, back surgery.
+
+Social History:
+Retired, used to work for a chemical company. History of
+asbestos and other chemical exposure. He has a history of
+significant alcohol use, which he stopped approximately seven
+years ago. 60 pack year history of tobacco use.
+
+Family History:
+Sister - died of scleroderma; Another sister - died of unclear
+etiology; Brother - died of EtOH abuse; Daughter with Marfan's;
+Two brothers are alive and well; Mother - died of lung cancer;
+Father - died in an MVC.
+
+Physical Exam:
+97.7  137 (irregular) 142/72  24   97%  CMV .6/500/16/5
+Intubated, OG tube in place draining bile
+PERRL, EOMI, anicteric
+Tachycardic, irregularly irregular
+Lungs CTAB
+Abdomen soft, distended, tympanitic, mildly tender in RUQ and
+RLQ without obvious guarding. Fullness on right side of upper
+abdomen, ? liver edge. Old supra-umbilical scar well healed. No
+hernias.; midline laparotomy wound with steri strips; 4cm area
+open wound w dry packing in place at inferior aspect midline
+laparotomy wound; +staple erythema underlying steri-strips;
++mucous fistula in RUQ
+Bilateral upper extremities with erythema and blistering with
+skin sloughing, L>R. LUE with induration but no obvious
+fluctuance.
+LE warm, trace edema
+Rectal: Guiac positive, soft brown stool
+
+Pertinent Results:
+[**2134-9-27**] 08:21PM   WBC-30.2*# RBC-2.83* HGB-9.7* HCT-29.1*
+MCV-103* MCH-34.2* MCHC-33.2 RDW-21.1*
+[**2134-9-27**] 08:21PM   NEUTS-90.5* LYMPHS-5.6* MONOS-3.5 EOS-0
+BASOS-0.4
+[**2134-9-27**] 08:21PM   PLT COUNT-102*#
+[**2134-9-27**] 08:21PM   SED RATE-66*
+[**2134-9-27**] 08:21PM   CRP-188.9*
+[**2134-9-27**] 08:21PM   GLUCOSE-192* UREA N-71* CREAT-1.1 SODIUM-143
+POTASSIUM-4.1 CHLORIDE-112* TOTAL CO2-23 ANION GAP-12
+[**2134-9-27**] 08:21PM   CALCIUM-8.4 PHOSPHATE-4.4# MAGNESIUM-3.2*
+[**2134-9-27**] 08:21PM   ALT(SGPT)-40 AST(SGOT)-37 CK(CPK)-141 ALK
+PHOS-148* TOT BILI-1.3
+[**2134-9-27**] 08:32PM   LACTATE-1.5 K+-4.3
+[**2134-9-27**] 10:51PM   PT-43.7* PTT-40.2* INR(PT)-4.7*
+
+CT abdomen [**2134-9-27**] at LGH showed:
+Dilated small bowel loops without a clear transition point.
+Several streaks of air in the right colon suspicious for
+pneumatosis.
+
+MRI LUE [**2134-9-25**] at LGH showed:
+Extensive SC edema which may represent cellulitis. Extensive
+edema within the muscles of the posterior compartment of the LUE
+may represent myositis. No abscess.
+
+CT abdomen/pelvis [**2134-9-28**] at [**Hospital1 18**] showed:
+1. Findings of diffuse small bowel dilatation up to 4.5 cm with
+segments of decreased bowel wall enhancement, pneumatosis of the
+small bowel and cecum, mesenteric edema, free fluid and celiac
+axis origin stenosis concerning for ischemic small and right
+sided large bowel.
+2. Diverticulosis of the descending and sigmoid colon without
+evidence of diverticulitis.
+3. Complex small pericardial effusion might represent
+hemopericardium.
+
+[**2134-9-28**] 2:10 pm SWAB      PERITONEAL.
+
+                            **FINAL REPORT [**2134-10-4**]**
+
+   GRAM STAIN (Final [**2134-9-28**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+
+   WOUND CULTURE (Final [**2134-10-4**]):
+      ENTEROCOCCUS SP..    SPARSE GROWTH.
+         DR [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] ([**Numeric Identifier 14013**]) REQUESTED SENSITIVITIES TO
+DAPTOMYCIN
+         [**2134-10-2**].
+         SENSITIVE TO Daptomycin MIC OF 4 MCG/ML, Sensitivity
+testing
+         performed by Etest.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------  =>32 R
+DAPTOMYCIN------------       S
+LINEZOLID-------------     2 S
+PENICILLIN G----------  =>64 R
+VANCOMYCIN------------  =>32 R
+
+   ANAEROBIC CULTURE (Final [**2134-10-2**]):    NO ANAEROBES ISOLATED.
+
+TTE [**2134-9-29**] showed:
+The left atrium is moderately dilated. The right atrium is
+moderately dilated. There is mild global left ventricular
+hypokinesis (LVEF = 45-50%). There is considerable beat-to-beat
+variability of the left ventricular ejection fraction due to an
+irregular rhythm/premature beats. Right ventricular chamber size
+and free wall motion are normal. The aortic root is mildly
+dilated at the sinus level. The ascending aorta is mildly
+dilated. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. No masses or vegetations are
+seen on the aortic valve, but cannot be fully excluded due to
+suboptimal image quality. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. There is a probable
+vegetation on the mitral valve. Mild to moderate ([**12-19**]+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. No masses or vegetations are seen on the tricuspid
+valve, but cannot be fully excluded due to suboptimal image
+quality. There is borderline pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+IMPRESSION: Mild global LV hypokinesis. There may be a small
+mass on the posterior leaflet of the mitral valve - best seen on
+image #45. This appears to move back and forth through the plane
+of the valve. It could be a scallop of the mitral valve or an
+acoustic artifact or a small vegetation. TEE would help to
+clarify, if clinically indicated. Mild to moderate mitral
+regurgitation is seen.
+
+TEE [**2134-9-30**] showed:
+No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. A patent foramen ovale is present
+with transition of agitated saline bubbles from the right to
+left atrium at rest. Overall left ventricular systolic function
+is low normal (LVEF 50%) with mild global free wall hypokinesis.
+There are simple atheroma in the aortic arch and descending
+thoracic aorta. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion. No masses or
+vegetations are seen on the aortic valve. No aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. No mass or vegetation is seen on the mitral
+valve. Mild (1+) mitral regurgitation is seen.
+IMPRESSION: No atrial thrombus seen. No vegetation/ abscess
+seen. Patent foramen ovale. Low-normal global left ventricular
+function.
+
+RUQ US [**2134-10-1**] showed:
+Gallbladder sludge without evidence of acute cholecystitis.
+
+CT LUE [**2134-10-1**] showed:
+1. Diffuse subcutaneous edema and skin thickening is most
+consistent with cellulitis. No subcutaneous emphysema.
+2. Fluid along the superficial fascial planes of the biceps and
+brachialis muscles. No deeper fluid or organized fluid
+collections.
+3. Degenerative changes of the left shoulder.
+4. Bilateral pleural effusions, with collapse of left lower lobe
+and atelectasis of the right lower lobe, incompletely evaluated.
+5. Small peric

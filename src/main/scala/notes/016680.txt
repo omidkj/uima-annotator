@@ -1,0 +1,212 @@
+Admission Date:  [**2152-1-11**]              Discharge Date:   [**2152-1-26**]
+
+Date of Birth:  [**2071-7-8**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+Aortic Valve Replacement (21mm St. [**Male First Name (un) 923**] porcine )& coronary
+artery bypass grafts x 4(LIMA-LAD, SVG-Dg, SVG-OM, SVG-RCA) [**1-17**]
+
+
+History of Present Illness:
+The patient is an 80 year old male who, while ascending a [**Doctor Last Name **],
+suddenly felt shortness of breath, diaphoresis and palpitations.
+ He presented to the ED at an outside hospital, was admitted and
+ruled out for MI.  He was transferred to [**Hospital1 18**] where cardiac
+catheterization and coronary angiography revealed three vessel
+coronary artery disease.  Echo revealed aortic stenosis.  The
+patient did receive Plavix on [**2152-1-11**].  He was admitted for
+plavix washout prior to surgical revascularization and aortic
+valve replacement.
+
+Past Medical History:
+CAD
+hypertension
+History of lacunar infarction with mild residual right
+hemiparesis [**2131**]
+History of prostate cancer [**2133**]
+Urinary incontinence
+Intention tremor of the right hand
+Hypercholesterolemia
+Knee replacement on left
+gastroesophageal reflux disease
+hiatal hernia
+TIA, CVA [**2133**]
+Acute systolic heart failure
+
+PAST SURGICAL HISTORY: Radical prostatectomy [**2136**]. Left total
+knee replacement approximately 30 years ago.
+
+
+Social History:
+tobacco: 40 pack year hx, quit [**2123**]
+alcohol: 1 beer/month
+lives alone
+retired curtain store owner
+
+Family History:
+Mother died at 79 of MI, father died 80 renal disease.
+
+Physical Exam:
+VS: 97.6,  104/60, 18
+Gen: NAD
+Skin: unremarkable
+HEENT: pupils- R 3mm, L 4mm round and reactive to light
+Neck: supple with FROM, no LAD
+Chest: lungs CTAB
+Heart: RRR, 2/6 systolic murmur
+Abd: soft, non-tender, non-distended, +bowel sounds
+Extremities: warm, no edema
+Neuro: A+O x 3, strength 5/5 throughout x [**5-15**] Rhand
+
+
+Pertinent Results:
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 28162**], [**Known firstname 870**]       [**Hospital1 18**] [**Numeric Identifier 28163**]
+(Complete) Done [**2152-1-17**] at 11:41:50 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2071-7-8**]
+Age (years): 80 M  Hgt (in): 69
+BP (mm Hg): 146/53  Wgt (lb): 185
+HR (bpm): 67  BSA (m2): 2.00 m2
+Indication: intraop CABG AVR. Evaluate wall motion, valves,
+aortic contours
+ICD-9 Codes: 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2152-1-17**] at 11:41    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine: ie33 new
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.1 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.3 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.3 m/s
+Left Atrium - Peak Pulm Vein D:  0.3 m/s
+Left Atrium - Peak Pulm Vein A:  0.1 m/s  < 0.4 m/s
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.9 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  4.2 cm
+Left Ventricle - Fractional Shortening:  *0.14  >= 0.29
+Left Ventricle - Ejection Fraction:  40% to 50%  >= 55%
+Left Ventricle - Stroke Volume:  81 ml/beat
+Left Ventricle - Cardiac Output:  5.46 L/min
+Left Ventricle - Cardiac Index:  2.73  >= 2.0 L/min/M2
+Left Ventricle - Lateral Peak E':  *0.02 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *45  < 15
+Aorta - Annulus:  2.5 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.0 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.7 cm  <= 3.0 cm
+Aorta - Ascending:  2.9 cm  <= 3.4 cm
+Aorta - Arch:  2.5 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.4 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *2.2 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *20 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  11 mm Hg
+Aortic Valve - LVOT pk vel:  0.60 m/sec
+Aortic Valve - LVOT VTI:  18
+Aortic Valve - LVOT diam:  2.4 cm
+Aortic Valve - Valve Area:  *1.2 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  0.9 m/sec
+Mitral Valve - Mean Gradient:  1 mm Hg
+Mitral Valve - Pressure Half Time:  99 ms
+Mitral Valve - MVA (P [**2-10**] T):  2.1 cm2
+Mitral Valve - E Wave:  0.9 m/sec
+Mitral Valve - A Wave:  0.6 m/sec
+Mitral Valve - E/A ratio:  1.50
+Mitral Valve - E Wave deceleration time:  *296 ms  140-250 ms
+
+Findings
+LEFT ATRIUM: Mild LA enlargement. Elongated LA. No mass/thrombus
+in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Lipomatous
+hypertrophy of the interatrial septum. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Mildly depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Normal aortic arch diameter. Simple atheroma in aortic arch.
+Normal descending aorta diameter. Simple atheroma in descending
+aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Moderately thickened
+aortic valve leaflets. Moderate AS (AoVA 1.0-1.2cm2) AR vena
+contracta is <0.3cm. Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. No MS. Mild to moderate ([**2-10**]+) MR.
+
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Mild PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+Conclusions
+Pre Bypass: The left atrium is mildly dilated. The left atrium
+is elongated. No mass/thrombus is seen in the left atrium or
+left atrial appendage. No atrial septal defect is seen by 2D or
+color Doppler. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is mildly depressed (LVEF= 45
+%). Right ventricular chamber size and free wall motion are
+normal. There are simple atheroma in the aortic arch. There are
+simple atheroma in the descending thoracic aorta. There are
+three aortic valve leaflets. The aortic valve leaflets are
+moderately thickened. There is moderate aortic valve stenosis
+(area 1.0-1.2cm2). Mild (1+) aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Mild to moderate
+([**2-10**]+) mitral regurgitation is seen.
+
+Post Bypass: Patient is A paced, on phyenylepherine and
+epinepherine infusions (.02 mcg/kg/min). Global biventricular
+function is unchanged. Septum appears mild- moderately
+hypokinetic initally, improving over time to mild septal
+hypokinesis. Other wall motion appears slightly improved. Mitral
+regurg begins as 2+, then becomes trace. A bioprosthetic aortic
+valve #21 is insitu wihtout perivalvular leaks or AI. Peak
+gradient 19, mean 7 mm hg. Aortic contours intact. Remaing exam
+is unchanged. All findings discussed with surgeons at the time
+of the exam.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2152-1-17**] 15:31
+
+
+
+Brief Hospital Course:
+The patient was admitted for plavix washout and surgical
+management of his coronary artery disease and aortic stenosis.
+He was cleared for surgery from a denta

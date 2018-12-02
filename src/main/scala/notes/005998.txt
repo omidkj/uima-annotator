@@ -1,0 +1,210 @@
+Admission Date:  [**2200-1-11**]              Discharge Date:   [**2200-1-24**]
+
+Date of Birth:  [**2135-1-31**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Shellfish Derived
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+s/p CABG x1(SVG->RCA)/MVrepair (#30mm ST.[**Male First Name (un) 923**] annuloplasty
+ring)-[**2200-1-14**]
+
+
+History of Present Illness:
+64year old male presented to an Outside Hospital for increasing
+shortness of breath. Further cardiac work up revealed severe
+mitral regurg with a decreased left ventricular ejection
+fraction of [**9-18**]% consistent with systolic heart failure.
+Mr.[**Known lastname 80688**] was transferred to [**Hospital1 18**] for cardiac surgical
+consultation with Dr.[**Last Name (STitle) **].
+
+Past Medical History:
+Hypothyroidism
+Diverticulosis
+Polyp removal '[**98**]
+Newly diagnosed systolic heart failure, EF=10-15%
+Newly diagnosed atrial flutter
+s/p right inguinal herniorraphy'[**98**]
+
+
+Social History:
+auto mechanic
+tobacco- quit 9 months ago- 42 pk yr
+ETOH- denies
+lives alone.
+
+Family History:
+non- contributory
+
+Physical Exam:
+admission:
+General: NAD
+Skin: rigth forearm w/ erythematous, tender old IV site and left
+antecubital erythema- non-tender.
+HEENT: EMOI, PERRLA
+Neck: no LAD, NO JVD.
+Chest: CTA bilat.
+Heart: RRR
+ABD: soft, NT, ND, +BS, No palp masses
+exterm: LE: warm w/ trace edema. superficial varicosities left
+foot.
+neuro: intact.
+
+Pertinent Results:
+[**2200-1-21**] 06:38AM BLOOD WBC-9.1 RBC-3.30* Hgb-10.2* Hct-31.0*
+MCV-94 MCH-31.1 MCHC-33.1 RDW-13.7 Plt Ct-444*#
+[**2200-1-21**] 06:38AM BLOOD Glucose-97 UreaN-22* Creat-1.1 Na-137
+K-4.6 Cl-98 HCO3-31 AnGap-13
+[**2200-1-22**] 06:35AM BLOOD UreaN-23* Creat-1.3* K-4.4
+[**2200-1-11**] 01:55PM BLOOD Glucose-167* UreaN-40* Creat-1.8* Na-134
+K-4.8 Cl-97 HCO3-27 AnGap-15
+[**2200-1-22**] 06:35AM BLOOD Mg-2.1
+
+pre-op echo:
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 80689**]Portable TTE
+(Complete) Done [**2200-1-13**] at 9:15:00 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2135-1-31**]
+Age (years): 64 M  Hgt (in): 70
+BP (mm Hg): 102/60  Wgt (lb): 195
+HR (bpm): 78  BSA (m2): 2.07 m2
+Indication: Left ventricular function. Right ventricular
+function. New Aflutter.
+ICD-9 Codes: 410.92, 427.32, 424.0, 424.2
+Test Information
+Date/Time: [**2200-1-13**] at 09:15    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+Test Type: Portable TTE (Complete)
+3D imaging. Son[**Name (NI) 930**]: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4587**], RDCS
+Doppler: Full Doppler and color Doppler Test Location: [**Location 13333**]/[**Hospital Ward Name 121**] 6
+Contrast: None Tech Quality: Adequate
+Tape #: 2009W006-0:00 Machine: Vivid [**6-11**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.2 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.7 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.1 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.8 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Left Ventricle - Stroke Volume:  38 ml/beat
+Left Ventricle - Cardiac Output:  2.94 L/min
+Left Ventricle - Cardiac Index:  *1.42  >= 2.0 L/min/M2
+Left Ventricle - Lateral Peak E':  0.10 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.06 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *17  < 15
+Aorta - Sinus Level:  3.4 cm  <= 3.6 cm
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Aorta - Arch:  2.6 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  0.8 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT VTI:  12
+Aortic Valve - LVOT diam:  2.0 cm
+Mitral Valve - E Wave:  1.4 m/sec
+Mitral Valve - A Wave:  0.4 m/sec
+Mitral Valve - E/A ratio:  3.50
+Mitral Valve - E Wave deceleration time:  *278 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *34 mm Hg  <= 25 mm Hg
+Pulmonic Valve - Peak Velocity:  0.8 m/sec  <= 1.5 m/sec
+
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Normal
+interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Moderately dilated LV
+cavity. Mild regional LV systolic dysfunction. No LV
+mass/thrombus. [Intrinsic LV systolic function likely depressed
+given the severity of valvular regurgitation.] No resting LVOT
+gradient. No VSD.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Mild global RV free
+wall hypokinesis. Abnormal septal motion/position.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Mild thickening of mitral valve
+chordae. Severe (4+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: No PS.
+
+PERICARDIUM: No pericardial effusion.
+Conclusions
+No atrial septal defect is seen by 2D or color Doppler. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity is moderately dilated. There is mild regional left
+ventricular systolic dysfunction with infero-lateral
+hypokinesis. No masses or thrombi are seen in the left
+ventricle. [Intrinsic left ventricular systolic function is
+likely more depressed given the severity of valvular
+regurgitation.] There is no ventricular septal defect. The right
+ventricular cavity is mildly dilated with mild global free wall
+hypokinesis. There is abnormal septal motion/position. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Severe (4+) mitral
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+  Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2200-1-13**] 11:18
+
+
+post op echo:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 80690**]
+(Complete) Done [**2200-1-14**] at 12:02:20 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2135-1-31**]
+Age (years): 64 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Intraoperative TEE for CABG, Mitral Valve Repair
+ICD-9 Codes: 428.0, 440.0, 424.0
+Test Information
+Date/Time: [**2200-1-14**] at 12:02    Interpret MD: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Name Initial (MD) **] [**Name8 (MD) 4901**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW2-: Machine: IE33
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *7.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *7.0 cm  <= 5.2 cm
+Left Ventricle - Inferolateral Thickness:  0.6 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.5 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30%  >= 55%
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  *3.0 cm  <= 2.5 cm
+Aortic Valve - LVOT diam:  2.5 cm
+Mitral Valve - Mean Gradient:  3 mm Hg
+Mitral Valve - MVA (P [**12-6**] T):  2.7 cm2
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. Elongated LA. Mild
+spontaneous echo contrast in the bo

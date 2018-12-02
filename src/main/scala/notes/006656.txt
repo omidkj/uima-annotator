@@ -1,0 +1,208 @@
+Admission Date:  [**2125-10-29**]              Discharge Date:   [**2125-11-5**]
+
+Date of Birth:  [**2050-1-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Demerol / Codeine
+
+Attending:[**Last Name (NamePattern1) 1136**]
+Chief Complaint:
+Hypotension/hypoxia
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+
+History of Present Illness:
+Ms. [**Known lastname **] is a 75 year old woman with diabetes, hypertension,
+atrial fibrillation, history of C. diff, and vertebral
+osteomyelitis who presented with hypotension and hypoxia. She
+was recently discharged on [**10-26**] following surgery for her
+osteomyelitis. She had been at rehab when she had an episode of
+hypotension and hypoxia (low 80's). She was initially seen at an
+OSH. She was given metoprolol 50mg PO, lasix 80mg IV and noted
+to be hypotensive. A CTA of the chest was negative for PE, but
+had bilateral pleural effusions. She was placed on dopamine. She
+did not receive IVF. She was transferred to [**Hospital1 18**] for further
+management.
+.
+In the ED, initial vs were: 96.1 80/palp 90 14 95% on NRB. Right
+groin line was placed. She received zosyn in the ED. She was on
+vancomycin and flagyl for osteomyelitis and C. diff. Originally,
+she was transferred to the CCU out of concern for cardiogenic
+shock. She was diuresed, but then stopped making urine. Her
+clinical picture was thought to be more representative of
+sepsis. She was given fluids and transferred to the MICU.
+.
+In the MICU, she was briefly on levophed until 8AM this morning.
+Of note, she was intubated during an MRI on [**10-29**]. Her SBP has
+been maintained in the 100-110s today. She is currently on room
+air. Her UOP has improved. FeNa is 0.1%. She is currently
+receiving IVFs. An ultrasound revealed cirrhotic liver. A
+paracentesis removed 2 L. Blood, urine, peritoneal cultures cxs
+are pending. She is currently on vanc/zosyn and flagyl for
+history of C. diff.
+.
+Patient was having episodes of constipation. Now with two bowel
+movements today. No complaints of pain, shortness of breath, or
+nausea. She states she is feeling much better.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+Atrial fibrillation s/p ablation, not on coumadin
+Iron-deficiency anemia
+Gastritis per EGD, [**2124**]
+Insulin-dependent diabetes mellitus c/b neuropathy, retinopathy
+
+Lumbar stenosis, s/p L5-S1 laminectomy (age 40)
+Hypertension
+Hyperlipidemia
+DJD
+Tremor
+Steatohepatitis
+Depression
+
+PAST SURGICAL HISTORY:
+Cataract surgery
+Carpal tunnel release bilaterally
+Tonsillectomy
+Appendectomy
+Cholecystectomy
+
+
+Social History:
+Patient currently lives in a house in [**Location (un) **], Mass.  She lives
+with her husband.  She is now retired but formerly worked in
+medical records at [**Hospital **] Hospital.  She denies EtOH, tobacco,
+and other drugs.  Mrs. [**Known lastname **] reports attempting to maintain a
+diabetic diet, but admits to not being as good about it as she
+should be.  She reports exercising by doing chores around the
+house.
+
+
+Family History:
+Diabetes II
+
+Physical Exam:
+GENERAL: tired
+HEENT: No icterus
+CARDIAC: RR
+LUNG: crackles at bases
+ABDOMEN: +BS, bruise on right lower quadrant, right groin line
+without erythema, left sided bandage that is clean and dry
+EXT: 2+ LE edema of feet, 1+ of half way up calf
+NEURO: oriented to name, year, month, hospital, had difficulty
+naming months backward and asked, "If I can't do this, do I have
+to get another MRI?"
+
+Pertinent Results:
+ADMISSION LABS:
+[**2125-10-29**]
+WBC 16.6 / hct 33.3 / Plt 491
+Na 144 / K 3.9 / Cl 109 / CO2 22 / BUN 26 / Cr 1.3 / BG 220
+BNP [**Numeric Identifier 40151**]
+
+DISCHARGE LABS:
+[**2125-11-4**]
+WBC 10.9 / Hct 27.1 / Plt 540
+Na 143 / K 3.3 / Cl 111 / CO2 26 / BUN 17 / Cr 1.2 / BG 103
+
+MICROBIOLOGY:
+[**2125-10-29**] Blood Cx negative
+[**2125-10-29**] Urine Cx yeast
+[**2125-10-30**] Urine Cx yeast
+[**2125-10-30**] Peritoneal Fluid Culture - negative
+[**2125-10-31**] Urine Cx yeast
+
+STUDIES:
+ECHO ([**2125-10-29**])-
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. There is mild
+to moderate regional left ventricular systolic dysfunction with
+severe hypokinesis of the distal septum, anterior and inferior
+walls. There is a small apical left ventricular aneurysm with
+apical akinesis. The remaining segments contract normally (LVEF
+= 45 %). The estimated cardiac index is normal (>=2.5L/min/m2).
+No masses or thrombi are seen in the left ventricle. Right
+ventricular chamber size is normal with focal hypokinesis of the
+apical free wall. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Physiologic mitral regurgitation is seen (within
+normal limits). There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+regional systolic dysfunction c/w CAD (distal LAD distribution).
+Compared with the prior study (images reviewed) of [**2125-10-25**],
+basal septal and anterior function are improved, but apical
+dysfunction is now identified. Mild pulmonary artery systolic
+hypertension is now identified.
+
+[**2125-10-29**] Abdominal U/S- IMPRESSION: Shrunken nodular liver with
+diffuse ascites consistent with the provided history of
+cirrhosis. The main portal vein is patent. A small echogenic
+nodule abutting the capsule is visualized, incompletely
+characterized on this study. This lesion may be better evaluated
+with multiphasic CT or an MRI of the abdomen if clinically
+indicated
+
+[**2125-10-29**] MRI L spine
+1. Postsurgical changes with fluid collections related to the
+surgical
+hardware in the dorsal soft tissues, which may be postoperative
+seromas.
+Underlying infection would be difficult to entirely exclude.
+Corrleate
+clinically and with labs.
+2. Fluid collection in the left aspect of the retroperitoneum
+also may be
+postsurgical in nature, although underlying infection in this
+location would also be difficult to exclude.
+
+RECOMMENDATIONS: Postcontrast MRI of the lumbar spine would
+probably not be helpful given the degree of susceptibility
+artifact in the region of the surgical hardware. CT of this
+region may be helpful to better assess the surgical hardware and
+any enhancement.
+
+[**2125-11-1**] CXR - Left lower lobe sizable atelectasis and pleural
+effusion. No acute pulmonary infiltrates. Cardiomegaly as
+before.
+
+ECHO ([**2125-11-5**])-
+The left atrium is elongated. The right atrial pressure is
+indeterminate. There is mild symmetric left ventricular
+hypertrophy with normal cavity size. There is moderate regional
+left ventricular systolic dysfunction with hypokinesis of the
+inferior wall and the distal half of the anterior septum and
+anterior walls, and the apex. The remaining segments contract
+normally (LVEF = 35 %). No masses or thrombi are seen in the
+left ventricle. Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets are mildly
+thickened (?#). There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. Mild to moderate ([**11-24**]+) mitral
+regurgitation is seen. There is borderline pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2125-10-29**],
+left ventricular systolic dyfunction is more extensive and
+suggests multivessel CAD (or myocarditis). The severity of
+mitral regurgitation is also increased.
+
+
+Brief Hospital Course:
+1. Hypoxia:  Patient came in with drastically increased oxygen
+requirement.  She was admitted to the CCU and then the MICU with
+concerns for cardiogenic shock and sepsis.  She was managed
+there initially with diuresis but then fluid administration
+given possibility of sepsis.  She was briefly intubated.  Upon
+extubation, patient did very well.  She continued to sat well on
+room air while here.  She was found to have a left sided pleural
+effusion on chest x-ray and was on 2L NC (satting 97% on
+discharge).  We checked room air sats also and patient was
+satting 96% on RA.  Given stable condition and good saturation
+on room air, we did not pursue a 

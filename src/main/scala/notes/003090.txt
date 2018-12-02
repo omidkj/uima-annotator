@@ -1,0 +1,143 @@
+Admission Date:  [**2137-5-9**]              Discharge Date:   [**2137-5-16**]
+
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 371**]
+Chief Complaint:
+colon CA
+
+Major Surgical or Invasive Procedure:
+s/p right colectomy
+
+History of Present Illness:
+: Mr. [**Known lastname 10239**] is an 83 year-old gentleman who
+presented with some anemia and underwent a colonoscopy which
+demonstrated a fungating lesion in the right ascending colon.
+Biopsy of the colon was consistent with carcinoma. The
+patient was then booked for elective right colectomy.
+
+
+Past Medical History:
+CAD s/p STEMI [**2126**], RCA stent, LAD stent failed->CABGx3 [**3-/2128**], L
+CEA for infarct, basal cell ca with resection, seborrheic
+dermatitis, actinic keratosis, CHF (class I-II [**4-21**]) with LV
+dysfunction, hyperlipidemia, CCY in [**2077**]
+
+Family History:
+mother died in [**2110**] of "old age", father died when pt was 6 yo
+(unclear cause)
+
+Physical Exam:
+NAD, AAOx3
+Card: RRR, no m/r/g
+Pulm: CTAB
+Abd: soft, mildy tender, ND, incision c/d/i with staples
+Ext: no LE edema
+
+
+Pertinent Results:
+[**2137-5-13**] 10:45AM BLOOD CK(CPK)-135
+[**2137-5-13**] 02:15AM BLOOD CK(CPK)-130
+[**2137-5-12**] 03:12PM BLOOD CK(CPK)-173
+[**2137-5-10**] 07:43PM BLOOD CK(CPK)-211*
+[**2137-5-10**] 04:04PM BLOOD CK(CPK)-188*
+[**2137-5-10**] 08:31AM BLOOD CK(CPK)-146
+[**2137-5-10**] 02:30AM BLOOD CK(CPK)-113
+[**2137-5-13**] 10:45AM BLOOD CK-MB-4
+[**2137-5-13**] 02:15AM BLOOD CK-MB-4
+[**2137-5-12**] 03:12PM BLOOD CK-MB-4 cTropnT-<0.01
+[**2137-5-10**] 07:43PM BLOOD CK-MB-3
+[**2137-5-10**] 04:04PM BLOOD CK-MB-3
+[**2137-5-10**] 08:31AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2137-5-10**] 02:30AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2137-5-15**] 11:02AM BLOOD Calcium-8.6 Phos-2.6* Mg-1.9
+
+Brief Hospital Course:
+Pt was admitted to the floor on telemetry s/p his colectomy
+where he went a normal postoperative course until POD #2 in
+which it was noted that he had a few beats of ventricular
+tachycardia during the night. The patient was asymptomatic and
+was cleard by both an EKG and negative CK-MB and troponin
+enzymes. On POD #3, also during the night the patient went into
+atrial fibrillation. He was rate controlled with lopressor and
+converted back to a normal sinus rhthym. Cardiac enzymes were
+again negative The patient remained in NSR until POD#4 where he
+again had 5 beats of vtach. The patient remained asymptomatic
+and cardiology consult was called. They reccomended to continue
+his current medication regimen and to add coumadin for the new
+onset intermittent afib. This was discussed with his PCP who
+asked for him to be started on 2mg/day. The patient also had
+elevated blood sugars for the last 2 days of his hospital stay
+which were discussed with his PCP who [**Name9 (PRE) 10240**] no home
+treatment and that he would follow and decide whether the
+patient need outpatient treatment. The patient continued to do
+well and was sent home on POD#6 in good condition with VNA
+assistance, home PT, and close f/u with his PCP and [**Name Initial (PRE) **] new
+cardiologist, Dr. [**Last Name (STitle) 10241**], due to the fact that his cuurent
+cardiologist is leaving town.
+
+Medications on Admission:
+lovastatin 20, toprol xl
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+4. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Warfarin 2 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Outpatient [**Name (NI) **] Work
+Pt/INR daily.
+Call Dr. [**Last Name (STitle) 1266**], [**Telephone/Fax (1) 608**] with results.
+8. Outpatient [**Telephone/Fax (1) **] Work
+Basic Metabolic panel on 1st blood draw for INR. Once.
+9. Diovan 160 mg Tablet Sig: One (1) [**11-19**] Tablet PO once a day.
+Disp:*30 * Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+s/p right colectomy for CA, new onset intermittent afib
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+[**Name8 (MD) **] M.D. if fever > 100.4, abdominal pain, nausea, vomiting,
+chest pain, shortness of breath, blood in stool or urine, or
+other concerns.
+
+Pt. started on coumadin 2mg daily will need INR's drawn daily
+until followup with Dr. [**Last Name (STitle) 1266**]. Please draw first INR
+INR>3.
+
+Followup Instructions:
+call Dr.[**Name (NI) 10242**] office for f/u in 2 weeks.
+
+f/u with PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 10243**] in 1 week. Please call for appt. #
+[**Telephone/Fax (1) 608**].
+
+Cardiology appointment on [**2137-6-18**] for echo @ 8:00 AM and
+appt. with Dr. [**Last Name (STitle) 7965**] at 9:00 AM. Please call the office at
+[**Telephone/Fax (1) 902**] prior to confirm.
+
+
+
+Completed by:[**2137-5-16**]

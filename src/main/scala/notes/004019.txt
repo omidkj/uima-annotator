@@ -1,0 +1,219 @@
+Admission Date:  [**2172-3-12**]              Discharge Date:   [**2172-3-17**]
+
+
+Service: MEDICINE
+
+Allergies:
+Lipitor / Amoxicillin / Erythromycin Base / Sulfa (Sulfonamide
+Antibiotics) / Procainamide / Zocor
+
+Attending:[**First Name3 (LF) 2758**]
+Chief Complaint:
+Dysuria and hematuria
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname **] is an 88 M with a medical history notable for
+hormone-resistant prostate cancer and previous urethral trauma
+who currently has a chronic indwelling Foley catheter. He was
+sent to the ED from his skilled nursing facility as the [**Hospital1 1501**] was
+unable to change his Foley. Two days prior to presentation he
+noted malaise and urinary discomfort. During these two days, he
+also noted subjective fevers, chills and a poor appetite. He
+denies vomiting and back pain.  His care providers at his [**Hospital1 1501**]
+tried to change his Foley, but after multiple attempts were
+unable to do so. He then developed worsening bloody discharge
+from his urethral meatus.
+
+In the ED, initial vs were: T 98.3, P 77, BP 165/59, R 16, O2
+sat 98% RA.  Patient was febrile in the ED to 101.4. Urology saw
+the patient in the ED and placed a 14F Coude-tip catheter
+without difficulty. Approx 200cc of cloudy, foul smelling urine
+drained.  Blood and urine cx were sent. U/A was positive.
+Patient was given vanco and CTX given his h/o MRSA and proteus
+UTIs.  After which, the patient became hypotensive 70s.  Has
+received 2L of IVF and SBPs only in 90s. The patient felt
+lightheaded with the low BP in the ED.  He was also given zofran
+and tylenol. He was then admitted to the ICU.
+
+Past Medical History:
+Asbestosis with numerous pleural plaques
+RUL mass seen on [**8-/2171**] admission, thoracic surgery recommended
+repeat CT scan
+spinal stenosis, severe C3-C4 and C6-C7
+Afib (not on coumadin secondary to falls)
+CAD - '[**52**] BMS to mid RCA, '[**64**] DES to mid RCA
+Diastolic CHF - [**11-25**] EF 55%, LA mod dilated, mild LVH, RV
+normal, aortic root mildly dilated, no AS, no AI, trivial MR,
+mod pHTN
+PAD - s/p stent to RLE SFA in [**12-25**]
+H/o bladder cancer in [**2166**](s/p local resection)
+hx of urethral stricture requiring permanent indwelling foley
+h/o prostate CA (s/p external beam radiation and Lupron
+injections)
+Recurrent UTIs - Patient has a h/o of MRSA & Proteus UTI in
+[**12-26**] as well as STENOTROPHOMONAS, sensitive to bactrim and
+ENTEROCOCCUS SP, [**Last Name (un) 36**] to vanco in [**8-26**].  Multiple pseudomonas
+UTIs in past, most were fairly sensitive.
+
+Social History:
+Lives at a skilled nursing facility. Denies current alcohol,
+IVDU, or
+smoking. He smoked cigarettes in the past, but quit 45 years
+ago. Admits to asbestos exposure during WWII.
+
+
+Family History:
+Mother: had heart problems
+Father: had heart problems
+Brother: died from prostate cancer
+Brother: died from MI
+
+Physical Exam:
+Admission physical exam:
+General: Alert, oriented x3, no acute distress
+HEENT: Sclera anicteric, dry MM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, mildly distended, bowel sounds
+present, no rebound tenderness or guarding
+Back: no CVA tenderness
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, no edema, right heal with
+pressure ulcer.
+Neuro: A&Ox3, CN 2-12 intact, MAE.
+
+Pertinent Results:
+Admission Labs:
+[**2172-3-12**] 02:25PM   WBC-9.6# RBC-3.38* HGB-9.9* HCT-31.1* MCV-92
+MCH-29.4 MCHC-32.0 RDW-15.9*
+[**2172-3-12**] 02:25PM   GLUCOSE-125* UREA N-29* CREAT-1.7* SODIUM-139
+POTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-30 ANION GAP-14
+[**2172-3-12**] 04:00PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-25
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-SM
+[**2172-3-12**] 02:04PM   LACTATE-2.2*
+[**2172-3-12**] 02:25PM   PT-13.1 PTT-22.6 INR(PT)-1.1
+
+Discharge Labs:
+[**2172-3-17**] 07:13AM BLOOD WBC-4.8 RBC-3.21* Hgb-9.7* Hct-28.6*
+MCV-89 MCH-30.1 MCHC-33.9 RDW-15.7* Plt Ct-186
+[**2172-3-17**] 07:13AM BLOOD Glucose-94 UreaN-17 Creat-1.4* Na-141
+K-3.7 Cl-101 HCO3-36* AnGap-8
+[**2172-3-17**] 07:13AM BLOOD Calcium-8.6 Mg-2.0
+
+MICROBIOLOGY:
+ - admission Urine Culture:
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          PROTEUS MIRABILIS
+                             |          |
+AMPICILLIN------------  =>32 R      <=2 S
+AMPICILLIN/SULBACTAM--    16 I      <=2 S
+CEFAZOLIN-------------   <=4 S      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----              <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S        8 R
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] presented to the [**Hospital1 18**] ED with 2 days of malaise and
+for a Foley catheter change. On presentation he was found to
+have a fever and hypotension. His catheter was changed and he
+was found to have a UTI with quinolone-resistant E coli and
+Proteus. He initially required admission to the ICU for
+fluid-responsive hypotension and was then transferred to the
+floor. Due to a difficult Foley catheter change he developed
+hematuria. He received 1 unit of packed red blood cells and his
+hematuria resolved without intervention.
+
+Active medical problems:
+1. Catheter-associated UTI
+ - initially treated with Vancomycin and cefepime until cultures
+returned
+ - continue cefepime with last dose on [**2172-3-22**] for a total
+10-day course
+ - has scheduled follow-up with Dr. [**Last Name (STitle) **] for a catheter change
+at the end of [**Month (only) 958**]
+
+2. Cardiovascular disease including peripheral vascular disease:
+ - continued patient's home regimen of aspirin and Plavix.
+
+3. Paroxysmal atrial fibrillation
+ - had bradycardia and fatigue on his home metoprolol while
+admitted; this was held but may be restarted after his acute
+illness has resolved
+
+4. Congestive heart failure with preserved ejection fraction and
+stage III Chronic kidney disease
+ - required increased doses of Lasix while admitted in the
+setting of IV fluids and transfusion
+ - restarted home Lasix at discharge
+ - please recheck kidney function and electrolytes on Thursday
+[**3-19**] and adjust Lasix accordingly
+ - discharge weight: 80.2kg
+
+5. Prostate Cancer
+ - currently being considered for an investigational treatment.
+He has follow-up with oncologist, Dr. [**Last Name (STitle) **], to discuss
+treatment options.
+
+6. Skin Care:
+ - for right heel ulcer:
+Cleanse wound with wound cleanser then pat dry. Apply aloe vesta
+to dry intact tissues and cover wound with Adaptic - nonadherent
+dressing. Follow this with dry gauze and ABD pad. Then wrap with
+Kerlix or stretch gauze. Change this daily.
+
+
+Medications on Admission:
+Protonix 40mg PO daily
+Aspirin 81 mg PO daily
+Citalopram 20mg PO daily
+Ferrous Sulfate 325mg PO daily
+Multivitamin 1 tab po daily
+Lasix 40mg po daily
+Plavix 75 m PO daily
+Vitamin B 12 1000mcg Po daily
+Vit D 400 unit s po daily
+Calcium Carbonate 500mg PO BID
+Gabapentin 300mg PO QHS
+metoprolol tartrate 12.5mg PO BID
+Tylenol 325mg, 2tabs PO Q6hrs prn
+Oxycodone 5-325 1 tab PO Q4hrs prn, does not use regularly
+MOM PRN
+[**Name (NI) 10687**] 2 tabs PO QHS
+Miralax PRN
+Bisacodyl PRN
+
+
+Discharge Medications:
+1. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+5. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Milk of Magnesia 400 mg/5 mL Suspension Sig: Five (5) cc PO
+at bedtime as needed for constipation.
+7. Dulcolax 10 mg Supposito

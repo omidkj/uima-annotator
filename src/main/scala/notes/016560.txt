@@ -1,0 +1,222 @@
+Admission Date:  [**2184-2-2**]              Discharge Date:   [**2184-2-9**]
+
+Date of Birth:  [**2125-10-24**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+asymptomatic worsening severe aortic stenosis/moderate aortic
+insufficiency
+
+Major Surgical or Invasive Procedure:
+s/p AVR(#21mm St.[**First Name4 (NamePattern1) 923**] [**Last Name (NamePattern1) **].)/CABG x1(Lima->LAD)-[**2-2**]
+
+History of Present Illness:
+58 year old male with a well known history of bicuspid aortic
+valve, asymptomatic aortic stenosis and moderate aortic
+insufficiency who has been followed by serial echocardiograms.
+Although he is currently asymptomatic, his recent echo revealed
+worsening AS and a new finding of LVH. Dr.[**Last Name (STitle) **] was consulted
+for AVR/CABG.
+
+Past Medical History:
+Bicuspid aortic valve with aortic stenosis/ao.insufficiency
+hyperlipidemia
+
+Social History:
+Employed as a photographer
+Denies tobacco/occ.ETOH
+Lives with wife
+
+Family History:
+Father deceased in his 60s: +valvular dysfunction
+
+Physical Exam:
+Discharge
+VS: 98.8  111/72  83  20  96% RA
+General:pleasant, answers questions appropriately
+CVS: regular
+Lungs:clear bilaterally
+ABD:soft, nontender without rebound or guarding
+EXTR:warm with no edema
+Wound:clean and dry, stable
+
+
+Pertinent Results:
+[**2184-2-2**] 09:55AM BLOOD WBC-6.6 RBC-4.12* Hgb-13.0* Hct-36.2*
+MCV-88 MCH-31.5 MCHC-35.8* RDW-13.8 Plt Ct-248
+[**2184-2-6**] 07:01AM BLOOD WBC-11.0 RBC-2.85* Hgb-9.1* Hct-25.4*
+MCV-89 MCH-31.9 MCHC-35.8* RDW-13.4 Plt Ct-159
+[**2184-2-6**] 07:01AM BLOOD PT-16.0* INR(PT)-1.4*
+[**2184-2-6**] 07:01AM BLOOD Glucose-112* UreaN-13 Creat-0.8 Na-139
+K-4.2 Cl-102 HCO3-34* AnGap-7*
+[**2184-2-2**] 09:55AM BLOOD Glucose-91 UreaN-14 Creat-0.7 Na-137
+K-3.7 Cl-105 HCO3-27 AnGap-9
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 26624**], [**Known firstname 251**]       [**Hospital1 18**] [**Numeric Identifier 26625**]Portable TEE
+(Complete) Done [**2184-2-3**] at 10:06:39 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2125-10-24**]
+Age (years): 58 M  Hgt (in):
+BP (mm Hg): 145/85  Wgt (lb):
+HR (bpm): 86  BSA (m2):
+Indication: Aortic valve disease.
+ICD-9 Codes: 440.0, 424.1
+Test Information
+Date/Time: [**2184-2-3**] at 10:06    Interpret MD: [**Name6 (MD) 15425**] [**Name8 (MD) 15426**], MD
+
+Test Type: Portable TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 15426**], MD
+Doppler: Full Doppler and color Doppler Test Location: [**Hospital 26626**] OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008SC-0:00 Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%
+Aorta - Sinus Level:  3.6 cm  <= 3.6 cm
+Aorta - Ascending:  2.9 cm  <= 3.4 cm
+Aorta - Arch:  2.0 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  *3.5 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *51 mm Hg  < 20 mm Hg
+Aortic Valve - Valve Area:  *0.9 cm2  >= 3.0 cm2
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Normal regional LV systolic function.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal diameter of aorta at the sinus, ascending and arch
+levels. Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Mildly dilated descending aorta.
+
+AORTIC VALVE: Bicuspid aortic valve. Severely thickened/deformed
+aortic valve leaflets.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. Regional left ventricular
+wall motion is normal. Right ventricular chamber size and free
+wall motion are normal. The diameters of aorta at the sinus,
+ascending and arch levels are normal. The descending thoracic
+aorta is mildly dilated. The aortic valve is bicuspid. The
+aortic valve leaflets are severely thickened/deformed. Severe AS
+with a valve area of 0.9The mitral valve leaflets are mildly
+thickened. There is mild MR .There is no pericardial effusion.
+Post Bypass
+The patient is on a Neo infusion at .5 mcg/kg/min
+A 21 [**First Name8 (NamePattern2) **] [**Male First Name (un) **] Mechanical valve
+The mean gradient across the valve was 11
+There is no AI or Paravalvular leak
+LV function is preserved
+  Electronically signed by [**Name6 (MD) 15425**] [**Name8 (MD) 15426**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2184-2-3**] 13:27
+
+    [**Known lastname 26624**],[**Known firstname 251**] [**Medical Record Number 26627**] M  58  [**2125-10-24**]
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2184-2-5**] 1:59
+PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG FA5 [**2184-2-5**] SCHED
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 26628**]
+Reason: eval for pneumothorax s/p chest tube removal
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   58 year old man s/p AVR/CABG
+REASON FOR THIS EXAMINATION:
+   eval for pneumothorax s/p chest tube removal
+
+
+
+Final Report
+CLINICAL HISTORY: AVR, CABG, chest tube removed, evaluate for
+pneumothorax.
+
+CHEST, AP:
+
+All the tubes have now been removed. The film is somewhat
+over-penetrated,
+particularly for the apex and though no pneumothorax is
+identified, this is
+not entirely excluded. Bibasilar atelectasis, worse in the left
+side is
+present.
+
+IMPRESSION: No pneumothorax is seen, but films are somewhat
+over-penetrated.
+
+DR. [**First Name11 (Name Pattern1) 3347**] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 5034**]
+Approved: [**First Name8 (NamePattern2) **] [**2184-2-5**] 4:50 PM
+
+  Imaging Lab
+
+
+
+Brief Hospital Course:
+[**2-1**] Mr.[**Known lastname **], with known aortic stenosis, presented for
+preop cardiac catheterization and admission for aortic valve
+surgery. Cath revealed a 70% LAD lesion.[**2-2**] He was taken to
+the operating room and underwent aortic valve replacement with a
+#21mm St.[**Male First Name (un) 923**] mechanical valve and coronary artery bypass
+grafting with the left internal mammary artery grafted to the
+left anterior descending artery. Please refer to Dr[**Last Name (STitle) **]
+operative report for further details. He was intubated,
+requiring Neosynephrine and propofol for sedation and blood
+pressure optimization. He was transferred to the CVICU in stable
+condition. He required Precedex to allow for vent weaning and
+was extubated shortly thereafter without difficulty. All lines
+and drains were removed in a timely fashion. POD#1 Mr.[**Known lastname **]
+was transferred to the step down unit for further telemetry
+monitoring. He was started on Coumadin for anticoagulation for
+the mechanical valve.Beta-blocker, statin,and aspirin were all
+initiated. He continued to do well. POD#3 Heparin was started to
+bridge the subtherapeutic INR. INR goal 2.5-3.5 per mechanical
+valve protocol. He continued to progress and it was felt he was
+ready for discharge to home on POD#5. It was arranged with his
+PCP, [**Last Name (NamePattern4) **].[**Name (NI) 2935**] office to follow his INR/Coumadin dosing. He
+was advised of all follow up appointments.
+
+
+Medications on Admission:
+Lipitor 10(1)
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY

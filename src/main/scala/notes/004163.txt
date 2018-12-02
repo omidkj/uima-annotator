@@ -1,0 +1,201 @@
+Admission Date:  [**2150-3-24**]              Discharge Date:   [**2150-3-27**]
+
+Date of Birth:  [**2092-8-31**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Diphenhydramine
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+thoracentesis
+
+
+History of Present Illness:
+Pt is a 57 year old female with relapsed stage II C, grade II
+papillary serous ovarian cancer on Phase I trial (SNS 032)
+presenting with hypoxia, worsening [**Last Name (NamePattern4) **].
+.
+Pt has known history of lung parenchymal disease from her
+ovarian cancer as well as bilateral pleural effusions. She was
+started on phbase 1 trial of Sunesis on [**3-23**]. Has developed
+progressive SOB, [**Month/Year (2) **], hypoxia with low grade fever (in the ED)
+over this time. Wears oxygen at baseline and has been having
+increasing requirement from 2L up to 5L oxygen. At baseline,
+patient is able to walk around her house, but unable to walk
+short distances without becoming SOB. She denies fevers at home,
+sick contacts, productive [**Name2 (NI) **], hemoptysis, chest pressure,
+pleuritic chest pain, or lightheadedness on standing.  Patient
+was intiially found in the ED to have O2sats to 85% on RA, up to
+94% on NRB, with HR 100-130s. CTA negative for PE. Patient was
+found to have increased bilateral pleural effusions from prior.
+Patient admitted to ICU for hypoxia.
+.
+ROS: Recently has noted some N/V. Also mild constipation. Also
+complaining of significant fatigue.  Patient denies significant
+abdominal pain, headache, chills, weight loss, bruising or
+bleeding.
+.
+Onc History:
+Dx'd [**8-/2140**] with Stage IIC ovarian cancer. Pathology showed serous
+papillary adenocarcinoma. She underwent TAH, Rt SPO and
+cytoreduction which did not remove all lesions. She was then
+treated with six cycles of carboplatin and Taxol until
+[**2140-12-16**]. She relapsed in [**2146-1-9**] in the form of a mass
+in the left hemipelvis. She underwent a second cytoreductive
+surgery on [**2146-1-18**] followed by four cycles of carboplatin and
+Taxol until [**2146-4-9**], which was discontinued because of
+disease progression. She was then treated with topotecan 1.25
+mg/m2 x5 days IV every three weeks for four cycles from [**Month (only) 547**]
+[**2146**] until [**2146-7-10**] that was discontinued because of a rise in
+her CA-125. She was treated with Doxil 40 mg per meter squared
+for two cycles on [**2146-8-30**] and [**2146-9-30**], which was
+discontinued because of disease progression based on a CA-125
+that was rising.
+She also developed a rash, mucositis, and hand-foot syndrome.
+She has been on weekly Taxol and Arimidex from [**2146-11-9**] to
+[**2148-12-10**] and this was discontinued because of disease
+progression. She received three cycles of gemcitabine but had
+significant
+disease progression. She was then on Navelbine in [**Month (only) 958**] but
+discontinued this in [**2149-7-10**] due to disease progression. She
+was treated with Xeloda but progressed on this therapy. She was
+started on oral etoposide in [**2149-11-9**] but discontinued it in
+[**12-15**] [**3-13**] GI side effects and fatigue.
+.
+Currently on started phase 1 trial on [**3-23**] with Sunesis.
+
+Past Medical History:
+- IBS
+- Anxiety
+- metastatic ovarian ca as above.
+
+
+Social History:
+She has been married for over 30 years. She has 2 kids and 1
+grandchild. No alcohol or tobacco use.  She lives at home with
+her husband.
+
+
+Family History:
+Mother and sister with breast cancer
+
+Physical Exam:
+T 100.4 BP 120/88 HR 120s RR 93% O2sat on NRB. RR 33.
+Gen: Awake, increased WOB. Coughing throughout interview.
+HEENT: PERRL, EOMI, clear OP, anicteric, mucous membranes dry.
+Neck: No LAD, JVD. +Supraclavicular lymph node 1 cm rubbery.
+Lymph: Right supraclavicular LN. Left axillary LN. No cervical
+or inguinal LAD.
+Lungs: Decreased BS throught left lung. Dullness to percussion
+over left lung, and base of right lung. No wheezing, rales, or
+rhonchi.
+Heart: Tachycardic.
+Abd: Soft, NT, ND +BS. Purplish subcutaneous 3 cm nodule to left
+of umbilicus, representing metastatic disease.
+Ext: No edema, 2+ DP/PT.
+Neuro: A&O times 3, no focal deficits
+
+
+Pertinent Results:
+.
+Labs/studies:
+138  100  16 / 107    AGap=13
+------------
+3.8  29  0.6 \
+Ca: 7.9 Mg: 2.0 P: 3.9
+ALT: 28 AP:  Tbili: 0.3
+AST: 26
+UricA:2.6
+ 85
+6.8 D \ 14.5 / 440
+      --------
+        43.0
+ N:74.3 Band:7.9 L:6.9 M:8.9 E:0 Bas:0 Atyps: 2.0
+.
+CXR- As best can be compared across modalities, there is a
+markedly
+stable radiograph with bilateral pleural effusions, left much
+greater than right. The left effusion has loculated components
+with a large intrafissural subcomponent as well.
+.
+CTA Chest:
+1. No pulmonary embolism. No aortic dissection.
+2. Interval worsening of large left loculated pleural effusion
+and small right pleural effusion.
+3. Similar appearance of right lower lobe total consolidation
+due to
+aspiration.
+4. Interval slight worsening of thoracic metastatic disease.
+
+Brief Hospital Course:
+This is a 57 yo female with relapsing ovarian cancer with
+metastatic disease to the lymph nodes, lungs, pleural effusions
+presents with worsening dyspnea.
+.
+1. [**Name (NI) 1621**] Pt. with known bilateral pleural effusions secondary
+to malignant effusions from ovarian cancer. She just started a
+phase 1 chemotherapy trial with SNS03 on [**3-23**] and presented to
+[**Hospital1 **] with SOB. There was no evidence of PE on CTA but the CT did
+show worsening of the loculated bilateral pleural effusions,
+which was the most likely etiology of her dyspnea. She also had
+low grade fevers and was immunosupressed from chemotherapy.
+Therefore, she was started on levofloxacin for possible
+underlying pneumonia.  The patient was oxygen dependent was
+being treated with standing nebulizer treatments. Additionally,
+we performed a therapeutic thoracentesis under ultrasound
+guidance. Overtime the shortness of breath did not improve,
+despite these measures. The patient continued to deteriorate. A
+family meeting was called to discuss further options for
+intervention and goals of care. After extensive conversation
+with the attending and the family and patient, the following was
+decided upon: no further chemotherapy, no further interventions.
+The patients code status was made DNR/DNI and the focus of her
+care became comfort measures. The patient expired on [**2150-3-27**] at
+3:20pm with her family at her bedside.
+
+2. Ovarian Cancer- Unfortunately the patient had relapsed
+disease and failed multiple chemo regimens. On presentation to
+[**Hospital1 **] she was on a phase 1 trial drug, sunesis. The decision was
+made to stop chemotherapy.
+
+
+Medications on Admission:
+- Paxil 20 mg daily
+- Centrum Silver multivitamin 1 tablet daily (start unknown)
+- Warfarin 1mg daily
+- Lorazepam 1 mg prn
+- Ambien 10mg qpm
+- Albuterol Nebulizer PRN (approx 3 times a week)
+- Chemotherapy regimen Sunesis Cycle 1/Day 2
+- Prednisone (recently completed course - ?for breathing)
+
+
+Discharge Medications:
+deceased
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+ovarian cancer
+
+
+Discharge Condition:
+deceased
+
+
+Discharge Instructions:
+deceased
+
+Followup Instructions:
+deceased
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+
+Completed by:[**2150-3-27**]

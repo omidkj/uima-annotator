@@ -1,0 +1,202 @@
+Admission Date:  [**2142-9-3**]              Discharge Date:   [**2142-9-6**]
+
+Date of Birth:  [**2077-8-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2901**]
+Chief Complaint:
+cardiac tamponade s/p pericardiocentesis with drain placement
+
+
+Major Surgical or Invasive Procedure:
+pericardial tap and drain placement
+
+
+History of Present Illness:
+The patient is a 65 y/o female with PMHx lung cancer (unknown
+type) stage IIIB, prior PE, bilateral DVT with IVC filter who
+presents to the CCU s/p pericardiocentesis with pericardial
+drain placement.
+  The patient was in her usual state of health until [**9-1**], when
+she woke up feeling "lousy."  She felt fatigued, had several
+episodes of NB/NB vomiting with crampy abdominal pain with some
+diarrhea.  She also noted dyspnea on exertion.  This progressed
+to dyspnea even at rest.  On the morning of [**9-3**], she went to her
+PCP's office who then sent her to the ED.  At [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], she
+had a CT A/P with contrast.  The read there was suggestive of
+saddle pulmonary embolus and she was sent to [**Hospital1 18**] for further
+management.
+.
+On review of systems, she denies any prior history of stroke,
+TIA, bleeding at the time of surgery, myalgias, joint pains,
+cough, hemoptysis, black stools or red stools. She denies recent
+fevers, chills or rigors. She denies exertional buttock or calf
+pain. All of the other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+palpitations, syncope or presyncope.
+.
+In the ED, initial vitals were  Temp:98.7 HR:124 BP:124/68
+Resp:20 O(2)Sat:98.  The patient's CT scan was reviewed by [**Hospital1 18**]
+radiologists who did not agree with the diagnosis of PE as they
+felt that the pulmonary arteries were very poorly opacified.
+They also noted a large pericardial effusion.  Interventional
+Cardiology performed a bedside echo which seemed to raise the
+possibility of tamponade.  The patient then started to become
+hypotensive, with pressures dropping to the 80s and 90s.  IC
+decided to take the patient to the cath lab for a percutaneous
+pericardiocentesis.  The patient received one unit of FFP in the
+ED prior to procedure.
+.
+In the cath lab, the patient had ~600cc of fluid drained with a
+pericardial drain placed.  She was transferred to the CCU in
+stable condition.
+
+Currently, she complains of [**9-4**] pleuritic chest pain that
+worsens with deep breaths and movement.  It is improved with
+leaning forward.  She received morphine 2mg IV which lowered the
+pain to a [**2142-4-30**].
+
+
+Past Medical History:
+Stage IIIB lung adenoca s/p chemo/radiation finished [**9-3**].
+Supposedly stable disease per patient.
+Bilateral DVTs (failed coumadin, lovenox)
+Prior PE (DVTs progressed to PE, b/l subsegmental)
+IVC filter
+moderate COPD (FEV1 70%)
+radiation pneumonitis
+
+Social History:
+-Tobacco history:  [**1-27**] ppd for 35years, quit 14 years ago
+-ETOH: occasional beer on weekends
+-Illicit drugs:  denies
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.  Father with
+HTN.
+
+Physical Exam:
+On Admission:
+GENERAL: WDWN female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with JVP of 4 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: CTA bilaterally
+ABDOMEN: Soft, obese. NTND. No HSM or tenderness. +bowel sounds
+
+EXTREMITIES: trace edema bilateral lower extremities to feet. 2+
+DP/PT pulses
+
+Pertinent Results:
+[**2142-9-3**] 08:00PM OTHER BODY FLUID  TOT PROT-5.5 GLUCOSE-18
+LD(LDH)-588 AMYLASE-47 ALBUMIN-3.6
+[**2142-9-3**] 08:00PM OTHER BODY FLUID  WBC-1100* RBC-[**Numeric Identifier 87449**]*
+POLYS-1* LYMPHS-11* MONOS-10* OTHER-78*
+[**2142-9-3**] 04:50PM   GLUCOSE-118* UREA N-21* CREAT-0.7 SODIUM-133
+POTASSIUM-4.0 CHLORIDE-98 TOTAL CO2-22 ANION GAP-17
+[**2142-9-3**] 04:50PM   estGFR-Using this
+[**2142-9-3**] 04:50PM   ALT(SGPT)-37 AST(SGOT)-40 ALK PHOS-72 TOT
+BILI-0.4
+[**2142-9-3**] 04:50PM   LIPASE-44
+[**2142-9-3**] 04:50PM   cTropnT-<0.01
+[**2142-9-3**] 04:50PM   TOT PROT-ERROR -ERROR
+[**2142-9-3**] 04:50PM   WBC-7.0 RBC-3.55* HGB-10.6* HCT-31.5* MCV-89
+MCH-29.8 MCHC-33.6 RDW-14.9
+[**2142-9-3**] 04:50PM   NEUTS-82.7* LYMPHS-9.6* MONOS-5.5 EOS-1.7
+BASOS-0.4
+[**2142-9-3**] 04:50PM   PLT COUNT-256
+[**2142-9-3**] 04:50PM   PT-42.8* PTT-35.4* INR(PT)-4.5*
+
+Brief Hospital Course:
+65 y/o female with PMHx lung cancer stage IIIB, bilateral DVTs
+with PE while therapeutic on coumadin, IVC filter who presents
+to the CCU s/p pericardiocentesis and placement of pericardial
+drain.  Currently hemodynamically stable.
+
+# Tamponade - Patient underwent pericardiocentesis with
+pericardial drain placement after which she was hemodynamically
+stable, although complaining of some positional chest pain which
+was treated with morphine and indomethacin.  Drain was pulled on
+[**9-5**].  Pericardial fluid showed metastatic adenocarcinoma; we
+contact[**Name (NI) **] outpatient oncologist and they plan to f/u as an
+outpatient and discuss treatment options at that time.  Of note,
+pericardial fluid cx from [**9-3**] [**1-27**] showed GPC in clusters, but
+pt was afebrile with nl WBC; likely due to contamination.  ECHO
+on [**9-6**] demonstrated: "small amount of pericardial fluid
+adjacent to the right atrium. There is still some residual
+echogenic material near the apex of the right ventricle. The
+inter-ventricular septum has a "bounce". This is often seen
+immediately after pericardiocentesis and usually resolves."
+Reaccumulation of fluid was not enough to justify window and the
+decision was made to have a repeat echo 1 week after discharge.
+Pt was started on metoprolol 12.5 mg [**Hospital1 **] prior to discharge.
+She remained hemodynamically stable with minimal chest pain
+controlled with indomethacin, with plan to follow up as
+outpatient with PCP and oncology.
+.
+# Coagulopathy - Elevated INR on admission.  Was on 5mg coumadin
+5 days a week, 2.5 2 days a week.  Likely this was too high and
+cause her INR to increase. Received 1 unit FFP in ED.  Per
+records from [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Date range (1) 87450**]: pt had progression of
+thrombus on therapeutic coumadin and lovenox so ivc filter was
+placed; CT [**2141-5-31**] showed numerous PE on therapeutic INR so their
+new target was INR [**3-29**].  Coumadin was restarted on [**9-4**] with
+goal INR 3.
+
+
+Medications on Admission:
+Coumadin 5mg MTWFSa
+Coumadin 2.5mg Th, Sun
+Paxil 10mg
+
+Discharge Medications:
+1. Paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO once a
+day.
+2. Indomethacin 25 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day) as needed for chest pain.
+Disp:*45 Capsule(s)* Refills:*0*
+3. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+4. Warfarin 5 mg Tablet Sig: One (1) Tablet PO once a day for 2
+days.
+5. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day for
+2 days: take on [**9-8**] and [**9-9**], please check INR on [**9-10**]. .
+6. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) Puff Inhalation Q4H (every 4 hours) as needed for
+wheezing.
+Disp:*1 inhaler* Refills:*2*
+7. Outpatient Lab Work
+please check INR on Monday [**9-10**] and call results to Dr.
+[**Last Name (un) **] at [**Telephone/Fax (1) 87451**]
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Pericardial effusion
+Chronic Obstructive Pulmonary Disease
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You had a collection of fluid around your heart that was causing
+your shortness of breath and fatigue. WE drained 600 cc of fluid
+and put a drain in temporarily. We tested the fluid and found
+that it had cancer ce

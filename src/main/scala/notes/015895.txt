@@ -1,0 +1,196 @@
+Admission Date:  [**2190-2-16**]              Discharge Date:   [**2190-2-23**]
+
+Date of Birth:  [**2113-8-18**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+fatigue, chest pain
+
+Major Surgical or Invasive Procedure:
+[**2-16**] CABGx1(LIMA-LAD)MV Repair(26 [**Doctor Last Name 405**] Band Annuloplasty)
+
+
+History of Present Illness:
+76 yo F with known CAD, recent chest pain and NSTEMI [**12-17**]. Also
+with known MR with medical management. Recent increase in
+symptoms referred for surgery.
+
+Past Medical History:
+MR, TR, CAD, HTN, hyperlipidemia, chronic neck pain
+
+Social History:
+retired office worker
+no tobacco
+rare etoh
+
+Family History:
+Denies
+
+Physical Exam:
+HR 64 BP 159/82
+NAD
+Lungs CTAB
+Heart RRR 2/6 SEM
+Abdomen benign
+Extrem wawrm, no edema
+Superficial bilateral varicosities
+No carotid bruits
+
+
+Pertinent Results:
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2190-2-23**] 09:30AM    14.8*
+[**2190-2-23**] 09:15AM    14.6*
+[**2190-2-22**] 07:15AM    13.4* 4.11* 12.5 37.3 91 30.3 33.4 15.4
+399
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2190-2-22**] 07:15AM    140* 12 0.6 141 3.5 103 26 16
+
+BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2190-2-23**] 09:30AM    15.1*1     1.3*
+
+[**2190-2-16**] ECHO
+PRE-BYPASS:
+1. The left atrium is moderately dilated.
+2. No atrial septal defect is seen by 2D or color Doppler.
+3. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is mildly depressed (LVEF= 45 %) with noted
+hypokinesis of the apical anterior segment and apex.
+4. Right ventricular chamber size and free wall motion are
+normal.
+5. There are simple atheroma in the aortic arch. There are
+simple atheroma in the descending thoracic aorta.
+6. The aortic valve leaflets (3) are mildly thickened. There is
+no aortic valve stenosis. No aortic regurgitation is seen.
+7. The mitral valve leaflets are mildly thickened. Moderate to
+severe (3+) mitral regurgitation is seen with provocative
+maneuvers (Trendelenberg and phenylephrine bolus).
+8. There is mild to moderate tricuspid regurgitation.
+
+POST-BYPASS:
+Pt removed from cardiopulmonary bypass on phenylephrine infusion
+and AV paced.
+1. No mitral regurgitation is noted after mitral valve
+annuloplasty. MVA by PHT is 2.4cm2. The annuloplasty ring is
+well seated.
+2. Biventricular function is unchanged LVEF 40%, no new wall
+motion abnormalities are noted.
+
+[**2190-2-18**] ECHO
+The chest tube, Swan-Ganz catheter, endotracheal tube,
+nasogastric tube, and mediastinal drains have all been removed.
+No pneumothorax. Some residual atelectatic changes at the left
+and possibly also right bases.
+
+3. Mild to moderate tricuspid regurgitation is unchanged.
+4. Aortic contours are intact post-decannulation.
+
+Operative Note
+Name:  [**Known lastname **], [**Known firstname **]
+Unit No:  [**Numeric Identifier 59496**]
+Service:  CSU
+Date:  [**2190-2-16**]
+Date of Birth:  [**2113-8-18**]
+Sex:  F
+Surgeon:  [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D. [**MD Number(1) 1288**]
+
+PROCEDURE:
+1. Coronary artery bypass surgery times one; left internal
+    mammary artery to left anterior descending.
+2. Mitral valve repair with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 405**] band annuloplasty,
+    size 26.
+
+CO-SURGEONS:  [**Doctor Last Name **] [**Last Name (Prefixes) **], [**Initials (NamePattern4) **]
+[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10585**], MD
+
+ASSISTANT:  [**Name6 (MD) 59497**] [**Name8 (MD) **], MD
+[**First Name (Titles) 59498**] [**Last Name (Titles) 59499**], MD
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 50417**], Intern
+
+ANESTHESIOLOGIST:  [**Name6 (MD) 59500**] [**Name8 (MD) 3893**], MD
+
+PREOPERATIVE DIAGNOSES:  Coronary artery disease, moderate
+mitral regurgitation.
+
+BRIEF HISTORY:  This is a 76 year-old female patient, known
+coronary artery disease with recent non-ST elevation
+myocardial infarction on [**12-17**].  She was also known to have
+mitral regurgitation with medical management. Recently, her
+symptoms increased and surgery was advised.
+
+FINDINGS:  Her coronary angiograms showed an 80% stenosis of
+the left anterior descending. Intraoperative echo showed a
+moderate mitral regurgitation. This appeared to be central
+with the defect being at the mid posterior leaflet. It was
+decided to do a band annuloplasty on this patient.  The 26
+[**Doctor Last Name **] [**Doctor Last Name 405**] band was used for the annulus.  The pump
+time was 70 minutes; cross clamp time 48 minutes.
+
+OPERATIVE DETAIL:  The chest, abdomen and lower extremities
+were scrubbed with Betadine and prepped with Betadine
+solution. The chest was opened through a midline sternal-
+splitting incision. Hemostasis was secured along the sternal
+borders and the left internal mammary artery was taken down.
+This artery was small but had good flow. The heparin was
+given. The pericardium was opened.  The patient was
+cannulated with an ascending aortic cannula in the distal
+ascending aorta and a 3 stage venous cannula into the right
+atrium. A cardioplegia needle was inserted into the ascending
+aorta which will also be used for de-airing. The temperature
+was allowed to drift down and an aortic cross clamp was
+placed in the distal ascending aorta and cold antegrade blood
+cardioplegia was now given.  The heart was arrested and a
+total of 1000 ml was infused.  The left atrium was opened and
+the [**Doctor Last Name 405**] retractors were placed for exposure. The central
+jet was noted.  Then 2-0 non-pledgeted Ethibond sutures were
+placed along the posterior annulus from one commissure to the
+other. [**Doctor Last Name 405**] 26 band was then sutured and seated over the
+posterior annulus. The sutures were tied and on testing once
+again, there was no central jet. The left atrium was then
+sutured in a single layer with 3-0 Prolene. During the cross
+clamp time, a further 400 ml of cold blood cardioplegia was
+given through the antegrade cannula. The patient was rewarmed
+and the LAD vessel was exposed.  There was diffuse disease
+and the internal mammary artery was then anastomosed end-to-
+side using 8-0 Prolene. The aorta cross clamp was removed in
+the head down position and de-airing measures were taken.
+Atrial and ventricular pacing wires were placed and atrially
+paced. For a brief period, the EKG showed an ischemic pattern
+of the inferior leads; however, this reverted back to
+baseline.  The hemostasis was checked with [**First Name8 (NamePattern2) **] [**Last Name (un) 30565**]
+expander and the patient was taken off from bypass with some
+Nor-epinephrine. The heparin was reversed with Protamine and
+successfully decannulated from the cardiopulmonary bypass
+machine. Chest tubes were placed through separate incisions;
+one in the left pleural and 2 in the mediastinum.  Once
+again, hemostasis was checked and chest wall was then closed
+in layers. The sternum was approximated with stainless steel
+wires, followed by Monocryl for the fascia and subcutaneous
+tissues.  The skin was closed as a subcuticular stitch with
+Monocryl. The needle and sponge counts were correct. The
+patient tolerated the procedure well and went to the
+cardiovascular intensive care unit in stable condition.
+
+                        [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D. [**MD Number(1) 1288**]
+
+
+Brief Hospital Course:
+Mrs. [**Known lastname **] was admitted to the [**Hospital1 18**] on [**2190-2-16**] and taken to
+the operating room where she underwent single vessel coronary
+artery bypass grafting and a mitral valve repair. Please see
+separate dictated operative note for details. Postoperatively
+she was transferred to the ICU in stable condition. She was
+extubated later that same day. She was weaned from her
+vasoactive drips and transferred to the floor on POD #1 for
+further recovery. She was gently diuresed towards her
+preoperative weight. The physical therapy service was consulted
+for assistance with her postoperative strength and mobility. She
+wa

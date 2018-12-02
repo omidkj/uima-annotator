@@ -1,0 +1,181 @@
+Admission Date:  [**2149-11-4**]              Discharge Date:   [**2149-12-31**]
+
+Date of Birth:  [**2077-2-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Bactrim Ds
+
+Attending:[**Last Name (NamePattern1) 4377**]
+Chief Complaint:
+Sepsis and anemia
+
+Major Surgical or Invasive Procedure:
+Central line placement
+Upper endoscopy
+
+History of Present Illness:
+This is a 72 year-old female with history of marginal cell
+lymphoma and aplastic anemia who was admitted with concerns for
+sepsis and severe anemia. She had presented to oncology clinic
+for an appointment the day of admission at which time she was
+noted to be hypoxic, febrile, and hypotensive.  In the emergency
+room, she received vancomycin, aztreonam, and gentamycin. She
+was transfused 2 units of red cells and received six liters of
+saline.  Given her persistent hypotension, she was started on a
+levophed drip. Her urine culture from [**10-28**] grew strep bovis and
+coag negative staph, for which she was treated with
+levofloxacin.  She had a repeat urine culture on admission that
+was growing coag negative staph.
+
+Past Medical History:
+1. Marginal zone lymphoma- She had six chemotherapy treatments
+with protocol 03-294 including fludarabine and rituximab. She
+completed this treatment in 04/[**2148**]. Her treatment course was
+complicated by pneumonitis felt to be due to her fludarabine.
+Her last PFTs were on [**2149-9-29**]. These were significant for a
+FVC of 106% predicted, FEV1 of 108% predicted, and FEV1/FVC of
+102% predicted. The DLCO is 1:46. The isolated reduction in
+diffusing capacity suggests perfusion limitation.
+2. Cold agglutinin syndrome- She is transfusion dependant. Prior
+to admission, her last transfusion was on [**2149-10-29**]. She
+requires her blood to be warmed to avoid hemolysis. She also
+received retuxin at that time without complication.
+3. Hypertension
+4. Status post TAH and BSO
+5. Status post appendectomy
+6. Status post cholecystectomy
+7. Lactose intolerance
+8. Status post resection of parotid tumor- [**2130**]
+9. Status post hernia repair in setting of strangulated hernia-
+[**11/2148**]
+
+Social History:
+She lives with her husband and had family in area.  She has a 25
+pack-year history of tobacco and quit 4 months ago.  She does
+not drink alcohol.
+
+
+Family History:
+Her father had a stroke and age 69.
+
+Physical Exam:
+Vitals: Temperature:98.5 Blood Pressure:108/70 Pulse:80
+Respiratory rate:18 Oxygen saturation:90% on Room air and 95% on
+2L nasal cannula.
+General: Lying in bed in no acute distress.
+HEENT: Pupils equal and reactive, oropharynx clear, moist mucous
+membranes
+Cardiac: Regular rate and rhythm without murmurs, rubs, or
+gallops.
+Resp: Bibasilar crackles
+Abd: Soft, nontender, distended upper abdomen with palpable
+mass, normoactive bowel sounds, no rebound or guarding.
+Ext: Warm and well perfused without cyanosis or edema
+Neuro: Alert and oriented.  Moving all extremeties. Grossly
+non-focal exam
+
+
+Pertinent Results:
+Admission Labs:
+0.2>24.9<72
+N:0 L:92 Atyps:8
+Reticulocytes:0.4
+.
+[**Age over 90 **]|96|36/158
+3.9|27|0.7\
+Ca:8.7 Mg:2.1
+.
+ALT:57 AST:55 AP:107 LDH:808 Tbili:1.4 Dbili:0.4 Alb:3.6
+.
+Chest x-ray: Volume overload, probably right lower lobe
+infiltrate, right IJ catheter in place.
+
+Brief Hospital Course:
+72 year-old female with past medical history signficant for
+marginal zone lymphoma and aplastic anemia who was admitted with
+sepsis and pancytopenia.
+.
+1. Sepsis: On admission, she had coagulase negative staph
+growing in her urine.  She had a torso CT scan that demostrated
+a dilated esophagus.  Subsequently, an upper endoscopy with
+ultrasound showed severe [**Female First Name (un) **] esophagitis and enlarged
+mediastinal lymph nodes without abnormal esophageal thickening.
+She was initially treated with ambisome and voriconazole for
+severe [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 99813**]; however, the voriconazole was
+stopped secondary to elevated alkaline phosphatase.  Since she
+was febrile and neutropenic, she was also covered broadly for
+febrile neutropenia with aztreonam, daptomycin, and flagyl.  She
+was also continued on Acyclovir for zoster prophylaxis. Bactrim
+was started for nocardia coverage, but stopped due to nausea and
+vomiting.  She initially received stress-dose steroids when she
+was admitted to the ICU, however, these were tapered during the
+admission.  For further infectious work-up, she had a chest
+x-ray and CT that showed multifactorial pulmonary nodules.
+However, a serum galactomannin, urinary legionella, and sputum
+PCP were negative.  Once she was stabalized hemodynamically, she
+was transfered to the floor.  She later developed a VRE
+bactermia.  She was intially treated with daptomycin and
+gentamicin for the VRE and was later switched to linezolid when
+she was not clearing the bacteria.  Her bacteremia persisted for
+about 13 days.  When she began having mental status changes with
+somnolence and unresponsiveness, an LP was performed that showed
+[**Male First Name (un) 2326**] virus on PCR.  She was continued on linezolid, aztreonam,
+flagyl, acyclovir, caspofungin empirically throughout the
+admission since she remained febrile and neutropenic.
+.
+2. Pancytopenia: She had pancytopenia on admission, which was
+thought to be secondary to aplastic anemia from her fludarabine
+treatment.  She also had a cold agglutinin syndrome, which was
+treated with several doses of rituxan.  She had several drops in
+her hematocrit while she wsa hypothermic, and these drops were
+attributed with cold agglutinin syndrome.  Therefore, red cells
+were warmed prior to transfusion.  IVIG treatment was attempted
+for treatment of hemolytic anemia, but she had a febrile and
+hypertensive reaction to it.  She subsequently was treated with
+rabbit anti-thymocyte globulin (ATG) for her aplastic anemia;
+however, she had a hypersensitivity reaction that required
+emergent intubation for 2 days.  Since she had persistent VRE
+bacteremia and remained neutropenic, it was decided to pursue
+ATG desensitization to treat her aplastic anemia.  She underwent
+ATG desensitization in the ICU.  She received 4 days on ATG per
+protocol.  After treatment with ATG, she continued to have VRE
+bacteremia and was also found to have [**Male First Name (un) 2326**] virus in her CSF.  As a
+bridge until the ATG took effect, she had 5 granulocyte
+transfusions.  She tolerated these well.  Unfortunately, the ATG
+did not take effect, and she remained neutropenic and
+pancytopenic.  She was maintained on supportive red cell and
+platelet transfusions.  She was maintained on G-CSF for
+neutropenia.
+.
+3. Marginal zone lymphoma: She had a bone marrow biopsy on
+[**2149-10-6**] that showed that she was in remission.
+.
+4. Mental Status Change: On one occasion, she became somnolent
+and unresponsive to voice and painful stimuli.  An MRI was
+negative for mass effect or structural brain lesion.  EEG was
+negative for seizure activity.  Neurology was consulted and felt
+that the change in mental status likely secondary to
+toxic/metabolic causes.  Her mental status eventually improved.
+However, later, she had a second episode of somnolence and
+unresponsiveness.  Again an MRI was negative and an EEG was
+negative for seizure activity.  An LP at that time showed [**Male First Name (un) 2326**]
+virus in her CSF.  Therefore, her unresponsiveness was likely
+secondary to the [**Male First Name (un) 2326**] virus infection.  She did not recover her
+mental status and remained unresponsive to painful stimuli.  She
+did have some spontaneous movements.
+.
+5. Hypertension: Initially, her antihypertensives were held in
+the setting of sepsis.  These were restarted once she was no
+longer hypotensive.
+.
+6. Respiratory alkalosis: On several occasions, she had 2
+episodes of paradoxical breathing in which an ABG showed a
+respiratory alkalosis.  There was concern for intracranial
+pathology; however, head CT was negative.   Her respiratory
+status subsequently improved without intervention on several
+occasions.  However, one episode of paradoxical breathing
+required intubation and mechanical ventilation for 5 days.  It
+was unclear the cause of the respiratory alkalosis.  In
+retrospect, her paradoxica

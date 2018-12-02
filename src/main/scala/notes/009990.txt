@@ -1,0 +1,182 @@
+Admission Date:  [**2201-5-14**]              Discharge Date:   [**2201-5-20**]
+
+Date of Birth:  [**2147-3-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Motrin / aspirin
+
+Attending:[**First Name3 (LF) 2265**]
+Chief Complaint:
+atrial tachycardia
+
+Major Surgical or Invasive Procedure:
+[**2201-5-14**]: Left atrium ablation
+[**2201-5-19**]: Permanent Pacemaker placement
+
+
+History of Present Illness:
+ablation again in the EP lab. She reported that she is
+symptomatic from the tachycardia, with palpitations and anxiety.
+Otherwise she is feeling well. She went to the cath lab today
+for the AT ablation which was successful per signout. However,
+after the case was finished, while still in the cath lab, she
+had a sinus node arrest. She was asystolic for at least 7+
+seconds and they initiated peripheral dopamine infusion. She
+responded well with return of spontaneous sinus rhythm. She had
+one additional pause to 3-4 seconds on transport to the CCU so
+the dopamine was titrated up to 10 mcg/kg/min.
+.
+On arrival to the CCU, patient is denying any chest pain or
+shortness of breath. She does complain of lower back pain, which
+is worse than her chronic pain. Her vitals on arrival were:
+afebrile, BP 171/90, HR 102, RR 10, saturations 100% 2LNC. Her
+dopamine was turned down to 7.5 mcg/kg/min because she was
+tachycardic and hypertensive and then her vitals improved to
+80s, 130s/70s.
+
+
+Past Medical History:
+Diabetes, -Dyslipidemia, +Hypertension
+2. CARDIAC HISTORY:
+Cath [**2192**]: no obstructive CAD.
+3. OTHER PAST MEDICAL HISTORY:
+Atrial tachycardia s/p ablation [**2192**] & [**2199-11-1**]
+Glaucoma
+Migraines
+Shoulder surgery [**3-/2199**]
+
+
+Social History:
+RN at the VA. Lives with her family.
+-Tobacco history: none
+-ETOH: none
+-Illicit drugs: none
+
+
+Family History:
+adopted
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: T 98.0, BP158/78, HR 62-65, RR 14, O2 sat=98% 2LNC
+GENERAL: WDWN F in NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, slight left-sided
+crackles, right side clear, no wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation.
+EXTREMITIES: No c/c/e. No femoral bruits. left groin site
+dressing slightly oozing
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Femoral 2+ radial 2+ DP 1+ PT 1+
+Left: Femoral 2+ radial 2+ DP 1+ PT 1+
+.
+DISCHARGE PHYSICAL EXAM::
+
+Pertinent Results:
+TTE [**2201-5-14**]: Horizontally oriented heart. Mild spontaneous echo
+contrast is seen in the body of the left atrium. No
+mass/thrombus is seen in the left atrium or left atrial
+appendage. The left atrial appendage emptying velocity is
+depressed (<0.2m/s). Mild spontaneous echo contrast is seen in
+the body of the right atrium. The right atrial appendage
+ejection velocity is depressed (<0.2m/s). No thrombus is seen in
+the right atrial appendage Overall left ventricular systolic
+function is low normal (LVEF 50-55%). The ascending, transverse
+and descending thoracic aorta are normal in diameter and free of
+atherosclerotic plaque to 40 cm from the incisors. The aortic
+valve leaflets (3) are mildly thickened. There is no aortic
+valve stenosis. Trace aortic regurgitation is seen. The mitral
+valve leaflets are structurally normal. Mild (1+) mitral
+regurgitation is seen. There is no pericardial effusion.
+IMPRESSION: No evidence of thrombus seen in body or appendage of
+either atria. Depressed biatrial emptying velocities. Low normal
+global left ventricular systolic function. Mild mitral and
+tricuspid regurgitation.
+.
+CARDIAC MaPPING AND PRCEDURE:
+We did 3-D electroanatomical mapping using CARTO. We first
+started in the right atrium. The earliest site of activation was
+at the interatrial septum. Under ICE guidance we then performed
+single transseptal puncture to gain access to the left atrium. A
+bolus of IV heparin along with continuous infusion was then
+administered throughout the study to achieve an ACT greater than
+300 seconds. Entrainment mapping from CS demonstrated long
+return CL. CARTO activation mapping was then performed using a
+Biosense Thermocool irrigated tip ablation catheter. On initial
+mapping, it appeared that there was a focal AT with earliest
+activation near the superior aspect of the common left pulmonary
+[**Last Name (un) **]. Ablation at this site failed to terminate the arrhythmia.
+We did further more detailed mapping around this area and now
+the earliest site appeared to be at the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 109775**], but closer to
+the base of the appendage. Ablation at this site also did not
+affect the tachycardia. More extensive remapping now
+demonstrated earlier sites near the anterior mid [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 109775**]. Again,
+there appeared to be focal activation in a concentric manner.
+Despite changing the early-meets-late threshold, we did not see
+any evidence of a reentrant type circuit. Pacing from various
+parts of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3780**] long return CLs, except when close
+to the mid anterior roof. We then performed further ablation at
+this site, but again there was no change in the AT. Since there
+was a line of double potentials along the roof from a prior roof
+line, we decided to re-inforce the roof line in case there were
+any gaps in this was actually a reentrant rhythm. While burning
+at the left anterior roof, the AT terminated with a 7 second
+pause until CS pacing could resume. We then applied more RF all
+along the roof line connecting the RSPV and the LCPV. We could
+not verify that the roof line had complete bidirectional block
+since we only had one catheter in the LA. However, there were
+double potentials throughout the line or very low amplitude
+signals.
+After ablation, we delievered up to triple atrial extrastimuli
+from the CS (max 400-200-200-200ms) and the LA and burst pacing
+down to 270ms without induction of any arrhythmias. This was
+repeated on and off of up to 6 mcg/min of Isuprel. The ablation
+catheter was then removed from the LA. The opening LA pressure
+was 18. The ending LA pressure was 22. The RA ending pressure
+was 18mmHg.
+The patient's underlying rhythm was still severe sinus brady
+<30bpm. She was then started on dopamine 5 mcg/min which
+promoted a junctional rhythm in the 50-70's with occasional
+sinus P waves.
+All catheters were then removed and sheaths were sutured in
+place. 20 mg of protamine was administered intravenously to
+reverse heparin. When the ACT was less than 180 seconds, the
+sheaths were removed and manual compression held until
+hemostasis was achieved. The patient was successfully extubated
+at the end of the study and transferred to the PACU in stable
+condition. She was continued on the dopamine 5mcg/min and if he
+sinus node does not recover soon, she will be observed in the
+CCU.
+.
+ADMISSION LABS:
+[**2201-5-14**] 08:45AM BLOOD WBC-9.3 RBC-5.05 Hgb-14.1 Hct-43.1 MCV-85
+MCH-27.9 MCHC-32.7 RDW-13.1 Plt Ct-271
+[**2201-5-14**] 08:45AM BLOOD PT-11.4 PTT-40.9* INR(PT)-1.1
+[**2201-5-14**] 08:45AM BLOOD Glucose-98 UreaN-15 Creat-0.9 Na-144
+K-4.2 Cl-108 HCO3-26 AnGap-14
+[**2201-5-14**] 10:05PM BLOOD CK-MB-14* cTropnT-0.28*
+[**2201-5-15**] 03:46AM BLOOD CK-MB-12* cTropnT-0.35*
+[**2201-5-14**] 10:05PM BLOOD Calcium-8.6 Phos-2.3* Mg-1.8
+[**2201-5-15**] 06:24PM BLOOD Type-ART pO2-110* pCO2-38 pH-7.47*
+calTCO2-28 Base XS-3
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is a 54 year old female with history of atrial
+tachycardia but no coronary artery disease who presented to the
+CCU status post atrial ablation on [**2201-5-14**] because she developed
+asystole with pauses 7+ seconds.  Because she continued to have
+pauses and symptomatic ventricular escape beats, she had
+Pacemaker placement on [**2201-5-18**].
+.
+# Sick sinus syndrome: Ablation procedure was successful but
+while they were finishing the 

@@ -1,0 +1,215 @@
+Admission Date:  [**2160-1-11**]              Discharge Date:   [**2160-1-18**]
+
+Date of Birth:  [**2102-6-15**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 5810**]
+Chief Complaint:
+Fevers, ARF, hypoNa, AMS
+
+Major Surgical or Invasive Procedure:
+PICC line placement
+
+History of Present Illness:
+EAST HOSPITAL MEDICINE ATTENDING ADMISSION AND TRIGGER NOTE .
+
+
+
+Date: [**2160-1-11**]
+
+Time:  2105
+
+_
+________________________________________________________________
+
+PCP:
+[**Name Initial (NameIs) 7274**]: [**Last Name (LF) **],[**First Name3 (LF) **] A.
+Location: [**Hospital3 249**]
+[**Hospital1 **]
+Address: [**Location (un) **], [**Hospital Ward Name **] 1, [**Location (un) **],[**Numeric Identifier 2260**]
+Phone: [**Telephone/Fax (1) 250**]
+Fax: [**Telephone/Fax (1) 4004**]
+Email: [**University/College 104765**]
+confirmed in OMR
+.
+.
+57M with h/o ulcerative colitis on enterocort and mesalamine who
+presents with a productive cough, chills, sore throat x 6 days.
+Tmax 104 on Saturday. Also notes lightheadedness and decreased
+PO intake, +HA. Denies CP/SOB/ N/V/abd pain/diarrhea/dysuria.
+Exam: no tonsilar exudates, no sinus tenderness, mm dry, lungs
+clear, no abd tenderness, no LE edema.
+He was recently admittied in [**2159-11-2**] with abdominal
+distention, decreased ostomy output, and found to have active
+inflammation of the last 20 cm of his ileum. The patient
+improved in the hospital with conservative measures including
+n.p.o., IV fluids, IV Cipro, and Flagyl.  He was seen by the
+surgery servicewith no indication for surgical management.  He
+saw GI initially in clinic on [**11-26**] in followup after his
+hospitalization and was doing fairly well.  An ileoscopy with
+biopsies was performed on [**11-28**], which demonstrated erythema,
+congestion, and discrete areas of ulceration in the ileum with
+biopsies showing mild active ileitis at 20 cm and 10 cm.  Based
+on these findings and his symptoms, he was started Entocort 9 mg
+a day.  At a follow up appt on [**2159-12-17**] he was feeling well and
+his GI sx had improved. He reported drainage from his umbilicus
+which was thought to be likely from the area of the subcutaneous
+fistula. He was re-started on cipro and flagyl for the fistula
+drainage
+.
+
+In ER: (Triage Vitals: 0 99 116 90/61 16 96%
+Meds Given:  vancomycin 1gm IV, zosyn 2.25 gm IV
+Fluids given: 1L NS
+Radiology Studies: Renal US and chest X ray
+Consults called: none
+.
+
+Admission Vitals:
+97.6, 88, 108/62, 100%RA
+
+
+.
+Upon arrival to the floor the patient is very confused. When I
+ask him about his sx he says that he refers to a website and
+trying to meet with the webmaster for the website. He also tells
+me that his cough is like a football pass. When I ask him why he
+is in the hospital he tells me that he is sick and he would like
+to get better but then he tells me that he is here for "excise
+tax".
+He does not report any abdominal sx. His ostomy output is
+unchanged.
+.
+PAIN SCALE: 0/10
+________________________________________________________________
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:        [] All Normal
+[+] Fever  [+] Chills   [ ] Sweats  [ ] Fatigue   [ ] Malaise
+[ ]Anorexia  [ ]Night sweats
+[ +] _5_-6___ lbs.    weight  loss/ over __since [**Month (only) 404**]
+
+HEENT:          [] All Normal
+[ ] Blurred vision   [ ] Blindness  [ ] Photophobia
+[ ] Decreased acuity [+] Dry mouth  [ ] Bleeding gums
+[ ] Oral ulcers  [ ] Sore throat    [ ] Epistaxis  [ ] Tinnitus
+[ ] Decreased hearing    [ ]Tinnitus [ ] Other:
+
+RESPIRATORY:    [] All Normal
+[- ] SOB     [ ] DOE    [ ] Can't walk 2 flights     [+ ] Cough-
+dry - when I ask him about his cough he says its like lining up
+a pass.
+[ ] Wheeze  [ ] Purulent sputum    [ ] Hemoptysis   [ ]Pleuritic
+pain
+[ ] Other:
+
+CARDIAC:        []  All Normal
+[ ] Angina    [ -] Palpitations   [ ] Edema   [ ] PND
+[ ] Orthopnea    [ -] Chest Pain [ ] Other:
+
+GI:             [X] All Normal
+[ ] Blood in stool     [ ] Hematemesis     [ ] Odynophagia
+[ ] Dysphagia:   [ ] Solids    [ ] Liquids
+[ ] Anorexia    [] Nausea  [] Vomiting   [ ] Reflux
+[- ] Diarrhea    [ -] Constipation  [-]  Abd pain  [ ] Other:
+
+GU:             [X] All Normal
+[ ] Dysuria      [ ] Frequency    [ ] Hematuria  []Discharge
+[]Menorrhagia
+
+SKIN:           [X] All Normal
+[ ] Rash        [ ] Pruritus
+
+MS:             [x] All Normal
+[ ] Joint pain    [ ] Jt swelling   [ ] Back pain  [ ] Bony pain
+
+NEURO:          [] All Normal
+[-] Headache    [ ] Visual changes   [ ] Sensory change
+[+]Confusion [ ]Numbness of extremities
+[ ] Seizures   [- ] Weakness [ ] Dizziness/Lightheaded [
+]Vertigo [ ] Headache
+
+ENDOCRINE:     [X] All Normal
+[ ] Skin changes  [ ] Hair changes   [ ] Temp subjectivity
+
+HEME/LYMPH:    [X] All Normal
+[ ] Easy bruising   [ ] Easy bleeding    [ ] Adenopathy
+
+PSYCH:         [X] All Normal
+[ ] Mood change        []Suicidal Ideation  [ ] Other:
+
+[X]all other systems negative except as noted above
+
+MICU admission HPI:
+Mr. [**Known lastname 7749**] is a 57 year old male with a history of ulcerative
+colitis with end ileostomy presenting for evaluation of feeling
+"lousy."  Starting 1 week ago, he had fever, myalgias,
+rhinorrhea, sneezing and nonproductive cough. This lasted for ~
+3 days and then he slowly improved. Reported Tmax ~104 on
+Saturday. He has had marked diminished po intake over the last
+week. He reports stable/normal ileostomy output. He is very
+thirsty. He presented to his PCP's office today to report
+ongoing symptoms. He was bothered by lightheadedness and
+headache. In the office, he was hypothermic, HR in 140s with
+orthostatic symptoms. He was referred to the ED.
+.
+In the ED, VS: 99, 90/61, 116 16 96% RA. He had a normal renal
+ultrasound and unremarkable chest x-ray. He was admitted to the
+medical service for management of hyponatremia and acute renal
+failure.  He was given 1 gram vancomycin and 2.25 mg Zosyn
+
+
+Past Medical History:
+Longstanding ulcerative colitis proctocolectomy and pouch anal
+stenosis in [**2141**] with subsequentpouch resection and end
+ileostomy due to a stricture in the mid pouch and a leak at the
+top of the pouch.
+B12 deficiency on IM vitamin B-12 injection
+Depression treated with Effexor
+Olecrenon Bursitis
+liver function chronically elevated with an ALT of 84. This can
+be related to autoimmune inflammatory bowel disease, or alcohol
+intake.
+History of spontaneous pneumothorax at age 18, treated with
+chest tube
+Right thumb tendon injury [**2141**].
+Actinic keratoses/seborrheic keratosis
+
+PAST MEDICAL HISTORY
+B12 deficiency, depression, olecranon bursitis, elevated ALT,
+history of spontaneous pneumothorax at age 18, right thumb
+tendon
+injury in [**2141**], actinic keratoses, and seborrheic keratoses.
+.
+ULCERATIVE COLITIS HISTORY
+1.  Diagnosed in [**2140**].
+2.  Status post total proctocolectomy and ileal pouch anal
+stenosis in [**2141**].
+3.  Stricture in the mid pouch and a stricture or leak at the
+top
+of the pouch at the afferent loop.  Underwent resection of blind
+loop and diverting ileostomy for this in [**2146**] and then a ventral
+pouch resection and end ileostomy.
+4.  [**2148**] recurrent presacral abscesses status post multiple
+drainage procedures and occurrence of an intraperitoneal fistula
+at the site of prior diverting ileostomy with take down of
+fistula.  Per Dr.[**Name (NI) 10946**] note, "I should emphasize that
+prior to this operation I had all of his prior pathology
+reviewed, and although he had been labeled as having Crohn's
+disease he in fact truly has ulcerative colitis".
+Intraoperatively, there was no evidence of Crohn's.
+5. [**2150**] presented with abdominal pain, diarrhea.  CT showed
+thickening in the distal small bowel, treated with IV Cipro,
+Flagyl followed by p.o.  Cipro, Flagyl and a small bowel
+follow-through that was normal.  ANCA serologies reportedly
+negative or diagnostically UC at thetime.
+8. [**2156**] presented with a cutaneous fistula and found to be a
+subcutaneous fistula rather than enterocutaneous fistula.
+Underwent ileoscopy that showed a single ulcer in the distal
+ileum at 10 cm from the stoma with biopsy consistent with
+chronic
+active enteritis and focal ulceration of granulation tissue.  No
+gr

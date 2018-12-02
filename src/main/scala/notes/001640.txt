@@ -1,0 +1,198 @@
+Admission Date:  [**2118-12-13**]              Discharge Date:   [**2118-12-27**]
+
+Date of Birth:  [**2033-2-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 10682**]
+Chief Complaint:
+Acute blood loss anemia
+
+Major Surgical or Invasive Procedure:
+- ERCP [**12-14**]
+- Selective mesenteric arteriography and coil and gelfoam
+embolization of distal GDA branches [**12-15**]
+- Intubation peri-ERCP [**Date range (1) 63832**]
+- Trauma RIJ [**Date range (1) 63833**]
+- Right radial arterial line [**Date range (1) 24019**]
+
+History of Present Illness:
+85M with DM, AFib on coumadin, and recent diagnosis (on [**12-10**])
+of cholangitis and cholecystitis s/p ERCP, sphincterotomy, and
+distal CBD stone extraction at [**Hospital1 18**] on [**12-11**] transferred from
+[**Hospital3 3583**] for acute blood loss anemia. Periampullary
+diverticulum was also noted during ERCP. Initially returned to
+[**Hospital3 3583**] post-procedure and did well for the first 24
+hours. Treated with zosyn. The plan was to proceed with
+cholecystectomy but Hct dropped 28%->22% overnight into [**12-13**].
+He denies feeling fever, chills, sweats, dizziness,
+lightheadedness, chest pain, shortness of breath, abdominal
+pain, nausea, vomiting, melena, or hematochezia. Underwent EGD
+[**12-13**] showing active bleeding at the base of the sphincterotomy
+site with blood in the stomach and the duodenum. Treated with SC
+epi injection and gold probe BICAP for hemostasis. Tranfused a
+total of 3U pRBC prior to transfer.
+
+Upon arrival, patient is without complaints.
+
+Past Medical History:
+DM
+CAD
+AFib
+s/p PPM
+Chronic diastolic CHF
+Cerebral aneurysm repair
+CKD
+
+Social History:
+Former employee at Proctor & Gamble. No tobacco or ETOH.
+
+
+Family History:
+Mother died at 93 of CAD.
+
+Physical Exam:
+Physical Exam on [**Hospital Unit Name 153**] Admission
+VS: T 97.2 HR 72 BP 128/54 RR 15 92%2L
+GEN: Appears comfortable, resp nonlabored
+HEENT: icteric sclera, OP clear, dry MM
+RESP: R>L bibasilar rales no wheeze/rhonchi
+CV: reg rate nl S1S2 no m/r/g
+ABD: soft obese NTND normoactive BS
+EXT: warm, dry no edema
+NEURO: AAOx3
+
+Pertinent Results:
+Admission labs:
+[**2118-12-13**] 08:44PM   WBC-6.0 RBC-3.13* HGB-9.6* HCT-27.5* MCV-88
+MCH-30.8 MCHC-35.1* RDW-15.3
+[**2118-12-13**] 08:44PM   NEUTS-78.8* LYMPHS-13.4* MONOS-5.3 EOS-2.2
+BASOS-0.3
+[**2118-12-13**] 08:44PM   PLT COUNT-154
+[**2118-12-13**] 08:44PM   GLUCOSE-119* UREA N-49* CREAT-1.8* SODIUM-141
+POTASSIUM-5.1 CHLORIDE-109* TOTAL CO2-24 ANION GAP-13
+[**2118-12-13**] 08:44PM   CALCIUM-8.9 PHOSPHATE-3.2 MAGNESIUM-1.8
+[**2118-12-13**] 08:44PM   ALT(SGPT)-91* AST(SGOT)-61* ALK PHOS-193* TOT
+BILI-2.9*
+[**2118-12-13**] 08:44PM   LIPASE-74*
+[**2118-12-13**] 08:44PM   PT-13.9* PTT-30.9 INR(PT)-1.2*
+
+Discharge labs:
+[**2118-12-27**] 6:15AM WBC 6.8, Hgb 9.6, HCT 29.4, Plt ct 338
+[**2118-12-27**] 6:15AM INR 1.3, PTT 77.7
+[**2118-12-26**] Glu 125, BUN11, Cr 1.2, Na 140, K 3.9, Cl 109, HCO3 25
+[**2118-12-23**] ALT 26, AST 26, LDH 246, Alk phos 130, TB 0.9
+
+MRSA SCREEN (Final [**2118-12-18**]):
+      STAPH AUREUS COAG +.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+============
+IMAGING
+============
+[**2118-12-13**]
+- CXR: There is enlargement of the cardiac silhouette. Left
+transvenous pacemaker leads terminate in standard position,
+although the tip of the one that goes to the right ventricle is
+not visualized. There is mild interstitial pulmonary edema. The
+left lateral CP angle was not included on the film. There is no
+evidence of large pleural effusions. There are no focal
+consolidations.
+
+[**2118-12-14**]
+- Echo: The left atrium is moderately dilated. The right atrium
+is moderately dilated. The estimated right atrial pressure is
+0-5 mmHg. There is moderate symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal.
+Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. The
+right ventricular free wall is hypertrophied. The aortic root is
+mildly dilated at the sinus level. The ascending aorta is mildly
+dilated. The aortic arch is moderately dilated. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Moderate (2+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. There is no mitral valve
+prolapse. Trivial mitral regurgitation is seen. There is mild
+pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+IMPRESSION: Moderate symmetric left ventricular hypertrophy with
+normal biventricular systolic function. Moderate aortic
+regurgitaiton
+
+============
+INTERVENTION
+============
+[**2118-12-14**]
+- ERCP: Evidence of a previous sphincterotomy was noted in the
+major papilla and active bleeding was noted at the apex on the
+left side of the sphincterotomy.  Previous cautery marks were
+visible at the base of the sphincterotomy. The area was
+thoroughly irrigated. Cannulation of the biliary duct was
+performed with a sphincterotome using a free-hand technique. The
+common bile duct, common hepatic duct appeared unremarkable. In
+order to keep patency of the CBD,  A 7cm by 10FR Cotton-[**Doctor Last Name **]
+biliary stent was placed successfully. After insertion of a CBD
+stent, approximately 20mL of 1:10,000 epinephrine was injected
+at the apex of the sphincterotomy with significant slowing of
+the bleeding. Bipolar cautery using a Gold probe was applied at
+26Watts with successful complete hemostasis.
+
+[**2118-12-15**]
+- IR: The common hepatic arteriogram showed brisk reflux of
+contrast into the large splenic artery. There was some
+resistance to antegrade flow in the hepatic arteries noted and
+intrahepatic arteries were attenuated and irregular consistent
+with either edema or possibly changes related to infection
+and/or ischemia. A plastic stent was seen in the right upper
+quadrant and arterial phase of the gastroduodenal opacification
+shows active extravasation from the distal branches of the
+pancreaticoduodenal arcade. This corresponds with the expected
+site of the ampulla and corresponds to findings at the ERCP.
+With the microcatheter out distally, active extravasation was
+not seen, but Gelfoam and coil embolization were performed and
+final images shows coils proximal and distal to the site of
+extravasation. The initial post-embolization showed antegrade
+flow at the level of the extravasation though no active bleeding
+was seen at that time, however therefore additional embolization
+was performed and the final post-embolization arteriogram taken
+from the level of the proximal GDA showed no further antegrade
+flow in anterior and posterior branches. In addition,
+post-embolization study of the superior mesenteric arteries
+showed no anterograde flow or extravasation at the area
+embolized. More detailed study of the SMA was not performed.
+Incidental note is made of pacer wires and tortuosity of the
+lower abdominal aorta and iliac arteries.
+CONCLUSION:
+1. Mesenteric arteriography is showing active contrast
+extravasation (bleeding) from the distal branches of the
+gastroduodenal artery corresponding to the site of the ampulla.
+2. Successful microcoil and Gelfoam embolization proximal and
+distal to the site of extravasation with post-embolization
+imaging showing no further anterograde flow in this region.
+3. Note made of of abnormal hepatic arterial supply the branch

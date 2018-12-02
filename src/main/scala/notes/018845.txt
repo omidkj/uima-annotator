@@ -1,0 +1,213 @@
+Admission Date:  [**2170-11-14**]              Discharge Date:   [**2170-11-27**]
+
+Date of Birth:  [**2095-1-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Bactrim / Vancomycin / Ambien / Augmentin / Cephalexin / IV Dye,
+Iodine Containing
+
+Attending:[**First Name3 (LF) 5129**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+PICC placement
+
+
+History of Present Illness:
+75yo male with complicated medical history including
+hypertension, hyperlipidemia, afib, and systolic CHF (EF of 15%)
+who is being re-admitted with dyspnea.
+
+The patient has had 2 recent hospitalization in [**2170-10-28**].
+He was admitted from [**Date range (1) 98263**] with acute on chronic sytolic
+CHF and multifocal pneumonia and sepsis. During that admission,
+he was intubated and on pressors. He had received large volumes
+of fluid for hypotension and then was dramatically diuresed to
+improve his respiratory status. By discharge, the patient was
+euvolemic and his home diuretics were restarted. At his re
+presentation on [**2172-11-6**], the patient appeared more fluid
+overloaded with LE edema. He was diuresed with lasix over 2
+days. He was discharged on 60mg po lasix.
+
+Of note, he has a recent history of MDR Klebsiella Pneumonia. He
+was put on meropenem during his hospital stay, and discharged on
+ertapenem. He will complete his abx course on [**2170-11-16**].
+
+Patient was found this morning at rehab with O2 sats in 60s. At
+baseline he is on 2-4L of oxygen. EMS put a NRB on him and he
+was 100% O2 sat.  In the ED, initial VS:BP 141/64 HR 70 RR 16
+100% on 15L NRB. Labs notable for an INR of 4.4 and BNP of
+[**Numeric Identifier 98264**].  CXR was concerning for worsening multifocal infiltrates.
+ The patient was placed on BiPap with some relief of respiratory
+distress and sent to the MICU.
+
+
+Past Medical History:
+-Hypertension
+-Hyperlipidemia
+-Chronic Systolic CHF (dry weight 196 lbs) secondary to dilated
+cardiomyopathy. EF 15% per TEE [**10/2169**]
+-Atrial fibrillation s/p DCCV x 2 w/ reccurence and ablation
+[**2169-10-13**]
+-h/o Pulmonary embolism
+-Rectal adenocarcinoma s/p transanal excision [**2166**]
+-s/p umbilical hernia repair with mesh
+-LLE insufficiency s/p ablation of L greater saphenous vein, c/b
+
+ulcer formation.
+-Osteoarthritis s/p knee surgery
+-Spinal stenosis s/p back surgery
+-Allergic rhinitis
+-s/p nasal surgery
+-rosacea
+-actinic keratosis
+-h/o psychogenic polydipsia and SIADH
+-Subclavian artery stenosis causing chronic low L-arm BPs
+- history of adrenal insufficiency
+
+Social History:
+Home: usually lives at [**Hospital1 1501**], recently discharged to rehab after
+complicated admission
+Tobacco: 40 PPY smoking history but quit 34 years ago
+EtOH: 2-3 beers, [**1-30**] x per week
+Drugs: Denies
+Occupation: retired firefighter
+
+
+Family History:
+Brother deceased in 70's. No family history of early cardiac
+disease.
+
+Physical Exam:
+Initial physical exam:
+
+Vitals - T: 99.1 BP: 146/40 HR:80 RR:16 02 sat: 99% on Bipap
+FiO2 of 40%
+GENERAL: BiPAP in place. Patient nods to questions, but has
+difficulty answering questions [**1-29**] mask.
+HEENT: NCAT. Unable to assess further given BIPAP mask. No LAD.
+Neck supple. Unable to assess JVP given Bipap mask.
+CARDIAC: RRR. No murmurs.
+LUNG: Coarse rhonchi bilaterally on anterior exam. Intermittent
+wheezes. No crackles.
+ABDOMEN: Soft, NT, ND. No masses. No rebound or guarding.
+EXT: WWP. No LE edema.
+NEURO: A+Ox3. Moving all extremities. Non focal.
+DERM: Multiple ecchymoses.
+
+
+Pertinent Results:
+Labs on admission:
+
+[**2170-11-14**] 05:12AM BLOOD WBC-11.3* RBC-3.38* Hgb-8.9* Hct-28.1*
+MCV-83 MCH-26.3* MCHC-31.7 RDW-16.6* Plt Ct-221
+[**2170-11-14**] 05:12AM BLOOD Neuts-82.2* Lymphs-11.1* Monos-4.3
+Eos-2.3 Baso-0.2
+[**2170-11-14**] 05:12AM BLOOD PT-41.6* PTT-55.1* INR(PT)-4.4*
+[**2170-11-14**] 05:12AM BLOOD Glucose-90 UreaN-23* Creat-1.2 Na-135
+K-4.1 Cl-92* HCO3-36* AnGap-11
+[**2170-11-14**] 05:12AM BLOOD CK(CPK)-20*
+[**2170-11-14**] 05:12AM BLOOD CK-MB-NotDone proBNP-[**Numeric Identifier 98264**]*
+[**2170-11-14**] 05:45PM BLOOD Mg-1.7
+[**2170-11-15**] 04:33AM BLOOD Digoxin-0.8*
+[**2170-11-14**] 06:42AM BLOOD Type-ART pO2-410* pCO2-79* pH-7.33*
+calTCO2-44* Base XS-12
+
+[**2170-11-24**] 05:18AM BLOOD WBC-5.5 RBC-3.11* Hgb-8.3* Hct-25.7*
+MCV-83 MCH-26.5* MCHC-32.1 RDW-15.8* Plt Ct-317
+[**2170-11-24**] 05:18AM BLOOD Plt Ct-317
+[**2170-11-24**] 05:18AM BLOOD Glucose-87 UreaN-17 Creat-1.1 Na-127*
+K-4.7 Cl-89* HCO3-32 AnGap-11
+[**2170-11-24**] 05:18AM BLOOD Calcium-8.4 Phos-3.5 Mg-1.6
+[**2170-11-24**] 05:18AM BLOOD WBC-5.5 RBC-3.11* Hgb-8.3* Hct-25.7*
+MCV-83 MCH-26.5* MCHC-32.1 RDW-15.8* Plt Ct-317
+[**2170-11-25**] 06:25AM BLOOD WBC-5.7 RBC-3.00* Hgb-8.0* Hct-23.9*
+MCV-80* MCH-26.8* MCHC-33.6 RDW-16.2* Plt Ct-383
+[**2170-11-26**] 05:28AM BLOOD WBC-6.5 RBC-3.16* Hgb-8.4* Hct-25.9*
+MCV-82 MCH-26.5* MCHC-32.2 RDW-16.1* Plt Ct-412
+[**2170-11-27**] 06:06AM BLOOD WBC-5.3 RBC-3.04* Hgb-7.9* Hct-24.0*
+MCV-79* MCH-26.1* MCHC-33.1 RDW-16.3* Plt Ct-382
+[**2170-11-25**] 06:25AM BLOOD PT-24.8* PTT-49.8* INR(PT)-2.4*
+[**2170-11-26**] 02:00PM BLOOD PT-19.9* PTT-45.4* INR(PT)-1.8*
+[**2170-11-27**] 06:06AM BLOOD PT-20.7* PTT-46.2* INR(PT)-1.9*
+[**2170-11-27**] 06:06AM BLOOD Plt Ct-382
+[**2170-11-24**] 05:18AM BLOOD Glucose-87 UreaN-17 Creat-1.1 Na-127*
+K-4.7 Cl-89* HCO3-32 AnGap-11
+[**2170-11-25**] 06:25AM BLOOD Glucose-84 UreaN-18 Creat-1.2 Na-120*
+K-4.8 Cl-86* HCO3-31 AnGap-8
+[**2170-11-25**] 01:47PM BLOOD Glucose-109* UreaN-19 Creat-1.3* Na-125*
+K-4.6 Cl-86* HCO3-34* AnGap-10
+[**2170-11-26**] 05:28AM BLOOD Glucose-87 UreaN-20 Creat-1.3* Na-120*
+K-4.6 Cl-88* HCO3-30 AnGap-7*
+[**2170-11-26**] 01:59PM BLOOD Na-120*
+[**2170-11-27**] 06:06AM BLOOD Glucose-106* UreaN-20 Creat-1.3* Na-123*
+K-4.9 Cl-85* HCO3-29 AnGap-14
+[**2170-11-25**] 06:25AM BLOOD Calcium-8.5 Phos-3.2 Mg-1.7
+[**2170-11-26**] 05:28AM BLOOD Calcium-8.3* Phos-3.9 Mg-1.7
+[**2170-11-26**] 01:59PM BLOOD Osmolal-258*
+
+[**2170-11-14**] EKG: Ventricular paced rhythm with ventricular
+premature beat. Atrial mechansim is probably atrial
+fibrillation. Since the previous tracing of the same date no
+significant change.
+
+Imaging:
+[**2170-11-14**] CXR:IMPRESSION: Interval progression of congestive
+heart failure. Severe chronic lung disease.
+
+[**2170-11-15**] CXR: Moderate cardiomegaly is stable. Large right
+pleural effusion and small left pleural effusion are stable
+associated with adjacent atelectasis. Moderate pulmonary edema
+has improved, is asymmetric, greater in the right side. Of note,
+there are two more focal denser areas that could be edema or
+pneumonia in the right mid lung and increasing in the left upper
+lobe in the periphery.
+Left transvenous pacemaker leads terminate in a standard
+position. Right PICC tip is in the lower SVC.
+
+[**2170-11-19**] Chest CT:
+1. Minimal degree of pulmonary edema. Significant improvement
+compared to the prior studies. The left upper lobe focal area of
+consolidation as described, might represent new pneumonia, also
+may represent a residue of the prior extensive consolidation
+seen in that area dating back to [**2170-11-15**].
+
+2. Interstitial changes in subpleural location, most of the
+upper lobes that might represent nonspecific interstitial
+pneumonia.
+
+3. Minimal emphysema, affecting the upper lungs.
+
+4. Severe cardiomegaly and extensive coronary and aortic
+calcifications.
+
+5. Mild compression fracture of T12.
+
+6. Bilateral moderate pleural effusions accompanied by bibasal
+areas of
+atelectasis.
+
+[**2170-11-21**] u/s calf:
+IMPRESSION: Small fluid collection corresponding to palpable
+abnormality.
+The appearance is nonspecific. Considerations might include
+resolving
+hematoma or small abscess. This collection should be able to be
+targeted for aspiration by palpation, given its superficial
+location.
+
+
+Brief Hospital Course:
+75 yo M with a history of HTN, HL, Afib, with 2 recent
+admissions for multilobar pneumonia and CHF exacerbation
+
+1.  Respiratory distress: Initially presented from rehab with
+increased peripheral edema, dyspnea and O2 sats in 60s on
+baseline 2-4L NC.  Respiratory distress was felt to be
+multifactorial, from recent pneumonia and acute on chronic CHF
+exacerbation.
+a. acute on chronic systolic CHF exacerbation:  Upon admission,
+pat

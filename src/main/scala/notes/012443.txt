@@ -1,0 +1,237 @@
+Admission Date:  [**2154-12-12**]              Discharge Date:   [**2154-12-17**]
+
+Date of Birth:  [**2096-11-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Morphine
+
+Attending:[**First Name3 (LF) 678**]
+Chief Complaint:
+PCP: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 216**]
+.
+CC: Chest Pain
+
+Major Surgical or Invasive Procedure:
+right external jugular catheter
+clotted dialysis catheter removal ([**2154-12-16**])
+
+
+History of Present Illness:
+Mr. [**Known lastname 107485**] is a 58 year old man with history of diabetes,
+ESRD on HD, CAD s/p MI who presents with left-sided chest pain
+since dialysis the morning of admission. The chest pain is
+around the site of his hemodialysis catheter, although the site
+of the catheter is clean and dry without purulence or erythema.
+The chest pain is constant and is non-pleuritic; he has had
+similar episode in the past. He denies fever, shortness of
+breath, abdominal pain, nausea, and vomiting. He reports that
+his back is pruritic. He notes recent crack cocaine use in the
+past three days.
+.
+In dialysis the morning of admission, his hematocrit was noted
+to be 5. He denies bright red blood per rectum and hematemesis,
+but he had an episode of melena several days ago. In the ED, his
+vitals were He refused NG lavage but allowed placement of a
+peripheral IV in the EJ along with another PIV. He was guaiac
+negative x 2 in the ED. The renal hemodialysis team was
+consulted in the emergency room.
+.
+He has had an extensive workup in the past including (at least)
+six endoscopies, three colonoscopies, one enteroscopy, and a
+capsule camera study; all studies have been negative with the
+exception of small AVM's in the duodenum seen and cauterized on
+one study, as well as minor jejunal erosions noted on the
+capsule camera study. During his last admission (end of
+[**Month (only) 359**]), he required 7 units of pRBC's.
+.
+GI was consulted and given pt's multiple admissions for GI bleed
+and non-compliance with follow-up and active crack/cocaine use,
+GI recommended no endoscopies at this time. Pt was transfused 2
+units while in the MICu and his Hct stabilized at 26, up from 15
+on presentation. Pt's mental status was initially altered and
+given his substance abuse history he was placed on a CIWA scale.
+ He cleared mentally without benzos and received haldol PRN
+agitation.  He received hemofiltration for fluid overload and
+pul edema and will continue on his outpt dialysis. His increased
+troponins were attributed to his renal failure and his CK-MBs
+remained WNL.
+
+Past Medical History:
+#) ESRD on hemodialysis
+#) Type II diabetes mellitus
+#) CAD s/p MI, MIBI in [**11-18**] showed reversible defects inferior/
+latateral
+#) CHF with EF 30% and severe global hypokinesis
+#) Hypertension
+#) Dyslipidemia
+#) Atrial fibrillation
+#) History of gastrointestinal bleed: Duodenal, jejunal, and
+gastric AVMs, s/p thermal therapy; sigmoid diverticuli
+#) Chronic pancreatitis
+#) Hepatitis C
+#) GERD
+#) Gout, s/p arthroscopy with medial meniscectomy [**5-/2149**]
+#) Depression, s/p multiple hospitalizations due to SI
+#) Polysubstance abuse: crack cocaine, EtOH, tobacco
+#) Erectile dysfunction, s/p inflatable penile prosthesis [**5-/2148**]
+
+
+
+Social History:
+Smokes 3 cigs/day. Hx of alcohol abuse, with DTs and
+detoxification. Active crack cocaine use.
+
+
+
+
+Family History:
+Father with alcoholism, cousin with [**Name2 (NI) 14165**] cell. Mother with
+renal failure, d. 58. Twin brother and son with kidney disease.
+
+Physical Exam:
+VITALS: T 98.9F, HR 115, BP 134/70, RR 28, Sat 94%2L
+GEN: Terse, appears older than stated age, no acute distress
+HEENT: MMM, OP without lesions
+NECK: No JVD appreciated
+RESP: Bibasilar crackles, otherwise clear
+CV: Tachycardic, regular rate, soft systolic murmur at
+apex-->axilla
+ABD: Non-distended, soft, + bowel sounds
+EXT: No edema, L HD catheter clean/dry/intact, without
+tenderness
+SKIN: No rashes, L AV fistula + thrill
+NEURO: A&O x 3
+RECTAL: Guaiac negative x 2 in ED (per report)
+
+
+Pertinent Results:
+.
+[**2154-12-12**]
+11:27p
+HCT: 22.5
+.
+[**2154-12-12**]
+8:46p
+.
+PT: 17.0  PTT: 150  INR: 1.5
+.
+[**2154-12-12**]
+.
+141  101  28
+=============< 248
+3.5  33  3.4
+MB: 5  Trop-T: 0.24
+.
+Ca: 8.1 Mg: 1.8 P: 3.3
+.
+Iron: 71
+Hapto: 160
+.
+WBC 4.1  Hct 15.3 Plt  258
+N:77.3 L:13.0 M:5.9 E:3.7 Bas:0.1
+Retic: 5.5
+.
+[**2154-12-12**]
+1:50p
+.
+CK: 118  MB: 6  Trop-T: 0.26
+.
+CXR: Chronic small right-sided pleural effusion and tiny left
+pleural effusion, unchanged.
+.
+Removed tunnelled catheter: Successful removal of a left
+internal jugular vein tunneled line.
+.
+.
+
+
+Brief Hospital Course:
+58-yo man with diabetes, ESRD on HD, CAD s/p MI, substance
+abuse, who presented with left-sided chest pain, found at HD to
+have Hct 15.
+.
+#. Atrial fibrillation - Pt has known history of paroxysmal
+atrial fibrillation and currently in A-fib. Usually
+well-controlled with HR 90s-110s, but noted to have short
+episodes of RVR over nights to the 140s-160s, treated with
+Lopressor IV and PO with good response. No further events with
+increased dose of labetalol, although pt remains in A-fib at
+this point.  He was discharged on labetalol at 200mg [**Hospital1 **], and
+without anticoagulation given his anemia and GI bleeding.
+.
+#. Anemia - Pt reports an episode of melena approx 4-5 days PTA,
+although he has had no episodes of melena or BRBPR since that
+time. He has had many prior scopes and is known to have small
+bowel AVMs. Guaiac negative x2 in the ED, refused NG lavage, no
+evidence of hemolysis. GI aware, no plan to scope currently. He
+received 5units PRBCs during his MICU course, as well as DDAVP
+25mg IV x1 for uremic bleeding on admission, and his Hct has
+responded nicely and continues to be stable at 27-30 (baseline
+Hct 32-36). He was continued on a PO PPI [**Hospital1 **], and his ASA and
+anticoagulation were held. He received Epo at HD.
+.
+#. ESRD on HD - Pt has received HD through AVF on this
+admission, as his HD catheter was known to be clotted and was
+then removed [**12-16**]. Renal team aware, appreciate involvement.
+The patient received ultrafiltration for pulmonary edema, and
+received Epo as above for his anemia.
+.
+#. Altered Mental Status - Pt noted to have AMS by MICU team,
+felt to be multifactorial due to anemia and cocaine use. Now
+appears to be at baseline. Patient also advised to see a
+psychiatrist for treatment of his depression, and to avoid
+illicit drugs.
+.
+#. CAD - Pt was noted to have ECG changes on admission (TWI
+V5-V6), with last stress test [**2152**] showing reversible defects
+inferiorly and laterally. CEs flat x3 on admission.  His ASA was
+held given his anemia / GI bleeding as above, but he was
+continued on his labetalol and lisinopril.
+.
+#. Hypertension - currently stable on home anti-hypertensives.
+His labetalol was titrated for rate control of his atrial
+fibrillation.
+.
+#. CHF - noted to have decreased EF [**9-/2154**], currently stable.
+He was continued on his home BB and ACE-I.
+.
+#. Diabetes - Pt is on [**Hospital1 **] NPH at home.  He was continued on [**Hospital1 **]
+NPH and his doses were titrated. He was also covered with an
+insulin sliding scale and kept on a diabetic diet.
+.
+#. Hyperlipidemia - He was continued on atorvastatin at home
+dose.
+.
+#. Pruritus - DDx for etiology: uremia vs. narcotic effect. He
+was treated with Sarna lotion.
+.
+
+Medications on Admission:
+Thiamine 100mg daily
+Folic acid 1mg daily
+Iron sulfate
+Atorvastatin 20mg daily
+Insulin NPH 30 units qAM, 20 units qPM
+Sevelamer 800mg TID with meals
+Labetalol 100mg [**Hospital1 **]
+Pantoprazole 40mg daily
+Aspirin 325mg daily
+Lisinopril 40mg daily
+
+
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+[**Hospital1 **]:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Labetalol 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+[**Hospital1 **]:*60 Tablet(s)* Refills:*2*
+3. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+[**Hospital1 **]:*30 Tablet(s)* Refills:*2*
+4. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Thiamine HCl 100 mg Tablet Sig: One (1) Tab

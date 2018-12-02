@@ -1,0 +1,182 @@
+Admission Date:  [**2189-4-20**]              Discharge Date:   [**2189-5-14**]
+
+Date of Birth:  [**2136-7-12**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 12174**]
+Chief Complaint:
+Lower extremity cellulitis.
+
+Major Surgical or Invasive Procedure:
+--paracentesis x5 ([**4-21**], 2, 9, 17, and 23)
+--intubation
+--incision and drainage of left foot ([**4-28**])
+--upper endoscopy and sigmoidoscopy ([**4-30**])
+--bronchoscopy with broncheoalveolar lavage
+
+History of Present Illness:
+Mr. [**Known lastname 85084**] is a 52-year-old man with history of cirrhosis and
+alcoholic hepatitis who was admitted to [**Hospital1 18**] on [**4-20**] due to LLE
+cellulitis.  He was started on IV antibiotics at that time
+(eventually broadened to vanc/zosyn) and had his left foot I&D'd
+by podiatry.  Wound cultures from left foot were positive for
+pansensitive klebsiella.  [**Hospital **] hospital course was also
+complicated by SBP, for which he was given 5 days of treatment.
+Repeat diagnostic paracentesis were negative.  On [**4-29**], patient
+began complaining of worsening abodminal pain and his mental
+status began to deteriorate; he also spiked a fever to 101.  He
+subsequently had a bright red bowel movement.  In the context of
+this clinical change, Mr. [**Known lastname 85084**] was transferred to the MICU
+for further care.
+
+In the ICU, patient had an EGD, which showed severe gastritis
+and enteropathy.  He had one non-bleeding grade I varix; a flex
+sig showed bleeding hemorrhoids.  CT scan on [**5-1**] showed
+pneumotosis intestinalis thus, patient was unable to receive
+lactulose.  Mr. [**Known lastname 85084**] was eventually intubated due to
+worsening mental status and inability to protect airway.  NG
+tube was placed for bowel decompression and TPN was started.  ID
+suggested broad spectrum antibiotics including:  dapto, flagyl,
+zosyn, and cefepime.  Klebsiella grew in wound and in sputum,
+but all cultures are otherwise NGT.  Antibiotics were tailored
+to just cefepime.  On [**2189-5-5**], patient self-extubated.  He was
+transferred back to [**Hospital Ward Name 121**] 10 on [**5-6**].
+
+Upon examination in the MICU, patient is oriented only to self.
+He cannot accurately explain where he is, but does think it is
+the "17th" instead of the "16th" of [**Month (only) **].
+
+Past Medical History:
+1) EtOH abuse
+2) Cirrhosis (diagnosed in [**2185**]) EGD screening for varicies on
+[**2189-4-9**] showed portal hypertensive gastropathy without
+esophageal or gastric varicies
+3) GERD
+4) VRE screen positive
+5) Psoriasis
+6) Onychomycosis
+
+Social History:
+Living with mother and sister since hospitalization in [**Month (only) 116**].
+TOBACCO: Quit [**2188-11-26**]. Prior 6 cigs/day x 25 years.
+EtOH: 1 pint - [**11-22**] qt per day of whisky x 20 years. Last drink
+per patient was [**3-/2189**] immediately prior to hospitalization.
+Denies alcohol use since hospitalization.
+DRUGS: Denies history of cocaine or IVDU
+HIV: Negative 2 years ago
+
+Family History:
+Father: pancreatic cancer - deceased.
+Sister: breast cancer
+Brother: bladder cancer
+
+Physical Exam:
+VS: T 100.2, HR 112, BP 150/68, RR 17, O2 99% RA
+GEN: Inattentive, NAD
+HEENT: Sclera icteric, PERRL,
+NECK: Supple, JVP ~10 cm with respiratory variation
+PULM: Anterior exam with decreased breath sounds and crackles at
+bilateral bases
+CARD: Tachy, nl S1, nl S2, III/VI murmur across precordium
+ABD: BS+, distended, mildy tender epigastrum, tympanitic
+GU: Foley in place
+EXT: 2+ pitting edema of BLE above level of knees, L foot
+bandaged with strikethrough serosanguinous fluid on bandage,
+expanding erythema from L foot up L calf, bilateral DP and PT
+dopplerable, R foot with erythema (non-blanching) and a scaling
+rash on dorsum of foot
+NEURO: Oriented to location and clinic situation, though unable
+to correctly report date, asterixis present
+
+Pertinent Results:
+[**2189-4-20**] 11:34AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2189-4-20**] 03:05AM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 155**]-1.020
+[**2189-4-20**] 03:05AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-TR BILIRUBIN-LG UROBILNGN-0.2 PH-6.0 LEUK-NEG
+[**2189-4-20**] 03:05AM URINE  RBC-0-2 WBC-1 BACTERIA-FEW YEAST-NONE
+EPI-1
+[**2189-4-20**] 01:35AM   ALT(SGPT)-124* AST(SGOT)-128* ALK PHOS-280*
+TOT BILI-14.8*
+[**2189-4-20**] 01:35AM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG
+barbitrt-NEG tricyclic-NEG
+[**2189-4-20**] 01:35AM   WBC-9.3 RBC-3.01* HGB-10.3* HCT-30.9*
+MCV-103* MCH-34.1* MCHC-33.2 RDW-17.1*
+[**2189-4-20**] 01:35AM   NEUTS-87.0* BANDS-0 LYMPHS-7.8* MONOS-2.6
+EOS-2.3 BASOS-0.2
+[**2189-4-20**] 01:35AM   PT-19.5* PTT-32.4 INR(PT)-1.8*
+[**2189-4-20**] 01:35AM   PLT COUNT-54*
+
+CT CHEST [**2189-4-26**]:
+1. Scattered ground-glass opacities predominantly in the left
+upper lobe,
+lingula and right lower lobe. The appearance is nonspecific and
+may represent infection, chronic eosinophilic pneumonia, and
+cryptogenic organizing pneumonia. Followup is recommended
+post-treatment.
+2. Scattered up to 6-mm pulmonary nodules. Followup chest CT is
+recommended in six months as [**First Name8 (NamePattern2) **] [**Last Name (un) 8773**] guidelines.
+3. Incompletely evaluated cirrhosis of the liver, upper
+abdominal ascites and splenomegaly.
+
+PORTABLE ABDOMEN [**5-1**]:
+Multiple loops of dilated small bowel, with no large bowel seen,
+more compatible with obstruction. A nasogastric tube terminates
+appropriately within the collapsed stomach.
+
+LENI [**2189-5-8**]: No evidence of DVT in bilateral lower extremities.
+
+CT [**2189-5-8**]
+1. Upper lobe predominant centrilobular ground-glass opacities
+likely
+reflecting an infectious or inflammatory etiology.
+2. Cholelithiasis.
+3. Moderate ascites with cirrhosis.
+
+Brief Hospital Course:
+This is a 52-year-old gentleman with a history of alcoholic
+cirrhosis who was initially admitted to [**Hospital1 18**] for lower
+extremity cellulitis.  Patient subsequently developed sepsis,
+and was transferred to the MICU on [**4-29**] for BRBPR, fever,
+tachycardia, and SBO.  He was transferred back to the floor in
+stable condition, though still encephalopathic and with fevers.
+
+# CELLULITIS:  This was patient's presenting complaint and
+reason for coming to the hospital.  He was initially started on
+vancomycin and Unasyn, later switched to vancomycin and Zosyn,
+however, he failed to respond to treatment.  A CT scan was
+performed of left foot, which showed evidence of subacute
+fracture.  Orthopedics was consulted and did not recommend
+immediate surgical treatment, but recommended follow-up in 6
+weeks with touch-down weight bearing status.  Podiatry was
+consulted as well, who recommended I&D in OR.  Patient went for
+I&D on [**4-28**], and cultures came back as pan-sensitive klebsiella;
+vanc and Zosyn were continued.  However, on [**4-29**], patient became
+increasingly restless, started spiking fevers, and his mental
+status deteriorated.  He was started on multiple broad spectrum
+antibiotics and transferred to the MICU.  Podiatry followed
+patient in MICU and continued to direct dressing changes.  Upon
+discharge a wound vac was placed by the podiatry service.  This
+should be changed every three days until patient follows up in
+podiatry clinic, which should be scheduled for one week after
+discharge.
+
+# FEVER:  Mr. [**Known lastname 85084**] had low-grade fevers throughout his
+hospital course.  Initially it was thought that fevers were from
+cellulitis.  On [**4-29**], patient was transferred to MICU for fevers
+and change in mental status, and at that time, his antibiotics
+were broadened to include VRE and fungal coverage.  Mr. [**Known lastname 85084**]
+was intubated for airway protection, and a BAL was done, which
+grew out MDR klebsiella (sensitive to cefepime).  Antibiotics
+were eventually switched to cefepime and Flagyl.  A CT scan
+showed multiple infiltrates, suggestive of pneumonia.  The
+Flagyl and cefepime were stopped after a seven-day course, and
+patient defervesced.
+
+# ALTERED MENTAL STATUS:  Patient had worsening mental status,
+starting around [**4-29**], which was likely secondary to infection and
+worsenin

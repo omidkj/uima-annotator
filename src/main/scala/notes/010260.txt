@@ -1,0 +1,268 @@
+Admission Date:  [**2196-2-1**]              Discharge Date:   [**2196-2-14**]
+
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2597**]
+Chief Complaint:
+RLE ischemia and 2 week h/o cold R foot
+
+Major Surgical or Invasive Procedure:
+1. Diagnostic abdominal aortogram and pelvic arteriogram and
+right lower extremity runoff, contralateral third order
+catheterization. CPT codes [**Numeric Identifier 4237**], [**Numeric Identifier 4238**] and [**Numeric Identifier 8881**].
+
+2. Right superficial femoral to peroneal artery bypass with
+nonreversed saphenous vein, angioscopy and ligation of popliteal
+artery aneurysm
+
+History of Present Illness:
+The patient is an 84-year-old male who presented with a 2-week
+history of progressive acute onset of right foot ischemia
+secondary to a thrombosed large right popliteal aneurysm. The
+patient was scheduled for diagnostic
+arteriogram of the right lower extremity
+
+Past Medical History:
+ PMH: AAA, PVD w/ L iliac aneurysm, R [**Doctor Last Name **] aneurysm approx 5cm, L
+[**Doctor Last Name **] aneurysm approx 3 cm, chronic Afib, HTN, benign prostatic
+hyperplasia (no surgical history)
+
+
+Social History:
+pos smoker
+pos drinker
+
+Family History:
+n/c
+
+Physical Exam:
+Expired
+
+Pertinent Results:
+[**2196-2-14**] 03:56AM BLOOD
+
+WBC-15.6* RBC-2.87* Hgb-9.6* Hct-29.2* MCV-102* MCH-33.5*
+MCHC-33.0 RDW-17.8* Plt Ct-186
+
+[**2196-2-14**] 03:56AM BLOOD
+
+PT-24.6* PTT-31.0 INR(PT)-2.5*
+
+[**2196-2-14**] 08:40AM BLOOD
+
+Glucose-155* UreaN-30* Creat-1.0 Na-142 K-3.7 Cl-102 HCO3-32
+AnGap-12
+
+[**2196-2-12**] 07:50AM BLOOD
+
+ALT-18 AST-21 CK(CPK)-42 Amylase-11 TotBili-0.4
+
+[**2196-2-11**] 08:48AM BLOOD
+
+proBNP-4534*
+
+[**2196-2-14**] 08:40AM BLOOD
+
+Calcium-8.1* Phos-3.4 Mg-2.0
+
+[**2196-2-14**] 08:47AM BLOOD
+
+Type-ART pO2-170* pCO2-46* pH-7.46* calTCO2-34* Base XS-8
+
+[**2196-2-12**] 07:51AM
+
+URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.020
+URINE Blood-LG Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG
+Bilirub-NEG Urobiln-1 pH-8.0 Leuks-TR
+URINE RBC-21-50* WBC-[**2-15**] Bacteri-FEW Yeast-NONE Epi-[**2-15**]
+
+[**2196-2-12**] 5:07 pm CATHETER TIP-IV      Source: right IJ.
+
+WOUND CULTURE (Final [**2196-2-14**]):
+STAPH AUREUS COAG +.    >15 colonies.
+
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------<=0.25 S
+PENICILLIN------------ =>0.5 R
+TRIMETHOPRIM/SULFA----       S
+
+RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  [**2196-2-13**] 4:39 AM
+
+CHEST AP:
+
+The tip of the left IJ line lies in the left innominate vein.
+There is no pneumothorax. Bilateral pleural effusions are again
+seen, not significantly changed since the prior chest x-ray of
+[**2-12**].
+
+IMPRESSION: No change since prior chest x-ray. Failure persists.
+
+Cardiology Report ECHO Study Date of [**2196-2-3**]
+
+
+PATIENT/TEST INFORMATION:
+Indication: Atrial fibrillation/flutter. Hypertension. Left
+ventricular function.
+Height: (in) 69
+Weight (lb): 170
+BSA (m2): 1.93 m2
+BP (mm Hg): 146/69
+HR (bpm): 112
+Status: Inpatient
+Date/Time: [**2196-2-3**] at 14:30
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2007W008-0:44
+Test Location: West Inpatient Floor
+Technical Quality: Adequate
+
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *5.4 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *5.8 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: *5.8 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 4.5 cm (nl <= 5.6 cm)
+Left Ventricle - Ejection Fraction: 35% to 40% (nl >=55%)
+Aorta - Valve Level: 2.8 cm (nl <= 3.6 cm)
+Aorta - Ascending: 3.0 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: *3.9 m/sec (nl <= 2.0 m/sec)
+Aortic Valve - Peak Gradient: 72 mm Hg
+Aortic Valve - Mean Gradient: 46 mm Hg
+Aortic Valve - LVOT Peak Vel: 0.70 m/sec
+Aortic Valve - LVOT Diam: 2.2 cm
+Aortic Valve - Valve Area: *0.7 cm2 (nl >= 3.0 cm2)
+Mitral Valve - E Wave: 1.4 m/sec
+Mitral Valve - E Wave Deceleration Time: 125 msec
+TR Gradient (+ RA = PASP): *53 mm Hg (nl <= 25 mm Hg)
+Pulmonic Valve - Peak Velocity: *1.1 m/sec (nl <= 1.0 m/s)
+
+INTERPRETATION:
+
+Findings:
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Small
+secundum ASD. The  IVC is normal in diameter with <50% decrease
+during respiration (estimated RAP 11-15mmHg).
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Moderately
+depressed LVEF. No resting LVOT gradient. No VSD.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Normal RV systolic
+function.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Severe AS (AoVA <0.8cm2). Mild (1+) AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. No
+MVP. Moderate  mitral annular calcification. Mild thickening of
+mitral valve chordae. No MS.  LV inflow pattern c/w restrictive
+filling abnormality, with elevated LA  pressure.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild
+[1+] TR.
+Moderate PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: No PS.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: The rhythm appears to be atrial fibrillation.
+
+
+Conclusions:
+
+A small secundum atrial septal defect is present. The estimated
+right atrial  pressure is 11-15mmHg. There is mild symmetric
+left ventricular hypertrophy.  The left ventricular cavity size
+is normal. Overall left ventricular systolic  function is mildly
+to moderately depressed with global hypokinesis (the  inferior
+and infero-lateral walls appear slightly more hypokinetic in
+some  views). There is no ventricular septal defect. The right
+ventricular cavity is  mildly dilated. Right ventricular
+systolic function is normal. The aortic  valve leaflets are
+severely thickened/deformed. There is severe aortic valve
+stenosis (area <0.8cm2). Mild (1+) aortic regurgitation is seen.
+The mitral  valve leaflets are moderately thickened. There is no
+mitral valve prolapse.  The left ventricular inflow pattern
+suggests a restrictive filling  abnormality, with elevated left
+atrial pressure. The tricuspid valve leaflets  are mildly
+thickened. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+Cardiology Report ECG Study Date of [**2196-2-8**]  4:33:34 PM
+
+Atrial fibrillation with a mean ventricular response rate, 97
+with ventricular premature depolarizations. Left ventricular
+hypertrophy with non-diagnostic repolarization abnormalities
+consistent with left ventricular strain pattern. Compared to the
+previous tracing of [**2196-2-3**] multiple abnormalities persist
+without major change.
+
+Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+97 0 90 [**Telephone/Fax (2) 68729**] -134
+
+
+
+
+
+
+Brief Hospital Course:
+Pt admitted
+
+Had angiogram / no complications. Sheah pulled in the usual
+fashion.
+
+Pt pre-op'd for surgery
+
+Cardiology consulted / recommended echo
+
+ECHO:
+
+A small secundum atrial septal defect is present. The estimated
+right atrial
+pressure is 11-15mmHg. There is mild symmetric left ventricular
+hypertrophy.
+The left ventricular cavity size is normal. Overall left
+ventricular systolic
+function is mildly to moderately depressed with global
+hypokinesis (the
+inferior and infero-lateral walls appear slightly more
+hypokinetic in some
+views). There is no ventricular septal defect. The right
+ventricular cavity is
+mildly dilated. Right ventricular systolic function is normal.
+The aortic
+valve leaflets are severely thickened/deformed. There is severe
+aortic valve
+stenosis (area <0.8cm2). Mild (1+) aortic regurgitation is seen.
+The mitral
+valve leaflets are moderately thickened. There is no mitral
+valve prolapse.
+The left ventricular inflow pattern suggests a restrictive
+filling
+abnormality, with elevated left atrial pressure. The tricuspid
+valve leaflets
+are mildly thickened. There is moderate pulmonary artery
+systolic
+hypertension. There is no pericardial effusion.
+
+Pt underwent a Right superf

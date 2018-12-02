@@ -1,0 +1,194 @@
+Admission Date:  [**2132-8-4**]              Discharge Date:   [**2132-8-7**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1666**]
+Chief Complaint:
+Chest tightness
+
+Major Surgical or Invasive Procedure:
+[**2132-8-4**]: Flexible cystodcopy, wire & catheter placed by Urology
+(now out)
+
+
+History of Present Illness:
+This is a 89 year-old male [**Location 7972**] male with a history of
+asthma who presents with chest tightness and difficulty taking a
+deep breath since 9 PM on the evening prior to admission.
+Patient denies any fevers, chills or cough. He denies any
+nausea, diaphoresis, vomitting or abdominal pain. The chest
+tightness improved in a span of [**1-27**] hours, after patient
+received treatment in ED. However, the patient did have some
+tachypnea in the ED, and was admitted to MICU for further
+observation of respiratory status. Otherwise, patient was
+currently without any complaints, and denies current shortness
+of breath. Denies any sick contacts.
+.
+In the ED, initial vitals were T:98, HR:96, BP:154/96, RR:34,
+O2Sat: 100% on RA. He received albuterol and ipratropium
+nebulizers and 125mg IV methylprednisolone, with improvement of
+his symptoms. Given leukocytosis and possible infiltrate on
+chest x-ray, he was also started on cefriaxone and azithromycin
+for pneumonia.
+
+
+Past Medical History:
+#. Asthma
+#. Hypertension
+#. Mild AS
+#. Chronic renal insufficiency, baseline creatinine ~1.5
+#. Benign prostatic hyperplasia
+#. h/o Urinary obstruction
+#. Urinary retention, severe urethral stricture
+#. h/o Bladder stones
+#. Bilateral small renal cysts (Renal U.S., [**2132-8-5**])
+#. DM2, controlled on oral hypoglycemics
+#. GERD with small axial hiatal hernia, per barium esophagram
+([**2132-7-7**])
+#. h/o Esophageal spasm
+#. Esophageal dysmotility, characterized by tertiary
+contractions per barium esophagram & anterior cervical vertebral
+body osteophytes giving a minor impression on the cervical
+esophagus ([**2132-7-7**])
+#. HOH, [**Month/Day/Year 1192**] sensorineural hearing loss in both ears
+#. Osteoarthritis, bilat knees
+.
+PSHx:
+[**2127-7-14**] s/p Suprapubic prostatectomy, cystoscopy flexible
+[**2127-6-4**] s/p Complex cystometrogram, complex uroflowmetry
+[**2126-9-4**] s/p Cystometrogram
+[**2126-1-22**] s/p Cystoscopy, Electrohydraulic litholapaxy,
+Placement of suprapubic tube
+[**2126-1-9**] s/p Complex cystometrogram, Intra-abdominal voiding
+pressure studies with attempted complex uroflowmetry & flexible
+cystourethroscopy
+
+Social History:
+The patient is a Portuguese speaking man from [**Country 3587**].  He
+lives at home with his wife.  His daughters live nearby.  He
+drinks only occasionally. Previously snuffed tobacco.  Denied
+any recreational drug use.
+
+
+Family History:
+No history of heart disease or clotting disorders.
+
+
+Physical Exam:
+DISCHARGE PE:
+============
+VS: 96.4, 90, 20, 162/80, o2 sat 95% RA
+GEN: Well-appearing, well-nourished, no acute distress
+HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or
+rhinorrhea, MMM, OP Clear, poor dentation
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+lymphadenopathy, trachea midline
+COR: RRR, S1 S2, 3/6 systolic murmur best @ 2ICS/RSB & apex
+PULM: [**Month (only) **] BS widely w/ inc AP-Lat diam. Bibasilar/posterior
+scant fine crackles which clear with DB&C, no wheezes.
+ABD: Obese/distended, soft, positive bowel sounds
+EXT: CSM intact, no edema or palpable cords
+NEURO: alert, oriented to person, place, and time. Face
+symmetrical at rest & with movement, tongue midline.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+
+
+Pertinent Results:
+ADMISSION LABS:
+==============
+[**2132-8-4**] 06:29AM   CK(CPK)-58
+[**2132-8-4**] 06:29AM   CK-MB-3 cTropnT-<0.01
+[**2132-8-4**] 06:29AM   WBC-14.3* RBC-4.41* HGB-12.9* HCT-38.3*
+MCV-87 MCH-29.3 MCHC-33.6 RDW-13.3
+[**2132-8-4**] 06:29AM   GLUCOSE-224* UREA N-32* CREAT-1.5* SODIUM-140
+POTASSIUM-4.8 CHLORIDE-106 TOTAL CO2-21* ANION GAP-18
+[**2132-8-4**] 03:15AM   LACTATE-1.3
+[**2132-8-4**] 03:15AM   TYPE-[**Last Name (un) **] PO2-83* PCO2-38 PH-7.37 TOTAL CO2-23
+BASE XS--2
+[**2132-8-4**] 12:13AM   CK(CPK)-75
+[**2132-8-4**] 12:13AM   cTropnT-<0.01
+[**2132-8-4**] 12:13AM   CK-MB-NotDone proBNP-434
+.
+IMAGING:
+=======
+[**2132-8-6**] Cardiac Echo (TTE) - The left atrium is elongated.
+The left atrial volume is increased. There is mild symmetric
+left ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). There is no
+ventricular septal defect. Right ventricular chamber size and
+free wall motion are normal. The aortic valve leaflets are
+moderately thickened. There is mild aortic valve stenosis (area
+1.2-1.9cm2). No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Trivial mitral regurgitation is seen. There is
+[**Year (4 digits) 1192**] pulmonary artery systolic hypertension. There is no
+pericardial effusion. Compared with the prior study (images
+reviewed) of [**2130-5-15**], the findings are similar. The prior echo
+assessed aortic valve area as 1.2cm2, however, this should have
+been 1.8-1.9cm2.
+.
+[**2132-8-5**] RENAL U.S. - FINDINGS: The right kidney measures 13.5
+cm and the left 12.0 cm. The renal parenchymal thickness and
+echogenicity are normal without evidence of calculi or
+hydronephrosis. The right kidney demonstrates a small cyst in
+the upper pole measuring 1.5 x 1.5 x 1.3 cm. Within the
+interpolar region of the left kidney, there is a 1.1 x 0.9 x 1.1
+cm cyst. The bladder is not fully distended. IMPRESSION: 1. No
+evidence of hydronephrosis, renal calculi, or solid masses; 2.
+Bilateral small renal cysts.
+.
+[**2132-8-4**] CHEST (PA & LAT) - FINDINGS: There is elevation of the
+left hemidiaphragm with left pleural thickening. There has been
+interval decrease in pulmonary interstitial markings when
+compared to prior exam. However, more confluent opacities in the
+right perihilar region are noted, which may represent
+atelectasis. A more nodular density measuring approximately 1 cm
+is noted in the right lung base which was not seen on prior exam
+and may represent the nipple. IMPRESSION: Interval decrease in
+interstitial pulmonary markings. Interval development of right
+basilar atelectasis. Right lung nodular opacity may represent
+nipple. Repeat study is recommended with nipple markers.
+.
+EKG:
+===
+[**2132-8-4**] - Sinus rhythm with atrial premature complexes;
+Consider left atrial abnormality; Modest nonspecific ST-T wave
+changes; Since previous tracing of [**2132-8-3**], no significant
+change. QT/QTc 380/430.
+.
+D/C LABS:
+========
+[**2132-8-7**] 06:11AM BLOOD WBC-12.2* RBC-4.83 Hgb-14.0 Hct-41.9
+MCV-87 MCH-29.0 MCHC-33.4 RDW-13.2 Plt Ct-254
+[**2132-8-7**] 06:11AM BLOOD Glucose-105 UreaN-36* Creat-1.3* Na-141
+K-4.3 Cl-106 HCO3-26 AnGap-13
+[**2132-8-7**] 06:11AM BLOOD Calcium-8.9 Phos-3.3 Mg-2.2
+
+Brief Hospital Course:
+# Chest tightness/SOB: Given his leukocytosis (14.3), and ? of
+LLL infiltrate on CXR, the patient was initially treated as
+asthma exacerbation precipitated by pneumonia. He was given
+Prednisone, cefpodoxime and azithromycin. On HD2 the patient was
+clinically improved, denied SOB and was weaned off O2. During
+his stay the patient remained without wheezes on exam and it was
+noted that LLL opacity was unchanged from prior x-ray several
+years ago.  He denied taking advair at home and denied history
+of asthma.  He was also ruled out for MI w/EKGs and cardiac
+enzymes.  He was discovered to have a history of esophageal
+spasm and this was felt to be a more likely explanation for the
+chest tightness.  GI was consulted and recommended evaluation as
+an outpatient.  His antibiotics were D/C'd on hospital day 2.
+THe patient received 4 days of steroids (Solumedrol 125 mg IV
+x's 1 on [**8-4**] in ED; Prednisone 60 mg PO x's 1 on [**8-5**] in ICU;
+Prednisone 40 mg PO QD x's 2 on floor. He NOT discharged on
+Prednisone. He was also started on a baby aspirin.  Outpatient
+PFTs have been scheduled for the patient. Omeprazole 20 mg
+Capsule, Delayed Release was started for GERD/Hiatal
+hernia/Asthma.
+.
+# Urethral Stricture:  Patient with h/o BPH s/p multpile
+urological procedure

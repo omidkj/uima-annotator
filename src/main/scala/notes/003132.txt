@@ -1,0 +1,200 @@
+Admission Date:  [**2191-3-30**]              Discharge Date:   [**2191-4-4**]
+
+Date of Birth:  [**2138-8-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2751**]
+Chief Complaint:
+Vomiting
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. [**Known lastname 1005**] is a 52yo F with history of leukocytoclastic
+vasculitis recently diagnosed and completed steroid taper about
+a week ago who presented to her PCP's office complaining of
+fatigue, vomiting and subjective fevers for the past 3 days.
+She was found to be hypotensive with systolics in the 90s and
+hyponatremic and received 2 liters of NS before being referred
+to the ER.
+.
+In the ED, initial vs were: 99, 95, 96/46, 16, 100% RA. She was
+febrile to 101 and received tylenol.  CXR was negative for
+infection, and urinalysis was benign.  She received stress dose
+steroids for concern for adrenal insufficiency and ceftriaxone.
+Given her continued borderline blood pressures of systolics in
+the 80s-90s despite total of 4 liters of NS, she was admitted to
+the MICU for further monitoring.
+.
+In the ICU, she complains of generalized fatigue and malaise for
+the past few weeks and nightly fevers at home for the past
+couple weeks.  Patient has had decreased PO intake for the past
+week in the setting of this fatigue and malaise. She has had
+intermittent headaches, occasional blurry vision, frequent
+nausea and morning diarrhea.  She had some non-bloody,
+non-bilious emesis yesterday and has had persistant pruritis.
+She feels her rash has progressively worsened to cover more of
+her body surface now.  No sick contacts.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies cough, shortness of breath, or wheezing. Denies chest
+pain, chest pressure, palpitations. Denies constipation,
+dysuria, frequency, or urgency.
+
+
+Past Medical History:
+# Leukocytoclastic Vasculitis
+-- diagnosed in [**2191-2-15**] with skin biopsy
+-- presented with rash
+# DM Type 2 -- last A1C 6.7
+# Hypertension
+# Hyperlipidemia
+# Scoliosis
+# Fatty liver -- mild on US in [**2188**]
+# OSA -- denies needing CPAP
+# Major Depressive Disorder
+# Appendectomy
+# C-section
+# Osteoarthritis
+
+
+Social History:
+She was born in the [**Country 13622**] Republic and moved to the US in
+the early [**2159**].  She was vaccinated with BCG as in grade school
+and has had a positive PPD since.  Last travel to DR [**Last Name (STitle) **]
+[**Name (STitle) **] and has not travelled since.  She has never smoked and
+drinks 2 margaritas/week.  No illicit drug use.
+
+Family History:
+MI, CVA and stomach cancer.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T: 97.7 BP: 95/54 P: 94 R: 19 O2: 96% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, PERRL, MM dry, oropharynx clear without
+lesions
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: Diffuse, blanching, macular, erythematous rash covering
+chest, scattered across back, arms and legs.  Bilateral lower
+cheeks and neck with macular erythema.  Hyperpigmented plaque
+across upper back consistent with acanthosis nigricans.
+
+DISCHARGE PHYSICAL EXAM:
+VS: T 98.9, BP 146/96, HR 91, RR 20, SpO2 94 on RA
+Gen: NAD. Alert and oriented x3. Mood and affect appropriate.
+Pleasant and cooperative. Resting in bed.
+HEENT: NCAT. PERRL, EOMI, anicteric sclera. MMM, OP benign.
+Neck: Supple. JVP not elevated. No cervical lymphadenopathy.
+CV: RRR. Normal S1, S2.  No M/R/G appreciated.
+Chest: Respiration unlabored, no accessory muscle use.
+Bibasilar crackles right>left.  No wheezes or rhonchi.
+Abd: BS present. Soft, NT, ND.
+Ext: WWP, no cyanosis or clubbing. No LE edema. Digital cap
+refill <2 sec.  Distal pulses radial 2+, DP 2+, PT 2+.
+Skin: Flat, erythematous rash worst over chest
+Neuro: Moving all four limbs.
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2191-3-30**] 05:26PM BLOOD WBC-7.6 RBC-3.26* Hgb-10.5* Hct-30.1*
+MCV-93 MCH-32.4* MCHC-35.0 RDW-13.4 Plt Ct-280
+[**2191-3-30**] 05:26PM BLOOD Neuts-79.3* Lymphs-13.1* Monos-1.8*
+Eos-5.6* Baso-0.2
+[**2191-3-30**] 05:26PM BLOOD Glucose-113* UreaN-49* Creat-2.3* Na-131*
+K-4.3 Cl-98 HCO3-20* AnGap-17
+[**2191-3-30**] 05:26PM BLOOD ALT-54* AST-72* AlkPhos-74 TotBili-0.3
+[**2191-3-30**] 05:24PM BLOOD Lactate-1.9 Na-132* K-4.2 Cl-99*
+
+DISCHARGE LABS:
+[**2191-4-4**] 05:35AM BLOOD WBC-13.1* RBC-2.69* Hgb-8.9* Hct-25.2*
+MCV-94 MCH-33.1* MCHC-35.3* RDW-13.6 Plt Ct-390
+[**2191-4-4**] 05:35AM BLOOD Glucose-91 UreaN-11 Creat-0.8 Na-141
+K-4.3 Cl-106 HCO3-26 AnGap-13
+[**2191-4-4**] 05:35AM BLOOD Calcium-8.3* Phos-3.1 Mg-2.1
+
+STUDIES:
+# CXR ([**2191-3-30**]):
+IMPRESSION: No acute intrathoracic process.
+
+# ECHO ([**2191-3-31**]):
+The left atrium is normal in size. Left ventricular wall
+thickness, cavity size, and global systolic function are normal
+(LVEF>55%). Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. Transmitral and
+tissue Doppler imaging suggests normal diastolic function, and a
+normal left ventricular filling pressure (PCWP<12mmHg). There is
+no ventricular septal defect. Right ventricular chamber size and
+free wall motion are normal. The ascending aorta is mildly
+dilated. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion. There is an
+anterior space which most likely represents a prominent fat pad.
+IMPRESSION: Suboptimal image quality due to body habitus. Left
+ventricular systolic function is probably normal, a focal wall
+motion abnormality cannot be excluded. Mild mitral
+regurgitation. Mildly elevated pulmonary artery systolic
+pressures.
+
+# CXR ([**2191-4-1**]):
+IMPRESSION:
+1. New mild-to-moderate volume overload.
+2. Bibasilar opacities may represent atelectasis, although
+infection cannot
+be excluded.
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 1005**] is a 52yo F with history of leukocytoclastic
+vasculitis presenting with malaise, hypotension, fever, and
+hyponatremia.
+.
+# Hypotension: Appeared dry on admission exam with history
+consistent with decreased PO intake and suspected dehydration.
+She also likely had insensible losses due to her rash, fevers
+and AM loose stools.  Adrenal insufficiency was also a concern
+given her history of steroid use and development of fevers,
+malaise, hyponatremia and vague abdominal discomfort after
+steroid d/c.  However, her cosyntropin stim test was WNL
+(although on the low end of normal).  We felt that sepsis was
+also a possibility but no clear source or concerning
+leukocytosis (at least initially - see below).  She was given
+IVF and stress dose steroids for 1 day and improved.
+.
+# Fever: She reported nightly subjective fevers at home and was
+febrile to 101 in the ER on admission.  No leukocytosis or clear
+localizing symptoms on exam or by history to suggest infection
+on admission.  Initial CXR and urinalysis were reassuring.
+Blood cultures on [**2191-3-30**] grew Strep viridans in one set, and
+urine culture grew coag negative staph. CXR on [**2191-4-1**] showed
+bibasilar opacities and could not exclude pneumonia.  Fever
+could also be due to underlying inflammation from her
+vasculitis.  Drug fever was also a possibility given that she
+started Plaquenil the day PTA but this did not fit the time
+course she had suggested.  Later in the admission she developed
+leukocytosis but based on clinical improvement and time course
+this was felt to be [**1-19**] steroids.  She remained afebrile for the
+remainder of her stay.  She was treated with Vancomycin and
+Cefepime during her stay and discharged on Levofloxacin 750 mg
+PO for three days to complete a 7 day course of antibiotics.
+.
+# Acute kidney injury: Her baseline creatinine is 0.6 according
+t

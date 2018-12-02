@@ -1,0 +1,224 @@
+Admission Date:  [**2151-5-26**]              Discharge Date:   [**2151-6-3**]
+
+Date of Birth:  [**2096-6-20**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+CABG x 5 (LIMA>LAD, SVG>diag, SVG>OM1, SVG>OM2, SVG>PDA) [**5-26**]
+
+
+History of Present Illness:
+54 yo M who presented to cardiologists office with chest pain
+and was subsequently admitted to OSH. Stress test was positive,
+cath at [**Hospital1 18**] showed 3VD. Referred for surgery.
+
+Past Medical History:
+htn, dm, cad stents x 2, migraines
+
+Social History:
+Social history is significant for the absence of current tobacco
+use; he quit 17 years ago. There is no history of alcohol abuse.
+He moved to US from [**Country 2045**] in [**2124**]. He lives with wife; has three
+children ages 12, 18, 26. Works part time driving children to
+school in a [**Doctor Last Name **] ([**Location (un) **]).
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death. Mother had MI in her 70s.
+
+Physical Exam:
+HR 60 RR 14 BP 121/72
+NAD
+Lungs CTAB
+Heart RRR
+Abdomen soft, NT, ND
+Extrem warm, no edema
+
+
+Pertinent Results:
+[**2151-6-2**] 07:30AM BLOOD WBC-10.0 RBC-3.56* Hgb-10.1* Hct-31.1*
+MCV-87 MCH-28.4 MCHC-32.5 RDW-15.6* Plt Ct-470*#
+[**2151-6-2**] 07:30AM BLOOD Glucose-191* UreaN-11 Creat-0.8 Na-139
+K-4.0 Cl-101 HCO3-28 AnGap-14
+
+CHEST (PA & LAT)  [**2151-6-2**] 10:09 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate rt ptx
+
+[**Hospital 93**] MEDICAL CONDITION:
+54 year old man with s/p cabg
+REASON FOR THIS EXAMINATION:
+evaluate rt ptx
+HISTORY: Status post CABG, to evaluate right pneumothorax.
+
+FINDINGS: In comparison with study of [**5-31**], there is little
+change in the appearance of the right pneumothorax. The right
+hemidiaphragm is much more sharply seen. Opacification at the
+left base persists, consistent with some combination of
+atelectasis, effusion, and possible pneumonia.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Name (NI) 76181**], [**Known firstname 76182**]       [**Hospital1 18**] [**Numeric Identifier 76183**] (Complete)
+Done [**2151-5-26**] at 10:59:17 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2096-6-20**]
+Age (years): 54 M  Hgt (in): 66
+BP (mm Hg): 105/67  Wgt (lb): 160
+HR (bpm): 69  BSA (m2): 1.82 m2
+Indication: Intra-op TEE for CABG
+ICD-9 Codes: 440.0, 414.8, 413.9
+Test Information
+Date/Time: [**2151-5-26**] at 10:59    Interpret MD: [**Name6 (MD) 928**]
+[**Name8 (MD) 929**], MD, MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW02-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  35% to 40%  >= 55%
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal
+interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size.
+Mild-moderate regional LV systolic dysfunction. Moderately
+depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Trivial MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. See Conclusions for post-bypass data The
+post-bypass study was performed while the patient was receiving
+vasoactive infusions (see Conclusions for listing of
+medications).
+
+Conclusions
+PRE-BYPASS:
+1. No atrial septal defect is seen by 2D or color Doppler.
+2. Left ventricular wall thicknesses and cavity size are normal.
+There is mild to moderate regional left ventricular systolic
+dysfunction with inferior, inferolateral and lateral apical to
+mid hypokinesis. Overall left ventricular systolic function is
+moderately depressed (LVEF= 35-40 %).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic regurgitation. 5. Trivial
+mitral regurgitation is seen.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including phenylephrine
+
+1. Biventricular function is unchanged. Focal WMAs are unchanged
+2. Aorta is intact post decannulation
+3. Other findings are unchanged
+
+
+Brief Hospital Course:
+He was taken to the operating room on [**5-26**] where he underwent a
+CABG x 5. He was transferred to the ICU in stable condition. He
+was extubated the morning of POD #1. He was transferred to the
+floor on POD #2. He had atrial fibrillation but converted to
+NSR. He was lethargic and pain medications were discontinued. He
+was seen by social work for ? of depression. He was followed by
+[**Last Name (un) **] for his DM and started on insulin. He otherwise did well
+postoperatively and was ready for discharge home on POD #8.
+
+Medications on Admission:
+plavix 75', asa 325' glipizide 5', metformin 1000'', lisinopril
+10', metoprolol xl 200', pravastatin 80', colace 100', nitro sl
+prn
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Pravachol 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+4. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+Disp:*120 Tablet(s)* Refills:*0*
+6. Insulin NPH & Regular Human 100 unit/mL (70-30) Suspension
+Sig: 14 units in AM, 7 units in PM  Subcutaneous twice a day.
+Disp:*qs 1 month* Refills:*0*
+7. Insulin Lispro 100 unit/mL Solution Sig: please see sliding
+scale  Subcutaneous four times a day.
+Disp:*qs 1 month* Refills:*0*
+8. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO TID (3
+times a day).
+Disp:*135 Tablet(s)* Refills:*0*
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+10. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO
+DAILY (Daily) for 5 days.
+Disp:*5 Packet(s)* Refills:*0*
+11. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4-6H () as
+needed.
+Disp:*50 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+CAD now s/p CABG
+htn, dm, cad s/p stents x 2, migraines
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision, or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No lifting more than 10 pounds or driving until follow up with
+surgeon.
+
+Followup Instructions:
+Dr. [**First Name8 (NamePattern2) 76184**] [**Last Name (NamePattern1) 76185**]/Dr. [**Last Name (STitle) **] (PCP) 2 weeks
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5686**] (cardiologist) 2 weeks
+Dr. [**First Name (STitle) **] [**Name (STitle) **] 4 weeks
+[**Hospital **] Clinic [**6-15**] at 2pm, 3pm and 4pm for MD, RN and Eye
+appointments
+
+
+
+Completed by:[**2151-6-3**]

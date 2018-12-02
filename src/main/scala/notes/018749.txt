@@ -1,0 +1,233 @@
+Admission Date:  [**2137-8-2**]              Discharge Date:   [**2137-10-1**]
+
+Date of Birth:  [**2091-6-8**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Haldol / Penicillins
+
+Attending:[**First Name3 (LF) 5569**]
+Chief Complaint:
+End stage renal disease
+
+Major Surgical or Invasive Procedure:
+Cadaveric renal transplant [**2137-8-3**]
+central venous access
+arterial line
+Hemodyalsis line
+Kidney biopsy
+bronchoscopy
+tracheostomy [**2137-8-27**]
+
+History of Present Illness:
+46 y/o male on HD at [**Hospital1 8**] [**Location (un) **] who has been called in for
+standard criteria cadaveric kidney transplant. The patient
+currently dialyzes T-Th-S with last HD on [**8-1**]. EDW is reported
+as 100 kg, he states off weight yesterday was 102 kg. He often
+has hypotension during RX and have adjusted his BP meds
+recently. He reports he does not make urine.
+The patient denies fever, chills, nausea, vomiting, diarrhea,
+chest pain, shortness of breath. He reports no recent
+hospitalizations and no sick contacts
+
+Past Medical History:
+Past Medical History:
+ESRD of unclear etiology on HD x 3 years, on transplant list
+MSSA bacteremia [**2136-10-23**], treated with 6 weeks IV Vanco at HD
+MSSA bacteremia [**8-/2136**] at [**Hospital 8**] Hospital
+HTN
+S/p L nephrectomy late [**2117**] for stab wound to kidney
+HCV GT1 s/p 48 wks RBV/IFN ending [**2-26**] with HCV VL undectable
+[**2136-8-17**]
+Depression
+OCD
+Obesity
+Brachiocephalic stenosis
+.
+
+
+Social History:
+SOCIAL HISTORY: + tobacco 1ppd x deacdes, no ETOH, or IVDU.
+Orginally from [**Country 651**], here in US x 20 years. Lives alone in
+[**Hospital1 8**]. Son involved. Wife and children in [**Country 651**]. Unemployed.
+
+
+
+Family History:
+Family History: No FH recurrent skin infections, CAD, DM
+
+
+Physical Exam:
+VS: 98.9, 81, 126/81, 14, 96%RA  WT: 103.7  kg
+HEENT: No oral infection or dental caries noted, no LAD, sclera
+anicteric
+Card: RRR, no M/R/G
+Lungs: CTA bilaterally
+Abd: Obese, multiple scars noted (s/p nephrectomy from stab
+wound
+15 years ago) + BS, not taut or distended
+Extr: 1+ LE edema, Left femoral groin catheter in place, arms
+with multiple access interventions
+Neuro: A+O x 3, depressed somewhat flat affect
+Skin: moist, multiple dry scaly areas especially lower legs
+
+
+Pertinent Results:
+[**2137-8-2**] 05:40PM   UREA N-78* CREAT-11.4*# SODIUM-137
+POTASSIUM-4.3 CHLORIDE-96 TOTAL CO2-20* ANION GAP-25*
+[**2137-8-2**] 05:40PM   ALT(SGPT)-8 AST(SGOT)-13
+[**2137-8-2**] 05:40PM   ALBUMIN-4.0 CALCIUM-7.8* PHOSPHATE-8.5*#
+MAGNESIUM-2.1
+[**2137-8-2**] 05:40PM   WBC-8.0# RBC-4.43*# HGB-13.6*# HCT-41.9#
+MCV-95 MCH-30.7 MCHC-32.4 RDW-16.7*
+[**2137-8-2**] 05:40PM   PLT COUNT-202
+[**2137-8-2**] 05:40PM   PT-12.9 PTT-29.2 INR(PT)-1.1
+
+[**2137-8-7**] 11:19 am SPUTUM
+
+   GRAM STAIN (Final [**2137-8-7**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2137-8-9**]):
+      Commensal Respiratory Flora Absent.
+      PSEUDOMONAS AERUGINOSA.    HEAVY GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     8 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+MEROPENEM-------------  =>16 R
+PIPERACILLIN/TAZO-----    32 S
+TOBRAMYCIN------------   <=1 S
+
+[**2137-8-8**] 6:59 am BRONCHIAL WASHINGS
+  RESPIRATORY CULTURE (Final [**2137-8-20**]):
+      10,000-100,000 ORGANISMS/ML. Commensal Respiratory Flora.
+      PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML..
+         SUSCEPTIBILITY TO DORIPENEM AND COLISTIN REQUESTED
+[**2137-8-13**] BY DR
+         [**Last Name (STitle) **] [**Last Name (NamePattern4) 10000**] ([**Numeric Identifier 72184**]).
+         SENT TO [**Hospital1 4534**] FOR COLISTIN AND DORIPENEM SENSITIVITIES
+([**2137-8-15**]).
+         Colistin <= 2 MCG/ML SUSCEPTIBLE.
+         DORIPENEM > 2 MCG/ML NOT SUSCEPTIBLE.
+         Colistin & DORIPENEM SENSITIVITIES DONE BY [**Hospital1 4534**] LABS.
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..
+         SECOND MORPHOLOGY.
+         SUSCEPTIBILITY TO DORIPENEM AND COLISTIN REQUESTED
+[**2137-8-13**] BY DR
+         [**Last Name (STitle) **] [**Last Name (NamePattern4) 10000**] ([**Numeric Identifier 72184**]).
+         PSEUDOMONAS AERUGINOSA #2 COMBINED WITH #1 FOR COLISTIN
+&
+         DORIPEMEM SENSITIVITIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+CEFEPIME--------------    16 I       16 I
+CEFTAZIDIME-----------    16 I       16 I
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------     8 I        8 I
+MEROPENEM-------------  =>16 R     =>16 R
+PIPERACILLIN/TAZO-----    64 S       64 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+
+   FUNGAL CULTURE (Final [**2137-8-22**]):    NO FUNGUS ISOLATED.
+
+   ACID FAST SMEAR (Final [**2137-8-9**]):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+[**2137-8-9**] 7:59 pm Immunology (CMV)      Source: Line-art.
+
+   CMV Viral Load (Final [**2137-8-13**]):
+      CMV DNA not detected.
+      Performed by PCR.
+      Detection Range: 600 - 100,000 copies/ml.
+
+[**2137-8-26**] 2:48 pm BLOOD CULTURE
+   Blood Culture, Routine (Final [**2137-9-1**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    FINAL
+SENSITIVITIES.
+
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------  =>16 R
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN--------------     2 I
+TETRACYCLINE----------     2 S
+VANCOMYCIN------------     1 S
+
+[**2137-8-29**] 11:40 am BLOOD CULTURE
+   Blood Culture, Routine (Final [**2137-9-1**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------  =>16 R
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------     2 S
+VANCOMYCIN------------     1 S
+
+[**2137-9-1**] 4:30 pm SPUTUM
+      PSEUDOMONAS AERUGINOSA
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+CEFEPIME--------------    16 I       16 I
+CEFTAZIDIME-----------    16 I       16 I
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------  =>16 R        8 I
+MEROPENEM-------------  =>16 R     =>16 R
+PIPERACILLIN/TAZO----- =>128 R    =>128 R
+TOBRAMYCIN------------     2 S        2 S
+
+[**2137-9-14**] 12:58 am URINE
+      ENTEROBACTER CLOACAE.    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROBACTER CLOACAE
+                             |          ENTEROBACTER CLOACAE
+                             |          |
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------    64 I       64 I
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R     =>16 R
+
+[**2137-9-14**] 12:58 am URINE
+_________________________________________________________
+                             ENTEROBACTER CLOACAE
+                             |          ENTEROBACTER CLOACAE
+                             |          |
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+C

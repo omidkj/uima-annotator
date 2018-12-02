@@ -1,0 +1,224 @@
+Admission Date:  [**2124-5-14**]              Discharge Date:   [**2124-5-17**]
+
+Date of Birth:  [**2041-11-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1936**]
+Chief Complaint:
+fever
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname **] is an 82 year old man with hx of T3, N0, M0 colon ca
+s/p transverse colectomy in [**2122**] c/b incisional hernia,
+dementia, T2DM, HTN presents with fever and lethargy.
+.
+Pt is a resident of [**Location 10059**] Nursing Centre. He had 3 days of
+cold symptoms, 2 days of constipation and was noted to have
+decreased appetite and overall depressed functioning compared to
+baseline. Today he had a fever to 100.8 and vomited yellowish
+(nonbloody) emesis x 2 and he was referred to the ED.
+.
+In the ED, initial vs were: T 106.1 P 111 BP 161/82 R 18 94%O2on
+RA, Patient was given 1 g Vanc, 4.5 g Zosyn, Tylenol 1g and 2
+litres of NS. Ice packs were placed to cool him and he was
+afebrile on arrival to the floor. He had no complaints.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies cough, shortness of breath. Denied chest pain or
+tightness, palpitations. Denied diarrhea, or abdominal pain.
+
+
+Past Medical History:
+DM II on insulin
+Colon cancer T3N0M0, dx [**8-3**] (as part of GIB w/u) s/p transverse
+colon resection [**2122**]->complicated by poor wound healing (finally
+closed)
+Ant abdominal wound->stage II ulceration, chronic since
+colectomy
+Advanced Dementia, A&OX1, has guardian
+incisional hernia, large, asymptomatic
+GIB [**8-3**], EGD with possible diulefoy
+Anemia, Fe def
+CKD III baseline 1.3 (on [**3-/2124**])
+chronic dCHF on lasix
+Hypertension
+Hearing loss
+Constipation
+H/o delirium
+
+Social History:
+Lives at [**Hospital 10138**] nursing home in [**Location (un) 538**].  Married but
+wife has been living in [**Name (NI) 760**] for past 18 yrs, still in
+contact with pt per Mr. [**Last Name (Titles) 79682**].
+<br>
+Guardian: [**Name (NI) **] [**Last Name (NamePattern1) 79682**]  Is the power of attorney.
+-[**Telephone/Fax (2) 79683**]h
+-[**Telephone/Fax (2) 70408**]w
+-[**Telephone/Fax (2) 79684**]c
+<br>
+Elder Resources: [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 79685**]
+[**Telephone/Fax (2) 79686**]w
+[**Telephone/Fax (2) 79687**]c
+.
+[**Hospital 10138**] nursing home
+[**Telephone/Fax (1) 79688**]
+
+
+Family History:
+NC.  None given by patient or known by power of attorney.
+
+Physical Exam:
+Vitals: T 98.7  BP 132/69  HR 86  RR 27  97%RA
+General: Alert, oriented to person, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, dentures in
+place
+Neck: supple, JVP not elevated, no LAD
+Lungs: Few scattered rhonchi, no wheezes or crackles. Otherwise
+clear
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  Large ventral hernia with clean dressing in placement.
+soft, non-tender, bowel sounds present, no rebound tenderness or
+guarding, no organomegaly
+GU: +foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+.
+on discharge
+Vitals:97.1  137/75  77  18  100%RA
+Pain: denies
+Access: PIV
+Gen: nad, calm and pleasant
+HEENT: mm dry
+CV: RRR, [**4-1**] SM all over
+Resp: CTAB with slight basilar crackles, no wheezing
+Abd; soft, obese, nontender, large ventral hernia, +BS
+Ext; no edema
+Neuro: A&OX1 at baseline, otw nonfocal
+Skin: ant abdominal wound with stage II ulceration (present on
+admission) well healing
+psych: pleasant, calm
+.
+
+Pertinent Results:
+WBC 5.6->4s
+hgb 12->10s (after fluids)
+HCT 31->28.9
+Plt 160s ->225
+Creat 1.6-->1.2 stable X2 days (baseline 1.3)
+lactate 1.3
+.
+
+U/A [**5-14**]: >50 WBCs, +bacteria, +RBCs, <1 epis
+UCx [**5-14**] >100K enterobacter cloacae, pansensitive
+Blood cx X2 [**5-14**] NTD
+.
+.
+.
+.
+Imaging/results:
+CXR [**5-14**]: No acute process
+.
+CXR [**5-15**]: low lung volumes, mild pulm edema, no consolidation,
+mild CM
+.
+
+
+Brief Hospital Course:
+Briefly, Mr. [**Known lastname **] is an 82 year old man with h/o DM, colon ca
+s/p transverse colectomy in [**2122**] c/b incisional hernia/poor
+wound healing, advanced dementia, and HTN. He presented from his
+[**Hospital1 1501**] with fever, abd distention, vomiting X2, and lethargy. Pt is
+a resident of [**Location 10059**] Nursing Centre. He had 3 days of cold
+symptoms, 2 days of constipation and was noted to have decreased
+appetite and overall depressed functioning compared to baseline.
+On [**5-14**], he had a fever to 100.8 and emesis of yellowish
+nonbloody material X2 which led to transfer to ED.
+In the ED, initial vs were: T 106.1 P 111 BP 161/82 R 18 94%O2on
+RA, Patient was given 1 g Vanc, 4.5 g Zosyn, Tylenol 1g and 2
+litres of NS. Ice packs were placed to cool him. He was admitted
+to MICU for consideration of artic sun for cooling.
+However, since in MICU, remained afebrile. Hemodynamically
+stable. MS appears to be at his baseline. Was found to have UTI
+so Abx changed to CTx. CXR was negative for PNA. Blood cx
+negative. He got total 3L IVFs in ICU and  ER. Given his prompt
+improvement he was transfered out of MICU next day. On the floor
+he continued to do well. MS appeared at baseline, occasional
+sundowning but was redirectable. Abx were converted to cefpodox
+for UCx showing pansensitive enterobacter, for total 10day
+course. He had ARF on CKD on admission, which resolved back to
+baseline 1.2 with fluids. He developed mild pulm edema after 3L
+on admission, but this improved when resuming his home dose of
+lasix. As for his constipation, he had several BMs here that
+were well formed. There were no other issues. Discharged back to
+[**Hospital1 1501**].
+.
+See progress note below for details of plan:
+
+82 year old man with h/o DM, colon ca s/p transverse colectomy
+in [**2122**] c/b incisional hernia/poor wound healing, advanced
+dementia, chronic dCHF and HTN. He presented from his [**Hospital1 1501**] with
+fever and lethargy and is found to have enterobacter UTI.
+Transfered to floor after brief MICU stable. Doing well and
+ready for t/f back to [**Hospital1 1501**].
+.
+UTI, bacterial: Temp 106 reported in ED on admission (?error,
+may be was 100.6) but otherwise has been stable hemodynamically.
+Mild delirium that has resolved. Recieved empiric vanc/zosyn in
+ER, then CTX X3 days, will change to cefpodox on discharge per
+sensitivities of Enterobacter for 7day course. Blood Cx NTD.
+foley placed in ER and removed next day. Other infectious w/u
+with CXR (given URI symptoms) was negative.
+.
+ARF on CKD III: Recent baseline is 1.3 since 3/[**2124**]. Was 1.6 on
+admission. Improved to 1.2 after fluids and treatment of UTI
+which was stable on discharge.
+.
+Bicytopenia: hct and plt all lower this admission than previous.
+Unclear what hct baseline is (prior ones are during GIB and post
+op). Repeat HCT here were stable around 28-29 after fluids.  Plt
+in past 300s, now 160s on admission for few days, likely [**2-29**]
+infection. Repeat plt improved to 220s on discharge. Coags were
+okay.
+.
+Acute Delirium in setting of advanced dementia: report of
+increased lethargy on admission, which is likely due to UTI.
+This resolved by next day. He appeared to be at baseline. He had
+occ episodes of agitation which may be sundowning rather than
+delirium. He did not need any medications.
+.
+Colon cancer: s/p resection. No abdominal pain.  ventral hernia
+stable but pt has chronic abd stage II ulceration/wound. Seen by
+wound care who provided some recs which will be relayed to [**Hospital1 1501**].
+.
+Chronic dCHF: Did develop mild pulm edema on CXR after fluids
+with some wheezing. This improved once his lasix was resumed and
+he did very well, never required O2. Kept on his BB/CCB.
+.
+DMII: SSI. resumed glipizide. Was on SSI here but resumed his
+insulin regimen on discharge. kept on statin.
+.
+HTN: stable on prior doses of verapamil, lopressor, lasix
+.
+GERD and h/o UGIB: Continued on PPI.
+.
+Constipation: resolved with bowel regimen. kept on this on
+discharge.
+.
+Dispo/Code: DNR/DNI, POA is [**Name (NI) **] [**Name (NI) 79682**] [**Telephone/Fax (1) 70408**],
+[**Telephone/Fax (1) 79684**]. Updated on admission/discharge. Will d/c back to
+[**Hospital1 1501**] today.
+.
+.
+
+
+Medications on Admission:
+Medi

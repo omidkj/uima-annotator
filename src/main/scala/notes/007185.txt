@@ -1,0 +1,199 @@
+Admission Date:  [**2150-1-17**]              Discharge Date:   [**2150-1-29**]
+
+Date of Birth:  [**2074-4-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Atorvastatin
+
+Attending:[**First Name3 (LF) 905**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+central venous line (subclavian)
+intubation
+
+History of Present Illness:
+75 yo female with PmHx of DM, asthma, HTN, hyperlipidemia who
+presented from her [**Hospital3 **] home [**1-17**] with respiratory
+distress.  On admission, she was found to have an O2 sat of 85%
+on RA, and was given nebs/IV lasix.  Her initial ABG was
+7.12/47/152/16 with lactate of 8, and CPAP was initially begun
+in the ED.  She was noted to be bradycardic, with a ?junctional
+escape rhythm at a rate of 48 bpm in the setting of hyperkalemia
+(K=7), and was given atropine.  However, she subsequently became
+hypotensive, was started on dopamine, and was electively
+intubated.  Of note, several medications were apparently changed
+[**1-13**] by her PCP, [**Name10 (NameIs) 19566**] initiation of Cardtia XT 300mg daily,
+with discontinuation of nifedipine.  ED course also notable for
+empiric initiation of levofloxacin, vancomycin, flagyl, and
+hydrocortisone.
+
+Micu course notable for resolution of her hyperkalemia, which
+was thought to be secondary to a combination acute on chronic
+renal failure and [**Last Name (un) **] toxicity, with resolution of normal sinus
+rhythm (rate in the 70s), and pressors were waned off on
+hospital day one.  Her renal function improved, with Cr 1.4 the
+morning of [**Hospital 12145**] transfer to the floor (baseline 0.8 - 1.2).  She
+was successfully extubated [**1-20**], though required intermittent
+noninvasive ventilation for hypercarbia thought to be secondary
+to combination of sedative medications and poor baseline
+respiratory status.  She also was noted to be febrile, and was
+treated empirically for possible MRSA pneumonia (sputum cultures
+positive for MRSA), with defervescence on [**1-17**]. Furthermore,
+discussion with outpatient psychiatrist revealed that patient
+has atypical reaction (extreme agitation/?psychosis) to
+midazolam, which may have contributed to her altered mental
+status during weaning period.  She was also noted to have
+hypernatremia, which was thought to be secondary to crystalloid
+given during initial fluid resuscitation in the setting of acute
+renal insufficiency.  Her hypernatremia improved with free water
+repletion.
+
+PMHx: HTN, DM II with neuropathy/nephropathy, asthma, increased
+lipids, ?parkinsonism, paranoid schizophrenia, bipolar disorder,
+obesity, osteoarthritis, GERD, BPD, Diabetic neuropathy, R TKR,
+Anemia, CRI.  Diverticulitosis.  ?hepatic cyst, S/p right total
+knee replacement ([**2147**]).
+
+
+Past Medical History:
+1. Status post right total knee replacement
+2. DM II, c/b neuropathy and nephropathy.
+3. Osteoarthritis.
+4. Hypertension.
+5. Asthma.
+6. Hypercholesterolemia.
+7. Parkinson's.
+8. Obesity.
+9. GERD.
+10. Bipolar/paranoia.
+11. History of falls.
+
+Social History:
+Shx: lives in an [**Hospital3 **] facility.  No known h/o tobacco
+or alcohol use.
+
+
+Family History:
+NC
+
+Physical Exam:
+Vital Signs: Temp 98.4, BP 130/60, HR 84, RR 20, SaO2 94% RA,
+last 4 fs in reverse order: 84, 62, 174, 98.
+Gen: patient seated in the nursing area in [**Female First Name (un) 1634**] chair, NAD,
+awake&alert, nad
+CV: RRR nl S1 S2, no M/R/G appreciated
+Pulm: scattered expiratory rhonchi throughout
+Abd: obese, protruberant, NT, +BS
+EXT: No edema
+CV: 2+ PT, DP pulses bilaterally
+Neuro: Awake, alert, oriented to person and place
+
+
+Brief Hospital Course:
+MICU course:
+
+* BRADYCARDIA/HYPOTENSION:
+Bradycardia was thought to be secondary to either junctional
+rhythm vs. hyperkalemic arrhythmia, as potassium was >7 on
+admission.  Hyperkalemia was thought to be secondary to a
+combination acute on chronic renal failure and [**Last Name (un) **] toxicity.
+Following correction of hyperkalemia, patient returned to [**Location 213**]
+sinus rhythm with rate in the 70s.  Consequently, blood pressure
+normalized and patient was easily weaned off pressors on
+hospital day one.
+
+* RESPIRATORY DISTRESS:
+Patient was initially intubated upon arrival given hemodynamic
+collapse.  However, patient was not extubated until hospital day
+3, as patient was noted to be extremely agitated during
+spontaneous breathing trials despite excellent objective
+indications of successful extubation (low RSBI, appropriate
+respiratory rates and tidal volumes).  Nonetheless, patient was
+successfully extubated, but required intermittent noninvasive
+ventilation for hypercarbia thought to be secondary to
+combination of sedative medications and baseline COPD.
+Discussion with outpatient psychiatrist revealed that patient
+has atypical reaction (extreme agitation/?psychosis) to
+midazolam, which may have explained patient's mental status
+during weaning period.
+
+* BACTERIAL PNEUMONIA: Given above difficulty with extubation
+and intermittent fevers, sputum gram stain and cultures were
+sent, and patient was found to have MRSA pneumonia.  Prior to
+microbiological data, patient was empirically started on
+levofloxacin and metronidazole, but vancomycin was added
+following identification of Staphylococcus aureus in sputum
+culture [**1-17**].  This colony was later found to be oxacillin
+resistant, and patient was continued on vancomycin.  Patient was
+afebrile by third day of treatment, with low grade temperature
+elevations.
+
+* BORDERLINE PERSONALITY DISORDER: According to outpatient
+psychiatrist, patient is easily agitated at baseline and is best
+managed by a combination of quetiapine, valproic acid, and
+oxazepam PRN.  Following medical stabilization, patient was
+restarted on quetiapine and valproic acid with PRN lorazepam for
+acute bouts of agitation.  Quetiapine was uptitrated as needed.
+Nonetheless, patient continued to require 1:1 precautions -
+which outpatient psychiatrist felt would be expected at
+patient's baseline mental status.
+
+* HYPERNATREMIA: Thought to be due to large sodium load during
+initial fluid resuscitation in the setting of acute renal
+insufficiency.  Patient was given a combination of free water
+boluses via NG tube and D5W to correct free water deficit
+50%/day.  By the end of MICU course, patient's free water
+deficit had largely corrected.
+
+* ACUTE ON CHRONIC RENAL FAILURE:  On admission, patient's
+creatinine was 2.7, thought to be secondary to hypoperfusion
+during bradycardic episode.  With recovery of hemodynamics,
+patient's urine output and renal function improved accordingly.
+
+[**Hospital1 **] Course:
+The patient was called out to the floor from the intensive care
+unit on Thursday [**1-22**].
+
+* PSYCH/AGITATION:
+She experienced some agitation and getting out of bed although
+she was unsteady on her feet. She was placed on 1:1 sitter for
+one night on [**1-26**].
+
+* BACTERIAL PNEUMONIA:
+She completed a 10 day course of vancomycin, levofloxacin, and
+metronidazole on [**1-27**]. She has not experienced any fevers or
+respiratory difficulty since being called out of the unit and
+was successfully weaned off of oxygen.
+
+* CHRONIC RENAL FAILURE/HYPERKALEMIA:
+Her renal function has remained at baseline of 0.8-1.2 on the
+wards without hyperkalemia. She was started on losartan [**1-29**] and
+hydralazine was discontinued (due to concerns for compliance).
+She will need monitoring of potassium to ensure that
+hyperkalemia does not recurr on this medication.
+
+* HYPOTENSION *
+She experienced no further hypotension and instead experienced
+hypertension throughout her course on the floor.
+
+Medications on Admission:
+albuterol prn, asa, Avandia, Depakote ER, Diovan, Prozac,
+Glucophage, lasix, lipitor, neurontin, Serax, seroquel, Cartia
+XT, oxycodone
+
+Discharge Medications:
+1. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)
+ml Injection TID (3 times a day).
+2. Divalproex Sodium 500 mg Tablet Sustained Release 24HR Sig:
+Two (2) Tablet Sustained Release 24HR PO QHS (once a day (at
+bedtime)).
+3. Fluoxetine HCl 20 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+5. Docusate Sodium 150 mg/15 mL Liquid Sig: Fifteen (15) ml PO
+BID (2 

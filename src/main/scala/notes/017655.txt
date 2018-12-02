@@ -1,0 +1,209 @@
+Admission Date:  [**2150-11-11**]              Discharge Date:   [**2150-11-21**]
+
+
+Service: MEDICINE
+
+Allergies:
+Diltiazem / Demerol
+
+Attending:[**First Name3 (LF) 7055**]
+Chief Complaint:
+Shortness of breath.
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+
+History of Present Illness:
+EVENTS / HISTORY OF PRESENTING ILLNESS: (per HPI) "84 year old
+woman with known CAD (s/p BMS to RCA x 2 in '[**44**], DES to LAD
+[**2-11**]), systolic HF (EF 45%), PVD (s/p bilateral LE bypass,) HTN,
+RAS, PAF, who presented to an outside hospital w/ sudden onset
+of SOB. Patient awoke in middle of night w/ difficulty
+breathing. When EMS arrived, she was found to be hypoxic to 84%.
+She was initially admitted to the ICU for CPAP, but with a
+significant symptomatic improvement to lasix, she was able to
+have oxygen titrated down to NC. She denies any ensuing CP prior
+to the episode and had no palpitations. She denies any recent LE
+swelling, premonitory SOB, or lightheadedness. Patient had a
+recent hospitalization 2 weeks prior to presentation. At that
+time she ruled out for MI, and was discharged following
+adjustments to medication. Patient underwent a pharm neuclear
+stress test, which was nondiagnostic on EKG, with failure to
+show changes in baseline sinus bradycardia. There is no report
+in the transfer records of elevated cardiac enzymes. Per report,
+nuclear imaging showed nuclear mixed inferior defect. Patient
+was transfered to [**Hospital1 18**] for cardiac catheterization."
+.
+Oon [**2150-11-11**], pt underwent a cardiac catheterization which showed
+ISRS and she had 2 DES to the LAD placed. She did well post-cath
+and received renal protection via bicarb and mucomyst. Her
+volume status remained tenuous and she was aggressively
+diuresed. However, her renal function also began to decline,
+raising concern for overdiuresis. Her room air sats remained
+low, though, so her outpatient lasix dose was resumed. Today,
+she was given her AM dose of lasix, but her afternoon dose was
+held because of her rising creatinine and her euvolemic status.
+However, in the evening, the patient began to complain of
+respiratory distress. Her SBP were found to be in the 160s-170s.
+She was given: 60mg IV lasix (with minimal UOP), 4mg IV morphine
+total, and nitroglycerin gtt at 1.4mcg/kg/min. Sats were 78% on
+3-4L -> improved only to 90-92% on NRB. She was given an
+additional dose of 120mg lasix IV with minimal UOP. An ABG
+showed pH 7.18, pCO2 95, and pO2 94. Decision was made to
+attempt BiPAP but that was unable to be performed on the floor.
+The patient was minimally responsive and was using accessory
+muscles of respiration. The decision was made to intubate her
+for airway protection and control. She was intubated easily
+(with etom/succ) and brought to the CCU for further management.
+EKG performed on arrival to the SICU were concerning for ST
+elevations in the precordial leads, but they resolved somewhat
+with time so the decision was made to follow her enzymes and not
+go to cath urgently. She remained on heparin IV overnight for
+possible ACS as her troponins were elevated (but her CK was
+flat).
+
+Past Medical History:
+-CAD -> multivessel s/p 2 complex angioplasties of RCA; [**2-6**] she
+underwent PTCA/stenting of the mid/distal RCA; [**9-8**] LMCA had a
+mild proximal stenosis, LAD had a 60% proximal stenosis at D1.
+The remainder of the vessel had mild-moderate diffuse disease.
+.
+-The circumflex system was small with a 40% focal OM1 lesion.
+The RCA had a 20% proximal stenosis. There were serial 90% and
+80% focal in-stent restenotic lesions of the mid and distal
+vessel. The PDA filled via collaterals from the left. Successful
+PTCA of the RCA was performed using a 3.0x15 mm cutting balloon
+proximally and a 2.5x15 mm cutting balloon distally. There was
+20% residual stenosis in the mid-RCA and 10% distally with
+normal flow and no apparent dissection.
+.
+-DES to LAD in [**2-11**]
+--CHF - h/o recurrent admissions for CHF exacerbations; cath
+[**2144**] showed elevated filling pressures but normal EF. Recent ETT
+with anterior apical ischemia. LVEF 45-50%
+.
+--h/o pseudoaneurysm of brachial artery h/o difficult access due
+to --
+--DM
+--HTN
+--PVD s/p Aortobifemoral bypass
+--hypercholesterolemia
+--anemia (baseline Hct 31-34)
+--PAF
+.
+Cardiac Risk Factors: Diabetes, Dyslipidemia, Hypertension
+.
+Cardiac History: as above
+.
+Percutaneous coronary intervention, in [**2144**] anatomy as follows:
+as above
+.
+Pacemaker/ICD: n/a
+
+
+Social History:
+Lives with daughter, non [**Name2 (NI) 1818**], no etoh.
+
+
+Family History:
++ DM,
+
+Physical Exam:
+EXAM:
+VS: T 97.3, BP 116/42, HR 62, RR 19, sats 100% on AC 450x18,
+Fi02 100%, PEEP 5
+I/O -1130 since arrival to unit
+Gen: Elderly female, sedated and intubated.
+HEENT: Sclera anicteric, NCAT. Pupils are small, minimially
+reactive to light. ETT in place.
+Neck: Supple, JVP ~9cm.
+CV: NL S1 S2, RRR, II/VI systolic murmur at LUSB.
+Lungs: Coarse, crackles anteriorly and at bases bilaterally. +
+wheezes.
+Abd: Soft, NTND. + BS throughout. No masses.
+Ext: Unable to palpate femoral pulses, DP or PT bilaterally, but
+are warm to touch w/o evidence of pitting edema. No c/c. Has
+erythematous area on L second toe.
+
+Pertinent Results:
+.
+ADMISSION LABS
+.
+[**2150-11-12**] 07:10AM BLOOD WBC-5.5 RBC-4.37# Hgb-12.1# Hct-37.3#
+MCV-85 MCH-27.7 MCHC-32.4 RDW-16.8* Plt Ct-314
+[**2150-11-11**] 11:00PM BLOOD Plt Ct-290
+[**2150-11-12**] 07:10AM BLOOD Glucose-224* UreaN-32* Creat-1.3* Na-140
+K-4.0 Cl-98 HCO3-30 AnGap-16
+[**2150-11-11**] 11:00PM BLOOD CK(CPK)-22*
+[**2150-11-12**] 07:10AM BLOOD Mg-2.5 Cholest-128
+[**2150-11-18**] 08:19PM BLOOD %HbA1c-5.7
+[**2150-11-12**] 07:10AM BLOOD Triglyc-122 HDL-41 CHOL/HD-3.1 LDLcalc-63
+.
+.
+CARDIAC ENZYMES
+
+[**2150-11-11**] 11:00PM BLOOD CK(CPK)-22*
+[**2150-11-15**] 06:26AM BLOOD CK(CPK)-64
+[**2150-11-15**] 12:21PM BLOOD CK(CPK)-251*
+[**2150-11-15**] 08:58PM BLOOD CK(CPK)-351*
+[**2150-11-16**] 10:48AM BLOOD CK(CPK)-563*
+[**2150-11-17**] 11:16AM BLOOD CK(CPK)-337*
+[**2150-11-18**] 12:10AM BLOOD CK(CPK)-162*
+[**2150-11-19**] 03:00PM BLOOD CK(CPK)-48
+.
+[**2150-11-15**] 01:13AM BLOOD CK-MB-NotDone cTropnT-0.27*
+[**2150-11-15**] 06:26AM BLOOD CK-MB-NotDone cTropnT-0.24*
+[**2150-11-15**] 12:21PM BLOOD CK-MB-28* MB Indx-11.2* cTropnT-0.62*
+[**2150-11-16**] 04:11AM BLOOD CK-MB-42* MB Indx-9.9* cTropnT-1.20*
+[**2150-11-16**] 10:48AM BLOOD CK-MB-52* MB Indx-9.2* cTropnT-1.52*
+[**2150-11-17**] 11:16AM BLOOD CK-MB-20* MB Indx-5.9 cTropnT-2.64*
+[**2150-11-18**] 12:10AM BLOOD CK-MB-10 MB Indx-6.2* cTropnT-2.58*
+[**2150-11-19**] 03:00PM BLOOD CK-MB-NotDone cTropnT-3.77*
+.
+.
+LABS BEFORE DEATH
+.
+[**2150-11-20**] 05:00AM BLOOD WBC-7.1 RBC-3.40* Hgb-9.8* Hct-28.9*
+MCV-85 MCH-28.8 MCHC-33.9 RDW-17.7* Plt Ct-388
+[**2150-11-20**] 05:00AM BLOOD Neuts-90.2* Lymphs-7.0* Monos-2.3 Eos-0.4
+Baso-0
+[**2150-11-20**] 05:00AM BLOOD Plt Ct-388
+[**2150-11-20**] 05:00AM BLOOD PT-13.8* PTT-32.0 INR(PT)-1.2*
+[**2150-11-20**] 05:00PM BLOOD Glucose-132* UreaN-103* Creat-4.1* Na-133
+K-3.6 Cl-90* HCO3-28 AnGap-19
+[**2150-11-20**] 05:00PM BLOOD Calcium-8.8 Phos-5.4* Mg-2.9*
+[**2150-11-20**] 05:00AM BLOOD Calcium-8.5 Phos-5.9* Mg-3.0*
+[**2150-11-20**] 05:00AM BLOOD Osmolal-311*
+[**2150-11-19**] 04:43PM BLOOD Osmolal-315*
+[**2150-11-19**] 04:44PM URINE Hours-RANDOM UreaN-408 Creat-43 Na-34
+[**2150-11-19**] 04:44PM URINE Osmolal-347
+.
+LAST ECG
+Cardiology Report	ECG	Study Date of [**2150-11-21**]  2:01:08 AM
+.
+Sinus rhythm. Diffuse low voltage. Intraventricular conduction
+delay.
+Probable prior lateral myocardial infarction. Compared to the
+prior
+tracing of [**2150-11-20**] the rate has increased. Otherwise, no
+diagnostic
+interim change.
+.
+Read by:	[**Last Name (LF) 578**],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 579**]
+.
+LAST CXR
+CHEST (PORTABLE AP)  [**2150-11-20**] 7:45 AM
+Reason: monitoring pulm edema and L pleural effusion
+
+[**Hospital 93**] MEDICAL CONDITION:
+84 year old woman with fluid overload, thoracentesis on [**11-18**],
+ARF, stent thrombosis, s/p PCI.
+REASON FOR THIS EXAMINATION:
+monitoring pulm edema and L pleural effusion
+REASON FOR EXAMINATION: Fluid overload and pleural effusion
+monitoring.
+.
+Portable AP chest radiograph compared to [**2150-11-19**].
+.
+There

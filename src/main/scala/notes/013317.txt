@@ -1,0 +1,194 @@
+Admission Date:  [**2146-12-2**]              Discharge Date:   [**2147-1-4**]
+
+Date of Birth:  [**2097-5-28**]             Sex:   M
+
+Service: PLASTIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5667**]
+Chief Complaint:
+Motor Vehicle Collision
+
+Major Surgical or Invasive Procedure:
+1. External fixation of right tibia/fibula fracture
+2. External fixation of right proximal tibia & ankle
+3. Irrigation & debridement of open right foot & ankle [**12-3**]
+4. Right lower extremity fasciotomy [**12-4**]
+5. Right lower extremity open washout [**12-7**]
+6. Tracheostomy [**12-10**]
+7. Percutaneous endoscopic gastrostomy [**12-10**]
+8. Right lower extremity washout and closure [**12-10**]
+9. Right lower extremity washout and closure with vacuum [**12-16**]
+
+
+History of Present Illness:
+The patient is a 49 year old male who presented to [**Hospital1 18**] as a
+basic trauma via [**Location (un) **] following a high speed motor vehicle
+collision versus telephone pole. He was intubated and
+transferred from OSH with depressed skull fracture, SVT, and
+obvious right tib/fib fractures.
+
+Past Medical History:
+Alcoholism
+Depression
+Anxiety
+
+Social History:
+Significant for alcoholism---drinks wine and [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5261**] daily
+with history of multiple detox admissions.  Pt has suffered loss
+of employment and strained finances secondary to drinking.  Pt
+is single, never married, lives alone in own [**Last Name (un) **] in [**Location (un) 8117**].
+Pt reportedley very depressed and on verge of losing [**Last Name (un) **].
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vitals: afebrile, P 80s, BP 110/70, RR 16, 98% on room air
+General Appearance: NAD, thin man, deconditioned, appearing
+older than stated age
+Cor: RRR, no MRG
+Lung: clear throughout
+Abd: soft NT, ND, NABS
+RLE immobilized in brace.  VACx2  intact to suction. No
+surrounding erythema or induration.
+LLE min edema, WWP otherwise
+
+
+Pertinent Results:
+[**12-24**] MRA RIGHT LE:
+.
+[**2146-12-14**] CXR: INDICATION:  Feeding tube placement. Feeding tube
+has been advanced into the body of the stomach.  Tracheostomy
+tube remains in standard position.  Bilateral poorly defined
+alveolar opacities in the upper and mid lung regions show slight
+interval improvement compared to the recent radiograph.
+.
+[**2146-12-12**] CT CHEST: IMPRESSION: 1.  Multifocal bilateral
+ground-glass opacities with peribronchovascular and subpleural
+distribution.  In the setting of fevers, this may be due to a
+diffuse infection, but other etiologies including cryptogenic
+organizing pneumonia and eosinophilic pneumonia should be
+considered as well.  Pulmonary hemorrhage is also possible in
+the appropriate clinical setting. 2.  Small bilateral pleural
+effusions. 3.  Incompletely imaged low attenuation left lobe
+hepatic lesion for which ultrasound may be considered for more
+complete assessment if warranted clinically.
+.
+[**2146-12-2**] CT HEAD: IMPRESSION: 1.  Acute comminuted and depressed
+fracture of the squamosal left temporal bone with associated
+temporal contusion, as described. 2.  No other intra- or
+extra-axial hemorrhage, significant mass effect, or shift of the
+midline structures. 3.  Inflammatory changes involving the
+paranasal sinuses.
+.
+[**2146-12-2**] CT LOW EXT: IMPRESSION: 1.  Comminuted impacted fracture
+of proximal tibia involving medial and lateral tibial plateau.
+2.  Fibular head fracture. 3.  Comminuted distal tibial fracture
+involving medial malleolus and tibial plafond. 4.  Comminuted
+distal fibular fracture.
+5.  Fracture dislocation of talus. 6.  Fractures of cuboid and
+fourth metatarsal.
+.
+[**2146-12-2**] 10:05PM   TYPE-ART PO2-152* PCO2-45 PH-7.36 TOTAL
+CO2-26 BASE XS-0
+[**2146-12-2**] 10:05PM   freeCa-1.16
+[**2146-12-2**] 09:54PM   GLUCOSE-137* UREA N-6 CREAT-0.6 SODIUM-139
+POTASSIUM-4.1 CHLORIDE-110* TOTAL CO2-22 ANION GAP-11
+[**2146-12-2**] 09:54PM   CALCIUM-7.8* PHOSPHATE-4.2 MAGNESIUM-1.7
+[**2146-12-2**] 09:50PM   WBC-9.5 RBC-3.18* HGB-10.0* HCT-28.1* MCV-89
+MCH-31.5 MCHC-35.6* RDW-15.5
+[**2146-12-2**] 09:50PM   PLT COUNT-97*
+[**2146-12-2**] 09:50PM   PT-13.3 PTT-30.6 INR(PT)-1.1
+[**2146-12-2**] 08:42PM   HGB-8.2* calcHCT-25
+[**2146-12-2**] 04:46PM   TYPE-ART PO2-150* PCO2-38 PH-7.35 TOTAL
+CO2-22 BASE XS--3
+[**2146-12-2**] 04:46PM   freeCa-1.11*
+[**2146-12-2**] 04:46PM   LACTATE-1.4
+[**2146-12-2**] 04:38PM   WBC-8.3 RBC-2.72* HGB-8.2* HCT-24.1* MCV-89
+MCH-30.1 MCHC-34.0 RDW-15.8*
+[**2146-12-2**] 04:38PM   PLT COUNT-87*#
+[**2146-12-2**] 04:38PM   PT-15.9* PTT-35.9* INR(PT)-1.4*
+[**2146-12-2**] 03:40PM   TYPE-ART PO2-325* PCO2-45 PH-7.29* TOTAL
+CO2-23 BASE XS--4
+[**2146-12-2**] 03:40PM   GLUCOSE-165* LACTATE-2.5*
+[**2146-12-2**] 03:40PM   freeCa-0.99*
+[**2146-12-2**] 03:30PM   GLUCOSE-178* UREA N-7 CREAT-0.6 SODIUM-138
+POTASSIUM-4.2 CHLORIDE-113* TOTAL CO2-18* ANION GAP-11
+[**2146-12-2**] 03:30PM   CALCIUM-6.2* PHOSPHATE-3.7 MAGNESIUM-1.6
+[**2146-12-2**] 03:30PM   WBC-11.8* RBC-3.26* HGB-10.5* HCT-30.0*
+MCV-92 MCH-32.1* MCHC-34.9 RDW-15.4
+[**2146-12-2**] 03:30PM   PLT COUNT-52*
+[**2146-12-2**] 03:30PM   PT-18.1* PTT-42.3* INR(PT)-1.7*
+[**2146-12-2**] 02:08PM   PO2-256* PCO2-43 PH-7.20* TOTAL CO2-18* BASE
+XS--10 COMMENTS-GREEN TOP
+[**2146-12-2**] 02:08PM   GLUCOSE-204* LACTATE-5.1* NA+-133* K+-4.0
+CL--111
+[**2146-12-2**] 01:59PM   UREA N-8 CREAT-0.5
+[**2146-12-2**] 01:59PM   estGFR-Using this
+[**2146-12-2**] 01:59PM   AMYLASE-55
+[**2146-12-2**] 01:59PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2146-12-2**] 01:59PM URINE  HOURS-RANDOM
+[**2146-12-2**] 01:59PM URINE  HOURS-RANDOM
+[**2146-12-2**] 01:59PM URINE  GR HOLD-HOLD
+[**2146-12-2**] 01:59PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2146-12-2**] 01:59PM   WBC-13.5* HCT-29.5*
+[**2146-12-2**] 01:59PM   PLT SMR-LOW PLT COUNT-88*
+[**2146-12-2**] 01:59PM   PT-18.6* PTT-43.6* INR(PT)-1.7*
+[**2146-12-2**] 01:59PM   FIBRINOGE-105*
+[**2146-12-2**] 01:59PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.039*
+[**2146-12-2**] 01:59PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-TR
+GLUCOSE-250 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2146-12-2**] 01:59PM URINE  RBC-[**3-1**]* WBC-0-2 BACTERIA-RARE
+YEAST-NONE EPI-0-2
+
+Brief Hospital Course:
+The patient is a 49 year old male who presented to [**Hospital1 18**] as a
+basic trauma via [**Location (un) **] following a high speed motor vehicle
+collision versus telephone pole.  He was intubated and
+transferred from OSH with depressed skull fracture, SVT, and
+obvious right tib/fib fractures.
+.
+[**2146-12-2**]
+Patient to OR with ortho trauma team for the following:
+1. Irrigation and debridement of open foot and ankle wound
+2. Debridement of open fractures of the fibula, talus and distal
+tibia
+3. Closed reduction of proximal tibia fracture
+4. External fixation of the proximal tibia and ankle fractures.
+.
+[**2146-12-3**]
+Patient to OR with ortho trauma team for four compartment
+fasciotomy of right lower extremity.
+.
+[**2146-12-6**]
+Patient to OR with trauma for closure of fasciotomy wounds in
+right lower leg; adjustment of external fixator around the
+plateau fracture; debridement of open fracture to bone, and
+application of black sponge vacuum dressing to right dorsal foot
+wound.  No complications during the procedures and pt tolerated
+it well.  Transferred back to the TSICU post-operatively on
+ventilator support.
+.
+[**2146-12-9**]
+Patient to OR for tracheostomy with trauma team secondary to
+inability to wean from ventilator support for failure to clear
+secretions.  There were no complications during the procedure
+and the patient tolerated the procedure well. Transferred back
+to the TSICU post-operatively on ventilator support.
+.
+[**2146-12-13**]
+Patient removed from ventilator support wean.  Confusion
+continues.
+.
+[**2146-12-15**]
+Patient to OR for percutaneous endoscopic gastrostomy with
+trauma team secondary to inability to feed from delerium,
+disorientation. No complications and patient tolerated the
+procedure well.  Pt extubated in the OR and transferred to PACU
+for mointoring.  Ultimately transferred to floor CC6 for post-op

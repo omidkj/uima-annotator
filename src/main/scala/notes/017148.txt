@@ -1,0 +1,232 @@
+Admission Date:  [**2118-8-8**]              Discharge Date:   [**2118-9-2**]
+
+Date of Birth:  [**2069-10-26**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Zantac 75
+
+Attending:[**First Name3 (LF) 371**]
+Chief Complaint:
+Fevers, further medical management of recurrent diverticulitis
+
+Major Surgical or Invasive Procedure:
+[**8-9**] Placement of central venous catheter
+[**8-18**] Endotracheal intubation
+[**8-18**] Placement of central venous catheter
+
+
+History of Present Illness:
+Ms. [**Known lastname 69147**] is a 48 year old female who was transferred to
+[**Hospital1 18**] on [**8-8**] via ambulance from an OSH.  She has a history or
+recurrent diverticulitis and underwent a total colectomy with an
+ileorectal anastomosis on [**7-21**]. Post-operatively she developed
+an anastomotic leak and underwent a takedown of the ileorectal
+anastomosis, [**Doctor Last Name **] pouch, and recreation of the ileostomy on
+[**7-23**]. Post-operatively she remained intubated; on [**8-6**] she had
+brown purulent material expressed from her abdominal wound with
+cultures growing gram positive cocci and pseudomonas; blood
+cultures were negative; sputum cultures demonstrated methicillin
+resistant staphylococus aureus. She had a temperature spike of
+106 and required pressure support, she was transferred to [**Hospital1 18**]
+for further management and admitted to the surgical intensive
+care unit.
+
+Past Medical History:
+Past Medical History:
+
+Diverticulitis
+Anxiety
+
+Past Surgical History:
+
+[**7-21**] Exploratory laparotomy with total colectomy
+[**7-23**] Takedown of ileorectal anastomosis, [**Doctor Last Name **] pouch,
+ileostomy
+'[**15**] Sigmoid Colectomy
+
+
+Social History:
+Married
+
+Family History:
+Non-contributory
+
+Physical Exam:
+On admission:
+
+99.2  105  107/78  33  100% SIMV (600 x 12)
+
+Gen: Intubated, sedated, has nasogastric tube
+Heart: Regular rate and rhythm
+Lungs: Difficult to assess
+Abd: Ostomy with dark brown output, open midline wound with
+retention sutures
+Ext: Pulses present
+
+Pertinent Results:
+Admission Labs:
+
+[**2118-8-8**] 09:45PM BLOOD WBC-12.5* RBC-2.86* Hgb-8.9* Hct-25.3*
+MCV-89 MCH-31.0 MCHC-35.0 RDW-15.2 Plt Ct-429
+[**2118-8-8**] 09:45PM BLOOD Neuts-87.2* Lymphs-8.3* Monos-3.2 Eos-1.1
+Baso-0.2
+[**2118-8-8**] 09:45PM BLOOD PT-13.8* PTT-26.6 INR(PT)-1.2*
+[**2118-8-8**] 09:45PM BLOOD Ret Aut-1.5
+[**2118-8-8**] 09:45PM BLOOD Glucose-102 UreaN-31* Creat-0.5 Na-145
+K-3.2* Cl-111* HCO3-24 AnGap-13
+[**2118-8-8**] 09:45PM BLOOD ALT-42* AST-43* LD(LDH)-224 AlkPhos-278*
+Amylase-69 TotBili-0.8
+[**2118-8-8**] 09:45PM BLOOD Lipase-56
+[**2118-8-8**] 09:45PM BLOOD Albumin-2.6* Calcium-8.0* Phos-2.8 Mg-2.2
+[**2118-8-8**] 10:13PM BLOOD freeCa-1.20
+
+[**2118-8-9**] 9:49 am SPUTUM      Source: Endotracheal.
+   GRAM STAIN (Final [**2118-8-9**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+
+[**2118-8-17**] 5:50 pm URINE
+URINE CULTURE (Final [**2118-8-19**]):    NO GROWTH.
+
+Discharge Labs:
+
+   RESPIRATORY CULTURE (Final [**2118-8-12**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+         OF TWO COLONIAL MORPHOLOGIES.
+      YEAST.    SPARSE GROWTH.
+
+   [**2118-8-18**] 4:09 pm BLOOD CULTURE
+   AEROBIC BOTTLE (Final [**2118-8-24**]):    NO GROWTH.
+
+   ANAEROBIC BOTTLE (Final [**2118-8-24**]):    NO GROWTH.
+
+[**2118-8-18**] 1:52 pm BRONCHOALVEOLAR LAVAGE
+
+   GRAM STAIN (Final [**2118-8-18**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+
+   RESPIRATORY CULTURE (Final [**2118-8-21**]):
+      SPARSE GROWTH OROPHARYNGEAL FLORA.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         Please contact the Microbiology Laboratory ([**6-/2418**])
+immediately if
+         sensitivity to clindamycin is required on this
+patient's isolate.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------   <=1 S
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+Discharge Labs:
+ Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2118-8-24**] 04:01AM    8.7 3.34* 10.1* 28.8* 86 30.4 35.2* 14.7
+294
+ RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2118-8-24**] 04:01AM    109* 20 0.6 138 4.3 100 30 12
+
+
+CT PELVIS W/O CONTRAST  [**2118-8-17**] 9:43 PM
+CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST
+
+Reason: EVAL ANASTOMOTIC LEAK S/P COLECTOMY
+Field of view: 40
+
+[**Hospital 93**] MEDICAL CONDITION:
+48F s/p anastomotic leak following colectomy
+REASON FOR THIS EXAMINATION:
+gastrografin contrast to eval for leak, ?abscess- please no IV
+contrast- patient has renal problems
+CONTRAINDICATIONS for IV CONTRAST: renal
+
+INDICATIONS: 48-year-old woman with history of anastomotic leak
+status post colectomy. Evaluate for leak.
+
+TECHNIQUE: Axial non-contrast CT imaging of the abdomen and
+pelvis was obtained. At the request of the referring physicians,
+intravenous contrast was not administered because of renal
+insufficiency, and gastrografin was administered as oral
+contrast.
+
+CT OF THE ABDOMEN WITHOUT IV CONTRAST: A nasogastric tube
+terminates in the stomach. There is discoid atelectasis in the
+lingula and left lower lobe. Otherwise, the lung bases are clear
+without effusions. The liver appears normal. The patient is
+status post cholecystectomy. The spleen, adrenal glands,
+pancreas, and kidneys are unremarkable. The stomach and proximal
+small bowel are within normal limits. This patient is status
+post colostomy and Hartmann's pouch. The bowel is not dilated,
+and there is no evidence of obstruction. Contrast passes into
+the ileostomy. The is a site of narrowing in the distal small
+bowel, which may be due to underdistention, although stricture
+or post- operative edema at an anastamotic site cannot be
+excluded.
+
+There is a large amount of fat stranding in the right
+retroperitoneum near the ileostomy site. In addition, there is a
+hazy appearance of peripheral intra- abdominal fat, which
+extends down into the left pelvis, within the the left paracolic
+gutter. In the mid lateral left abdomen, there are some densites
+which may represent extraluminal inspissated contrast related to
+the history or prior bowel leak. There is no free air, ascites,
+or lymphadenopathy. There is no evidence of free leakage of
+contrast.
+
+CT OF THE PELVIS WITH IV CONTRAST: The uterus is present.
+Anastomotic suture lines are seen associated with the Hartmann's
+pouch. There is no lymphadenopathy or free fluid.
+
+BONE WINDOWS: There are no suspicious lytic or blastic lesions.
+There is a sclerotic focus in the left proximal femur, a
+probable bone island.
+
+IMPRESSION:
+1. Status post ileostomy without evidence of obstruction or free
+leakage of contrast.
+2. Extensive inflammatory change in the right retroperitoneal
+fat and left paracolic gutter. This appearance is non-specific
+but may all reflect recent post-operative change.
+
+   Date: [**2118-8-25**]
+OROPHARYNGEAL VIDEOFLUOROSCOPIC SWALLOWING EVALUATION
+
+EVALUATION:
+An oral and pharyngeal swallowing videofluoroscopy was performed
+today in collaboration with Radiology.  Thin liquid,
+Nectar-thick
+liquid, pureed consistency barium, one quarter ground cookie
+coated with barium and one half cookie were administered.
+Results
+follow:
+
+ORAL PHASE:
+Bolus formation was mildly reduced with mildly prolonged
+mastication of the cookie. Bolus control was also mildly reduced
+with her head in the upright position with premature spillover
+to
+the valleculae. AP tongue movement was mildly reduced with mild
+tongue weakness, although noted to be significantl

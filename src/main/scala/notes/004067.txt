@@ -1,0 +1,201 @@
+Admission Date:  [**2156-10-4**]              Discharge Date:   [**2156-10-11**]
+
+Date of Birth:  [**2104-4-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2279**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Intubation, extubation
+
+
+History of Present Illness:
+Ms. [**Name14 (STitle) 106357**] is a 56 year-old woman with a history of
+bronchiectasis, likely COPD, ?sarcoidosis, and mild mental
+retardation who presented to the ED with acute on chronic
+abdominal pain and dyspnea and was intubated in the setting of
+hypoxia and respiratory distress.
+.
+The patient is intubated and history was obtained from ED staff,
+hospital records, and her case manager, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 805**]. She lives
+in a group home and per report has had two admissions this year
+for shortness of breath, last in [**2156-8-5**], attributed to either
+pneumonia or COPD exacerbation. She has also had multiple
+PCP/outpatient office visits and ED visits for shortness of
+breath, generally attributed to bronchitis or reactive airway
+disease. She has also had acute on chronic abdominal pain and
+underwent EGD recently that demonstrated gastritis.
+.
+She was in her USOH until this afternoon when she began having
+worsening abdominal pain after being picked up in a car by her
+case manager. During this episode, she had tachypnea/dyspnea,
+and her case manager activated EMS. Her recent history is
+notable for the absence of fevers, chronic nonproductive cough,
+and no increase in her baseline nebulizer requirement.
+.
+In the ED, initial vs were: 99.9 127 158/80 18 100%NRB -> 88%ra.
+She was agitated, removing her NRB, tachypneic to the 40s, and
+not moving air on exam. She became hypertensive to SBP 180-200
+and had worsening hypoxia to the low 80s on room air. She was
+then intubated for hypoxic respiratory failure and tachypnea,
+and was given methylpred 125, bronchodilators, and levofloxacin,
+after which she was noted to be moving air more effectively. She
+also was given 3L NS.
+.
+On arrival to the [**Hospital Unit Name 153**], she is intubated and sedated on
+propofol. She is accompanied by her case manager. Of note, ROS
+is negative for change in bowel or bladder movement, blood in
+stool, diarrhea, or nausea, though patient has chronically
+reduced appetite with 50 lb weight loss over past year.
+
+
+Past Medical History:
+1.   Question sarcoid.  She had a CT scan of her chest in [**Month (only) **]
+of
+[**2152**] that showed hilar lymphadenopathy that was stable on a
+repeat CT in [**2153-6-5**].  She does not have any parenchymal
+lung disease on these scans and no further workup was pursued at
+the time.
+2.   ? allergic bronchopulmonary aspergillosis (ABPA)
+3.   Type 2 diabetes.
+4.   Hypertension.
+5.   Schizophrenia.
+6.   Hepatitis C.
+7.   Mild mental retardation.
+8.   Anxiety.
+
+
+Social History:
+She lives in a group home.  She is on disability.  She smoked a
+significant amount of cigarettes but quit last month.  She has
+never been exposed to anybody with tuberculosis, and there are
+no pets in her home.
+
+
+Family History:
+Her sister has schizophrenia.
+
+Physical Exam:
+ADMISSION:
+Vitals: 98 115/70 16 100% cmv fio2 50% peep 5 TV 400
+General: sedated
+HEENT: ETT in place, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, obese, bowel sounds present, no rebound
+tenderness or guarding, no organomegaly
+GU: foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Discharge:
+VS:  Stable, with RR 16-18, SaO2 99/RA
+No other pertinent findings on exam
+
+
+Pertinent Results:
+Admission Labs:
+[**2156-10-4**] 03:20PM BLOOD WBC-4.2 RBC-4.88 Hgb-14.1 Hct-43.3 MCV-89
+MCH-28.8 MCHC-32.4 RDW-14.4 Plt Ct-245
+[**2156-10-4**] 03:20PM BLOOD Neuts-52.8 Lymphs-27.0 Monos-4.7
+Eos-14.5* Baso-0.9
+[**2156-10-4**] 03:20PM BLOOD PT-12.2 PTT-22.7 INR(PT)-1.0
+[**2156-10-4**] 04:42PM BLOOD Glucose-156* UreaN-5* Creat-0.5 Na-138
+K-4.1 Cl-106 HCO3-24 AnGap-12
+[**2156-10-4**] 04:42PM BLOOD ALT-23 AST-28 AlkPhos-50 TotBili-0.4
+[**2156-10-4**] 04:42PM BLOOD cTropnT-<0.01
+[**2156-10-5**] 02:50AM BLOOD Calcium-8.5 Phos-3.4 Mg-1.7
+[**2156-10-4**] 04:42PM BLOOD ASA-NEG Acetmnp-9* Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+
+ABGs:
+#1) [**2156-10-4**] 04:50PM BLOOD Type-ART Temp-37.9 Tidal V-380
+FiO2-50 pO2-148* pCO2-46* pH-7.34* calTCO2-26 Base XS--1
+-ASSIST/CON Intubat-INTUBATED
+#2) [**2156-10-4**] 09:04PM BLOOD Type-ART Rates-16/ Tidal V-380 PEEP-5
+FiO2-50 pO2-161* pCO2-54* pH-7.30* calTCO2-28 Base XS-0
+-ASSIST/CON Intubat-INTUBATED
+#3) [**2156-10-4**] 11:35PM BLOOD Type-ART Tidal V-400 PEEP-5 FiO2-50
+pO2-131* pCO2-41 pH-7.39 calTCO2-26 Base XS-0 -ASSIST/CON
+Intubat-INTUBATED
+#4) [**2156-10-6**] 02:19AM BLOOD Type-ART Temp-35.8 PEEP-5 pO2-84*
+pCO2-43 pH-7.46* calTCO2-32* Base XS-5 Intubat-INTUBATED
+Comment-CPAP/PS
+
+[**2156-10-4**] 9:11 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2156-10-6**]**
+
+   GRAM STAIN (Final [**2156-10-4**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   MULTIPLE ORGANISMS
+CONSISTENT WITH
+                                    OROPHARYNGEAL FLORA.
+
+   RESPIRATORY CULTURE (Final [**2156-10-6**]):
+      MODERATE GROWTH Commensal Respiratory Flora.
+
+
+Brief Hospital Course:
+Ms. [**Name14 (STitle) 106357**] is a 56 year-old woman with a history of
+bronchiectasis, likely COPD, ?sarcoidosis, and mild mental
+retardation who presented to the ED with acute on chronic
+abdominal pain and dyspnea and was intubated in the setting of
+hypoxia and respiratory distress.
+
+Respiratory failure:
+Pt was intubated in the setting of hypoxia, tachypnea, and
+hypertension in ED. Found to have poor air movement on exam. No
+significant pulmonary edema on cxr although circumstances raised
+question if pt had flash edema. Initial ABG showed mild acidosis
+with mild CO2 retention. She was started on IV steroids as well
+as broad spectrum Abx vanc/cefepime/azithro for emperic PNA
+coverage. Albuterol/ipratropium inhalers continued. When CXR
+showed no obvious infiltrate taken off Vanco/Cefepime and unasyn
+added for possibility of aspiration event. Question of fluid
+overload was raised so pt given IV lasix with good diuresis
+response. Pt with continued wheezing on auscultation, so
+albuterol inhaler changed from Q6hr to Q2hr. Vent was then
+weaned to PS from CMV. Vanco was briefly restarted as sputum GS
+showed GPC but then stopped again once culture grew commensal
+organisms. Unasyn was also stopped at this point. BNP was WNL
+and ECHO was done which showed grossly normal heart.  On morning
+of [**10-7**] pt was successfully extubated. Pts respiratory status
+remained stable as she was monitored overnight in the ICU before
+transfer to the floor.  She continued to be stable on the floor
+and discharged with a steroid taper.  Her underlying lung
+disease requires further outpatient workup but at the present
+time the most likely cause for her acute deterioration was a
+COPD flare.
+
+Abdominal pain/Gastritis: Initial symptoms prompted by acute on
+chronic abdominal pain, unclear etiology with known gastritis
+and hepatitis C, and no acute etiology on abdominal CT in [**3-17**].
+Improved without treatment.
+
+Schizophrenia:  no change in outpatient management.
+
+Medications on Admission:
+ALBUTEROL SULFATE - 2.5 mg/3 mL (0.083 %) Solution for
+Nebulization - 1 neb(s) inh every 4-6 hours as needed for
+wheezing or shortness of breath Dx:  COPD, unable to use MDI
+with spacer
+ALBUTEROL SULFATE [PROVENTIL HFA] - 90 mcg HFA Aerosol Inhaler -
+[**2-7**] puff inh four times a day
+BENZTROPINE -  (Prescribed by Other Provider) - 1 mg Tablet - 1
+(One) Tablet(s) by mouth  at bedtime
+BUDESONIDE-FORMOTEROL [SYMBICORT] - 160 mcg-4.5 mcg/Actuation
+HFA Aerosol Inhaler - 2 spray(s) inh twice a day
+FLUPHENAZINE HCL -  (Prescribed by Other Provider: [**Name Initial (NameIs) **]) - 10
+mg Tablet - 3 Tablet(s) by mouth once a day
+FREESTYLE GLUCOMETER -   - starter kit with lancets and strips
+L

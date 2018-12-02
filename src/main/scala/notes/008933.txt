@@ -1,0 +1,213 @@
+Admission Date:  [**2190-11-17**]              Discharge Date:   [**2190-11-30**]
+
+Date of Birth:  [**2112-9-12**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Doxycycline
+
+Attending:[**First Name3 (LF) 1481**]
+Chief Complaint:
+Gastric Adenocarcinoma
+
+Major Surgical or Invasive Procedure:
+Total gastrectomy
+
+
+History of Present Illness:
+mr. [**Known lastname 26802**] is a 78-year-old man with history of hypertension,
+AS s/p AVR, atrial fibrillation/ flutter, CHF, s/p CVA, and
+gastric cancer which was found on upper endoscopy.It has been
+staged as having a resectable lesion which is T2 lesion.
+No obvious nodes wereseen on endoscopic ultrasound, and
+metastatic survey was
+negative for distal disease. A lesion was seen in his skull
+which seemed to be a meningioma, as this has been followed
+for awhile and has not changed and was PET negative. He
+presents now for resection.
+
+Past Medical History:
+Anemia, iron def, resolved
+Hypertension
+Afib/ flutter
+Aortic stenosis, s/p porcine valve replacement @ [**Hospital1 2025**] in [**1-10**],
+LVEF 50-55%
+CHF, LVEF 50-55%
+s/p CVA (post-op complication from AVR) in [**1-10**] with residual
+speech difficulty and L facial droop
+GERD
+CKD (baseline cre 1.5-1.7)
+Chronic back pain
+DJD
+Colon polyps
+Gastric cancer
+BPH s/p TURP x 2
+.
+ALL: Doxycycline (per OMR, patient does not recall)
+
+Social History:
+Previous work as insurance salesman
+1 daughter, lives in [**Name (NI) 7349**]
+[**Name (NI) **]: 100 pack-yr smoking history (3ppd x 35yrs), quit 15yrs ago
+No EtOH or illicits.
+Lives with wife in [**Name (NI) 3597**].
+Independent ADLs
+
+
+Family History:
+3 siblings passed away from pancreatic cancer
+2 siblings passed away from lung cancer
+
+Physical Exam:
+Post-op Check:
+Vitals: T-98.2, HR-80, BP-100/52, RR-16, O2 sat-97 on 3L NC
+Gen:NAD, A/Ox3
+Pulm:CTAB
+CV:RRR
+ABD:Incision TTP, decreased bowel sounds, dressing with minimal
+serosanguinous drainage.
+
+Pertinent Results:
+[**2190-11-29**] 07:15AM BLOOD WBC-9.4 RBC-3.41* Hgb-9.6* Hct-30.4*
+MCV-89 MCH-28.2 MCHC-31.7 RDW-19.7* Plt Ct-893*
+[**2190-11-17**] 09:18PM BLOOD WBC-10.5# RBC-4.13* Hgb-11.8* Hct-36.6*
+MCV-89 MCH-28.7 MCHC-32.4 RDW-22.4* Plt Ct-304
+[**2190-11-29**] 07:15AM BLOOD PT-14.4* PTT-27.9 INR(PT)-1.3*
+[**2190-11-20**] 02:02AM BLOOD PT-11.9 PTT-30.7 INR(PT)-1.0
+[**2190-11-18**] 10:14AM BLOOD PT-14.7* PTT-31.7 INR(PT)-1.3*
+[**2190-11-29**] 07:15AM BLOOD Glucose-98 UreaN-37* Creat-1.4* Na-138
+K-5.0 Cl-101 HCO3-30 AnGap-12
+[**2190-11-17**] 09:18PM BLOOD Glucose-136* UreaN-26* Creat-1.5* Na-144
+K-4.4 Cl-111* HCO3-23 AnGap-14
+[**2190-11-20**] 02:02AM BLOOD ALT-45* AST-25 LD(LDH)-173 AlkPhos-48
+Amylase-21 TotBili-0.6
+[**2190-11-29**] 07:15AM BLOOD Calcium-8.6 Phos-3.9 Mg-2.6
+[**2190-11-17**] 09:18PM BLOOD Calcium-9.3 Phos-4.4 Mg-1.9
+.
+Pathology Examination [**2112-9-12**]
+DIAGNOSIS:
+I.  Portal lymph node (A):
+1.  Lipogranulomas and hyperplasia.
+2.  No tumor.
+II.  Perigastric nodes (B):
+1.  Hyperplasia.
+2.  No tumor.
+III.  First proximal margin (C):
+Fragment of esophagus with squamous epithelium: No tumor.
+IV.  Anastomotic ring, most proximal margin (D):
+Fragment of esophagus with squamous epithelium: No tumor.
+V.  Esophagogastrectomy (E-Y):
+1.  Adenocarcinoma of the gastric cardia, see synoptic report.
+2.  Gastric fundic mucosa, within normal limits.
+3.  Esophageal mucosa with squamous epithelium at the proximal
+margin, and duodenal tissue at the distal margins
+Stomach: Resection Synopsis
+ MACROSCOPIC
+Specimen Type:  Total gastrectomy.
+Tumor Site:  Cardia.
+Tumor configuration:  Exophytic (polypoid).
+Tumor Size
+    Greatest dimension:  4.5 cm.  Additional dimensions:  3.1 cm
+x 1.3 cm.
+MICROSCOPIC
+Histologic Type:  Adenocarcinoma, hyperplastic glandular type.
+Histologic Grade:  G2:  Moderately differentiated.
+Primary Tumor:  pT1b:  Tumor invades submucosa.
+Regional Lymph Nodes:  pN0:  No regional lymph node metastasis.
+Lymph Nodes
+    Number examined:  18.
+    Number involved:  0.
+Distant metastasis:  pMX:  Cannot be assessed.
+Margins
+    Proximal margin:  Uninvolved by invasive carcinoma.
+    Distal margin:  Uninvolved by invasive carcinoma.
+    Omental (radial) margins
+        Lesser omental margin:  Uninvolved by invasive
+carcinoma.
+        Greater omental margin:  Uninvolved by invasive
+carcinoma.
+    Distance from closest margin:  45 mm.
+    Specified margin:  Proximal margin, including separate
+specimens.
+Lymphatic (Small Vessel) Invasion:  Present in submucosa.
+Venous (Large vessel) invasion:  Absent.
+Comments:  The tumor invades under the adjacent squamous
+epithelium.
+Clinical:  Gastric adenocarcinoma.
+.
+Cardiology Report ECG Study Date of [**2190-11-18**]  2:14:44 AM
+Atrial flutter with moderate ventricular response. Compared to
+the prior
+tracing of [**2190-11-12**] the ventricular response has slowed.
+Otherwise, no
+diagnostic interim change.
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+86 0 82 344/389 0 3 16
+.
+RADIOLOGY  Final Report
+ESOPHAGUS  [**2190-11-22**] 2:19 PM
+[**Hospital 93**] MEDICAL CONDITION:
+78 year old man s/p total gastrectomy with concern regarding the
+esophago-jejunal anastomosis
+IMPRESSION:
+1. No evidence for leak or obstruction at anastomotic site.
+2. Mild amount of free esophageal reflux.\
+.
+ECHOCARDIOGRAM [**2190-11-23**]
+Conclusions:
+The left atrium is elongated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. Tissue Doppler
+imaging suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). The right ventricular cavity is mildly dilated.
+Right ventricular systolic function is borderline normal. A
+bioprosthetic aortic valve prosthesis is present. The prosthetic
+aortic valve leaflets are thickened. The transaortic gradient is
+normal for this prosthesis. A paravalvular aortic valve leak is
+probably present. Mild to moderate ([**1-5**]+) aortic regurgitation
+is seen. The mitral valve leaflets are mildly thickened. Mild to
+moderate ([**1-5**]+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. Moderate to severe [3+]
+tricuspid regurgitation is seen. There is moderate pulmonary
+artery systolic hypertension. Mild pulmonic regurgitation is
+seen. The end-diastolic pulmonic regurgitation velocity is
+increased suggesting pulmonary artery diastolic hypertension.
+There is no pericardial effusion.
+
+
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 96777**] operative course was uncomplicated. He was routinely
+observed in the PACU. He was admitted to SICU from PACU for pain
+issues, hypotension, & fluid requirement postoperatively.
+.
+Pain:He had an epidural place intra-op. He became hypotensive in
+PACU. On [**11-18**]: He was switched to Epidural Demerol 1mg/mg @
+12cc/h with some relief. His pain continued be unmanaged. On
+[**11-19**]: His BP became more stable with IV resuscitation, he was
+switched back to the APS 10 solution. On [**11-20**]: He continued
+with the APS 10 solution at 4-8cc/h. He began to hallucinate.
+The APS team was aware, and Geriatric Team was consulted. He is
+currently well managed with oxycodone elixir and PO Tylenol. He
+is currently rating his pain [**2193-3-7**].
+.
+[**Female First Name (un) **]: He was evaluated per team on [**2190-11-22**]. Per [**Female First Name (un) 1634**] exam, he
+was difficult to arouse, but able to answer some questions. He
+denied pain anywhere. Tylenol was orderd around the clock
+because he was not able to verbalize pain due to delirium.
+Oxycodone use was minimized due to opiate sensitivity, and
+Haldol order was minimized. A [**1-4**] sitter vs pharmacologic
+measures was recommended as well. These recommendations were
+initiated, and his mental status cleared significantly.
+.
+NUT: He was evaluated per Nutrition in the ICU, and followed
+once transferred to surgical unit. He was started on Tube feeds
+via the JTUBE in the ICU. The rate was advanced slowly as his
+bowel function and cognitive function cleared. He was advanced
+to his goal rate. He is currently being fed with 3/4 str impact
+with fiber at 120cc/h x 12 hours. In addition, he is tolerating
+small frequent meals, regular food with Ensure supplements. His
+blood sugars were checked QAC&HS. He was treated with Regular
+insulin per sliding scale. His bloods sugars were stable during

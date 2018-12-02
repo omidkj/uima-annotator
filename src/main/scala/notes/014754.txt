@@ -1,0 +1,227 @@
+Admission Date:  [**2121-4-8**]              Discharge Date:   [**2121-4-15**]
+
+Date of Birth:  [**2040-10-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 45**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+
+History of Present Illness:
+OUTPT CARDIOLOGIST: [**First Name5 (NamePattern1) 122**] [**Last Name (NamePattern1) 80965**]
+.
+Mr. [**Name13 (STitle) 80966**] is an 80yo M with dementia, CAD s/p CABG in [**2105**]
+(LIMA-LAD, SVG to OM2, SVG to RPDA), then s/p CABG redo in [**2111**],
+then s/p 2 caths this year with patent LIMA, totally occluded
+SVG to RPDA, SVG to OM2, s/p BMS to LCX on [**1-28**] who
+presented to [**Hospital3 417**] Hospital with increasing chest pain
+and nausea over the past few days.
+.
+Per report, patient has presented several times since last
+cathed for recurrent angina. Admitted to [**Hospital3 **] on [**2121-4-5**]
+with recurrent chest pain. Ruled out for MI. Last episode of
+chest pressure was the morning of transfer, associated with dry
+heaves and belching relieved with morphine. Pt was continued on
+ASA, Plavix, Statin, BBker, Imdur and placed on Heparin gtt.
+.
+Cath last [**Month (only) 958**] here at [**Hospital1 18**] showed a patent BMS in LCX and no
+new lesions. The plan in conjunction with referring Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] from [**Hospital3 417**] was to optimize medical therapy in
+house. If the angina were to continue, the plan was to consider
+opening RCA CTO as
+well as PCI of a OM2 beyond prior stent. Pt was transfered to
+[**Hospital1 18**] for pre-hydration in anticipation of the above procedure.
+.
+On the floor, pt is agitated, and unwilling to answer questions
+about his symptoms. He is threatening to [**Doctor Last Name **] doctors, demanding
+to leave the hospital. He states, "my daughters should be
+yelling at you to leave me alone." He is adamantly refusing
+cath.
+
+
+
+
+Past Medical History:
+CAD s/p CABG with re-do X 1
+HTN
+Dyslipidemia
+CRI (Cr 1.8-2.1 at [**Hospital1 18**] [**1-27**])
+Dementia
+Arthritis
+Cholecystectomy
+Depression
+GERD
+
+
+Social History:
+Lives alone in retirement community.  Has 11 children who are
+supportive.
+No hx of tobacco/etoh/drugs
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Vitals: 98.6  140/70  73  18  97% RA
+Gen:   Appears agitated but in NAD.
+HEENT: PERRL, EOMI, conjunctiva pink. OP clear.
+Neck:  No JVP, No Carotid bruit
+Lungs: Well-healed scar around the left scapula. Rough crackles
+on left lung, dullness on percussion.
+CV:  S1, S2, PMI nondisplaced
+ABD:  Soft, NT, ND, + BS's
+EXT:  1+ pedal pulses, no edema
+Neuro: Refusing to answer orientation questions. CN II-XII
+intact, strength 5/5 throughout, sensation intact to light touch
+throughout.
+
+
+Pertinent Results:
+Pertinent Results:
+Labs:
+At OSH:
+Hct 30.1, WBC  9.7,   plt 161, INR 1.1, K 4.4, NA 144, CR 1.8,
+BUN 32
+Cardiac enzymes
+[**4-7**] 4 am CK 92 CK MB 3.6 Index 3.9 Trop-I 0.02
+[**4-7**] 11 am CK 104 MB 4.3 Index 4.1 trop-I 0.06
+[**4-7**] 4 pm CK 89 MB 3.8 Index 4.3 trop-I 0.14
+.
+Radiology Results:
+[**2121-4-7**] at OSH
+mild prominence of the markings at the right base. The
+appearance is of uncertain significance. Post surgical changes
+are noted.
+.
+EKG: Sinus at 77, old inferior infarct. <1mm ST depression in I
+and aVL which were previously noted.
+.
+[**2121-4-6**] OSH ECHO: EF 55%-60%, septal wall hypertrophy. Basal
+anterior wall scarring/HK, mild MR, mild AR, mild PR. dilated
+LA.
+.
+[**2121-3-11**] ECHO:
+The left atrium is mildly dilated. The left ventricular cavity
+size is normal. There is mild regional left ventricular systolic
+
+dysfunction with inferior and inferolateral akinesis. Right
+ventricular chamber size and free wall motion are normal. The
+aortic root is mildly dilated at the sinus level. The aortic
+valve leaflets are mildly thickened. There is no aortic valve
+stenosis. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. The left ventricular inflow pattern
+suggests impaired relaxation. The tricuspid valve leaflets are
+mildly thickened. There is no pericardial effusion.
+The lumen of the descending thoracic aorta appears echodense in
+parasternal long-axis views compatible with probable severe
+atherosclerotic plaque.  EF 45%
+.
+Cardiac Cath [**2121-3-10**]:
+1. Access via 4 F sheath in RFA.  We took pictures of the native
+left in AP caudal, lao caudal and lao cranial.  No other vessels
+were engaged in order to save contrast.  These views showed the
+stent to be widely patent with no new lesions.
+2. Hemodynamics with BP 132/70 with HR in sinus at 74 on IV tng.
+
+3. The plan in conjunction with referring Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] from
+[**Hospital3 417**] is medical therapy in house.  If he continues to
+have angina could have the RCA CTO opened as well as PCI of a
+OM2 beyond prior stent.
+.
+Cardiac Cath [**2121-1-28**]:
+1. Selective coronary angiography of this right dominant system
+demonstrated native three vessel coronary artery disease. The
+LMCA had no obstruction. The LAD was totally occluded at its
+mid-portion, with serial focal 80% stensoses proximally; these
+stenoses may impair flow to the septals which do supply flow to
+the distal RCA. The LCx had a 80% proximal stenosis and a long
+tubular 70% lesion in the proximal OM1 which is then occluded
+more distally, supplies collaterals to the RCA. The RCA is
+totally occluded in its mid-portion, with left to right and
+right to left collaterals.
+2. Selective angiography of the bypass conduits demonstrated
+total occlusion of the SVG-RPDA and SVG-OM2. The LIMA-LAD was
+widely
+patent.
+3. Successful placement of a 2.0x12mm Mini Vision
+bare-metal stent was performed in the proximal LCx.  Final
+angiography showed normal flow, no apparent dissection, and no
+residual stenosis.  (See PTCA comments.)
+4. The right femoral arteriotomy was successfully closed using a
+Mynx device.
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Totally occluded SVG-RPDA and SVG-OM2.
+3. Patent LIMA-LAD.
+4. Successful BMS placement in the LCx.
+.
+[**2121-4-13**]
+1- Selecive coronary angiography of this right-dominant system
+showed
+severe diffuse three vessel disease. The LMCA had mild plaquing.
+The LAD
+was diffusely diseased with serial 80% lesions throughout its
+course and
+total occlusion at the mid vessel. The KLAD gave collaterals to
+the RCA
+via its septal branches. The LCX was diffusely diseased with a
+long 80%
+lesion that starts proximal to the stent and continues as ISRS.
+The LCX
+gave rise to a major branching OM with long 90% stenosis at the
+origin
+of the upper pole of the OM. The LCX gave numerous collaterals
+to the
+distal RCA system. The RCA was chronically occluded proximally
+with
+essentially no contguous flow channel. Tghe vessel was difusely
+diseased
+throughout.
+2- Limited resting hemodynamic assessment showed moderately
+elevated
+(171/60 mmHg).
+3- Successful POBA of the origin/proximal upper pole of a
+branching OM2.
+Final angiography showed a nonflow-limiting (TIMI III) stable
+dissection
+at the angioplasty site with 30-40% residual stenosis and no
+distal
+emboli.
+4- Successful PTCA and stenting of the proximal LCX with a
+2.5x18 mm
+Cypher DES. Final angiography showed no residual stenosis with
+TIMI III
+flow and no dissection or distal emboli. Rigorous flow into the
+LCX-->RCA collaterals was noted.
+5- Successful revascularization of a totally occluded RCA with
+POBA of
+the entire RCA proper (ostium to bifurcation). Final angiography
+showed
+30-40% residual stenosis with stable nonflow-limiting (TIMI III)
+
+dissection (proximal third) and no distal emboli.
+6- Successful deployment of a Perclose Proglide closure device
+to the
+RCFA.
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Modearts systemic hypertension.
+3. Successful POBA of the distal OM.
+4. Successful PTCA and stening of the proximal LCX with a Cypher
+DES.
+5. Successful POBA of the entire RCA proper with
+re-establishment of
+TIMI III flow to chronically-occluded vessel.
+6- Successful deployment of a Perclose Proglide closure device
+to th

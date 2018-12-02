@@ -1,0 +1,147 @@
+Admission Date:  [**2153-12-23**]              Discharge Date:   [**2153-12-23**]
+
+Date of Birth:  [**2120-12-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5893**]
+Chief Complaint:
+cough, fever
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Mrs. [**Known lastname **] is a 32 yo woman with no PMH who presented to the ED
+with three days of cough and fever. She reports that her cough
+was non-productive and that she had no hemoptysis.
+
+She saw her PCP on the day of presentation, who prescribed her
+azithromycin. After taking the first dose, however, she had
+three loose stools, and so she presented to the [**Hospital1 18**] ED.
+
+In the ED, her initial VSs were 102.2, 148, 130/79 18 98% on RA.
+She received 4 L NS and levofloxacin 750 mg IV and was
+transferred to the [**Hospital Unit Name 153**] for futher care.
+
+In the [**Hospital Unit Name 153**], her only other complaint is of some mild chest pain
+with coughing.
+
+
+Past Medical History:
+None
+
+Social History:
+denies tobacco, alcohol, drug use
+
+Family History:
+non-contributory
+
+Physical Exam:
+Vitals: T: 99.5 BP: 104/79 P: 98 R: 15 SaO2: 96% RA
+General: Awake, alert, NAD, pleasant, appropriate, cooperative.
+
+HEENT: no scleral icterus, MMM, no lesions noted in OP
+Neck: supple, no significant LAD
+Pulmonary: left lower lung field crackels, no wheezes or ronchi
+Cardiac: RR, nl S1 S2, no murmurs, rubs or gallops appreciated
+Abdomen: soft, NT, ND, normoactive bowel sounds, no masses or
+organomegaly noted
+Extremities: No edema, 2+ radial, DP pulses b/l
+
+
+Pertinent Results:
+[**2153-12-22**] 11:20PM   WBC-3.4* RBC-3.79* HGB-11.4* HCT-33.1* MCV-87
+MCH-30.1 MCHC-34.4 RDW-13.0
+[**2153-12-22**] 11:20PM   NEUTS-47* BANDS-46* LYMPHS-6* MONOS-1* EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2153-12-22**] 11:20PM   PLT COUNT-161
+[**2153-12-22**] 10:10PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.017
+[**2153-12-22**] 10:10PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-TR
+GLUCOSE-TR KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG
+[**2153-12-22**] 10:10PM URINE  RBC-[**3-5**]* WBC-[**3-5**] BACTERIA-FEW YEAST-NONE
+EPI-0-2
+[**2153-12-22**] 11:20PM   GLUCOSE-125* UREA N-9 CREAT-0.7 SODIUM-139
+POTASSIUM-3.5 CHLORIDE-109* TOTAL CO2-22 ANION GAP-12
+[**2153-12-22**] 11:48PM   LACTATE-2.4*
+[**2153-12-23**] 02:36AM   LACTATE-1.3
+[**2153-12-23**] 11:56AM   WBC-4.9 RBC-3.55* HGB-10.4* HCT-31.0* MCV-87
+MCH-29.2 MCHC-33.5 RDW-12.7
+[**2153-12-23**] 11:56AM   NEUTS-78* BANDS-11* LYMPHS-10* MONOS-1* EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2153-12-23**] 11:56AM   PLT COUNT-129*
+
+[**2153-12-22**] Chest Xray: Left lower lobe pneumonia.
+
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is a 32 yo woman admitted with LLL pneumonia and evidence
+of systemic inflammatory response on admission with hypotension,
+fever, bandemia.
+
+1)Left lower lobe pneumonia: Seen on chest xray, responded well
+to initiation of IV antibiotics and IV fluids.  Initially she
+had a bandemia which improved on repeat following antibiotics.
+She remained afebrile on the day of admission with stable blood
+pressure.  She had no respiratory distress and had a low PORT
+score.  She was discharged on the day of admission to complete a
+7 day course of levofloxacin 750mg po.  She was instructed to
+follow up with her primary care doctor in [**1-2**] weeks and to
+return to the hospital if her symptoms do not continue to
+improve.
+
+2)Hypotension - she was transiently hypotensive in ED with SBP
+80's-90's, unclear baseline blood pressure.  She was given 4L NS
+and remained normotensive with resolution of tachycardia.
+Hypotension likely due to early systemic inflammatory response
+which resolved with IV levofloxacin.
+
+3) Code status: FULL CODE
+
+Medications on Admission:
+none
+
+Discharge Medications:
+1. Levofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day
+for 6 days: Please take all of this prescription.  Do not stop
+early even if you are feeling better.  .
+Disp:*6 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Left lower lobe pneumonia
+
+
+Discharge Condition:
+fair
+
+
+Discharge Instructions:
+You were admitted to the hospital because you have a bad
+pneumonia which caused low blood pressure and high fever.  You
+were treated with antibiotics and intravenous fluids.
+
+It is very important that you take the antibiotics as prescribed
+for a total of 7 days to treat the pneumonia.
+
+You should follow up with your primary care doctor within [**1-2**]
+weeks to be sure that the pneumonia is fully treated and to have
+a repeat chest xray.
+
+You should call your doctor or go to the emergency department if
+you experience fever >100.4, light headedness or fainting,
+worsening cough or any other concerning symptoms.
+
+Followup Instructions:
+Please call your primary care doctor [**First Name (Titles) **] [**Last Name (Titles) **] an appointment
+to follow up within 1-2 weeks.
+
+
+

@@ -1,0 +1,190 @@
+Admission Date:  [**2128-1-5**]              Discharge Date:   [**2128-1-8**]
+
+Date of Birth:  [**2046-2-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Metformin
+
+Attending:[**First Name3 (LF) 1257**]
+Chief Complaint:
+SOB and body aches
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+This is an 81 year old female with history of asthma, DM, HTN,
+and OSA presenting with increasing lethargy since this morning.
+Per her daughter [**Name (NI) **], the patient has been quite lethargic
+over the past few days, but tonight at 8pm (the evening prior to
+admission), she complained of "pain everywhere" and her mental
+status deteriorated quickly from there with decreased
+responsiveness. She described a sensation of difficulty
+breathing, pointing to her throat, and asked [**Hospital1 **] to call
+911. When EMS arrived, she was minimally responsive, hypoxic on
+room air, but still protecting her airway. FS measured at 190.
+She denies any access to narcotic medications in the house and
+the patient takes ibuprofen only for her chronic osteoarthritis
+pain. Most recent changes in meds were addition of olanzapine
+and increased in gabapentin dose about 1 month ago.
+.
+In the ED, she was minimally verbally responsive, did not follow
+commands, and was not reactive to pain (IV stick). Her lungs
+were clear and head CT unremarkable. Her O2 sats dropped to 78%
+on 2L NC, improved to 96% when sat upright. Portable CXR showed
+some bilateral pleural effusions and some vascular congestion,
+with BNP of 351 (mildly elevated above her baseline). She
+received naloxone without any change in her mental status. She
+also received 1 dose each of vanc/zosyn as well as 40mg IV lasix
+and a nitro gtt. She received 1.5 hours of CPAP and a repeat ABG
+was unchanged (7.20/123/67/50). Her last normal ABG in [**2124**] was
+7.43/56/119/38. She was then intubated, with subsequent
+improvement in her ABG to 7.45/57/86/41, and started on
+propofol. She was afebrile at transfer with a HR of 75, BP
+108/58, RR 22 on AC at a PEEP of 8 and FiO2 40%.
+.
+She was most recently seen by her PCP [**Last Name (NamePattern4) **] [**12-31**] for a
+pre-operative check-up prior to planned retinal surgery in
+[**Month (only) 958**]. She was in good health at that point, with
+well-controlled t2DM (HbA1c 7.4 on [**2127-12-24**]) and no acute
+complaints. Of note, she had a recent fall just last week and
+also in [**2127-7-16**], when she fell out of bed somehow with
+the railing up and was found face first against the floor by her
+daughter.
+.
+ROS: unable to be performed secondary to patient's intubated
+status
+
+
+Past Medical History:
+-type 2 diabetes mellitus
+-hypertension
+-atypical peripheral neuropathy with cutaneous sensations ("dust
+on her skin", seen by Neurology, on gabapentin + olanzapine)
+-COPD/asthma
+-macular edema (planned retinal surgery on [**2128-1-13**])
+-neovascular glaucoma secondary to her proliferative diabetic
+retinopathy
+-OSA (prescribed BiPAP, not currently using)
+-osteoarthritis
+
+
+Social History:
+Patient is wheelchair bound due to old osteoarthritis and vision
+loss. In setting of a few recent falls in her apartment, her
+daughter stays with her at her apartment. Born and grew up in
+the Carribean. Worked in a chocolate factory in [**Location (un) **] in the
+[**2066**]. Arrived in the US in [**2077**]. Denies tobacco, EtOH, IVDA.
+
+Family History:
+Father with diabetes mellitus, died at age 69.  Mother with
+heart failure, died at age [**Age over 90 **].  Oldest daughter with diabetes
+mellitus and polymyositis.
+
+Physical Exam:
+S: Temp: 96.4 BP: 148/63 HR: 74 RR: O2sat 100% AC 430/16/5/40%;
+PIP 29, Pplat 16
+GEN: obese female, intubated, sedated
+HEENT: pupils nonreactive [**12-17**] cataracts, anicteric, MMM, no
+supraclavicular or cervical lymphadenopathy, no JVD appreciated,
+no thyromegaly or thyroid nodules
+RESP: CTA b/l with good air movement throughout
+CV: RR, S1 and S2 wnl, no m/r/g
+ABD: obese, +BS, soft, NT, mild distended, no masses or HSM
+EXT: trace to 1+ edema
+SKIN: no rashes/no jaundice, skin intact
+NEURO: intubated, sedated, unable to perform CN exam
+
+Pertinent Results:
+[**2128-1-4**] 11:29PM BLOOD Type-ART pO2-83* pCO2-125* pH-7.15*
+calTCO2-46* Base XS-9
+[**2128-1-5**] 01:02AM BLOOD Type-ART pO2-67* pCO2-123* pH-7.20*
+calTCO2-50* Base XS-14 Intubat-NOT INTUBA
+[**2128-1-5**] 02:42AM BLOOD Type-ART Tidal V-500 FiO2-40 pO2-86
+pCO2-57* pH-7.45* calTCO2-41* Base XS-12 -ASSIST/CON
+Intubat-INTUBATED
+[**2128-1-5**] 05:04AM BLOOD Type-[**Last Name (un) **] Temp-35.8 Rates-16/ FiO2-40
+pO2-31* pCO2-74* pH-7.40 calTCO2-48* Base XS-16
+Intubat-INTUBATED
+[**2128-1-6**] 04:45PM BLOOD Type-ART pO2-57* pCO2-52* pH-7.50*
+calTCO2-42* Base XS-14
+[**2128-1-4**] 10:19PM BLOOD Lactate-0.8
+[**2128-1-6**] 04:45PM BLOOD Lactate-1.2
+[**2128-1-4**] 10:12PM BLOOD WBC-5.9 RBC-4.44 Hgb-12.6 Hct-39.6 MCV-89
+MCH-28.3 MCHC-31.7 RDW-13.7 Plt Ct-129*
+[**2128-1-7**] 01:00PM BLOOD WBC-6.2 RBC-4.52 Hgb-12.5 Hct-39.4 MCV-87
+MCH-27.5 MCHC-31.6 RDW-14.2 Plt Ct-159
+[**2128-1-4**] 10:12PM BLOOD Neuts-74.7* Lymphs-19.1 Monos-4.1 Eos-1.6
+Baso-0.5
+[**2128-1-5**] 04:48AM BLOOD Neuts-64.1 Lymphs-26.0 Monos-8.0 Eos-1.3
+Baso-0.6
+[**2128-1-4**] 10:12PM BLOOD PT-13.6* PTT-25.2 INR(PT)-1.2*
+[**2128-1-5**] 04:48AM BLOOD PT-13.3 PTT-24.0 INR(PT)-1.1
+[**2128-1-4**] 10:12PM BLOOD Glucose-207* UreaN-13 Creat-0.8 Na-138
+K-5.1 Cl-92* HCO3-39* AnGap-12
+[**2128-1-7**] 01:00PM BLOOD Glucose-274* UreaN-12 Creat-0.8 Na-137
+K-3.5 Cl-96 HCO3-34* AnGap-11
+[**2128-1-5**] 04:48AM BLOOD ALT-38 AST-32 LD(LDH)-242 AlkPhos-65
+TotBili-0.6
+.
+[**2128-1-4**]: CT head non contrast
+FINDINGS: There is no evidence of hemorrhage, edema, mass
+effect, or acute
+territorial infarction. The [**Doctor Last Name 352**]-white matter differentiation is
+preserved.  The ventricles and sulci are normal in size and
+configuration. Note is made of bilateral basal ganglia
+calcifications and extensive parafalcine calcification. In
+addition, note is made of hyperostosis frontalis. There is no
+fracture. The mastoid air cells and paranasal sinuses are well
+pneumatized and aerated.
+IMPRESSION: No acute intracranial process.
+.
+[**2128-1-5**] CT Chest:
+FINDINGS: Since the prior examination, the patient has undergone
+endotracheal tube placement with tip in standard position 4.5 cm
+above the carina. A nasogastric tube courses below the
+diaphragm. The lungs are unchanged in appearance demonstrating
+extensive perihilar opacification and probable small bilateral
+pleural effusions, most compatible with interstitial pulmonary
+edema. There are no new focal consolidations. Cardiomediastinal
+and hilar contours are stable. Pulmonary vascularity is
+increased with redistribution and cephalization.
+IMPRESSION:
+1. Endotracheal tube in standard position with tip 4.5 cm above
+the carina.
+2. Unchanged pulmonary edema.
+.
+[**2128-1-6**] CT pa/lat:
+Comparison is made with prior study performed the same day
+earlier in the
+morning.
+Aeration of the right lower lobe has improved. Small bilateral
+pleural
+effusions are associated with adjacent opacities, left greater
+than right,
+consistent with atelectasis that on the left have minimally
+increased from two days before. The upper lobes are clear. There
+is no pneumothorax.
+Cardiomediastinal contours are unchanged.
+
+
+Brief Hospital Course:
+This is an 81 year old woman with history of asthma and OSA who
+presented with progressive decrease in the level of
+consciousness secondary to CO2 narcosis that was refractory to
+naloxone and noninvasive ventilation. She developed hypercapnic
+respiratory failure (recurrent, her last admission for
+hypercarbia was in [**2124-12-15**] that responded quickly to BiPAP
+from an asthma exacerbation caused by influenza). She has
+stopped using BiPAP at home for several months (due to
+development of tactile hallucinations). She was intubated for
+several hours while in he ICU for hypercapnic respiratory
+failure (MICU attributed that to increased doses of gabapentin
+and olanzapine and hypoventilation). She was extubated without
+complication. She has a high C02 at baseline.  Her head CT
+showed no central cause of hypercarbia.  Infectious work up was
+negative, she had no leukocytosis, and there was no evidence of
+SIRS/sep

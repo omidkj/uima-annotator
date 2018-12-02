@@ -1,0 +1,218 @@
+Admission Date:  [**2104-10-23**]              Discharge Date:   [**2104-11-11**]
+
+Date of Birth:  [**2027-2-14**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Precedex
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+dental extraction
+CABGx1(LIMA->LAD)/AVR(25mm CE pericardial valve) [**2104-11-4**]
+
+History of Present Illness:
+Mr. [**Known lastname 46772**] is a 77M with DM, CAD s/p MI, and CHF EF40% who is
+admitted for elective cardiac catheterization. He was seen for
+follow up in cardiology clinic on [**10-22**] at which time he reported
+a two week history of progressive exertional dyspnea. The past
+weekend he was admitted for these symptoms to [**Location (un) **] where he
+was apparently diagnosed with a COPD exacerbation (with no known
+history of COPD). On his follow up cardiology visit he admits
+that has been using nitroglycerin tablets frequently at home, up
+to 6 per day.
+On presentation to the floor pt appears comfortable he denies
+any current chest pain, shortness of breath, palpitation, or
+nausea.  He admits to mild ankle edema and an occasional cough
+which he attributes to his smoking history.
+
+
+Past Medical History:
+coronary artery disease, s/p stent and internal cardiac
+defibrillator
+Gastroesophageal reflux disease
+Non-insulin dependent diabetes mellitus
+Hypertension
+Hyperlipidemia
+Bladder CA-pt unaware of details
+congestive heart failure (chronic systolic)
+Seizure disorder
+
+Social History:
+Married. No smoking now. 50 pack year smoking history.
+
+
+Family History:
+Father had MI in 50s. No strokes/seizures.
+
+Physical Exam:
+VS - 97.2 102/56 76 22 96% 2L
+Gen: WDWN elderly male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa. Very hard of hearing.  R
+hearing aid in place.
+Neck: Supple, No LAD, no JVP appreciated
+CV: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+
+Chest: Pt on supplemental oxygen via nasal cannula. Resp were
+unlabored, no accessory muscle use. CTAB, no crackles, wheezes
+or rhonchi, sternum stable, wounds healing well.
+Abd: Soft, NTND. No abdominial bruits appreciated.
+Ext: No c/c/e.
+Skin: No stasis dermatitis, ulcers.  Two large scars on
+abdominal wall in which pt can not recall their origin.
+
+Pertinent Results:
+[**2104-11-10**] 05:35AM BLOOD WBC-7.5 RBC-3.18* Hgb-9.7* Hct-28.0*
+MCV-88 MCH-30.6 MCHC-34.8 RDW-14.4 Plt Ct-212
+[**2104-11-9**] 04:29AM BLOOD PT-13.3 PTT-28.8 INR(PT)-1.1
+[**2104-11-10**] 05:35AM BLOOD Glucose-74 UreaN-24* Creat-1.1 Na-138
+K-4.0 Cl-101 HCO3-28 AnGap-13
+[**Known lastname **],[**Known firstname 1775**] C [**Medical Record Number 46773**] M  77  [**2027-2-14**]
+
+Radiology Report CHEST PORT. LINE PLACEMENT Study Date of
+[**2104-11-6**] 4:42 PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] CSURG CSRU [**2104-11-6**] SCHED
+CHEST PORT. LINE PLACEMENT   Clip # [**Clip Number (Radiology) 46774**]
+Reason: line placement
+[**Hospital 93**] MEDICAL CONDITION:
+   77 year old man with
+
+
+Final Report
+CHEST AP SINGLE VIEW.
+
+INDICATION: Line placement.
+
+FINDINGS: AP single view of the chest obtained with patient in
+sitting
+semi-upright position is analyzed in direct comparison with a
+preceding
+similar study obtained 10 hours earlier during the same date.
+The previously
+identified left-sided permanent pacer with ICD device and right
+atrial
+electrode is in unchanged position. Previously present pulmonary
+artery
+catheter has been removed. The patient is extubated. It is
+assumed that a
+smaller caliber line advanced through the right internal jugular
+vein approach
+appears to be new and it is seen to terminate overlying the SVC
+at the level
+of the carina. No pneumothorax has developed and the pulmonary
+vasculature
+appears unchanged. No new parenchymal infiltrates are seen, and
+only mild
+blunting of the lateral pleural sinuses is identified on the
+single view
+portable chest examination.
+
+IMPRESSION: No evidence of pneumothorax after line exchange.
+
+DR. [**First Name (STitle) **] [**Initials (NamePattern5) 3250**] [**Last Name (NamePattern5) 3251**]
+Approved: [**Doctor First Name **] [**2104-11-6**] 8:16 PM
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 1775**]       [**Hospital1 18**] [**Numeric Identifier 46775**] (Complete)
+Done [**2104-11-4**] at 8:47:24 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2027-2-14**]
+Age (years): 77 M  Hgt (in): 69
+BP (mm Hg): 110/64  Wgt (lb): 250
+HR (bpm): 64  BSA (m2): 2.27 m2
+Indication: Intraoperative TEE for CABG AVR. Aortic valve
+disease. Left ventricular function. Mitral valve disease.
+Preoperative assessment. Right ventricular function. Shortness
+of breath.
+ICD-9 Codes: 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2104-11-4**] at 08:47    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3319**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine: [**Doctor Last Name 11422**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  5.2 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Diastolic Dimension:  *6.0 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  5.0 cm
+Left Ventricle - Fractional Shortening:  *0.17  >= 0.29
+Left Ventricle - Ejection Fraction:  25%  >= 55%
+Aorta - Sinus Level:  2.8 cm  <= 3.6 cm
+Aorta - Ascending:  2.5 cm  <= 3.4 cm
+Aorta - Arch:  2.0 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  *3.0 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *37 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  21 mm Hg
+Aortic Valve - Valve Area:  *0.7 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. Lipomatous hypertrophy
+of the interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Moderately dilated LV
+cavity. Severe regional LV systolic dysfunction. Severely
+depressed LVEF.
+
+LV WALL MOTION: Regional left ventricular wall motion findings
+as shown below; remaining LV segments contract normally.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+Mildly dilated RV cavity.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Simple atheroma in ascending aorta.
+Normal aortic arch diameter. Normal descending aorta diameter.
+Complex (>4mm) atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Moderately thickened aortic valve leaflets. Severe
+AS (AoVA <0.8cm2). Trace AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. No
+MVP. Moderate mitral annular calcification. Moderate to severe
+(3+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Physiologic
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+
+1. The left atrium is moderately dilated. No atrial septal
+defect or PFO is seen by 2D or color Doppler. The left atrium is
+moderately dilated. No atrial septal defect is seen by 2D or
+color Doppler.
+
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity is moderately dilated. There is severe
+regional left ventricular systolic dysfunction with hypokinesis
+of the inferior, inferiosep

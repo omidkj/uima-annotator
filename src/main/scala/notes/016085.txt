@@ -1,0 +1,183 @@
+Admission Date:  [**2128-7-17**]              Discharge Date:   [**2128-7-22**]
+
+Date of Birth:  [**2048-1-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 425**]
+Chief Complaint:
+Malaise
+
+Major Surgical or Invasive Procedure:
+Pacemaker placement
+
+
+History of Present Illness:
+   80yo F with PVD (s/p R EIA stent), HTN, DMII, Lung CA, who
+c/o 2-3 days +n/v and general malaise.  She initially went to
+OSH and was found to be in high-grade AVB. Of note, the pt was
+recently started on a new CCB (x 2 weeks; cardizem from
+nifedipine). At OSH, pt rec'd calcium gluconate (unclear dose).
+In [**Name (NI) **], pt was given isoproteronal gtt at 1mcg/min then 2mcg/min.
+Initial response was an increased sinus rate to 120 with
+consistent 2:1 block. As dose was increased, pt developed atrial
+flutter with variable block (rates around 40bpm). Throughout her
+ED stay, the patient maintained SBP in 180s, mental status was
+waxing and [**Doctor Last Name 688**] but pt was able to follow commands and answer
+appropriately to most questions with occasional confusion.
+
+Past Medical History:
+--DMII
+--HTN (poorly controlled, OSH records indicate SBP 190s)
+--PVD, s/p right external iliac artery stent, endarterectomy of
+the EIA, CFA, PFA with bovine patch angioplasty and iliac and
+femoral angiography([**3-22**])
+--Lung ca s/p R lower lobe resection (no chemo; [**11-14**])
+--COPD
+--dCHF (recent admission [**Date range (1) 35545**])
+--L pleural effusion (noted on [**6-19**] hosp)
+--h/o AFib/flutter (found post-op from R EIA stent)
+
+
+Social History:
+quit tob 10yrs ago; 50PY hx; lives with husband
+
+Family History:
+non contributary
+
+Physical Exam:
+AF 170-180/50-60 30-50 16 96% on 2L
+Gen: NAD, oriented x [**3-19**], waxing and [**Doctor Last Name 688**]
+HEENT: PERRL, EOMI, MMM
+Neck: JVP 10-12cm
+CV: RRR
+Chest: rales about 1/2 up b/l
+Abd: soft, obese, NT, + BS
+Extr: 1+ pitting on LLE, trace on RLE
+Neuro: mild resting tremor b/l; moves all 4 extr, follows
+commands
+
+
+Pertinent Results:
+[**2128-7-17**] 09:10PM   GLUCOSE-154* UREA N-57* CREAT-2.3*#
+SODIUM-138 POTASSIUM-4.8 CHLORIDE-101 TOTAL CO2-23 ANION GAP-19
+[**2128-7-17**] 09:10PM   CK(CPK)-71
+[**2128-7-17**] 09:10PM   cTropnT-0.04*
+[**2128-7-17**] 09:10PM   CK-MB-NotDone proBNP-[**Numeric Identifier 35546**]*
+[**2128-7-17**] 09:10PM   CALCIUM-9.6 PHOSPHATE-4.4 MAGNESIUM-2.7*
+[**2128-7-17**] 09:10PM   WBC-12.5* RBC-3.31* HGB-9.4* HCT-27.9* MCV-84
+MCH-28.3 MCHC-33.7 RDW-16.9*
+[**2128-7-17**] 09:10PM   NEUTS-85.7* LYMPHS-9.1* MONOS-4.6 EOS-0.5
+BASOS-0.1
+[**2128-7-17**] 09:10PM   HYPOCHROM-1+ ANISOCYT-1+ MICROCYT-1+
+[**2128-7-17**] 09:10PM   PLT COUNT-380
+[**2128-7-17**] 09:10PM   PT-37.2* PTT-46.8* INR(PT)-4.1*
+.
+EKG [**2128-7-17**]: 2:1 AVB, rate 60; sl LAD
+.
+EKG [**2128-7-20**]: A-V paced rhythm Since previous tracing of [**2128-7-18**],
+Atrium now paced with A-V pacing
+.
+CXR [**2128-7-17**]: mild vasc engorgement, raised R hemidiaphragm (old)
+
+.
+CXR [**2128-7-20**]: Temporary pacer lead has been removed. Standard
+transvenous right atrial and ventricular pacer leads follow
+their expected courses in the left pectoral pacemaker. No
+pneumothorax or mediastinal widening is present. Minimal left
+pleural effusion precedes placement of the new leads.
+Atelectasis or scarring is present in medial aspect of the right
+lung, either middle or lower lobe. Lungs are otherwise clear
+aside from mild [**Month/Day/Year 1106**] congestion. There is no edema. Heart is
+borderline enlarged, but unchanged
+.
+Left Foot and Ankle [**2128-7-22**]: degenerative changes on the medial
+and lateral malleoli, however, there is no evidence of a
+fracture.
+.
+TTE ([**6-19**]): EF 65-70%, sLVH, 1+ MR, 1+ TR, 1+ AR
+.
+ETT-MIBI ([**3-22**]): EF 60%; 1. Normal myocardial perfusion. 2.
+Normal left ventricular cavity size and systolic function.
+
+
+Brief Hospital Course:
+Hospital [**Last Name (un) **]: 80yo F with hx of PVD, DM, HTN, Lung CA s/p
+resection and COPD presents to OSH with symptomatic AVB (mental
+status changes and ARF) now s/p PPM placement.
+.
+# Rhythm/AV Block: The etiology of the AV Block is unclear at
+this moment, however it is most likely related to the recent
+addition of CCB. The location of block is also not perfectly
+elucidated but it appears to be at level of AV node as
+isoproterenol resulted in increased rate.  Vagal manuevers were
+attempted but could not be succesfully peformed given her change
+in mental status and inability to cooperate.  As she had new ARF
+and MS changes, the pt was deemed to have some end organ effects
+of bradycardia with a poor perfusion state.  Therefore a
+temporary pacer wire was placed under fluoro in the L femoral
+position for VVI pacing at 60bpm. Initially the setting was as
+follows: paced at low of 0.5mA with sensitivity 3.0mV. However,
+she was not captuing all of the time.  She was admitted to and
+monitored in the CCU where she was found to still require
+pacing, even after the CCB wore off.  She was therefore taken to
+the EP lab where a permanent pacemaker was placed on [**7-19**]. She
+received vancomycin prophylactically around the device placment.
+ She was also given an additional day of clindamycin as well.
+Post pace make placement, the temporary pacing wires were
+removed.  A CXR confirmed proper placement of the pacemaker and
+its leads and the pacemaker was interrogated demonstrating
+appropriate capture.  The patient should f/u in the device
+clinic on [**2128-7-28**].
+   Of note, the pt had been on coumadin 3mg QHS after developing
+atrial fibrillation post-op in [**3-22**] and on admission this was
+reversed given supratherapeutic INR. She was restarted on
+coumadin at 5mg QHS the day after the pacemaker was placed. INR
+should be followed closely and coumadin levels should be
+adjusted to achieve a goal INR of [**3-19**].
+.
+# PUMP: The pt has elements of diastolic CHF by recent TTE,
+likely from long-standing poorly controlled HTN. BP control was
+initially achieved with nitro gtt and then this was weaned off
+as outpt meds were restarted, including lisinopril (at same
+dose), diltiazem (at higher dose), and lasix (at lower dose).
+She was also started on a low dose beta blocker for additional
+blood pressure control.  Her final regimen at time of dischage
+included diltiazem CR 360mg once daily, Lisinopril 40mg once
+daily, Metoprolol 12.5mg [**Hospital1 **] and lasix 40mg once daily.  Given
+her history of COPD, the effect of the low dose beta blocker
+should be monitored closely.
+.
+# ARF: The pt has a baseline Cr of 1.0-1.5, which was elevated
+up to 2.3 on admission.  This was attibuted to poor perfusion
+state from her bradycardia. Urine lytes on admission consistent
+with pre-renal azotemia. (FeUrea 31% (FeNa less useful in
+patient on lasix)).  Her ACEI and diuretic were initially held
+on admission due to the ARF and creatinine and urine output
+followed closely.  After placement of the PPM, her Cr has been
+trending down.  Her ACEI was titrated back up to her outpt dose
+and her lasix was similarly titrated back on.  However at time
+of discharge her lasix dose was still lower than previous (40mg
+as opposed to 80mg once daily on admission).  Her renal function
+and urine output shouuld be followed closely in rehab with
+routine chemistries.  Should she develop some amount of fluid
+retention, her lasix dose can be returned to her former outpt
+dose of 80mg once daily assuming her renal function is able to
+tolerate it.
+.
+# Anemia: HCT was 27.9 on admission which then dropped to 24
+after pacer placement (moderate procedural blood loss).  Her
+previous medical records indicate a baseline in mid-low 30's (on
+admission in [**3-22**]).  She was subsequently transfused 2 U PRBCs
+from [**Date range (1) 26325**] (lasix 40 mg iv between units) with some response.
+Her pacemaker site appeared to be without significant hematoma
+and she remained guaiac negative.
+.
+# + UA: on [**7-19**] wih WBC, RBC, small leuk. As the pt had a foley
+catheter in place at the time of the finding, she was started on
+Bactrim DS one tab [**Hospital1 **] for a total of 10day course for
+complicated UTI on [**7-19**]. Culture grew pan-sensitive e.coli. She
+should complete ten day

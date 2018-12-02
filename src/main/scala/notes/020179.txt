@@ -1,0 +1,195 @@
+Admission Date:  [**2103-2-16**]              Discharge Date:   [**2103-2-24**]
+
+Date of Birth:  [**2025-7-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2745**]
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+IR placement of percutaneous cholecystostomy tube
+
+History of Present Illness:
+Ms. [**Known lastname 36509**] is a 77 year old woman with bipolar disorder,
+dementia, prior CVA, who presented to the [**Hospital1 **] [**Location (un) 620**] ED
+complaining of several days of abdominal pain with fevers.  The
+patient was unable to give the details of her recent symptoms
+upon admission, presumably due to her dementia, and history was
+obtained from her son.  Two weeks PTA, she started complaining
+of abdominal distension.  Three days PTA, she started getting up
+throughout the night Q30 mins to go to the bathroom and was
+found defecating and urinating on floor.  Her son noticed her
+urine was [**Location (un) 2452**]-colored.
+
+At [**Hospital1 **] [**Location (un) 620**], she was febrile to 100.8. An abdominal ultrasound
+showed evidence of acute cholecystitis. An abdominal CT was
+performed which showed an enhancing adrenal mass, a hepatic mass
+(likely a cyst), and a hypodense splenic lesion.  She was
+transferred to [**Hospital1 18**] out of concern for malignancy and further
+management of the cholecystitis.  She was also given ceftriaxone
+and metronidazole.
+
+Of note, she had a potassium of 2.3 on presentation to [**Hospital1 **]
+[**Location (un) 620**] (she has a long-standing history of hypokalemia).
+Urinalysis was consistent with UTI.  Blood and urine cultures
+were drawn.  At [**Hospital1 18**] on transfer, she was afebrile with HR 98,
+BP 146/80, RR 18, Sat 98% on 2L NC.
+
+Past Medical History:
+-Bipolar disorder h/o suicide attempt in [**4-25**] with [**Last Name (un) 68785**]
+hospitaliziation
+-prior CVA in [**2094**] (slurred speech, facial droop, L arm
+weakness, unsteady gait --> good recovery with some residual L
+arm weakness)
+-hypothyroidism
+-dementia; baseline MS reportedly poor
+-CAD
+-HTN
+-hypercholesterolemia
+-hypokalemia (documented since [**2094**], with baseline K+ 3.0-3.8)
+-CRI
+-Atrial fibrillation
+
+Social History:
+Lives with her son and daughter who describe her as "an invalid
+at baseline". She has 5 children, but is estranged from 3 of
+them. Her husband died 8 years ago. She has a history of suicide
+attempt in [**2102-4-18**] with hospitalization at [**Last Name (un) 68785**]. Currently
+there is no tobacco or alcohol use.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+T 99.8 BP 174/88 HR 89 RR 22 Sat 97% on 2 L/min
+General: obese, sleeping but arousable; inattentive when asked
+to follow commands
+HEENT: no icterus, (+) hirsutism
+Neck: supple, no LAD
+Chest: CTA b/l, no w/r/r
+CV: irregular heartrate, no m/r/g
+Abdomen: soft, (+) tenderness to moderate palpation in RUQ, no
+rebound/guarding, (+) [**Doctor Last Name 515**]
+Extremities: no edema, 2+ PT pulses
+Skin: no jaundice
+Neuro: sleepy, oriented to self only
+
+
+Pertinent Results:
+LABS
+
+ADMISSION LABS (on transfer from [**Hospital1 **] [**Location (un) 620**]):
+[**2103-2-16**] 07:40PM BLOOD WBC-15.8* RBC-5.04 Hgb-14.4 Hct-41.3
+MCV-82 MCH-28.5 MCHC-34.7 RDW-13.9 Plt Ct-138*
+[**2103-2-16**] 07:40PM BLOOD Neuts-90.3* Bands-0 Lymphs-6.5* Monos-2.9
+Eos-0.2 Baso-0.2
+[**2103-2-16**] 07:40PM BLOOD PT-15.6* PTT-27.0 INR(PT)-1.4*
+[**2103-2-17**] 03:04PM BLOOD Fibrino-656*
+[**2103-2-16**] 07:40PM BLOOD Glucose-165* UreaN-19 Creat-1.0 Na-141
+K-2.6* Cl-101 HCO3-29 AnGap-14
+[**2103-2-16**] 07:40PM BLOOD Albumin-3.7 Calcium-9.8 Phos-2.1* Mg-1.2*
+[**2103-2-16**] 07:40PM BLOOD ALT-55* AST-40 LD(LDH)-185 AlkPhos-93
+Amylase-7 TotBili-3.9* DirBili-1.7* IndBili-2.2 Lipase-10
+
+ABG:
+[**2103-2-17**] 11:56AM BLOOD Type-ART pO2-169* pCO2-31* pH-7.41
+calTCO2-20* Base XS--3
+
+ENDOCRINE LABS:
+[**2103-2-17**] 01:15AM BLOOD Cortsol-44.1*
+[**2103-2-23**] 05:16AM BLOOD FreeTes-PND
+[**2103-2-21**] 12:28PM BLOOD ALDOSTERONE-PND
+[**2103-2-21**] 12:28PM BLOOD RENIN-PND
+[**2103-2-21**] 12:28PM BLOOD Metanephrines (Plasma)-PND
+[**2103-2-21**] 12:28PM BLOOD METHYLMALONIC ACID-PND
+[**2103-2-17**] 09:55AM BLOOD ALDOSTERONE-PND
+
+CARDIAC ENZYMES:
+[**2103-2-18**] 02:40PM BLOOD CK-MB-NotDone cTropnT-0.07*
+[**2103-2-19**] 03:25AM BLOOD CK-MB-NotDone cTropnT-0.07*
+
+ECG ([**2103-2-16**]):
+Atrial fibrillation with ventricular rate of 93 bpm. nl axis, nl
+intervals. No ST/T wave changes
+
+IMAGING
+
+CT Abdomen/Pelvis (from [**Location (un) 620**], [**2103-2-16**]):
+The left atrium is enlarged. Mild bibasilar dependent
+atelectasis is noted. Within the right middle lobe, air space
+consolidation with associated air bronchograms are noted. Within
+segment [**1-21**] and 4, there is a 1.4 x 4.1 cm low attenuation
+slightly ill-defined focus visualized (image 17, series 2) with
+a peripheral calcification . In addition, along the periphery of
+segment 4, there is a 1.4 x 3.3 cm slightly ill-defined
+partially peripherally enhancing low attenuation focus and along
+the periphery of segment [**1-21**], and 4, there is a
+well-circumscribed 3.0 x 2.5 cm low attenuation focus that
+likely represents a cyst. The gallbladder is distended
+associated with adjacent stranding. Within the gallbladder,
+there are dependent ill-defined high density foci. Within the
+spleen, there is a 5.5 mm indeterminate low attenuation focus
+seen. Arising from the left adrenal gland, a 2.7 x 2.1 cm
+enhancing mass is noted. Bilateral peripelvic cysts are seen.
+Multiple nonpathologically enlarged retroperitoneal lymph nodes
+are seen. There is a Foley within the bladder. Air is noted
+within the bladder likely secondary to instrumentation. Please
+note there is an associated peripheral calcification along the
+low attenuation focus I described in the liver that measures 4.1
+x 1.4 cm. A fat containing umbilical hernia is present. The
+uterus is absent. The bones are diffusely demineralized.
+Degenerative changes are noted.
+
+RUQ ultrasound (from [**Hospital1 **] [**Location (un) 620**] [**2103-2-16**]):
+The gallbladder is distended and filled with mobile stones and
+sludge. A son[**Name (NI) 493**] [**Name2 (NI) 515**] sign was elicited during the
+examination. There is questionable focal thickening of the
+gallbladder in the region of the fundal neck junction. No
+significant gallbladder wall thickening nor pericholecystic
+fluid is seen. The common bile duct is within normal limits
+measuring 4.5 mm.
+
+[**2103-2-17**] CXR:
+A single portable image of the chest was obtained.  The cardiac
+silhouette is at the upper limits of normal.  There are low lung
+volumes.
+There is perihilar fullness, may be exaggerated secondary to
+underlying mild pulmonary venous congestion.  No focal airspace
+opacity is seen.  There is minimal left basilar streaky
+opacities likely secondary to underlying atelectasis.  The bony
+thorax is grossly intact.
+
+[**2103-2-22**] CXR:
+New patchy opacities in the left lower lobe and inferior
+lingula.
+Although a component of volume loss is present suggesting
+atelectasis,
+coexistent pneumonia should be considered in the appropriate
+clinical setting.
+
+[**2103-2-19**] ECHO:
+The left and right atrium are moderately dilated. There is mild
+symmetric left ventricular hypertrophy with normal cavity size
+and global systolic function (LVEF>55%). Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Right ventricular chamber size and free wall
+motion are normal. The aortic leaflets are mildly thickened. No
+aortic stenosis is seen. Mild (1+) aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral
+regurgitation. No mitral regurgitation is seen. The estimated
+pulmonary artery systolic pressure is normal. There is an
+anterior space which most likely represents a fat pad.
+IMPRESSION: Suboptimal image quality. Mild symmetric left
+ventricular hypertrophy with preserved global systolic function.
+Mild aortic regurgitation.
+
+[**2103-2-22**] MRI:  *** Limited study
+The examination is limited due to inability to cooperate with
+breath-hold
+imaging and absence of contrast administration

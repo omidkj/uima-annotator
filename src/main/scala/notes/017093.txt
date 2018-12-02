@@ -1,0 +1,211 @@
+Admission Date:  [**2132-3-27**]              Discharge Date:   [**2132-4-1**]
+
+Date of Birth:  [**2073-8-23**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Levofloxacin
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+increasing DOE
+
+Major Surgical or Invasive Procedure:
+MVR ([**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] 29mm) [**3-27**]
+
+
+History of Present Illness:
+58 yo F with history of MVP who presented to [**Hospital1 **] [**Location (un) 620**] with DOE
+and cough. Patient ruled out for MI, found to have pulmonary
+edema, diuresed and transferred to [**Hospital1 18**] for further eval. Cath
+here showed no CAD and 3 + MR. Referred for surgery.
+
+Past Medical History:
+HTN
+hyperlipidemia
+MVP
+colitis - [**5-5**], per old d/c summary appears to be infectious
+GERD
+depression
+s/p C-section
+s/p pelvic sling
+
+
+Social History:
+Social history is significant for the absence of current tobacco
+use (infrequent use >30 years ago). There is no history of
+alcohol abuse - drinks 2 glasses of wine a night with dinner.
+Lives with husband in [**Name (NI) 912**].
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death. Father with stroke at age 80.
+
+Physical Exam:
+NAD HR 80 RR 16 BP 134/79
+Lungs CTAB
+Heart RRR, soft murmur
+Abdomen benign
+Extrem warm, no edema
+No carotid bruits
+
+Pertinent Results:
+[**2132-3-31**] 05:25AM BLOOD WBC-7.2 RBC-2.92* Hgb-8.8* Hct-26.7*
+MCV-91 MCH-30.3 MCHC-33.1 RDW-12.7 Plt Ct-207#
+[**2132-4-1**] 05:35AM BLOOD PT-20.8* INR(PT)-2.0*
+[**2132-3-31**] 05:25AM BLOOD PT-21.8* INR(PT)-2.1*
+[**2132-3-30**] 08:10AM BLOOD PT-20.1* INR(PT)-1.9*
+[**2132-3-31**] 05:25AM BLOOD Glucose-122* UreaN-14 Creat-0.6 Na-139
+K-4.3 Cl-104 HCO3-28 AnGap-11
+
+CHEST (PORTABLE AP)  [**2132-3-28**] 9:37 AM
+
+CHEST (PORTABLE AP)
+
+Reason: r/o ptx s/p ct's removed
+
+[**Hospital 93**] MEDICAL CONDITION:
+58 year old woman with
+REASON FOR THIS EXAMINATION:
+r/o ptx s/p ct's removed
+HISTORY: Chest tube removal to evaluate for pneumothorax.
+
+FINDINGS: In comparison with study of [**3-27**], all of the tubes
+have been removed. No evidence of pneumothorax. The left
+hemidiaphragm is again not well seen and the possibility of
+retrocardiac atelectasis, effusion, and even consolidation
+cannot be excluded. Mild atelectatic changes persist at the
+right base.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 107846**] (Complete)
+Done [**2132-3-27**] at 9:09:54 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2073-8-23**]
+Age (years): 58 F  Hgt (in): 65
+BP (mm Hg): 110/50  Wgt (lb): 180
+HR (bpm): 65  BSA (m2): 1.89 m2
+Indication: Intraop Mitral Valve Replacement
+ICD-9 Codes: 440.0, 424.0
+Test Information
+Date/Time: [**2132-3-27**] at 09:09    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine: aw1
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.1 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  4.8 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  5.0 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *3.4 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.1 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  60% to 65%  >= 55%
+Aorta - Annulus:  1.9 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.9 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.5 cm  <= 3.0 cm
+Aorta - Ascending:  2.6 cm  <= 3.4 cm
+Aorta - Arch:  2.3 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.1 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.2 m/sec  <= 2.0 m/sec
+Mitral Valve - Mean Gradient:  3 mm Hg
+Mitral Valve - Pressure Half Time:  58 ms
+Mitral Valve - MVA (P [**1-30**] T):  3.8 cm2
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. No thrombus in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. PFO is present.
+Left-to-right shunt across the interatrial septum at rest.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Normal
+regional LV systolic function. Overall normal LVEF (>55%).
+[Intrinsic LV systolic function likely depressed given the
+severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal aortic
+arch diameter. No atheroma in aortic arch. Normal descending
+aorta diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Myxomatous mitral valve leaflets. Partial mitral
+leaflet flail. [**Month/Day (2) **] MR jet. Severe (4+) MR. Uninterpretable
+LV inflow pattern due to MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR. No PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+Conclusions
+Pre-Bypass: The left atrium is markedly dilated. No thrombus is
+seen in the left atrial appendage. A patent foramen ovale is
+present. A left-to-right shunt across the interatrial septum is
+seen at rest. Left ventricular wall thicknesses and cavity size
+are normal. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+[Intrinsic left ventricular systolic function is likely more
+depressed given the severity of valvular regurgitation.] Right
+ventricular chamber size and free wall motion are normal. There
+are simple atheroma in the descending thoracic aorta. The aortic
+valve leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve leaflets
+are myxomatous. There is partial mitral leaflet flail. An
+[**Month/Day (2) 34486**], posteriorly directed jet of Severe (4+) mitral
+regurgitation is seen. There is no pericardial effusion.
+
+Post bypass: Preserved biventricular function. LVEF >55%. A
+mechanical mitral valve prosthesis is seen insitu with normal
+bilateral washing jets. Peak gradient 6, mean 4-5 mm Hg. Aortic
+contours intact. Remaining exam is unchanged. All findings
+discussed with surgeon at the time of the exam.
+
+
+Brief Hospital Course:
+She was taken to the operating room on [**3-27**] where she underwent
+an MVR with a mechanical valve. She was transferred to the ICU
+in stable condition on neo and propofol. She was extubated later
+that day. She was started on coumadin for her mechanical valve.
+She was transferred to the floor on POD #1. Her wires and chest
+tubes were pulled without incident. She did well postoperatively
+and awaited therapeutic INR. She was ready for discharge home on
+POD 5. Spoke to Dr. [**Last Name (STitle) 40318**] office who has agreed to manage her
+coumadin.
+
+Medications on Admission:
+Citalopram 20', Pantoprazole 40', ASA 81', Lovastatin 20',
+Atenolol 25', Furosemide 20', Lisinopril 10'
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+4. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Tablet(s)
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 h

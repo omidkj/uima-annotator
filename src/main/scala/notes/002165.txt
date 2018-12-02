@@ -1,0 +1,199 @@
+Admission Date:  [**2137-3-25**]              Discharge Date:   [**2137-4-3**]
+
+Date of Birth:  [**2061-6-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin / Keflex
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+"edema"
+
+Major Surgical or Invasive Procedure:
+Right heart catherization
+CVVHD (hemodialysis)
+
+History of Present Illness:
+75 year old female with CAD, CHF EF 60%, DMII, COPD presenting
+from Dr.[**Name (NI) 3536**] office with decompensated heart failure and
+episodes of chest pain.  Patient was recently admitted from
+[**Date range (1) 62457**] and during admission had chest pain radiating to her
+jaw w/ associated shortness of breath.  She underwent pMIBI
+which showed reversivle lateral wall defects.  Given concurrent
+GI work-up it was felt that further cardiac work-up could be
+done as outpatient and consideration of cardiac catheterization.
+ Patient is somewhat difficult to get a history from, but does
+state she has had a couple of episodes of chest pain since her
+last discharge, is unable to tell me how long the episodes
+lasted or associated symptoms.  She does feel like she continues
+to gain weight and feels that she has gained "80 lbs of fluid
+since last [**Month (only) 205**]." She has baseline leg swelling but this feels
+worse than usual and is uncomfortable.
+.
+Patient is also complaining of bilateral knee pain since fall 3
+days prior to admission.  She was walking from her walker to bed
+and may have tripped.  She thinks she fell on her knees and may
+have hit her head (although she is not sure).  She has been
+ambulating since and does have quite a bit of pain at baseline
+for which she takes ultram.  Her baseline pain seems to be in
+bilateral knees and lower back at sight of prior back surgery.
+.
+ROS: No fevers, chills, (+) nausea (?baseline), no vomiting,
+baseline abdominal pain, knee pain.  Orthopnea at baseline (2
+pillow), no PND.  Chest pain episodes as above.  Breathing feels
+somewhat worse than normal, no coughing.
+
+
+Past Medical History:
+R-sided heart failure with pulmonary HTN. R heart cath in [**2134**]
+demonstrated elevated R filling pressures (RVEDP 26 and PCWP 25)
+with prominent V-waves, and mod pulm hypertension. [**2134**] TTE
+demonstrates normal LVEF (60%), with mildly dilated RV and
+normal RV function
+CAD: ?NSTEMI '[**23**]
+COPD
+asthma
+DM2
+Hypertension
+Depression
+Anxiety
+Restless leg syndrome
+H/o anasarca: in [**8-28**], thought [**1-25**] R heart failure + hepatic
+dysfunction/low albumin
+h/o distal CBD stricture s/p ERCP and sphincterotomy
+h/o runs of atrial tachycardia during [**2-27**] admission
+GERD
+s/p TAH
+s/p open cholecystectomy
+
+Social History:
+lives at [**Hospital1 11851**] NH, moved last year from [**State 8842**], has son in
+the area; +tob- 1ppd x 50y, denies EtOH and drugs
+
+
+Family History:
+father died of CVA, mother died of colon cancer at unknown age
+
+Physical Exam:
+VS - 98.2F  HR 76  BP 124/64  18  93RA
+134.8kg
+Gen: awake, alert although poor historian, NAD, lying w/ HOB
+elevated
+HEENT: PERRL, EOMI, anicteric sclera, OP clear, MM sl dry
+Neck: supple, obese, difficult to assess JVP
+CV: distant S1, S2, no appreciated murmurs
+Pulm: clear to auscultation, limited air movement, no crackles,
+wheeze appreciated
+Abd: Normoactive bowel sounds, soft, obese, mild, diffuse TTP
+all quadrants, negative [**Doctor Last Name 515**] sign, no rebound or guarding
+Ext: warm, chronic venous stasis changes, 2+ LE edema b/l to
+knees.  Knees without effusion.  Small bruise on medial aspect
+of R knee.  L knee with TTP below and above patella.  Full ROM
+on knees and hips b/l.  Hips non-tender to palpation.
+Back: well-healed surgical scar around L3-5 with TTP (pt states
+baseline)
+skin: no rash
+Neuro: CN II-XII intact, 5/5 strength in R prox and distal upper
+and lower extremity and L lower extremity.  4/5 strength in L
+hand grip and biceps ([**1-25**] carpal tunnel per pt and baseline) [**4-27**]
+deltoid on L.
+.
+Pulses:
+Right:  DP 1+ PT 1+
+Left:   DP 1+ PT 1+
+
+Pertinent Results:
+[**2137-3-25**] 03:58PM BLOOD WBC-13.8* RBC-4.52 Hgb-11.3* Hct-34.4*
+MCV-76* MCH-25.0* MCHC-32.9 RDW-16.1* Plt Ct-207
+[**2137-3-27**] 09:15AM BLOOD WBC-14.5* RBC-4.89 Hgb-11.8* Hct-36.8
+MCV-75* MCH-24.2* MCHC-32.1 RDW-16.3* Plt Ct-228
+[**2137-3-25**] 03:58PM BLOOD Glucose-137* UreaN-68* Creat-2.9*# Na-133
+K-5.8* Cl-91* HCO3-33* AnGap-15
+[**2137-3-26**] 06:00AM BLOOD Glucose-117* UreaN-73* Creat-3.9* Na-129*
+K-5.9* Cl-87* HCO3-31 AnGap-17
+[**2137-3-27**] 09:15AM BLOOD Glucose-135* UreaN-83* Creat-4.1* Na-130*
+K-6.2* Cl-86* HCO3-35* AnGap-15
+[**2137-3-25**] 03:58PM BLOOD ALT-12 AST-16 CK(CPK)-105 AlkPhos-108
+TotBili-0.4
+[**2137-3-25**] 03:58PM BLOOD CK-MB-4 cTropnT-0.11*
+[**2137-3-25**] 11:40PM BLOOD CK(CPK)-84
+[**2137-3-26**] 06:00AM BLOOD CK(CPK)-73
+[**2137-3-26**] 06:56AM BLOOD cTropnT-0.18*
+[**2137-3-27**] 09:15AM BLOOD Calcium-8.3* Phos-6.3* Mg-3.0*
+.
+
+
+Brief Hospital Course:
+# Acute renal failure - baseline 1.0 (2.0 at nursing home on
+[**3-24**], now rising 2.9->4.8). ACE inhibitor and metformin held
+given acute renal failure. FeUrea 17 (c/w pre-renal).  Renal
+team was consulted.  Patient initiated on CVVH due to concern
+for uremia, given tremors and BUN of 99.  However, urine output
+was preserved and patient received a trial off of CVVH.  Renal
+function continued to improve and patient began to autodiurese.
+She is now at baseline renal function.  She should have her
+renal function checked on Monday and the results faxed to Dr. [**Name (NI) 10875**] office at [**Telephone/Fax (1) 9825**] (fax), phone [**Telephone/Fax (1) 3512**].  If
+her creatinine is increased by 30% from baseline of .[**7-24**], then
+the lisinopril and metformin should be stopped and restarted
+after renal function improves at a lower dose.
+.
+#. Congestive heart failure - Patient admitted initially with
+chest pain and shortness of breath.  Could not undergo
+left-heart catheterizaion due to renal insufficiency.  However,
+right-heart catheterization demonstrated elevated filling
+pressures as above, likely due to diastolic dysfunction. Patient
+was not actively diuresed, and oxygen saturation, daily weights,
+and fluid balance were monitored. CVP approx 10 when line was
+pulled.  Therefore was not recommended for further diurese
+especially given recent renal failure.
+.
+#. Coronary artery disease - Patient ruled out for active
+ischemia and did not have any new ECG changes.  She was
+maintained on her aspirin and beta-blocker.  ACE inhibitor was
+held due to acute renal failure.  During a previous admission,
+stress MIBI showed reversible lateral wall defect.
+Catheterization deferred on that admission as she was undergoing
+work-up for CBD papillary mass (path neg for malignancy).  On
+this admission, cardiac catheterization was deferred until renal
+function improved and will be readdressed as an outpatient.
+.
+# DMII - Held oral hypoglycemics (metformin, glipizide) while
+inpatient initially when in renal failure.  Once patient was
+with noramal renal function, she was transitioned back to home
+meds with better glucose control. Continue humulin sliding
+scale.
+.
+# Diarrhea - Postive for C. difficile and started on
+metronidazole on [**2137-3-31**]. Should complete a 2 week course of
+metronidazole (finishes [**2137-4-14**])
+.
+# History of fall - Patient was unable to provide details. No
+apparent loss of consciousness. She may have hit her head.  Head
+CT neg for bleed.
+.
+# COPD - Continued outpatient regimen of tiotropium,
+fluticasone-salmeterol, and albuterol prn.
+.
+#. PPx: SC heparin, PPI, bowel regimen (pt constipated), contact
+precautions for h/o MRSA, VRE, and C. difficile.
+.
+#. Code: FULL discussed with pt and son by [**Name (NI) 121**] 6 team. Neither
+would want prolonged intubation
+Son, [**Name (NI) **], is HCP:
+home: [**Telephone/Fax (1) 62458**], work: [**Telephone/Fax (1) 62459**], cell: [**Telephone/Fax (1) 62460**]
+PCP: [**Last Name (NamePattern4) **]. [**Last Name (STitle) 17143**] wants to remain involved
+
+
+Medications on Admission:
+potassium 10mEq po qday
+HCTZ 50mg po qday
+lisinopril 20mg po qday
+dulcolax prn
+MOM prn
+trazodone 125mg po qhs prn
+metoprolol 100mg po bid
+ASA 81 qday ultram prn
+tiotropium 18mcg qday
+advair 250/50 inh [**Hospita

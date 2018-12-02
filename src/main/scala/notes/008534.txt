@@ -1,0 +1,215 @@
+Admission Date:  [**2144-7-11**]              Discharge Date:   [**2144-7-14**]
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfa(Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 5606**]
+Chief Complaint:
+Painless jaundice
+
+Major Surgical or Invasive Procedure:
+[**2144-7-11**] - ERCP with sphincterotomy and biliary stent
+
+History of Present Illness:
+88 y.o woman with history of distal pancreatectomy,
+cholecystectomy and splenectomy due to cystic neoplasm who
+presents to the hospital from her nursing facility with 2 days
+of painless jaundice. The patient initially presented to the
+[**Hospital3 2737**] ED where with 2 days of symptoms of feeling as
+though she had difficulty taking POs, feeling as though she had
+to burp. At [**Hospital3 2737**], her labs were notable for an AST of
+73, AP of 688, Tbili of 7.2. She was then referred to [**Hospital1 18**] for
+surgical evaluation and ERCP for likely obstructive jaundice.
+
+In the ED, initial VS were: 98.8 110 140/67 28 95% 3L. Labs on
+admission were notable for: K of 3.2, Na of 127, Bicarb of 33,
+Cre of 1.2. Her abdominal labs showed mildly elevated ALT/AST,
+Alk phos of 583, Tbili of 9.6 and Dbili of 7.9. CBC showed an
+elevated WBC count of 13.3 with mild bandemia and left shift.
+RUQ ultrasound showed increased bile duct dilation with evidence
+of debris in common bile duct. She received cipro/flagyl in the
+emergency room.
+
+Review of systems:
+(+) Per HPI
+(-) Negative for fevers, chills, nausea, vomiting, chest pain,
+shortness of breath, blood in stool, change in colour of her
+stools or evidence of [**Male First Name (un) 1658**] coloured stools.
+
+
+Past Medical History:
+Afib
+GERD
+Anxiety
+Depression
+Distal pancreatectomy and splenectomy [**2140**]
+Diabetes
+Congestive heart failure
+hysterectomy
+hip replacement
+MVA with RLE surgery
+
+Social History:
+Lives in a nursing home. Denies tobacco or EtOH. Son [**Name (NI) **] is
+involved in her care.
+
+Family History:
+Her mother had breast cancer and coronary
+disease. Her father had coronary artery disease and diabetes.
+There is no family history of dementia.
+
+Physical Exam:
+Admission exam:
+General: Sleepy, oriented x 2, in NAD
+HEENT: Icteric sclerae, dry mucous membranes
+Neck: supple, JVP at 8cm
+CV: tachy, irregularly irregular, normal S1 + S2, no murmurs,
+rubs, gallops
+Lungs: Bibasilar crackles, diminished at the bases.
+Abdomen: soft, non-distended, bowel sounds present, no
+organomegaly, positive [**Doctor Last Name **]
+GU: no foley
+Ext: Warm, well perfused, 2+ pulses, 2+ lower extremity edema
+bilateraly.
+Neuro: Grossly intact
+
+
+Pertinent Results:
+Admission labs:
+[**2144-7-10**] 11:20PM BLOOD WBC-13.3* RBC-3.93*# Hgb-12.1# Hct-37.8#
+MCV-96 MCH-30.7 MCHC-32.0 RDW-14.9 Plt Ct-273
+[**2144-7-10**] 11:20PM BLOOD Neuts-82* Bands-3 Lymphs-7* Monos-8 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0 NRBC-1*
+[**2144-7-11**] 06:18AM BLOOD PT-14.9* PTT-25.3 INR(PT)-1.4*
+[**2144-7-10**] 08:57PM BLOOD Glucose-142* UreaN-30* Creat-1.2* Na-127*
+K-3.2* Cl-84* HCO3-33* AnGap-13
+[**2144-7-10**] 08:57PM BLOOD ALT-48* AST-60* AlkPhos-583* TotBili-9.6*
+DirBili-7.9* IndBili-1.7
+[**2144-7-10**] 08:57PM BLOOD proBNP-[**Numeric Identifier **]*
+[**2144-7-10**] 08:57PM BLOOD Lipase-30
+[**2144-7-10**] 08:57PM BLOOD Albumin-2.8*
+[**2144-7-10**] 09:01PM BLOOD Lactate-1.9
+[**2144-7-11**] 06:17AM URINE Color-[**Location (un) **] Appear-Hazy Sp [**Last Name (un) **]-1.016
+[**2144-7-11**] 06:17AM URINE Blood-TR Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-MOD Urobiln-NEG pH-5.0 Leuks-LG
+[**2144-7-11**] 06:17AM URINE RBC-2 WBC-25* Bacteri-MANY Yeast-NONE
+Epi-1
+[**2144-7-11**] 06:17AM URINE Hours-RANDOM Creat-112 Na-34 K-56 Cl-24
+[**2144-7-11**] 06:17AM URINE Osmolal-559
+
+Discharge labs:
+
+Micro:
+-BCx x2: NGTD
+-UCx: >100,000 E. coli
+   URINE CULTURE (Final [**2144-7-14**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+         CEFEPIME sensitivity testing confirmed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------     4 S
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+Imaging:
+-CXR ([**2144-7-10**]): Findings consistent with congestive heart
+failure.  No
+pneumothorax.
+
+-RUQ US ([**2144-7-10**]):
+1.  Increased biliary dilatation since the prior study with
+debris in the
+common bile duct. Recommend MR for further evaluation once
+symptoms of acute heart failure resolve.
+2.  Right pleural effusion.
+3.  Right renal cyst.
+
+-ERCP ([**2144-7-11**]):
+Findings:
+Esophagus: Limited exam of the esophagus was normal
+Stomach: Limited exam of the stomach was normal
+Duodenum: Limited exam of the duodenum was normal
+Major Papilla: The major papilla was bulging with pus discharge.
+
+Cannulation:  Cannulation of the biliary duct was successful and
+deep with a sphincterotome using a free-hand technique. Contrast
+medium was injected resulting in partial opacification. Given
+cholangitis further contrast injection was not performed.
+
+Biliary Tree Fluoroscopic Interpretation: Limited cholangiogram
+showed dilated CBD approximately 10mm in size. Given cholangitis
+further contrast injectuion was not made.
+
+Procedures: Given the finding of large amount of pus exuding at
+the ampulla a sphincterotomy was performed in the 12 o'clock
+position using a sphincterotome over an existing guidewire.
+Given the finding of cholangitis a 5cm by 10FR double pig tail
+biliary stent was placed successfully using a Oasis 10FR stent
+introducer kit to facilitate biliary decompression. Good bile
+flow was noted after stent placement.
+
+Impression: The major papilla was bulging with pus discharge.
+Cannulation of the biliary duct was successful and deep with a
+sphincterotome using a free-hand technique.
+Contrast medium was injected resulting in partial opacification.
+
+Given cholangitis further contrast injection was not performed.
+
+Limited cholangiogram showed dilated CBD approximately 10mm in
+size. Given cholagitis further contrast injection was not done.
+Given the finding of large amount of pus exuding at the ampulla
+a sphincterotomy was performed in the 12 o'clock position using
+a sphincterotome over an existing guidewire.
+Given the finding of cholangitis a 5cm by 10FR double pig tail
+biliary stent was placed successfully using a Oasis 10FR stent
+introducer kit to facilitate biliary decompression.
+Good bile flow was noted after stent placement.
+
+Recommendations: Return to [**Hospital Unit Name 153**].
+NPO overnight with aggressive IV hydration with LR at 75-100
+cc/hr.
+Follow for response and complications. If any abdominal pain,
+fever, jaundice, gastrointestinal bleeding please call ERCP
+fellow on call ([**Pager number 8437**])
+Continue IV antibiotics.
+Repeat ERCP in 4 weeks for stent removal and biliary evaluation.
+
+
+
+Brief Hospital Course:
+88 y.o woman with history of distal pancreatectomy, DM who
+presents with obstructive jaundice who was found to have
+cholangitis now s/p sphincterotomy.
+.
+#Cholangitis ?????? The patient had labs suggestive of cholestasis
+with dilation of the common bile duct to 1.2cm at admission;
+Tbili was elevated to 9.6 with Dbili of 7.9.  She underwent ERCP
+which showed pus in the bile duct, and she had a spincterotomy
+and biliary stent placed.  Her bili started to downtrend after
+the procedure.  She was started on Cipro/Flagyl at admission
+which was switched to meropenem when she was found to have a
+multidrug resistant E.Coli UTI. At discharge, it was changed to
+ertapenem for ease of daily administration instead of q8 hour
+dosing.  She will need a repeat ERCP in 4 weeks to assess for
+improvement with a repeat cholangiogram and removal of the
+stent.  Her sensation of abd d

@@ -1,0 +1,193 @@
+Admission Date:  [**2138-12-7**]              Discharge Date:   [**2138-12-9**]
+
+Date of Birth:  [**2083-1-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Shellfish
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+BIPAP ventilation
+
+
+History of Present Illness:
+Mr. [**Known lastname 4401**] is a 55 year-old man with a history of diabetes and
+COPD who presents with shortness of breath.
+.
+In speaking with the patient, he reports feeling short of breath
+since "leaving the hospital". Wears 3 liters of oxygen during
+the day and at night. In [**Location (un) 1131**] the referall note from [**First Name4 (NamePattern1) 1188**]
+[**Last Name (NamePattern1) **], states that the patient "complained of pain at 2pm and
+SOB. O2 sat 75-8-% on O2 and neb was given + PRN atrovent
+without effect. Pt. is alert and oriented. His face is swollen
+and both hands are swollen. VS T 99.5, P136, RR 24, BP 162/87."
+
+.
+The sister reports that the patient has had approximately four
+months of upper extremity swelling. The work-up for this has
+included an echo on [**12-5**] which has not yet been read but which
+shows a mildly thickened LV and a large TR gradient.
+.
+Per EMS report, noted to be 97% with unclear FiO2.
+.
+In the ED, T 99.2, BP 143/101, HR 102, RR 22, O2 96% on RA.
+Saturation decreased to 86% on room air then 85% on 5 liters and
+was placed on 35% venti mask with sats up to 89-91%. Treated
+with azithromycin 500mg IV, ceftriaxone 1g IV, solumedrol 125mg
+IV and multiple combivent inhalers.
+
+
+Past Medical History:
+1. Chronic obstructive pulmonary disease: On home O2
+2. Diabetes
+3. Hypertension
+4. Chronic pancreatitis, s/p Whipple
+5. Hepatitis C
+6. Peptic ulcer disease
+7. Anemia
+8. History of PE with IVC filter ([**3-/2137**])
+9. Possible CVA ([**2122**]): Reports he was comatose for two weeks
+and has had memory problems since
+[**41**] Seizure disorder
+10. Previous substance abuse
+11. Depression
+
+Social History:
+Lives in [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] retirement home. Brother and sister in
+area. Originally from [**State 531**]. Former laborer. Previous alcohol
+abuse, quit 13 years ago. Previous smoker 2 pks a day, duration
+unknown, quit 2-3 years ago. Previous heroin abuse, on
+methadone.
+
+Family History:
+Unknown
+
+Physical Exam:
+vitals - T 99.5, BP 148/69, HR 107, RR 17, 92% on 0.28% FiO2
+gen - Awake and talkative though unable to provide clear
+history.
+heent - Prior trach scar noted.
+cv - Tachycardic. No murmurs.
+pulm - Good air movement with no rales or wheeze heard.
+abd - Soft with RUQ abdominal pain. Difficult to assess for
+ext - Warm with no lower extremity swelling; positive upper
+extremity swelling.
+neuro - Alert. Does not know what hospital he is at or the date.
+Describes having a bad memory since his stroke. Tremor noted at
+rest and with extension of hands.
+
+Pertinent Results:
+[**2138-12-7**] 03:00AM   PT-13.2* PTT-26.2 INR(PT)-1.2*
+[**2138-12-7**] 03:00AM   PLT COUNT-166
+[**2138-12-7**] 03:00AM   WBC-6.0 RBC-4.53*# HGB-14.7# HCT-45.7#
+MCV-101* MCH-32.5* MCHC-32.3 RDW-14.3
+[**2138-12-7**] 03:00AM   NEUTS-69.1 LYMPHS-19.6 MONOS-6.3 EOS-4.5*
+BASOS-0.5
+[**2138-12-7**] 03:00AM   CALCIUM-9.7 PHOSPHATE-2.9 MAGNESIUM-2.0
+[**2138-12-7**] 03:00AM   cTropnT-<0.01
+[**2138-12-7**] 03:00AM   CK(CPK)-83
+[**2138-12-7**] 03:00AM   GLUCOSE-218* UREA N-16 CREAT-0.8 SODIUM-145
+POTASSIUM-4.7 CHLORIDE-98 TOTAL CO2-43* ANION GAP-9
+[**2138-12-7**] 04:15AM   PT-13.2* PTT-26.0 INR(PT)-1.2*
+[**2138-12-7**] 04:15AM   PLT COUNT-172
+[**2138-12-7**] 04:15AM   NEUTS-70.2* LYMPHS-20.7 MONOS-5.4 EOS-3.4
+BASOS-0.3
+[**2138-12-7**] 04:15AM   WBC-6.3 RBC-4.55* HGB-14.3 HCT-45.8 MCV-101*
+MCH-31.5 MCHC-31.3 RDW-14.3
+[**2138-12-7**] 04:15AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2138-12-7**] 04:15AM   ALBUMIN-3.8
+[**2138-12-7**] 04:15AM   CK-MB-NotDone cTropnT-0.01
+[**2138-12-7**] 04:15AM   ALT(SGPT)-21 AST(SGOT)-29 LD(LDH)-171
+CK(CPK)-94 ALK PHOS-110 TOT BILI-0.3
+[**2138-12-7**] 04:15AM   GLUCOSE-226* UREA N-15 CREAT-0.8 SODIUM-142
+POTASSIUM-4.5 CHLORIDE-96 TOTAL CO2-45* ANION GAP-6*
+[**2138-12-7**] 07:33AM   TYPE-ART PO2-69* PCO2-95* PH-7.28* TOTAL
+CO2-47* BASE XS-13 INTUBATED-NOT INTUBA
+[**2138-12-7**] 08:30PM   TYPE-[**Last Name (un) **] O2 FLOW-2 PO2-48* PCO2-62* PH-7.44
+TOTAL CO2-43* BASE XS-14 INTUBATED-NOT INTUBA COMMENTS-NASAL
+[**Last Name (un) 154**]
+[**2138-12-9**] 05:54AM BLOOD WBC-9.6 RBC-4.31* Hgb-13.6* Hct-42.5
+MCV-99* MCH-31.4 MCHC-31.9 RDW-14.0 Plt Ct-176
+[**2138-12-8**] 03:09AM BLOOD PT-15.0* PTT-26.9 INR(PT)-1.4*
+[**2138-12-9**] 05:54AM BLOOD Glucose-154* UreaN-17 Creat-0.6 Na-139
+K-3.7 Cl-98 HCO3-39* AnGap-6*
+[**2138-12-9**] 05:54AM BLOOD Calcium-9.2 Mg-2.3
+.
+Micro:
+blood cultures [**2138-12-7**]: pending x 2
+.
+Imaging:
+CTA CHEST W&W/O C&RECONS, NON-CORONARY  [**2138-12-7**] 5:27 AM
+IMPRESSION:
+1. Limited evaluation. No evidence of pulmonary artery embolism.
+2. Diffuse centrilobular emphysema with bullae.
+3. Prominence of main pulmonary artery may suggest underlying
+pulmonary artery hypertension. Correlate clinically.
+4. Atherosclerotic coronary artery calcifications.
+.
+CHEST (PORTABLE AP)  [**2138-12-7**] 3:46 AM
+AP CHEST: The heart size is normal. Mediastinal and hilar
+contours are unremarkable. Pulmonary vascularity is within
+normal limits and there is no evidence of overt edema.
+Hyperinflation of the lungs are again noted. Question is raised
+of subtle retrocardiac and left basilar opacity, more prominent
+compared to [**Month (only) 116**]. There is no pleural effusion or pneumothorax.
+.
+ECG Study Date of [**2138-12-7**]  4:54:18 AM
+Sinus rhythm. Left atrial abnormality. Left anterior fascicular
+block. Modest right ventricular conduction delay pattern. Since
+the previous tracing of [**2138-6-18**] sinus bradycardia is absent and
+further left axis deviation is now seen.
+
+Brief Hospital Course:
+55 year-old man with history of COPD, diabetes, hepatitis C and
+prior alcohol use who presents with hypercarbia and chronic
+upper extremity swelling.
+.
+1. Hypercarbia:
+Patient has a known history of COPD with prior bicarb values in
+the high 30s. No prior ABG to assess pCO2 in past. ABG indicated
+large degree of hypercarbia with respiratory acidosis, though
+the level of acidemia does not seem as severe as the hypercarbia
+which may suggest chronicity. He briefly required BIPAP, which
+rapidly improved his hypercarbia and pH to closer to baseline
+level. He continued to have well compensated hypercarbia
+thoughout his stay. He was initially given azithromycin and
+prednisone, both were discontinued before he was discharged. He
+was given  nebulizers throughout his stay.
+- cont Nebs (atrovent and albuterol)
+.
+3. Upper extremity swelling:
+Unclear etiology. Though he does appear to have TR there is no
+lower extremity swelling which would be more consistent. A
+portal or liver process is possible as well, especially given
+his prior alcohol use, hepatitis and the presence of RUQ pain.
+The liver and spleen were unremarkable on CT in [**Month (only) 116**]. The
+possibility of a complication s/p Whipple could be considered
+given the temporal association. LFTs were normal during his stay
+and no further workup was undertaken.  His swelling improved
+transiently while on prednisone, but whether the prednisone
+contributed to the improvement is unclear.
+.
+4. History of PE with IVC filter:
+Patient states he is currently on coumadin though his INR is not
+therepeutic. In speaking with the sister and patient, this is
+for prior PE in [**2137**]. From discussion with his PCP,[**Name10 (NameIs) **] did not
+restart coumadin in a previous admission as she felt his risks
+outweighted the benefits given history of GI bleed.  He was
+given sc heparin for prophylaxis during his stay.
+.
+5. Diabetes: He was given his home NPH as well as SSI. He did
+require extra insulin while taking steroids.  His insulin should
+continue to be titrated to his blood sugars as they are probably
+currently transiently unstable from his hospital stay and
+prednisone.
+.
+6. Hypertension: He has had a somewhat wide range of SBP. He may
+benefit from an antihypertensive as an outpatient, 

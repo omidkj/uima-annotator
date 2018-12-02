@@ -1,0 +1,215 @@
+Admission Date:  [**2136-11-16**]              Discharge Date:   [**2136-11-26**]
+
+Date of Birth:  [**2072-5-3**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+chest pain, shortness of breath
+
+Major Surgical or Invasive Procedure:
+Cardiac Catherization [**2136-11-16**]
+Coronary Artery Bypass Grafting X 5 [**2136-11-20**] (SVG "Y" to DIAG
+and LIMA to LAD; SVG to RPL; SVG "Y" to Ramus and SVG to OM)
+
+
+History of Present Illness:
+Ms. [**Known lastname 780**] is a 64 year old woman with known coronary artery
+disease s/p non-ST elevation myocardial infarction in [**2133**]
+(medically managed), and stroke who presented to an outside
+hospital two days ago with chest discomfort. Patient was ruled
+out for MI there and was transferred to [**Hospital1 18**] for cardiac
+catheterization. No plavix was given.
+
+Patient reports some decreased exercise tolerance over the past
+3-4 months (used to walk 3 miles and now feels short of breath
+walking shorter distances). She was walking up a [**Doctor Last Name **] one day
+prior to admission from OSH and reports feeling chest pressure
+like "someone sitting on her chest" with pain radiating to her L
+arm. Reports some minor L calf pain as well. +SOB. No other
+associated symptoms such as
+nausea/vomiting/dizziness/diaphoresis/LH/LOC. Different from her
+previous anginal symptoms in [**2133**](diaphoresis, SSCP with
+radiation to her L arm). Pressure continued for a few hours and
+never completely resolved with SL nitro. Previous chest
+pain/pressure has resolved with nitro in the past. Patient
+walked to a CVS afterwards and took her blood pressure and found
+it to be quite hypertensive 190/101. Patient reports not taking
+her nifedipine, but is compliant with her other medications.
+Patient also had an episode of epistaxis which resolved. She is
+not taking any anticoagulation currently. Denies SOB, PND, or
+orthopnea, or lower extremity edema. No history of DVT or PE.
+.
+Patient was admitted to OSH and ruled out for an MI. EKG was
+without acute ischemic changes. She was noted on Chest CT to
+have no PE but with CHF and cardiomegaly. She was given 60 mg IV
+Lasix and continued on 20 PO Lasix. Started on [**First Name8 (NamePattern2) **] [**Last Name (un) **]. She was
+then transferred to [**Hospital1 18**] for cardiac catherization. Found to
+have 3VD including critical left main disease (60%), LCV 80%
+ostial, RCA with 60%, ramus 80% ostial. CT surgery was consulted
+and have recommended CABG. Patient was transferred to the floor
+s/p catherization: she denied any chest pain, shortness of
+breath, or pain at her catherization site. She has not received
+any plavix.
+
+
+Past Medical History:
+HTN
+CAD
+NSTEMI [**2133**]
+Hemorrhagic CVA [**38**] years ago without intervention
+Asthma
+GERD
+Hiatal hernia
+Gastric Ulcers
+Cardiac Risk Factors: (-)Diabetes, (+)Dyslipidemia,
+(+)Hypertension, (+) Smoker
+.
+Cardiac History:
+PCI in [**2133**]: 2 vessel coronary artery disease. No intervention
+performed.
+
+
+Social History:
+Social history is significant for the absence of current tobacco
+use (patient is a former smoker with a > 60 ppy history). There
+is no history of alcohol abuse.
+
+Family History:
+There is a family history of premature coronary artery disease
+or sudden death (father had 3 [**Name2 (NI) **], first at 63, sister with
+rheumatic fever and MI at 30, sister with leukemia.)
+
+Physical Exam:
+VS - 98.7 62 110/63 16 93% on RA
+Gen: elderly F sitting up in a chair, NAD
+HEENT: NCAT. Sclera anicteric. Anisocoria (R pupil 4 mm, L pupil
+2 mm, PERRLA). EOMI. Conjunctiva were pink, no pallor or
+cyanosis of the oral mucosa. No xanthalesma. No LAD.
+Neck: Supple with JVP of 3 cm at 60' angle.
+CV: PMI at 5/6 IC space. RRR, S1/S2 heard. soft [**2-1**] SM murmur
+heard best at the bases.
+Chest: slight crackles at bases.
+Abd: Soft, NTND. No HSM or tenderness. no g/rt. No HSM.
+Ext: No lower extremity edema.
+Groin site: bandage c/d/i. No hematoma. Gross sensation/movement
+intact. Cap refill < 2 secs.
+.
+Pulses:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+
+
+Pertinent Results:
+EKG: sinus brady; NA, NI, TWI in I, avL, TWF in AvF, no acute
+ischemic changes.
+  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 103382**] (Complete)
+Done [**2136-11-20**] at 9:40:40 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2072-5-3**]
+Age (years): 64 F  Hgt (in): 60
+BP (mm Hg): 126/68  Wgt (lb): 127
+HR (bpm): 58  BSA (m2): 1.54 m2
+Indication: Intra-op TEE for CABG
+ICD-9 Codes: 786.05, 786.51, 440.0
+Test Information
+Date/Time: [**2136-11-20**] at 09:40    Interpret MD: [**Name6 (MD) 928**]
+[**Name8 (MD) 929**], MD, MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW01-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  50%  >= 55%
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum. No
+ASD or PFO by 2D, color Doppler or saline contrast with
+maneuvers.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Low
+normal LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Normal aortic arch diameter. Normal descending aorta diameter.
+Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. No AS. No AR.
+
+MITRAL VALVE: No MS. [**Name13 (STitle) **] MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+The post-bypass study was performed while the patient was
+receiving vasoactive infusions (see Conclusions for listing of
+medications).
+Conclusions
+PRE-BYPASS:
+1. No atrial septal defect or patent foramen ovale is seen by
+2D, color Doppler or agitated saline contrast with valsalva
+release maneuver.
+2. Left ventricular wall thicknesses and cavity size are normal.
+Overall left ventricular systolic function is low normal within
+transient mild apical hypokinesis (LVEF 50-55%).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are simple atheroma in the descending thoracic aorta.
+5. There are three aortic valve leaflets. There is no aortic
+valve stenosis. No aortic regurgitation is seen.
+6. No mitral regurgitation is seen.
+7. There is no pericardial effusion.
+
+Dr. [**Last Name (STitle) **] was notified in person of the results.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including phenylephrine and is
+being A paced.
+1. Biventricular function is preserved
+2. Aorta is intact post decannulation.
+3. Other findings are unchanged
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 928**] [**Name8 (MD) 929**], MD, MD,
+Interpreting physician [**Last Name (NamePattern4) **] [**2136-11-20**] 13:04
+
+.
+C.CATH Study Date of [**2136-11-16**]
+
+
+*** Not Signed Out ***
+
+BRIEF HISTORY:   64 yo WF with PMH of HTN/CAD s/p NSTEMI in [**2133**]
+on
+medical management began to develop exertional chest pain.
+Admitted to
+[**Hospital **] hospital with negative cardiac markers and no ecg
+changes. Given
+past LHC in [**2133**] with moderate CAD, referred for re-evaluation.
+
+INDICATIONS FOR CATHETERIZATION:
+Coronary 

@@ -1,0 +1,222 @@
+Admission Date:  [**2188-3-4**]              Discharge Date:   [**2188-3-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1145**]
+Chief Complaint:
+Transfer from OSH for acute MI.
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization [**2188-3-4**]
+Percutaneous coronary angioplasty
+
+History of Present Illness:
+Ms. [**Known lastname 37217**] is a [**Age over 90 **] year-old female with CV risk factor of age
+and hypertension, with a past medical history also significant
+for lung cancer status post resection, remote colon cancer
+status post resection, and hypothyroidism, who presented to
+[**Hospital3 **] on [**2188-3-4**] with acute left-sided chest pain.
+
+She notes that she developed a tooth ache 1 day prior to
+admission. Then at 1100 AM on the day of presentation, she
+developed acute left-sided chest pain, severe, with radiation to
+the back. She denies associated SOB, no N/V. No prior similar
+episode.
+
+At the OSH, initial vitals were T 95, BP 124/75, HR 78, RR 18,
+Sat 98% on room air. EKG revealed ST elevations in V1-4. She was
+given 4 baby aspirins, [**Name (NI) **] 150 mg PO X 1, Lopressor 2.5 mg IV
+X 3, then Heparin bolus 1400 units then drip 400 cc/ hour. She
+was also started on a NTG drip at 70 mcg/min. She was never
+chest pain free at the OSH and was emergently transferred to the
+[**Hospital1 18**] for cardiac catheterization.
+
+Past Medical History:
+1. Lung cancer (adenocarcinoma, stage 1) diagnosed in [**2182**],
+status post resection.
+2. History of colon cancer 10 years ago, status post resection
+3. Hypothyroidism
+4. History of compression fracture
+
+Social History:
+She is widowed, and lives alone. She has no children. She has a
+visiting nurse who comes three times a week, and helps her with
+house chores and groceries. She ambulates without assistance,
+but has a history of prior falls. She never smoked, no EtOH.
+
+Family History:
+Mother with CAD at advanced age.
+
+Physical Exam:
+Physical examination on admission to CCU:
+VITALS: T 97.0, HR 93, regular, BP 130/77, RR 25, Sat 99% on
+100% NRB
+Hemodynamics: PA 48/25 (34)
+GEN: Tachypneic, but still able to speak with full sentences.
+HEENT: Anicteric.
+NECK: JVP not seen, patient laying flat. No carotid bruit.
+RESP: Fair air entry bilaterally. Fairly clear on inspiration,
+but diffuse expiratory crackles. No wheezing. No bronchial
+breathing appreciated.
+CVS: Somewhat distant heart sounds. S1, S2. No murmur
+appreciated.
+GI: BS normoactive. Abdomen soft and non-tender.
+EXT: Right groin (cath site): Sheath still in place. No
+hematoma, no bruit. Strong pedal pulses bilaterally.
+Neuro: Alert and oriented X3.
+
+
+Pertinent Results:
+Laboratory data from OSH [**2188-3-4**]:
+CBC:
+WBC 9.3, Hb 10.1, Hct 30.6, Plt 197.
+
+Chemistry:
+Na 140, K 5.1, Cl 104, HCO3 23, BUN 24, Creat 1.0, Glucose 275,
+Ca 10.0, Mg 2.0.
+ALP 57, AST 31, ALT 23, T bili 0.4
+
+Cardiac enzymes:
+Trop I 0.27
+
+EKG at OSH on arrival: NSR, rate 77, normal intervals, LAD. No
+Qs. ST elevation in V1-4. No clear reciprocal changes.
+
+EKG at OSH: NSR, rate 71 bpm. ST elevation (3-5mm) in V1,2,3,4,
+aVL. ST depression 1-2 mm in II, III. No Qs.
+
+[**Hospital1 18**], relevant data on admission:
+[**2188-3-4**]:
+PLT COUNT-193
+HCT-30.7*
+POTASSIUM-5.0
+
+Cardiac enzymes:
+[**2188-3-4**] 10:45PM   CK(CPK)-5905*
+[**2188-3-4**] 10:45PM   CK-MB and cTropnT greater than assay
+
+[**2188-3-4**] CARDIAC CATHETERIZATION:
+
+HEMODYNAMICS RESULTS
+**PRESSURES
+RIGHT ATRIUM {a/v/m} 12/10/9
+RIGHT VENTRICLE {s/ed} 44/12
+PULMONARY ARTERY {s/d/m} 44/24
+PULMONARY WEDGE {a/v/m} 28/34/27
+AORTA {s/d/m} 119/67/90
+HEART RATE {beats/min} 65
+RHYTHM SINUS
+O2 CONS. IND {ml/min/m2} 125
+A-V O2 DIFFERENCE {ml/ltr} 62
+CARD. OP/IND FICK {l/mn/m2} 2.6/2.0
+
+**RESISTANCES
+SYSTEMIC VASC. RESISTANCE 2492
+
+**% SATURATION DATA (NL)
+SVC LOW 44
+PA MAIN 39
+AO 84
+
+COMMENTS:
+1.  Coronary angiography of this right dominant system revealed
+single
+vessel coronary artery disease.  The left main coronary artery
+had a 40%
+ostial stenosis.  The LAD had a total occlusion of the proximal
+vessel.
+The LCX had minimal disease.  The RCA had serial stenoses in the
+mid and
+distal vessel.
+2.  Resting hemodynamics were performed.  Right sided pressures
+were
+mildly elevated (mean RA pressure was 9 mm Hg and RVEDP was 12
+mm Hg). Pulmonary artery pressures were moderately elevated (PA
+pressure was 44/24 mm Hg).  Left sided pressures were severely
+elevated (mean PCWP was 27 mm Hg).  Cardiac index was low (at 2
+L/min/m2).
+3.  Successful PCI of the LAD-D1 with a 2.5 x 23 mm Cypher [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) 5177**]
+from the proximal LAD into D1 with rescue of the LAD ostium with
+a 2.5
+mm balloon.
+4.  Successful closure of right femoral arteriotomy with a 6
+French
+AngioSeal device.
+
+FINAL DIAGNOSIS:
+1. Severe single vessel coronary artery disease.
+2. Severely elevated left sided pressures.
+3. Successful PCI of LAD with DES.
+
+**************
+[**2188-3-4**] CXR: AP single view of the chest has been obtained with
+the patient in supine position. The heart is enlarged with a
+prominence of the left ventricular contour to the left. The
+thoracic aorta is widened and elongated and shows calcium
+deposits in the wall mostly at the level of the arch. A catheter
+approached from below passes through the right heart and
+terminates in the central portion of the left main PA. There is
+no pneumothorax or any other placement related complication. The
+accessible lung fields demonstrate a pulmonary vasculature,
+which is irregular in distribution consistent with COPD. There
+is no conclusive evidence for pulmonary edema on the left side;
+however, on the right side a perivascular haze is present and
+the right lateral pleural sinus is blunted. Diffuse density over
+the entire lower portion of the right hemithorax is indicative
+of pleural effusion layering posteriorly. Some pleural effusion
+is also present on the left side but to a lesser degree.
+
+In the hilar region one can identify multiple centrally located
+surgical clips indicative of previous surgery, nature is
+unknown. There is no evidence of any external wiring.
+
+Diffuse skeletal demineralization is noted, and there is at
+least one vertebral body with significant compression in the
+lower thoracic spine.
+
+There exists no prior chest examination or records available for
+comparison.
+
+IMPRESSION: Left ventricular enlargement, bilateral pleural
+effusion more marked on the right, pulmonary emphysema pattern
+probably interferes with assessment of pulmonary vasculature on
+the radiograph. Suggest correlation with findings on Swan-Ganz
+catheter to determine degree of left-sided fitting pressure
+elevation.
+
+********************
+[**2188-3-5**] ECHO: The left atrium is normal in size. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity size is normal. There is severe regional left ventricular
+systolic dysfunction. Overall left ventricular systolic function
+is severely depressed (20%). Resting regional wall motion
+abnormalities include mid to distal anteroseptal and apical
+akinesis with hypokinesis elsewhere. No apical thrombus
+identified but cannot exclude. Right ventricular chamber size
+and free wall motion are normal (although apex not fully
+visualized). The aortic valve leaflets are moderately thickened.
+There is no aortic valve stenosis. Moderate (2+) aortic
+regurgitation is seen. The mitral valve leaflets are moderately
+thickened. Mild (1+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. Moderate to severe [3+]
+tricuspid regurgitation is seen. There is no pericardial
+effusion.
+
+[**2188-3-13**] ECHO (preliminary report): No pericardial effusion. No
+LV thrombus.
+
+Brief Hospital Course:
+[**Age over 90 **] year-old female with CV risk factors of HTN and age, with a
+PMHx also significant for lung cancer and colon cancer both
+status post resection, now admitted with AMI, found to have TO
+of LAD, status post stent/PTCA on [**2188-3-4**].
+
+1) Anterior MI: As mentioned above, Ms. [**Known lastname 37217**] was taken
+directly to the cath lab. Coronary angiography revealed total
+occlusion of the LAD, and stenting of the LAD into OM1 was
+performed, with res

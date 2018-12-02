@@ -1,0 +1,194 @@
+Admission Date:  [**2195-8-3**]              Discharge Date:   [**2195-9-18**]
+
+Date of Birth:  [**2131-7-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril / Cefepime / Aztreonam
+
+Attending:[**First Name3 (LF) 3913**]
+Chief Complaint:
+ Elective admission for alloSCT
+
+Major Surgical or Invasive Procedure:
+Stem cell transplant
+
+History of Present Illness:
+Mr [**Known lastname **] is a 63 yo male with history of DM, hyperlipidemia,
+and HTN who was diagnosed with AML after routine labs showed
+pancytopenia. Bonemarrow biopsy at that time showed 50% blasts.
+He was treated with one cycle of 7+3 and 2 cycles of decitabine,
+with the last cycle [**2195-6-8**]. He is admitted for allogenic
+stem cell transplant. Today, he is without complaints. He is
+goal oriented and looking forward to beginning therapy. He
+reports good appetitie. Denies F/C, N/V/D, Headache, Cough,
+hematemesis, SOB, Chest Pain, Abdominal pain, dysuria.
+.
+Patient reports severe medication reaction on last admission and
+states that it was due to "one of the four chemotherapy agents I
+was given" descrivbing the reaction as erythemia that covered
+his legs/arms/torso. According to the discharge summary from
+[**Hospital1 18**] [**2195-5-2**] Allergy was consulted who believed that the rash
+was from either Cefepime or Aztreonam and recommended avoiding
+all cephalosporins avoid all cephalosporins (in particular
+Cefepime and Ceftazidime) and Aztreonam.
+
+
+Past Medical History:
+- AML:
+[**2195-3-27**]: Sent to [**Hospital6 33**] by PCP for
+           pancytopenia - WBC: 0.7, Hb: 7, HCT:19.8, PLT: 8.
+[**2195-3-31**]: Bone marrow biopsy that showed 50% blasts.
+           Transferred to [**Hospital1 18**] for treatment of acute leukemia.
+[**2195-4-2**]: 7+3 chemo
+[**2195-4-4**]: Febrile neutropenia. Developed significant rash from
+           drug allergy
+[**2195-4-15**]: Day 14 7+3 bone marrow demonstrated hypocellularity,
+           but persistence of AML
+[**2195-4-21**]: fungal pneumonia, had bronchoscopy on [**2195-4-24**]
+[**2195-4-22**]: Repeat marrow again showed persistent disease
+[**2195-5-2**]: Discharged from [**Hospital1 18**]
+[**2195-5-11**]: C1D1 Dacogen
+[**2195-6-8**]: C2D1 Dacogen
+- Hypertension
+- Hyperlipidemia
+- Non-insulin dependent diabetes
+- Tubular adenoma in [**1-/2191**]
+- BPH
+- Back surgery following MVA in [**2187**]
+
+
+Social History:
+- Divorced, lives with son, who is a senior in high school.
+- Smokes 1.5 packs of cigarettes/daily.
+- Drinks 1-2 drinks / wk with no heavy drinking in the past.
+- No recreational drug use.
+
+
+Family History:
+- Diabetes and breast cancer in mother
+- brother died at age 23 of brain tumor.
+- Has 3 sisters all in good health.
+- Daughter age 31 and son in high school in good health.
+
+Physical Exam:
+Temp: 97.1 BP 108/68 P: 75 RR: 14 SaO2:98% on RA
+GEN: a middle aged male laying in bed pleasant and talkative in
+NAD
+HEENT: MMM, no OP lesions, Non elevated JVP, neck is supple, no
+cervical, supraclavicular, or axillary LAD
+CV: RR, NL S1S2 no S3S4 MRG
+PULM: CTAB
+ABD: BS+, soft, NTND, no masses or HSM, no stigmata of chronic
+liver disease
+LIMBS: No LE edema, no tremors or asterixis, no clubbing
+SKIN: No rashes or skin breakdown
+NEURO: CNII-XII nonfocal, strength 5/5 of the upper and lower
+extremities, reflexes 2+ of the upper and lower extremities,
+toes down bilaterally
+
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**2195-8-3**] 09:03AM BLOOD WBC-1.4* RBC-2.89* Hgb-10.9* Hct-31.0*
+MCV-107* MCH-37.6* MCHC-35.1* RDW-16.2* Plt Ct-28*
+[**2195-8-3**] 09:03AM BLOOD PT-11.9 PTT-25.9 INR(PT)-1.0
+[**2195-8-4**] 12:00AM BLOOD Gran Ct-412*
+[**2195-8-3**] 09:03AM BLOOD UreaN-16 Creat-0.9 Na-139 K-4.3 Cl-106
+HCO3-27 AnGap-10
+[**2195-8-3**] 01:55PM BLOOD Glucose-110* UreaN-16 Creat-1.0 Na-138
+K-4.3 Cl-105 HCO3-27 AnGap-10
+[**2195-8-3**] 09:03AM BLOOD ALT-32 AST-19 LD(LDH)-130 AlkPhos-60
+TotBili-0.2
+[**2195-8-20**] 12:05AM BLOOD proBNP-[**Numeric Identifier 86155**]*
+[**2195-8-3**] 09:03AM BLOOD Albumin-4.7 Calcium-9.0 Phos-2.8 Mg-1.9
+.
+DISCHARGE LABS:
+.
+[**2195-9-18**] 12:00AM BLOOD WBC-2.2* RBC-2.56* Hgb-7.9* Hct-23.0*
+MCV-90 MCH-31.0 MCHC-34.5 RDW-14.8 Plt Ct-30*
+[**2195-9-18**] 12:00AM BLOOD Gran Ct-1716*
+[**2195-9-18**] 12:00AM BLOOD Glucose-105* UreaN-15 Creat-1.4* Na-139
+K-3.8 Cl-104 HCO3-24 AnGap-15
+[**2195-9-18**] 12:00AM BLOOD ALT-6 AST-13 LD(LDH)-263* AlkPhos-82
+TotBili-1.1
+[**2195-9-18**] 12:00AM BLOOD Calcium-8.2* Phos-4.0 Mg-1.7
+[**2195-9-18**] 09:49AM BLOOD Cyclspr-261
+
+Brief Hospital Course:
+63 yo male recently diagnosed with AML s/p 7+3 induction and 2
+cycles of Decitabine, last cycle on [**2195-6-8**].  He was admitted
+for double cord transplant with Day 0 on [**8-10**].
+
+#AML: He had neutropenic fever, which is why he is on Meropenem,
+Vancomycin. The patient has had rashes to aztreonam and
+cefepime.  He takes Atovaquone, Acyclovir, and Voriconazole for
+prophylaxis.  He was afebrile for 10 days, and was thus taken
+off the Meropenem and Vancomycin prior to discharge, during
+which he remained afebrile.  His counts improved, and his ANC
+remained above 1500 off Neupogen, indicating that he was
+successfully engrafted.  He will be discharged to the apartments
+and will come in daily to the heme/onc clinic.
+.
+His course has been complicated by a visit for the ICU from
+which he returned approximately 1 week ago; he had been in the
+ICU after having an increased oxygen requirement on the floor,
+[**Last Name (un) **], and noted decrease in his ejection fraction on Echo. His
+echo revealed cardiomyopathy, with a depressed EF of 30%, but
+the source of his cardiomyopathy is unclear at this time. He was
+intubated, but following diuresis and initiation on imdur,
+beta-blockade, and hydralazine improved. He returned to the
+floor on room air.
+
+BRIEF [**Hospital Unit Name 13533**]:
+
+Respiratory Distress / Heart Failure - Patient was transferred
+to the [**Hospital Unit Name 153**] for respiratory distress in the setting of mild bump
+in cardiac enzymes (Troponin peak 0.11), new effusions on CXR,
+and non-specific Twave changes on EKG.  Echo demonstrated
+decreased poor systolic function (EF 35%).  The patient required
+imediate intubation for hypoxic respiratory failure.  The
+diagnostics and imaging point to pulmonary edema [**1-13**] to CHF in
+the setting of ACS, although given the patient's neutropenic
+status infection was also considered.  The patient was gently
+diuresed and weaned from the ventilator.  PNA was covered by the
+patient's existing broad neutropenic prophylaxis (vanco, [**Last Name (un) 2830**],
+micafungin).  He was extubated and was weaned from supplemental
+O2.  At the time of his transfer out of the ICU, he was stable
+on room air.
+
+HTN - On transfer to the [**Hospital Unit Name 153**], the patient's antihypertensives
+had been held given his low blood pressure.  Following the
+patient's extubation, the patient became hypertensive to SBP
+160s-180s.  He was started on hydralazine, carvedilol and imdur
+to reduce afterload.  He also had a vasovagal bradycardic
+episode and triggered for HRs in the 40s.  He was monitored on
+tele with no further events.  He was seen by cardiology, who
+recommended patient be restarted on metoprolol and diovan for
+treatment of hypertension and non-ischemic cardiomyopathy.  He
+will follow-up with cardiology after discharge.
+.
+[**Last Name (un) **] - On transfer to the [**Hospital Unit Name 153**], the patient's Creatinine was
+elevated to high 2s, from baseline of 0.9.  This was thought to
+be multifactorial, [**1-13**] to to nephrotoxic chemotherapeutics and
+due to poor renal perfusion in the setting of heart failure /
+ACS.  His cyclosporin was held pending improvement in the
+patient's renal function.  He did not have any metabolic
+derangements and his renal function gradually improved to 1.3
+by the time of his transfer back to the BMT service.  On
+discharge, his Cr was 1.4.
+
+
+Medications on Admission:
+Glyburide 5 mg daily
+Metformin 1,000 mg daily
+
+Discharge Medications:
+1. ursodiol 300 mg Capsule [**Month/Day (2) **]: One (1) Capsule PO QAM (once a
+day (in the morning)).
+Disp:*30 Capsule(s)* Refills:*2*
+2. ursodiol 300 mg Capsule [**Month/Day (2) **]: Two (2) Capsule PO qPM.
+Disp:*60 Capsule(s)* Refills:*2*
+3. atovaquone 

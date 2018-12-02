@@ -1,0 +1,207 @@
+Admission Date:  [**2162-1-10**]              Discharge Date:   [**2162-1-18**]
+
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 983**]
+Chief Complaint:
+Anemia
+
+Major Surgical or Invasive Procedure:
+Upper endoscopy [**2162-1-10**], [**2162-1-15**]
+
+History of Present Illness:
+Primary Care Physician: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+
+Chief Complaint: Anemia
+
+History of Present Illness / ICU course:
+[**Age over 90 **] year-old Russian-speaking male with remote history of
+duodenal ulcer, prostate cancer, and recent GI bleed secondary
+to gastric ulcers who presents from rehab with lethargy and
+anemia. The patient was recently admitted from [**Date range (1) **] after
+presenting with malaise and lethargy, and found to have a HCT of
+17. He underwent an initial EGD on [**1-5**], which revealed blood
+in the fundus without evidence of active bleeding. The patient
+was intubated for this procedure given evidence of aortic
+stenosis on physical exam. EGD was repeated on [**1-6**] and
+revealed 2 gastric cardia ulcers with a visible vessel. The
+ulcers were injected with epinephrine and 2 clips were applied.
+At the time of discharge, the patient's HCT was 24.2 after a
+total of 4U PRBCs.
+
+Since discharge, per son, patient has been doing fine. On the
+day of admission, he was more lethargic. He had no vomiting, no
+bright red blood per rectum, and denied lightheadedness, chest
+pain or shortness of breath.
+
+In the ED inital vitals were, 98.4 75 84/39 20 99%RA. Labs were
+significant for HCT 20 (24.2 at discharge on [**1-9**]), INR 1.1,
+WBC 13.8. NG lavage was positive for bright red blood then dark
+clotted material after 1 liter. He was given levofloxacin for
+concern of HCAP based on CXR. He also received metoclopramide
+and pantoprazole. Patient received 250 cc IVF with improvement
+of SBP to low 100s. He had 2 X 18G PIVs placed and received 1
+unit PRBC.
+
+ICU course [**Date range (1) 75505**]:
+On arrival to the ICU, VS were T 98.4, HR 76, BP 125/62, RR 16
+O2 100% on RA. Patient was lethargic but responsive to
+questions. He reported mild epigastric pain, no shortness of
+breath and no chest pain.
+
+Patient was given an additional 2 units PRBC in ICU. He had a
+repeat upper endoscopy on [**1-11**] that showed a diverticulum with
+clot at the fundus without any evidence of a clear source.
+Surgical options were discussed with the patient and his family
+which they are not interested in pursuing at this time given
+relative clinical stability.
+
+Review of systems: All other review of systems otherwise
+negative.
+
+Past Medical History:
+- Prostate cancer, s/p TURP in ~[**2151**], treated intermittently
+with hormonal therapy, no treatment for past several years,
+staging unknown.
+- Urinary incontinence
+- Chronic constipation
+- Compression fracture of L-spine
+- Hx of duodenal ulcer 25 years ago
+
+Social History:
+Ambulates with walker past 8 years.  No smoking/ alcohol/drugs.
+Lived with his wife who is 88, but she passed away at the [**Hospital 100**]
+Rehab on [**2162-1-6**]. Son [**Doctor First Name **] is regularly in the hospital to be
+with his father.  [**Name (NI) **] used to be chief financial officer of
+corporation in [**Location (un) 4551**].  Immigrated to US from [**Location (un) 4551**] 25 years
+ago.  Has history of BCG vaccination.
+
+Family History:
+Mother died of heart disease at age of 82. Father died of shock
+at age of 52.  No history of colon cancer, stomach cancer, liver
+disease, pancreatic disease, or bleeding dyscrasias.
+
+Physical Exam:
+VS: 98.4 104/52 59 18 95% RA; [**1-26**] abdominal pain
+GEN: No acute distress
+HEENT: No trauma, pupils round and reactive to light and
+accommodation, no LAD, oropharynx clear, no exudates
+CV: Regular rate and rhythm, grade IV/VI holosystolic murmur
+blunting S1/S2, best heard at R 2nd ICS, no radiation to
+carotids
+PULM: Clear to auscultation bilaterally, no
+rales/crackles/rhonchi
+GI: Soft, non-tender, non-distended; no guarding/rebound
+EXT: No clubbing/cyanosis/edema; 2+ distal pulses; peripheral IV
+present
+NEURO: Alert and oriented to person, place and situation; CN
+II-XII intact, [**5-22**] motor function globally
+DERM: No lesions appreciated
+
+Discharge exam:
+VSS
+GEN:  Patient lying comfortably in bed nad russian speaking
+HEENT:  MMM oropharynx clear
+NECK:  supple no thyromegaly
+CV:  rrr no m/r/g
+RESP: ctab no w/r/r
+ABD:  soft nt nd bs+
+EXTR: no le edema good pedal pulses bilaterally
+DERM:  no rashes, ulcers or petechiae
+neuro:  cn 2-12 grossly intact non-focal
+PSYCH: normal affect and mood
+
+
+Pertinent Results:
+Recent Admission Labs:
+=================
+[**2162-1-10**] 03:20PM BLOOD WBC-13.8*# RBC-2.03* Hgb-6.4* Hct-20*
+MCV-99* MCH-31.4 MCHC-31.8 RDW-18.4* Plt Ct-217
+[**2162-1-10**] 03:20PM BLOOD Neuts-86.7* Lymphs-8.7* Monos-3.5 Eos-1.0
+Baso-0.1
+[**2162-1-10**] 03:20PM BLOOD PT-12.0 PTT-23.0* INR(PT)-1.1
+[**2162-1-10**] 03:20PM BLOOD Glucose-129* UreaN-40* Creat-1.0 Na-140
+K-3.8 Cl-109* HCO3-26 AnGap-9
+[**2162-1-10**] 03:50PM BLOOD Glucose-121* Lactate-1.8 Na-140 K-3.8
+Cl-108 calHCO3-26
+
+MICROBIOLOGY:
+Blood culture [**2162-1-10**] - PENDING
+H.pylori antibody [**2162-1-10**] - Negative
+MRSA screen [**2162-1-11**] - Negative
+
+IMAGING:
+
+ECG [**2162-1-10**]: Probable ectopic atrial rhythm. Left axis
+deviation consistent with left anterior fascicular block. Right
+bundle-branch block. Compared to the previous tracing of
+[**2162-1-4**] the rate is slower.
+
+CXR [**2162-1-10**]:
+The lung volumes have decreased, with increasing areas of
+atelectasis at both left and right lung bases. No pleural
+effusions. Borderline size of the cardiac silhouette. No
+pulmonary edema.
+
+CXR [**2162-1-10**]:
+As compared to the previous radiograph, the patient has been
+intubated. The lung volumes have decreased, with increasing
+areas of
+atelectasis at both left and right lung bases. No pleural
+effusions.
+Borderline size of the cardiac silhouette. No pulmonary edema.
+The nasogastric tube is in unchanged position.
+
+CTA ABD/PELVIS [**2162-1-10**]:
+1. Surgical clips within the gastric fundus from prior
+endoscopy. No signs of active GI bleeding.
+2. Left-sided non-obstructive nephrolithiasis with the largest
+calculus measuring 7 x 13 mm in the left renal pelvis.
+3. Multiple renal cysts
+4. Sigmoid redundancy and diverticulosis without signs of acute
+diverticulitis or active bleeding.
+5. Accessory right renal artery.
+6. Stable compression deformity of the L2 vertebral body causing
+moderate canal stenosis at this level.
+
+EGD [**2162-1-10**]:
+Diverticulum in the fundus
+Blood in the stomach
+Previously placed clips in the stomach
+There was no blood in the duodenum.
+Otherwise normal EGD to third part of the duodenum
+
+EGD [**2162-1-15**]:
+Impression: Some small amount of coffee ground was initially
+seen in the fundus. Three clips were seen in the fundus. A
+gastric diverticulum was noted in the fundus 7mm in diameter.
+Fresh red blood was noted halfway through the procedure. An area
+of active bleeding was seen in the cardia consistent with a
+dieulafoy lesion. 1cc of 1/[**Numeric Identifier 961**] epinephrine was injected in two
+quadrants for hemostasis prior to endoclip placement. (endoclip,
+injection)
+Otherwise normal EGD to third part of the duodenum
+
+CXR [**2162-1-11**]:
+As compared to the previous radiograph, the nasogastric tube has
+
+been removed. The lung volumes are slightly lower than on the
+previous image, with bilateral areas of basal atelectasis. There
+is minimal blunting of the right costophrenic sinus, so that the
+presence of a minimal pleural effusion cannot be excluded. No
+evidence of pneumonia. No pulmonary edema. Unchanged borderline
+size of the cardiac silhouette.
+
+TTE [**2162-1-12**]:
+The left atrium is elongated. The left ventricular cavity size
+is normal. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Doppler parameters are most consistent with Grade I (mild) left
+ventricular diastolic dysfunction. There is basal septal
+hypertrophy. There is a mild resting left ventricular outflow
+tract obstruction. Right ventricular chamber size and free wall
+motion are normal. The ascending aorta is mildly dilat

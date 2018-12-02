@@ -1,0 +1,225 @@
+Admission Date:  [**2137-8-16**]              Discharge Date:   [**2137-8-29**]
+
+
+Service: MEDICINE
+
+Allergies:
+Atenolol
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+Hypoxia
+
+Major Surgical or Invasive Procedure:
+endotracheal intubation
+tracheotomy tube placement
+placement of PEG (feeding) tube
+
+History of Present Illness:
+86 year old male with pmh of COPD, CAD, HTN, DMII who was
+feeling weak and having difficulty standing at the [**First Name4 (NamePattern1) 1188**]
+[**Last Name (NamePattern1) **] and was found to have an O2 sat of 46% on 2L NP, and only
+marginal improvement to 63% on 5L NP. He was placed on NRB and
+transported to [**Hospital1 18**]. Full vitals prior to transfer were T 98.4,
+BP 149/84, P121, RR22. Allergies atenolol and Tylenol #3.
+.
+In the [**Hospital1 18**] ED, he was able to state his name, though appeared
+distressed. He was moving all of his extremities. Intial vitals
+were: T: 100.5 BP 133/68, HR 114, Sat 100% on NRB with a RR in
+the 30s. His rectal temperature was 101 F. He was intubated and
+sedated on fentanyl and Versed. He had a CXR that showed
+multifocal pneumonia. He was given 1g tylenol, 750mg of IV
+levofloxacin and 750cc of NS. EKG showed, sinus tach at 111,
+LAD, NI, TWF in aVL, poor baseline. On transfer vitals: T 98.3
+HR 101 BP 110/61 Sat 98% on CMV mode, TV 500, FiO2 50%, RR 24
+and PEEP 5.
+.
+On transfer to the MICU, he is intubated and completely sedated.
+Not responding to commands.
+
+
+Past Medical History:
+(Per OMR)
+DM (DIABETES MELLITUS)
+LUNG DISEASE, CHRONIC OBSTRUCTIVE
+HYPERTENSION, ESSENTIAL
+LOW BACK PAIN
+FTT (Failure to Thrive) in Adult
+Hypotension
+BLINDNESS - LEGAL
+HISTORY CORNEA TRANSPLANT
+GLAUCOMA - PRIMARY OPEN ANGLE
+DEPRESSIVE DISORDER
+CANCER OF PROSTATE
+TUBERCULOSIS
+BRONCHIECTASIS
+CORONARY ARTERY DISEASE
+RECTAL BLEEDING
+
+
+Social History:
+Former truck driver, and prior worked in a defense factory.
+Currently residing in [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **]. HCP [**Name (NI) **] [**Name (NI) **], daughter
+[**Name (NI) 40477**] [**Name (NI) **]. Also, granddaughter in the area, involved in his
+care.
+- Tobacco: Quit smoking 20 years ago, smoked from 18 - 65; used
+to smoke 1PPD
+- Alcohol:  Heavy drinker while a smoker
+- Illicits:  Unknown
+
+
+Family History:
+DM in father and mother. [**Name (NI) **] cancers.
+
+Physical Exam:
+Admission Exam:
+Vitals: T: 98.5 BP: 119/63 P: 101 R: 20 O2: 100% on CMV, 500,
+50%, 14 and 5.
+General: Intubated, sedated not responding to commands
+HEENT: Sclera anicteric, Cataracts bilterally, non-responsive
+pupils (blind) mildly dry MM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Mechanical breath sounds with minimal wheezing. Rhonchi
+in the right upper lung zone
+CV: Normal rate Regular rate, II/VI holosystolic murmur
+obscuring S1 no rubs, gallops
+Abdomen: soft, mildly distended, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+GU: foley in place
+Ext: warm, + clubbing on right hand, missing 4 digits on left
+hand, chronic venous stasis changes on bilateral lower
+extremities, and multiple 1cm areas of ulceration, no edema
+Neuro: Non-responsive on sedation
+
+Discharge physical exam
+General Appearance: Thin
+Eyes / Conjunctiva: cataracts, nonresponsive pupils b/l
+Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+Peripheral Vascular: (Right radial pulse: Not assessed), (Left
+radial pulse: Not assessed), (Right DP pulse: Present), (Left DP
+pulse: Present)
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Crackles : , No(t) Rhonchorous: )
+Abdominal: Soft, Non-tender, Bowel sounds present, Peg site
+intact
+Musculoskeletal: Muscle wasting
+Skin:  Not assessed
+Neurologic: Responds to: Not assessed, Movement: Not assessed,
+Tone: Not assessed
+
+
+Pertinent Results:
+Admission Labs:
+[**2137-8-16**] 08:05AM BLOOD WBC-8.8# RBC-3.43* Hgb-9.9* Hct-29.2*
+MCV-85 MCH-28.9 MCHC-34.0 RDW-14.0 Plt Ct-217
+[**2137-8-16**] 08:05AM BLOOD Neuts-81.1* Lymphs-12.5* Monos-5.6
+Eos-0.4 Baso-0.4
+[**2137-8-16**] 08:05AM BLOOD PT-13.0 PTT-25.3 INR(PT)-1.1
+[**2137-8-16**] 08:05AM BLOOD Glucose-234* UreaN-19 Creat-1.1 Na-141
+K-4.9 Cl-103 HCO3-31 AnGap-12
+[**2137-8-16**] 08:05AM BLOOD proBNP-754
+[**2137-8-16**] 08:05AM BLOOD cTropnT-0.01
+[**2137-8-16**] 08:05AM BLOOD Triglyc-64
+[**2137-8-16**] 09:27AM BLOOD Type-ART Temp-38.6 Rates-/28 PEEP-5
+pO2-53* pCO2-67* pH-7.28* calTCO2-33* Base XS-2
+Intubat-INTUBATED Vent-CONTROLLED
+[**2137-8-16**] 08:12AM BLOOD Lactate-1.1
+.
+Discharge labs:
+[**2137-8-29**] 05:41AM BLOOD WBC-10.4 RBC-2.85* Hgb-8.2* Hct-24.7*
+MCV-87 MCH-28.6 MCHC-33.1 RDW-13.9 Plt Ct-462*
+[**2137-8-29**] 05:41AM BLOOD PT-14.0* PTT-26.7 INR(PT)-1.2*
+[**2137-8-29**] 05:41AM BLOOD Glucose-123* UreaN-20 Creat-1.0 Na-140
+K-3.9 Cl-102 HCO3-33* AnGap-9
+[**2137-8-29**] 05:41AM BLOOD Calcium-8.8 Phos-4.1 Mg-2.5
+[**2137-8-28**] 03:38AM BLOOD Vanco-15.3
+[**2137-8-29**] 06:08AM BLOOD Type-ART Temp-37.2 Rates-[**10-9**] Tidal
+V-500 PEEP-5 FiO2-40 pO2-97 pCO2-53* pH-7.43 calTCO2-36* Base
+XS-8 Intubat-INTUBATED Vent-CONTROLLED
+[**2137-8-26**] 02:01PM BLOOD Lactate-0.7 K-3.9
+[**2137-8-21**] 05:10PM OTHER BODY FLUID Polys-44* Lymphs-19* Monos-0
+Mesothe-17* Macro-20*
+.
+CXR [**2137-8-16**]
+1. Multifocal opacities with a more confluent opacity in the
+right upper lung field. These findings are worrisome for
+multifocal pneumonia.
+2. Bilateral small pleural effusions.
+3. Mild to moderate pulmonary edema.
+.
+Echo [**2137-8-16**]
+Normal biventricular cavity size with normal regional and low
+normal global left ventricular systolic function. Pulmonary
+artery hypertension. Mild-moderate mitral regurgitation. These
+findings are suggestive of a primary pulmonary process (OSA,
+COPD, etc.).
+.
+CT Chest [**2137-8-22**]
+1. Multifocal pneumonic consolidation predominantly involving
+the right upper lobe.
+2. Moderate loculated effusion along right minor fissure and
+minimal simple effusion bilaterally.
+3. Borderline enlarged mediastinal lymph nodes. Prominent right
+hilar
+appearance could be due to enlarged lymph node or from enlarged
+vessles,
+however defining a cause was limited due to lack to intravenous
+contrast
+administration.
+4. Bilateral pleural calcifications. Please correlate with
+clinical history for asbestos exposure. If a history is
+established, follow-up imaging surveillance is recommended.
+.
+Dishcarge Chest xray [**2137-8-29**]:
+In the interval from the prior examination, an endotracheal tube
+
+has been removed and tracheostomy has been placed in standard
+position.
+Right-sided PICC is unchanged with tip reaching the low SVC.
+There is no
+significant change in multifocal opacities, greatest at the
+right base. Trace pleural effusions may be present. No
+pneumothorax is seen. The
+cardiomediastinal silhouette is not significantly changed.
+.
+Microbiology:
+BAL
+RESPIRATORY CULTURE (Final [**2137-8-24**]):
+Commensal Respiratory Flora Absent.
+STAPH AUREUS COAG +.    ~[**2125**]/ML.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+
+
+
+
+
+Brief Hospital Course:
+86 year old male with a history of COPD, DMII, CAD and HTN who
+was admitted with respiratory failure and multifocal pneumonia.
+.
+# Respiratory failure: History of COPD, found to be hypoxic at
+[**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] to 46% on 2L. CXR showed multifocal pneumonia. He
+was given levofloxacin in the ED and was intubated. Febrile to
+101 rectally in the ED. Failed extubation due to respiratory
+fatigue, tachypnea, and worsening shortness of breath. He was
+re-intubated and underwent bronchocopy. BAL revealed MRSA. IP
+has was consu

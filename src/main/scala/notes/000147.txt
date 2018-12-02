@@ -1,0 +1,227 @@
+Admission Date:  [**2139-1-3**]              Discharge Date:   [**2139-1-8**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2698**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization with 2 stents placed
+
+History of Present Illness:
+81yo man with tobacco use with several weeks of stuttering self
+limited exertional and nonexertional ssCP with right shoulder
+pain increasing in frequency. Awoke this morning with acute
+worsening of same pain but persisted.  Presented to [**Hospital1 5979**] Hosp where ECG showed ST elevation v1-v4.  Given nitro
+with some improvement.  Transferred here for emergent cath where
+he had 90% discrete lesion mid-LAD, 90% discrete D-1, and 100%
+discrete LCx.  Mild pulm HTN with PCWP 15.  Got [**Hospital1 **] to LAD x1,
+D-1 x1, and LCx x1.  Procedure complicated by groin hematoma.
+Received BB, asa, plavix. Integrillin and heparin stopped for
+bleeding.
+
+Past Medical History:
+bipolar disorder
+
+Social History:
+lives with wife.  Former tobacco, quit 1 year ago.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+vs: 110/60, p40-50, 12, 98% 2liters n/c
+gen: well appearing, comfortable
+heent: eomi, perrla, no op erythema, no lad
+lungs: CTA b
+cv: s1/s2, rrr, no m/r/g, no carotid bruits
+abd: soft, nttp
+ext: groin hematoma left with pressure dsg, DP2+ bilat, warm and
+dry
+neuro: alert and orient x3
+
+
+Pertinent Results:
+[**2139-1-3**] 09:43AM   WBC-7.6 RBC-2.87* HGB-9.4* HCT-26.7* MCV-93
+MCH-32.8* MCHC-35.3* RDW-13.4
+[**2139-1-3**] 09:43AM   PLT COUNT-168
+[**2139-1-3**] 09:43AM   PT-13.9* PTT-92.4* INR(PT)-1.3
+[**2139-1-3**] 09:43AM   GLUCOSE-116* UREA N-23* CREAT-1.3* SODIUM-139
+POTASSIUM-3.6 CHLORIDE-111* TOTAL CO2-19* ANION GAP-13
+.
+[**2139-1-3**] 05:39PM BLOOD Lithium-0.9
+[**2139-1-6**] 06:44AM BLOOD Lithium-1.0
+.
+ecg: ST elevation v2, v3; resolved STE in v1 and v4.  q's v1-3.
+NSR with freqent PVCs, nml axis and conduction intervals
+.
+[**2139-1-3**] 05:39PM BLOOD CK(CPK)-917* CK-MB-88* MB Indx-9.6*
+cTropnT-9.70*
+[**2139-1-4**] 12:43AM BLOOD CK(CPK)-593* CK-MB-56* MB Indx-9.4*
+cTropnT-7.04*
+[**2139-1-4**] 05:53AM BLOOD CK(CPK)-460* CK-MB-39* MB Indx-8.5*
+cTropnT-6.18*
+.
+[**2139-1-3**] 09:43AM BLOOD %HbA1c-5.6 [Hgb]-DONE [A1c]-DONE
+[**2139-1-3**] 09:43AM BLOOD Triglyc-82 HDL-27 CHOL/HD-4.3 LDLcalc-72
+.
+CARDIAC CATHETERIZATION
+[**Numeric Identifier 111553**] - CCC *** PRELIMINARY ***
+PROCEDURE DATE: [**2139-1-3**]
+INDICATIONS FOR CATHETERIZATION:
+STEMI,
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Mild elevation of right and left filling pressures with
+preserved CI.
+3. Acute MI likely due to the mid LAD lesion with possible
+multivessel
+acute ischemia.
+4. Successful stenting of the mid LAD, Proximal D1 and mid CX.
+COMMENTS: 1. Selective coronary angiography in this right
+dominant
+patient revealed three vessel CAD. The LMCA was angiographically
+normal. The LAD had a 90% occlusion after D1 with slightly
+decreased
+flow distal to this lesion. The D1 had a ostial 60% lesion and
+proximal
+90% lesion. The LCX [**Male First Name (un) **] mid occlusion after OM1 with faint
+filling of
+distal vessel. The RCA had moderate disease with 70%
+posteroloateral
+branch and 60% mid PDA.
+2. Resting hemodynamics revealed mild elevation of right and
+left
+filling pressures with RA of 10 and PCWP of 15mmHG. The cardiac
+index
+was preserved at 2.56. There was very mild pulmonary
+hypertension.
+The systemic blood pressure was normal at 118/59. There were no
+arrhythmias during the case.
+3. Successful predilation using 2.0 X 08mm Voyager balloon and
+stenting
+using a 2.5 X 08mm Cypher stent of the mid LAD with lesion
+reduction
+from 90% to 0%.
+4. successful predilation using 2.0 X 08mm Voyager balloon and
+stenting
+using 2.5 X 08mm Cypher stent of the proximal D1 with lesion
+reduction
+from 90% to 0%.
+5. Successful predilation using 2.0 X 15mm sprinter balloon,
+stenting
+using 2.5 X 28mm Cypher stent and post dilation using 3.0 X 20mm
+Maverick balloon with lesion reuduction from 99% to 0%.
+>>> The final angiogram showd TIMI III flow in the left coronary
+system
+with no dissection or embolisation. (see PTCA comments)
+TECHNICAL FACTORS:
+Total time (Lidocaine to test complete) = 1 hour 35 minutes.
+Arterial time = 1 hour 30 minutes.
+Fluoro time = 37 minutes.
+Contrast:
+Non-ionic low osmolar (isovue, optiray...), vol 305 ml,
+Indications - Renal
+Premedications:
+ASA 325 mg P.O.
+Integrelin and heparin protocol
+Anesthesia:
+1% Lidocaine subq.
+Anticoagulation:
+Other medication:
+Heparin 4000 give prior to case
+Fentanyl 75 mcg IV
+Integrelin drip 7cc/hr
+Nitroglycerin 850mcg IC over multiple injections
+Versed 1.5mg
+Complications:
+Hematoma
+Cardiac Cath Supplies Used:
+- [**Doctor Last Name **], ASAHI PROWATER, 300
+- GUIDANT, WHISPER
+2 GUIDANT, VOYAGER 8
+2 [**Company **], SPRINTER, 6
+3.0 [**Company **], QUANTUM MAVERICK, 20
+6 CORDIS, XBLAD 3.5
+200CC MALLINCRODT, OPTIRAY 200CC
+100CC MALLINCRODT, OPTIRAY 100CC
+2.5 CORDIS, CYPHER OTW, 8
+2.5 CORDIS, CYPHER OTW, 8
+2.5 CORDIS, CYPHER RX, 28
+.
+STUDY: AP chest performed on [**2139-1-4**].
+FINDINGS: The cardiac silhouette and mediastinum is
+unremarkable. There is
+some mild prominence of interstitial markings without evidence
+for focal
+infiltrates, pleural effusions, or pulmonary edema. Bony
+structures are
+intact.
+IMPRESSION:
+No evidence for acute cardiopulmonary process.
+.
+Echo [**2139-1-6**]:
+1. The left ventricular cavity size is normal. Overall left
+ventricular systolic function is moderately depressed, EF 40%.
+Distal anterior, distal septal, and apical hypokinesis to
+akinesis is present.
+2. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen.
+
+Right groin u/s:([**2139-1-7**])
+In the right groin, there are findings consistent with a
+partially thrombosed pseudoaneurysm measuring approximately 22 x
+21 x 24 mm in maximum diameters originated from the common
+femoral artery, the width of the neck is 3 mm. The adjacent
+superficial femoral artery, superficial femoral vein and deep
+femoral vein are unremarkable.
+Multiple benign-appearing lymph nodes measure less than 17 mm
+are seen in the right groin.
+IMPRESSION: Partially thrombosed pseudoaneurysm as described
+originated from the common femoral artery.
+
+Right groin U/S: [**2139-1-8**]
+A pseudoaneurysm is present in the right inguinal region related
+to the common femoral artery which is mostly thrombosed. The
+overall size of the pseudoaneurysm is 2.8 x 0.8 cm with the size
+of the patent portion of the pseudoaneurysm measuring 0.9 x 0.4
+cm. The neck of the pseudoaneurysm is patent currently. The
+common femoral artery appears patent on these limited images. On
+comparison with the prior study, the area of flow within the
+right inguinal pseudoaneurysm appears to have decreased in the
+interval.
+Given the above findings, it is likely that this pseudoaneurysm
+will thrombose spontaneously and we consider that it does not
+require intervention (such as thrombin injection) at this time.
+A followup ultrasound in [**4-8**] days' time is recommended to
+confirm continued resolution of this pseudoaneurysm.
+
+
+Brief Hospital Course:
+Impression: 81 M with acute anterior STEMI s/p successful
+percutaneous revascularization.
+.
+a/p: 81yo man with h/o smoking transferred from OSH with STEMI,
+s/p PCI
+.
+Cards
+# Ischemia: 2 vessel disease.  s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (Prefixes) 10157**] to mid-LAD, D-1,
+and LCx.  Integrillin held for groin hematoma.  On BB, ASA,
+Plavix, and statin.  Cardiac enzymes trended down post-cath.
+Hct stable, s/p 1U transfusion of pRBC on [**1-3**].
+- continue medical mgmt
+# pump: no known history of congestive heart failure.
+- echo to assess LV function and EF post MI was performed.
+- beta blocker as above, held off on ACE-i initially for
+secondary elevated creatinine. Later on it was re-started with
+no change of his kidney funcion.
+- heparin gtt continued until patient had Echo to see if
+thrombus, decrased EF or apical hypokinesis.  Given apical
+hypokinesis, patient was started on Coumadin on [**2139-1-6**] to
+continue likely for 6 months.  He was bridged with Heparin given
+risk of clot 

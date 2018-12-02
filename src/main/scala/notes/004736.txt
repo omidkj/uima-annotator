@@ -1,0 +1,207 @@
+Admission Date:  [**2118-8-14**]              Discharge Date:   [**2118-8-17**]
+
+Date of Birth:  [**2064-7-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin,Porcine
+
+Attending:[**First Name3 (LF) 15397**]
+Chief Complaint:
+OSH transfer for respiratory failure
+
+Major Surgical or Invasive Procedure:
+mechanical intubation
+
+History of Present Illness:
+54-year-old male with history of COPD, obstructive sleep apnea
+(not on bipap), pulmonary embolism on warfarin who presents from
+OSH with respiratory failure.
+
+The patient was in his usual state of health on the day of
+presentation when he developed hypoxemia that was not responsive
+to walking or inhalers. He notes coughing a bit with some
+shortness of breath. He presented to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5678**] Hospital. There
+he was hypoxic, which by report was not responding to
+supplemental oxygenation. He was intubated and sedated. He was
+given IV antibiotics and lovenox. The CT scanner at the hospital
+was not working so he was transferred to [**Hospital1 18**] for further
+evaluation and management.
+
+Upon arrival, CT was done which was negative for PE or
+pneumonia. He did have bilateral atelectasis. ABG showed
+7.3/63/71. He was treated for COPD exacerbation with
+azithromycin, steroids and inhalers. He was extubated without
+difficult and was weaned down to room air with an oxygenation of
+88-92.
+
+Currently, he denies any other complaints other than his foley
+catheter placement. Specifically, he denies chest pain,
+shortness of breath, nausea, vomiting, cough, sputum production,
+abdominal pain, diarrhea or constipation, leg swelling,
+palpitations, or other symptoms.
+
+
+Past Medical History:
+COPD
+Schizophrenia
+obstructive sleep apnea
+PE - [**2117**], on warfarin
+HITT
+dysphagia
+hypertension
+hyperlipidemia
+hypothyroidism
+
+Social History:
+Lives in a group home Aimsburry Group Home. Smoking history -
+quit last fall, occassionally smokes, ~30+ pack year history. No
+EtOH. No illicits.
+
+Family History:
+HTN, CAD, HLD, CA- breast and uterine. No history of lung
+disease.
+
+
+
+Physical Exam:
+MICU CALL-OUT EXAM:
+Vitals: Afebrile, HR 77, BP 137/76, RR 16, SvO2 94% RA
+General: well appearing, comfortable, speaking in full sentances
+
+HEENT: Sclera anicteric
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops, distal heart sounds due to habitus
+Lungs: cleat to auscultation bilaterally, bibasilar crackles
+bilaterally, no wheezes.
+Abdomen: obese, non distended, non tender, soft, + BS
+Ext: Warm, well perfused, no edema
+Pulses: 2+ bilateral radial pulses
+
+DISCHARGE EXAM:
+Afebrile, BP 160/82, HR 83, RR 18, 96% on RA
+Speaking full sentances, appropriate
+RR, nl rate, no rubs, gallops or murmurs
+Lungs clear to auscultation, basilar crackles (likely
+atelectasis), no wheezes, I:E ratio normal
+Abdomen: obese, soft, nontender
+No peripheral edema, warm extremities
+
+Pertinent Results:
+[**2118-8-14**] 02:40AM BLOOD WBC-6.6 RBC-4.41* Hgb-13.3* Hct-41.2
+MCV-93 MCH-30.2 MCHC-32.4 RDW-15.5 Plt Ct-206
+[**2118-8-14**] 02:40AM BLOOD PT-19.7* PTT-57.9* INR(PT)-1.9*
+[**2118-8-15**] 04:51AM BLOOD Glucose-142* UreaN-21* Creat-0.9 Na-138
+K-4.4 Cl-101 HCO3-28 AnGap-13
+[**2118-8-15**] 04:51AM BLOOD Calcium-8.4 Phos-3.3 Mg-1.9
+[**2118-8-14**] 02:40AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2118-8-14**] 03:47AM BLOOD Type-ART Temp-36.8 Rates-18/ Tidal V-550
+PEEP-8 FiO2-60 pO2-71* pCO2-63* pH-7.33* calTCO2-35* Base XS-4
+-ASSIST/CON Intubat-INTUBATED
+[**2118-8-14**] 03:47AM BLOOD Lactate-1.6
+
+CTA chest: 1.  No acute aortic pathology or pulmonary embolism.
+Subsegmental bilateral atelectasis. No pneumonia. 2.
+Endotracheal tube ends in the mid trachea.  Nasogastric tube
+ends in the stomach. 3.  Possible tracheobronchomalacia. This
+could be further investigated with CT Trachea if clinically
+indicated when the patient's clinical status improves.
+
+EKG: Sinus rhythm. Poor R wave progression in leads V1-V4 of
+unclear significance, may be normal variant. Marginal criteria
+for old inferior myocardial infarction.
+
+Brief Hospital Course:
+54-year-old male with history of COPD, PE on warfarin,
+schizophrenia, hypothyroidism, obstructive sleep apnea who was
+an OSH transfer for respiratory failure caused by COPD
+exacerbation and obstructive sleep apnea.
+
+# Respiratory failure: The patient was intubated on admission
+with significant wheezing per the MICU exam. The CTA was
+negative for PE or pneumonia. The thought was that the patient
+most likely had an acute COPD exacerbation. He was treated with
+steroids, inhalers and azithromycin. He was extubated and weaned
+off of oxygen the day after admission. He maintained oxygenation
+and was breathing without difficulty or wheezes. We will treat
+him with a short course of steroids (5 days of prednisone total)
+and antibiotics. The antibiotics were changed from azithromycin
+to levofloxacin (due to UTI, see below). Given how rapid he
+improved, it is likely that another factor caused the lung
+symptoms. We think this is likely obstructive sleep apnea and
+possible obesity hypoventilation syndrome (see below).
+
+# Obstructive sleep apnea: He should be treated with BiPAP,
+which has been ordered by his pulmonologist. It is currently
+under review for [**Month/Day/Year **]. I contact[**Name (NI) **] [**Name (NI) **] to attempt
+to expedite the process but was unable to make it happen. Given
+that he had two nights where he was asymptomatic and maintained
+oxygenation (continuous O2 pleth) I think it is safe to
+discharge home temporarily without BiPAP. I do recommend that he
+sleeps at least at a 30-45 degree angle to minimize obstruction.
+
+# Urinary tract infection: The patient had a UA with 23 WBC. He
+had some urinary symptoms. It is unclear if this is related to
+his foley catheter or is not actually a urinary tract infection.
+We will treat him with levofloxacin at the above course.
+
+# Tachycardia: He had tachycardia which was thought to be due to
+albuterol, deconditioning and dehydration. He was hydrated with
+IV fluids with improvement in his tachycardia. He would have HR
+of 120s with ambulation and 70-80s at rest. He was asymptomatic.
+CTA was negative for PE.
+
+# Schizophrenia: He was continued on his home medications.
+
+# Prior PE: He was treated with coumadin. Due to him being on
+antibiotics his INR levels will need to be monitored closely. He
+should have his INR checked on Thursday [**2118-8-18**]. His dose was
+decreased to 3mg per day.
+
+# HTN: He was continued on his home medications.
+
+# Hypothyroid: continued on levothyroxine
+
+Full Code
+
+Transitional issues
+- Monitor INR on Thursday [**2118-8-18**] (goal INR [**3-18**]) - needs warfarin
+titration
+- Needs BiPAP when it is approved by Mass Health
+- follow up with primary care physician and pulmonologist
+
+The on call doctor for Dr. [**Last Name (STitle) **] was notified of discharge plan
+verbally.
+
+Medications on Admission:
+Abilify 20 mg Tab Oral 1 Tablet(s) Once Daily
+Klonopin 1 mg Tab Oral 1 Tablet(s) Twice Daily
+Risperdal 2 mg Tab Oral 3 Tablet(s) Once Daily, at bedtime
+Zyprexa 10 mg Tab Oral 1 Tablet(s) Once Daily am
+Zyprexa 10 mg Tab Oral 2 Tablet(s) Once Daily, at bedtime
+Ativan 1 mg Tab Oral 1 Tablet(s) Every 2 hours , as needed
+One Daily Multivitamin Tab Oral 1 Tablet(s) Once Daily
+Combivent 18 mcg-103 mcg/actuation Aerosol Inhaler Inhalation 2
+Aerosol(s) Every 4-6 hrs, as needed
+Coumadin 5 mg Tab Oral 1 Tablet(s) Once Daily
+Zocor 20 mg Tab Oral 1 Tablet(s) Once Daily, at bedtime
+Nizoral 2 % Shampoo Topical 1 Shampoo(s) Twice a week
+Synthroid 25 mcg Tab Oral 1 Tablet(s) Once Daily
+Tylenol 325 mg Tab Oral 2 Tablet(s) Every 4-6 hrs, as needed
+Senokot To Go 8.6 mg Tab Oral 1 Tablet(s) Twice Daily
+prednisone -- Unknown Strength Unknown sig
+lisinopril 20 mg Tab Oral 1 Tablet(s) Once Daily
+
+Discharge Medications:
+1. levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 6 days.
+Disp:*6 Tablet(s)* Refills:*0*
+2. prednisone 20 mg Tablet Sig: Two (2) Tablet PO once a day for
+3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+3. Outpatient Lab Work
+The patient will need to have his INR checked on Thursday [**8-18**]
+and sent to his primary care physician for titration of
+warfa

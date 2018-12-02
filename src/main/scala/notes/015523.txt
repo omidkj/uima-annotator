@@ -1,0 +1,212 @@
+Admission Date:  [**2180-3-3**]              Discharge Date:   [**2180-3-5**]
+
+Date of Birth:  [**2100-7-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3705**]
+Chief Complaint:
+hemoptysis
+
+Major Surgical or Invasive Procedure:
+bronchoscopy
+
+
+History of Present Illness:
+79 Chinese-speaking woman with PMH of HTN, tuberculosis about 50
+years ago, hx of hemoptysis in [**2177**] and [**2178**], who presents with
+1 day of hemoptysis.  Patient was in her usual state of good
+health when she started coughing and brought up what she
+estimates is 2 teaspoons of blood mixed with mucous.  She has
+4-5 episodes of hemoptysis accompanied by a sensation of "itchy
+throat" over ~ 6 hours and called her daughter who brought her
+in to the [**Name (NI) **].
+.
+From Pulmonary note [**2179-2-12**]:
+"Patient first presented with respiratory complaints in
+the fall of [**2176**]. At the time she had a cough and an abnormal
+chest x-ray. In [**2177-7-30**] a chest CT revealed multiple
+small bilateral nodules some of which were calcified consistent
+with old granulomatous infection and a prominent pulmonary
+artery. She underwent PFTs which showed normal FEV1, total lung
+capacity, and DLCO. A followup chest CT one year later in
+[**2178-9-29**] revealed stable nodules but a segment of the
+right upper lobe bronchus was dilated. Followup CT in [**Month (only) 956**]
+of
+[**2178**] revealed segmental right upper lobe occlusion, question
+extrinsic compression from calcified lymph node versus
+endobronchial lesion, bronchoscopy recommended."
+.
+The bronch was performed at [**Hospital1 18**] by DFK with normal airways, no
+evidence of scarring or obstruction.
+.
+Patient currently denies chronic cough, fever, SOB, night
+sweats, or wt loss.
+.
+In the ED, patient had a CXR which was clear and a CTA which was
+negative for PE.  IP was consulted and asked that patient be
+admitted to the MICU for bronchoscopy.
+
+Past Medical History:
+Hx of tuberculosis ~ 50 years ago, ?treated
+HTN
+cardiolmegaly
+syncope
+
+Social History:
+Born and raised in [**Country 5142**] but came to the U.S. in [**2163**]. She was
+a homemaker her whole life and has 5 children. She is a lifelong
+nonsmoker and does not drink alcohol. She has excellent exercise
+tolerance and is able to climb stairs, and walk distances, clean
+the house with no complaints. She has no pets, birds, or other
+occupational exposures.  She lives with her daughter.
+
+
+Family History:
+NC
+
+Physical Exam:
+VS: T: 97.1  BP: 131/51 HR: 69 O2 sat: 100%
+GEN: elderly woman lying in bed, NAD
+HEENT: MMM, OP clear, PERRLA, neck supple
+CV: RRR, 2/6 systolic murmur loudest at LUSB
+PULM: CTAB except for faint crackles at RU lung field
+ABD: soft, non-tender, non-distended, + BS
+EXT: no edema, + 2 DP pulses
+NEURO: alert, oriented
+
+
+Pertinent Results:
+CXR: IMPRESSION:  No acute cardiopulmonary process.
+.
+PFT's ([**2179-2-12**]):
+Pulmonary Report SPIROMETRY Study Date of [**2179-2-12**]  10:59 AM
+SPIROMETRY 10:59 AM Pre drug Post drug
+      Actual Pred %Pred Actual %Pred %chg
+FVC   1.73 2.01 86
+FEV1  1.46 1.32 111
+MMF   1.82 1.72 106
+FEV1/FVC   85 66 129
+Dx: Dyspnea, Cough. Medications unavailable. Good pt effort and
+test
+quality.
+Mechanics: The FVC and FEV1 are within normal limits while the
+FEV1/FVC ratio is elevated.
+Flow-Volume Loop: Normal expiratory contour.
+Impression: Spirometry is within normal limits. Since [**2177-8-28**],
+there is no significant change.
+.
+BRONCHOSCOPY:
+DESCRIPTION OF PROCEDURE:  The airway was anesthetized with
+aerosolized 1% lidocaine.  The patient was then given
+conscious sedation with Versed 2 mg and Fantanyl 100 mg and
+bronchoscope was passed orally into the trachea where there
+was normal trachea.  Sharp carina.  Airways were patent in
+the right upper lobe, right middle lobe and right lower lobe
+to subsegments.  Airways were patent in the left upper lobe,
+lingula and left lower lobe subsegments.
+
+IMPRESSION:  Normal airways, no evidence of scarring or
+obstruction.
+.
+[**3-3**]: CTA:
+IMPRESSION:
+1) No pulmonary embolism.
+2) No interval change in the segmental tree-in-[**Male First Name (un) 239**] opacities in
+the posterior aspect of the right upper lobe distal to the
+calcified endobronchial lesion.
+3) Multiple small pulmonary nodules, please see prior CT report
+of [**2180-2-3**] for description and recommendations.
+4) Calcified mediastinal lymphadenopathy consistent with chronic
+granulomatous disease.
+5) Stable aneurysm of the aortic arch.
+
+
+Brief Hospital Course:
+A/P: 79 Chinese-speaking woman with PMH of HTN, tuberculosis
+about 50 years ago, who presents with 1 day of hemoptysis
+.
+# hemoptysis: Patient has had hemoptysis before in [**2177**] and
+[**2178**], has been extensively worked up for TB.  Given that she is
+otherwise healthy seems unlikely to be active TB.  We sent
+sputum and gram stain was negative for acid-fast bacilli.  Given
+the tree-and-[**Male First Name (un) 239**] appearance adjacent to the stable lung nodule,
+suspected that the hemoptysis is from bronchiolitis.  IP was
+consulted and on bronch found fresh blood in the R posterior
+upper segment which is likely from a bleeding bronchial artery.
+Given the risk of infarction of the brain or spine with
+embolization, IP opted to observe patient.  Patient had [**11-30**]
+episodes of minimal hemoptysis after the bronch, with stable
+HCT.  Patient was called out to the floor for further
+observation.
+- IP following: felt that BAL negative for AFB was enough to
+rule out for TB. as long as hemoptysis slowed overnight which it
+did,  she is stable for D/c home and follow up in pulmonary
+clinic with Dr [**Last Name (STitle) **].
+- QD HCT stable.
+.
+# HTN: cont cozaar
+.
+# osteoporosis: cont calcium
+.
+#FEN: regular
+.
+#ACCESS: PIV
+.
+#PPX: PPI, ambulate, bowel meds PRN
+.
+COMMUNICATION: patient, daughter
+
+
+Medications on Admission:
+ASA 81 mg
+Cozaar
+Fosamax
+Calcium
+meclizine PRN
+
+Discharge Medications:
+1. Losartan 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+hemoptysis
+bronchiolitis
+pulmonary bleeding
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Take your usual home medications.  We have not started or
+stopped any medications.
+
+You had a bronchoscopy to look at your airways.  It showed some
+blood in your lung which is probably from a bronchial artery.
+While it is possible to stop the bleeding by treating this
+artery, there is some associated risk.  Your physicians have
+decided that the risks from the procedure are currently higher
+than the risk from your bleeding.  Be sure to return to the
+emergency department immediately if you have any further
+bleeding, or any other concerning symptoms.
+
+Followup Instructions:
+1. Follow up with your primary care doctor in [**11-30**] weeks.
+
+2. Provider: [**Name10 (NameIs) **] LAB TESTING Phone:[**Telephone/Fax (1) 128**]
+Date/Time:[**2180-3-22**] 1:00
+
+3. Follow up with Dr [**Last Name (STitle) **], pulmonologist, by calling
+[**Telephone/Fax (1) 612**].
+
+
+

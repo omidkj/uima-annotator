@@ -1,0 +1,202 @@
+Admission Date:  [**2120-11-25**]              Discharge Date:   [**2120-12-19**]
+
+Date of Birth:  [**2068-12-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Iodine Containing Agents Classifier / Codeine
+
+Attending:[**First Name3 (LF) 2745**]
+Chief Complaint:
+lethargy and hypertension
+
+Major Surgical or Invasive Procedure:
+TEE [**2120-11-29**]
+
+
+History of Present Illness:
+The patient is a 51 year old woman with history of asthma,
+hypertension, chronic knee/back pain on chronic narcotics who
+was admitted to an OSH 6 days ago with lethargy. She was found
+by her son as minimally arousable on [**2120-11-19**]. The son called
+EMS the following day after being asked to do so by her husband
+who lives in [**Name (NI) 3844**]. The patient was admitted to the OSH
+for evaluation of the lethargy that was presumably due to the
+narcotics. Urine tox + for benzos and barbituates. Her mental
+status improved with administration of Narcan both by EMS and by
+the ED physicians. Subsequent to that she was notably
+hypertensive that was attributed to clonidine withdrawal. A head
+CT was done to further evaluated her mental status which showed
+old infarct as well as subacute infarcts. The patient had been
+hypokalemic at the OSH with low of 2.6. A psychiatry consult
+evaluated her and placed her on a Section 12 given the concern
+for an intentional overdose. It was the opinion of the
+consulting psychiatrist that she would likely benefit from an
+inpatient psychiatry stay once medically stabilized. She was
+transferred to [**Hospital1 18**] for further management. Prior to transfer
+her blood pressure was 140/82 after receiving oral and topical
+medications.
+.
+The patient states that she took too many of her pills because
+she "just felt like it." She denies wanting to hurt herself or
+kill herself. She denies worsening feelings of depression.
+.
+ROS: no headache. no chest pain. no shortness of breath. cough
+produtive of green or white sputum. no blood in sputum. no
+nausea or vomiting. no pain with urinating.
+
+Past Medical History:
+asthma
+hypertension
+chronic knee/back pain
+COPD
+depression
+migraine
+s/p open cholecystectomy
+
+
+Social History:
+Lives in MA with her son; husband lives in [**Name (NI) 3844**]. per
+report cannot leave MA due to multiple arrest warrants. per
+report has history of kleptomania. one son killed ~2 year ago by
+a train. She had a recent medical hospitalization [**8-3**] because
+she had an overdose on diet pills. This was two prior to
+hospitalization when she took an overdose of over-the-counter
+diet pills. Long history of self-injury (cutting, cigarrette
+burns which per recent neurology note she connects this behavior
+with a history of trauma where she was raped twice as an adult
+woman (approx 10yrs ago). [**Name (NI) 1094**] mother died this past [**Name (NI) **]
+[**2119**].
+
+
+Family History:
+brother with schizophrenia
+
+Physical Exam:
+Vitals: 99.4 74 174/82 29 97%
+Gen: fatigued. obese woman in NAD
+HEENT: NGT in place. pupils 4->2mm bilat. EOMI. no jaundice. no
+pallor. MMM. crowded oropharynx
+Neck: supple. no pain with flexion. carotid ausculation obscured
+by breath sounds
+Chest: clear anteriorly and laterally w/o I:E prolongaton.
+CV: RRR no m/r/g
+Abd: obese. well healed RUQ surgical scar. soft. NT. active
+bowel sounds.
+Ext: trace LE edema
+Skin: no rash
+Neuro:
+-MS: awake. answers questions appropriately. oriented to self,
+[**Hospital3 **], New Years
+-CN: II-XII. visual fields
+-Motor: moving all 4. hand grip strong bilat. plantar felx
+-DTR: trace at patellars. toes downgoing
+-[**Last Name (un) **]: light touch intact to face/hands/feet
+
+
+Pertinent Results:
+CBC                   WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2120-12-3**] 05:38AM    8.4 4.38 13.5 38.2 87 30.9 35.4* 15.8*
+331
+[**2120-11-25**] 08:32PM    11.0 4.15* 12.8 36.9 89 30.9 34.8 16.8*
+319
+.
+RENAL & GLUCOSE       Glucose UreaN   Creat Na   K  Cl HCO3
+[**2120-12-3**] 05:38AM    144*      18     0.6 139 4.0 100 27
+[**2120-11-25**] 08:32PM    129*      14     0.5 138 3.8 102 25
+.
+ENZYMES & BILIRUBIN    ALT AST LD(LDH)  AlkPhos  TotBili
+[**2120-11-25**] 08:32PM    14  12  197         80      0.6
+.
+DIABETES MONITORING   %HbA1c
+[**2120-12-5**] 06:55AM    6.1*1
+.
+LIPID/CHOLESTEROL    Cholest Triglyc HDL CHOL/HD LDLcalc
+[**2120-11-26**] 04:42AM    175    187*    29   6.0    109
+.
+MRA Brain & Neck w/o contrast [**2120-11-26**]
+1. Slow diffusion involving the [**Doctor Last Name 352**] matter of the right insula
+and the adjacent right temporal lobe. This finding likely
+represents acute or subacute infarcts. However, if there is
+concern for an infectious process, this may represent
+cerebritis.
+2. Old infarcts of the right parietal and occipital lobes which
+are new
+ compared to [**2120-2-12**].
+3. Abrupt cutoff of the M1 segment of the right middle cerebral
+artery. The acuity of this finding is uncertain.
+4. Diffusely decreased T1 signal of the bone marrow which may
+represent marrow reconversion but an infiltrative process cannot
+be excluded.
+.
+Carotid doppler series [**2120-11-27**]
+- Normal study
+.
+Echocardiogram [**2120-11-29**]
+Complex and calcified atheroma in the aortic arch. No thrombus
+identified in the left atrium or ventricle. No evidence of PFO
+or ASD.
+
+Brief Hospital Course:
+ASSESSEMENT/PLAN: 51 year old woman with chronic pain, COPD,
+depression, cluster B disorders p/w lethargy in setting of
+methadone overdose, complicated by hypertension, found to have
+subacute CVA.
+.
+# CVA: Pt noted to have subacute stroke on imaging involving the
+right insula and adjacent R temporal lobe with clinical evidence
+of L facial droop, L pronator driift and distal UE weakness. She
+was followed closely by the neurology service, concern for an
+embolic stroke. TTE & carotid ultrasound were unremarkable. TEE
+showed complex atheroma in aortic arch and pt was continued on
+aspirin 325mg daily, which she had not been in the past -
+neurology held off on coumadin due to high risk for bleeding.
+She has also been started on Lipitor. CTA was not performed due
+to her dye allergy with anaphylaxis. PT& OT eval for
+rehabilitation. Speech improved and per swallow examination
+increased pt to ground solid food & thin liquids. She should be
+re-evaluated and her diet advanced. Pt is scheduled to follow up
+with Dr.[**First Name8 (NamePattern2) 2530**] [**Name (STitle) **] in neurology for followup.
+.
+# Hypertension: Pt with labile HTN during hospitalization, was
+only on single [**Doctor Last Name 360**] Nifedipine at home. She was started on
+Labetolol, captopril & clonidine to control SBP <140, clonidine
+was stopped. BP currently well controlled on 3 agents,
+labetalol, nifedipine and lisinopril with SBP ranging 120-140's.
+.
+# SI/depression: On admission, pt was actively suicidal in the
+ICU and psychiatry was consulted. s/p overdose with narcotics,
+benzos. Althought Section 12 on admission, requiring 1:1 sitter,
+prior to discharge reevaluation revealed no SI. She was
+restarted on celexa 20mg qhs. Psych felt that she did not
+warrant inpatient therapy and recommended outpatient psych
+followup with Dr.[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1681**].
+.
+# Diabetes: Newly diagnosed during admission based on FSG during
+hospitalization. FSG were well controlled on glyburide 2.5mg po
+daily.
+.
+# Chronic pain: Although pt was chronically on methadone and
+benzo's for multiple pains including back and knees, she has not
+been on any narcotic regimen during admission. She was provided
+tylenol, ultram for occasional pains, fiorcet for headache
+control.
+.
+# UTI: per urine culture. Completed 7 day course of
+ciprofloxacin.
+.
+# R submandibular lymph node: Present; Per pt, recurrent &
+painful but currently without any pain; has been evaluated in
+the past. Would recommend outpatient f/u, no acute issue.
+.
+# Asthma: Continued pt on Advair. Albuterol & atrovent PRN
+.
+Pt has reached maximal hospital benefit and is being discharged
+home with 24hr supervision as well as multiple home services
+including PT, social work and nursing. She is to follow up with
+PCP as well as Dr.[**First Name8 (NamePattern2) 2530**] [**Name (STitle) **] in Neurology.
+
+Medications on Admission:
+Home Medications (per OMR):
+ADVAIR DISKUS 500-50MCG 

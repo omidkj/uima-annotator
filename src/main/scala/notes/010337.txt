@@ -1,0 +1,222 @@
+Admission Date:  [**2166-11-25**]              Discharge Date:   [**2166-12-17**]
+
+Date of Birth:  [**2087-4-9**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Cephalosporins
+
+Attending:[**First Name3 (LF) 8487**]
+Chief Complaint:
+knee pain, fever
+
+Major Surgical or Invasive Procedure:
+Incision and drainage of left septic knee on [**2166-11-26**].
+
+History of Present Illness:
+Ms. [**Known lastname **] is a 79 yo female with a history of CAD and CHF with
+EF of 20%, CKD who presents wtih left knee pain.
+.
+Patient was recently admitted [**Date range (1) 40856**] with MSSA sepsis with
+unknown source. TEE was negative for vegetations, but since she
+has a pacemaker she was treated with 6 weeks of oxacillin. She
+was discharged to [**Hospital 599**] rehab but readmitted [**10-20**] with fevers.
+Blood cultures were negative. PICC line was changed and did not
+grow any bacteria. TEE showed fibrinous material on the pacer
+lead, but this was not felt to be the cause of the fevers. CT
+showed pleural effusion but this was thought to be due to CHF
+and not infection. There was some thought that the fevers were
+due to beta lactam allergy. The patient was treated with
+vancomycin for two weeks.
+.
+Patient reports that four days prior to admission she began to
+participate in physical therapy and two days prior to admission
+she began to note left knee pain. This has been progressing over
+the past day. On the day of admission she developed a
+temperature of 99.2 and shaking chills. ESR was 79 and a
+portable X ray showed mild arthritis. She was sent to the ED for
+evaluation.
+.
+In the ED she was afebrile. Knee was visibly swollen,
+erythematous and warm. Arthrocentesis was performed which
+yielded 10 cc of yellow fluid. LDH 1167, glucose 63, wbc [**Numeric Identifier 40857**]
+rbc 1250, 78 PMN. Gram stain: 4+ pmn, 1+ Gram positive cocci.
+culture pending.
+.
+She received tylenol, vancomycin one gram, ceftriaxone one gram
+and 3 [**Location **].
+.
+Upon admission to the floor patient was without any localizing
+symptoms.
+
+Past Medical History:
+1. Coronary artery disease; s/p CABG X4 [**2161**]; s/p PCA with stent
+
+to D1
+- [**1-9**] ETT: 8.75 min [**Doctor Last Name 4001**] protocol (~5.5 METS). LV
+dysfunction in the absence of angina or ischemic EKG
+2. CHF- EF 20%
+[**2166-9-22**] Echo : [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3841**] dilated, RA moderately dilated, severe
+
+global LV hypoK, RV sys fxn borderline normal, trace AR, 3+ MR,
+
+3+ TR, no mass/vegetation visualized.
+3. HTN
+4. Hypercholesterolemia -- 5. DM2- c/b nephropathy and
+retinopathy - [**2166-9-19**] HgbA1C 6.1%
+6. H/o AF w/ RVR in post-op period; s/p cardioversion
+7. Anemia: HCT 28-31
+- iron studies [**2-6**] low iron, TIBC/ferritin nl
+- [**9-10**] vit B12/folate wnl
+8. Chronic renal insufficiency: baseline Cr 1.4-1.6
+9. GERD
+10. s/p CCY
+11. s/p hernia repair.
+12. History of E alloantibody with hemolytic reaction to blood
+transfusions requiring E negative blood.
+13. s/p AICD
+14. Afib
+
+
+Social History:
+Lives at [**Hospital1 599**] [**Location (un) 16007**]
+Quit smoking 40 years ago
+EtOH: occasional
+Daughter is involved with pt's care
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+VS- 99.4 68 130/60 23 93% ra
+[**Name (NI) **] Pt. lying supine with eyes closed at 30 degrees HOB, NAD
+HEENT- PERRL, EOMI, anicteric, MMM, OP clear, white film on
+tongue removable by patient with teeth
+NECK- no [**Doctor First Name **], supple, non tender, JVP 12cm.
+CV- Irregular, +s1/s2, no s3/s4, II/VII late diastolic murmur at
+RUSB and III/VI SEM at LLSB.
+LUNGS- Decreased BS at left base, otherwise clear.
+ABD- Soft,+BS, NT/ND/NR, mild bruising over abd with
+hyperpigementation over lower abdomen, no flank tenderness,
+no mass, no pulsation
+EXT- Left knee with swelling, mild erythema, significnat warmth,
+pain with active and passive ROM, evidence of effusion.
+Sensation intact. 2+ DP pulses bilaterlly. 1+ pitting edema left
+leg, trace edema right leg
+NEURO- A&Ox2 (not date)
+
+
+Pertinent Results:
+.
+HEME
+.
+[**2166-11-25**] 03:30PM BLOOD WBC-7.1 RBC-2.59* Hgb-9.0* Hct-26.6*
+MCV-103* MCH-34.6* MCHC-33.7 RDW-18.5* Plt Ct-113*
+[**2166-11-26**] 06:05AM BLOOD WBC-8.8 RBC-2.48* Hgb-8.4* Hct-25.4*
+MCV-103* MCH-33.8* MCHC-32.9 RDW-18.2* Plt Ct-100*
+[**2166-11-28**] 06:45AM BLOOD WBC-7.2 RBC-3.44*# Hgb-11.1*# Hct-33.7*
+MCV-98 MCH-32.3* MCHC-33.0 RDW-20.8* Plt Ct-83*
+[**2166-11-28**] 06:45AM BLOOD Neuts-64.6 Bands-0 Lymphs-27.1 Monos-3.9
+Eos-3.8 Baso-0.6
+[**2166-11-28**] 06:45AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+
+Macrocy-2+ Microcy-NORMAL Polychr-NORMAL Ovalocy-OCCASIONAL
+Target-OCCASIONAL Burr-OCCASIONAL
+.
+CHEM
+.
+[**2166-11-25**] 03:30PM BLOOD Glucose-144* UreaN-40* Creat-1.7* Na-135
+K-5.2* Cl-102 HCO3-23 AnGap-15
+[**2166-11-26**] 06:05AM BLOOD Glucose-190* UreaN-41* Creat-1.8* Na-134
+K-5.2* Cl-103 HCO3-22 AnGap-14
+[**2166-11-28**] 06:45AM BLOOD Glucose-117* UreaN-40* Creat-1.7* Na-136
+K-5.3* Cl-104 HCO3-19* AnGap-18
+.
+LFT
+.
+[**2166-11-27**] 05:35AM BLOOD ALT-14 AST-18 LD(LDH)-382* AlkPhos-127*
+TotBili-0.7
+.
+LYTES / IRON / CRP / TSH
+.
+[**2166-11-28**] 06:45AM BLOOD Calcium-8.6 Phos-3.1 Mg-2.1
+[**2166-11-27**] 05:35AM BLOOD calTIBC-156* VitB12-607 Folate-12.8
+Hapto-205* Ferritn-1702* TRF-120*
+[**2166-11-27**] 05:35AM BLOOD TSH-7.5*
+[**2166-11-26**] 06:05AM BLOOD CRP-230.1*
+.
+CXR
+.
+UPRIGHT AP CHEST: A pacemaker ICD device overlies the left
+chest, with leads overlying the right atrium and right
+ventricle. The patient is post-median sternotomy. There is
+unchanged cardiomegaly. Mediastinal and hilar contours are
+normal. Since the prior exam, there is no significant change in
+the amount of interstitial pulmonary edema. The right pleural
+effusion may be slightly enlarged. There is a small left
+effusion, unchanged.
+
+IMPRESSION: Unchanged degree of congestive failure.
+.
+KNEE XRAY
+.
+LEFT KNEE, TWO VIEWS: There is normal mineralization of the
+depicted osseous structures. Osteophytes are seen along the
+medial tibial plateau as well as the superior aspect of the
+patella. There are no definite cortical erosions. Surgical clips
+are seen in the medial aspects of the calf.
+
+IMPRESSION: No definite evidence for osteomyelitis. Please note
+that bone scan or MRI is more sensitive for this diagnosis.
+
+.
+TTE
+.
+Conclusions:
+1. The left atrium is moderately dilated. The right atrium is
+markedly
+dilated.
+2. The left ventricular cavity size is normal. There is severe
+global left
+ventricular hypokinesis. Overall left ventricular systolic
+function is
+severely depressed.
+3. The right ventricular cavity is dilated. Right ventricular
+systolic
+function appears depressed.
+4. The aortic valve leaflets (3) are mildly thickened. No aortic
+regurgitation
+is seen.
+.
+the rest is per OMR...
+
+Brief Hospital Course:
+79 year old woman with history of CAD and CHF, recent MSSA
+sepsis s/p 6 weeks IV antibiotics presents with septic
+arthritis, anemia, thrombocytopenia.  She was treated with IV
+vancomycin, had I&D of left knee and washout.  During the MICU
+course, patient was grossly volume overloaded to her
+resuscitation for sepsis.  Volume management ws attempted with
+natrecor drip and other means of diuresis as it was primarily
+due to CHF.  No HD was offered as patient as there was no
+clinical indication.  Patient was DNR/DNI and she was not
+intubated.  As her respiratory status worsened, family meeting
+was held and it was decided to make the patient CMO.  She
+expired on [**2166-12-17**].
+.
+RESPIRATORY:
+Distress: Most likely due to fluid overload for CHF EF 15-20%
+with 2+MR, she had minimal diuresis on floor and was given IVF
+for her worsening renal failure. Patient on CXR also had
+evidence of conolidation/atelctasis on RLL and possible RUL
+septic emboli which could be source of resp symptoms. Pacer rate
+adjusted by EP and increased to 70. Patient intially improved
+with afterload reduction with hydralazine along with improved
+diuresis. Patient continued to be in worsening respiratory
+dispress requiring prn BiPap despite natrecor drip started with
+cardiology consulting service. On [**12-14**] after family meeting it
+was agreed to move towards DNR/DNI care.  Patient was
+subsequently made CMO and expired on [**2166-12-17**].
+.
+ID: She had a recent bacter

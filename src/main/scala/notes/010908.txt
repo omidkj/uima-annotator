@@ -1,0 +1,253 @@
+Admission Date:  [**2118-9-19**]              Discharge Date:   [**2118-10-4**]
+
+Date of Birth:  [**2041-8-20**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2597**]
+Chief Complaint:
+Ischemic left foot with gangrene of toes
+
+Major Surgical or Invasive Procedure:
+1. Ultrasound-guided imaging, antegrade third order
+arteriography with unilateral extremity runoff, incomplete
+unsuccessful procedure, corresponding to CPT codes [**Numeric Identifier 23286**],
+[**Numeric Identifier 4237**], [**Numeric Identifier 8881**] with a modifier of 53-W851
+
+2. Left below-knee popliteal to distal posterior
+tibial artery bypass with non reversed saphenous vein.
+
+3. Amputation of left second and third toes with
+debridement.
+
+
+History of Present Illness:
+This is a 77-year-old male that was referred
+with dry gangrene of the left second and third toes. The
+patient had undergone an attempted intervention at an outside
+hospital through his right groin. The patient has no palpable
+pulses below the popliteal. Of note, the patient has an
+ejection fraction of only 10% and is a significant cardiac
+risk of both open as well as endovascular interventions.
+
+
+Past Medical History:
+PMH: Parkinson's, severe cardiomyopathy, CAD, critical aortic
+stenosis, MR, CHF, sick sinus syndrome, paroxysmal afib/flutter
+s/p AV node ablation/pacer/defib, Crohn's, 2.5 cm AAA,
+gallstones, BPH, prior SBO, L hip fracture, HTN
+PSH: pacer/defib insertion, R ing hernia, R/L rotator cuff, appy
+
+
+
+Social History:
+non smoker
+non drinker
+
+Family History:
+n/c
+
+Physical Exam:
+a/o x 3
+elederly male, frail
+supple
+farom
+neg lymphandopathy
+cta
+irreg / irreg
+abd benign
+
+Pulses: Fem [**Doctor Last Name **] DP PT
+Rt 2+ 1+ - mono
+Lt 2+ 1+ - mono
+
+surgical inc c/d/i
+
+2nd toe amp site / open / c/d/i / good granulatipon
+
+open woound on the medial aspect of the left foot
+somewhat soupy Aquacel Ag being applied / not infected
+
+
+Pertinent Results:
+[**2118-10-2**] 07:10AM BLOOD
+
+WBC-10.3 RBC-4.35* Hgb-13.1* Hct-40.6 MCV-93 MCH-30.1 MCHC-32.3
+RDW-16.8* Plt Ct-468*
+
+[**2118-10-4**] 06:00AM BLOOD
+
+PT-36.1* INR(PT)-4.0*
+
+[**2118-10-4**] 06:00AM BLOOD
+
+Glucose-115* UreaN-20 Creat-0.8 Na-142 K-3.6 Cl-102 HCO3-31
+AnGap-13
+
+[**2118-10-4**] 06:00AM BLOOD
+
+Calcium-9.1 Phos-3.2 Mg-2.2
+[**2118-9-20**] 05:13PM
+
+URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.015
+URINE Blood-SM Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG
+Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+URINE RBC-0-2 WBC-0-2 Bacteri-FEW Yeast-NONE Epi-0-2
+URINE CastHy-0-2
+
+[**2118-9-27**] 1:55 pm SWAB      LEFT 2ND TOE OPEN AMP STUMP.
+
+GRAM STAIN (Final [**2118-9-27**]):
+NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+NO MICROORGANISMS SEEN.
+
+WOUND CULTURE (Final [**2118-10-2**]):
+
+PROTEUS MIRABILIS.    SPARSE GROWTH.
+STAPH AUREUS COAG +
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |          STAPH AUREUS COAG +
+                             |          |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------     8 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+CIPROFLOXACIN---------     1 S      =>8 R
+CLINDAMYCIN-----------              =>8 R
+ERYTHROMYCIN----------              =>8 R
+GENTAMICIN------------   <=1 S    <=0.5 S
+LEVOFLOXACIN----------              =>8 R
+MEROPENEM-------------<=0.25 S
+OXACILLIN-------------              =>4 R
+PENICILLIN------------            =>0.5 R
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+RIFAMPIN--------------            <=0.5 S
+TETRACYCLINE----------             =>16 R
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----            <=0.5 S
+VANCOMYCIN------------              <=1 S
+
+Cardiology Report ECHO Study Date of [**2118-9-23**]
+
+
+MEASUREMENTS:
+Left Ventricle - Septal Wall Thickness: 1.0 cm (nl 0.6 - 1.1 cm)
+
+Left Ventricle - Inferolateral Thickness: 1.0 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: *8.3 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 7.5 cm
+Left Ventricle - Fractional Shortening: *0.10 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: 10% to 15% (nl >=55%)
+Aortic Valve - Peak Gradient: 22 mm Hg
+Aortic Valve - LVOT Diam: 2.2 cm
+Aortic Valve - Valve Area: *0.8 cm2 (nl >= 3.0 cm2)
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Moderate LA enlargement. Mild spontaneous echo
+contrast in the  body of the LA. Good (>20 cm/s) LAA ejection
+velocity. All four pulmonary  veins identified and enter the
+left atrium.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is  seen in the RA. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D  images. Severely dilated LV cavity. Severe
+regional LV systolic dysfunction.
+
+LV WALL MOTION: Regional LV wall motion abnormalities include:
+basal anterior  - hypo; mid anterior - hypo; basal anteroseptal
+- hypo; mid anteroseptal -  hypo; basal inferoseptal - hypo; mid
+inferoseptal - hypo; basal inferior -  hypo; mid inferior -
+hypo; basal anterolateral - hypo; mid anterolateral -  hypo;
+anterior apex - hypo; septal apex - hypo; inferior apex - hypo;
+apex -  hypo; remaining LV segments contract normally.
+
+RIGHT VENTRICLE: Moderately dilated RV cavity. Moderate global
+RV free wall  hypokinesis.
+
+AORTA: Normal ascending aorta diameter. Normal descending aorta
+diameter.  Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic  valve leaflets. Severe AS (AoVA
+<0.8cm2). Trace AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. Mild
+mitral annular  calcification. Moderate thickening of mitral
+valve chordae. Mild to moderate  ([**1-11**]+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with
+physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+Conclusions:
+PRE-BYPASS: The left atrium is moderately dilated. Mild
+spontaneous echo
+contrast is seen in the body of the left atrium. No atrial
+septal defect is  seen by 2D or color Doppler. The left
+ventricular cavity is severely dilated.  There is severe
+regional left ventricular systolic dysfunction with akinetic
+inferior,septal and lateral walls.in the basal and mif\d
+myocardial segments.  The remaining left ventricular segments
+contract normally. The right  ventricular cavity is moderately
+dilated. There is moderate global right  ventricular free wall
+hypokinesis. There are simple atheroma in the descending
+thoracic aorta. There are three aortic valve leaflets. The
+aortic valve  leaflets are severely thickened /deformed. There
+is severe aortic valve  stenosis (area <0.8cm2). Trace aortic
+regurgitation is seen. The mitral valve  leaflets are moderately
+thickened. There is moderate thickening of the mitral  valve
+chordae. Mild to moderate ([**1-11**]+) mitral regurgitation is seen.
+There is  no pericardial effusion. A TEE procedure related
+complication occurred (see  comments for details).
+
+[**2118-10-3**] 1:27 PM
+
+CHEST PORT. LINE PLACEMENT
+
+Reason: 48cm SL L basilic PICC placed; please determine tip
+location
+
+COMPARISON: [**2118-9-24**].
+
+FINDINGS: Interval placement of left PICC with its tip
+projecting at the level of the proximal SVC.
+
+Cardiomegaly is again noted. Interval worsening of bilateral
+pleural effusions and bibasilar atelectasis. There is
+engorgement of the pulmonary vasculature with increased
+interstitial markings consistent with pulmonary edema, worse
+since prior exam. There is no pneumothorax. The osseous
+structures are unchanged. Right-sided dual-chamber pacemaker is
+unchanged.Interval withdrawal of right-sided Swan-Ganz catheter.
+
+IMPRESSION:
+1. Interval placement of left PICC with its tip projecting at
+the [**Last Name (un) **] of the proximal SVC.
+2. Interval worsening of bilateral pleural effusions, bibasilar
+atelectasis, and mild to moderate pulmonary edema.
+3. Cardiomegaly.
+4. Interval withdrawal of right-sided Swan-Ganz catheter.
+
+[**2118-9-20**] 3:11 PM
+
+FOOT AP,LAT & OB

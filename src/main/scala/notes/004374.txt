@@ -1,0 +1,217 @@
+Admission Date:  [**2184-10-1**]              Discharge Date:   [**2184-10-9**]
+
+Date of Birth:  [**2112-8-20**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+[**2184-10-1**] Cardiac Catheterization
+[**2184-10-4**] Coronary artery bypass graft x4: Left internal mammary
+artery to left anterior descending artery, and saphenous vein
+sequential grafting to obtuse marginal and the left posterior
+descending artery, and saphenous vein graft to diagonal artery.
+
+
+History of Present Illness:
+72 year old male that started to experience chest pain with mild
+activity which usually resolved with 1 SL NTG.  More recently he
+has been woken up with chest pain at night, which resolves with
+position changes.  He denies any shortness of
+breath, but does complain of occasional lightheadnedness.  He
+had an abnormal stress test on [**2184-9-28**] and presented for cardiac
+catherization which revealed coronary artery disease and intra
+aortic balloon pump was placed. Cardiac surgery was consulted
+for coronary revascularization.
+
+
+
+Past Medical History:
+Sciatica
+MI [**2177**]
+CAD s/p stent to OM (BMS)[**2177**]
+HTN
+Hyperlipidemia
+Skin cancer
+dental extractions
+claudication
+cataract surgery [**84**] years ago
+left leg bypass 10 yrs ago had to be redone 4 months later
+(used bilateral legs for vein harvesting. Left with first
+surgery
+right with second )c/b "staph infection" requiring PICC line and
+4 weeks antibiotics
+cholecystectomy
+
+
+Social History:
+Lives with:wife
+supportive children and grandchildren
+Occupation:retired custodian
+Tobacco:quit 10 years ago. 100 pack year history
+ETOH:denies
+
+
+Family History:
+Mom died age 62 h/o PVD and HF
+
+
+Physical Exam:
+Admission Physical Exam
+
+Pulse:48 Resp:18  O2 sat: 99 2L
+B/P  Right:  155/79  Left: 143/42
+Height: 5ft 7in    Weight: 215lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur IABP sound
+Abdomen: Soft [x] non-distended [x] non-tender []  bowel sounds
++
+[x]
+Extremities: Warm [x], well-perfused [x]  Edema +1 Varicosities:
+None [x] Incisions on both lower extermities
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:   Left: +2
+DP           Right: +1  Left: +1
+PT           [**Name (NI) 167**]:  +1 Left: +1
+Radial       Right: +2  Left: +2
+
+Carotid Bruit        Right:  0  Left: 0
+
+
+Pertinent Results:
+[**2184-10-8**] 04:45AM BLOOD WBC-7.7 RBC-3.21* Hgb-9.6* Hct-28.5*
+MCV-89 MCH-29.9 MCHC-33.6 RDW-14.8 Plt Ct-205
+[**2184-10-1**] 03:05PM BLOOD WBC-7.5 RBC-4.33* Hgb-12.9* Hct-36.5*
+MCV-84 MCH-29.8 MCHC-35.4* RDW-14.2 Plt Ct-182
+[**2184-10-4**] 04:38PM BLOOD PT-14.4* PTT-36.5* INR(PT)-1.2*
+[**2184-10-1**] 03:05PM BLOOD PT-12.7 PTT-28.7 INR(PT)-1.1
+[**2184-10-8**] 04:45AM BLOOD Glucose-101* UreaN-19 Creat-1.0 Na-142
+K-4.1 Cl-103 HCO3-32 AnGap-11
+[**2184-10-1**] 03:05PM BLOOD UreaN-21* Creat-1.0 Na-136 K-4.1 Cl-101
+HCO3-27 AnGap-12
+[**2184-10-1**] 03:05PM BLOOD ALT-21 AST-22 AlkPhos-77 TotBili-0.4
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 45915**]Portable TTE
+(Complete) Done [**2184-10-8**] at 11:25:41 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2112-8-20**]
+Age (years): 72 M  Hgt (in): 67
+BP (mm Hg): 91/41  Wgt (lb): 215
+HR (bpm): 52  BSA (m2): 2.09 m2
+Indication: Coronary artery disease. H/O cardiac surgery. Mitral
+valve disease.
+ICD-9 Codes: 746.4, 424.0
+Test Information
+Date/Time: [**2184-10-8**] at 11:25    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**Name2 (NI) 8154**] Bzymek,
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: [**Location 13333**]/[**Hospital Ward Name 121**] 6
+Contrast: Definity Tech Quality: Suboptimal
+Tape #: 2010W051-0:41 Machine: Vivid [**8-10**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.7 cm  <= 4.0 cm
+Left Ventricle - Ejection Fraction:  65%  >= 55%
+Left Ventricle - Stroke Volume:  118 ml/beat
+Left Ventricle - Cardiac Output:  6.12 L/min
+Left Ventricle - Cardiac Index:  2.93  >= 2.0 L/min/M2
+Aorta - Sinus Level:  2.9 cm  <= 3.6 cm
+Aortic Valve - Peak Velocity:  *2.6 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *27 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  13 mm Hg
+Aortic Valve - LVOT pk vel:  1.50 m/sec
+Aortic Valve - LVOT VTI:  34
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *2.0 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  1.0 m/sec
+Mitral Valve - A Wave:  0.8 m/sec
+Mitral Valve - E/A ratio:  1.25
+Mitral Valve - E Wave deceleration time:  182 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *29 to 31 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the prior study of [**2184-10-2**].
+Intravenous administration of echo contrast was used due to poor
+native endocardial border definition.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+global systolic function (LVEF>55%). Suboptimal technical
+quality, a focal LV wall motion abnormality cannot be fully
+excluded. Overall normal LVEF (>55%). No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+Paradoxic septal motion consistent with prior cardiac surgery.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets. Minimal
+AS. Mild to moderate ([**2-7**]+) AR.
+
+MITRAL VALVE: Normal mitral valve leaflets. No MS. Eccentric MR
+jet. Moderate (2+) MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. No
+TS. Mild [1+] TR. Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: No PS.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - bandages,
+defibrillator pads or electrodes. Suboptimal image quality as
+the patient was difficult to position.
+Conclusions
+Suboptimal image quality. Echo contrast used. Left ventricular
+wall thickness, cavity size, and global systolic function appear
+normal (LVEF>55%). Due to suboptimal technical quality, a focal
+wall motion abnormality cannot be fully excluded. Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion appear normal. The
+aortic valve leaflets are mildly thickened (?#). There is a
+minimally increased gradient consistent with minimal aortic
+valve stenosis. Mild to moderate ([**2-7**]+) aortic regurgitation is
+suggested. The mitral valve leaflets are structurally normal. On
+post contrast images, an eccentric, posteriorly directed jet of
+at least moderate (2+) mitral regurgitation is suggested but not
+confirmed due to poor image quality. The tricuspid valve
+leaflets are mildly thickened. There is mild pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2184-10-2**],
+the LVEF appears improved. Changes in MR [**Name13 (STitle) 45916**] are difficult
+to assess. A TEE is therefore suggested.
+  Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2184-10-8**] 12:01
+
+
+?????? [**2177**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+Mr.[**Known lastname **] presented for elective cardiac catheterization and was
+noted to have left main coronary artery disease.  During
+catheterization, he had intractable anginal pain, so he
+underwent placement of Intra-aortic Balloon Pump placement with
+resolution of chest pain. He underwent preoperative workup and
+in the cardiac care unit. The intra aortic balloon pump was
+weaned and removed.  On [**10-4**] he was brought to the operating
+room and underwent coronary artery bypass graft surgery x4: Left
+internal mammary artery to left ant

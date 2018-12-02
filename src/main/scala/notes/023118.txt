@@ -1,0 +1,230 @@
+Admission Date:  [**2101-7-3**]              Discharge Date:   [**2101-7-14**]
+
+Date of Birth:  [**2029-3-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Knee Pain
+
+Major Surgical or Invasive Procedure:
+CVVH
+Surgical washout of knee and wrist
+Central Line Placement (HD line)
+
+History of Present Illness:
+72 year old male with h/o CAD s/p MI and CABG, CHF s/p ICD (3
+years ago per wife), atrial fibrillation on coumadin, DM2, gout
+who transfered from [**Location (un) **] with septic arthritis, UTI and
+congestive heart failure.
+.
+On arrival patient was confused, history was obtained from wife
+[**Name (NI) **] over telephone and from outside records. Per wife, patient
+has had progressive right knee pain over the last week. He
+usually ambulates with a walker, but it has been getting harder
+to ambulate. Last week he saw his rheumatologist, who may have
+performed a joint tap. His pain has gotten worse over the last
+few days to the point he could not ambulate and had new right
+wrist pain. + chills, no recorded fevers. Otherwise denies
+CP/SOB, nausea/vomiting, dysuria.
+.
+At [**Location (un) **], he has x-rays of his right wrist and knee which
+showed no fracture. RLE extremity U/S was negative for DVT. He
+was given a dose of levaquin. R knee arthrocentesis was
+performed, and showed [**Numeric Identifier **] WBC with 91% PMN and Gram stain was
+positive for GPCs. Patient was started on vanc/gent and given
+one dose of ceftriazone and was transferred to [**Hospital1 18**] for further
+management. On transfer his vital signs were T 99.4, P 70, RR
+22, 92% 2L O2
+.
+On floor, patient was confused and unable to provide a history.
+He was diaphoretic, had a baseline tremor and in distress.
+
+
+Past Medical History:
+- Coronary Artery Disease s/p CABG
+- Atrial Fibrillation on coumadin
+- s/p ICD/PPM
+- DM2
+- AAA
+- Stage 3 CKD
+- Gout
+- recurrent LE cellulitis
+
+
+Social History:
+Lives at home with his wife, usually uses a walker for
+ambulation. Retired, used to work in a lumbar yard. Former
+smoker, quit in [**2070**], prior 50-60 pack year smoking history. No
+current alcohol use, but used to drink one drink a day per wife.
+
+
+Family History:
+Father by bypass surgery, and AAA. Mother with history of CHF.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS - Temp 100.1 F, BP 144/66 , HR 70, R 18, O2-sat 98 % 2L
+GENERAL - ill appearing caucasian male, tremor, diaphoretic,
+moderate distress
+HEENT - Mucous membranes dry, OP clear
+NECK - JVD not assessed
+LUNGS - Clear anteriorly
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2, midline
+sternal scar
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no
+rebound/guarding
+EXTREMITIES - 2+ edema to the hip, RLE swelling > LLE swelling,
+signs of chronic venous stasis, dark thickened skin on shins,
+with evidence of multiple healing ulcers. long scar from vein
+harvest. R knee effusion, erythematous, exquisitely tender to
+palpation. R wrist erythematous, exqusitely tender to palpation.
+
+NEURO - AAO to self, "hospital", EOMI intact, face symmetric,
+speech fluent, moving all extremities
+
+
+Pertinent Results:
+ADMISSION LABS
+
+[**2101-7-3**] 05:15AM BLOOD WBC-15.5* RBC-3.34* Hgb-10.3* Hct-31.7*
+MCV-95 MCH-30.9 MCHC-32.6 RDW-17.0* Plt Ct-285
+[**2101-7-3**] 05:15AM BLOOD PT-64.1* PTT-52.0* INR(PT)-7.3*
+[**2101-7-3**] 05:15AM BLOOD Plt Ct-285
+[**2101-7-3**] 05:15AM BLOOD Glucose-181* UreaN-84* Creat-2.6* Na-131*
+K-4.9 Cl-95* HCO3-20* AnGap-21*
+[**2101-7-3**] 05:15AM BLOOD ALT-43* AST-56* LD(LDH)-249 CK(CPK)-26*
+AlkPhos-140* TotBili-1.6* DirBili-0.9* IndBili-0.7
+[**2101-7-3**] 05:15AM BLOOD CK-MB-2 cTropnT-0.07*
+[**2101-7-3**] 05:15AM BLOOD Albumin-3.1* Calcium-9.0 Phos-3.7 Mg-2.8*
+[**2101-7-3**] 04:45PM BLOOD CRP-217.0*
+
+ECHO FROM [**2101-7-11**]
+No thrombus/mass or spontaneous echo contrast is seen in the
+body of the left atrium or right atrium. No atrial septal defect
+is seen by 2D or color Doppler. Overall left ventricular
+systolic function is normal (LVEF>55%). The aortic valve
+leaflets (3) are mildly thickened without regurgitation. No
+vegetations are seen on the aortic valve. The mitral valve
+leaflets are mildly thickened. An eccentric jet of mild-moderate
+([**12-4**]+) mitral regurgitation is seen. No mass or vegetation is
+seen on the mitral valve. The tricuspid valve leaflets are
+mildly thickened with (1+) tricuspid regurgitation. No
+vegetation/mass is seen on the pulmonic valve and no pulmonic
+valve regurgitation. There is no pericardial effusion.
+
+IMPRESSION: Mild mitral leaflet thickening without discrete
+vegetation. Mild-moderate mitral regurgitation. No discrete
+masses or vegetations identified on any of valves or visualized
+RA/RV wires.
+
+RUQ US [**2101-7-9**]
+Two limited views of the abdomen. There is motion artifact. The
+bowel gas
+pattern is unremarkable. No free air is identified. There is no
+evidence of
+pneumobilia, although this would be difficult to assess on this
+limited study.
+Soft tissue shadows are indistinct. There are degenerative
+changes in the
+spine. There are multiple calcifications in the right upper
+quadrant that
+likely represent gallstones.
+
+IMPRESSION: Right upper quadrant calcifications likely
+representing
+gallstones. Limited study.
+
+ABDOMINAL US [**2101-7-8**]
+IMPRESSION:
+1. Nodular hepatic architecture, splenomegaly, and mild ascites
+suggestive of
+cirrhosis. No focal liver lesion identified.
+2. Distended gallbladder with a stone in the neck and sludge.
+The patient
+could not be turned to assess mobility of the stone.
+Consequently an impacted
+stone and/or cholecystitis cannot be excluded. A HIDA scan could
+be performed
+if clinically indicated.
+
+HIDA SCAN [**2101-7-9**]
+INTERPRETATION: Serial images over the abdomen show poor uptake
+of tracer into
+the hepatic parenchyma with persistent blood pool throughout the
+course of the
+study. At 90 minutes, the gallbladder was not visualized so
+continued delayed
+imaging was performed with anterior and [**Doctor Last Name **] projections of the
+abdomen obtained
+at 3 and 1/2 hours demonstrating activity within the
+gallbladder. Tracer
+activity noted in the small bowel at 17 minutes.
+
+The above findings are consistent with no evidence of
+cholecystitis though with
+severe hepatic dysfunction out of proportion to the current
+level of elevated
+bilirubin.
+
+IMPRESSION: 1. No evidence of cholecystitis with visualization
+of the
+gallbladder. 2. Worsening severe hepatic dysfunction out of
+proportion to to the
+current level of increased bilirubin.
+
+RENAL US [**2101-7-7**]
+
+FINDINGS: The right kidney measures 10.1 cm and the left kidney
+measures 10.8
+cm. There is no hydronephrosis in either kidney. No cysts or
+stone or solid
+mass seen bilaterally. No perinephric fluid collection is
+identified.
+
+IMPRESSION: No hydronephrosis and no indication of a renal
+abscess.
+
+CT HEAD [**2101-7-5**]
+FINDINGS: No prior studies are available for comparison. There
+is no
+evidence of acute hemorrhage, edema, mass effect, or recent
+infarction.
+Prominence of the ventricles and sulci represents generalized
+atrophy, age
+related. Periventricular and subcortical white matter
+hypodensity likely
+represents sequelae of chronic small vessel ischemic disease.
+There are
+calcifications of the bilateral carotid siphons. No concerning
+osseous lesion
+is seen. The visualized paranasal sinuses are unremarkable.
+
+IMPRESSION: No evidence of acute intracranial process.
+
+BLE DOPPLERS [**2101-7-3**]
+FINDINGS: Color Doppler and grayscale ultrasonography of the
+bilateral lower
+extremities demonstrates normal flow, compressibility, and
+augmentation of the
+bilateral common femoral, superficial femoral, and popliteal
+veins. The
+posterior tibial and peroneal veins are visualized bilaterally
+and compress
+normally.
+
+IMPRESSION: No DVT.
+
+
+Brief Hospital Course:
+# Septic Shock: The patient developed a hypotensive picture from
+an infectious source.  At first, this was thought to be [**1-4**] the
+septic joints.  However, over time and after surgical washout of
+the joints, the source was less certain.  We were concerned for
+a possible biliary source, so a HIDA scan was done which was neg
+for gallbladder disease.  SBP a concern given cirrhosis and
+known ascites.  Dissemi

@@ -1,0 +1,169 @@
+Admission Date:  [**2140-9-21**]              Discharge Date:   [**2140-10-11**]
+
+Date of Birth:  [**2098-4-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Bactrim
+
+Attending:[**First Name3 (LF) 545**]
+Chief Complaint:
+Rash
+
+Major Surgical or Invasive Procedure:
+intubation and mechanical ventilation
+central line placement
+PICC Line placement ([**10-11**])
+
+
+History of Present Illness:
+(Pt is intubated and sedated on arrival to the [**Last Name (LF) 153**], [**First Name3 (LF) **] the
+history is provided by his significant other, [**Name (NI) 401**]). Mr. [**Known lastname **]
+is a 42 year-old male with a history of HIV infection and Lyme
+disease who presents w/ a diffuse erythematous rash which
+started today at 11am. The rash was first noticed last week. He
+went to his PCP's office on [**2140-9-15**] when he first noted the
+rash. It was described as a generalized, macular papular rash on
+his torso and extremities. It was thought to be due to dapsone
+(which was being used for PCP [**Name Initial (PRE) 1102**]) and it was
+recommended that he d/c dapsone. He had been on dapsone since
+mid-[**Month (only) 216**]. For PCP prophylaxis, he was then given inhaled
+pentamidine (on [**9-15**]) without any problems. The patient was
+advised to use benadryl for symptom relief. The following
+weekend ([**Date range (1) 9879**]), the patient continued to have what his
+partner described as an erythematous, "spotty" rash all over his
+body. It was not itchy, but the patient took benadryl and
+claritin RTC to help with the rash, without much improvement. He
+also stopped taking Atripla (his previous HAART medication) and
+began taking Kaletra and Truvada (the new HAART regimen which
+had been prescribed by his PCP [**Last Name (NamePattern4) **] [**2140-9-8**]). He was noted to have
+intermittent fevers to 101 and "heart palpitations". His partner
+denied any symptoms of night sweats, chills, SOB, chest pain,
+cough, URI sx, nausea, vomiting, abdominal pain, diarrhea. He
+was noted to be fatigued and his partner states that the patient
+"slept for the last 3 days". By Tuesday ([**9-20**]), the patient's
+rash had resolved and he went to work without any complaints. He
+was noted to have more energy that evening and slept well.
+However, upon waking on [**2140-9-21**], he noted to his partner that he
+felt poorly but tried to go to work. He also told his partner
+that he was beginning a new medication today for pneumonia but
+it was unclear what medication this was. The patient then
+presented to the ER for further evaluation.
+.
+In the ER, initial VS were T 98.6, BP 103/51, HR 110, RR 18,
+sats of 99% on RA. His initial complaint was of an allergic
+reaction at work -he noted that his skin was warm, dry, flushed
+and his eyes were red and itchy. He quickly then dropped his BP
+to 74/41. He was bolused w/ IVF and started on vancomycin. His
+temp started to rise and he was given ibuprofen. IVF were
+continually bolused and CTX was given. His SBP remained in the
+70s so he was put on dopamine through a peripheral IV while a
+central line was placed. He was then switched to levophed. He
+then became hypoxic with increasing O2 requirement and was
+intubated in the ER using etomidate/succinylcholine. He received
+a total of 5.5L of NS and had 80cc UOP (a foley had been
+placed). Dermatology was consulted in the ER and had a ddx of
+drug hypersensitivity, viral exanthem, or infection. They did
+not feel that this was SJS.
+.
+Per the PCP notes at [**Name9 (PRE) 778**], the patient had stopped Atripla on
+[**9-10**] due to a rash and had begun on Kaletra/Truvada on [**9-11**]. The
+rash was felt to be self-limited as it resolved with
+discontinuation of Atripla. He also noted that he had continued
+on the dapsone up until [**2140-9-17**]. He commented on resolution of
+the rash, but did note a HA over the weekend that was [**8-26**].
+Given pt's intubated status and conflicting story from his
+partner, it is unclear what meds the patient was receiving and
+when he had discontinued others.
+.
+Of note, the patient was admitted with a similar chief complaint
+in [**3-23**]. He presented with fever, acute renal failure, anemia
+and joint pain. He was diagnosed with acute HIV infection (VL
+>100,000K, CD4 of 180) and the remainder of the infectious w/u
+was negative. ASO titer was positive and complement levels were
+negative, but the patient was treated with a full course of
+augmentin anyways. Anemia was felt to be due to iron deficiency
+and outpatient workup was recommended. He then presented 2 days
+after discharge with fever to 103.8, "red eyes", and rash. He
+had a lactate of 2.8 at the time. He was initially treated with
+CTX, vanco and acyclovir, had an LP (neg for meningitis), head
+CT (neg for bleed), and CXR (no infiltrate). His abx were
+initially switched to CTX and azithromycin. Lyme antibody was
+positive so his antibiotics were switched to doxycycline for a
+30 day course. He was discharged on cipro eye drops and
+atovaquone for PCP [**Name Initial (PRE) 1102**].
+
+
+Past Medical History:
+1. Anal fissure
+2. Adjustment disorder
+3. Urethritis NOS [**2133**]
+4. Depression/Anxiety
+5. Pharyngeal gonococcal infection
+6. Anal gonococcal infection
+7. New diagnosis of HIV, VL > 100K, CD 4 pending; per his report
+had negative HIV test in [**2139-12-18**]
+
+
+Social History:
+Pt is involved with a monogamous partner, with whom he lives
+([**Name (NI) 449**]).  He works as a social worker for the [**Location (un) **] of
+Mass.  He reports no recent sexual contact (>6 weeks [**2-19**]
+decreased libido).  His partner is monogamous per his report.
+He drinks [**3-21**] glasses of wine on weekends.  He denies tobacco
+use.  He does not use heroin or cocaine, but does admit to rare
+marijuana use.
+
+
+Family History:
+Glaucoma (father, [**Name (NI) 9876**]. Sister and GM with DM.
+
+Physical Exam:
+VS - T 101.8, Tmax 102.8, BP 98/62, HR 129, RR 20, sats 96%
+AC 500x20, PEEP 10, FiO2 100%
+weight - 75kg pre-IVF; 83kg on admit
+GEN: WDWN middle aged male intubated and sedated. .
+HEENT: Sclera injected but anicteric. PERRL (3->2mm
+bilaterally). OP clear around mouth (could not assess posterior
+pharynx as pt intubated, OGT in place, pt not opening mouth). No
+JVD but prominent visible carotid pulsations.
+CV: Hyperdynamic precordium, prominent PMI in mid L clavicular
+line. Tachycardic, regular. Normal S1, S2. No m/r/g.
+LUNGS: Clear anteriorly at apices. Rhonchorous, vented breath
+sounds throughout remainder anterior lung fields.
+ABD: Firm, distended. Minimal BS. No rebound or guarding.
+EXT: Warm, erythematous, 2+ PT, DP, radial pulses bilaterally. R
+IJ. R art line.
+GU: Penis w/o any lesions. Rectal exam in ED guaiac negative.
+NEURO: Pt intermittently sedated and awake. When awake, follows
+commands and answers questions appropriately. Can respond by
+shaking head, writing. Using all 4 extremities spontaneously.
+Downgoing toes bilaterally.
+SKIN: Diffuse, erythematous, fine, maculopapular confluent,
+blanching rash that is extensive over his face, neck, torso,
+extremities (upper and lower bilaterally) and palms, but spares
+his soles. Not pruritic, no excoriations, no skin lesions, no
+bullae or vesicles.
+
+Pertinent Results:
+CT CHEST/ABDOMEN/PELVIS W/CONTRAST  [**2140-10-10**] 10:23 AM
+CT CHEST WITH INTRAVENOUS CONTRAST: There is dramatic
+improvement in the bilateral effusions with minimal residual
+bilateral atelectasis when compared to the previous study. The
+central airways are patent to segmental levels bilaterally.
+There is a small hyper attenuated lesion in the right middle
+lobe of the lung, which is likely a tiny calcified granuloma.
+There are small axillary lymph nodes under 1.5 cm as seen in the
+previous study. There are no pathologically enlarged mediastinal
+lymph nodes. There is no pericardial effusion.
+
+CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST: The liver, spleen,
+adrenal glands, pancreas, abdominal loops of small bowel are
+unremarkable. There is resolved ascites when compared to the
+last study. There is minimal gallbladder wall thickening likely
+due to third spacing. Tiny paraortic lymph nodes noted, not
+significantly enlarged by strict CT criteria.
+
+PELVIS: Mild thickening of the right colonic wall, likely due to
+third spacing. A co

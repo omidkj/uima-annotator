@@ -1,0 +1,206 @@
+Admission Date:  [**2192-8-19**]              Discharge Date:   [**2192-9-4**]
+
+Date of Birth:  [**2111-4-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1042**]
+Chief Complaint:
+coffee-ground emesis
+
+Major Surgical or Invasive Procedure:
+Upper endoscopy
+
+
+History of Present Illness:
+HPI: The patient is an 81 year old female who presented from a
+nursing home with coffee ground emesis on [**2192-8-19**]. The patient
+was unable to provide a history due to dementia but the MICU
+admitting team was able to speak to her nursing home who
+provided the following history. Per her nurse she had several
+episodes of dark, coffee-ground emesis on the day prior to
+admission. She did not complain of abdominal pain. Per report
+from her nursing home she also fell two days prior to admission
+and hit her forehead (no further history on her fall available).
+Per the patient's daughter at baseline, pt is minimally verbal,
+able to answer simple questions and interject into conversation
+but does not speak spontaneously and has significant word
+finding difficulties. She adds that the pt has been less active
+in the few days preceeding admission.
+.
+In ED her vitals were BP 132/50, HR 76, O2 sat 95% on RA. She
+was found to have a hematocrit of 37. She received 1L of NS and
+IV protonix. An NG lavage per report was not performed because
+there was no evidence of active vomiting. CT of the head
+revealed no evidence of acute bleed.
+.
+While in the MICU her vital signs have been stable. Her
+hematocrit on admission to the ER was 37 on [**8-19**] at 12 AM. This
+decreased to 29.8 at 6 AM, 27.6 at 12 PM and 30.8 at 12 AM on
+[**8-20**]. At no time did she require transfusion. Bilateral lower
+extremity ultrasounds were performed given assymetric lower
+extremity edema which were negative for clots. She was started
+on high dose IV PPI for her presumed GI bleed. She underwent CT
+of the abdomen which showed a large hiatal hernia with a
+thoracic stomach and no evidence of pancreatitis despite
+incidentally noted elevated pancreatic enzymes. She was
+evaluated by gastroenterology who plan for her to under upper
+endoscopy tomorrow AM.
+.
+
+
+Past Medical History:
+# [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] aortic valve, not currently anticoagulated at
+rehab/nursing home
+# Atrial Fibrillation
+# hiatal hernia with esophagitis
+# hypoxic brain injury
+# Dementia
+# breast ca s/p lumpectomy
+# osteoporosis
+# CHF, EF unknown
+# CAD s/p CABG
+
+
+Social History:
+ Has been living at [**Hospital 19453**] Nursing Home & Rehab for past
+month.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vitals: 95.5 133/56 72 19 99% 3L NC
+GEN: lying in bed, oriented to person, "hospital," and "Saturday
+in [**Month (only) 205**]."
+HEENT: ecchymosis over L lower eyelid, PERRL, EOMI, OP clear
+NECK: jugular veins difficult to assess [**2-24**] body habitus
+CV: mechanical valve sounds
+CHEST: cta ant and lateral fields
+ABD: soft, nontender, NABS
+EXT: no c/c/e
+SKIN: no rashes
+
+
+Pertinent Results:
+Admission Labs [**2192-8-19**]:
+Hematology:
+CBC: WBC-13.0*# RBC-4.38 HGB-12.5 HCT-37.2 MCV-85 MCH-28.4
+MCHC-33.5 RDW-21.9* PLT COUNT-421#
+Differential: NEUTS-80.7* LYMPHS-14.7* MONOS-3.4 EOS-0.9
+BASOS-0.2
+PT-11.6 PTT-21.6* INR(PT)-1.0
+Chemistries:
+Glucose-146* UreaN-30* Creat-0.9 Na-145 K-3.9 Cl-99 HCO3-37*
+AnGap-13
+Calcium-8.9 Phos-3.5 Mg-2.1
+ALT-27 AST-37 AlkPhos-174* Amylase-326* TotBili-0.4 Lipase-276*
+Albumin-4.1
+.
+Others [**2192-8-21**]:
+ALT-17 AST-23 LD(LDH)-279* AlkPhos-149* Amylase-62 TotBili-1.0
+Lipase-22 GGT-25
+Triglyc-70 HDL-51 CHOL/HD-3.9 LDLcalc-133*
+B12: 631 Folate: 9.0
+TSH: 0.66
+.
+Discharge Laboratories:
+[**2192-8-31**] CBC: WBC: 9.4 Hgb: 10.6* Hct: 31.6* Plts: 400
+[**2192-9-3**] [**Name (NI) 2591**]  PT: 21.2* PTT: 28.2 INR: 2.1*
+.
+Imaging:
+.
+CT Head [**2192-8-19**]:
+Despite repetition, some of the posterior fossa scans are
+degraded by patient motion. Within this limitation, there is no
+significant interval change seen compared to the prior
+examination. Specifically, there has been no interval
+development of an intracranial hemorrhage or overt area of acute
+brain ischemia. However, if the latter diagnostic consideration
+is a possibility, an MRI scan would be a more sensitive means
+for detecting an area of acute infarction. The multiple areas of
+chronic small-vessel infarctions previously described are
+re-demonstrated. No other new extracranial abnormalities are
+discerned, either.
+.
+CT Abd [**2192-8-19**]:
+1. Intrathoracic stomach which may represent gastric volvulus.
+If the patient is not symptomatic these findings may be related
+to chronic volvulus.
+2. No CT evidence of pancreatitis
+.
+Bilateral LE US [**2192-8-19**]:
+Grayscale and Doppler examination of bilateral common femoral,
+superficial femoral, and popliteal veins were performed. Normal
+compressibility, augmentation, waveforms, and Doppler flow is
+demonstrated. There is no evidence of intraluminal clot.
+.
+Upper Endoscopy [**2192-8-21**]:
+Findings: Normal esophagus, large hiatal hernia with [**Location (un) 3825**]
+lesions, normal duodenum.
+.
+Upper GI with Small Bowel Follow Through [**2192-8-21**]:
+1. Intrathoracic stomach with the pyloric at the level of the
+diaphragmatic hiatus. No evidence of gastric outlet obstruction
+or volvulus.
+2. Small amount of barium aspiration noted in the central
+airways. Followup chest x- ray is recommended if there is
+concern for development of pneumonia.
+.
+Echocardiogram [**2192-8-22**]:
+Conclusions: The left atrium is moderately dilated. No atrial
+septal defect is seen by 2D or color Doppler. There is mild
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. Regional left ventricular wall motion is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). There is no ventricular septal defect. Right
+ventricular chamber size and free
+wall motion are normal. The ascending aorta is moderately
+dilated. A bileaflet aortic valve prosthesis is present. The
+aortic valve prosthesis appears well seated, with normal
+leaflet/disc motion and transvalvular gradients. Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Trivial mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is no pericardial effusion.
+.
+CT Head [**2192-8-24**]:
+1.  No significant interval change to brain parenchyma without
+acute
+hemorrhage identified.
+2.  Slight decrease to predominantly left supraorbital subgaleal
+hematoma.
+
+Brief Hospital Course:
+Mrs. [**Known lastname 24831**] is an 81 year old female with a history of CAD,
+atrial fibrillation, aortic valve replacement and dementia who
+presents with evidence of an upper gastrointestinal bleed.
+.
+# Upper GI bleed: On presentation the patient had experienced
+two episodes of coffee ground emesis at her nursing home.  She
+has a history of esophagitis but otherwise no history of
+gastrointestinal disorders or bleeding events.  In the emergency
+room two large bore IVs were placed and she received IV fluids.
+Her hematocrit on admission was 37.2.  This fell over the course
+of the following day decreased to 27.1 but the patient did not
+require transfusion.  She was hemodynamically stable and
+asymptomatic throughout.  She was started on high dose
+intravenous PPI therapy.  A CT scan of the abdomen was performed
+in the emergency room which revealed the presence of a large
+hiatal hernia with a complete intrathoracic stomach.  The
+patient underwent upper endoscopy on [**2192-8-21**] which revealed no
+obvious bleeding sources but confirmed the presence of the large
+hiatal hernia with the presence of [**Location (un) 3825**] lesions.  Given that
+her hematocrit had stabilized and there was no obvious bleeding
+source on endoscopy no further workup was initiated.  She was
+discharged on an oral proton pump inhibitor.  No further
+episodes of bleeding were observed throughout this
+hospitalization.
+.
+# Hiatal Hernia: The patient was noted to have a large hiatal
+hernia on CT scan.  The presence of an intrathoracic stomach was
+confirmed on upper endoscopy.  An upper GI with small b

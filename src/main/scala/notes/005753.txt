@@ -1,0 +1,197 @@
+Admission Date:  [**2128-9-22**]              Discharge Date:   [**2128-9-27**]
+
+Date of Birth:  [**2080-2-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Amoxicillin / Codeine / Latex
+
+Attending:[**First Name3 (LF) 898**]
+Chief Complaint:
+hypercarbic respiratory failure
+
+Major Surgical or Invasive Procedure:
+Chest Tube Placement done at [**Location (un) 745**] Wellesly, pulled at [**Hospital1 18**]
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 48 year-old chronically ill man with ESRD on HD,
+CHF (EF20%), L3 burst fx complicated by MRSA paraspinal abscess,
+multiple hospitalizations over the 6 months, who is transferred
+from [**Location (un) 20026**] Hospital upon request of his family after
+he presented there with hypercarbic respiratory failure.
+.
+Mr. [**Known lastname **] recent relevant history is detailed below:
+.
+-[**Month (only) 547**]/[**2128-6-3**]: admitted to [**Hospital1 18**] for 5 weeks with paraspinal
+abscess. That hospital stay is notable for anterior/posterior
+spinal L2-4 fusion to treat L3 burst fracture. He was on the
+vent for about 14days post-op, during which time he underwent a
+thoracentesis complicated by pneumothorax for which a L chest
+tube was placed. He required repeat visit to the OR w/ wound
+dehiscence, which grew enterobacter (treated with
+ciprofloxacin). He was eventually discharged to [**Hospital1 **].
+- [**2128-7-4**]: admitted to [**Hospital1 18**] [**Date range (1) 101920**] w/ ?LGIB. GI
+evaluated the patient and deferred endoscopy as an
+inpatient given the bleeding stabilized w/ minimal transfusion.
+Pt had a PEG tube placed b/c of poor nutritional status: pt was
+severely cachectic with diffuse muscle wasting. He was
+discharged to [**Hospital 100**] Rehab.
+-[**2128-8-3**]: He presented to [**Hospital1 18**] on [**8-8**] with altered mental
+status, hypotension, respiratory failure, bilateral pleural
+effusions, as well as fever and leukocytosis. He was intubated
+from admission through [**8-14**]. He underwent b/l thoracentesis,
+which wer transudative. Fever workup was unrevealing for source.
+He was discharged to [**Hospital3 105**] Northeast on [**2128-8-24**].
+- [**Month (only) 205**] (con't): Mr. [**Known lastname **] was admitted to [**Location (un) 745**] [**Hospital **]
+Hospital [**2128-8-30**] to [**2128-9-3**] with respiratory failure & volume
+overload. He was intubated and underwent bilateral
+thoracentesis. He was extubated and discharged back to [**Hospital **]
+Rehab.
+- Current presentation: pt presented from [**Hospital1 **] to NWH on
+[**2128-9-17**] with hypotension, diarrhea (acute on chronic),
+hypercarbic respiratory failure (7.22/70/83). He was started on
+vanc/imipenenem + PO vanc & IV flagyl for broad coverage. [**Doctor Last Name **]
+came back + for Cdiff. His hypotension resolved. Cause of his
+resp failure thought to be [**3-6**] CHF. His chronic, bilateral pl
+effusions were noted to sill be present. His R effussion was
+tapped on [**9-21**] and the fluid was exudative (pH 7.47, [**Numeric Identifier 101921**] RBCs,
+Fluid TP 3.2, Fluid LDH 126; Serum TP 5.7, Serum LDH 122). Gram
+stain showed no WBCs & no organisms. However, his cx grew out
+rare MRSA, rare enterococcus. He was extubated on [**9-21**] & a chest
+tube was placed on [**9-22**]. He was not started on antibiotics. A
+family meeting was held with pt, sister, and mother--they
+reportedly reviewed the patient's prognosis. Following the
+meeting, the family requested transfer to [**Hospital1 18**] for further
+care.
+.
+On arrival to MICU, pt is comfortable except for occasional pain
+at chest tube site. He is requesting something to eat.
+.
+ROS: no fever/chills. + weight loss of 30-40lb over last
+~6months. No nausea, vomitting, or constipation. Regular loose
+stool. No recent melena, BRBPR. No palpitations, dizziness or
+lightheadedness change in vision, hearing, currently, hematuria,
+dysuria. Occasional LE swelling & tingling. Of note, pt has been
+documented as having occasional episodes of hypoglycemia during
+recent hospital stays.
+.
+
+
+Past Medical History:
+-ESRD of unknown etiology: s/p HD fistula RUE, on HD [**Hospital1 12075**]
+-Anemia [**3-6**] esrd
+-CAD with positive stress test [**5-8**]
+-Systolic CHF - EF 20% from [**8-10**] TTE; RV systolic
+dysfunction/global free wall hypokinesis; 1+MR; "significant"
+PR.
+-HTN
+-Psoriasis
+-L3 burst fracture w/ neurologic compromise and retropulsion
+onto cauda L2-L4
+-Status post anterior-posterior spinal fusion of L2-[**2128-5-7**]
+
+-MSSA L2-L3 osteo/epidural abscess
+-MSSA Paraspinal abscess
+-Enterobacter wound infection on back [**5-11**]
+-Hx of MSSA bacteremia - [**2125**], [**2126**], [**2127**], [**2128**]
+-Hypothyroid
+-H/o sacral decub & groin ulcer
+-Restless leg syndrome
+-H/o abdominal fluid collection drained s/p anterior spinal
+fusion
+
+
+Social History:
+Smokes [**2-4**] ppd, cut down from 1 ppd. Denies alcohol use. Denies
+
+illicit drug use. Resided with mother and brother in [**Name (NI) 745**]
+(before hospitalizations). This hospitalization, came from
+[**Hospital1 **].
+
+
+Family History:
+Father died of MI in 60's; mother alive and well 77; 8 siblings,
+one of whom has HTN, one who has a cerebral aneurysm; he has no
+children.
+
+Physical Exam:
+General Appearance: Cachectic
+Eyes / Conjunctiva: PERRL, Conjunctiva pale
+Cardiovascular: (S1: Normal (S2: Normal) ? S3, (Murmur: Systolic
+& Diastolic)
+Respiratory / Chest: (Percussion: Dullness : bilat bases),
+(Breath Sounds: Diminished: on R)
+Abdominal: Soft, Non-tender, Bowel sounds present, PEG in place
+
+Extremities: Right: Trace, Left: Trace
+Musculoskeletal: Muscle wasting
+Skin: Not assessed, Rash: sacral erythema; erythema over
+surgical spinal wound
+Neurologic: Attentive, Follows simple commands, Responds to:
+Verbal stimuli, Oriented x3, Movement: Purposeful, Tone: Not
+assessed
+
+
+Pertinent Results:
+CBC:
+[**2128-9-27**] WBC-8.4 RBC-2.89* Hgb-9.1* Hct-28.1* Plt Ct-322
+[**2128-9-26**] Glucose-99 UreaN-55 Creat-3.4 Na-139 K-5.0 Cl-99
+HCO3-29 AnGap-16
+[**2128-9-27**] Albumin-2.5* Calcium-8.8 Phos-2.5*
+.
+Cultures:
+[**2128-9-23**]: CATHETER TIP-IV WOUND CULTURE-FINAL INPATIENT: No
+growth.
+.
+[**2128-9-23**]: PLEURAL FLUID GRAM STAIN-FINAL: Multiple PMNs, No
+organisms, FLUID CULTURE-FINAL: No growth,  ANAEROBIC CULTURE:
+No growth.
+.
+Chest X-Ray:
+Cardiomediastinal contours are normal. Still small right
+pneumothorax has
+increased. Small right and moderate left pleural effusions are
+unchanged.
+Left perihilar consolidation is persistent. Bibasilar
+atelectases are
+unchanged.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 48yo chronically ill man w/ ESRD on HD, severe
+systolic HF (EF 20%), h/o MRSA paraspinal abscess, numerous
+hospitalizations over the last 5months, who is transferred from
+NWH with possible infected R pleural effusion.  A chest tube was
+placed at NWH.  He was initially transferred to the ICU.  His
+chest tube stopped draining fluid.  He was on Linezolid
+initially for emperic treatment of his pleural fluid.  He was
+stable in the ICU and transferred to a general medical floor.
+He continued on his schedule of dialysis.  His antibiotics were
+stopped as he was afebrile and his fluid cultures were negative.
+ His chest tube was pulled and his pulmonary effusions remained
+stable.  He was discharged to [**Hospital1 **] on [**9-27**].
+.
+Medication changes: Lisinopril 5 mg started. Flagyl for c. diff
+14 day course to be completed on [**10-1**]. Calcium acetate held
+secondary to low phosphate.
+.
+Problems:
+[**Name2 (NI) 167**] pleural effusion: Rare MRSA & enterococcus in fluid cx.
+Unclear if true infection or contaminent. The pt was febrile on
+admission to OSH, which could have been from pleural fluid
+infection or c. diff.  Pleural fluid cultures were negative.
+Chest tube was pulled.  Patient will follow up with
+interventional pulmonology as outpatient for persistent
+effusion.
+.
+Cardiomyopathy/Chronic Systolic Heart Failure: EF of 20% (based
+on echo [**8-10**]). Pt seems to be relatively well compensated at
+present.  Dialysis continued as scheduled. Beta blocker
+continued. He was started on a low dose of lisinopril.
+.
+C. Diff: [**2128-9-17**], started on 14 day course of flagyl, to be
+completed [**10-1**].
+.
+ESRD on HD: [**Month

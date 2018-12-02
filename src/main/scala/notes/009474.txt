@@ -1,0 +1,170 @@
+Admission Date:  [**2133-10-15**]              Discharge Date:   [**2133-10-15**]
+
+
+Service: [**Hospital Unit Name 196**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 9554**]
+Chief Complaint:
+chest pain, transfer from [**Hospital3 3583**]
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+History of Present Illness:
+History is limited and is obtained from the patient's chart from
+[**Hospital3 3583**], her [**Hospital1 18**] cath report, and her daughter.
+
+Pt is a [**Age over 90 **] y.o lady w/ h/o ?CAD (details unknown), HTN, COPD,
+who presented with sudden onset of chest pain w/ radiation to
+her left shoulder at 7 am today, upon waking. She also c/o of
+diaphoresis, nausea, and associated shortness of breath. Of
+note, she was feeling well up until the day before admission,
+when she was driving to [**Company **], going shoppoing. She was
+brought to [**Hospital3 3583**] by EMS at approximately 9 am and
+given 4 ASA and 3 SL Nitro without relief. Upon arrival to
+[**Last Name (LF) 46**], [**First Name3 (LF) **] EKG revealed tombstoning ST elevations in V1-V6. She
+was given a heparin bolus, drip started, aggrastat, morphine 4
+mg, nitro, fluid bolus, and transferred to the [**Hospital1 18**] for
+emergent catheterization. On arrival, the patient was
+communicative and still complaining of chest pain. Her blood
+pressure was approximately 80/40, per cath lab report. Of note,
+a loud systolic murmur was appreciated over the precordium. Cath
+revealed the following:
+
+COMMENTS:
+1. Coronary angiography of this right dominant circulation
+revealed
+severe two vessel coronary artery disease. The LMCA had no
+significant
+lesion. The LAD was diffusely diseased throughout the vessel
+with a 50%
+narrowing in the proximal vessel and serial 70-90% lesions in
+the mid
+and distal vessel. A large septal branch had an 80% ostial
+lesion. The
+LAd supplied a single, late diagonal branch that was free of
+flow-limiting disease. The LCX had no angiographic disease and
+supplied
+a single, bifurcating OM branch before terminating in the AV
+groove. The
+RCA had diffuse disease proximally with a 90% stenosis. The mid
+vessel
+had a 50% tubular lesion before giving rise to moderate sized
+PDA and
+PLV branches. Competetive flow in the PDA and PLV could be seen.
+
+2. Resting hemodynamics revealed markedly elevated right-sided
+pressures
+in the setting of systemic arterial hypotension despite the
+administration of dopamine and levophed. For this reason and
+because
+there was flow in all coronary arteries, a PA catheter was
+placed before
+beginning any intervention. Right heart catheterization revealed
+a PA
+saturation of 87% raising concern for a left->right shunt. We
+therefore
+decided to proceed with left ventriculography.
+3. Left ventriculography demonstrated a large VSD with contrast
+reflux
+into the RV and RA. LVEF could not be calculated.
+4. An intra-aortic balloon pump was placed given her cardiogenic
+shock.
+
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Acute anterior MI.
+3. Large VSD.
+4. Cardiogenic shock.
+5. Placement of an IABP.
+**
+Patient was seen by CT surgery, but was not a candidate for
+surgical intervention. Patient was then admitted to the CCU and
+transitioned to comfort measures.
+
+
+Past Medical History:
+COPD
+HTN
+Glaucoma
+?CAD
+
+Social History:
+mostly unknown, daughter involved and at bedside
+
+Family History:
+unknown
+
+Physical Exam:
+T 93  BP  59/35   P 93  RR 25  SAT 100%
+EXAM LIMITED [**2-2**] COMFORT MEASURES STATUS:
+
+SOMNOLENT, SEDATED, UNRESPONSIVE
+COMFORTABLE, SNORING, WEARING WIG
+LOUD [**4-7**] BLOWING MURMUR HOLOSYSTOLIC IN LOWER LEFT STERNAL
+BORDER
+
+Pertinent Results:
+[**2133-10-15**] 12:21PM   O2 FLOW-4 PO2-208* PCO2-66* PH-7.23* TOTAL
+CO2-29 BASE XS--1 INTUBATED-NOT INTUBA
+[**2133-10-15**] 12:21PM   HGB-12.4 calcHCT-37 O2 SAT-98
+
+EKG: SINUS TACHYCARDIA, RATE 109, ST ELEVATIONS IN V1-V6, >3 MM
+
+Brief Hospital Course:
+Given the patient's large anterior wall MI w/ VSD (wall
+rupture), she was admitted to the CCU in critical condition,
+still with an aortic balloon pump. Her condition was grave and
+her daughter was at her bedside, aware of her prognosis. Upon
+arrival to the CCU, the patient's pressors were turned off, the
+balloon pump was transitioned to 1:8 from 1:1, and morphine was
+ordered for comfort. She did not require any of this medication,
+as she was very comfortable.
+
+The CCU team was called to pronounce the patient just before 8
+pm on [**10-15**]. She had no corneal reflex, dilated pupils, no
+respiratory effort, no pulse, and was pronounced dead at 8:00
+pm. Patient's daughter declined autopsy. Cause of death was
+cardiac arrest, secondary to VSD and myocardial infarction. Dr
+[**Last Name (STitle) **], the attending, was notified. Medical examiner's office was
+also notified, given patient's death within 24 hours of
+admission. They declined autopsy as well.
+
+Medications on Admission:
+Ativan
+albuterol
+lasix
+alphagan eye drops
+pilocarpine drops
+atrovent
+tobradex
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Home
+
+Facility:
+patient did not survive admission
+
+Discharge Diagnosis:
+Cardiac arrest
+Ventricular Septal Defect
+Anterior Wall ST elevation myocardial infarction
+
+Discharge Condition:
+pronounced dead
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+                             [**First Name8 (NamePattern2) 2064**] [**Last Name (NamePattern1) **] MD [**MD Number(2) 2139**]
+
+Completed by:[**2133-10-15**]

@@ -1,0 +1,203 @@
+Admission Date:  [**2145-4-18**]              Discharge Date:   [**2145-4-27**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Indocin / Iodine; Iodine Containing
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+pre-syncope, CP, DOE
+
+Major Surgical or Invasive Procedure:
+AVR(#23 StJude epic tissue)[**4-20**]
+
+
+History of Present Illness:
+84 yo F with known AS who presented to OSH in [**2-9**] with near
+syncopal episode. Ruled out for MI. Cath showed normal
+coronaries, moderate AS and MR. She was referred for surgery.
+
+Past Medical History:
+PMH:AS/MR COPD, chronic AF, HTN, arthrits, Glaucoma, Gput,
+PSH: Appy, CCY, Thyrois [**Doctor First Name **], Fibroid excision, Cataract [**Doctor First Name **]
+
+
+Social History:
+retired
+20 pack year tobacco history, quit 25 years ago
+no current etoh
+
+
+Family History:
+NC
+
+Physical Exam:
+Admission:
+HR 84 RR 14 BP 112/70
+Lungs bibasilar rales
+Heart Irregular 6/6 systolic murmur
+Abdomen benign
+Extrem warm, trace BLE edema
+bilateral superficial varicosities
+
+Discahrge:
+VS T 97  HR 80 AFib  BP 133/70  RR 20  O2sat 96% 2LNP
+Gen NAD
+Neuro A&Ox3, non-focal exam
+Pulm course rhonchi throughout, no rales. + end expiratory
+wheezes
+CV irreg-irreg, no murmur. Sternum stable. Minimal
+erythema(1cm)sternal incision
+Abdm soft, NT/+BS
+Ext warm, 1+ pedal edema bilat
+
+Pertinent Results:
+[**2145-4-18**] 05:48PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.008
+[**2145-4-18**] 05:48PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2145-4-18**] 06:00PM   PT-15.4* PTT-26.0 INR(PT)-1.4*
+[**2145-4-18**] 06:00PM   PLT COUNT-229
+[**2145-4-18**] 06:00PM   WBC-9.3 RBC-4.95 HGB-15.1 HCT-44.5 MCV-90
+MCH-30.5 MCHC-33.9 RDW-12.4
+[**2145-4-18**] 06:00PM   ALBUMIN-4.0 CALCIUM-9.7 PHOSPHATE-3.0
+MAGNESIUM-2.1
+[**2145-4-18**] 06:00PM   LIPASE-32
+[**2145-4-18**] 06:00PM   ALT(SGPT)-16 AST(SGOT)-23 LD(LDH)-223 ALK
+PHOS-84 AMYLASE-57 TOT BILI-0.6
+[**2145-4-18**] 06:00PM   GLUCOSE-159* UREA N-13 CREAT-0.9 SODIUM-142
+POTASSIUM-4.1 CHLORIDE-106 TOTAL CO2-25 ANION GAP-15
+[**2145-4-27**] 05:05AM BLOOD WBC-8.5
+[**2145-4-26**] 06:00AM BLOOD WBC-12.4*# RBC-3.33* Hgb-10.2* Hct-30.4*
+MCV-91 MCH-30.8 MCHC-33.7 RDW-12.3 Plt Ct-210
+[**2145-4-27**] 05:05AM BLOOD PT-24.3* INR(PT)-2.4*
+[**2145-4-26**] 06:00AM BLOOD Plt Ct-210
+[**2145-4-26**] 06:00AM BLOOD Glucose-96 UreaN-13 Creat-0.8 Na-136
+K-4.3 Cl-100 HCO3-31 AnGap-9
+
+RADIOLOGY  Final Report
+CHEST (PORTABLE AP)  [**2145-4-23**] 10:46 AM
+CHEST (PORTABLE AP)
+Reason: eval pleural effusions
+[**Hospital 93**] MEDICAL CONDITION:
+84 year old woman s/p AVR
+REASON FOR THIS EXAMINATION:
+eval pleural effusions
+PROCEDURE: Chest portable AP on [**2145-4-23**].
+COMPARISON: [**2145-4-21**] and [**2145-4-20**].
+HISTORY: 84-year-old woman status post AVR, evaluate for pleural
+effusion.
+FINDINGS: There is slight increase in the right pleural effusion
+which is small. Persistent moderate left pleural effusion is
+unchanged. Mild cardiomegaly is again noted. No pulmonary edema.
+Status post cardiothoracic surgery with median sternotomy wires
+with no complications.
+IMPRESSION:
+1. Stable left moderate pleural effusion.
+2. Slight increase of the small right pleural effusion.
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name (STitle) 11004**] [**Name (STitle) 11005**]
+DR. [**First Name8 (NamePattern2) 1569**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11006**]
+Approved: FRI [**2145-4-23**] 8:16 PM
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname 76511**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 76512**]
+(Complete) Done [**2145-4-20**] at 12:04:26 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Last Name (Prefixes) 413**], [**First Name3 (LF) 412**]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2060-5-9**]
+Age (years): 84 F  Hgt (in): 65
+BP (mm Hg): 124/72  Wgt (lb): 204
+HR (bpm): 54  BSA (m2): 2.00 m2
+Indication: Intra-op TEE for AVR, and MVR
+ICD-9 Codes: 427.31, 440.0, 441.2, 424.1
+Test Information
+Date/Time: [**2145-4-20**] at 12:04    Interpret MD: [**Name6 (MD) 928**]
+[**Name8 (MD) 929**], MD, MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008AW01-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.3 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.5 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.6 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.2 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.9 cm
+Left Ventricle - Fractional Shortening:  0.31  >= 0.29
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Left Ventricle - Stroke Volume:  55 ml/beat
+Left Ventricle - Cardiac Output:  2.99 L/min
+Left Ventricle - Cardiac Index:  *1.50  >= 2.0 L/min/M2
+Aorta - Annulus:  2.3 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  3.0 cm  <= 3.0 cm
+Aorta - Ascending:  *4.0 cm  <= 3.4 cm
+Aorta - Arch:  3.0 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *3.4 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *2.8 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *32 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  21 mm Hg
+Aortic Valve - LVOT pk vel:  0.83 m/sec
+Aortic Valve - LVOT VTI:  16
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *0.8 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  1.0 m/sec
+Mitral Valve - Mean Gradient:  2 mm Hg
+Mitral Valve - Pressure Half Time:  48 ms
+Mitral Valve - MVA (P [**2-3**] T):  4.5 cm2
+Findings
+LEFT ATRIUM: Moderate LA enlargement. Mild spontaneous echo
+contrast in the body of the LA. Mild spontaneous echo contrast
+in the LAA. Depressed LAA emptying velocity (<0.2m/s) No
+thrombus in the LAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum. No
+ASD by 2D or color Doppler.
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Normal regional LV systolic function. Overall normal LVEF
+(>55%).
+RIGHT VENTRICLE: Mildly dilated RV cavity. Normal RV systolic
+function.
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Moderately dilated ascending
+aorta. Focal calcifications in ascending aorta. Normal aortic
+arch diameter. Simple atheroma in aortic arch. Mildly dilated
+descending aorta. Complex (>4mm) atheroma in the descending
+thoracic aorta.
+AORTIC VALVE: Three aortic valve leaflets. Moderately thickened
+aortic valve leaflets. Severe AS (AoVA <0.8cm2). Trace AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. No MS. Mild (1+) MR.
+TRICUSPID VALVE: Physiologic TR.
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The rhythm appears
+to be atrial fibrillation. See Conclusions for post-bypass data
+The post-bypass study was performed while the patient was
+receiving vasoactive infusions (see Conclusions for listing of
+medications).
+Conclusions
+PRE-BYPASS:
+1. The left atrium is moderately dilated. Mild spontaneous echo
+contrast is seen in the body of the left atrium. Mild
+spontaneous echo contrast is present in the left atrial
+appendage. The left atrial appendage emptying velocity is
+depressed (<0.2m/s). No thrombus is seen in the left atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Regional left ventricular
+wall motion is normal. Overall left ventricular systolic
+function is normal (LVEF>55%).
+3. Right ventri

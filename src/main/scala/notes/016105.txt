@@ -1,0 +1,154 @@
+Admission Date:  [**2127-3-29**]              Discharge Date:   [**2127-4-10**]
+
+Date of Birth:  [**2060-4-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 106**]
+Chief Complaint:
+acute mi, respiratory failure
+
+Major Surgical or Invasive Procedure:
+percutaneous coronary intervention
+
+History of Present Illness:
+67M with PMH of DM2, HTN, and obesity who presented to OSH
+w/SSCP x 1 hour on [**2127-3-28**]. +N, V, and diaphoresis. EKG
+demonstrated STE V2-V3 so started on heparin and aggrestat and
+transferred to [**Hospital1 18**] for cath. Angiography here revealed 100%
+new occlusion of LAD, moderate LMCA stenosis, and mildly diffuse
+disease of RCA. PCI stenting of LAD with 3.5 x 16 DES. Pt had
+been feeling well PTA, including playing golf 2d PTA.
+
+Past Medical History:
+1. Type II diabetes mellitus
+2. Colon CA
+3. Gout
+
+Social History:
+Lives at home with wife.
+
+Family History:
+NC
+
+Physical Exam:
+VS: HR 97 BP 89/63 on IABP
+Gen: intubated, sedated.
+HEENT: PERRL, MMM, no icterus
+CV: normal S1/S2, no murmurs, rubs, gallps.
+Pul: CTA b/l
+Abd: obese, nt, nd +bs
+Ext: distal pulses intact
+
+Pertinent Results:
+[**2127-3-29**] 04:51AM BLOOD WBC-25.9* RBC-4.44* Hgb-14.0 Hct-41.2
+MCV-93 MCH-31.5 MCHC-33.9 RDW-13.2 Plt Ct-360
+[**2127-3-29**] 04:51AM BLOOD PT-14.8* PTT-63.8* INR(PT)-1.4
+[**2127-3-29**] 04:51AM BLOOD Glucose-411* UreaN-24* Creat-1.3* Na-135
+K-4.2 Cl-100 HCO3-16* AnGap-23
+[**2127-3-30**] 04:29AM BLOOD ALT-130* AST-434* LD(LDH)-[**2076**]*
+CK(CPK)-1532* AlkPhos-65 Amylase-146* TotBili-0.5 DirBili-0.1
+IndBili-0.4
+[**2127-3-29**] 04:51AM BLOOD CK(CPK)-3381*
+[**2127-3-30**] 04:29AM BLOOD CK-MB-395* MB Indx-25.8* cTropnT->25
+
+Echo [**3-30**]: mild symmetric LVH. LV cavity size is normal. Overall
+LV sys fxn severely depressed, EF 15%. Ant and septal severe HK
+and lateral and apical akinesis are present with some some
+preservation of inferior wall motion.
+
+
+Brief Hospital Course:
+1) Cardiovascular:
+
+a) Pump: Mr. [**Known lastname **] was admitted after a large anterior wall MI.
+An echocardiogram performed on [**2127-3-30**] showed anterolateral
+wall akinesis with an approximate EF of 15%. He was initially
+supported on levophed, dopamine and dobutamine, i addition to an
+intraaortic balloon pump.  Dopamine was weaned off on [**3-30**],
+levophed was weaned off on [**4-2**].  Dobutamine was off [**4-3**] but
+restarted [**4-4**].  Beta blockers and ace-inhibitors were held
+while he was maintained on pressors and ionotropic support.
+
+For diuresis, he was placed on a lasix drip at 5-15mg/hr.
+Because he was on so many drips, despite double-concentrating
+them, he required lasix plus nesiritide for adequate diuresis.
+Pt passed away on [**2127-4-10**]
+
+b) Rhythm: during cardiac catheterization, he had a brief
+episode of ventricular tachycardia.  An amiodarone drip was
+started and then discontinued on [**3-30**]. On [**3-31**] however, he went
+into rapid atrial fibrillation which was attributed to volume
+overload.  Cardioversion was attempted twice, followed by
+re-loading amiodarone, and another attempt.  After diuresis and
+several hours on amiodarone, he reverted to normal sinus rhythm
+spontaneously.  He was loaded with 400 PO TID x1 week followed
+by 400mg [**Hospital1 **] [**Last Name (un) 2557**] [**4-7**].
+
+c) Ischemia: his initial ischemic event was likely an acute
+occlusive thrombus of LAD.  He is status post placement of drug
+eluting stents to his LAD.
+Aspirin and atorvastatin were continued.  Heparin drip was
+continued for his IABP and also for his atrial fibrillation and
+low ejection fraction.
+
+Coumadin will be started prior to discharge.
+
+# ID/Respiratory: Post-cath, the patient was found to have
+leukocytosis and fevers.
+He was initially treated with six days of levofloxacin
+([**Date range (1) 12721**]) for empiric treatment of a positive UTI and this was
+changed to vanco + flagyl for empiric treatment MRSA pneumonia.
+He was briefly on aztreonam, flagyl and cipro for broad coverage
+given  some gram negative rods seen on a sputum culture.  On
+[**4-5**] the patient developed an erythematous maculopapular rash on
+his flanks and chest.  On the suspicion that this was a
+drug-rash, and given that the predominant organism on his
+cultures were gram positive cocci, only the vanco-flagyl were
+continued.
+
+# Renal: ARF likley due to poor forward flow, dye load. Urine
+sed w/hyaline casts. ?ATN. Baseline Cr is 1.3.  Creatinine
+improved with dobutamine despite agressive diuresis with I>>>O.
+We continued to monitor creat closely while diuresing.
+
+# Anemia: having little drops every few days - ?phlebotomy
+- transfuse 1 unit pRBC's [**4-5**]
+.
+# Nutrition ?????? NGT insertion for medications. Maintain NPO.
+Nutrition consult.
+.
+# Endo: We maintained tight glucose control with an insulin
+dripg.
+
+# PPx- lansoprazole
+
+# Access-RIJ, left A-line, L arterial sheath with balloon pump
+now d/ced, PIV. Successfully placed L-IJ x2 on [**4-6**] but 1 port
+didn't flow both times so concerned about clot. Plan to switch
+central lines given continued ID concerns.
+
+# Code: FULL CODE
+
+Medications on Admission:
+Aspirin
+Lopressor
+Aggrastat
+Heparin
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Coronary artery disease
+
+Discharge Condition:
+Deceased
+
+

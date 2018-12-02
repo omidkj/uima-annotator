@@ -1,0 +1,182 @@
+Admission Date:  [**2109-9-2**]              Discharge Date:   [**2109-9-13**]
+
+Date of Birth:  [**2054-1-28**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 14062**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+55 y/o female with hx of pulmonary fibrosis thought to be [**2-4**]
+old Tb, prsented to clinic on [**2109-9-2**] with a c/o dyspnea and
+increased productive cough x 1 week.  In clinic, her pulse was
+112, BP 130/70, and O2 sats were 64% on 2L.  She was sent to the
+[**Hospital1 18**] ED, where she was 82% on 2LNC improving to 94% on 4L.  A
+CXR demonstrated a LLL  infiltrate.  CTA was negative for PE but
+confirmed LLL infiltrate.  They tried a trial of BiPAP, and she
+apparently didn't seem comfortable on it so was given 1 mg
+ativan.  She then became somnolent and an ABG was 7.20/107/72 on
+100%.  She was subsequently intubated and sent to the [**Hospital Unit Name 153**].
+
+Past Medical History:
+1. Pulmonary fibrosis thought [**2-4**] old Tb (on right side), on 2L
+O2 at home at baseline, unchanged x 5 yrs
+2. Pulmonary HTN
+3. Osteoporosis
+4. DJD R knee
+5. Thalassemia trait
+6. Depression
+7. Anemia
+8. Tuberculosis, treated in [**2079**] and [**2081**] x 6 months
+9. Attention deficit disorder
+10. Hx pseudomonal pna [**2104**], requiring intubation x 3 weeks
+
+Social History:
+No EtOH, no tobacco
+Lives in [**Hospital1 **], on disability
+
+Family History:
+Mother died of colon CA
+
+Pertinent Results:
+[**2109-9-8**] 05:58AM BLOOD WBC-9.5 RBC-3.74* Hgb-10.5* Hct-33.1*
+MCV-88 MCH-28.2 MCHC-31.9 RDW-13.3 Plt Ct-267
+[**2109-9-7**] 10:30PM BLOOD Hct-32.3*
+[**2109-9-7**] 05:43AM BLOOD WBC-10.1 RBC-3.30* Hgb-9.5* Hct-28.7*
+MCV-87 MCH-28.7 MCHC-33.0 RDW-14.2 Plt Ct-228
+[**2109-9-6**] 11:13PM BLOOD Hct-28.1*
+[**2109-9-6**] 05:15AM BLOOD WBC-11.6* RBC-3.01* Hgb-8.7* Hct-26.9*
+MCV-89 MCH-28.9 MCHC-32.3 RDW-14.1 Plt Ct-214
+[**2109-9-5**] 05:44PM BLOOD WBC-10.0 RBC-3.39* Hgb-9.6* Hct-28.9*
+MCV-85 MCH-28.2 MCHC-33.1 RDW-14.8 Plt Ct-204
+[**2109-9-5**] 04:02AM BLOOD WBC-11.1* RBC-3.26* Hgb-9.3* Hct-28.4*
+MCV-87 MCH-28.4 MCHC-32.6 RDW-14.7 Plt Ct-198
+[**2109-9-4**] 10:11PM BLOOD Hgb-7.9* Hct-24.9*
+[**2109-9-4**] 06:17PM BLOOD Hct-24.8*
+[**2109-9-4**] 04:42AM BLOOD WBC-9.9 RBC-3.02* Hgb-8.5* Hct-27.0*
+MCV-90 MCH-28.3 MCHC-31.6 RDW-13.3 Plt Ct-212
+[**2109-9-3**] 02:12PM BLOOD Hct-26.2*
+[**2109-9-3**] 04:57AM BLOOD WBC-8.3 RBC-3.19* Hgb-9.0* Hct-28.8*
+MCV-90 MCH-28.3 MCHC-31.3 RDW-13.9 Plt Ct-204
+[**2109-9-2**] 01:15PM BLOOD WBC-8.9# RBC-3.92* Hgb-11.1* Hct-35.4*
+MCV-90 MCH-28.3 MCHC-31.4 RDW-13.0 Plt Ct-258
+[**2109-9-8**] 05:58AM BLOOD Neuts-76.1* Lymphs-16.4* Monos-5.1
+Eos-1.6 Baso-0.8
+[**2109-9-7**] 05:43AM BLOOD Neuts-82* Bands-0 Lymphs-12* Monos-3
+Eos-3 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2109-9-3**] 04:57AM BLOOD Neuts-77* Bands-1 Lymphs-16* Monos-5
+Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2109-9-2**] 01:15PM BLOOD Neuts-66 Bands-14* Lymphs-9* Monos-9
+Eos-0 Baso-0 Atyps-0 Metas-2* Myelos-0
+[**2109-9-2**] 01:15PM BLOOD Hypochr-2+ Anisocy-NORMAL Poiklo-NORMAL
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+[**2109-9-8**] 05:58AM BLOOD Plt Ct-267
+[**2109-9-8**] 05:58AM BLOOD PT-14.3* PTT-34.8 INR(PT)-1.3
+[**2109-9-7**] 05:43AM BLOOD Plt Ct-228
+[**2109-9-6**] 05:15AM BLOOD Plt Ct-214
+[**2109-9-6**] 05:15AM BLOOD PT-14.7* PTT-37.2* INR(PT)-1.4
+[**2109-9-5**] 05:44PM BLOOD Plt Ct-204
+[**2109-9-5**] 04:02AM BLOOD Plt Ct-198
+[**2109-9-5**] 04:02AM BLOOD PT-15.6* PTT-33.2 INR(PT)-1.5
+[**2109-9-4**] 04:42AM BLOOD Plt Ct-212
+[**2109-9-4**] 04:42AM BLOOD PT-16.1* PTT-33.7 INR(PT)-1.6
+[**2109-9-3**] 04:57AM BLOOD Plt Ct-204
+[**2109-9-3**] 04:57AM BLOOD PT-15.4* PTT-32.1 INR(PT)-1.5
+[**2109-9-2**] 01:15PM BLOOD Plt Ct-258
+[**2109-9-4**] 04:42AM BLOOD Ret Aut-0.8*
+[**2109-9-8**] 05:58AM BLOOD Glucose-113* UreaN-9 Creat-0.4 Na-142
+K-4.1 Cl-92* HCO3-42* AnGap-12
+[**2109-9-7**] 05:43AM BLOOD Glucose-122* UreaN-6 Creat-0.3* Na-141
+K-4.2 Cl-97 HCO3-39* AnGap-9
+[**2109-9-6**] 05:15AM BLOOD Glucose-92 UreaN-4* Creat-0.3* Na-139
+K-7.5* Cl-101 HCO3-37* AnGap-9
+[**2109-9-5**] 04:02AM BLOOD Glucose-153* UreaN-7 Creat-0.3* Na-138
+K-3.2* Cl-97 HCO3-35* AnGap-9
+[**2109-9-4**] 04:42AM BLOOD Glucose-87 UreaN-10 Creat-0.4 Na-141
+K-5.9* Cl-96 HCO3-34* AnGap-17
+[**2109-9-3**] 04:57AM BLOOD Glucose-133* UreaN-14 Creat-0.4 Na-143
+K-5.3* Cl-103 HCO3-35* AnGap-10
+[**2109-9-2**] 01:15PM BLOOD Glucose-150* UreaN-18 Creat-0.4 Na-147*
+K-4.0 Cl-95* HCO3-39* AnGap-17
+[**2109-9-4**] 04:42AM BLOOD ALT-8 AST-28 LD(LDH)-591* AlkPhos-87
+TotBili-0.4
+[**2109-9-8**] 05:58AM BLOOD Calcium-9.5 Phos-5.0* Mg-2.0
+[**2109-9-7**] 05:43AM BLOOD Calcium-8.5 Phos-4.2 Mg-1.9
+[**2109-9-6**] 05:15AM BLOOD Calcium-7.7* Phos-3.0 Mg-1.8
+[**2109-9-5**] 05:44PM BLOOD Mg-1.9
+[**2109-9-5**] 04:02AM BLOOD Calcium-8.0* Phos-2.2* Mg-2.2
+[**2109-9-4**] 06:17PM BLOOD Mg-1.8
+[**2109-9-4**] 04:42AM BLOOD Albumin-2.7* Calcium-7.9* Phos-3.3 Mg-2.1
+Iron-24*
+[**2109-9-3**] 04:57AM BLOOD Calcium-7.8* Phos-2.0* Mg-1.4*
+[**2109-9-6**] 09:49AM BLOOD VitB12-1641* Folate-19.1
+[**2109-9-4**] 04:42AM BLOOD calTIBC-194* Hapto-496* Ferritn-345*
+TRF-149*
+[**2109-9-3**] 04:57AM BLOOD Cortsol-23.2*
+[**2109-9-7**] 01:58PM BLOOD Type-ART Temp-37.4 Tidal V-270 PEEP-0
+O2-34 pO2-73* pCO2-73* pH-7.35 calHCO3-42* Base XS-10
+Intubat-NOT INTUBA
+[**2109-9-7**] 07:55AM BLOOD Type-ART Temp-37.4 Tidal V-275 PEEP-5
+O2-34 pO2-100 pCO2-71* pH-7.34* calHCO3-40* Base XS-8
+Intubat-INTUBATED Vent-SPONTANEOU
+[**2109-9-6**] 01:27PM BLOOD Type-ART Temp-37.5 Rates-/26 PEEP-5 O2-35
+pO2-82* pCO2-68* pH-7.37 calHCO3-41* Base XS-10
+Intubat-INTUBATED Vent-SPONTANEOU
+[**2109-9-6**] 08:03AM BLOOD pO2-57* pCO2-89* pH-7.25* calHCO3-41*
+Base XS-8
+[**2109-9-6**] 05:22AM BLOOD Type-ART Temp-36.4 pO2-97 pCO2-62*
+pH-7.40 calHCO3-40* Base XS-10
+[**2109-9-5**] 04:02PM BLOOD Type-ART Temp-38.6 Rates-18/0 Tidal V-400
+PEEP-5 O2-35 pO2-108* pCO2-67* pH-7.39 calHCO3-42* Base XS-11
+Vent-CONTROLLED
+[**2109-9-5**] 02:04PM BLOOD Type-ART Temp-38.6 PEEP-5 O2-35 pO2-99
+pCO2-70* pH-7.34* calHCO3-39* Base XS-8 Intubat-INTUBATED
+Vent-SPONTANEOU
+[**2109-9-4**] 04:53AM BLOOD Type-ART Rates-18/ Tidal V-400 PEEP-5
+O2-35 pO2-101 pCO2-55* pH-7.43 calHCO3-38* Base XS-9
+[**2109-9-3**] 05:42AM BLOOD Type-ART Temp-38.7 Rates-18/ Tidal V-414
+PEEP-5 O2-35 pO2-89 pCO2-59* pH-7.36 calHCO3-35* Base XS-5
+Intubat-INTUBATED Vent-IMV
+[**2109-9-2**] 08:41PM BLOOD Type-ART Temp-37.6 Rates-18/0 Tidal V-420
+PEEP-5 O2-40 pO2-86 pCO2-58* pH-7.41 calHCO3-38* Base XS-9
+-ASSIST/CON Intubat-INTUBATED
+[**2109-9-2**] 05:33PM BLOOD Type-ART pO2-86 pCO2-87* pH-7.30*
+calHCO3-45* Base XS-12
+[**2109-9-2**] 01:45PM BLOOD Type-ART O2 Flow-4 pO2-72* pCO2-107*
+pH-7.20* calHCO3-44* Base XS-9 Intubat-NOT INTUBA
+[**2109-9-6**] 08:03AM BLOOD freeCa-1.03*
+[**2109-9-3**] 05:42AM BLOOD freeCa-1.07*
+[**2109-9-2**] 08:41PM BLOOD freeCa-1.00*
+
+Brief Hospital Course:
+1. ID: Given pt's hx of pseudomonal pneumonia, she was
+double-covered for pseudomonas with Ceftazidime 2 g IV q8h and
+Levaquin 500 mg IV QD.  She continued to spike fevers for [**2-5**]
+days, up to 101-102.  Because of this, she was also begun on
+vancomycin.  She eventually defervesced, and her sputum grew
+Pseudomonas aeruginosa (sensitive to ceftaz and levaquin),
+Moraxella catarrhalis, and H. Flu.  Her blood cultures were
+negative x 5.  On [**9-8**], she was clinically stable and it was felt
+she no longer needed vancomycin.  Her Levaquin was changed to
+po.  Pt was continued to be double covered with Ceftaz and Levo
+while in house. Upon transfer to medical service Pt was stable
+and tolerated 4LNC. While on the medical floor Pt remained
+afebrile and hemodynamically stable.  Pt completed a total 10
+day course of ceftazidime and will be sent home on a total 14
+day course of levofloxacin.
+
+2. Pulmonary: The pt remained intubated x6 days.  She was begun
+on trials of pressure support every day beginning on HD#3,
+lasting longer and longer each time.  Her ABGs reflected
+persistent hypercapnia which we felt was likely her baseline
+given her severe lung disease.  On HD#6 she was extubated
+without complication and on HD#7 was transferred to the floor.
+Her CXRs 

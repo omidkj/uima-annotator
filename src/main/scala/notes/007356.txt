@@ -1,0 +1,224 @@
+Admission Date:  [**2139-12-22**]              Discharge Date:   [**2139-12-28**]
+
+Date of Birth:  [**2079-7-1**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Shortness of breath/dizziness/angina
+
+Major Surgical or Invasive Procedure:
+[**2139-12-22**] Coronary artery bypass grafting times one (LIMA>LAD),
+aortic valve replacement with a 21mm St. [**Male First Name (un) 923**] Epic Porcine
+
+
+History of Present Illness:
+This is a 60 year old female with known aortic stenosis who has
+been followed by serial echocardiograms. Her most recent
+echocardiogram in [**2139-10-6**] revealed severe aortic stenosis
+which had significantly worsened from her last echocardiogram in
+[**2139-2-3**]. Recent cath also revealed LAD and CX disease. Given
+the progression and severity of her disease, she has been
+referred for surgical evaluation. Current symptoms include
+dyspnea on exertion and occasional episodes of "burning" in her
+chest with exertion. She denies syncope, PND, orthopnea, but has
+had c/o dizziness which she has been told is vertigo.
+On [**2139-12-22**], she presented for elective CABG and AVR.
+
+Past Medical History:
+Aortic stenosis, probable bicuspid valve
+Coronary Artery Disease
+? TIA [**2128**]
+Hypertension
+Diabetes Mellitus
+Dyslipidemia
+Hypothyroidism
+Obesity
+Mild COPD, recent bronchitis
+Sleep Apnea, on CPAP
+History of Detached Retina after MVA/legally blind R eye
+GERD
+Depression
+Right Bundle Branch Block
+vertigo
+peripheral neuropathy
+? claudication vs. fatigue (R>L)
+Past Surgical History:
+s/p Left Hip Surgery
+R eye [**Doctor First Name **]
+Past Cardiac Procedures:
+None
+
+Social History:
+Lives with:alone, family nearby
+Occupation:retired
+Cigarettes: Smoked no [x] yes [] last cigarette _____ Hx:
+Other Tobacco use:none
+Illicit drug use-none
+
+Family History:
+unknown
+
+Physical Exam:
+Pulse: Resp:  O2 sat:
+B/P  Right:  145/69  Left: 143/73
+Height: 63"     Weight: 200
+
+General:NAD, obese,walks slowly
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [] EOMI [x]** decreased reactivity of R pupil due
+to large iridectomy
+Neck:  Supple [x] Full ROM []no JVD appreciated
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [x] grade [**3-11**] holosystolic
+radiates to B carotids______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel
+sounds-hypoactive;obese
+Extremities: Warm [x], well-perfused [x]  Edema [] _none____
+Varicosities: None [x]
+Neuro: Grossly intact ;MAE [**4-9**] strengths; nonfocal exam
+Pulses:
+Femoral      Right:trace to 1+   Left:trace to 1+
+DP           Right: 1+  Left:1+
+PT           [**Name (NI) 167**]: NP  Left:NP
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit: murmur radiates to B carotids
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 24646**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 24647**] (Complete)
+Done [**2139-12-22**] at 10:57:56 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2079-7-1**]
+Age (years): 60 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Aortic valve disease.
+ICD-9 Codes: 786.51, 424.1
+Test Information
+Date/Time: [**2139-12-22**] at 10:57    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16164**], MD
+Test Type: TEE (Complete)
+3D imaging. Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16164**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2012AW-:1 Machine: 1
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%
+
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal
+interatrial septum.
+
+LEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size.
+Normal regional LV systolic function.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Simple atheroma in ascending aorta.
+Simple atheroma in descending aorta. No thoracic aortic
+dissection.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Critical AS (area <0.8cm2).
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Written informed consent was obtained from the
+patient. A TEE was performed in the location listed above. I
+certify I was present in compliance with HCFA regulations. The
+patient was under general anesthesia throughout the procedure.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PREBYPASS: Severe AS with valve area of 0.7 cm2. Normal LV
+systolic function with LVEF > 55% and moderate LVH. The left
+atrium is mildly dilated. There is moderate symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Regional left ventricular wall motion is normal. Right
+ventricular chamber size and free wall motion are normal. There
+are simple atheroma in the ascending aorta. There are simple
+atheroma in the descending thoracic aorta. No thoracic aortic
+dissection is seen. The aortic valve leaflets are severely
+thickened/deformed. There is critical aortic valve stenosis
+(valve area <0.8cm2). The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is no
+pericardial effusion. Intact interatrial septum. No clot seen in
+LAA. Normal coronary sinus. Significant diastolic dysfunction
+with e' < 8 cm/sec.
+
+POSTBYPASS: Normal LV systolic function Normal functioning
+mechanical valve prosthesis. Otherwise no change.
+  Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16164**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2139-12-25**] 10:30
+
+[**2139-12-25**] 05:11AM BLOOD WBC-10.3 RBC-3.04* Hgb-9.4* Hct-27.7*
+MCV-91 MCH-31.0 MCHC-34.0 RDW-13.9 Plt Ct-167
+[**2139-12-25**] 05:11AM BLOOD Glucose-122* UreaN-37* Creat-1.4* Na-143
+K-4.3 Cl-105 HCO3-29 AnGap-13
+
+Brief Hospital Course:
+On [**2139-12-22**], Ms. [**Known lastname **] [**Last Name (Titles) 1834**] an elective coronary artery
+bypass grafting times one and aortic valve replacement with a
+porcine tissue valve. She tolerated the procedure well and was
+transferred in critical but stable condition to the surgical
+intensive care unit. By the following day she was extubated.
+Her chest tubes were removed. She transferred to the surgical
+step down floor.  Her epicardial wires were removed.  She was
+seen by physical therapy. By post-operative day four she was
+ready for discharge to [**Hospital 671**] Healthcare in [**Location (un) 4047**].  Her
+expected length of stay at this rehab is less than thirty days.
+All follow-up appointments were advised.
+
+Medications on Admission:
+ALBUTEROL SULFATE [PROAIR HFA] -  (Prescribed by Other Provider)
+- 90 mcg HFA Aerosol Inhaler - 2 puffs inh prn
+AMITRIPTYLINE -  (Prescribed by Other Provider) - 25 mg Tablet -
+1 Tablet(s) by mouth once a day
+CITALOPRAM -  (Prescribed by Other Provider) - 40 mg Tablet -
+1.5
+Tablet(s) by mouth once a day
+FUROSEMIDE -  (Prescribed by Other Provider) - 40 mg Tablet - 1
+Tablet(s) by mouth once a day
+INSULIN ASPART [NOVOLOG FLEXPEN] -  (Prescribed by Other
+Provider) - 100 unit/mL Insulin Pen - 100 units sc as directed
+INSULIN GLARGINE [LANTUS] -  (Prescribed by Other Provider) -
+100
+unit/mL Solution - 0.1mg once a day
+LEVOTHYROXINE -  (Prescribed by Other Provider) - 50 mcg Tablet
+-
+1 Tablet(s) by mouth once a day
+METOPROLOL TARTRATE [LOPRESSOR] -  (Prescribed by Other
+Provider)
+- 100 

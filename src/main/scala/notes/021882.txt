@@ -1,0 +1,200 @@
+Admission Date:  [**2167-7-9**]              Discharge Date:   [**2167-7-18**]
+
+Date of Birth:  [**2087-3-24**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+CC:[**CC Contact Info 29592**]
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization on [**7-9**]
+
+coronary artery bypass graftx4 (LIMA-LAD, SVG-Dx1, SVG-Dx2,
+SVG-OM) [**2167-7-14**]
+
+
+History of Present Illness:
+This is an 80 yo Chinese male with history of HTN and chest pain
+on exertion for the last 3-4 years who came in for a stress test
+on the day of admission. During the stress test, patient
+exercised for 6 minutes on [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4001**] protocol and was stopped
+for marked ST segment depression. Due to the stress test
+results, he was sent to have cardiac cath which revealed 3
+vessel disease and was evaluated for cardiac surgery.
+
+
+Past Medical History:
+coronary artery disease, Hypertension, hyperlipidemia
+
+Social History:
+SOCIAL HISTORY: He lives with his wife in [**Name (NI) 16080**]. He is a
+retired Electrical enginer. He smoked 2 pcks per day for 20yrs,
+stopped 20 years ago. He denies drinking or using illicit drugs.
+
+Family History:
+ Non- contributory
+
+Physical Exam:
+Pulse: 70     Resp: 16      O2 sat: 98% RA
+B/P  Right:167/75    Left:
+Height: 5'5"    Weight: 150 lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur (-)
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact. moves 4 ext / R handed, follows commands
+Pulses:
+Femoral      Right: palp 2+  Left: palp 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) 167**]:   Left:
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right: -   Left: -
+
+
+Pertinent Results:
+[**2167-7-16**] 05:30AM BLOOD WBC-8.6 RBC-3.06* Hgb-10.1* Hct-28.4*
+MCV-93 MCH-32.9* MCHC-35.4* RDW-13.5 Plt Ct-98*
+[**2167-7-14**] 06:39PM BLOOD PT-15.3* PTT-52.6* INR(PT)-1.3*
+[**2167-7-16**] 05:30AM BLOOD Glucose-113* UreaN-16 Creat-1.3* Na-137
+K-4.1 Cl-102 HCO3-25 AnGap-14
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 1955**]       [**Hospital1 18**] [**Numeric Identifier 29593**]TTE (Complete) Done
+[**2167-7-10**] at 12:15:24 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Last Name (LF) **], [**First Name11 (Name Pattern1) 900**] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 18**] Cardiac Electrophysiology
+[**Street Address(2) 8667**], [**Hospital Ward Name **] 4
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2087-3-24**]
+Age (years): 80 M  Hgt (in): 65
+BP (mm Hg): 129/52  Wgt (lb): 150
+HR (bpm): 60  BSA (m2): 1.75 m2
+Indication: Evaluate for Left ventricular function/EF/ Valvular
+heart disease. History of Coronary artery disease.
+ICD-9 Codes: 414.8, 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2167-7-10**] at 12:15    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD
+Test Type: TTE (Complete) Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) 2270**] [**Last Name (NamePattern1) **]
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2009W011-1:01 Machine: Vivid [**7-22**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.9 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.9 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.6 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.7 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  1.9 cm
+Left Ventricle - Fractional Shortening:  0.60  >= 0.29
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%
+Left Ventricle - Lateral Peak E':  *0.08 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.06 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  11  < 15
+Aorta - Sinus Level:  2.9 cm  <= 3.6 cm
+Aorta - Ascending:  3.0 cm  <= 3.4 cm
+Aorta - Arch:  2.5 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  1.9 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  0.8 m/sec
+Mitral Valve - A Wave:  1.0 m/sec
+Mitral Valve - E/A ratio:  0.80
+Mitral Valve - E Wave deceleration time:  226 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *36 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+regional/global systolic function (LVEF>55%). Transmitral
+Doppler and TVI c/w Grade I (mild) LV diastolic dysfunction. No
+resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal diameter of aorta at the sinus, ascending and arch
+levels.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.
+Mild mitral annular calcification. Calcified tips of papillary
+muscles. Mild (1+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+Conclusions
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Transmitral
+Doppler and tissue velocity imaging are consistent with Grade I
+(mild) LV diastolic dysfunction. Right ventricular chamber size
+and free wall motion are normal. The diameters of aorta at the
+sinus, ascending and arch levels are normal. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. There is mild
+pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Aortic valve sclerosis without stenosis. Mild aortic and mitral
+regurgitation. Mild pulmonary hypertension.
+  Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2167-7-10**] 14:00
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 80 yo chinese male with history of history of HTN
+and chest pain on exertion for the last 3-4 years who came in to
+stress test on [**2167-7-9**] which showed Complex three vessel
+coronary artery disease and patient was worked up for CABG.
+
+# CAD: The cardiac cath  revealed three vessel disease. The LAD
+had a 60% proximal lesion and a 80% stenosis in a major,
+bifurcation diagonal branch. The LCx had multiple stenosis with
+90% proximal lesion and complex 95% mid to distal lesion with
+the distal vessel filling via right to left collaterals. The RCA
+had a 50% proximal
+stenosis, 90% mid stenosis, 60% distal stenosis, and severe
+diffuse
+disease in the PDA. No interventions were done at the time.  He
+was evaluated by cardio-thoracic surgery and was in the cardiac
+services waiting for Plavix washout. He received one dose of
+Plavix on [**7-9**] in the afternoon.
+
+-Echo was done on [**7-10**] showed : Mild symmetric left ventricular
+hypertrophy with preserved global and regional biventricular
+systolic function. Aortic valve sclerosis without stenosis. Mild
+aortic and mitral regurgitation. Mild pulmonary hypertension
+
+-Carotid US was done [**7-10**]: Duplex evaluation was performed of
+bilateral carotid arteries. On the right there is moderate
+calcified heterogenous plaque seen . On the left there is mild
+complex plaque seen. Right ICA stenosis <40% and Left ICA
+stenosis <40%.

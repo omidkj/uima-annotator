@@ -1,0 +1,200 @@
+Admission Date:  [**2117-7-29**]              Discharge Date:   [**2117-8-6**]
+
+Date of Birth:  [**2059-9-20**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Dilaudid
+
+Attending:[**First Name3 (LF) 473**]
+Chief Complaint:
+Common bile duct stones
+Cholecystitis
+
+Major Surgical or Invasive Procedure:
+[**2117-7-29**]:
+1. Open cholecystectomy with open common bile duct exploration.
+2. Choledochoduodenostomy biliary bypass.
+
+
+History of Present Illness:
+Mr. [**Known firstname **] [**Known lastname 13427**] is a 57 y/o malnourished men with a history
+of common bile duct stones and impacted gallbladder not
+treatable by endoscopic measures. He has a history of multiple
+abdominal procedures over the years culminating in total
+gastrectomy with Roux-en-Y jejuno-esophagogastrostomy
+anastomosis.  He has had gastric ulcers for over 30 years.
+Patient on chronic TPN use at home. Also, patient has a history
+of COPD, he is not using home O2 and reports that his COPD is
+stable for long time.
+
+Past Medical History:
+PMH: PUD, gastric atony, COPD, Malnutrition, on TPN at home x
+few years
+
+PSH: s/p BII distal gastrectomy '[**93**], s/p complection
+gastrectomy, rny esophagojejunostomy '[**03**]
+
+
+Social History:
+He is a current smoker. He has been smoking for over 40 years,
+at most at 4 packs daily. In the last year he has cut down and
+is now smoking 6 cigs/day. No current cravings in the hospital.
+No EtOH use in years. No drug use. No other inhalants. He worked
+as a carpenter for years and believes he has had some asbestos
+exposure with this. He has a cat at home; no other animal
+exposures including no birds.
+
+Family History:
+His brother recently died of lung cancer, also had COPD. Wife
+died 15 years ago from CVA.
+
+Physical Exam:
+On Discharge:
+98.8, 86, 124/64, 16, 94% on 1 L n/c
+Gen: Cachectic male, appears older than stated age
+CV: RRR, no m/r/g
+Pulm: Bilateral anterior/posterior expiratory wheezes, R > L
+Abd: Slightly distended, midline incision open to air with steri
+strips c/d/i
+Extr: Thin, warm, no e/c.
+Coccyx: Stage 2 ulcer with mepilex dsg
+
+
+Pertinent Results:
+[**2117-7-29**] 05:25PM BLOOD WBC-5.7 RBC-4.35* Hgb-7.1* Hct-25.5*
+MCV-59* MCH-16.3* MCHC-27.9* RDW-22.9* Plt Ct-263
+[**2117-7-30**] 01:40AM BLOOD Glucose-130* UreaN-17 Creat-0.6 Na-131*
+K-4.0 Cl-100 HCO3-24 AnGap-11
+[**2117-7-30**] 01:40AM BLOOD AlkPhos-708* Amylase-41 TotBili-1.6*
+[**2117-7-30**] 01:40AM BLOOD Albumin-2.5* Calcium-7.4* Phos-4.3 Mg-1.7
+Iron-227*
+[**2117-8-3**] 04:18AM BLOOD Temp-37.1 pO2-227* pCO2-47* pH-7.43
+calTCO2-32* Base XS-6 Comment-NON-REBREA
+[**2117-8-4**] 04:34AM BLOOD WBC-4.9 RBC-3.86* Hgb-7.9* Hct-26.6*
+MCV-69* MCH-20.3* MCHC-29.5* RDW-26.4* Plt Ct-280
+[**2117-8-6**] 06:10AM BLOOD Glucose-159* UreaN-26* Creat-0.6 Na-139
+K-4.8 Cl-106 HCO3-26 AnGap-12
+[**2117-8-6**] 06:10AM BLOOD Calcium-8.5 Phos-4.0 Mg-2.2
+
+MICROBIOLOGY:
+[**2117-7-29**] 1:22 pm SWAB      BILE.
+                  **FINAL REPORT [**2117-8-3**]**
+GRAM STAIN (Final [**2117-7-29**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+WOUND CULTURE (Final [**2117-8-3**]):
+      ESCHERICHIA COLI.    SPARSE GROWTH.
+      ESCHERICHIA COLI.    RARE GROWTH.  SECOND MORPHOLOGY.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------  =>32 R     =>32 R
+AMPICILLIN/SULBACTAM--     8 S        4 S
+CEFAZOLIN-------------   <=4 S      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R     =>16 R
+
+   ANAEROBIC CULTURE (Final [**2117-8-2**]):    NO ANAEROBES ISOLATED.
+
+[**2117-8-1**] 6:54 pm MRSA SCREEN      Source: Nasal swab.
+                 **FINAL REPORT [**2117-8-4**]**
+MRSA SCREEN (Final [**2117-8-4**]):    No MRSA isolated.
+
+RADIOLOGY:
+[**2117-7-29**] CHEST PORT:
+IMPRESSION:
+1. The tip of the left PICC line is positioned in the mid SVC.
+2. Marked right-sided mediastinal shift, with right middle lobe
+atelectasis, unchanged in appearance.
+[**2117-8-1**] CHEST PORT:
+There is new left upper lung consolidation as well as new left
+basal opacity, findings that are highly concerning for interval
+development of aspiration or rapidly progressing infection.
+Small right pleural effusion is unchanged. There is also no
+change in the right mediastinal shift. There is no evidence of
+pneumothorax.
+[**2117-8-1**] CHEST CTA:
+IMPRESSION:
+1. No evidence of central pulmonary embolism or acute aortic
+pathology.
+2. Right middle lobe complete atelectasis/collapse with
+cardiomediastinal
+shift to the right.
+3. Asymmetric left pulmonary interstitial edema
+[**2117-8-2**] CHEST PORT:
+FINDINGS: In comparison with the study of [**8-1**], there is
+continued increased opacification involving much of the left
+lung. The findings are again worrisome for diffuse aspiration or
+pneumonia. Mediastinal shift to the right is again seen.
+[**2117-8-2**] ABD PORT:
+IMPRESSION: No evidence of ileus or obstruction.
+[**2117-8-3**] CHEST PORT:
+FINDINGS: In comparison with the study of [**8-2**], there appears to
+be some
+decrease in the diffuse opacification involving much of the left
+lung. Again, the findings are concerning for diffuse aspiration
+or pneumonia. Mediastinal shift to the right is again seen.
+
+
+
+
+Brief Hospital Course:
+The patient was admitted to the General Surgical Service for
+treatment of his chronic cholecystitis and cholelithiasis .  On
+[**2117-7-29**], the patient underwent open cholecystectomy with open
+common bile duct exploration and choledochoduodenostomy biliary
+bypass, which went well without complication (reader referred to
+the Operative Note for details). After a brief, uneventful stay
+in the PACU, the patient arrived on the floor NPO, on IV fluids
+and antibiotics, with a foley catheter, and epidural catheter
+with Bupivacaine and Morphine PCA for pain control. Post
+operatively patient had hypotension with SBP 70-80s, which was
+corrected with fluid boluses. On POD # 1, Acute Pain service
+increased patient's bupivacaine rate and after that patient's
+SBP decreased to 66. Patient was triggered, APS was called and
+epidural catheter was removed. After removal of epidural,
+patient's SBP improved to 110-120s and continue to be WNL during
+hospitalization. Post-operatively, the [**Hospital 228**] hospital course
+is as follows by systems:
+
+Neuro: Patient has a history of chronic Percocet use for his
+chronic pain. Post operatively, patient was started on epidural
+with bupivacaine and Morphine PCA. Epidural was discontinued on
+POD # 1 s/t low blood pressure. Patient was continue on Morphine
+PCA with good effect and adequate pain control.  When tolerating
+oral intake, the patient was transitioned to oral pain
+medications. Currently he is on Oxycodone 10-15 mg Q4H. Patient
+instructed to continue f/u with his PCP regarding chronic pain
+management and refills for pain medication.
+
+CV: On POD #1, patient had episodes of hypotension, which though
+to be related to epidural catheter. After removal of epidural
+catheter, patient's BP was WNL. The patient remained stable from
+a cardiovascular standpoint; vital signs were routinely
+monitored.
+
+Pulmonary: Patient is a current smoker and has a history of
+COPD. Postoperatively his O2 Sats were 99% on 3L n/c.
+Pulmonology was consulted and their recommendations were
+followed. On POD#3, patient was triggered, he desaturated to 70s
+on 5L n/c and patient was transferred in ICU for further
+management. In ICU, chest radiogram was concerning for new onset
+of pneumonia. Patient was started on antibiotics and aggressive
+nebulizers. On POD # 4, patient's respiratory status stabilized
+and he was transferred back on the floor. On the floor patient
+was continue on supplemental O2, abx and nebulizers treatment.
+Pulmonology recommended home O2 on disc

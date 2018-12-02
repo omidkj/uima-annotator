@@ -1,0 +1,183 @@
+Admission Date:  [**2121-3-17**]              Discharge Date:   [**2121-3-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+Strawberry / Egg
+
+Attending:[**First Name3 (LF) 613**]
+Chief Complaint:
+Productive Cough, hypoxia, MS changes
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+[**Age over 90 **] yo F w/ h/o HTN, CVA, hyperlipidemia was brought via
+Ambulance from [**Hospital1 **] to [**Hospital1 18**] for worsening productive cough,
+found to be hypoxic per VNA at 80% while lying down and 85%
+sitting up, as well as noticed to be confused with MS changes.
+Pt lives independently in [**Hospital3 **], however, in setting
+of recent discharge 4 days ago from the hospital for [**Name (NI) 25730**] PNA, pt
+had VNA services to monitor post discharge status. Pt was
+recently admitted for 2 weeks with [**Name (NI) 25730**] PNA and MS changes which
+were attributed to PNA. She was treated with Azithromycin for 2
+weeks and was not sent home on any antiobiotics. Prior to this
+recent hospitalization at an OSH, she completed 2 courses of
+Levaquin for a R sided ear infection. At that time she also c/o
+R sided temporal pain, R sided jaw pain and ear pain. She has
+had several problems w/her ears in the past for which she sees
+and Ear doctor on occasions. After her stroke ~5 years ago she's
+had hearing difficulties b/l, R ear> deficit than L, and is
+blind in R eye.
+.
+Pt was feeling well at home, however, son noticed that 2 days
+after discharge was starting to c/o R ear pain, increasing
+productive cough, and once again MS changes. Her VNA found pt
+hypoxic as noted above and called her PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] whom
+recommended pt be brought into [**Hospital1 18**] ED for further care. In [**Name (NI) **]
+pt was afebrile, noted to have EKG changes (ST dep V5-V6, AF,
+L-axis deviation), BNP elevated at [**Numeric Identifier 65873**], and a WBC of 19.4 with
+lactate 2.4. She received ASA 325, blood cultures drawn,
+Ceftriaxone 1gm IV X1, and Azithromycin 500mg PO x1.
+.
+On further ROS: Pt denied any F/C/Sweats. PT denies any
+CP/Palpitations/SOB. Pt also denies myalgias, and arthralgias.
+Productive cough as noted above, N/V x1, no abdominal pain, no
+change in bowel habits and no BRBPR or blood in stools. Pt with
+urinary incontinence x years on ditropan, denies any dysuria. Pt
+also denies HA/Lightheadedness/Dizziness.
+
+
+Past Medical History:
+-HTN
+-Hypercholesterolemia
+-CVA ~4-5 years ago
+-Bladder incontinence
+-Blind R eye s/p laser surgery
+-Colon CA s/p surgical removal of cancerous polyp 15 years ago
+
+Social History:
+-Pt lives independently in [**Hospital3 400**] w/VNA services. Has
+11 siblings and sons check in on Pt often.
+-Pt smoked 1ppweek x 1-2year(s), quit ~>60 years ago.
+-Drinks 1 glass of wine occasionally with dinner
+-Denies any other drug use, OTC meds
+
+Family History:
+-Parents and several siblings with DM c/b limb amputations, h/o
+HTN, Colon CA-brother
+
+Physical Exam:
+-V 97.4 HR 75 BP 112/52 RR32 100%2LNC
+-GEN: NAD
+-HEENT: Lpupil RRL, Rpupil fixed-surgical scar minimally RL,
+anicteric sclera, OP Clear-no exudates, submandibular LAD-non
+tender, no thyromegaly, L-Ear with extremely narrowed
+canal-unable to visualize TM [**1-30**] cerumen, R-Ear also w/narrowed
+canal and unable to visualize TM, Dry MM
+-RESP: Rhonchi throughout, no crackles, no wheezing, no stridor
+
+-CV: Irreg, Nml S1,S2, No M/R/G, JVP well below mandible
+-ABD: Soft ND/NT +BS
+-EXT: minimal non-pitting edema at ankles, warm, 1+DP pulses b/l
+
+-NEURO: A&OX2(self, place)
+
+Pertinent Results:
+[**2121-3-17**] CXR:
+IMPRESSION:
+1. Findings remain concerning for early pneumonia in the right
+upper lobe and possibly in the periphery of the left lower lobe.
+Followup radiographs are suggested to document resolution
+following appropriate therapy.
+2. Small bilateral pleural effusions.
+.
+
+Brief Hospital Course:
+AP: [**Age over 90 **] yo F w/h/o recent hospitalization for [**Age over 90 25730**] PNA p/w new RUL
+PNA, ear pain, jaw pain and MS changes.
+.
+On arrival to the floor, pt appear cool and pale, sats in the
+80's. Placed on NRB. BP 178/ , HR 120's. Exam concerning for
+flash pulmonary edema. 10 mg lopressor, 2 mg morphine, nitro
+gtt, lasix 40 mg IV given. ABG 7.21/70/61. Transferred to MICU
+for further monitoring. In MICU, given NIPPV, nitro drip. With
+control of rate and HTN, patient's BP, HR, O2 sat improved and
+patient was called out to floor.
+.
+#. PNA: Pt was recently discharged from an OSH w/[**Age over 90 25730**] PNA
+completing a course of Azithromycin for 2 weeks. Pt represents
+with worsening productive cough, and new infiltrate on CXR,
+elevated WBC.  She was started on Ceftriaxone and Vanco added
+while in MICU for worsening respiratory distress. In setting of
+worsening consolidations b/l on CXR, increased WBC and fevers
+her ABX were switched to Vanco and Zosyn. Her Ulegionella was
+negative and blood cultures were NGTD. She required daily Chest
+PT multiple times/day, Atrovent/Albuterol nebs standing, nasal
+suction daily as she was very rhonchorous with excessive amounts
+on pulmonary consolidation/junk. Sputum w/GPC in pairs. She was
+maintained on supplemental O2 sating at 92-94% 2LNC.
+.
+.
+#. Elevated CK/Tn-T: Pt noted to have elevated CE and ST segment
+depression in precordial lateral leads. Pt denies any
+CP/palpitations or SOB but may be demand ischemia in setting of
+multilobar PNA and new onset AF and may not necessarily be
+NSTEMI.
+*CAD: Pt has no known h/o MI or CAD, however new onset AF.  Her
+CE were elevated in setting of HTN, multilobar PNA, EKG changes
+c/w demand ischemia. While pt in MICU, per team and family
+wishes decided to medically manage and optimize BP control as pt
+would not undergo invasive interventions (ie cath). Her CE were
+not continued to follow in setting of medical management and
+optimized BP, rate control. She was continued on BB, ASA,
+Statin. However on [**2121-3-21**] she started to have melena and her
+ASA was d/c'd. She remained CP free throughout her course.
+.
+*PUMP: Pt w/no known h/o CHF but has occasional LE edema, and
+elevated BNP
+--ECHO showed hyperdynamic EF 70%, no wall motion abnormalities
+but showed mild-mod AR. She required 40IV Lasix daily since
+[**2121-3-17**] for crackles and pulm edema on CXR.
+.
+*RHYTHM: Pt w/new onset AF, no h/o being on coumadin in past. In
+setting of increased risk vs. benefit, she was not
+anticoagulated. She also started to have melena which made
+anticoagulating contraindicated.
+.
+.
+# HTN: Pt w/known HTN on Atenolol and HTCZ at home. On
+presentation to ED, BP stable, however BP elevated to 220 SBP
+while on floor. She was started on Nitro gtt but weaned off
+quickly and controlled with BB. Pt also noted to be in RAF and
+dilt was added which also helped w/BP control. While on floor
+her BP was well controlled on both Dilt and BB. However, she
+started to have melena on [**3-21**] and her BB was not titrated up
+for BP controlled.
+.
+#. Melena: Pt started to have melena on [**2121-3-20**]. Pt denied any
+abdominal pain, no hematemasis or hematochezia. Pt's hct
+remained stable at 28-30. Per pt's family who was very involved
+in her care, did not want invasive interventions for the pt.
+Options of EGD/[**Last Name (un) **] were brought up but family had not made
+decision whether they wanted further invasive procedures for the
+pt. She was followed clinically  with serial HCT checks.
+.
+.
+# R sided Ear pain/Temporal/Jaw pain: Pt w/ possible Temporal
+arteritis, however no tenderness to palpation over R temporal
+area or Jaw area on exam. Difficult to visualize TMs w/poor
+anatomy.  ESR sent and level at 36 not concerning for TA.
+Continued standing dose of tylenol for analgesia. Head CT also
+noted for Possible partial opacification of the right mastoid
+air cells.
+.
+#. MS changes: Pt with MS changes during recent hospitalization
+in setting of PNA as well as some MS changes on current
+presentation. Pt was put on Remeron at OSH for delirium with
+poor effect.  Pt with multiple RF for delirium, ICU delirium, in
+different hosp rooms during admission, [**Age over 90 **] years of age, and
+multilobar PNA. Per [**Female First Name (un) 1634**] consult and concern for MS changes,
+Heat CT obtained without evidence 

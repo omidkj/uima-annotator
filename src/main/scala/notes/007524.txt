@@ -1,0 +1,212 @@
+Admission Date:  [**2165-12-31**]              Discharge Date:   [**2166-1-6**]
+
+Date of Birth:  [**2128-2-24**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamides) / Bentyl / Demerol
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+Heart murmur
+
+Major Surgical or Invasive Procedure:
+[**2165-12-31**] Bentall Procedure utilizing a 25mm St. [**Male First Name (un) 923**] Mechanical
+Aortic Valved Graft
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 37 year old male who was recently noted to have a
+significant change in long standing history of heart murmur. A
+follow up echocardiogram revealed bicuspid aortic valve with
+severe aortic insufficiency. It was also notable for a dilated
+aortic root and ascending aortic aneurysm measuring 7.5
+centimeters. Subsequent chest CT scan confirmed marked
+dilatation of the ascending thoracic aorta measuring up to 8.4 x
+8.5 cm. In preperation for cardiac surgical intervention, he
+underwent coronary CT angiogram which showed a left dominant
+system and normal coronary arteries.
+
+Past Medical History:
+Biscuspid Aortic Valve, Aortic Insufficiency, Aortic Aneurysm,
+History of Migraine Headaches, Asthma, Chronic Rhinitis
+
+
+Social History:
+Denies tobacco. Admits to only social ETOH. Currently lives with
+his partner and works in data and information management.
+
+Family History:
+Denies premature coronary artery disease
+
+Physical Exam:
+Vitals: 110/50, 76, 12
+General: WDWN male in no acute distress
+HEENT: Oropharynx benign, EOMI
+Neck: Supple, no JVD
+Lungs: CTA bilaterally
+Heart: Regular rate and rhythm, [**4-19**] diastolic murmur throught
+precordium
+Abdomen: Soft, nontender with normoactive bowel sounds
+Ext: Warm, no edema
+Pulses: 2+ distally(bounding)
+Neuro: Alert and oriented, CN 2- 12 grossly intact, no focal
+deficits noted
+
+Pertinent Results:
+[**2166-1-6**] 09:10AM BLOOD WBC-4.9
+[**2166-1-6**] 06:30AM BLOOD WBC-3.7* RBC-3.32* Hgb-8.7* Hct-26.6*
+MCV-80* MCH-26.0* MCHC-32.6 RDW-17.3* Plt Ct-322
+[**2166-1-6**] 06:30AM BLOOD PT-37.0* PTT-51.7* INR(PT)-3.9*
+[**2166-1-6**] 06:30AM BLOOD Plt Ct-322
+[**2165-12-31**] 12:56PM BLOOD PT-15.5* PTT-51.8* INR(PT)-1.4*
+[**2165-12-31**] 12:56PM BLOOD Plt Ct-216
+[**2166-1-6**] 06:30AM BLOOD Glucose-93 UreaN-16 Creat-1.4* Na-135
+K-4.2 Cl-97 HCO3-29 AnGap-13
+[**2165-12-31**] 02:06PM BLOOD UreaN-12 Creat-1.2 Cl-112* HCO3-25
+[**2166-1-6**] 06:30AM BLOOD Mg-1.9
+
+RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  [**2166-1-4**] 9:51 PM
+
+CHEST (PA & LAT)
+
+Reason: assess for cardiopulmonary process
+
+[**Hospital 93**] MEDICAL CONDITION:
+37 year old man s/p Bentall procedure (AVR garft) POD4 with
+fever
+REASON FOR THIS EXAMINATION:
+assess for cardiopulmonary process
+CHEST SINGLE VIEW ON [**1-4**]
+
+HISTORY: Status post AV graft with fever.
+
+FINDINGS: A prosthetic aortic valve, sternotomy wires, and
+mediastinal clips are unchanged. There continues to be bibasilar
+volume loss with small bilateral effusions that are not
+significantly changed compared to the prior day. There is no new
+infiltrate.
+
+DR. [**First Name (STitle) **] [**Doctor Last Name **]
+Approved: SUN [**2166-1-5**] 9:51 AM
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 74530**] (Complete)
+Done [**2165-12-31**] at 11:50:51 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Last Name (Prefixes) 413**], [**First Name3 (LF) 412**]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2128-2-24**]
+Age (years): 37 M  Hgt (in): 70
+BP (mm Hg): 110/50  Wgt (lb): 165
+HR (bpm): 70  BSA (m2): 1.93 m2
+Indication: Intraop Bentall evaluate valves, aortic contours,
+ventricular function
+ICD-9 Codes: 441.2, 424.1
+Test Information
+Date/Time: [**2165-12-31**] at 11:50    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW2-: Machine: 2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.0 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.9 cm
+Left Ventricle - Fractional Shortening:  0.35  >= 0.29
+Left Ventricle - Ejection Fraction:  50% to 60%  >= 55%
+Left Ventricle - Peak Resting LVOT gradient:  3 mm Hg  <= 10 mm
+Hg
+Aorta - Annulus:  2.9 cm  <= 3.0 cm
+Aorta - Ascending:  *8.2 cm  <= 3.4 cm
+Aorta - Arch:  2.3 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  1.9 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  4 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  2 mm Hg
+Aortic Valve - Valve Area:  5.5 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  0.7 m/sec
+Mitral Valve - Mean Gradient:  1 mm Hg
+Mitral Valve - Pressure Half Time:  71 ms
+Mitral Valve - MVA (P [**1-15**] T):  2.8 cm2
+Mitral Valve - E Wave:  0.7 m/sec
+Mitral Valve - A Wave:  0.7 m/sec
+Mitral Valve - E/A ratio:  1.00
+Mitral Valve - E Wave deceleration time:  200 ms  140-250 ms
+
+Findings
+LEFT ATRIUM: LA not well visualized.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+
+LEFT VENTRICLE: Mild symmetric LVH. Moderately dilated LV
+cavity. Overall normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Markedly dilated aortic sinus. Markedly dilated ascending
+aorta. Normal aortic arch diameter. Normal descending aorta
+diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Bicuspid aortic valve. No AS. AR vena contracta is
+>0.6cm. Severe (4+) AR.
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. [**First Name (Titles) **] [**Last Name (Titles) **]S. Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+Conclusions
+Pre bypass: There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity is moderately dilated.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+The aortic root is markedly dilated at the sinus level with
+complete absence of the sinotubular junction. The ascending
+aorta is markedly dilated with a large ascending arotic
+aneurysm. The distal aspect cannot be appreciated, but the
+aortic arch size appears normal at the mid and distal extent.
+There are simple atheroma in the descending thoracic aorta. The
+aortic valve is bicuspid. There is no aortic valve stenosis. The
+aortic regurgitation vena contracta is >0.6cm. Severe (4+)
+aortic regurgitation is seen. The mitral valve appears
+structurally normal with trivial mitral regurgitation. Trivial
+mitral regurgitation is seen.
+
+Post Bypass: Patient is a paced on phenylepherine infusion.
+Biventricular function is normal. Aortic valve mechanical
+prosthethesis insitu peak gradient 10, mean 5 mm Hg with cardiac
+output 6.4 bp 104/60. No perivavlular leaks or aortic
+insufficiency seen. Prosthetic graft material well positioned in
+ascending aorta, aortic arch and descending aortic contours
+intact. MR remains trace. Remaining exam is unchanged. All
+findings discussed with surgeons at the time of the exam.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2165-12-31**] 13:22
+
+Cardiology Report ECG Study Date of [**2165-12-31**]  2:14:40 PM
+
+
+Sinus rhythm. Since tracing of [**2165-12-

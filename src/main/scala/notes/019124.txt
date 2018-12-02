@@ -1,0 +1,217 @@
+Admission Date:  [**2193-4-26**]              Discharge Date:   [**2193-5-1**]
+
+Date of Birth:  [**2129-8-30**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Keflex / Cleocin Hcl
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+coronary artery bypass x3 (LIMA-LAD, SVG-diag, SVG-Cx)
+
+
+History of Present Illness:
+The patient is a 63 year old white male with multiple risk
+factors for coronary disease.  In [**2192-6-3**] he developed dyspnea
+on exertion.  Echo at the time revealed EF 35-40%.  He delayed
+follow up.  In [**2193-3-3**], Cardiolite ETT revealed a moderate
+sized, severe inferobasilar predominantly fixed defect with a
+small edge of peri-infarct ischemia.  Cardiac catheterization
+and coronary angiography on [**2193-4-18**] revealed 2 vessel disease.
+He was referred for surgical revascularization.
+
+Past Medical History:
+cardiomyopathy (LVEF 35-40%)
+hypertension
+hyperlipidemia
+diabetes mellitus
+chronic obstructive pulmonary disease
+pneumonia [**2183**]
+persistent epistaxis, s/p surgical clipping
+cervical and lumbar disc disease s/p fall [**2176**]
+
+Social History:
+worked as computer software designer
+currently disabled
+married with 2 grown children
+lives with wife
+[**Name (NI) 1139**]: 2.5ppd x 40 yrs., quit [**2183**]
+EtOH: 2 drinks per week
+
+Family History:
+brother with possible congenital heart disorder- died at 55 in
+military service
+
+
+Physical Exam:
+VS: 82, 16, 93%RA, 137/80
+Wt: 270lb  ht: 6'1"
+Skin: dry, intact
+HEENT: PERRL, EOMI
+Neck: supple with full ROM
+Chest: lungs CTAB with distant breath sounds throughout
+Heart: RRR, no murmur
+Abd: soft, non-tender, non-distended, +bowel sounds
+Ext: warm, well-perfused, no varicosities
+Neuro: grossly intact
+pulses: 2+ bilaterally throughout
+Carotid Bruits: none
+
+Pertinent Results:
+[**2193-4-26**] 11:18AM BLOOD WBC-11.9*# RBC-3.76* Hgb-10.7* Hct-31.7*
+MCV-84 MCH-28.4 MCHC-33.7 RDW-14.1 Plt Ct-210
+[**2193-4-27**] 04:00AM BLOOD Glucose-82 UreaN-14 Creat-0.9 Na-142
+K-4.3 Cl-112* HCO3-24 AnGap-10
+
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 82543**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 82544**]
+(Complete) Done [**2193-4-26**] at 9:07:44 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2129-8-30**]
+Age (years): 63 M  Hgt (in): 73
+BP (mm Hg): 124/65  Wgt (lb): 266
+HR (bpm): 71  BSA (m2): 2.43 m2
+Indication: Left ventricular function. Intraop TEE for elective
+CABG. Abnormal ECG. Chest pain. Coronary artery disease.
+Hypertension. Left ventricular function.
+ICD-9 Codes: 414.8, 424.0, 424.2
+Test Information
+Date/Time: [**2193-4-26**] at 09:07    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5209**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW33-: Machine: [**Doctor Last Name **]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+
+Findings
+LEFT ATRIUM: LA not well visualized. No spontaneous echo
+contrast in the body of the LA. No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **]
+LAA. No spontaneous echo contrast is seen in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: PFO is present. Left-to-right
+shunt across the interatrial septum at rest.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+global systolic function (LVEF>55%). Normal regional LV systolic
+function.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Mildly dilated ascending aorta. Simple atheroma in aortic
+arch. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened
+aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MS.
+Mild (1+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+GENERAL COMMENTS: The patient was under general anesthesia
+throughout the procedure. The patient received antibiotic
+prophylaxis. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. The patient appears to be in sinus rhythm.
+Houseofficer caring for the patient was notified of the results
+by e-mail. See Conclusions for post-bypass data The post-bypass
+study was performed while the patient was receiving vasoactive
+infusions (see Conclusions for listing of medications).
+Conclusions
+No spontaneous echo contrast is seen in the body of the left
+atrium. No mass/thrombus is seen in the left atrium or left
+atrial appendage. No spontaneous echo contrast is seen in the
+left atrial appendage. A patent foramen ovale is present. A
+left-to-right shunt across the interatrial septum is seen at
+rest. Left ventricular wall thickness, cavity size, and global
+systolic function are normal (LVEF>55%). Regional left
+ventricular wall motion is normal. Right ventricular chamber
+size and free wall motion are normal. The ascending aorta is
+mildly dilated. There are simple atheroma in the aortic arch.
+There are simple atheroma in the descending thoracic aorta.
+There are three aortic valve leaflets. The aortic valve leaflets
+(3) are mildly thickened. There is no aortic valve stenosis. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild (1+) mitral regurgitation is seen.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including phenylephrine.
+Preserved biventricular systolic function post cpb. Anterior
+wall is improved. Aortic contour is normal post decannulation..
+
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2193-4-26**] 16:15
+
+
+?????? [**2187**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+The patient was admitted to the hospital and brought to the
+operating room on [**2193-4-26**] where he underwent coronary artery
+bypass x 3.  Overall the patient tolerated the procedure well
+and post-operatively was transferred to CVICU in good condition
+for invasive monitoring and recovery.  POD 1 found the patient
+extubated, alert and oriented and breathing comfortably.  He was
+neurologically intact and hemodynamically stable on no inotropic
+or vasopressor support at this time.  Chest tubes and pacing
+wires were discontinued in the usual fashion without
+complication.  The patient was transferred to the telemetry
+floor on POD 1.  Beta blocker was started and the patient was
+gently diuresed toward his preoperative weight.  The physical
+therapy service was consulted for assistance with post-operative
+strength and mobility.  Hospital course was uneventful and the
+patient was discharged home in good condition on POD #4.  By the
+time of discharge he was ambulating freely, the wound was
+healing and pain was controlled with oral analgesics.  He was
+given appropriate follow up instructions.
+
+Medications on Admission:
+methocarbamol 750''''
+glipizide 10''
+furosemide 20'
+KCl 10'
+lisinopril 20'
+avandia 4'
+doxazosin 1'
+diazepam 10prn
+metformin 1000''
+vicodin prn
+advair 100/50 one puff ''
+proair 90, 2 puffs ''''prn
+ECASA 325'
+simvastatin 40'
+vitamin c 500'
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 7 days: then decrease to 20mg daily ongoing.
+Disp:*44 Tablet(s)* Refills:*1*
+2. Glipizide 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+3. Rosiglitazone 2 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+4. Methocarbamol 500 mg Tablet Sig: 1.5 Tablets PO QID (4 times
+a day) as needed.
+5. Hydrocodone-Acetaminophen 5-500 mg Ta

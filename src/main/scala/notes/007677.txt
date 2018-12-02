@@ -1,0 +1,188 @@
+Admission Date:  [**2135-11-26**]              Discharge Date:   [**2135-12-2**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2751**]
+Chief Complaint:
+Cholangitis
+
+Major Surgical or Invasive Procedure:
+ERCP
+
+History of Present Illness:
+Mr. [**Known firstname **] [**Known lastname 28825**] is a [**Age over 90 **] year-old man with history of atrial
+fibrillation on coumadin, hypertension, and remote history of
+partial gastrectomy and cholecystectomy who presented on the day
+of admission to [**Hospital6 1597**] with right upper quadrant
+pain, nausea, vomiting, diarrhea, and fevers. At the OSH he was
+found to have a temperature of 97 with blood pressures in the
+mid 80s. His liver enzymes were elevated with a predominantly
+obstructive pattern; he underwent RUQ ultrasound that showed
+intrahepatic biliary dilatation. The patient was volume
+rescucitated with 4L of intravenous saline, and he was then
+transferred to [**Hospital1 **] for ERCP evaluation.
+
+At [**Hospital1 **], he was noted to be hypotensive and hypoxic with initial
+vitals T 100.8, HR 80, BP 90/45, RR 16, and satting 94% on 6L.
+Labs were notable for ALT of 228, AST of 338, AP of 225, and
+Tbili of 2.9. White count was 17 with 8% bands. Hematocrit was
+29, and platelets were 145. INR was 5.8. Lactate was 4. Blood
+cultures were drawn. The patient had already received
+ciprofloxacin and Flagyl at [**Hospital3 2568**], and he was given
+additional Zosyn at [**Hospital1 **] ED. He got 10 mg IV vitamin K, but FFP
+was held due to concern of volume overload. In addition, due to
+persistent hypotension and concern of pulmonary edema with more
+fluids, a groin line was placed and norepinephrine was started.
+ERCP had been contact[**Name (NI) **] and will see the patient either in the
+ED or when he reaches [**Hospital Unit Name 153**].
+
+His vital signs at time of transfer were BP 101/58, satting 100%
+on BiPAP, HR 110-120 (atrial fibrillation), T 101 rectally.
+
+REVIEW OF SYSTEMS: currently, patient denies abdominal pain or
+nausea. He says he does not have any discomfort.
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+--systolic congestive heart failure, EF 40%
+--atrial fibrillation on coumadin
+--hypertension
+--peptic ulcer disease
+--s/p partial gastrectomy in [**2080**]
+--s/p cholecystectomy
+--osteoarthritis
+
+
+Social History:
+Mr. [**Known lastname 28825**] lives with his wife. [**Name (NI) **] family, he is
+increasingly dependent for most ADLs and IADLs. He can feed
+himself, but generally requires assistance with bathing and
+clothing. He does not walk due to very poor vision.
+
+
+Family History:
+nc
+
+Physical Exam:
+General: somnolent, elderly man in no acute distress, responds
+to simple questions but generally appears confused and tired.
+Vitals: T 96.4, BP 99/61, HR 112-120, sat 100% on NRB
+Neck: jugular venous distention to just under level of mandible
+Heart: irregularly irregular
+Lungs: coarse inspiratory sounds diffusely
+Abdomen: no guarding or rebound, soft, hypoactive bowel sounds
+Extremities: cold feet distally, legs non-edematous
+
+
+Pertinent Results:
+Admission Labs:
+[**2135-11-26**] 09:10PM BLOOD WBC-17.0* RBC-3.49* Hgb-9.7* Hct-29.0*
+MCV-83 MCH-27.8 MCHC-33.4 RDW-15.7* Plt Ct-145*
+[**2135-11-26**] 09:10PM BLOOD Neuts-76* Bands-8* Lymphs-8* Monos-7
+Eos-0 Baso-0 Atyps-1* Metas-0 Myelos-0
+[**2135-11-26**] 09:10PM BLOOD PT-52.8* PTT-38.0* INR(PT)-5.8*
+[**2135-11-26**] 09:10PM BLOOD Glucose-93 UreaN-22* Creat-0.8 Na-139
+K-3.7 Cl-106 HCO3-21* AnGap-16
+[**2135-11-26**] 09:10PM BLOOD ALT-228* AST-338* AlkPhos-225*
+TotBili-2.9* DirBili-2.6* IndBili-0.3
+[**2135-11-26**] 09:10PM BLOOD Lipase-25
+[**2135-11-26**] 09:10PM BLOOD cTropnT-<0.01
+[**2135-11-26**] 09:10PM BLOOD Albumin-2.9* Calcium-8.2*
+[**2135-11-26**] 09:19PM BLOOD Lactate-4.0*
+.
+Admission CXR: Moderate cardiomegaly but no evidence of focal
+airspace
+consolidation to suggest pneumonia.
+
+ERCP [**2135-11-27**]:
+Findings: Esophagus: Limited exam of the esophagus was normal
+Lumen: Evidence of a previous sub-total gastrectomy was seen in
+the stomach body with Billroth II anastomosis.
+Duodenum/jejunum: Limited exam of the duodenum / jejunum was
+normal
+Major Papilla: A single diverticulum with large opening was
+found with the major papilla located inside the diverticulum.
+Cannulation:  Cannulation of the biliary duct was unsuccessful
+using a free-hand technique despite multiple attempts with
+multiple catheters. Contrast medium injection was not attempted.
+
+
+Impression: Previous sub-total gastrectomy of the stomach body
+with Billroth II anastomosis
+Papilla located inside a large diverticulum.
+Despite multiple attempts, biliary cannulation was unsucessful.
+
+Recommendations: Return to ICU.
+Consider PTC for biliary decompression.
+Additional notes: The procedure was done by Dr. [**Last Name (STitle) **] and the
+GI Fellow. Estimate blood loss = 0 cc. No specimens were
+obtained. See impression for final diagnosis.
+
+[**2135-11-27**] 12:26AM BLOOD WBC-26.0*# RBC-3.56* Hgb-9.5* Hct-29.4*
+MCV-83 MCH-26.8* MCHC-32.4 RDW-15.6* Plt Ct-171
+[**2135-11-27**] 05:00PM BLOOD WBC-18.0* RBC-3.36* Hgb-9.1* Hct-27.3*
+MCV-81* MCH-27.1 MCHC-33.4 RDW-15.7* Plt Ct-125*
+[**2135-11-28**] 03:12AM BLOOD WBC-16.1* RBC-3.24* Hgb-8.9* Hct-26.9*
+MCV-83 MCH-27.6 MCHC-33.3 RDW-16.1* Plt Ct-114*
+[**2135-11-29**] 11:55AM BLOOD WBC-11.7* RBC-3.27*# Hgb-8.9*# Hct-26.7*#
+MCV-82 MCH-27.2 MCHC-33.3 RDW-15.5 Plt Ct-112*
+[**2135-12-1**] 05:30AM BLOOD WBC-10.4 RBC-3.29* Hgb-9.1* Hct-26.5*
+MCV-81* MCH-27.5 MCHC-34.1 RDW-15.5 Plt Ct-133*
+[**2135-11-30**] 06:40AM BLOOD PT-12.8 PTT-25.4 INR(PT)-1.1
+[**2135-11-29**] 02:52AM BLOOD Glucose-87 UreaN-15 Creat-0.5 Na-144
+K-4.2 Cl-111* HCO3-27 AnGap-10
+[**2135-12-1**] 05:30AM BLOOD UreaN-8 Creat-0.3*
+[**2135-11-27**] 12:26AM BLOOD ALT-210* AST-296* LD(LDH)-214
+AlkPhos-209* TotBili-3.4*
+[**2135-11-27**] 07:25AM BLOOD ALT-191* AST-244* LD(LDH)-163
+AlkPhos-196* TotBili-3.5*
+[**2135-11-28**] 03:12AM BLOOD ALT-138* AST-139* LD(LDH)-141
+AlkPhos-148* TotBili-1.5
+[**2135-11-29**] 02:52AM BLOOD ALT-111* AST-78* LD(LDH)-152 AlkPhos-137*
+TotBili-1.1
+[**2135-11-30**] 06:40AM BLOOD ALT-84* AST-41* LD(LDH)-172 AlkPhos-143*
+TotBili-0.8
+[**2135-11-30**] 06:40AM BLOOD Calcium-8.8 Phos-2.1* Mg-2.1
+[**2135-11-26**] 09:10PM BLOOD Albumin-2.9* Calcium-8.2*
+[**2135-11-27**] 07:35AM BLOOD Lactate-2.0
+[**2135-11-27**] 09:57PM BLOOD Lactate-1.4
+
+Blood Cultures at [**Hospital1 18**]:
+[**2135-11-26**] - 4 of 4 no growth
+[**2135-11-27**] - 4 of 4 no growth
+[**2135-11-28**] - 2 of 2 no growth to date
+
+UCx at [**Hospital1 18**]: No growth
+
+Brief Hospital Course:
+A/P: a [**Age over 90 **]-year-old man with remote history of partial
+gastrectromy and cholecystectomy who presents with abdominal
+pain and hypotension, and labs suggestive of acute cholangitis.
+
+# Cholangitis: Given his septic presentation, he was initially
+started on empric Zosyn.  He was fluid resusictated with 4 L IVF
+and required placement on pressors for his hypotesnion.  After
+much discussuion between the ICU, team, the ERCP team, and Mr.
+[**Known lastname 28826**] family, it was decided that he should undergo ERCP.
+He was temporarily intubated for the procedure. However, given
+his history of Biliroth II gastrectomy, the CBD could not be
+canulated. He was successfully extubated shortly after returning
+to the ICU. Percutaneous biliary drain placement was discussed,
+but patient improved clinically on abx, and family was not in
+favor of further invasive procedures. Pt was continued to
+empiric Zosyn with improvement in WBC count. Pressors were able
+to be weaned off sucessfully. [**Hospital6 1597**] cultures came
+back as pansensitive E. coli and Klebsiella (resistant to
+ampicillin), and abx were narrowed to ceftriaxone. In  order to
+better evaluate cause of obstruction, MRCP was done which showed
+choledocholithiasis.  Discussion was had with Interventional
+Radiology and ERCP teams, and future consideration will be given
+to PTC with rendesvouz.  Both teams agree for now that he should
+recover from current episode, however, GI wishes to discuss with
+he and HCP on [**2135-12-6**] whether to move forward soon with stone
+retrieval intervention.  Daughter (HCP) is a

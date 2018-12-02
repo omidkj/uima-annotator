@@ -1,0 +1,242 @@
+Admission Date:  [**2118-7-10**]              Discharge Date:   [**2118-7-14**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5644**]
+Chief Complaint:
+altered mental status, hypoxia
+
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+89 y/o F with h/o dementia, HTN, severe osteopenia s/p recent
+hospitalizations [**6-26**] to [**7-1**] at [**Hospital1 18**] for mechanical fall.
+Films at that time revealed no fracture. Pt was also noted to go
+into mild CHF s/p IVF and was noted to have mild diastolic CHF
+per report. EF showed normal ECHO w/ EKG revealing sinus tach.
+Daily lasix and lisinopril were started, ASA and statins
+continued and patient was transfered to rehab for PT s/p fall on
+[**2118-7-1**]
+.
+On the day of admission, the patient's daughter noted that the
+pt was much more lethargic than usual. Per her daughter, patient
+denied cough, sputum, fever, dysuria. At baseline, patient is
+alert and oriented x 2 but had declined since last
+hospitalization
+.
+She was brought to the ED where her white count was noted to be
+27.5K w/ pyuria and bacturia w/ SBP's in 80s. She received 8L of
+IVF with improvement in urine output but was started on levophed
+and initiated on MUST protocol. CXR also revealed evidence of
+LLL pneumonia. Transferred to [**Hospital Unit Name 153**] for sepsis management. In the
+[**Name (NI) 153**], pt's BP improved and she was weaned off pressors. She was
+weaned from a nonrebreather to a face tent to room air and O2
+sats remained in the mid-90s. She was then transferred to the
+floor for further management.
+
+
+Past Medical History:
+hypertension
+hearing loss
+obesity
+mild dementia
+hypercholesterolemia
+b/l cataracts surgeries
+DJD
+severe osteopenia
+diastolic dysfunction
+
+Social History:
+patient is DNR/DNI. Ok w/ pressors. Daughter (HCP)= [**Name (NI) **]
+[**Telephone/Fax (1) 55621**], cell [**Telephone/Fax (1) 55622**]
+Lives at [**Location 55619**] [**Hospital3 **], dtr, involved in care
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+** on transfer to MICU **
+vitals- T 99.8, BP 108/38, HR 106, 100% on NRB
+gen- lethargic, grunts/moans, unable to answer questions of
+orientation
+neck- difficult to assess neck veins; RIJ line in place
+heent- PERRLA. no scleral icterus. OP moist. dentures in place
+pulm- diffuse expiratory wheezes. LLL rales
+CV- RRR. normal S1/S2. no m/r/g
+Abd- soft, NT/ND. no HSM
+EXT- no edema.
+Neuro- localizes to pain. opens eyes to stimuli.
+.
+** on transfer to floor **
+O: T 98.1, BP 153/74 (100-150/50-70), HR 106 (90-110s), 95% RA
+I/O: 960/1.4 yesterday, 530/930 today
+Gen: NAD, awake
+Neck: difficult to assess JVD [**3-16**] size
+HEENT: PERRL, EOMI, MMM
+CV: RR, tachy, no g/m/r
+Chest: crackles at both bases, left>right
+Abd: +BS, soft, NT
+Ext: no edema, 2+ DP
+Neuro: AO x 2, follows commands
+
+
+Pertinent Results:
+** on transfer to ICU **
+WBC 27.5 (N 94%, 3.6% L, 2.3% M), Hct 38.0, Plt 456
+Na 143, K 4.1, Cl 100, CO226, BUN 92, Cr 1.7 (b/l=0.6)
+ABG 7.30/44/48, lactate 2.0
+mag 1.9, phos 2.9
+PT 13.5, PTT 21.1, INR 1.2
+U/A- large blood, mod leuks, WBC [**1-1**]
+ALT/AST/Alkphos/Tbili- WNL
+CK 73, Trop <0.01
+Blood cx-
+
+   AEROBIC BOTTLE (Pending):
+
+   ANAEROBIC BOTTLE (Preliminary):
+      REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **],5/30/05,11:05AM.
+      GRAM NEGATIVE ROD(S).    PRELIMINARY SENSITIVITY.
+         FURTHER IDENTIFICATION TO FOLLOW.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             GRAM NEGATIVE ROD(S)
+                             |
+AMPICILLIN------------       S
+AMPICILLIN/SULBACTAM--       S
+CEFAZOLIN-------------       S
+CEFTAZIDIME-----------       S
+CEFTRIAXONE-----------       S
+CIPROFLOXACIN---------       S
+GENTAMICIN------------       S
+LEVOFLOXACIN----------       S
+MEROPENEM-------------       S
+PIPERACILLIN/TAZO-----       S
+TOBRAMYCIN------------       S
+TRIMETHOPRIM/SULFA----       S
+.
+.
+Urine cx:
+URINE CULTURE (Final [**2118-7-12**]):
+      ESCHERICHIA COLI.
+         >100,000 ORGANISMS/ML. PRESUMPTIVE IDENTIFICATION.
+         Trimethoprim/sulfa sensitivity confirmed by
+[**Doctor Last Name 3077**]-[**Doctor Last Name 3060**].
+      GRAM POSITIVE BACTERIA.    10,000-100,000 ORGANISMS/ML..
+         Alpha hemolytic colonies consistent with alpha
+streptococcus or
+         Lactobacillus sp.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+.
+Portable CXR- ?LLL pneumonia; no SBO, no free air
+.
+ECHO ([**6-29**]) EF >55%, E/A 0.5
+.
+
+
+Brief Hospital Course:
+89 y/o F w/dementia, HTN, severe osteoperosis, s/p recent mech
+fall who p/w urosepsis + LLL pna, enrolled on MUST protocol.
+.
+1. Septic Shock: Her sepsis was felt most likely secondary to
+UTI. Other potential source was her LLL pneumonia. She was
+covered empirically with CTX/Azithro and remained afebrile over
+her first hospital day. She was enrolled in MUST protocol based
+on hypoxia, tachycardia, leukocytosis and development of septic
+shock. She received 8L NS in ED for volume resucitation and
+developed respiratory distress requiring NRB FM. Therefore
+further IVF's were held and she was started on levophed pressors
+to maintain MAP>65. She was able to be weaned off pressors after
+overnight monitoring with maintenance of blood pressure and
+urine output. Final culture data revealed pan-sensitive E. Coli
+in both the urine cx and 1/2 blood cx from admission.  Ceftaz
+and azithro were stopped and switched to levaquin.  On day prior
+to discharge, pt noted to also have gram positive rods in [**2-13**]
+blood cx from admission.  ID was called and, given that the
+patient was afebrile, improving and immunocompetant, antibiotics
+were not added as the gram positive rods were likely a
+contaminant.
+.
+2. Altered Mental Status: Her change from baseline was felt
+likely secondary to underlying infection + hypoxia, with
+non-focal neurologic exam.
+.
+3. Hypoxia: Likely secondary to fluid overload in setting of
+diastolic dysfunction. Also exacerbated by underlying pneumonia.
+Avoided further IVF's and treated pneumonia with antibiotics as
+outlined above.  Pt received two doses of Lasix after a blood
+transfusion.  She was restarted on her home dose of lasix once
+her BP had stabilized.
+.
+4. Diastolic CHF- History of diastolic CHF with preserved
+systolic fn. Held anti-hypertensives during hypotensive episode.
+Meds were restarted upon stabilization of blood pressure.  As
+above, she was restarted on lzasix due to some volume overload.
+Patient was duiresed with IV lasix in the hospital and
+transitioned to PO lasix at discharge. Patient was discharged on
+20mg lasix daily.
+.
+4. Tachycardia: Pt was noted to have tachycardia while on
+telemetry in the ICU but on an EKG from her prior admission, she
+had sinus tach at 110.  She was started on a beta-blocker and
+titrated up.  There was some T wave inversions/flattening seen
+in the lateral leads so cardiac enzymes were checked and were
+normal.
+.
+5. Renal Insufficiency: Cr initially elevated to 1.7. Likely
+pre-renal in etiology. She had marked improvement after IVF
+resuccitaion with steady urine output >30cc/hr.
+.
+6. Prophylaxis: Bowel Regimen, SC heparin
+.
+7. Code: DNR/DNI
+
+Medications on Admission:
+Lisinopril 10mg qday
+Pravastatin 20mg qday
+miconazole powder
+tylenol prn
+colace
+senna
+heparin SQ TID
+famotidine 20mg PO daily
+calcium/vitamin D
+vitamin B12
+lasix 20mg QOD
+aspirin 325 mg daily
+
+Discharge Medications:
+1. Pravastatin Sodium 20 mg Tablet Sig: One (1) 

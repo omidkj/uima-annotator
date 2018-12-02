@@ -1,0 +1,209 @@
+Admission Date:  [**2185-1-7**]              Discharge Date:   [**2185-1-15**]
+
+Date of Birth:  [**2106-8-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Coumadin / Penicillins / IV contrast / Sulfa (Sulfonamide
+Antibiotics) / Prednisone / Latex
+
+Attending:[**First Name3 (LF) 2751**]
+Chief Complaint:
+Hemoptysis/septic arthritis/ NSTEMI
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+
+History of Present Illness:
+78 yo female with h/o HTN, Type II DM, CAD s/p remote LAD stent,
+COPD, and recent right total knee replacement complicated by
+infected hardware s/p removal transferred from OSH for further
+management of hemoptysis and NSTEMI.
+
+Patient was admitted to [**Hospital3 **] Hospital in late [**Month (only) **] with
+right knee septic arthritis following a right total knee
+replacement, cultures grew Group B Strep.  Hardware was removed
+at [**Hospital 1562**] hospital on [**2184-12-17**], replaced by antibiotic spacer.
+ Per report, the patient had bilateral DVTs on [**2184-12-15**], noted
+again on LENIs from [**2185-1-1**].  At this time, it appears the
+patient was on prophylactic dose of enoxaparin.  Patient was
+then discharged to rehab following hardware removal.  Per
+report, she developed respiratory distress on [**2185-1-1**], with
+hypoxia and wheezing.  No aspiration event was witnessed.  There
+was a question of excess sedation.  After being re-admitted to
+[**Hospital 1562**] hospital, she was initially treated with BiPAP and
+nebulizers, with good effect.  IV fluids were given for
+hypotension and tachycardia.  She had a second episode of
+respiratory distress, and was transferred to the ICU for further
+management.  She then underwent diuresis, and was placed on
+BiPAP.  She was intubated on [**2185-1-3**].  A Swan-Ganz catheter was
+placed on [**2185-1-4**] for hemodynamic monitoring in the setting of
+possible cardiogenic shock. She was then started on levofloxacin
+and clindamycin for aspiration pneumonia, and was transitioned
+to vancomycin, cefepime, and metronidazole.  She also received
+pulse dose methylprednisolone for possible COPD exacerbation.
+Over past few days, vent wean has been complicated by low minute
+ventilation and airway secretions.
+
+Today, patient had episode of hemoptysis, with 50-100 cc of
+bright red blood suctioned through ET tube.  Bronch showed
+lesions in left main stem bronch near second carina, one
+suspicious for an eroding broncholith.  A bleeding lesion was
+injected with epinephrine and iced saline, with hemostasis.
+Patient was then transferred via [**Location (un) 7622**] directly to ICU for
+further management.
+
+Upon arrival to the ICU, patient was intubated, alert, on
+minimial sedation.  She complained of pain in her right knee,
+and denied any other pain.
+
+Past Medical History:
+COPD
+? OSA
+HTN
+CAD s/p stent to LAD in [**2174**]
+left subclavian occlusion
+critical left internal carotid stenosis s/p CEA
+Type II DM
+hypothyroidism
+GERD
+DVT in bilateral [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) 88154**]
+
+
+Social History:
+Lives in nursing home recently.  no history of recent tobacco or
+alcohol use recently.
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: T 98  HR 70  BP 115/41 100% FiO2 30%, PEEP 5
+GEN: elderly female, NAD, alert
+HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no
+supraclavicular or cervical lymphadenopathy, JVD to angle of
+jaw, no thyromegaly or thyroid nodules
+RESP: CTA b/l with good air movement throughout, although
+dimished in axillae
+CV: RR, S1 and S2 wnl, no r/g. II/VI systolic murmur at LUSB,
+with radiation to right carotid
+ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+EXT: no c/c/e
+SKIN: fungal rash in inguinal folds
+NEURO: alert. 1+D TR's-patellar and biceps
+
+Pertinent Results:
+Admission labs:
+[**2185-1-8**] 12:29AM BLOOD WBC-7.3 RBC-3.44* Hgb-9.9* Hct-30.5*
+MCV-89 MCH-28.8 MCHC-32.4 RDW-16.1* Plt Ct-264
+[**2185-1-8**] 12:29AM BLOOD PT-14.8* PTT-24.0 INR(PT)-1.3*
+[**2185-1-8**] 12:29AM BLOOD Glucose-120* UreaN-33* Creat-0.9 Na-141
+K-4.0 Cl-97 HCO3-32 AnGap-16
+[**2185-1-8**] 12:29AM BLOOD ALT-10 AST-27 CK(CPK)-66 AlkPhos-47
+TotBili-0.5
+[**2185-1-8**] 12:29AM BLOOD CK-MB-2 cTropnT-0.44*
+[**2185-1-8**] 12:29AM BLOOD Calcium-8.4 Phos-3.2 Mg-1.8
+[**2185-1-8**] 02:06AM BLOOD Type-ART Rates-/14 Tidal V-500 PEEP-5
+FiO2-30 pO2-112* pCO2-37 pH-7.57* calTCO2-35* Base XS-11
+-ASSIST/CON Intubat-INTUBATED
+[**2185-1-8**] 02:06AM BLOOD Lactate-1.0
+
+Cardiac Enzymes
+CPK ISOENZYMES     CK-MB cTropnT proBNP
+[**2185-1-10**] 04:33    2    0.38*1
+Source: Line-Right CVL
+[**2185-1-9**] 00:31    3    0.51*1
+Source: Line-CVL
+[**2185-1-8**] 13:33    3    0.55*1
+Source: Line-picc
+[**2185-1-8**] 07:23    3    0.51*1   [**Numeric Identifier 7260**]*2
+Source: Line-central
+[**2185-1-8**] 00:29    2    0.44*3
+
+Imaging:
+CXR [**1-7**]:
+FINDINGS: The tip of the endotracheal tube is 3.5 cm above the
+carina. There is a right IJ central venous catheter with distal
+lead tip in the proximal SVC. There is a nasogastric tube whose
+tip and side port are below the gastroesophageal junction. The
+cardiac silhouette is enlarged. There is a left IJ and
+subclavian central lumen catheters with the distal lead tip in
+the mid SVC. There is prominence of the pulmonary interstitial
+markings, compatible with fluid overload. There is left
+retrocardiac opacity and a small left-sided pleural effusion.
+
+TTE [**1-10**]:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  3.9 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.2 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.4 m/s
+Left Atrium - Peak Pulm Vein D:  0.2 m/s
+Right Atrium - Four Chamber Length:  *5.8 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  1.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30%  >= 55%
+Left Ventricle - Stroke Volume:  50 ml/beat
+Left Ventricle - Cardiac Output:  3.42 L/min
+Left Ventricle - Cardiac Index:  *1.65  >= 2.0 L/min/M2
+Aorta - Sinus Level:  3.4 cm  <= 3.6 cm
+Aorta - Ascending:  3.3 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *2.1 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  19 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  8 mm Hg
+Aortic Valve - LVOT pk vel:  0.80 m/sec
+Aortic Valve - LVOT VTI:  16
+Aortic Valve - LVOT diam:  2.0 cm
+Aortic Valve - Valve Area:  *1.2 cm2  >= 3.0 cm2
+Aortic Valve - Pressure Half Time:  273 ms
+Mitral Valve - E Wave:  1.0 m/sec
+Mitral Valve - A Wave:  0.9 m/sec
+Mitral Valve - E/A ratio:  1.11
+Mitral Valve - E Wave deceleration time:  192 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *32 to 34 mm Hg  <= 25 mm Hg
+Pulmonic Valve - Peak Velocity:  1.0 m/sec  <= 1.5 m/sec
+
+Findings
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Normal
+interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Moderately depressed LVEF. No LV mass/thrombus. No resting LVOT
+gradient. No VSD.
+
+RIGHT VENTRICLE: Normal RV chamber size. Borderline normal RV
+systolic function.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets. Mild AS
+(area 1.2-1.9cm2). Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification. Mild thickening of mitral valve
+chordae. No MS. Mild (1+) MR. [Due to acoustic shadowing, the
+severity of MR may be significantly UNDERestimated.]
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. No
+TS. Mild [1+] TR. Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: No PS.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. Left ventricular wall thicknesses
+are normal. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is moderately to severely
+depressed (LVEF= 25-30 %) with infeior, lateral, anterior and
+apical hypokinesis to akinesis. No masses or thrombi are seen in
+the left ventricle. Ther

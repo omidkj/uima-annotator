@@ -1,0 +1,203 @@
+Admission Date:  [**2193-10-14**]              Discharge Date:   [**2193-10-17**]
+
+Date of Birth:  [**2109-8-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 7651**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+84 year old male with PMH significant for systolic heart failure
+EF 30%, HTN, hyperlipidemia, DM, CAD s/p CABG who presented with
+dyspnea on exertion of 3 days in duration. Patient presented to
+his pcp [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] and was referred to ED following a CXR which
+demonstrated bilateral pleural effusion. Patient reports he has
+not been taking his Lasix (60 mg [**Hospital1 **]) for the past "few" days.
+He reports associated cough, exertional dyspnea, fatigue and
+increasing lower extremity edema. Denies dyspnea at rest, PND or
+worsened orthopnea (sleeps with head of bed elevated at
+baseline). Denies chest pain or palpatations. Patient denies
+fevers, chills. Per his PCP, [**Name10 (NameIs) **] is ongoing concern about
+medication compliance at home with cardiac meds.
+.
+Presenting vitals to ED HR 53, BP 131/49, RR 26, O2 sat 81% 6L.
+Patient was placed on NRB, then Bipap, then transferred to ICU
+on 100% ventimask. In ED patient was given Lasix 40 mg IV,
+Nitropaste 1 inch, Levaquin and ASA. Due to respiratory
+compromise he was transferred to the ICU for futher care.
+.
+On review of systems, he denies any prior history of deep venous
+thrombosis, pulmonary embolism, bleeding at the time of surgery,
+myalgias, joint pains, cough, hemoptysis, black stools or red
+stools. He denies recent fevers, chills or rigors. He denies
+exertional buttock or calf pain. He denies syncope or
+presyncope.    The rest of the review of systems was negative in
+detail.
+
+Past Medical History:
+CAD s/p CABG x4v '[**74**]
+CHF EF 30-40%
+PVD
+DM c/b neuropathy HbgA1c 6.0% 4/09
+CVA
+Gastritis
+Carotid stenosis
+HTN
+Hyperlipidemia
+BPH
+Depression
+Chronic constipation
+T12 compression fracture
+Cataract s/p surgery
+Glaucoma
+
+
+Social History:
+He grew up in [**State 5887**], has been living in [**Location (un) 86**] since
+[**2130**]. He is a veteran of World War II.  He worked as a coal
+miner and then as a manual laborer.  He has been retired for
+years.  He is widowed and now living with his son and girlfriend
+(both are HCP). Distant history of smoking 40 years x 2 pack/yr,
+quit over 20 years ago.  No alcohol use. No drug use.
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.
+
+Physical Exam:
+on admission:
+
+VS: T=98.7 BP=135/52 HR=56 RR=20  O2 sat=100% venti-mask
+GENERAL: Breathing on ventimask. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Unable to appreciate JVP.
+CARDIAC: Distant heart sounds. Irregular rate, normal S1, S2. No
+m/r/g. No thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Decreased breath sounds
+left base, crackles right base.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Chest x-ray [**2193-10-14**]
+1. Increased size of small-to-moderate right and tiny left
+pleural effusion
+with associated central vascular congestion compatible with CHF.
+
+2. Increased left retrocardiac opacity which likely represents
+atelectasis,
+although pneumonia would be difficult to exclude.
+
+
+Pertinent Results:
+[**2193-10-14**] 04:20PM BLOOD WBC-7.2 RBC-4.11* Hgb-11.7* Hct-35.9*
+MCV-87 MCH-28.5 MCHC-32.6 RDW-17.0* Plt Ct-219
+[**2193-10-17**] 06:50AM BLOOD WBC-6.5 RBC-3.74* Hgb-11.0* Hct-32.4*
+MCV-87 MCH-29.3 MCHC-33.8 RDW-16.7* Plt Ct-216
+
+[**2193-10-14**] 04:20PM BLOOD PT-39.8* PTT-38.0* INR(PT)-4.2*
+[**2193-10-17**] 01:13PM BLOOD PT-22.2* PTT-33.4 INR(PT)-2.1*
+
+[**2193-10-14**] 04:20PM BLOOD Glucose-170* UreaN-27* Creat-1.3* Na-140
+K-3.6 Cl-103 HCO3-26 AnGap-15
+[**2193-10-17**] 06:50AM BLOOD Glucose-103 UreaN-28* Creat-1.3* Na-140
+K-3.8 Cl-102 HCO3-31 AnGap-11
+
+[**2193-10-14**] 04:20PM BLOOD CK-MB-5 proBNP-2458*
+[**2193-10-14**] 04:20PM BLOOD cTropnT-0.02*
+
+[**2193-10-15**] 12:03AM BLOOD CK-MB-NotDone cTropnT-0.02*
+[**2193-10-15**] 06:02AM BLOOD CK-MB-NotDone cTropnT-0.03*
+
+[**2193-10-15**] 06:02AM BLOOD Calcium-8.6 Phos-3.7 Mg-2.2
+[**2193-10-17**] 06:50AM BLOOD Calcium-8.6 Phos-4.3 Mg-2.1
+
+Brief Hospital Course:
+In summary, Mr. [**Known lastname **] is a 82M with CAD s/p CABG, systolic CHF
+who presented with dyspnea on exertion for 3 days duration in
+the setting of medication non-compliance.  He was admitted to
+the cardiac intensive care unit and showed significant
+improvement with diuresis.
+.
+# Respiratory Distress: Patient's symptoms of dyspnea on
+exertion, increased lower extremity edema and non compliance
+with lasix suppported acute systolic CHF episode. CXR also
+supported this with b/l pleural effusions and associated central
+vascular congestion. Patient transferred from ED on venti mask.
+There was less concern for pneumonia as no symptoms, fever or
+elevated white count. Trigger of acute CHF was most likely med
+non-compliance; there were no EKG changes to suggest ACS,
+cardiac enzymes were never significantly elevated, and the
+patient denied increase of salt in diet. Patient was on 60 mg po
+BID lasix at home however was not taking it because of his
+frustration with needing to urinate frequently while on the
+medication.  Pt did well with diuresis and fluid restriction and
+was transfered to the floor after a couple days in the ICU.  He
+was discharged with an indwelling foley cath to help with his
+urine output and medication non-compliance with a follow-up
+appointment scheduled with urology.
+.
+# RHYTHM: Rate controlled atrial fibrillation. He was
+supratherapeutic on his INR on admission therefore warfarin was
+initially held.  His outpatient Metoprolol was continued at 25mg
+qd.  He was discharged with instructions to follow up in
+[**Hospital 2786**] clinic for titration of his warfarin dosing,
+and to resume coumadin dose at 7mg on [**10-18**] and [**10-19**] and [**10-20**]
+prior to [**Hospital 2786**] clinic visit.
+.
+# Coronaries: 3vd s/p CABG.  His aspirin, statin and beta
+blocker were continued as an inpatient.  His lisinopril was held
+given his acute renal failure.
+.
+# Acute renal failure: Hyaline casts on admission Ua were
+concerning for poor perfusion. Creatinine elevated mildly from
+baseline of 1.1, peaked at 1.5, then was downtrending prior to
+admission with a discharge creatinine of 1.3.  Meds were renally
+dosed, electrolytes repleted and Lisinopril held.   Would
+recommend outpatient follow-up to ensure complete resolution of
+his renal failure.
+.
+# HTN: his amlodipine was continued for hx of hypertension,
+lisinopril held as noted previously.
+.
+# DM: treated with NPH and insulin sliding scale while inpatient
+.
+# Depression: his celexa and risperidone were continued in the
+inpatient setting.
+.
+# Glaucoma: Brimonidine/Dorzolamide/Timolol were continued in
+the inpatient setting.
+
+The patient was full code, this was confirmed with [**Name (NI) **]
+[**Name (NI) **], [**First Name3 (LF) **]/HCP [**Telephone/Fax (1) 106933**].
+
+Medications on Admission:
+MEDICATIONS: confirmed with son
+AMLODIPINE - 10 mg Tablet - 1 Tablet(s) by mouth daily
+BRIMONIDINE - 0.15 % Drops - 1 gtt(s) OD [**Hospital1 **]
+CITALOPRAM 40 mg Tablet - 1and [**1-18**] Tablet(s) by mouth once a day
+
+DORZOLAMIDE-TIMOLOL 0.5 %-2 % Drops - 1 gtt OD twice a day
+FINASTERIDE - 5 mg Tablet - 1 Tablet(s) by mouth once a day
+FUROSEMIDE - 40 mg Tablet - 1.5 Tablet(s) by mouth twice a day
+LISINOPRIL 40 mg Tablet - 1 Tablet(s) by mouth daily
+METOPROLOL SUCCINATE - 25 mg Tablet once a day
+PILOCARPINE HCL [PILOPINE HS] 4 % Gel - apply OD at bedtime
+RISPERIDONE 1 mg Tablet - 1.5 Tablet(s) by mouth at bedtime
+SIMVASTATIN - 20 mg Tablet 1 Tablet(s) by mouth once a day for
+WARFARIN - 10 mg MWF, every other day 7 mg tablet
+ASPIRIN - (OTC)

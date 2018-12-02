@@ -1,0 +1,244 @@
+Admission Date:  [**2146-7-20**]              Discharge Date:   [**2146-7-29**]
+
+Date of Birth:  [**2068-1-14**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Chest Pain
+
+Major Surgical or Invasive Procedure:
+Emergent Coronary artery bypass graft x4 (LIMA>LAD, SVG>DIAG,
+SVG>OM, SVG>RCA) [**7-20**]
+
+
+History of Present Illness:
+78 year old male with new onset substernal chest pain and
+presented to outside emergency department, underwent cardiac
+catherization with intra aortic balloon pump insertion.  Ruled
+in for anterior wall myocardial infarction based on ST elevation
+and troponin I 1.48 CK MB 18.
+
+Past Medical History:
+Asthma
+Hepatitis C
+Diabetes mellitus
+Hypertension
+
+Social History:
+Lives with daughter
+tobacco quit 20 years ago
+
+Family History:
+Brother +CAD
+
+Physical Exam:
+General NAD
+Skin rash chest
+HEENT Benign
+Neck supple full ROM no bruit
+Chest CTA bilat
+Heart RRR no M/R/G
+Abd soft, ND, NT, +BS
+Ext warm well perfused, pulses palpable
+Neuro nonfocal, alert, oriented to time, place, person
+
+Pertinent Results:
+[**2146-7-27**] 05:36AM BLOOD WBC-10.9
+[**2146-7-26**] 05:20AM BLOOD WBC-13.1* RBC-3.92* Hgb-12.6* Hct-37.4*
+MCV-95 MCH-32.0 MCHC-33.6 RDW-16.1* Plt Ct-223
+[**2146-7-20**] 09:48PM BLOOD WBC-8.0 RBC-3.93* Hgb-13.4* Hct-36.9*
+MCV-94 MCH-34.1* MCHC-36.3* RDW-13.2 Plt Ct-179
+[**2146-7-27**] 05:36AM BLOOD PT-19.5* INR(PT)-1.8*
+[**2146-7-26**] 05:20AM BLOOD Plt Ct-223
+[**2146-7-20**] 09:48PM BLOOD Plt Ct-179
+[**2146-7-20**] 09:48PM BLOOD PT-16.2* PTT-76.8* INR(PT)-1.4*
+[**2146-7-27**] 05:36AM BLOOD K-3.4
+[**2146-7-26**] 05:20AM BLOOD Glucose-127* UreaN-20 Creat-0.8 Na-140
+K-3.3 Cl-102 HCO3-24 AnGap-17
+[**2146-7-20**] 09:48PM BLOOD Glucose-267* UreaN-12 Creat-0.8 Na-137
+K-3.9 Cl-104 HCO3-25 AnGap-12
+[**2146-7-24**] 12:45AM BLOOD ALT-31 AST-95* AlkPhos-49 TotBili-1.0
+[**2146-7-20**] 09:48PM BLOOD ALT-90* AST-225* LD(LDH)-517* AlkPhos-54
+TotBili-0.4
+[**2146-7-20**] 09:48PM BLOOD CK-MB-151* cTropnT-2.50*
+[**2146-7-27**] 05:36AM BLOOD Mg-2.1
+[**2146-7-20**] 09:48PM BLOOD %HbA1c-7.9*
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2146-7-26**] 3:40 PM
+
+
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] FA6A [**2146-7-26**] SCHED
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 79429**]
+Reason: f/u atx, effusionq
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   78 year old man with s/p cabg
+REASON FOR THIS EXAMINATION:
+   f/u atx, effusionq
+
+
+
+Final Report
+REASON FOR EXAMINATION: Followup of a patient after CABG.
+
+PA and lateral upright chest radiograph was compared to prior
+study obtained
+[**2146-7-22**].
+
+Patient is after median sternotomy and CABG. The
+cardiomediastinal silhouette
+is stable. There is overall improvement in bibasilar opacities
+consistent
+with atelectasis. Small bilateral pleural effusions
+demonstrated, left more
+than right, decreased since the prior study. There is no
+evidence of
+pneumothorax or mediastinal air.
+
+IMPRESSION: Overall improvement in bibasilar aeration with still
+present left
+basilar atelectasis. Small bilateral pleural effusions, left
+more than right.
+No pneumothorax. No failure.
+
+DR. [**First Name4 (NamePattern1) 2618**] [**Last Name (NamePattern1) 2619**]
+Approved: WED [**2146-7-27**] 10:01 AM
+
+
+Cardiology Report ECG Study Date of [**2146-7-26**]  12:39:38 PM
+
+
+Sinus rhythm and frequent atrial ectopy. Low limb lead voltage.
+Prior
+anteroseptal myocardial infarction. There is T wave inversion in
+leads V1-V3
+consistent with further evolution of acute anterior wall
+myocardial infarction
+recorded on [**2146-7-21**]. Followup and clinical correlation are
+suggested.
+
+
+Read by: [**Last Name (LF) 578**],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 579**]
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+86 200 78 368/413 0 65 99
+
+
+[**Known lastname **], [**Known firstname 1569**]       [**Hospital1 18**] [**Numeric Identifier 79430**] (Complete)
+Done [**2146-7-20**] at 11:15:11 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2068-1-14**]
+Age (years): 78 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: CABG WITH IABP
+ICD-9 Codes: 402.90, 786.05, 786.51, 799.02, 440.0, 410.91,
+424.0
+Test Information
+Date/Time: [**2146-7-20**] at 23:15    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW-1: Machine: AW3
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.1 cm  <= 2.5 cm
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending aorta diameter. Simple atheroma in
+descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild to
+moderate ([**12-8**]+) MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+Pre-CPB:
+LV systolic fxn is reduced to an EF of 40 - 45%. The septum,
+antero-septal and infero-septal walls are hypokinetic.
+No spontaneous echo contrast is seen in the left atrial
+appendage.
+Right ventricular chamber size and free wall motion are normal.
+There are simple atheroma in the descending thoracic aorta.
+An IABP is seen well-positioned in the proximal descending
+aorta.
+The aortic valve leaflets are mildly thickened. No aortic
+regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Mild to moderate
+([**12-8**]+) mitral regurgitation is seen.
+There is no pericardial effusion.
+
+Post-CPB:
+Patient is AV-Paced, on a NTG infusion.
+RV systolic fxn is good.
+LV systolic fxn is improved to an EF of 45 - 50%. The septum
+shows improved motion compared to pre-bypass.
+MR remains 1 - 2+.
+No AI. Aorta intact.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2146-7-21**] 02:25
+
+
+Brief Hospital Course:
+Transferred in from outside hospital with intra aortic balloon
+pump and went emergently to the operating room for coronary
+artery bypass graft.  See operative report for further details.
+He was transferred to the intensive care unit for furthe
+hemodynamic monitoring.  He was weaned from sedation, awoke, and
+was extubated in the first twenty four hours.  He remained with
+the intra aortic balloon pump until POD 1 due to hemodynamic
+instability when it was weaned.  He was started on ACE inhibitor
+and IABP was weaned and removed.  Cardiology was consulted for
+heart block postoperatively which was second degree mobitz type
+1, beta blockers were started and titrated up.  He continued to
+do well and remained on the intensive care unit as oral
+medications were titrated and he was weaned from vasodilators.
+He had atrial fibrilla

@@ -1,0 +1,229 @@
+Admission Date:  [**2150-12-19**]              Discharge Date:   [**2150-12-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+cyanosis, hypoxemia
+
+Major Surgical or Invasive Procedure:
+PICC placement [**2150-12-20**]
+
+History of Present Illness:
+[**Age over 90 **]M with COPD on home O2, AFib on lovenox, DVT s/p IVC filter
+admitted with hypoxemia and hypercapnia after being found to be
+cyanotic, confused, and hypoxic at his nursing home. Discharged
+yesterday after a 2 week admission for aspiration pneumonia,
+treated with levo/flagyl, with delirium and also atrial
+fibrillation with RVR.
+
+At [**Hospital1 1501**], he was hypoxic to 70s on 4L O2 by NC, looked cyanotic,
+was increasingly confused and lethargic. Sats improved to mid
+80s on 5L.
+
+In the ED, initial vs 100 100 144/74 26 91%RA. ABG
+7.47/53/63/40. CXR showed bilateral basalar opacities relatively
+unchanged from prior. EKG showed Afib rate Given vanco, levo,
+solumedrol, nebs. V/S prior to transfer 110 130/50 25 85% 6L VM.
+
+On the floor, he appeared fatigued/sleepy but conversed
+normally, oriented x2. Mild shortness of breath with cough
+occasionally productive of sputum. No chest pain, no abdominal
+pain. Stated he was having loose stools recently. No nausea or
+vomitting. No fever, but felt occasional chills. No
+lightheadedness. No dysuria. No myalgias.
+
+Past Medical History:
+- COPD - [**2143**] FVC 74% of predicted, FEV1 67% of predicted,
+FEV1/FVC 90% of predicted, TLC 111% of predicted, RV 145% of
+predicted. Intermitent home supplemental O2 use.
+- AFib
+- CAD
+- DVT ([**2148**]) s/p IVC filter
+- HTN
+- BPH
+- GERD
+- H. pylori gastritis
+- Gout
+- Inguinal hernia
+
+
+Social History:
+Prior to recent admission, lived home alone and was independent
+with ADLs, lived on a one floor home no stairs, walked around
+with oxygen intermittently (reportedly 50% of the time).
+Resident of [**First Name8 (NamePattern2) 3075**] [**Last Name (NamePattern1) **] [**Last Name (NamePattern1) **] since recent admission. Quit
+tobacco quit 40+ years ago. No ETOH.
+
+Family History:
+NC
+
+Physical Exam:
+Admission Physical Exam:
+General: Alert, oriented to name, knows he is in the hospital in
+[**Location (un) **], MA, NOT oriented to time, no acute distress, using
+muscles of respirations
+HEENT: Sclera anicteric, mucus membranes dry, oropharynx clear
+Neck: supple, JVP not elevated (but difficult to assess), no LAD
+
+Lungs: Crackles [**2-8**] way up at left base, decreased breath sounds
+at right base, no wheezes, occasional anterior rhonchi
+CV: afib, normal S1 + S2, no murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis, 2+
+pitting edema LE b/l, 2+ pitting edema with ecchymosis left hand
+
+
+
+Pertinent Results:
+[**2150-12-21**] 1:58 pm URINE      Source: CVS.
+
+                            **FINAL REPORT [**2150-12-22**]**
+
+   Legionella Urinary Antigen  (Final [**2150-12-22**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+           (Reference Range-Negative).
+      Performed by Immunochromogenic assay.
+      A negative result does not rule out infection due to other
+L.
+      pneumophila serogroups or other Legionella species.
+Furthermore, in
+      infected patients the excretion of antigen in urine may
+vary.
+.
+[**2150-12-21**] 5:38 pm STOOL     CONSISTENCY: SOFT
+
+                            **FINAL REPORT [**2150-12-22**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2150-12-22**]):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+.
+[**2150-12-21**] 12:55 pm SPUTUM
+
+   GRAM STAIN (Final [**2150-12-21**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   YEAST(S).
+
+   RESPIRATORY CULTURE (Preliminary):
+      Further incubation required to determine the presence or
+absence of
+      commensal respiratory flora.
+      YEAST.    MODERATE GROWTH.
+.
+[**2150-12-19**] Portable AP CXR
+Fleeting opacities, now worsened in left perihilar region, but
+slightly better on the right. Worsening opacity in the right
+apical region as well. Edema is favored, although foci of
+aspiration or pneumonia cannot be entirely excluded. Bilateral
+pleural effusions again noted, right greater than left.
+.
+[**2150-12-20**] Portable AP CXR
+Right PICC terminates in the superior vena cava. Heart is
+enlarged.
+Mediastinum is within normal limits. There is increased
+consolidation of the right lower lobe with a moderate
+right-sided pleural effusion. There is a moderate left pleural
+effusion with left lower lobe consolidation. There is patchy
+airspace opacification of the right upper lobe. There is
+prominent interstitial marking. There is mild congestive
+failure.
+IMPRESSION:
+Interval worsening of the appearance of the chest.
+Right PICC terminates in the superior vena cava.
+.
+
+
+
+
+
+
+
+
+
+
+
+Brief Hospital Course:
+[**Age over 90 **]M with COPD on home O2, AFib on lovenox, DVT s/p IVC filter
+admitted with hypoxemia and hypercapnia after being found to be
+cyanotic, confused, and hypoxic.
+
+#Hospital-acquired pneumonia- Started on an 8 day course of
+vancomycin and cefepime ([**Date range (1) 46367**]). PICC line placed [**12-20**]/
+Cultures remained negative.
+
+#Acute on chronic diastolic CHF - Treated with bolus diuresis
+(furosemide 20 mg IV) with decrease in admission weight. Unable
+to accurately measure urine output as the patient refused a
+foley catheter.  Patient will need to have electrolytes followed
+closely on Friday, [**2150-12-25**].  Will continue to diurese and to
+replete electrolytes as needed.
+
+#Atrial fibrillation - Rate controlled with diltiazem and
+digoxin. Treated with aspirin instead of systemic
+anticoagulation given his history of falls.
+
+#COPD- Continued with albuterol and ipratropium nebulizer.  He
+was started advair.
+
+#Nutrition- After discussion with patient and his sister,
+patient wishes to continue with diet knowing about his
+aspiration risk.  He did have an episode of witnessed
+aspiration.  Patient should adhere to the recommendations of
+speech/swallow therapy from [**12-14**] (1. PO diet of nectar thick
+liquids and pureed solids, 2. Full supervision with all PO
+intake, 3. Encourage single sips of liquid and slow rate of
+intake, 4. Meds crushed with purees).
+
+#Goals of care- Confirmed DNR/DNI status with the patient and
+his sister and healthcare proxy, [**Name (NI) 1743**] [**Name (NI) 17839**].  If
+patient cannot adhere to the recommended diet above, please
+consider "do not rehospitalize" order if it is still consistent
+with his goals of care.
+
+
+Medications on Admission:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO DAILY (Daily).
+2. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+3. docusate sodium 50 mg/5 mL Liquid Sig: Ten (10) ML PO BID (2
+
+times a day).
+4. ipratropium bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+
+or wheezing.
+5. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+6. acetaminophen 650 mg Suppository Sig: [**2-7**] Suppositorys Rectal
+
+Q6H (every 6 hours) as needed for pain.
+7. enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) injection
+Subcutaneous QD (): afib, h/o DVT.
+8. haloperidol 0.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insomnia.
+9. levalbuterol HCl 0.63 mg/3 mL Solution for Nebulization Sig:
+
+One (1) neb Inhalation every 4-6 hours as needed for SOB.
+10. digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+11. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)
+dose PO once a day as needed for constipation.
+12. senna 8.6 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as
+needed for Constipation.
+13. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. furosemide 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+15. potassium chloride 10 mEq Capsule, Sustained Release Sig:
+One (1) Capsule, Sustained Release PO once a day: with lasix.
+16. Outpatient Lab Work
+Please check chem 7, 

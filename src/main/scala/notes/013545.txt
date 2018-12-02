@@ -1,0 +1,182 @@
+Admission Date:  [**2166-12-18**]              Discharge Date:   [**2166-12-25**]
+
+
+Service: MEDICINE
+
+Allergies:
+Vasotec / Niacin
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+fatigue, renal failure
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Mr. [**Known lastname 1728**] is an 86M with cardiomyopathy (EF 15-20%), CAD s/p
+PCI's x 3, mod-severe AS, prior MVR, and atrial flutter who
+presents with acute on chronic renal failure on outpatient
+follow up. He was recently admitted to hospital for increased
+fatigue and diarrhea and discharged on [**2166-12-14**]. This
+hospitalization was complicated by hypotension requiring fluid
+resuscitation in the MICU. He was discharged home on torsemide
+20 mg [**Hospital1 **] which was an increase from previous home regimen of
+lasix 20mg [**Hospital1 **]. He presented to his cardiologist's office for
+routine labs. His creatinine increased to 4.5 with increased
+lower extremity edema.
+.
+In the ED, VS were stable. EKG showed RBBB with no acute
+changes. His creatinine increased from 2.9 on [**2166-12-14**] to 4.9.
+Patient denied dietary indiscretions. He was started on a new
+medication, minocycline prior to having his labs drawn for a
+pruritic rash on his torso. Other relatively new medications
+include coumadin for his atrial flutter.
+.
+He was admitted to the [**Hospital1 1516**] service where his ACE was held given
+renal failure. He was started on hydral for afterload reduction
+and lasix gtt for diuresis. He is followed by Dr. [**First Name8 (NamePattern2) 401**] [**Last Name (NamePattern1) 437**] who
+recommended milrinone + lasix gtt for treatment of his
+decompensated end stage CHF. He was transferred to the CCU for
+further management.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, pulmonary embolism, bleeding at the time of surgery,
+myalgias, joint pains, cough, hemoptysis, black stools or red
+stools. He denies recent fevers, chills or rigors. He denies
+exertional buttock or calf pain. Cardiac review of systems is
+notable for absence of chest pain, dyspnea on exertion,
+paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope
+or presyncope. He admits to significant chronic lower extremity
+edema.
+
+Past Medical History:
+1  CAD: s/p PCI to LAD, LMCA and LCX in [**2163**]; chronically
+occluded RCA with L->R collaterals
+2  History of Colon cancer - last scope [**2162**] with polyp
+3  Atrial fibrillation/flutter - on coumadin
+4  History of Basal cell carcinoma
+5  Mitral valve replacement [**1-/2164**] - (#29 Perimount Thermafix
+pericardial valve).
+6  Hypertension
+7  Gout
+8  Peripheral vascular disease (PVD)
+9  Mild aortic stenosis
+10 History of deep venous thrombosis - IVF filter placed [**2163**]
+11 Hypercholesterolemia
+12 Spinal stenosis
+13 Familial hand tremor
+14 Hernia repair, R-side inguinal
+15 Cataract repair, last [**2165-8-14**]
+16 Nephrolithiasis
+17 Chronic kidney disease  ( baseline Cr 2-2.7 per recent labs)
+
+Social History:
+- Former orthodontist.
+- Smoked until early 40s at 1-1.5 packs/day since age 22. Denies
+
+smoking since. Denies drinking.
+- Lives with wife in [**Location (un) 55**].
+
+Family History:
+- Father had heart attack at age 60.
+- Denies history of CA, diabetes in family.
+
+Physical Exam:
+VS:  HR 71 BP 101/56 98% RA
+Gen: WDWN elderly male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. Hearing aid in
+place
+Neck: Supple, no LAD, with JVP at mandible
+CV: PMI located in 5th intercostal space, anterior axilla.
+Irregular irregular, normal S1, S2. No m/r/g. No thrills, lifts.
+No S3 or S4.
+Chest: Resp were unlabored, no accessory muscle use. CTAB, no
+crackles, wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation.
+Ext: warm, dry, pitting edema up to mid thigh
+Skin: pale, macular, pruritic rash around lower abdomen and
+back, with scattered lesions on chest
+
+Pertinent Results:
+[**2166-12-18**] 02:00PM BLOOD WBC-7.1 RBC-4.19* Hgb-10.1* Hct-32.8*
+MCV-78* MCH-24.1* MCHC-30.8* RDW-17.5* Plt Ct-300
+[**2166-12-18**] 02:00PM BLOOD PT-14.3* PTT-27.9 INR(PT)-1.2*
+[**2166-12-18**] 02:00PM BLOOD Glucose-83 UreaN-96* Creat-4.9*# Na-135
+K-4.8 Cl-96 HCO3-28 AnGap-16
+[**2166-12-18**] 02:00PM BLOOD CK-MB-NotDone proBNP-[**Numeric Identifier 45271**]*
+[**2166-12-18**] 02:00PM BLOOD cTropnT-0.18*
+[**2166-12-19**] 06:15AM BLOOD CK-MB-NotDone cTropnT-0.16*
+[**2166-12-18**] 02:00PM BLOOD Calcium-8.6 Phos-5.6* Mg-2.9*
+[**2166-12-18**] 02:00PM BLOOD Digoxin-1.3
+.
+[**2166-12-19**]: Atrial flutter, rate 71, nl axis, wide QRS, RBBB, ST
+depression in I, avL
+.
+TTE [**2166-12-9**]
+The left atrium is markedly dilated. There is mild symmetric
+left ventricular hypertrophy. The left ventricular cavity is
+mildly dilated. There is severe global left ventricular
+hypokinesis (LVEF = 15-20% %). The right ventricular cavity is
+mildly dilated with moderate global free wall hypokinesis. The
+aortic root is mildly dilated at the sinus level. The aortic
+valve leaflets are moderately thickened. There is moderate to
+severe aortic valve stenosis (area 0.8-1.0cm2). Mild to moderate
+([**1-22**]+) aortic regurgitation is seen. A bioprosthetic mitral
+valve prosthesis is present. Mild (1+) mitral regurgitation is
+seen. [Due to acoustic shadowing, the severity of mitral
+regurgitation may be significantly UNDERestimated.] The
+tricuspid valve leaflets are mildly thickened. Moderate to
+severe tricuspid regurgitation is seen. The estimated pulmonary
+artery systolic pressure is normal. The pulmonic valve leaflets
+are thickened. There is no pericardial effusion.
+.
+[**2166-12-18**] CXR: Mild pulmonary edema, with no focal consolidation.
+.
+TTE [**2166-12-20**]
+There appears to be a mass in the body of the left atrium. It
+appears to be attached to the posterior wall. This may be a
+tumour, thrombus or an artifact from the prosthetic mitral
+valve. It has been present, with a similar size on
+echocardiograms on [**4-22**]/8 and 11/18/8. It was also seen on a
+cardiac MRIon [**2165-10-15**]. A TEE could be done to further clarify,
+if indicated. Moderately dilated left ventricle with severe
+global hypokinesis. Moderate to severe aortic stenosis and mild
+to moderate aortic regurgitation. Normally functioning mitral
+prosthesis. Mild pulmonary artery systolic hypertension.
+
+Brief Hospital Course:
+1. ACUTE ON CHRONIC SYSTOLIC CHF
+This is due to ischemic cardiomyopathy with an EF of 15-20%.
+BNP was elevated on admission.  He was initially put on a Lasix
+drip on the floor but was minimally responsive.  He was then
+sent to the CCU on [**2166-12-19**] and was started on Milrinone.  He
+was given a 25 mcg/kg Milrinone bolus and then put on 0.25
+mcg/kg/min Milrinone drip on [**2166-12-19**].  This was increased to
+0.375 on [**2166-12-20**] and to 0.5 mcg/kg/min on [**2166-12-21**].  He was
+kept on a Lasix drip at 12mg/min.  Due to low blood pressure he
+was started on phenylephrine which ranged from 0.5-1.0
+mcg/kg/min to maintain his BP with MAPs in the 50s. He diuresed
+well and was negative 9.5L for his length of stay, averaging
+between 2-3L per day.  His metoprolol was titrated up to improve
+diastolic filling time.  His echo on [**2166-11-19**] showed improvement
+of his stroke volume and cardiac output.  His renal function
+improved with creatinine of 4.9 on admission and 2.3 on
+discharge.  The milrinone and lasix were weaned off on [**2166-12-23**].
+He required phenylephrine for BP support until [**2166-12-24**], when
+this was weaned off.  He was kept on a low sodium diet and was
+fluid restricted.  On [**2166-12-23**] he was started on Bumex 3mg PO
+BID.  He continued to diurese with this regimen.  His Lisinopril
+was stopped on admission and remained off due to acute renal
+failure.  He improved clinically and was discharged on [**2166-12-25**]
+with outpatient follow-up with Dr. [**First Name (STitle) 437**].
+.
+2. CORONARY ARTERY DISASE
+The patient had a history of coronary disease and had ST
+depressions in leads I and AVL on admission.  He had no
+complaints of chest pain or SOB and these depressions were
+unchanged on follow-up ECGs.  His CKs were flat and tr

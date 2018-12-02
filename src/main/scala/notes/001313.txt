@@ -1,0 +1,208 @@
+Admission Date:  [**2109-9-11**]              Discharge Date:   [**2109-9-18**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hypotension, MS change
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+A-line placed
+IJ line placed in ED
+
+History of Present Illness:
+[**Age over 90 **] year old woman with h/o HTN, TIA/syncope, right hilar mass,
+osteoporosis BIBA from [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] for hypotension, lethargy.
+Patient developed diarrhea the day prior to admission, on d.o.a,
+had one episode of green/bilious emesis. Patient noted to be
+more lethargic, temp >100 per NH reports and [**Last Name (un) **] called EMS.
+Of note, patient had been on Cefpodoxime for a UTI (started
+[**2109-9-5**]). NH vitals: 100.3, HR 120, BP 70/40, RR 20. Patient
+denied abdominal pain.
+.
+In the ED: Tmax 102.2 HR 96, BP 102/46, RR 28, 98% 2 L. Sepsis
+protocol initiated, central line placed via R subclavian,
+intubated for airway protection, initially R mainstain
+intubation, subsequently pulled back with appropriate placement.
+Patient started on IV Vanco, Cipro and Flagyl. CXR clear without
+pna or infiltrates, U/A negative. She received ~2.5 L of fluid
+in the ED and transferred to the East ICU via ambulance. Patient
+sedated with IV Ativan/Etomidate, 1 amp of bicarb, 1 amp of Ca
+gluconate, 10 U of insulin, 1 amp of D50 for potassium of 7.0,
+also given 30 kayexalate. Remained tachy in ED, 99-113, BP came
+up to 120s-130s, urine output increased [**2043-11-29**] from 7:20 to
+9:40--70 ccs over 2.5 hrs. Bowel movement trace guiaic positive
+in ED. Admitted to [**Hospital Ward Name 332**] ICU.
+
+
+Past Medical History:
+HTN
+TIA
+R Hilar mass, cystic
+Hx of syncope
+osteoporosis
+
+
+Social History:
+Lived in [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **], a nursing home. Healthcare proxy: son
+
+Family History:
+noncontributory.
+
+Physical Exam:
+Upon arrival to [**Hospital Unit Name 153**]:
+Gen: Elderly woman intubated in [**Hospital Unit Name 153**], nonresponsive
+Heent: moist mucous membranes, PERRL, ~2mm->1.5mm
+Neck: supple, no JVD appreciable
+Chest: CTA b/l, no wheezing/rales/rhonchi
+CVS: nl S1 S2, distant, regular, no m/r/g appreciated
+Abd: soft, distended, tympanic to percussion, no HSM
+appreciated, BS+
+Ext: cool upper and lower ext, no edema, no cyanosis, trace
+distal pulses b/l
+Neuro: intubated and sedated, grimaces to painful stimuli
+Skin: dry, cool to touch, no rashes, skin breakdown
+.
+
+
+Pertinent Results:
+HEME
+[**2109-9-11**] 06:30AM
+WBC-13.7* RBC-3.85* HGB-12.2 HCT-35.7* MCV-93 MCH-31.7 MCHC-34.2
+RDW-14.8;
+DIFF: NEUTS-61 BANDS-9* LYMPHS-18 MONOS-8 EOS-0 BASOS-0 ATYPS-0
+METAS-4* MYELOS-0
+repeat:
+[**2109-9-11**] 11:34AM
+WBC-7.9 RBC-2.90* HGB-9.0*# HCT-27.2* MCV-94 MCH-31.1 MCHC-33.1
+RDW-14.9
+DIFF: NEUTS-43* BANDS-19* LYMPHS-17* MONOS-17* EOS-0 BASOS-0
+ATYPS-2* METAS-0 MYELOS-1* PROMYELO-1*
+.
+CARDIAC
+[**2109-9-11**] 06:30AM   CK-MB-2 cTropnT-0.07*
+[**2109-9-11**] 06:30AM   CK(CPK)-62
+[**2109-9-11**] 01:16PM   CK-MB-4
+[**2109-9-11**] 01:16PM   CK(CPK)-175*
+.
+CHEMISTRIES
+[**2109-9-11**] 06:30AM   GLUCOSE-141* UREA N-75* CREAT-3.0* SODIUM-145
+POTASSIUM-6.1* CHLORIDE-114* TOTAL CO2-12* ANION GAP-25*
+[**2109-9-11**] 07:11AM   GLUCOSE-133* LACTATE-6.7* NA+-147 K+-6.5*
+[**2109-9-11**] 07:51AM   LACTATE-4.3* K+-7.1*
+[**2109-9-11**] 09:30AM   LACTATE-5.7* K+-4.5
+[**2109-9-11**] 11:08AM   LACTATE-3.7*
+[**2109-9-11**] 11:46AM   LACTATE-3.3*
+[**2109-9-11**] 01:37PM   LACTATE-3.2*
+.
+[**Last Name (un) **] STIM
+baseline value not rcvd; 40 mins and 60 mins values.
+[**2109-9-11**] 03:30PM   CORTISOL-27.9*
+[**2109-9-11**] 03:50PM   CORTISOL-27.8*
+.
+BLOOD GASSES
+.
+URINE
+[**2109-9-11**] 07:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+.
+ARTERIAL BLOOD GASSES ON ASSIST CONTROL INTUBATION UNLESS NOTED:
+[**2109-9-11**] 11:08AM
+TEMP-36.3 RATES-5/  TIDAL VOL-400 PEEP-5 O2-100
+PO2-61* PCO2-27* PH-7.27* TOTAL CO2-13* BASE XS--12 AADO2-640
+REQ O2-100
+.
+[**2109-9-11**] 01:37PM
+TEMP-36.3 RATES-16/10 TIDAL VOL-400 PEEP-5 O2-100
+PO2-304* PCO2-23* PH-7.32* TOTAL CO2-12* BASE XS--12 AADO2-401
+REQ O2-69
+.
+[**2109-9-11**] 03:35PM
+TEMP-36.3 TIDAL VOL-400 PEEP-5 O2-50
+PO2-118* PCO2-20* PH-7.32* TOTAL CO2-11* BASE XS--13
+.
+[**2109-9-11**] 05:58PM
+TEMP-36.3 RATES-16/10 TIDAL VOL-400 PEEP-5 O2-100
+PO2-112* PCO2-20* PH-7.27* TOTAL CO2-10* BASE XS--15 AADO2-596
+REQ O2-96
+
+
+Brief Hospital Course:
+This was a [**Age over 90 **] yo woman with six day history of cephalosporin tx
+for a UTI, who presented with fulminant diarrhea, vomiting, and
+increasing lethargy. She also soon developed hypotension. She
+was intubated for airway protection and received pressors and
+fluids to maintain pressure. Cultures were sent. We changed the
+code status to DNR based on medical futility, d/w son (health
+care proxy) who agreed. However, her son felt that we should
+continue maximal care otherwise.
+.
+Notable features of her course include an increasingly distended
+abdomen and, initially, unresponsiveness without sedation. Her
+abdomen was visualized via KUB and showed large air collections,
+although the radiologist was unable to determine with certainty
+whether this was inside or outside the bowel. She was not stable
+enough to go to CT for further evaluation. Additionally she was
+not an appropriate surgical candidate because of her continued
+instability.
+.
+C. diff toxin was positive x2. Blood, stool and urine cultures
+were otherwise all negative. She was treated with PO
+metronidazole, PO vancomycin and IV vancomycin. Vancomycin
+troughs were monitored and were supratherapeutic even on PO
+vanco alone. We continued with PO metronidazole and PO
+vancomycin, accounting for reduced clearance.
+.
+Over the first several days of her admission she improved
+clinically somewhat. She was soon able to respond with head nods
+and shakes to questions; and could move hands and feet on
+request. She was significantly overbreathing her ventilator, and
+eventually was weaned off assist control and put on pressure
+support. However, her abdomen continued to be distended and
+tympanic. She stopped putting out stool. Her pressures did not
+continue to improve. She then became less interactive. She
+became more hypotensive and was given multiple fluid boluses and
+was put back on levophed. She had an ovoid pupil and was
+minimally interactive on the morning of the 3rd, and her
+condition continued to worsen. By the end of her admission she
+was more than 30 liters net positive, but this did not stop her
+hypotension. In the evening she begin to have increasing
+arrhythmias; and her pressures dropped into systolics in the 30s
+in the first hours of [**2109-8-19**]. After discussion with her son,
+there was agreement that the goals of care should change; she
+was extubated, and she expired.
+.
+
+
+Medications on Admission:
+Kayexalate 1 time dose given last week, remeron 15 qHS, HCTZ
+12.5 MWF, lisinopril 2.5 daily, actinel 35 qWk, compazine,
+heparin SC BID, cefpedoxime 200 mg [**Hospital1 **], planned 7 day course
+since [**9-5**], prilosec 20 [**Last Name (LF) 244**], [**First Name3 (LF) **] 81 daily, multivitamin.
+
+Discharge Medications:
+N/A.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Severe sepsis secondary to C. dificile infection.
+
+Discharge Condition:
+Expired.
+
+Discharge Instructions:
+N/A.
+
+Followup Instructions:
+N/A.
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

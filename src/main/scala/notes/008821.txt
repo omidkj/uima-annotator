@@ -1,0 +1,225 @@
+Admission Date:  [**2134-10-19**]              Discharge Date:   [**2134-11-3**]
+
+Date of Birth:  [**2083-9-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Cephalosporins / Aztreonam / Meropenem
+
+Attending:[**First Name3 (LF) 3556**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+Intbation
+Mechanical Ventilation
+Tracheostomy
+
+History of Present Illness:
+Pt is a 51 yo M with PMH of CHF and hypercarbic respiratory
+failure requiring intubation who presents with several episodes
+of SOB today. Pt called EMS, though thought SOB secondary to
+anxiety. Denied CP, abdominal pain, no orthopnea or PND. Does
+admit to worsening total body swelling/weight gain.
+.
+In the ED, initial vs were: T98.7 P87 BP150/83 R15 O2 sat93 RA.
+On exam poor air movement and decreased breath sounds at bases.
+EKG with no changes. CXR with no acute changes wiht ? pulmonary
+edema. Patient was given lasix 20mg IV x 1. On repeat evaluation
+pt was somnolent, difficult to arouse, awoke confused though AAO
+x 3 when arrived. ABG with CO2 retention. Pt was placed on CPAP.
+Initially he improved, though not quite oriented. On repeat
+evaluation, ABG without much improvement. Decreased FIO2, RR in
+30's. D-dimer sent was borderline positive. Pt was sent for CTA
+PE and CT head. CT head notable for diffuse white matter
+disease. Was able to undergo CTA on 2L alone without CPAP.
+.
+In the MICU, pt is on 2L NC. He was feeling well on arrival and
+requesting food.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of breath. Denied chest pain
+or tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias.
+
+
+Past Medical History:
+Achondroplasia
+cervical decompression
+at least three lumbar decompressions,laminectomies and spinal
+fusion
+
+Social History:
+Lives with wife in [**Name (NI) **]. No tobacco, ETOH or illicits. Does
+not work. Ambulates with walker from bed to bathroom.
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: BP:152/71 P:88 R: 18 O2: 87% L NC
+General: Sleepy but answers questions appropriately
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Diminished at bases bilaterally
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, obese, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+GU: foley
+Ext: 3+ pitting edema bilaterally
+SKIN: intertriginal erythema in L groin; buttocks blanching
+erythema
+
+
+Pertinent Results:
+ADMISSION LABS
+ABG 6:30pm: pH 7.26 pCO2 84 pO2 87 HCO3 39 BaseXS 7
+ABG 7:50pm: 7.31 pCO2 74 pO2 58 HCO3 39 BaseXS 6
+proBNP: 165
+D-Dimer: 512
+
+LABORATORY DATA:
+The patient's CBC has been relatively stable throughout the
+admission, with WBC ranging from 5.1 to 11.4, Hgb ranging from
+12.8-14.0, and Plt ranging from 162-332.
+At discharge:
+COMPLETE BLOOD COUNT   WBC  RBC   Hgb   Hct    MCV  Plt Ct
+[**2134-11-3**] 04:55AM    6.3  4.26* 12.3* 37.0*  87   262
+INR 3.0 at discharge
+
+RENAL & GLUCOSE      Glucose UreaN Creat  Na    K   Cl  HCO3
+[**2134-11-3**] 04:55AM    119    33    1.2   138  4.1  90   40
+<-Discharge
+[**2134-10-31**] 04:26AM    146    21    0.8   140  4.3  96   34
+[**2134-10-29**] 03:09AM    111     9    0.6   141  3.4  99   33
+[**2134-10-19**] 01:45PM    124    16    0.5   141  4.4  101  34
+<-Admission
+
+The patient's creatinine has slowly increased from 0.5 to 1.2 in
+the setting of diuretics, as well as start of gentamicin.
+
+Most Recent ABG:
+BLOOD GASES          pO2 pCO2 pH   calTCO2 Base XS
+[**2134-11-2**] 10:45PM  64  67   7.42  45     14
+
+DRUG MONITORING LEVELS
+
+ANTIBIOTICS            Genta       Vanco
+[**2134-11-3**] 04:55AM    2.3
+[**2134-11-3**] 04:55AM    2.2
+[**2134-11-2**] 07:36AM                23.9
+[**2134-10-31**] 11:49PM    1.1
+[**2134-10-29**] 02:58PM                23.8
+[**2134-10-25**] 06:11AM                20.4
+[**2134-10-24**] 06:05AM                10.6
+
+MICROBIOLOGY DATA
+[**2134-10-21**]  Sputum positive for Staph aureus (MSSA)
+[**2134-10-26**]  BLOOD CULTURE from arterial line,  positive for coag
+neg staph in [**3-8**] bottles but 0/2 bottles drawn peripherally
+[**2134-10-27**] 6:13 pm BRONCHOALVEOLAR LAVAGE: neg gram stain. no
+growth, no fungus, and no Acid Fast Bacteria.
+[**2134-10-28**] BLOOD CULTURE (from PICC)
+             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------     2 S
+
+
+[**2134-11-2**]  PICC TIP-IV WOUND CULTURE- no significant growth
+[**2134-11-2**]  BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2134-11-2**]  BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2134-11-1**]  SINUS ASPIRATE: Gram stain GPC, cx no sig growth
+[**2134-11-1**]  BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2134-10-31**]  BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2134-10-31**]  URINE URINE CULTURE-FINAL  NO GROWTH.
+[**2134-10-30**]  BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2134-10-30**]  BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2134-10-29**]  BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2134-10-29**]  SPUTUM GRAM STAIN-GRAM NEGATIVE ROD(S) CULTURE-FINAL
+{YEAST} INPATIENT
+[**2134-10-29**]  BLOOD CULTURE Blood Culture, Routine-PENDING
+
+CXR [**10-19**]: Markedly limited study. There is suggestion of volume
+overload.
+Slightly more confluent areas are likely due to edema; however,
+early
+developing infiltrate cannot be excluded. Recommend repeat
+radiography following appropriate diuresis and clinical
+correlation.
+
+CTA CHEST [**10-19**]
+1. Very limited study, without evidence for large central
+pulmonary embolism.
+2. Apparent narrowing of the left lower lobe bronchus is
+equivocal, however brochomalacia cannot be excluded.
+3. 4-mm right middle lobe nodular density can be re-evaluated
+with CT in one year. If there is history of malignancy, however,
+earlier follow-up should be considered.
+
+CT HEAD [**10-19**]
+IMPRESSION:
+1. Limited exam shows no acute intracranial process. Appearance
+of the brain with ventriculomegaly out of proportion to cerebral
+sulci and hypodensity in the subcortical and periventricular
+white matter is unchanged from [**2133-8-11**]. Possibility of normal
+pressure hydrocephalus cannot be excluded. To correlate
+clinically.
+2. Scattered paranasal sinus mucosal disease.
+3. Small foramen magnum, a finding which is compatible with the
+patient's
+known achondroplasia.
+
+ECHOCARDIOGRAM [**10-20**]
+The left ventricle is not well seen. The right ventricular
+cavity is dilated with depressed free wall contractility. There
+is abnormal septal motion/position consistent with right
+ventricular pressure/volume overload. The aortic valve is not
+well seen. The mitral valve leaflets are not well seen.
+IMPRESSION: Severely limited study due to patient's body
+habitus. The right ventricle is probably dilated and hypokinetic
+with pressure/volume overload. LV systolic function and valvular
+function cannot be adequately assessed.
+
+
+CT CHEST [**10-30**]
+IMPRESSION:
+Increased patchy opacities in the left upper and left lower
+lobes since the CT on [**10-19**], suggestive of pneumonia. No
+loculated pleural fluid, as questioned.
+
+CT SINUS [**10-31**]
+IMPRESSION:
+1. Marked worsening of pansinusitis with polypoidal mucosal
+thickening in a multiseptated right maxillary sinus and near
+complete opacification of a
+multipartite sphenoid sinus.
+
+2. Unchanged ventricular dilation and extensive subcortical and
+periventricular white matter hypoattenuation, better described
+on prior
+dedicated CT brain studies. The study is somewhat limited due to
+obliquity of patient positioning within the scanner.
+
+ADDENDUM :There is moderate soft tissue thickening around the
+partially imaged oropharyngeal soft tissues; part of this could
+be due 

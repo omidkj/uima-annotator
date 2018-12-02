@@ -1,0 +1,215 @@
+Admission Date:  [**2194-12-22**]              Discharge Date:   [**2195-1-15**]
+
+Date of Birth:  [**2111-3-25**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Erythromycin Base / Cefepime
+
+Attending:[**First Name3 (LF) 398**]
+Chief Complaint:
+unresponsiveness
+
+Major Surgical or Invasive Procedure:
+Tracheostomy
+PICC line placement
+Central line placement and removal
+
+
+History of Present Illness:
+This is a 82 year-old female with a history of CVA and dementia
+(nonverbal at baseline with PEG), CHF, h/o c diff, Afib,
+hypertension, hypothyroidism who presents from the ED after
+being found unresponsive at her nursing home. In late [**Name (NI) **],
+pt was admitted to an OSH for UTI complicated by c diff colitis.
+Per her daughter, pt has been more sleepy than usual for the
+past week with increasing O2 requirement. According to NH
+records, pt was diagnosed with LLL pneumonia yesterday and
+started on levofloxacin. She developed worsening respiratory
+distress and was found unresponsive early this morning. Had temp
+to 101 with SaO2 96% on 4L. EMS found her unresponsive and
+tachypneic. Pt was intubated in the field by EMS after receiving
+fentanyl and versed. Her initial BP in the field was 200/100-->
+140s systolic. She was brought to [**Hospital3 1280**]. Vitals on arrival
+were notable for temp of 100.1 and BP 89/66. CXR showed RLL
+infiltrate. WBC was 15.9 with left shift and 6 bands. Received
+NS 2L, levo 500mg IV and vanco 1g IV. ABG prior to transfer was
+7.59/36/504/35. She was transferred to [**Hospital1 18**] for further
+management.
+.
+In the ED, initial vitals were T 100.0, HR 67, BP 149/63, RR 14,
+SaO2 100% intubated. She remained hemodynamically stable. Head
+CT and CT c-spine with no acute process. CXR showed R-sided
+infiltrate. WBC was 21 with 88% neutrophils (no bands). Trop was
+elevated to 0.18 with CK of 50 and EKG unremarkable. Additional
+notable labs include lactate of 4.9, INR of 4.9, K of 2.7, and
+BUN/Cr 39/0.4. UA was negative. Urine and blood cultures sent.
+She received 2L NS, 40 mEq K, levo 250mg, and ceftriaxone 1g. Pt
+was transferred to the [**Hospital Unit Name 153**] for further management.
+.
+ROS: Unable to obtain as patient is intubated and sedated.
+
+
+Past Medical History:
+CHF (EF unknown)
+h/o C diff in late [**Month (only) **]
+A fib
+Anemia
+h/o CVA [**7-15**] s/p PEG-- was fully functional prior to CVA, now
+nonverbal at baseline and dependent for all ADLs
+Hypertension
+Hypothyroidism
+
+
+Social History:
+Divorced. Lives at [**First Name4 (NamePattern1) 3403**] [**Last Name (NamePattern1) 5261**] House. Otherwise unknown.
+
+Family History:
+non-contributory
+
+Physical Exam:
+Vitals: T: BP: 151/85 HR: 74 RR: 20 O2Sat: 96% on AC 400/14 PEEP
+5 FiO2 50%
+GEN: elderly female, intubated, no acute distress
+HEENT: PERRL, sclera anicteric, no epistaxis or rhinorrhea, dry
+mucous membranes with poor dentition and oral hygiene, no oral
+lesions
+NECK: No JVD, no bruits, no cervical lymphadenopathy, trachea
+midline
+COR: a fib, no M/G/R, normal S1 S2, radial and DP pulses +2
+PULM: coarse upper airway breath sounds anteriorly, no wheeze or
+crackles
+ABD: Soft, NT, ND, +BS, no HSM, no masses; PEG in place with no
+surrounding erythema or drainage
+EXT: No C/C/E, no palpable cords
+NEURO: Opens eyes to voice and tracks. Follows simple commands
+(open eyes, squeeze fingers). Plantar reflex downgoing on L and
+upgoing on R.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+
+
+
+Pertinent Results:
+[**2194-12-22**] 07:30AM
+PLT COUNT-519*
+NEUTS-87.9* LYMPHS-7.7* MONOS-4.0 EOS-0.1 BASOS-0.3
+WBC-21.2* RBC-3.79* HGB-10.8* HCT-33.0* MCV-87 MCH-28.6
+MCHC-32.9 RDW-16.5*
+GLUCOSE-159* UREA N-39* CREAT-0.4 SODIUM-144 POTASSIUM-2.8*
+CHLORIDE-99 CO2-36* ANION GAP-12
+PT-44.2* PTT-30.9 INR(PT)-4.9*  CK-MB-NotDone  cTropnT-0.18*
+CK(CPK)-50  POTASSIUM-2.9*  HGB-11.5* calcHCT-35
+GLUCOSE-146* LACTATE-4.9* NA+-144 K+-2.7* CL--92* TCO2-37*
+
+[**2194-12-22**] 09:48AM URINE
+HYALINE-0-2
+RBC-[**3-12**]* WBC-[**3-12**] BACTERIA-NONE YEAST-NONE EPI-0-2
+BLOOD-NEG NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG
+BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-TR
+COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.024
+
+[**2194-12-22**] 02:23PM
+PT-35.3* PTT-28.1 INR(PT)-3.7* PLT COUNT-558*
+WBC-27.4* RBC-4.13* HGB-11.7* HCT-36.7 MCV-89 MCH-28.4 MCHC-31.9
+RDW-16.1*
+DIGOXIN-2.4*  TSH-4.8*
+CALCIUM-7.5* PHOSPHATE-2.6* MAGNESIUM-1.7
+CK-MB-7 cTropnT-0.11* proBNP-6848*  CK(CPK)-75
+
+[**2194-12-22**] 02:23PM
+GLUCOSE-173* UREA N-36* CREAT-0.4 SODIUM-145 POTASSIUM-3.6
+CHLORIDE-104 TOTAL CO2-29 ANION GAP-16
+LACTATE-3.1*
+TYPE-ART O2-50 PO2-157* PCO2-37 PH-7.54* TOTAL CO2-33* BASE XS-9
+
+
+Discharge labs:
+COMPLETE BLOOD COUNT   WBC  RBC    Hgb  Hct  MCV MCH  MCHC  RDW
+ Plt Ct
+[**2195-1-15**] 04:04AM    5.5  2.68* 7.9* 24.9*  93 29.3 31.5
+17.8*  498*
+  BASIC COAGULATION     PT   PTT   INR(PT)
+[**2195-1-15**] 08:00AM    15.7  25.2   1.4*
+Chemistry
+RENAL & GLUCOSE     Glucose  UreaN   Creat  Na    K   Cl  HCO3
+AnGap
+[**2195-1-15**] 04:04AM    122*    7      0.2* 130*  3.6  98   26
+10
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+[**2195-1-15**] 04:04AM          7.6* 3.2 1.7
+
+
+Head CT [**12-22**]
+IMPRESSION:
+1. No evidence of hemorrhage or recent infarction.
+2. Large area of encephalomalacia in the left MCA distribution.
+
+C-Spine CT [**12-22**]
+IMPRESSION:
+1. No evidence of fracture in the cervical spine.
+2. Multilevel severe degenerative changes with bilateral
+multilevel neural
+foraminal narrowing.
+
+CT Torso [**12-22**]
+1. Diverticulitis with adjacent inflammatory change and
+phlegmon; no discrete abscess or drainable fluid collection.
+2. Right basilar airspace opacification likely due to pneumonic
+consolidation.
+3. Right upper lobe segmental atelectasis.
+
+CHEST (PORTABLE AP) Study Date of [**2194-12-22**] 6:40 AM
+IMPRESSION:
+1. Endotracheal tube in the appropriate position.
+2. Multiple rib fractures.
+3. Right hemidiaphragm elevation, probably due to atelectasis,
+recommend
+followup to document resolution.
+
+TTE [**12-26**]:
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and global
+systolic function (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. There is no ventricular septal defect. The right
+ventricular cavity is dilated with normal free wall
+contractility. The aortic valve leaflets (3) are mildly
+thickened. There is no aortic valve stenosis. Mild to moderate
+([**1-9**]+) aortic regurgitation is seen. The mitral valve leaflets
+are mildly thickened. Moderate (2+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened.
+Moderate [2+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+CXR [**2195-1-13**]:
+In comparison with study [**1-12**], there is now a tracheostomy tube
+in
+place with no evidence of pneumomediastinum or pneumothorax.
+Little overall change in the cardiomegaly, pulmonary vascular
+congestion, basilar
+atelectasis, and bilateral pleural effusions.
+
+
+Brief Hospital Course:
+# Respiratory failure: Likely secondary to aspiration given
+altered mental status and recent lethargy. She was able to wean
+to pressure support and FiO2 of 40% upon arrival to ICU. Was
+initially broadly covered with vanco/cefepime in case of
+pnuemonia, but without any evidence of pneumonia on cxr or
+culture data, these antibx were stopped. Urine legionella
+negative. On HD#3 patient developed HTN and increased WOB in the
+setting of flash pulmonary edema. Improved with Lasix and acute
+blood pressure treatment. Developed Right sided pleural effusion
+and was slowly diuresed in the ICU. Although patient carries a
+dx of CHF, TTE demonstrated intact EF of 55%. Due to her
+prolonged intubation and failure to wean from the ventilator, a
+trach was placed on [**2195-1-13**].
+
+# C Diff Colitis: Hypotension resolved with IV fluid on
+admission. Treated with Vancomycin po and Flagyl IV that was
+later transitioned to po. Remaining culture data was negative.
+CT abdomen demonstrated colitis and diverticulitis. Planned
+treatment course f

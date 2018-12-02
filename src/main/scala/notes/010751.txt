@@ -1,0 +1,56 @@
+Admission Date:  [**2103-6-2**]       Discharge Date:  [**2103-6-12**]
+
+
+Service:
+
+STAT [**Hospital 14851**] HOSPITAL COURSE:  The patient was sent for EPS
+study on [**6-11**].  Study showed no evidence of inducible
+V-tach and no defibrillator was placed.  The patient's [**Month (only) 263**]
+has been creeping up from 1.4 to 2.4 to 3.7 on day of
+discharge.  This was discussed with primary care physician,
+[**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 43048**].  Dr. [**Last Name (STitle) 43048**] feels the patient should
+not be placed on Lovenox.  In the meantime, the patient will
+not be discharged on any Coumadin.  He will be followed up by
+his primary care physician.  [**Name10 (NameIs) 263**] should be checked and the
+patient should be started on a Coumadin regimen through the
+[**Hospital 197**] clinic at [**Hospital1 2025**].  Further PT/INRs will then be checked
+as appropriate.
+
+DISCHARGE MEDICATIONS:
+1.  Lisinopril 20 mg po qd
+2.  Metoprolol 25 mg po bid
+3.  Enteric coated aspirin 325 mg po qd
+4.  Plavix 75 mg po qd x30 days
+5.  Pravastatin 20 mg po qd
+6.  Protonix 40 mg po qd x4 weeks
+7.  Naprosyn 375 mg po bid for two more weeks.  This is for
+treating his pericarditis.
+8.  Lasix 40 mg po qd
+9.  Lovenox 45 mg po bid
+
+DISCHARGE CONDITION:  The patient is stable on day of
+discharge.
+
+DISCHARGE DIAGNOSES:
+1.  Hypertension
+2.  Coronary artery disease
+3.  Congestive heart failure with an ejection fraction of
+20%, 1+ mitral regurgitation, 1+ tricuspid regurgitation and
+post myocardial infarction pericarditis.
+
+Once [**Hospital1 263**] improves, would send patient to [**Hospital 197**] clinic at
+[**Hospital1 2025**] where he can be started on Coumadin and PT/INRs checked.
+The patient should also be frequently checked for potassium,
+magnesium, BUN, creatinine.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 4786**]
+
+Dictated By:[**Doctor Last Name 27212**]
+MEDQUIST36
+
+D:  [**2103-6-12**]  14:16
+T:  [**2103-6-12**]  14:52
+JOB#:  [**Job Number 43049**]

@@ -1,0 +1,219 @@
+Admission Date:  [**2178-11-20**]              Discharge Date:   [**2178-11-24**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Tetanus
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+Hemoptysis
+
+Major Surgical or Invasive Procedure:
+[**2178-11-20**] Aortic Valve Replacement(21mm St. [**First Name5 (NamePattern1) 923**] [**Last Name (NamePattern1) 9041**] Porcine)
+and Mitral Valve Replacement(25mm [**Company 1543**] Mosaic Porcine).
+
+
+History of Present Illness:
+This is an 84 year old female with known rheumatic heart
+disease. In [**2178-10-8**], she presented with hemoptysis. Chest
+CT scan at that time was notable for bilateral dense
+cosolidations consistent with pulmonary hemorrhage. Infectious
+etiology was ruled out and Methotrexate was discontinued. Serial
+echocardiograms have shown progression of aortic and mitral
+valve disease with severe pulmonary artery systolic
+hypertension. Further cardiac evaluation included cardiac
+catheterization which showed normal coronary arteries. Given new
+onset hemoptysis and progression of her valvular heart disease,
+she was deemed suitable for cardiac surgical intervention.
+
+Past Medical History:
+- Rheumatoid arthritis
+- Osteoarthritis
+- Rheumatic heart disease c/b Aortic stenosis, Aortic
+insufficiency, Mitral stenosis, and Mitral regurgitation
+- History of paroxysmal atrial fibrillation
+- Anemia of chronic disease
+- Osteoporosis
+- History of scarlet fever
+- s/p Cesearen section
+- s/p TAH/ BSO
+- Pyloric stenosis repair s/p repair
+- Hemorrhoids s/p surgery
+- s/p Neck surgery
+
+Social History:
+Lives in own house in senior community. Widowed. Son and
+daughter supportive and nearby. No history of smoking or alcohol
+abuse. Father and husband were long-time smokers. H/o blood
+transfusion in [**2120**]'s.
+
+Family History:
+- Mother: ?DM, [**Last Name **] problem
+- Father: emphysema
+- Brother: thyroid dz, metastatic cancer, OA
+- Daughter: ?RA
+
+Physical Exam:
+General: Elderly female in no acute distress
+HEENT: Oropharynx benign, EOMI
+Neck: Supple, no JVD, transmitted murmurs noted over carotids
+Lungs: CTA bilaterally
+Heart: Regular rate and rhythm, loud holosystolic murmur
+Abdomen: Soft, nontender with normoactive bowel sounds
+Ext: Warm, no edema
+Pulses: 2+ distally
+Neuro: Alert and oriented, CN 2- 12 grossly intact, no focal
+deficits noted
+
+Pertinent Results:
+[**2178-11-24**] 06:30AM BLOOD WBC-8.8 RBC-3.40* Hgb-10.0* Hct-30.1*
+MCV-88 MCH-29.3 MCHC-33.1 RDW-15.3 Plt Ct-257
+[**2178-11-24**] 06:30AM BLOOD Plt Ct-257
+[**2178-11-22**] 12:27AM BLOOD PT-14.2* PTT-28.5 INR(PT)-1.2*
+[**2178-11-24**] 06:30AM BLOOD Glucose-110* UreaN-16 Creat-0.7 Na-131*
+K-4.1 Cl-96 HCO3-28 AnGap-11
+
+CHEST (PA & LAT)  [**2178-11-24**] 9:31 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate ptx
+
+[**Hospital 93**] MEDICAL CONDITION:
+84 year old woman with s/p avr
+REASON FOR THIS EXAMINATION:
+evaluate ptx
+HISTORY: Status post AVR, to evaluate for pneumothorax.
+
+FINDINGS: In comparison with the study of [**11-23**], the patient has
+taken a somewhat better inspiration. No definite apical
+pneumothorax is appreciated on this examination. No change in
+the appearance of the cardiomediastinal contours. Atelectasis,
+or even pneumonia persists.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 24475**], [**Known firstname 24476**]       [**Hospital1 18**] [**Numeric Identifier 24477**]
+(Complete) Done [**2178-11-20**] at 10:27:44 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2094-11-1**]
+Age (years): 84 F  Hgt (in): 60
+BP (mm Hg): 134/78  Wgt (lb): 94
+HR (bpm): 67  BSA (m2): 1.36 m2
+Indication: Intraoperative TEE for AVR and MVR
+ICD-9 Codes: 427.31, 786.05, 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2178-11-20**] at 10:27    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6507**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW4-: Machine: [**Pager number 5741**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  45%  >= 55%
+Aorta - Annulus:  1.9 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  *4.7 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *89 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  68 mm Hg
+Aortic Valve - Valve Area:  *0.5 cm2  >= 3.0 cm2
+Mitral Valve - Mean Gradient:  8 mm Hg
+Mitral Valve - Pressure Half Time:  170 ms
+Mitral Valve - MVA (P [**12-9**] T):  1.2 cm2
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Moderate symmetric LVH. Normal regional
+LV systolic function. Mildly depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal aortic arch diameter. Normal
+descending aorta diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Severe AS (AoVA <0.8cm2). Mild to moderate ([**12-9**]+) AR.
+
+MITRAL VALVE: Characteristic rheumatic deformity of the mitral
+valve leaflets with fused commissures and tethering of leaflet
+motion. Moderate mitral annular calcification. Moderate
+thickening of mitral valve chordae. Moderate valvular MS (MVA
+1.0-1.5cm2) Moderate to severe (3+) MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild
+[1+] TR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+Prebypass
+
+1.No atrial septal defect is seen by 2D or color Doppler.
+
+2.There is moderate symmetric left ventricular hypertrophy.
+Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is mildly depressed (LVEF= 45 %).
+
+3. Right ventricular chamber size and free wall motion are
+normal.
+
+4.There are simple atheroma in the descending thoracic aorta.
+
+5.The aortic valve leaflets are severely thickened/deformed.
+There is severe aortic valve stenosis (area <0.8cm2). Mild to
+moderate ([**12-9**]+) aortic regurgitation is seen.
+
+6.The mitral valve shows characteristic rheumatic deformity.
+There is moderate thickening of the mitral valve chordae. There
+is moderate valvular mitral stenosis (area 1.0-1.5cm2). Moderate
+to severe (3+) mitral regurgitation is seen.
+
+7.The tricuspid valve leaflets are mildly thickened.
+
+Post Bypass
+
+1. Patient is being AV paced and receiving an infusion of
+epinephrine and phenylephrine.
+
+2. Left ventricular systolic function is much improved. EF 55%
+
+3. Bioprosthetic valve seen in the mitral position. Leaflets
+move well and the valve appears well seated. Trivial mitral
+regurgitation. Mean gradient across the mitral valve is 4 mm Hg.
+
+
+4. Bioprosthetic valve seen in the aortic position. The leaflets
+move well and the valve appears well seated. No aortic
+regurgitation present. Mean gradient across the aortic valve is
+18 mm Hg.
+
+5. About 20 minutes post CPB an echo dense material (about 5mm
+in size) seen free floating in the left atrium. Surgeon made
+aware. Did not want to go on bypass to look for it. Seemed to
+subsequently disappear.
+
+6. Aorta intact post decannulation.
+
+
+Brief Hospital Course:
+Mrs. [**Known lastname **] was admitted and underwent aortic and mitral valve
+replacements by Dr. [**Last Name (STitle) **]. For surgical details, please see
+seperate dictated operative note. Following the operation, she
+was brought to the CVICU for invasive monitoring. Within 24
+hours, she awoke neurologically intact and was extubated without
+incident. Routine chest x-ray was notable for a small apical
+le

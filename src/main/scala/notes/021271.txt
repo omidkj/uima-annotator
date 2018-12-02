@@ -1,0 +1,215 @@
+Admission Date:  [**2119-6-28**]              Discharge Date:   [**2119-7-7**]
+
+Date of Birth:  [**2050-2-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Morphine Sulfate / Lipitor
+
+Attending:[**First Name3 (LF) 2901**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+IVC filter placement [**2119-6-29**]
+
+History of Present Illness:
+69 yo F w/ history of CAD and DM who presents with acute onset
+of shortness of breath this morning.  She felt well when she
+first got out of bed, but felt acutely dyspneic after getting up
+from breakfast.  She tried to leave the house but was out of
+breath getting into her car.  She had no cough, chest pain,
+diaphoresis or calf pain.  She has had no recent travel,
+surgeries or trauma, though her physical activity has been very
+limited by chronic back and left hip pain.  She had superficial
+thrombophlebitis during her three pregnancies but has never had
+any other abnormal clotting.
+
+Initial ED vital signs 98.3, 97, 122/68, 18 and 95RA.   ED exam
+notable for mild tachycardia, guaiac negative.  Initial labs
+concerning for elevated DDimer > 1063 and mild anemia Hct 34.7.
+EKG with sinus tachycardia, RBBB but no e/o RV strain.  Obtained
+CTA that revealed large thrombus in right main pulmonary artery.
+ Given Dilaudid 1mg IV, Plavix 600mg PO (for initial presumed
+ACS), Heparin bolus & gtt and Integrillin bolus (did not
+continue on gtt).  Has gotten approximately 1L fluid in IV
+medications.  No Echo performed while in ED.
+
+Of note, patient recently saw Rheumatology for evaluation of a
+[**First Name9 (NamePattern2) 9374**] [**Doctor First Name **].  Initial labs revealed normal CBC, ESR, CRP and
+negative [**Doctor First Name **], anti-Sm, RNP, RO and LA.  She was also recently
+told that she has iron deficiency anemia and should start taking
+iron.
+
+She has had chronic stable angina for over a decade that has not
+been an issue for the last 3 months, partly due to decreased
+activity.  She has chronic back and left hip pain that restricts
+her movements.  Her right ankle occasionally swells, and was
+swollen yesterday.  On review of systems, she denies any prior
+history of stroke, TIA, deep venous thrombosis, pulmonary
+embolism, bleeding at the time of surgery, myalgias, cough,
+hemoptysis, black stools or red stools. She denies recent
+fevers, chills or rigors. She denies exertional buttock or calf
+pain. All of the other review of systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+palpitations, syncope or presyncope.
+
+Past Medical History:
+- CAD, per Kannum note [**2107-8-23**] has single vessel disease with a
+tight proximal coronary lesion
+- Type II DM
+- Hypertension
+- Hyperlipidemia
+- Hypothyroidism
+- s/p laminectomy x2
+- s/p appendectomy and cholecystectomy
+- s/p TAH and oophorectomy
+- s/p multiple hernia operations
+- s/p total knee replacement
+- s/p tonsillectomy
+
+Social History:
+Lives with husband and son in [**Name (NI) 4628**]. Has three children and
+three grandchildren.
+-Tobacco history: smoked 2-3 packs/day for 15 years, quit 20+
+years ago.
+-ETOH: rare EtOH
+-Illicit drugs: none
+
+Family History:
+No family history of abnormal clotting.  One brother died of an
+MI in his early 50s. Father died of MI at 71, mother of leukemia
+at 63; otherwise non-contributory.
+
+
+Physical Exam:
+VS: T=98.9 BP=115/61 HR=95 R=20 O2 sat= 99% on 2L
+GENERAL: Obese female breathing comfortably. Oriented x3. Mood,
+affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 6 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. tachycardic but regular, normal S1, S2. No m/r/g. No
+thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities. Resp were unlabored, no
+accessory muscle use. CTAB, no crackles, wheezes or rhonchi.
+ABDOMEN: Obese, soft, NTND. No HSM or tenderness. No abdominal
+bruits.
+EXTREMITIES: Mild right calf pain, no left calf pain.  No
+peripheral edema.
+SKIN: Mild LE venous insufficiency.  No ulcers, scars, or
+xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ DP 1+ PT 1+
+Left: Carotid 2+ Femoral 2+ DP 1+ PT 1+
+
+Pertinent Results:
+[**2119-6-28**] 10:45AM
+WBC-6.9  HCT-34.7  PLT COUNT-242
+
+COAGs: PT-12.1 PTT-25.0 INR(PT)-1.0
+CE: CK-MB-6    cTropnT-0.03*    CK(CPK)-206*
+
+137 | 101 | 15
+4.4 | 25 | 0.8
+
+[**2119-6-28**] 01:01PM   D-DIMER-1063*
+
+UCx ([**2119-7-1**]): Proteus mirabilis
+[**2119-6-30**] 11:20 am URINE      Source: CVS.
+                            **FINAL REPORT [**2119-7-2**]**
+   URINE CULTURE (Final [**2119-7-2**]):
+      PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+DISCHARGE LABS
+[**2119-7-7**] 07:00AM BLOOD WBC-10.3 RBC-4.11* Hgb-10.8* Hct-34.3*
+MCV-83 MCH-26.2* MCHC-31.5 RDW-16.3* Plt Ct-233
+
+[**2119-7-7**] 07:00AM BLOOD Glucose-123* UreaN-14 Creat-0.6 Na-133
+K-4.3 Cl-98 HCO3-25 AnGap-14
+
+[**2119-7-6**] 06:50AM BLOOD Calcium-8.6 Phos-3.1 Mg-1.9
+
+[**2119-7-1**] 07:35AM BLOOD TSH-1.0
+
+[**2119-7-7**] 07:00AM BLOOD PT-14.8* PTT-89.5* INR(PT)-1.3*
+
+IMAGING
+CTA CHEST W&W/O C&RECONS, NON-CORONARY Study Date of [**2119-6-28**]
+1:44 PM
+1. Large pulmonary embolus in the right main pulmonary artery
+extending into the lobar branches. No evidence of right heart
+strain or pulmonary infarct.
+2. Fatty liver.
+3. Prominent anterior mediastinal nodes not meeting CT criteria
+for
+pathologic enlargement; however, recommend CT followup in six
+months to ensure stability.
+
+LENIs ([**2119-6-29**])
+1. No evidence of acute DVT.
+2. Chronic thrombus within the greater saphenous vein on the
+right from the mid thigh to the calf. This has improved from
+prior.
+
+Abd/Pelvis CT non-contrast ([**2119-7-1**]):
+1. Large right proximal/medial thigh hematoma, located in the
+adductor
+compartment. No intra-abdominal retroperitoneal hematoma.
+2. Degenerative change in lumbar spine. Superior endplate
+depression at L2
+which is unchanged from prior MRI.
+
+Portable TTE (Complete) Done [**2119-6-29**] at 11:06:09 AM      FINAL
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. There is mild
+symmetric left ventricular hypertrophy with normal cavity size
+and regional/global systolic function (LVEF>55%). The estimated
+cardiac index is normal (>=2.5L/min/m2). The right ventricular
+cavity is moderately dilated with focal basal free wall
+hypokinesis. There is abnormal diastolic septal motion/position
+consistent with right ventricular volume overload. The aortic
+arch is mildly dilated. The aortic valve leaflets (3) are mildly
+thickened. Trace aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Trivial mitral regurgitation is
+seen. The left ventricular inflow pattern suggests impaired
+relaxation. The tricuspid valve leaflets are mildly thickened.
+There is borderline pulmonary artery systolic hypertension.
+There is an anterior space which most likely represents a fat
+pad.  Compared with the prior study (images reviewed) of
+[**2117-6-7**], the right ventricle is more dilated with basal
+hypokinesis and evidence of volume overload. The left
+ventricular function is similar.
+
+
+Brief Hospital Course:
+# PULMONARY EMBOLISM: Patient w/ acute onset shortness of
+breath, CTA showed large amount of clot in the right main
+pulmonary artery extending into the lobar branches. Patient was
+hemodynamically stable and was oxygenating well on nasal
+cannula. She was started heparin gtt to maintain PTT between 60
+and 10

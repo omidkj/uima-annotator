@@ -1,0 +1,226 @@
+Admission Date:  [**2160-12-24**]              Discharge Date:   [**2161-1-5**]
+
+Date of Birth:  [**2088-7-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 398**]
+Chief Complaint:
+Sepsis
+
+Major Surgical or Invasive Procedure:
+Central line placement
+
+
+History of Present Illness:
+This is a 72 year old female NH resident with Down's Syndrome,
+alz dementia, diverticulosis, h/o VRE who presented from a NH
+with respiratory distress, hypoxia with O2 and hypotension with
+SBP 60-80. At NH, she had difficulty in breathing withouth
+copious amounts of secretions being suctioned. Upon arrival to
+the ED, her vitals were HR 92, BP of 70/46, RR of 28, O2sat of
+80%/RA. Sats improved on CPAP and then was placed on NRB,
+satting at 100%. Placed on levophed for support. Laboratories
+notable for intial lactate 3.9, WBC of 42.6 and Cr of 4.4. K of
+6.4 for which patient received calcium, insulin, bicarbonate,
+and D50. Urinalysis notable for positive WBC and leucocyte
+esterase. Pt received IV levofloxacin. Attempt at subclavian
+central line unsuccessful, L femoral CVL placed.
+.
+Pt is DNR/[**Hospital 24351**] health care proxy was [**Name (NI) 653**] by [**Name (NI) **], she agreed
+to pressors and antibiotics but confirmed DNR/DNI status.
+
+
+Past Medical History:
+Past Medical History:
+- Down's Syndrome
+- Alzheimer's dementia
+- Sick sinus syndrome s/p dual chamber [**Name (NI) 4448**] in 7/00
+- osteoporosis
+- rosacea
+- Raynauds
+- OCD
+- Diverticular disease
+- Prior admission for pneumonia
+
+
+Social History:
+Pt lives in nursing home ([**Last Name (un) 18355**] Center). Per chart no tobacco
+or alcohol. The pt's guardian ([**Name (NI) **] ARC) in the past has made her
+DNR/DNI.
+
+Family History:
+Unable to obtain/non-contributory.
+
+Physical Exam:
+VS: 97.3, 118/62 (76), 94, 17, 99%/NRB
+Gen: in no acute distress, minimally verbal at baseline
+HEENT: Dry mucus membranes, pupils with defects bilaterally,
+sclerae anicteric.
+Neck: Supple, no lymphadenopathy
+CV: Normal S1/S2, RRR, II/VI HSM at apex.
+Pul: bil exp coarse breath sounds
+Abd: Soft, NT, distended, normoactive BS.
+Ext: No edema, DP's full bilaterally.
+
+
+Pertinent Results:
+URINE CULTURE (Final [**2160-12-25**]):
+      PROTEUS MIRABILIS.    10,000-100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Trimethoprim/Sulfa sensitivity testing confirmed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------     8 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------    32 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+[**2160-12-24**] 4:08 am SPUTUM      Source: Expectorated.
+
+                            **FINAL REPORT [**2160-12-26**]**
+
+   GRAM STAIN (Final [**2160-12-24**]):
+      [**10-22**] PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CHAINS.
+
+   RESPIRATORY CULTURE (Final [**2160-12-26**]):
+      SPARSE GROWTH OROPHARYNGEAL FLORA.
+      BETA STREPTOCOCCI, NOT GROUP A.    SPARSE GROWTH.
+
+
+Brief Hospital Course:
+This is a 72 year old woman with Down's Syndrome, Alzheimer's
+dementia, diverticular disease admitted with sepsis evidenced by
+hemodynamic instability, high grade leucocytosis, lactic
+acidosis and associated with renal failure and hyperkalemia,
+Initially required Levophed, 100% FM. She is DNR/DNI.  She was
+started on broad spectrum antibiotics including linezolid,
+zosyn, and flagyl  The sources of infection appear to be UTI
+secondary to proteus infection and RLL PNA given high amount of
+secretions.  Given sensitivities of the proteus organism,
+antibiotics were narrowed with vancomycin replacing linezolid
+and continuation of zosyn.  She finished 10 days of flagyl.
+.
+The patient improved hemodynamically with pressors being weaned
+off on hospital day 4.  Her acidosis and renal failure also
+improved quickly.  She continued to have secretions and needed
+oxygen support.  Secretions resolved fairly well by HD 7, she
+continues to require oxygen support of 50% face mask.
+.
+In summary this is a 72 year old woman with Down's syndrom and
+dementia admitted for sepsis secondary to proteus UTI and/or
+pneumonia.  Sepsis is resolved.  She is DNR/DNI.  She has been
+hemodynamically stable for over a week although she continues to
+require oxygen support via facemask.
+.
+Issues and plan summarized below:
+.
+1) Sepsis: likely source UTI (from proteus) and PNA. metabolic
+acidosis and renal failure reversed quickly at admission.
+- volume repleted
+- Levophed gtt off since [**12-28**]
+- Vancomycin day 5, Zosyn day 11
+- Completed steroids started [**12-27**] for continued pressor
+requirement and inadequate [**Last Name (un) 104**] stim (total 5 days; ended [**11-30**])
+.
+2) Resp distress: likely from thick secretions from PNA,
+secretions improved, continues to need oxygen support
+- antibiotics as above.
+- albuterol, mucomyst, added pulmicort
+- chest PT, frequent suctioning
+- lasix given cautiously as patient had been fluid overloaded.
+.
+3) Acute renal failure, now resolved after fluid resuscitation;
+likely was from severe dehydration.
+-hyperkalemic on admission, rec'd calcium/insulin/D50, now
+resovled
+.
+4) Question adrenal insufficiency.
+-was given steroids for continued adrenal insufficiency and
+blunted [**Last Name (un) 104**] stim response (although [**Last Name (un) 104**] level was already high
+in 30's)
+-no need for steroids, consider repeat [**Last Name (un) 104**] stim
+.
+5) Hyperglycemia
+-used regular insulin sliding scale while septic and on steroid
+replacement
+-likely does not need insulin any further, consider A1c level if
+question of continued high glucose.
+.
+6) osteoporosis
+- Continue Calcium, vitamin D
+.
+FEN: Tube feeds
+
+PPX: Pt needs pneumoboots, heparin sq, famotidine, HOB
+elevation,VRE precautions
+.
+Access: PICC placed [**12-26**], Left Fem VL d/c'd, 2 piv
+.
+Code: DNR/DNI, do not return pt to a MICU
+.
+Communication: HCP is [**Name (NI) **] [**Name (NI) **]/GBARC ([**Telephone/Fax (1) **] X15)
+.
+Disposition: Transfer to acute care facility
+
+Medications on Admission:
+Tylenol 650 [**Hospital1 **]
+Calcium Oyst 500 mg QD
+Celecoxib 100 mg [**Hospital1 **]
+MVI
+Protonix 40 mg QD
+Senna
+Trazodone QHS
+Vit D 400 units QD
+
+Discharge Medications:
+1. Budesonide 0.25 mg/2 mL Solution for Nebulization Sig: Two
+(2) ML Inhalation [**Hospital1 **] (2 times a day).
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+4. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day) as needed.
+5. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+6. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer
+Inhalation Q6H (every 6 hours).
+7. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two (2)
+ML Intravenous DAILY (Daily) as needed: and PRN for clogged
+port.
+8. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+injection Injection Q8H (every 8 hours).
+9. Albuterol Sulfate 0.083 % Solution Sig: [**12-30**] nehulizers
+Inhalation Q2H (every 2 hours) as needed for shortness of breath
+or wheezing.
+10. Famotidine in Normal Saline 20 mg/50 mL Piggyback Sig: Fifty
+(50) mL Intravenous Q24H (every 24 hours).
+11. Piperacillin-Tazobactam 2.25 g Recon Soln Sig: One (1) Recon
+Soln Intravenous Q6H (every 6 hours) for 3 days: last day is
+[**2161-1-8**].
+12. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+gram Intravenous Q 12H (Every 12 Hour

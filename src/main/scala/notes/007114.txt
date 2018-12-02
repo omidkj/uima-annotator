@@ -1,0 +1,101 @@
+Admission Date:  [**2146-9-26**]              Discharge Date:   [**2146-10-2**]
+
+
+Service: MEDICINE
+
+Allergies:
+Dicloxacillin / Penicillins
+
+Attending:[**First Name3 (LF) 2195**]
+Chief Complaint:
+Found down.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+Ms. [**Name14 (STitle) 87198**] is a 88yo F with history of HTN, hyperlipidemia and
+CVA in [**2137**] with residual right hemiparesis who presented to the
+ER after being found down in her [**Hospital3 **] facility.
+Patient's daughter found her in down in her kitchen surrounded
+by blood and called EMS.  EMS felt she was slurring her speech
+and noted a right facial droop.
+
+In the ED, initial vitals were stable, and patient had a large
+bleeding laceration posterior to her right ear which was
+stapled.  Patient appeared dry and was given 1 liter of NS.  She
+had CTs of her head and neck which were remarkable for right
+retro-aurical hemorrhage and an enlarged thyroid.  Films of her
+right ankle showed a bimal fracture which was splinted and
+reduced by ortho. CXR was concerning for possible aspiration,
+and she received flagyl and levaquin.  Patient was seen by
+neurology who felt she likely had a new stroke and was admitted
+to the ICU for frequent neuro checks.  At transfer, vitals were
+132/53, 74, 27, 99% 2L NC.
+
+In the [**Hospital Unit Name 153**], patient is non-verbal.  Per her daughter, at
+baseline, she is talkative and alert with occasional word
+finding difficulty but independent of her ADLs.
+
+Past Medical History:
+-stroke in [**2137**] (work up done in [**State 760**]) with residual mild
+word-finding difficulty and right hemiparesis
+-legally blind [**1-25**] macular degeneration
+-HTN
+-HLD
+
+Social History:
+Drugs: none
+Tobacco: remote history
+Alcohol: none
+
+Family History:
+Father with MI and multiple members with HTN and HLD.
+
+
+Physical Exam:
+Upon transfer to the medical floor patient was intermittently
+answering yes/no questions by shaking her head, with unlabored
+breathing. Vital signs were not taken, and further physical
+examination was deferred.
+
+Brief Hospital Course:
+Ms. [**Known lastname 87199**] is a 88yo F with history of HTN, hyperlipidemia and
+prior CVA with residual right sided hemiparesis who presents
+with new stroke and atrial fibrillation.
+
+# CVA: acute infarct in left MCA territory, no evidence of
+hemorrhage on CT; likely ischemic in setting of atrial
+fibrillation. Palliative care was consulted and her family
+decided to transition to comfort measures given the patient's
+previously stated wishes.
+
+# Palliation: On transfer to the general medicine service all
+medications were discontinued with the exception of Digoxin, as
+the family felt the patient was uncomfortable with fast heart
+rates. Morphine was started for pain and dyspnea control. A
+scopolamine patch and hyoscyamine were started on [**2146-10-2**] as
+the patient developed increased secretions. She passed away
+later that afternoon with her family present.
+
+
+Medications on Admission:
+Medications: per daughter
+-[**Name (NI) 4532**] 75 mg daily
+-atenolol 50 mg [**Hospital1 **]
+-cardura 4 mg daily
+-colchicine 0.6 mg daily
+-ergocalciferol 50,000 units weekly
+-telmisartan 80 mg daily
+-protonix 40 mg daily
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Stroke
+
+Discharge Condition:
+Expired
+
+

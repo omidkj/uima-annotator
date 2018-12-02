@@ -1,0 +1,202 @@
+Admission Date:  [**2153-10-22**]              Discharge Date:   [**2153-11-3**]
+
+Date of Birth:  [**2085-11-19**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Aspirin
+
+Attending:[**First Name3 (LF) 2932**]
+Chief Complaint:
+diarrhea
+
+Major Surgical or Invasive Procedure:
+upper endoscopy
+colonoscopy
+
+
+History of Present Illness:
+67 year old male with PMH significant for HTN, hyperlipidemia,
+NIDDM, CRI (baseline 1.7-1.9), admitted to the MICU with concern
+for sepsis. He reports a history of several weeks of diarrhea
+([**4-25**] BM/day), nausea, and vomiting, with associated decreased
+food and fluid intake. He denies fevers, chills, abdominal pain,
+hematemesis, hematochezia, melena, or BRBPR. He denies any
+recent travel, sick contacts or antibiotic use.  He denies any
+fever, chills, chest pain or shortness of breath.
+
+Of note, he was recently discharged on [**2153-10-18**] following
+admission for diarrhea, nausea/vomitting. All studies at that
+time were negative, with no findings on stool culture, KUB, or
+CT scan to explain symptoms. He was discharged with plans for an
+outpatient colonoscopy.
+
+In ED - patient was hypotensive 86/47, afebrile. He received 4
+Liters IV NS but had persistent hypotension as well as increased
+lactate to 3.6 and a Cr of 4.0, up from baseline of 1.7-1.9, and
+he was admitted to [**Hospital Unit Name 153**].
+
+
+Past Medical History:
+HTN
+Hyperlipidemia
+Type II diabetes
+DVT in [**2149**], on coumadin
+CRI - presumed [**12-21**] NIDDM/HTN nephropathy
+PUD
+GERD
+hiatal hernia
+[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+DVT in [**11-21**] on coumadin
+s/p CCY
+s/p partial small bowel resection
+
+Social History:
+he lives alone in [**Location (un) **]; smokes [**6-27**] cigars/day; denies EtOH
+use' denies illicit drug use; retired - used to work in the
+garmet industry and polaroid industry
+
+Family History:
+Father and brother had coronary artery disease in their early
+50s. Mother and brother also had diabetes.
+
+Physical Exam:
+Physical exam on admission
+PE:
+vs 70 123/56 25 99%RA
+GEN: A/O NAD
+HEENT: NCAT, dry MM, EOMI, PERRL
+NECK: No Jvp
+CV: RRR s1, s2, no M/G/R
+RESP: CTA bl
+ABD: soft, NT/ND, ?epigastric fullness
+ext: no erythema, no edema
+NEURO: non-focal, sensation intact
+
+Pertinent Results:
+Laboratory studies on admission
+[**2153-10-22**]
+PT-59.9 PTT-32.6 INR(PT)-7.4
+PLT SMR-NORMAL PLT COUNT-337
+NEUTS-67 BANDS-1 LYMPHS-9* MONOS-3 EOS-18* BASOS-1 ATYPS-0
+METAS-1
+WBC-30.5 (6.7 on discharge) HGB-9.9 HCT-30.9 (26 on
+discharge)MCV-72 RDW-18.9
+ALBUMIN-3.3 CALCIUM-7.7 PHOSPHATE-4.2
+LIPASE-14
+ALT(SGPT)-9 AST(SGOT)-11 LD(LDH)-210 ALK PHOS-138* AMYLASE-25
+TOT BILI-0.1
+GLUCOSE-97 UREA N-57* CREAT-4.0 (1.8 on discharge) SODIUM-136
+POTASSIUM-3.8 CHLORIDE-107 TOTAL CO2-15
+U/A: RBC-0 WBC-0-2 BACTERIA-NONE YEAST-NONE EPI-0-2 BLOOD-TR
+NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG
+UROBILNGN-NEG PH-5.0 LEUK-
+LACTATE-3.6
+
+[**10-22**] EKG: Baseline artifact. Sinus rhythm. Right bundle-branch
+block. QTc interval appears prolonged but is difficult to
+measure. Low QRS voltage. Clinical correlation is suggested.
+Since the previous tracing of [**2153-10-13**] there may be no
+significant change, but baseline artifact makes comparison
+difficult
+
+Radiology:
+[**10-22**] CXR: Lung volumes are reduced. Cardiac, mediastinal, and
+hilar contours are normal allowing for technique. The lungs are
+clear. There is no free air under the diaphragm
+
+[**10-22**] KUB: No gross evidence of toxic megacolon. Difficult to
+exclude early or partial small bowel obstruction
+
+[**10-24**] MRA Abdomen: Linear signal abnormality extending for 1.5 cm
+in the celiac artery likely representing a small, focal
+dissection of unknown acuity. The distal celiac and its branches
+are patent. No MRI evidence of bowel ischemia. The SMA and [**Female First Name (un) 899**]
+are widely patent. Mild signal changes in the mesentery may
+represent mesenteric panniculitis as seen in the recent CT from
+[**2153-10-13**]. Other entities cannot be completely excluded
+and followup with noncontrast CT in three-six months is
+recommended to assure stability. Non-distended terminal ileum
+without inflammation of the mesentery around it; thickening of
+the terminal ileum cannot be excluded on the basis of this study
+
+[**10-26**] MR enterography: Normal-appearing terminal ileum. The bowel
+and colon appear unremarkable on this examination
+
+[**10-29**] colonoscopy: Polyp in the proximal descending colon
+(polypectomy c/w adenoma). Normal mucosa in the whole colon
+(tandom right colon biopsy normal). Diverticulosis of the
+sigmoid colon
+
+[**10-29**] upper endoscopy: Polyps in the small hypertrophic polyps
+from PPI RX
+Normal in the whole duodenum (biopsy normal). Otherwise normal
+EGD to second part of the duodenum.
+
+Brief Hospital Course:
+67 year old man with h/o HTN, CRI admitted with persistent
+nausea, vomiting, hypotension, and acute on chronic renal
+failure. Initially in MICU given hypotension (resolved with
+hydration), transferred to general floor [**10-24**].
+
+1) Chronic diarrhea: Infectious etiologies were thoroughly
+investigated. Between this and his recent prior admit, the
+patient had C. diff (-) X 4, O&P (-) X 7, Yersinieae (-),
+Campylobacter (-), E. coli 0157 (-), crypto/giardia DFA (-).
+Strongyloides antibody was pending at time of discharge. Further
+work-up included a 5HIAA, which was normal, and an EGD and
+colonoscopy which showed no clear source of diarrhea (proximal
+descending adenoma, see results section) with negative random
+duodenal/right colon biopsies (no evidence of microscopic
+colitis). MRI enterogram was without evidence of inflammation of
+the ileum, and MRA of the abdomen showed only a small celiac
+dissection (see below). The patient's diarrhea gradually
+improved without intervention, and, at the time of discharge,
+was only having [**11-20**] bowel movements a day. Further work-up,
+including evaluation for celiac sprue, may be considered as an
+outpatient. Of note, MRI of his abdomen showed mild signal
+changes in the mesentery (see results section) which may
+represent mesenteric panniculitis as seen in the recent CT from
+[**2153-10-13**]. Other entities cannot be completely excluded
+and followup with noncontrast CT in three-six months is
+recommended to assure stability.
+
+2) Anemia - iron deficiency and vitamin B12 deficiency: The
+patient's hematocrit gradually trended down to a nadir 21.5 (26
+at discharge). As mentioned above, EGD and colonoscopy did not
+show source of bleeding, although iron studies were consistent
+with iron deficiency. He declined blood transfusion and was
+started on iron supplementation. Given low vitamin B12 level,
+the patient received 1 week of daily IM vitamin B12 injections;
+he should have one IM injection weekly for 1 month, followed by
+monthly injections as an outpatient. Further work-up for occult
+sources of GI bleeding, such as pill endoscopy, should be
+considered as an outpatient at the discretion of his
+PCP/gastroenterologist.
+
+3) Acute on chronic renal failure: With hydration, the patient's
+creatinine gradually trended down from 4 on admission,
+indicating likely pre-renal etiology in the setting of
+diarrhea/poor PO intake. At time of discharge, his creatinine
+was 1.8. This should continue to be closely monitored as an
+outpatient to ensure stability.
+
+4) h/o DVT: The patient was restarted on Coumadin after his
+colonoscopy/upper endoscopy and was transitioned with a heparin
+drip until he was therapeutic at 2.3 on discharge. His INR will
+need to continued to be monitored as an outpatient, with the
+dose adjusted as needed for a goal INR [**12-22**].
+
+5) Eosinophilia (new since [**9-24**]): Given diarrhea, there was
+concern for a parasitic infection, however multiple O&Ps were
+negative (see above). The patient had a normal a.m. cortisol
+level, not consistent with adrenal insufficiency. Urine
+eosinophils were normal and Strongyloides antibody was pending
+at time of discharge. Further work-up should be pursued as an
+outpatient; if this persists, than bone marrow biopsy may be
+considered, particularly given the patient's history of
+polycythemia [**Doctor First Name **].
+
+6) Type II diabetes: The patient's Lantus dose was gradually
+titrated

@@ -1,0 +1,185 @@
+Admission Date:  [**2128-1-22**]              Discharge Date:   [**2128-1-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Aspiration
+
+Major Surgical or Invasive Procedure:
+PEG tube placement, trach tube replacement
+
+
+History of Present Illness:
+[**Age over 90 **]yo M w/ h/o endstage alzheimer's, afib, esophageal stricture
+s/p 3 diliataions, and recurrent aspiration who presented from
+nursing home for lethargy, and cough w/sputum over last couple
+days. Wife says 1 wk ago pt (?partially)pulled out his g-tube,
+and nurse put back in place. Pt was looking more emaciated and
+his feeds were increased from 12h to continuous over 24h, which
+is when she thinks pt started to decline, and may have been
+aspirating. Over the last couple days pt became more
+unresponsive and also developed a cough w/ sputum. Pt was on
+levoflox for pna as outpt.
+Of note pt was discharged on [**2127-11-27**] with asp pna, treated with
+vanco/cipro/zosyn. During that admission pt failed extubation
+twice due to mucous pluging and tracheostomy was placed. J-tube
+and G-tube were placed to prevent aspiration. (Also had C5-6
+fusion then)
+
+Required bag masking at NH, hemodynamically stable, then
+transported to [**Location (un) **], cxr showed pna, no ivf, then transferred
+to [**Hospital1 18**].
+In [**Hospital1 18**] ED, t99.8, 136/91, 104, 22, 99%ra, cachectic,
+non-responsive, rhonchi at R base, suctioning pus from lungs,
+abd soft, IVF initiated - given 1.5L, ceftaz, vanco, and azithro
+initiated. HR 88, sats 50% 15L, rr26, 149/94, T 100.8 on
+transfer.
+
+
+Past Medical History:
+Esophageal stricture ? s/p [**Hospital 81947**]
+Hiatal hernia
+Hypertension
+S/p aortic valve replacement 3 years ago bovine per wife
+Hip fracture s/p repair
+H/o aspiration pneumonia, ? recurrent aspiration
+H pylori gastritis
+Dementia
+
+
+Social History:
+Patient is a retired ENT surgeon per out side hospital report.
+He lives at home with his wife. Independent ADLs until last
+summer
+
+
+Family History:
+non contributory
+
+Physical Exam:
+GENERAL: late-stage alzheimer's - nonresponsive
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. No
+scleral icterus. PERRL 2mm->1mm. MMM. OP clear.
+NECK: trach present. Neck Supple, No LAD, No thyromegaly.
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs,
+rubs or [**Last Name (un) 549**]. JVP=flat
+LUNGS: course rhonchi, and rales throughout
+ABDOMEN: +BS Soft, NT, ND. No HSM
+EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior
+tibial pulses.
+SKIN: No rashes/lesions, ecchymoses.
+NEURO: Pt non-responsive to commands. Somnolent.
+
+
+Pertinent Results:
+[**2128-1-27**] 04:06AM BLOOD WBC-7.6 RBC-3.87* Hgb-11.3* Hct-33.5*
+MCV-87 MCH-29.3 MCHC-33.8 RDW-15.8* Plt Ct-373
+[**2128-1-22**] 02:30PM BLOOD Neuts-85.0* Lymphs-10.6* Monos-4.0
+Eos-0.2 Baso-0.2
+[**2128-1-23**] 04:00PM BLOOD PT-13.7* PTT-24.9 INR(PT)-1.2*
+[**2128-1-27**] 04:06AM BLOOD Glucose-115* UreaN-19 Creat-0.7 Na-141
+K-3.8 Cl-106 HCO3-28 AnGap-11
+[**2128-1-22**] 02:30PM BLOOD CK(CPK)-16*
+[**2128-1-22**] 02:30PM BLOOD cTropnT-0.01
+[**2128-1-27**] 04:06AM BLOOD Calcium-8.0* Phos-2.6* Mg-2.2
+[**2128-1-22**] 03:30PM BLOOD Lactate-1.9
+[**2128-1-27**] 04:49AM URINE Color-Pink Appear-Hazy Sp [**Last Name (un) **]-1.013
+[**2128-1-27**] 04:49AM URINE Blood-LG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-LG
+[**2128-1-27**] 04:49AM URINE RBC-756* WBC-87* Bacteri-FEW Yeast-NONE
+Epi-0
+
+Sputum culture: MRSA
+Urine and blood cultures: neg
+
+[**2128-1-22**] CXR: 1. Patchy opacity in the right lower lobe concerning
+for pneumonia. 2. Dense retrocardiac opacity, which could
+represent second area of pneumonia or atelectasis.
+
+[**2128-1-26**] Replacement of G/J tube: Uncomplicated placement of
+gastrojejunostomy tube through the patient's existing tract. The
+tube may be used immediately.
+
+
+Brief Hospital Course:
+[**Age over 90 **]yoM htn, afib, esophageal stricture transferred from nursing
+home with lethary and fever, diagnosed at OSH ED with pna,
+transferred to [**Hospital1 18**], diagnosed with pna, admitted to [**Hospital Unit Name 153**] for
+tx of aspiration pna/HAP.
+
+# [**Name (NI) 10227**] Pt has had recurrent pneumonia. Pt had aspiration
+pneumonia on this admission. It is possible that pt had
+aspiration with increasing his feeds from 12h to continuous 24h.
+His trach was also replaced with one with a cuff to further
+prevent aspiration risk. He was treated w/ Vancomycin and Zosyn.
+Cipro was not started during this admission as there is no
+recorded Pseudomonas infection on cultures. Pt required frequent
+suctioning initially q1h, which is now improved. Pt is now
+afebrile and wbc is coming down. He showed moderate growth of
+STAPH AUREUS COAG +, and his zosyn was discontinued. Pt needs
+Vanc 1g IV q24 (as only coag + SA on cx data)  x8 days ([**4-26**]) for
+two more days.
+
+# Hypernatremia - Pt's Na was 158, and improved with free water
+replacement. Now resovled at  141.
+
+# 1st degree AV block - overnight once, now resolved in sinus
+60-80s HR
+
+#. H/o Atrial Fibrillation - currently  not in afib, but rate
+controlled.
+
+#. Hypertension- currently controlled, will moniter
+
+#. UTI- UA with neg nitrates but pos leukocytes, few bacteria,
+WBC 21-50, 90 on repeat, Urine Culture with minimal yeast and
+GNR. Treated while pt was on Zosyn
+
+#. Hiatal hernia- gave home omezprazole
+
+
+Medications on Admission:
+Lasix 40 [**Hospital1 **]
+Aricept 10 QD
+ASA 81
+Omep 40 QD
+KCl suspension 20 [**Hospital1 **]
+Levaquin 250 x9d
+Ativan 0.5mg q6 prn
+Twocal HN continuous @ 50ml/h via g-tube
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - MACU
+
+Discharge Diagnosis:
+Primary: Aspiration Pneumonia, MRSA
+
+Secondary: Alzheimers dementia
+
+
+Discharge Condition:
+Stable, afebrile
+
+
+Discharge Instructions:
+You were admitted with fevers, increased secretions thought to
+be due to an aspiration pneumonia. We treated you with
+antibiotics to cover the bacteria which grew from your cultures.
+
+
+Followup Instructions:
+please follow up with your PCP as necessary
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+
+Completed by:[**2128-1-27**]

@@ -1,0 +1,165 @@
+Admission Date:  [**2176-6-25**]              Discharge Date:   [**2176-7-2**]
+
+Date of Birth:  [**2100-2-5**]             Sex:   F
+
+Service: NMED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5868**]
+Chief Complaint:
+presented s/p near drowning episode
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+76 RH yo woman with h/o old stroke (no residual weakness),
+HTN, who was swimming in [**Doctor First Name **], MA with her daughter and
+husband this AM.  A bystander noticed her face down in the
+ocean,
+swam out to retrieve her, and started CPR (x 5-10 min).  She was
+likely face down for 2-3 minutes.  Found to be unresponsive,
+pulseless, with spontaneous breathing.  Taken to OSH ->
+intubated and sedated, CT head showed deep right hemisphere
+bleed without mass effect or bleed, transferred to [**Hospital1 18**] for
+further management.
+
+Seen by Nsurg in ED -> no intervention.  Given versed 2mg,
+fentanyl 100 mcg, 10mg of labetolol IV in ED.
+
+Additional history - no weakness or numbness preceeding event.
+Pt walks one mile each day without fail. No fever/chills, or
+complaints of pain per family.
+
+
+Past Medical History:
+HTN
+Stroke [**2169**], had right sideded weakness that resolved after
+several months of phys therapy.
+Osteoarthritis
+Macular degeneration
+
+No h/o DM, MI, CAD.
+
+
+Social History:
+PCP [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1693**] [**Telephone/Fax (1) 57926**]
+No tob/etoh/drugs.  Lives with husband and daughter.  Daughter
+[**First Name8 (NamePattern2) **] [**Known lastname 6164**] is HCP [**Telephone/Fax (1) 57927**], [**Telephone/Fax (1) 57928**] (home).  DNR, not
+DNI.  Retired ice cream scooper, quit 15 yrs ago.
+
+Family History:
+Sister had a stroke, etiology unknown to family
+
+
+Physical Exam:
+VITALS:  T 97.8 rectal, 172/79 (after 10mg IV labetolol), HR 74,
+O2 sat 100% on mechanical ventilation.
+GEN:  intubated and sedated
+SKIN:  no rash, blood around nasopharynx/oropharynx
+HEENT:  dry tongue, ETT in place
+NECK: hard cervical collar in place
+CHEST:  CTA bilat anteriorly
+CV:  regular rate and rhythm without murmurs
+ABD:  +BS, nontender, softly distended
+EXTREM:  no edema
+
+NEURO:
+Mental status:  intubated and sedated with versed and fentanyl
+Cranial Nerves:
+I:  deferred
+II: Fundoscopic exam: unable to visualize discs. Pupils: 2.5->
+2.0 bilat, consensual constriction to light.
+III, IV, VI: unable to perform doll's head 2o2 c-collar
+V: Corneal reflex present bilaterally.
+VII:  unable to appreciate, no wincing to pain
+VIII;  unable to assess
+IX, X:  unable to assess, ETT in place
+[**Doctor First Name 81**]: unable to assess
+XII:  unable to assess
+
+Sensory:  withdrawls both legs to pain, not arms.
+Motor:
+Normal bulk, tone.  No fasciculations.  No adventitious
+movements.  Moves right leg spontaneously to a flexed-knee
+position.
+Reflexes: Brisk RUE>LUE.  Crossed adductors bilaterally, 3+
+patellar and 2+ ankles. Toes equivocal bilaterally.
+
+Coordination: unable to assess
+
+Gait: unable to assess
+
+
+Pertinent Results:
+WBC 11.5, Hct 33.5, plt 227, MCV 93
+Chem:  BUN/Cr 20/0.9, Na 146, K 2.8, Cl 118, gluc 268, lactate
+2.2, amylase 120
+serum tox screen negative
+coags WNL
+
+CT without contrast of head:  approx 25cc intracranial bleed,
+deep in the right putamen area.  No shift.
+
+EKG:  100 bpm, LAD, NSR? may have ectopic p wave as p wave
+invertd in I, V2.  Nl intervals.
+
+Brief Hospital Course:
+The patient was admitted to our NICU service for close
+monitoring.  She was intubated and treated with IV labetolol to
+control her blood pressures (keep it below 140 systolic).  Over
+the course of the next several days, she became more alert as
+the sedation was weaned and eventually was extubated without
+incident.  A chest xray showed an infiltrate worrisome for a
+pneumonia so she was begun on levofloxacin (this course will end
+on [**2176-7-9**]).  She was titrated off of the iv anti-hypertensives
+and titrated up on captopril, then ultimately switched to
+lisinopril for once a day dosing.
+
+Her neurologic exam now on the day of discharge is significant
+for left sided weakness and a left hemi-neglect (both of these
+have been improving).  She is now stable and ready for discharge
+for to rehab for further physical therapy.
+
+Medications on Admission:
+prinovil
+actonel
+asa 325
+anemia "mild"
+supplements:  calcium, mag, lutein, likopeic?, Vit E, vit C,
+iron, glucosamine chondroitin.
+
+
+Discharge Medications:
+lisinopril 40 qd
+docusate prn
+iron 325 qd
+protonix 40 qd
+levofloxacin 500 qd
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Hospital of [**Location (un) **] & Islands - [**Location (un) 6251**]
+
+Discharge Diagnosis:
+1. stroke
+2. hypertension
+3. reflux disease
+
+Discharge Condition:
+Stable, talking and alert.
+
+Discharge Instructions:
+Please restart ASA in one week.
+
+Followup Instructions:
+Please follow-up with your primary care physician [**Name Initial (PRE) 176**] 4 weeks
+or as needed.
+
+
+Completed by:[**2176-7-2**]

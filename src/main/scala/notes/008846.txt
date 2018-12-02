@@ -1,0 +1,208 @@
+Admission Date:  [**2199-5-19**]              Discharge Date:   [**2199-5-29**]
+
+Date of Birth:  [**2150-10-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril / Hydralazine
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hypotension, altered mental status
+
+Major Surgical or Invasive Procedure:
+Central line placement
+Hemodialysis catheter placement
+EGD x 2
+
+
+History of Present Illness:
+Mr. [**Known lastname 931**] is a 48 year old gentleman with history of DM-I
+s/p pancreatic/kidney transplant s/p failed renal allograft, CAD
+s/p MI, systolic CHF, PVD s/p femoral angioplasty and distal
+extremity debridement who is now transferred from [**Hospital1 **] Care
+for concern for hypotension and delerium. The patient has ESRD
+presumably [**3-16**] Diabetic Nephropathy and is currenlty maintained
+on PD dialysis given previous complications with MRSA Bacteremia
+from line sepsis.
+Per report, the patient has at baseline low blood pressure with
+normal SBP 90-100. He has however had more recently been
+hospitalized at [**Hospital 26580**] Hospital in [**Month (only) 958**] for reported infection
+of his PD fluid and seizure like activity. The patient was
+discharged to [**Hospital1 **] where per report his SBP has been in the
+50s to 70s for 3 weeks. Multiple evaluations for infection have
+been negative and he has been empirically treated with Ceftaz
+and Zyvox. He was empirically treated for adrenal insufficiency
+for some time and has now been with altered sensorium and
+delerium for 6 days with additional question of seizure like
+activity. The patient was seen by Neurology on [**2199-5-17**] given
+report of seizures. Recommendation was made to check EEG and CT
+and start Keppra 250mg twice daily. CT revealed vascular
+calcification but no acute process. Results of EEG are not
+available, patient is not on Keppra on transfer.
+On evaluation in the ED the patient dropped his BP to 70s but
+was fluid responsive to 1L NS with return to SBP 110-120. The
+patient had blood cultures obtained and was given a dose of
+Vancomycin (had received Zosyn at OSH as well as Dexamethasone).
+An attempt at a right central line was unsuccessful. The patient
+is now transferred to the ICU for ongoing management.
+
+
+Past Medical History:
+#. Type 1 DM: pt has been off insulin since pancreas transplant
+
+- s/p pancreas/kidney transplant in [**2183**] -->
+- transplanted kidney in RLQ, pancreas in his LLQ
+- transplanted renal allograft failed
+#. ESRD, started on dialysis in [**6-19**]
+- previously on HD complicated by multiple line infections
+- currently receiving peritoneal dialysis
+#. CAD - s/p STEMI in [**12-19**]
+#. Afib - on Amio
+#. CHF - EF~25%
+- Mild to moderate aortic stenosis
+- s/p ICD in [**3-21**], removed for infected leads [**3-16**] MRSA infection
+
+#. PVD
+- s/p angioplasty of right popliteal artery ([**1-/2199**])
+- s/p debridement of an ulcer of the right metatarsal head,
+wet-to-dry dressings
+#. Squamous Cell Cancer Scalp
+- s/p excision [**2199-4-10**]
+#. Hemorragic Stroke in [**2194**]
+- on Keppra for seizure disorder
+#. OSA
+#. s/p removal of penile implant
+
+
+Social History:
+Mr. [**Known lastname 931**] is married with two step-children. He previously
+worked for [**Company 11293**] but is now on disability.
+Health Care Proxy: His wife [**Name (NI) **].
+[**Name2 (NI) 1139**]: 2PPD x many years
+ETOH: Unknown
+Illicits: Unknown
+
+
+Family History:
+Brother - deceased from MI at age 52, diabetes
+Father - deceased from MI at age 53
+
+
+Physical Exam:
+
+Vitals: 97.0 55/37 68 12 100% 2L NC
+.
+General: Patient is lying in bed, follows simple commands but
+clearly confused. Answers inappropriately.
+HEENT: 7 x 6 cm surgical wound over crown with scalp excised,
+skull visible beneath. Edges appear to be with some eschar but
+not obviously infected, no fluctuance or purulent drainage
+Neck: JVP flat
+Chest: Few course breath sounds, otherwise relatively CTA
+anterior and posterior
+Cor: RRR, normal S1/S2. II/VI systolic murmur at LLSB
+Abdomen: + PD catheter. Obese, soft, non-tender, + fluid wave
+[**3-16**] PD fluid
+Extremity: Right foot with 7 x 3 cm ulcer, surgically debrided.
+Wound edges appear clean without erythema or purulent drainage.
+
+Rectal: Guaiac Positive in ED
+
+
+Pertinent Results:
+[**2199-5-19**]:
+WBC 32.1 (94N, L2, M3), Hct 46.8 (MCV 89), Plt 186
+INR 1.4, PTT 28.7
+.
+Na 136, K 4.5, Cl 99, CO2 24, urea 28, creat 9.5, glucose 117
+Ca 8, phos 4.6, Mag 1.7, albumin 2.1
+ALT 50, AST 85, LD 611, AP 78, amylase 78, lipase 26, bili 0.2
+CK 937, MB 14, index 1.5, troponinT 0.21 (flat)
+lactate 3
+cortisol 38.2
+.
+paracentesis: 11 WBCs, 3 RBCs
+.
+[**2199-5-20**]:
+TSH: > 100
+free T4: 0.17
+T3 26
+FK506: 5.7
+.
+CXR [**2199-5-19**]: Since the prior study, there appears to have been
+removal of a left-sided pacemaker/AICD. The cardiac,
+mediastinal, and hilar contours appear unchanged given
+differences in technique. The lungs appear clear apart from
+minimal linear opacity in the left lower lobe peripherally,
+which was likely present on the prior study and may reflect scar
+and/or atelectasis. The pulmonary vasculature is not engorged.
+No definite pleural effusions are seen
+.
+[**2198-9-25**]: TEE
+LEFT ATRIUM: No thrombus/mass in the body of the LA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. A mass/thrombus
+associated with a catheter/pacing wire in the RA or RV. No ASD
+by 2D or color Doppler. Prominent Eustachian valve (normal
+variant).
+LEFT VENTRICLE: Depressed LVEF
+RIGHT VENTRICLE: Normal RV systolic function.
+AORTA: No atheroma in ascending aorta. Simple atheroma in aortic
+arch. Simple atheroma in descending aorta.
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. No masses or
+vegetations on aortic valve. No aortic valve abscess.
+Significant AS is present (not quantified) No AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. No
+mass or vegetation on mitral valve. No mitral valve abscess.
+Mild mitral annular calcification. Calcified tips of papillary
+muscles. Mild (1+) MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets. No mass or
+vegetation on tricuspid valve. No abscess of tricuspid valve.
+Mild [1+] TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+No vegetation/mass on pulmonic valve. Physiologic (normal) PR.
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+.
+[**2-/2198**]: Echocardiogram EF 25%
+LEFT ATRIUM: Moderate LA enlargement
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Dilated IVC
+(>2.5cm) with no change with respiration (estimated RAP >20
+mmHg).
+LEFT VENTRICLE: Moderately dilated LV cavity. Severely depressed
+LVEF. Transmitral Doppler and TVI c/w Grade II (moderate) LV
+diastolic dysfunction.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Mildly dilated ascending aorta
+AORTIC VALVE: Moderately thickened aortic valve leaflets. Trace
+AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification. Mild (1+) MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Moderate PA systolic hypertension.
+PULMONIC VALVE/PULMONARY ARTERY: Significant PR. The
+end-diastolic PR velocity is increased c/w PA diastolic
+hypertension.
+PERICARDIUM: Small pericardial effusion. No echocardiographic
+signs of tamponade
+.
+[**2198-7-25**] Cardiac Cath
+1. The LMCA was free of flow limiting disease. The LAD was a
+large wrap around vessel and had an 80% stenosis in the mid
+segment after the D1 takeoff. The D1 was subtotally occluded.
+The Ramus was a relatively small vessel and was also subtotally
+occluded. The LCx and OM branches were moderate size vessels.
+The major OM had a 60% stenosis. The RCA was a relatively large
+vessel with an extensive R-PL system. The RCA was free of flow
+limiting disease. The R-PDA and R-PL had 60% stenoses each in
+their mid segments.
+2. Left ventriculography demonstrated moderate to severe
+systolic
+dysfunction. There was anterolateral, apical, and inferoapical
+akinesis. The calculated EF was 32%. There was no mitral
+regurgitation appreciated.
+3. Resting hemodynamics from right and left heart
+catheterization
+demonstrated normal right heart filling pressures and

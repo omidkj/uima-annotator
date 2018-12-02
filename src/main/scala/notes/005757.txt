@@ -1,0 +1,186 @@
+Admission Date:  [**2201-3-6**]              Discharge Date:   [**2201-3-27**]
+
+Date of Birth:  [**2164-8-8**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 8263**]
+Chief Complaint:
+Hemoptysis
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This is a 36-year-old woman with a pmhx. significant for ESRD
+(from hypertensive nephropathy) on HD (MWF) who is admitted from
+[**Hospital 4199**] Hospital with hemoptysis.  According to patient and OSH
+records, patient began experiencing hemoptysis the day prior to
+admission (once at 8am and then at 9pm); she went to [**Hospital 4199**]
+Hospital that night where she was evaluated and sent home.  The
+following day she went to HD where she coughed up 30cc of
+rube-red blood in clots.  She was sent to [**Hospital 4199**] Hospital where
+she had a CTA, which showed PEs in the lower lobe pulmonary
+artery branches bilaterally. The RV LV ratio was 1.01 and there
+was no septal bowing.  Ms. [**Known lastname 55366**] was subsequently transferred
+to [**Hospital1 18**] for further evaluation.
+.
+At the [**Hospital1 18**] ED, initial vitals were: HR 70, 98/54, 12, 100%RA.
+Patient was guaic negative and she was started on a heparin.
+She was given vanc and levaquin for GGO on CT scan and question
+of HCAP.  After heparin drip was started, patient passed about
+100cc of frank hemoptysis.  However, she remained
+hemodynamically stable and maintained her airway.  On admission
+to the MICU, vitals were: 97.8, 68, 97/59, 97% on RA.
+
+Past Medical History:
+--HTN
+--Anemia
+--GERD
+--ESRD on Dialysis
+--Secondary hyperparathyroidism
+
+Social History:
+Patient came from [**Country 2045**] 1.5 years ago.  She was not on HD there,
+but only started in the US.  Does not smoke cigarettes or drink
+ETOH.  She works at [**Company **]' Donuts.  She is married and has an
+11-year-old child.
+
+Family History:
+No family history of kidney failure.  No clotting or bleeding
+disorders.
+
+Physical Exam:
+Vitals: 97.8, 68, 97/59, 97% on RA
+HEENT:  EOMI, mucous membranes dry
+CHEST:  Dullness at both bases, good air movement throughout
+CARDIAC:  RRR, no MRG
+ABDOMEN: +BS, soft, non-tender, non-distended
+EXTREMTIES:  No edema, erythema, or cords bilaterally
+NEURO:  Alert and oriented x3
+RECTAL: Guaic negative
+
+Pertinent Results:
+[**2201-3-7**] 03:51AM BLOOD WBC-6.9 RBC-3.22* Hgb-10.0* Hct-31.0*
+MCV-96 MCH-31.0 MCHC-32.2 RDW-13.7 Plt Ct-158
+[**2201-3-6**] 08:11PM BLOOD Neuts-43.9* Lymphs-45.0* Monos-4.5
+Eos-5.8* Baso-0.7
+[**2201-3-7**] 12:20PM BLOOD PT-10.6 PTT-29.0 INR(PT)-1.0
+[**2201-3-7**] 03:51AM BLOOD Glucose-85 UreaN-62* Creat-10.0*# Na-140
+K-5.9* Cl-108 HCO3-22 AnGap-16
+[**2201-3-6**] 11:40PM BLOOD ALT-14 AST-10 LD(LDH)-106 AlkPhos-71
+TotBili-0.1
+[**2201-3-7**] 03:51AM BLOOD Calcium-8.5 Phos-4.9*# Mg-3.1*
+[**2201-3-7**] 03:51AM BLOOD HCG-<5
+[**2201-3-6**] 08:30PM BLOOD Type-[**Last Name (un) **] Temp-36.7 pO2-48* pCO2-52*
+pH-7.38 calTCO2-32* Base XS-3 Intubat-NOT INTUBA
+.
+
+ECHO [**2201-3-7**]: The left atrium and right atrium are normal in
+cavity size. Left ventricular wall thickness, cavity size and
+regional/global systolic function are normal (LVEF >55%). Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic stenosis. Trace aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is no mitral
+valve prolapse. The estimated pulmonary artery systolic pressure
+is normal. There is no pericardial effusion.
+.
+IMPRESSION: Normal global and regional biventricular systolic
+function. Normal estimated pulmonary pressures.
+.
+DISCHARGE LABS
+[**2201-3-27**] 06:20AM BLOOD WBC-10.3 RBC-2.78* Hgb-8.8* Hct-27.2*
+MCV-98 MCH-31.7 MCHC-32.3 RDW-15.4 Plt Ct-311
+[**2201-3-25**] 06:45AM BLOOD Neuts-58.9 Lymphs-29.7 Monos-4.8 Eos-5.6*
+Baso-0.9
+[**2201-3-27**] 06:20AM BLOOD PT-21.2* PTT-95.9* INR(PT)-2.0*
+[**2201-3-7**] 12:20PM BLOOD AT-100 ProtCFn-101 ProtSFn-106
+[**2201-3-7**] 12:20PM BLOOD ACA IgG-6.2 ACA IgM-4.5
+[**2201-3-27**] 06:20AM BLOOD Glucose-82 UreaN-54* Creat-10.5*# Na-139
+K-5.0 Cl-105 HCO3-23 AnGap-16
+[**2201-3-6**] 11:40PM BLOOD ALT-14 AST-10 LD(LDH)-106 AlkPhos-71
+TotBili-0.1
+[**2201-3-6**] 03:11PM BLOOD Lipase-106*
+[**2201-3-27**] 06:20AM BLOOD Calcium-9.5 Phos-5.5* Mg-2.8*
+[**2201-3-19**] 06:00AM BLOOD calTIBC-212* Ferritn-971* TRF-163*
+[**2201-3-7**] 03:51AM BLOOD HCG-<5
+[**2201-3-7**] 12:20PM BLOOD ANCA-NEGATIVE B
+[**2201-3-7**] 12:20PM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2201-3-7**] 12:20PM BLOOD ANTI-GBM-Test
+[**2201-3-9**] 04:23AM BLOOD METHYLENETETRAHYDROFOLATE REDUCTASE
+(C677T)-
+
+Brief Hospital Course:
+HOSPITAL COURSE
+This is a 36-year-old woman with a pmhx significant for ESRD on
+dialysis, HTN, and anemia who is admitted to the MICU with
+bilateral PEs and hemoptysis. Hospital course prolonged by
+repair of fistular prior to starting coumadin. Fistula repair
+complicated by hematoma.  The patient was ultimately discharged
+witha  functioning fistula on coumadin for management of
+pulmonary emboli.
+.
+# HEMOPTYSIS:  Likely in the setting of bilateral PEs. She was
+initially sent to the MICU. There she remained hemodynamically
+stable. She was started on a heparin gtt for the pulmonary
+emboli, and hemoptysis resolved after 24 hours.
+.
+# BILATERAL PULMONARY EMBOLI:  Unclear etiology of
+hypercoagulable state however, there is no clear reversible risk
+factor.  Patient denies any long plane rides or periods of
+immobility, and she does not take birth control.  Patient denies
+any family history or personal history of blood clots.  No known
+history of frequent miscarriages. Bilateral upper and lower
+extremity ultrasound negative for clots. MRV pelvis showed no
+evidence of proximal clots. Hypercoagulable studies showed were
+unrevealing for etiology (ANCA, [**Doctor First Name **], Protein c and s, ACA Ig and
+IgM, lupus anticoagulant, antithrombin, anti-GBM,
+methylenetetrahydrofolate). Coumadin was not started immediately
+secondary to an effort to revise her prior fistula prior to
+initiation of coumadin.  After successful revision of her left
+sided fistula, coumadin was started requiring several days of
+7.5mg to maintain INR goal [**3-20**].  Her Primary care physician was
+notified of the hospitalization, aware of initiation of coumadin
+and follow-up scheduled for initiation of coumadin clinic.
+.
+# ESRD ON HD:  As per dialysis center, patient is on HD because
+of hypertensive nephropathy, however ultimate etiology unclear.
+She is dialyzed MWF.  However, she is not all that hypertensive,
+and TTE shows no evidence of hypertensive changes, calling that
+diagnosis into question.  A work-up as part of her
+hypercoagulability work-up as outlined above was initiated.  A
+biopsy was not pursued given duration on HD.  Her phosphorous
+was persistently elevated on calcium high normal.  Calcitriol
+was discontinued and sevelamer was started.  Nephrocaps were
+continued.
+.
+# FISTULA REPAIR: Given hospitalization and initiation of HD,
+repair of her clotted, non functioning fistula was performed.
+Transplant surgery was consulted, venous mapping was performed
+and a synthetic graft was placed at the site of her prior
+fistula. Fistula repair was complicated by evolution of a
+hematoma at the repair site. Several ccs of blood were aspirated
+and her pain was controlled with tylenol and oxycodone.  No
+prescription pain medications were required at the time of
+discharge.
+.
+# HYPERTENSION:  Held lisinopril in setting of bleed.  She
+continued to be hypotensive throughout her hospitalization with
+blood pressures in the 90-100s. Lisinopril was held on discharge
+to be restarted in the outpatient setting as tolerated.
+.
+# ANEMIA:  Iron studies confirmed anemia of chronic disease.
+Ferrous sulfate was discontinued.
+.
+TRANSITIONAL ISSUES
+- INR check on the Monday following admission, with PCP
+[**Name9 (PRE) 702**] of labs.  PCP office aware of INR check- she will have
+lab draw at the office.
+- start coumadin and sevelamer, discontinue ferrous sulfate,
+lisinopril and calcitriol
+- follow-up primary care for initiation of [**Hospital 

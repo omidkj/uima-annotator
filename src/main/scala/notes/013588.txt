@@ -1,0 +1,222 @@
+Admission Date:  [**2164-10-10**]              Discharge Date:   [**2164-10-15**]
+
+Date of Birth:  [**2087-5-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name8 (NamePattern2) 812**]
+Chief Complaint:
+Chief Complaint: conjunctivitis
+Reason for MICU admission: tachypnea
+
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+77M with CAD, systolic CHF, brought to ED with bilateral
+conjunctivitis and O2 requirement. Patient is a poor historian,
+but per notes he was noted to have bilateral conjunctivitis with
+painless erythema two days ago and started on cipro eye gtts
+plus warm compresses. Then noted to have increased drainage,
+particularly from left eye. Last night he was also noted to
+desat to 76% which improved to 96% on 2L and also reported
+dyspnea on exertion. Sent to ED for further evaluation.
+.
+In the ED, initial vs were: T98.8 69 131/82 32 100 on NRB. RR
+has remained in the 28-34 range with some accessory muscle use.
+90% RA and 99% on 3L. Patient with bilateral conjunctivitis but
+EOMs full and painless and eyes in general without pain; per ED
+no concern for orbital cellulitis. CXR with R sided effusion
+which looked somewhat worse than prior, ?pneumonia or failure.
+Patient was given vanco and levofloxacin and ceftriaxone.
+Received 250 cc NS.
+.
+In the MICU, patient confused about reasons for coming to the
+hospital but does note that his eyes have been "stiff". No
+visual difficulties or pain in the eyes. Denies shortness of
+breath, cough, chest pain. + orthopnea. Unsure about edema or
+weight gain.
+.
+Review of systems:
+(+) Per HPI. Also recently completed ampicillin course for UTI.
+
+(-) Denies headache, cough, shortness of breath. Denied chest
+pain or tightness, palpitations. Denied nausea, vomiting,
+diarrhea, abdominal pain. No recent change in bowel or bladder
+habits. No dysuria.
+.
+
+
+Past Medical History:
+- CAD
+- CHF, EF 20% in [**8-/2163**]; also with mod PA HTN
+- paroxysmal Afib without anticoagulation
+- HTN
+- Hyperlipidemia
+- h/o bladder CA
+- h/o prostate CA
+- h/o colon polyps
+- Dementia, reported as Alzheimer type; recent cognitive decline
+
+
+
+Social History:
+Resident at [**Location (un) **] Hourse. Worked in pharmacy when young; now
+retired. Sister also lives in [**Name (NI) **] (is health care proxy)
+and helps with his care; niece in close proximity. Stopped
+smoking in [**2144**]; smoked for 40 years.
+
+Family History:
+Noncontributory
+
+Physical Exam:
+General: Alert, pleasant, moderately tachypneic when awake with
+pursed lip breathing.
+HEENT: Marked bilateral bulbar and tarsal conjunctival erythema
+with L>R yellow purulent exudate. Denies facial tenderness. Not
+much periorbital edema. EOMI intact and painless. Bilateral
+erythema over superior maxillae (at site of nasal cannula). MM
+quite dry, no clear OP lesions.
+Neck: supple, JVD to at least 5-6 cm ASA. No adenopathy.
+Lungs: Diminished anteriorly and posteriorly; R lung fields with
+more diminished breath sounds particularly at base. Few crackles
+at L base. Pursed lip breathing.
+CV: Diminished, regular rate and rhythm, normal S1 + S2, no
+murmurs, rubs, gallops appreciated
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, no clubbing, cyanosis. 2+ bilateral
+pedal edema. Bilateral lower legs wrapped. Chronic venous stasis
+changes.
+Neuro: Alert, oriented to self and [**Location (un) 86**]. CN II-XII intact.
+Easily able to read at close and far distances.
+
+
+Pertinent Results:
+WBC 5.9
+Hct 38.1 MCV 93
+Plts 173
+INR 1.7
+
+Na 144   K3.2   Cl 103  HCO 33  BUN 20  Cr 0.9
+Ca 8.7  Mg 2.1  Phos 3.0
+CK 17
+CE negative x1
+ABG 7.43/48/127/33
+Lact 1.7
+
+Micro:
+Blood culture x 2 pending
+Urine culture pending
+.
+Images:
+CXR: AP upright portable chest radiograph is obtained.
+Evaluation is limited due to low lung volumes and the patient's
+chin overlying the lung apices as well as patient's rotation to
+the right. There is persistent large right pleural effusion with
+right basilar consolidation. The left lung appears grossly
+clear. There is mild pulmonary vascular congestion more apparent
+in the right upper lung. Heart size cannot be assessed. Aorta
+appears unfolded. No definite pneumothorax is seen. Bones are
+demineralized. IMPRESSION: Persistent right-sided pleural
+effusion with right basilar consolidation, likely atelectasis.
+Increasing congestion notable in the right lung. Evaluation
+quite limited due to patient's position.
+.
+EKG: NSR at 69, incomplete LBBB, normal axis, low limb lead
+voltage, diffuse TWF; all grossly unchanged from prior.
+
+
+Brief Hospital Course:
+77M with CAD, CHF EF 20%, dementia; presenting with
+conjunctivitis and hypoxemia yesterday, admitted to MICU for
+sCHF exacerbation.
+.
+# Acute on chronic systolic heart failure: EF 20%. Patient
+demonstrated evidence of volume overload with tachypnea,
+hypoxia, LE edema, decreased breath sounds, and elevated JVD.
+Pneumonia was initially considered and he was covered with 24
+hrs of Levofloxacin, Vancomycin, and Ceftriaxone, but he had no
+evidence of leukocytosis or fever and little change in a CXR, so
+the antibiotics were stopped. A serum BNP was markedly elevated
+on admission and clinical exam were more consistent with CHF
+exacerbation. CXR demonstrated a large, simple right pleural
+effusion. He was treated with supplemental O2, Albuterol nebs,
+diuresed with IV Lasix, and continued his home dose Metoprolol
+and Enalapril. His symptoms improved on with this regimen and
+his effusion demonstrated improvement with serial CXR's. While
+the cause of his CHF exacerbation is unknown, the patient
+reports medication compliance and cardiac enzymes were negative
+x 3 without EKG changes. Despite the absence of clear ischemic
+event, he was maintained on telemetry throughout this
+hospitalization without incident. He was discharged on an
+increased dose of Lasix.
+.
+# Bilateral Conjunctivitis: Patient with marked erythema and
+exudate on admission, most likely bacterial. He received 1.5
+days of Ciprofloxacin eye drops and changed to Erythromycin
+drops QID on admission with subsequent improvement in his
+symptoms. He completed 7 days of treatment & the patient was
+without eye pain or significant periorbital edema throughout
+this admission and his extraocular movements were intact
+throughout his stay.
+.
+# CAD: Patient with negative CE's x 3. Patient continued on his
+home Metoprolol and a an ASA was restarted, but he was not on a
+statin on admission and it was not started as an inpatient. He
+remained on telemetry throughout this hospitalization without
+incident.
+.
+# Hematuria: Patient with an episode of hematuria, thought to be
+[**1-2**] traumatic Foley placement. Hematuria improved without
+intervention.
+.
+# Dementia. Patient continued on his home Aricept, but Namenda
+was not given because it was non-formulary. It was restarted at
+discharge.
+.
+# Paroxysmal Atrial fibrillation: Patient remained in sinus
+rhythm throughout this admission. He was continued on his home
+Metoprolol 50mg [**Hospital1 **] with adequate rate control. He was started
+on ASA 325mg in lieu of Coumadin given his history of GI bleed.
+.
+# Hypertension: Patient normotensive as an inpatient, but
+continued on his home Metoprolol 50mg [**Hospital1 **], Enalapril 20mg daily,
+& Lasix 80mg IV PRN.
+
+# Elevated INR: Patient with elevated INR, thought to be
+nutritional deficiency. Given 1mg Vitamin K with subsequent
+improvement in his INR from 1.7 to 1.3.
+.
+# Code: Patient remained FULL CODE throughout this
+hospitalization
+
+
+
+Medications on Admission:
+enalapril 20 mg daily
+furosemide 80 mg daily
+isosorbide 30 mg daily
+potassium 20 meq daily
+multivitamin daily
+B12 500 mcg daily
+vitamin D3 800 units daily
+chlorhexidine rinse swish and spit [**Hospital1 **]
+namenda 5 mg [**Hospital1 **]
+cipro eye gtts 2 gtts QID x 7 days (started [**10-9**])
+metoprolol 50 mg [**Hospital1 **]
+calcium carbonate 500 mg TID
+citalopram 20 mg daily
+aricept 10 mg HS
+flomax 0.4 mg daily
+claritin 10 mg daily
+lidoderm patch to R knee
+plavix - stopped [**10-5**]
+ASA 81 mg - stopped [**10-3**]
+ampicillin 500 mg QID [**Date range (1) 111620**]
+bisacody

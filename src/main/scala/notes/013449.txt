@@ -1,0 +1,204 @@
+Admission Date:  [**2129-5-10**]              Discharge Date:   [**2129-5-24**]
+
+Date of Birth:  [**2072-7-24**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Cefepime / Latex / Mycostatin
+
+Attending:[**First Name3 (LF) 6169**]
+Chief Complaint:
+hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+56 woman with [**Location (un) 5622**] chromosone positive ALL in remission
+presented to clinic with fever to 103 and BP 92/58. She was
+initially diagnosed by her PCP [**Last Name (NamePattern4) **] [**3-/2128**] after presenting with
+weakness. She  underwent induction therapy with daunorubicin,
+vincristine, l-
+asparaginase, and prednisone and responded well. In the past 15
+months, she has received gleevec, hyper CVAD, desatinib,
+rituxan, and pulse dose steroids to maintain her clinical and
+cytological remission. Recently, she has been on velcade and
+cytoxan, with most recent dose 4/9.
+
+Of note, the patient complains of fevers and drenching night
+sweats for the last 3 weeks. She also had a CT scan in [**Month (only) 958**]
+[**2129**] to discover the etiology of her fevers. It showed ground
+glass opacities and she then underwent a bronchoscopy that was
+unrevealing.
+.
+In clinic, she was given 100mg IV hydrocortisone, Ertapenem 1gm
+IV, tylenol 650mg po after blood and urine cultures obtained.
+.
+ROS: denies SOB, pedal edema, hematuria, hematochezia, nausea,
+vomitting, anorexia aside from today, weight loss, dysuria,
+polyuria, cough, chest pain, abd. pain, sick contacts, diarrhea,
+[**Name2 (NI) 11756**]. Admits to fevers x 3 weeks.
+
+
+Past Medical History:
+) borderline hypothyroidism
+2) Osteopenia
+3) L fibula fx [**11-4**]
+4) Chronic constipation
+5) Chronic HA's
+6) Right basilic vein thrombosis [**7-6**]
+7) Lung nodules, presumed aspergillus, as above
+8) Anxiety
+9) C. Difficile infection [**7-6**]
+10) Contrast nephropathy in [**7-6**]
+11) VRE bacteremia [**8-5**]
+12) Neuropathy secondary to vincristine
+13) cardiomyopathy secondary to anthracycline
+
+
+Social History:
+denies tobacco/EtOH. Lives with husband, has 2 children.
+
+Family History:
+no one with ALL. Father: died of emphysema from tobacco abuse at
+65yo. Mother:Alive and has emphesema from tobacco abuse. sister:
+1, alive, healthy.
+
+Physical Exam:
+T 98.1 BP 78/52 HR 75 O2 93% on RA
+Gen: pleasant cooperative NAD
+HEENT: dry MM, no thrush/mucositis
+Neck: supple, without LAD
+Pulm: CTAB no crackles
+Chest: left sided port, no erythema or exudates
+Cor: RRR I/VI systolic murmur
+Abd: soft, NT ND decreased BS
+Ext: WWP, radial/DP 2+ bilaterally, no pedal edema
+skin: no rashes
+
+
+Pertinent Results:
+[**2129-5-9**] 10:45AM BLOOD WBC-2.6* RBC-3.03* Hgb-9.5* Hct-27.7*
+MCV-92 MCH-31.3 MCHC-34.2 RDW-21.1* Plt Ct-26*
+[**2129-5-9**] 10:45AM BLOOD Neuts-75.3* Bands-1.0 Lymphs-4.1*
+Monos-10.3 Eos-0 Baso-0 Atyps-6.2* Myelos-3.1*
+[**2129-5-9**] 10:45AM BLOOD Plt Smr-VERY LOW Plt Ct-26*
+[**2129-5-9**] 10:45AM BLOOD Glucose-86 UreaN-35* Creat-1.0 Na-141
+K-3.8 Cl-106 HCO3-25 AnGap-14
+[**2129-5-9**] 10:45AM BLOOD ALT-78* AST-47* LD(LDH)-402* AlkPhos-82
+TotBili-0.3
+
+Brief Hospital Course:
+56 woman with [**Location (un) 5622**] chromosone positive ALL in remission
+presented to clinic with hypotension and fevers.
+.
+Hypotension: The patient presented with systolic blood pressure
+in the high 70s to 80s that was minimally responsive to fluids.
+She received stress dose steroids (hydrocortisone 100 mg IV q8)
+and spent one night in the ICU, not requiring pressors. She did
+not have symptoms of lightheadedness or change in mental status
+and over the course of her stay her blood pressure returned to
+her baseline of 90s to low 100s.
+.
+Fever: The patient presented with high spiking fevers to 102s.
+These fevers continued for a full week into her stay and were
+often accompanied by severe chills, fatigue and in general a
+"toxic" looking appearance. Although she was not neutropenic,
+she was started on broad antibiotic coverage, including
+vancomycin, cefepime, flagyl given her history of C.Diff, and
+caspofungin. She was also receiving her standing prophylactic
+dose of oral vanco and had been receiving monthly pentamidine.
+Her admission CT chest actually showed an improvement in her
+ground glass lung opacities from previously and given that she
+had had a negative BAL within the last month, PCP was [**Name9 (PRE) 1801**]
+thought to be a low probability.
+Given the lack of improvement on antibiotics and the negative
+cultures, the fevers were thought most likely due to either
+Velcade (last dose on [**5-9**]) or desatinib. However, the duration
+and lack of improvement was thought unusual for Velcade and the
+fevers did not improve when her desatinib was held for 4 days.
+Eventually a b-glucan test was found to be significantly
+positive, when tests from previous hospitalizations had only
+been "intermediate." She then had a repeat CT of the chest which
+showed worsening ground glass in the upper lobes. She was
+started on treatment dose Bactrim and her Fevers immediately
+subsided (see ID).
+.
+ID: ID consult service was involved and based on beta-glucan and
+CT findings and resolution of fevers on Bactrim, determined that
+the diagnosis could be made without doing another bronchoscopy.
+She was started on Bactrim 2 DS tabs TID and prednisone 40 mg
+[**Hospital1 **]. Within two days of starting the bactrim, her LFTs had
+climbed from a normal level to a maximum of ALT 433, AST 336
+(the LFTs continued to rise for a day after the bactrim had been
+stopped). On discharge the LFTs had trended downward for 48
+hours and on discharge were ALT 317, AST 150. She was switched
+from the Bactrim to Clindamycin Q6 and primaquine 15 mg QD
+dosing and had been on these medications for >48hrs prior to
+discharge with no fevers. She was discharged on a three week
+course of this regimen, with an increase in her PO vanco to 125
+Q6H given her past history of Cdiff. The patient was also
+discharged on a quick taper of steroids from 10 mg [**Hospital1 **] to a
+standing dose of 10 mg QD, to be continued on an ongoing basis
+until further adjusted by her outpatient oncologist. A longer
+taper of high dose steroids was not considered necessary given
+her good O2 sats, no desatting on ambulation, and not as much
+data on this protocol in non-HIV patients.
+.
+ALL: The patient had her Dasatinib held for roughly 4 days to
+rule out drug related fever but was discharged on her normal
+dose of 70 mg [**Hospital1 **].
+.
+CHF: The patient's cardiac medications, metoprolol and
+lisinopril, were held when she presented with hypotension. These
+were not restarted on her discharge from the hospital, as she
+had relatively low blood pressures (<120) and was still being
+actively treated for infection. These long-term benefit
+medications could be restarted as desired by her outpatient
+HCPs.
+
+access: port
+.
+
+Medications on Admission:
+Sprycel (Dasatinib) 70 mg p.o. b.i.d., pretreat with Benadryl 25
+mg
+Acyclovir 400 mg p.o. b.i.d.
+Decadron taper, took 8 mg yesterday (for use with velcade)
+prednisone 10 mg p.o. daily
+Celexa 20 mg p.o. daily
+Lisinopril 2.5 mg p.o. daily
+folic acid 1 mg p.o. daily
+Magnesium b.i.d.
+Protonix 40 mg p.o. daily
+Vitamin B12 500 mcg daily
+Toprol XL 75 mg mg p.o. daily
+Lasix 20 mg PO PRN ~2x/week
+vancocin 250 [**Hospital1 **]
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+2. SPRYCEL 70 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+3. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO twice a day.
+
+4. Vancomycin 250 mg Capsule Sig: One (1) Capsule PO four times
+a day for 20 days.
+Disp:*80 Capsule(s)* Refills:*1*
+5. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO once a
+day: Do not take at same time as Sprycel.
+10. Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO
+BID (2 times a day) as needed.
+11. Vitamin B-12 500 mcg Tablet Sig: One (1) Tablet PO once a
+day.
+12. Atrove

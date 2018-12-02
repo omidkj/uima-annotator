@@ -1,0 +1,218 @@
+Admission Date:  [**2108-2-4**]              Discharge Date:   [**2108-2-7**]
+
+Date of Birth:  [**2036-7-11**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Haldol / Prolixin / Sulfasalazine / Thorazine
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+Right sided weakness and dysarthria
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Neurology at bedside for evaluation after code stroke activation
+within: 5 minutes
+Time (and date) the patient was last known well: 1300 (24h
+clock)
+
+NIH Stroke Scale Score: 6 (on initial exam)
+t-[**MD Number(3) 6360**]: No
+Reason t-PA was not given or considered: Hx of b/l SDH [**2100**],
+improvement in symptoms
+I was present during the CT scanning and reviewed the images
+instantly within 20 minutes of their completion.
+
+NIH Stroke Scale score at 1600 was 6:
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0
+2. Best gaze: 0
+3. Visual fields: 0
+4. Facial palsy: 1
+5a. Motor arm, left: 0
+5b. Motor arm, right: 1
+6a. Motor leg, left: 0
+6b. Motor leg, right: 1
+7. Limb Ataxia: 2
+8. Sensory: 0
+9. Language: 0
+10. Dysarthria: 1
+11. Extinction and Neglect: 0
+
+HPI:
+[**Known firstname **] [**Known lastname **] is a 71y M with a history of CAD s/p CABGx2,
+HTN, DM, b/l SDH in [**2100**] and paranoid schizophrenia. He presents
+today s/p fall at his group home with right sided weakness and
+new dysarthria.
+
+At 1300 today, pt was observed by facility supervisor ([**Doctor Last Name 8214**]) to
+be dragging his right leg when returning to his room. She asked
+him if his leg was in pain and he said it was. He was last seen
+normal at 1215 when they went out to lunch at a restaurant. The
+supervisor had worked with him earlier that morning and had not
+noticed any abnormalities. Since [**2101**], he has used a walker for
+an unsteady gait.
+
+Between 1500 and 1530, the patient had an unobserved fall in his
+room. He knocked on the wall to get the attention of his nurse.
+She found him on the floor without any obvious trauma. He could
+not stand up on his own, so she called EMS. When they arrived
+and
+started asking him questions, she noticed that he was slurring
+his words. At the time, he confirmed weakness in his right arm
+and leg. He has a bilateral tremor and tardive dyskinesia at
+baseline, but the tremor appeared worse to her at the time.
+
+The patient was brought to the hospital, where his initial
+vitals
+were  BP 137/87 HR 82 RR 18 O2 90%. A code stroke was called at
+1600; the ED calculated NIHSS as 4. On exam, he showed
+right-sided mild weakness (?face, +drift, +leg drift) and
+right-sided ataxia. His labs were notable for a Glucose of 372
+and a Cr of 2.0 (baseline CKD with b/l Cr ~2.1). He was taken
+for
+a non-contrast head CT, which did not show an acute intracranial
+hemorrhage or acute infarct (see below). We added CT-P and CT-A
+(see below), which were unrevealing. By 1700, his exam showed
+increased strength (no more drift) and less ataxia in right arm
+and leg. His tremors (primarily Left pill-rolling and jaw/[**Year (4 digits) **]
+TD-type movements) persisted. Due to the improvemed exam and
+more
+imprortantly the history of prior bilateral subdural hematoma,
+t-PA was not given.
+
+The patient has not had surgery in the last three weeks. As far
+as his group home worker knows, he does not have a history of
+stroke (the Right-parietal hypodensity on CT was apparently a
+silent or undocumented infarct). He had a b/l subdural hematoma
+after a fall in [**2100**] that may have been traumatic though
+unclear.
+[**Name2 (NI) **] did take his Aspirin and Plavix this morning.
+
+
+Past Medical History:
+# CAD/CHF -- on Lasix, dig, BB, ASA/Plvx
+--Last echo @OSH ([**Hospital1 **]) in [**2106-10-18**] showed EF of
+40%,
+mild TR and AR. Moderate diastolic dysfunction.
+- TTE ([**2102-7-14**])- poor windows.  Decreased systolic function
+could
+not be quantified. 2+ MR (? underestimated), 3+ TR
+--[**2102-6-9**] CABGx2 (SVG->LAD, SVG->OM) and MV Repair (27mm Duran
+ancore band)
+- TEE ([**6-9**] intraop)- EF 25%
+- TTE ([**2102-6-7**])- EF 25-30%
+- TEE ([**7-22**]): LVEF 30-35% mod global HK, 2+ MR
+# Hypertension
+# Hyperlipidemia on statin
+# Mental retardation
+# Paranoid schizophrenia on risperdone
+# Diabetes mellitus. Currently on 75-25 Humalog (6U at 7:30AM
+and
+3U at 4PM) and Lopid
+# Subdural hematomas [**7-22**]. Described by Neurosurgery at that
+time as being chronic, though SDH was found after fall.
+# h/o MSSA bacteremia
+# Chronic renal insufficiency. Last CrCl was 54 (Cr 2.1) in
+[**2101**].
+# Hypothyroidism on Synthroid
+
+#Lower GI bleed. Admitted to [**Hospital1 **] [**Location (un) 620**] in [**9-/2106**] for GI bleed
+and anemia from internal hemorrhoids. Last colonoscopy in [**2105**]
+showed multiple colon polyps and internal hemorrhoids.
+
+
+Social History:
+Lives at [**Location 11292**] group home. Has roomate.
+[**First Name4 (NamePattern1) 8214**] [**Last Name (NamePattern1) 8389**] = supervisor ([**Telephone/Fax (1) 93356**]. Able to dress and shower
+himself. He does need assisstance with cleaning and cooking.
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+ADMISSION EXAM:
+Vitals: T (initially afebrile-->)102.8
+BP 137/87 HR 82 RR 18 O2 90%
+
+General: Well-appearing, awake, alert. Quiet, but polite and
+responsive to pointed questions. TD-type jaw movements.
+Pill-rolling tremor of left index fgr/thumb.
+Neck: supple, no meningismus. No goiter. No LAD. No bruits
+appreciated in loud ED.
+CV: RRR w/o loud M/R/G appreciated in loud ED.
+Lungs: CTA anteriorly. Non-labored.
+Abdomen: Soft, NT/ND.
+Extr: Warm and well-perfused. No edema. Smooth/hairless shins.
+Dry feet. (PAD-type appearance). Good distal pulses.
+
+Neurologic exam:
+
+MS: Awake and alert. Oriented to "[**Known firstname **] [**Known lastname **]" [**2107**],
+[**Month (only) 956**]. Tracks in all directions. Follows most simple
+commands,
+but exam is highly limited by motor perseveration on recent
+tasks. Inattentive to DOWbw (gives fw). Naming intact to all
+NIHSS items except cactus. Repetion intact to "today is a sunny
+day in [**Location (un) 86**]." Fluent, but no spontaneous speech and short
+responses.
+
+CN:
+II: PERRL. Visual fields grossly full on limited exam (makes
+saccades to fingers moving on either side of direction of
+primary
+gaze, up and down on each side).
+III, IV, VI: EOMs grossly full and conjugate, no nystagmus
+(limited exam [**1-19**] perseveration/inattention).  difficult to
+assess because patient moves gaze.
+V: symmetrically intact to pinprick V1-V2-V3.
+VII: difficult to assess due to TD jaw/lip-smacking movements.
+[**Month (only) 116**] be weaker on the Left than right, unclear. [**Name2 (NI) **] tremor.
+Speech was mildly dysarthric initially, but improved on
+re-examination after CT.
+IX/X/XII: palate elevates symmetrically and [**Name2 (NI) **] protrudes
+midline.
+
+Motor: Exam limited by inattention, motor perseveration, ?lack
+of
+effort, and tremor.
+- Right pronates and drifts down initially; on repeat testing,
+it
+pronates, but he keeps it up (left does not pronate/fall). Both
+delts are breakable ([**3-22**] ?effort) whereas triceps are full ([**4-21**])
+bilaterally.
+- Initially unable to hold Right leg up against gravity for more
+than a second or two (left leg holds indefinitely), but improved
+on re-examination to same as left. Initially decreased tone in
+Right leg only, but improved on re-examination. Both IPs are
+breakable ([**3-22**] ?effort).
+
+Cerebellar: Grossly dysmetric FNF and HKS in the Right arm and
+leg. Left side has tremor, which abated with FNF, no dysmetria.
+LLE HKS smoother, but exam limited by cooperation/attention.
+
+Reflexes: symmetrically brisk, non-pathologic. Right toes
+mute-to-?up / left toes equivocal-to-?down.
+
+Sensory: Pt reports symmetric prinprick and light touch in all
+extremities. Otherwise limited exam.
+
+DISCHARGE EXAM:
+Able to hold all extremities anti-gravity and against
+resistance, though has some difficulty understanding all
+commands.  Mild dysmetria bilaterally, right slightly greater
+than left.
+
+Pertinent Results:
+ADMISSION LABS:
+
+[**2108-2-4**] 04:15PM BLOOD WBC-14.4* RBC-3.27* Hgb-11.3* Hct-32.1*
+MCV-98 MCH-34.5* MCHC-35.1* RDW-12.5 Plt Ct-211
+[**2108-2-5**] 02:04AM BLOOD Neuts-83.2* Lymp

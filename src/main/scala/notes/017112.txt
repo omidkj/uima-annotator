@@ -1,0 +1,202 @@
+Admission Date:  [**2169-7-14**]              Discharge Date:   [**2169-7-24**]
+
+Date of Birth:  [**2096-3-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+morphine
+
+Attending:[**Doctor First Name 1402**]
+Chief Complaint:
+Dizziness, palpitations, defibrillator firing
+
+Major Surgical or Invasive Procedure:
+Endocardial ablation
+Epicardial ablation
+
+History of Present Illness:
+Mr. [**Known lastname 99580**] is a 73 year old gentleman with a past medical
+history significant for rheumatic heart disease c/b
+bioprosthetic AVR, CHF with a LVEF 20%, VF with AICD/BiV, PAF on
+coumadin, and a recent admission for symptomatic VT complicated
+by GAS baceteremia treated with CTX now admitted for VT. The
+patietn was hospitalized at [**Hospital1 18**] from [**Date range (1) 99583**], during which
+he had a negative TEE and ICD pocket ultrasound with plan for 6
+weeks of antibiotics ending on [**7-26**]. Between [**Date range (1) 7501**], he was
+noted to have several episodes of VT treated either with ATP or
+defibrillation, during which he was admitted to an OSH. He has
+been followed by Dr. [**Last Name (STitle) **] as an outpatient, and on [**7-6**] his
+ATP was increased. Today, the patient reports that he was at
+[**Hospital1 18**] for an ID appointment when he had an episode of
+palpitations and lightheadedness with possible syncope for which
+he presented to the ED.
+.
+In the [**Hospital1 18**] ED, initial VS 97.9 72 115/56 18 100%RA. EP was
+consulted, and interrogation of the AICD demonstrated 4 episodes
+of VT today treated with ATP. The patient was then admitted for
+further management.
+.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: -Diabetes, -Dyslipidemia, -Hypertension
+2. CARDIAC HISTORY:
+- PACING/ICD: VVI [**Company 1543**] pacer/AICD, placed in [**2168**]
+- Non-ischemic cardiomyopathy with EF of 20%
+- Rheumatic Heart Disease (in childhood) s/p bioprosthetic AVR
+[**68**] years ago in FL
+- paroxysmal atrial fibrilation on Coumadin (confirmed by phone
+by his [**State 108**] cardiologist Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 99581**] (Holywood,
+[**Numeric Identifier 99582**])
+- Ventricular tachycardia
+3. OTHER PAST MEDICAL HISTORY:
+- Gout
+- Hypothyroidism
+- Traumatic injury to his left arm 30 years ago
+
+Social History:
+The patient lives in [**State 108**] but recently moved to [**Location (un) 86**] to
+live with his daughter. [**Name (NI) **] is a lifelong nonsmoker and does not
+drink alcohol. He denies any illicit drug use. He has a
+girlfriend who lives in [**Name (NI) 108**].
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+Admission physical exam:
+VS: 95.7 135/93 72 20 95%2Lnc
+Gen: Age appropriate male in NAD
+HEENT: MMM, OP clear without lesions, exudate, or erythema. Neck
+supple without LAD
+CV: Nl S1+S2, no m/r/g. Indeterminate JVP. PMI not laterally
+displaced.
+Pulm: CTAB
+Abd: S/NT/ND +bs
+Ext: 1+ peripheral edema.
+Neuro: AOx3, CN II-XII grossly intact.
+.
+Discharge physical exam:
+VS: T 99.0, BP 102-133, HR 67-82, RR 18-20 97-100% on RA/2L
+Gen: NAD, comfortable sitting up without oxygen
+HEENT: Sclerae anicteric and without injection, oropharyx clear
+and without exudate or erythema. Neck supple without LAD.
+CV: S1, S2, no murmurs auscultated.
+Pulm: Clear to auscultation bilaterally.
+Abd: Soft, non-tender, bowel sounds positive.
+Ext: No peripheral edema, substantial deformity and scarring of
+left arm. Right groin ecchymoses, clearing, but no hematoma to
+palpation.
+MSK: Left knee has no effusion, not tender to touch this
+morning.
+
+Pertinent Results:
+Admission labs:
+[**2169-7-14**] 10:43AM   WBC-2.2*# RBC-5.49 HGB-14.4 HCT-43.9 MCV-80*
+MCH-26.3* MCHC-32.8 RDW-16.3*
+[**2169-7-14**] 10:43AM   NEUTS-8* BANDS-0 LYMPHS-44* MONOS-31* EOS-16*
+BASOS-1 ATYPS-0 METAS-0 MYELOS-0
+[**2169-7-14**] 10:43AM   CALCIUM-9.4 PHOSPHATE-2.7 MAGNESIUM-1.8
+[**2169-7-14**] 10:43AM   ALT(SGPT)-20 AST(SGOT)-37 LD(LDH)-226 ALK
+PHOS-91 TOT BILI-0.4
+[**2169-7-14**] 10:43AM   GLUCOSE-153* UREA N-16 CREAT-1.0 SODIUM-138
+POTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-24 ANION GAP-15
+.
+[**2169-7-21**] 05:19AM BLOOD Gran Ct-3390
+[**2169-7-20**] 06:13AM BLOOD Gran Ct-1619*
+[**2169-7-19**] 04:43AM BLOOD Gran Ct-928*
+.
+[**2169-7-14**] 10:43AM   proBNP-944*
+[**2169-7-14**] 10:43AM   cTropnT-<0.01
+[**2169-7-15**] 06:06AM BLOOD CK-MB-2 cTropnT-<0.01
+.
+[**2169-7-21**] 05:19AM BLOOD Vanco-9.6*
+[**2169-7-20**] 06:13AM BLOOD Vanco-15.3
+[**2169-7-19**] 04:43AM BLOOD Vanco-12.2
+[**2169-7-17**] 05:01AM BLOOD Vanco-8.6*
+.
+Discharge labs:
+COMPLETE BLOOD COUNT WBC RBC  Hgb    Hct  MCV MCH  MCHC RDW  Plt
+Ct
+[**2169-7-24**] 06:47    3.7* 4.61 12.5* 37.0* 80* 27.1 33.8 16.0*
+171
+RENAL & GLUCOSE   Glucose UreaN Creat Na   K   Cl   HCO3 AnGap
+[**2169-7-24**] 06:47    91      12   0.9  138 4.1  103   25   14
+.
+[**2169-7-14**] CXR: FINDINGS: Single AP upright portable view of the
+chest was obtained. The costophrenic angle is not fully included
+on the image. Given this, left-sided AICD is again seen, grossly
+unchanged in position. Patient is status post median sternotomy.
+No focal consolidation, large pleural effusion, or evidence of
+pneumothorax is seen. There is no overt pulmonary edema. There
+has been interval placement of a right-sided PICC line, distal
+aspect not well seen due to overlying pacer leads but appears to
+extend at least into the SVC.
+.
+[**2169-7-15**] CXR:
+There is a right-sided PICC line with distal lead tip in the
+distal SVC.
+There is a left-sided dual-lead pacemaker as well as several old
+pacemaker wires. Cardiac silhouette is enlarged. Tortuous
+thoracic aorta. There is some increased density at the lung
+bases, degenerative change of the lower lumbar spine is also
+identified.
+.
+[**2169-7-15**] Left hip X-ray:
+FINDINGS: There are no signs for acute fractures or
+dislocations. There are degenerative changes of bilateral hip
+joints with spurring of the
+superolateral acetabuli. Degenerative changes of the lower
+lumbar spine is also identified. No focal lytic or blastic
+lesions are present.
+.
+[**2169-7-17**] CXR:
+
+FINDINGS: As compared to the previous radiograph, there is no
+relevant
+change. Borderline size of the cardiac silhouette. The pacemaker
+and central venous access line is in unchanged position. No
+pulmonary edema. No pleural effusions, no pneumonia. Moderate
+tortuosity of the thoracic aorta.
+.
+[**2169-7-20**] Echo:
+Overall left ventricular systolic function is severely depressed
+(LVEF= 25-30 %). A bioprosthetic aortic valve prosthesis is
+present. The mitral valve leaflets are mildly thickened. There
+is no pericardial effusion.
+
+IMPRESSION: Severe global left ventricular hypokinesis with
+inferior and inferolateral akinesis. Bioprosthetic AVR. No
+pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2169-6-15**],
+the current study is a limited study assessing possible
+pericardial effusion. The findings are similar.
+.
+[**2169-7-20**] CXR:
+
+FINDINGS: In comparison with the study of [**7-17**], there is
+continued
+enlargement of the cardiac silhouette with some increased
+indistinctness of pulmonary vessels suggesting mild elevation of
+pulmonary venous pressure. The monitoring and support devices
+are unchanged.
+.
+[**2169-7-21**] Echo:
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with moderate cavity dilation.
+There is severe regional systolic dysfunction with severe
+hyopkinesis of the inferior and inferolateral walls and mild
+hypokinesis of the anterolateral wall. The remaining segments
+contract normally (LVEF = 25-30 %). No masses or thrombi are
+seen in the left ventricle. The right ventricular cavity is
+mildly dilated with mild global free wall hypokinesis. The
+aortic root is severely dilated at the sinus level. A
+bioprosthetic aortic valve prosthesis is present. The aortic
+valve prosthesis appears well seated, with normal leaflet motion
+and transvalvular gradients. A paravalvular jet of mild (1+)
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Mild (1+)
+mitral regurgitation is seen. There is mild pulmonary artery
+systolic hypertension. 

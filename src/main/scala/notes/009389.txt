@@ -1,0 +1,202 @@
+Admission Date:  [**2139-10-25**]              Discharge Date:   [**2139-10-30**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2387**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+Ventricular tachycardia ablation
+
+
+History of Present Illness:
+82F h/o CAD s/p CABG, HTN, DM, CRI, bilateral RAS s/p stenting,
+h/o atrial flutter transferred from OSH after presenting with
+chest pain and found to have stable wide complex tachycardia.
+Had been feeling well until the morning of admission when she
+developed diarrhea and nausea with emesis x 1. Began to
+experience SSCP radiating to the back at 5pm that was unrelieved
+by nitro. No associated SOB, diaphoresis. Has not had angina
+since CABG. The patient called EMS who found her in stable wide
+complex tachycardia with rate 200's. Given 2x lidocaine boluses
+with resolution of the tachycardia and chest pain. Presented to
+[**Location (un) 620**] ED where she again developed wide complex tachycardia
+captured on ECG, likely VT. Given amiodarone boluses and placed
+on amiodarone gtt with termination of arrythmia. Transferred to
+[**Hospital1 18**] for further evaluation. Currently CP free. Denies resting
+SOB, edema, PND, or orthopnea. Endorses DOE with 1 flight
+stairs. No abdominal pain.
+
+Past Medical History:
+ 1.  HTN
+ 2.  CHF (EF 50-60%)
+ 3.  CAD s/p CABG ([**2118**]; LIMA->LAD, SVG->OM1, SVG->RCA)
+ 4.  s/p MI ([**2105**])
+ 5.  DM2
+ 6.  bilateral RAS s/p stents ([**2134**])
+ 7.  right carotid stenosis
+ 8.  s/p appendectomy ([**2105**])
+ 9.  s/p cholecystectomy ([**2104**])
+10.  Spinal stenosis; s/p surgery ([**2134**])
+11.  Chronic renal insufficiency (baseline Cre 2.3)
+12.  Bilateral cataracts
+13.  s/p colonoscopy ([**2135**])
+14.  h/o atrial flutter
+15.  h/o chronic anemia (baseline Hct 30-32)
+
+Social History:
+The patient lives at home with her husband.
+She has a 30-pack-year smoking history, but none currently.
+She does not drink alcohol.
+
+Family History:
+NC
+
+Physical Exam:
+T 99.4 HR 60 BP 180/60 left arm, 180/72 right arm RR 23 SaO2 95%
+on 2L NC Weight 193 lbs
+General: WDWN, NAD, breathing comfortably on RA
+HEENT: PERRL, EOMi, anicteric sclera, conjunctivae pink, MM
+moist
+Neck: supple, trachea midline, no thyromegaly or masses, no LAD,
+no carotid bruits
+Cardiac: RRR, s1s2 normal, 2/6 systolic murmur @ apex, JVP 12 cm
+Pulmonary: CTAB
+Abdomen: +BS, soft, nontender, nondistended, no HSM
+Extremities: warm, 2+ DP pulses, no edema
+Neuro: A&Ox3, speech clear and logical, CNII-XII intact, moves
+all extremities
+
+Pertinent Results:
+Admission Labs:
+* Hematology -
+[**2139-10-24**] 10:23PM BLOOD WBC-15.6*# RBC-4.06* Hgb-13.3# Hct-37.5
+MCV-93 MCH-32.8* MCHC-35.5*# RDW-13.6 Plt Ct-171
+[**2139-10-24**] 10:23PM BLOOD Neuts-93.5* Bands-0 Lymphs-4.3* Monos-2.1
+Eos-0.1 Baso-0
+[**2139-10-24**] 10:23PM BLOOD Plt Ct-171
+[**2139-10-25**] 03:22AM BLOOD PT-11.7 PTT-20.5* INR(PT)-1.0
+[**2139-10-26**] 06:26AM BLOOD Ret Aut-1.6
+.
+* Chemisty -
+[**2139-10-24**] 10:23PM BLOOD Glucose-438* UreaN-95* Creat-3.3* Na-142
+K-4.2 Cl-107 HCO3-20* AnGap-19
+[**2139-10-24**] 10:23PM BLOOD CK(CPK)-270*
+[**2139-10-25**] 03:22AM BLOOD ALT-21 AST-35 LD(LDH)-293* CK(CPK)-323*
+AlkPhos-112 Amylase-202* TotBili-0.4
+.
+Discharge Labs:
+* Hematology -
+.
+* Chemistry -
+.
+ECG ([**2139-10-24**]): sinus, 89bpm, LAD, LVH, Q-waves III/AVf, STE's
+III/AVf, new LBBB compared to [**2136-11-16**]
+.
+CXR, portable ([**2139-10-24**]): no acute process
+.
+Cardiac MR ([**2139-10-26**]):
+.
+Right
+.
+Prior studies -
+.
+Cath ([**11/2134**]):
+COMMENTS:
+1. Resting hemodynamics demonstrated systolic hypertension and
+mildly
+elevated biventricular filling pressures.  The cardiac index was
+normal at 3.8 L/min/m2.
+2. Selective native coronary arteriography demonstrated total
+occlusion of all coronary arteries proximally.
+3. Selective graft angiography was performed.  The LIMA to LAD
+was
+widely patent.  The RCA filled well via collaterals from the
+LAD.  The SVG to OM1 was widely patent.  The SVG to RCA was
+totally occluded proximally.
+FINAL DIAGNOSIS:
+1. Three vessel native coronary artery disease.
+2. Patent LIMA to LAD and SVG to OM1.
+3. Normal cardiac output.
+4. Systolic hypertension.
+.
+TTE ([**1-/2135**]):
+CONCLUSIONS:
+The left atrium is mildly dilated. There is moderate symmetric
+left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. There is hypokinesis of the inferior and posterior
+walls, but the overall ejection fraction is well-preserved
+(50-60 percent). Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets are moderately
+thickened. There is no significant aortic valve stenosis. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Mild (1+)
+mitral regurgitation is seen. The left ventricular inflow
+pattern suggests impaired relaxation. The tricuspid valve
+leaflets are mildly thickened. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+IMPRESSION: left ventricular hypertrophy with preserved left
+ventricular ejection fraction, inferior-posterior hypokinesis,
+and probable diastolic dysfunction of the left ventricle.
+[**2139-10-26**] 06:26AM BLOOD CK(CPK)-115 Amylase-28
+[**2139-10-28**] 07:10AM BLOOD Amylase-100
+[**2139-10-25**] 03:22AM BLOOD Lipase-194*
+[**2139-10-26**] 06:26AM BLOOD Lipase-128*
+[**2139-10-28**] 07:10AM BLOOD Lipase-109*
+[**2139-10-24**] 10:23PM BLOOD CK-MB-27* MB Indx-10.0* cTropnT-0.33*
+[**2139-10-25**] 03:22AM BLOOD CK-MB-39* MB Indx-12.1* cTropnT-1.92*
+[**2139-10-25**] 11:15AM BLOOD CK-MB-27* MB Indx-11.0* cTropnT-1.43*
+[**2139-10-26**] 06:26AM BLOOD CK-MB-10 MB Indx-8.7* cTropnT-0.92*
+[**2139-10-24**] 10:23PM BLOOD Calcium-9.8 Phos-3.4 Mg-2.4
+[**2139-10-26**] 06:26AM BLOOD calTIBC-242* VitB12-249 Folate-GREATER TH
+Ferritn-133 TRF-186*
+[**2139-10-25**] 03:22AM BLOOD TSH-1.6
+
+Brief Hospital Course:
+82F with CAD s/p CABG, CHF, DM2, CRI presents with SSCP and
+stable VT. No more episodes VT or CP during admission. Unable to
+induce VT on EP study but underwent empiric VT ablation based on
+[**Month/Day/Year **] mapping.
+.
+# Wide complex tachycardia: likely VT based on OSH ECG given
+left axis, atypical RBBB; thought to be originating from prior
+inferior MI [**Month/Day/Year **] rather than new ischemia. at presentation, the
+patient was asymptomatic and in sinus. transferred from OSH on
+amiodarone gtt but discontinued to aide in ability to induce VT
+at EP study. no more VT episodes during admission. underwent
+cardiac MR [**First Name (Titles) **] [**Last Name (Titles) **] mapping. at EP study on [**10-27**], they were
+unable to induce VT. the patient underwent presumptive ablation
+of inferior/septal myocardial [**Month/Day (4) **]. f/u with Dr. [**Last Name (STitle) **] next week.
+.
+# CAD: s/p CABG with 2/3 grafts patent on [**2133**] cath. cardiac
+enzymes positive in the setting of rapid sustained VT. concern
+for ACS as may have new obstructing graft lesion however given
+that symptoms of chest pain resolved when arrythmia terminated
+thought to be less likely. she was contiued on ASA, plavix,
+statin, beta blocker, and nitrate. heparin gtt was discontinued.
+cardiac MR was performed (see above for results) for [**Year (4 digits) **]
+mapping prior to ablation. no cardiac cath given less likely VT
+from active ischemia and poor baseline renal function. she was
+restarted on all of her home dose medications prior to
+discharge.
+.
+# CHF: preserved EF on last echo, likely distolic dysfunction.
+elevated JVP (possibly related to TR) but no edema or rales on
+exam. she was given a low sodium diet, daily weights, strict
+I/Os. lasix was initially held as thought slightly volume
+depleted from vomiting and diarrhea prior to admission,
+supported by exam and pre-renal indices. she maintained good
+SaO2 and was restarted on lasix 40mg [**Hospital1 **] was restarted at
+discharge.
+.
+# HTN: elevated BPs at admission in the setting of not receiving
+her home medications. initially, clonidine and ACEi were held to
+give room to up-titrate beta-blocker given VT and concern for
+ACS. BPs remained slightly elevated at discharge (SBP 130-170).
+She was re

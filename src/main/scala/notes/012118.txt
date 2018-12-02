@@ -1,0 +1,211 @@
+Admission Date:  [**2116-9-30**]              Discharge Date:   [**2116-10-10**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2074**]
+Chief Complaint:
+Chest pain and shortness of breath
+
+Major Surgical or Invasive Procedure:
+1. Cardiac catheterization with cypher stent to LAD
+2. Cardioversion
+
+
+History of Present Illness:
+82 yo male with h/o CAD, Afib, CHF, ?IMI, DM2 who woke up with
+burning substernal chest pain and SOB to [**Hospital 46**] Hosp. FOund to
+be in rapid afib, ECG with STD laterally and RBBB at rate of
+120. Trop 30. Also found to be in pulm edema. Started on IV NTG,
+IV dilt, IV lasix. Transferred to [**Hospital1 18**] for cath, that showed
+elev PCWP, s/p stent to LAD, TO of RCA. Started on nipride and
+ntg for afterload and preload reduction. He was hypoxic in the
+MICU req NRB and satting 93% on NRB.
+
+Past Medical History:
+1. CAD
+2. Atrial fib
+3. CHF
+4. ?IMI
+5. DM2
+6. HTN
+7. macular [**Last Name (un) **]
+
+Social History:
+SH: Quit tob 40 yrs ago, married and lives with his wife.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Vitals:  T 98 BP 127/75 HR 105 RR 30 O2 sats 93% on 100% NRB PAP
+38/19 mean 27 PCWP 23 CO (Fick) 4.1
+General:  Eldery male lying in bed appearing unconfortable and
+SOB
+HEENT:  OP clear, MM dry, could not evaluate JVP
+CV: irregularly irregular rhythm, normal S1 S2
+Lung:  crackles at bases b/l
+Abd:  nl BS, soft, NT/ND
+Extr:  1+ DP/PT pulses, no edema
+
+
+Pertinent Results:
+ECG on admission:  afib, rate 113, nl axis, ? RBBB
+
+                         CK(CPK)
+[**2116-10-4**] 04:00AM          440*
+[**2116-10-3**] 07:48PM          489*
+[**2116-10-1**] 02:13PM          803*
+[**2116-10-1**] 04:34AM          1436*
+[**2116-9-30**] 10:38PM          1641*
+.
+CPK ISOENZYMES       CK-MB   MB Indx cTropnT
+[**2116-10-4**] 04:00AM    5               3.69*
+[**2116-10-3**] 07:48PM    4               4.68*
+[**2116-10-1**] 02:13PM    62*     7.7*
+[**2116-10-1**] 04:34AM    141*    9.8*    5.57
+[**2116-9-30**] 10:38PM    210*    12.8*   7.53*
+.
+URINE CULTURE (Final [**2116-10-4**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         Trimethoprim/sulfa sensitivity performed by [**First Name8 (NamePattern2) 3077**]
+[**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+GENTAMICIN------------     2 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----       R
+
+Blood cultures: No growth
+Repeat urine culture on [**10-3**]: <10,000 organisms
+
+
+[**2116-9-30**] 10:38PM BLOOD WBC-13.8* RBC-4.88 Hgb-15.4 Hct-44.4
+MCV-91 MCH-31.5 MCHC-34.6 RDW-13.6 Plt Ct-261
+[**2116-10-10**] 06:45AM BLOOD WBC-11.9* RBC-3.04* Hgb-9.5* Hct-28.3*
+MCV-93 MCH-31.3 MCHC-33.6 RDW-14.3 Plt Ct-369
+[**2116-10-4**] 04:00AM BLOOD Neuts-82.9* Bands-0 Lymphs-11.7*
+Monos-4.5 Eos-0.7 Baso-0.2
+[**2116-9-30**] 10:38PM BLOOD PT-13.3 PTT-43.2* INR(PT)-1.2
+[**2116-10-10**] 06:45AM BLOOD PT-22.8* PTT-45.3* INR(PT)-3.4
+[**2116-10-10**] 06:45AM BLOOD Plt Ct-369
+[**2116-9-30**] 10:38PM BLOOD Glucose-140* UreaN-27* Creat-1.3* Na-138
+K-3.7 Cl-99 HCO3-24 AnGap-19
+[**2116-10-10**] 06:45AM BLOOD Glucose-98 UreaN-32* Creat-1.6* Na-138
+K-4.7 Cl-105 HCO3-24 AnGap-14
+[**2116-9-30**] 10:38PM BLOOD Triglyc-122 HDL-41 CHOL/HD-5.8
+LDLcalc-174*
+[**2116-10-1**] 02:13PM BLOOD TSH-0.32
+[**2116-10-2**] 11:34AM BLOOD Digoxin-0.9
+[**2116-10-8**] 07:10AM BLOOD Digoxin-0.9
+[**2116-10-4**] 04:14AM BLOOD Lactate-1.7
+.
+[**2116-9-30**] CXR: There is moderate cardiomegaly. Pulmonary venous
+congestion and perihilar haziness is noted indicative of
+pulmonary interstitial edema. There are no pleural effusions. A
+catheter is seen within the left main pulmonary artery via the
+right femoral access.
+.
+[**2116-9-30**]: Cardiac catheterization: 1. Selective coronary
+angiography in this right dominant circulation demonstrated two
+vessel coronary artery disease. The LMCA was without
+angiographically apparent flow limiting disease. The proximal
+LAD had mild luminal irregularities. The mid LAD had a hazy 80%
+discrete stenosis with slow flow. There was also a 90% stenosis
+toward the apical portion of the LAD. The D1 and D2 were high
+branches and small. The D3 is larger without significant
+obstructive disease. The LCx had mild diffuse disease throughout
+its course about the AV groove. There was a large OM1 without
+significant flow limiting disease. The RCA had
+moderate to severe diffuse disease with chronic total occlusion
+of the
+distal RCA. There were collaterals noted from the left
+circulation
+supplying the right side.
+2. Resting hemodynamics from right heart catheterization
+demonstrated
+moderate pulmonary arterial hypertension (50/30 mmHg), mildly
+elevated
+RVEDP (15 mmHg), and severely elevated PCWP (35mmHg). The PCWP
+tracing
+were to have large v waves. The calculated cardiac output by the
+Fick
+method was 3.3 with a cardiac index of 1.5.
+3. Successful PTCA/stenting of the mid LAD with a 3.5x28mm
+Cypher DES
+with excellent results (see PTCA comments).
+.
+[**10-1**] Echo: 1. The left atrium is moderately dilated.
+2. There is mild symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. There is severe global
+left ventricular hypokinesis. Overall left ventricular systolic
+function is severely depressed with EF <20%
+3. The aortic valve leaflets are mildly thickened.
+4. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral
+regurgitation is seen.
+.
+[**10-2**] TEE in preparation for cardioversion: The left atrium is
+dilated. Mild spontaneous echo contrast is seen in the body
+of the left atrium. No mass/thrombus is seen in the left atrium
+or left atrial appendage. Left atrial appendage emptying
+velocity is reduced (<20 cm/s). The right atrium is dilated. No
+spontaneous echo contrast is seen in the body of  the right
+atrium or right atrial appendage. No mass or thrombus is seen in
+the  right atrium or right atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler. The left ventricular
+cavity size is normal. Overall left ventricular systolic
+function is severely depressed. Right ventricular chamber size
+and free wall motion are normal. There are complex (>4mm,
+non-mobile) atheroma in the aortic arch and descending thoracic
+aorta. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. At least
+moderate (2+) mitral regurgitation is seen. There is no
+pericardial effusion.
+.
+[**2116-10-5**] Renal US: The right kidney measures 10.0 cm. The left
+kidney measures 11.0 cm. There is no evidence of hydronephrosis,
+abnormal masses, or stones bilaterally. There is an anechoic,
+simple cyst within the mid pole of left kidney, which measures
+1.7 cm. A Foley catheter is identified within the bladder, which
+is otherwise unremarkable.
+
+[**2116-10-9**] ECG after cardioversion: Sinus rhythm. First degree
+atrio-ventricular conduction delay. Compared to the previous
+tracing the cardiac rhythm is now sinus mechanism.
+Rate PR QRS QT/QTc P QRS T
+61 230 116 [**Telephone/Fax (2) 63183**] 3 166
+
+
+Brief Hospital Course:
+82 yo male with h/o CAD, Afib, CHF, ?IMI, DM2 who woke up with
+burning substernal chest pain and SOB to [**Hospital 46**] Hosp. Found to
+be in rapid afib, ECG with STD laterally and RBBB at rate of
+120. Trop 30. Also found to be in pulmonary edema. Started on IV
+NTG, IV diltiazem, IV Lasix. Transferred to [**Hospital1 18**] for cath, that
+showed elevated PCWP, s/p stent to LAD, and total occlusion of
+RCA. Started on Nipride and NTG for afterload and preload
+reduction. He was hypoxic in the MICU requiring NRB.
+.

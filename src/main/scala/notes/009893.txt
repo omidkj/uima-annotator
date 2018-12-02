@@ -1,0 +1,210 @@
+Admission Date:  [**2199-12-3**]              Discharge Date:   [**2199-12-12**]
+
+Date of Birth:  [**2160-1-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+Transfer from OSH for hypotension
+
+Major Surgical or Invasive Procedure:
+S/p R ureteral stent placement
+
+History of Present Illness:
+39 yo F w/ h/o nephrolithiasis presented to OSH [**12-2**] with R
+flank pain associated with n/v/f/c and was found to have stone
+in R ureter.  She underwent ureteral stent placement and
+postoperately she was developed fever to 102 with rigors. She
+rapidly developed hypotension unreponsive to fluids and
+eventually requiring pressors.  She also had evidence of DIC,
+ARF and respiratory distress requiring NRB mask to keep O2 sats
+in mid-90s. She was given cipro, gent, and zosyn, and was
+transferred to [**Hospital1 18**] for further w/u.
+
+Past Medical History:
+1. Kidney stone ~4 years ago
+2. Depression with psychotic features
+
+Social History:
+Remote h/o tobacco, quit age 20. No h/o EtOH or IVDU.
+Lives with parents in [**Location (un) **], MA.
+
+Family History:
+Mom with h/o colon ca and cyst in brain, still A+W.
+
+Physical Exam:
+T 99.4, BP 115/50, P 82, RR 34, O2 sat 95% 2L
+I/Os: 2475 / 5390
+Gen: Young female, flat affect, breathing moderately labored
+with full sentences
+HEENT: PERRL, anicteric sclera, dry MM clear OP
+Neck: Supple, no LAD/ masses, no JVP noted
+CV: RRR, nl S1, S2 I/VI SEM
+Pulm: decreased BS at bases o/w clear
+Abd: soft, NT/ND + BS
+Extr: No c/c/e, 2+ pedal pulses
+
+
+Pertinent Results:
+[**12-9**] CXR -
+1. Removal of endotracheal and nasogatric tubes since the prior
+examinations.
+2. Progressive consolidation of the left upper lobe or a portion
+of it, with air bronchograms, consistent with pneumonic
+consolidation.
+3. Persistent left lower lobe atelectasis or consolidation with
+a small adjacent pleural effusion.
+4. Continued patchy infiltrates in the right lung.
+5. Considerable improvement in the degree of bilateral
+predominantly alveolar diffuse opacities.
+
+[**2199-12-3**] 03:43AM   freeCa-1.01*
+[**2199-12-3**] 03:43AM   GLUCOSE-201* LACTATE-3.4* NA+-137 K+-3.4*
+[**2199-12-3**] 03:43AM   TYPE-ART PO2-69* PCO2-30* PH-7.33* TOTAL
+CO2-17* BASE XS--8
+[**2199-12-3**] 04:12AM   FIBRINOGE-351
+[**2199-12-3**] 04:12AM   PT-17.8* PTT-42.2* INR(PT)-2.0
+[**2199-12-3**] 04:12AM   PLT COUNT-124*
+[**2199-12-3**] 04:12AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**2199-12-3**] 04:12AM   NEUTS-91* BANDS-1 LYMPHS-3* MONOS-5 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2199-12-3**] 04:12AM   WBC-27.3* RBC-3.12* HGB-9.7* HCT-29.5* MCV-95
+MCH-31.2 MCHC-33.0 RDW-14.1
+[**2199-12-3**] 04:12AM   CORTISOL-140.9*
+[**2199-12-3**] 04:12AM   TSH-1.1
+[**2199-12-3**] 04:12AM   ALBUMIN-2.9* CALCIUM-6.7* PHOSPHATE-2.3*
+MAGNESIUM-1.7
+[**2199-12-3**] 04:12AM   LIPASE-9
+[**2199-12-3**] 04:12AM   ALT(SGPT)-33 AST(SGOT)-31 LD(LDH)-206 ALK
+PHOS-57 TOT BILI-0.4
+[**2199-12-3**] 04:12AM   GLUCOSE-197* UREA N-20 CREAT-1.1 SODIUM-141
+POTASSIUM-3.6 CHLORIDE-115* TOTAL CO2-15* ANION GAP-15
+[**2199-12-3**] 04:40AM   FDP-80-160*
+[**2199-12-3**] 05:26AM   TYPE-ART TEMP-37.0 RATES-/32 O2-100 PO2-79*
+PCO2-23* PH-7.36 TOTAL CO2-14* BASE XS--10 AADO2-629 REQ O2-100
+INTUBATED-NOT INTUBA
+[**2199-12-3**] 05:30AM URINE  VoidSpec-REQUISITIO
+[**2199-12-3**] 07:18AM   CORTISOL-121.2*
+[**2199-12-3**] 07:18AM   CORTISOL-122.6*
+[**2199-12-3**] 07:49AM   O2 SAT-98
+[**2199-12-3**] 07:49AM   LACTATE-3.2*
+[**2199-12-3**] 07:49AM   TYPE-ART PO2-128* PCO2-28* PH-7.36 TOTAL
+CO2-16* BASE XS--7
+[**2199-12-3**] 02:56PM   WBC-26.7* RBC-3.15* HGB-9.9* HCT-29.3* MCV-93
+MCH-31.4 MCHC-33.8 RDW-14.7
+[**2199-12-3**] 02:56PM   PLT COUNT-96*
+[**2199-12-3**] 03:12PM   freeCa-1.12
+[**2199-12-3**] 03:12PM   O2 SAT-97
+[**2199-12-3**] 03:12PM   GLUCOSE-97 LACTATE-2.2*
+[**2199-12-3**] 03:12PM   TYPE-ART PO2-108* PCO2-31* PH-7.36 TOTAL
+CO2-18* BASE XS--6
+[**2199-12-3**] 05:04PM URINE  RBC-420* WBC-26* BACTERIA-NONE
+YEAST-NONE EPI-0
+[**2199-12-3**] 05:04PM URINE  BLOOD-LGE NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-SM
+[**2199-12-3**] 05:04PM URINE  COLOR-LtAmb APPEAR-Hazy SP [**Last Name (un) 155**]-1.020
+[**2199-12-3**] 05:46PM   O2 SAT-77
+[**2199-12-3**] 05:46PM   TYPE-MIX PO2-38* PCO2-32* PH-7.36 TOTAL
+CO2-19* BASE XS--6
+
+CT abd pelvis:
+1. Bilateral pleural effusions with some associated bibasilar
+atelectasis.
+
+2. Ascites within the peritoneal cavity, in the pelvis and
+adjacent to the liver and gallbladder.
+
+3. A right-sided ureteric stent is present, extending from the
+right renal pelvis to the bladder. No hydronephrosis identified
+bilaterally. A hypodense lesion is seen in the right kidney,
+likely representing a renal cyst.
+
+4. There are no discrete focal fluid collections with areas of
+rim enhancement to suggest abscesses or othersignificant signs
+of infection.
+
+CXR: Improving multifocal pulmonary opacities, most likely due
+to provided history of pneumonia and ARDS
+
+
+Brief Hospital Course:
+[**Hospital Unit Name 153**] course:
+
+She was admitted to [**Hospital Unit Name 153**] for treatment of sepsis, presumed
+urinary source.  She was initially treated with Zosyn and Cipro,
+agressive IV hydration and pressor support.  She was intubated
+secondary to hypoxic respiratory failure on [**12-4**], felt to be
+likely ARDS.  Urology was consulted and requested STU which
+revealed a well positioned ureteral stent without hydro or
+extravasation of contrast.  She responded to treatment initially
+with WBC decreasing from 35.2 at maximum to 14.2 on [**12-6**].  A
+urine culture from OSH grew E-coli and abx changed to
+ceftriaxone on [**12-5**].  She then spiked a fever to 101.8-102.2 on
+[**12-6**] and [**12-7**] and WBC began to rise again.  All [**Hospital1 18**]
+cultures, including C-diff remained negative.  Antibiotics
+changed to Vanco, Gent, Ceftriaxone to treat possible VAP.  On
+[**12-8**], successfully extubated with decreasing O2 requirement.
+Currently afebrile, HD stable of pressors, oxygenating well on
+2L N/C and awaiting transfer to floor.
+
+1. Respiratory failure - patient extubated on [**12-8**] and doing
+well with decreasing O2 requirement.  Remains mildy tachypneic
+but comfortable.    Pleural fluid without growth to date. O2 was
+weaned over next few days. Ultimately changed to levoquin PO as
+wt ct came down. PCP to follow up bld cx.
+
+2. Leukocytosis - WBC rising from 14 on [**12-6**] to 29.9 today with
+10% bands yesterday.  Source not entirely clear as blood,
+sputum, urine cultures NGTD.  Pneumonia possible.  No diarrhea
+to suggest C-Diff. Abx cont and then changed once WBC ct
+improved. CXR and UA did not show an explanation for the course.
+
+
+3. Urosepsis - Ecoli grew in urine culture from OSH.  HD stable
+and now afebrile. Recommended cont abx.
+
+4. Nephrolithiasis: pt now with ureteral stent and ? passage of
+stone.  Urology following.  Recent Abd CT demonstrates ureteral
+stent is in good location with no hydronephrosis, delay in
+excretion or extravasation of fluid.  No need for intervention
+currently.  Urology f/u as outpt
+
+5. Renal function - back to baseline.
+
+6.  Psychiatry
+Pt will be started back on fluoxetine and clozaril now that she
+is successfully extubated cont clozaril at 25mg/day and titrate
+up to 125 mg per psych with f/u .
+
+7.  Anemia - HCT stable. Will need a repeat diff as outpt.
+
+8. F/E/N - taking good clears now.  Encourage PO diet.  Has had
+some vomiting after drinking so monitor for signs of swallow
+dysfuncion s/p intubation. Repleted K+
+
+9. Dispo - home afebrile improved
+
+10. Full Code
+
+Medications on Admission:
+Prozac 40 mg po qd
+Clozaril 175 mg po qd
+
+Discharge Medications:
+1. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID
+(3 times a day) as needed for 2 weeks.
+Disp:*qs 1* Refills:*0*
+2. Fluoxetine HCl 20 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+3. Lidocaine HCl 2 % Solution Sig: Five (5) ML Mucous membrane
+TID (3 times a day) as needed: for motuh discomfort.
+Disp:*30 ML(s)* Refills:*0*
+4. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (

@@ -1,0 +1,206 @@
+Admission Date:  [**2123-9-27**]              Discharge Date:   [**2123-10-12**]
+
+Date of Birth:  [**2044-5-26**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Midazolam
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+s/p AVR(27mm CE pericardial valve)/CABGx3(LIMA->LAD, SVG->OM,
+Diag) [**2123-10-6**]
+
+
+History of Present Illness:
+79 year old man presented to emergency room at [**Hospital3 **]
+Hospital complaining of dyspnea, found to be in congestive heart
+failure. In ER had positive troponins. Echo revealed AS. PAtient
+also found to have new onset Atrial fibrillation.
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Hypothyroid
+Chronic Obstructive Pulmonary Disease
+Osteoarthritis-lft shoulder
+Lumbar disc disease
+bowel obstructions
+Transient ischemic attacks
+basal cell CA
+s/p corotid endaryterectomy
+s/p appendectomy
+s/p cholecysectomy
+s/p back surgery
+
+Social History:
+retired poultry farmer
+lives with son
+positive tobacco [**11-18**] pack per day, positive alchohol 6 beers per
+day
+
+
+Family History:
+many with heart problems
+
+Physical Exam:
+Admission
+VS T  HR 108 BP 127/58  RR 18  O2sat  Wt 107.8K
+Gen NAD well nourished
+HEENT L cea incision well healed. neck supple
+Chest CTA-bilat
+Heart Irreg-Irreg. 2/6 systolic murmur
+Abdm soft, NT/ND/+BS. well healed CCY incision
+Ext warm, trace pedal edema bilat. no variscosities. dopplerable
+pedal pulses
+
+Discharge
+VS T 98.7  HR 73  BP 103/52 RR 20  O2sat 93%-RA
+Gen NAD
+Neuro Alert, oriented to person-not time or place. MAE-follows
+commands
+Pulm rhonchorous with crackles at bases bilat
+CV irreg irreg, no murmur. Sternum stable, incision CDI.
+Abdm soft, NT/+BS
+Ext warm, 2+ pedal edema bilat
+GU foley gravity(failed to void foley replaced)
+
+
+Pertinent Results:
+[**2123-9-27**] 05:00PM   GLUCOSE-110* UREA N-15 CREAT-0.5 SODIUM-137
+POTASSIUM-3.8 CHLORIDE-97 TOTAL CO2-30 ANION GAP-14
+[**2123-9-27**] 05:00PM   ALT(SGPT)-37 AST(SGOT)-47* ALK PHOS-27*
+AMYLASE-73 TOT BILI-0.5 DIR BILI-0.2 INDIR BIL-0.3
+[**2123-9-27**] 05:00PM   ALBUMIN-3.2*
+[**2123-9-27**] 05:00PM   %HbA1c-6.2*
+[**2123-9-27**] 05:00PM   WBC-6.3 RBC-3.89* HGB-12.3* HCT-35.7* MCV-92
+MCH-31.6 MCHC-34.4 RDW-13.8
+[**2123-9-27**] 05:00PM   PLT COUNT-222
+[**2123-9-27**] 04:37PM   HGB-13.5* calcHCT-41 O2 SAT-97
+
+[**2123-10-12**] 04:30AM BLOOD WBC-10.2 RBC-2.67* Hgb-8.4* Hct-24.9*
+MCV-93 MCH-31.6 MCHC-33.9 RDW-14.5 Plt Ct-287
+[**2123-10-12**] 04:30AM BLOOD Plt Ct-287
+[**2123-10-12**] 04:30AM BLOOD PT-15.7* INR(PT)-1.4*
+[**2123-10-12**] 04:30AM BLOOD Glucose-135* UreaN-23* Creat-0.8 Na-135
+K-4.3 Cl-99 HCO3-29 AnGap-11
+
+[**Known lastname **],[**Known firstname 275**] P [**Medical Record Number 80196**] M  79  [**2044-5-26**]
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2123-10-10**]
+12:08 PM
+[**Hospital 93**] MEDICAL CONDITION:
+79 year old man s/p chest tube removal
+Final Report
+CLINICAL HISTORY: Chest tube removed. Evaluate for pneumothorax.
+
+The left chest tube has been removed. A small pneumothorax at
+the apex might be present, but film is somewhat underpenetrated.
+Atelectasis at the left base is again seen. The right lung
+remains clear.
+IMPRESSION: No significant pneumothorax following removal of
+left chest tube.
+DR. [**First Name11 (Name Pattern1) 3347**] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 5034**]
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname **], [**Known firstname 275**]       [**Hospital1 18**] [**Numeric Identifier 80197**] (Complete)
+Done [**2123-10-6**] at 11:07:39 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+[**Street Address(2) 15115**]
+[**Location (un) 15116**], [**Numeric Identifier 15117**]  Status: Inpatient DOB: [**2044-5-26**]
+Age (years): 79 M  Hgt (in):
+BP (mm Hg): 121/71  Wgt (lb):
+HR (bpm): 96  BSA (m2):
+Indication: intraop management
+ICD-9 Codes: 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2123-10-6**] at 11:07    Interpret MD: [**First Name8 (NamePattern2) 6506**] [**Name8 (MD) 6507**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3319**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW2-: Machine: 5
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Ejection Fraction:  30% to 35%  >= 55%
+Aorta - Annulus:  2.8 cm  <= 3.0 cm
+Aorta - Sinus Level:  *3.7 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  *3.1 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  *2.4 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *26 mm Hg  < 20 mm Hg
+Aortic Valve - LVOT diam:  2.8 cm
+Aortic Valve - Valve Area:  *0.8 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  1.0 m/sec
+Mitral Valve - E Wave deceleration time:  158 ms  140-250 ms
+Findings
+Aortic valve are was consistantly measure to be 0.8-0.9 cm2.
+Planimetered [**Location (un) 109**] was also consistantly measured to be <1 cm2.
+Due to moderate to severe systolic dysfunction a max gradient of
+27 mmHg could be measured.
+LEFT ATRIUM: Normal LA and RA cavity sizes.
+LEFT VENTRICLE: Normal LV wall thickness. Moderately depressed
+LVEF.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal ascending aorta diameter.
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Severe AS (AoVA
+<0.8cm2). Mild (1+) AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.
+Moderate mitral annular calcification. Mild thickening of mitral
+valve chordae. Mild (1+) MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Physiologic (normal) PR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: The patient was under general anesthesia
+throughout the procedure. No TEE related complications. Results
+Conclusions
+PREBYPASS
+1. The left atrium and right atrium are normal in cavity size.
+2. Left ventricular wall thicknesses are normal. Overall left
+ventricular systolic function is globally moderately depressed
+(LVEF= 35 %).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are three aortic valve leaflets. The aortic valve
+leaflets are moderately thickened. There is severe aortic valve
+stenosis (area <0.8cm2).
+5. The mitral valve leaflets are mildly thickened. There is no
+mitral valve prolapse. Mild (1+) mitral regurgitation is seen.
+6. There is no pericardial effusion.
+7. Dr. [**Last Name (STitle) **] was notified in person of the results on
+[**2123-10-6**] at 1030
+POSTBYPASS
+1. Patient is on epinephrine infusions.
+2. A well seated, well functioning bioprostetic valve is seen in
+the aortic position. Mean gradient is and peak gradient is .
+3. Left ventricular function (on epi) is good, EF 45%
+4. Initially off of bypass the mitral regurgitation was moderate
+but after epinephrine was started the MR dropped to mild.
+5. Aortic contours are smooth after decannulation.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+[**First Name8 (NamePattern2) 6506**] [**Name8 (MD) 6507**], MD, Interpreting physician
+
+
+
+Brief Hospital Course:
+Mr [**Known lastname 9966**] was admitted to [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1675**] [**Last Name (NamePattern1) **] from [**Hospital 6451**] Hospital where he ruled in for myocardial infarction,
+was found to have congestive heart failure and aortic stenosis.
+He was transfered here for cardiac catheterization which
+revealed nonobstructive left main disease and 3 vessel coronary
+disease as well as aortic stenosis. He was then referred to
+cardiac surgery. He was accepted for surgical intervention and
+on [**10-6**] was brought to the operating room by Dr [**Last Name (STitle) **]
+for aortic valve replacement and coronary artery bypass
+grafting. Please see the operative report for details, in
+summary he had: Aortic valve replacement with #27 [**Doctor Last Name **]
+preicardial valve and coronary artery bypass grafting x3 with
+left internal mammary to 

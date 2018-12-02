@@ -1,0 +1,223 @@
+Admission Date:  [**2157-9-19**]              Discharge Date:   [**2157-9-28**]
+
+Date of Birth:  [**2107-2-25**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+atrial fibrillation, failed medical therapy
+
+Major Surgical or Invasive Procedure:
+s/p Bilateral mini thoracotomy with pulmonary vein isolation
+using AtriCure Synergy system with resection of left atrial
+appendage.
+2. Electrophysiology study performed by Dr. [**First Name4 (NamePattern1) **]
+[**2157-9-21**]
+
+
+History of Present Illness:
+This 50 year old male with a history of atrial fibrillation was
+diagnosed in [**2154**] with congestive heart failure and
+cardiomyopathy. Symptoms are disabling for him and he has had
+recurrent episodes despite initial sinus rhythm.  His ejection
+fraction has ultimately improved to 50%, but he failed
+Flecainide/Dronedarone therapy and subsequently Multaq. He is
+currently on Flecanide and Toprol XL and has had one episode of
+fibrillation since [**Month (only) **], which lasted less than 12 hours. He is
+thus referred for evaluation for mini-Maze procedure.
+
+
+Past Medical History:
+paroxysmalatrial fibrillation
+hypertension
+cardiomyopathy
+
+
+Social History:
+Race: Caucasian
+Last Dental Exam: regular dental care
+Lives with: wife and 2 children
+Occupation: auto insurance appraiser, limo driver
+Tobacco: quit 25yrs. ago
+ETOH: 4/week
+
+
+Family History:
+Family History:non-contributory
+
+Physical Exam:
+Admission Physical Exam
+
+Pulse: 58 SR Resp: 16 O2 sat: 98%RA
+B/P  Right: 112/77   Left:
+Height:  6'3"   Weight: 225lb
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]
+Edema -no
+Varicosities -minor
+Neuro: Grossly intact  x
+Pulses:
+Femoral      Right: 2+  Left:2+
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) 167**]: 2+  Left:2+
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit        Right:    Left:
+
+
+Pertinent Results:
+[**2157-9-23**] 04:50AM BLOOD WBC-13.7* RBC-4.64 Hgb-14.3 Hct-41.4
+MCV-89 MCH-30.8 MCHC-34.5 RDW-13.0 Plt Ct-172
+[**2157-9-19**] 10:40PM BLOOD WBC-6.3 RBC-4.68 Hgb-14.7 Hct-40.3 MCV-86
+MCH-31.4 MCHC-36.5* RDW-13.2 Plt Ct-176
+[**2157-9-23**] 04:50AM BLOOD PT-13.0 INR(PT)-1.1
+[**2157-9-19**] 10:40PM BLOOD PT-13.5* PTT-29.8 INR(PT)-1.2*
+[**2157-9-23**] 04:50AM BLOOD Glucose-115* UreaN-12 Creat-0.8 Na-138
+K-3.7 Cl-104 HCO3-25 AnGap-13
+[**2157-9-19**] 10:40PM BLOOD Glucose-137* UreaN-18 Creat-1.0 Na-142
+K-3.5 Cl-106 HCO3-26 AnGap-14
+[**2157-9-19**] 10:40PM BLOOD ALT-18 AST-24 LD(LDH)-146 AlkPhos-76
+Amylase-33 TotBili-0.4
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 85136**] (Complete)
+Done [**2157-9-21**] at 12:35:47 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2107-2-25**]
+Age (years): 50 M  Hgt (in): 72
+BP (mm Hg): 105/67  Wgt (lb): 220
+HR (bpm): 78  BSA (m2): 2.22 m2
+Indication: Atrial fibrillation. Hypertension. Shortness of
+breath. Hx of cardiomyopathy of unknown origin. Intraoperative
+TEE for Bilateral mini MAZE procedure and left atrial appendage
+ligation.
+ICD-9 Codes: 425.4, 427.31, 786.05
+Test Information
+Date/Time: [**2157-9-21**] at 12:35    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 18397**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW1-: Machine: [**Doctor Last Name **] iE33
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  *6.2 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.8 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.9 cm
+Left Ventricle - Fractional Shortening:  0.33  >= 0.29
+Left Ventricle - Ejection Fraction:  60%  >= 55%
+Aorta - Annulus:  2.6 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.8 cm  <= 3.0 cm
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.3 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.3 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  6 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  4 mm Hg
+Aortic Valve - LVOT diam:  2.4 cm
+Mitral Valve - E Wave:  0.8 m/sec
+Mitral Valve - A Wave:  0.4 m/sec
+Mitral Valve - E/A ratio:  2.00
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. No spontaneous echo contrast
+in the body of the LA. Good (>20 cm/s) LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Bidirectional shunt across the
+interatrial septum at rest. Small secundum ASD.
+
+LEFT VENTRICLE: Normal LV wall thickness. Mildly dilated LV
+cavity. Normal regional LV systolic function. Overall normal
+LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending, transverse and descending thoracic
+aorta with no atherosclerotic plaque. Normal diameter of aorta
+at the sinus, ascending and arch levels.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Trivial MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+The left atrium is markedly dilated. No spontaneous echo
+contrast is seen in the body of the left atrium or left atrial
+appendage. There is a 0.5 cm mass that resembles a clot in the
+left atrium at the junction of the left atrial appendage and the
+coumadin ridge. 3D examination revealed this to be a fold of
+tissue arising from the wall of the atrium. Ejection velocities
+in the left atrial appendage was greater than 40 cm/sec. 3D
+examination performed by Dr [**First Name (STitle) 6507**] and confirmed as native
+tissue and not clot.
+
+A small secundum atrial septal defect is present.
+
+The left ventricular cavity is mildly dilated. Regional left
+ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%).
+
+Right ventricular chamber size and free wall motion are normal.
+
+The ascending, transverse and descending thoracic aorta are
+normal in diameter and free of atherosclerotic plaque . The
+diameters of aorta at the sinus, ascending and arch levels are
+normal.
+
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic regurgitation.
+
+Trivial mitral regurgitation is seen.
+
+Dr.[**Last Name (STitle) 914**] was notified in person of the results.
+
+Post procedure the left atrial appendage has been ligated.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 1509**] [**Name8 (MD) 1510**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2157-9-21**] 16:12
+
+
+?????? [**2150**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+On [**2157-9-20**] Mr.[**Known lastname **] [**Last Name (Titles) 1834**] preoperative testing including
+cardiac MRI and cardiac Cath. During catheterization, prior to
+sheath insertion, Mr.[**Known lastname **] had an asystolic episode for 20
+seconds treated with Atropine. Please refer to catheterization
+report for further details.
+
+On [**2157-9-21**] he was taken to the Operating Room and [**Year (4 digits) 1834**]
+bilateral thoracotomies for mini-MAZE procedures with ligation
+of the left atria

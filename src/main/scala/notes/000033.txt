@@ -1,0 +1,225 @@
+Admission Date:  [**2111-9-29**]              Discharge Date:   [**2111-10-5**]
+
+Date of Birth:  [**2050-1-9**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Ampicillin / Amoxicillin / Ativan
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+fatigue
+
+Major Surgical or Invasive Procedure:
+OP CABGx2(LIMA-LAD,SVG-OM)[**10-1**]
+
+
+History of Present Illness:
+61 yo M with 2 month decline in energy and malaise who was
+walking at home, unable to sleep and tripped/lost balance and
+fell against the bath tub and developed SOB. At OSH, Was found
+to have R ptx and rib fx. Was also found to have pulmonary edema
+with elevated trops.Had known CAD, uncerwent repeat cath which
+showed significant CAD. Tansferred to [**Hospital1 18**] for further eval.
+
+Past Medical History:
+Acute on Chronic systolic heart failure
+DM
+HTN
+[**Hospital1 18048**]
+ESRD - on HD (MWF) - last dialysis [**11-8**]; [**11-11**]
+Thrombectomy L arm fistula [**12-22**]
+Hypercholesterolemia
+GIB [**10-20**] in prepyloric area by EGD (? [**12-19**] NSAIDS)
+Gastritis [**12-22**] (EGD)
+Anemia
+Hip surgery [**6-21**] - on coumadin
+Prostate adenocarcinoma
+Chronic low back pain
+
+Social History:
+Occasional EtOH, No tobacco, No drugs
+
+
+Family History:
+Mother: [**Name (NI) 18048**]
+
+Physical Exam:
+Obese M in NAD
+Neuro A&O, forgetful train of though, wanders, grip strenth L
+[**3-21**], R [**2-19**] PERRL
+CV RRR 2/6 SEM
+Resp crackles thoughout Right, Left clear
+GI obese, soft/NT
+Right groin macerated/fungal infection
+
+
+Pertinent Results:
+[**2111-10-4**] 08:20AM BLOOD WBC-8.0 RBC-2.74* Hgb-8.4* Hct-24.9*
+MCV-91 MCH-30.5 MCHC-33.6 RDW-16.4* Plt Ct-130*
+[**2111-10-3**] 08:35AM BLOOD WBC-7.9 RBC-3.03* Hgb-9.4* Hct-27.5*
+MCV-91 MCH-31.1 MCHC-34.2 RDW-16.9* Plt Ct-127*
+[**2111-10-4**] 08:20AM BLOOD Plt Ct-130*
+[**2111-10-3**] 08:35AM BLOOD Plt Ct-127*
+[**2111-10-1**] 01:33PM BLOOD PT-19.9* PTT-39.1* INR(PT)-1.9*
+[**2111-10-4**] 08:20AM BLOOD Glucose-155* UreaN-38* Creat-6.8*#
+Na-129* K-4.4 Cl-89* HCO3-30 AnGap-14
+[**2111-10-3**] 08:35AM BLOOD Glucose-123* UreaN-22* Creat-5.2* Na-135
+K-4.2 Cl-92* HCO3-31 AnGap-16
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 21518**] (Complete)
+Done [**2111-10-1**] at 10:54:10 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2050-1-9**]
+Age (years): 61 M  Hgt (in): 70
+BP (mm Hg): 137/74  Wgt (lb): 235
+HR (bpm): 68  BSA (m2): 2.24 m2
+Indication: Intraoperative TEE for CABG
+ICD-9 Codes: 410.91, 440.0
+Test Information
+Date/Time: [**2111-10-1**] at 10:54    Interpret MD: [**Name6 (MD) 3892**]
+[**Name8 (MD) 3893**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5740**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW2-: Machine: 2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.9 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  40%  >= 55%
+Left Ventricle - Peak Resting LVOT gradient:  3 mm Hg  <= 10 mm
+Hg
+Aorta - Annulus:  2.3 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.4 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.4 cm  <= 3.0 cm
+Aorta - Ascending:  *3.6 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  *2.9 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.7 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  11 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  7 mm Hg
+Aortic Valve - LVOT pk vel:  0.[**Age over 90 **] m/sec
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *2.0 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Mild LA enlargement. No spontaneous echo contrast
+or thrombus in the LA/LAA or the RA/RAA. All four pulmonary
+veins identified and enter the left atrium.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Dynamic
+interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Mildly dilated LV cavity.
+Moderate regional LV systolic dysfunction. Mildly depressed
+LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Mildly dilated ascending aorta.
+Simple atheroma in aortic arch. Mildly dilated descending aorta.
+Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Moderately thickened
+aortic valve leaflets. No AS. Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-revascularization:
+1. The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler.
+2. There is mild symmetric left ventricular hypertrophy. The
+left ventricular cavity is mildly dilated. There is moderate to
+severe regional left ventricular systolic dysfunction of the
+inferior, septal and anterior walls. Overall left ventricular
+systolic function is mildly depressed (LVEF= 40 %).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are simple atheroma in the aortic arch. The descending
+thoracic aorta is mildly dilated. There are simple atheroma in
+the descending thoracic aorta.
+5. There are three aortic valve leaflets. The aortic valve
+leaflets are moderately thickened with focal calcification of
+left coronary cusp causing aorto sclerosis. There is no aortic
+valve stenosis. Trace aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. Trivial
+mitral regurgitation is seen.
+7. There is no pericardial effusion.
+
+Post revascularization:
+Pt on phenylephrine infusion in intrinsic sinus rhythm:
+1. Normal Rv function. LVEF 40%
+2. No new regional wall motion abnormalites, valves as listed
+pre-revascularization.
+3. Thoracic aortic contour is intact
+
+CHEST (PORTABLE AP)  [**2111-10-2**] 4:28 PM
+
+CHEST (PORTABLE AP)
+
+Reason: r/o ptx
+
+[**Hospital 93**] MEDICAL CONDITION:
+61 year old man s/p cabg and ct removal
+REASON FOR THIS EXAMINATION:
+r/o ptx
+HISTORY: Status post CABG with chest tube removal; to assess for
+pneumothorax.
+
+FINDINGS: In comparison with the study of [**9-21**], the endotracheal
+tube, Swan-Ganz catheter, and nasogastric tube have all been
+removed. Left chest tube has also been removed and there is no
+evidence of pneumothorax. There is probably some residual
+atelectatic change at the left base as well as in the right
+upper zone, both of which are decreasing.
+
+
+Brief Hospital Course:
+He was admitted to cardiac surgery. He was seen by renal to
+continue his HD. He was taken to the operating room on [**10-1**]
+where he underwent an OPCABG x 2. He was transferred to the ICU
+in critical but stable condition. He was given vancomycin
+perioperative prophylaxis as he was in house preoperatively. He
+was extubated the morning of POD #1. He continued on HD postop.
+He was transferred to the floor on POD #1. He was started on
+renagel per renal. He did well postoperatively and was ready for
+discharge to rehab on POD #4.
+
+Medications on Admission:
+crestor 40', colace 150", zoloft 100', lisinopril 40', norvasc
+10', asprin 81', thiamin 100', plavix 75', protonix 40', toprol
+xl 200', ambien 10', fola

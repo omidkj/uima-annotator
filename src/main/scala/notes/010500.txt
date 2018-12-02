@@ -1,0 +1,206 @@
+Admission Date:  [**2142-12-15**]              Discharge Date:   [**2143-1-11**]
+
+Date of Birth:  [**2092-6-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1136**]
+Chief Complaint:
+Fevers
+
+Major Surgical or Invasive Procedure:
+[**2142-12-26**]: Dental extraction x 12
+
+
+History of Present Illness:
+50-year-old male with history of atrial fibrillation, CAD, HTN,
+CHF, morbid obesity, recent pontine and cerebellar infarcts
+requiring prolonged surgical ICU hospitalization from
+[**Date range (1) 83576**] complicated by persistent fevers and leukocytosis,
+discharged [**12-13**] after trach and peg placement and on a course
+of linezolid for VRE isolated from peripheral line on [**12-9**].
+The patient was discharged to [**Hospital3 **], but presented to
+[**Hospital1 2025**] ED with a T of 105. BP 132/78. CXR was concerning for left
+sided pneumonia. He was empirically treated with 1 dose of
+tamiflu. Influenza swab reportedly negative from records, though
+unclear if this was done at rehab or at OSH. He already received
+his dose of linezolid and was transferred to [**Hospital1 18**] ED. He has
+been incontinent of stool over the past day.
+
+In the [**Hospital1 18**] ED, VS: T 103 BP 130/78 HR 84 RR 16 100% on RA.
+Neurology was consulted given his recent admission for multiple
+cerebral infarcts. They would favor complete infectious work up
+for his fevers, but have deferred LP for now, given his recent
+posterior fossa infarcts.
+
+He got a CT torso which was unrevealing. Head CT negative. He
+was pancultured, and given a dose of Meropenem, and Flagyl
+empirically for C diff. Vitals prior to transfer were: HR 104 T
+95 BP 132/100 RR 18 O2 99%.
+
+Currently, the patient is non communicative, which is apparently
+his baseline.
+
+ROS: Unable to complete.
+
+Past Medical History:
+-Multiple Pontine and Cerebellar infarcts
+-Atrial fibrillation
+-CAD s/p stent placement x6
+-HTN
+-CHF with diastolic dysfunction
+-morbid obesity
+-alcoholism with ?enlarged liver
+-DM (borderline - not on medications)
+-sleep apnea
+-R eye blindness since childhood
+PSH:
+-s/p stent placement (at [**Hospital3 2358**])
+-R CEA (at [**Hospital3 2358**])
+
+Social History:
+Long-standing alcoholic and smoker, daughter unable to quantify.
+
+Family History:
+HTN
+
+Physical Exam:
+(Per Admitting Resident)
+GENERAL: Trached, NAD. Does not respond to voice.
+HEENT: NCAT. PERRL. Neck supple. No LAD. Unable to assess
+posterior oropharynx as patient unable to follow commands.
+CARDIAC: RRR. No murmurs.
+LUNG: Coarse rhonchi bilaterally at bases. No wheezes.
+ABDOMEN: Obese. Soft, NT. ND. No masses. No rebound or guarding.
+
+EXT: WWP. No LE edema
+NEURO: Unresponsive to voice. [**Month (only) 116**] contract legs to pain.
+DERM: Fungal rash around beard.
+
+
+Pertinent Results:
+Admission Labs
+[**2142-12-14**] 10:08PM BLOOD WBC-13.2* RBC-3.69* Hgb-11.9* Hct-33.7*
+MCV-92 MCH-32.2* MCHC-35.2* RDW-14.7 Plt Ct-416
+[**2142-12-14**] 10:08PM BLOOD Neuts-69.5 Lymphs-21.2 Monos-7.8 Eos-0.5
+Baso-1.0
+[**2142-12-14**] 11:39PM BLOOD PT-29.8* PTT-41.8* INR(PT)-3.0*
+[**2142-12-14**] 10:08PM BLOOD Glucose-137* UreaN-23* Creat-1.0 Na-137
+K-4.4 Cl-100 HCO3-28 AnGap-13
+[**2142-12-15**] 06:57AM BLOOD ALT-59* AST-31 LD(LDH)-200 AlkPhos-50
+TotBili-1.0
+[**2142-12-14**] 10:08PM BLOOD Calcium-8.9 Phos-5.3* Mg-2.3
+[**2142-12-15**] 02:41AM BLOOD Type-ART Rates-[**12-27**] Tidal V-500 FiO2-100
+pO2-330* pCO2-46* pH-7.42 calTCO2-31* Base XS-5 AADO2-362 REQ
+O2-63 -ASSIST/CON Intubat-INTUBATED
+[**2142-12-14**] 11:28PM BLOOD Lactate-1.0
+
+Discharge Labs
+[**2143-1-11**] 06:25AM BLOOD WBC-11.8* RBC-3.37* Hgb-10.8* Hct-31.7*
+MCV-94 MCH-32.1* MCHC-34.1 RDW-15.9* Plt Ct-448*
+[**2143-1-11**] 06:25AM BLOOD PT-17.9* PTT-33.5 INR(PT)-1.6*
+[**2143-1-11**] 06:25AM BLOOD Glucose-105 UreaN-19 Creat-0.7 Na-131*
+K-5.2* Cl-93* HCO3-25 AnGap-18
+[**2143-1-11**] 06:25AM BLOOD Calcium-9.0 Phos-5.2* Mg-2.1
+
+Other Labs
+[**2142-12-26**] 05:45AM BLOOD Lipase-28
+[**2142-12-30**] 06:20AM BLOOD calTIBC-228* Ferritn-335 TRF-175*
+[**2143-1-9**] 06:25AM BLOOD Osmolal-275
+[**2142-12-26**] 05:45AM BLOOD Cortsol-15.4
+[**2142-12-27**] 04:24PM BLOOD freeCa-1.07*
+
+Urine Studies
+[**2142-12-14**] 10:08PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.035
+[**2142-12-14**] 10:08PM URINE Blood-TR Nitrite-NEG Protein-75
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-1 pH-5.0 Leuks-NEG
+[**2142-12-14**] 10:08PM URINE RBC-0-2 WBC-0-2 Bacteri-OCC Yeast-NONE
+Epi-0
+
+[**2143-1-7**] 10:22AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.025
+[**2143-1-7**] 10:22AM URINE Blood-SM Nitrite-NEG Protein-75
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-12* pH-7.0 Leuks-NEG
+[**2143-1-7**] 10:22AM URINE RBC-[**7-4**]* WBC-0-2 Bacteri-NONE Yeast-NONE
+Epi-0
+
+[**2143-1-8**] 06:43PM URINE Hours-RANDOM UreaN-596 Creat-46 Na-113
+[**2143-1-8**] 06:43PM URINE Osmolal-488
+
+Microbiology
+[**2143-1-7**] URINE CULTURE - Negative
+[**2143-1-6**] BLOOD CULTURE - Pending, NGTD
+[**2143-1-5**] STOOL - C.Diff Negative
+[**2143-1-5**] BLOOD CULTURE - Pending, NGTD
+[**2143-1-3**] STOOL - C.Diff Negative
+[**2143-1-1**] SPUTUM - STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA
+[**2143-1-1**] BLOOD CULTURE - Negative
+[**2143-1-1**] URINE CULTURE - Negative
+[**2142-12-31**] BLOOD CULTURE - Negative x 2
+[**2142-12-30**] BLOOD CULTURE - Negative
+[**2142-12-29**] BLOOD CULTURE - Negative
+[**2142-12-29**] URINE CULTURE - PROBABLE ENTEROCOCCUS. ~1000/ML.
+[**2142-12-25**] STOOL - C.Diff Negative
+[**2142-12-24**] STOOL - C.Diff Negative
+[**2142-12-24**] BLOOD CULTURE - Negative
+[**2142-12-23**] URINE CULTURE - Negative
+[**2142-12-23**] BLOOD CULTURE - Negative
+[**2142-12-21**] BLOOD CULTURE - Negative
+[**2142-12-20**] BLOOD CULTURE - Negative
+[**2142-12-18**] BRONCHOALVEOLAR LAVAGE CULTURE - Negative
+[**2142-12-18**] URINE CULTURE - Negative
+[**2142-12-18**] BLOOD CULTURE - Negative x 2
+[**2142-12-17**] CATHETER TIP - Negative
+[**2142-12-16**] BLOOD CULTURE - Negative x 3
+[**2142-12-15**] STOOL - C.Diff Negative
+[**2142-12-15**] BLOOD CULTURE - Negative
+[**2142-12-15**] URINE CULTURE - Negative
+[**2142-12-15**] STOOL - No Ova/Parasites; C.Diff Negative
+[**2142-12-14**] BLOOD CULTURE - Negative x 2
+
+Radiology
+CXR ([**2142-12-16**]) - Tracheostomy tube tip is at the thoracic inlet.
+Moderate-to-severe cardiomegaly is unchanged. There is
+mediastinal shifting towards the left side and increased opacity
+in the left lower lobe in the retrocardiac area suggesting
+worsening atelectasis in the left lower lobe with almost
+complete collapse. The right lung is grossly clear. There is no
+pneumothorax or enlarging pleural effusion. Right subclavian
+catheter tip is in the upper SVC. There is no pneumothorax.
+
+CT Head ([**2142-12-15**]) - IMPRESSION: No intracranial hemorrhage and
+pontine, cerebellar, and left frontal hypodensity consistent
+with old infarctions.
+
+CT Abdomen/Pelvis ([**2142-12-15**]) - IMPRESSION:
+1. No evidence of colitis or other etiology to explain diarrhea.
+
+2. Inadequately characterized small right adrenal nodule,
+unchanged from the comparison study and likely an adenoma.
+3. Dense left lower lobe consolidation, corresponding to the
+recent chest
+radiograph and progressed from the comparison study.
+4. Atherosclerotic disease.
+
+CT Chest ([**2142-12-15**]) - IMPRESSION:
+1. Airspace opacities noted at the bases bilaterally and
+dependently within the left upper lobe. Although these findings
+most likely represent atelectasis, aspiration or pneumonia
+cannot entirely be excluded. Clinical correlation is
+recommended.
+2. Several prominent mediastinal lymph nodes, unchanged from
+prior study and may be reactive in nature.
+2. Stable partially visualized 1.2 mm indeterminate right
+adrenal nodule. If not already performed, an MRI or dedicated
+adrenal CT may be obtained for further evaluation.
+
+TTE ([**2142-12-17**]) - IMPRESSION: poor technical quality due to
+patient's body habitus. Left ventricular function is mildly
+hypokinetic. The right ventricle is not well seen. No pathologic
+valvular abnormality seen. No vegetation or abscess seen (cannot
+exclude). Pulmonary artery systolic pressure could not be
+determined.
+
+TEE ([**2142-12-24**]) - IMPRESSION: No 

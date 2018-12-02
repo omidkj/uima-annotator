@@ -1,0 +1,210 @@
+Admission Date:  [**2163-8-15**]              Discharge Date:   [**2163-8-31**]
+
+
+Service: MED
+
+Allergies:
+Penicillins / Aspirin
+
+Attending:[**First Name3 (LF) 6114**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+nasogastric tube placement
+
+History of Present Illness:
+Ms. [**Known lastname 6357**] is an 88 year old woman with a past medical history
+significant for breast cancer, dementia (unknown etiology),
+coronary artery disease,chronic anemia, atrial fibrillation, and
+congestive heart failure who presented on [**2163-8-15**] with nausea,
+vomiting, abdominal pain and increased confusion at her nursing
+home. In the ED, she had a fever to 104.8, blood pressure 63/37,
+wbc 40, and was given vanco/flagyl/ceftriaxone per the MUST
+protocol. For hemodynamic instability, the patient was
+transferred to the MICU and required pressors for a period of
+time (levophed until [**8-17**], Dobutamine until [**8-18**], and Xigres
+until [**8-19**]) and had a nasogastric tube endoscopically placed due
+to hiatal hernia. She was found to have sepsis from a urinary
+source with 4/4 sets of blood cultures and urine culture
+positive for E.coli. She was started on IV ceftriaxone in the
+MICU. Chest x ray at the time was negative. She did not receive
+the Sinemet for her Parkinson's while in the MICU and was
+increasingly rigid while there.
+
+
+Past Medical History:
+Parkinson's disease
+breast cancer
+coronary artery disease
+dementia
+s/p splenectomy
+
+Social History:
+Lives at [**Hospital3 1186**] nursing home. Grandson and daughter
+involved in her care.
+
+Family History:
+Non contributory
+
+Physical Exam:
+weight=162 in bed (8 pound loss since admission)
+Tc 97.8 Tm 98.3
+BP 129/64;115-129/60-64
+HR 60
+RR 20
+O2 100% RA
+GEN: NAD, awake, oriented to self.
+HEENT anicteric, mucous membranes moist and intact, oropharynx
+clear
+Neck supple without adenopathy. No jugular venous distention.
+Lungs clear to auscultation bilaterally
+CV regular rate and rhythm with normal S1 and S2 without
+murmurs, rubs, or gallops.
+Abd soft, nontentder, nondistended, normoactive bowel sounds, no
+masses.
+Ext: Right upper extremity edematous. Bilateral lower extremity
+pitting edema [**12-24**]+ at ankles. Pedal pulses [**12-24**]+
+Neuro: alert, oriented to self, seldomly moves extremitie,
+little spontaneous speech, answers appropriately but sparsely or
+answers "I don't know" to  questions, + cogwheel rigidity in the
+upper extremites more than the lower extremities.
+
+
+Pertinent Results:
+[**2163-8-31**] 06:25AM BLOOD WBC-7.0 RBC-3.63* Hgb-10.2* Hct-32.0*
+MCV-88 MCH-28.1 MCHC-31.8 RDW-16.8* Plt Ct-362
+[**2163-8-31**] 06:25AM BLOOD Glucose-81 UreaN-9 Creat-0.5 Na-142 K-3.9
+Cl-104 HCO3-28 AnGap-1409/06/04 10:52AM BLOOD Calcium-8.8
+Phos-3.5 Mg-1.6
+[**2163-8-25**] 08:32PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.015
+Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG
+Urobiln-NEG pH-5.0 Leuks-SM  RBC-5* WBC-6* Bacteri-FEW
+Yeast-NONE Epi-<1 CaOxalX-RARE AmorphX-OCC Mucous-RARE
+[**2163-8-25**] 8:32 pm URINE CULTURE (Final [**2163-8-26**]):    NO GROWTH.
+[**2163-8-17**]  URINE CULTURE (Final [**2163-8-17**]):
+      ESCHERICHIA COLI.    10,000-100,000 ORGANISMS/ML..
+      GRAM POSITIVE RODS.    >100,000 ORGANISMS/ML.. UNABLE TO
+IDENTIFY FURTHER.
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+GENTAMICIN------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+[**2163-8-23**] 1:00 pm BLOOD CULTURE
+   AEROBIC BOTTLE (Final [**2163-8-29**]):    NO GROWTH.
+   ANAEROBIC BOTTLE (Final [**2163-8-29**]):    NO GROWTH.
+[**2163-8-15**] 3:58 pm BLOOD CULTURE
+AEROBIC BOTTLE (Final [**2163-8-18**]):
+      ESCHERICHIA COLI.
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+GENTAMICIN------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+ANAEROBIC BOTTLE (Final [**2163-8-19**]):
+     ESCHERICHIA COLI (sensitivities from aerobic bottle).
+     PROTEUS MIRABILIS sensitivities:
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+GENTAMICIN------------     4 S
+LEVOFLOXACIN----------     1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     2 S
+TRIMETHOPRIM/SULFA----   <=1 S
+[**2163-8-29**] Head CT w/o contrast: No evidence of acute intracranial
+hemorrhage or mass effect. Please note that MRI/MRA with
+diffusion weighted imaging would be more sensitive in evaluating
+for early infarction.
+
+[**2163-8-25**] Right Upper Extremity Venous Doppler U/S: No right upper
+extremity venous thrombosis.
+
+[**2163-8-16**] Echocardiogram:
+The left atrium is dilated. There is mild symmetric left
+ventricular
+hypertrophy. The left ventricular cavity size is normal. Due to
+suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded.
+Overall left ventricular systolic function is normal (LVEF>50%).
+Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve
+leaflets (3) are mildly thickened but not stenotic. The mitral
+valve leaflets
+are mildly thickened. There is no mitral valve prolapse. Mild to
+moderate
+([**12-24**]+) mitral regurgitation is seen. The tricuspid valve
+leaflets are mildly
+thickened. Moderate [2+] tricuspid regurgitation is seen. The
+tricuspid
+regurgitation jet is eccentric and may be underestimated. There
+is a moderate
+sized pericardial effusion. There are no echocardiographic signs
+of tamponade.
+No right atrial diastolic collapse is seen.  Compared with the
+findings of the prior report (tape unavailable for review)of [**2153-7-6**], mitral and tricuspid regurgitation are now evident.
+
+[**2163-8-15**] Abdominal CT W/WO contrast: 1) Large pericardial
+effusion. 2) Diverticulosis without diverticulitis.
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 6357**] is an 88 year old female with history of
+Parkinson's disease and associated dementia, also CHF, breast
+cancer, atrial fibrillation, who presented to the MICU where she
+was treated for urosepsis. She has history of dysphagia and
+aspiration risk requiring nectar thickened liquids at her
+nursing home and had worsened dysphagia this admission with
+likely aspiration pneumonia. Her mental status and dysphagia
+have improved over the hospital course as the patient's
+infection resolved and she was restarted on medical therapy for
+Parkinson's disease.  At discharge, she has no signs or symptoms
+of infection and appears to be at baseline mental status and
+swallowing ability of nectar thickened liquids is intact.
+
+Aspiration Pneumonia: The patient developed a low grade
+temperature and leukocytosis that was likely the result of
+aspiration pneumonia in setting of tube feedings.  The patient
+has been afebrile without increased WBCs for several days and
+has one day left on a course of flagyl 250mg daily.  Aspiration
+precautions and careful feeding per recommendations may help
+prevent future aspiration.  The head of the bed should remain
+elevated above 30 degrees at all times. Because the patient's
+swallowing function is compromised, she is at risk for repeat
+aspiration.
+
+Urosepsis: Urine and blood cultures 8/23 were positive for
+pan-sensitive E.coli and Proteus that was resistant to
+ampicillin. The patient completed a two week course of IV
+ceftriaxone. Surveillance urine and blood cultures have
+subsequently been negative.  Avoiding Foley catheter use is
+recommended if possible to decrease risk of future urinary tract
+infec

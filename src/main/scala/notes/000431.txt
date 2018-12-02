@@ -1,0 +1,101 @@
+Admission Date:  [**2179-7-16**]              Discharge Date:   [**2179-7-19**]
+
+Date of Birth:  [**2102-1-20**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1561**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+s/p Bronch and stent removal
+
+
+History of Present Illness:
+77M with tracheal malasia
+
+Past Medical History:
+COPD, home O2, TBM, OA, diverticulosis, nephrolithiasis, MRSA,
+asbestosis, GERD
+
+Social History:
+sormer insulation (asbestos) worker
+minimal smoking history
+
+
+Family History:
+none
+
+Physical Exam:
+AVSS
+Course with wheezes
+
+Pertinent Results:
+[**2179-7-16**] 08:11PM   TYPE-ART PO2-180* PCO2-57* PH-7.36 TOTAL
+CO2-34* BASE XS-5
+[**2179-7-16**] 08:11PM   O2 SAT-97
+[**2179-7-16**] 08:03PM   GLUCOSE-110* UREA N-14 CREAT-0.9 SODIUM-140
+POTASSIUM-4.4 CHLORIDE-100 TOTAL CO2-32 ANION GAP-12
+[**2179-7-16**] 08:03PM   CALCIUM-9.0 PHOSPHATE-4.5 MAGNESIUM-2.0
+[**2179-7-16**] 08:03PM   WBC-13.0*# RBC-3.79* HGB-11.6* HCT-34.5*
+MCV-91 MCH-30.5 MCHC-33.5 RDW-14.4
+[**2179-7-16**] 08:03PM   PLT COUNT-190
+
+Brief Hospital Course:
+Pt taken to OR for stent removal and clean out.
+Post op admitted to CSRU on vent.
+Kept on vent overnight and wean and extubated in AM.
+Diet advanced.
+CXR showed patent airways with minimal consolidation.
+
+Medications on Admission:
+Capsaicin
+Dilt
+Colace
+Nexium
+[**Doctor First Name **]
+Advair
+Xopenex
+Levofloxacin
+Lopressor
+Prednisone
+Spiriva
+Tylenol
+Codeine
+Guaifenesin
+
+
+Discharge Medications:
+1. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day
+for 2 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+As above
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+TBM
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Continue IS, coughing, and deep breathing.
+
+
+Followup Instructions:
+F/U with Dr. [**Last Name (STitle) **] in [**12-13**] wks
+F/U with Dr. [**Last Name (STitle) 952**] in 2 wks
+
+
+
+Completed by:[**0-0-0**]

@@ -1,0 +1,214 @@
+Admission Date:  [**2136-8-6**]              Discharge Date:   [**2136-8-13**]
+
+Date of Birth:  [**2098-7-30**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2136-8-6**] - Aortic Valve Replacement (29mm [**Company 1543**] Mosaic Porcine
+Valve). Talon sternal closure device.
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 37 yo male treated for Enterococcal endocarditis
+in [**2136-1-5**] who completed 6-week course of IV antibiotics in
+[**2136-2-5**]. Echocardiogram in [**2136-3-4**] showed 2+ AI without
+vegetations. Surgery delayed while he had dental work completed.
+Admission on [**4-8**] for fever and found to have K.oxytoca
+urinary tract infection and bacteremia. Discharged with planned
+4-week course of Bactrim which he has completed. A repeat TEE
+performed on [**2136-5-25**] showed a small vegetation on the aortic
+valve with no aortic valve
+abscess and severe (4+) AR with a dilated left ventricle. AVR
+was planned for [**2136-6-11**] but delayed again for recurrent UTI.
+Repeat urinalysis (on ciprofloxacin) was improved, and culture
+negative. He was Rx a 14-day course of ciprofloxacin ([**Date range (1) 45342**]);
+a repeat urinalysis on [**6-25**] was negative, culture demonstrating
+mixed flora. He now has been cleared by ID to proceed with
+aortic valve replacement surgery.
+
+Past Medical History:
+-Aortic valve enterococcal endocarditis with ampicillin
+sensitive E faecalis status post 14 days of ampicillin and
+gentamicin with an additional four weeks of ampicillin
+-Obesity
+-Right knee laceration in [**2135**] due to construction equipment
+-LLE crush trauma, subsequent lymphedema; [**2132**]
+-Thumb injury with surgical repair at age 17
+-Status post appendectomy at age 13
+-Sleep apnea
+
+Social History:
+He is unmarried and has no children.
+He works for a heavy machinery company and previous to his
+endocarditis in [**Month (only) 404**] was very physically active at his job.
+He denies tobacco, alcohol, and illicit drugs.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+151/54, 82, 20, 98% RA
+Height: 73 [**1-6**] "  Weight: 585lbs
+
+General: Morbidly obese male in no acute distress
+Skin: Dry [] intact []
+HEENT: PERRLA [X] EOMI [X]
+Neck:  Supple [X] Full ROM [X]
+Chest: Lungs clear bilaterally [X]
+Heart: RRR [X]  Irregular []  Murmur: [**3-9**] Diastolic murmur
+Abdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds
++
+[X]
+Extremities: Warm [X], well-perfused [X] Edema 2+ pitting edema
+Varicosities []
+Neuro: Grossly intact [X]
+Pulses:
+Femoral      Right: -  Left: -
+DP           Right: -  Left: -
+PT           [**Name (NI) 167**]: -  Left: -
+Radial       Right: 2  Left: 2
+
+Carotid Bruit        Right:  none  Left: none
+
+
+Pertinent Results:
+[**2136-8-13**] 04:51AM BLOOD WBC-7.0 RBC-4.13* Hgb-10.1* Hct-31.5*
+MCV-76* MCH-24.4* MCHC-32.1 RDW-14.0 Plt Ct-311
+[**2136-8-6**] 12:33PM BLOOD WBC-13.1*# RBC-4.18* Hgb-10.2* Hct-32.6*
+MCV-78* MCH-24.5* MCHC-31.4 RDW-14.4 Plt Ct-198
+[**2136-8-13**] 04:51AM BLOOD Plt Ct-311
+[**2136-8-6**] 12:33PM BLOOD PT-16.1* PTT-31.3 INR(PT)-1.4*
+[**2136-8-6**] 12:33PM BLOOD Fibrino-306
+[**2136-8-13**] 04:51AM BLOOD Glucose-99 UreaN-23* Creat-1.0 Na-135
+K-4.4 Cl-96 HCO3-32 AnGap-11
+[**2136-8-6**] 02:49PM BLOOD UreaN-14 Creat-0.8 Cl-107 HCO3-25
+[**2136-8-13**] 04:51AM BLOOD Calcium-9.0 Mg-2.2
+[**2136-8-12**] 06:52PM BLOOD Vanco-12.0
+
+Final Report
+REASON FOR EXAMINATION: Followup of the patient after aortic
+valve
+replacement.
+
+PA and lateral upright chest radiograph was compared to [**8-8**], [**2136**].
+
+There is no evidence of pleural effusion. There is no evidence
+of failure.
+There is no evidence of pneumothorax. Cardiomediastinal
+silhouette and
+sternotomy wires are intact. The left PICC line tip is at the
+level of lower
+SVC/cavoatrial junction.
+
+DR. [**First Name4 (NamePattern1) 2618**] [**Last Name (NamePattern1) 2619**]
+Approved: FRI [**2136-8-10**] 3:07 PM
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 92886**] (Complete)
+Done [**2136-8-6**] at 9:11:24 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2098-7-30**]
+Age (years): 38 M  Hgt (in): 76
+BP (mm Hg): 126/47  Wgt (lb): 530
+HR (bpm): 56  BSA (m2): 3.36 m2
+Indication: Intra-op TEE for AVR
+ICD-9 Codes: 424.90, 786.05, 424.1, 425.4
+Test Information
+Date/Time: [**2136-8-6**] at 09:11    Interpret MD: [**Name6 (MD) 928**]
+[**Name8 (MD) 929**], MD, MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW00-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  60% to 65%  >= 55%
+Aorta - Annulus:  2.7 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.5 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  *3.1 cm  <= 3.0 cm
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Aorta - Arch:  2.8 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.5 cm  <= 2.5 cm
+Aortic Valve - LVOT diam:  2.5 cm
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum. No
+ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Severely dilated LV cavity.
+Normal regional LV systolic function. Overall normal LVEF
+(>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal aortic arch diameter. Normal
+descending aorta diameter.
+
+AORTIC VALVE: Three aortic valve leaflets. Moderate-sized
+vegetation on aortic valve. No AS. Severe (4+) AR.
+
+MITRAL VALVE: Physiologic MR (within normal limits).
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+The post-bypass study was performed while the patient was
+receiving vasoactive infusions (see Conclusions for listing of
+medications).
+Conclusions
+PRE-BYPASS: No atrial septal defect is seen by 2D or color
+Doppler. There is mild symmetric left ventricular hypertrophy.
+The left ventricular cavity is severely dilated. Regional left
+ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>65%). Right ventricular
+chamber size and free wall motion are normal. There are three
+aortic valve leaflets. There is a moderate-sized vegetation on
+the aortic valve. There is no aortic valve stenosis. Severe (4+)
+aortic regurgitation is seen. Physiologic mitral regurgitation
+is seen (within normal limits). There is no pericardial
+effusion.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including A pacing and
+phenylephrine
+1. [**Hospital1 **]-ventricular function is preserved
+2. A bioprosthetic valve is wellseated in the Aortic position.
+Leaflets open well. No AI is seen. Mean gradient is 20 mm of hg
+at CI of 3.5 l/min/m2
+3. Other findings are unchanged
+4. Aortic contours appear intact post decannulation
+
+Dr. [**Last Name (STitle) 914**] was notified in person of the results
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 928**] [**Name8 (MD) 929**], MD, MD,
+Interpreting physician [**Last Name (NamePattern4) **] [**2136-8-6**] 13:02
+
+[**2136-8-6**] 10:48 am TISSUE      AORTIC VALVE VEGETATION.
+
+   GRAM STAIN (Final [**2136-8-6**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.

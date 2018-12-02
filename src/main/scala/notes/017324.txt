@@ -1,0 +1,224 @@
+Admission Date:  [**2158-5-30**]              Discharge Date:   [**2158-5-31**]
+
+Date of Birth:  [**2098-5-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Tetracycline Analogues / Codeine
+
+Attending:[**Last Name (NamePattern1) 495**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+ERCP with stenting
+
+
+History of Present Illness:
+The pt is a 60y/o F with PMH of COPD (O2 dependent) who was
+admitted to OSH on [**5-18**] with dyspnea and chest discomfort. She
+has a recent admission [**4-20**] for resp distress and was treated w/
+ceftazidime for Pseudomonas URI. She was then admitted on [**5-18**]
+with SOB, CP and abdominal pain. She was treated for a COPD
+exacerbation and is currently on a steroid taper. Additionally,
+she developed C. diff and was started on IV flagyl and Po
+vancomycin on the day of admission. During this hospitalization,
+she also underwent a laproscopic CCY given her abdominal pain.
+Her abdominal pain did not resolve, so she the thought was she
+had a bile leak. Therefore, a HIDA scan was performed which per
+reports suggested a bile leak, and she was sent to [**Hospital1 18**] for an
+ERCP. On ERCP was performed and did not show eveidence of bile
+leak but a stent was placed. The procedure was uncomplicated and
+she received a total of 2 L IVF during this time. She was
+tachypneic before the procedure by nursing reports, but after
+the procedure was increasingly tachypneic with increasing O2
+requirement with sats eventually in high 90s on 6L FM at the
+time of evaluation. She repots that she feel more SOB than her
+baseline, Denies CP, abdominal pain, fevers, chills. She does
+complain of some nause which was improved with zofran in the
+ERCP holding area.
+.
+ROS: Denies fevers, chills. Does have diarrhea and occasional
+abdominal and back pain.
+
+
+Past Medical History:
+COPD on 2 L home O2
+HTN
+Pulmonary HTN
+Gout
+PNA
+
+
+Social History:
+Lives with husband. Former [**Name2 (NI) 1818**], quit 13 years ago 30 pack
+year smoking history. No ETOH, no drugs. 1 son.
+
+
+
+Family History:
+Mother with [**Name2 (NI) 500**] cancer. Father with "lung problems"
+
+
+Physical Exam:
+Vitals: T 97.6 BP114/65 HR 108 RR 19 O2 sats 88% on 5 L
+General: Elderly female using accessory muscles to breath, able
+to speak 2 words at a time
+HEENT:MMM, OP clear
+Neck: No JVD
+CV: distant heart sounds
+Pulm:distant breath sounds, few end expiratory wheezes
+Abd: multiple ecchymoses, +BS, 2 small incisions intact with
+sutures, soft, NT/ND, palpable hematoma LLQ
+Ext:no edema, no calf tenderness
+Neuro: AAOx3, moves all 4 extremities
+
+
+Pertinent Results:
+[**2158-5-31**] 04:56AM BLOOD WBC-35.1* RBC-3.68* Hgb-10.5* Hct-32.4*
+MCV-88 MCH-28.6 MCHC-32.5 RDW-15.0 Plt Ct-347
+[**2158-5-30**] 10:18PM BLOOD WBC-46.3* RBC-4.27 Hgb-12.2 Hct-37.2
+MCV-87 MCH-28.5 MCHC-32.7 RDW-14.8 Plt Ct-410
+[**2158-5-30**] 10:18PM BLOOD Neuts-90* Bands-5 Lymphs-1* Monos-2 Eos-0
+Baso-0 Atyps-0 Metas-1* Myelos-1*
+[**2158-5-30**] 10:18PM BLOOD Hypochr-OCCASIONAL Anisocy-1+
+Poiklo-OCCASIONAL Macrocy-NORMAL Microcy-1+ Polychr-OCCASIONAL
+Schisto-OCCASIONAL Burr-2+ Tear Dr[**Last Name (STitle) 833**]
+[**2158-5-31**] 04:56AM BLOOD Plt Ct-347
+[**2158-5-30**] 10:18PM BLOOD Plt Smr-HIGH Plt Ct-410
+[**2158-5-30**] 10:18PM BLOOD PT-13.2 PTT-25.9 INR(PT)-1.1
+[**2158-5-31**] 04:56AM BLOOD Glucose-97 UreaN-13 Creat-0.4 Na-135
+K-3.5 Cl-108 HCO3-15* AnGap-16
+[**2158-5-30**] 10:18PM BLOOD Glucose-102 UreaN-12 Creat-0.4 Na-132*
+K-3.7 Cl-101 HCO3-16* AnGap-19
+[**2158-5-31**] 04:56AM BLOOD Albumin-2.0* Calcium-6.6* Phos-3.5
+Mg-1.4*
+[**2158-5-30**] 10:18PM BLOOD Calcium-7.7* Phos-4.2 Mg-1.6
+[**2158-5-30**] 10:20PM BLOOD Type-ART pO2-55* pCO2-40 pH-7.36
+calTCO2-24 Base XS--2 Intubat-NOT INTUBA
+
+CXR: Bilateral flattening of diaphragms with ? anterior bleb. No
+PNA or pulmonary edema
+
+Brief Hospital Course:
+60 yo female with COPD on home O2, pulmonary HTN, recent lap CCY
+and recently diagnosed C. diff transferred from [**Hospital 1263**] hospital
+for ERCP with worseing SOB and tachypnea
+
+# SOB/tachypnea: Most likely COPD exacerbation given recent
+steroid taper, poor air movement, and relatively unremarkable
+CXR. Also, consider aspiration peri-procedure, but less likely
+as no overt signs on CXR. This could be pulmonary edema as well
+given she received fluids during the procedure, but she does not
+appear to be volume overloaded on exam. Also, consider PE, but
+has been on DVT prophylaxis and no evidence of DVT. She was
+given albuterol and atrovent nebulizers, prednisone 60 mg POx1
+and her O2 was weaned to 3 L NC with O2 sats in the low 90s and
+RR in mid 20s. She was continued on prednisone 60 mg po QDAY x3
+days on transfer back to [**Hospital 1263**] hospital.
+
+# Abdominal pain s/p ERCP: Recent CCY. Sent here for ERCP.
+Uncomplicated procedure. Stent was placed.  Was kept NPO
+overnight, diet advanced at tolerated in AM. She was strted on
+ciprofloxacin in addition to flagyl for a 7 day course. She
+should have stent removal in 1 month.
+
+# Nausea/vomiting: Per her report this has been going on for
+some time. Could be secondary to pain meds, C. diff. She was
+continued on antiemetics.
+
+# Elevated WBC: Most likley secondary to C. diff. Currently
+afebrile and HD stable. Other possible sources are UTI or PNA,
+but CXR is unremarkable and UA only with pyuria.  She did have
+an abdominal procedure, but abdominal exam is benign. Also,
+consider steroids, but unlikely to raise WBC this high. She was
+continued on  Po vancomycin, IV flagyl, ciprofloxacin given
+instrumentation of biliary tree. Urine culture and final
+radiology read of CXR is pending at discharge.
+
+# C. diff: Her WBC were extremely elevated to 46 on admission,
+then down to 35 the following day woth a HCO3 of 15.  She was
+continued on Po vanco and IV flagyl given a 500 cc bolus plus NS
+at 150 cc/hr with UOP of 40-60 cc/hr.
+
+# HTN: Her antihypertensives were held overnight and can be
+restarted pending clnical stability.
+
+# FEN: She was NPO overnight. Now ADAT
+
+# PPX: PPI, SC heparin
+.
+# CODE: Full
+
+# Access: PIV
+
+# Contact: [**Name (NI) 4906**] [**Name (NI) **] [**Telephone/Fax (1) 78708**]
+
+
+
+
+Medications on Admission:
+Prednisone 10 mg Po qday (on taper)
+Multivitamin
+vicodin 2 tabs PRN pain
+Vancomycin 125 mg po Q6H (day 1 [**5-30**])
+Flagyl 500 mg IV qday (day 1 [**5-30**])
+Albuterol nebs
+Norvasc 5 mg po QDAY
+Atenolol 25 mg PO QDAY
+Colchicine 0.6 mg PO BID
+Colace 100 mg po BID
+Nexium 40 mg po qday
+Flovent 4 puffs [**Hospital1 **]
+Heparin 500 units SC TID
+Spiriva once daily
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day).
+2. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours).
+3. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+4. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+5. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+6. Fluticasone 110 mcg/Actuation Aerosol Sig: Four (4) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+7. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+8. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q2H (every 2 hours) as
+needed for shortness of breath or wheezing.
+9. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily) for 3 days.
+10. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO
+Q6H (every 6 hours) as needed for nausea.
+11. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 6 days.
+12. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets
+PO Q6H (every 6 hours) as needed for pain.
+13. Vancomycin 250 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours).
+14. Metronidazole in NaCl (Iso-os) 500 mg/100 mL Piggyback Sig:
+Five Hundred (500) mg Intravenous Q8H (every 8 hours).
+15. Ondansetron 4 mg IV Q8H:PRN nausea
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+1. COPD exacerbation
+2. ERCP for ? bile leak
+3. C. difficile
+
+
+Discharge Condition:
+HD stable, O2 sats 91-93% on 3 L NC
+
+
+Discharge Instructions:
+Patient is being transferred back to [

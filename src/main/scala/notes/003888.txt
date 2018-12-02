@@ -1,0 +1,199 @@
+Admission Date:  [**2120-6-20**]              Discharge Date:   [**2120-6-24**]
+
+Date of Birth:  [**2046-10-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Iodine; Iodine Containing / Imdur / Lisinopril
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+unresponsiveness/s/p cardiac arrest
+
+Major Surgical or Invasive Procedure:
+intubation
+therapeutic hypothermia protocol
+
+History of Present Illness:
+73M with h/o severe cardiomyopathy (EF [**9-19**]) s/p biV/ICD
+([**2115**]),  afib on coumadin and dig, rheumatic heart disease s/p
+mitral valve repair in [**2109**] with residual 3+ MR, CRI, h/o CVA,
+who was found unresponsive on park bench s/p cardiac arrest and
+loss of pulse during EMS transport on way to [**Hospital1 18**] ED.
+.
+Complex story pieced together with family report, ED records,
+OMR, and info from ICD interrogation. Per OMR note, patient had
+increasing LE edema since 6 days PTA, called Dr. [**First Name (STitle) 437**] and was
+told to restart lasix 20mg [**Hospital1 **]. Per family report, patient had
+not been feeling well for 2 days PTA with fatigue, vague
+symptoms. On AM of admission, pt had ICD firing for sensed VT at
+11am with LOC prior to shock, with  episode of incontinence. Pt
+called Dr. [**First Name (STitle) 437**] at 2pm who thought that patient may be
+hypokalemic, told to take 40meq KCL with planned f/u in [**Hospital 3782**]
+clinic. Patient then went to park to meet friends with possible
+marijuana use (?laced with cocaine) and was found unresponsive
+on park bench for unknown amt of time and EMS called.
+.
+No EMS records, but per ED report, pt had loss of pulse in
+transport, was given seconds of chest compressions, and on
+arrival in ED at 5:20pm, was in pulseless wide complex
+tachycardia concerning for polymorphic VT. CPR commenced and pt
+given epi 1mg x 1, atropine 1mg x 1, and intubated (initial gas
+7/16/32/189), femoral line placed. During course in ED, patient
+went in and out of pulseless VT/WCT (loss of pulse for minutes
+at a time) requiring intermittent shocks by ICD (x 5 shocks per
+ICD interrogation between 4:46pm and 5:39pm), external
+defibrillation, and medications (amiodarone, epi, vasopressin,
+atropine). When regained pulse, pt hypotensive (SBP 36-67/26-29)
+so pt started on Neosynephrine and Levophed. Labs significant
+for INR 4.4, Hct 28.2, Cr 1.2, K 2.8. Given 30mg IV KCL, 2mg Mag
+sulfate, and given Hct drop from b/l of 32-35, sent for CT head
+for concern of bleed in setting of elevated INR. Wet read of CT
+head with no bleed, mass effect, or shift. Also given 4amps of
+Digibind after labs drawn. Patient lost pulse while down at CT
+scan, required one round of epi/atropine/CPR and regained pulse
+after 3 min, and was sent up to CCU directly on Neosynephrine at
+4.8 and Levophed at 2.6.
+.
+On arrival to CCU, patient was intubated, sedated with fentanyl
+and versed. Met with family for update, identification, and
+confirmed full code. Overnight, Arctic sun cooling protocol
+initiated, reached goal temperature at 8:30pm. Started on
+dopamine, levophed and neosynephrine weaned off. ICD
+interrogated showing 6 episodes of ATP/shock for sensed VT/VF.
+Bedside ECHO done showing no large change from prior. ECG showed
+v-pacing and resolution of global WCT in limb leads, continued
+to have ACT in precordial leads with changed morphology from old
+ECG. Repeat ABG was 7/22/45/70, PEEP increased to 10. Cr
+increased from 1.2-> 1.9, INR decreased to 3.3, K was 5, lactate
+was 5.6. Given 20mg IV lasix with no response, then 40mg IV x 1
+for volume overload by exam, CXR, no UOP ->50cc urine output.
+BNP [**Numeric Identifier **]. Cardiac arrest team notified, patient enrolled in IV
+steroid clinical trial with family consent.
+.
+Unable to obtain review of systems as patient unresponsive. Per
+OMR, patient with recent increase in LE edema.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS:
+(-)Diabetes, (-)Dyslipidemia, (-)Hypertension
+2. CARDIAC HISTORY:
+-severe dilated cardiomyopathy w/ valvular heart dz, LVEF
+10-15%,
+-rheumatic heart dz
+-s/p mitral valve repair in [**2109**] with residual moderate MR
+[**Name13 (STitle) **] on Coumadin, status post cardioversion in the past, but in
+afib recently (Recent INR 1.5-2.8)
+-mild renal insufficiency (Cr baseline is 1.2-1.6)
+-hx of CVA.
+-PACING/ICD:  BiV ICD placed in [**2115**]
+
+Social History:
+-Tobacco history:  none
+-ETOH: Alcohol abuse until 25 years ago
+-Illicit drugs:  + marijuana currently
+
+Family History:
+NC
+
+Physical Exam:
+VS: T= 94.6 BP=82/63 - 108/67 HR=72 - 91 Sat: 95-100%,
+AC(550/20/10/100%)
+GENERAL: Pt intubated. Sedated.
+HEENT: Sclera anicteric. Pupuls 7mm bilaterally, PERRL.
+NECK: Supple with JVP of 16cm.
+CARDIAC: Heart sounds soft and difficult to hear with
+ventilator. Irregular with no murmur/rubs/gallops appreciated
+LUNGS: Course breath sounds anterior lung fields, no
+rhonchi/crackles. Unable to assess lower lobes given
+positioning.
+ABDOMEN: Difficult to assess given cool suit. Soft, ND.
+EXTREMITIES: 1+ dependent lower extremity edema. No
+clubbing/cyanosis appreciated. Distal extremities cool to touch.
+
+SKIN: Hematoma right arm. No other rashes, bruising appreciated.
+
+PULSES:
+R: Diminished Radial, DP, PT
+L: Diminished Radial, DP, PT
+Neuro: Pupils 7mm equal and reactive to light. Increased tone in
+bilateral upper and lower extremity. Unable to illicit patellar,
+tricep, or bicep reflex. Bilateral upgoing toes.
+
+
+Pertinent Results:
+EKG: Multiple EKGs, 1723 - 1745 in ED. Rate ranged from 83 - 150
+highly irregular polymorphic wide complex tachycardia. With
+pacer spike occasionally prior to QRS complex and occasionally
+within QRS complex. Multiple QRS morphology. EKG from 1744,
+shows possible concordance in precordial leads. [**2043**] on arrival
+to CCU, EKG compared to prior EKG prior negative deflection in
+V3 now positive.
+.
+2D-ECHOCARDIOGRAM: [**8-11**]
+1.The left atrium is moderately dilated. The left atrium is
+elongated. The right atrium is moderately dilated.
+2.There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity is severely dilated. There is severe global
+left ventricular hypokinesis. Resting regional wall motion
+abnormalities include akinesis of the mid and distal septum, mid
+and distal inferior wall and apex. The remaining segments are
+severely hypokinetic. The remaining left ventricular segments
+are hypokinetic.
+3. Right ventricular systolic function appears depressed. There
+is an echogenic density in the RV consistent with a pacemaker
+lead.
+4.The aortic root is mildly dilated. The ascending aorta is
+mildly dilated. The aortic arch is mildly dilated.
+5.The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic regurgitation. 6.The mitral
+valve leaflets are mildly thickened. Moderate to severe (3+)
+mitral regurgitation is seen. The left ventricular inflow
+pattern suggests a restrictive filling abnormality, with
+elevated left atrial pressure.
+7.There is mild pulmonary artery systolic hypertension.
+8.There is no pericardial effusion.
+
+.
+ETT:  [**2120-4-11**]
+Negative dipyridamole stress test
+.
+CARDIAC CATH:  [**6-8**]
+  1. Selective coronary angiography showed a right dominant
+system
+without evidence for angiographically significant stenoses.
+  2. Limited resting hemodynamics revealed moderate pulmonary
+hypertension (PA mean 39 mmHg). The right and left sided filling
+
+pressures were elevated (RA mean 18 mmHg, RVEDP 20 mmHg, PCW
+mean 24
+mmHg). Cardiac output and index were reduced (CO 3.5 l/min, CI
+1.7
+l/min/m2).
+FINAL DIAGNOSIS:
+1. Coronary arteries are normal.
+2. Elevated left and right sided filling pressures
+3. Moderate pulmonary hypertension.
+.
+LABS ON ADMISSION:
+Initial labs in ED:
+ 3.1\_8.4_/100
+    / 28.2\
+ABG: 7.16/32/189/12   ( initial ABG after intubation)
+.
+K: 3.1 BUN: 22  Cr: 1.2
+.
+PT/PTT/INR: 41.3/51.5/4.4
+Fibrinogen: 146
+Lip: 34
+
+MOST RECENT LABS:
+[**2120-6-23**] 03:54AM BLOOD WBC-11.0 RBC-3.49* Hgb-9.5* Hct-30.9*
+MCV-89 MCH-27.2 MCHC-30.8* RDW-17.6* Plt Ct-133*
+[**2120-6-23**] 03:54AM BLOOD Plt Ct-133*
+[**2120-6-23**] 03:54AM BLOOD PT-31.0* PTT-40.9* INR(PT)-3.1*
+[**2120-6-23**] 03:54AM BLOOD FDP-80-160*
+[**2120-6-22**] 08:00PM BLOOD FDP-10-40*
+[**2120-6-23**] 03:54AM BLOOD Gl

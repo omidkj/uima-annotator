@@ -1,0 +1,189 @@
+Admission Date:  [**2132-12-15**]              Discharge Date:   [**2132-12-19**]
+
+Date of Birth:  [**2063-10-15**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Penicillins / Tetracyclines / Erythromycin Base /
+Ciprofloxacin
+
+Attending:[**First Name3 (LF) 5810**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+Central line
+PICC line
+
+
+History of Present Illness:
+Mr. [**First Name4 (NamePattern1) **] [**Known lastname 13469**] is a 69yo gentleman known to the hospital
+medicine and ICU team who was recently admitted with weakness
+and aspiration and who now presents with hypotension.
+
+Mr. [**Known lastname 13469**] was admitted [**Date range (1) 63728**] with c/o weakness.  During
+that admission, he briefly stayed in the ICU overnight for
+concern of pneumonia, which resolved quickly and was therefore
+felt to represent aspiration pneumonitis.  A Chest CT done
+immediately after his ICU stay documented resolution of his left
+lower lobe consolidation but persistent atelectasis and
+bronchiectasis consistent with recurrent aspiration.
+
+He was discharged on [**12-14**] but states that he was not feeling
+well at the time he left the hospital.  He went to his shelter
+at [**Hospital1 **] and noted that he was feeling weak and lightheaded.
+He reports having a poor appetite but eating yoghurt and taking
+in fluids nonetheless.  He states that as part of his intake at
+[**Hospital1 **], his blood pressure was checked and was found to be
+"very low."  He was therefore sent to the ED for evaluation.
+
+In the ED, initial VS were:  97.0   50/37   58   16   99% RA.
+He was alert and oriented and reported chest pain to some but
+not all of his examiners.  Labs revealed Na 131, K 5.3 with
+BUN/Cr of 37/4.0 and an anion gap of 16.  Lactate was elevated
+at 2.4.  A FAST ultrasound was negative for bleed and CXR did
+not show infiltrate.  He was given 2g of calcium gluconate and
+6L of IVF and a subclavian line was placed.  He was making
+urine.  He was given 10mg of IV decadron for concern of adrenal
+insufficiency.  While he was in the ED, he denied suicidality or
+ingestion of pills, even after he was seen in his room with an
+open bottle of colace spilled in front of him.  He was started
+on dopamine just prior to being sent to the ICU.
+
+Upon arrival to the ICU, he was resting comfortably in bed and
+asking for ginger ale.  He denied chest pain.  He stated he had
+had an episode of non-bloody emesis en route to the ICU,
+although this was not reported by the staff who transferred him.
+ He also denied suicidality or medication overdose.
+
+REVIEW OF SYSTEMS:
+(+)ve:  rinorrhea, sinus congestion, cough that had been
+productive of green sputum but is now improving, myalgias, sore
+throat, nausea, vomiting as above, diffuse abdominal pain,
+thirst, shaking chills in hospital yesterday.  +Poor vision [**2-4**]
+right cataract
+(-)ve: fever, night sweats, chest pain, palpitations,
+hemoptysis, dyspnea, orthopnea, paroxysmal nocturnal dyspnea,
+diarrhea, constipation, hematochezia, melena, dysuria, urinary
+frequency, urinary urgency, focal numbness, focal weakness,
+arthralgias
+
+Past Medical History:
+1. Seizure history - variably described as "[**Doctor Last Name 11332**] mal" or
+"tonic-clonic" with bilateral arm shaking, no LOC.  Was on
+Trileptal in the past, but developed hyponatremia, now on
+Keppra. Followed by Dr. [**First Name (STitle) 3322**] [**Name (STitle) **]. EEG negative 2/[**2132**].
+2. Headaches - usually on left, radiating done back, sometimes
+involving left face. Has been on narcotic meds for this.
+3. Type II DM - A1C 7.7% in [**2132-11-2**]
+4. Peripheral neuropathy
+5. Hypertension
+6. Dyslipidemia
+7. Diastolic Dysfunction (EF 60-70% on recent echo with LVH)
+8. GERD
+9. Depression/Anxiety
+10. Lumbar spinal stenosis w/ history C3/C7 fractures
+11. Degenerative joint disease
+12. Neurogenic bladder
+13. s/p left cataract surgery
+[**37**]. Vitamin B12 deficiency
+15. Atypical chest pain (last MIBI negative [**3-10**])
+16. h/o Hyponatremia, which resolved in fall [**2130**]
+17. h/o multiple falls due to multifactorial gait ataxia, also
+followed by Dr. [**First Name (STitle) 3322**] [**Name (STitle) **]
+18. 8-mm thecal mass, stable over several years, consistent with
+
+nerve sheath tumor.
+19. Likely prior left temporal infarct (per atrophy on head MRI)
+20. Multiple admissions to [**Hospital1 18**] (almost 20 this year), for
+chest pain, hypotension with ARF, or aspiration.  Had very
+similar presentation [**2132-8-15**] with ARF and hypotension
+21. Per prior records, has a h/o hoarding medications in the
+hospital and then surreptitiously overdosing while in house
+
+Social History:
+Pt has been living on the street for the last several months.
+Was engaged to a woman many years ago but broke it off. He
+states he had many relationships, and used to be bisexual. Now
+he is "celibate" since becoming a priest and is not in any
+relationship.  College graduate. Worked on Masters. Attended
+nursing school.  uddhist priest x 25 years.  Was working to
+counsel AIDS patients prior to becoming homeless.  No social
+supports in [**Location (un) 86**], but has a sister in [**Name (NI) **] with whom he is in
+contact.
+
+Lately, he has been living at the [**Hospital1 **], where he feels safe.
+ He has a case manager by the name of [**Male First Name (un) 19679**] who is helping to
+find an apartment for him.
+
+Per prior notes, pt has a history of sexual abuse by his
+father's brother at age [**6-8**]. Never told anybody, no treatment.
+Was also physically abused by his father growing up.
+
+Smoked for 3 years in college.  Denies alcohol or drug use.
+
+Family History:
+Mother died of esophageal cancer, ?EtOH abuse and depression.
+Father died suddenly of heart attack.
+Multiple family members with CAD including father, sister [**Name (NI) **] at
+
+58 yo), all 4 grandparents
+Type 2 DM (paternal grandfather)
+
+Physical Exam:
+VS:   96.5   95/47   82   17   98% RA
+GENERAL: Pleasant, well appearing man in NAD
+HEENT:  Some well-healed scars on face. No conjunctival pallor.
+No scleral icterus.  Left surgical pupil.  Right pupil is small
+but reactive.  Mucous membranes dry. OP clear. Neck Supple, No
+LAD, No thyromegaly.
+CARDIAC: Regular, but borderline bradycardia in low 60s. Normal
+S1, S2. No murmurs, no friction rub.
+LUNGS: Good air movement but has coarse crackles at b/l bases
+and some expiratory wheezes.
+ABDOMEN: NABS. Soft, NT, ND. No HSM
+EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis pulses.
+SKIN: No rashes/lesions, ecchymoses.
+NEURO: A&Ox3. Appropriate. CN 2-12 intact apart from left
+surgical pupil. Preserved sensation throughout.  4+/5 in
+proximal LUE but otherwise strength is [**5-6**] throughout (pt
+reports this is chronic from "neuropathy").  +Asterixis.  Gait
+assessment deferred
+PSYCH: Listens and responds to questions appropriately, pleasant
+
+Pertinent Results:
+Admission Labs:
+[**2132-12-15**] 01:00PM   WBC-11.8* RBC-4.60 HGB-11.6* HCT-37.0*
+MCV-80* MCH-25.2* MCHC-31.3 RDW-14.8
+[**2132-12-15**] 01:00PM   PLT COUNT-349
+[**2132-12-15**] 01:00PM   GLUCOSE-226* UREA N-37* CREAT-4.0*#
+SODIUM-131* POTASSIUM-5.3* CHLORIDE-94* TOTAL CO2-21* ANION
+GAP-21*
+[**2132-12-15**] 01:00PM   PT-12.4 PTT-24.3 INR(PT)-1.0
+[**2132-12-15**] 01:00PM   cTropnT-0.04*
+[**2132-12-15**] 01:05PM   LACTATE-2.4*
+[**2132-12-15**] 02:30PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2132-12-15**] 04:38PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+
+Studies:
+
+[**2132-12-15**] Normal sinus rhythm. Tracing is within normal limits.
+
+[**2132-12-15**] CXR: Persistent vague opacity in the left lower lung
+likely represents atelectasis or pneumonia.
+
+[**2132-12-15**] CXR: 1. Left subclavian catheter terminates at upper
+SVC without pneumothorax.  2. Vague increase in left lung base
+opacity may represent atelectasis vs pneumonia.
+
+
+Brief Hospital Course:
+69 year old gentleman with recurrent admissions for hypotension
++/- renal failure and aspiration presented with hypotension,
+bradycardia and acute renal failure, which is thought to be due
+to beta blocker and ACE inhibitor over dose.
+
+#. Hypotension: He presented with hypotension felt to be relate

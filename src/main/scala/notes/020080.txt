@@ -1,0 +1,126 @@
+Admission Date:  [**2125-4-17**]              Discharge Date:   [**2125-4-17**]
+
+Date of Birth:  [**2058-3-23**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 4691**]
+Chief Complaint:
+Unwitnessed fall
+
+Major Surgical or Invasive Procedure:
+[**2125-4-17**]: Exploratory laparotomy
+
+History of Present Illness:
+This is a 67 yo M transferred from OSH s/p fall with dislocation
+of L hip. The patient was down for an unknown amount of time and
+was found to have a CK of [**Numeric Identifier 389**] at the OSH with a K of 7 and
+increased Scr. He was also found to have a mottled RUE and RLE.
+On arrival to [**Hospital1 18**] the patient was also complaining of
+abdominal pain, mainly in his LLQ. He then became progressively
+hypotensive and ultimately unresponsive and was intubated by the
+ED staff. A the time of examination the patient is sedated but
+responds to pain and exhibits guarding on his abdominal exam.
+History is obtained from the ED staff and OSH records. His next
+of [**Doctor First Name **] is his wife who is currently hospitalized at an OSH for
+rhabdo following a fall and is a poor historian.
+
+Past Medical History:
+DM, otherwise unknown
+
+Past Surgical History:
+? open appendectomy, otherwise unknown
+
+Social History:
+Unknown
+
+Family History:
+Unknown
+
+Physical Exam:
+On admission:
+Vitals: 98.7 116 114/81 22 100 CMV 40% 500 X22 5
+GEN: Intubated, sedated
+HEENT: No scleral icterus, mucus membranes moist
+CV: tachycardic
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, mildly distended, TTP diffusely with guarding
+Ext: Cyanosis RUE distal phalanges, dopplerable radial pulse.
+Cyanosis of RLE distal phalanges, dopplerable PT/DP
+
+Pertinent Results:
+[**2125-4-17**] 12:23AM BLOOD WBC-18.3* RBC-5.07 Hgb-13.5* Hct-45.2
+MCV-89 MCH-26.7* MCHC-29.9* RDW-14.2 Plt Ct-233
+[**2125-4-17**] 12:23AM BLOOD PT-16.7* PTT-32.6 INR(PT)-1.6*
+[**2125-4-17**] 12:23AM BLOOD Glucose-444* UreaN-96* Creat-4.8* Na-14
+2 K-6.0* Cl-103 HCO3-13* AnGap-32*
+[**2125-4-17**] 12:23AM BLOOD ALT-1686* AST-2809* CK(CPK)-[**Numeric Identifier 15841**]*
+AlkPhos-137* TotBili-1.3
+[**2125-4-17**] 12:59AM BLOOD Type-ART Temp-39.2 Rates-/18 Tidal V-500
+PEEP-5 FiO2-100 pO2-524* pCO2-45 pH-7.17* calTCO2-17* Base
+XS--11 AADO2-154 REQ O2-35 Intubat-INTUBATED
+
+OSH Pelvix XRAY: Dislocation of the left hip
+
+CT abdomen/pelvis:
+1.  Malplaced central venous catheter with its tip likely
+interarterial at the aortic arch.  This finding was urgently
+discussed with Dr. [**Last Name (STitle) **] in person upon discovery at 2:10
+a.m.
+2.  Extensive ischemic bowel affecting the majority of the
+ileum, and probably also of the distal jejunum with associated
+portal venous gas.
+3.  Heterogeneous appearance of the liver likely reflects
+ischemia.
+4.  Delayed renal excretion of contrast, consistent with acute
+kidney injury.
+
+Brief Hospital Course:
+Patient was emergently evaluated by Acute Care Surgery, Hand
+Surgery, and Vascular Surgery in the operating room. He was
+profoundly dehydrated with a CK of 85,000 on admission
+consistent with rhabomyolysis from having collapsed at home and
+unable to move for approximately 24 hours. Patient was also
+profoundly acidemic with severe renal failure. CT revealed
+significant bowel ischemia and patient was taken to the OR
+emergently for exploration. Upon laparotomy, the entire small
+bowel and colon appeared necrosed and dead. There was no viable
+tissue to preserve. The abdomen was closed. The patient's wife
+was called and informed of the unfortunate outcome and that this
+finding was incompatible with life and irreversible. She elected
+to redirect care toward comfort measures. Patient was started on
+a fentanyl drip and brought to the ICU. He was extubated at
+10:15 am and expired at 10:40 am.
+
+Medications on Admission:
+Insulin, albuterol, fluticasone-salmeterol, clonazepam
+
+Discharge Medications:
+NA
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Left hip dislocation
+Rhabdomyolysis
+Acute Renal Failure
+Small bowel necrosis
+Colon necrosis
+Respiratory failure
+Sepsis
+
+Discharge Condition:
+Death
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+
+Completed by:[**2125-4-17**]

@@ -1,0 +1,48 @@
+Admission Date:  [**2114-2-4**]       Discharge Date:  [**2114-2-15**]
+
+
+Service:
+
+The patient is going home on [**2114-2-15**] to rehabilitation.
+Chest x-ray yesterday on [**2114-2-14**] showed that her pleural
+effusion was much improved on the Lasix.  She has been deemed
+by PT to warrant rehabilitation.  The patient is being
+discharged with the following examination:  Sternum is clear,
+no discharge noted whatsoever.  The patient is breathing
+comfortably.  She has a tissue valve requiring
+anticoagulation.  Lung examination has breath sounds on the
+left and right.  The left still had slightly diminished
+sounds, but improved from previous physical examination, in
+fact, correlated by the chest x-ray.  The patient is being
+discharged to rehabilitation on the following:
+
+DISCHARGE MEDICATIONS:
+1.  Lasix 20 mg p.o.b.i.d. times a week.
+2.  [**First Name5 (NamePattern1) 233**] [**Last Name (NamePattern1) 1002**] 20 mEq p.o.b.i.d. while on Lasix.
+3.  Colace 100 mg p.o.b.i.d.
+4.  Ranitidine 150 mg p.o.b.i.d.
+5.  Aspirin 325 mg q.d.
+6.  Amiodarone 400 mg p.o.b.i.d. times one week, then q.d.
+7.  Lopressor 12.5 mg p.o.b.i.d.
+8.  Captopril 12.5 mg p.o.t.i.d.
+9.  Percocet 1-2 tablets p.o. q.4 to 6h.p.r.n.
+
+CONDITION ON DISCHARGE:  Fair.
+
+DISPOSITION:  The patient is discharge to rehabilitation.
+
+FO[**Last Name (STitle) **]P CARE:  The patient is followup with Dr. [**Last Name (Prefixes) **]
+in about a month.  She is also to see her cardiologist and
+primary care physician.
+
+
+
+
+  [**Last Name (STitle) **]                 DR.[**Last Name (Prefixes) 413**],[**First Name3 (LF) 412**] 02-351
+
+Dictated By:[**Name8 (MD) 16758**]
+MEDQUIST36
+
+D:  [**2114-2-15**]  09:15
+T:  [**2114-2-15**]  10:30
+JOB#:  [**Job Number 39060**]

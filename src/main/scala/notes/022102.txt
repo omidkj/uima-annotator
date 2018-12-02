@@ -1,0 +1,234 @@
+Admission Date:  [**2139-1-8**]              Discharge Date:   [**2139-1-16**]
+
+Date of Birth:  [**2058-6-2**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Citalopram
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Dysnea on exertion.
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement(21mm Porcine) [**2139-1-9**]
+
+
+History of Present Illness:
+80 yo spanish speaking woman with known aortic stenosis and
+atrial fibrillation.  She has had progressive dyspnea on exetion
+and now cannot walk one block.  Denies chest pain, pedal dema,
+dizziness, or palpitations.  Last calculated [**Location (un) 109**] by Echo was
+0.6cm2 with an AV gradient on 96mm Hg.  She underwent cardiac
+cath on [**2138-12-2**] which showed no significant coronary artery
+disease.
+
+Past Medical History:
+HTN
+DM-type II
+AS
+AFIB(on coumadin)-last dose [**1-3**]
+Arthritis
+Depression
+Fatigue
+CVA-family denies, no deficits
+Dysphagia
+GERD
+Cholecystectomy
+
+
+Social History:
+Lives: alone near daughter-[**Name (NI) **] [**Telephone/Fax (1) 83944**] (speaks
+some
+english)Per daughter lives sedentary life
+Occupation:none
+Tobacco:denies
+ETOH:denies
+
+
+Family History:
+unremarkable
+
+Physical Exam:
+Pulse:67, irreg B/P Right: 160/67  Left: 140/68  Resp: 17
+O2 sat: 97% RA
+Height:63in Weight:180lbs
+
+General: comfortable, lying in bed
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM []
+Chest: Lungs clear bilaterally [x]
+Heart: RRR []  Irregular [x]  Murmur [**2-7**], upper sternal border
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema- none
+Varicosities: None [x]
+Neuro: Grossly intact. moves all 4 ext. R handed. follows
+command
+Pulses:
+Femoral      Right:2+   Left:2+
+DP           Right: -  Left:-
+PT           [**Name (NI) 167**]:palp   Left:palp
+Radial       Right:palp   Left:palp
+
+Carotid Bruit        Right: + (transmitted)   Left: trasmitted
+
+
+Pertinent Results:
+[**2139-1-15**] 04:53AM BLOOD WBC-10.3 RBC-3.43* Hgb-9.9* Hct-30.8*
+MCV-90 MCH-28.9 MCHC-32.1 RDW-14.7 Plt Ct-196
+[**2139-1-16**] 05:50AM BLOOD PT-28.9* INR(PT)-2.9*
+[**2139-1-15**] 04:53AM BLOOD Glucose-129* UreaN-28* Creat-1.1 Na-142
+K-3.9 Cl-102 HCO3-28 AnGap-16
+[**Known lastname **],[**Known firstname 59478**] [**Medical Record Number 83945**] F  80  [**2058-6-2**]
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2139-1-13**] 2:22 PM
+
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG FA6A [**2139-1-13**] 2:22 PM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 83946**]
+Reason: Eval for effusion
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   80 year old woman s/p AVR
+REASON FOR THIS EXAMINATION:
+   Eval for effusion
+
+
+
+Final Report
+HISTORY: AVR, to evaluate for change.
+
+FINDINGS: In comparison with the earlier study of this date,
+there is some
+asymmetry of opacification at the left base. Although this could
+merely
+represent atelectasis, in the proper clinical setting, the
+possibility of
+aspiration must be considered.
+
+Remainder of the examination is unchanged.
+
+DR. [**First Name11 (Name Pattern1) 1569**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 11006**]
+Approved: [**First Name8 (NamePattern2) **] [**2139-1-13**] 4:20 PM
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 59478**]       [**Hospital1 18**] [**Numeric Identifier 83947**]TTE
+(Complete) Done [**2139-1-9**] at 9:36:23 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2058-6-2**]
+Age (years): 80 F  Hgt (in): 62
+BP (mm Hg): 140/76  Wgt (lb): 180
+HR (bpm): 66  BSA (m2): 1.83 m2
+Indication: Aortic valve disease. Left ventricular function.
+ICD-9 Codes: 414.8, 424.1, 424.0, 424.3, 424.2
+Test Information
+Date/Time: [**2139-1-9**] at 09:36    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD
+Test Type: TTE (Complete) Son[**Name (NI) 930**]: [**Name2 (NI) 8154**] Bzymek, RDCS
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2010W003-0:00 Machine: Vivid [**7-8**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.4 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.9 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *6.0 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.8 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.8 cm
+Left Ventricle - Fractional Shortening:  0.42  >= 0.29
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%
+Left Ventricle - Stroke Volume:  80 ml/beat
+Left Ventricle - Cardiac Output:  5.26 L/min
+Left Ventricle - Cardiac Index:  2.87  >= 2.0 L/min/M2
+Left Ventricle - Lateral Peak E':  0.11 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.06 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *18  < 15
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aorta - Arch:  3.0 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  *5.1 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *104 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  66 mm Hg
+Aortic Valve - LVOT VTI:  23
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  1.5 m/sec
+Mitral Valve - E Wave deceleration time:  *116 ms  140-250 ms
+Mitral Valve - [**Last Name (un) **]:  0.30 cm2
+Mitral Valve - Regurgitation Volume:  57 ml
+TR Gradient (+ RA = PASP):  *42 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. Normal
+IVC diameter (<2.1cm) with 35-50% decrease during respiration
+(estimated RA pressure (0-10mmHg).
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+regional/global systolic function (LVEF>55%). TDI E/e' >15,
+suggesting PCWP>18mmHg. No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal diameter of aorta at the sinus, ascending and arch
+levels.
+
+AORTIC VALVE: ?# aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Critical AS (area
+<0.8cm2). Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification. Mild thickening of mitral valve
+chordae. Calcified tips of papillary muscles. Moderate to severe
+(3+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Moderate PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+Conclusions
+The left atrium is mildly dilated. The right atrium is
+moderately dilated. The estimated right atrial pressure is
+0-10mmHg. There is mild symmetric left ventricular hypertrophy
+with normal cavity size and regional/global systolic function
+(LVEF>55%). Tissue Doppler imaging suggests an increased left
+ventricular filling pressure (PCWP>18mmHg). Right ventricular
+chamber size and free wall motion are normal. The diameters of
+aorta at the sinus, ascending and arch levels are normal. The
+aortic valve leaflets (?#) are severely thickened/deformed.
+There is critical aortic valve stenosis (valve area 0.6 cm2).
+Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. A central jet of moderate to
+severe (3+) mitral regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+normal global and regional biventricular systolic function.
+Critical calcific aortic stenosis. Moderate to severe mitral
+regurgitation. Moderate pulmonary hypertension.
+  Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2139-1-9**] 09:51
+
+
+
+
+
+Brief Hospital Course:
+This patient was ad

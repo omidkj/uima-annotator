@@ -1,0 +1,192 @@
+Admission Date:  [**2106-5-31**]              Discharge Date:   [**2106-6-5**]
+
+Date of Birth:  [**2027-8-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+dyspnea, weight gain, hypotension
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+78 y/o F with hx of CHF, likely secondary to ischemic
+cardiomyopathy, hx of CVA who is now hemiplegic and nonverbal,
+who presents from [**Hospital 100**] Rehab with increased dyspnea, weight
+gain and inability to diurese.  She recently has been changed
+from lasix 80 mg PO BID to 40 mg IV BID.  Her SBPs had decreased
+slightly to the 90s.  Per the rehab report, her last weight in
+[**Month (only) 547**] (presumed dry weight) was 128 lbs.  Now she is 165 lbs.
+Over the last three days; when the IV lasix started, her weight
+has fluctuated up and down by one pound each day and she
+clinically has not improved.
+.
+In the ED, initial vitals were T 98.3, P 84, BP 90/52, R 20, and
+93% on 2L.  She received no medications in the ED.  She did
+transiently drop her SBPs to the 60s, she was still apparently
+arousable and mentating.  She was given 250 cc IVF bolus in the
+ED and her SBPs returned to the 90s.  She had recently been
+treated for c.diff and the worry for sepsis prompted the MICU
+admission.  She received no abx or blood cultures.
+.
+On arrival to the floor, the patient is alert and nods head
+sometimes to questions.  Unclear if she understands english, but
+nodded "yes" to difficulty breathing and "no" to pain.  She
+moans intermittently.
+
+Past Medical History:
+Systolic CHF, EF 25%
+Ischemic Caridiomyopathy
+STEMI [**2103**] s/p PCI
+BiV PPM with ICD
+Moderate MR/TR
+Afib on coumadin
+HTN
+Hyperlipidemia
+Pulmonary HTN
+Hypoalbuminemia
+CVA with residual R hemiplegia and aphasia in [**2103**]
+
+Social History:
+Patient initially from [**Country 2045**] and moved to the US in [**2077**]; was
+well until [**2105-10-27**] when she had a secondy stroke and she has
+since been in a long-term care facility.  She has 2 daughters
+and 1 son (the son still lives in [**Country 2045**]).  Her HCP is her
+daughter who is a nurse [**First Name (Titles) **] [**Name (NI) 100**] Rehab.  Unclear hx of smoking,
+tobacco or etoh.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+General Appearance: No acute distress
+
+Eyes / Conjunctiva: PERRL, Pupils dilated
+
+Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+
+Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Present), (Left DP pulse:
+Present)
+
+Respiratory / Chest: (Breath Sounds: Clear : , Crackles : at
+bilateral bases)
+
+Abdominal: Soft, Non-tender, Bowel sounds present
+
+Extremities: Right lower extremity edema: 3+, Left lower
+extremity edema: 3+
+
+Musculoskeletal: Unable to stand
+
+Skin:  Not assessed
+
+Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+assessed, Tone: Not assessed, hemiplegia and aphasia
+
+
+Pertinent Results:
+[**2106-5-31**] 09:21PM   SODIUM-156* POTASSIUM-3.5 CHLORIDE-116*
+[**2106-5-31**] 04:30PM URINE  HOURS-RANDOM SODIUM-23 POTASSIUM-62
+CHLORIDE-LESS THAN  TOTAL CO2-<5
+[**2106-5-31**] 04:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-NEG PH-6.5 LEUK-TR
+[**2106-5-31**] 04:30PM URINE  RBC-[**1-29**]* WBC-[**1-29**] BACTERIA-OCC YEAST-NONE
+EPI-0-2 TRANS EPI-0-2
+[**2106-5-31**] 04:30PM URINE  HYALINE-21-50*
+.
+Echo [**2106-6-1**] TTE: The left atrium is mildly dilated. The
+estimated right atrial pressure is 10-20mmHg. Left ventricular
+wall thicknesses are normal. The left ventricular cavity size is
+top normal/borderline dilated. Overall left ventricular systolic
+function is severely depressed with (LVEF= 20 %). The right
+ventricular cavity is dilated with moderately to severely
+depressed free wall contractility. [Intrinsic right ventricular
+systolic function is likely more depressed given the severity of
+tricuspid regurgitation.] The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened. There is no
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Mild to moderate
+([**11-28**]+) mitral regurgitation is seen. The tricuspid valve
+leaflets are mildly thickened. Severe [4+] tricuspid
+regurgitation is seen. There is at least moderate pulmonary
+artery systolic hypertension. There is a very small pericardial
+effusion.
+.
+CXR [**2106-6-1**] PA&L IMPRESSION:
+1. Moderate right pleural effusion and associated right basilar
+opacity,
+likely representing atelectasis. Superimposed pneumonia cannot
+be excluded.  2. Cardiomegaly and central venous congestion
+without frank pulmonary edema. 3. Left PICC extends to the mid
+superior vena cava.
+
+
+Brief Hospital Course:
+78 year old lady with history of congestive heart failure,
+likely secondary to ischemic cardiomyopathy, history of cerebral
+vascular event who is now hemiplegic, who presents from [**Hospital 100**]
+Rehab with increased dyspnea, weight gain and inability to
+diurese.
+.
+# Heart Failure (CHF) : The presention of weight gain, dyspnea
+and pleural effusion on CXR likely secondary to acute on chronic
+CHF. The patient was volume overloaded, with bilateral lower
+extremity edema and evidence of pulmonary edema and has mild
+dyspnea.  CXR unremarkable for florid CHF, except large
+effusion.  TSH normal.  The patient has known EF of 20-25% from
+recent echo.  Repeat echo on [**6-1**] revealed LVEF of 20%, RV
+dysfunction, severe TR and mild/moderate MR. Trigger for heart
+failure likely related to new cardiac event, but unclear.  The
+patient was diuresed with a lasix drip with initially good urine
+output, however diuresis was limited by hypotension (as
+described below). The patient's urine output persistently
+decreased despite up-titration of the lasix drip. Metalazone was
+added to assist with diuresis.  A dopamine drip was considered
+to improve diuresis with positive ionotropic support, however
+the patient's persitant tachycardia limited its use.  The
+patient's breathing became more labored and tachypnic. On HD 4,
+the patient's family decided to make her comfort care only,
+rather than pursue more invasive measures. The lasix drip and
+metalazone were continued, tube feeds were terminated, and
+morphine was administered in 1 mg boluses as needed for patient
+comfort.   On HD 5 the patient was transferred back to [**Hospital 100**]
+rehab.  The medication protocol for [**Hospital1 100**] will be left to the
+discretion of the palliative care team there and their
+discussions with the family.
+.
+# Hypotension:  Etiology cardiac shock versus over-diuresis at
+prior rehab versus infection.  The etiology likely heart failure
+in the setting of underlying CHF, elevated BNP, normal renal
+function and electrolytes not indicative of overdiuresis and
+positive fluid balance. The patient required a levophed support
+on the morning of admission [**6-1**].  With diuresis necessary for
+heart failure (see above), pt continued to be in hypotensive
+state.  She required addition of Levophed pressor on HD2, which
+was again weaned.  Systolic BPs were maintained >80 as long as
+patient urinating and mentating.  Of note, cx were all negative.
+ Carvedilol and Lisinopril were held while hypotensive.
+.
+# Hypernatremia: The patient??????s hypernatremia was likely
+secondary to severe free water deficit of 3.8L. The patient had
+been getting 125 cc free water flushes every 6 hours at [**Hospital 100**]
+Rehab which was likely not enough.  The patient was given 3 L of
+D5W with free water flushes with correction of serum sodium.
+Free water flushes were increased to 300 ml every 6 hours.
+Hypernatremia resolved on HD2, and electrolytes were monitored
+throughout her stay.
+.
+# Atrial fibrillation / Tachycardia : The patient is rate
+controlled with heart rates in the 90s as an outpatient, but was
+persistently sinus tachycardia in ICU.  Would ideally like a HR
+in the 70s if possible to optimize filling time.  However, the
+patient was hypotensive which made diuresis and rate control
+difficult.  On hospital

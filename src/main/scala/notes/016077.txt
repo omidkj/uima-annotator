@@ -1,0 +1,215 @@
+Admission Date:  [**2145-9-6**]              Discharge Date:   [**2145-9-23**]
+
+Date of Birth:  [**2077-10-8**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+Fever, SOB, cough
+
+Major Surgical or Invasive Procedure:
+Endotrachial intubation
+Bronchoscopy
+Foley catheter placement
+Left subclavian line placement
+
+History of Present Illness:
+67 y/o F with a h/o HTN, T2DM, and hyperlipidemia who presented
+to the ED with a 4 day h/o cough, SOB, and fever. Of note, the
+patient recently returned from a trip to [**Country 3587**] to visit
+relatives. The patient had been living in [**State 108**] for several
+years and recently moved to the [**Location (un) 86**] area. She flew back from
+[**Country 3587**] this past Friday and began to feel unwell on the
+following Saturday. She had a productive cough of pink, frothy
+sputum. She also had a fever at home (no exact measurement). She
+also reported myalgias and decreased PO intake. She presented to
+the ED for further evaluation of her symptoms.
+
+
+Past Medical History:
+1. T2DM
+2. HTN
+3. Hyperlipidemia
+
+Social History:
+No tobacco or ethanol use
+
+Family History:
+NC
+
+Physical Exam:
+On transfer from MICU:
+
+Vitals: T 98.4 HR 81 BP 115/44 RR 22 94-100% on 2L NC
+General: 67 F in NAD
+HEENT: NC/AT. MM moist. OP clear.
+Neck: No JVD.
+CV: Regular rhythm. nl s1, s2; No m/r/g.
+Pulm: CTAB, mildly decreased BS RUL.
+Abd: Soft, non-distended, non-tender, with normoactive BS.
+Ext: Feet cool. 2+ DP's bilaterally. 2+ edema around ankles
+bilaterally, 1+ edema in UEs around wrists.
+Skin: No rash.
+Neuro: A/O x 3. Strength and sensation intact throughout.
+Access: Left subclavian in place
+
+
+Pertinent Results:
+Initial Labs ([**9-6**]):
+
+WBC 17.5 Hb 13.6 Hct 39.8 Plt 233
+Diff - 66N + Dohle bodies, 21 Bands, 10 lymphs
+
+NA 135 Chloride 96 BUn 41 Glucose 224
+K 4.1  Bicarb 26   Cr 2.1
+
+Lactate 3.0
+
+Ck 1297 CK MB 7 Trop T < 0.01
+
+ABG 7.29/53/83 21:07 [**9-6**]
+
+ABG 7.26/63/70 06:00 [**9-7**]
+
+Mixed Venous  7.43/55/169 [**9-16**]
+
+Fe studies:
+Iron 81 ug/dL 30 - 160
+Iron Binding Capacity, Total 252* ug/dL 260 - 470
+Ferritin 513* ng/mL 13 - 150
+Transferrin 194* mg/dL 200 - 360
+
+Micro:
+BRONCHOALVEOLAR LAVAGE GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-FINAL; LEGIONELLA CULTURE-FINAL; FUNGAL
+CULTURE-PRELIMINARY; ACID FAST SMEAR-FINAL; ACID FAST
+CULTURE-PENDING
+
+CMV, EBV negative
+Legionella negative
+Mycoplasma IgG, IGM negative
+Multiple blood culture, urine culture, respiratory culture
+negative
+
+Imaging:
+
+[**9-6**] PA and Lateral: CHEST, TWO VIEWS: There is dense
+opacification of the right upper lung with associated air
+bronchograms. There is thickening of the right minor fissure
+likely due to a small amount of fluid in the fissure. The right
+posterior costophrenic sulcus is blunted consistent with a small
+pleural effusion. The left lung is clear. The heart size is
+normal. The aorta is tortuous.
+IMPRESSION: Dense opacification of the right upper lobe, likely
+representing a lobar pneumonia. An endobronchial obstructing
+lesion cannot be excluded on these radiographs. Followup imaging
+after treatment is suggested.
+
+[**9-7**] ECHO Conclusions:
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular
+hypertrophy with normal cavity size and regional/global systolic
+function
+(LVEF>55%). Due to suboptimal technical quality, a focal wall
+motion
+abnormality cannot be fully excluded. The aortic valve leaflets
+(3) are mildly thickened. There is no aortic valve stenosis. No
+aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral
+
+regurgitation. There is no mitral valve prolapse. The pulmonary
+artery
+systolic pressure could not be determined. There is no
+pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved left ventricular systolic function. Mild valvular
+thickening with no signifcant stenosis or regurgitation.
+
+[**9-21**] PA and lateral chest compared to [**9-14**] through [**9-18**]:
+A small amount of volume loss persists in the right upper lobe.
+There is no good evidence of recurrent pneumonia. Mild
+cardiomegaly is stable. Mediastinal vascular engorgement has
+improved.
+There is an unusual configuration to gas shadows in the upper
+abdominal midline, probably unusual displacement of the gastric
+antrum. If patient has referable symptoms to abdominal pathology
+I would reevaluate with routine abdominal radiographs.
+Tip of the left subclavian line projects over the upper SVC. No
+pneumothorax. Medical student [**Last Name (un) 71534**] and Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4887**]
+were both paged to report these findings at the time of
+dictation.
+
+
+Brief Hospital Course:
+In the ED, her vital signs were T 99.9 HR 120 BP 114/50 RR 32
+95%NRB.  A chest x-ray [**Last Name (un) **] da RUL pneumonia, and ECG showed
+afib with RVR. Her lactate was 3.0 and creatinine 2.1. She was
+pan-cultured, given a dose of antibiotics, and transferred to
+the MICU for presumed septic shock.
+.
+# Respiratory failure/Septic Shock:
+In the MICU she quickly went into severe hypoxic hypercarbic
+failure (7.26/59/63 on NRB) requiring intubation. She became
+hypotensive, requiring transient pressors and a total of 13
+liters net volume resuscitation. Culture data including EBV,
+CMV, and TB were consistently negative, even after bronchoscopy.
+She completed a ten day course of ceftriaxone and azithromycin,
+but was also on vancomycin. By chest x-ray, her consolidation
+resolved quickly after 5 days (post-bronchoscopy for cultures),
+suggesting increased secretions were a major component of her
+pulmonary dysfunction. She had a prolonged intubation ([**Date range (1) **])
+with hypoxia during spontaneous breathing trials for many days.
+She was extubated on [**9-18**] with steadily decreasing secretions and
+O2 requirements.  She had an O2 requirement for 1-2 days on the
+floor that improved with incentive spirometry and walking with
+PT.
+.
+# Rhabdomyolysis
+Upon presentation in the MICU, her CK was 1297 with large blood
+and few RBCs in the urine suspicious for rhabdomyolysis. Her
+troponins wer negative. Her CPKs peaked at [**Numeric Identifier 6235**] on [**9-15**] along
+with transaminases in the 300's. She was treated by aggressive
+volume resuscitation and lasix to achieve UO > 100cc/hr. She
+never had any bump in her creatinine. Her last CK [**9-20**] was 3000,
+and she continued to have a stable creatinine until discharge.
+.
+# Atrial fibrillation
+The patient's MICU course was also complicated by atrial
+fibrillation for 3-4 days not properly rate controlled on
+metoprolol or diltiazem. Echocardiography showed a normal heart
+with LVH and preserved EF (>55%). She was therefore begun on an
+amiodarone drip, leading to documented conversion on [**9-10**], after
+which the drip was D/Ced. She was anticoagulated for a total of
+5 days.  In discussions with the cardiology consult service, it
+was felt that the transient risk factor for atrial fibrillation
+(septic shock) had resolved and that long-term anticoagulation
+would not be warranted. She remained in sinus rhythm for 9 days
+on telemetry after her cardioversion, after which telemetry was
+discontinued. She reported no palpitations at any point in her
+stay.
+.
+# Weakness
+Ms. [**Known lastname 1001**] was initially weak while recovering from her extesnive
+MICU course. She improved rapidly with hospital PT, however, and
+was felt safe for discharge with home PT services to aid her
+recovery.
+.
+# Anemia
+She had a labile hematocrit during this admission, likely
+consistent with a dilutional effect from high volume
+resuscitation.  On discharge, she has borderline macrocytic
+anemia with near-appropriate reticulocyte production and Fe
+studies consistent with anemia of chronic disease. She was
+guaiac negative. Further w/u as an outpt may be clinically
+indicated.
+.
+# Hypertension
+Her blood pressure was titrated with IV beta-blocker in the MICU
+and switched oiver to PO beta-blocker once the patient was
+taking good POs. ACE-I was D/Ced out of concern for renal
+toxicity while rhabdomyolysis resolving.  Pt discharged on
+stable regimen of metoprolol 75mg [**Hospital1 **] with BPs in the 120

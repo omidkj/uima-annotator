@@ -1,0 +1,207 @@
+Admission Date:  [**2164-5-30**]              Discharge Date:   [**2164-6-8**]
+
+Date of Birth:  [**2099-4-5**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+morphine / bee venom (honey bee) / Wasp Venom
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafting times four (LIMA>LAD, SVG>OM,
+SVG>Diag, SVG>PDA), MV repair (#28 ring) [**2164-6-4**]
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 65 year old male with a past medical history
+significant for rheumatic fever, tobacco use and asthma who
+presented with shortness of breath which began on Sun [**5-27**]. He
+reported no associated chest pain. He initially thought it to be
+an asthma exacerbation but the following day presented to an
+outside hospital with persistent shortness of breath.  He was
+given oxygen and Ativan, with resolution of symptoms.  He was
+found to have a troponin of 11.[**Street Address(2) 112237**] elevations. He was treated with Lopressor, ASA,
+Heparin drip and cardiology was consulted for cardiac
+catherization.  He was also noted to have diffuse infiltrates on
+chest radiograph with a leukocytosis of 13.4.  He was treated
+with Levaquin for presumed pneumonia. A cardiac catheterization
+today revealed three vessel coronary artery disease.  He was
+given Plavix.  He was tranferred to [**Hospital1 18**] for surgical
+evaluation and Plavix washout.
+
+
+Past Medical History:
+Asthma
+Rheumatic fever with possible mitral stenosis
+Tobacco Use
+s/p T+A
+s/p shrapnel removal
+
+
+Social History:
+Mrl [**Known lastname **] who lives with his wife.  Mr. [**Known lastname **] is a retired fence
+builder.  He has been smoking since age 12, 50 pack years, but
+recently cut down.  He drinks 3 beers per day.
+
+
+Family History:
+Mother and father without premature coronary artery disease
+
+Physical Exam:
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema [] _____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) 167**]: 1+  Left: 1+
+Radial       Right: cath site  Left: 2+
+
+Carotid Bruit        Right: no   Left: no
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 112238**] (Complete)
+Done [**2164-6-4**] at 3:52:26 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2099-4-5**]
+Age (years): 65 M  Hgt (in): 71
+BP (mm Hg): 106/70  Wgt (lb): 244
+HR (bpm): 83  BSA (m2): 2.30 m2
+Indication: Coronary artery disease. Left ventricular function.
+Mitral valve disease.
+ICD-9 Codes: 424.0, 424.2
+Test Information
+Date/Time: [**2164-6-4**] at 15:52    Interpret MD: [**Name6 (MD) 15425**] [**Name8 (MD) 15426**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 15426**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2012AW000-0:00 Machine: U/S 6
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  *6.4 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.5 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.5 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.7 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30% to 35%  >= 55%
+Left Ventricle - Stroke Volume:  80 ml/beat
+Left Ventricle - Cardiac Output:  6.61 L/min
+Left Ventricle - Cardiac Index:  2.87  >= 2.0 L/min/M2
+Aorta - Annulus:  2.3 cm  <= 3.0 cm
+Aorta - Ascending:  *3.8 cm  <= 3.4 cm
+Aortic Valve - LVOT VTI:  15
+Aortic Valve - LVOT diam:  2.6 cm
+Mitral Valve - E Wave:  0.9 m/sec
+Mitral Valve - A Wave:  0.3 m/sec
+Mitral Valve - E/A ratio:  3.00
+TR Gradient (+ RA = PASP):  *41 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Dilated LA. All four pulmonary veins identified and
+enter the left atrium.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Moderate-severe regional left ventricular
+systolic dysfunction.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Mildly dilated
+ascending aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: No MS. Eccentric MR jet. Moderate to severe (3+)
+MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Written informed consent was obtained from the
+patient. The patient was under general anesthesia throughout the
+procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. The patient appears to be in sinus rhythm.
+patient.
+Conclusions
+The left atrium is dilated. No atrial septal defect is seen by
+2D or color Doppler. There is moderate to severe regional left
+ventricular systolic dysfunction with apical akinesis, severe
+hypokinesis in the inferolateral, inferior, and inferoseptal
+walls. Right ventricular chamber size and free wall motion are
+normal. The ascending aorta is mildly dilated. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion. There is no aortic valve stenosis. No aortic
+regurgitation is seen. An eccentric, posteriorly directed jet of
+Moderate to severe (3+) mitral regurgitation is seen. There is
+no pericardial effusion.
+Post bypass
+The patient is s/p CABGX3 with mitral annuloplasty ring.
+The patient is on a Norepinephrine drip at 0.2 mcg/kg/min
+,milrinone drip at 0.125 mcg/kg/min
+The cardiac index is 3.3
+There is a well seated mitral annuloplasty ring with no
+paravalvular leaks present.There is mild valvular mitral
+regurgitation present.
+The mean gradient across the mitral valve is 9 mmhg with a peak
+gradient of 29 mmhg across the mitral valve
+The ejection fraction is 35%
+  Electronically signed by [**Name6 (MD) 15425**] [**Name8 (MD) 15426**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2164-6-7**] 06:20
+
+
+[**2164-6-8**] 05:05AM BLOOD WBC-11.2* RBC-2.92* Hgb-9.6* Hct-28.1*
+MCV-96 MCH-32.8* MCHC-34.1 RDW-13.7 Plt Ct-163
+[**2164-6-5**] 02:20AM BLOOD PT-11.8 PTT-37.3* INR(PT)-1.1
+[**2164-6-8**] 05:05AM BLOOD Glucose-109* UreaN-11 Creat-0.7 Na-127*
+K-3.7 Cl-90* HCO3-29 AnGap-12
+
+Brief Hospital Course:
+The patient was brought to the Operating Room on [**2164-6-4**] where
+the patient underwent a coronary artery bypass grafting times
+four (LIMA to LAD, SVG>OM, SVG>Diag, SVG>PDA), mitral valve
+repair.  Please see the operative note for details.  Overall the
+patient tolerated the procedure well and post-operatively was
+transferred to the CVICU in stable condition for recovery and
+invasive monitoring.  POD 1 found the patient extubated, alert
+and oriented and breathing comfortably.  The patient was
+neurologically intact and hemodynamically stable, weaned from
+inotropic and vasopressor support.  Beta blocker was initiated
+and the patient was gently diuresed toward the preoperative
+weight.  The patient was transferred to the telemetry floor for
+further recovery.  Chest tubes and pacing wires were
+discontinued without complication.  The patient was evaluated by
+the physical therapy service for assistance with strength and
+mobility.  By the time of discharge on POD four the patient was
+ambulating freely, the wound was healing and pain was controlled
+with oral analgesics.  The patient was discharged to home in
+good condition with appropriate follow up instructions.
+
+Medications on Admission:
+Preadmission medication

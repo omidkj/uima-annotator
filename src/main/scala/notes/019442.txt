@@ -1,0 +1,219 @@
+Admission Date:  [**2106-2-7**]              Discharge Date:   [**2106-2-12**]
+
+
+Service: MEDICINE
+
+Allergies:
+Morphine
+
+Attending:[**Last Name (NamePattern1) 7539**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization w/ DES in SVG -> RCA, RPDA and RPL
+branch vessels
+Cardiac catheterization w/ DES to LAD
+
+
+History of Present Illness:
+Mr. [**Known lastname 11386**] is an 82yo M w/ PMH of CAD s/p 2 MIs and CABG in [**2096**]
+who presented to OSH today after developing "shakes" at home
+while getting dressed. Denies overt chest pain, but states he
+had chest discomfort [**6-12**], starting in his chest and radiating
+to his shoulders bilaterally. + diaphoresis, but no jaw pain or
+SOB. Has not had any prior episodes of angina since his CABG. No
+n/v. Called his daughter after onset of sx, then called EMS. Was
+taken by EMS to NWH where he had an EKG performed which showed
+profound ST elevations in II, III, avF, V3-V6 with reciprocal ST
+depressions in aVL, aVR, V1, and V2. He received atropine x1 for
+bradycardia and was then started on integrillin, heparin gtt,
+plavix and IVF. He was then tx to [**Hospital1 18**] cath lab where he
+underwent emergent cardiac cath.
+.
+ROS: denies f/c/HA/dizziness/lightheadedness/URI
+sx/cough/GERD/chest
+pain/palpitations/SOB/n/v/d/constipation/dysuria. + frequent
+urination. Denies any prior episodes of angina since CABG. Able
+to do daily activities. States he was walking 1 mi/day prior to
+weather getting colder.
+
+
+Past Medical History:
+PMH:
+-CAD
+---MI ([**2-/2096**], [**3-/2096**])
+---CABG ([**3-/2096**])
+-HTN
+-Hypothyroid
+-Prostate CA
+-Asthma
+-Arthritis
+-colonoscopy [**11/2100**]
+.
+PSH:
+-thoracic hiatal hernia repair [**2080**]
+-torn left rotator cuff [**8-/2093**]
+-CABG [**3-/2096**]
+-TURP, radiation [**6-/2097**]
+-right iliac artery aneurysm [**8-/2097**]
+-left knee cartilage repair [**2-/2099**]
+-right groin exploration, lymph node disection (benign) [**5-/2100**]
+-hemmoroidectomy [**11/2100**]
+-left total knee replacement [**11-4**]
+-left inguinal hernia repair
+-bilateral carpal tunnel repair
+-right bicep repair
+-gallbladder removal
+-torn right knee cartilage repair
+-right thumb repair
+-bilateral trigger finger repair
+
+
+Social History:
+Lives alone in [**Location (un) 745**]. Is widowed. Has one daugther, no
+grandchildren. Worked as a plumber for 45 yrs. No tob, EtOH
+currently. States he quit smoking when he was in school. Was in
+the Army, spent time overseas in [**Country 6171**] in [**2044**]. Has one tattoo
+from his time in the service.
+
+Family History:
+NC
+
+Physical Exam:
+VS - T 98.4, BP 124/75, HR 75, RR 14, sats 100% on 2L O2 by nc
+Gen: WDWN elderly male, lying flat s/p sheath removal, in NAD.
+HEENT: Sclera anicteric, MM dry.
+CV: RR, normal S1, S2. No m/r/g.
+Lungs: Faint crackles at bases bilaterally, no wheezing/rhonchi.
+
+Abd: Soft, NTND. + BS. No masses, no HSM.
+Ext: No c/c/e. Cool, dry. PT/DP 2+ on L, dopplerable on R.
+Sheath/PA cath are in place in R groin. Dsg c/d/i.
+Skin: No rashes.
+Neuro: CN II-XII grossly intact.
+
+
+Pertinent Results:
+Labs on admission:
+WBC 8.2, Hgb 10.7*, Hct 31.3*, MCV 89, Plt 196
+PT 13.3*, PTT 35.6*, INR(PT) 1.2*
+Na 139, K 4.6, Cl 104, HCO3 22, BUN 39, Cr 1.9, Glu 108, Mg 1.9
+ABG: pO2-62* pCO2-48* pH-7.36 calHCO3-28 Base XS-0
+.
+Cardiac enzymes:
+[**2106-2-7**] 01:10PM BLOOD CK(CPK)-225, CK-MB-13*, MB Indx-5.8,
+TropT-0.09*
+[**2106-2-7**] 05:28PM BLOOD CK(CPK)-5712*, CK-MB->500, TropT->25.00
+[**2106-2-7**] 10:18PM BLOOD CK(CPK)-5145*, CK-MB-438*, MBI-8.5*,
+TropT->25.00
+[**2106-2-8**] 03:51AM BLOOD CK(CPK)-3906*, CK-MB-263*, MBI-6.7*,
+TropT->25.00
+[**2106-2-8**] 06:20PM BLOOD CK(CPK)-2196*, CK-MB-91*, MBI-4.1,
+TropT-22.6*
+[**2106-2-9**] 06:25AM BLOOD CK(CPK)-1335*, CK-MB-37*, MBI-2.8,
+TropT-19.25*
+.
+Labs on discharge:
+WBC 5.8, Hct 27.1, MCV 90, Plt 197
+Na 142, K 4.4, Cl 104, HCO3 28, BUN 36, Cr 2.0, Glu 102
+Ca 8.5, Mg 2.1, Ph 3.3
+.
+Imaging:
+ECG [**2106-2-7**]:
+Sinus rhythm, first degree A-V block, marked left axis deviation
+
+Acute inferolateral myocardial infarct, possible posterior
+myocardial infarct
+ Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+73 218 92 368/393.57 50 -46 86
+.
+CATH [**2106-2-7**]:
+1. Three vessel coronary artery disease.
+2. Patent SVG--> LAD and SVG--> D1.
+3. Occluded SVG--> RCA.
+4. Elevated left sided filling pressures.
+5. Preserved cardiac index/output.
+6. Acute inferior myocardial infarction, managed by acute ptca.
+ PTCA of SVG--> RCA, RPDA adn RPL branch vessels.
+.
+ECHO [**2106-2-8**]:
+The left atrium is normal in size. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. Overall left
+ventricular systolic function is moderately to severely
+depressed with global hypokinesis and akinesis of the inferior
+and infero-lateral walls. No masses or thrombi are seen in the
+left ventricle. Right ventricular chamber size is normal. There
+is moderate global right ventricular free wall hypokinesis. The
+aortic root is mildly dilated. The ascending aorta is mildly
+dilated. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. There is
+no mitral valve prolapse. Trivial mitral regurgitation is seen.
+The left ventricular inflow pattern suggests impaired
+relaxation. The tricuspid valve leaflets are mildly thickened.
+The estimated pulmonary artery systolic pressure is normal.
+There is no pericardial effusion.
+.
+CATH [**2106-2-10**]:
+1. Limited selective coronary angiography demonstrated single
+vein
+graft disease. The SVG-RCA demonstrated no angiographically
+apparent,
+flow-limiting disease including the native vessel distal to the
+
+touchdown which was involved with the STEMI. The SVG-diagonal
+was
+without angiographically apparent, flow-limiting disease. The
+SVG-LAD
+had an ostial 70% lesion.
+2. Limited resting hemodynamics revealed central hypertension
+with
+blood pressure of 182/93 mmHg.
+3. Successful placement of 3.0 x 18 mm Cypher drug-eluting stent
+in
+the ostial SVG-LAD. Final angiography demonstrated no residual
+stenosis, no angiographically apparent dissection, and normal
+flow (See PTCA Comments).
+.
+FINAL DIAGNOSIS:
+1. Single vein graft stenosis.
+2. Central hypertension.
+3. Successful placement of drug-eluting stent in SVG-LAD.
+.
+
+
+Brief Hospital Course:
+82yo M w/ STEMI now s/p cath with DES to R RCA/PDA. Plan is to
+go back to cath for stent to LAD today.
+.
+# ISCHEMIA: Mr. [**Known lastname 11386**] already had elevated cardiac enzymes on
+presentation to the CCU, with inferior and lateral ST elevations
+on his EKG. On catheterization, it was found that one of his
+grafts, the SVG -> distal RCA, had 100% occlusion at distal
+anastomosis involving both PDA and PL branch bifurcation. A DES
+was placed in the r-PDA and the r-PL had a balloon angioplasty,
+with restoration of TIMI 3 flow. He was on intregrillin for 18
+hours post-cath. Post-cath, he had residual ST elevations in the
+inferior and lateral leads and persistent chest pain, though it
+was much improved from the pain he had on admission. His cardiac
+enzymes peaked on [**2106-2-7**], with CK of 5712, CKMB >500, MBI 8.5,
+and troponins of >25. He was initially on a nitro gtt, but that
+was weaned off as his blood pressure was low. He had no change
+in his pain off the nitro gtt. His chest pain resolved on its
+own on HD #[**Street Address(2) 16957**] elevations still persisted. He was
+started on ASA, plavix, bblocker, ACE-i, and a statin. Based on
+the results of his first catheterization, it was decided to
+repeat a catheterization on [**2106-2-10**] and to stent his LAD graft
+(which had a 70% ostial stenosis). He received mucomyst and
+bicarb prior to his second catheterization for his chronic renal
+insufficiency (Cr was 2.2). He tolerated the second
+catheterization well. There were no groin complications from
+either cath and he was able to be discharged home, with close
+follow-up with his cardiologist, Dr. [**Last Name (STitle) 16958**].
+.
+# PUMP: Mr. [**Known lastname 11386**] had an ECHO on [**2106-2-8**] which showed his EF to be
+30%, down from LVEF of >55% in [**4-7**] (on an ECHO from his PCP's
+office). The ECHO showed that he has akinetic inferior and
+in

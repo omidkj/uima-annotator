@@ -1,0 +1,205 @@
+Admission Date:  [**2187-7-10**]              Discharge Date:   [**2187-7-13**]
+
+Date of Birth:  [**2137-3-14**]             Sex:   M
+
+Service: MED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Abdominal wall bleeding s/p pericentesis of abdominal ascites
+
+Major Surgical or Invasive Procedure:
+Paracentesis [**2187-7-10**]
+
+History of Present Illness:
+50 yo male with history of cirrhosis secondary to Hepatitis C
+and ETOH abuse presented for routine paracentesis for diuretic
+resistant abdominal ascites. Pt has no history of variceal
+bleeds, hepatic encephalopathy, or jaundice. The patient had
+never been treated for his Hepatitis.
+
+Past Medical History:
+CAD with stent
+Anemia
+ETOH abuse
+Hepatitis C
+Liver cirrhosis/End stage liver disease
+
+
+Social History:
+Currently unemployed
+Lives with wife, a healthcare proxy
+Lives in [**Location 21318**]
+Has not used drugs x 15 years
+No ETOH since [**6-14**]
+[**1-12**] pack of cigarrettes/day
+
+Family History:
+non-contributory
+
+Physical Exam:
+T 99.5   BP 108/64  72  14  96% RA
+General: awake, somewhat frail, pleasant
+HEENT: Dry mucous membranes, mildly icteric sclera, mildly dark
+pink mucous,  membranes in the mouth/tongue, OP clear
+Lungs: minimal crackles in left base
+CVS: RRR
+Abdomen: distended, nontender with + BS, flat and tympanic
+abdominal sounds (fluid, gas?) 5x5 umbilical hernia,
+retractable,
+LE: +1 PE wih minimal venous stasis, +2 DP, no lesions,
+
+
+Pertinent Results:
+[**2187-7-12**] 06:15AM BLOOD WBC-6.6 RBC-3.34* Hgb-10.5* Hct-30.6*
+MCV-91 MCH-31.4 MCHC-34.4 RDW-15.8* Plt Ct-82*
+[**2187-7-11**] 03:35PM BLOOD WBC-6.2 RBC-3.26* Hgb-10.2* Hct-29.4*
+MCV-90 MCH-31.4 MCHC-34.8 RDW-16.4* Plt Ct-72*
+[**2187-7-11**] 05:43AM BLOOD WBC-5.9 RBC-3.14* Hgb-9.6* Hct-28.6*
+MCV-91 MCH-30.5 MCHC-33.6 RDW-16.3* Plt Ct-94*
+[**2187-7-10**] 09:01PM BLOOD Hct-27.9*
+[**2187-7-10**] 02:25PM BLOOD Hct-25.8*
+[**2187-7-10**] 10:55AM BLOOD WBC-7.8 RBC-2.64* Hgb-8.6* Hct-24.3*
+MCV-92 MCH-32.7* MCHC-35.5* RDW-15.9* Plt Ct-94*
+[**2187-7-10**] 10:00AM BLOOD WBC-8.1 RBC-2.66* Hgb-8.5* Hct-24.4*
+MCV-92 MCH-31.8 MCHC-34.6 RDW-15.9* Plt Ct-106*
+[**2187-7-10**] 08:10AM BLOOD WBC-9.1 RBC-3.43* Hgb-11.0* Hct-31.8*
+MCV-93 MCH-32.2* MCHC-34.7 RDW-15.9* Plt Ct-114*
+[**2187-7-10**] 08:10AM BLOOD Neuts-67.3 Lymphs-16.6* Monos-12.0*
+Eos-3.5 Baso-0.6
+[**2187-7-12**] 06:15AM BLOOD Plt Ct-82*
+[**2187-7-12**] 06:15AM BLOOD PT-16.3* PTT-39.6* INR(PT)-1.8
+[**2187-7-11**] 03:35PM BLOOD Plt Ct-72*
+[**2187-7-11**] 03:35PM BLOOD PT-15.3* PTT-37.1* INR(PT)-1.5
+[**2187-7-11**] 05:43AM BLOOD Plt Ct-94*
+[**2187-7-11**] 05:43AM BLOOD PT-14.9* PTT-37.0* INR(PT)-1.5
+[**2187-7-10**] 09:39PM BLOOD PT-15.1* PTT-38.9* INR(PT)-1.5
+[**2187-7-10**] 02:25PM BLOOD PT-15.7* PTT-42.4* INR(PT)-1.6
+[**2187-7-10**] 10:55AM BLOOD Plt Ct-94*
+[**2187-7-10**] 10:00AM BLOOD Plt Ct-106*
+[**2187-7-10**] 08:10AM BLOOD Plt Ct-114*
+[**2187-7-10**] 08:10AM BLOOD PT-16.7* INR(PT)-1.9
+[**2187-7-11**] 05:43AM BLOOD Glucose-116* UreaN-23* Creat-1.1 Na-132*
+K-4.6 Cl-99 HCO3-24 AnGap-14
+[**2187-7-10**] 09:01PM BLOOD Glucose-140* UreaN-27* Creat-1.4* Na-129*
+K-5.2* Cl-98 HCO3-23 AnGap-13
+[**2187-7-10**] 08:10AM BLOOD Glucose-115* UreaN-34* Creat-2.0*#
+Na-127* K-5.5* Cl-95* HCO3-24 AnGap-14
+[**2187-7-10**] 08:10AM BLOOD ALT-20 AST-43* AlkPhos-77 TotBili-4.7*
+[**2187-7-11**] 05:43AM BLOOD Calcium-8.8
+[**2187-7-10**] 09:01PM BLOOD Calcium-8.4 Phos-3.6 Mg-2.1
+[**2187-7-10**] 02:25PM BLOOD Calcium-8.7
+[**2187-7-10**] 08:10AM BLOOD Albumin-2.8* Calcium-8.9 Phos-4.3
+
+[**2187-7-13**] 09:25AM BLOOD WBC-7.5 RBC-3.56* Hgb-11.0* Hct-32.7*
+MCV-92 MCH-31.0 MCHC-33.8 RDW-15.8* Plt Ct-85*
+
+Brief Hospital Course:
+Pt is a 50 yo man with cirrhosis secondary to HCV and ETOH abuse
+and baseline anemia who had an abdominal bleed after a routine
+pericentesis to remove ascitic fluid, s/p transfusions, now
+stable.
+
+1.Abdominal bleed: most likely secondary to hitting a vessel
+during pericentesis. Pt has been transfused multiple times and
+given fluids in an effort to address his falling
+hematocrit/bleed. Now that pt is stable, will start to
+diurese/remove fluid that has accumulated in his abdomen. Pt
+notes that abdominal size is close to, but not as large as his
+abdomen prior to getting his pericentesis. Pt seen by Liver and
+received another paracentesis for abdominal ascites on [**7-12**]
+without complications. Pt is to be dc'd with follow up with Dr.
+[**Last Name (STitle) 497**] on [**7-19**].
+2.Anemia: pt transfused with FFP, currently 28.6 Hesitant to
+transfuse now due to increasing accumulation of fluid in the
+abdomen and the sequelae of SOB and discomfort. Will follow and
+check crit in AM- Vitals stable, if crit decreased, will
+transfuse. Currently stable.
+3.FEN: Pt to get meal tonight. DC NPO. Cont bowel regimen. No
+protonix due to low platelets.
+4.Cirrhosis: continue lactulose.
+5.Pain/Headache. Cont. oxycodone for pain until follow up.
+6.Cough:  Pt with productive cough, yellowish grey sputum.
+Possible etiologies are URI considering slightly elevated
+temperature, Chronic bronchitis exacerbation considering pt??????s
+smoking history. Pt??????s CXR negative for consolidation. Will
+monitor for fevers, worsening cough. Cont. guanefesin-codeine
+for cough and cipro 500 mg qd x 7 days and follow up with Dr.
+[**Last Name (STitle) 497**] if cough persists.
+
+
+Medications on Admission:
+Medications on admission
+Oxycodone 5 mg po BID
+Lasix 20 mg qd
+Spironolactone 100 mg qd
+nadolol 20 mg qd
+Caltrate 600 mg [**Hospital1 **]
+Mycelex 1 x 5/day lactulose 30 mg TID
+
+
+Discharge Medications:
+1. Oxycodone HCl 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO TID (3
+times a day).
+4. Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H
+(every 6 hours) as needed.
+Disp:*1 ML(s)* Refills:*0*
+5. Phytonadione 5 mg Tablet Sig: 1-2 Tablets PO QD (once a day)
+for 1 days.
+Disp:*1 Tablet(s)* Refills:*0*
+6. Oxycodone HCl 5 mg Tablet Sig: 1-2 Tablets PO every six (6)
+hours as needed for headache.
+Disp:*25 Tablet(s)* Refills:*0*
+7. Ciprofloxacin HCl 500 mg Tablet Sig: One (1) Tablet PO QD
+(once a day) as needed for cough for 7 days.
+Disp:*6 Tablet(s)* Refills:*0*
+8. Aldactone 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. ESLD
+2. Abdominal bleed after therapeutic paracentesis on [**2187-7-7**]
+3. Anemia
+4. bronchitis
+
+
+Discharge Condition:
+Fever to 100.5 on day of discharge, no localizing symptoms,
+tolerating pos, ambulating
+
+Discharge Instructions:
+1. Please follow up at the [**Date Range **] unit on [**7-29**] for your next
+paracentesis.
+2. Take all your medications, including the antibiotics for the
+cough
+3. If you experience fevers, chills, increasingly severe cough,
+nausea, vomiting, or a tender abdomen that causes you pain, come
+to the emergency department at once.
+4. Take oxycodone for your headaches, 5-10 mg (1-2 tablets) by
+mouth every 6 hours.
+5. Take the cough syrup, but if you continue to cough by your
+appointment with Dr. [**Last Name (STitle) 497**], be sure to be examined and worked up
+for something more serious.
+6. You need to stay on a strict 1.5 L diet. If you have
+questions, talk to Dr. [**Last Name (STitle) 497**] at your appointment.
+
+Followup Instructions:
+1 follow up:
+
+Provider: [**Name10 (NameIs) 454**],TEN DAY CARE [**Hospital Ward Name **] 8 Where: DAY CARE [**Hospital Ward Name **] 8
+Date/Time:[**2187-7-19**] 11:00
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

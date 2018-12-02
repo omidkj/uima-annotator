@@ -1,0 +1,206 @@
+Admission Date:  [**2196-7-9**]              Discharge Date:   [**2196-7-28**]
+
+Date of Birth:  [**2142-9-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Latex / Zanaflex
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+AMS
+
+Major Surgical or Invasive Procedure:
+1. Intubation [**7-10**] by ICU team
+2. LP [**7-11**] by ICU team
+3. Tracheostomy [**7-20**] by Interventional Pulmonology (Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 3072**])
+4. PEG placement [**7-21**] by Gastroenterolgy (Dr. [**Last Name (STitle) **] [**Name (STitle) **])
+
+History of Present Illness:
+This is a 53 yo WF with a PMHx of advanced [**1-27**] progressive MS,
+chronic indwelling foley, h/o pe on coumadin who p/f personal
+care home with AMS
+.
+The patient's last admission was [**2196-5-22**] who was admitted for
+AMS and acute on chronic lethargy.  They dx her with toxic
+metabolic encephalopathy [**1-27**] to UTI and mrsa follicullitis (she
+had a dermatomal rash).  She was treated with vancomycin, she
+improved was transitioned to orals bactrim and doxycycline and
+was d/c.
+.
+The following history was obtained from an LPN named [**Name (NI) **]
+[**Name (NI) 3073**] at [**Telephone/Fax (1) 3074**].  She states that since the patient
+prior admission she never returned to her baseline.  The patient
+seems to have a waxing and wanning mental status.  She denies
+seeing the patient have twitching movements or signs of
+infection such as recent diarrhea, fever or cough.  Temps at [**Hospital1 1501**]
+ranged from 99.2-99.4.  The patient recently history is notable
+for non-compliance both when she is oriented and when she is
+not.  She refuses UA evalaution and also refuses suprapubic
+care.  It is not clear when the last time her supr-pubic cath
+was changed.  Starting the day of admission, the patient was
+incoherent, was unable to swallow her pills and was salivating.
+she was deemed usafe to be at her home and was sent to the ED
+and [**Hospital1 **].
+.
+The patient arrived to the ED and was intially minimally
+responsive.  Per the ED reports she improved while there from a
+MS perspective.  They did an I and D of the area around her SP
+cath and it was sent for culture which showed GPC in  pairs and
+GPR.  BC and Urine cultures were sent.  The patient HCT showed
+nothing acute and her CXR was wnl.  The patient was given
+levofloxacin and sent to the floor.
+
+Past Medical History:
+1) Multiple sclerosis (advanced secondary progressive)
+  -followed by Dr. [**First Name8 (NamePattern2) 730**] [**Last Name (NamePattern1) **] in neurology clinic
+  -diagnosed at age 23
+  -largely wheelchair bound, needs assistance with transfer
+  -chronic suprapubic catheter changed once monthly
+2) History of pulmonary embolism, on coumadin
+3) depression
+4) hyponatremia
+5) h/o mrsa
+6) h/o c. diff colitis
+7) h/o intermitent UTI's in the past
+
+
+Social History:
+Non-smoker, non-drinker. Lives at [**First Name8 (NamePattern2) 3075**] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] for
+Living in [**Location (un) **].  Divorced.
+
+
+Family History:
+NC
+
+Physical Exam:
+Admission Physical Exam:
+VS BP 140/94 P-64 R-18 SaO2-97 RA
+General: Patient is able to answer yes and no questions but in
+mostly non verbal except [**12-27**] word statements
+HEENT: CN 2-12 grossly intact, mmm, pupils equal and minimally
+responsive to light
+Endo: no obvious thyroid nodules
+CV: RRR no rmg
+Lungs: CTAB no WRR
+Abdomen: non TTP, active BS, SP cath in place with minimal
+erythema and milkly residue on inside of tube
+Extremities/Neuro:
+UE
+-some rigidity in bue, 1+ reflexes, 4/5 strength, sensation
+difficult to access due to limited patient response, [**Last Name (un) 3076**]
+negative, pulses 2+ and equal
+LE:
+-4/5 strength in ble, sensation again difficult to access,
+babinski down going, no clonus and some rigidity
+-pulses 2+ and equal
+Psyc: patient to to have a depressed mood and has a flat affect
+.
+Dicharge Physical Exam:
+Vitals T 99.9 BP 154/79 HR 124 O2 92% on trach mask
+General: Lying in bed in no acute distress
+HEENT: Trach collar/mask in place.
+CV: RRR. No M/R/G
+LUNGS: Coarse breath sounds bilaterally anteriorly.
+ABD: PEG  in place, with overlying bandage +min sanguious
+drainage (decreased  from yesterday). BS+. Soft. NT/ND
+EXT: 1+ pitting edema of LE bilaterally, 2+ pitting edema of UE
+b/l
+SKIN: Improved macular rash over the LE
+NEURO: Opens and blinks eyes, sporadically
+
+
+Pertinent Results:
+Admission labs:
+[**2196-7-9**] 01:30PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.012
+[**2196-7-9**] 01:30PM URINE  BLOOD-NEG NITRITE-POS PROTEIN-30
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 LEUK-LG
+[**2196-7-9**] 01:30PM URINE  RBC-9* WBC-130* BACTERIA-MANY YEAST-NONE
+EPI-0 TRANS EPI-1
+[**2196-7-9**] 01:30PM URINE  MUCOUS-OCC
+[**2196-7-9**] 12:16PM   COMMENTS-GREEN TOP
+[**2196-7-9**] 12:16PM   LACTATE-0.9
+[**2196-7-9**] 12:08PM   GLUCOSE-137* UREA N-12 CREAT-0.4 SODIUM-122*
+POTASSIUM-4.4 CHLORIDE-88* TOTAL CO2-27 ANION GAP-11
+[**2196-7-9**] 12:08PM   estGFR-Using this
+[**2196-7-9**] 12:08PM   WBC-3.3*# RBC-3.07* HGB-9.6* HCT-27.8* MCV-91
+MCH-31.2 MCHC-34.4 RDW-18.3*
+[**2196-7-9**] 12:08PM   NEUTS-74.0* LYMPHS-21.5 MONOS-3.6 EOS-0.5
+BASOS-0.3
+[**2196-7-9**] 12:08PM   PLT COUNT-126*
+[**2196-7-9**] 12:08PM   PT-24.4* PTT-34.0 INR(PT)-2.3*
+
+Relevant labs:
+[**7-20**] Skin biopsy:
+Focal spongiosis, focal follicular neutrophilic parakeratosis,
+sparse superficial perivascular dermatitis with rare
+eosinophils, and mild papillary dermal edema.  The changes are
+mild and non-specific.  The finding of neutrophilic
+parakeratosis at a follicular ostium (slide L1-2) is suggestive
+of seborrheic dermatitis.  While the anatomic site is somewhat
+unusual, a seborrheic dermatitis-like drug eruption is possible.
+ Seborrheic dermatitis may occur more frequently with some
+medical disorders including epilepsy.  PAS stain is negative for
+fungi.  Clinical-pathologic correlation is recommended.
+
+Microbiology:
+
+[**2196-7-9**] 1:30 pm URINE   FROM CATHETER
+   URINE CULTURE (Final [**2196-7-12**]):
+      SERRATIA MARCESCENS.    >100,000 ORGANISMS/ML..
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+      PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML..
+         Piperacillin/Tazobactam sensitivity testing confirmed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+
+[**2196-7-9**] 1:00 pm SWAB      INCISION OF ABDOMINAL SURFACE.
+   GRAM STAIN (Final [**2196-7-9**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI IN
+PAIRS.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+
+   WOUND CULTURE (Final [**2196-7-13**]):
+      Due to mixed bacterial types (>=3) an abbreviated workup
+is
+      performed; P.aeruginosa, S.aureus and beta strep. are
+reported if
+      present. Susceptibility will be performed on P.aeruginosa
+and
+      S.aureus if sparse growth or greater..
+      PSEUDOMONAS AERUGINOSA.    RARE GROWTH.
+
+[**7-9**]: Blood cultures x2 negative
+[**7-10**]: Legionella urinary antigen negative
+[**7-11**]: CSF Crypotcoccal antigen negative, fluid culture negative;
+fungal and viral cultures pending
+
+[**2196-7-11**] 7:24 pm SPUTUM      Source: Endotracheal.
+   GRAM STAIN (Final [**2196-7-11**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+   RESPIRATORY CULTURE (Final [**2196-7-13**]):
+      MODERATE GROWTH Commensal Respiratory Flora.
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      [**2196-7-12**]):
+      SPECIMEN NOT PROCESSED DUE TO: IMPROPER SPECIMEN
+COLLECTION.
+      Induced sputum required.
+      PLEASE SUBMIT ANOTHER SPECIMEN.
+      TEST CANCELLED, PATIENT CREDITED.

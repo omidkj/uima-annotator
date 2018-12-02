@@ -1,0 +1,194 @@
+Admission Date:  [**2161-4-4**]              Discharge Date:   [**2161-4-16**]
+
+Date of Birth:  [**2092-3-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Doctor Last Name 1857**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Right IJ line placement [**2161-4-4**]
+Pacemaker placement [**2161-4-10**]
+Bronchoscopy and bronchial stenting [**2161-4-13**]
+Right thoracentesis [**2161-4-14**]
+
+History of Present Illness:
+Mr. [**Known lastname 6051**] is a 69 year-old man with a history of a lung mass who
+presents with cough and shortness of breath. He was recently
+admitted ([**Date range (1) 76571**]) with hempotysis. At that time, bronchoscopy
+showed no evidence of active bleeding, though it did show
+epiglottic mass with ~50 % obstruction.
+
+Since discharge, he has generally been doing well. He has a
+chronic cough which is occasionally blood- and mucous-tinged.
+Over the last 24 hours, the cough has been more persistent,
+though the amount of blood has decreased. He also has been
+experiencing shortness of breath, which has been a bit worse. He
+also had chronic chest pains for which he uses morphine. These
+are pleuritic in nature and have actually improved somewhat over
+the last few days.
+
+On the day of admission, the patient was feeling slightly more
+short of breath and tired. His temperature was checked and noted
+to be 99.9. His heart rate was elevated (150) with a blood
+pressure in the 80s. The family called his oncologist who
+recommended ED referral.
+
+In the ED, temperature was 96.0, HR 77, BP 81/56. BP fell as low
+as 72/58 while HR increased to 150s. CXR showed a RML/RUL
+infiltrate and the patient was given Levaquin and ceftriaxone.
+For atrial flutter with a rapid ventricular response, adenosine
+was attempted x 2 without success. Cardioversion (100 J) was
+performed with conversion to NSR. After cardioversion, blood
+pressure once again fell to 77/49 and norepinephrine was
+started. A right IJ line was placed. Five liters of NS were
+administered.
+
+By the time he arrived in the MICU, he had received 6 liters of
+IV fluids and had transiently been on norepinephrine. His blood
+pressure had risen to systolic in mid-90s. Norepinephrine was
+discontinued soon after arrival to MICU, and blood pressure has
+remained stable in the 90s-120s systolic range throughout the
+MICU course. His rhythm in the ICU varied from atrial
+fibrillation, to atrial flutter, to sinus rhythm. It was sinus
+rhythm prior to transfer to the cardiology floor. He denies any
+complaints other than cough.
+
+Past Medical History:
+1. Squamous cell carcinoma of the lung, T3, N2
+2. ? Head and neck cancer
+3. COPD/Emphysema
+
+Social History:
+He moved from [**Country 651**] in [**2160-10-6**], previously worked as an
+electrical engineer. He has lived with his son since moving
+here. He had no exposure to asbestos. He has a 60-pack-year
+smoking history, quit in [**2153**]. He has no history of alcohol use.
+
+Family History:
+Brother died of lung cancer.
+
+Physical Exam:
+GEN - Well appearing, elderly Oriental man, lying in bed. Able
+to provide history via family or interpreter.
+Vitals - T 98.1, BP 94/52, HR 78, RR 12, O2 sat 97% on room air.
+HEENT - No evidence of bleeding in oropharynx. No
+lymphadenopathy in cervcal, submandibular, supraclavicular
+regions.
+CV - Regular. No murmurs.
+PULM - Bronchial breast sounds on right.
+ABD - Soft and non-tender.
+EXT - Warm. No edema.
+NEURO - Alert, oriented x3.
+
+Pertinent Results:
+Admission:
+[**2161-4-4**] 10:10AM BLOOD WBC-8.0# RBC-4.49* Hgb-12.5* Hct-38.6*
+MCV-86 MCH-27.9 MCHC-32.4 RDW-13.4 Plt Ct-372
+[**2161-4-4**] 10:10AM BLOOD PT-13.5* PTT-31.2 INR(PT)-1.2*
+
+[**2161-4-4**] 10:10AM BLOOD Glucose-124* UreaN-14 Creat-1.0 Na-137
+K-4.8 Cl-100 HCO3-23 AnGap-19
+[**2161-4-4**] 10:10AM BLOOD Calcium-8.7 Phos-3.1 Mg-2.1
+
+[**2161-4-4**] 10:10AM BLOOD CK(CPK)-29* cTropnT-<0.01
+[**2161-4-9**] 07:45PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2161-4-10**] 12:45AM BLOOD CK-MB-NotDone cTropnT-<0.01
+
+[**2161-4-4**] 10:19AM BLOOD Lactate-2.4*
+[**2161-4-4**] 03:11PM BLOOD Lactate-0.6
+
+Thoracentesis related:
+[**2161-4-12**] 05:16AM BLOOD ALT-32 AST-27 LD(LDH)-222 AlkPhos-106
+Amylase-28 TotBili-0.3 Lipase-18
+[**2161-4-13**] 07:00AM BLOOD LD(LDH)-120 TotBili-0.3 DirBili-0.1
+IndBili-0.2
+[**2161-4-13**] 07:00AM BLOOD Hapto-429*
+
+Discharge:
+[**2161-4-16**] 06:50AM BLOOD WBC-3.8* RBC-3.47*# Hgb-9.7*# Hct-30.3*
+MCV-87 MCH-28.0 MCHC-32.1 RDW-14.3 Plt Ct-408
+
+[**2161-4-13**] 07:00AM BLOOD PT-13.9* PTT-36.3* INR(PT)-1.2*
+
+[**2161-4-16**] 06:50AM BLOOD Glucose-83 UreaN-6 Creat-0.7 Na-143 K-3.9
+Cl-107 HCO3-26 AnGap-14
+[**2161-4-15**] 06:40AM BLOOD Calcium-7.5* Phos-2.1* Mg-1.8
+
+ECG [**2161-4-4**]  10:06:48 AM
+Supraventricular tachycardia at 152 bpm. Atrial flutter is
+suggested. Compared to the previous tracing of [**2161-3-26**] the
+rhythm has changed.
+
+PLEURAL FLUID Procedure Date of [**2161-4-14**]
+NEGATIVE FOR MALIGNANT CELLS. Reactive mesothelial cells,
+inflammtory cells and proteinaceous debris.
+
+MICROBIOLOGY
+While inpatient, patient had numerous blood cultures, urine
+cultures and a pleural fluid culture, all of which were negative
+or no growth to date upon discharge.
+
+CXR [**2161-4-4**]
+1. Right upper lobe and right lower lobe patchy opacification
+with air bronchograms consistent with multi-focal pneumonia.
+2. Stable right middle lobe collapse secondary to central
+obstructing mass.
+
+CTA CHEST W&W/O C&RECONS, NON-CORONARY  [**2161-4-6**] 5:47 AM
+1. Interval increase in the right hilar mass with increased
+attenuation of the right main bronchus, right pulmonary artery
+and right pulmonary veins.
+2. Large right basal effusion with increased interstitial
+markings in the right lung and new pulmonary nodules in both
+lungs consistent with disease progression.
+3. No central or segmental pulmonary emboli; however,
+subsegmental pulmonary emboli in the right lower lobe cannot be
+excluded.
+
+CHEST (PA & LAT)  [**2161-4-11**] 10:02 AM
+Increasing right-sided pleural effusion with possible
+superimposed airspace disease in the right lower lobe. Patchy
+opacity in the right suprahilar area. Increased interstitial
+markings. No pneumothorax.
+
+CHEST (PORTABLE AP)  [**2161-4-14**] 10:39 AM
+In comparison with study of [**4-13**], there has been the removal of
+substantial fluid from the right hemithorax. Specifically, no
+evidence of pneumothorax. The left lung remains clear.
+
+Brief Hospital Course:
+69 year-old man with a recent diagnosis of squamous cell lung
+cancer, presenting with shortness of breath and weakness in the
+setting of recently diagnosed malignancy and atrial flutter with
+a rapid ventricular rate.
+
+# Atrial flutter / atrial fibrillation with RVR: He required
+cardioversion in the ED and had subsequent episodes of low BP
+with atrial flutter. Diltiazem worked well, however, significant
+hypotension occurred with SBP down to the 70s, prompting
+discontinuation of the IV diltiazem. One possible etiology for
+atrial arrythmias was his malignancy irritating his heart. He
+also seemed to have a pneumonia. TSH had been normal [**2-13**]. While
+in the ICU, he reportedly had significant pauses on a
+combination of digoxin, calcium channel blocker as well as
+beta-blocker for rate control. Per EP consults, nodal-blocking
+agents should be avoided given propensity for pauses (had a 30
+second pause). Following arrival on [**Hospital Ward Name 121**] 3, he had one episode
+of sustained atrial flutter at 150 bpm on [**2161-4-9**] AM after
+ambulating; this spontaneously resolved to sinus rhythm in the
+80s. A trigger was called [**4-9**] for sustained heart rate in the
+170s and SBP 80s; this resolved with 1 L NS, 10 mEq KCl and 2 gm
+IV Mg. He initially declined a pacemaker, but ultimately agreed,
+and one was placed [**2161-4-10**] without complication. He was given
+Flecainide on [**4-10**] and then started on amiodarone [**4-11**] with
+appropriate effect. From that point onwards, he was
+predominantly in sinus rhythm with intermittent atrial pacing
+with two episodes of atrial fibrillation with RVR on [**4-12**] which
+resolved with fluid and Mg. The patient was encouraged to take
+in more by mouth, but he persistently felt 

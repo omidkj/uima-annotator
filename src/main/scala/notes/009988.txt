@@ -1,0 +1,180 @@
+Admission Date:  [**2163-7-12**]              Discharge Date:   [**2163-7-20**]
+
+Date of Birth:  [**2079-1-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Erythromycin Base / Streptomycin / Citric Acid /
+Atenolol / Torsemide / Heparin Agents
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Bloody sputum for 5 days, post-bronchoscopy respiratory distress
+
+Major Surgical or Invasive Procedure:
+[**7-13**]: Bronchoscopy - only suction trauma visualized, no source
+of bleeding found.
+
+
+History of Present Illness:
+Mr. [**Known lastname 108855**] is a very pleasant 84 y/o male with a h/o colon
+cancer s/p resection and radiation, CAD s/p stents, systolic CHF
+with EF 40-45%, dilated cardiomyopathy, afib, h/o cardiac arrest
+and complete heart block now with pacer/AICD, and history of GI
+bleed secondary to duodenal telangiectasia who is here from
+rehab following evaluation of blood in his respiratory
+secretions.
+.
+Mr. [**Known lastname 108855**] had a lengthy, complex, and recent admission to
+the TICU which is summarized in brief. He had a fall on [**2163-6-23**],
+leading to multiple rib fractures. He had L 1-10th rib frx, R
+5-7th rib frx, L hemothorax decompressed by pigtail catheter,
+and a L distal clavicle fracture. He was given a tracheostomy
+and PEG tube after failed extubation and reintubation.
+.
+In rehab, the patient was noted to have blood tinged secretions
+via his trach. A bronschoscopy was performed and reportedly saw
+bleeding inside of his trachea with poor visualization. He was
+transfused 2 unit pRBC and was transferred to [**Hospital1 18**]. Here, the
+patient reports no resp distress. His wife stated that the pt
+has been stable with no change in his respiration.
+.
+He underwent a bronchoscopy with our [**Hospital1 18**] group on [**7-13**], which
+did not find an etiology of the bleed. Only suction trauma was
+seen. Of note, he was receiving intermittent lasix and IVF for
+hypernatremia prior to bronchoscopy. Post-procedure, he was
+noted to be mildly tachypnic with RR 30s and was satting 88% on
+15L NC. As such, he was transferred to the medical ICU for
+closer monitoring. Of note, he is typically on 50% FIO2 with his
+trach mask.
+
+
+Past Medical History:
+rectal cancer s/p removal and radiation ijn [**2157**]
+CAD s/p stents
+Complete heart block (now with pacer)
+afib
+h/o cardiac arrest (now with AICD)
+systolic CHF (EF 40-45%)
+fall with multiple rib fractures ([**2163-6-23**])
+GI bleed
+
+Social History:
+Mr. [**Known lastname 108855**] lives in [**Location 745**] with his wife. They are currently
+in the process of moving to an apartment. Per wife, Mr.
+[**Known lastname 108855**] has been feeling stress/depressed about moving out of
+their 42 year home. They have 2 children. He is a retired
+computer science professor. [**First Name (Titles) **] [**Last Name (Titles) 22381**] smoked 5 cigars a day
+for 30 years and quit in [**2150**] after his CVA. He drinks once or
+twice a week. His wife says that even just a little alcohol
+'affects him quite a bit' in changing his mood and makes 'him
+sick'
+
+Family History:
+Father died in 80s from MI. Mother died in 80s from PE. No
+family history of colon, breast, uterine, or ovarian cancer. No
+family history of seizures.
+
+Physical Exam:
+VS: T 101, BP:111/49, HR: 70, RR:19, O2:95% on 50% FiO2
+General: NAD, resting comfortably and sleeping, arousable with
+mild stimuli from sleep, no labored breathing
+HEENT: NC, AT, no blood at trach opening or in oropharynx, MMM
+Neck: no JVD, no LAD
+Lungs: rhonchi throughout, diminished sounds at the bases
+Heart: RRR, no M/R/G
+Abdomen: soft, nontender, nondistended, normoactive bowel
+sounds, PEG and ostomy in place, ostomy has brown stool
+Skin: dry, hyperpigmentation of distal LE bilaterally; LUE seems
+to be more swollen than RUE
+Ext: bilateral lower extremities wrapped in dressing
+NEURO: Coherent but sluggish, has episodic confusion. Can
+verbalize some words through mask. CN II-XII intact, no motor or
+sensory deficits on screening exam.
+At discharge: same as above except
+Gen: Arousable to verbal stimuli
+HEENT: clear/tan secretions at trach site
+Ext: LUE with swelling
+
+Pertinent Results:
+[**2163-7-12**] 02:15PM BLOOD WBC-10.4 RBC-3.05* Hgb-9.1* Hct-28.8*
+MCV-95 MCH-29.9 MCHC-31.6 RDW-19.7* Plt Ct-273
+[**2163-7-19**] 03:00AM BLOOD WBC-3.8* RBC-2.68* Hgb-8.0* Hct-25.5*
+MCV-95 MCH-29.7 MCHC-31.2 RDW-17.1* Plt Ct-111*
+[**2163-7-12**] 02:15PM BLOOD Neuts-80.6* Bands-0 Lymphs-8.4* Monos-9.6
+Eos-0.6 Baso-0.6
+[**2163-7-12**] 02:15PM BLOOD Hypochr-2+ Anisocy-2+ Poiklo-1+
+Macrocy-2+ Microcy-NORMAL Polychr-NORMAL Ovalocy-OCCASIONAL
+Burr-OCCASIONAL Stipple-OCCASIONAL
+[**2163-7-12**] 02:15PM BLOOD PT-14.1* PTT-30.5 INR(PT)-1.2*
+[**2163-7-15**] 05:37AM BLOOD PT-15.0* PTT-29.6 INR(PT)-1.3*
+[**2163-7-12**] 02:15PM BLOOD Glucose-138* UreaN-63* Creat-1.1 Na-150*
+K-4.8 Cl-108 HCO3-33* AnGap-14
+[**2163-7-19**] 03:00AM BLOOD Glucose-130* UreaN-36* Creat-0.9 Na-141
+K-5.1 Cl-105 HCO3-32 AnGap-9
+[**2163-7-12**] 02:15PM BLOOD ALT-43* AST-38 AlkPhos-151* TotBili-1.0
+[**2163-7-12**] 02:15PM BLOOD Lipase-523*
+[**2163-7-12**] 02:15PM BLOOD proBNP-7598*
+[**2163-7-19**] 03:00AM BLOOD Calcium-8.2* Phos-2.8 Mg-2.4
+[**2163-7-13**] 04:36PM BLOOD Type-ART Rates-/32 FiO2-100 pO2-60*
+pCO2-48* pH-7.47* calTCO2-36* Base XS-9 Intubat-NOT INTUBA
+Comment-TRACH MASK
+[**2163-7-12**] 02:22PM BLOOD Lactate-1.1
+.
+Microbiology:
+[**7-13**] Blood Cx: No growth
+[**7-13**] Urine Cx: No growth
+[**7-13**] Sputum Cx: Staph aureus coag +, sensitive to levofloxacin
+[**7-13**] MRSA nasal screen: negative
+.
+Imaging:
+[**7-16**] LUE doppler: No evidence of deep venous thrombosis in the
+left upper extremity.
+[**7-19**] CXR: Slightly rotated positioning. A tracheostomy tube is in
+place. A left-sided dual-lead pacemaker is in place, with lead
+tips over right atrium and right ventricle.  There is moderately
+severe cardiomegaly, with left lower lobe collapse and/or
+consolidation. There is upper zone redistribution and diffuse
+vascular blurring, suggestive of mild CHF. There is focal patchy
+opacity in the left mid zone, which could reflect atelectasis or
+a pneumonic infiltrate. There is a small left and possible
+minimal right effusion. Minimal atelectasis right base. The hila
+are enlarged.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 108855**] is a 84 y/o male with colon cancer s/p resection
+and radiation, CAD s/p stents, systolic CHF with EF 40-45%,
+dilated cardiomyopathy, afib, h/o cardiac arrest and complete
+heart block now with pacer/AICD, and history of GI bleed
+secondary to duodenal telangiectasia who is here from rehab for
+hemoptysis. Of note, he had lengthy TICU hospitalization for L
+1-10th rib fractures, R 5-7th rib fractures, a L hemothorax, a L
+dist clavicle fracture, and he is s/p trach and peg.
+.
+# Hemoptysis: Mr. [**Known lastname 108855**] was noted to have blood tinged
+secretions via his trach. An OSH bronschoscopy was performed and
+reportedly saw bleeding inside the trachea with poor
+visualization. He was transfused 2 units of pRBC and transferred
+to [**Hospital1 18**]. Here, he reported no resp distress. He is status post
+bronchoscopy with our pulmonary team on [**7-13**], which did not find
+an etiology of the bleed. Only suction trauma was seen, and this
+may be the primary etiology of his bloody tracheal secretions.
+While the cause of his hemoptysis remains uncertain, his
+hematocrits have remained stable and there are no signs of
+continuing hemoptysis or active bleeding. Chemical DVT ppx was
+held at time of discharge after he was HIT positive and given
+risk of bleeding with suction trauma.
+.
+# Respiratory distress: His respiratory distress has
+currentlyimproved. Post bronchoscopy, he was noted to be mildly
+tachypnic with RR 30s and was 88% on 15L NC. A CXR showed
+worsening pulmonary edema, and he received lasix with
+improvement in PACU. He was transferred to the MICU for closer
+monitoring. Of note, he was receiving intermittent lasix and an
+IVF bolus prior to bronchoscopy. He is typically on 50% FIO2
+with his trach mask. He was weaned from the ventilator, and was
+continued on albuterol MDIs. He was also treated with vancomycin
+and cefepime for HCAP, until his sputum Cx grew coag-positive
+sta

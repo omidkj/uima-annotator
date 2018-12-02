@@ -1,0 +1,151 @@
+Admission Date:  [**2141-6-5**]              Discharge Date:   [**2141-6-15**]
+
+
+Service: CSURG
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+83 year old white female with worsening shortness of breath over
+the past few months.
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement [**2141-6-5**]
+Permanent pacer placement [**2141-6-13**]
+
+
+History of Present Illness:
+This 83 year old white female has a history of aortic stenosis
+which had been followed by Dr. [**Last Name (STitle) **] with serial
+echocardiograms.  She has been experiencing increased shortness
+of breath with exertion and an echo on [**4-20**] which showed severe
+aortic stenosis with [**First Name8 (NamePattern2) **] [**Location (un) 109**] of 0.3 cm2, moderate left
+ventricular hypertrophy, and a LVEF of 55%.  She underwent
+cardiac cath [**4-19**] which revealed clean coronaries, [**First Name8 (NamePattern2) **] [**Location (un) 109**] of
+0.3cm2 and a peak gradient of 75 mmHg.  She is now admitted for
+elective aortic valve replacement.
+
+Past Medical History:
+H/O aortic stenosis
+H/O anemia
+H/O congestive heart failure
+S/P removal of basal cell from forehead [**7-11**]
+
+Social History:
+Cigs: quit 30 years ago
+ETOH: occasional
+Lives alone.
+
+Family History:
+H/O CAD
+
+Physical Exam:
+Gen: Elderly white female in NAD
+HR:88 BP:110/64 Ht.: 5'6" Wt.: 150 lbs.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx benign.
+Neck: supple, FROM, no lymphadenopathy or thyromegaly, carotids
+1+ = bil. with + radiated murmur.
+Lungs: Clear to A+P
+CV: RRR w/out R/G, 3/6 SEM
+Abd: +BS, soft, nontender w/out masses or hepatosplenomegaly.
+Ext: w/out C/C/E
+Pulses: 2+ = bil. throughout except for femorals which are 1+
+bilat.
+Neuro: nonfocal.
+
+
+Pertinent Results:
+HCT: 31.5
+HBG: 10.3
+WBC: 8.2
+PLT: 222
+Na: 141
+K+: 4.9
+Cl: 107
+CO2: 27
+BUN: 6
+Creat: 0.7
+Gluc.: 102
+
+Brief Hospital Course:
+The patient was admitted on [**2141-6-5**] and underwent an aortic
+valve replacement with a 21 mm tissue valve.  She tolerated the
+procedure well and was transferred to the CSRU on levophed,
+propofol, and isoprel.  She had a four beat run of non-sustained
+VT in her postop night and was extubated the following morning.
+She remained on milrinone and levophed and was transfused 1 unit
+of PRBC.  She was in Wenkebach and was seen by EP.  They
+recommended holding beta blockers and followed.  She continued
+on milrinone and had her chest tubes d/c'd on POD#4.  On POD#6
+her wires were d/c'd and she was off pressors.  EP continued to
+follow her and she developed tachycardia in addition to her 2nd
+degree heart block. Whenever she was given beta blockers she
+would block down.  On [**2141-6-13**] she had a DDD pacer placed and
+tolerated the procedure well.
+She was transferred to the floor on POD#9 and was restarted on
+beta blockers without problems.  She continued to improve and
+was discharged to rehab on POD#10 in stable condition.
+
+Medications on Admission:
+Digoxin 0.125 mg PO qd
+Lasix 40 mg. PO qd
+Folic acid 1 mg PO qd
+MVI 1 PO qd
+Feosol 325 mg PO qd
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID
+(2 times a day).
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QD (once a day).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day for 3
+months.
+5. Hydromorphone HCl 2 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+6. Captopril 12.5 mg Tablet Sig: Three (3) Tablet PO TID (3
+times a day).
+7. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+8. FerrouSul 325 (65) mg Tablet Sig: One (1) Tablet PO once a
+day. Tablet(s)
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 582**] Of [**Location (un) 620**]
+
+Discharge Diagnosis:
+Aortic stenosis.
+Anemia
+Second degree heart block
+Congestive heart failure
+
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+You may not drive for 4 weeks.
+You may not lift more than 10 lbs. for 3 months.
+You may shower, let water flow over wounds, pat dry with a
+towel.
+Do not use any creams or lotions on wounds.
+Do not swim or take a bath for 1 month.
+
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) 55855**] for 1-2 weeks.
+Make an appointment with Dr. [**Last Name (STitle) **] for 2-3 weeks.
+Make an appointment with Dr. [**Last Name (STitle) 1290**] for 4 weeks.
+Provider:  [**Name10 (NameIs) 676**] CLINIC Where: [**Hospital6 29**] CARDIAC
+SERVICES Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2141-6-19**] 10:00
+
+
+
+Completed by:[**2141-6-15**]

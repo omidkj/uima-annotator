@@ -1,0 +1,214 @@
+Admission Date:  [**2111-11-10**]              Discharge Date:   [**2111-11-11**]
+
+Date of Birth:  [**2031-12-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2712**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname 90888**] is a 79[**Hospital **] transfer from OSH with a
+nonverbal/noncommunicative baseline due to mental retardation
+and schizophrenia who presented in respiratory distress.
+.
+At the OSH, he had a desaturation to 55% on RA.  He has an
+active DNR/DNI, and was placed on noninvasives. He received
+vancomycin and solumedrol for pneumonia versus COPD
+exacerbation.  Per EMS en route, his oxygenation improved with
+application of the BiPAP mask.  ABG there revealed 7.39/40/24 on
+BIPAP 20/10.  Received solumedrol prior to transfer.
+.
+On arrival to [**Hospital1 18**] ED, his initial vitals were pulse 92
+BP108/76 RR24, sat 95%RA.  He was found to be nonverbal with an
+examination revealing diffuse rhonchi throughout both lung
+fields.  He was tachypneic but satting 95% on RA.  He had a
+lactate of 3.4, leukopenia to 1.1.  A CXR revealed possible left
+perihilar infiltrate raising concern for HCAP.  Levofloxacin and
+metronidazole were added to his regimen and he was admitted to
+the MICU for further management.
+.
+On arrival to the unit, his initial VS were: T94.5 axillary,
+P76, BP93/58, Sat 95% 50% face tent. He could not provide
+further history.  BiPAP was removed on admission with
+maintenance of his sats in the mid 90s on face tent.  Thick
+secretions were noted.
+.
+
+
+Past Medical History:
+- schizophrenia
+- mental retardation
+- COPD
+- CKD (unknown baseline)
+- tardive dyskinesia
+- hypothyroidism
+- GERD
+
+
+Social History:
+lives in [**Hospital 2251**] nursing home
+
+
+Family History:
+Unknown
+
+Physical Exam:
+On admission:
+Vitals: T94.5 axillary, P76, BP93/58, Sat 95% 50% face tent
+General: grunting, grumbling, swearing
+HEENT: Sclera anicteric, MM dry
+NECK: supple, cannot assess JVD due to positioning
+LUNGS: auscultation procluded by vocalizations, but no wheezing.
+ Wet cough.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+TTE:
+The left atrium is elongated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Left ventricular function is not well visualized due to
+suboptimal views. Left ventricular systolic function appears
+grossly preserved with possible regional wall motion abnormality
+(EF ?50?). There may be apical hypokinesis but regional wall
+motion is not well seen. Right ventricular chamber size and free
+wall motion are normal. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+stenosis or aortic regurgitation. The mitral valve appears
+structurally normal with trivial mitral regurgitation. The
+estimated pulmonary artery systolic pressure is normal. There is
+no pericardial effusion.
+.
+LENIs;
+IMPRESSION:
+1. No deep vein thrombosis is seen bilaterally from the common
+femoral to the popliteal veins. Note is made that the patient
+did not tolerate evaluation of calf veins.
+2. Small left popliteal [**Hospital Ward Name 4675**] cyst.
+.
+CXR:
+Evaluation is limited due to patient positioning. The lung
+volumes are low.  There are left perihilar and right infrahilar
+opacities consistent with aspiration pneumonia. There is no
+pneumothorax amd no large pleural
+effusions.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 90888**] is a 79yoM with a history of MR, schizophrenia,
+transferred from OSH for respiratory distress, admitted to the
+MICU for monitoring
+
+1. HEALTHCARE ASSOCIATED PNEUMONIA:  He presented with
+desaturations at the OSH and arrived on BiPAP, which was rapidly
+weaned to face tent upon admission to the MICU, where he
+maintained his saturations in the mid to upper 90s.  A CXR
+showed evidence of a left lingular pneumonia, and so he was
+broadly covered empirically with vancomycin, cefepime, and
+levofloxacin pending cultures.  Levofloxacin was stopped on
+[**2111-11-11**] to avoid further QTC prolonging meds, and vancomycin was
+dced on discharged given no growth x48h. The pt will be
+continued on Cefepime 2g IV q12h to complete an 8day course
+(last day [**11-18**]). On discharge his O2 sats were stable on RA.
+
+2. SEPSIS:  He presented with borderline low blood pressures
+with MAPS in the 50s, leukopenia, tachycardia, and tachypnea,
+elevated lactate.  With suspected pneumonic and urinary
+infectious source, sepsis was likely.  He was fluid
+resuscitated, and broadly covered with antibiotics as above.  He
+received stress dose hydrocortisone since he is on prednisone
+5mg daily at baseline for COPD. His blood pressure remained
+stably low.  His lactate downtrended. On day of discharge he
+received hydrocortisone 50mg IV q8h, and will be discharged on
+his home dose of prednisone 5mg daily.
+
+3. ELEVATED TROPONIN:  His trop was elevated to 0.16 on
+admission with a BNP>[**Numeric Identifier 2686**]. CK and MB fractions were negative.
+EKG showed lateral TWI which were seen on previous EKGs.  A
+demand ischemia seems possible from sustained tachycardia. Trops
+were downtrending on serial assays.
+
+4. ELEVATED BNP:  BNP was >[**Numeric Identifier 2686**] on admission without a history
+of CHF.  Clinically, he appeared hypovolemic on admission exam,
+so acute CHF was not suspected.  A limited echo revealed a
+likely EF of 50% though no wall motion abnormality could be seen
+or excluded.
+
+5. HYPERNATREMIA:  He presented with a Na to 150 which
+downtrended with fluid resuscitation.
+
+6. ACUTE KIDNEY INJURY:  He has CKD with unclear baseline Cr,
+though presented with [**Last Name (un) **] to cr 2.0.  Urine lytes showed sodium
+avidity with FeNa 0.08%.  Creatinine improved with fluids.
+
+7. SCHIZOPHRENIA:  He has been institutionalized since age 18,
+and was continued on his outpatient anti-psychotic regimen
+including risperidone, risperdal consta, olanzapine, and
+valproic acid.  Restraints necessary for attempted violent
+behavior.  He appeared at his mental status baseline per niece's
+report.  He often refused meals and oral medications.
+
+8. HYPOTHYROIDISM: continued levothyroxine
+
+----
+Transitional Issues:
+- The patient should be continued on Cefepime 2g IV q12h until
+[**11-18**] to complete an 8 day course.
+- PICC line was placed for administration of IV abx. This should
+be discontinued on completion of antibiotic course.
+
+
+Medications on Admission:
+- levothyroxine 112mcg daily
+- divalproex 875mg daily 6am, noon, 1000mg every 6pm
+- risperidone 1 mg TID
+- omeprazole 20mg daily
+- risperdal consta 25mg IM every 2 weeks (due on [**11-11**])
+- multivitamin with mineral
+- prednisone 5mg daily
+- zyprexa 15mg [**Hospital1 **]
+- sodium bicarb 650mg [**Hospital1 **]
+- scopolamine patch behind ear every 72 hrs
+- vitamin d 800units QHS
+- acetaminophen 650mg q4hrs prn
+- procrit 40K units prn HCT<30 (has not received in months)
+- dulcolax 10mg suppository qd prn
+- fleet enema prn
+- milk of mag 30mg daily prn
+- risperdal 0.5mg q4-6 hr prn agitation
+
+
+Discharge Medications:
+1. risperidone 0.5 mg Tablet Sig: Two (2) Tablet PO TID (3 times
+a day).
+2. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+3. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+4. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain/fever.
+5. risperidone 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for agitation.
+6. scopolamine base 1.5 mg Patch 72 hr Sig: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours).
+7. olanzapine 15 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+8. risperidone microspheres 25 mg/2 mL Syringe Sig: One (1)
+Syringe Intramuscular Q2W (WE): Last dose [**11-11**].
+9. divalproex 125 mg Tablet, Delayed Release (E.C.) Sig: Seven
+(7) Tablet, Delayed Release (E.C.) PO q6am, qnoon.
+10. divalpro

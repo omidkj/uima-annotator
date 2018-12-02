@@ -1,0 +1,138 @@
+Admission Date:  [**2183-2-12**]              Discharge Date:   [**2183-3-26**]
+
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 4659**]
+Chief Complaint:
+Colon cancer
+
+Major Surgical or Invasive Procedure:
+Sigmoid colectomy and partial small bowel resection
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a [**Age over 90 **]-year-old gentleman with a [**1-10**] month history
+of not feeling well, associated with weight loss of an unknown
+amount, and diarrhea. On workup, he was found to have a sigmoid
+colon cancer at 25 cm and CT scan showed a possible adherent
+matted loop of small bowel which may have a small bowel fistula.
+He presents now for resection.
+
+Past Medical History:
+1st degree AV block
+
+Social History:
+Denies EtOH or tobacco
+
+Family History:
+NC
+
+Physical Exam:
+At time of discharge:
+
+Alert, oriented X 1 (self only)
+PERRL, EOMI
+RRR
+CTAB
+Abdomen soft, NT/ND, +bs, no masses, well healing incision
+Ext without C/C/E
+
+Pertinent Results:
+Pathology results from 3/8/6
+Segmental resection of colon (sigmoid): Mucinous adenocarcinoma,
+arising in a villous adenoma. The carcinoma extends through the
+colonic wall and invades the full thickness of an adjacent
+segment of small bowel, forming two fistula tracts
+
+[**2183-3-3**]: WBC-5.7 RBC-3.24* Hgb-9.0* Hct-27.5* MCV-85 MCH-27.8
+MCHC-32.7 RDW-17.5* Plt Ct-281
+[**2183-3-5**]: Hct-36.1*#
+[**2183-2-16**]: PT-12.1 PTT-29.3 INR(PT)-1.0
+[**2183-3-5**]: Glucose-133* UreaN-65* Creat-2.1* Na-143 K-5.6* Cl-108
+HCO3-26 AnGap-15
+03/28/06Glucose-117* UreaN-54* Creat-1.4* Na-144 K-4.7 Cl-111*
+HCO3-25 AnGap-13
+[**2183-2-12**]: Glucose-123* UreaN-17 Creat-1.0 Na-143 K-3.8 Cl-116*
+HCO3-18* AnGap-13
+[**2183-2-14**]: ALT-10 AST-23 LD(LDH)-185 AlkPhos-84 Amylase-14
+TotBili-0.3
+Lipase-10
+[**2183-2-18**]: proBNP-9278*
+[**2183-2-17**]: proBNP-[**Numeric Identifier 25969**]*
+[**2183-2-12**]: CK-MB-NotDone cTropnT-0.06*
+[**2183-2-13**]: CK-MB-NotDone cTropnT-0.07*
+[**2183-2-13**]: CK-MB-7 cTropnT-0.06*
+[**2183-3-5**]: Calcium-9.8 Phos-4.3 Mg-1.9
+[**2183-2-19**]: TSH-8.0*
+
+Brief Hospital Course:
+On [**2183-2-12**] Mr. [**Known lastname **] was admitted to the surgery service under
+the care of Dr. [**Last Name (STitle) **]. He was taken to the OR for resection.
+For details of the operation, please see Dr.[**Name (NI) 6218**] operative
+report. Postoperatively he was admitted to the ICU and placed on
+an amiodarone drip due to rapid atrial fibrillation. His pain
+was well controlled with an epidural. Cardiology and EPS were
+consulted POD1 for assistance in controlling Mr. [**Known lastname 1226**]
+tachycardia. Once stable, Mr. [**Known lastname **] was transferred to the
+floor on HD 3. His diet was slowly advanced. On the night of HD
+4, he was found to be increasingly somnolent, difficult to
+arouse, and unable to follow commands. His ABG was 7.27/51/66/24
+and he was hypernatremic. He was transferred back to the ICU for
+close monitoring. Due to increasing agitation Mr. [**Known lastname **] [**Last Name (Titles) 25970**]d to pull out his foley, Dobhoff that had been placed
+for tube feeding, and his IV. Geriatrics was consulted for his
+mental status changes and felt that his pain medication may have
+contributed to his confusion. His pain was now well controlled
+with tylenol only. He was transferred back to the floor on POD 8
+with a 1:1 sitter. He gradually became slightly more alert and
+oriented as his hypernatremia was corrected. His diet was
+advanced to regular, however his po intake was poor. Supplements
+and TPN were initiated. On HD 20, TPN, PICC and foley were
+d/c'd. Pts PO intake remained poor. His BUN and creatinine
+continued to rise. On HD 22, IVF were reinitiated. HD 23,
+substantial increase of K to 6.5 with increase BUN to 80 and
+creatinine 2.1. Urine lytes were ordered along with stat EKG.
+Renal was consulted. Gerientology continued to follow pt and
+provide recs. Notable decline in mental status and increase in
+agitation. Pts state continued to decline with increased
+creatinine and BUN. Multiple boluses were adminsitered. On HD
+26, urine output noted to have decreased to less than 15/hr.
+Oxygen level had diminshed to 88% on room air and was placed on
+a fask mask with which he had sats of 93%. Pt transferred to the
+unit. Continued decline in respiration and patient foudn to be
+acidotic as per ABG. Pt intubated and NGT placed. Renal team
+spoken with and dialysis begun.   As the hospitalization
+progressed, his overall status began to improve.
+Neurologically, all hiss sedation was minimized.  We were able
+to wean all of his pressor support.  In terms of the ventilator,
+he was weaned to nasal cannula gradually.  Tube feeds were
+initiated via a g-tube(placed [**3-16**]) and advanced to goal rate
+with good urine output.  He finished a course of meropenum for
+enterobacter in the blood. The patient was being screened for
+rehab when on the morning of [**3-26**], he acutly went into
+bradycardia, then cardiac arrest.  Patient was intubated and
+ACLS protocol was initiated.  The attending surgeon was present
+at that time and after a short period of time, the code was
+called and the patient expired.
+
+Medications on Admission:
+None
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1186**] - [**Location (un) 538**]
+
+Discharge Diagnosis:
+Colon cancer
+
+
+Discharge Condition:
+expired
+
+                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **] MD, [**MD Number(3) 4661**]
+

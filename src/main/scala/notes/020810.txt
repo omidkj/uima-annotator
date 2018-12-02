@@ -1,0 +1,217 @@
+Admission Date:  [**2166-9-18**]              Discharge Date:   [**2166-9-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2698**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization with Cypher and hepacoat stent placement
+repeat cardiac catheterization
+
+
+History of Present Illness:
+This is an 87 year old woman with no known past medical history
+who presents with substernal chest pain, with radiation down
+arms and mild associated nausea. She went to the [**Location (un) 620**] ED and
+was found to have anterior ST elevtions on EKG, so she was
+transferred to [**Hospital1 18**] for emergent cardiac catheterization.
+
+Past Medical History:
+none known, denies. Has never seen a physician on [**Name Initial (PRE) **] regular
+basis. Has never been hospitalized except with the birth of her
+daughter.
+
+Social History:
+lives at home alone.
+smoked 40 pack years, quit [**2141**]
+drinks occasionally before bedtime
+Has one daughter, who is involved in her care.
+
+Family History:
+mother and father both lived into their 90's.
+
+Physical Exam:
+T97.3 P101 BP 148/69 RR21 96% 2L
+Gen: A+Ox2, NAD, sleepy
+HEENT: PERRLA, MM dry, OP clear
+Neck: no JVD
+Resp: CTA bilaterally
+CV: RRR, nl s1s2, no MGR
+Abd: soft, NT ND +BS
+Ext: 2+ DP bilaterally, groin sheath in place on R with small
+ecchymosis
+neuro: poor historian, a+o x2, conversant, moving all extrm,
+follows commands, sleepy, normal strength throughout
+
+
+Pertinent Results:
+134  104  24  /
+-------------  110
+4.3  21  0.8  \
+Ca: 8.4 Mg: 2.0 P: 3.6
+
+CK: 586  MB: 109  MBI: 18.6  Trop-*T*: 1.57
+
+Cholesterol:245
+Other Blood Chemistry:
+Triglyc: 138
+HDL: 66
+CHOL/HD: 3.7
+LDLcalc: 151
+Ldl(Calc) Invalid If Trig>400 Or Non-Fasting Sample
+    \12.0  /
+10.3 ------ 337
+    / 33.6  \
+
+PT: 13.2  PTT: 45.5  INR: 1.1
+
+Initial EKG at OSH: STE V1-V3, ST depressions in II, III, AVF
+
+EKG [**9-18**]
+Initial portion of the tracing shows an irregular narrow complex
+tachycardia.
+Question sinus tachycardia with atrial premature beats/question
+atrial
+tachycardia which is followed by sinus bradycardia. Diffuse ST-T
+wave
+abnormalities with configuration consistent with acute
+anterior(question
+lateral)injury/ischemia/infarction. Clinical correlation is
+suggested. No
+previous tracing available for comparison.
+
+Cardiac cath [**9-18**]
+COMMENTS:
+1. Selective coronary angiography revealed a right dominant
+system.
+The LMCA was a short artery, but angiographically normal. The
+LAD had a
+proximal 50% tubular stenosis, a focal 90% stenosis with mid
+vessel
+thrombus, and a 80% distal stenosis.
+2. Limited hemodynamics on entry showed an elevated central
+pressure.
+4. Successful stenting of the mid LAD with overalpping 2.5 x 23
+mm
+cypehr DES and 2.0 x 13 mm pixel stent at 14 atms with no
+residual
+stenosis, no dissection and timi 3 flow. See PTCA comments.
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Successful stenting of the mid LAD.
+
+Echo [**2166-9-19**]
+Conclusions:  EF not calculated
+There is moderate regional left ventricular systolic
+dysfunction. Resting
+regional wall motion abnormalities include anteroseptal,
+anterior and apical
+akinesis. The aortic valve leaflets are mildly thickened. There
+is no aortic
+valve stenosis. No aortic regurgitation is seen. The mitral
+valve leaflets are
+mildly thickened. Trivial mitral regurgitation is seen. There is
+an anterior
+space which most likely represents a fat pad, though a loculated
+anterior
+pericardial effusion cannot be excluded.
+
+
+Brief Hospital Course:
+1. Anterior STEMI: The patient was taken for emergent cardiac
+catheterization upon transfer from [**Location (un) 620**]. The patient was
+stented twice in the LAD  (cypher DES and hepacoat) and was
+continued on integrillin post catheterization for 18 hours. She
+was started on aspirin, plavix, a statin, bb, and ACE. Physical
+therapy was consulted for cardiac rehab. During her initial
+cardiac cath, she was also noted to have a LCx stenosis (>80%),
+so it was recommended that she return to the cath lab for
+elective stent of this vessel. She returned on [**9-22**] to receive
+a Cypher stent to her Left Cx. She recommended to continue
+Plavix 75mg for at least 6 months and ASA daily.
+
+2. Pump - Echo post MI showed apical aneurism, moderate LV
+dysfunction. She was started on lisinopril and a beta blocker.
+She was also started on heparin because of potential for
+thrombus formation in the aneurism. She was given Lasix as
+needed for diuresis. She was started on coumadin and should
+continue this as an outpatient for at least 6 months. She needs
+to have her INR checked daily until INR [**12-31**] reached and dosing
+should be changed accordingly.
+
+3. Rhythm - The patient was noted to be generally in sinus
+rhythm but had occasional runs of atrial tachycardia as well as
+atrial fibrillation. Her metoprolol was increased as tolerated,
+and she was given Lopressor 5 mg IV prn for runs of atrial
+tachycardia which generally occurred prior to her scheduled dose
+of oral metoprolol. She was started on anticoagulation with
+coumadin as above.
+
+4. Sundowning - This occurred on several evenings, requiring 1:1
+observation, which was discontinued >24 hours prior to her
+discharge. Her confusion was likely multifactorial: She had a
+large anterior MI, followed by cardiac catheterization x 2 with
+sedation, EGD w/ sedation, and a prolonged hospital stay.  The
+patient was A+Ox2 at baseline. Per her daughter, she did not
+have appreciable memory loss or other symptoms. She was given
+Zyprexa QHS and ativan as needed for agitation with good effect.
+There may be a component of underlying dementia that should be
+sorted out once her acute medical issues have completely
+resolved.
+
+5. Anemia - The patient's hct dropped from 34 at admission to 27
+without known etiology. Hemolysis labs showed no evidence of
+hemolysis. Iron studies showed TIBC low, ftn ok, iron low which
+suggested a mixed picture of [**Doctor First Name **] and ACD. Guaiac was initially
+negative during admission. She had no history of GI bleeding or
+scope evaluation prior to this hospitalization. Though she had a
+slight R groin ecchymosis post cath with some blood oozing from
+around the sheath site, this was not felt to be a large source
+of bleeding.  She then developed one episode of melena. She had
+an EGD which revealed duodenitis. She will require pantoprazole
+as she cannot stop her Plavix and she is at risk for bleeding.
+This may require further outpatient work up if her anemia
+continues. Her hematocrit remained >30 for several days prior to
+discharge. She received a total of 2 units of packed red blood
+cells during her admission (on [**9-20**] and [**9-23**]). She remained
+hemodynamically stable throughout her admission.
+
+6. Follow-up: The patient will need a PCP and to [**Name Initial (PRE) **]/u with a
+cardiologist (we have made her a cardiology appt). In addition,
+she needs basic health maintenance such as a screening
+colonoscopy and a mammogram. All of the above has been discussed
+with patient and her daughter.
+
+Medications on Admission:
+Multivitamin
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QD ().
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD
+().
+3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+4. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO QD
+().
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO QD () as needed.
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+8. Toprol XL 100 mg Tablet Sustained Release 24HR Sig: 1.5
+Tablet Sustained Release 24HRs PO once a day.
+9. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+10. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO QAM (once a
+day (in the morning)) as needed.
+11. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO QD ().
+12. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.)
+Sig: One (1) Tablet, Delayed Release (E.C.) PO Q

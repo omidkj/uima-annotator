@@ -1,0 +1,208 @@
+Admission Date:  [**2111-12-11**]              Discharge Date:   [**2111-12-29**]
+
+Date of Birth:  [**2032-11-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2195**]
+Chief Complaint:
+Hemoptysis
+
+
+Major Surgical or Invasive Procedure:
+Intubation
+Bronchoscopy
+Rigid bronchoscopy
+Bronchial artery embolization
+
+History of Present Illness:
+This is a 79 year old female with PMH history significant for TB
+treated 20 years prior, bronchiectasis on 2L home oxygen, ASD
+s/p surgical repair with resultant atrial fibrillation, history
+of subdural hematoma and rectus sheath hematoma secondary to
+coumadin and multiple TIAs off of anticoagulation, on dabigatran
+for several weeks who presented initially to OSH for hemoptysis
+and transferred to [**Hospital1 18**] for further evaluation.
+
+Per report, patient with several coughing episodes last night
+with hemoptysis of several teaspoons of bright red blood.  She
+went to bed without incident.  On the day of admission, patient
+developed massive amounts of hemoptysis (several cupfulls) at
+1PM today, and was taken to an OSH.  There, she was found to be
+tachycardic to the 120s and hypoxic to 85% (on unclear amount of
+oxygen) with stable hematocrit of 42.7 and an INR of 1.1.  Other
+labs notable for wbc of 15.3, dig level of 0.7, trop of 0.01,
+CK: 51, sodium 126.  She was intubated for airway protection.
+Chest radiograph without acute process.  Thoracic surgery team
+performed bronchoscopy who found blood in the RLL; no
+intervention was performed.  NG tube was placed and drained
+coffee ground material.
+
+At [**Hospital1 18**] ED, initial vital signs were 130/80, 80, 16, 100%.
+Repeat hct was 39.5 and INR was 1.3.  NG lavage was clear.
+Chest radiograph demonstrated opacities bilaterally concerning
+for blood vs. aspiration.  IP was consulted and patient was
+taken emergently to OR for rigid bronchoscopy, which
+demonstrated large clot in RLL with active oozing around the
+clot.  BAL was performed.  Left lung was suctioned of blood.
+Double lumen endotracheal tube was placed to protect the left
+lung.  Plan was for IR to evaluate patient for bronchial artery
+embolization.
+
+Past Medical History:
+- atrial fibrillation, previously on coumadin but now on
+dabigatran
+- history of subdural bleed 3 years ago while on coumadin with
+some dysarthria and right sided weakness
+- history of multiple TIAs (most recently 2 weeks ago) while off
+coumadin (restarted coumadin several years ago) -> stopped
+definitively on 10/[**2110**].  Restarted dabigatran several weeks
+ago.
+- history of large rectus sheath hematoma in [**8-/2111**]
+- HTN
+- GERD
+- history of TB treated 20 years ago
+- bronchiectasis with home oxygen of 2L
+- ASD s/p surgical repair 10 years prior with development of
+atrial fibrillation after procedure
+- chronic hyponatremia ? secondary to SIADH
+
+Social History:
+Lives with family in [**Location (un) **].  Prior 15 pack year smoking
+history.  No alcohol or other illicit drug use.
+
+
+Family History:
+NC
+
+Physical Exam:
+ADMISSION:
+VS: Temp: BP: 126/61 HR: 74 RR: 25 O2sat, 100% on vent.
+GEN: intubated
+HEENT: pupils round, 3mm, and sluggishly reactive to light
+RESP: lungs clear to auscultation from the anterior chest wall
+CV: RRR, S1 and S2 wnl, no m/r/g
+ABD: soft, nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+EXT: no c/c/e
+SKIN: no rashes/no jaundice/no splinters
+NEURO: Intubated, pupil exam as above.
+.
+DISCHARGE:
+VS: Temp: 96.4 BP: 144/78 HR: 64 RR: 18 O2sat: 98%2L NC
+GA: AOx2, NAD
+HEENT: MMM. no LAD. no JVD. neck supple.
+Cards: irreg irreg, S1/S2 heard. no murmurs/gallops/rubs.
+Pulm: CTAB, no wheezes or rhonchi
+Abd: soft, NT, +BS. no g/rt. Palpable R periumbical subcutaneous
+mass, non-tender, non-fluctuant
+Extremities: wwp, no edema in LE bilaterally. DPs, PTs 2+.
+Skin: dry, ecchymoses on UE bilaterally
+Neuro/Psych: CNs II-XII grossly intact. 4/5 strength in U/L ext,
+R<L. Sensation intact to LT. Gait deferred. Able to perform DOTW
+forward.
+
+
+Pertinent Results:
+Admission labs:
+[**2111-12-11**] 06:10PM   GLUCOSE-108* UREA N-18 CREAT-0.5 SODIUM-131*
+POTASSIUM-4.3 CHLORIDE-91* TOTAL CO2-31 ANION GAP-13
+[**2111-12-11**] 06:10PM   OSMOLAL-273*
+[**2111-12-11**] 06:10PM   WBC-10.7 RBC-4.16* HGB-12.8 HCT-39.5 MCV-95
+MCH-30.8 MCHC-32.4 RDW-14.8
+[**2111-12-11**] 06:10PM   NEUTS-86.4* LYMPHS-10.0* MONOS-3.1 EOS-0.3
+BASOS-0.3
+[**2111-12-11**] 06:10PM   PLT COUNT-231
+[**2111-12-11**] 06:10PM   PT-15.1* PTT-34.1 INR(PT)-1.3*
+
+[**2111-12-16**] 03:08   Digoxin 0.8*
+.
+Discharge labs:
+[**2111-12-29**] 05:47AM BLOOD WBC-6.2 RBC-3.27* Hgb-10.0* Hct-30.5*
+MCV-93 MCH-30.6 MCHC-32.9 RDW-14.8 Plt Ct-545*
+[**2111-12-29**] 05:47AM BLOOD Glucose-86 UreaN-15 Creat-0.5 Na-136
+K-3.8 Cl-95* HCO3-34* AnGap-11
+[**2111-12-29**] 05:47AM BLOOD Calcium-8.6 Phos-3.4 Mg-2.2
+.
+Cardiac enzymes:
+                   CK-MB cTropnT
+[**2111-12-23**] 05:09    2 <0.011
+[**2111-12-22**] 21:43    2 <0.011
+[**2111-12-22**] 13:01    2 <0.011
+[**2111-12-22**] 05:43    2 <0.011
+[**2111-12-21**] 03:59    2 <0.011
+.
+Microbiology:
+[**2111-12-24**]  STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-NEG
+[**2111-12-23**]  STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-NEG
+[**2111-12-17**]  BLOOD CULTURE-NEG
+[**2111-12-16**]  Mini-BAL GRAM STAIN-GNRs; RESPIRATORY
+CULTURE-PSEUDOMONAS AERUGINOSA. 10,000-100,000 ORGANISMS/ML;
+LEGIONELLA CULTURE-PRELIMINARY; FUNGAL CULTURE-NGTD; ACID FAST
+SMEAR-NEG; ACID FAST CULTURE-NGTD
+[**2111-12-15**]  BRONCHOALVEOLAR LAVAGE GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-FINAL {PSEUDOMONAS AERUGINOSA, PSEUDOMONAS AERUGINOSA}
+INPATIENT
+[**2111-12-14**]  URINE CULTURE-NEG
+[**2111-12-14**]  BLOOD CULTURE-NEG
+[**2111-12-12**]  URINE CULTURE-NEG
+[**2111-12-11**]  BRONCHIAL WASHINGS GRAM STAIN-NEG; RESPIRATORY
+CULTURE-  PSEUDOMONAS AERUGINOSA
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+AMIKACIN--------------    32 I       16 S
+CEFEPIME--------------    16 I       16 I
+CEFTAZIDIME-----------     2 S        4 S
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------  =>16 R     =>16 R
+MEROPENEM-------------     1 S        1 S
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------  =>16 R     =>16 R
+ACID FAST SMEAR-NEG; ACID FAST CULTURE-PRELIMINARY; FUNGAL
+CULTURE-NGTD; POTASSIUM HYDROXIDE PREPARATION-Cancelled;
+LEGIONELLA CULTURE-NEG
+[**2111-12-11**]  MRSA SCREEN-NEG
+.
+Imaging:
+Chest radiograph ([**2111-12-11**]):
+1. ET tube 6 cm above carina.
+2. Endogastric tube side port just at the GE junction, would
+recommend
+advancing approximately 5 more cm to ensure that it is within
+the stomach.
+3. Patchy opacities throughout the lungs may represent
+aspiration or
+hemorrhage in this patient with hemoptysis.
+4. Prominent right apical opacity may be prominent assymetic
+pleural
+thickening. Recommend correlation with history of malignancy and
+chest CT for further evaluation.
+.
+Bronch report ([**2111-12-11**]): large clot in RLL, actively oozing
+around clot.  Clot was not disturbed.
+.
+TTE ([**2111-12-12**]):
+The left and right atria are moderately dilated. Left
+ventricular wall thickness, cavity size, and global systolic
+function are normal (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. The right ventricular cavity is dilated. Free wall
+motion is low normal. The aortic valve leaflets are mildly
+thickened. There is no aortic valve stenosis. Mild (1+) aortic
+regurgitation is seen. Mild to moderate ([**11-29**]+) mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+Moderate [2+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+IMPRESSION: Suboptimal image quality. Normal biventricular
+cavity sizes with preserved global biventricular systolic
+function. Pulmonary artery hypertension. Moderaet mitral
+regurgitation. Mild aortic regurgitation.
+.
+Rigid bronch report ([**2111-12-12**]):
+Once the patient was relaxed, the rigid bronchoscope was
+introduced into the oral cavity and followed along the double
+lumen endotracheal tube u

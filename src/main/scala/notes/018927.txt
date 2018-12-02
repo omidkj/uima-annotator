@@ -1,0 +1,193 @@
+Admission Date:  [**2182-2-23**]              Discharge Date:   [**2182-2-26**]
+
+Date of Birth:  [**2138-9-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Cephalosporins / Erythromycin Base / Levofloxacin
+
+Attending:[**First Name3 (LF) 2763**]
+Chief Complaint:
+Dyspnea, hemoptysis
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+REASON FOR MICU TRANSFER: pneumonia; trach-dependent chronic
+respiratory failure
+.
+HISTORY OF PRESENT ILLNESS: 43 year old man with Duchenne
+muscular dystrophy with chronic respiratory failure s/p
+tracheostomy who is ventilator dependent (for chest
+expansion/volume, not oxygen). He has been having increasing SOB
+and rust-colored sputum from his trach, and has not been as
+comfortable with his normal titer volume on his vent (700). He
+has had two recent pneumonias, both of which were treated with
+ciprofloxacin, the last one approximately 2 weeks ago. These
+were managed at home by his pulmonologist. Today, given the
+increasing oxygen requirement he went to the [**First Name4 (NamePattern1) 5871**] [**Last Name (NamePattern1) **] where he
+was noted to have a leukocytosis (WBC 19.9 with 87%PMNs) and
+lactate 2.6. CXR showed right-sided pneumonia. He was given
+vancomycin 1.5g and was transferred to [**Hospital1 18**] given lack of ICU
+beds at [**Location (un) 5871**].
+.
+In the [**Hospital1 18**] ED initial VS were: 98.8, 68, 100/64, 16, 100%.
+Labs notable for WBC 19.2 (90% PMN) with normal lactate. Initial
+ABG was 6.9/113/101/24 on 100% FiO2. He was difficult to
+ventilate which was thought to be secondary to the placement of
+the trach. He was given vecuronium, his trach was readjusted,
+and Dr. [**Last Name (STitle) **] [**Name (STitle) 42972**] him in the ED and suctioned mucus from
+the right lung and BAL was sent. His subsequent ABG were
+7.26/34/275/16 on 100% FiO2, and then 7.18/47/128/18. A repeat
+CXR confirmed likely right-sided pneumonia. He was given
+levofloxacin 750mg IV but developed a rash around the IV, so the
+antibiotic was stopped. He was febrile to 101.2 and most recent
+VS prior to transfer are: 98, 117/83, 98% on Fi02 100%, PEEP 5,
+RR 20, TV 350. He is currently on versed/fentanyl.
+.
+On arrival to the MICU, the patient is ventilated by the trach.
+He is sedated and paralyzed.
+.
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+- Duchenne muscular dystrophy
+- Chronic respiratory failure s/p trach [**2170**], vent-dependent
+- Bronchiectasis
+- S/p cardiac arrest in [**2163**] in setting of viral pnumonia, s/p
+ICD
+- Left ventricular ejection fraction of 37% by cardiac MRI in
+[**2173**] at [**Hospital3 1810**]
+- H/o ventricular tachycardia [**8-/2180**] (thought most likely due to
+an atrial flutter conducting 1:1 across the AV node in the
+setting of his baseline abnormal QRS complex)
+- Long QT interval
+- Right bundle branch block
+- Scoliosis
+- Cholelithiasis
+- S/p open gastrectomy and PEG tube placement
+
+Social History:
+He lives with his [**Last Name (LF) **], [**First Name3 (LF) 4559**] and Pirina. He has nursing
+care 5 days a week. He is a nonsmoker and denies alcohol use.
+
+
+Family History:
+Mother has arrhythmia for which she takes metoprolol; father had
+CABG for CAD.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: 96/58, 65, 24, 100% on FiO2 100%
+General: Trached, sedated, paralyzed
+HEENT: Sclera anicteric, PEERL
+Neck: JVP not elevated
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Decreased breath sounds bilaterally, L>R
+Abdomen: Obese, soft, non-tender, bowel sounds present
+GU: + foley
+Ext: Feet contracted and cool to touch, rest of body WWP, no
+peripheral edema
+Neuro: Unable to assess
+Access: Right femoral triple lumen, 22-gauge in left hand
+.
+DISCHARGE PHYSICAL EXAM:
+Tmax: 37.3 ??????C (99.1 ??????F) Tc: 36.7 ??????C (98.1 ??????F) HR: 60 (60 - 85)
+bpm BP: 81/42(54) {79/42(54) - 146/91(107)} mmHg RR: 14 (14 -
+16) insp/min SpO2: 99%
+General: Trached, interactive
+HEENT: Sclera anicteric, PEERL
+Neck: JVP not elevated
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Decreased breath sounds bilaterally, otherwise clear to
+auscultation bilaterally
+Abdomen: Obese, soft, non-tender, bowel sounds present
+GU: + foley
+Ext: Feet contracted and cool to touch, rest of body WWP, no
+peripheral edema
+Neuro: Alert and oriented, CN grossly intact, otherwise unable
+to asses
+
+Pertinent Results:
+[**2182-2-23**] 11:42PM   VANCO-26.4*
+[**2182-2-23**] 05:42PM   TYPE-ART TEMP-36.6 PO2-203* PCO2-28* PH-7.40
+TOTAL CO2-18* BASE XS--5 INTUBATED-INTUBATED
+[**2182-2-23**] 05:42PM   LACTATE-0.6
+[**2182-2-23**] 05:42PM   freeCa-1.14
+[**2182-2-23**] 02:15PM   GLUCOSE-71 UREA N-8 CREAT-0.0* SODIUM-134
+POTASSIUM-4.1 CHLORIDE-110* TOTAL CO2-17* ANION GAP-11
+[**2182-2-23**] 02:15PM   CK(CPK)-74
+[**2182-2-23**] 02:15PM   CK-MB-5 cTropnT-<0.01
+[**2182-2-23**] 02:15PM   WBC-7.0 RBC-3.99* HGB-11.4* HCT-35.8* MCV-90
+MCH-28.5 MCHC-31.9 RDW-16.4*
+[**2182-2-23**] 02:15PM   PLT COUNT-200
+[**2182-2-23**] 11:45AM   TYPE-ART TEMP-36.5 RATES-20/ TIDAL VOL-450
+PEEP-10 O2-50 PO2-234* PCO2-25* PH-7.45 TOTAL CO2-18* BASE XS--4
+-ASSIST/CON INTUBATED-INTUBATED
+[**2182-2-23**] 11:45AM   LACTATE-1.0
+[**2182-2-23**] 09:56AM   TYPE-ART TEMP-37.0 RATES-20/ TIDAL VOL-450
+PEEP-10 O2-50 PO2-240* PCO2-27* PH-7.42 TOTAL CO2-18* BASE XS--4
+-ASSIST/CON INTUBATED-INTUBATED
+[**2182-2-23**] 09:56AM   GLUCOSE-92 LACTATE-1.0 NA+-135 K+-2.9*
+[**2182-2-23**] 09:56AM   freeCa-1.06*
+[**2182-2-23**] 09:45AM   GLUCOSE-97 UREA N-11 CREAT-0.0* SODIUM-137
+POTASSIUM-3.2* CHLORIDE-111* TOTAL CO2-18* ANION GAP-11
+[**2182-2-23**] 09:45AM   CALCIUM-7.5* PHOSPHATE-2.0*# MAGNESIUM-1.9
+[**2182-2-23**] 09:45AM   OSMOLAL-281
+[**2182-2-23**] 09:45AM   WBC-9.4# RBC-4.05* HGB-11.6*# HCT-36.3*#
+MCV-90 MCH-28.6 MCHC-31.9 RDW-16.1*
+[**2182-2-23**] 09:45AM   NEUTS-82.2* LYMPHS-11.9* MONOS-5.5 EOS-0.2
+BASOS-0.2
+[**2182-2-23**] 09:45AM   PLT COUNT-191
+[**2182-2-23**] 09:45AM   PT-17.5* PTT-36.4 INR(PT)-1.6*
+[**2182-2-23**] 08:01AM   TYPE-ART TEMP-37.0 RATES-24/24 TIDAL VOL-490
+PEEP-10 O2-100 PO2-458* PCO2-22* PH-7.47* TOTAL CO2-16* BASE
+XS--4 AADO2-236 REQ O2-47 INTUBATED-INTUBATED VENT-CONTROLLED
+[**2182-2-23**] 08:01AM   LACTATE-0.7
+[**2182-2-23**] 08:01AM   freeCa-1.09*
+[**2182-2-23**] 04:14AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.007
+[**2182-2-23**] 04:14AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2182-2-23**] 04:14AM URINE  RBC-<1 WBC-3 BACTERIA-NONE YEAST-NONE
+EPI-0
+[**2182-2-23**] 03:47AM   estGFR-Using this
+[**2182-2-23**] 03:47AM   estGFR-Using this
+[**2182-2-23**] 03:47AM   CK(CPK)-94
+[**2182-2-23**] 03:38AM   TYPE-ART O2-100 PO2-275* PCO2-34* PH-7.26*
+TOTAL CO2-16* BASE XS--10 AADO2-407 REQ O2-71
+[**2182-2-23**] 03:38AM   LACTATE-2.0
+[**2182-2-23**] 02:39AM   TYPE-ART O2-100 PO2-101 PCO2-113* PH-6.90*
+TOTAL CO2-24 BASE XS--14
+[**2182-2-24**] 01:43AM BLOOD WBC-6.7 RBC-3.92* Hgb-11.0* Hct-35.5*
+MCV-90 MCH-28.1 MCHC-31.1 RDW-16.6* Plt Ct-189
+[**2182-2-25**] 06:22AM BLOOD WBC-6.4 RBC-3.97* Hgb-11.2* Hct-35.4*
+MCV-89 MCH-28.3 MCHC-31.7 RDW-16.7* Plt Ct-227
+[**2182-2-26**] 04:08AM BLOOD WBC-6.0 RBC-3.91* Hgb-11.1* Hct-34.8*
+MCV-89 MCH-28.3 MCHC-31.8 RDW-16.9* Plt Ct-192
+[**2182-2-23**] 02:15PM BLOOD Plt Ct-200
+[**2182-2-25**] 06:22AM BLOOD Plt Ct-227
+[**2182-2-26**] 04:08AM BLOOD Plt Ct-192
+[**2182-2-24**] 01:43AM BLOOD Glucose-60* UreaN-9 Creat-0.0* Na-136
+K-4.0 Cl-108 HCO3-17* AnGap-15
+[**2182-2-24**] 12:20PM BLOOD Glucose-76 UreaN-12 Creat-0.2* Na-137
+K-3.9 Cl-107 HCO3-11* AnGap-23*
+[**2182-2-24**] 06:45PM BLOOD Glucose-91 UreaN-11 Creat-0.1* Na-135
+K-3.5 Cl-107 HCO3-12* AnGap-20
+[**2182-2-26**] 04:08AM BLOOD Glucose-87 UreaN-8 Creat-0.0* Na-136
+K-3.7 Cl-108 HCO3-17* AnGap-15
+[**2182-2-23**] 03:47AM BLOOD CK(CPK)-94
+[**2182-2-23**] 02:15PM BLOOD CK(CPK)-74
+[**2182-2-24**] 01:43AM BLOOD Calcium-8.6 Phos-2.1* Mg-1.9
+[**2182-2-24**] 12:20PM BLOOD Calcium-9.0 Phos-2.9 Mg-1.9
+[**2182-2-24**] 06:45PM BLOOD Calcium-8.4 Phos-1.9* Mg-1.8
+[**2182-2-25**] 06:22AM BLOOD Calcium-8.3* Phos-2.2* Mg-2.3
+[**2182-2-26**] 04:08AM BLOOD Calcium-8.3* Phos-1.6* Mg-2.0
+[**2182-2-23**] 11:42PM BLOOD Vanco-26.4*
+[**2182-2-24**

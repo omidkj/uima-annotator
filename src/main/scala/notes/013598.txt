@@ -1,0 +1,189 @@
+Admission Date:  [**2139-7-25**]              Discharge Date:   [**2139-7-30**]
+
+Date of Birth:  [**2060-11-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Zestril / Diovan / Hydrochlorothiazide / Univasc /
+Verapamil / Cimetidine / Bactrim / Ketoconazole
+
+Attending:[**First Name3 (LF) 7333**]
+Chief Complaint:
+Lightheaded
+
+Major Surgical or Invasive Procedure:
+[**2139-7-27**]- pacemaker placement: [**Company 1543**] ADAPTA ADDRL1
+
+
+History of Present Illness:
+Patient is a 78 yo female with PMHx of a-fib, hypertension,
+benign bladder tumor presenting with light-headedness and
+bradycardia.  It began on [**7-13**] when patient first noticed
+symptoms.  She was placed on KOH monitor the following week,
+which captured an abnormal rhythm.  In addition, this AM, she
+woke up dizzy with a pulse she measured to be 38.  Daughter was
+called, captured event on KOH and brought patient to ED after
+talking to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].  Captured event was a junctional
+rhythm.  Patient denied any chest pain, shortness of breath,
+headaches, syncope, fever, chills.
+.
+In the ED vitals were HR 50, RR 17, BP 138/34, Sa02 of 95%.
+Patient was stable.  Developed some nausea after receiving
+atropine- was given zofran and ativan.  Nausea subsided and
+patient's anxiety was relieved.  She was given dopamine 10mg in
+ED which converted her back to sinus rhythm.  Attempt was made
+to wean patient off dopamine but she converted back into
+junctional rhythm.  Dopamine restarted and patient returned to
+sinus rhythm.
+.
+On arrival to the CCU, the patient was sleeping.  Comfortable.
+Still in sinus rhythm with HR of 58.  SBP of 138.  Satting at
+92% on 2L NC.
+.
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. She denies recent fevers, chills or
+rigors. She denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope.  Reports light-headedness
+and dizziness.
+
+
+Past Medical History:
+****** CARDIAC HISTORY: *****
+# Paroxysmal a-fib/flutter/tachy s/p multiple cardioversions
+(last in [**Month (only) 216**] and then [**2138-5-9**] at [**Hospital1 18**])
+- followed by Dr [**Last Name (STitle) **]
+- on coumadin and dofetilide
+- prior amio, but stopped d/t pulmonary and thyroid toxicity
+# Valvular disease - Followed by Dr. [**First Name (STitle) **].
+# CAD - Cardiac cath in [**2130**] with 2VD, mild MR, mod systolic and
+ diastolic dysfunction
+# Transient CHF in setting of LAD ischemia
+# -Diabetes, -Dyslipidemia, +Hypertension (baseline SBP in the
+150s)
+.
+***** OTHER PAST MEDICAL HISTORY:  *******
+# Bladder tumor - CTU on [**2135-1-13**] with likely TCC, s/p cystoscopy
+
+[**2135-1-18**] and cystoscopy [**2135-1-24**] for excision
+# H/O + PPD
+# Amiodarone induced pulmonary fibrosis - restrictive
+ventilatory defect in [**8-23**] with FEV1/FVC on 115% predicted
+# Adrenal adenoma ('[**31**])
+# Hemorrhoids
+# Constipation
+# H/o pulmonary edema ('[**29**])
+# Chronic pericardial effusions - not amenable to bx, no
+tamponade
+# Temporal lobe epilepsy with single seizure ('[**13**]) and none
+since with carbamazepine therapy
+# Gastritis (hx h.pylori)
+
+
+Social History:
+Pt lives with husband; she immigrated from [**Country 651**] in [**2091**],
+minimal English speaking, speaks Cantonese; no
+IVDU/ETOH/Tobacco; independent of ADLs. Daughter works at [**Hospital1 **] as
+nurse in employee health.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+GENERAL: In NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 2 cm above clavicle.
+CARDIAC: Bradycardic.  Regular rhythm.  3/6 systolic murmur
+heard best at right sternal border.  PMI located in 5th
+intercostal space, midclavicular line. Normal S1, S2. No
+thrills, lifts. No S3 or S4.
+LUNGS: Bilateral inspiratory crackles to apex.  No chest wall
+deformities, scoliosis or kyphosis. Resp were unlabored, no
+accessory muscle use. No wheezes.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+[**2139-7-25**] 02:00PM BLOOD WBC-7.5 RBC-3.51* Hgb-11.4* Hct-34.6*
+MCV-99* MCH-32.5* MCHC-32.9 RDW-12.6 Plt Ct-179
+[**2139-7-26**] 08:55AM BLOOD WBC-6.9 RBC-3.27* Hgb-10.9* Hct-32.1*
+MCV-98 MCH-33.4* MCHC-34.1 RDW-12.7 Plt Ct-142*
+[**2139-7-27**] 05:21AM BLOOD WBC-6.4 RBC-3.12* Hgb-10.2* Hct-31.0*
+MCV-99* MCH-32.8* MCHC-33.0 RDW-12.7 Plt Ct-148*
+[**2139-7-28**] 05:20AM BLOOD WBC-7.6 RBC-3.26* Hgb-10.5* Hct-32.2*
+MCV-99* MCH-32.3* MCHC-32.7 RDW-12.6 Plt Ct-161
+[**2139-7-29**] 06:00AM BLOOD WBC-6.8 RBC-3.30* Hgb-10.9* Hct-32.8*
+MCV-99* MCH-33.1* MCHC-33.3 RDW-12.6 Plt Ct-183
+[**2139-7-30**] 05:20AM BLOOD WBC-5.9 RBC-3.04* Hgb-9.9* Hct-29.8*
+MCV-98 MCH-32.5* MCHC-33.3 RDW-12.5 Plt Ct-166
+[**2139-7-25**] 02:00PM BLOOD Neuts-50.9 Lymphs-42.0 Monos-6.2 Eos-0.6
+Baso-0.4
+[**2139-7-25**] 02:00PM BLOOD PT-26.6* PTT-35.9* INR(PT)-2.6*
+[**2139-7-25**] 02:00PM BLOOD Plt Ct-179
+[**2139-7-26**] 08:55AM BLOOD PT-20.6* PTT-33.0 INR(PT)-1.9*
+[**2139-7-26**] 08:55AM BLOOD Plt Ct-142*
+[**2139-7-26**] 06:23PM BLOOD PT-19.4* PTT-82.4* INR(PT)-1.8*
+[**2139-7-27**] 05:21AM BLOOD PT-16.5* PTT-31.2 INR(PT)-1.5*
+[**2139-7-27**] 05:21AM BLOOD Plt Ct-148*
+[**2139-7-28**] 05:20AM BLOOD PT-14.4* PTT-29.1 INR(PT)-1.2*
+[**2139-7-28**] 05:20AM BLOOD Plt Ct-161
+[**2139-7-28**] 04:00PM BLOOD PTT-110.5*
+[**2139-7-28**] 10:45PM BLOOD PTT-133.3*
+[**2139-7-29**] 06:00AM BLOOD PT-15.8* PTT-80.1* INR(PT)-1.4*
+[**2139-7-29**] 06:00AM BLOOD Plt Ct-183
+[**2139-7-29**] 01:00PM BLOOD PTT-69.4*
+[**2139-7-30**] 05:20AM BLOOD PT-15.7* PTT-91.6* INR(PT)-1.4*
+[**2139-7-30**] 05:20AM BLOOD Plt Ct-166
+[**2139-7-25**] 02:00PM BLOOD Glucose-104 UreaN-24* Creat-2.2*# Na-130*
+K-4.8 Cl-96 HCO3-26 AnGap-13
+[**2139-7-25**] 11:28PM BLOOD Glucose-134* UreaN-16 Creat-1.0# Na-139
+K-4.0 Cl-102 HCO3-25 AnGap-16
+[**2139-7-26**] 08:55AM BLOOD Glucose-163* UreaN-15 Creat-1.0 Na-136
+K-3.9 Cl-102 HCO3-23 AnGap-15
+[**2139-7-26**] 06:23PM BLOOD K-3.7
+[**2139-7-27**] 05:21AM BLOOD Glucose-93 UreaN-15 Creat-0.8 Na-139
+K-4.6 Cl-106 HCO3-26 AnGap-12
+[**2139-7-28**] 05:20AM BLOOD Glucose-87 UreaN-15 Creat-0.8 Na-135
+K-4.0 Cl-101 HCO3-27 AnGap-11
+[**2139-7-29**] 06:00AM BLOOD Glucose-106* UreaN-21* Creat-0.8 Na-138
+K-4.1 Cl-100 HCO3-27 AnGap-15
+[**2139-7-30**] 05:20AM BLOOD Glucose-100 UreaN-16 Creat-0.8 Na-138
+K-4.4 Cl-104 HCO3-28 AnGap-10
+[**2139-7-25**] 02:00PM BLOOD Calcium-8.9 Phos-5.3*# Mg-2.2
+[**2139-7-25**] 11:28PM BLOOD Calcium-9.0 Phos-3.6# Mg-2.3
+[**2139-7-26**] 08:55AM BLOOD Calcium-8.6 Phos-2.9 Mg-2.0
+[**2139-7-27**] 05:21AM BLOOD Calcium-8.7 Phos-2.9 Mg-2.2
+[**2139-7-28**] 05:20AM BLOOD Calcium-8.8 Phos-3.7 Mg-2.0
+[**2139-7-29**] 06:00AM BLOOD Calcium-9.1 Phos-3.9 Mg-2.2
+
+Brief Hospital Course:
+This is a 78 year old female with a-fib, aortic stenosis,
+hypertension who presented with light-headedness and symptomatic
+junctional rhythm which required pacemaker placement.
+.
+# RHYTHM:  History of paroxysmal a-fib/flutter/tachy.  Admitted
+for symptomatic (light-headed) junctional rhythm.
+Hemodynamically stable.  Initially started on dopamine 10mcg in
+ED.  Converted to sinus rhythm.  Attempted to stop dopamine but
+she went back into junctional rhythm.  Was seen by cardiology
+fellow on admission.  Patient was placed on telemetry and
+maintained on dopamine 10mcg on arrival to CCU.
+That night, she had prolonged pauses on tele ranging from
+2.83-3.11 seconds but remained asymptomatic.  Increased dopamine
+to 15mcg/min.  BP elevated (SBP in 170s).  Gave 50mg PO
+hydralazine (home dose) and checked pressure before increasing
+dop

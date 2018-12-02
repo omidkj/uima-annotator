@@ -1,0 +1,141 @@
+Admission Date:  [**2116-6-23**]       Discharge Date:  [**2116-7-1**]
+
+Date of Birth:   [**2074-8-7**]       Sex:  M
+
+Service:  Cardiothoracic
+
+CHIEF COMPLAINT:  The patient is a 41-year-old male with
+newly discovered aortic insufficiency referred by Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 16072**] to [**Hospital6 256**] for cardiac
+catheterization to further evaluate his aortic valve and
+determine his need for surgery.
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known lastname **] is an active
+otherwise healthy police officer who developed a cough about
+a year ago.  The cough occurs only in the morning when he
+first wakes up and is productive for yellow and sometimes
+blood tinged secretions.  Since [**Month (only) 116**], he has been experiencing
+profound shortness of breath.  He has also been getting up in
+the middle of the night due to shortness of breath and
+sleeping in an elevated position on the couch.  He denies
+lightheadedness or orthopnea.  An echocardiogram done on [**6-23**] showed moderate left ventricular hypertrophy with an
+ejection fraction of 50% and 4+ aortic insufficiency.  Aortic
+valve was not coapting properly.  There was flow reversal in
+the descending aorta, tricuspid regurgitation, normal PA
+pressures with a mildly dilated LV outflow tract.  Also noted
+were a dilated sinus of Valsalva and dilated ascending aorta.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension
+2.  Remote tobacco use, quit 14 years ago
+
+ALLERGIES:  He has no known drug allergies.
+
+MEDICATIONS PRIOR TO ADMISSION:
+1.  Atenolol 25 mg qd
+2.  Captopril 25 mg [**Hospital1 **]
+
+Height is 5 feet 10 inches.  Weight is 194 pounds.
+
+LAB DATA:  White count 4.9, hematocrit 46.3, platelets 192.
+Sodium 140, potassium 5.2, chloride 107, CO2 28, BUN 26,
+creatinine 1.8, INR 1.1.
+
+SOCIAL HISTORY:  Married police officer in [**Location (un) **].
+
+HOSPITAL COURSE:  On the day of admission, the patient was
+brought to the catheter lab where he underwent cardiac
+catheterization.  Please see the catheter report for full
+details.  In summary, the catheter showed 1+ mitral
+regurgitation with 3+ to 4+ aortic insufficiency, normal
+coronary arteries without lesions and ejection fraction of
+45%.  Following his cardiac catheterization, Cardiothoracic
+Surgery was consulted.  The patient was consented and agreed
+to surgery.  On [**6-25**], he was brought to the Operating
+Room.  Please see the Operating Room for full details.  In
+summary, the patient had an aortic valve replacement with a
+29 mm [**Last Name (un) 3843**]-[**Doctor Last Name **] pericardial valve.  He tolerated the
+operation well and was transferred from the Operating Room to
+the Cardiothoracic Intensive Care Unit.  The patient did well
+in the immediate postoperative period.  His anesthesia was
+reversed.  Initial attempts at weaning him from the
+ventilator were unsuccessful due to a relative hypoxia
+requiring high [**Name (NI) 42684**] and 7.5 to 10 of PEEP.
+
+On the morning of postoperative day #1, the patient's PEEP
+was weaned to 5.  His FIO2 was also weaned and he was
+successfully extubated.  During that period, the patient
+remained hemodynamically stable and later in the day of
+postoperative day #1, he was transferred from the Intensive
+Care Unit to [**Hospital Ward Name 121**] Six for continuing postoperative care and
+cardiac rehabilitation.
+
+On postoperative day #2, the patient's Foley and chest tubes
+were discontinued.  His activity level was increased with the
+assistance of the nursing staff and physical therapy.  Over
+the next several days, the patient was noted to have a low
+grade temperature with a maximum temperature of 101.9??????.  He
+was pan cultured at that time.  Sputum and blood cultures
+returned negative.  His urine culture came back positive with
+an Escherichia coli urinary tract infection for which he was
+treated with Levaquin 500 mg qd x14 days.  Additionally, the
+patient had chest x-ray and echocardiogram, both of which
+were negative for a fever source.  The patient continued to
+progress in the postoperative period and on postoperative day
+#7, it was deemed that he was stable and ready to be
+discharged to home.
+
+At the time of discharge, the patient's physical exam is as
+follows:
+VITAL SIGNS:  Temperature 99.3??????, heart rate 84 sinus rhythm,
+blood pressure 137/86, respiratory rate 18, O2 saturation 94%
+on room air.  Weight preoperatively is 85.5 kg, at discharge
+it is 82 kg.
+LAB DATA:  White count 4.5, hematocrit 27.4, platelets 220.
+Sodium 138, potassium 4.5, chloride 99, CO2 25, BUN 34,
+creatinine 1.9, glucose 92.
+
+PHYSICAL EXAM:
+VERTICAL
+GENERAL:  Alert and oriented x3, moves all extremities,
+conversant.
+RESPIRATORY:  Clear to auscultation bilaterally.
+HEART:  Heart sounds regular rate and rhythm with no murmur.
+STERNUM:  Stable.  Incision with Steri-Strips open to air,
+clean and dry.
+ABDOMEN:  Soft, nontender, nondistended, normoactive bowel
+sounds.
+EXTREMITIES:  Warm and well perfuse with no cyanosis,
+clubbing or edema.
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 mg qd
+2.  Colace 100 mg [**Hospital1 **]
+3.  Metoprolol 25 mg [**Hospital1 **]
+4.  Captopril 25 mg tid
+5.  Levaquin 500 mg qd x12 days
+6.  Dilaudid 2 to 4 mg q 4 to 6 hours prn
+
+DISCHARGE DIAGNOSES:
+1.  Aortic insufficiency, status post aortic valve
+replacement with a #29 [**Last Name (un) 3843**]-[**Doctor Last Name **] pericardial valve
+2.  Hypertension
+
+DISCHARGE STATUS:  The patient is to be discharged home.
+
+DISCHARGE CONDITION:  Stable
+
+FOLLOW UP:  He is to have follow up with Dr. [**Last Name (STitle) 16072**] in four
+weeks and follow up with Dr. [**Last Name (STitle) 70**] in six weeks.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 75**]
+
+Dictated By:[**Name8 (MD) 415**]
+MEDQUIST36
+
+D:  [**2116-7-1**]  10:12
+T:  [**2116-7-1**]  10:24
+JOB#:  [**Job Number 42685**]

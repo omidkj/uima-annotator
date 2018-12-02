@@ -1,0 +1,196 @@
+Admission Date:  [**2157-8-1**]              Discharge Date:   [**2157-8-18**]
+
+Date of Birth:  [**2083-7-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics) / Morphine / Erythromycin Base /
+Desipramine / Ace Inhibitors / Codeine / Nifedipine
+
+Attending:[**First Name3 (LF) 1253**]
+Chief Complaint:
+Shortness of breath, tachycardia
+
+Major Surgical or Invasive Procedure:
+DC Cardioversion
+
+
+History of Present Illness:
+74 yo F with PMH significant for pancreatic CA s/p Whipple's
+procedure and chemotherapy, HTN, HLD, CKD, DM 2, recurrent C.
+diff and UTI, and recent left femur fracture, presents with
+shortness of breath and tachycardia, found to have pulmonary
+embolism and atrial flutter with RVR.
+.
+Patient reports that she was experiencing shortness of breath
+this AM at [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **] and was noted to be tachypneic up to
+the 30s. Denied chest pain, chest pressure, diaphoresis,
+vomiting, syncope. Otherwise, reports diarrhea from C. diff,
+increased upper extremity edema over the past 2 days, and
+worsening wheeze.
+.
+Of note, patient was found to have a non-occlusive left
+popliteal DVT on LENI in [**2157-5-29**]. Lovenox and IVC filter were
+recommended and patient declined both. On [**2157-7-16**], she syncopized
+and sustained a fall from standing height at rehab, resulting in
+left oblique displaced comminuted midshaft femur fracture. This
+was repaired at [**Hospital1 18**] on [**2157-7-20**] when she underwent a retrograde
+femoral nail for left femur fracture. Post-operatively, patient
+was discharged on prophylaxis dose of lovenox 40 mg/0.4 ml sc
+qd.
+.
+Two day prior to admission, patient noted increased swelling in
+her upper extemities. Also reports having a repeat LENI done of
+the left leg which showed disappearance of the previously noted
+DVT.
+.
+In the ED, initial VS were 98.2 141 126/87 24 98% 4L Nasal
+Cannula. EKG showed A-flutter and she was given an adenosine
+challenge. Received IV diltiazem (5 mg x 3) and then diltiazem
+gtt, which was stopped after the CTA showed PE. CT head was
+performed to ruled out metastasis which was negative. She was
+guaiac negative and started on heparin gtt. Labs were notable
+for BNP 7400, troponin 0.08, Cr 1.4 (baseline 1.7), positive UA,
+and patient was given vancomycin + zosyn. Per report, bedside
+echo did not show RV collapse. On transfer, VS were HR 141 BP
+109/71 RR 16 O2sat 97% 3L (NC).
+.
+On the floor, patient was tachypneic and in slight distress.
+Denied chest pain however does report wheezing and shortness of
+breath.
+
+Past Medical History:
+ - Pancreatitis in [**2156-3-15**] at [**Hospital1 112**]. MRI/MRCP on [**2156-9-29**]
+showed a 2 cm cystic mass of the pancreatic head with
+obstruction of the pancreatic and bile ducts. She underwent ERCP
+
+on [**2156-10-4**] and a stent was placed. CEA was 32.8 on [**2156-10-5**].
+Brushing at the time of ERCP was suspicious for adenocarcinoma.
+She had an EUS on [**2156-11-8**] and FNA biopsy revealed malignant
+cells consistent with adenocarcinoma. Staging CT on [**2156-11-13**]
+revealed a 1.9 cm x 1.6 cm hypoattenuating pancreatic head mass
+with post-obstructive pancreatic ductal dilatation to 6mm. No
+evidence of local, hepatic or vascular invasion; scattered
+celiac axis and porta hepatis LNs measuring up to 1.2 cm. She
+was seen by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at [**Hospital1 **] surgery service and had
+Whipple surgery on [**2156-12-2**]. She had stayed in Rehab until the
+
+beginning of [**2157-1-12**] and then shortly after she was discharged
+from rehab, she was admitted to [**Hospital1 **] on [**2157-1-28**] for C diff, UTI
+and acute renal failure.
+.
+Chemotherapy:
+[**2157-2-17**] Cycle 1 Gemzar 800mg/m2, week 3 treatment on [**3-3**] was
+held due to poor PS.
+[**2157-3-11**] Cycle 2 Gemzar 800mg/m2
+[**2157-3-25**] 2u pRBC tx [**Hospital1 **]
+[**2157-4-7**] Cycle 3 week 1 Gemzar 800mg/m2
+[**2157-4-14**] Cycle 3 week 2 Gemzar 800mg/m2
+[**2157-4-21**] Cycle 3 week 3 Gem 800 mg/m2, 25% dose reduction
+[**2157-4-21**] 2u pRBC tx [**Hospital1 **]
+[**2157-5-12**] Cycle 4 week 1-delayed by one week due to diarrhea,
+elevated Cr and fatigue
+[**2157-5-19**] Cycle 4 Week 2 Gemzar 800mg/m2
+[**Date range (1) 29228**] Admitted to [**Hospital1 18**] for chemotherapy induced anemia,
+transfused 3 units PRBCs, diagnosed with left popliteal DVT,
+declines anticoagulation
+[**2157-6-9**] Cycle 5 Week 1 Gemzar 800mg/m2-start 2 weeks on/ 1 week
+off
+[**2157-6-23**] 2u pRBC tx [**Hospital1 **]
+.
+- History of DVT ([**2157-5-29**]) on LENI at [**Hospital1 18**]
+- Clostridium difficile colitis as above
+- Stage III chronic kidney disease (baseline Cr 1.7)
+- Diabetes mellitus type 2
+- Hypertension
+- Hyperlipidemia
+- Gastroesophageal reflux disease
+- Diverticulosis with recurrent lower GI bleeding, etiology has
+been unclear despite workup but presumed diverticular.
+- Renal Stone: Left staghorn calculus
+- Depression, which is longstanding and difficult to treat.
+- Degenerative joint disease
+- Gout
+
+
+Social History:
+Patient lives alone in [**Location (un) 86**], and relies on her sister for
+needed support.  She is independent, and cares for herself
+without any assistance.  There is no recent ETOH use, no tobacco
+use (she quit smoking 25 yrs ago), no illicit drug use.
+
+Family History:
+Sister with breast cancer, diagnosed at age 58.
+
+Physical Exam:
+Adm PE:
+
+General: obese woman, lying in bed, in mild distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP difficult to appreciate due to body habitus
+Lungs: Diffuse expiratory wheezes, crackles at both bases
+CV: Regular and tachycardic, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, distended, well-healed scar, left LLQ with
+subcutaneous edema, no rebound tenderness or guarding, no
+organomegaly
+GU: Foley draining dark fluid
+Ext: warm, venous stasis changes on right shin, with 2+ edema up
+to the knee, left leg with surgical scar at knee, in airboot,
+intact PD pulses
+
+Discharge PE:
+97.6  140/86  87  18  97% 2L
+
+
+Pertinent Results:
+1. Labs in admission:
+[**2157-8-1**] 11:30AM BLOOD WBC-9.2 RBC-3.72*# Hgb-12.6# Hct-40.5#
+MCV-109* MCH-33.9* MCHC-31.1 RDW-23.3* Plt Ct-467*
+[**2157-8-1**] 11:30AM BLOOD PT-14.1* PTT-29.2 INR(PT)-1.2*
+[**2157-8-1**] 10:00PM BLOOD PT-18.5* PTT-150* INR(PT)-1.7*
+[**2157-8-1**] 11:30AM BLOOD Glucose-112* UreaN-23* Creat-1.4* Na-140
+K-4.7 Cl-110* HCO3-23 AnGap-12
+[**2157-8-1**] 11:30AM BLOOD ALT-11 AST-41* LD(LDH)-308* CK(CPK)-39
+AlkPhos-334* TotBili-0.3
+[**2157-8-1**] 11:30AM BLOOD CK-MB-3 proBNP-7400*
+[**2157-8-1**] 11:30AM BLOOD cTropnT-0.08*
+[**2157-8-1**] 10:00PM BLOOD CK-MB-3 cTropnT-0.07*
+[**2157-8-1**] 11:30AM BLOOD Albumin-1.9* Calcium-8.1* Phos-4.1 Mg-1.9
+[**2157-8-1**] 12:32PM BLOOD Lactate-1.5
+.
+2. Labs on discharge:
+- CA [**65**]-9 ******
+.
+3. Micro:
+[**2157-8-15**] STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B
+TEST-POSITIVE {CLOSTRIDIUM DIFFICILE} INPATIENT
+[**2157-8-11**] URINE URINE CULTURE-FINAL {YEAST} INPATIENT
+[**2157-8-5**] URINE URINE CULTURE-FINAL {YEAST} INPATIENT
+[**2157-8-1**] STOOL FECAL CULTURE-FINAL; CAMPYLOBACTER
+CULTURE-FINAL; CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-Negative
+[**2157-8-1**] MRSA SCREEN MRSA SCREEN-FINAL INPATIENT
+[**2157-8-1**] BLOOD CULTURE Blood Culture, Routine-FINAL
+EMERGENCY [**Hospital1 **]
+[**2157-8-1**] BLOOD CULTURE Blood Culture, Routine-FINAL
+EMERGENCY [**Hospital1 **]
+[**2157-8-1**] URINE URINE CULTURE-FINAL {YEAST, PROBABLE
+ENTEROCOCCUS} EMERGENCY [**Hospital1 **]
+
+4. Imaging/diagnostics:
+- CTA chest ([**2157-8-1**]): 1. Acute PE involving segmental lower
+lobe pulmonary arteries. 2. Moderate pericardial effusion with
+possible tamponade given flattening of the interventricular
+septum. Correlate clinically. 3. Bilateral pleural effusions,
+lower lobe atelectasis and ground-glass alveolar opacities
+suggesting mild pulmonary edema.
+4. Rib lesions as detailed, most focal at the 7th right
+posterior rib, ??
+metastasis.
+.
+- CT head ([**2157-8-1**]): No acute intracranial process.
+.
+- Echocardiogram ([**2157-8-2**]): The left atrium is moderately
+dilated. There is mild symmetric left ventricular hypertrophy
+with normal cavity size and 

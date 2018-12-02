@@ -1,0 +1,237 @@
+Admission Date:  [**2150-11-6**]              Discharge Date:   [**2150-11-9**]
+
+Date of Birth:  [**2078-8-6**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Cardizem / Compazine
+
+Attending:[**Known firstname 922**]
+Chief Complaint:
+occasional palpitations
+
+Major Surgical or Invasive Procedure:
+[**2150-11-6**] Bil. Mini-Maze thoracotomies/ligation LAA
+
+
+History of Present Illness:
+72 yo M with history of atrial fibrillation which is currently
+medically managed. He mas macular degeneration and is hoping to
+avoid coumadin.
+
+Past Medical History:
+PPM, AFib, Bilat OA-bilat knee arthoscopy, ^chol, COPD, spastic
+esophagus, cholelithiasis, removal skin lesions
+
+Social History:
+lives alone
+retired teacher
+quit tobacco [**2132**] (60 pack-year history)
+denies etoh
+
+Family History:
+NC
+
+Physical Exam:
+NAD
+Healed left anterior chest wall incision/pacer site
+Distant heart sounds, no murmur noted
+Abdomen soft/NT/ND
+Mild BLE varicosities
+
+
+Pertinent Results:
+[**2150-11-8**] 05:05AM BLOOD WBC-10.8 RBC-3.37* Hgb-11.2* Hct-33.6*
+MCV-100* MCH-33.4* MCHC-33.5 RDW-14.0 Plt Ct-153
+[**2150-11-7**] 02:27AM BLOOD PT-13.4* PTT-27.5 INR(PT)-1.2*
+[**2150-11-8**] 05:05AM BLOOD Plt Ct-153
+[**2150-11-8**] 05:05AM BLOOD Glucose-96 UreaN-13 Creat-0.5 Na-137
+K-4.1 Cl-102 HCO3-28 AnGap-11
+[**2150-11-8**] 05:05AM BLOOD Calcium-8.1* Phos-1.5* Mg-2.1
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 177**]       [**Hospital1 18**] [**Numeric Identifier 72717**] (Complete)
+Done [**2150-11-6**] at 10:23:41 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**Known firstname 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2078-8-6**]
+Age (years): 72 M  Hgt (in): 70
+BP (mm Hg): 110/65  Wgt (lb): 193
+HR (bpm): 60  BSA (m2): 2.06 m2
+Indication: Intraoperative TEE for Mini MAZE procedure
+ICD-9 Codes: 427.31, 424.1, 424.0
+Test Information
+Date/Time: [**2150-11-6**] at 10:23    Interpret MD: [**First Name8 (NamePattern2) 6506**] [**Name8 (MD) 6507**],
+MD
+Test Type: TEE (Complete)
+3D imaging. Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6507**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW1-: Machine: [**Doctor Last Name 11422**] 3D
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+
+LEFT ATRIUM: Good (>20 cm/s) LAA ejection velocity. No thrombus
+in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Normal regional LV systolic function. Overall
+normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal descending aorta diameter.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PERICARDIUM: Small pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient is in a
+ventricularly paced rhythm. Results were personally reviewed
+with the MD caring for the patient.
+Conclusions
+1. No thrombus is seen in the left atrial appendage. Very small
+left atrial appendage. Seen with difficulty. Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+from cardiology confirms there is no clot in the LAA.
+
+2. No atrial septal defect is seen by 2D or color Doppler.
+
+3.Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is normal (LVEF>55%).
+
+4.Right ventricular chamber size and free wall motion are
+normal.
+
+5.The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. Mild (1+) aortic regurgitation is seen.
+
+6. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen.
+
+7.There is a small pericardial effusion.
+
+8. The left atrial appendage is ligated at the end of the
+procedure.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Interpretation assigned to [**First Name8 (NamePattern2) 6506**] [**Name8 (MD) 6507**], MD, Interpreting
+physician
+
+
+?????? [**2146**] CareGroup
+
+Brief Hospital Course:
+On [**11-6**] he was taken to the operating room where he underwent a
+bilateral minimaze with left atrial appendage ligation, as well
+as left lung biopsy with left VATS. He was transferred to the
+ICU in stable condition. He was extubated later that day. His
+pacemaker was interrogated by electrophysiology and he was found
+to be in NSR. His chest tube was pulled without incident. He was
+transferred to the floor on POD #1.
+He had some short bursts of atrial fibrillation but was in NSR
+under his pacemaker at the time of discharge.
+Pt. is to have weekly BUN/creatinine blood tests done with
+results to Dr. [**Last Name (STitle) 17025**]. He is also to have a repeat chest CT
+in 3 months and follow up with Dr. [**Last Name (STitle) 11482**] [**Name (STitle) **] opf
+thoracic surgery. He is currently refusing coumadin but will
+discuss it with his cardiologist.
+
+Medications on Admission:
+Sotolol 160", Digoxin 0.25', Simvastatin 20', ASA 325', Advair
+100/50"
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 2 weeks.
+Disp:*28 Capsule(s)* Refills:*0*
+3. Sotalol 80 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+Disp:*120 Tablet(s)* Refills:*2*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO twice a day for 1 months.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 1 months.
+Disp:*60 Tablet(s)* Refills:*0*
+6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Aspirin EC 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+8. Indocin 50 mg Capsule Sig: One (1) Capsule PO three times a
+day for 1 months.
+Disp:*90 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA of Southeastern Mass.
+
+Discharge Diagnosis:
+A fib/A flutter
+ s/p bil. mini-thoracotomies/Maze proc./LAA ligation
+macular degeneration
+Bil. knee OA
+elev. chol. COPD
+spastic esophagus
+cholelithiasis
+remote PNA
+mild BLE varicosities
+s/p pacer [**2149**]
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+SHOWER daily and pat incisions dry
+no driving for 2 weeks and until off all narcotics
+call for fever greater than 100.5, redness, or drainage
+no lotions, creams or powders on any incisions
+no lifting greater than 10 pounds for one month
+
+
+Followup Instructions:
+see Dr. [**Last Name (STitle) **]/Dr. [**Last Name (STitle) **] in [**2-14**] weeks
+see Dr. [**Last Name (STitle) 17025**] in [**1-13**] weeks
+see Dr. [**Last Name (STitle) 914**] in 4 weeks  [**Telephone/Fax (1) 72718**]-8383
+FOLLOW- UP CHEST CT IN 3 MONTHS AND FOLLOW UP WITH DR.
+[**Last Name (STitle) 1533**] [**Telephone/Fax (1) 170**]
+
+PLEASE ASK DR. [**Last Name (STitle) **] [**Last Name (STitle) **] RESTARTING DIGOXIN IN ONE MONTH AFTER
+INDOCIN COURSE IS COMPLETED
+
+
+
+Completed by:[**2150-11-9**]

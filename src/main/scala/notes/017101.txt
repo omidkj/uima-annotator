@@ -1,0 +1,174 @@
+Admission Date:  [**2101-8-17**]              Discharge Date:   [**2101-9-8**]
+
+Date of Birth:  [**2034-10-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+melanotic stool
+
+Major Surgical or Invasive Procedure:
+intubation
+central venous line placement
+arterial line placement
+
+History of Present Illness:
+Mr. [**Known lastname 60517**] is a 66 y.o. Male with a history of hepatic
+sarcoidosis, ascites, ?cirrhosis, Grade I varicies, pulmonary
+sarcoidosis, s/p recent hospitalization for melena requiring
+PRBC transfusion presents for a TIPs evaluation.
+.
+Pt resides in [**Location (un) 3844**] and last week noted 3 days of
+Melena, as well as general fatigue and weakness. Given that he
+was just started on Iron supplements he decided not to come into
+the hospital immediately, however after he noted some epigastric
+pain on Satruday as well as a low grade temp his wife decided to
+take him to the hospital.
+.
+Per the outside hospital notes that were faxed, on arrival to
+the ED he was noted to have guaiac positive stool with no gross
+frank blood. He was noted to be hypotensive at the time in the
+60s (usual SBP is 90s), his Hct was 27.8 (his prior Hct baseline
+is 27) and he was given IVF and transfused 2 units. He received
+an upper endoscopy although it is unclear if this was performed
+during his hospitalization course or whether it was done a week
+prior. The upper endoscopy showed no gastric or esophageal
+varicies but did show bleeding of the antrum as well as some of
+the gastric body which was thought to be from gastric antral
+portal hypertensive gastropathy. His bleeding was treated with
+Argon plasma coagulation, and was thought to be
+non-hemodynamically significant rectifiable only by liver
+transplant or TIPs procedure. Following an appropriate reposnse
+in his Hct from 27->32 pt was discharged with GI recommendation
+of PPI therapy, follow up with his GI doctor [**First Name8 (NamePattern2) **] [**Last Name (Titles) 86**] and
+periodic transfusions. After calling the transplant nurse pt was
+recommended to come into the hospital for TIPs evaluation.
+.
+Of note pt was recently hospitalized early last month for TIPs
+evaluation. His upper endoscopy on [**2101-7-10**] at [**Hospital1 18**] for
+screening purposes during a hospitalization for abdominal pain.
+At the time it showed only Grade 1 Varicies and the same gastric
+portal hypertensive gastropathy. His Nadolol was discontinued
+but then restarted by Dr. [**Last Name (STitle) 696**] given the portal hypertensive
+gastropathy. The possibility of a TIPs was discussed with Dr.
+[**Last Name (STitle) 696**] which per his note was not preferred given pt's cardiac
+work up showing ejection of 45% and reversible perfusion defects
+on stress MIBI. After this finding Cardiology were consulted an
+pt was felt to be at high risk for bleeding given his
+gastropathy and the need for antiplatelet therapy during
+catherization.
+.
+Currently pt denies any fevers, chills, congestion, sore throat,
+cough, shortness of breath, chest pain. He does have some
+abdominal discomfort with his hernia around the umbilical
+region. He still endorses melena but denies any nausea,
+vomiting, constipation, hematochezia, hematuria. +diarrhea prior
+to coming to the hospital for which he took Imodium.
+
+
+Past Medical History:
+- [**Last Name (STitle) 7816**]-[**Location (un) **] ([**2099**]), trigger apparently a viral URI; s/p
+tracheostomy, PEG, now reversed; course complicated by MSSA
+ventilator-associated pneumonia, C difficile colitis, and NSTEMI
+- sarcoidosis, with biopsy of a mediastinal lymph node
+demonstrating noncaseating granulomata and liver biopsy
+demonstrating noncaseating granulomata, nodular regeneration,
+and positive reticulin staining c/w sarcoidosis of the liver
+- s/p ventral hernia repair ([**3-/2101**])
+- T&A as an adolescent
+- grade II varices in the distal esophagus,
+- Duodenitis
+- Portal hyprtensive gastropathy,
+- 10 mm ulcer in the antrum, anterior wall. seen on [**5-17**] EGD
+- BPH
+- CAD
+
+Social History:
+Lives in [**Location (un) 3844**] with wife, has 3 adult children. Never
+smoked or used illicit drugs, denies current EtoH use.
+
+
+Family History:
+Mother died of emphysema in 70s, father died of sudden heart
+attack at age 47 while refereeing a high school football game.
+
+Physical Exam:
+Vitals - T:98.0, BP: 118/65, HR: 65, RR: 18, 02 sat: 98% on RA
+GENERAL: Caucasian, chronic-sick appearing pt with Dobhoff tube
+in NARD.
+HEENT: No scleral icterus noted, EOMI, MMM.
+CARDIAC: Distant S1, S2, no m/g/r, RRR
+LUNGS: CTAB, good air movement biaterally.
+ABDOMEN: Normoactive BS x 4, distended with +fluid wave.
+Abdominal hernias noted, pt displays mild discomfort with
+palpation of umbilical hernia, hernias are easily reducible on
+examination.
+Rectal: Stool noted in vault, no hemorrhoids palpated. Brown
+stool noted, guaiac positive.
+EXTREMITIES: No edema noted, no asterixis noted.
+NEURO: A&Ox3. Appropriate. CN 2-12 grossly intact. Preserved
+sensation throughout.
+
+Pertinent Results:
+LABS ON ADMISSION:
+[**2101-8-17**] 11:35PM BLOOD WBC-11.0# RBC-3.80*# Hgb-11.5*#
+Hct-34.4*# MCV-91 MCH-30.4 MCHC-33.6 RDW-17.9* Plt Ct-136*
+[**2101-8-17**] 11:35PM BLOOD Neuts-82.2* Lymphs-9.9* Monos-5.7 Eos-1.6
+Baso-0.5
+[**2101-8-17**] 11:35PM BLOOD PT-15.4* PTT-28.9 INR(PT)-1.4*
+[**2101-8-30**] 05:39AM BLOOD Fibrino-218
+[**2101-8-17**] 11:35PM BLOOD Glucose-103 UreaN-48* Creat-1.8* Na-136
+K-4.7 Cl-110* HCO3-19* AnGap-12
+[**2101-8-17**] 11:35PM BLOOD ALT-24 AST-35 AlkPhos-161* TotBili-2.6*
+[**2101-8-17**] 11:35PM BLOOD Albumin-2.4* Calcium-8.5 Phos-3.0 Mg-1.9
+
+TROPONIN TREND:
+
+[**2101-8-30**] 01:14AM BLOOD CK-MB-NotDone cTropnT-0.16*
+[**2101-8-30**] 05:39AM BLOOD CK-MB-NotDone cTropnT-0.18*
+[**2101-8-30**] 12:25PM BLOOD CK-MB-NotDone cTropnT-0.22*
+[**2101-8-30**] 10:05PM BLOOD CK-MB-NotDone cTropnT-0.30*
+[**2101-8-31**] 04:11AM BLOOD CK-MB-NotDone cTropnT-0.28*
+[**2101-8-31**] 03:08PM BLOOD CK-MB-5 cTropnT-0.28*
+
+Brief Hospital Course:
+Discharge Summary per Floor Team
+
+# Portal Hypertensive Gastropathy and associated melena - Mr.
+[**Known lastname 60517**] was admitted to [**Hospital1 18**] after discharge from OSH in New
+[**Location (un) **] for possible TIPS procedure due to documented portal
+hypertensive gastropathy with chronic oozing requiring multiple
+admissions and blood products.  On admission, his stool was
+noted to be guaiac positive, however he was not actively
+stooling due to administration of immodium prior to drive from
+[**Location (un) 3844**].  IV PPI was started and nadolol was continued on
+admission.  Patient was started on bowel regimen. Type and
+screen was kept active and access was maintained for possible
+resuscitation.  After 2 days of admission, patient had a large
+melanotic bowel movement.  Hematocrit was followed closely and
+noted to return to baseline (he had been s/p 2 units PRBCs at
+OSH) and then noted to be stable.  Due to history of portal
+hypertensive gastropathy documented at [**Hospital1 18**] and recent EGD at
+OSH, repeat EGD was not done.  After consulting cardiology,
+decision was made to undergo TIPS without prior cardiac
+catheterization.   TIPS was planned, however patient's renal
+function declined and TIPS was postponed.  During this time
+patient continued to have melanotic stools.  Nadolol was
+discontinued on day 6 of admission due to heart rate in the low
+60's so as to not mask tachycardia in setting of possible bleed.
+ Hematocrit continued to be stable.  Renal failure improved,
+however TIPS was postponed again due to diagnosis of SBP.
+
+# Abdominal Pain - Mr. [**Known lastname 60517**] had abdominal pain on presentation
+to [**Hospital1 18**].  Patient has chronic pain at baseline, but stated it
+was an acute worsening.  Ventral hernia was examined and
+determined to be reducable without pain.  Abdominal ultrasound
+on admission showed cirrhotic liver, moderate-to-large ascites
+and patent hepatic vasculature.  There was concern for possible
+obstruction after no bowel movements for first 2 days, but KUB
+did not support this diagnosis.  Diagnostic paracentesis on
+hospital day 3 was negative for SBP.  Ab

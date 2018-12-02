@@ -1,0 +1,194 @@
+Admission Date:  [**2160-2-3**]              Discharge Date:   [**2160-2-7**]
+
+Date of Birth:  [**2077-3-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1257**]
+Chief Complaint:
+Hypoxia
+
+Major Surgical or Invasive Procedure:
+Intubation/extubation and mechanical ventilation
+Hemodialysis
+Brochoscopy
+
+History of Present Illness:
+Information obtained [**Last Name (un) 7245**] from ED records and prior OMR notes
+as patient is intubated and family is not present. PMH of ERSD
+on HD, dCHF, COPD, DM.
+Patient is well known to ICU and renal service and has been
+admitted several times to the MICU over the last month with
+respiratory failure from presumed diet non-compliance. Today he
+was at home and was found in respiratory distress with sats in
+the 70's on room air.
+He was intubated in the field by EMS and brought here to the ED.
+
+In the ED, initial vs were: 186/78, 98.3, 74 and intubated
+sating 100% on 40% FiO2. CXR showed ? LLL infiltrate and he
+received a dose of CTX, vanc and levo. He also received a dose
+of solumedrol for possible COPD exacerbation. Trop 0.1 (priors
+0.04-0.2).
+
+On the floor, patient is intuabted and sedated. Unable to
+complete reivew of systems.
+
+Review of systems:
+(+) Per HPI
+
+
+Past Medical History:
+ESRD on HD (T/Th/Sat schedule)
+Diabetes Mellitus Type 2
+Hypertension
+Diastolic CHF: Last ECHO [**2159-12-6**] showed LVEF>55%, mild
+symmetric left ventricular hypertrophy with preserved global and
+regional biventricular systolic function. Diastolic dysfunction.
+
+Dilated aortic sinus
+Hypercholesterolemia
+Asthma
+COPD
+
+Social History:
+Lives with caretaker (mainly [**Name (NI) 8230**] speaking only) who takes
+care of him. Also has son who lives nearby and involved in his
+care (occasionally goes to hemodialysis with him). Other son
+lives out of state and is also involved in his care (visits him
+1-2 times a week, sets his medications out for him and pre-draws
+his insulin, fixed dose). Denies alcohol use or illicit drugs.
+Does smoke 1 pack/2-3 days X years.
+
+
+Family History:
+Unknown. Per OMR, noncontributory
+
+Physical Exam:
+Vitals: 96.7 162/62 63 100% on 600x16 PEEP 5 FiO2 0.3
+General: intubated, sedated, does not follow commands
+HEENT: Surgical L pupil, pinpoint R pupil difficult to assess
+for reactivity. Intubated.
+Neck: supple
+Lungs: Clear anteriorly, good breath sounds throughout. No
+crackles or wheezes appreciated.
+CV: Regular rate, no MRG
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, 2+ pitting edema to knees
+Skin: 8cm healing ecchymosis on lower abdomen
+
+
+Pertinent Results:
+Labs on admission:
+[**2160-2-3**] 08:25AM   PLT COUNT-183
+[**2160-2-3**] 08:25AM   PT-11.4 PTT-25.9 INR(PT)-0.9
+[**2160-2-3**] 08:25AM   NEUTS-89.3* LYMPHS-6.6* MONOS-2.7 EOS-1.4
+BASOS-0
+[**2160-2-3**] 08:25AM   WBC-11.5* RBC-3.52* HGB-10.2* HCT-32.9*
+MCV-94 MCH-29.0 MCHC-31.0 RDW-15.4
+[**2160-2-3**] 08:25AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2160-2-3**] 08:25AM   CALCIUM-6.8* PHOSPHATE-3.1 MAGNESIUM-1.5*
+[**2160-2-3**] 08:25AM   CK-MB-NotDone cTropnT-0.10* proBNP-[**Numeric Identifier **]*
+[**2160-2-3**] 08:25AM   CK(CPK)-77
+[**2160-2-3**] 08:25AM   estGFR-Using this
+[**2160-2-3**] 08:25AM   GLUCOSE-250* UREA N-21* CREAT-3.3* SODIUM-140
+POTASSIUM-4.1 CHLORIDE-102 TOTAL CO2-31 ANION GAP-11
+[**2160-2-3**] 08:32AM   GLUCOSE-234* LACTATE-1.8 K+-4.0
+[**2160-2-3**] 08:32AM   TYPE-[**Last Name (un) **] TEMP-37.2 PO2-154* PCO2-51* PH-7.40
+TOTAL CO2-33* BASE XS-5
+[**2160-2-3**] 01:14PM   freeCa-0.90*
+[**2160-2-3**] 01:14PM   O2 SAT-97
+[**2160-2-3**] 01:14PM   LACTATE-1.2
+[**2160-2-3**] 01:14PM   TYPE-ART TEMP-37.6 PO2-102 PCO2-42 PH-7.51*
+TOTAL CO2-35* BASE XS-9 INTUBATED-INTUBATED
+[**2160-2-3**] 09:37PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-500
+GLUCOSE-100 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0
+LEUK-NEG
+[**2160-2-3**] 09:37PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.010
+[**2160-2-3**] 09:42PM   cTropnT-0.16*
+[**2160-2-3**] 09:42PM   CK(CPK)-47
+[**2160-2-3**] 10:52PM   freeCa-0.99*
+[**2160-2-3**] 10:52PM   O2 SAT-87
+[**2160-2-3**] 10:52PM   LACTATE-1.9
+[**2160-2-3**] 10:52PM   TYPE-ART TEMP-36.7 PEEP-5 O2-30 PO2-54*
+PCO2-49* PH-7.41 TOTAL CO2-32* BASE XS-4 INTUBATED-INTUBATED
+[**2160-2-4**] 04:11AM BLOOD proBNP-[**Numeric Identifier **]*
+
+Labs on discharge:
+[**2160-2-7**] 07:15AM BLOOD WBC-4.7 RBC-3.26* Hgb-9.7* Hct-29.9*
+MCV-92 MCH-29.8 MCHC-32.5 RDW-15.1 Plt Ct-170
+[**2160-2-7**] 07:15AM BLOOD Glucose-192* UreaN-39* Creat-4.5* Na-133
+K-3.9 Cl-94* HCO3-31 AnGap-12
+[**2160-2-7**] 07:15AM BLOOD Calcium-6.7* Phos-3.8 Mg-2.0
+
+ECG [**2160-2-3**]: Sinus rhythm. Right axis deviation. Possible
+anterior myocardial infarction of undetermined age. Non-specific
+T wave flattening in lead aVL. No previous tracing available for
+comparison.
+
+ECG [**2160-2-3**]: Sinus rhythm. Possible anteroseptal myocardial
+infarction of undetermined age. Non-specific T wave flattening
+in lead aVL. Compared to tracing #1 no significant difference.
+
+CXR [**2160-2-3**]: SINGLE AP VIEW OF THE CHEST: An endotracheal tube
+tip lies 4.2 cm from the carina. The heart is upper limits of
+normal in size, with markedly atherosclerotic calcifications of
+the aortic arch and descending aorta.  Opacity at the left lower
+lobe likely relates to atelectasis given leftward shift of the
+mediastinum, although underlying smaller effusion and/or
+consolidation is not excluded. The right lung is clear.
+IMPRESSION:
+1. Endotracheal tube tip 4 cm from the carina.
+2. Left base opacity with leftward shift of the mediastinum
+suggest left lower lobe collapse/atelectasis. Underlying pleural
+effusion and/or consolidation not excluded.
+
+Echocardiogram [**2160-2-5**]: There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is normal (LVEF 60%). Tissue
+Doppler imaging suggests an increased left ventricular filling
+pressure (PCWP>18mmHg). Right ventricular chamber size and free
+wall motion are normal. The ascending aorta is mildly dilated.
+There are focal calcifications in the aortic arch. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] The tricuspid valve leaflets are
+mildly thickened. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion. There is an
+anterior space which most likely represents a fat pad. Compared
+with the findings of the prior study (images reviewed) of [**2159-12-6**], the findings are similar.
+
+CXR [**2160-2-5**]: The patient was extubated in the meantime interval
+with removal of the NG tube. There is worsening of the left
+lower lobe opacity which has a triangular shape accompanied by
+mediastinal shift and is most likely consistent with left lower
+lobe complete atelectasis accompanied by pleural effusion. Small
+amount of right pleural effusion is most likely unchanged. Upper
+lungs are essentially clear and the cardiomediastinal silhouette
+is unremarkable as much as it can be assessed.
+
+CXR [**2160-2-6**]: Left lower lobe collapse and moderate left pleural
+effusion have been present to more or less the same degree more
+than a month. Small right pleural effusion and milder right
+basal atelectasis are also longstanding. Heart size is normal.
+Upper lobes grossly clear. Thoracic aorta very heavily calcified
+but not dilated. No pulmonary edema. No pneumothorax.
+
+
+Brief Hospital Course:
+84 yo M with ESRD on HD, dCHF, COPD here with hypoxic
+respiratory failure.
+
+# Hypoxic respiratory Failure: 70% RA on at home per EMS report.
+Intubated in field. Now sating 100% on 30% FiO2. CXR without
+volume overload - there was suspicion for mucous plugging
+contributing to atelectasis or possible aspiration event.
+Patient was initially treated with v

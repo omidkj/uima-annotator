@@ -1,0 +1,215 @@
+Admission Date:  [**2106-6-17**]              Discharge Date:   [**2106-6-24**]
+
+Date of Birth:  [**2025-12-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Succinylcholine / Aspirin
+
+Attending:[**First Name3 (LF) 465**]
+Chief Complaint:
+Sepsis, respiratory failure
+
+Major Surgical or Invasive Procedure:
+Intubation, extubation, central line/PICC placement
+
+
+History of Present Illness:
+80y M, NH resident s/p recent subdural hematoma evacuation who
+was in his USOH until 3.30am today when (per NH records) he
+suddenly became hypotensive and hypoxic. A STAT ABG at the time
+was 7.48/25/66/18.7, his SBP was in 70s and was treated with IV
+NS, x2 bld cx were drawn and the pt was started on empiric Vanc
+for presumed UTI. His labs were significant for: WBC 25.7 and Na
+133.  The pt was transferred to [**Hospital1 18**] to r/o sepsis and PE.
+.
+Per ED notes, this morning pt was also noted to have increasing
+confusion, decreased urine output, fever and elevated white cell
+count. He was tachycardiac, and had fever to 103, lactate 5 and
+SBP to 80s. He was treated w/ IVF w/ inc in BP to 111/49, 1 dose
+Vanc/levo/flagyl.
+.
+Recent admission ([**Date range (1) 61538**]) to ED for mental status changes and
+hypotension in setting of UTI (pan-sensitive P.aeruginosa)
+treated w/ 7d course PO Cipro.
+.
+On arrival to the [**Hospital Unit Name 153**], the pt was deep suctioned by the
+Respiratory therapist and his secretions were significant for
+food particles and bloody secretions.
+
+
+Past Medical History:
+DM- not on meds on diet control
+Paget's disease
+subdural hematoma s/p L craniotomy w/ hematoma evacuation ([**5-18**]
+and [**5-21**]. Has some residual right sided weakness, aphasic,
+cognitive impairment)
+recent admission for UTI
+h/o MSSA
+acute infarct noted on MRI [**5-15**] (left posterior frontal region
+indicative of an acute infarct).
+
+Social History:
+Lives alone in an apartment in [**Hospital1 392**], MA. Divorced, has nephew
+
+and brother in local area, children in other states.
+Former smoker
+NO alcohol
+
+
+Family History:
+Non contributory
+
+Physical Exam:
+VS: T: 98.4, HR: 115, BP: 109/82, RR:30, O2 sats: 88% on 15L
+high-flow
+GEN: Elderly male, awake, sitting up in bed, in obvious
+respiratory distress, audible wheezing.
+HEENT: OP clear but very dry, no LAD, PERRLA
+CV: (difficult to auscultate [**2-11**] diffuse, loud ronchi) RRR,
+S1+S2, no obvious m/r/g
+PULM: Diffuse rhonchi and wheezing throughout both lung fields.
+ABD: soft, NT, ND, +BS, no HSM
+EXTREM: no c/c/e. Warm periphery.
+Neuro: Pt thinks he is in [**Hospital1 392**]. Once oriented to place, he can
+recall it after 10 minutes, recalls DOB. Not oriented to time or
+date. Tone LUE>RUE. Downgoing left plantar, equivocal right
+plantar. Decreased bulk throughout.
+
+Pertinent Results:
+lactate 5->3
+Phenytoin: 9.0
+CHEM7: (83% N with 1 Band), Occ bacteria, occ yeast
+CBC: WBC 52, HCT 31.7->29.8
+UA: WBC [**10-29**]
+.
+Radiology:
+CXR: RLL opacity-> PNA vs aspiration, extensive Paget's disease
+of the right humerus, scapula and clavicle
+.
+ETT placement: 6cm above carina. It's below the clavicles.
+.
+[**2106-6-17**] 5:30 pm URINE     Site: CATHETER
+
+                            **FINAL REPORT [**2106-6-20**]**
+
+   URINE CULTURE (Final [**2106-6-20**]):
+      ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..
+      YEAST.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------  =>32 R
+LINEZOLID-------------     2 S
+NITROFURANTOIN--------    64 I
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------  =>32 R
+.
+[**2106-6-17**] 11:05 pm BRONCHOALVEOLAR LAVAGE
+      SPECIMEN COLLECTED VIA LAVAGE WITH STERILE WATER.
+
+                            **FINAL REPORT [**2106-6-20**]**
+
+   GRAM STAIN (Final [**2106-6-18**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND SINGLY.
+
+   RESPIRATORY CULTURE (Final [**2106-6-20**]):
+      10,000-100,000 ORGANISMS/ML. OROPHARYNGEAL FLORA.
+      STAPH AUREUS COAG +.    >100,000 ORGANISMS/ML..
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         Please contact the Microbiology Laboratory ([**7-/2406**])
+immediately if
+         sensitivity to clindamycin is required on this
+patient's isolate.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------   <=1 S
+.
+[**2106-6-18**] 12:00 pm BRONCHIAL WASHINGS
+
+   GRAM STAIN (Final [**2106-6-19**]):
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**2106-6-20**]):    NO GROWTH.
+
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.
+
+
+Brief Hospital Course:
+80 year old male with DM, recurrent UTI, Paget's, s/p recent
+subdural hematoma evacuation admitted to [**Hospital Unit Name 153**] w/ respiratory
+failure found to have MRSA pna VRE urosepsis, now improved,
+called out of [**Hospital Unit Name 153**] to medicine.
+.
+# Respiratory distress: Patient was in acute respiratory
+distress on admission to the [**Hospital Unit Name 153**].  He was noted to have thick
+bloody secretions on deep suctioning with visible food
+particles.  He was intubated and a bronchoscopy was performed on
+[**6-18**] which showed inflamed friable mucosa with moderately thick
+mucous in the LLL bronchus.  No foreign body was visualized and
+a BAL was sent for culture.
+His acute respiratory distress was attributed to aspiration PNA
+and urosepsis, however, his CXR on [**6-19**] was concerning for
+possible ARDS.  He was started on protective ARDS vent settings.
+ He was extubated successfully on [**6-20**].  His sputum culture
+eventually grew MRSA and patient was continued on Linezolid for
+coverage of MRSA PNA and VRE UTI.  Pt also developed pulmonary
+edema from fluids that were received, and received lasix for
+diuresis with good effects.  Pt's O2 was weaned as tolerated. At
+the time of dicharge, pt was satting at 95% on RA.
+.
+# VRE urosepsis/aspiration, MRSA pneumonia: Patient was admitted
+to the [**Hospital Unit Name 153**] for sepsis given hypotension, hypoxia, tachycardia,
+fever and leukocytosis. The pt was noted to have a UTI.  A
+culture sent from the ED grew out enterococcus and patient was
+noted to have bibasilar consolidations R > L accompanied by
+small-to-moderate pleural effusions concerning for PNA.  Patient
+was started on Vancomycin, Levofloxacin, and Zosyn.
+Blood cultures were sent from the ED remained NGTD.  However,
+urine cx returned positive for VRE, and patient was started on
+Linezolid IV for coverage of his MRSA PNA and VRE UTI.  The BAL
+also came back + for MRSA which is covered by linezolid.
+Attempted to d/c foley and pt unable to void after trial and
+foley was replaced. Will need another voiding trial after
+treatment of UTI.
+.
+# Hypotension:  Patient arrived from the ED on Levophed.  He was
+aggressively fluid resuscitated and he was weaned off the
+levophed on [**6-19**].  It was noted that the patient was developing
+a non-gap hyperchloremic acidosis from the normal saline which
+had been used for volume resusciation so his IVF was changed to
+lactated ringers with good resolution.  On [**6-18**] he failed his
+[**Last Name (un) 104**] stim test and was started on stress-dose steroids.  His
+blood pressure stablized and his steroids were continued.  IV
+steroid was switched to po and po steroids tapered to off on
+[**6-24**].
+.
+# Mental status changes:  Patient is s/p subdural hematoma
+evacuation

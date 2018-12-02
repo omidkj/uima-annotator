@@ -1,0 +1,226 @@
+Admission Date:  [**2122-4-3**]              Discharge Date:   [**2122-4-10**]
+
+Date of Birth:  [**2061-11-24**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+[**4-6**] coronary artery bypass grafting times three (LIMA to LAD,
+SVG to OM, SVG to LPDA)
+
+
+History of Present Illness:
+Mr. [**Known lastname 23440**] is a 60 year old male who has a history of
+hyperlipidemia and has had chest pain and pressure for the last
+several months with exertion. He had a positive stress test and
+[**Known lastname 1834**] cardiac cath at [**Hospital1 18**] today which showed LM disease.
+
+
+Past Medical History:
+hyperlipidemia
+gout
+CAD-s/p cath 7 yrs ago
+erectile dysfunction
+
+
+Social History:
+He lives with his partner.  [**Name (NI) **] is a chef for Sodexo.  He denies
+smoking or alcohol use.
+
+
+Family History:
+His family history is non-contributory.
+
+Physical Exam:
+Pulse: 57 Resp: 18  O2 sat: 95% RA
+B/P  Right: 158/94    Left:
+Height: 5'[**21**]"    Weight: 115.7 kg
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ []
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None []
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) 167**]: 2+  Left: 2+
+Radial       Right: cath site  Left: 2+
+
+Carotid Bruit        Right: no   Left: no
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 90121**]Portable TTE
+(Complete) Done [**2122-4-3**] at 3:32:08 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2061-11-24**]
+Age (years): 60 M  Hgt (in): 70
+BP (mm Hg): 158/94  Wgt (lb): 250
+HR (bpm): 64  BSA (m2): 2.30 m2
+Indication: Coronary artery disease. Left ventricular function.
+Preoperative assessment.
+ICD-9 Codes: 414.8, 424.0
+Test Information
+Date/Time: [**2122-4-3**] at 15:32    Interpret MD: [**Name6 (MD) **] [**Name8 (MD) 4082**], MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) 4134**] [**Last Name (NamePattern1) 4135**],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: [**Location 13333**]/[**Hospital Ward Name 121**] 6
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2011W000-0:0 Machine: Vivid q-1
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.2 cm  <= 4.0 cm
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.7 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  35% to 40%  >= 55%
+Left Ventricle - Stroke Volume:  69 ml/beat
+Left Ventricle - Cardiac Output:  4.40 L/min
+Left Ventricle - Cardiac Index:  *1.91  >= 2.0 L/min/M2
+Aorta - Sinus Level:  3.5 cm  <= 3.6 cm
+Aorta - Ascending:  3.3 cm  <= 3.4 cm
+Aorta - Arch:  2.7 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  1.1 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT VTI:  14
+Aortic Valve - LVOT diam:  2.5 cm
+Mitral Valve - E Wave:  0.7 m/sec
+Mitral Valve - A Wave:  0.8 m/sec
+Mitral Valve - E/A ratio:  0.88
+Mitral Valve - E Wave deceleration time:  165 ms  140-250 ms
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+LEFT VENTRICLE: Normal LV wall thickness. Top normal/borderline
+dilated LV cavity size. Mild-moderate regional LV systolic
+dysfunction. Estimated cardiac index is depressed
+(<2.0L/min/m2). No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Mildy dilated aortic root. Normal ascending aorta
+diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (?#). No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Indeterminate PA systolic pressure.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Suboptimal image quality - body habitus.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is top
+normal/borderline dilated. There is mild to moderate regional
+left ventricular systolic dysfunction with severe hypokinesis of
+the basal inferior septum, inferior, and inferolateral and
+distal septal walls with mild hypokinesis of the remaining
+segments (LVEF = 35-40 %). Right ventricular chamber size and
+free wall motion are normal. The aortic root is mildly dilated
+at the sinus level. The aortic valve leaflets (?#) appear
+structurally normal with good leaflet excursion. There is no
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. The pulmonary artery systolic pressure
+could not be determined. There is no pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Mild left ventricular
+cavity enlargement with regional systolic dysfunction c/w CAD.
+Mild mitral regurgitation.
+
+CLINICAL IMPLICATIONS:
+The left ventricular ejection fraction is <40%, a threshold for
+which the patient may benefit from a beta blocker and an ACE
+inhibitor or [**Last Name (un) **].
+Based on [**2118**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis is NOT recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+
+Brief Hospital Course:
+On [**4-6**] Mr. [**Known lastname 23440**] [**Last Name (Titles) 1834**] an urgent coronary artery bypass
+grafting times three (LIMA to LAD, SVG to OM, SVG to L PDA).
+Please see the operative note for details.  He tolerated this
+procedure well and was transferred in critical but stable
+condition to the surgical intensive care unit.  He was extubated
+and weaned from pressors by the following day.  He was
+transferred to the surgical step down floor.  His chest tubes
+and wires were removed.  The physical therapy service saw him in
+consult.  By post operative day four he was ready for discharge
+to home.  All follow-up appointments were advised.
+
+Medications on Admission:
+Lipitor 40 mg PO daily
+Fluocinonide 0.05% cream to affected area
+Fluticasone 2 sprays per nostril daily
+Lopressor 50 mg PO BID
+NTG SL prn
+Permethrin 5% cream as needed
+Viagra 1 PRN
+ASA 81 mg PO daily
+
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+4. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+5. ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours).
+Disp:*90 Tablet(s)* Refills:*2*
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for fever/pain.
+9. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+10. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day for 7
+days.
+Disp:*7 Tablet(s)* Refills:*0*
+11. potassium chloride 10 mEq Tablet Extended Release Sig: Two
+(2) Tablet Extended Release PO once a day for 7 days.
+Disp:*14 Tablet Extende

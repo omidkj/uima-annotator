@@ -1,0 +1,217 @@
+Admission Date:  [**2121-11-18**]              Discharge Date:   [**2121-12-3**]
+
+Date of Birth:  [**2052-10-5**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+CABGx3(LIMA->LAD, SVG->OM, RCA)/MV repair(26mm Physio ring)/ASD
+closure, IABP removal [**11-21**]
+
+
+History of Present Illness:
+69yo woman with new onset angina associated with vomiting
+started [**10-15**]. After visit to PCP [**Last Name (NamePattern4) **] [**11-17**] she was referred to
+ED for evaluation. In ER ruled in for MI. Had cardiac
+catheterization at OSH which revealed 3 VD an IABP was placed. A
+subsequent echo revealed 3+MR. She was then transferred to [**Hospital1 18**]
+for cardiac surgery
+
+Past Medical History:
+PVD
+Lupus
+DVT s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 260**] filter
+HTN
+Sjogren's
+Chronic sinusitis
+Osteoporosis
+^chol
+Hypothyroid
+s/p Tubal Ligation
+s/p Csection x3
+s/p Tonsillectomy
+
+
+Social History:
+Retirerd school teacher. Lives with spouse.
+Denies tobacco
+Occaisioanl ETOH [**5-11**] drinks/year
+
+Family History:
+noncontributory
+
+Physical Exam:
+Admission:
+Neuro A&Ox3, nonfocal exam
+HEENT: unremarkable, EOMI,PERRL
+Neck-supple, full ROM, no lymphadenopathy
+CV RRR 1/6SEM
+Pulm: CTA-bilat
+Abdm: soft NT/ND +BS
+Ext: warm palpable pulses. IABP rt groin
+
+Pertinent Results:
+[**2121-11-30**] 06:45AM BLOOD WBC-8.9 RBC-4.17* Hgb-13.0 Hct-37.9
+MCV-91 MCH-31.3 MCHC-34.4 RDW-16.1* Plt Ct-410
+[**2121-12-2**] 09:20AM BLOOD PT-16.2* INR(PT)-1.4*
+[**2121-12-1**] 06:15AM BLOOD PT-27.4* PTT-33.0 INR(PT)-2.7*
+[**2121-12-2**] 06:30AM BLOOD Glucose-83 UreaN-9 Creat-0.7 Na-134 K-3.9
+Cl-92* HCO3-28 AnGap-18
+
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2121-11-30**] 06:45AM    8.9 4.17* 13.0 37.9 91 31.3 34.4 16.1*
+410
+
+RADIOLOGY  Final Report
+ABDOMEN U.S. (COMPLETE STUDY)  [**2121-11-28**] 3:31 PM
+ABDOMEN U.S. (COMPLETE STUDY)
+Reason: evaluation for RUQ with elevated lipase and amylase
+[**Hospital 93**] MEDICAL CONDITION:
+69 year old woman with s/p cabg
+REASON FOR THIS EXAMINATION:
+evaluation for RUQ with elevated lipase and amylase
+INDICATION: Status post CABG with elevated lipase and amylase.
+COMPARISONS: None.
+ABDOMINAL ULTRASOUND: The gallbladder is unremarkable without
+evidence of stones. The liver shows no focal or textural
+abnormalities. There is no intra- or extra-hepatic biliary
+dilatation. The portal vein is patent with appropriate
+hepatopetal flow. The right kidney measures 12.0 cm. The left
+kidney measures 11.9 cm. There are no stones or hydronephrosis.
+Evaluation of the pancreas is limited as only the head was
+visualized. The spleen is unremarkable.
+IMPRESSION:
+1. No cholelithiasis.
+2. Unremarkable but limited examination of the abdomen as the
+pancreatic body and tail were not evaluated.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name (STitle) **] [**Doctor Last Name **]
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname 5259**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 76129**] (Congenital)
+Done [**2121-11-21**] at 2:45:23 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2052-10-5**]
+Age (years): 69 F  Hgt (in): 63
+BP (mm Hg): 120/40  Wgt (lb): 150
+HR (bpm): 70  BSA (m2): 1.71 m2
+Indication: Intraoperative TEE for CABG/MVR
+ICD-9 Codes: 745.5, 410.91, 786.05, 440.0, 424.0, 424.2
+Test Information
+Date/Time: [**2121-11-21**] at 14:45    Interpret MD: [**Name6 (MD) 3892**]
+[**Name8 (MD) 3893**], MD
+Test Type: TEE (Congenital)
+3D imaging. Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5740**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW4-: Machine: 4
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  3.7 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Aorta - Annulus:  1.8 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.6 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.3 cm  <= 3.0 cm
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA. Good (>20 cm/s) LAA
+ejection velocity.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. PFO is present.
+Left-to-right shunt across the interatrial septum at rest.
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Mildly depressed LVEF.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Normal aortic arch diameter. Simple atheroma in aortic arch.
+Normal descending aorta diameter. Simple atheroma in descending
+aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Eccentric MR jet. Severe (4+) MR.
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Physiologic TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+PERICARDIUM: Small pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS:
+1. The left atrium is dilated.
+2. A left-to-right shunt across the interatrial septum is seen
+at rest. A small secundum type ASD IS SEEN
+3. There is mild symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. Overall left ventricular
+systolic function is mildly depressed (LVEF= 40 %).
+4. Right ventricular chamber size and free wall motion are
+normal.
+5. There are simple atheroma in the aortic arch. There are
+simple atheroma in the descending thoracic aorta. Echogenicity
+noted in the descending aortic distal to the arch, consistent
+with a intra-aortic balloon pump.
+6. The aortic valve leaflets (3) are mildly thickened. No aortic
+regurgitation is seen.
+7. The mitral valve leaflets are mildly thickened. An eccentric,
+posteriorly directed jet of Severe (4+) mitral regurgitation is
+seen with noted restricted posterior leaflet motion. Anterior
+leaflet length in 2.0cm and the Posterior leaflet length in
+1.0cm with a C-[**Month (only) **] distance of 2.4 cm.
+8. The tricuspid valve leaflets are mildly thickened.
+9. There is a small pericardial effusion.
+10. There is a large right sided pleural effusion.
+
+POST-BYPASS:
+1. Patient is on an epinephrine infusion along with small doses
+of phenylephrine.
+2. Normal RV systolic function.
+3. Overall LVEF is 40%. There is some mild improvement of
+lateral wall functions.
+4. There is a mitral annulus ring seen and it is stable and
+functioning well with no residual MR [**First Name (Titles) **] [**Last Name (Titles) **].
+5. Thoracic Aortic contour is intact.
+6. Intact interatrial septum.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2121-11-21**] 19:01
+
+CHEST (PA & LAT)  [**2121-11-30**] 2:20 PM
+
+CHEST (PA & LAT)
+
+Reason: evaluate effusion
+
+[**Hospital 93**] MEDICAL CONDITION:
+69 year old woman s/p C

@@ -1,0 +1,223 @@
+Admission Date:  [**2174-10-26**]              Discharge Date:   [**2174-10-28**]
+
+Date of Birth:  [**2101-8-30**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Keflex
+
+Attending:[**First Name3 (LF) 3556**]
+Chief Complaint:
+PCP: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+PULMONOLOGIST: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4507**], MD
+.
+CHIEF COMPLAINT: Flu-like symptoms.
+REASON FOR MICU ADMISSION: Hypotension.
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+Ms. [**Known lastname 12598**] is a 73 y.o. F with COPD on 2 L NC (at night) at
+home followed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4507**], history of pneumonia, who
+presented with 1 week of flu-like symptoms.  the patient
+reported fever of 102.5, cough, lethargy, fatigue, chills and
+sweats.  She has some clear sputum.  Also endorses SOB with
+chills and sweats, nasal congestion (baseline).  She has not
+been drinking much during the past week, coffee, cider, soda and
+2 glasses of water.  She states that she feels lightheaded when
+going from lying down to standing, which is not her baseline.
+Her daughter was concerned about waiting until the morning to be
+seen by her PCP, [**Name10 (NameIs) **] [**Name11 (NameIs) 64279**] MD [**First Name (Titles) 3675**] [**Last Name (Titles) 2742**] at
+[**Hospital1 18**] ED.  Per report, at that time, the patient did not appear
+acutely short of breath and was able to ambulate reasonably
+well.  The patient did have a flu shot after the illness
+started.
+.
+In the ED, initial VS: T 99.0  HR 103  BP 140/55  RR 24  O2 92%
+RA.  T max 102.5. Labs, including blood cultures, were drawn. UA
+sent  EKG and CXR were completed.  Given acetaminophen 1 gm po x
+1, levofloxacin 750 mg IV x 1, and vancomyin 1 gm IV x 1.  IVFs
+x 4 L given in the ED. The patient was initially to go to the
+medicine service, but then became hypotension prior to transfer
+from ED to floor.  Lowest BP 87/50.  On transfer, last recorded
+BP 98/58.
+.
+Currently, she feels better once arrived in the ICU.
+.
+ROS:
+(+) fever, chills, diaphoresis, malaise, rhinorrhea, nasal
+congestion, cough, SOB
+(-)  sore throat, chest pain, abdominal pain, nausea, vomiting,
+diarrhea, constipation, BRBPR, melena, hematochezia, dysuria,
+hematuria.
+
+
+Past Medical History:
+- COPD
+- Breast cancer s/p chemotherapy and XRT completed 5 years ago
+- Hypertension
+- Hyperlipidemia
+- Hypothyroidism
+- Obstructive Sleep Disordered Breathing - treated with oxygen
+as intolerant to CPAP
+- History of pneumonia in [**1-/2174**]
+- Hemorrhoids
+
+Social History:
+She lives alone but is close to her daughter and son-in-law.
+[**Name (NI) **] daughter [**Name (NI) **] was previously a [**Hospital1 18**] nurse.  The patient is
+a retired nurse. She quit smoking approximately 5 years ago with
+an approximately 40 pack year history.  Drinks an occasional
+alcoholic drink. Denies illicits.
+
+Family History:
+Her father had heart disease and her mother had kidney disease.
+There are no known pulmonary issues.
+
+Physical Exam:
+Vitals - T: 96.8  BP:  125/70   HR: 94  RR: 22  02 sat: 96% 3 L
+NC
+GENERAL: pleasant female in NAD
+HEENT: anicteric, EOMI, no cervical LAD, MM slightly dry, OP -
+no exudate, no erythema
+CARDIAC: RRR, nl S1, S2, no m/r/g
+LUNG: no wheezes, decreased BS at bilateral bases
+ABDOMEN: NDNT, soft, NABS
+EXT: no c/c/e
+NEURO: A&O x 3
+DERM: no rashes noted
+
+Pertinent Results:
+LABS: See below.
+.
+MICROBIOLOGY:
+[**2174-10-25**] Blood Cultures x 1: pending
+[**2174-10-26**] Blood Cultures x 1: pending
+[**2174-10-26**] Influenzae swab: ordered but still not pending
+.
+STUDIES:
+EKG [**2174-10-26**]: NSR at 75 bpm, nl axis, nl intervals, no Q waves,
+no TWIs, no ST depressions or elevations (none to compare)
+.
+PA AND LATERAL CXR [**2174-10-25**] (my read): no infiltrate or effusions
+.
+SPIROMETRY [**2174-6-9**]:
+Oximetry: pt. walked 600 ft, level at a fast pace on RA.
+  Rest: SaO2: 90% HR: 73
+  Exericse: SaO2: 90% HR: 126
+Dx: COPD Medications: Flovent and Albuterol used 2.5 hrs prior.
+Good test quality and reproducibility. BMI: 23.7
+Mechanics: The FVC and FEV1 are normal. The FEV1/FVC ratio is
+mildly to moderately reduced.
+Flow-Volume Loop: Mild expiratory coving.
+Oximetry: The SaO2 was borderline normal at rest on room air.
+There was no significant desaturation with exertion.
+.
+Impression: Mild obstructive ventilatory defect. The borderline
+normal SaO2 suggests a gas exchange defect. Compared to the
+prior study of [**2174-1-6**] there has been no significant change
+in spirometry.
+.
+PER DR.[**Location (un) **] NOTE: "This shows evidence of mild obstructive
+airways disease with a reduced FEV1/FVC ratio, but preserved
+FEV1 and FVC.  FEV1 is 2.15 (93% predicted), FVC 3.56 (110%
+predicted), and FEV1/FVC ratio 63%. FEV1 has improved since
+[**2174-1-6**].  Flovent and albuterol were taken 2 1/2 hours
+prior which may alter the numbers.  BMI is 23.7.  The flow
+volume loop does show coving of the expiratory limb consistent
+with obstruction.
+.
+Exercise oximetry was also done today.  After the patient walked
+briskly 600 feet on room air, saturation was 90% at rest and
+hovered closely around 90% but never below 88%.  Heart rate
+increased from 73 to 126 with exertion."
+
+
+Brief Hospital Course:
+MICU COURSE:
+============
+Ms. [**Known lastname 12598**] is a 73 y.o. F with COPD, history of pneumonia, who
+presented with 1 week of flu-like symptoms, admitted to ICU for
+hypotension.
+
+1. Hypotension: SBPs noted to be in high 80s in ED. Per ED
+report, pt was still mentating and asymptomatic.  She received 4
+L NS and by the time she was admitted to the ICU, her SBP had
+improved to 110-120s.  She continued to be normotensive without
+any further intervention.  Her hypotension was likely secondary
+to dehydration during acute illness. She was not orthostatic
+upon arrival to ICU.
+
+2. URI: Her symptoms of weakness, myalgias, cough and nasal
+congestion suggested viral illness.  She was maintained on
+droplet precautions until her influenzae DFA was negative.
+Treated symptomatically.
+
+3. Tachycardia: Noted on arrival to ICU. This resolved after IVF
+hydration. Likely due to acute illness and dehydration.
+
+4. Acute Renal Failure: Cr 1.2 on admission. Likely prerenal as
+it resolved after IVFs.
+
+5. COPD: No signs or symptoms of COPD exacerbation. Maintained
+on atrovent and albuterol.
+
+6. OSA: Pt usually on 2 L NC at night as she could not tolerate
+CPAP as outpatient.  Currently, on transfer to floor, she is on
+3 L NC - likely secondary to volume.
+
+7. Hypertension: Held lisinopril due to hypotension.  Floor team
+to restart anti-HTN.
+
+8. Hypothyroidism: Continue levothyroxine.
+
+9. Hyperlipidemia: Continue statin.
+
+10. History of Breast Cancer: Continue Aromasin. This was
+started after reconciling meds with pharmacy on [**2174-10-27**]
+
+11. Psych: Continue Fluoxetine.
+
+12. Anemia: Normocytic.
+
+# FEN: IVFs / replete lytes prn / regular diet
+# PPX: heparin SQ, bowel regimen
+# ACCESS: PIV
+# CODE: FULL (confirmed)
+# CONTACT: Daughter [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 64280**] [**Telephone/Fax (1) 64281**]
+
+Discharged home with close PCP [**Name Initial (PRE) 4939**].
+
+Medications on Admission:
+lisinopril 10 mg daily
+Aromasin 25 mg po daily after a meal
+simvastatin 10 mg daily
+fluoxetine 20 mg daily
+levothyroxine 125 mcg daily
+ASA 325 mg po daily
+multivitamin 1 tab po daily
+ca+vit d
+
+Discharge Medications:
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+2. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Calcium Citrate + D  Oral
+8. Aromasin 25 mg Tablet Sig: One (1) Tablet PO once a day: take
+in the morning with meals.
+9. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: [**1-28**] puff
+Inhalation every six (6) hours as needed for shortness of breath
+or wheezing.
+Disp:*1 inhaler* Refills:*2*
+10. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs 

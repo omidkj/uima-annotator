@@ -1,0 +1,209 @@
+Admission Date:  [**2158-9-2**]              Discharge Date:   [**2158-9-8**]
+
+Date of Birth:  [**2076-5-17**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+Right face, arm, and leg weakness and aphasia.
+
+
+Major Surgical or Invasive Procedure:
+IV TPA
+
+History of Present Illness:
+The patient is an 84 year old man with atrial fibrillation, not
+currently on coumadin, who was in his usual state of health
+until
+early in [**Month (only) 216**] of this year.  At that time, he began to
+experience worsening urinary retention, was admitted to [**Hospital1 18**],
+and was switched from avodart and finasteride to flomax.
+
+On [**8-25**], the patient re-presented with the complaint of
+lightheadedness and dizziness; INR at that time was 2.9.
+Neurology was consulted for these symptoms and felt that the
+patient??????s symptoms were likely due to his hyponatremia, CHF, and
+UTI.  The patient was admitted to Medicine, treated with fluid
+restriction and lasix for the CHF, and antibiotics for his UTI.
+He developed hematuria which was thought to be secondary to
+traumatic foley placement in the setting of his enlarged
+prostate.  Coumadin was discontinued for this reason, and the
+patient??????s INR was 1.2 at the time of discharge on [**8-31**].  The
+patient was instructed NOT to restart coumadin until his
+follow-up appointment with Dr. [**Last Name (STitle) 261**] on [**9-12**].
+
+At 6pm this evening, the patient was speaking with two of his
+family members at Rehab when he developed the acute onset of
+??????confusion?????? and right-sided weakness. EMS found the patient to
+be
+normotensive at 136/74 and in afib; they noted right face, arm,
+and leg weakness and an aphasia.  The patient was transported to
+[**Hospital1 18**] ER.
+
+Stroke code was activated at 6:49pm.  The Neurology resident was
+at the bedside within 2 minutes, and the stroke fellow arrived
+soon thereafter.
+
+NIHSS at 7:05pm = 10
+LOC 0
+Questions 2
+Commands 0
+Gaze 0
+Visual Fields 1 (R inferior quantrantanopia versus R hemianopia
+on confrontational testing)
+Face 1 (mild R facial droop)
+Motor 4 (2 points for R arm, and 2 points for R leg)
+Ataxia 0
+Sensory 0
+Language 1 (Difficulty with [**Location (un) 1131**], dysfluency)
+Dysarthria 1
+Neglect 0
+
+At the time of this initial neurologic examination, a careful
+screening for TPA exclusion criteria was carried out with the
+patient and his son.  The patient??????s recent hematuria was noted
+to
+constitute a relative contraindication; however, the patient had
+no absolute contraindications to receipt of IV TPA.
+
+The patient was transferred to the CT scanner.  We were
+redirected to a second scanner upstairs, due to the fact that
+the
+ED scanner was occupied by a trauma code.  Full scanning
+sequence
+(CT/CTA/CTP) was finished at ~7:50pm.  The case was discussed by
+telephone with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] and a plan was formulated. A call
+was placed down by this author to the patient??????s ED nurse,
+informing her of our plan to give IV TPA.  The patient was
+brought back to the ED, his son was informed of our findings and
+plan to administer TPA, and the bolus was given at ~7:55pm.
+Approximately 5 minutes elapsed between conclusion of
+information-gathering and administration of the TPA bolus.
+
+
+Past Medical History:
+Atrial fibrillation, not currently on coumadin
+Prostate cancer on a watch and wait protocol, followed by Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] of [**Last Name (NamePattern1) **] and continuing on finasteride.
+Hypertension.
+Borderline diabetes.  Last blood sugar checked on Sunday noted
+to
+be 124.
+Rectal bleeding secondary to diverticulosis ( more than 5 years
+ago)
+Gout.
+Hyperlipidemia.
+Arthritis.
+Recent admission for hyponatremia, CHF, and UTI.
+
+
+Social History:
+No tobacco.  Remote alcohol history but none in past twenty
+years.  He lives with his wife, [**Name (NI) **], in [**Name (NI) 1268**].
+
+
+Family History:
+Brother died at age 72 of heart failure.  No familial cancers.
+Also, notable in family history is arthritis, asthma, diabetes,
+heart disease, high blood pressure, high cholesterol, and
+thyroid disorder.
+
+
+Physical Exam:
+Vitals: Afebrile BP 140/71 General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: Irregularly irregular
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.  S
+[**Doctor First Name **]: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented to person.  Able to follow
+commands, but shows some signs of perseveration.  Identifies [**3-23**]
+objects on NIH stroke card.  Unable to read sentences, however
+does not make an effort, simply holds them in front of him.  Has
+difficulty identifying R and L, pointing instead.  Does not
+cooperate with repetition.  Only intermittantly notices stimuli
+on the R, and extinguishes to double stimulation.
+-Cranial Nerves:  I: Olfaction not tested.   II: PERRL 3 to 2mm
+and brisk.  Unable to identify stimuli in R temporal field. III,
+IV, VI: Slight decrease in R lateral gaze.  Normal saccades.  V:
+Facial sensation intact to light touch.  VII: R sided facial
+droop VIII: Hearing intact to voice. IX, X: Palate elevates
+symmetrically.   [**Doctor First Name 81**]: 5/5 strength in trapezii and SCM
+bilaterally.  XII: Tongue protrudes in midline.
+-Motor: Normal bulk, tone throughout. Right sided pronator
+drift.
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+Delt Bic Tri WrE FFl FE IO IP Quad Ham TA [**First Name9 (NamePattern2) 2339**] [**Last Name (un) 938**] EDB
+L  5  5   5   5   5  5  5  5   5    5  5     5     5   5
+R  2  2   2   5   3  3  3  2   3    2  3     3     2   2
+
+-Sensory: No deficits to light touch, pinprick throughout.
+Extinction to DSS.
+
+-DTRs:
+  [**Name2 (NI) **] Tri [**Last Name (un) 1035**] Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+
+Plantar response was flexor bilaterally.
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Not assessed.
+
+Pertinent Results:
+CT/CTA/CTP
+
+Extensive small vessel ischemic changes are seen in the
+subcortical and
+periventricular white matter. Additionally, there is a subtle
+hypodensity in the left frontal lobe concerning for acute
+ischemia. There is no evidence for acute hemorrhage.
+
+Source images and MIP images of the CTA demonstrates a
+hypoplastic left
+vertebral artery. No hemodynamically significant stenosis is
+seen in the
+carotid arteries. There is extensive cavernous carotid
+calcification. No
+occlusion in the intracranial vasculature is seen nor is there
+hemodynamically significant stenosis. CTP images demonstrate no
+large areas of asymmetric perfusion. Extensive calcification is
+noted in the left carotid bifurcation in the neck as well as in
+the aortic arch. On the MIP images, no hemodynamically
+significant stenosis is seen in the carotid bifurcations.
+
+MRI brain: Acute infarct in the left ACA territory. there is a
+small area of hemorrhagic conversion of the left ACA infarct
+
+Echocardiogram (ordered)
+
+
+Brief Hospital Course:
+Patient is an 82-year-old male admitted on [**2158-9-2**] for aphasia
+and right-sided weakness. He has a history of atrial
+fibrillation, was recently admitted to [**Hospital1 18**] for lightheadedness
+and hyponatremia, and was taken off Coumadin due to hematuria,
+was recently diagnosed with metastatic spread of prostate cancer
+to his pelvic rami, ribs, and paraortic lymph nodes.  Patient
+was found to have acute onset of right-sided weakness and
+"confusion" by family, and had NIHSS of 10.  CT head, CTA
+head/neck, and CTP did not reveal any acute process.
+
+Hospital course by problem:
+
+1) Neurology; Patient had initial negative imaging as described
+above but given his acute onset of deficits, was given IV TPA
+and admitted to the NeuroICU.  An MRI brain confirmed a left A

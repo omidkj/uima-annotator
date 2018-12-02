@@ -1,0 +1,217 @@
+Admission Date:  [**2138-2-12**]              Discharge Date:   [**2138-3-27**]
+
+Date of Birth:  [**2093-4-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1377**]
+Chief Complaint:
+altered mental status, jaundice
+
+Major Surgical or Invasive Procedure:
+placement of central lines and hemodialysis line
+intubation
+
+History of Present Illness:
+44 year old woman with alcoholic cirrhosis, lacunar infarcts
+with residual right sided hemiparesis, and hemolytic anemia,
+presenting from her first hepatology appointment with altered
+mental status and multiple lab abnormalities. The patient lives
+and receives her care in [**Location (un) 3844**]. She lives with her
+husband who provided her recent history as the patient is unable
+to do so. Her husband reports that she was herself (alert and
+oriented times 3 but physcially only able to assist with
+transfers) until approximately 1 week ago when they noticed that
+she was more jaundiced than usual. They went to the patient's
+PCP [**Last Name (NamePattern4) **] [**2-9**] at which time labs demonstrated reported Hct ~24 and
+normal baseline creatinine. Given complaint of right sided pain
+realted to contractures, she was started on a fentanyl patch at
+25mcgs. Shortly after starting the patch, her husband noted that
+she was more sedated and, over the next 2 days, she became
+profoundly sedated such that she was not able to take POs. Her
+husband reported that he knew she had an appt at the liver
+center today so waited to bring her in for the appt. When they
+arrived to the liver center for the patient's 1st appt with Dr
+[**Last Name (STitle) 7033**], EMS was called and the patient was sent to the ED.
+.
+Upon arrival to the ED, her vs were 96.0, 54, 108/75, 16, 88% RA
+--> 97% on 5L. She was triggered for nursing concern as she was
+minimally responsive. Labs were notable for hct 14.7 --> 11,
+creatinine 3.5, plts 117K. CXR and head CT negative for acute
+process. She was given 2u emergency release pRBCs, vanc 1g and
+zosyn 4.5g and admitted to the MICU for further care.
+.
+ROS: unable to provide
+
+Past Medical History:
+- alcoholic cirrhosis
+- cerebral vasculitis with right sided stroke and resultant
+hemiparesis
+- positive anticardiolipin antibody
+- hemolytic anemia
+- cryoglobulins
+- protein c deficiency
+- hypothyroidism
+
+Social History:
+Lives with her husband in [**Name (NI) 3844**] who assists her in
+activities of daily living.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+ADMISSION EXAM:
+General: Eyes open spontaneously, startles but does not follow
+any commands or track; moaning nonsensically; markedly jaundiced
+HEENT: NCAT, PERRL, EOMI, JVD not elevated
+Lungs: clear to auscultation bilaterally
+CV: Tachycardic, normal S1 + S2, no murmurs, rubs, gallops
+Abdomen: firm on R side, + guarding, grimacing with deep
+palpation, + bowel sounds
+GU: Foley in place with dark urine; right femoral cordis (+
+popliteal pulse)
+Ext: RLE with distal pitting edema, warm to touch
+Back: unstageable sacral decubitus ulcer with necrotic
+appearance
+.
+DISCHARGE EXAM:
+Tc: 97.1 BP: 110-125/46-57 HR: 84 RR: 20 O2: 94%RA
+BS: 124-213 I: 1300 O: 3300
+Gen: Anxious appearing, fatigued, icteric, awake, alert,
+oriented x2 (hospital, name)
+HEENT: scleral icterus, MMM, EOMI
+CV: RRR, 2/6 systolic murmur heard best at upper sternal
+borders, +S1, S2
+Resp: coarse breath sounds on anterior exam
+Abd: Distended, non-tender, +BS
+Ext: 3+ pitting edema bilaterally
+Neuro: mild asterixis, oriented x2, unable to move right side
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2138-2-12**] 01:30PM BLOOD WBC-12.0* RBC-1.15* Hgb-5.0* Hct-14.1*
+MCV-123* MCH-43.1* MCHC-35.2* RDW-17.0* Plt Ct-130*
+[**2138-2-12**] 01:30PM BLOOD Neuts-78.6* Lymphs-15.7* Monos-4.5
+Eos-0.7 Baso-0.4
+[**2138-2-12**] 01:30PM BLOOD PT-28.5* PTT-39.4* INR-2.8*
+[**2138-2-12**] 02:45PM BLOOD Fibrino-138*
+[**2138-2-12**] 01:30PM BLOOD Glucose-138* UreaN-63* Creat-3.7* Na-130*
+K-5.6* Cl-92* HCO3-23 AnGap-21*
+[**2138-2-12**] 01:30PM BLOOD ALT-46* AST-145* LDH-559* AlkPhos-131*
+TotBili-13.8*
+[**2138-2-12**] 01:30PM BLOOD Lipase-70*
+[**2138-2-12**] 01:30PM BLOOD Calcium-10.6* Phos-3.5 Mg-4.2*
+[**2138-2-12**] 02:45PM BLOOD Hapto-<5*
+[**2138-2-12**] 01:30PM BLOOD Ammonia-82*
+[**2138-2-12**] 01:30PM BLOOD Lactate-7.6* K-5.8*
+[**2138-2-12**] 02:46PM BLOOD Glucose-133* Lactate-6.4* Na-132* K-5.0
+Cl-96* calHCO3-24
+[**2138-2-12**] 02:46PM BLOOD freeCa-1.19
+................................................................
+MICROBIOLOGY:
+[**2138-2-15**] Sputum Cx:
+GRAM STAIN (Final [**2138-2-15**]):
+ >25 PMNs and <10 epithelial cells/100X field.
+ 2+ (1-5 per 1000X FIELD): BUDDING YEAST WITH PSEUDOHYPHAE.
+ 1+ (<1 per 1000X FIELD): GRAM NEGATIVE ROD(S).
+RESPIRATORY CULTURE (Final [**2138-2-18**]): Commensal Respiratory
+Flora Absent.
+KLEBSIELLA PNEUMONIAE. MODERATE GROWTH. YEAST. MODERATE GROWTH.
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+[**2138-2-15**] HCV Viral Load: not detected
+.
+[**2138-2-15**] Urine Cx: YEAST >100,000 ORGANISMS/ML
+.
+[**2138-2-17**] Sputum Cx:
+GRAM STAIN (Final [**2138-2-17**]):
+ >25 PMNs and <10 epithelial cells/100X field.
+ 1+ (<1 per 1000X FIELD): BUDDING YEAST.
+ 1+ (<1 per 1000X FIELD): GRAM NEGATIVE ROD(S).
+RESPIRATORY CULTURE (Final [**2138-2-19**]):
+ Commensal Respiratory Flora Absent. YEAST SPARSE GROWTH OF TWO
+COLONIAL
+ MORPHOLOGIES.
+LEGIONELLA CULTURE (Final [**2138-2-24**]): NO LEGIONELLA ISOLATED.
+.
+[**2138-2-17**] CMV IgM Ab negative; CMV IgG Ab positive
+.
+[**2138-2-17**] EBV VCA-IgG Ab pos; EBNA IgG AB pos; VCA-IgM Ab neg
+.
+[**2138-2-21**] Sputum Cx:
+GRAM STAIN (Final [**2138-2-21**]):
+ <10 PMNs and <10 epithelial cells/100X field.
+ NO MICROORGANISMS SEEN.
+RESPIRATORY CULTURE (Final [**2138-2-24**]):
+ Commensal Respiratory Flora Absent.
+ KLEBSIELLA PNEUMONIAE RARE GROWTH. YEAST SPARSE GROWTH.
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+[**2138-2-23**] Sputum Cx:
+GRAM STAIN (Final [**2138-2-23**]):
+ >25 PMNs and <10 epithelial cells/100X field.
+ NO MICROORGANISMS SEEN.
+RESPIRATORY CULTURE (Final [**2138-2-25**]):
+ Commensal Respiratory Flora Absent. KLEBSIELLA PNEUMONIAE RARE
+GROWTH. YEAST RARE GROWTH. NO LEGIONELLA ISOLATED.
+.
+[**2138-2-24**] CMV Viral Load: not detected
+.
+[**2138-2-24**] Urine Cx: no growth
+.
+[**2138-2-25**] Sputum Cx: Klebsiella
+.
+[**2138-2-26**] Urine Cx: no growth
+.
+[**2138-3-2**] Sputum Cx: pending
+................................................................
+IMAGING:
+[**2138-2-12**] CXR:
+1. Mild elevation of the right hemidiaphragm. Subtle left base
+retrocardiac opacity may reflect atelectasis, although an
+early/mild superimposed consolidation cannot be entirely
+excluded.
+2. Slight blunting of the right costophrenic angle, trace
+effusion cannot be entirely excluded.
+.
+[**2138-2-12**] CT Head w/o con: Suboptimal scan due to patient motion in
+the scanner. With this limitation in mind, no evidence of acute
+intracranial hemorrhage or mass effect.
+.
+[**2138-2-13**] ECHO: The left atrium is normal in size. Left
+ventricular wall thicknesses and cavity size are normal. Left
+ventricular systolic function is hyperdynamic (EF 75-80%).
+Tissue Doppler imaging suggests a normal left ventricular
+filling pressure (PCWP<12mmHg). Right ventricular chamber size
+and free wall motion are normal. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic regurgitation. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is no mitral
+valve prolapse. The estimated pulmonary artery systolic pressure
+is normal. There is no pericardial effusion.
+.

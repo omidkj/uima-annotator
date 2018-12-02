@@ -1,0 +1,242 @@
+Admission Date:  [**2166-12-31**]              Discharge Date:   [**2167-3-2**]
+
+Date of Birth:  [**2098-4-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Oxycodone
+
+Attending:[**First Name3 (LF) 3913**]
+Chief Complaint:
+Transfer from [**Hospital3 **] Hospital for new probable diagnosis of
+acute leukemia after presentation with fevers, cough, and left
+upper lobe opacity.
+.
+
+Major Surgical or Invasive Procedure:
+CVL placement
+Bone Marrow Biopsy
+Bronchoscopy
+Endotracheal intubation
+Tracheostomy
+PEG tube placement
+.
+
+History of Present Illness:
+Ms. [**Known lastname 26241**] is a 68 year-old woman with left breast cancer
+diagnosed in [**7-/2161**], history of polio and osteoporosis,
+transferred from OSH ER after presenting with cough and fevers
+for 2-3 days, and then found to be pancytopenic.  The patient
+had been feeling badly since the beginning of [**2166-11-25**].  She
+saw her PCP [**Last Name (NamePattern4) **] [**2166-12-29**] for fevers (102.4 at home), cough and
+malaise, she was initiated on levofloxacin.  Blood work was
+performed the following day which showed a WBC of 1.8,  HCT 27,
+Plt 107; ANC 100; 2% blasts.
+.
+She went to her local ED the following day, and was again noted
+to be pancytopenic with WBC 2.3 ANC 100, hct 23, plt 84.  A
+chest CT was performed to evaluate her cough and fevers and
+noted a consolidative opacity at the lingula of the left upper
+lobe consistent with pneumonia in the appropriate clinical
+setting.  Influenza A/B testing was performed and was negative.
+She was started on Zosyn and was transferred to [**Hospital1 18**] for direct
+admission for possible acute leukemia diagnosis.
+.
+Currently, she feels fatigued, continues to have some chest
+discomfort with coughing, not short of breath.
+.
+ROS: She denies bruising, bleeding, pain other than mild
+headache at the end of the day.  No nausea/vomiting, diarrhea or
+other new symptoms.
+.
+
+Past Medical History:
+1. Left breast cancer, diagnosed in [**2160**], s/p lumpectomy, XRT,
+and chemotherapy (please see below in oncologic history for
+details)
+2. History of polio with leg brace ([**2101**])
+3. History of tumor on spine
+4. Osteoporosis
+5. s/p tonsillectomy/adenoidectomy
+6. s/p L knee replacement
+7. s/p ORIF of femur and fusion of ankle s/p fracture [**2154**]
+8. Multiple foot surgeries and an ankle fusion done for
+post-polio syndrome
+9. Sinus cyst removed, which was benign
+
+<b><i>ONCOLOGIC HISTORY:</i></b>
+Ms. [**Known lastname 26241**] was diagnosed in [**7-/2161**] after seeing a left sided
+mass on a mammogram on [**2161-8-11**].  An ultrasound confirmed that
+the mass was solid, and an U/S guided biopsy found a 3.7 cm
+grade 3 infiltrating left ductal cancer with clean lymph nodes,
+ER positive, HER-2/neu negative, and negative LVI.  She received
+Cytoxan and Adriamycin x 4 and was on Femara for 4 years.  She
+was switched to tamoxifen in [**2166-2-23**] due to bone density
+thinning.  Her mammogram in [**2166-7-26**] was normal.  Her last
+BMD was in [**2165-4-25**] with one in [**2167-4-26**] pending.
+.
+<b><i>OB/GYN HISTORY:</i></b>
+G3P2 with first full term pregnancy at age 29.  Menarche at age
+11 with menopause in early 50's.  Took OCPs for approximately 3
+years in the past and had been on estrogen for ~ 10 years but
+has stopped this.
+.
+
+Social History:
+She denies tobacco use and IVDU.  She drinks alcohol socially.
+She has one son who is a patent lawyer in [**Name (NI) 86**] and is engaged
+and will be married next fall on [**Location (un) **].
+
+Family History:
+There is no family history of breast, ovarian, or colon cancer.
+Her father died of an MI at 65 yrs.  Her mother died of "renal
+disease."
+
+Physical Exam:
+Vitals - T:101.7 BP: 150/71 HR: 105 RR: 22 02 sat: 96% RA/ 97%
+2LNC
+GENERAL: fatigued appearing, non-diaphoretic, nad
+SKIN:  clammy, no rashes
+HEENT: no scleral icterus
+CARDIAC: tachy, no r/g
+LUNG: left mid-lung with crackles, no wheezes or rhonchi
+ABDOMEN:  soft, nontender, nondistended
+EXT: brace right lower ext; no edema bilaterally
+
+
+Pertinent Results:
+OUTSIDE HOSPITAL LABS:
+=======================
+([**2166-12-31**] )NA 139 K 3.3 Cl 107 CO2 22 BUN 16 Cr 0.46 Glu 122 Ca
+8.5
+WBC 2.3  HCT 23  PLT 84
+U/A: 0 gluc, 0 bili, 150 ketones, spgrav 1.031, pH 6  prot 100,
+nitrites neg, leukocytes neg; WBC [**11-28**]; RBC [**11-27**]; bacteria present
+.
+ADMISSION LABS:
+================
+[**2166-12-31**]
+Na 140 cl 105 bun 10 gluc 102
+k 3.0 bicarb 25 cr 0.5
+Ca: 8.7 Mg: 2.2 P: 1.2
+ALT: 19 AP: 48 Tbili: 0.3 Alb: 3.4
+AST: 23 LDH: 420
+UricA:3.9
+FDP: 10-40
+.
+MCV 97 WBC 2.5 HGB 9.0 PLT 94 HCT 25.6
+N:7 Band:0 L:47 M:10 E:0 Bas:0 Atyps: 2 Other: 34
+Neuts: HYPOGRANULAR NEUTROPHILS PRESENT
+Other: Pending Review
+Anisocy: 1+ Poiklo: OCCASIONAL Macrocy: 2+ Schisto: OCCASIONAL
+Plt-Est: Low
+PT: 13.7  PTT: 27.2  INR: 1.2
+Fibrinogen: 943
+.
+PERTINENT LABS DURING HOSPITALIZATION:
+======================================
+[**2167-1-8**] proBNP 4536*
+.
+MICROBIOLOGY:
+============
+[**2167-1-2**] Glucan/Galactomannan: negative
+[**2167-1-8**] Glucan/Galactomannan: negative
+[**2167-1-8**] C. Diff Toxin B: pending
+[**2166-12-31**] BCx x 2: negative
+[**2167-1-1**] BCx x 1: negative
+[**2167-1-2**] BCx x 1: negative
+[**2167-1-2**] Mycolytic BCx: pending
+[**2167-1-3**] BCx x 2: negative
+[**2167-1-3**] Urine Legionella: negative
+[**2167-1-3**] UCx: negative
+[**2167-1-3**] Cryptococcal Ag: negative
+.
+[**2167-1-3**] BRONCHIAL WASHINGS
+
+   GRAM STAIN (Final [**2167-1-3**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN CLUSTERS.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+.
+   RESPIRATORY CULTURE (Final [**2167-1-8**]):
+      10,000-100,000 ORGANISMS/ML. OROPHARYNGEAL FLORA.
+.
+   POTASSIUM HYDROXIDE PREPARATION (Final [**2167-1-3**]):
+      WORK-UP PER DR.[**First Name (STitle) **],[**First Name3 (LF) **] PAGER [**Numeric Identifier 26242**] [**2167-1-5**].
+      NO FUNGAL ELEMENTS SEEN.
+.
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      [**2167-1-5**]):    NEGATIVE for Pneumocystis jirvovecii
+(carinii).
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+   ACID FAST SMEAR (Final [**2167-1-5**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Pending):
+
+   VIRAL CULTURE (Preliminary):    No Virus isolated so far.
+
+   NOCARDIA CULTURE (Preliminary):    NO NOCARDIA ISOLATED.
+
+[**2167-1-3**] 1:31 pm Rapid Respiratory Viral Screen & Culture
+      Source: Nasopharyngeal swab.
+
+   Rapid Respiratory Viral Antigen Test (Final [**2167-1-4**]):
+      Respiratory viral antigens not detected.
+   VIRAL CULTURE (Preliminary):    No Virus isolated so far.
+
+[**2167-1-4**] BCx x 2: negative
+[**2167-1-4**] C. diff: negative
+[**2167-1-5**] BCx x 2: negative
+[**2167-1-6**] C. diff: negative
+[**2167-1-7**] C. diff: negative
+[**2167-1-14**] BCx x 2: NG
+[**2167-1-16**] BCx x 2: NG
+[**2167-1-17**] BC NG
+[**2167-1-18**] BC NG
+[**2167-1-20**] BC NG
+.
+[**2167-1-21**] 12:47 pm SPUTUM     Site: INDUCED      Source: Induced.
+
+
+   GRAM STAIN (Final [**2167-1-21**]):
+      >25 PMNs and >10 epithelial cells/100X field.
+      Gram stain indicates extensive contamination with upper
+respiratory
+      secretions. Bacterial culture results are invalid.
+      PLEASE SUBMIT ANOTHER SPECIMEN.
+
+   RESPIRATORY CULTURE (Final [**2167-1-21**]):
+      TEST CANCELLED, PATIENT CREDITED.
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      [**2167-1-22**]):    NEGATIVE for Pneumocystis jirvovecii
+(carinii).
+
+   NOCARDIA CULTURE (Preliminary):    NO NOCARDIA ISOLATED.
+
+   ACID FAST SMEAR (Final [**2167-1-22**]):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Pending):
+
+   FUNGAL CULTURE (Preliminary):
+      GRAM STAIN OF THIS SPECIMEN INDICATES CONTAMINATION WITH
+      OROPHARYNGEAL SECRETIONS AND INVALIDATES RESULTS Specimen
+is only
+      screened for Cryptococcus species. New specimen is
+recommended.
+.
+[**2167-1-27**] 2:24 pm BRONCHOALVEOLAR LAVAGE
+
+   GR

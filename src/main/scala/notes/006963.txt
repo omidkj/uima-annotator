@@ -1,0 +1,184 @@
+Admission Date:  [**2180-2-18**]              Discharge Date:   [**2180-2-22**]
+
+Date of Birth:  [**2107-11-24**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1145**]
+Chief Complaint:
+Transferred from Caritas for Ventricular Tachycardia
+
+Major Surgical or Invasive Procedure:
+EP study without ablation
+
+
+History of Present Illness:
+72 yo woman admitted with chest tightness and having "funny
+feeling" in her chest, found to be in V Tach.  Converted to
+paced rhythm with Amiodarone 150mg and admitted to the ICU.
+Started on an amiodarone drip at 9AM [**2180-2-18**] at 0.5mg/min for 18
+hours.  Medtronics check pt's AICD and found the V Tach rate to
+be set too low for the AICD to fire.  Pt was also started on a
+neosynephrine drip for hypotension.  Pt was seen by Dr. [**Last Name (STitle) 106080**]
+at Caritas, and decision was made to transfer to [**Hospital1 18**] for
+management because her physicians and records are here.
+
+Of note, pt has a history of thyroid toxicity d/t amiodarone,
+which was d/c'd 4 weeks ago, per pt, four months ago, per chart.
+ Pt has been on tapazole for > 1 year for hyperthyroid.  She
+recently became hypothyroid but continued the Tapazole.
+
+ROS neg except pt had some loose stools before admission.
+
+
+Past Medical History:
+CHF
+Cardiomyopathy
+COPD
+s/p pacemaker
+defibrillator placement
+manic depression
+
+Social History:
+Former smoker
+
+Pertinent Results:
+EKG:
+A-V paced rhythm
+Pacemaker rhythm - no further analysis
+Since previous tracing, paced rhythm noted
+
+CXR:
+No acute lung pathology.
+
+[**2180-2-18**] 05:54PM BLOOD TSH-21*
+[**2180-2-18**] 05:54PM BLOOD T4-3.4* Free T4-0.5*
+
+EP Study:
+Inducible VT upon stimulation of aorta.  No ablation.
+
+Brief Hospital Course:
+Ms. [**Known lastname 37080**] is a 72 yo woman with CHF, COPD, s/p [**Hospital 106081**]
+transferred from OSH with V Tach on amiodarone and neosynephrine
+drips.  AICD did not fire.
+
+Rhythm: Pt presented to OSH in V Tach and was converted to SR
+with an amidarone bolus and maintained on an amiodarone drip for
+18 hours.  She remained in a paced sinus rhythm without
+symptoms.  Pt was seen by the EP service who adjusted her ICD to
+begin anti-tachycardia pacing at 130 beats/min (AVP).  She
+underwent an EP study on [**2180-2-21**], showing inducible VT upon
+stimulation of the aorta.  No ablation was done.  Pt was
+discharged on 25mg Toprol qd, decreased from her outpt dose of
+50mg, because of hypotension to SBP = 80.
+
+Pump: h/o CHF: Pt is on coumadin for cardiomyopathy with an EF
+of 20%.  She did not have any symptoms of CHF during admission.
+Restarted on outpt Lasix 20 qd.
+
+Cor: Pt was hypotensive after conversion and placed on a
+neosynephrine drip for one day.  Of note, pt has low blood
+pressure at baseline.  Pt on ASA 81, Zocor, Toprol (decreased to
+25mg qd).
+
+Endocrine: Pt has h/o thyroid toxicity d/t amiodarone.  She was
+hyperthyroid for > 1yr, on Tapozole.  Per her records, her
+amiodarone was discontinued in [**2179-10-15**].  She subsequently
+developed hypothyroidism on Tapozole, which was discontinued
+during this admission.  On exam, pt does have a palpable nodule
+but she is refusing fine needle biopsy at this time.  She will
+need a biopsy as an out patient, and recheck of her TFT's.
+
+COPD: Alb/Atrovent inh prn
+
+Manic depression: Lithium (level WNL at 1.1) and Clonazepam.
+
+
+Medications on Admission:
+foxamax 40 q week
+toprol 50 qd
+ECASA 325
+protonix 40
+lithium 300 [**Hospital1 **]
+lasix 20 qd
+clonazepam 0.5 qhs
+coumadin 2.5
+zocor 10
+albuterol/atrovent inhaler prn
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Lithium Carbonate 300 mg Tablet Sustained Release Sig: One
+(1) Tablet Sustained Release PO BID (2 times a day).
+3. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+4. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Warfarin Sodium 2.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig:
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*0*
+7. Outpatient Lab Work
+Free T4 and TSH on Friday Februray 11th, [**2180**].
+Please send results to Dr. [**Last Name (STitle) 574**] (phone [**Telephone/Fax (1) 1803**]).  Thank
+you.
+8. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+9. FOSAMAX 40 mg Tablet Sig: One (1) Tablet PO once a week.
+10. Outpatient Lab Work
+Please check INR on Friday [**2-25**] and send results to Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2450**]. Thanks.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1474**] VNA
+
+Discharge Diagnosis:
+Ventricular Tachycardia
+Status post EP study without ablation
+Adjustment of pacer (ATP)
+
+
+Discharge Condition:
+Pt was in good condition, with stable vital signs (her BP runs
+asymptomatically low in the 80-90 range).
+
+Discharge Instructions:
+Please call your doctor or return to the hospital if you
+experience chest pain, shortness of breath, increased sweating,
+bleeding, increased weakness.
+
+Take all your medications as prescribed below.
+
+Please go to the [**Hospital3 **] as you were prior to
+admission. We have decreased the dose of Coumadin to 2.5 mg
+daily, and it may need to be adjusted.
+
+Get your blood drawn on Friday, [**2-25**], to check your
+thyroid function.  The results will be sent to Dr. [**Last Name (STitle) 574**].
+
+Followup Instructions:
+1) Follow up with Dr. [**Last Name (STitle) 574**] at your appointment next week.
+
+2) You have a scheduled appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] as
+indicated below in 1 month. It is important that you go to this
+appointment.
+
+Provider: [**First Name8 (NamePattern2) 2064**] [**Last Name (NamePattern1) **], MD Where: [**Hospital6 29**] CARDIAC
+SERVICES Phone:[**Telephone/Fax (1) 3512**] Date/Time:[**2180-3-29**] 2:00
+
+3) Call the Device Clinic to schedule an appointment in 1 month.
+
+4) Please call your PCP and schedule an appointment to see him
+within 2 weeks of discharge.
+
+
+

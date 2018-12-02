@@ -1,0 +1,213 @@
+Admission Date:  [**2166-11-15**]              Discharge Date:   [**2166-11-22**]
+
+Date of Birth:  [**2090-4-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Darvocet-N 100
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Increased secretions and work of breathing
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+76 y/o M with PMH progressive MS s/p trach and G-tube placement
+for recurrent aspirations, recent ESBL E. coli PNA transferred
+from an OSH with hypoxia and hypotension.
+
+The patient presented to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on the day prior to admission
+after his trach tube had fallen out. His trach was replaced in
+the ED, and he was subsequently discharged. He returned to the
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with increased work of breathing, increased secretions
+from his trach, hypoxia (74% unclear O2 delivery), and BP 69/59.
+Per report, his trach was suctioned aggressively. A L femoral
+central line was placed, and after 4L IVF his BP improved to
+110/65 and HR improved to 100. At the time of transfer, he was
+satting 98% on 12L humidified air via trach mask. CXR
+demonstrated R-sided infiltrate/pneumonitis and his UA was
+positive. Initial troponin was 0.2 and lactate 9.3. He was given
+vancomycin, ceftazadime (h/o pseudomonas sensitive) and
+gentamycin.
+
+History of E. coli in urine ([**2160**]) resistent to bactrim and
+flouroquinolones.  Patient admitted in [**7-/2166**] with hypoxic
+respiratory failure and RLL aspiration PNA.  Due to
+deterioration of MS in the acute setting as well as difficulty
+extubation [**1-8**] recurrent aspiration, PEG and trach were placed.
+Sputum culture grew Enterobacter resistent to ceftriaxone and
+ceftazidime.  Treated initially with Vanc/Zosyn, then narrowed
+to PO cipro.   In [**10/2166**], admitted to OSH with LLL PNA, ESBL E.
+coli and treated with Ertapenem.
+
+In the ED inital vitals were, 98 116 90/60 20 100% 15L. Lactate
+3.1.  He was given 1L NS, then transferred to the ICU.
+
+On arrival to the ICU, VS: 96.2; 126; 110/84; 22; 95% trach mask
+15L; 40%. Patient has diminished mental status though unclear
+whether this is close to his baseline. Patient is unable to
+describe any further symtpoms, including chest pain and
+shortness of breath.
+
+Review of systems:
+(+) Per HPI, son added chronic b/l LE weakness and right facial
+droop
+(-) Per son, HCP, denies fever, chills, cough, chest pain.
+
+
+Past Medical History:
+- Multiple sclerosis with [**Year (4 digits) 103518**] elements (followed by Dr.
+[**Last Name (STitle) **] at [**Hospital1 **])
+- Anemia [**1-8**], h/o guaiac + stools, but no colonoscopy or known
+source of GIB
+- Coronary artery disease status post multiple PCI.
+ -  cath [**6-13**] showed progression of diffuse disease: Mid LAD: 40
+%, 1st Diagonal: focal 80 %, 2nd diagonal: 95% proximal,
+Proximal Circumflex: focal 100 % in distal third, 2nd Marginal:
+focal 70 % in proximal third, Ramus: Occluded at site of prior
+stenting, Mid RCA: long and irregular 30 % stenosis, PDA:
+irregular 80 % mid-vessel stenosis, overall no intervention
+- Heart failure with EF 40-45%
+- Hyperlipidemia.
+- Hypertension.
+- Chemosis with left eyelid swelling, followed at MEEI.
+- Osteoarthritis, right knee.
+- s/p total knee replacement R [**9-13**]
+- History of UTI.
+- neurogenic bladder
+
+
+Social History:
+Unable to obtain
+
+Family History:
+Unable to obtain
+
+Physical Exam:
+Admission exam:
+VS: 96.2; 126; 110/84; 22; 95% trach mask 15L; 40%.
+General: Alert, awake, follows command, can nod yes to questions
+HEENT: Sclera anicteric, dry MM
+Neck: supple, JVP not elevated
+Lungs: Trach in place, tachypneic, rhonchorous transmitted upper
+airway sounds throughout
+CV: Tachycardic, regular rhythm, normal S1 + S2, no murmurs,
+rubs, gallops
+Abdomen: PEG tube in place, soft, non-tender, non-distended,
+bowel sounds present
+GU: Foley in place, draining clear urine
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+Admission Labs:
+WBC-5.9 RBC-3.09* Hgb-9.5* Hct-29.1* MCV-94 MCH-30.7 MCHC-32.6
+RDW-13.9 Plt Ct-242
+Neuts-30* Bands-51* Lymphs-15* Monos-0 Eos-0 Baso-0 Atyps-0
+Metas-4* Myelos-0
+Glucose-94 UreaN-43* Creat-1.1 Na-146* K-4.2 Cl-114* HCO3-23
+AnGap-13
+ALT-17 AST-22 LD(LDH)-162 CK(CPK)-115 AlkPhos-40 TotBili-0.3
+ CK-MB-4 cTropnT-0.03*
+Albumin-2.5* Calcium-7.7* Phos-2.9 Mg-1.8
+Lactate-3.7*
+.
+
+Imaging:
+CXR [**2166-11-15**]- Large scale consolidation in the right lower lung,
+predominantly lower lobe, was new earlier today compared to
+[**11-1**]. It has grown slightly more radiodense over the past
+eight hours, probably active pneumonia. Small right pleural
+effusion is presumed and should be monitored in order to detect
+any development of empyema. Left lung is clear.
+Cardiomediastinal silhouette is normal. The patient has a
+tracheostomy tube in standard placement. No pneumothorax.
+.
+CXR [**2166-11-16**] (following PICC placement)- Right PIC line has been
+repositioned, tip is approximately 2 cm below the estimated
+location of the superior cavoatrial junction.
+Extensive consolidation right mid and lower lung zone stable
+since [**11-15**], increased at the left base since [**11-15**]
+consistent with worsening pneumonia. There is no pulmonary
+edema. Heart size is normal. Tracheostomy tube in standard
+placement.
+.
+Microbiology: .
+**FINAL REPORT [**2166-11-19**]**
+   URINE CULTURE (Final [**2166-11-19**]):
+      IDENTIFICATION AND SENSITIVITY TESTING REQUESTED BY DR
+[**First Name (STitle) **] #[**Numeric Identifier 103519**].
+      ENTEROCOCCUS SP..    ~3000/ML.
+      ESCHERICHIA COLI.    ~1000/ML.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------  =>32 R     =>32 R
+AMPICILLIN/SULBACTAM--                4 S
+CEFAZOLIN-------------             =>64 R
+CEFEPIME--------------              <=1 S
+CEFTAZIDIME-----------             =>64 R
+CEFTRIAXONE-----------                8 R
+CIPROFLOXACIN---------              =>4 R
+GENTAMICIN------------              <=1 S
+LINEZOLID-------------     2 S
+MEROPENEM-------------           <=0.25 S
+NITROFURANTOIN--------   128 R     <=16 S
+TETRACYCLINE----------  =>16 R
+TOBRAMYCIN------------              <=1 S
+TRIMETHOPRIM/SULFA----              <=1 S
+VANCOMYCIN------------  =>32 R
+.
+                         **FINAL REPORT [**2166-11-21**]**
+.
+   GRAM STAIN (Final [**2166-11-16**]):
+      <10 PMNs and >10 epithelial cells/100X field.
+      Gram stain indicates extensive contamination with upper
+respiratory
+      secretions..
+      Bacterial culture results are invalid.
+      PLEASE SUBMIT ANOTHER SPECIMEN.
+.
+   RESPIRATORY CULTURE (Final [**2166-11-21**]):
+      MODERATE GROWTH Commensal Respiratory Flora.
+      WORK UP ALL PATHOGENS PER DR. [**First Name (STitle) **] [**2166-11-19**].
+      ESCHERICHIA COLI.    SPARSE GROWTH.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+      BETA STREPTOCOCCI, NOT GROUP A.    SPARSE GROWTH.
+      PSEUDOMONAS AERUGINOSA.    RARE GROWTH.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+ .
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------   <=1 S        8 S
+CEFTAZIDIME-----------    16 R       16 I
+CEFTRIAXONE-----------     2 I
+CIPROFLOXACIN---------   =>4 R        1 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S      0.5 S
+PIPERACILLIN/TAZO-----                  S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----  

@@ -1,0 +1,182 @@
+Admission Date:  [**2171-10-17**]              Discharge Date:   [**2171-10-19**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2704**]
+Chief Complaint:
+Dizziness, bradycardia
+
+Major Surgical or Invasive Procedure:
+1. Temporary pacemaker
+2. Permanent pacemaker
+
+History of Present Illness:
+Pt is a [**Age over 90 **] yo woman with h/o HTN who presented to outside
+hospital with dizziness.  There she was found to be bradycardia
+into the 20's with stable BP.  She was externally paced in the
+60's and transferred to [**Hospital1 18**].
+.
+Per discussion with the daughter patient had been in normally
+state of health until today.  The patient had awoken at 3am with
+a HA, dizziness, and fatigue.  She then called her daughter at
+7am and told her she felt like she was going to die.  Her
+daughter then went to her mother's house.  She noted her to be
+"acting differently".  In the afternoon she was noted to have
+episodes of shaking, eyes were glazed over, and she would groan.
+ She did not eat anything throughout the day so they brought her
+to the ED for fluids. At the outside hospital they noted her to
+be bradycardic.  External pacer placed and she was transferred
+to [**Hospital1 18**]. She denied any SOB, DOE, chest pain, palpitations,
+syncope.  No recent fevers, chills, vomiting, abd pain,
+diarrhea, constipation.  Mild nause throughout the day but no
+vomiting.
+
+Past Medical History:
+HTN
+s/p right hip fracture and repair
+
+Social History:
+Lives with 2 sons.  [**Name (NI) **] 11 children.  No T/A/D use.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+T 97.4 BP 110/75 HR 70(V-paced) RR 18 O2sats 100% 2L
+Gen: Thin, elderly female in NAD, A&O times 3
+HEENT: Anicteric, dry mm
+Neck: Right IJ catheter in place
+Lungs: CTAB
+Heart: V-paced, irregular rhythm, no m/r/g
+Abd: Soft, NT, ND + BS
+Ext: No edema, 2+ right DP, 1+ left DP
+Neuro: Grossly intact
+
+Pertinent Results:
+Labs on Admission:
+[**2171-10-17**] 08:40PM   GLUCOSE-162* UREA N-20 CREAT-1.2* SODIUM-137
+POTASSIUM-3.3 CHLORIDE-102 TOTAL CO2-24 ANION GAP-14
+[**2171-10-17**] 08:40PM   CK(CPK)-51
+[**2171-10-17**] 08:40PM   cTropnT-0.02*
+[**2171-10-17**] 08:40PM   CK-MB-NotDone
+[**2171-10-17**] 08:40PM   CALCIUM-8.9 PHOSPHATE-3.9 MAGNESIUM-1.7
+[**2171-10-17**] 08:40PM   WBC-6.9 RBC-4.41 HGB-13.0 HCT-36.2 MCV-82
+MCH-29.4 MCHC-35.8* RDW-14.0
+[**2171-10-17**] 08:40PM   NEUTS-87.4* LYMPHS-11.0* MONOS-1.5* EOS-0.1
+BASOS-0.1
+[**2171-10-17**] 08:40PM   PLT COUNT-178
+[**2171-10-17**] 08:40PM   PT-13.6* PTT-27.6 INR(PT)-1.2*
+.
+CXR [**10-17**]: Right lung opacity of unclear etiology. Comparison
+with prior films is recommended if they can be made available,
+as a similar opacity was reported in [**2170-8-21**],but those images
+are not available on pacs. Accordingly the opacity may be
+chronic, and it would be important to either show long-term
+stability, establish the etiology, perhaps by CT, or follow-up
+to ensure resolution after treatment.
+.
+CXR [**10-19**]:
+A left-sided pacemaker is present, the tip overlying on right
+ventricle. The aorta is tortuous. No CHF, focal infiltrate or
+effusion is identified. There is relatively speculated opacity
+in the right infrahilar region. Further evaluation by CT scan is
+recommended to exclude an underlying pulmonary nodule. The lungs
+are hyperinflated, consistent with COPD.
+
+Brief Hospital Course:
+[**Age over 90 **] yo F w/ HTN p/w complete heart block.  S/p VDD pacemaker
+placement.
+
+# Cardiac
+Rhythm:  Patient presented to outside hospital in complete heart
+block with rate of 20's, BP stable.  She was transported
+directly to the CCU and a temporary pacing wire was placed.  She
+tolerated this procedure well without complications.  Her heart
+rate was paced in the 80s.  Her BP was stable.  TSH was wnl.
+Lyme serologies were negative.  She went for permanent pacemaker
+on [**2171-10-18**]. HR was in the 50s-90s. Post-procedure CXR
+demonstrated proper lead placement. She was restarted on her
+B-blocker and HCTZ.  He was given Keflex 500 TID x 5 days for
+prophylaxis. She should f/u in the Device clinic in one week.
+She was given the number of the cardiology clinic and asked to
+follow up there within 4 weeks.
+.
+# HTN- Her BP meds were initially held.  After her permanent
+pacemaker was placed, she was put back on B-blocker and
+thiazide.  BP was controlled.
+.
+# Pulmonary opacity - CXR incidentally noted an infrahilar,
+nodular opacity.  After discussing this finding with the patient
+and her daugher, I learned that this has been known since for at
+least several months by both the patient and her primary care
+physician.  [**Name Initial (NameIs) **] was informed that the patient does not want work
+up for this nodular opacity due to the fact that she would
+decline treatment anyway.  CT scan was recommended to the
+patient as an outpatient to further evaluate this opacity.
+.
+# Chronic Kidney Disease: Her creatinine was baseline on
+admission.  Her medications were renally dosed.
+.
+# FEN- cardiac diet
+.
+# PPx- Heparin sc, bowel regimen
+.
+#Code: Patient was full code during this admission
+
+
+Medications on Admission:
+Atenolol/chlorthalidone 50mg/25mg PO qd
+
+Discharge Medications:
+1. Atenolol-Chlorthalidone 50-25 mg Tablet Sig: One (1) Tablet
+PO once a day.
+2. Keflex 500 mg Tablet Sig: One (1) Tablet PO three times a day
+for 5 days.
+Disp:*15 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Complete AV block, w/p pacemaker placement
+2. HTN
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please take all your medications as prescribed.  You were
+prescribed an antibiotic that you should take for the next 5
+days.  This is to prevent infection.  You should call your
+primary doctor [**First Name (Titles) **] [**Last Name (Titles) **] an appointment within 1-2 weeks.
+You also need to find a cardiologist to follow up with.  You
+should call the cardiology department @ [**Telephone/Fax (1) 62**] for an
+appointment in approximently 4 weeks.  You also have an
+appointment to have your pacemaker checked in one week, which
+you should keep.  You should call your doctor or return to the
+hospital if you have dizziness, pass out, chest pain, shortness
+of breath, palpitations, or any other concerning symptoms.
+.
+Your your knowledge, your chest x-ray showed a nodule in the
+hilar region.  As per our conversation, this nodule is known by
+you and your primary doctor.  A CT scan is recommended to
+evaluate this nodule for malignancy
+
+Followup Instructions:
+You should [**Telephone/Fax (1) **] an apointment with your primary doctor
+within 2 weeks.
+You should call [**Telephone/Fax (1) 56866**] to [**Telephone/Fax (1) **] an appointment with a
+cardiologist in about 4 weeks.
+Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2171-10-28**]
+1:30
+
+
+
+Completed by:[**2171-10-21**]

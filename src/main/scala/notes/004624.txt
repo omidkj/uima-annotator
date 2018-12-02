@@ -1,0 +1,240 @@
+Admission Date:  [**2128-5-7**]              Discharge Date:   [**2128-5-8**]
+
+Date of Birth:  [**2045-12-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+Fevers, hypotension, tachycardia
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+82 M w DM, CHF, CRF, recent AKA who was transferred from
+[**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] after he was noted to be unresponsive to verbal
+stimuli with the following vital signs:
+100.9 120s 90-92% on 2L NC.
+.
+In the ambulance the patient was placed on a NRB with sat 100%.
+
+He was given 650 mg APAP.
+Vital signs in the ED: 102.3 132 81/54 93% on RA (98-99% on 3L)
+
+.
+He was noted to have minimal purulent drainage from staples of
+AKA which was sent for culture. Pt was awake but nonverbal and
+unresponsive to verbal stimuli. A rigt hip wound/opening 4 cm in
+length was noted; culture was sent. His skin was noted to be hot
+to touch.
+.
+In the ED, a CXR was performed that was negative for acute
+cardiopulmonary process. Medications and interventions in the
+ED:
+- Empiric levaquin
+- Vancomycin to cover for likely SSI
+- 2 L NS
+- Blood cultures x2
+- EKG: ST at 120s, inferior Q waves, TWI & STD anteriorly
+- SC CVL placed (confirmed by CXR)
+.
+Initially labwork revaled lactate of 4.0. He remained
+hypotensive approx 70/40 despite 2 L NS. Levophed started at
+0455. Repeat lactate at 0502 was 3.1.
+.
+REVIEW OF SYSTEMS: Unable to obtain.
+
+
+Past Medical History:
+- DM
+- CHF (EF unknown)
+- CRF
+- Recent AKA roughly 2 weeks ago at [**Hospital1 112**]
+- s/p sternotomy
+- CAD s/p MI, CABG
+- Depression
+- Aspiration
+- CVA [**2120**]
+
+
+Social History:
+- Lives at [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] for the past 5 years
+- Has 8 children
+- Married
+
+
+Family History:
+non contributory
+
+Physical Exam:
+Admission Physical:
+GEN: lethargic, confused, NAD
+HEENT: Poor dentition.
+NECK: NO JVD
+COR: +S1S2 tachycardic
+PULM: CTAB no c/w.r
+[**Last Name (un) **]: Distended, hypoactive bowel sounds. NT
+EXT: s/p L AKA. Sutures with minimal edema, no exudate.
+NEURO: Moves LE equally. L upper extremity contracture
+.
+Discharge Physical:
+GEN: NAD
+HEENT: supple, MMM, no LAD
+NECK: NO JVD
+COR: +S1S2 tachycardic, no m,r,g
+PULM: CTAB no c/w.r
+[**Last Name (un) **]: Distended, hypoactive bowel sounds. NT
+EXT: s/p L AKA. staples in place with minimal edema, no exudate.
+
+NEURO: Moves LE equally. L upper extremity contracture
+
+Pertinent Results:
+Pertinent Labs:
+[**2128-5-7**] 03:15AM BLOOD WBC-3.2* RBC-3.11* Hgb-10.0* Hct-33.0*
+MCV-106* MCH-32.0 MCHC-30.2* RDW-18.2* Plt Ct-320
+[**2128-5-7**] 03:15AM BLOOD Neuts-43* Bands-8* Lymphs-40 Monos-7
+Eos-1 Baso-0 Atyps-1* Metas-0 Myelos-0
+[**2128-5-7**] 12:08PM BLOOD WBC-4.5 RBC-2.27*# Hgb-7.3*# Hct-23.7*#
+MCV-105* MCH-32.2* MCHC-30.8* RDW-17.8* Plt Ct-264
+[**2128-5-7**] 02:15PM BLOOD WBC-4.8 RBC-2.33* Hgb-7.5* Hct-24.3*
+MCV-104* MCH-32.0 MCHC-30.7* RDW-17.9* Plt Ct-270
+[**2128-5-8**] 02:50AM BLOOD WBC-4.8 RBC-2.10* Hgb-6.7* Hct-21.6*
+MCV-103* MCH-31.9 MCHC-31.0 RDW-17.9* Plt Ct-213
+[**2128-5-7**] 03:15AM BLOOD PT-12.6* PTT-24.7* INR(PT)-1.2*
+[**2128-5-8**] 02:50AM BLOOD Ret Aut-2.9
+[**2128-5-7**] 03:15AM BLOOD Glucose-237* UreaN-35* Creat-1.0 Na-137
+K-7.5* Cl-104 HCO3-20* AnGap-21*
+[**2128-5-7**] 12:08PM BLOOD Glucose-159* UreaN-19 Creat-0.6 Na-141
+K-4.5 Cl-114* HCO3-18* AnGap-14
+[**2128-5-8**] 02:50AM BLOOD Glucose-132* UreaN-12 Creat-0.5 Na-138
+K-4.1 Cl-112* HCO3-17* AnGap-13
+[**2128-5-7**] 03:15AM BLOOD ALT-26 AST-57* AlkPhos-122 TotBili-0.6
+[**2128-5-8**] 02:50AM BLOOD LD(LDH)-200 TotBili-0.3 DirBili-0.1
+IndBili-0.2
+[**2128-5-7**] 03:15AM BLOOD proBNP-958*
+[**2128-5-7**] 03:15AM BLOOD cTropnT-0.03*
+[**2128-5-7**] 12:08PM BLOOD CK-MB-3 cTropnT-0.02*
+[**2128-5-7**] 03:15AM BLOOD Albumin-2.7* Mg-2.5
+[**2128-5-8**] 02:50AM BLOOD Hapto-408*
+[**2128-5-8**] 02:50AM BLOOD Calcium-7.5* Phos-2.5* Mg-1.6
+[**2128-5-8**] 01:27PM BLOOD Mg-1.9
+[**2128-5-8**] 05:52AM BLOOD Vanco-14.1
+[**2128-5-7**] 03:40AM BLOOD Lactate-4.0*
+[**2128-5-8**] 09:32AM BLOOD Lactate-1.3
+
+Micro:
+[**2128-5-7**] 03:45AM URINE Color-Yellow Appear-Cloudy Sp [**Last Name (un) **]-1.025
+[**2128-5-7**] 03:45AM URINE Blood-NEG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-2* pH-5.5 Leuks-MOD
+[**2128-5-7**] 03:45AM URINE RBC-2 WBC-16* Bacteri-NONE Yeast-NONE
+Epi-0
+
+[**2128-5-7**] 3:15 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):
+
+[**2128-5-7**] 3:30 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):
+
+[**2128-5-7**] 3:46 am SWAB      Source: Right AKA site.
+
+   WOUND CULTURE (Preliminary):
+      STAPH AUREUS COAG +.    MODERATE GROWTH
+
+[**2128-5-7**] 3:51 am SWAB      Source: Right groin wound.
+
+   WOUND CULTURE (Preliminary):
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         SENSITIVITIES PERFORMED ON CULTURE # [**Numeric Identifier 110082**] FROM
+[**2128-5-7**]
+
+[**2128-5-7**] 9:18 am MRSA SCREEN      Source: Nasal swab.
+
+   MRSA SCREEN (Pending):
+
+[**2128-5-7**] 3:45 am URINE     Site: NOT SPECIFIED      CHEM# [**Serial Number 110083**]
+[**5-7**].
+
+   URINE CULTURE (Pending):
+
+Imaging:
+TTE:
+The left atrium is elongated. Left ventricular wall thicknesses
+are normal. Left ventricular cavity size could not be determined
+(no parasternal views available) but was visually normal.
+Overall left ventricular systolic function is moderately
+depressed secondary to hypo to akinesis of the distal segments
+of the LV, akinesis of the apex, and dyskinesis of the basal
+inferior and infero-lateral walls. The remaining segments are
+hyperdynamic (LVEF= 35-40 %). A small (0.6 cm) sessile,
+pedunculated, mobile structure is seen in the apex of the left
+ventricle most likely c/w a thrombus, although a prominenent
+trabeculation cannot be excluded . Right ventricular chamber
+size and free wall motion are normal. The number of aortic valve
+leaflets cannot be determined. There is no aortic valve
+stenosis. No aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+The pulmonary artery systolic pressure could not be determined.
+There is no pericardial effusion.
+
+IMPRESSION: Poor image quality. No pericardial effusion.
+Moderate regional and global left ventricular systolic
+dysfunction c/w multivessel CAD. Possible small left ventricular
+apical thrombus. No significant valvular disease.
+
+CHEST (PORTABLE AP) Study Date of [**2128-5-7**] 3:26 AM
+IMPRESSION: Low lung volumes. Retrocardiac opacity likely
+represents
+atelectasis rather than focal consolidation.
+
+CHEST (PORTABLE AP) Study Date of [**2128-5-7**] 4:53 AM
+Left subclavian catheter tip is in the upper SVC. There is no
+evident
+pneumothorax. There are persistent low lung volumes with
+bilateral
+atelectasis, larger on the left side. Cardiomediastinal contours
+are
+unchanged. The stomach is very distended. There is no pleural
+effusion.
+Sternal wires are aligned.
+
+CT ABD & PELVIS WITH CONTRAST Study Date of [**2128-5-7**] 5:16 AM
+FINDINGS: There is minimal dependent atelectasis at the lung
+bases. Diffuse
+multivessel coronary artery disease is present. The liver
+enhances
+homogeneously. No focal liver lesions are identified. The portal
+veins are
+patent. The gallbladder is decompressed. The pancreas is mildly
+atrophic.
+The spleen and adrenal glands are unremarkable. Several cysts
+are seen in
+both kidneys, the largest have simple fluid attenuation. The
+kidneys enhance
+symmetrically and excrete contrast promptly. There is no
+ascites. No
+abdominal or retroperitoneal adenopathy is present. The stomach
+is distended
+with air. The small and large bowel are of normal caliber and
+appearance.
+
+PELVIS: There is a large amount of formed stool in the distal
+sigmoid colon
+and rectum, the wall of which is mildly thickened. A normal
+air-filled
+appendix is seen in the right lower quadrant. There is no free
+pelvic fluid.
+There is no inguinal or abdominal adenopathy. There are no
+concerning lytic
+or sclerotic bone lesions. Several bilateral gluteal granulomas
+are noted.
+Subcutaneous soft tissue nodules are noted in the left abdomen.
+Correlate
+with subcutaneous drug injection.
+
+IMPRESSI

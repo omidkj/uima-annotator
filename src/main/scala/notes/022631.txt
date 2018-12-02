@@ -1,0 +1,120 @@
+Admission Date:  [**2143-10-21**]              Discharge Date:   [**2143-10-29**]
+
+Date of Birth:  [**2109-8-21**]             Sex:   F
+
+Service: GYN
+
+Allergies:
+Latex
+
+Attending:[**Doctor First Name 6716**]
+Chief Complaint:
+abnormal uterine bleeding
+laryngeal edema
+
+Major Surgical or Invasive Procedure:
+Hystercscopy
+Intubation
+
+
+History of Present Illness:
+Pt is a 34 yo G4P4 with a history of menometrorrhagia secondary
+to uterine fibroids who presented for hysteroscopic myomectomy.
+
+Past Medical History:
+Anemia
+Asthma
+Hypertension
+Depression
+
+Social History:
+on disability for depression; lives with her four children and
+her mother
+
+Family History:
+no hx breast, ovarian, uterine cancers
+DM, HTN, anemia, kidney and lung disease
+
+Physical Exam:
+NAD
+CTA B/L
+RRR
+soft, obese, +BS, no HSM
+Pelvic: NEFG, good vaginal support, nl vaginal mucosa with no
+lesions, parous cervix with no lesions, AV NT uterus at upper
+limits of normal size, no palpable adnexal masses, nontender
+cul-de-sac
+guaiac negative stool
+
+Pertinent Results:
+[**2143-10-21**] 10:57PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.015
+[**2143-10-21**] 10:57PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-50 BILIRUBIN-NEG UROBILNGN-1 PH-9.0* LEUK-NEG
+[**2143-10-21**] 10:57PM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE
+EPI-<1
+[**2143-10-21**] 10:57PM URINE  MUCOUS-RARE
+[**2143-10-21**] 08:39PM   TYPE-ART RATES-/12 PEEP-5 PO2-159* PCO2-37
+PH-7.42 TOTAL CO2-25 BASE XS-0 -ASSIST/CON INTUBATED-INTUBATED
+[**2143-10-21**] 08:39PM   GLUCOSE-124* LACTATE-1.0 NA+-142 K+-3.7
+CL--108 TCO2-23
+
+Brief Hospital Course:
+Surgical procedure on [**2143-10-21**] uncomplicated.  During intubation
+for hysteroscopy, pt was noted to have edematous arytenoids and
+a supraglottic edema.  ENT consult called, advised Decadron 10mg
+IV q8hr and delay of extubation.  Pt transferred from PACU to
+[**Hospital Unit Name 153**] for further monitoring.  Tube feeds begun on [**2143-10-23**].  Pt
+followed in-house by ENT, dermatology, and allergy.  Derm had
+performed biopsy of lip swelling as outpt, showed granulomatous
+cheilitis; recommended continued use of high-dose steroids and
+minocycline.  Allergy had tested pt as outpt for allergies to
+latex, noted to be negative.  ENT and anesthesia successfully
+extubated pt on [**2143-10-26**] and pt was transferred out of [**Hospital Unit Name 153**] on
+[**2143-10-27**].  Stable on floor from [**2143-10-27**] until [**2143-10-29**].
+Evaluated by speech & swallow, PT, OT, all cleared pt for
+discharge.  Discharged home on [**2143-10-29**] in good condition.
+
+Medications on Admission:
+HCTZ 25 mg Qday
+
+Discharge Medications:
+1. Minocycline HCl 100 mg Capsule Sig: One (1) Capsule PO Q12H
+(every 12 hours).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO once a day:
+continue until directed .
+Disp:*90 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+uterine fibroids
+menorrhagia
+granulomatous chelitis
+
+
+Discharge Condition:
+good. stable
+
+Discharge Instructions:
+F/U with dermatology (Drs. [**Name5 (PTitle) **] & [**Doctor Last Name 23657**]), ob/gyn (Dr.
+[**Name (NI) **]).
+Continue steroids until advised about taper by dermatology.
+[**Name8 (MD) **] MD [**First Name (Titles) 151**] [**Last Name (Titles) **]/chills, nausea/vomiting, difficulty breathing
+or swallowing, or any other symptoms that worry you.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 23657**] Dermatology: Date [**2143-11-8**].  Clinic will call you
+with appoitment time. [**Telephone/Fax (1) 1971**]
+
+Provider: [**First Name4 (NamePattern1) 8694**] [**Last Name (NamePattern1) 8695**], MD Where: [**Hospital6 29**]
+Date/Time:[**2143-11-8**] 9:30
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **] OB/GYN PPS CC8 Where: [**Hospital 273**] OBSTETRICS & GYNECOLOGY Phone:[**Telephone/Fax (1) 2664**]
+Date/Time:[**2143-11-12**] 2:30
+
+
+                             [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(1) 6721**]
+
+Completed by:[**2143-10-29**]

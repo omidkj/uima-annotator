@@ -1,0 +1,232 @@
+Admission Date:  [**2199-12-13**]              Discharge Date:   [**2199-12-24**]
+
+Date of Birth:  [**2132-6-19**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Avelox / Codeine / Erythromycin / Glucophage / Glipizide /
+Penicillins / Sulfa (Sulfonamides) / Tetracycline / Shellfish /
+Aspartame
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+SOB and angina
+
+Major Surgical or Invasive Procedure:
+cabg x3/MV repair  [**2199-12-16**] (LIMA to LAD, SVG to OM1, SVG to OM2,
+28 mm CE annuloplasty band)
+
+History of Present Illness:
+67 yo female presented to OSH with chest pressure and SOB [**12-11**]
+and ruled in for NSTEMI. Cath there revealed 90% LAD lesions, CX
+90%, OM 50%, RCA 40% with EF 30% Significant MR also noted. Pt.
+transferred for surgery at [**Hospital1 18**].
+
+Past Medical History:
+NSTEMI [**2199-12-11**]
+HTN
+elev. lipids
+CHF diastolic ( EF 50%)
+NIDDM
+retinopathy
+remote asthma
+
+PSH: appy, cholecystectomy, cataract [**Doctor First Name **], fxs ankle and arm
+
+
+Social History:
+no ETOH abuse
+no current tobacco use
+
+Family History:
+sister with premature CAD/cabg
+father with fatal MI at 59
+
+Physical Exam:
+95% on 2L NC
+61.5 "   79.9 kg
+T 100.3, 122/64    ST 110  RR 20
+NAD, and oriented appropriately
+NCAT, PERRL, EOMI,anicteric
+neck supple with JVP to jaw
+RRR S1 S2  no m/r/g
+bibasilar rales
+soft, NT, ND,no abd. bruits , no HSM
+extrems no c/c/e skin unremarkable
+2+ bil. fem/DP/PTs , no bruits
+
+Pertinent Results:
+[**2199-12-24**] 07:10AM BLOOD WBC-18.0* RBC-3.75* Hgb-11.1* Hct-33.3*
+MCV-89 MCH-29.7 MCHC-33.4 RDW-14.5 Plt Ct-547*
+[**2199-12-23**] 03:44AM BLOOD WBC-20.9* RBC-3.87* Hgb-11.4* Hct-33.4*
+MCV-86 MCH-29.4 MCHC-34.0 RDW-14.4 Plt Ct-436
+[**2199-12-22**] 04:16AM BLOOD WBC-18.7* RBC-3.77* Hgb-11.4* Hct-33.2*
+MCV-88 MCH-30.3 MCHC-34.4 RDW-14.5 Plt Ct-368
+[**2199-12-24**] 07:10AM BLOOD Plt Ct-547*
+[**2199-12-23**] 09:16AM BLOOD PT-19.8* INR(PT)-1.8*
+[**2199-12-22**] 04:16AM BLOOD PT-17.4* PTT-26.3 INR(PT)-1.6*
+[**2199-12-21**] 02:43AM BLOOD PT-17.4* INR(PT)-1.6*
+[**2199-12-20**] 02:20AM BLOOD PT-17.3* PTT-27.4 INR(PT)-1.6*
+[**2199-12-24**] 07:10AM BLOOD Glucose-154* UreaN-12 Creat-0.5 Na-137
+K-3.9 Cl-97 HCO3-31 AnGap-13
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 76240**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 76241**]Portable TTE
+(Complete) Done [**2199-12-18**] at 1:23:17 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2132-6-19**]
+Age (years): 67 F  Hgt (in): 62
+BP (mm Hg): 116/54  Wgt (lb): 210
+HR (bpm): 92  BSA (m2): 1.95 m2
+Indication: H/O cardiac surgery. Pericardial effusion.
+Prosthetic valve function.
+ICD-9 Codes: 423.9, V43.3, 424.0
+Test Information
+Date/Time: [**2199-12-18**] at 13:23    Interpret MD: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+[**Last Name (NamePattern1) **], MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2007W046-1:02 Machine: Vivid [**7-21**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.6 cm  <= 4.0 cm
+Left Ventricle - Septal Wall Thickness:  1.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.3 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.1 cm
+Left Ventricle - Fractional Shortening:  *0.28  >= 0.29
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Aorta - Sinus Level:  2.4 cm  <= 3.6 cm
+Aorta - Ascending:  3.0 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.6 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  1.6 m/sec
+Mitral Valve - A Wave:  0.8 m/sec
+Mitral Valve - E/A ratio:  2.00
+Mitral Valve - E Wave deceleration time:  244 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *35 to 43 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the prior study of [**2199-12-14**].
+LEFT ATRIUM: Mild LA enlargement.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size.
+Mild-moderate regional LV systolic dysfunction. No resting LVOT
+gradient.
+
+RIGHT VENTRICLE: RV not well seen.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter.
+
+AORTIC VALVE: ?# aortic valve leaflets. No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mitral
+valve annuloplasty ring. No MS. Normal LV inflow pattern for
+age.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Moderate PA
+systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Frequent ventricular premature beats.
+
+Conclusions
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses and cavity size are normal. There is mild to
+moderate regional left ventricular systolic dysfunction with
+severe hypokinesis of the inferior and inferolateral walls and
+apex. The number of aortic valve leaflets cannot be determined.
+There is no aortic valve stenosis. No aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. A mitral
+valve annuloplasty ring is present. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2199-12-14**] ,
+there is now a mitral valvuloplasty ring in position. There is
+no mitral regurgitation. The estimated pulmonary artery systolic
+pressure is slightly lower.
+
+CHEST (PORTABLE AP)  [**2199-12-18**] 7:29 AM
+
+CHEST (PORTABLE AP)
+
+Reason: ? effusion
+
+[**Hospital 93**] MEDICAL CONDITION:
+67 year old woman with s/p cabg mv repair
+REASON FOR THIS EXAMINATION:
+? effusion
+HISTORY: CABG and MVR repair.
+
+FINDINGS: In comparison with study of [**12-16**], the endotracheal
+tube and nasogastric tube have been removed. The Swan-Ganz
+catheter tip now lies within the proximal right pulmonary
+artery. Left chest tube remains in place. Some atelectatic
+changes are again seen at the bases.
+
+CHEST (PORTABLE AP)  [**2199-12-18**] 4:31 PM
+
+CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN
+
+Reason: s/p ct removal ? ptx
+
+[**Hospital 93**] MEDICAL CONDITION:
+67 year old woman with s/p cabg
+REASON FOR THIS EXAMINATION:
+s/p ct removal ? ptx
+PORTABLE UPRIGHT CHEST, [**2199-12-18**]
+
+COMPARISON: Previous study of earlier the same day.
+
+INDICATION: Chest tube removal.
+
+Following removal of left-sided chest tube, no pneumothorax is
+identified. Mediastinal drain has also been removed. Swan-Ganz
+catheter remains in place with tip terminating in proximal left
+pulmonary artery. Vascular engorgement and perihilar haziness
+are minimally improved. Bibasilar atelectasis is slightly
+improved and right pleural effusion appears slightly smaller.
+
+Brief Hospital Course:
+Admitted [**12-13**]  from EMMC, and pre-op workup completed over the
+weekend. Underwent CABG x3/MV repair with Dr. [**Last Name (STitle) **] on [**12-16**].
+Transferred to the CVICU in stable condition on levophed,
+milrinone, epinephrine, and insulin drips. Extubated on POD #1,
+and went into A fib overnight. Converted with amiodarone. Given
+48 hours of peiop vancomycin as she was in the hospital
+preoperatively. Flagyl started for C. diff. Chest tubes and
+pacing wires removed without incident. Vanco PO also started.
+Drips also weaned over the next few days. Beta blockade titrated
+and gentle diuresis continued. Coumadin and amiodarone started
+for continued Afib. Remained in the CVICU over the weekend as
+private room not avail. on the floor given C. Diff. Cleared for
+discharge to rehab on POD #8 Target INR 2.0-2.5 for A fib.
+
+Medications on Admission:
+ASA 325 mg daily
+Zestril 2.5 mg [**Hospital1 **]
+lopressor 25 mg Q 6h
+protonix 40 mg daily
+SS insulin
+lipitor 80 mg QHS
+duoneb prn q 4h
+diazepam 2-5 mg prn
+NTG paste 1" dermal q6h
+heparin drip
+
+Discharge Medications:
+1. 

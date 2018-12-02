@@ -1,0 +1,225 @@
+Admission Date:  [**2131-10-30**]              Discharge Date:   [**2131-11-7**]
+
+Date of Birth:  [**2053-7-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 678**]
+Chief Complaint:
+Hyperglycemia, altered mental status
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Ms. [**Known lastname 94057**] is a 78 year old woman with history of diabetes,
+diastolic CHF, atrial fibrillation s/p PPM placement, and
+hypertension who presents to the ED today for altered mental
+status. She was noted by her caregiver to be increasingly
+lethargic over the last day (not seen over the weekend). She
+reports feeling tired and weak. Per her caregiver, she has had
+waxing/[**Doctor Last Name 688**] mental alertness, mumbling, confusion, weakness,
+and difficulty walking. She denies fevers, chills, nausea,
+vomiting, cough, dyspnea, shortness of breath, chest pain,
+urinary symptoms, diarrhea, and abdominal pain. She has noted
+that her blood sugars have been more difficult to control
+recently, with sugars in the 400's. She reports normal PO intake
+and normal urine output.
+.
+She presented to clinic with FS 310, afebrile, with pulse 70.
+She was sent to the ED for further workup. In the ED, her vital
+signs were 97.7F, HR 73, BP 138/73, 92%RA which improved to 97%
+on 2L. 2 peripheral IV's were placed. Blood cultures were drawn,
+CXR showed no acute cardiopulmonary process, and she was given 1
+liter of normal saline with 40mEq of KCl. She was found to have
+a finger stick of 449 with anion gap of 16. She was admitted to
+the MICU for DKA and altered mental status.
+.
+On arrival to the floor, stat blood gas demonstrated:
+7.51/49/84/40. Her anion gap on repeat labs was 10. She was
+restarted on her home insulin doses, given one liter of IVF over
+several hours, and monitored. Diuretics were held.
+
+Past Medical History:
+-Hypertrophic obstructive cardiomyopathy with superimposed
+diastolic dysfunction, s/p ethanol ablation in [**2126**]
+-dCHF (EF-60%-70%, 2+ TR; 1+ MR)
+-PAF on coumadin
+-Hypertension
+-S/P DDD pacemaker to induce LV delay compared to the right
+ventricle in order to decrease the outflow tract obstruction.
+-Mesenteric artery thrombosis
+-Diabetes mellitus type 2
+-Glaucoma
+-Gout
+-Chronic low back pain and lumbar stenosis s/p recent placement
+of nerve stimulator
+-Chronic renal insufficiency (1.1-1.2)
+-cath in [**2126**] showed no obstructing disease in coronary arteries
+
+
+Social History:
+Lives alone in [**Location (un) 538**] but has 24-hour care 5 days a week.
+The patient quit smoking many years ago. She drinks less than
+one drink per week. She is from [**Country 4754**]. She lives alone but
+has. Her son lives in [**Name (NI) 1411**].
+
+
+Family History:
+Mother has diabetes mellitus. Brother had a CABG, the details of
+which are unknown.
+
+Physical Exam:
+VITALS: T 97.8F, BP 108/38, HR 74, RR 18, Sat 94%2L
+GENERAL: Well-appearing, no acute distress
+HEENT: Dry mucus membranes
+NECK: Unable to appreciate JVD
+CARD: RRR, normal S1/S2, no m/r/g
+RESP: Bibasilar crackles
+ABD: Obese, soft, non-tender, non-distended, + bowel sounds
+EXT: Trace edema. LLE with erythematous scaling rash, intensely
+pruritic; RLE with venous stasis changes
+NEURO: A&O x 3, responds to commands and communicates
+appropriately
+
+
+Pertinent Results:
+[**2131-10-30**] 10:58PM   GLUCOSE-176* UREA N-98* CREAT-1.5*
+SODIUM-132* POTASSIUM-3.5 CHLORIDE-86* TOTAL CO2-36* ANION
+GAP-14
+[**2131-10-30**] 10:58PM   WBC-12.0* RBC-4.93 HGB-14.6 HCT-43.2 MCV-88
+MCH-29.7 MCHC-33.9 RDW-16.5*
+[**2131-10-30**] 10:58PM   NEUTS-77.1* LYMPHS-16.2* MONOS-4.6 EOS-1.8
+BASOS-0.3
+[**2131-10-30**] 11:14PM   GLUCOSE-163* LACTATE-1.5 NA+-130* K+-3.2*
+CL--82*
+[**2131-10-30**] 11:14PM   TYPE-ART PO2-84* PCO2-49* PH-7.51* TOTAL
+CO2-40* BASE XS-13
+[**2131-10-30**] 10:58PM   ALT(SGPT)-22 AST(SGOT)-25 LD(LDH)-331*
+CK(CPK)-61 ALK PHOS-115 TOT BILI-0.5
+[**2131-10-30**] 10:58PM   PT-19.5* PTT-29.3 INR(PT)-1.8*
+
+[**2131-11-7**] 05:45AM BLOOD WBC-8.6 RBC-4.18* Hgb-12.7 Hct-38.9
+MCV-93 MCH-30.4 MCHC-32.6 RDW-16.6* Plt Ct-365
+[**2131-11-5**] 01:43PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.012
+.
+[**2131-11-5**] 1:43 pm URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2131-11-7**]**
+
+   URINE CULTURE (Final [**2131-11-7**]):
+      PROTEUS MIRABILIS.    10,000-100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+RADIOLOGY   Preliminary Report
+.
+SHOULDER [**12-23**] VIEWS NON TRAUMA RIGHT  [**2131-11-6**] 7:33 PM
+.
+SHOULDER [**12-23**] VIEWS NON TRAUMA
+.
+Reason: Please evaluate r-shoulder for pathology, interval
+change.
+.
+[**Hospital 93**] MEDICAL CONDITION:
+78 year old woman with diastolic HF, DM, HTN, c/o shoulder pain
+with abduction. History of shoulder mass on [**2128**] imaging.
+REASON FOR THIS EXAMINATION:
+Please evaluate r-shoulder for pathology, interval change.
+RIGHT SHOULDER, THREE VIEWS, [**2131-11-6**]
+.
+CLINICAL INFORMATION: Shoulder pain with abduction, history of
+shoulder mass in [**2128**].
+COMPARISON STUDY: [**2129-5-20**].
+FINDINGS:
+Since the prior study, there is marked interval narrowing of the
+acromiohumeral distance and the humerus is high riding and now
+articulates with the acromion, consistent with chronic rotator
+cuff tear. There are marked degenerative changes at the
+glenohumeral joint and the acromioclavicular joint. There are
+large osteophytes arising from the femoral head. There are also
+marked degenerative changes at the acromioclavicular joint.
+IMPRESSION:
+1. Chronic rotator cuff tear.
+2. Degenerative changes at the acromioclavicular joint and
+glenohumeral joint.
+.
+RADIOLOGY  Final Report
+.
+CT HEAD W/O CONTRAST  [**2131-11-5**] 9:35 AM
+.
+CT HEAD W/O CONTRAST
+.
+Reason: assess for interval change or development of new infarct
+
+.
+[**Hospital 93**] MEDICAL CONDITION:
+78 year old woman with dCHF, PAF, DM, p/w DKA and now with
+persistant AMS and leukocytosis despite negative w/u thus far
+REASON FOR THIS EXAMINATION:
+assess for interval change or development of new infarct
+CONTRAINDICATIONS for IV CONTRAST: None.
+.
+INDICATION: CHF, PAF, DM, presenting with DKA and now with
+persistent altered mental status and leukocytosis, despite
+negative workup. Query interval change or development of new
+infarct.
+.
+COMPARISON: [**2131-11-1**].
+.
+TECHNIQUE: Contiguous axial images were obtained through the
+brain. No contrast was administered.
+.
+FINDINGS: The study is degraded by motion. No evidence of
+hemorrhage or infarction. Ventricles are stable in size and
+configuration. There is no shift of normally midline structures.
+Again seen is left scleral band. The left lens has been
+surgically removed. The paranasal sinuses and mastoid air cells
+appear clear.
+.
+IMPRESSION: No impression of infarction, hemorrhage, mass
+effect, or infection.
+.
+Neurophysiology Report EEG Study Date of [**2131-11-4**]
+OBJECT: 78 YEAR OLD WITH ALTERED MENTAL STATUS; EVALUATE FOR
+SEIZURES.
+REFERRING DOCTOR: DR. [**First Name (STitle) **] [**Month (only) **]
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 43501**] [**Doctor Last Name 40719**]
+.
+FINDINGS:
+ABNORMALITY #1: The background was slow, typically in the 7 Hz
+frequency range, and was admixed with bursts of moderate
+amplitude mixed
+theta and delta frequency slowing in a generalized distribution.
+
+BACKGROUND: As above.
+HYPERVENTILATION: Could not be performed as this was a portable
+study.
+INTERMITTENT PHOTIC STIMULATION: Could not be performed as this
+was a
+portable study.
+SLEEP: The patient progressed from the waking to drowsy state
+but did
+not attai

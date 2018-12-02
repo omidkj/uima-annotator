@@ -1,0 +1,239 @@
+Admission Date:  [**2140-12-31**]              Discharge Date:   [**2141-1-2**]
+
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Morphine
+
+Attending:[**Doctor First Name 1402**]
+Chief Complaint:
+ICD shock
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Patient is a 84 yo male with h/o HTN, CAD s/p stents LAD,
+diagonal and OM1, ESRD on HD, and ICD for recurrent polymorphic
+ventricular tachycardia, history of probable amiodarone-induced
+lung toxicity admitted with firing of his ICD. Symptoms started
+at HD where he had nausea and several episodes of vomiting. He
+then felt that he was going to be shocked and was shocked 10+
+times. He reports that this has happened before when his
+electrolytes were off. He was sent to the ED where he was given
+calcium gluconate 2 g x1, magnesium 2g x1 and was seen by the EP
+service whow started amiodarone drip as well as lidocaine 50 mg
+IV x1. Per ED resident, he had 2 further shocks while in the ED,
+therefore he was transfer to the CCU. He remained HD stable and
+AA0x3.
+.
+On review of symptoms, he denies any prior history of stroke,
+TIA, deep venous thrombosis (he did have a superficial spahenous
+clot), pulmonary embolism, bleeding at the time of surgery,
+myalgias, joint pains, cough, hemoptysis, black stools or red
+stools. He denies recent fevers, chills or rigors. He denies
+exertional buttock or calf pain. All of the other review of
+systems were negative. He does report 3 [**Last Name (un) 940**] BMs the morning of
+admission as well as nausea and vomitting. No abdominal pain.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+.
+
+
+Past Medical History:
+# CV
+--CAD: LAD, diagonal, OM1 stent; PCI
+--ICD ([**2135**]) [**12-24**] recurrent polymorphic VT
+--Pacemaker
+--CHF: EF 20-25% ([**4-/2140**] echo)
+--HTN
+--Hyperlipidemia
+--TIA
+# Pulm:  R pleural effusion ([**4-/2140**]): Thoracentesis x2, cytology
+negative, c/b hydropneumothorax, trapped lung
+# Renal
+--ESRD [**12-24**] HTN
+--HD qTRS
+# Hematology
+--Anemia
+--Factor V Leiden (heterozygous): Warfarin goal INR 1.3
+--Positive lupus anticoagulant ([**2-/2136**])
+--Thrombi: R greater saphenous vein, L varicosities
+# GU:  Prostate cancer s/p B subcapsular orchiectomy
+# Endo: Hypothyroidism
+# Psych: Depression
+
+Social History:
+# Personal: Lives with daughter
+# Employment: Former bar owner in [**Hospital1 3494**]
+# Alcohol: Rare
+# Tobacco: 20y x 1ppd, quit age 40s.  Second-hand smoke x 52y as
+bar owner.
+# Recreational drugs: Never
+
+
+Family History:
+# M, d 80: Heart failure
+# F, d 76: Died in sleep
+# Siblings (1 sister, 3 brothers): MI, dementia, heart disease
+
+Physical Exam:
+VS: T 98.4, BP 117/49, HR 80, RR 16, 100 O2 % on 2L
+Gen: Elderly male in NAD, resp or otherwise. Oriented x3. Mood,
+affect appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: No JVD.
+CV: RR, normal S1, S2. No S4, no S3, Harsh murmur at LUSB 2/2 L
+A-V HD fistula.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheeze,
+rhonchi, but had decreased breath sounds at the right base.
+Abd: Obese, soft, NTND, No HSM or tenderness. No abdominal
+bruits freely reducible lower abdominal hernia.
+Ext: No edema, no calf tenderness
+Skin: Well healed incision of upper back s/p skin biopsy.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+
+Pertinent Results:
+[**2140-12-31**] 05:00PM BLOOD WBC-11.6* RBC-4.01* Hgb-11.7* Hct-34.7*
+MCV-87 MCH-29.1 MCHC-33.7 RDW-18.3* Plt Ct-306
+[**2140-12-31**] 05:00PM BLOOD Neuts-80* Bands-5 Lymphs-10* Monos-3
+Eos-0 Baso-0 Atyps-2* Metas-0 Myelos-0
+[**2140-12-31**] 05:00PM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-2+
+Macrocy-1+ Microcy-1+ Polychr-1+ Ovalocy-OCCASIONAL Envelop-2+
+
+[**2141-1-2**] 07:10AM BLOOD WBC-4.8 RBC-3.27* Hgb-9.4* Hct-27.9*
+MCV-85 MCH-28.8 MCHC-33.8 RDW-18.3* Plt Ct-253
+[**2141-1-2**] 07:10AM BLOOD PT-32.3* PTT-39.5* INR(PT)-3.3*
+[**2141-1-2**] 07:10AM BLOOD Glucose-70 UreaN-33* Creat-5.1*# Na-142
+K-3.9 Cl-95* HCO3-37* AnGap-14
+[**2140-12-31**] 05:00PM BLOOD CK(CPK)-41
+[**2141-1-2**] 07:10AM BLOOD Calcium-8.5 Phos-5.4* Mg-2.8*
+
+
+Brief Hospital Course:
+84 yo male with h/o CAD, CHF, ESRD on HD and polymorphic VT
+presenting after being shocked by ICD likley in the setting of
+fluid and elctrolyte shifts.
+.
+# ICD firing: Polymorphic VT s/p ICD firing. Per primary
+nephrologist, patient has been challenging to control in regard
+to electrolyte balance. Although he had been titrated to higher
+potassium range in order to prevent further episodes. It appears
+that viral gastroenteritis and diarrhea further decreased
+potassium, down to 3.5 at dialysis per report. Patient was
+repleted and controlled with IV amiodarone, which was
+discontinued shortly after admisison. Patient has remained
+stable and will not require any medication changes.
+.
+# Coronary artery disease: Hitory of stent to LAD, diagonal and
+OM. Last cath on [**2140-5-18**] revealed patent stents. Medical regimen
+of aspirin, statin and beta blocker were maintained this
+admission.
+.
+# Chronic systolic heart failure: EF 20-25%. Currently appears
+euvolemic after dialysis. Fluid status to be controlled at
+dialysis per routine, with special attention to potassium level.
+
+.
+# Gastroenteritis: Vomiting and diarrhea. Likely
+gastroenteritis, with transient lyphocytosis which is now
+resolved. Patient has not had any more emesis and bowel
+movements have become less freqent. No risk factor for C. Diff
+infection were found. Patient instructed to report to PCP if
+symptoms do not improve in the next 48 hours.
+.
+# ESRD on dialysis: Followed as oupatient by Dr. [**Last Name (STitle) 118**]. Patient
+will continue on current Dialysis schedule Tues/thurs/sat.
+.
+# Factor V leiden heterozygote: therapeutic on coumadin
+.
+# hypothyroidism: we continued levothyroxine
+.
+# h/o trapped lung: O2 sats stable, no intervention during
+admission.
+.
+# HTN: well controlled on current regimen, no changes were made.
+
+.
+# FEN: renal, cardiac diet
+.
+# Prophylaxis: Therapeutic on coumadin
+.
+# Code: Patient remained DNR/DNI during hospitalization,
+confrimed with patient and daughter
+.
+# Communication: Daughter [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 27887**]
+
+
+Medications on Admission:
+Citalopram 20 mg daily
+LEVOXYL 200 mcg daily
+LISINOPRIL 5 mg daily
+Mexiletine 150 mg twice a day
+SIMVASTATIN 20 mg daily
+TOPROL XL 25 mg daily
+TRAZODONE 100 mg at night-time
+
+
+Discharge Medications:
+1. Mexiletine 150 mg Capsule Sig: One (1) Capsule PO Q12H (every
+12 hours).
+2. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+5. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+6. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID WITH MEALS ().
+8. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO QHS (once a day
+(at bedtime)).
+10. Trazodone 50 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 2255**] [**Name (NI) 2256**]
+
+Discharge Diagnosis:
+PRIMARY:
+Ventricular tachycardia
+Viral gastroenteritis
+
+SECONDARY:
+Chronic Systolic Heart Failure
+End stage renal failure
+
+
+Discharge Condition:
+Hemodynamically stable, without further episodes of ventricular
+tachycardia.
+
+
+Discharge Instructions:
+You were admitted to the hospital after you began experiencing
+shocks from your defibrillator. We discovered you had developed
+a dangerous heart rhythm which was corrected by the shock. We
+started a medication to stabilize you while hospitalized; you
+will no longer require it after discharge.
+
+Weigh yourself every morning,

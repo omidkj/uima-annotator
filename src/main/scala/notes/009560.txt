@@ -1,0 +1,157 @@
+Admission Date:  [**2146-4-25**]              Discharge Date:   [**2146-4-30**]
+
+
+Service: MEDICINE
+
+Allergies:
+Levsin / Shellfish
+
+Attending:[**First Name3 (LF) 2763**]
+Chief Complaint:
+hypoxia
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname 19463**] is an 88 year old gentleman with a past medical
+history significant for metastatic SCC with unknown primary,
+CAD, AS, AF on coumadin, and a recent inguinal surgery
+complicated by Pseudomonal and Enterococcal seroma on pip/tazo
+and NSTEMI with newly depressed LVEF to 35% now admitted for
+hypoxemic respiratory distress.  The patient was diagnosted with
+a pneumonia on [**4-22**] by CXR after developing fever and dyspnea
+while at rehab treated with vancomycin, azithro, and continued
+on pip/tazo. This morning, he was noted to be febrile  at [**Doctor Last Name **]
+house to 101.3 and hypoxemic with SaO2 88-92% NRB. Over the last
+several days his SBPs were running 80s to 90s. He received 40 mg
+lasix, and was transferred to [**Hospital1 18**] for further evaluation.
+.
+Of note, the patient was admitted to [**Hospital1 18**] [**Date range (1) 19464**] under
+Surgery, after initially underoing right inguinal-femoral
+lymphadenectomy complicated by seroma formation. At that time,
+he was transferred to the ICU for hypotension, and was also
+noted to have an atrial tachycardia and troponinemia felt to be
+an NSTEMI with peak CK 567, MB 49, TnT 2.23.  He has undergone
+IR drainage and drain placement, with serial cultures
+demonstrating Pseudomonas and Enterococcus, with plan for
+prolonged pip/tazo therapy with ID follow-up.
+.
+In the [**Hospital1 18**] ED, initial VS 98.1, 88, 101/57, 24 89%NRB. Labs
+were notable for WBC 16, INR 3.8, and creatinine 1.7.  A CXR
+demonstrated bilateral airspace opacities, he received cefepime,
+and was briefly placed on NIPPV. He was then admitted to the
+MICU for further management.
+.
+Currently, the patient continues to complain of dyspnea. He
+denies any CP, palpitations, orthopnea, PND.
+
+
+Past Medical History:
+PMH:
+ - metastatic squamous cell carcinoma (unknown primary lesion)
+ - CAD s/p MI (remote), EF 50%
+ - Aortic stenosis
+ - Afib on coumadin
+ - HTN
+ - BPH
+ - L retinal artery occlusion in [**2134**] (secondary to emoblic
+disease)
+
+PSH:
+ - R inguinal lymph node dissection ([**2146-2-10**])
+ - L inguinal hernia repair ([**2135**])
+
+
+Social History:
+nonsmoker, lives with wife, no EtOH
+
+
+Family History:
+CAD in multiple family members
+
+
+Physical Exam:
+VS: 98 83 104/53 28 95%NRB
+Gen: Mild respiratory distress
+HEENT: NRB in place
+CV: Nl S1+S2, II/VI systolic murmur loudest at the base. JVP
+~8-10 cm
+Pulm: Diffuse bilateral rales
+Abd: S/NT/ND +bs
+Ext: 3+ pitting edema, chronic per wife.
+Neuro: AOx3. CN non-focal
+Groin: Right groin with open wound, no purulence.
+Skin: Right PICC in place.
+
+
+Pertinent Results:
+[**2146-4-25**] 10:30AM   cTropnT-0.39*
+[**2146-4-25**] 10:39AM   LACTATE-1.4
+[**2146-4-25**] 11:05AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2146-4-25**] 10:30AM   WBC-16.3*# RBC-3.35* HGB-10.5* HCT-30.4*
+MCV-91 MCH-31.4 MCHC-34.6 RDW-15.3
+[**2146-4-25**] 10:30AM   CK-MB-3 proBNP-[**Numeric Identifier 19465**]*
+
+Brief Hospital Course:
+addmitted [**4-25**] with hypoxia and 3/29/11tolerating NRB mask with
+troponin bump from 0.39 > 0.47 > 0.63 > 0.69, but flat CK
+(cycling CE after likely tachycardia-induced anterior EKG
+repolarization abnormalities). Outpatient cardiologist
+recomended continuation of previous cardiac regimen. [**4-27**]
+broadened to vanco/meropenem due to worsening pneumonia on CXR
+per ID recs. Persistenly hypoxic, on BiPAP intermittently and
+NRB, gas showing P02 60. Lasix for presumed element of CHF> goal
+negative 1 liter. [**2146-4-28**] worsening CXR with possible ARDS pt
+DNR/DNI after family meeting. 6L negative through hospital
+course to this point. [**2146-4-29**] pt made CMO after conversation with
+patient, his wife, and PCP [**Last Name (NamePattern4) **]. [**First Name (STitle) **]. Abx stopped, written for
+morphine, increased dose overnight given increasing
+discomfort/work of breathing. Pt expired [**4-30**] in morning after
+cardiac arrest while recieving morphine for comfort.
+
+Medications on Admission:
+- Dexamethasone 4mg PO Q6H
+- Furosemide 60mg PO daily
+- Gabapentin 100 mg PO TID
+- ASA 325 mg PO daily, stopped [**4-20**]
+- Insulin glargine 20 units SQ HS
+- SSI
+- Sinemet 25/100 PO TID
+- Albuterol nebs PRN
+- Ferrous sulfate 325 mg PO daily
+- Procrit
+- Calcitonin
+- MVI
+- Vit B12
+- Vit B1
+- Thalomide
+- Oxycodone
+- Vicodin
+- Trazadone
+- Miralax
+- Colace
+- Senna
+- Bisacodyl
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+ARDS
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 2764**]
+
+Completed by:[**2146-4-30**]

@@ -1,0 +1,223 @@
+Admission Date:  [**2157-5-31**]              Discharge Date:   [**2157-6-9**]
+
+Date of Birth:  [**2097-1-26**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Iodine; Iodine Containing / Lipitor / Aspirin /
+Zocor
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+CP, nausea
+
+Major Surgical or Invasive Procedure:
+[**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 16564**] resection/ pericardial patch of septal defect/ CABG x1
+(SVG->Diag)-[**5-31**]
+
+
+History of Present Illness:
+60 yo F who presented to ED with chest pain. +Troponins and EKG
+changes. Brought to cath lab whoch showed no significant CAD,
+echo showed left atrial myxoma. Referred for surgery.
+
+Past Medical History:
+Hypertension
+Diabetes, non-insulin dependent
+GERD.
+Chest pain syndrome (nml stress [**11/2148**], EF 55%)
+History of stroke with residual mild left-sided
+hemiparesis and left facial tingling.
+History of left breast cyst, status post excision which
+was benign.
+Status post hysterectomy and unilateral oophorectomy.
+Statin-induced pancreatitis ([**3-31**])
+Carpal Tunnel
+
+
+Social History:
+lives with husband, occasional tobacco use, no ETOH, no illicits
+
+
+
+Family History:
+Mother with DM, CAD (deceased)
+3 brothers with DM
+
+
+Physical Exam:
+HR 80 BP 118/64
+NAD
+Lungs CTAB
+Heart RRR
+Abdomen benign
+Extrem warm, no edema
+1+pp
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 16565**]Portable TTE
+(Complete) Done [**2157-6-6**] at 10:47:21 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2097-1-26**]
+Age (years): 60 F  Hgt (in): 63
+BP (mm Hg): 113/55  Wgt (lb): 150
+HR (bpm): 63  BSA (m2): 1.71 m2
+Indication: Coronary artery disease. S/p cabg, vfib arrest, s/p
+[**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 16564**] exicision
+ICD-9 Codes: 414.8, 424.0, 424.2
+Test Information
+Date/Time: [**2157-6-6**] at 10:47    Interpret MD: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4083**],
+MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**Name2 (NI) 8154**] Bzymek,
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Adequate
+Tape #: 2008W052-0:17 Machine: Vivid [**6-5**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  3.4 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.0 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  1.0 m/s
+Left Atrium - Peak Pulm Vein D:  1.1 m/s
+Right Atrium - Four Chamber Length:  4.4 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.1 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  45%  >= 55%
+Left Ventricle - Stroke Volume:  106 ml/beat
+Left Ventricle - Cardiac Output:  6.71 L/min
+Left Ventricle - Cardiac Index:  3.92  >= 2.0 L/min/M2
+Left Ventricle - Lateral Peak E':  *0.08 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.05 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *17  < 15
+Aorta - Sinus Level:  3.2 cm  <= 3.6 cm
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.1 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.4 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT VTI:  28
+Aortic Valve - LVOT diam:  2.2 cm
+Mitral Valve - E Wave:  1.1 m/sec
+Mitral Valve - A Wave:  0.6 m/sec
+Mitral Valve - E/A ratio:  1.83
+Mitral Valve - E Wave deceleration time:  153 ms  140-250 ms
+TR Gradient (+ RA = PASP):  22 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the prior study of [**2157-5-26**].
+LEFT ATRIUM: Normal LA and RA cavity sizes.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Mild
+regional LV systolic dysfunction. Estimated cardiac index is
+normal (>=2.5L/min/m2). TDI E/e' >15, suggesting PCWP>18mmHg. No
+resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal diameter of aorta at the sinus, ascending and arch
+levels. Focal calcifications in aortic root. Normal descending
+aorta diameter.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Normal mitral valve leaflets. No MVP. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Mild to moderate [[**12-1**]+] TR. Normal PA systolic pressure.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Results were reviewed with the Cardiology
+Fellow involved with the patient's care.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thicknesses and cavity size are normal. There
+is mild regional left ventricular systolic dysfunction with
+focal hypokinesis of the distal septum and apex. There is mild
+hypokinesis of the remaining segments (LVEF = 45 %). The
+estimated cardiac index is normal (>=2.5L/min/m2). Tissue
+Doppler imaging suggests an increased left ventricular filling
+pressure (PCWP>18mmHg). Right ventricular chamber size and free
+wall motion are normal. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. There is no mitral valve prolapse. Mild
+(1+) mitral regurgitation is seen. The estimated pulmonary
+artery systolic pressure is normal. There is no pericardial
+effusion.
+
+Compared with the prior study (images reviewed) of [**2157-5-26**],
+global left ventricular systolic function is improved and a
+myxoma is no longer visible. Mild mitral regurgitation is now
+apparent.
+
+CLINICAL IMPLICATIONS:
+Based on [**2155**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis is NOT recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+
+
+Brief Hospital Course:
+She was taken to the operating room on [**2157-5-31**] where she
+underwent a CABG x 1, left atrial myxoma resection with
+pericardial patch closure of septal defect. She was transferred
+to the ICU in stable condition. She remained intubated overnight
+for low PO2, and was extubated on POD #1. On POD #1 she had a VF
+arrest, was shocked x 3, given 1 amp of epi and reintubated. She
+returned to sinus. She was restarted on levophed and
+epinephrine. She was seen by cardiology and ICD was not
+indicated since it was an early post operative event. Cardiac
+cath on POD #2 showed patent graft and 60% LAD. She was
+extubated again on POD #3. She was started on heparin and
+coumadin with plans for a 3 months course for her septal patch
+repair. She was transferred to the floor on POD #6. Heparin was
+switched to lovenox until INR > 2.0 for discharge and she was
+ready for discharge home on POD # 8.
+
+Medications on Admission:
+asa 81, Humulin 42u Q AM/10u Q PM, Lantus solostar 42u
+QHS,Lisinopril 40, Nasonex, Protonix 40
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*0*
+4. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 tablets* Refills:*0*
+6. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills

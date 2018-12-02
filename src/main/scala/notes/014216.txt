@@ -1,0 +1,203 @@
+Admission Date:  [**2138-1-1**]              Discharge Date:   [**2138-1-7**]
+
+Date of Birth:  [**2082-2-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2290**]
+Chief Complaint:
+Altered mental status
+
+Major Surgical or Invasive Procedure:
+RIJ CVL placement
+Arterial line placement
+
+History of Present Illness:
+Ms. [**Known lastname 88363**] is a 55 year old female with a PMH significant for
+HTN admitted for salicylate overdose. The patient was found this
+morning by a friend to be confused and agitated with associated
+tachypnea and tremors. She was brought to an urgent care clinic
+in [**Hospital1 **], and immediately sent to [**Hospital1 18**] for concern of a
+stroke.
+.
+In the [**Hospital1 18**] ED, initial VS 98.1 114/64 85 24 100%4lnc.  She was
+reported to have been feeling unwell for the past week, for
+which she had been taking daily doses of aspirin.  She denies
+taking any other drugs or alchohol. She was found to have a
+respiratory alkalosis with anion-gap metabolic acidosis and an
+elevated ASA level. She received a 150 meq bolus of bicarb, and
+had a RIJ placed and was started on levophed for hypotension
+with a SBP 80s. She was then admitted to the [**Hospital Unit Name 153**] for further
+management.
+.
+Currently, the patient is confused, but denies any CP/SOB or HA
+but endorses tinnitus.
+
+
+Past Medical History:
+- HTN
+- Obesity
+- sp hysterectomy
+- hx of esophageal stricture
+- GERD
+
+Social History:
+lives alone, never married, no children, never smoked, EtOH, IV,
+illicit or herbal drug use.
+
+
+Family History:
+NC
+
+Physical Exam:
+ADMISSION:
+VS: 96.8 72 108/75 (0.18 lecophed) 16 100%2Lnc
+Gen: Confused
+HEENT: pupils 3->2mm reactive.
+CV: Nl S1+S2
+Pulm: Clear to auscultation anteriorly
+Abd: Obese, S/NT. +bs
+Ext: No c/c/e.
+Neuro: Oriented to person and "hospital." CN II-XII grossly
+intact.
+
+Pertinent Results:
+CXR ([**2138-1-1**]): Mild blunting of right costophrenic angle. RIJ
+ending at cavoatrial junction.
+.
+CXR ([**2138-1-3**]):
+FINDINGS: In comparison with the study of [**1-1**], the central
+catheter has been removed and the patient has taken a better
+inspiration. Dextroscoliosis of the thoracic spine is again
+seen. There is continued enlargement of the cardiac silhouette
+with mild fullness of pulmonary vessels that could reflect some
+elevated pulmonary venous pressure. Some opacification at the
+bases most likely represents atelectasis, though in the
+appropriate clinical setting the possibility of pneumonia cannot
+be definitely excluded.
+.
+CXR ([**2138-1-6**]):
+FINDINGS: In comparison with the study of [**1-3**], there is little
+overall
+change. Continued enlargement of the cardiac silhouette with
+prominence of
+interstitial markings consistent with increased pulmonary venous
+pressure.
+Bibasilar atelectasis is again seen, though in the appropriate
+clinical
+situation, the possibility of pneumonia would have to be
+considered.
+
+ECG: Sinus with 1:1 conduction. NA-NI. LAA. No acute ST-T wave
+changes.
+.
+Head CT-FINDINGS: There is no evidence of acute hemorrhage,
+edema, mass effect, or large vessel territorial infarction. The
+grey-white matter differentiation is well preserved. The
+ventricles and sulci appear normal in size and configuration.
+There are no fractures. The visualized portions of the paranasal
+sinuses, mastoid air cells, and middle ear cavities are clear.
+IMPRESSION: No acute intracranial process.
+.
+[**2138-1-1**] 11:54PM   TYPE-ART PO2-70* PCO2-29* PH-7.51* TOTAL
+CO2-24 BASE XS-0
+[**2138-1-1**] 11:54PM   LACTATE-1.3
+[**2138-1-1**] 11:35PM   ALT(SGPT)-10 AST(SGOT)-16 LD(LDH)-172 ALK
+PHOS-35 TOT BILI-0.1
+[**2138-1-1**] 11:35PM   HAPTOGLOB-175
+[**2138-1-1**] 11:35PM   ASA-36.7*
+[**2138-1-1**] 11:35PM   VoidSpec-UNABLE TO
+[**2138-1-1**] 11:35PM   WBC-6.0 RBC-2.76* HGB-7.9* HCT-23.2* MCV-84
+MCH-28.5 MCHC-34.0 RDW-15.6*
+[**2138-1-1**] 11:35PM   I-HOS-AVAILABLE
+[**2138-1-1**] 11:35PM   PLT COUNT-239
+[**2138-1-1**] 11:35PM   PT-36.6* PTT-32.9 INR(PT)-3.8*
+[**2138-1-1**] 11:35PM   FDP-0-10
+[**2138-1-1**] 11:35PM   FIBRINOGE-321
+[**2138-1-1**] 09:23PM   TYPE-ART PO2-78* PCO2-21* PH-7.55* TOTAL
+CO2-19* BASE XS--1
+[**2138-1-1**] 09:23PM   LACTATE-1.0
+[**2138-1-1**] 09:10PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.013
+[**2138-1-1**] 09:10PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-TR
+GLUCOSE-100 KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-TR
+[**2138-1-1**] 09:10PM URINE  RBC-51* WBC-4 BACTERIA-NONE YEAST-NONE
+EPI-<1
+[**2138-1-1**] 08:26PM   GLUCOSE-159* UREA N-39* CREAT-1.3*
+SODIUM-147* POTASSIUM-3.6 CHLORIDE-115* TOTAL CO2-17* ANION
+GAP-19
+[**2138-1-1**] 08:26PM   ALT(SGPT)-11 AST(SGOT)-15 LD(LDH)-197 ALK
+PHOS-44 TOT BILI-0.1
+[**2138-1-1**] 08:26PM   ALBUMIN-3.5 CALCIUM-8.0* PHOSPHATE-3.5
+MAGNESIUM-2.1
+[**2138-1-1**] 08:26PM   ASA-43.0*
+[**2138-1-1**] 08:26PM   WBC-8.5 RBC-3.19* HGB-9.3* HCT-26.9* MCV-84
+MCH-29.0 MCHC-34.4 RDW-15.5
+[**2138-1-1**] 08:26PM   PLT COUNT-307
+[**2138-1-1**] 08:26PM   PT-31.1* PTT-32.2 INR(PT)-3.1*
+[**2138-1-1**] 05:15PM URINE  HOURS-RANDOM
+[**2138-1-1**] 05:15PM URINE  UCG-NEG OSMOLAL-515
+[**2138-1-1**] 05:15PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2138-1-1**] 05:15PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.019
+[**2138-1-1**] 05:15PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-50 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2138-1-1**] 04:50PM   TYPE-[**Last Name (un) **] TEMP-36.7 RATES-/22 O2-100 O2 FLOW-2
+PO2-52* PCO2-27* PH-7.40 TOTAL CO2-17* BASE XS--5 AADO2-634 REQ
+O2-100 INTUBATED-NOT INTUBA
+[**2138-1-1**] 04:45PM   GLUCOSE-175* UREA N-42* CREAT-1.4*
+SODIUM-148* POTASSIUM-4.2 CHLORIDE-119* TOTAL CO2-16* ANION
+GAP-17
+[**2138-1-1**] 04:45PM   ALBUMIN-3.2* CALCIUM-7.4* PHOSPHATE-3.6#
+MAGNESIUM-2.1
+[**2138-1-1**] 04:45PM   ASA-46.4*
+[**2138-1-1**] 01:26PM   TYPE-ART PO2-214* PCO2-17* PH-7.37 TOTAL
+CO2-10* BASE XS--12 COMMENTS-GREEN TOP
+[**2138-1-1**] 01:26PM   LACTATE-0.9 K+-5.3
+[**2138-1-1**] 12:24PM   K+-6.3*
+[**2138-1-1**] 11:05AM   GLUCOSE-169* SODIUM-148* POTASSIUM-4.1
+CHLORIDE-119*
+[**2138-1-1**] 11:05AM   GLUCOSE-97 UREA N-47* CREAT-1.7* SODIUM-143
+POTASSIUM-6.5* CHLORIDE-114* TOTAL CO2-10* ANION GAP-26*
+[**2138-1-1**] 11:05AM   estGFR-Using this
+[**2138-1-1**] 11:05AM   ALT(SGPT)-14 AST(SGOT)-24 LD(LDH)-366* ALK
+PHOS-47 TOT BILI-0.1
+[**2138-1-1**] 11:05AM   CALCIUM-8.9 PHOSPHATE-5.5* MAGNESIUM-2.4
+[**2138-1-1**] 11:05AM   ASA-55.8* ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2138-1-1**] 11:05AM   WBC-8.2 RBC-3.58* HGB-10.0* HCT-30.4* MCV-85
+MCH-27.9 MCHC-32.9 RDW-16.2*
+[**2138-1-1**] 11:05AM   NEUTS-77* BANDS-0 LYMPHS-16* MONOS-4 EOS-3
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2138-1-1**] 11:05AM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-1+
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL
+OVALOCYT-OCCASIONAL BURR-OCCASIONAL ELLIPTOCY-OCCASIONAL
+[**2138-1-1**] 11:05AM   PLT SMR-NORMAL PLT COUNT-305
+[**2138-1-1**] 11:05AM   PT-24.8* PTT-27.9 INR(PT)-2.4*
+.
+Labs at time of discharge:
+[**2138-1-7**]:  WBC 5.8 Hct 27.8 Plt 218
+[**2138-1-7**]: Na 138 K 4.0 Cl 104 HCO3 28 BUN 13 Cr 0.7
+[**2138-1-3**]: TIBC 278 Vit B12 305 Folate 12.5 Ferritin 41
+[**2138-1-3**]: TSH 0.11 FT4 0.89
+
+Brief Hospital Course:
+Ms. [**Known lastname 88363**] is a 55 year old female with a PMH significant for
+HTN admitted for salicylate overdose.  The patient was treated
+with a bicarbonate drip and was given charcoal.  Her aspirin
+level decreased and her mental status improved.  The remainder
+of her hospital course will be summarized below by problem.
+.
+#. Salicylate overdose: Patient presented with respiratory
+alkalosis and anion-gap metabolic acidosis, tinnitus, and
+elevatd salicylate level >50 consisetn with salicylate overdose,
+which was complicated by distributive physiology causing
+hypotension requiring pressor support.  She was also
+coagulopathic at the time of her admission. She was treated with
+a bicarb drip, and her ASA level came down. After her bicarb
+drip was stopped, her repeat salicylate level further decreased
+to 16.4. Her mental status improved and returned to baseline,
+and she states that she had been taking [**2-27**]

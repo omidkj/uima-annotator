@@ -1,0 +1,202 @@
+Admission Date:  [**2182-7-16**]              Discharge Date:   [**2182-7-25**]
+
+Date of Birth:  [**2110-5-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Aspirin / Terbutaline / Talwin Nx / Percocet / Inhalants /
+Cefepime
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Non-ST elevation Myocardial Infarct
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+Endotracheal Intubation
+Femoral Central Line
+Arterial Line
+
+History of Present Illness:
+72 yo female with h/o DM, HTN, HLD, longstanding sarcoid on home
+O2, newly diagnosed paroxysmal Afib ([**7-4**]) s/p DDD pacemaker
+placement secondary to CHB on [**2182-5-25**], who presented to the ED
+[**7-15**] with AF and flash. She developed flash pulmonary edema ->
+intubated; on neo gtt. Troponin: 0.01, 0.27 CK: 22, BNP 6848.
+She also went into atrial fibrillation with RVR at the time
+though the time course is not documented. Her cardiac enzymes
+were elevated at [**Hospital3 1280**] and EKG was concerning for anterior
+ischemia she was transferred to [**Hospital1 18**] for NSTEMI. She stayed in
+the MICU in OSH overnight and was transferred here for further
+management.
+
+Upon arrival here, the patient went to cardiac cath. She was
+found to have a Mid LAD lesion distal to D2. Received a bare
+metal stent to the mid-LAD. Patient has an allergy to ASA (SOB),
+so is set to receive 75 mg plavix [**Hospital1 **]. In the cath lab she was
+in and out of AF.
+
+ Patient was started on heparin and integrillin gtt in cath lab.
+Was found to have an INR of 2.6. Her heparin gtt was stopped,
+but integrillin continued.
+
+ Upon arrival to the CCU, patient was in Afib with RVR; HR into
+the 130s. She was found to be hypotensive and shocked once, she
+did not return to sinus rhythm. Given amiodorone 150 mg IV x 1,
+and started on a dilt gtt. She continued to have low BP, so
+phenylephrine was started at 1 mcg/min.
+.
+Unable to assess ROS b/c of intubation.
+
+Past Medical History:
+1. DDD Pacemaker, placed [**2182-5-27**] secondary to 3rd degree HB
+2. Diabetes Mellitus
+3. 40 year history of Sarcoidosis with multiple organ
+involvement on chronic prednisone therapy
+4. COPD secondary to sarcoidosis on home oxygen 3LNC
+5. Dyslipidemia
+6. Hypertension
+7. H/o Hypercalcemia secondary to sarcoid
+8. Hypothyroidism
+9. Depression
+10. Diabetic Nephropathy
+11. Superficial Phlebitis
+12. GERD
+13. Cholecystectomy
+[**86**]. Lysis of adhesions of the pancreas
+15. Traumatic Brain Injury as child with no residual deficit
+16. Hysterectomy
+17. H/o kidney stones s/p lithotripsy
+
+Social History:
+Lives at home with husband
+-[**Name (NI) 1139**] history: Never
+-ETOH: Denies
+-Illicit drugs: Unable to obtain
+
+Family History:
+Non-contributory
+
+Physical Exam:
+T=98.4 BP=74/43 HR=124 RR=25 O2 sat= 100% on AC
+GENERAL: Intubated, sedated
+HEENT:  Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple with slightly increased JVP.
+CARDIAC: IIRR, tachycardic, normal S1, S2. No m/r/g.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Course
+breath sounds bilaterally in anterior lung fields.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. Left femoral line in place
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Right:  DP 1+ PT 2+, Left:  DP 1+ PT 2+
+
+Pertinent Results:
+Admission Labs:
+[**2182-7-16**] HCT-35.1*
+[**2182-7-16**] PLT COUNT-288
+[**2182-7-16**] POTASSIUM-3.6
+[**2182-7-16**] CK(CPK)-83
+[**2182-7-16**] CK-MB-NotDone
+[**2182-7-16**] TYPE-ART O2-100 PO2-344* PCO2-52* PH-7.39 TOTAL CO2-33*
+BASE XS-5 AADO2-328 REQ O2-59 -ASSIST/CON INTUBATED-INTUBATED
+[**2182-7-16**] GLUCOSE-148* LACTATE-1.8
+[**2182-7-16**] GLUCOSE-159* UREA N-21* CREAT-1.1 SODIUM-144
+POTASSIUM-3.8 CHLORIDE-100 TOTAL CO2-33* ANION GAP-15
+[**2182-7-16**] cTropnT-0.12* proBNP-[**Numeric Identifier 68079**]*
+[**2182-7-16**] ALBUMIN-3.4
+[**2182-7-16**] %HbA1c-5.8
+[**2182-7-16**] WBC-24.2* RBC-4.15* HGB-11.8* HCT-36.4 MCV-88 MCH-28.4
+MCHC-32.4 RDW-14.7
+
+Discharge Labs:
+WBC 11.2 Hb 8.3 Hct 26.4 Plt 231
+Na 145 K 3.9 Cl 106 HCO3 32 BUN 40 Crt 0.8 Glucose 170
+Ca 7.8 Mg 2.1 Phos 2.1
+INR 2.1 PTT 38.8
+
+Reports:
+Cardiac Cath ([**2182-7-16**]): 1. Selective coronary angiography of
+this right dominant system demonstrated two vessel disease.  The
+LMCA had no angiographically appaernt disease.  The LAD was a
+small caliber vessel with a long, sub-total occlusion extending
+fromthe mid-LAD  until D2.  The first diagonal branch was of
+moderate size with a 90% ostial stenosis.  The LCx was a
+moderate sized vessel with a small OM1, moderate sized OM2 and a
+large OM3.  The OM2 had a 90% ostial stenosis and a focal 90%
+proximal stenosis.  The RCA is a large dominant vessel with mild
+luminal
+irregularities proximally and in the mid portion.
+2. Resting hemodynamics revealed elevated right and left hear
+filling
+pressures with secondary pulmonary hypertension.  The RVEDP was
+17mmHg
+and the mean PCWP was 21mmHg.  The cardiac index was at the
+lower limit
+of normal at 2.17 l/min/m2.
+3. Left ventriculography was deferred.
+4. Successful PTCA and stenting of the mid LAD with a 2.0 x 23
+Mini
+Vision bare metal stent. Final angiography revealed no residual
+stenosis, no angiographically apparent dissection, and TIMI 3
+flow. (see
+PTCA comments for details)
+.
+Echo ([**2182-7-17**]): The left atrium is normal in size. No atrial
+septal defect is seen by 2D or color Doppler. Left ventricular
+wall thickness, cavity size, and global systolic function are
+normal (LVEF>55%). Due to suboptimal technical quality, a focal
+wall motion abnormality cannot be fully excluded (LV apex not
+clearly seen). There is no ventricular septal defect. The right
+ventricular cavity is mildly dilated with focal hypokinesis of
+the apical free wall. The aortic root is mildly dilated at the
+sinus level. The aortic valve leaflets (3) are mildly thickened
+but aortic stenosis is not present. Trace aortic regurgitation
+is seen. The mitral valve appears structurally normal with
+trivial mitral regurgitation. The tricuspid valve leaflets are
+mildly thickened. There is severe pulmonary artery systolic
+hypertension. There is an anterior space which most likely
+represents a fat pad.
+.
+CXR ([**2182-7-17**]): Central adenopathy is very severe involving both
+hila, right greater than left in the paratracheal and
+prevascular mediastinum. Hilar adenopathy is inseparable from
+the perihilar consolidation or even large perihilar nodules, and
+there is extensive peribronchial infiltration in both lower
+lungs, particularly the left, obscuring left heart border. How
+much of this is chronic and how much is new would depend upon
+comparison to prior chest imaging currently unavailable. Without
+comparison studies, I cannot say whether there is acute
+pneumonia or mild interstitial edema and whether the central
+adenopathy, though it contains some calcifications indicative of
+chronicity, is entirely stable.
+  ET tube is in standard placement. Nasogastric tube passes
+below the diaphragm and out of view. Transvenous right atrial
+and right ventricular pacer leads are noted. No pneumothorax.
+Pleural effusion, if any, is small, on the left.
+.
+CT Chest ([**2182-7-19**]): 1. Findings compatible with advanced
+sarcoidosis. Enlarged pulmonary artery likely reflects an
+element of pulmonary hypertension. Tiny left pleural effusion.
+No CT evidence of definite active infection.
+2. Partially seen solid right upper pole lesion. This may
+represent a
+hyperdense renal cyst. However, targeted ultrasound of the upper
+pole of the right kidney is recommended for further
+characterization.
+3. Delayed renal excretion.
+.
+Upper Extremity DVT Study ([**2182-7-21**]): No evidence of left upper
+extremity DVT.
+
+Brief Hospital Course:
+72 yo female with h/o DM, HLD, HTN, Afib with RVR, s/p pacemaker
+and sarcoid who presented with acute heart failure after an
+NSTEMI leading to flash pulmonary edema.
+.
+# NSTEMI: Patient presented with atrial fibrillation with RVR
+and hypotension and was immediately sent for cardiac
+catheterization.  She was found to have 2 vessel disease and
+received a bare metal stent to the mid-LAD artery.  She is on
+Plavix 75mg daily, Simvastatin 80mg daily, and 

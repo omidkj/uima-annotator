@@ -1,0 +1,189 @@
+Admission Date:  [**2193-1-17**]              Discharge Date:   [**2193-1-27**]
+
+Date of Birth:  [**2134-12-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+RUQ pain
+
+
+Major Surgical or Invasive Procedure:
+Paracentesis
+
+History of Present Illness:
+The patient is a 58 year old male with new diagnosis of
+alcoholic cirrhosis who was recently admitted to [**Hospital1 18**] for
+significant GI bleeding.  He was discharged five days prior to
+presentation, and reports that he had no pain at the time of
+discharge.  Over the next few days, he developed right upper
+quadrant abdominal pain.  Two days prior to discharge saw his
+PCP, [**Name10 (NameIs) 1023**] ordered a RUQ US that was performed on the day of
+admission.  That imaging test showed a probable portal vein
+thrombosis and he was sent to the [**Hospital1 18**] ED for further
+management.
+.
+In the ED, his VS were T 97.8, BP 121/73, HR 70, RR 16, SpO2
+100% on RA.  The patient appeared jaundiced (present at
+discharge) but had a quite distended abdomen, which he said was
+worse than baseline.  After discussion with Hepatology the
+patient was admitted for further work up.  Given his recent GIB,
+Heparin was held pending cross sectional imaging and discussion
+with attending in the AM.
+.
+On arrival to the floor, the patient reported mild RUQ
+discomfort but denied pain, confusion, tremor, or any other
+acute changes.
+.
+REVIEW OF SYSTEMS: Positive per HPI for RUQ discomfort,
+abdominal distention, and ~10 lb weight gain.  Also endorsed
+loose stools getting worse since discharge.  Finally, endorsed
+darkened urine.  Denies fevers, chills, night sweats, rash,
+pruritus, confusion, somnolence, slurred speech, chest pain,
+dyspnea, headache, or visual changes.
+
+
+Past Medical History:
+# Alcoholic cirrhosis -- newly diagnosed at last admission
+# GI Bleeding -- known esophageal varices
+# Gastritis
+# Hypertension
+
+
+Social History:
+The patient is a project manager for an electronics contractor.
+He was working up until his recent hospitalization.  No history
+of tobacco use.  Up until his last hospitalization, he was
+drinking 3-4 beers/day.  He denies any alcohol over the last two
+weeks.  Denies any illicit drug use.
+
+Family History:
+Coronary artery disease, diabetes mellitus. His mother had
+emphysema.
+
+Physical Exam:
+Physical Exam On Admission:
+VS: T 96.3, BP 122/76, HR 94, RR 18, O2 97% on RA
+Gen: NAD. Alert and oriented x3. Mood and affect appropriate.
+Pleasant and cooperative. Resting in bed.
+HEENT: NCAT. PERRL, EOMI.  Markedly icteric sclera. MMM, OP
+benign.
+Neck: Supple. JVP elevated to ~8 cm.  No cervical
+lymphadenopathy.
+CV: RRR. Normal S1, S2.  Holosystolic murmur [**1-6**] heard best at
+the apex with radiation to the axilla.
+Chest: Respiration unlabored, no accessory muscle use.
+Decreased breath sounds and coarse crackles at bilateral bases,
+right greater than left.  No wheezes or rhonchi.
+Abd: BS present. Tensely distended with ascites.  Unable to
+assess for organomegaly due to distention.
+Ext: WWP, no cyanosis or clubbing. Trace LE edema. Digital cap
+refill <2 sec.  Distal pulses radial 2+, DP 2+, PT 2+.
+Skin: Marked jaundice. No spiders, palmar erythema, or other
+stigmata of liver disease.
+Neuro: CN II-XII grossly intact.  Moving all four limbs.  No
+asterixis.
+.
+
+
+Pertinent Results:
+Labs on Admission:
+[**2193-1-17**] 08:52PM BLOOD WBC-7.0# RBC-3.51* Hgb-13.4* Hct-39.0*
+MCV-111* MCH-38.2* MCHC-34.3 RDW-18.6* Plt Ct-106*#
+[**2193-1-17**] 08:52PM BLOOD Neuts-72* Bands-0 Lymphs-9* Monos-17*
+Eos-2 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2193-1-17**] 08:52PM BLOOD Hypochr-NORMAL Anisocy-OCCASIONAL
+Poiklo-2+ Macrocy-OCCASIONAL Microcy-NORMAL Polychr-NORMAL
+Burr-2+
+[**2193-1-17**] 08:52PM BLOOD PT-35.8* PTT-63.2* INR(PT)-3.7*
+[**2193-1-17**] 08:52PM BLOOD Glucose-136* UreaN-19 Creat-1.2 Na-132*
+K-4.2 Cl-97 HCO3-22 AnGap-17
+[**2193-1-17**] 08:52PM BLOOD ALT-80* AST-153* LD(LDH)-341*
+AlkPhos-201* TotBili-34.6* DirBili-25.5* IndBili-9.1
+[**2193-1-17**] 08:52PM BLOOD Lipase-162*
+.
+Parcentesis:
+[**2193-1-18**] 04:25PM PERITONEAL WBC-105* RBC-192* Polys-3*
+Lymphs-13* Monos-0 Meso-5* Macro-79*
+[**2193-1-18**] 04:25PM PERITONEAL TotProt-0.3 Albumin-LESS THAN
+.
+Urinalysis:
+[**2193-1-18**] 09:51PM URINE Color-AMBER Appear-Hazy Sp [**Last Name (un) **]-1.022
+[**2193-1-18**] 09:51PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-LG Urobiln-NEG pH-5.5 Leuks-NEG
+[**2193-1-18**] 09:51PM URINE Hours-RANDOM UreaN-543 Creat-203 Na-LESS
+THAN  K-72 Cl-15
+.
+Imaging / Studies:
+# CT ABD & PELVIS WITH CONTRAST ([**2193-1-18**] at 1:14 AM):
+The lungs are clear. There are coronary artery calcifications
+and calcifications are noted in the thoracic aorta without any
+aneurysmal dilatation. There is a very large esophageal varix
+seen just superior to the gastroesophageal junction. In
+addition, there are numerous tortuous periesophageal varices as
+well. These varices are fed by a dilated coronary vein the
+appears to be decompressing the patient's portal hypertension.
+The cirrhotic liver is shrunken and nodular suggestive of end
+stage liver disease. The portal vein and all the major portal
+branches are patent. There is no focal lesion seen within the
+parenchyma. The gallbladder is partially collapsed and
+unremarkable. The spleen, adrenals and kidneys and pancreas are
+unremarkable. There is ascites seen surrounding the liver and
+the spleen and tracking inferiorly along the right paracolic
+gutter. There is a small spleno-renal shunt. There are scattered
+mesenteric lymph nodes; however, none meet CT criteria for
+lymphadenopathy. Note is made of edematous wall of the ascending
+colon, likely the result either from underlying hypoalbuminemia
+or the portal hypertension. Otherwise, remaining loops of small
+and large bowel appear essentially unremarkable.
+BONES: There is an old compression fracture seen at T12.
+Otherwise, there are no other additional evidence of acute
+fracture. There are no lytic or sclerotic lesions suggestive of
+metastatic disease.
+IMPRESSION:
+1. Nodular shrunken liver suggestive of cirrhosis.
+2. Ascites seen surrounding the liver and the spleen.
+3. Large coronary vein with gastric varices and very large
+esophageal and perasophageal varices.
+4. The portal vein is well opacified and there is no evidence of
+any filling defect (clot) within the portal vein or the major
+branches, including the SMV and the splenic vein.
+5. Edematous ascending colon bowel wall likely secondary to low
+albumin and portal hypertension.
+.
+# CHEST (PA & LAT) ([**2193-1-18**] at 2:49 PM):
+An NG tube lies with its tip in the duodenum. The trachea is
+central and the cardiomediastinal contour is normal. There is
+volume loss evident in the right lung base with an airspace
+opacity adjacent to the right heart border, better appreciated
+on the lateral view consistent with right lower lobe
+consolidation or atelectasis. While this could reflect
+atelectasis given the volume loss, in the appropriate clinical
+setting pneumonia is also a possiblity. Small bilateral pleural
+effusions. Multiple old rib fractures.
+IMPRESSION: Right lower lobe airspace opacity may reflect
+atelectasis or pneumonia.
+.
+
+
+Brief Hospital Course:
+The patient is an 58 year old male who was recently discharged
+on [**2193-1-12**] after an admission for significant GI bleeding, with
+newly diagnosed with alcoholic cirrhosis, esophageal varices,
+and severe portal hypertensive gastropathy.  He presented
+several days after discharge with RUQ pain, decompensated
+cirrhosis, and question of portal vein thrombosis on RUQ
+ultrasound which was later ruled out with CTA abdomen.
+.
+# Acute on Chronic Liver Failure: He was recently diagnosed with
+alcoholic cirrhosis on his prior admission from [**2193-1-10**] to
+[**2193-1-12**] for GI bleeding and discharged with outpatient followup
+after being stabilized.  His transaminases, bilirubin, and coags
+this admission had worsened significantly compared to those at
+his prior admission.  He had MELD score 36 and DF 145.  Portal
+vein thrombosis was an initial concern given the reported
+results of his RUQ ultrasound, but was ruled out by CTA.  

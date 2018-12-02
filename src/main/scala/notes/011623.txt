@@ -1,0 +1,177 @@
+Admission Date:  [**2123-4-18**]              Discharge Date:   [**2123-4-18**]
+
+Date of Birth:  [**2046-6-25**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin / Statins-Hmg-Coa Reductase Inhibitors
+
+Attending:[**First Name3 (LF) 2485**]
+Chief Complaint:
+Abdominal pain ; transferred for ERCP w Gallstone Pancreatitis
+
+Major Surgical or Invasive Procedure:
+- Endoscopic Retrograde Cholangiopancreatography
+with Sphincterotomy
+- Intubated for ERCP
+
+
+History of Present Illness:
+Ms. [**Known lastname 86191**] is a 76 year old woman with history of CAD, CHF,
+HTN, DM2 who presented with gallstone pancreatitis from [**Hospital1 10551**] for ERCP at [**Hospital1 18**]. On presentation to [**Hospital3 5365**],
+she was complaining of RUQ pain, radiating to right flank and
+mid back x2 days with no associated nausea, vomiting or
+diarrhea.
+
+Past Medical History:
+- MI in [**2118**]
+- CAD s/p CABGx4 in [**2117**] - harvested arteries from both arms
+- angioplasty + coronary stents x2 in [**2119**] and [**2121**]
+- CHF - last overloaded about 1mo ago, given lasix, no
+hospitalization; EF unkown, has not been seen at [**Hospital1 18**]
+previously
+- CRI - baseline 1.2?
+- DM2 - insulin-dependent
+- HTN - baseline 170s systolic
+- Asthma
+
+Social History:
+nonsmoker, nondrinker, no history of recreational drugs
+
+Family History:
+unknown
+
+Physical Exam:
+VS:  71   151/53   98% on 4LNC
+Gen: obese, no acute distress, well nourished, well developed,
+mildly sleepy but conversational and oriented x3
+HEENT: mildly dry mucus membranes
+RESP: bilaterally clear to auscultation anteriorly and laterally
+CV: RRR, no murmurs appreciated
+ABD: moderately distended but soft, obese, nontender to
+palpation
+EXT: warm fingers and toes; DP pulses dopplerable bilaterally;
+fingertips cyanotic but warm
+SKIN: mildly jaundiced
+
+Pertinent Results:
+At [**Hospital3 **] --
+WBC 11.6
+Na 134,  K 4.2, Cl 95
+Ca 9.3
+Gluc 260
+Cr 1.22
+T Bili 3.6
+Direct Bili 3.2, indirect Bili 0.4
+AST 585, ALT 386, Alk phos 315, lipase 3540
+
+ERCP [**2123-4-18**]:
+Small stone and copious amoutns of sludge were found in the
+biliary tree.
+Normal limited pancreatogram.
+A biliary sphincterotomy was performs.
+Stone and sludge were extracted using a balloon.
+Otherwise, normal ERCP to third part of the duodenum.
+
+Brief Hospital Course:
+76 year old woman with history of CAD, HTN, DM2, who presented
+to [**Hospital3 **] with gallstone pancreatitis and was sent to
+[**Hospital1 18**] for ERCP, monitored briefly in the ICU prior to transfer
+back to [**Hospital3 **].
+
+ERCP was done under general anesthesia.  BPs dropped from 170s
+systolic to 80s with induction of general anesthesia, so small
+bolus of ephedrine was given and patient was temporarily placed
+on phenylephrine.   Sphincterotomy was performed in the 12
+o'clock position using a sphincterotome over an existing
+guidewire.  One small stone and copious amounts of sludge were
+extracted successfuly using a balloon. No large stones or
+strictures were noted on cholangiogram; it is possible that
+jaundice was from obstruction by the small stone.
+
+She was extubated without event and transferred to the Medical
+ICU for monitoring post anesthesia.  She was transitioned from
+non-rebreather post-extubation to 4L NC upon arrival to ICU.
+Her vital signs remained stable, and she was transferred back to
+[**Hospital1 392**] in stable condition.
+
+At [**Hospital1 392**], the medical team should watch for complications of
+bleeding, perforation, or pancreatitis.  She should remain NPO
+for today with diet advanced per primary medical team's
+instructions tomorrow.  LFTs should be followed to ensure that
+they normalize.
+
+
+Medications on Admission:
+HOME MEDICATIONS:
+Zaroxolyn 2.5mg po daily
+Metoprolol ER 100mg po daily
+Demadex 40mg po am and 80mg po pm
+Imdur 60mg po daily
+Advair 250/50 mcg  1 INH daily
+Nitro 0.4mg SL prn
+Pro Air 2 puffs inhalation Q4h PRN
+Diabeta 10mg po BID
+Lantus sliding scale 30-35u SQ daily
+Aldactone 12.5mg po daily
+Aspirin 81mg po daily
+Vicodin EF 1 tab po q6hrs prn pain
+Ambien 5mg po QHS prn insomnia
+Colace 100mg po BID
+Fish Oil 1000mg po daily
+MVI daily
+
+Discharge Medications:
+HOME MEDICATIONS:
+Zaroxolyn 2.5mg po daily
+Metoprolol ER 100mg po daily
+Demadex 40mg po am and 80mg po pm
+Imdur 60mg po daily
+Advair 250/50 mcg  1 INH daily
+Nitro 0.4mg SL prn
+Pro Air 2 puffs inhalation Q4h PRN
+Diabeta 10mg po BID
+Lantus sliding scale 30-35u SQ daily
+Aldactone 12.5mg po daily
+Aspirin 81mg po daily
+Vicodin EF 1 tab po q6hrs prn pain
+Ambien 5mg po QHS prn insomnia
+Colace 100mg po BID
+Fish Oil 1000mg po daily
+MVI daily
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Gallstone Pancreatitis
+
+
+Discharge Condition:
+Alert and Oriented x3.
+99% on 3L NC.
+
+
+Discharge Instructions:
+Dear Ms. [**Last Name (Titles) 86192**],
+You were transferred to [**Hospital1 18**] for an ERCP procedure to remove a
+gallstone that had caused your pancreatitis.  You were monitored
+for a couple of hours in the Medical ICU while the general
+anesthesia wore off from the procedure. You were transferred
+back to [**Hospital3 **] after you were felt to be stable.
+
+No changes were made to your medications.
+
+
+Followup Instructions:
+Please follow up with your primary care physician [**Name Initial (PRE) 176**] [**1-23**]
+weeks after discharge from the hospital.
+
+If you have any problems or concerns regarding your procedure or
+worsening symptoms, you may call Dr. [**First Name (STitle) **] [**Name (STitle) **] office in
+the [**Hospital **] Clinic at [**Hospital1 18**] at [**Telephone/Fax (1) 463**].
+
+
+

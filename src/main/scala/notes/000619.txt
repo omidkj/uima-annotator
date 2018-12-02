@@ -1,0 +1,235 @@
+Admission Date:  [**2123-2-22**]              Discharge Date:   [**2123-3-13**]
+
+Date of Birth:  [**2064-3-13**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Hydrochlorothiazide / Demerol / Ambien
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+58 year old white male with CHF.
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization [**2123-2-22**]
+Endotracheal intubation (outside hospital)
+Central venous line placement
+CABGx4(LIMA->LAD, SVG->OM, ramus, RCA) [**2123-3-4**]
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 58 year-old male with known 3-vessel CAD, severe
+systolic dysfunction with EF 18% on ventriculogram in [**1-/2123**],
+DM type 2, and [**Hospital 15134**] transferred from [**Hospital 4068**] hospital for
+management of fever, CHF and NSTEMI. He was recently discharged
+from [**Hospital1 18**] on [**2123-1-28**] after a 3-week admission for pulmonary
+edema, and pneumonia. During that admission, a cardiac
+catheterization revealed diffuse 3-vessel CAD with 60% LMCA
+disease, serial LAD lesions as well as diffuse disease of LCx
+and TO of RCA with collaterals. He had a BiV pacer placed during
+that admission (for polymorphic VT). Per report, medical
+management of his CAD was advised.
+
+He had been managing well as home for 3 weeks, with ongoing
+treatment of a sacral decubitus ulcer. Over the past 2 days, he
+developed anorexia, fatigue and "cold symptoms". He denies C/P.
+He subsequently developed a low-grade fever and progressive
+shortness of breath, with dry heaves during the night prior to
+admission. He was taken to [**Hospital 4068**] hospital, where he was found
+to have a temperature of 101, leukocytosis (WBC 13), positive
+cardiac enzymes (CK 492/MB 26), EKG A-sensed, BiV paced. He was
+started on NTG drip, and given Levaquin/Zosyn and Lasix 40. CXR
+was consistent with CHF. At the outside hospital, he developed
+worsening respiratory distress, ABG 7.18/84/89 and he was
+intubated. En route to [**Hospital1 18**], he became hypotensive with SBP in
+70s, and was started on a Dopamine drip.
+
+In [**Hospital1 18**] ED, Mr. [**Known lastname **] was started on Heparin and Integrillin
+IV. He had a 20-beat run, then a 2-minute run of WCT at 120-130
+while on Dopa, BP approximately 100. Lidocaine was started at 2
+mg/min for presumed VT, Dopa changed to Levophed. Zosyn and
+Vancomycin given in the ED.
+
+Past Medical History:
+Coronary artery disease with severe 3-vessel disease
+Congestive heart failure with EF 18% on ventriculogram in [**1-/2123**]
+Hypercholesterolemia
+Diabetes mellitus type 2
+Hypertension
+Infrarenal AAA of 3 cm status post repair [**2119**]
+Bilateral iliac artery aneurysms
+Anxiety disorder
+Gastroesophageal reflux disease
+S/p excision of melanoma of the lower back in [**2088**]
+S/p septoplasty surgery and tonsillectomy
+
+Social History:
+Ex-smoker, with 40 pack-year smoking history. He quit in [**2106**].
+He lives with his wife. [**Name (NI) **] history of EtOH consumption.
+
+Family History:
+Father with MI in 50s
+
+Physical Exam:
+Physical examination prior to admission to CCU:
+VITALS: T 100, BP 105/50 on Dopamine 2.5, Levophed 0.03, HR 83
+Vent: AC 600 X 12, PEEP 5, FiO2 100%, Sat 100%
+GEN: Intubated, alert, not sedated.
+HEENT: ETT in place, OGT in place.
+NECK: JVP to jaw.
+RESP: ICD in place left anterior chest. Ronchorous breath sounds
+bilaterally, with inspiratory crackles.
+CVS: Normal S1, S2. No S3, S4. No murmur or rub appreciated.
+GI: Obese abdomen. BS normoactive. Abdomen soft and non-tender.
+Reported guaiac negative in ED.
+EXT: No femoral bruits. Trace bilateral pedal edema. Strong
+peripheral pulses.
+
+Pertinent Results:
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2123-3-13**] 06:45AM    5.7 3.54* 9.8* 30.8* 87 27.7 31.9 15.2
+239#
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2123-3-13**] 06:45AM        239#
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2123-3-13**] 06:45AM    90 24* 1.4* 143 4.4 107 29 11
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+
+[**2123-3-13**] 06:45AM              2.1
+Cardiology Report ECHO Study Date of [**2123-3-11**]
+
+
+
+PATIENT/TEST INFORMATION:
+Indication: H/O cardiac surgery. Left ventricular function.
+Height: (in) 69
+Weight (lb): 237
+BSA (m2): 2.22 m2
+BP (mm Hg): 120/70
+Status: Inpatient
+Date/Time: [**2123-3-11**] at 10:02
+Test: TTE (Complete)
+Doppler: Full doppler and color doppler
+Contrast: None
+Tape Number: 2005W054-0:30
+Test Location: West Echo Lab
+Technical Quality: Suboptimal
+
+
+
+
+REFERRING DOCTOR: DR. [**First Name (STitle) **] R. [**Doctor Last Name **]
+
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *5.6 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *5.9 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: *5.9 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: 1.1 cm (nl 0.6 - 1.1 cm)
+
+Left Ventricle - Inferolateral Thickness: 1.1 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: *7.1 cm (nl <= 5.6 cm)
+Left Ventricle - Ejection Fraction: 20% to 30% (nl >=55%)
+Aorta - Valve Level: *3.9 cm (nl <= 3.6 cm)
+Aortic Valve - Peak Velocity: *2.1 m/sec (nl <= 2.0 m/sec)
+Mitral Valve - E Wave: 1.1 m/sec
+Mitral Valve - A Wave: 1.1 m/sec
+Mitral Valve - E/A Ratio: 1.00
+Mitral Valve - E Wave Deceleration Time: 250 msec
+TR Gradient (+ RA = PASP): *28 mm Hg (nl <= 25 mm Hg)
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Moderate LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. A catheter
+or pacing wire
+is seen in the RA.
+
+LEFT VENTRICLE: Normal LV wall thickness. Severely dilated LV
+cavity. Severely
+depressed LVEF. No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV wall thickness. Normal RV chamber
+size. RV function
+depressed.
+
+AORTA: Mildly dilated aortic root. Focal calcifications in
+aortic root.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Trace AR.
+
+MITRAL VALVE: Normal mitral valve leaflets. No MVP. Normal
+mitral valve
+supporting structures. Mild (1+) MR. Normal LV inflow pattern
+for age.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Normal
+tricuspid valve supporting structures. Borderline PA systolic
+hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with
+physiologic PR. Normal main PA. No Doppler evidence for PDA
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Suboptimal
+image quality - poor parasternal views. Suboptimal image quality
+- poor apical
+views.
+
+Conclusions:
+The left atrium is moderately dilated. Left ventricular wall
+thicknesses are
+normal. The left ventricular cavity is severely dilated. Overall
+left
+ventricular systolic function is severely depressed (ejection
+fraction 20-30
+percent). Right ventricular chamber size is normal. Right
+ventricular systolic
+function appears depressed. The aortic root is mildly dilated.
+The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present.
+Trace aortic regurgitation is seen. The mitral valve leaflets
+are structurally
+normal. There is no mitral valve prolapse. Mild (1+) mitral
+regurgitation is
+seen. There is borderline pulmonary artery systolic
+hypertension.
+
+Compared with the findings of the prior study (tape reviewed) of
+[**2123-2-22**], the left ventricular ejection fraction, while still
+significantly
+impaired, is increased, and the end-diastolic dimension has
+decreased.
+
+Electronically signed by [**First Name11 (Name Pattern1) 449**] [**Last Name (NamePattern4) **], MD on [**2123-3-11**] 10:58.
+
+[**Location (un) **] PHYSICIAN: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **].
+
+
+([**Numeric Identifier 100530**])
+
+
+
+
+
+Brief Hospital Course:
+58 year-old male with diffuse 3-vessel CAD with 60% LMCA disease
+on last cath in [**2123-1-2**], also with DM and HTN, admitted
+with fever, hypotension, CHF, and NSTEMI.
+In the ED, Mr. [**Known lastname **] was started on Heparin IV, and
+Integrillin. Decision was made to perform LHC and RHC to
+reevaluate the LMCA lesion and assess intracardiac pressures. He
+was taken to the cath lab on [**2123-2-22**], where coronary
+angiography revealed critical 70% LMCA, proximal and mid 80% LAD
+lesions, moderate 

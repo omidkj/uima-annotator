@@ -1,0 +1,200 @@
+Admission Date:  [**2181-9-4**]              Discharge Date:   [**2181-9-10**]
+
+Date of Birth:  [**2111-9-9**]             Sex:   F
+
+Service: [**Year (4 digits) 662**]
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2641**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+69 year old women with dyspnea on exertion and leg swelling x1
+week. The pt has a history of COPD and is at home baseline at
+2L.  The pt reports that for the past week she's been having
+increasing shortness of breath particularly when walking, using
+3 pillows at night to sleep and could not sleep laying flat, and
+that her legs have been swelling up bilaterally.  The pt
+reported the ED at [**Hospital1 **] where she was evaluated, and had
+a CXR that showed "mild pulmonary edema", she had an elevated
+BNP of 1400, and one negative troponin while there, with an ECG
+NSR 95 NANI, no STTWc, but no comparison.  The pt was diuresed
+1300ml there with IV Lasix 40, and was given SoluMedrol, and
+then transferred to [**Hospital1 18**] due to full capacity there.  The
+working diagnosis of her admission was COPD exacerbation versus
+new onset CHF.  The pt endorsed headaches for the past week as
+well.  The pt reportedly did not endorse fever or chills, nausea
+or vomiting, productive cough, chest pain, rhinorrhea,
+congestion, sore throat, diarrhea, constipation, BRBPR, melena,
+dysuria or hematuria.
+
+
+Past Medical History:
+COPD, on home O2 (2L at baseline)
+Anxiety
+Chronic musculoskeletal pain
+
+
+Social History:
+Lives in [**Location 1411**] with daughter [**Name (NI) 803**], daughter [**Name (NI) **] lives next
+door. Retired worker from WGBF station.
+
+Family History:
+Non-contributory
+
+
+Physical Exam:
+ADMISSION EXAM
+Vitals: p79 100/61, r16
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: with crackles diffusely
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, trace pitting edema
+bilaterally
+
+On DISCHARGE:
+T 97.2 BP 114/56 HR 82 RR 18 O2Sat 97% on 2L NC
+Lungs with some crackles remaining diffusely, particularly at
+lower bases
+no pedal edema
+
+
+Pertinent Results:
+[**2181-9-4**] 01:00AM BLOOD WBC-11.6* RBC-4.90 Hgb-10.4* Hct-35.7*
+MCV-73* MCH-21.1* MCHC-29.0* RDW-16.6* Plt Ct-303
+[**2181-9-10**] 06:40AM BLOOD WBC-8.3 RBC-4.37 Hgb-9.2* Hct-34.0*
+MCV-78*# MCH-21.0* MCHC-27.0* RDW-17.8* Plt Ct-298
+[**2181-9-4**] 01:00AM BLOOD Neuts-95.6* Lymphs-3.6* Monos-0.6*
+Eos-0.1 Baso-0.1
+[**2181-9-4**] 01:00AM BLOOD PT-14.3* PTT-26.4 INR(PT)-1.2*
+[**2181-9-4**] 01:00AM BLOOD Glucose-138* UreaN-16 Creat-0.7 Na-136
+K-4.2 Cl-93* HCO3-38* AnGap-9
+[**2181-9-10**] 06:40AM BLOOD Glucose-83 UreaN-12 Creat-0.7 Na-140
+K-3.7 Cl-96 HCO3-37* AnGap-11
+[**2181-9-4**] 05:55AM BLOOD CK(CPK)-26*
+[**2181-9-5**] 03:48AM BLOOD ALT-14 AST-15 CK(CPK)-22* AlkPhos-88
+Amylase-20 TotBili-0.3
+[**2181-9-5**] 03:48AM BLOOD CK(CPK)-23*
+[**2181-9-4**] 01:00AM BLOOD cTropnT-<0.01
+[**2181-9-4**] 05:55AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2181-9-5**] 03:48AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2181-9-5**] 03:48AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2181-9-5**] 11:50AM BLOOD cTropnT-<0.01
+[**2181-9-6**] 03:34AM BLOOD Calcium-9.0 Phos-3.2 Mg-2.0
+[**2181-9-10**] 06:40AM BLOOD Calcium-9.3 Phos-3.7 Mg-2.3
+[**2181-9-4**] 12:20PM BLOOD Calcium-8.5 Phos-3.3 Mg-2.3 Iron-21*
+[**2181-9-4**] 12:20PM BLOOD calTIBC-502* Ferritn-4.2* TRF-386*
+[**2181-9-4**] 12:20PM BLOOD TSH-1.5
+[**2181-9-5**] 04:02AM BLOOD Type-ART pO2-118* pCO2-174* pH-7.11*
+calTCO2-59* Base XS-17 Intubat-NOT INTUBA
+[**2181-9-5**] 04:54AM BLOOD Type-ART Temp-36.8 Tidal V-500 PEEP-5
+pO2-448* pCO2-81* pH-7.36 calTCO2-48* Base XS-16
+Intubat-INTUBATED Vent-CONTROLLED
+[**2181-9-5**] 12:06PM BLOOD Type-ART Rates-10/0 Tidal V-500 PEEP-5
+FiO2-30 pO2-185* pCO2-76* pH-7.37 calTCO2-46* Base XS-14
+Intubat-INTUBATED Vent-CONTROLLED
+[**2181-9-6**] 01:02PM BLOOD Type-ART pO2-63* pCO2-76* pH-7.38
+calTCO2-47* Base XS-15 Intubat-NOT INTUBA
+[**2181-9-5**] 04:06AM BLOOD Lactate-0.7
+[**2181-9-5**] 08:03AM BLOOD Lactate-1.0
+[**2181-9-5**] 12:06PM BLOOD Lactate-0.8
+[**2181-9-5**] 04:06AM BLOOD freeCa-1.13
+[**2181-9-5**] 08:03AM BLOOD freeCa-1.04*
+[**2181-9-5**] 12:06PM BLOOD freeCa-1.19
+[**2181-9-5**] 12:04PM BLOOD O2 Sat-75
+
+STUDIES:
+
+CXR
+SINGLE AP PORTABLE VIEW OF THE CHEST
+
+REASON FOR EXAM: Assess ET tube.
+
+CXXR [**2181-9-5**]
+ET tube tip is in the right main bronchus, should be pulled back
+4-5 cm to
+standard position. NG tube tip is out of view below the
+diaphragm. Cardiac
+size is top normal. There is no evident pneumothorax or pleural
+effusion.
+The patient has known COPD. Mild right apical thickening is of
+unknown
+chronicity. Right lower lobe opacity is new could be due to
+atelectasis, but aspiration cannot be excluded and attention in
+followup study is recommended
+
+CXR  9/29/1
+FINDINGS: Removal of right internal jugular vascular catheter
+with no visible pneumothorax. Standard position of endotracheal
+tube, nasogastric tube terminates in the stomach. Heart size
+remains normal. No focal areas of consolidation are evident
+within the lungs. Mild elevation of left
+hemidiaphragm is unchanged.
+
+
+Brief Hospital Course:
+Pt is a 69 y/o woman with PMHx significant for COPD requiring 2L
+oxygen at home and anxiety presenting with COPD exacerbation and
+?mild CHF.
+
+COPD/Hypercapneic Respiratory Failure: Pt found to have FEV1 of
+19%, putting her in the very severe staging of Gold's criteria
+and was gently diuresed.   Pt was started on azithromycin 500 mg
+X1 and then 250 mg daily.  On hospital day #1 she became
+increasingly somnolent and found to have a PCO2 of 179. She was
+transferred to the ICU. Unclear etiology of patients respiratory
+failure. Potential etiology included ativan use in the setting
+of COPD, however this was an extremely small dose and the
+patient had been taking it routinely in the evening at home.
+Recent respiratory infection as a trigger could not be ruled
+out.  Cardiac cause has also been entertained, but pt had
+negative troponin X3 and no EKG changes suggestive of STEMI.
+Additionally her TTE was normal.  Infectious workup has been
+negative.  Pt was intubated upon transfer to MICU. Her
+antiobiotcs and steroids were continued. Pt was successfully
+extubated on 2nd day of MICU. She continued to maintain good O2
+sats on floor.
+
+Prednisone was started at 40 mg, with a plan to taper 10 mg
+every 2 days.  Pt was also treated with albuterol and
+ipratropium neb.  After return to the floor
+salmeterol-fluticasone was initiated. Pt needs a pulmonologist,
+has never previously seen one. We scheduled an appointment for
+her in the [**Hospital 2182**] clinic here at [**Hospital1 18**]. She will be discharged and
+go to outpatient pulmonary rehab.
+
+#. Altered Mental Status: Initially on the floor pt was very
+stable, with no trouble breathing or complaints otherwise.
+Laughing and conversing with the team. That evening, there was
+concerned for her behavior.  The team reported that she was
+acting "normal" when she was admitted but became increasingly
+more confused.  The floor team did not report that the pt was
+aphasic or had clear neurological deficit with any laterality or
+focality, but was somnolent appearing.  ABG done on the pt on
+the floor showed pCO2 of 179, and in the setting of her
+worsening mental status and increased work of breathing, a
+trigger was called and the pt intubated on the floor then
+transfered to the unit.  On arrival to the MICU the pt was
+comfortably sedated, hemodynamically stable.  Hypercarbia or
+hypoxia seem like a reasonable diagnoses.  Her mental status
+resolved upon the resolution of hypercarbia and extubation. Pt
+did not exhibit any signs or symptoms of worsening
+hypoxia/hypercapnia when she returned to the floor.
+
+##UTI- Patient had a urinalysis with trace leukocytes, 35 WBC
+and few bacteria performed yesterday, UCx pending. Patient has
+no complaints of urinary urgency/frequency or dysuria but had a
+foley in place during MICU stay.Pt started on cipro for UA
+showing whites and bacteri

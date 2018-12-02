@@ -1,0 +1,231 @@
+Admission Date:  [**2165-9-3**]              Discharge Date:   [**2165-9-20**]
+
+Date of Birth:  [**2096-5-8**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Tetracycline Analogues / Atenolol / Tegaderm
+
+Attending:[**First Name3 (LF) 2387**]
+Chief Complaint:
+hypotension
+
+Major Surgical or Invasive Procedure:
+CVVH
+Diagnostic coronary angiography
+Pulmonary Artery catheterization
+Percutaneous angioplasty and stenting of SVG to RCA conduit and
+OM1
+hemodialysis
+Tunneled hemodialysis line placement
+arterial cannulization
+central line placement
+
+
+History of Present Illness:
+Ms. [**Known lastname 32090**] is a 69 yo F with sig PMH for DM, CAD s/p CABG,
+a.fib and CHF with LVEF of 20-25% presents to ED feeling weak
+and fatigued. She started dialysis two weeks prior and since
+then her BP has been low, she has been dizzy, LH with nausea.
+She states that all of these symptoms are aggrevated with
+movement. She also stated that since dialysis has started her
+glucose levels have been low and her appetite has been
+decreased. She has difficulty lying flat and uses 3 pillows at
+night. She denies any new medications recently, she also denies
+fever/chills, diarrhea, abdominal pain, syncope and rash. Her
+last dialysis treatment was yesterday.
+.
+ED Course (labs, imaging, interventions, consults):
+- Initial Vitals/Trigger: trigger for hypotension
+- EKG: ST elevations but unchanged from prior
+- ASA taken in the AM
+- troponin elevated to 0.3 in setting of elevated Cr
+- BPs down to 80s with normal mentation -> 1 L bolus given
+slowly and BP increased from 80s to 100s
+- Dr. [**Last Name (STitle) **] alerted -> can scale back meds
+- Hyperkalemia -> no ekg changes, 30 g kayelexate, 1 L fluids
+.
+On arrival to the CCU pt was mentating well, able to answer all
+of my questions appropriately in NAD. She was denying symptoms
+of CP, SOB, N/V, LH or dizziness.
+.
+On review of systems, she denies  bleeding at the time of
+surgery, myalgias, joint pains, cough, hemoptysis, black stools
+or red stools. She denies recent fevers, chills or rigors.  All
+of the other review of systems were negative.
+
+
+Past Medical History:
+- CAD s/p 4V CABG '[**51**] (LIMA to LAD, SVG to diag, SVG to Cx, SVG
+to  RCA), DES x3 to OM1 ([**2164-8-11**]),  BMS to OM1 ([**2164-5-1**]), BMS x3
+to LCX/OM ([**1-/2165**])
+- TIA `97 or `98
+- paroxysmal afib/flutter s/p multiple cardioversions '[**55**]/'[**56**];
+d/c'd coumadin ~4yrs ago [**2-6**] GIB
+- ESRD
+- COPD on 3L home O2 (non compliant)
+- Morbid obesity
+- Hypertension
+- Hyperlipidemia
+- PVD s/p angioplasty of anterior tibial artery ([**9-11**]), s/p
+angioplasty of right dorsal pedis ([**11-11**])
+- s/p L5 amp & [**4-9**] metatarsal head resections
+- GIB from PUD ~4 yrs ago
+- OSA
+- Chronic anemia (baseline ~ 32)
+- C. diff colitis, toxin positive, in the absence of diarrhea
+- Hypothyroidism
+- Asthmatic bronchitis
+- Sciatica
+- Vertigo
+- MRSA hx
+
+
+Social History:
+Lives in [**Location 86**], at home with her son, [**Name (NI) **]. She uses a
+wheelchair at baseline and is on 2 liters O2. She formerly
+worked as a homemaker and in meat wrapping.
+-Tobacco history: quit smoking 30 years ago, smoked 2.5 ppd x
+25yrs
+-ETOH: no current alcohol use, none in past that she reports
+-Illicit drugs: denies
+
+
+Family History:
+Mother died of breast cancer at age 60; sister died at 60 of
+glioblastoma; father died of lung cancer at 73; and sister died
+at 60 of heart disease; son died at [**Hospital1 18**], diabetic, of massive
+MI in [**2160**]
+
+
+Physical Exam:
+ON ADDMISSION:
+VS: T=97.3 BP=86/51 HR=88 RR=20  O2 sat= 97% 2 L
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple no lymphadenopathy. JVP difficult to assess
+secondary to body habitus.
+CARDIAC:  RR, 3/6 systolic murmur
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Crackles present b/l at
+bases
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: B/L LE 2+ edema to mid thigh
+SKIN: multiple scars on LE from prior CABG
+PULSES:
+Right: Carotid 2+ radial 1+ DP 1+
+Left: Carotid 2+ radial 1+ DP 1+
+.
+Discharge
+GENERAL: NAD.aox3, sitting in bed comfortable
+NECK: Supple JVD 15cm
+CARDIAC:  rrr, 3/6 systolic murmur across precordium radiating
+to axilla.
+LUNGS: ctab
+ABDOMEN: Soft, obese
+EXTREMITIES: B/L LE 2+ edema to mid thigh
+SKIN: multiple scars on LE from prior CABG
+
+
+Pertinent Results:
+[**2165-9-3**] 04:30PM   PT-14.3* PTT-27.6 INR(PT)-1.2*
+[**2165-9-3**] 04:30PM   NEUTS-69.0 LYMPHS-19.9 MONOS-7.7 EOS-2.4
+BASOS-0.9
+[**2165-9-3**] 04:30PM   WBC-5.8 RBC-3.62* HGB-10.0* HCT-31.0* MCV-86
+MCH-27.6 MCHC-32.3 RDW-18.0*
+[**2165-9-3**] 04:30PM   cTropnT-0.32*
+[**2165-9-3**] 04:30PM   CK-MB-4
+[**2165-9-3**] 04:30PM   CALCIUM-8.8 PHOSPHATE-4.4 MAGNESIUM-1.9
+[**2165-9-3**] 04:30PM   CK(CPK)-250*
+[**2165-9-3**] 04:30PM   GLUCOSE-144* UREA N-29* CREAT-4.5*#
+SODIUM-134 POTASSIUM-6.8* CHLORIDE-95* TOTAL CO2-30 ANION GAP-16
+
+CPK ISOENZYMES   CK-MB  cTropnT   proBNP
+[**2165-9-5**] 04:09    2    0.26*1   [**Numeric Identifier 32222**]*2
+
+PITUITARY           TSH
+[**2165-9-6**] 05:48    1.7
+THYROID              T4
+[**2165-9-6**] 05:48    7.2
+Cortsol
+[**2165-9-4**] 03:29    22.4
+
+EKG [**9-3**]:  Rate PR QRS QT/QTc  P QRS T
+              91 0 114 348/402 0 93 -125
+Baseline artifact. Probably sinus rhythm with A-V nodal
+Wenckebach.
+Poor R wave progression. Cannot exclude an old anteroseptal
+myocardial
+infarction.
+
+ECHO [**9-3**]:
+The left atrium is elongated. The right atrium is moderately
+dilated. There is mild symmetric left ventricular hypertrophy.
+The left ventricular cavity size is milldy dilated. There is
+akinesis of the septum, and moderate to severe hypokinesis of
+the remaining left ventricular segments. LVEF (20-25%) .The
+right ventricular cavity is dilated and hypokinetic. There are
+three aortic valve leaflets. The aortic valve leaflets are
+moderately thickened. The study is inadequate to exclude
+significant aortic valve stenosis. No aortic regurgitation is
+seen. The mitral valve leaflets are moderately thickened. Mild
+to moderate ([**1-6**]+) mitral regurgitation is seen. The estimated
+pulmonary artery systolic pressure is normal. There is no
+pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left
+ventricular hypertrophy with mild cavity dilation and severe
+left ventricular systolic dysfunction as detailed above. Dilated
+and hypokinetic right ventricle. Mild to moderate mitral
+regurgitation.
+
+Compared to the prior study (images reviewed) of [**2165-7-31**],
+estimated pulmonary artery pressures are lower (may be
+underestimated due to poor acoustic windows). The severity of
+mitral regurgitation has increased.
+
+CARDIAC CATH [**9-5**]:
+1. Selective coronary angiography of this right dominant system
+demonstrated 3-vessel coronary artery disease. The LMCA had mild
+
+non-obstructive plaquing. The LAD is occluded proximally. There
+was
+severe in stent restenosis of the distal OM1 and a de [**Last Name (un) 11083**]
+lesion more
+distal to this. The RCA was not injected and is known to be
+occluded.
+2. Venous conduit angiography demonstrated an ostial/proximal
+90%
+stenosis in the SVG to RCA. The RCA system was free of
+significant
+disease. The SVG to OM was patent with new disease at the
+anastamosis
+and in the bypassed vessel.
+3. Arterial conduit angiography demonstrated the LIMA to LAD to
+be
+patent.
+4. Resting hemodynamics revealed elevated left and right heart
+filling
+pressures (RVEDP 24mmHg and LVEDP 27mmHg). There was moderate
+pulmonary
+artery hypertension (52/32mmHg). The SVR was low and was
+significantly
+elevated (500 dynes*sec*cm-5 and 186 dynes*sec*cm-5). The CO and
+CI were
+normal in the context of anemia (5.6L/min and 2.4 L/min/m2).
+There was
+no gradient across the aortic valve on careful pullback from the
+LV to
+the ascending aorta.
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Occluded SVG to Diagonal and new stenosis of SVG to RCA.
+3. Patent LIMA to LAD.
+4. Significantly elevated left and right heart filling pressures
+with
+moderate secondary pulmonary artery hypertension.
+5. Hypotension likely due to a 

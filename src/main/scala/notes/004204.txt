@@ -1,0 +1,241 @@
+Admission Date:  [**2125-3-10**]              Discharge Date:   [**2125-3-15**]
+
+Date of Birth:  [**2045-9-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1974**]
+Chief Complaint:
+DKA
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+79 y/o female with PMHx of HTN, hypothyroidism, DM, CHF (LVEF
+20-25%) who has been having intermittent nausea and vomiting for
+the past 1 month, however no abdominal pain, fever or chills.
+She was found to have acute renal failure from outpatient visit
+and sent to the ED. In the ED patient was found to be in DKA
+with urine positive for ketones, anion gap of 18, and blood
+sugar > 600. She was also noted to have a WBC of 45 with a U/A
+suggestive of UTI. She had a CXR in the ED which did not show
+any infiltrate. She took 8U of lantus and 8U of humalog at home
+prior to arrival in the ED. In the ED she was started on isulin
+gtt and given 1L NS. Her Hct was noted to be low in the ED at 29
+however she was guiac negative in the ED. Per OMR note patient
+daughter states patient has not been feeling well for over a
+month and has had weight loss (3lbs). Patient denies any dysuria
+or frequency.
+.
+On HD1, blood and urine cultures grew pansensitive e.coli. and
+the patient was switched to IV ceftriaxone.
+.
+Patient currently states that she feels well. Denies cp/sob/abd
+pain/n/v/d. Eating w/o difficulty.
+
+
+Past Medical History:
+HTN
+Hypothyroidism
+DM type II
+CHF LVEF 20-25% in [**2119**]
+Coronary artery disease, status post non Q wave
+myocardial infarction in [**2120-6-3**].
+S/p appy
+Eczema
+
+
+Social History:
+Patient lives with her husband and son. Is able to ambulate at
+baseline. Patient denies any smoking or etoh use
+
+Family History:
+non-contributory
+
+Physical Exam:
+t 98.5, bp 140/90, hr 108, rr 18, 96% ra
+Well appearing NAD
+PERRL. anicteric
+OP clr. MMM
+7cm JVP. Thyroid benign.
+Regular S1,S2. No m/r/g
+LCA b/l. Notable Kyphosis.
++bs. soft. nt. nd
+No le edema
+No rashes.
+
+
+Pertinent Results:
+[**2125-3-9**] CXR: Persistent emphysema. No evidence of acute
+infection.
+.
+[**2125-3-10**] CXR: Small left-sided pleural effusion. No consolidation.
+.
+[**2125-3-10**] ECG: Sinus tachycardia. Low limb lead voltage. Left
+atrial abnormality. Non-specific ST-T wave abnormalities.
+Compared to the previous tracing of [**2121-6-26**] the low limb lead
+voltage is new.
+.
+[**2125-3-9**] 1:00 pm  URINE CULTURE (Final [**2125-3-12**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION OF TWO COLONIAL
+MORPHOLOGIES.
+         Trimethoprim/Sulfa sensitivity testing confirmed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+      BETA STREPTOCOCCUS GROUP B.    10,000-100,000
+ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------     8 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------    16 I
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+.
+[**2125-3-10**] 1:00 pm BLOOD CULTURE      #1 R AC.
+   AEROBIC BOTTLE (Pending):
+   ANAEROBIC BOTTLE (Final [**2125-3-13**]):
+      REPORTED BY PHONE TO MAMOD,KADORA ON [**2125-3-11**] @ 0320.
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------     8 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------    16 I
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+
+.
+[**2125-3-10**] 1:15 pm BLOOD CULTURE
+      AEROBIC BOTTLE (Final [**2125-3-14**]):
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+      ESCHERICHIA COLI.    STRAIN 2.  FINAL SENSITIVITIES.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------     8 S        8 S
+AMPICILLIN/SULBACTAM--     4 S      <=2 S
+CEFAZOLIN-------------   <=4 S      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CEFUROXIME------------    32 R       16 I
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+IMIPENEM--------------   <=1 S      <=1 S
+MEROPENEM-------------   0.5 S   <=0.25 S
+PIPERACILLIN----------   <=4 S      <=4 S
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+
+   ANAEROBIC BOTTLE (Final [**2125-3-13**]):
+      ESCHERICHIA COLI.    OF TWO COLONIAL MORPHOLOGIES.
+         IDENTIFICATION AND SENSITIVITIES PERFORMED FROM AEROBIC
+BOTTLE.
+
+.
+[**2125-3-10**] 1:57 pm URINE     Site: NOT SPECIFIED
+   URINE CULTURE (Final [**2125-3-11**]):
+      ESCHERICHIA COLI.
+         >100,000 ORGANISMS/ML. OF TWO COLONIAL MORPHOLOGIES.
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE #
+227-7216T
+         [**2125-3-9**].
+
+.
+
+[**2125-3-9**] 01:00PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.010
+[**2125-3-9**] 01:00PM URINE Blood-MOD Nitrite-NEG Protein-NEG
+Glucose-100 Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-MOD
+[**2125-3-9**] 01:00PM URINE RBC-6* WBC-38* Bacteri-FEW Yeast-NONE
+Epi-1
+.
+
+[**2125-3-13**] 12:45PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.013
+[**2125-3-13**] 12:45PM URINE Blood-LG Nitrite-NEG Protein-TR
+Glucose-100 Ketone-NEG Bilirub-NEG Urobiln-1 pH-6.0 Leuks-TR
+[**2125-3-13**] 12:45PM URINE RBC-78* WBC-12* Bacteri-NONE Yeast-NONE
+Epi-<1 TransE-<1
+.
+
+
+Brief Hospital Course:
+1) DKA:
+Pt was started on insulin gtt and admitted to [**Hospital Unit Name 153**].  The
+underlying etiology was her UTI and sepsis.  With treatment of
+this and insulin gtt, her gap slowly closed.  She was
+transitioned to SC insulin once the gap was closed.  After this,
+her BG remained occassionally high over 200, so her lantus dose
+was increased to 10U daily.  With this, BG was improved, though
+further titration may be required as outpt for optimal control.
+.
+2) SEPSIS secondary to UTI:
+Pt has a very large leukocytosis on admission which resolved
+over the course of her stay.  Both the urine and blood cultures
+grew pansensitive E.coli.  The patient was maintained on IV
+ceftriaxone for about 6days.  Her blood cultures cleared right
+away and repeat urine was also clear.  Given rapid resolution,
+she was switched to PO cipro to complete a total 14d course of
+abx.
+.
+3) CARDIOVASCULAR:
+Though her diuretic was initially held, this was restarted on
+discharge.  Her other outpt regimen was continued with exception
+of valsartan which was held as her BP was well controlled.  This
+may need to be restarted once she is recovered from her acute
+illness.
+.
+4) ANEMIA:
+Pt's Hct was in mid-high 20s, which is lower than her previous
+values in OMR.  However, her Hct was stable.  There was no sign
+of bleeding.  Iron studies were consistent with iron defeciency
+and anemia of chronic disease.  She was continued on iron
+supplementation.
+
+Medications on Admissio

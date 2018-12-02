@@ -1,0 +1,210 @@
+Admission Date:  [**2130-6-24**]              Discharge Date:   [**2130-7-14**]
+
+Date of Birth:  [**2048-11-26**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Ciprofloxacin
+
+Attending:[**First Name3 (LF) 1406**]
+Chief Complaint:
+Chest pain, Palpitations
+
+
+Major Surgical or Invasive Procedure:
+-Aortic valve replacement with a 21 mm [**Doctor Last Name **]
+    pericardial tissue valve, model number 3300 TFX.
+-Coronary artery bypass grafting x1 with the saphenous
+    vein graft to the right coronary artery.
+
+
+History of Present Illness:
+Pt is an 81 y/o F with PMHx significant for HTN, DM, Afib,
+asthma, and aortic stenosis who is being transferred from [**First Name5 (NamePattern1) **]
+[**Last Name (NamePattern1) 4117**] for further management of her critical aortic stenosis.
+She initially presented to [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 4117**] on [**2130-6-21**] with chest
+pain ("heaviness"), palpitations, lightheadedness, headache, and
+diaphoresis. She also experienced left hand numbness at that
+time. On presentation, she was noted to be afebrile with a HR in
+the 80's. She underwent an echo, which showed critical AS ([**Location (un) 109**]
+0.6 cm2, gradient of 73 mmHg), moderate pHTN,and LVEF was 60%.
+Cardiac surgery was consulted for surgical correction.
+
+
+Past Medical History:
+- Aortic stenosis
+- HTN
+- Chronic Back Pain
+- GERD
+- DM
+- Anxiety
+- Depression
+- Afib on coumadin
+- Hemorrhoids
+- ?Asthma
+- Epistaxis
+- S/p Appendectomy
+- S/p Hysterectomy
+- S/p Cataract Sx
+- Several episodes of bursitis
+- 2 sinus surgeries
+- Knee surgery, unspecified
+
+Social History:
+Lives alone. Has a homemaker that helps around the appt;
+daughter in law visits frequently. No alcohol. Remote tobacco
+use (quit 30 years ago). Worked at [**Company 2676**] in electronics.
+
+Family History:
+Breast cancer in mother. [**Name (NI) 3495**] dz and DM in siblings.
+
+Physical Exam:
+(Admission Exam)
+VS - T 97.6, BP 124/59, HR 66, RR 18, 95% on RA, FS 156
+GENERAL - 81 y/o F in NAD, comfortable, appropriate
+HEENT - NC/AT, EOMI, sclerae anicteric, MMM
+NECK - supple, no JVD, AS murmur radiating to carotids
+CV: Irregular, rate ~80s, 3/6 systolic murmur with
+LUNGS - CTA bilaterally, non-labored respirations, no accessory
+muscle use, good air movement
+ABDOMEN - BS present, soft, NT/ND, no masses or HSM
+EXTREMITIES - WWP, ankles appear full but no pitting edema, 2+
+DP pulses
+SKIN - No rashes or lesions noted
+
+Pertinent Results:
+[**2130-7-13**] 07:10AM BLOOD WBC-18.8* RBC-3.95*# Hgb-10.5*#
+Hct-31.1*# MCV-79* MCH-26.7* MCHC-33.9 RDW-18.1* Plt Ct-335
+[**2130-6-25**] 05:30AM BLOOD WBC-13.8* RBC-4.42 Hgb-10.5* Hct-33.6*
+MCV-76* MCH-23.8* MCHC-31.3 RDW-17.7* Plt Ct-367
+[**2130-7-13**] 07:10AM BLOOD PT-12.4 INR(PT)-1.0
+[**2130-6-25**] 05:30AM BLOOD PT-21.4* PTT-26.5 INR(PT)-2.0*
+[**2130-7-13**] 07:10AM BLOOD Glucose-163* UreaN-26* Creat-1.2* Na-131*
+K-3.8 Cl-92* HCO3-30 AnGap-13
+[**2130-6-25**] 05:30AM BLOOD Glucose-129* UreaN-24* Creat-1.1 Na-140
+K-4.8 Cl-100 HCO3-34* AnGap-11
+[**2130-7-1**] 07:20AM BLOOD ALT-20 AST-31 LD(LDH)-287* AlkPhos-115*
+TotBili-0.3
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 80274**]
+(Complete) Done [**2130-7-10**] at 10:45:59 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 18**] - Department of Cardiac S
+[**Last Name (NamePattern1) 439**], 2A
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2048-11-26**]
+Age (years): 81 F  Hgt (in): 64
+BP (mm Hg): 120/60  Wgt (lb): 184
+HR (bpm): 60  BSA (m2): 1.89 m2
+Indication: aortic valve stenosis
+ICD-9 Codes: 424.1, 424.0
+Test Information
+Date/Time: [**2130-7-10**] at 10:45    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW04-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.2 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.2 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.9 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  45%  >= 55%
+Aorta - Sinus Level:  3.2 cm  <= 3.6 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *3.2 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *42 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  28 mm Hg
+Aortic Valve - LVOT diam:  1.8 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Moderate to severe spontaneous echo contrast in the
+body of the LA. Depressed LAA emptying velocity (<0.2m/s) Cannot
+exclude LAA thrombus.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+regional/global systolic function (LVEF>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Focal calcifications in aortic root. Normal ascending
+aorta diameter. Focal calcifications in ascending aorta. Normal
+aortic arch diameter. Focal calcifications in aortic arch.
+
+AORTIC VALVE: Moderately thickened aortic valve leaflets.
+Critical AS (area <0.8cm2). Mild (1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. The rhythm appears to be atrial fibrillation.
+patient. See Conclusions for post-bypass data
+Conclusions
+PRE-BYPASS:
+Moderate to severe spontaneous echo contrast is seen in the body
+of the left atrium. The left atrial appendage emptying velocity
+is depressed (<0.2m/s). A left atrial appendage thrombus cannot
+be excluded. No atrial septal defect is seen by 2D or color
+Doppler.
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size and regional/global systolic function (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There are focal calcifications in the aortic arch. There are
+complex atheromas seen in the thoracic descending aorta.
+The aortic valve leaflets (3) are moderately thickened. There is
+critical aortic valve stenosis (valve area <0.8cm2). Mild (1+)
+aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. There is no pericardial effusion.
+Dr..[**Doctor Last Name **] was notified in person of the results on Mrs. [**Known lastname 303**]
+before surgical incision.
+
+POST-BYPASS:
+Normal RV systolic function.
+LVEF 50%. No regional wall motion abnormalities.
+Intact thoracic aorta.
+Minimal MR.
+The aortic b ioprosthesis is intact and functioning well.
+Residual mean gradient is 12 mm of Hg.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2130-7-12**] 11:36
+
+
+
+Brief Hospital Course:
+81 y/o F with PMHx significant for HTN, DM, chronic Afib-on
+Coumadin, asthma, and aortic stenosis who was transferred to
+[**Hospital1 18**] for further management of her critical aortic stenosis.
+She underwent preoperative testing which included cardiac
+catheterization. This was complicated by postprocedure
+pseudoanuerysm that was corrected with thrombin injection by IR.
+In addition, a right apical neural sheath tumor was found
+inciden

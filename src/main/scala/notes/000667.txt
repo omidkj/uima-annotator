@@ -1,0 +1,150 @@
+Admission Date:  [**2109-8-15**]              Discharge Date:   [**2109-9-17**]
+
+
+Service: [**Doctor First Name 147**]
+
+Allergies:
+Sulfa (Sulfonamides) / Sulfamethoxazole
+
+Attending:[**First Name3 (LF) 473**]
+Chief Complaint:
+occult gastrointestinal bleeding and duodenal adenoma
+
+
+Major Surgical or Invasive Procedure:
+[**2109-8-15**] Pylorus preserving pancreaticoduodenectomy and open
+cholecystectomy
+
+[**2109-8-16**] 1. Reopening of recent laparotomy.
+2. Evacuation of intraperitoneal blood and hematoma.
+3. Reappraisal of hepaticojejunostomy with afferent external
+biliary drainage catheter placement.
+4. Combined feeding jejunostomy and draining gastrostomy tube
+placement.
+
+
+History of Present Illness:
+Mrs. [**Known lastname 58620**] is an 85 year old woman with a history of chronic
+blood loss anemia who endoscopically has been found to have a
+circumferential duodenal adenoma that is friable and bleeding.
+She is also on coumadin for atrial fibrillation.
+
+Past Medical History:
+Her surgical history is significant for an appendectomy,
+tonsillitis, a bladder operation, and a uterine cancer in the
+past. Her medical history is significant for arthritis, anemia,
+atrial fibrillation, and subacute bacterial endocarditis many
+many years ago. She has had no sequelae to that long-term. She
+also has congestive heart failure.
+
+
+Social History:
+1 alcoholic drink per day, she stopped smoking in [**2092**].
+
+
+Physical Exam:
+On discharge patient is afebrile with stable vital signs. Her
+abdomen is soft, nontender and nondistended. Her surgical
+incision is healing well with pink granulation tissue. The small
+incisions where 2 [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] drains had been placed are
+closed and healing well. She has a T-tube which is capped and a
+j-feeding tube which is in place. Her heart remains in sinus
+rythym. Her lungs are clear except for crackles that improve
+with cough bilaterally.
+
+Brief Hospital Course:
+1. GI- Patient went to the operating room for a whipple
+procedure on [**2109-8-15**]. During the first 24 hours
+postoperatively, she had clinical indications of slow, sustained
+bleeding in the abdomen necessatated transfusion. She was taken
+back to the operating room for revision and removal of blood
+clots on [**8-16**]. She was transferred to the intensive care
+unit postoperatively and remained intubated. 2 jp drains were
+placed near the anastomoses, a drain was placed in the common
+hepatic duct across the anastomosis and a combined MIC draining
+gastrostomy and feeding jejunostomy tube were also placed.
+
+2. Cardiovascular- rapid atrial fibrillation: treated with IV
+lopressor and diltiazem drip intially and eventally
+electrocardioverted late in her hospital course. Patient was
+also initially on digoxin early in her hospital course, but
+showed signs of digoxin toxicity per ECG and was discontined
+soon after being transferred to the floor. Patient was started
+back on coumadin the last few days of hospitalization and was
+not therapeutic the day of discharge.
+
+2. Pulmonary- While the intensive care unit, patient was
+intubated and treated with gentamycyin and zosyn for
+pseudomaonas found in her sputum. Patient was difficult to wean
+of the ventalator and a pleural effusion was drained
+percutaneously with ultrasound guidance. She was successfully
+extubated on post operative day 16. Patient also had an episode
+of shortness of breath early in the morning of the last day of
+hospitalization. The symptoms responded to diuresis with lasix
+and patient was started back on her home dose of lasix.
+
+3. endocrine- Patient was covered on a insulin sliding scale
+throughout her hospital course. While in the intensive care
+unit, one of the jp drains had an amylase of over 3000.
+Approximately 2 weeks later, the output decreased and amylase
+was retested and was low.
+
+4. heme- transfusion of 1 unit while in intensive care unit for
+a hct of 27, in addition to the transfusion between the two
+operations.
+
+5. nutrition- Patient began tube feedings soon after 2nd
+procedure through j tube. Late in her hospital course she was
+transitioned to regular diet and tube feeds were decreased.
+
+6. GU- Patient spike a fever late in her hospital course and a
+UTI was diagnosed. Patient was started on cipro and transition
+to ampilcillian based on culture data.
+
+7. Physical therapy was consulted while patient was being weaned
+from the vent and continued to see throughout rest of hospital
+course.
+
+Medications on Admission:
+coumadin- 20mg weekly
+cozaar 50mg qd
+lasix 80mg qd
+digoxin 125mcg qd
+? 2nd heart medication
+premarin 0.3mg qd
+fergon 2 qd
+prilosec
+vit. C
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 **] Cape & Islands
+
+Discharge Diagnosis:
+Circumferential duodenal adenoma with bleeding
+Right apical lung nodule
+urinary tract infection
+atrial fibrillation
+congestive heart failure
+anemia
+arthritis
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Continue tube feedings until patient is able to take in adequate
+nutrition.
+Keep t-tube in until patient follows up with Dr. [**Last Name (STitle) 468**] in
+clinic.
+
+Followup Instructions:
+Patient is to follow up with primary care provider.
+[**Name10 (NameIs) **] up CT for right apical lung nodule.
+Patient with follow up with Dr. [**Last Name (STitle) 468**] by phone.
+
+
+

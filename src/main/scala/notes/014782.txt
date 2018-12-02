@@ -1,0 +1,212 @@
+Admission Date:  [**2114-9-30**]              Discharge Date:   [**2114-10-10**]
+
+Date of Birth:  [**2031-11-24**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+Aortic Valve replacement(23mm [**Doctor Last Name **] pericardial) [**10-1**]
+
+
+History of Present Illness:
+The patient is an 82 year old male with a history of aortic
+stenosis who has been experiencing dyspnea on exertion and
+moderate to severe aortic stenosis by echo.  Cardiac
+catheterization reveals normal coronary arteries.  He is
+referred for surgical management.
+
+Past Medical History:
+hypertension
+aortic stenosis
+h/o urosepsis
+congestive heart failure (chronic systolic)
+chronic atrial fibrillation
+hyperlipidemia
+benign prostatic hypertrophy
+s/p tonsillectomy
+s/p permanent pacemaker implant
+s/p cholecystectomy
+gout
+coronary artery disease- s/p myocardial infarction
+hearing loss
+
+Social History:
+works as a manufacturing engineer
+smoked cigars for 47 years, quit 20 yrs ago
+lives with wife
+[**Name (NI) **] quit 20 yrs ago
+
+
+Family History:
+father died of MI at age 72
+
+Physical Exam:
+Admission
+VS 66 bpm  RR 20  BP 122/71  5'[**15**]"  190lbs
+Gen: no acute distress
+Skin: unremarkable
+HEENT: unremarkable
+Neck: supple
+Chest: lungs clear to auscultation bilaterally
+Heart: Irregular. III/VI murmur
+Abdomen: soft, nontender with normoactive bowel sounds
+Extremities: warm, well perfused with 2+ edema to ankles
+Neuro: grossly intact
+
+
+Pertinent Results:
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 80270**]
+(Complete) Done [**2114-10-1**] at 12:46:12 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2031-11-24**]
+Age (years): 82 M  Hgt (in): 71
+BP (mm Hg): 100/70  Wgt (lb): 190
+HR (bpm): 60  BSA (m2): 2.07 m2
+Indication: Aortic stenosis.
+ICD-9 Codes: 424.1, 424.0, 424.2, 440.0
+Test Information
+Date/Time: [**2114-10-1**] at 12:46    Interpret MD: [**Name6 (MD) 3892**]
+[**Name8 (MD) 3893**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Last Name (NamePattern5) 9958**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW04-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.7 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.2 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.6 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.6 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.8 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  20% to 30%  >= 55%
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Ascending:  *3.6 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *3.3 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *42 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  24 mm Hg
+Aortic Valve - Valve Area:  *0.7 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Moderate symmetric LVH. Mildly dilated LV
+cavity. No LV aneurysm. Moderate-severe global left ventricular
+hypokinesis. Severely depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Focal calcifications in ascending aorta. Normal aortic arch
+diameter. Focal calcifications in aortic arch. Normal descending
+aorta diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Severe AS (AoVA <0.8cm2). Mild to moderate ([**11-22**]+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild to
+moderate ([**11-22**]+) MR.
+
+TRICUSPID VALVE: Mild to moderate [[**11-22**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient is in a
+ventricularly paced rhythm. Results were personally reviewed
+with the MD caring for the patient. See Conclusions for
+post-bypass data The post-bypass study was performed while the
+patient was receiving vasoactive infusions (see Conclusions for
+listing of medications).
+Conclusions
+PRE-BYPASS:
+
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler. There is moderate symmetric left ventricular
+hypertrophy. The left ventricular cavity is mildly dilated. No
+left ventricular aneurysm is seen. There is moderate to severe
+global left ventricular hypokinesis (LVEF = 30 %). Overall left
+ventricular systolic function is severely depressed (LVEF= 30
+%).
+Right ventricular chamber size and free wall motion are normal.
+There are focal calcifications in the aortic arch. There are
+simple atheroma in the descending thoracic aorta. The aortic
+valve leaflets are severely thickened/deformed. There is severe
+aortic valve stenosis (area <0.8cm2). Mild to moderate ([**11-22**]+)
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild to moderate ([**11-22**]+) mitral regurgitation
+is seen. There is no pericardial effusion.
+
+Post Bypass:
+
+The patient is V-paced and on an infusion of epinephrine and
+phenylephrine. Left and right ventricular function is preserved.
+An aortic valve bioprosthesis is well seated with good leaflet
+motion. There is no AI. The mean gradient across the aortic
+valve is approximately 10 mmHg. The aorta is intact without
+evidence of dissection. The remainder of the study is unchanged.
+
+
+Dr. [**Last Name (STitle) **] was notified in person of the results on Mr.[**Known firstname **] [**Last Name (NamePattern1) **] at 11AM
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including XXXX.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2114-10-2**] 14:25
+
+
+?????? [**2108**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+The patient is an 82 year old gentleman with a history of aortic
+stenosis.  On echo he was found to have moderate to severe AS
+with an aortic valve area of 0.6cm2, mean gradient 37mmHg, and
+peak gradient 67mmHg.  Coronary arteries were clean on
+angiography.  He was brought to the operating room on
+[**2114-10-1**], where he underwent aortic valve replacement with a
+23mm [**Doctor Last Name **] pericardial bioprosthesis.  For further details,
+please see operative report.  Overall the patient tolerated the
+procedure well and post-operatively was transferred to the CVICU
+in stable condition for observation and recovery.  At this time
+he was on milrinone and epinephrine to maintain adequate
+hemodynamics.  By POD 1 the patient was extubated, alert and
+oriented and breathing comfortably.  Drips were weaned as
+tolerated.  He did develop some post-operative confusion, for
+which narcotics were discontinued.  Zyprexa and haldol were
+given as needed.  Permanent pacemaker was interrogated and
+temporary pacing wires were discontinued.  Chest tubes were
+removed without complication.  The patient was transferred to
+the step down unit on POD 7.  The same day he passed speech and
+swallow and diet was 

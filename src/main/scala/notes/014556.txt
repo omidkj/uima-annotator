@@ -1,0 +1,297 @@
+Admission Date:  [**2156-12-7**]              Discharge Date:   [**2156-12-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2074**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+
+History of Present Illness:
+Pt is an 84 yo woman who presented from her nursing home after
+complaining to the nurse practitioner there that she had been
+experiencing several days of substernal chest and neck pain.  Pt
+is a poor historian and is unable to offer any more information.
+
+
+Past Medical History:
+COPD
+GERD
+Psychosis
+
+Social History:
+Pt lives in nursing home.  Her son helps to make her medical
+decisions.  She has a history of alcohol abuse.
+
+Family History:
+unknown
+
+Physical Exam:
+Pt is afebrile with BP 140/80 HR 70s RR 14 O2sat 95%RA
+No acute distress but anxious to get home
+No JVD
+Cardiac exam regular in rate and rhythm, no mrg
+Lungs with b/l basilar rales
+Abdomen soft no nd nabs
+Groin with ecchymosis, small indurated hematoma, no bruit
+Extremities without edema, 2+ dp
+
+Pertinent Results:
+[**2156-12-7**] 10:10PM   CK-MB-479* MB INDX-21.7*
+[**2156-12-7**] 10:10PM   CK(CPK)-2207*
+.
+
+Right Heart Catheterization: was performed by percutaneous entry
+of the
+right femoral vein, using a 7 French pulmonary wedge pressure
+catheter,
+advanced to the PCW position through a 8 French introducing
+sheath.
+Cardiac output was measured by the Fick method.
+Left Heart Catheterization: was performed by percutaneous entry
+of the
+right femoral artery, using a 6 French XBLAD 3.5 catheter,
+advanced
+to the ascending aorta through a 6 French introducing sheath.
+Coronary Angiography: was performed in multiple projections
+using a 6
+French XBLAD 3.5 and a 6 French JR4 catheter, with manual
+contrast
+injections.
+Percutaneous coronary revascularization was performed using
+balloon
+angioplasty.
+Conscious Sedation:  was provided with appropriate monitoring
+performed by
+a member of the nursing staff.
+
+HEMODYNAMICS RESULTS BODY SURFACE AREA:  1.59 m2
+  HEMOGLOBIN: 13.1 gms %
+  FICK
+**PRESSURES
+RIGHT ATRIUM {a/v/m} [**2163-11-1**]
+RIGHT VENTRICLE {s/ed} 24/12
+PULMONARY ARTERY {s/d/m} 24/18/22
+PULMONARY WEDGE {a/v/m} 18/14/15
+AORTA {s/d/m} 175/84/121
+**CARDIAC OUTPUT
+HEART RATE {beats/min} 80
+RHYTHM SINUS
+O2 CONS. IND {ml/min/m2} 125
+A-V O2 DIFFERENCE {ml/ltr} 101
+CARD. OP/IND FICK {l/mn/m2} 2.0/1.2
+**RESISTANCES
+SYSTEMIC VASC. RESISTANCE 4400
+PULMONARY VASC. RESISTANCE 280
+
+**% SATURATION DATA (NL)
+PA MAIN 41
+AO 98
+
+OTHER HEMODYNAMIC DATA:      The oxygen consumption was assumed.
+
+
+
+
+**ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+**RIGHT CORONARY
+1) PROXIMAL RCA   DIFFUSELY DISEASED
+2) MID RCA   DIFFUSELY DISEASED 70
+2A) ACUTE MARGINAL   NORMAL
+3) DISTAL RCA   NORMAL
+
+**ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+**LEFT CORONARY
+5) LEFT MAIN   DISCRETE 40
+6) PROXIMAL LAD   DIFFUSELY DISEASED 80
+6A) SEPTAL-1   DIFFUSELY DISEASED
+7) MID-LAD   DIFFUSELY DISEASED 100
+9) DIAGONAL-1   DISCRETE 90
+12) PROXIMAL CX   DIFFUSELY DISEASED
+13) MID CX   DIFFUSELY DISEASED 60
+13A) DISTAL CX   DIFFUSELY DISEASED
+14) OBTUSE MARGINAL-1   DISCRETE 90
+15) OBTUSE MARGINAL-2   DIFFUSELY DISEASED 100
+17) LEFT PDA   NORMAL 70
+
+
+**PTCA RESULTS
+  LAD
+**BASELINE
+STENOSIS PRE-PTCA 100
+COLLATERAL GRADE (0-2) 0
+**TECHNIQUE
+PTCA SEQUENCE 1
+GUIDING CATH 6F XBLAD
+GUIDEWIRES CHOICE P
+INITIAL BALLOON (mm) 2.0
+FINAL BALLOON (mm) 2.0
+# INFLATIONS 3
+MAX PRESSURE (PSI) 180
+**RESULT
+STENOSIS POST-PTCA [**91**]
+DISSECTION (0-4) 2
+SUCCESS? (Y/N) Y
+
+PTCA COMMENTS:     Initial angiography showed a totally occluded
+mid
+LAD. We planned to revascularize the vessel. Eptifibatide was
+continued.
+A 6 French XBLAD3.5 guide provided suboptimal support. The
+lesion was
+crossed with a Choice PT wire and intraluminal position was
+confirmed by
+distal injection through the PTCA balloon. The wire was then
+exchanged
+for a Whisper wire was positioned in the distal vessel with
+great
+difficulties due to severe tortuousity of the vessel. The mid
+and
+proximal LAD were then dilated with a 2.0x15 mm Maverick balloon
+for 3
+inflations at 10 and 12 Atm. Attempts to deliver a 2.25x18 mm
+Pixel
+stent were unsuccessful due to severe proximal calcification.
+The wire
+was exchanged again for a Stabilizer wire at which point a
+spiral
+dissection of the distal vessel was noted. Given the severe
+tortuousity
+and calcification of the vessel and normal flow, we decided to
+terminate
+the procedure. Final angiography showed a 50% residual stenosis,
+a
+spiral dissection and TIMI 3 flow. Echocardiography revealed a
+small
+pericardial effusion and no cardiac tamponade. The patient left
+the lab
+in critical but stable condition.
+
+
+TECHNICAL FACTORS:
+Total time (Lidocaine to test complete) = 1 hour 14 minutes.
+Arterial time = 1 hour 7 minutes.
+Fluoro time = 24.6 minutes.
+Contrast:
+          Non-ionic low osmolar (isovue, optiray...), vol 108
+ml, Indications - Hemodynamic
+Premedications:
+          ASA 325 mg P.O.
+Anesthesia:
+          1% Lidocaine subq.
+Anticoagulation:
+Other medication:
+          Fentanyl 25 mcg IV
+          Integrillin 10 cc/hr IV gtt
+          TNG 40 mcg/min IV gtt
+Cardiac Cath Supplies Used:
+          - [**Company **], CHOICE PT XS, 300CM
+          .014 CORDIS, STABILIZER XS SUPERSOFT 300
+          - [**Name (NI) **], PT [**Name (NI) **], 300CM
+          .014 GUIDANT, WHISPER
+          2.0 [**Company **], MAVERICK, 15
+          1.5 [**Company **], MAVERICK, 9
+          6F CORDIS, XBLAD 3.5
+          200CC MALLINCRODT, OPTIRAY 100CC
+          2.25 GUIDANT, PIXEL RX, 18MM
+
+
+COMMENTS:
+1. Selective coronary angiography demonstrated a left dominant
+system
+with three vessel CAD.  The left main had a proximal 40% lesion.
+ The
+LAD was heavily calcified and tortuous.  The proximal LAD had a
+80%
+calcific stenosis.  The LAD was totally occluded after D1.  The
+D1
+branch had a 90% proximal stenosis.  The left circumflex was
+diffusely
+diseased with a mid 60% stenosis.  The OM1 had an ostial 90%
+stenosis.
+The OM2 was totally occluded and filled via collaterals.  The
+PDA had a
+70% stenosis at its origin.  The RCA was diminutive and
+non-dominant
+with a 70% stenoses.
+2. Resting hemodynamics demonstrated mildly elevated left and
+right
+sided filling pressures.  The cardiac index was markedly
+depressed,
+based on an assumed oxygen consumption index.
+3. Left ventriculography was not performed.
+4. Unsuccessful PTCA of the LAD with a 2.0 mm balloon. Final
+angiography
+showed a 50% residual stenosis, a spiral dissection and normal
+flow (see
+PTCA comments).
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Markedly depressed cardiac index.
+3. Acute STEMI
+4. Unsuccessful PTCA of the LAD.
+.
+.
+Echo:
+PATIENT/TEST INFORMATION:
+Indication: f/u pericardial effusion.
+Height: (in) 60
+Weight (lb): 137
+BSA (m2): 1.59 m2
+BP (mm Hg): 140/63
+HR (bpm): 82
+Status: Inpatient
+Date/Time: [**2156-12-7**] at 18:51
+Test: Portable TTE (Focused views)
+Doppler: No doppler
+Contrast: None
+Tape Number: 2005W032-0:44
+Test Location: West Cath/EP Lab
+Technical Quality: Adequate
+
+
+
+
+REFERRING DOCTOR: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+  DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+
+INTERPRETATION:
+
+Findings:
+
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size.
+Moderate regional
+LV systolic dysfunction.
+
+PERICARDIUM: Small pericardial effusion. Effusion echo dense,
+c/w blood,
+inflammation or other cellular elements.
+
+Conclusions:
+Left ventricular wall thicknesses and cavity size are normal.
+There is
+moderate regional left ventricular systolic dysfunction (distal
+half of the
+anterior wall is severely hypokinetic. Apex is mildly
+dyskinetic.) There is a
+small primarily inferolateral somewhat echodense pericardial
+effusion.
+
+Compared with the prior study of earlier in the afternoon, the
+left
+ventricular cavity is larger (now normal). Regional left
+ventricular systolic
+dysfunction is now appreciated. The size of the partially echo
+dense
+pericardial effusion is similar.
+If clinically indicated, serial evaulation is suggested.
+.
+CT Abdomen/Pelv

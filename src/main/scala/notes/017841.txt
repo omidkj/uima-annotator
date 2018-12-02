@@ -1,0 +1,187 @@
+Admission Date:  [**2170-8-4**]              Discharge Date:   [**2170-8-10**]
+
+
+Service: MED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+1) Upper GI bleed
+
+Major Surgical or Invasive Procedure:
+EGD
+
+History of Present Illness:
+Pt is a [**Age over 90 **] yo female who was transferred to the [**Hospital1 18**] for
+treatment of a upper GI bleed from a mass like lesion in her
+stomach.  On [**7-25**] she was admitted to [**Hospital3 8544**] with a
+right lower quadrant pneumonia.  Five days before that, she was
+seen at the [**First Name4 (NamePattern1) 5871**] [**Last Name (NamePattern1) **] for asthmatic bronchitis, and she was
+treated with prednisone.  The [**Hospital 228**] hospital course
+apparently proceeded without complication until the day prior to
+when she was supposed to be discharged [**7-31**] when she vomited
+bright red blood and melena (INR 3.1).  An EGD was done on [**8-1**]
+which revealed a large clot on the fundus.  Cardiac enzymes were
+negative.  CT was negative for splenic vein thrombosis, or liver
+disease, but was positive for a 3 cm round lesion in the
+pancreatic head.  Repeat EGD on [**2170-8-3**] showed a lobulated mass
+in the fundus that was quite soft.  EGD on [**8-4**] showed a
+submucosal vascular appearing mass overlying the cardiac border
+with feeding vessels but no active bleeding.  The patient
+subsequently received 6 units of RBC and 3 units of FFP and 3 mg
+Vit K which raised the Hct to 30.4 before transfer from the OSH
+to [**Hospital1 18**] for further evaluation.  Just before transfer, however,
+the patient had another episode of hematemesis (200mL BRB) along
+with grossly melanotic stools and tachycardia/afib.  Her HCT
+decreased from 32.7 to 28.4 and increased to 29.7 with 2 units
+PRBCs.  She was intubated for airway protection.  On admission
+to the [**Hospital1 18**], the patient received 1 unit of RBC.  Her Hct was
+30.9.  Hct on [**8-4**] was 28.4 from 32 and then increased to 29.7
+with 1 unit of PRBCs.  No bleeding was seen at the [**Hospital1 18**].  She
+did not have any GI complaints, h/o HIV, chest pain, liver
+disease, or a history of GI bleeds.
+
+Past Medical History:
+1) AF on coumadin
+2) hypothyroid
+3) constipation
+4) THR
+5) TAH/BSO
+
+Social History:
+1) lives with her daughter
+
+Family History:
+NC
+
+Physical Exam:
+On admission to the [**Hospital1 18**] ICU:
+Vitals - 97.4   96/36   70-85   97%RA
+GEN: no acute distress
+HEENT: anicteric
+COR: S1/S2 nl, irregular, no murmurs
+THORAX: R lung base coarse rales.  L few basilar crackles
+ABD: no tenderness, distended, bowel sounds normal
+EXT: chronic venous stasis with edema
+NEURO: alert and oriented x 3.  MAE x 4
+
+Pertinent Results:
+[**2170-8-9**] 07:15AM BLOOD WBC-8.4 RBC-3.97* Hgb-12.6 Hct-36.0
+MCV-91 MCH-31.6 MCHC-34.9 RDW-15.1 Plt Ct-152
+[**2170-8-6**] 12:12AM BLOOD Neuts-84.5* Lymphs-12.2* Monos-2.6
+Eos-0.4 Baso-0.3
+[**2170-8-9**] 07:15AM BLOOD Plt Ct-152
+[**2170-8-9**] 07:15AM BLOOD Glucose-101 UreaN-12 Creat-0.8 Na-143
+K-3.5 Cl-109* HCO3-25 AnGap-13
+[**2170-8-9**] 07:15AM BLOOD Calcium-7.5* Phos-2.5* Mg-1.8
+
+Brief Hospital Course:
+1) Upper GI bleed: In the ICU, the patient's soft vascular mass
+was considered to be gastroesophageal varices.  Other
+possibilities in the differential were leiomyoma, lipoma, or
+malignancy.  It was generally felt that whatever the precise
+character, the mass was still oozing blood insofar as the three
+units that she received at the outside hospital did not
+significantly increase her Hct.  The ICU team set a goal of Hct
+> 30 given her age and potential rapidity of rebleeding.  On ICU
+day 2, the patient was transfused 1 unit PRBC to reach a Hct of
+32.1, but she continued to have no episodes of hematemesis or
+melena.  RUQ ultrasound was negative for signs of liver disease.
+ A repeat EGD was also performed which revealed 1. a normal
+celiac axis.  2.  pancreatic body and the PD within it were
+normal.  3.  in the proximal stomach, the protruding mass was
+identified and endosonographically was both hypoechoic and
+vascularly consistent with gastric varices.  Unfortunately, it
+remained difficult to determine the cause of the most latter
+finding.  On [**8-8**], the patient was transferred from the ICU to
+the floor for further care under the medicine service.  At this
+point, the GI team saw her and recommended nadolol to help
+decrease portal pressures.  Anticoagulation remained
+discontinued, and the patient's femoral line was discontinued.
+A PPI was started to decrease gastric distress and the patient's
+diet was advanced to a soft, low salt diet.  Potassium was
+repleted as necessary.  The patient did not experience any
+repeat episodes of hematemesis or melena.  All stools were
+guaiac negative.  At discharge, the patient's Hct was 36.0.
+Throughout the hospital course within the ICU and on the floor,
+the patient's family was kept well-informed of all medical
+decisions.  Some clarification will be required regarding her
+code status as it is relatively unclear.  At the moment, she is
+full code, but her son has expressed a desire not to have "my
+mother on any machines."  The patient's daughter, her health
+care proxy wishes to have "aggressive but not extraordinary"
+routes of treatment pursued.
+
+2) Cardiac:  With respect to atrial fibrillation, The patient
+was rate controlled on digoxin and discontinued from
+anticoagulation in light of her upper GI bleed.  Heart rate
+remained stable at <100.  Cardiac ECHO was performed on [**8-8**]
+which showed the following: 1.  Overall left ventricular
+systolic function is normal (LVEF>55%). 2.  no free wall motion
+abnormalities. 3.  Moderate (2+) mitral regurgitation is seen.
+4. Moderate [2+] tricuspid regurgitation is seen. 5.
+Significant pulmonic regurgitation is seen.
+
+3) Activity: Physical therapy was consulted and the patient was
+found to demonstrate safe and independent functional mobility
+with a cane.  It was recommended that she be discharged home
+with home safety evaluation and home PT.  The patient's family,
+however, refused to take the patient home and the patient was
+screened for transfer to a lower level rehab facility.
+
+4) Hypothyroid: the patient was continued on levothyroxine
+
+5)Code Status: The patient was admitted with a code status of
+DNR but full intubation.  However, upon further discussion, her
+code status changed to full code.  This topic will need to be
+discussed in more detail at a later date.
+
+Medications on Admission:
+1) digoxin .125 once a day
+2) coumadin 3 once a day
+3) levoxyl 50 once a day
+4) protonix iv 40 once a day
+5) digoxin .125 once a day
+6) ceftriaxone 1 once a day
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Maples Nursing & Retirement Center - [**Location (un) 6151**]
+
+Discharge Diagnosis:
+1) upper GI bleed   2) gastroesophageal varices   3) atrial
+fibrillation  4) hypothyroidism   5) pneumonia   6) GERD
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+1) Please follow up with your PCP regarding this hospital
+admission.  She has been contact[**Name (NI) **] via phone and mail.
+2) Please discuss your advanced directives with your family so
+that your doctors [**Name5 (PTitle) **] help [**Name5 (PTitle) **] most accordingly to your wishes.
+3) Please seek medical attention if you experience any or all of
+the following: vomiting blood, blood in your stool, blood from
+your rectum, lightheadedness, chest pain, palpitations,
+shortness of breath, swelling in your extremities, sudden
+weakness
+4) You have slight thrombocytopenia at discharge.  Please follow
+up on your Platelet count and Hematocrit in a few days.
+5) Please have a repeat CBC and Electrolytes analysis in a few
+days.
+
+Followup Instructions:
+1) Please follow up with your PCP regarding this hospital
+admission.  She has been contact[**Name (NI) **] via phone and mail.
+2) Please discuss your advanced directives with your family so
+that your doctors [**Name5 (PTitle) **] help [**Name5 (PTitle) **] most accordingly to your wishes.
+3) Please seek medical attention if you experience any or all of
+the following: vomiting blood, blood in your stool, blood from
+your rectum, lightheadedness, chest pain, palpitations,
+shortness of breath, swellin

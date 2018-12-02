@@ -1,0 +1,178 @@
+Admission Date:  [**2200-8-5**]              Discharge Date:   [**2200-8-7**]
+
+Date of Birth:  [**2123-9-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Dilantin
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+Right IJ CVL
+Left radial arterial line
+PTC
+ERCP
+
+History of Present Illness:
+Ms. [**Known lastname 83290**] is a 76 year old female with a PMH significant for
+CHF, HTN, DVT with PE s/p IVC filter on coumadin, COPD,
+meningioma, dementia, seizure disorder transferred from an OSH
+on [**2200-8-5**] for abdominal pain.  She was initially admitted to an
+OSH from her nursing home for fever to 101 and a fall.  At the
+OSH, trauma work-up including CTH was negative, and the patient
+was noted to have a leukocytosis to 14.8 with 12% bands, 76%
+PMN, INR 3.5, Tbili 5.3 (direct 3.6), ALP 715. RUQ U/S
+demonstrated multiple gallstones, dilated CBD to 19mm.  She was
+then transferred to [**Hospital1 18**] for emergent ERCP.
+
+Overnight, the patient received 2 units FFP without incident.
+She was also felt to be in Afib with RVR by the admitting
+hospitalist.  This afternoon, she was receiving an additional 1
+unit FFP and 15 minutes into transfusion developed hypoxia 85%
+RA, tachycardia, tachypnea, fever to 102.6.
+.
+The patient subsequently developed an increasing oxygen
+requirement requiring intubation. A CXR demonstrated bilateral
+pleural effusions and pulmonary edema.
+
+
+Past Medical History:
+DVT/PE with IVC filter placed on coumadin (per daughter,
+occurred 4 years ago)
+HTN
+CHF
+HLD
+COPD
+Chronic venous insufficiency
+Meningioma (stable per daughter)
+Seizure disorder
+GERD
+Mild dementia
+
+Social History:
+Lives in [**Location **]. No EtOH, tobacco, IV, illicit, or herbal drug use.
+
+
+Family History:
+NC
+
+Physical Exam:
+Gen: Age appropriate female, confused in respiratory distress
+HEENT: Sclerae icterus .
+CV: Tachy S1+S2
+Pulm: Decreased breath sounds at the bases bilaterally.
+bilateral rales [**2-7**] way up lung fields bilaterally.
+Abd: TTP throughout, worst in RUQ. No rebound or guarding.
+Ext: Diffuse anasarca.
+Neuro: Oriented to person.
+
+
+Pertinent Results:
+[**2200-8-5**] 08:00PM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 155**]-1.007
+[**2200-8-5**] 08:00PM URINE  BLOOD-NEG NITRITE-POS PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-SM UROBILNGN-NEG PH-5.0 LEUK-SM
+[**2200-8-5**] 08:00PM URINE  RBC-0-2 WBC-[**7-16**]* BACTERIA-FEW
+YEAST-NONE EPI-0-2
+[**2200-8-5**] 07:52PM   LACTATE-2.0
+[**2200-8-5**] 07:45PM   GLUCOSE-124* UREA N-10 CREAT-0.7 SODIUM-130*
+POTASSIUM-3.7 CHLORIDE-95* TOTAL CO2-26 ANION GAP-13
+[**2200-8-5**] 07:45PM   ALT(SGPT)-104* AST(SGOT)-127* LD(LDH)-394*
+ALK PHOS-863* TOT BILI-6.6*
+[**2200-8-5**] 07:45PM   LIPASE-7
+[**2200-8-5**] 07:45PM   WBC-11.8* RBC-3.40* HGB-10.7* HCT-32.4*
+MCV-95 MCH-31.4 MCHC-32.9 RDW-14.5
+[**2200-8-5**] 07:45PM   NEUTS-82.4* LYMPHS-11.8* MONOS-4.6 EOS-0.9
+BASOS-0.2
+[**2200-8-5**] 07:45PM   PT-38.6* PTT-28.7 INR(PT)-4.0*
+
+LIVER OR GALLBLADDER US (SINGLE ORGAN) Study Date of [**2200-8-5**]
+10:46 PM
+IMPRESSION:
+1. Intra and extrahepatic biliary duct dilatation. The distal
+CBD is poorly visualized, and a stone within this region is not
+excluded. ERCP or MRCP is recommended for further evaluation.
+2. Fatty liver. Please note that in the setting of fatty liver,
+more
+advanced forms of liver disease including cirrhosis and/or
+fibrosis cannot be excluded by ultrasound.
+3. Cholelithiasis without evidence for acute cholecystitis.
+4. Right pleural effusion.
+
+CXR: Bilateral pleural effusions, pulmonary edema bilaterally.
+
+
+Brief Hospital Course:
+76 year old female with a PMH signficant for CHF, HTN, DVT with
+PE s/p IVC filter on coumadin, COPD, meningioma, dementia,
+seizure disorder admitted for choledocholithiasis versus
+cholangitis transferred to the MICU for hypoxic respiratory
+failure and biliary sepsis.
+
+# Respiratory failure: Patient with baseline CHF with OSH
+admission CXR demonstrating pulmonary edema. In setting of
+receiving 4 units FFP, likely became volume overloaded leading
+to hypoxia.  In addition, new onset atrial fibrillation likely
+contributed to development of pulmonary edema.  Initial concern
+by hospitalist with regard to immune-mediated transfusion
+reaction, although this was felt to be unlikely from transfusion
+medicine.
+
+# Biliary sepsis: Sepsis secondary to cholangitis given marked
+hyperbilirubinemia, transaminitis, and RUQ U/S consistent with
+CBD dilatation.  OSH blood cultures positive for GNR. Patient
+was treated with vanco and amp/sulbactam.  Despite antimicrobial
+coverage, she developed sepsis requiring max dose vasopressin,
+norepinephrine, and phenylephrine with continued hypotension
+unresponsive to IVF or albumin.  She became anuric and developed
+an elevated lactate to 10. She underwent two unsuccessful ERCP
+procedures with identification of a pancreatic mass invading
+into the CBD.  An emergent IR placed PTC was placed.
+
+# Goals of care: Despite aggressive medical and interventional
+therapy, the patient developed refractory severe sepsis.  After
+repeated and extensive discussions with the patient's
+daughter/HCP, the patient was transitioned to comfort measures
+only. All medications except for those for comfort were held and
+she was terminally extubated.  She expired peacefully shortly
+thereafter.
+
+# Contact: [**Name (NI) 12556**] [**Name (NI) **] (step-daughter/HCP) c [**Telephone/Fax (1) 83291**] h
+[**Telephone/Fax (1) 83292**].
+
+
+Medications on Admission:
+MEDICATIONS (on transfer):
+Acetaminophen 650 mg po Q6H:PRN
+Albuterol nebs
+Unasyn 3 gram IV Q6H
+Carbamazepine 200 mg po tid
+Lasix 20 mg IV bid
+Metoprolol 12.5 mg po bid
+Morphine sulfate 2-4 mg IV Q4H:PRN
+
+
+Discharge Medications:
+Patient expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Patient expired
+
+Discharge Condition:
+Patient expired
+
+Discharge Instructions:
+Patient expired
+
+Followup Instructions:
+Patient expired
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2437**] MD [**MD Number(1) 2438**]
+
+Completed by:[**2200-8-9**]

@@ -1,0 +1,205 @@
+Admission Date:  [**2153-3-28**]              Discharge Date:   [**2153-3-31**]
+
+Date of Birth:  [**2082-10-14**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+[**Location (un) 2452**] dye
+
+Attending:[**First Name3 (LF) 4679**]
+Chief Complaint:
+Lung cancer, LEFT upper lobe
+
+
+Major Surgical or Invasive Procedure:
+[**2153-3-28**]: Left thoracotomy with left upper lobectomy and
+mediastinal lymph node sampling (Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **])
+
+
+History of Present Illness:
+Mr [**Known lastname **] is a 70 y.o. male with a lingular mass found
+incidentally on a chest xray done prior to an ENT procedure. He
+underwent EBUS and pathology from EBUS demonstrated poorly
+differentiated carcinoma with negative nodes. Pathology showed
+that the tumor displayed a small component of non-small-cell
+lung
+cancer as well as dominant component of neuroendocrine carcinoma
+with some features suggestive of small cell carcinoma. Per
+imaging, there is no distal disease. He underwent pulmonary
+function testing which demosntated that he is a favorable
+candidate for a lobectomy. He therefore presented for a LEFT
+upper lobectomy.
+
+Past Medical History:
+- hydradenitis suppurativa, on Humira since [**2152**]
+- thymoma s/p resection (median sternotomy [**2137**]) & XRT
+- emphysema/COPD
+- GERD
+- Barrett's esophagus, EGD q 5 years without changes
+- middle ear nerve damage with bilateral hearing aids
+- thrush
+- HTN
+- s/p L hemithyroidectomy
+- s/p orif L ankle
+- s/p L ulnar transposition
+
+
+Social History:
+Social History:
+Lives with wife
+Occupation: business owner/leather covering production sales
+Tobacco: quit [**2-/2152**], <1ppd x 15 yrs, 1ppd prior to that since
+teens (55 years)
+Alcohol: distant heavy use, abstinent since [**2148**].
+
+
+Family History:
+Family History: no cancers or immunodeficiencies
+
+
+Pertinent Results:
+Postop CT scan of chest ([**2153-3-30**]):
+1. Status post left upper lobectomy with post-surgical
+pneumothorax and trace fluid in the dependent surgical cavity.
+2. Left posterior sixth rib surgical thoracotomy and
+postoperative
+subcutaneous emphysema along the posterior left chest wall.
+3. Subcentimeter liver hypodensity within segment VIII, too
+small to fully
+characterize.
+4. 1.7 cm right renal lesion measuring over 40 Hounsfield units,
+which could represent a hyperdense cyst, but indeterminate and
+could be further assessed by ultrasound on a non-emergent basis.
+
+
+
+Brief Hospital Course:
+Pt underwent a LEFT upper lobectomy and mediastinal lymph node
+sampling through a thoracotomy incision. He tolerated the
+procedure well and was extubated without difficulty.
+Postoperative pain control was initially accomplished with an
+epidural catheter but this was capped due to hypotension
+requiring Neo in PACU. He was rapidly transitioned to oral pain
+medication wtih IV narcotics for breakthrough pain. Chest tubes
+placed during surgery were transitioned from suction to water
+seal and then removed POD#2. Chest x-ray demonstrated no
+significant pneumothroax but was indeterminate concerning an
+effusion or consolidation. A chest CT was therefore obtained and
+this demonstrated trace dependent fluid in the surgical cavity
+and no evidence of pulmonary consolidation. By POD#3 the
+patient's pain was well-controlled on oral pain medications, no
+longer requiring supplemental oxygen, ambulating without
+difficulty or need for assistance and tolerating a regular diet.
+After evaluation by the thoracic surgery team, including
+attending surgeon Dr. [**Last Name (STitle) 7343**], he was able to be discharged home
+with his wife.
+
+Medications on Admission:
+1. ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler -
+2 puffs inh twice a day as needed for wheezing
+2. FLUTICASONE - 50 mcg Spray, Suspension - 2 puffs nas once a
+day
+3. FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 250 mcg-50 mcg/Dose
+Disk with Device - 1 puff inh twice a day
+4. HYDROCHLOROTHIAZIDE - 12.5 mg Capsule - 1 Capsule(s) by mouth
+once a day
+5. LORAZEPAM - 1 mg Tablet - 1 Tablet(s) by mouth at bedtime as
+needed for sleep
+6. LOSARTAN [COZAAR] - 50 mg Tablet - 1 Tablet(s) by mouth once
+a day
+7. OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) - one
+Capsule(s) by mouth twice a day
+8. TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg
+Capsule, w/Inhalation Device - 1 puff inh once a day
+9. VARENICLINE [CHANTIX] - 1 mg Tablet - one Tablet(s) by mouth
+twice daily
+
+
+Discharge Medications:
+1. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+2. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)
+as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+3. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO
+DAILY (Daily).
+4. losartan 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+6. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+7. senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+Take to prevent constipation while taking narcotic pain
+medication.
+Disp:*30 Tablet(s)* Refills:*2*
+8. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig:
+Two (2) Puff Inhalation Q6H (every 6 hours) as needed for SOB.
+9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day): Take to prevent constipation while on narcotic
+pain medication.
+Disp:*60 Capsule(s)* Refills:*2*
+10. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours) as needed for pain.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Lung cancer, status post thoracotomy and LEFT upper lobectomy
+and mediastinal lymph node sampling
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+* You were admitted to the hospital for surgical removal of the
+left upper lobe of your lung (lobectomy). You progressed very
+well through your postoperative course and you are now ready for
+discharge.
+
+* Continue to use your incentive spirometer 10 times an hour
+while awake.
+* Check your incisions daily and report any increased redness or
+drainage. Cover the area with a gauze pad if it is draining.
+* Your chest tube dressing may be removed in 48 hours. If it
+starts to drain, cover it with a clean dry dressing and change
+it as needed to keep site clean and dry.
+* You will continue to need pain medication once you are home
+but you can wean it over a few weeks as the discomfort resolves.
+Make sure that you have regular bowel movements while on
+narcotic pain medications as they are constipating which can
+cause more problems. Use a stool softener or gentle laxative to
+stay regular.
+* No driving while taking narcotic pain medication.
+* Take Tylenol 650 mg every 6 hours in between your narcotic. If
+your doctor allows you may also take Ibuprofen to help relieve
+the pain.
+* Continue to stay well hydrated and eat well to heal your
+incisions
+* Shower daily. Wash incision with mild soap & water, rinse, pat
+dry
+* No tub bathing, swimming or hot tubs until incision healed
+* No lotions or creams to incision site
+* Walk 4-5 times a day and gradually increase your activity as
+you can tolerate.
+
+Call Dr.[**Name (NI) 5067**] office [**Telephone/Fax (1) 2348**] if you experience:
+-Fevers > 101 or chills
+-Increased shortness of breath, chest pain or any other symptoms
+that concern you.
+
+
+Followup Instructions:
+Call your surgeon's office ([**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3000**], MD
+Phone:[**0-0-**]) for an appointment 10-14 days after
+discharge.
+
+
+
+Completed by:[**2153-3-31**]

@@ -1,0 +1,190 @@
+Admission Date:  [**2132-6-26**]              Discharge Date:   [**2132-6-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+diltiazem / Penicillins / doxycycline
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+Cholecysitis
+
+Major Surgical or Invasive Procedure:
+ERCP
+
+History of Present Illness:
+Ms. [**Known lastname 33976**] is a 87F with history of COPD, hypertension,
+hypothyroidism and colorectal cancer s/p partial colectomy ~[**2124**]
+who presented to [**Hospital3 **] on [**2132-6-23**] with a complaint of
+abdominal pain. She states that she had an "upset stomach"
+during the day on [**2132-6-23**], ate a small amount for dinner and
+afterward developed severe, constant, non-radiating, [**10-20**]
+right-sided abdominal pain. She called EMS and was taken to the
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] for evaluation. Initially, she had shortness of breath
+worse than baseline (she is on O2 2 L/min PRN for COPD at home)
+but per patient no chest pain or palpitations. She was placed on
+CPAP by EMS, and [**First Name8 (NamePattern2) **] [**Hospital1 **] records did complain of some chest
+pain following use of CPAP. She had no vomiting, diarrhea,
+changes in bowel habits or blood in stool. On arrival to [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **], she was found to be febrile to T max of 104F. Labs at [**Hospital1 **]
+showed elevated LFTs (transaminases in 500s, TB 1.8, AP 137),
+WBC 21.5 with 19% bands, and RUQ U/S showed stones in the GB and
+ductal dilatation felt to be consistent with a diagnosis of
+acute cholecystitis. She was transferred to [**Hospital1 18**] for ERCP today
+with a plan to return to [**Hospital3 **] post-procedure.
+.
+On arrival to the ICU, initial vs were: T P BP R O2 sat. She
+reported feeling "much better than before" on arrival and denied
+any pain at rest, though did report discomfort with abdominal
+exam. No current N/V/D/C. Last BM was yesterday PM, normal
+color/consistency. No dysuria though was told she had "UTI" at
+[**Hospital1 **].
+.
+Review of sytems:
+(+) Per HPI. Also, some cough post-neb treatments, no sputum
+production.
+(-) Denies chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied chest pain or tightness, palpitations. Denied current
+nausea, vomiting, diarrhea, constipation or abdominal pain. No
+recent change in bowel or bladder habits. No dysuria. Denied
+arthralgias or myalgias.
+.
+
+
+Past Medical History:
+- COPD on 2 L/min O2 PRN (e.g. with activity, few times per day)
+at baseline; never intubated
+- Hypertension
+- Hypothyroidism
+- Seasonal allergies
+- Colorectal cancer s/p partial colectomy ~[**2124**]; annual
+colonoscopies
+- No other surgeries
+
+Social History:
+Lives in a house in [**Last Name (un) 21037**] with her husband [**Name (NI) **] (home phone
+# [**Telephone/Fax (1) 88891**]). She worked until age 75 as a bookkeeper but is
+now retired. She has 4 daughters. She is a former smoker but
+quit 25 years ago. Drinks alcohol up to 3 times per week, [**1-13**]
+vodka drinks per occasion. No recreational drug use.
+
+
+Family History:
+Not obtained
+
+
+Physical Exam:
+Vitals: T: 97.5 BP: 140/90 P: 95 R: 20 O2: 91% on 4L
+General: Alert, oriented, mildly SOB but speaking in complete
+sentences
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: Supple, JVP ~10 cm, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi. However, resp shallow with somewhat poor air movement.
+CV: Regular rate and rhythm though there is frequent ectopy by
+ascultation, normal S1 + S2, 3/6 systolic murmur throughout
+precordium but most pronounced at base. No clear radiation to
+carotids though exam compromised by pt's inability to hold
+breath.
+Abdomen: Soft, mildly distended with normal gas pattern to
+percussion, diffuse TTP more pronounced on right side (upper and
+lower quadrants), bowel sounds present, no rebound tenderness or
+guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+[**2132-6-26**] 03:19PM BLOOD WBC-25.1* RBC-4.44 Hgb-13.7 Hct-41.6
+MCV-94 MCH-30.8 MCHC-32.8 RDW-13.4 Plt Ct-336
+[**2132-6-27**] 03:59AM BLOOD WBC-13.4* RBC-3.90* Hgb-12.1 Hct-36.6
+MCV-94 MCH-31.0 MCHC-33.0 RDW-13.3 Plt Ct-268
+[**2132-6-26**] 03:19PM BLOOD Neuts-95.7* Lymphs-1.6* Monos-2.5 Eos-0.1
+Baso-0
+[**2132-6-26**] 03:19PM BLOOD PT-14.1* PTT-24.9 INR(PT)-1.2*
+[**2132-6-26**] 03:19PM BLOOD Glucose-169* UreaN-26* Creat-0.9 Na-146*
+K-3.6 Cl-107 HCO3-30 AnGap-13
+[**2132-6-27**] 03:59AM BLOOD Glucose-145* UreaN-29* Creat-0.8 Na-150*
+K-2.8* Cl-114* HCO3-26 AnGap-13
+[**2132-6-26**] 03:19PM BLOOD ALT-416* AST-127* CK(CPK)-38 AlkPhos-140*
+TotBili-0.6
+[**2132-6-27**] 03:59AM BLOOD ALT-306* AST-59* AlkPhos-106* TotBili-0.5
+[**2132-6-27**] 03:59AM BLOOD Lipase-26
+[**2132-6-26**] 03:19PM BLOOD CK-MB-4 cTropnT-0.03*
+[**2132-6-26**] 03:19PM BLOOD Calcium-9.4 Phos-4.5 Mg-2.3
+[**2132-6-27**] 03:59AM BLOOD Calcium-8.2* Phos-3.6 Mg-2.1
+.
+Microbiology
+[**2132-6-26**] MRSA Screen pending at the time of discharge
+.
+Reports
+[**2132-6-26**] Chest Xray
+IMPRESSION:
+1. Small left pleural effusion and left retrocardiac opacity.
+Mild right
+basilar atelectasis.
+2. Possible new left mid lung opacity. Recommend removal of
+overlying
+structures and repeat imaging, if possible, to better evaluate
+this region.
+.
+[**2132-6-26**] ERCP Report
+Procedure: The procedure, indications, preparation and potential
+complications were explained to the patient, who indicated her
+understanding and signed the corresponding consent forms. A
+physical exam was performed. The patient was administered
+moderate sedation. The patient was placed in the prone position
+and an endoscope was introduced through the mouth and advanced
+under direct visualization until the third part of the duodenum
+was reached. Careful visualization was performed. The procedure
+was not difficult. The quality of the preparation was good. The
+patient tolerated the procedure well. There were no
+complications.
+.
+Findings:
+Esophagus: Limited exam of the esophagus was normal
+Stomach: Limited exam of the stomach was normal
+Duodenum: Limited exam of the duodenum was normal
+Major Papilla: Two non-bleeding periampullary diverticula with
+large opening were found on the rim of the major papilla.
+Cannulation:  Cannulation of the biliary duct was successful and
+deep with a sphincterotome after a guidewire was placed.
+Contrast medium was injected resulting in partial opacification.
+
+Biliary Tree: A severe diffuse dilation was seen at the main
+duct with the CBD measuring approximately 20 mm. The dilation
+was more pronounced in th proximal and mid-CBD and less in the
+distal biliary tree. Many round stones ranging in size from 5 mm
+to 8 mm were seen at the lower third of the common bile duct.
+Limited contrast injection was performed due to cholangitis,
+resulting in limited visualization of the remainder of the
+biliary tree.
+.
+Procedures: A sphincterotomy was performed in the 12 o'clock
+position using a sphincterotome over an existing guidewire. A
+small amount of self-limited bleeding occurred occurred after
+the sphinterotomy.  Multiple bile duct stones were extracted
+successfully using a 12mm biliary balloon [**Last Name (un) **].  A
+sphincterotomy and stone extraction was performed given the
+patient's age and co-morbid conditions in an attempt to decrease
+number of procedures.  A stent was not placed as the
+sphincterotomy maintained good drainage and the stones appeared
+cleared.
+.
+Impression: Periampullary diverticula
+Successful biliary cannulation
+A severe diffuse dilation was seen at the main duct with the CBD
+measuring approximately 20 mm. The dilation was more pronounced
+in th proximal and mid-CBD and less in the distal biliary tree.
+
+Many round stones ranging in size from 5 mm to 8 mm were seen at
+the lower third of the common bile duct.
+Limited contrast injection was performed due to cholangitis,
+resulting in limited visualization of the remainder of the
+biliary tree.
+A sphincterotomy was performed in the 12 o'clock position using
+a sphincterotome over an existing guidewire. A small amount of
+self-limited bleeding occurred occurred after the sphinterotomy.
+

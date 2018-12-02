@@ -1,0 +1,211 @@
+Admission Date:  [**2117-6-26**]              Discharge Date:   [**2117-7-30**]
+
+Date of Birth:  [**2038-9-24**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Flagyl
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Declining mental status
+
+Major Surgical or Invasive Procedure:
+PICC line placement *2
+Arterial Line placement
+Dialysis Catheter Placement-Tunneled Line *2 and Temporary
+Catheter *1
+Central Venous Line Placement
+Bronchoscopy
+
+
+History of Present Illness:
+78 year old woman with history of multiple medical problems
+including type 2 diabetes mellitus, hypertension, obstructive
+sleep apnea s/p trach placement, and breast cancer being
+transferred from [**Hospital 100**] Rehab MACU for further evaluation. For
+the past 3 weeks, she has been progressively weak, somnalent,
+and hypercapnic. She had orginally ventilated just overnight,
+but has been on 24 hour ventillation for these 3 weeks. She
+continues to have CHF on CXRs.
+At [**Hospital 100**] Rehab, she was noted to have progressive delerium. She
+was reportedly independent in the months prior to admission, but
+now is persistantly somnilent arousing to minimal stimili.
+She has had a persistant c-diff infection requireing a rectal
+tube, and from which she has developed malnutrition with
+albumins in the 1.5-2 range. She was initially on TPN, but later
+had an NG placed. She is now on elemental feeds, with a plateau
+in her albumin. She has been found to be anasarcic [**1-25**]
+malnutrition with skin breakdown.
+She also developed progressive renal failure, with a creatine
+rising to mid 2s.
+Paliatitive care has been involved at HebReb, but her sister
+[**Name (NI) 102110**], who is HCP, continues to want everything done. She
+requested that her sister be transferred to the hospital to see
+if there's anything else that can be done for her.
+
+Currently she is minimally responsive.
+
+Review of systems: unable to obtain.
+
+Past Medical History:
+1. Hypertension
+2. Diabetes Mellitus
+3. Breast Cancer
+- Infiltrating ductal carcinoma
+4. Obstructive Sleep Apnea
+- s/p tracheostomy [**2089**]
+5. Osteoarthritis
+6. s/p multiple falls
+7. Congestive Heart Failure
+8. Atrial Flutter
+9. Atrial Septal Defect
+10. Mitral Regurgitation
+11. Cor Pulmonale
+12. s/p Stroke
+13. Obesity
+14. Spinal Stenosis
+15. Lower GI bleed
+
+
+Social History:
+Normally lives at home, but has been at rehab since last
+hospitalization. Denies alcohol, drug or current tobacco use.
+Per her sister, she is a former smoker, but unclear what her
+pack year smoking history is.
+
+Family History:
+Diabetes mellitus.
+
+Physical Exam:
+Exam on Admission:
+Vitals: T 97.1 HR: 80 BP: 109/63 Sat 97 on AC 450/12/45/5
+Gen: anasarcic, somnilent, understands that she is at [**Hospital1 18**]
+HEENT: trach in place
+CV: RR, NL rate. quiet heart sounds.
+LUNGS: intubated, bilateral anterior breath sounds
+ABD: Obese, distended, tender to palpation.
+EXT: No edema. 2+ DP pulses BL
+SKIN: palm breakdown, decubetous ulcers on back
+NEURO: minimal response to stimuli, twitching of her foot.
+
+Exam on Discharge:
+Vitals: T: 97.1 HR: BP: 117/48 rr: 19 sP02: 94% on CPAP,
+pressure support: [**11-30**].
+Gen: Anasarcic, alert, able to mouth responses to questions.
+HEENT: trach in place
+CV: RR, NL rate. quiet heart sounds.
+LUNGS: intubated, coarse bilateral anterior breath sounds
+ABD: Obese, distended, non tender to palpitation, bowel sounds.
+
+EXT: No edema. 2+ DP pulses BL
+NEURO: responds to stimuli, moves all extremities.
+
+
+Pertinent Results:
+Labs on Admission: [**2117-6-26**]
+WBC-9.2 RBC-2.86* Hgb-8.0* Hct-26.7* MCV-93 RDW-18.7* Plt Ct-239
+Neuts-85.3* Bands-0 Lymphs-11.0* Monos-3.3 Eos-0.2 Baso-0.1
+PT-17.9* PTT-33.7 INR(PT)-1.6*
+Glucose-134* UreaN-85* Creat-1.9* Na-145 K-5.1 Cl-105 HCO3-32
+AnGap-13
+ALT-32 AST-66* LD(LDH)-274* AlkPhos-114 TotBili-0.2
+proBNP-[**Numeric Identifier **]*
+TotProt-5.8* Albumin-2.4* Globuln-3.4
+Lactate-1.1
+Type-ART Rates-[**11-24**] Tidal V-450 PEEP-5 FiO2-50 pO2-67* pCO2-59*
+pH-7.35 calTCO2-34* Base XS-4
+
+Other Labs:
+[**2117-7-10**] WBC-18.0* RBC-2.35* Hgb-6.9* Hct-22.4* MCV-95 RDW-23.1*
+Plt Ct-221
+[**2117-6-27**] 06:57PM BLOOD CK-MB-10 MB Indx-8.8* cTropnT-0.62*
+[**2117-6-28**] 03:45AM BLOOD CK-MB-NotDone cTropnT-0.61*
+[**2117-6-28**] 11:47AM BLOOD CK-MB-NotDone cTropnT-0.76*
+[**2117-7-1**] calTIBC-191* Ferritn-178* TRF-147*
+[**2117-7-9**] Hapto-<20*
+[**2117-6-26**] TSH-2.6
+[**2117-7-21**] Cortsol-23.0*
+
+Labs on Discharge:
+
+[**2117-7-30**] 03:16AM BLOOD WBC-9.8 RBC-3.01* Hgb-8.8* Hct-29.5*
+MCV-98 MCH-29.2 MCHC-29.8* RDW-18.4* Plt Ct-230
+[**2117-7-30**] 03:16AM BLOOD PT-15.2* PTT-32.3 INR(PT)-1.3*
+[**2117-7-30**] 03:16AM BLOOD Glucose-121* UreaN-16 Creat-2.0* Na-138
+K-4.1 Cl-101 HCO3-30 AnGap-11
+[**2117-7-30**] 03:16AM BLOOD ALT-19 AST-28 LD(LDH)-325* AlkPhos-109
+TotBili-0.7
+[**2117-7-30**] 03:16AM BLOOD Albumin-2.9* Calcium-8.6 Phos-2.3* Mg-1.7
+[**2117-7-30**] 03:40AM BLOOD Type-ART pO2-68* pCO2-54* pH-7.38
+calTCO2-33* Base XS-4
+ _________________________________________________________
+                             CITROBACTER KOSERI
+                             |          KLEBSIELLA PNEUMONIAE
+                             |          |
+AMPICILLIN/SULBACTAM--                4 S
+CEFAZOLIN-------------              <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CEFUROXIME------------              <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------    64 I       64 I
+PIPERACILLIN----------    16 R
+PIPERACILLIN/TAZO-----              <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+[**2117-6-26**] Endotracheal sputum culture
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+CEFEPIME--------------     2 S      <=1 S
+CEFTAZIDIME-----------     2 S        2 S
+CIPROFLOXACIN---------<=0.25 S      0.5 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN----------   <=4 S      <=4 S
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+
+[**2117-7-14**]: Joint aspirate: FLUID CULTURE (Final [**2117-7-17**]):    NO
+GROWTH.
+Urine culture [**2117-7-24**], [**2117-7-21**], [**2117-7-4**], [**2117-7-5**], [**2117-7-6**]
+[**2117-7-8**]
+[**2117-7-20**]: colonization with alpha streptoccocus and
+lactobacillus.
+[**2117-7-30**]: MRSA screen: No MRSA isolated.
+Blood cultures on [**2117-6-26**], [**2117-7-4**], [**2117-7-5**], [**2117-7-6**], [**2117-7-8**],
+[**2117-7-10**]: no growth
+Blood cultures: [**2117-7-18**], [**2117-7-21**], [**2117-7-23**]: no growth
+Respiratory culture ([**2117-7-24**]): no growth, fungal culture:
+preliminarily no fungus.
+Sputum cultures: [**2117-6-26**], [**2117-6-29**], [**2117-7-4**], [**2117-7-8**], [**2117-7-8**],
+[**2117-7-13**],: contamination with oral secretions only.
+
+Other Studies:
+[**2117-6-26**] EKG: Sinus rhythm. Prolonged P-R interval. Right-bundle
+branch block. Non-specific repolarization abnormalities.
+Generalized low voltage.
+Compared to the previous tracing of [**2117-4-16**] voltage has
+decreased and
+P-R interval has prolonged somewhat.
+[**2117-6-26**] CXR:  Tracheostomy is present in the midline. Orogastric
+tube courses below the diaphragm, but the tip is not seen. Heart
+is massively enlarged.  Mediastinum is prominent. Central
+pulmonary vasculature is also prominent consistent with mild
+congestive failure. There are small bilateral pleural effusions
+as well as bibasilar atelectasis. There is very little change in
+the appearance of the chest since the prior study.
+[**2117-7-22**] CT chest/abd/pelvis w/: 1. Left lower lobe atelectasis.
+2. Cardiomegaly. 3. Right adrenal nodule not meeting CT criteria
+for adenoma. MRI would be useful to further characterize. 4.
+Anterior wall hernia without bowel strangulation. 5.
+Diverticulosis without evidence of diverticulitis. 6. Distended
+gallbladder, stable from prior exam.
+7. No discrete masses, fluid collections, or 

@@ -1,0 +1,191 @@
+Admission Date:  [**2142-3-20**]              Discharge Date:   [**2142-3-25**]
+
+Date of Birth:  [**2063-3-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Vioxx / Lipitor
+
+Attending:[**First Name3 (LF) 106**]
+Chief Complaint:
+Dyspnea, orthopnea
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+This is a 79 year-old male with a history of CAD s/p CABG ('[**21**]),
+IDDM, systolic CHF (EF 15%) s/p ICD, AF on coumadin, who
+presented to outside hospital from [**Hospital1 599**] with shortness of
+breath x months but worsening over past 5 days, nonproductive
+cough, and orthopnea.  He also reports PND over past two to
+three weeks.  At baseline he is able to walk from bed to
+bathroom however over past week he has not been able to get out
+of bed [**3-5**] shortness of breath.  He denied any fevers, chills,
+chest pain or palpitations.  He reports that his lasix dose has
+been uptitrated over the past week and is now at a dose of 90mg
+twice daily.  According to EP noted dated [**3-14**] plan was to
+increase Lasix to 40mg [**Hospital1 **] from 20mg [**Hospital1 **] - so likely increased
+quickly over past several days.  He has never been so short of
+breath before - denies prior admissions for heart failure.
+.
+In the ED, initial vitals were T: 97.7 HR: 79 BP: 103/71 RR: 18
+O2Sat: 100% on 2L.  Exam was notable for lungs with diffuse
+rales, 3+ peripheral edema.  Labs were notable for a BNP of
+[**Numeric Identifier **] (12K 3 weeks ago), Cr 1.5.  CXR showed mild pulmonary
+congestion.  Patient received 40 mg IV lasix and was given
+Levofloxacin x 1.  He was initially going to [**Hospital Ward Name 121**] 3 however then
+became asymptomatically hypotensive (systolic 70-80s/50s) and
+bed changed to CCU.  Not felt to be due to lasix as BP changed
+minutes after dose was given.  He put out 900-1000cc urine in
+ED.  Given hypotension blood cultures and lactate were sent.  He
+was given 250cc bolus x 2 with improvement in BP to systolic
+100s.
+.
+Of note, patient was admitted at the end of [**Month (only) 404**] for gout
+flare in ankle treated with oral steroids.  He reports that he
+was symptomatic at that time but nothing mentioned in d/c
+summary.
+.
+On arrival to the CCU, the patient has no acute complaints.  He
+overall feels unwell, fatigued and short of breath - worse with
+lying flat.
+.
+Review of systems is otherwise negative for fevers, chills,
+night sweats.  He denies abdominal pain, nausea, vomiting.
+Increased urinary frequency recently but no dysuria.  Appetite
+is within normal limits.  Positive for nonproductive cough.
+
+
+Past Medical History:
+-CAD, s/p CABG in [**2121**] ([**Hospital1 756**] and Women??????s)
+-CHF, NYHA class IV, EF ~ 15%
+-HTN
+-s/p DDP pacemaker placement, IVCD implantation: [**Company 1543**]
+Concerto biventricular ICD (last interrogation [**11-7**], 92% BiV
+paced)
+-Atrial fibrillation (on coumadin)
+-Complete heart block after AV ablation
+-Mitral regurgitation
+-Ventricular tachycardia s/p ablation of VT
+-IDDM (Type 2)
+-Chronic renal insufficiency
+-Chronic left knee pain, s/p steroid injections
+-Gout with known colichicine myopathy
+-Pseudogout
+
+
+Social History:
+Married. Former smoker, quit 20 years ago formally, but still
+smokes once or twice a year. Drinks 1 EtOH beverage per day.
+Retired mechanical engineer. Was a fighter pilot for [**Country **] and
+then NATO, and survived a crash in [**2090**]. Also, was a wrestler
+with the Turkish Olympic team in [**2077**]. Since retiring, he enjoys
+photography and volunteers at his local senior center.
+
+Family History:
+Long history of cardiac disease, osteoarthritis in siblings. No
+history of gout in family.
+
+Physical Exam:
+General Appearance: Well nourished, No acute distress,
+Overweight / Obese
+Eyes / Conjunctiva: PERRL
+Head, Ears, Nose, Throat: Normocephalic.  JVP 10-11cm
+Lymphatic: Cervical WNL, Supraclavicular WNL
+Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)  [**3-9**]
+systolic ejection murmur
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Present), (Left DP pulse:
+Present)
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Crackles : Diffusely bilaterally both inspiratory and
+expiratory, No(t) Wheezes : , Rhonchorous: scattered)
+Abdominal: Soft, Non-tender, Bowel sounds present, No(t)
+Distended
+Extremities: Right: 2+, Left: 2+, No(t) Cyanosis, No(t) Clubbing
+Skin:  Not assessed
+Neurologic: Attentive, Follows simple commands, Responds to: Not
+assessed, Oriented (to): person, place, time, Movement: Not
+assessed, Tone: Not assessed
+
+
+Pertinent Results:
+Admission labs:
+[**2142-3-20**] 11:13AM BLOOD WBC-6.0 RBC-3.49* Hgb-11.1* Hct-33.9*
+MCV-97 MCH-31.9 MCHC-32.8 RDW-16.4* Plt Ct-130*
+[**2142-3-20**] 11:13AM BLOOD PT-20.5* PTT-32.1 INR(PT)-1.9*
+[**2142-3-20**] 11:13AM BLOOD Glucose-74 UreaN-48* Creat-1.5* Na-144
+K-4.5 Cl-97 HCO3-40* AnGap-12
+[**2142-3-20**] 11:13AM BLOOD Calcium-8.5 Phos-3.0 Mg-2.1
+.
+Discharge labs:
+[**2142-3-25**] 06:05AM BLOOD WBC-8.7 RBC-3.08* Hgb-10.0* Hct-29.7*
+MCV-96 MCH-32.5* MCHC-33.7 RDW-16.6* Plt Ct-178
+[**2142-3-25**] 06:05AM BLOOD PT-29.0* PTT-33.0 INR(PT)-2.9*
+[**2142-3-25**] 06:05AM BLOOD Glucose-195* UreaN-61* Creat-1.7* Na-138
+K-4.3 Cl-98 HCO3-34* AnGap-10
+[**2142-3-25**] 06:05AM BLOOD Calcium-8.2* Phos-2.7 Mg-2.1
+.
+Cardiac labs:
+[**2142-3-20**] 11:13AM BLOOD proBNP-[**Numeric Identifier **]*
+[**2142-3-20**] 11:13AM BLOOD cTropnT-0.09*
+[**2142-3-20**] 08:58PM BLOOD CK-MB-NotDone cTropnT-0.06*
+[**2142-3-21**] 04:08AM BLOOD CK-MB-NotDone cTropnT-0.08*
+[**2142-3-20**] 11:13AM BLOOD CK(CPK)-28*
+[**2142-3-20**] 08:58PM BLOOD CK(CPK)-25*
+.
+EKG [**2142-3-20**]- Atrial fibrillation, Ventricular pacing. Since
+previous tracing of [**2142-2-18**], ventricular premature complexes not
+seen, QRS interval wider suggest less A-V conduction
+.
+Chest x-ray [**2142-3-20**] - IMPRESSION: Stable cardiomegaly and mild
+prominence of the central pulmonary vasculature with otherwise
+clear lungs.
+The study and the report were reviewed by the staff radiologist.
+
+.
+Echo [**2142-3-21**] - The left atrium is elongated. The right atrium
+is markedly dilated. No atrial septal defect is seen by 2D or
+color Doppler. The estimated right atrial pressure is 0-10mmHg.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity is moderately dilated. There is severe global
+left ventricular hypokinesis (LVEF = 25 %). No masses or thrombi
+are seen in the left ventricle. There is no ventricular septal
+defect. The right ventricular cavity is mildly dilated with
+moderate global free wall hypokinesis. The diameters of aorta at
+the sinus, ascending and arch levels are normal. The mitral
+valve leaflets are mildly thickened. There is no mitral valve
+prolapse. Moderate to severe (3+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened. Moderate [2+]
+tricuspid regurgitation is seen. There is no pericardial
+effusion.
+
+Compared with the prior study (images reviewed) of [**2138-9-19**], no
+major change.
+
+
+Brief Hospital Course:
+78 year old male with ho CHF EF 15%, CAD s/p CABG IVCD implant,
+HTN, IDDM presents with acute exacerbation of systolic heart
+failure.
+.
+#. Pump: Known ischemic CMP with worsening symptoms of
+orthopnea, PND, LE edema and SOB over past two months presents
+with elevated BNP, O2 requirement and pulm congestion on CXR.
+Unclear precipitant but per patient history sounds like subacute
+decompensation. Patient denies any dietary indiscretion.
+Unlikely to be acute ishcemia in the setting of flat troponins
+and CKs. In terms of active infectios work-up there was no clear
+infiltrate on chest x-ray, UA with trace blood otherwise no
+obvious infection. Blood cultures were no growth to date.
+Patient responded to IV lasix with good effect. Patient was
+diuresed roughly 1-2 liters per day. Repeat echo demonstrated no
+acute change from previous echo from [**2138**]. Cough improved with
+diuresis.  Patient was discharged on increased dose of lasix to
+prevent fluid reaccumulation.  Patient maintained on aspirin,
+statin which were continued throughout hospitalization.
+Initially held carvedilol in the setting of hypotension, but
+restarted at lower dose. Initially held epl

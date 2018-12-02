@@ -1,0 +1,94 @@
+Admission Date:  [**2192-4-6**]              Discharge Date:   [**2192-4-17**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+hip fracture
+
+Major Surgical or Invasive Procedure:
+ORIF
+pacer battery change
+
+History of Present Illness:
+HPI: [**Age over 90 **] yo man with HTN, PCM dependent, fell down last night -
+unable to recall details - + LOC, awoke on living room floor,
+unable to get up. Wife with severe dementia and cannot provide
+details.
+
+Past Medical History:
+PCM - pacer-dependent
+HTN
+CRI - Baseline Cr [**2-22**]
+BPH, elevated PSA at 17
+
+
+Social History:
+SH: Lives in [**Hospital3 **] with wife (girlfriend according to
+NF, ? details) Wife with severe dementia. 2oz a scotch 3x/week
+
+Family History:
+non contributory
+
+Physical Exam:
+Gen: elderly
+Cor: bradycardic, paced
+Neuro: AAAX3
+
+Pertinent Results:
+CXR: CM, ? early infiltrate
+.
+EKG: LBBB,V-paced at 55
+.
+CT Head: neg bleed
+.
+Films: + Femur Fracture
+
+
+Brief Hospital Course:
+[**Age over 90 **] yo man with syncope/fall and now with femur fracture
+.
+Femur Fracture: S/p femur fracture repair.
+.
+Syncope:
+  Tele monitoring, per EP no evidence of artrythmia on
+interrogation.
+  Cycle enzymes - trop 0.02-> 0.07,
+  Echo revealed Nl EF
+.
+cardiac: PCM interrogation - patient was pacer dependent with
+intrinsic rate
+  in the 20's. PCM battery was near end of life  and it was
+changed in the hospital.  After this procedure the pt went into
+respiratory failure with CXR c/ CHF. He was then diuresed
+aggressively causing ARF. While fluid appeared necessary to
+rescue his kidneys he continued to go into resp. distress and
+CHF with hydration.
+The family decided not to pursue aggressive therapy and opted to
+make him CMO.
+He was started on a morphine drip and passed away shorthy after.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - Acute Rehab
+
+Discharge Diagnosis:
+expired
+
+Discharge Condition:
+hip fracture, arrhytmia, dying pacer battery, CHF, ARF
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+

@@ -1,0 +1,217 @@
+Admission Date:  [**2150-8-17**]              Discharge Date:   [**2150-8-28**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 106**]
+Chief Complaint:
+hypotension, bradycardia
+
+Major Surgical or Invasive Procedure:
+placement of pacemaker
+placement of right internal jugular catheter
+
+History of Present Illness:
+[**Age over 90 **]yo woman with h/o HTN, DM on insulin, remote CVA,
+anticoagulated for h/o PE and AFib presents as transfer from
+[**Location (un) 620**] with complete heart block.  Pt was found to be lethargic
+at skilled nursing facility today; BP could not be obtained,
+pulse in 30s.  Pt was brought to [**Location (un) 620**], where she was noted to
+have decreased responsiveness and SOB.  Found to be in complete
+HB, intubated for labored breathing with declining mental
+status, and transferred to [**Hospital1 18**].  Per transfer notes, pt had
+GCS of 15, was alert and oriented x 3 and following commands.
+.
+Upon arrival to the [**Name (NI) **], pt had HR 22 and SBP 73.  She was given
+atropine 1mg without effect then placed on dopamine and levophed
+gtt.  Also received 1mg glucagon in ED.  RIJ cordis with TV
+pacer placed.  HR in 80s, SBP 100 upon admission to CCU.
+.
+Review of symptoms could not be completed secondary to
+intubation, impaired mental status.  Per chart review, pt had
+denied chest pain.
+
+Past Medical History:
+Epilepsy
+HTN
+DM
+CAD
+AFib
+CVA-?right side stroke
+Hyperthyroidism
+Asthma
+PE
+COPD
+Depression with Anxiety
+Dementia
+
+Social History:
+Patient lives in [**Hospital3 5277**] ([**Telephone/Fax (1) 40327**]), long term care
+facility.  Son is health care proxy.
+
+Family History:
+not available on admission
+
+Physical Exam:
+VS: T 97.6, BP 127/89, HR 93, RR 16, O2 100% on  FiO2 100%
+AC PEEP 5  100% FiO2  500    16-18
+Gen:  Elderly woman, not currently receiving sedation,
+responsive only to tactile stimuli.  Intubated.
+HEENT:  Sclera anicteric. Pupils equally round, reactive to
+light.  Conjunctiva were pink, no pallor or cyanosis of the oral
+mucosa.
+Neck: Supple.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, distant S1, S2. No S4, no S3. ? soft systolic murmur
+Chest: No chest wall deformities, scoliosis or kyphosis.  On
+vent with good air entry b/l, coarse breath sounds throughout.
+Abd: Obese, soft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Neuro: Responding only to tactile stimuli with movement of limb.
+ Pupils equal and reactive to light b/l.  Increased muscle tone
+in R arm with ?contractures.  +clonus in UE and LE b/l.
+Spontaneous movement of LE b/l.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 1+; 1+ DP
+Left: Carotid 2+ without bruit; Femoral 2+; 1+ DP
+
+Pertinent Results:
+[**2150-8-17**] 11:31PM   GLUCOSE-246* UREA N-30* CREAT-1.7* SODIUM-141
+POTASSIUM-5.8* CHLORIDE-105 TOTAL CO2-23 ANION GAP-19
+[**2150-8-17**] 11:31PM   estGFR-Using this
+[**2150-8-17**] 11:31PM   ALT(SGPT)-18 AST(SGOT)-25 CK(CPK)-88 ALK
+PHOS-146* AMYLASE-63 TOT BILI-0.4
+[**2150-8-17**] 11:31PM   LIPASE-34
+[**2150-8-17**] 11:31PM   cTropnT-0.08* proBNP-354
+[**2150-8-17**] 11:31PM   ALBUMIN-4.0 CALCIUM-8.9 PHOSPHATE-5.2*
+MAGNESIUM-2.2
+[**2150-8-17**] 11:31PM   DIGOXIN-<0.2*
+[**2150-8-17**] 11:31PM   WBC-11.6* RBC-4.76 HGB-11.1* HCT-33.9*
+MCV-71* MCH-23.2* MCHC-32.7 RDW-16.6*
+[**2150-8-17**] 11:31PM   NEUTS-72.2* LYMPHS-23.0 MONOS-3.7 EOS-1.0
+BASOS-0.1
+[**2150-8-17**] 11:31PM   PLT COUNT-403
+[**2150-8-17**] 11:31PM   PT-20.3* PTT-28.6 INR(PT)-1.9*
+.
+EKG [**8-18**] demonstrated normal sinus rhythm with no significant
+ST-T changes.  EKG from [**8-17**] signficant for complete heart
+block.  Prior EKG unavailable for examination.
+.
+TELEMETRY demonstrated:   no legitimate alars
+.
+2D-ECHOCARDIOGRAM performed on [**2149-12-26**] demonstrated:
+EF 65% Concentric LVH, preserved LV systolic function,
+calcification of mitral annulus with minimal MR, aortic
+sclerotic changes, and normal pulmonary artery pressures.
+
+
+Brief Hospital Course:
+1. Cardiac
+a. Rhythm
+Bradycardia:
+The patient presented with complete heart blcok, with a rhythm
+that appeared to have been CHB with junctional escape given the
+narrow complex and the fact that the QRS is similar to when the
+pt is in SR. Unclear what the primary process was causing the
+bradycardia, hypoxemia vs sepsis vs primary cardiogenic.
+Medication effect of Toprol and verapamil likely playing a large
+role as well. After the day of admission, the patinet remained
+in sinus rhythm with 1:1 conduction throughout hospitalization.
+The patinet had a transvenous pacer wire placed upon admission.
+The patient remained without continued bradycardia, and
+temporary pacer was removed.  Given unknown etiology of block,
+patient had a permanent pacemaker placed without complication
+set at VVI.  The patient was restarted on low-dose metoprolol
+given history of atrial fibrilltion and hypertension while
+hospitalized and tolerated well.
+.
+b. CAD:
+Patient with unclear history of CAD, though known risk factors
+of CVA, dm2.  The patient was continued on ASA and BB.
+.
+c. Pump:
+Patient was hypotenison upon admission, in the setting of
+bradycardia, and was supported on dopa/levophed.  After initial
+event, patient was hypertensive during hospitalization, and
+placed on hydralazine, low dose metoprolol, and HCTZ with
+adequate control.
+
+2. Respiratory failure:
+The patient presented with respiratory failure, and was
+intubated in the emergency room.  Unclear etiology. PNA vs CHF
+vs PE. Mental status may have precipitated intubation as well,
+unclear from the records. PE is a possibility as well, though
+INR was 1.9 on admission.  Patient had an elevated WBC to 21,
+and was started on vanc/zosyn for suspected aspiration
+pneumonia, was titrated to levo, and completed the course.  CTA
+was performed which had an equivical read of possible PE, and
+patient was started on heparin.  Upon discharge, patient still
+not therapeutic on coumadin, and will be sent on lovenox (PPx
+dose given recent PPM placement) and coumadin.  The patient was
+extubated on third day of admissison without difficulty, and had
+remained comfortable.
+.
+
+# Neuro:
+Mental status changes at rehab likely [**1-23**] hypotension and
+metabolic disturbances. Also with head CT revealing hypodensity
+in the left parietooccipital region in which acute stroke,
+possibly watershed infarct cannot be ruled.  Patient showed
+myoclonic movements at admission, and neuro was consulted to
+evaluate non-convulsive status vs. anoxic brain injury.  EEG not
+c/w NCSE.  Patient was extubated, and showed deficit compared to
+baseline.  Neuro started keppra for seizure ppx, which should be
+titrated up 250mg each week until at goal of 1000mg [**Hospital1 **].
+- serial neuro exams
+- consider neuro consult
+- consider MRI if more stable tomorrow
+
+.
+# ARF:
+Patient presented with Cr 1.7 from baseline of Cr 0.7.  Improved
+with hydration, and beleived to be secondary to dehydration
+coupled with hypoperfusion w/ bradycardia/hypotension.
+.
+# DM2
+- SSI, NPH
+
+
+Medications on Admission:
+ASA 81mg daily
+Toprol XL 50mg daily
+Verapamil 240mg [**Hospital1 **]
+Lasix 20mg daily
+Coumadin 11mg every other day
+Coumadin 10.5mg every other day--increased from 10mg on [**8-4**]
+Novolin 70/30 44units QAM
+NPH 12 units QPM
+Synthroid 25mcg daily
+Potassium Cl 10mEq daily
+Zoloft 100mg daily
+Singulair 10mg daily
+Trazadone 25mg QPM
+Colace 100mg [**Hospital1 **]
+Duonebs Q6H
+SSI
+
+Discharge Medications:
+1. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.
+3. Levetiracetam 500 mg Tablet Sig: 1.5 Tablets PO BID (2 times
+a day): increase dose to 1000mg [**Hospital1 **] on [**9-4**].
+Disp:*60 Tablet(s)* Refills:*2*
+4. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+6. Singulair 10 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Colace 100 mg Capsule Sig: [**12-23**] Capsules PO twice a day as
+needed for constipation.
+8. Outpatient Lab Work
+Please have INR checked on Sunday [**8-30**] and hav

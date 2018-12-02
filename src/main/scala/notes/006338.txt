@@ -1,0 +1,209 @@
+Admission Date:  [**2195-10-2**]              Discharge Date:   [**2195-10-7**]
+
+Date of Birth:  [**2114-2-19**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Keflex
+
+Attending:[**Last Name (NamePattern1) 1561**]
+Chief Complaint:
+Pneumonia, lung mass
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy, snare excision of left upper lobe mass, L4 node
+biopsy
+
+History of Present Illness:
+81 year old woman transferred from [**Hospital 1562**] Hospital with
+respiratory failure.  She was admitted to [**Hospital 1562**] Hospital on
+[**2195-9-28**] from a nursing home with "agonal breathing." Chest CXR
+showed an opacified left upper lobe. Bronchoscopy at OSH showed
+an obstructing lesion in the left upper lobe. She was
+transferred to the [**Hospital1 18**] for further management.
+
+Past Medical History:
+PMHx: COPD (home O2), "brain aneurysm", HTN, chronic UTI, MI '[**93**]
+
+Social History:
+Nursing home resident
+
+Family History:
+non-contributory
+
+Physical Exam:
+Expired
+
+Pertinent Results:
+[**2195-10-7**] 03:00AM BLOOD WBC-10.4 RBC-3.57* Hgb-10.3* Hct-30.6*
+MCV-86 MCH-29.0 MCHC-33.7 RDW-15.0 Plt Ct-305
+[**2195-10-6**] 02:26AM BLOOD WBC-11.3* RBC-3.54* Hgb-10.4* Hct-30.5*
+MCV-86 MCH-29.4 MCHC-34.2 RDW-15.0 Plt Ct-274
+[**2195-10-4**] 04:08AM BLOOD WBC-14.1* RBC-3.99* Hgb-11.6* Hct-33.2*
+MCV-83 MCH-29.1 MCHC-35.0 RDW-14.9 Plt Ct-291
+[**2195-10-2**] 09:01PM BLOOD WBC-11.9* RBC-3.76* Hgb-10.8* Hct-31.2*
+MCV-83 MCH-28.7 MCHC-34.7 RDW-14.9 Plt Ct-270
+[**2195-10-2**] 09:01PM BLOOD Neuts-85.6* Lymphs-10.4* Monos-3.7
+Eos-0.3 Baso-0.1
+[**2195-10-7**] 03:00AM BLOOD Plt Ct-305
+[**2195-10-7**] 03:00AM BLOOD PT-12.1 PTT-26.8 INR(PT)-1.0
+[**2195-10-6**] 02:26AM BLOOD Plt Ct-274
+[**2195-10-6**] 02:26AM BLOOD PT-12.1 PTT-27.8 INR(PT)-1.0
+[**2195-10-5**] 03:00AM BLOOD Plt Ct-268
+[**2195-10-5**] 03:00AM BLOOD PT-12.1 PTT-23.8 INR(PT)-1.0
+[**2195-10-4**] 04:08AM BLOOD Plt Ct-291
+[**2195-10-7**] 03:00AM BLOOD Glucose-115* UreaN-9 Creat-0.8 Na-143
+K-3.5 Cl-106 HCO3-28 AnGap-13
+[**2195-10-6**] 02:26AM BLOOD Glucose-112* UreaN-11 Creat-0.7 Na-146*
+K-3.7 Cl-108 HCO3-30 AnGap-12
+[**2195-10-5**] 03:00AM BLOOD Glucose-129* UreaN-15 Creat-0.6 Na-143
+K-4.2 Cl-105 HCO3-31 AnGap-11
+[**2195-10-4**] 04:08AM BLOOD Glucose-116* UreaN-17 Creat-0.8 Na-143
+K-4.2 Cl-104 HCO3-32 AnGap-11
+[**2195-10-3**] 04:27AM BLOOD Glucose-104 UreaN-22* Creat-0.7 Na-143
+K-4.0 Cl-102 HCO3-32 AnGap-13
+[**2195-10-2**] 09:01PM BLOOD Glucose-123* UreaN-21* Creat-0.7 Na-142
+K-3.0* Cl-100 HCO3-33* AnGap-12
+[**2195-10-7**] 03:00AM BLOOD Albumin-2.7* Calcium-8.1* Phos-3.9 Mg-2.1
+[**2195-10-6**] 02:26AM BLOOD Calcium-8.1* Phos-4.4 Mg-2.1
+[**2195-10-5**] 03:00AM BLOOD Calcium-8.1* Phos-4.2 Mg-2.2
+[**2195-10-3**] 04:27AM BLOOD Calcium-8.1* Phos-3.9 Mg-2.0
+[**2195-10-2**] 09:01PM BLOOD Calcium-8.0* Phos-4.3 Mg-2.1
+[**2195-10-7**] 09:22AM BLOOD Type-ART pO2-115* pCO2-45 pH-7.43
+calTCO2-31* Base XS-5
+[**2195-10-7**] 03:13AM BLOOD Type-ART Temp-36.8 pO2-115* pCO2-49*
+pH-7.42 calTCO2-33* Base XS-6 -ASSIST/CON Intubat-INTUBATED
+[**2195-10-6**] 02:30PM BLOOD Type-ART
+[**2195-10-6**] 10:58AM BLOOD Type-ART pO2-120* pCO2-53* pH-7.38
+calTCO2-33* Base XS-5 Intubat-INTUBATED
+[**2195-10-5**] 09:55PM BLOOD Type-ART pO2-107* pCO2-50* pH-7.40
+calTCO2-32* Base XS-4
+[**2195-10-2**] 09:02PM BLOOD Type-ART pO2-72* pCO2-44 pH-7.51*
+calTCO2-36* Base XS-10
+[**2195-10-7**] 10:58AM BLOOD Glucose-89 K-3.7
+[**2195-10-7**] 09:22AM BLOOD O2 Sat-98
+RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  [**2195-10-7**] 7:14 AM
+
+CHEST (PORTABLE AP)
+
+Reason: Assess for lung re-expansion, new processes
+
+[**Hospital 93**] MEDICAL CONDITION:
+81 year old woman with LUL mass, post obstructive pneumonia s/p
+bronch, resection of mass
+REASON FOR THIS EXAMINATION:
+Assess for lung re-expansion, new processes
+HISTORY: Left upper lobe mass post bronchoscopy for obstructive
+pneumonia.
+
+AP BEDSIDE CHEST. The left lower thorax is partially opacified
+suggesting both atelectasis and effusion. Equivocal small right
+effusion. Right lung normally aerated as is the visualized left
+upper lobe with no mass identified. There is minimal if any left
+mediastinal shift. Multiple tubes and catheters are
+satisfactorily positioned and no PTX on this semi-erect film.
+Allowing for technical differences there is no change from
+similar exam one day ago.
+
+IMPRESSION: No short interval change in left lower lobe
+atelectasis/effusion.
+
+DR. [**First Name (STitle) **] M. [**Doctor Last Name **]
+Approved: WED [**2195-10-7**] 12:43 PM
+RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  [**2195-10-2**] 7:17 PM
+
+CHEST (PORTABLE AP)
+
+Reason: s/p bronchoscopy
+
+[**Hospital 93**] MEDICAL CONDITION:
+81 year old woman with
+REASON FOR THIS EXAMINATION:
+s/p bronchoscopy
+INDICATION: 81-year-old female status post bronchoscopy.
+
+COMPARISON: None.
+
+AP SUPINE PORTABLE CHEST X-RAY: A nasogastric tube descends
+below the diaphragm with the proximal side port at the level of
+the gastroesophageal junction. An endotracheal tube terminates 4
+cm above the carina. There is complete opacification of the left
+hemithorax with slight tracheal deviation to the left. No
+pneumothorax is seen. The right lung is clear. The surrounding
+soft tissue and osseous structures are unremarkable.
+
+IMPRESSION: Left lung collapse with tracheal deviation.
+
+Nasogastric tube proximal side port at the gastroesophageal
+junction. Advancement by approximately 3 cm is recommended.
+
+These findings were called to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at 8:30 p.m. on
+[**2195-10-2**].
+
+RADIOLOGY  Final Report
+
+CT CHEST W/CONTRAST  [**2195-10-3**] 12:25 PM
+
+CT CHEST W/CONTRAST; CT ABD W&W/O C
+
+Reason: Evaluate obstructing LUL lesion.
+Contrast: OPTIRAY
+
+[**Hospital 93**] MEDICAL CONDITION:
+81 year old woman with
+REASON FOR THIS EXAMINATION:
+Evaluate obstructing LUL lesion.
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+STUDY: CT torso.
+
+INDICATION: This is an 81-year-old female with a reported
+history of left upper lobe obstructing lesion. Evaluation
+requested.
+
+COMPARISONS: There are no prior studies available for
+comparison.
+
+TECHNIQUE: Noncontrast MDCT axial images were acquired of the
+lower chest and abdomen. Approximately 130 cc of IV Optiray
+contrast was injected and axial images from the thoracic inlet
+to the pubic symphysis were acquired. 3-minute delay images of
+the kidneys were also obtained. Coronal and sagittal images were
+also obtained.
+
+CT OF THE CHEST WITH IV CONTRAST: An endotracheal tube is
+present within the lumen of the trachea. A nasogastric tube is
+present within the lumen of the esophagus. There has been
+collapse of the left upper and left lower lobes causing shift of
+the mediastinum to the left. There are diffuse coronary
+calcifications but otherwise the heart and great vessels are
+unremarkable. There are bilateral pleural effusions, left
+greater than right. There has been collapse/consolidation of
+both the upper and lower lobe on the left. There is associated
+volume loss. There are areas of consolidation that appear to be
+loculated particularly in the anterior aspect on the left. In
+the aerated portions of the left lung, there are several tree
+and [**Male First Name (un) 239**] appearing areas that could represent an underlying
+infectious process. There are no definitive endobronchial
+lesions visualized (CT is a limited modality to fully evaluate
+for endobronchial lesions). There is no mediastinal, hilar or
+axillary lymphadenopathy that meets criteria for pathology.
+
+CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST: There is a small
+amount of air present within the biliary system of the liver.
+This would be consistent with a previous history of
+sphincterotomy. In segment II/III of the liver, there are two
+areas of hypoattenuation that measure 2.2 and 4.3 cm diameter
+respectively. These areas could represent areas of altered
+perfusion or they could represent intrahepatic masses. Further
+examination of these areas is recommended via ultrasound. These
+areas do not enhance post- contrast and they do not appear to
+disrupt the normal hepatic vasculature. There are no other focal
+liver abnormality is identified. The patient is status post
+cholecystectomy. The pancreas, spleen, stomach, and adrenal
+glands ap

@@ -1,0 +1,250 @@
+Admission Date:  [**2196-10-4**]              Discharge Date:   [**2196-10-9**]
+
+Date of Birth:  [**2129-4-3**]             Sex:   F
+
+Service: [**Hospital Unit Name 196**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1171**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+MICU admission
+Cardiac catheterization
+Dialysis
+
+
+History of Present Illness:
+67yo female with CAD, DMII, ESRD who was initially admitted for
+SOB on [**2196-10-4**].  Pt complained of increased SOB after dialysis
+and was transferred to the MICU for closer monitoring of
+respiratory status.  CXR was consistent with CHF and ECG showed
+signs of mild ST depression in I, aVL and poor R wave
+progression.  Pt ruled in for NSTEMI with CK peak of 207 and
+trop peak of 2.22 while in the MICU.  Pt denied CP,
+palpitations, SOB.
+
+Past Medical History:
+DM II
+ESRD - on HD T, Th, S
+CAD s/p NSTEMI [**10-8**], s/p LAD stent, LCx stent at [**Hospital1 2025**] on [**10-5**]
+uremic pericarditis
+tamponade s/sp pericardiocentesis 2'[**93**]
+thyroid nodule
+tachyarrythmia
+R arm AVG s/p thrombectomy
+
+Social History:
+Primarily Italian speaking women who lives by herself.  Daughter
+comes to visit 3-7x/week and patient also has son who is
+involved and may take her in.  Remote smotking history.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+PE:
+VS: T: 97.9   BP: 147/53   HR: 65   RR: 20   SaO2: 98% on 4L
+Gen: pleasant elderly women in NAD
+HEENT: Pupil unequal, dysconjugate gaze with R eye.  mmm
+Neck: supple, no LAD, JVP approximately 7cm
+CV: RRR, III/VI SEM at apex
+Chest: crackles half way up chest/back bilaterally
+Abd: soft, NT, ND, BS+
+Ext: trace to 1+edema to shins, 2+ pedal pulses, skin warm to
+touch, no rashes
+
+
+Pertinent Results:
+[**2196-10-4**] 09:10PM   GLUCOSE-230* UREA N-27* CREAT-4.9*#
+SODIUM-144 POTASSIUM-5.3* CHLORIDE-104 TOTAL CO2-24 ANION
+GAP-21*
+[**2196-10-4**] 09:10PM   WBC-11.7* RBC-3.33* HGB-9.5* HCT-30.8* MCV-92
+MCH-28.4 MCHC-30.7* RDW-15.8*
+[**2196-10-4**] 09:10PM   CK(CPK)-79
+[**2196-10-4**] 03:20AM   CK(CPK)-35
+[**2196-10-4**] 09:10PM   cTropnT-0.39*
+[**2196-10-4**] 11:40AM   cTropnT-0.30*
+[**2196-10-4**] 03:20AM   cTropnT-0.32*
+
+[**2196-10-5**] Echo:
+LVEF 30%
+"The left atrium is moderately dilated. Left ventricular wall
+thicknesses and cavity size are normal. There is moderate global
+left ventricular hypokinesis with near akinesis of the inferior
+and inferolateral walls. [Intrinsic left ventricular systolic
+function may be more depressed given the severity of valvular
+regurgitation.] Right ventricular cavity size and systolic
+function are normal. The aortic valve leaflets (3) are mildly
+thickened but not stenotic. Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. At least
+moderate to severe (3+) mitral regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+Compared with the prior report (tape unavailable for review) of
+[**3-/2188**], the findings are new."
+
+[**2196-10-6**] Cardiac Catheterization:
+"INDICATIONS FOR CATHETERIZATION:
+Coronary artery disease, Canadian Heart Class , unstable. Prior
+PTCA
+[**2193**]. Drop in echocardiolographic ejection fraction in the
+setting of
+elevated cardiac troponin levels.
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Elevated right-sided filling pressure.
+3. Successful stenting of the LAD.
+COMMENTS:
+1. Selective coronary angiography demonstrated a right dominant
+system
+with three vessel coronary disease. The LMCA had a 40% ostial
+stenosis
+with damping. The LAD had a hazy ostial 70% stenosis, 50% mid,
+and 60%
+mid to distal lesions. The LCX artery had diffuse 40% proximal
+and 95%
+OM2 lesions. The RCA had 50%, 50% RCA, 50% mid to distal, 60%
+distal,
+and 80% diffusely diseased PDA.
+2. Limited resting hemodynamics revealed elevated right-sided
+filling
+pressures (PCWP mean 28 mmHg), borderline pulmonary hypertension
+(PA
+mean 40 mmHg)
+3. Left ventriculography deferred.
+4. Successful PTCA and stenting of the ostial LAD with a 2.5 mm
+Cypher
+drug-eluting stent, which was post-dilated to 3.0 mm."
+
+
+Brief Hospital Course:
+A/P: 67yo female with CAD s/p MI, DMII with ESRD presents with
+acute onset SOB after dialysis who ruled in for NSTEMI with CK
+peak of 207 and troponin peak of 2.22.
+
+SOB: The patient received a portable Echo in the MICU which
+showed new changes with "moderate global left ventricular
+hypokinesis with near akinesis of the inferior and inferolateral
+walls" and an EF of 30%.  The patient was brought to the cath
+lab on [**2196-10-7**] where the patient was shown to have three vessel
+coronary artery disease with elevated right-sided filling
+pressure.  The patient subsequently underwent successful
+stenting of the LAD and was brought to the floor.  On the floor,
+the patient was monitored on telemetry for 48 hours without
+incident.  The patient was without complaints and
+hemodynamically stable on discharge to the care of the son where
+she will live with the support of the daughter in law.
+
+ESRD: The patient received HD according to her regular schedule
+of T, Th and S.
+
+DM: The patient was maintained on her home regimen while on the
+floor.  This was not an active issue.
+
+
+Medications on Admission:
+Home:
+ASA
+Plavix
+Lipitor
+Isordil
+Losartan
+Norvasc
+Metoprolol
+Coumadin
+Protonix
+Renagel
+Humilin
+
+On Transfer from MICU:
+SSI, NPH 30/8
+Plavix 75mg once daily
+Renagel 800mg [**Hospital1 **]
+Protonix
+Lipitor 40mg once daily
+ASA EC
+Klonipin
+Nephrocaps
+Colace
+Phosphorous
+Reglan
+Atrovent
+Captopril 6.25mg TID
+Metoprolol 37.5mg TID
+
+Discharge Medications:
+1. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed).
+Disp:*15 Tablet, Sublingual(s)* Refills:*2*
+2. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+4. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QD (once a day).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO QD (once a day).
+Disp:*30 Cap(s)* Refills:*2*
+7. Calcium Acetate 667 mg Tablet Sig: Two (2) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet(s)* Refills:*2*
+8. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3
+times a day).
+Disp:*135 Tablet(s)* Refills:*2*
+9. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+Disp:*90 Tablet(s)* Refills:*2*
+10. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+Disp:*90 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Primary: NSTEMI (3v CAD)
+Secondary: ESRD, CHF, DM
+
+
+Discharge Condition:
+fair
+
+Discharge Instructions:
+Please follow up with your PCP.
+
+If you feel any pain or discomfort in the chest please stop what
+you are doing and inform your PCP.
+
+Please be carefule with injuries as you are being anticoagulated
+(blood thinned), if you encounter any episode with blood in
+urine, stool, or bleeding elsewhere please inform your PCP.
+
+Please adhere to low salt diet. If you notice any weight gain >5
+lbs or encounter periods of increased shortness of breath please
+inform your PCP.
+
+Followup Instructions:
+Please follow up with your PCP within two weeks.
+
+Please follow up with your cardiologist within 2 weeks.
+
+Continue dialysis as per your usual routine.
+
+
+
+Completed by:[**2196-10-11**]

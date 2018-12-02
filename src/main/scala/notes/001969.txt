@@ -1,0 +1,141 @@
+Admission Date:  [**2198-5-8**]              Discharge Date:   [**2198-5-11**]
+
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1556**]
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+Percutaneous cholecystostomy
+Exploratory laparotomy, cholecystectomy, hemodialysis catheter
+placement
+
+History of Present Illness:
+Mr. [**Known lastname 19442**] was an 88 year old man who presented to [**Hospital1 18**] [**Location (un) 620**]
+with 2 days of right sided abdominal pain.  He was transferred
+to [**Hospital1 18**] [**Location (un) 86**] for testing and evaluation of this pain, which
+he decribed as sharp and constant in the right upper and lower
+quadrants.  He denied stool changes, nausea, and vomiting.
+
+Past Medical History:
+- s/p MI in [**2167**] Tx medically
+- DM - glucotrol and diet control 120-200s at home
+- HTN
+- CAD
+- dyslipidemia
+- s/p R CEA in [**2191**] (by Dr. [**Last Name (STitle) **]-patient says he was
+asymptomatic, but notes indicate prior TIA
+- CRI 2.9; [**2196-1-17**] ARF/CRI with Cr to 5.4 -> 2.2 with IVFs; Dr.
+[**Last Name (STitle) 33568**] - nephrologist following, unclear etiology.
+- hyperPTH - most likely [**1-19**] to CRI/ARF,
+- anemia, ? GI bleed with full ASA. Pt also started on Epo while
+as inpatient during his admission in [**Month (only) 205**].
+- MM, per patient, followed by Dr. [**Last Name (STitle) 33569**], his heme/onc Md [**First Name8 (NamePattern2) **] [**Location (un) 33570**].
+
+
+Social History:
+Former smoker-quit [**2167**], 4 cigarettes per day x 40 years. 1
+scotch per day. NO IVDU or recreational drugs.
+
+Family History:
+No hx of MI, CAD, CVA, DM, HTN
+
+
+Physical Exam:
+T 100.6/98.9 P 75, BP 138/61, RR 26, Sat 97 on 4L NC
+Decreased breath sounds at the bases bilaterally
+Heart rate regular
+Abdomen mildly distended and tympanitic.  Right upper and lower
+quadrant tenderness to mild palpation with guarding.
+Rectal exam with normal tone, brown, trace heme-positive stool.
+
+Pertinent Results:
+[**5-8**] RUQ U/S: Findings most consistent with acute cholecystitis,
+as discussed with General Surgery houseofficer, and posted to
+the ED dashboard, at the time of dictation
+
+[**5-8**] CT Abdomen/Pelvis: 1. Inflammatory process involving the
+right upper abdomen as described, which appears more likely
+centered on a distended gallbladder with sludge and stones,
+rather than on the ascending colonic diverticula, though there
+is a spastic-appearing colonic segment in the vicinity.
+2. Evidence of chronic pancreatitis with calcifications and
+atrophy.
+3. No evidence of inflammatory process in the right lower
+abdomen.
+4. Extensive vascular calcification with no aneurysms seen.
+5. Small-moderate right pleural effusion with basilar
+atelectasis.
+
+[**5-10**] Cholecystostomy: Successful ultrasound-guided percutaneous
+cholecystostomy tube placement. 200 cc of bilious fluid was
+aspirated, a portion which was sent for microbiology.
+
+[**5-11**] RUQ U/S: Large biloma in gallbladder fossa with
+decompressed gallbladder with thickened, ruptured wall. Findings
+including possible percutaneous drainage of the biloma were
+discussed with Dr. [**Last Name (STitle) **] by Dr. [**Last Name (STitle) **] at completion of
+examination
+
+[**5-11**]: CT Abdomen/Pelvis: 1.Compared to prior CT from [**2198-5-8**],
+there is increased eccentric fluid collection adjacent to the
+anterolateral aspect of the gallbladder fundus with marked
+pericholeycstic stranding, concerning for rupture. In addition,
+since the prior exam, the patient has developed increased
+peripancreatic stranding, which may be related to the
+gallbladder, however, an acute pancreatitis cannot be entirely
+excluded. No pancreatic ductal dilatation or stone within the
+duct is identified. Recommend correlation with pancreatic
+enzymes.
+2. Bilateral ground-glass opacity and pleural effusion with an
+area of consolidation within the right lung base.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 19442**] was admitted to [**Hospital1 18**] under the care of Dr. [**Last Name (STitle) **]
+and cared for in the Trauma SICU.  He and his wife initially
+declined surgery and cholecystostomy tube; he ultimately did
+receive cholecystostomy tube once his status declined.   This
+was performed on HD3.  He became anuric with an elevated lactate
+after placement of this drain, receiving 8 L of IV fluids, and
+forming only 500 cc of urine despite lasix.  His blood pressure
+dropped, and he required increasing amounts of Levophed.  He was
+then intubated for increased work of breathing.  On HD4, Mr.
+[**Known lastname 19442**] was brought ot the operating room by Dr. [**Last Name (STitle) **] for an
+exploratory laparotomy, cholecystectomy, and hemodialysis line
+placement.  Details of this procedure may be found in his
+operative note.  Postoperatively, he became hypotensive and
+developed pulseless electrical activity.  After 60 minutes of
+resuscitation, he recovered a perfusing rhythm.  The patient's
+family was notified, and the decision was made to change his
+code status to DNR.  At 1802, his code status was changed to
+CMO, and he soon expired after pharmacologic supports were
+withdrawn.
+
+Medications on Admission:
+Lasix, lipitor, toprol, plavix, gl;ipizide, isosorbide
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Acute cholecystitis
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+None
+
+Followup Instructions:
+None
+
+

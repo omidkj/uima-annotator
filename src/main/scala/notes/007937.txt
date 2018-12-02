@@ -1,0 +1,262 @@
+Admission Date:  [**2193-5-15**]              Discharge Date:   [**2193-5-24**]
+
+Date of Birth:  [**2113-11-17**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+R sided weakness, L eye visual complaints
+
+Major Surgical or Invasive Procedure:
+intubated [**2193-4-15**]
+
+History of Present Illness:
+Code stroke: 1203
+Neurology at bedside: 1208
+
+Initial NIHSS at (12:13): 0
+
+iv-tPA exclusion criteria: (x) minor or rapidly resolving
+symptoms (NIHSS <4)
+
+At [**Hospital1 18**] ED:  FSBS 132/85, SBP 101.
+
+Mr [**Known lastname **] is a 79 yo RH man with history of afib on coumadin
+who presents with episode of right sided arm weakness and left
+eye amaurosis starting around 9:00 am today.
+
+His wife found him in the closet saying "I cant make it". He
+also
+complained of difficulty
+seeing with his left eye. His speech was normal. His wife did
+not
+notice a facial droop or a limp limb at the time.  She called
+911
+and he was brought to an OSH.  Once there, his wife explains
+that
+he had trouble lifting up the right arm and in writing his name.
+
+Unfortunately, she was not certain about the duration of this
+symptoms.
+
+Once in the ED at [**Hospital1 18**] his MS [**First Name (Titles) **] [**Last Name (Titles) 66268**]. We checked his
+FSG
+and it was 60. He received D50 and with a FSG of 180 he remained
+confused. There was no eye deviation, no tonic-clonic shaking or
+posturing. He
+was not following commands, though. He received ativan 1 mg and
+his MS did not improve. He has been waxing and [**Doctor Last Name 688**] during
+three different examinations with me and then Drs. [**Last Name (STitle) **] and
+[**Name5 (PTitle) **].
+
+He received ativan 1 mg iv in the ED without response while
+undergoing a period of AMS. His VS did not change.
+Eventually, the ED team decided to ETT him to protect his
+airway.
+
+
+Past Medical History:
+Strokes (+): left frontal subclinical, CHF, AF, HTN (+),
+CAD (-) ,
+DM (-), HLD (-), OSA (-)
+Seizures (-), migraine (-), CNS tumors (-)
+
+
+Social History:
+Lives with his wife
+Exercises  (-)
+[**Name2 (NI) 1139**] (-)
+ETOH (-)
+Drugs (-)
+
+
+Physical Exam:
+PE: BP 115/60  HR 55 intermittently in 40s. Afebrile. RR 16 SO2
+100%
+Gen: Lying in bed, NAD.
+HEENT: NC/AT, moist oral mucosa
+Neck: supple, no carotid or vertebral bruit
+Back: No point tenderness or erythema
+CV: Nl S1 and S2, no murmurs/gallops/rubs
+Lung: Clear to auscultation bilaterally
+Abd: Soft, nontender, non-distended.  No masses or megalies.
+Percussion within normal limits. +BS.
+Ext: no edema, no DVT data. Pulses ++ and symmetric.
+.
+MS:  Awake, alert, his orientation fluctuated: Initially he knew
+he
+was at hospital and that it was 5/ [**2193**], however at other
+moments
+he could not provide this information.
+Followed two step commands with difficulty. He did perform
+simple axial commands like showing a fingers or a thumb bl.
+He was able to do DOW backwards.
+
+Naming: Normal for high frequency objects but impaired for low
+frequency objects. Prosody and repetition were normal. He could
+read.
+
+CN:
+I: not tested
+II,III:  VFF to confrontation, PERRL 3mm to 2mm,  fundus w/o
+papilledema. No red desaturation.
+III,IV,VI: EOMI, no ptosis. No pathological nystagmus. Normal
+pursuit. Optokinetoc nystagmus: intact
+V:  sensation intact V1-V3 to LT.
+VII:  Facial strength intact/symmetrical
+VIII:  hears finger rub bilaterally
+IX,X:  palate elevates symmetrically, uvula midline
+[**Doctor First Name 81**]:  SCM/trapezeii [**5-8**] bilaterally
+XII:  tongue protrudes midline, no dysarthria
+.
+
+Motor:
+Normal bulk.
+Tone: normal.
+No tremor, no asterixis or myoclonus. No pronator drift:
+.
+       Delt;C5 bic:C6 Tri:C7 Wr ext:C6 Fing ext:C7
+Left    5      5       5       5          5
+Right   5      5       5       5          5
+.
+        IP: Quad:  Hamst: Dorsiflex: [**Last Name (un) 938**]:Pl.flex
+Left    5      5      5           5          5
+Right   5      5      5           5          5
+.
+Deep tendon Reflexes:
+.
+       Bicip: Tric: Brachial: Patellar:  Achilles   Toes:
+Right   2        2         2     2         0       mute
+Left    2        2         2     2         0     DOWNGOING
+.
+Sensation: unable to assess, except fro proper withdrawal from
+pain when his MS is normal. .
+Coordination:
+*Finger-nose-finger normal.
+*Fine finger tapping: normal.
+
+1a LOC =0
+1b Orientation = 0
+1c Commands = 0
+2 Gaze = 0
+3 Visual Fields =0
+4 Facial Paresis =  0
+5a Motor Function R UE = 0
+5b Motor Function L UE= 0
+6a Motor Function R LE= 0
+6b Motor Function L LE= 0
+7 Limb Ataxia =  0
+8 Sensory perception =  0
+9 Language = 0
+10 Dysarthria =  0
+11 Extinction/Inattention = 0
+
+TOTAL = 0
+
+
+Pertinent Results:
+[**2193-5-16**] 01:58AM BLOOD WBC-13.5*# RBC-4.41* Hgb-14.4 Hct-42.2
+MCV-96 MCH-32.6* MCHC-34.1 RDW-14.4 Plt Ct-109*
+[**2193-5-17**] 02:35AM BLOOD WBC-11.6* RBC-3.85* Hgb-12.6* Hct-36.0*
+MCV-94 MCH-32.8* MCHC-35.1* RDW-14.2 Plt Ct-88*
+[**2193-5-17**] 06:17AM BLOOD WBC-11.2* RBC-4.08* Hgb-12.7* Hct-38.1*
+MCV-94 MCH-31.1 MCHC-33.2 RDW-14.2 Plt Ct-92*
+[**2193-5-16**] 01:58AM BLOOD Glucose-105* UreaN-20 Creat-1.4* Na-138
+K-4.5 Cl-103 HCO3-22 AnGap-18
+[**2193-5-17**] 02:35AM BLOOD Glucose-176* UreaN-14 Creat-1.3* Na-138
+K-3.6 Cl-106 HCO3-24 AnGap-12
+[**2193-5-16**] 01:58AM BLOOD ALT-33 AST-49* LD(LDH)-373* CK(CPK)-125
+AlkPhos-67 TotBili-1.7*
+[**2193-5-15**] 12:20PM BLOOD cTropnT-0.03*
+[**2193-5-16**] 12:59PM BLOOD CK-MB-NotDone cTropnT-0.05*
+
+Imaging:
+
+CT [**2193-5-15**]:
+HEAD CT: There is no intracranial hemorrhage, mass effect, shift
+of midline
+structures, or edema. Left frontal cortical and subcortical
+hypodensity is
+consistent with a chronic infarct. Left occipital hypodensity is
+of
+indeterminate age (2T:11). The ventricles and cerebral sulci are
+prominent,
+compatible with age-related volume loss. Periventricular areas
+of
+hypoattenuation likely reflect chronic small vessel ischemic
+disease.
+
+The visualized paranasal sinuses and mastoid air cells are
+normally
+pneumatized and aerated. There are no concerning osseous
+lesions.
+
+CTA NECK AND HEAD: Anatomy of the aortic arch is standard. The
+origins of
+the vertebral arteries and common carotid arteries are patent.
+The right and
+left common carotid arteries are patent, with calcifications at
+the
+bifurcations. The right common carotid artery is patent
+throughout its
+course, with calcifications predominantly at the bifurcation.
+The right
+common carotid artery measures 5mm at the skull base and 4.5mm
+at the at the
+bifurcation.
+
+The left common carotid artery is occluded, with tapering
+stenosis
+approximately 1 cm distal to the bifurcation, extending to the
+level of its
+terminus, where it is reconstituted through the circle of
+[**Location (un) 431**]. The axial
+source images suggest an intimal flap raising the possibility of
+underlying
+spontaneous dissection. The left external carotid artery
+contains thrombus
+and is virtually occluded approximately 3.5cm from the common
+carotid
+bifurcation (4:187).
+
+There are calcifications at the origins of the right and left
+vertebral
+arteries, which are normal in caliber throughout their course,
+without
+flow-limiting stenosis. The right vertebral artery is dominant,
+but both
+vertebral arteries contribute to the basilar artery.
+
+The circle of [**Location (un) 431**] is patent, including patent middle,
+anterior and
+posterior cerebral arteries, bilaterally. No aneurysm larger
+than 2 mm is
+detected. Calcifications of the cavernous segments of the
+internal carotid
+arteries, right greater than left are mild.
+
+The paranasal sinuses and mastoid air cells are normally
+pneumatized and
+aerated. There are no concerning osseous lesions.
+
+Mediastinal and hilar lymphadenopathy is incompletely imaged.
+The largest
+included lymph node, in the precarinal station, measures 2.3 cm
+x 1.3 cm. The
+lung apices are clear.
+
+IMPRESSION:
+1. No intracranial hemorrhage or edema. Chronic left frontal
+infarct. Left
+occipital infarct, age indeterminate. N.B. CT perfusion images
+could not be
+processed due to patient motion.
+2. Tapered occlusion of the left internal carotid artery from 1
+cm distal to
+the bifurcation to the level of its terminus; this may be acute,
+and the
+mo

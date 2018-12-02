@@ -1,0 +1,182 @@
+Admission Date:  [**2145-7-19**]              Discharge Date:   [**2145-7-25**]
+
+
+Service: MEDICINE
+
+Allergies:
+Acetaminophen
+
+Attending:[**First Name3 (LF) 3326**]
+Chief Complaint:
+Shortness of breath, fever
+
+Major Surgical or Invasive Procedure:
+Intubation with mechanical ventilation; central venous line
+placement
+
+
+History of Present Illness:
+[**Age over 90 **] y/o F with PMHx of Afib, HTN, PNA in [**3-24**] who presented with
+shortness of breath and fevers.  Per NH report, pt at baseline
+is very independent but was feeling unwell on sunday evening,
+without specific complaints.  Temp was 99.1 and pt did not
+receive Tylenol due to allergy but po intake was encouraged.
+Per pt's daughter, she may have received 2 tylenol at that time.
+She ate breakfast well this am but had some shortness of breath
+while walking back to her room after being weighed.  She also
+had some urinary incontinence at that time.  Vitals were 98.6,
+158, 180/100, 30 with 80-88% sats on 3L NC and EMS was called.
+.
+She was transported to the [**Hospital1 18**] ED with vitals 190/83, 144, 30
+98% on NRB.  Monitor showed sinus tach, and EMS exam found
+crackles in lower lung fields with wheezing in upper lung
+fields.  Pt was tachypneic and sating in the low 80s on arrival
+to the ED.
+
+
+Past Medical History:
+Paroxysmal Atrial Fibrillation
+Hypertension
+Malnutrition
+General Weakness
+h/o Cdiff colitis [**3-25**]
+h/o CAP prior to c diff ("breathing problem" in [**3-25**] per
+daughter)
+
+Social History:
+Pt lives at [**Hospital3 2558**] and at baseline is independent of
+ADLs
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Physical exam at discharge:
+Vitals: T: 97.3 BP: 118/42 P: 97 R: 18 Sats 94% on RA
+General: not following commands, sedated
+HEENT: Sclera anicteric, dry MM, pupils pinpoint but reactive
+Neck: supple, JVP not elevated, no LAD
+Lungs: bilateral inspiratory rales, no wheezes appreciated
+CV: RRR, normal S1 + S2, no murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present
+Ext: cool, 1+ pulses, no clubbing, cyanosis or edema
+
+Pertinent Results:
+labs at admission [**2145-7-19**]:
+WBC-22.0* RBC-3.85* Hgb-12.0 Hct-35.9* MCV-93 MCH-31.1 MCHC-33.3
+RDW-14.3 Plt Ct-311
+Neuts-69 Bands-11* Lymphs-14* Monos-6 Eos-0 Baso-0 Atyps-0
+Metas-0 Myelos-0
+PT-11.0 PTT-26.2 INR(PT)-0.9
+Glucose-257* UreaN-29* Creat-1.1 Na-134 K-5.0 Cl-99 HCO3-20*
+AnGap-20
+ALT-64* AST-80* CK(CPK)-50 AlkPhos-128* Amylase-80 TotBili-0.9
+CK-MB-NotDone cTropnT-0.02*
+Calcium-8.4 Phos-4.0 Mg-2.3
+calTIBC-130* Ferritn-328* TRF-100*
+Cortsol-116*
+.
+Labs prior to discharge:
+WBC-10.9 RBC-3.00* Hgb-8.9* Hct-27.9* MCV-93 MCH-29.5 MCHC-31.8
+RDW-14.2 Plt Ct-298
+Glucose-219* UreaN-16 Creat-0.6 Na-136 K-4.5 Cl-108 HCO3-20*
+AnGap-13
+CK-MB-5 cTropnT-0.04*
+Calcium-7.4* Phos-2.8 Mg-1.8
+.
+Micro:
+MRSA positive
+Sputum cx: no growth
+BCx [**2145-7-19**]: NGTD
+UCx: no growth
+Urine legionella: negative
+.
+CXr [**2145-7-22**]: Compared to the most recent study from approximately
+an hour ago, increased left perihilar opacity likely represents
+pulmonary edema or aspiration. Multifocal pneumonia as compared
+to yesterday shows decreased consolidation in the right lower
+lobe and unchanged consolidation in the left lower lobe.
+Biapical opacities are minimally worsened. There is improved but
+persistent small bibasal pleural effusions and atelectasis.
+Allowing for rotation, the cardiomediastinal silhouette is
+within normal limits. Extensive mural atherosclerosis of the
+aortic arch and descending aorta is unchanged. There is no
+pneumothorax.
+.
+EKG: sinus tachycardia with LVH and ST depressions seen
+inferolaterally.
+
+Brief Hospital Course:
+In the ED, initial vs were: T 97.1 P 140 BP 170/100 R 30 O2 sat
+99% on NRB. Pt was intubated for hypoxic respiratory distress
+and was given a total of 5L of NS IVF.  CXR revealed right lower
+lobe infiltrates and pt was given Levo, Ceftriaxone and Vanc.
+BP dropped  to 56/40 after intubation and pt was given narcan
+without any improvement.  A right subclavian was placed with CVP
+9-12 and levophed was started at 0.04 mcg/kg.  Initial ABG was
+7.33/45/136 on AC, FiO2% of 50, TV of 1200 and Lactate of 1.4.
+Pt was intubated and sedated on arrival to the ICU.  She was not
+following commands, gag response was present and she was still
+requiring low dose levophed.
+.
+# Hypoxic Resp Failure: Pt with fever and shortness of breath
+who presented in resp distress and was found to have multifocal
+infiltrates on CXR.  Per HCP, pt had recent PNA in 4/[**2144**]. Pt
+was started on vanc/zosyn/azithromycin for multifocal HAP (given
+nursing home setting) and atypical pneumonia. Sputum cultures
+were sent and remained negative for growth.  She likely
+sustained an NSTEMI with troponin peak of 0.25 in setting of
+hypoxic respiratory distress on admission.  Pt had difficulty
+maintaining MAP>65 and required intermittent pressor support.
+With no improvement in her condition, antibiotic coverage was
+expanded to include meropenem and ciprofloxacin. Pt continued to
+have difficulty being weaned from ventilator. Pt self-extubated
+twice and required re-intubation with increasing sedation
+requirements.  Goals of care were then discussed with the family
+given pt's lack of clinical improvement and her distress
+associated with intubation. Five days after admission, the
+family decided against escalation of care.  Ms. [**Known lastname **] was
+extubated and placed on comfort measures only. She expired from
+cardiopulmonary arrest at 5:47am on [**2145-7-25**].
+
+.
+# NSTEMI: Pt had elevated cardiac enzymes with troponin peak to
+0.25 before trending downwards. Pt was started on a statin and
+EKG changes resolved.
+
+
+Medications on Admission:
+Milk of Magnesia prn
+Bisacodyl prn
+Ultram prn
+Duoneb prn
+Senna prn
+Mag Oxide
+MIV
+Vitamin C
+Synthroid 50mcg daily
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+1. Cardiopulmonary arrest
+.
+2. Multifocal pneumonia
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+

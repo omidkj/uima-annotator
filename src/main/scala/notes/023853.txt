@@ -1,0 +1,191 @@
+Admission Date:  [**2125-6-20**]              Discharge Date:   [**2125-6-25**]
+
+Date of Birth:  [**2038-6-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Allergies/ADRs on File
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+shortness of breath
+
+REASON FOR MICU TRANSFER: acute hypoxemia, intubated and sedated
+
+Major Surgical or Invasive Procedure:
+[**2125-6-22**] - Flexible bronchoscopy with bronchoalveolar lavage
+
+History of Present Illness:
+This 84 year old male with COPD presents to [**Hospital1 18**] after being
+transferred from [**Hospital3 **], with hypoxemia.
+.
+Over the past several months, he has been admitted several times
+to [**Hospital6 3105**] and [**Hospital6 5016**] for
+shortness of breath at home. He has a known history of COPD - he
+has applied for oxygen however has not received approval for it
+yet. He has never been intubated in the past for COPD.
+.
+His current hospital course begins on [**6-3**] - when he
+presented to [**Hospital3 **] following worsening shortness of breath
+to the point where he was not able to get around at home. EMS
+was called requiring intubation in the field. He was treated for
+COPD flare and pulmonary edema in the setting of diastolic CHF.
+After two days, he was extubated. On [**6-7**] he had a CT scan which
+demonstrated extensive multifocal infiltrates in both lungs
+especially in right upper and middle lobe. He was started
+empirically on Vancomycin, Meropenem, and Levaquin. Following
+antibiotics course, his hypoxemia persisted along with
+radiographic abnormalities; he was treated with IV micafungin
+with concern for superimposed fungal infection (although no
+positive culture data). Doxycycline was started to cover
+atypical organisms. He was reintubated in the setting of
+persistent hypoxemia. However, he then developed hemoptysis;
+bronchoscopy revealed clotted blood in lungs but no fresh
+hemoptysis. He was reintubated. He was noted to be
+intermittently in afib, which his daughter states is new for
+him. He was transferred to [**Hospital1 18**] for further management.
+
+Past Medical History:
+Past Medical History:
+1. COPD
+2. Hypertension
+3. Chronic back pain
+4. GERD
+5. Anxiety
+6. Chronic kidney disease
+
+Social History:
+Patient lives at home with his wife. [**Name (NI) **] some assistance with
+ADLs. Denies tobacco use or alcohol use; no recreational
+substance use.
+
+Family History:
+non-contributory
+
+Physical Exam:
+ADMISSION EXAM (TO MICU):
+.
+VS: HR 72 sinus, BP 11/48, Spo2 98% on Pressure support
+Gen: Caucasian male, in no apparent distress
+HEENT: intubated, does not open eyes to voice (sedated)
+Cardiac: regular rate, nl S1/S2 no murmurs appreciable
+Pulm: lungs clear bilaterally
+Abd: soft, nontender nondistended
+Ext: No edema noted
+.
+DISCHARGE EXAM (DECEASED):
+.
+VITALS: Not applicable.
+CVS: No audible heart sounds and no visible chest rise.
+RESP: Absence of respiratory motion. No breath sounds.
+NEURO: No response to verbal or noxious stimuli.
+
+Pertinent Results:
+ADMISSION & PERTINENT LABS:
+.
+[**2125-6-21**] 04:58AM BLOOD WBC-14.7* RBC-2.98* Hgb-9.0* Hct-27.9*
+MCV-94 MCH-30.1 MCHC-32.1 RDW-16.7* Plt Ct-68*
+[**2125-6-22**] 07:39AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL
+Macrocy-NORMAL Microcy-NORMAL Polychr-OCCASIONAL
+[**2125-6-21**] 04:58AM BLOOD PT-12.7* PTT-24.3* INR(PT)-1.2*
+[**2125-6-21**] 03:11PM BLOOD FDP-10-40*
+[**2125-6-21**] 03:11PM BLOOD Fibrino-217
+[**2125-6-23**] 04:15PM BLOOD ESR-10
+[**2125-6-21**] 04:58AM BLOOD Glucose-170* UreaN-75* Creat-2.2* Na-153*
+K-3.2* Cl-113* HCO3-25 AnGap-18
+[**2125-6-21**] 03:11PM BLOOD ALT-22 AST-20 LD(LDH)-442* AlkPhos-40
+TotBili-1.2
+[**2125-6-21**] 04:58AM BLOOD Calcium-7.9* Phos-5.1* Mg-2.0
+[**2125-6-21**] 03:11PM BLOOD Hapto-<5*
+[**2125-6-23**] 03:02PM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2125-6-22**] 07:39AM BLOOD Vanco-20.0
+[**2125-6-21**] 03:32PM BLOOD Type-MIX pO2-37* pCO2-44 pH-7.38
+calTCO2-27 Base XS-0
+[**2125-6-22**] 07:21PM BLOOD Lactate-2.3*
+[**2125-6-22**] 07:21PM BLOOD freeCa-1.09*
+.
+DISCHARGE LABS:
+.
+[**2125-6-24**] 04:14AM BLOOD WBC-11.9* RBC-2.54* Hgb-7.6* Hct-24.4*
+MCV-96 MCH-30.1 MCHC-31.3 RDW-15.2 Plt Ct-51*
+[**2125-6-24**] 04:14AM BLOOD PT-15.8* PTT-29.1 INR(PT)-1.5*
+[**2125-6-24**] 03:55PM BLOOD Glucose-162* UreaN-60* Creat-2.2* Na-154*
+K-4.6 Cl-117* HCO3-8* AnGap-34*
+[**2125-6-24**] 03:55PM BLOOD Calcium-8.2* Phos-6.2* Mg-2.5
+.
+MICROBIOLOGY DATA:
+[**2125-6-22**] RAPID VIRAL RESPIRATORY SCREEN - culture pending
+[**2125-6-22**] BRONCHOALVEOLAR LAVAGE - 1+ PMNs, no organisms
+.
+IMAGING:
+[**2125-6-24**] CHEST (PORTABLE AP) - Bilateral asymmetrically
+distributed alveolar opacities affecting the right lung to a
+greater degree than the left have progressed in the interval,
+particularly in the right lower lung and left perihilar area.
+Observed findings could be due to clinically suspected pulmonary
+hemorrhage, but differential diagnosis is broad, including
+pulmonary infection and edema.
+Layering right pleural effusion has apparently increased in
+size.  No evidence of a left pleural effusion.
+.
+[**2125-6-20**] CHEST (PORTABLE AP) - The patient is intubated. The tip
+of the endotracheal tube projects approximately 2 cm above the
+carina. The tube could be pulled back by approximately 1 cm.
+there is moderate overinflation with bilateral perihilar
+opacities that could represent either centralized pulmonary
+edema or pneumonia. The moderate asymmetry of the changes, in
+particular the right lung predominance, weighting the
+differential diagnosis towards pneumonia rather than edema.
+Normal left internal jugular vein catheter. Normal position of
+the nasogastric tube, but the tip of the tube is not included in
+the image. Normal size of the cardiac silhouette with moderate
+tortuosity of the thoracic aorta. No pneumothorax. No larger
+pleural effusions.
+.
+PATHOLOGY:
+.
+[**2125-6-22**] BRONCHIAL WASHINGS - pending
+
+Brief Hospital Course:
+IMPRESSION: 86M with a PMH significant for COPD, HTN, CKD who
+presented with acute hypoxemic respiratory failure requiring
+multiple re-intubations occurring in the setting of presumed
+acute COPD exacerbation, acute on chronic diastolic congestive
+heart failure, multifocal pneumonia ([**Female First Name (un) 564**] and mold species)
+in the setting of alveolar hemorrhage complicated by atrial
+fibrillation with rapid ventricular response and acute on
+chronic renal insufficiency.
+.
+# ACUTE HYPOXEMIC RESPIRATORY FAILURE - Over the past several
+months, the patient had been admitted several times to [**Hospital3 12748**] and [**Hospital6 5016**] for shortness of
+breath while at home. He has a known history of COPD - he has
+applied for oxygen, however, has not received approval given
+insurance concerns. He has never been intubated in the past for
+COPD, or required ICU hospitalization.
+.
+He initially presented on [**6-3**] - to [**Hospital3 **] following
+worsening shortness of breath to the point where he was not able
+to get around at home. EMS was called requiring intubation in
+the field given his acute hypoxemia and labored respiratory
+status. He was treated for an acute COPD flare and cardiogenic
+pulmonary edema in the setting of known diastolic congestive
+failure with IV steroids, fluoroquinolone antibiotics and
+diuresis. Following 2-days of treatment, he was successfully
+extubated.
+.
+On [**2125-6-7**] he had a CT scan which demonstrated extensive
+multifocal pulmonary infiltrates in both lungs; especially in
+the right upper and middle lobes. He was started empirically on
+Vancomycin, Meropenem, and Levaquin. Following an antibiotic
+course, his hypoxemia persisted along with his radiographic
+abnormalities. At that point, his coverage was expanded to IV
+Micafungin with concern for superimposed fungal infection
+([**Female First Name (un) 564**] and non-specified mold speciating from [**2125-6-15**] BAL
+sample). Doxycycline was started to cover atypical organisms. He
+was reintubated in the setting of persistent hypoxemia, despite
+antibiosis and diuresis. Following his first re-intubation, he
+then developed hemoptysis and bronchoscopy revealed clotted
+blood in the lungs, but without fresh hemoptysis. Throughout
+this, he was noted to be intermittently in atrial fibrillation
+with a rapid ventricular re

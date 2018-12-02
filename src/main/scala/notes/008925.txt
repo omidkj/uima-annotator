@@ -1,0 +1,210 @@
+Admission Date:  [**2198-1-7**]              [**Year/Month/Day **] Date:   [**2198-1-11**]
+
+Date of Birth:  [**2139-5-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+58 year old male with PMH significant for diastolic heart
+failure, pulmonary hypertension and stage III CKD who presented
+from an outside hospital with respiratory distress, chest pain,
+fever, chills and cough.  He states he had been feeling ill for
+about one week with increasing difficulty breathing while at
+home.
+
+At the outside hospital, he was treated with both Lasix and a
+nitroglycerin drip.  He was admitted to the intensive care unit
+at [**Hospital1 18**] for further management.
+
+
+Past Medical History:
+Stage III chronic kidney disease (baseline creatinine 2.1)
+Cystinuria with a history of heavy stone burden (on longstanding
+penicillamine until 3 yrs ago)
+Cutis laxa secondary to penicillamine
+[**Last Name (un) 4584**] [**Location (un) **] Syndrome (thought to be secondary to
+penicillamine)
+Restrictive cardiomyopathy (diastolic CHF)
+Pulmonary hypertension
+Atrial flutter s/p AV node ablation (with postprocedure complete
+heart block requiring pacemaker placement)
+Pancreatic low grade, benign mucinous cystic neoplasm (LGBMC)
+Large bilateral renal cysts
+Small AAA
+Popliteal aneurysm
+hyperuricosuria
+restless leg syndrome
+GERD
+
+Social History:
+Works as a software engineer.  Is married with no children.
+Denies any smoking or drug history; uses rare alcohol.
+
+
+Family History:
+Several second-degree relatives with DM2.
+
+Physical Exam:
+Gen - awake, alert, NAD, no use of accessory muscles
+HEENT - OP clear
+Neck - Difficult to assess JVP given thickened neck; appears
+nml.
+CVS - RRR, no noted m/r/g
+Lungs - Decreased BS bilat w/ mild rales throughout lung fields
+
+Abd - soft, NT/ND.
+Ext - no LE edema b/l
+
+Pertinent Results:
+CXR - [**2198-1-7**]: There is a new airspace consolidation involving
+the left lung (mostly upper) consistent with pneumonia. The
+right lung is grossly unremarkable. A dual-lead pacemaker is
+seen with leads overlying the right atrium and right ventricle,
+unchanged since [**2197-10-25**]. There is no pneumothorax.
+
+CXR - [**2198-1-9**]:  A new airspace opacity has developed in the
+right lower lobe since the prior day. However, there has been
+considerable improvement in left upper and medial left lower
+lobe opacities. There are no effusions or pneumothorax. The
+heart is normal in size. Mediastinal contours are unchanged. A
+dual-lead pacemaker/ICD device is again noted.
+
+RENAL ULTRASOUND: Multiple cysts are seen within bilateral
+kidneys, the largest of which is located on the right and
+measures greater than 16 cm. Note is made of fullness of the
+right renal collecting system, similar to CT from [**2197-5-26**].
+The bladder is normal.
+
+Brief Hospital Course:
+Pt is a 58 yo man with PMH significant for a h/o HTN, diastolic
+CHF, pulm HTN who initially presented from [**Hospital3 3765**] in
+respiratory distress w/ evidence of pneumonia on CXR along w/
+pulm edema.
+.
+# Resp distress/pneumonia: The patient was originally admitted
+to the intensive care unit given his level of respiratory
+distress.  On admission, it was felt his shortness of breath was
+most likely due to pneumonia seen on CXR along w/ component of
+CHF especially given response to nitro gtt and Lasix while at
+[**Hospital3 **].  The patient also had AFib with RVR while in
+the intensive care unit, which was treated with IVF
+resuscitation.  The patient was also treated with CTX/azithro
+for a community acquired pneumonia.  He had a negative DFA for
+influenza.  He did not require intubation for his breathing, but
+initially did need a non-rebreather while in the unit.  He was
+maintained on nasal cannula while on the floor, with his oxygen
+requirement lessening each day, until he did not require oxygen
+while at rest.  His ambulatory saturation did hover around
+88-90% so he was sent home with portable oxygen until he is
+fully recovered from his pneumonia.
+
+He was discharged to complete a course of oral antibiotics to
+treat his community acquired pneumonia.
+.
+# Cardiac:
+A. Pump: The patient has a h/o diastolic CHF. He appeared to
+have component of failure contributing to resp status above
+given response to treatment of CHF which was likely contributed
+to by AFib w/ RVR.  He was treated with Lasix and beta-blcokade
+as needed.  He did require one additional dose of Lasix the
+morning after he was called out of the unit, but was then
+maintained on his home regimen without incident.  His captopril
+was held throughout this admission given his acute on chronic
+renal failture.  He was advised to restart his captopril at
+[**Hospital3 **].
+.
+B. Rhythm: Pt w/ h/o paroxysmal AFib and is not on coumadin due
+to problems w/ epistaxis. The patient was originally maintained
+on telemetry after leaving the ICU.  After remaining in sinus
+for >24 hours, telemetry was discontinued.  He remained in NSR
+after IVF resuscitation and resolution of fever.
+.
+C. Cor: The patient has no h/o CAD. He did have a slight
+troponin leak which was felt to be consistent with demand
+ischemia.  He was briefly on a heparin gtt, which was rapidly
+discontinued.  He was discharged to resume his ACE-I.
+.
+# Acute on chronic renal failure: The patient had an elevated Cr
+to 3.4 from baseline 2.1 which was likely due to infection. The
+patient was given IVF in the ED & ICU. He appeared euvolemic
+with mild pulmonary edema. His creatinine improved to his
+baseline.  The patient was continued on his sevelamer and
+calcitriol.
+.
+# HTN: The patient was continued on his outpt Lasix dose.  He
+was advised to restart his captopril and eplerenone after
+[**Hospital3 **].
+.
+# Hyperuricosuria: The patient was continued on his allopurinol.
+
+.
+# Restless leg: The patient was continued on his outpatient
+doses of Neurontin, Requip and oxycontin.
+.
+# Code: Full
+
+
+Medications on Admission:
+Furosemide 80 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Potassium Citrate 10 mEq Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO three times a day.
+Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3 times a
+day).
+Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet
+PO DAILY (Daily).
+Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO Q DAY AT 6PM ().
+Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO QPM PRN as needed.
+
+Magnesium Chloride 64 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO once a day.
+Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+Captopril 25 mg Tablet Sig: One (1) Tablet PO four times a day.
+
+Hexavitamin Tablet Sig: One (1) Cap PO DAILY (Daily).
+Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO
+DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Ropinirole 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID W/MEALS
+(3 TIMES A DAY WITH MEALS).
+Aciphex 20 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO twice a day.
+Eplerenone 25 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+[**Hospital3 **] Medications:
+1. Furosemide 80 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+2. Potassium Citrate 10 mEq Tablet Sustained Release Sig: One
+(1) Tablet Sustained Release PO three times a day.
+3. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3
+times a day).
+4. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+5. Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO Q DAY AT 6PM ().
+6. Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO QPM PRN as
+needed.
+7. Magnesium Chloride 64 mg Tablet Sustained Release Sig: One
+(1) Tablet Sustained Release PO once a day.
+8. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+9. Captopril 25 mg Tablet Sig: One (1) Tablet PO four times a
+day.
+10. Hexavitamin     Tablet

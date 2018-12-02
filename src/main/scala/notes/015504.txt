@@ -1,0 +1,237 @@
+Admission Date:  [**2114-8-6**]              Discharge Date:   [**2114-8-10**]
+
+Date of Birth:  [**2043-3-23**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Sulfa (Sulfonamides) / Iodine Containing Agents Classifier / Bee
+Sting Kit
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+septecemia
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+71M transferred from [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Hospital where he was admitted
+on [**8-4**] from home for fevers.  Admit Wc was 8 and there was a
+question of retrocardiac infiltrate by CXR. Blood cultures grew
+GPC in clusters.  Last HD was [**8-6**].
+
+Mr. [**Known lastname **] has had L foot ulcers since [**1-23**]. He developed left
+first toe gangrene.  He underwent revascularization of the left
+lower extremity on [**2114-6-25**].  This included a femoral
+endarterectomy and transluminal angioplasties.  His dry gangrene
+has been stable and we have been allowing it to demarcate before
+amputation.
+
+Past Medical History:
+PMH: PVD, claudication, CHF, MI [**07**], CRI (baseline 3.0-3.2), DM2,
+^chol, Gastroparesis, HTN, Depression, Glaucoma, legally blind
+PSH: R fem-[**Doctor Last Name **] bypass graft '[**04**], CABG x 5 '[**08**], Cholecystectomy,
+R 1st and 2nd toe amputation
+
+
+Social History:
+Lives with wife, HD 3x per week (MWF)
+
+
+Family History:
+N/C
+
+Physical Exam:
+Physical Exam: 98.6, HR 88 125/65 22 100% 2L
+General: follows commands
+NAD
+HENT: no carotid bruits
+Lungs: diminished bases
+Heart: RRR
+Abd: Protruberant, non-tender.
+Groin: L femoral incision has a small open area that does not
+appear infected and does not drain.
+Extremities: L AVF with palpable thrill.
+RLE: 1st and 2nd toe amputee, no edema
+LLE: edematous, nntp, gangrenous 1st toe, it does not appear to
+be infected, there is no drainage from the wound.  In the second
+toe, there is a superficial ulceration of the dorsal aspect of
+the second toe.  There is no surrounding erythema and no
+drainage.
+Pulses: Rad     Fem    DP   PT
+R       palp    palp   mono  x
+L       palp    palp   mono  x
+
+
+Pertinent Results:
+[**2114-8-8**] 09:04PM BLOOD
+
+Neuts-66.4 Bands-0 Lymphs-23.7 Monos-7.4 Eos-2.2 Baso-0.2
+
+[**2114-8-10**] 04:47AM BLOOD
+
+Plt Ct-117*
+
+[**2114-8-9**] 04:47AM BLOOD
+
+PT-29.1* PTT-40.7* INR(PT)-3.0*
+
+[**2114-8-10**] 04:47AM BLOOD
+
+Glucose-157* UreaN-37* Creat-6.9*# Na-144 K-4.1 Cl-101 HCO3-31
+AnGap-16
+
+[**2114-8-10**] 04:47AM BLOOD
+
+Calcium-8.9 Phos-5.3*# Mg-2.1
+
+[**2114-8-7**] 02:07PM
+
+URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.014
+URINE Blood-TR Nitrite-NEG Protein-100 Glucose-TR Ketone-NEG
+Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+URINE RBC-0-2 WBC-[**3-21**] Bacteri-FEW Yeast-NONE Epi-0-2
+URINE Sperm-FEW
+
+[**2114-8-6**] 9:54 pm BLOOD CULTURE      Source: Venipuncture.
+
+Blood Culture, Routine (Pending):
+
+[**2114-8-7**] 8:47 am STOOL     CONSISTENCY: FORMED
+
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2114-8-8**]):
+Negative x 2
+
+CXR
+
+FINDINGS: In comparison with study of [**6-26**], all of the various
+tubes have
+been removed. The globular cardiac silhouette is at the upper
+limits of
+normal in size or slightly enlarged. Some indistinctness of
+pulmonary vessels raises the possibility of elevated pulmonary
+venous pressure. No evidence of pleural effusion.
+
+Specifically, no evidence of acute focal pneumonia.
+
+US
+
+FINDINGS: The left common femoral, popliteal femoral, and
+superficial femoral demonstrates normal compressibility, flow,
+and augmentation without evidence of deep vein thrombosis.
+
+The left groin superior to the superficial femoral demonstrates
+a lobulated tubular 10.6 x 2.7 x 5.7 relatively hypoechoic
+structure without vascularity  on Doppler evaluation. Similar
+smaller hypoechoic focus was also noted in the  right groin.
+These could represent lymphoceles, and if further
+characterization is desired, a CT with contrast might be
+beneficial.
+
+IMPRESSION:
+
+1. No evidence of left lower extremity deep vein thrombosis.
+
+2. Bilateral groin demonstrates tubular hypoechoic structures
+without
+vascularity as described above and may represent lymphoceles. If
+further
+characterization is desired, correlation with a CT is advised.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.3 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.5 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.4 m/s
+Right Atrium - Four Chamber Length:  *5.9 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  0.7 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.3 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30% to 35%  >= 55%
+Left Ventricle - Lateral Peak E':  *0.06 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.04 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *18  < 15
+Aorta - Sinus Level:  2.9 cm  <= 3.6 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aorta - Arch:  3.0 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  1.6 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  0.9 m/sec
+Mitral Valve - A Wave:  0.5 m/sec
+Mitral Valve - E/A ratio:  1.80
+Mitral Valve - E Wave deceleration time:  *131 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *26 to 27 mm Hg  <= 25 mm Hg
+Pulmonic Valve - Peak Velocity:  0.9 m/sec  <= 1.5 m/sec
+
+Findings
+
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Dynamic
+interatrial septum.
+
+LEFT VENTRICLE: Normal LV wall thickness. Moderately dilated LV
+cavity. Moderate regional LV systolic dysfunction. Moderately
+depressed LVEF. TDI E/e' >15, suggesting PCWP>18mmHg.
+Transmitral Doppler and TVI c/w Grade II (moderate) LV diastolic
+dysfunction. No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Normal aortic arch diameter.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets. No masses
+or vegetations on aortic valve, but cannot be fully excluded due
+to suboptimal image quality. No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. No
+masses or vegetations on mitral valve, but cannot be fully
+excluded due to suboptimal image quality. Mild mitral annular
+calcification. Mild thickening of mitral valve chordae.
+Calcified tips of papillary muscles. Mild (1+) MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Physiologic TR. Borderline PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Thickened pulmonic valve
+leaflets.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor apical views.
+
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+Conclusions
+
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is
+moderately dilated. There is moderate left ventricular regional
+dysfunction with hypokinesis of the basal to mid inferolateral
+walls and basal to mid septum. Overall left ventricular systolic
+function is moderately depressed (LVEF= 30 %). Tissue Doppler
+imaging suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). Transmitral Doppler and tissue velocity imaging
+are consistent with Grade II (moderate) LV diastolic
+dysfunction. Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets are mildly thickened. No
+masses or vegetations are seen on the aortic valve, but cannot
+be fully excluded due to suboptimal image quality. There is no
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. No masses or vegetations are seen on the mitral
+valve, but cannot be fully excluded due to suboptimal image
+quality. Mild (1+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. There is borderline
+pulmonary artery systolic hypertension. The pulmonic valve
+leaflets are thickened. There is no pericardial effusion.
+
+IMPRESSION: Dilated left ventricle with regional dysfunction c/w
+CAD. Moderate diastolic dysfunction. Elevated left ventricular
+filling pressure. Mild valvular 

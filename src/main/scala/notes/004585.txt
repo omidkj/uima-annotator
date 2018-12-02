@@ -1,0 +1,228 @@
+Admission Date:  [**2184-3-10**]              Discharge Date:   [**2184-3-24**]
+
+Date of Birth:  [**2107-5-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Latex / Ativan / Xanax / Reminyl
+
+Attending:[**First Name3 (LF) 2485**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+Central venous line placement
+
+History of Present Illness:
+76 yo woman with end stage COPD s/p trach in [**2-3**] and on/off
+vent since, transferred here for fever and increased lethargy.
+She was recently discharged from hospital to [**Hospital 38**] Rehab on
+[**2-19**] after being weaned off vent. However, her mental status had
+remained very poor (barely responsive) for the past few week.
+She had to go back on vent a week ago due to worsening resp
+status. She has various bacteria growing out of her sputum,
+urine and blood. She has documented serratia and pseudomonas in
+sputum, serratia and coag negative staph in blood, and VRE and
+[**Female First Name (un) **] in urine. She has been treated with Amikacin and
+levofloxacin for the serratia infection and vancomycin for coag
+negative staph. However, she continued to deteriorate with the
+treatment and her family requested her to be transferred to
+hospital for evaluation. She came to [**Hospital1 18**] as [**Hospital **] Hosp didn't
+have an ICU bed.
+
+Past Medical History:
+1. End-Stage COPD
+2. Tracheostomy, intermittently vent dependent
+3. Dementia
+4. Type II Diabetes
+5. Coronary Artery Disease
+6. Congestive Heart Failure
+7. Chronic Renal Failure
+8. Atrial Fibrillation
+
+Social History:
+Has been at vent rehab over last year with intermittent
+hospitalizations.
+
+Family History:
+non contributory
+
+Physical Exam:
+VS. T96.2 82 146/47 PS10/5 350 18 0.5
+GENERAL: Minimally responsive,
+NECK: Right IJ
+CARDIOVASCULAR: S1, S2, [**Last Name (un) **], II/VI LUSB
+LUNGS: Soft, coarse sounds bilaterally
+ABDOMEN: Soft, NT, ND, obese, no rebound or guarding
+EXTREMITIES: [**3-4**]+ UE and LE edema
+NEURO: Awake, moving all four extremities, but not following
+commands, unable to cooperate with exam.
+
+
+Pertinent Results:
+CT HEAD W/O CONTRAST  [**2184-3-10**] 4:32 AM
+1) No acute intracranial abnormality visualized.
+2) Global brain atrophy, prominent in degree.
+3) Mild chronic small vessel ischemic infarcts.
+
+CT TORSO W/CONTRAST  [**2184-3-16**] 9:21 PM
+1. Diffuse soft tissue edema/anasarca.
+2. No focal fluid collections suggestive of abscess.
+3. Bilateral loculated pleural effusions.
+4. Gallstone without evidence of cholecystitis.
+5. Fat stranding surrounding the rectum, which seems
+disproportionate to the degree of edema, may represent
+inflammatory etiology, although evaluation of the pelvis is
+limited by metallic hardware within the hips.
+
+ECHO Study Date of [**2184-3-10**]
+The left atrium is normal in size. There is mild symmetric left
+ventricular
+hypertrophy. The left ventricular cavity size is normal. A focal
+wall motion abnormality cannot be fully excluded. Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets are mildly thickened. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild(1+) mitral regurgitation is seen. There is a
+trivial/physiologic pericardial effusion.
+
+[**2184-3-15**] 10:20 am SPUTUM      ENDOTRACHEAL.
+
+                            **FINAL REPORT [**2184-3-20**]**
+
+   GRAM STAIN (Final [**2184-3-15**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2184-3-20**]):
+      Due to mixed bacterial types ( >= 3 colony types) an
+abbreviated
+      workup will be performed appropriate to the isolates
+recovered from
+      this site.
+      OROPHARYNGEAL FLORA ABSENT.
+      WORK-UP PER DR [**First Name (STitle) **] ([**Numeric Identifier 59176**]).
+      SERRATIA MARCESCENS.    MODERATE GROWTH.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+         Trimethoprim/Sulfa sensitivity available on request.
+      STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA.    SPARSE
+GROWTH.
+         Trimethoprim/sulfa sensitivity confirmed by
+[**Doctor Last Name 3077**]-[**Doctor Last Name 3060**].
+      STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA.    MODERATE
+GROWTH.
+         Trimethoprim/sulfa sensitivity confirmed by
+[**Doctor Last Name 3077**]-[**Doctor Last Name 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             SERRATIA MARCESCENS
+                             |          STENOTROPHOMONAS
+(XANTHOMONAS) MALTOPH
+                             |          |
+STENOTROPHOMONAS (XANTHOMON
+                             |          |          |
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------    16 I
+CEFTRIAXONE-----------     8 S
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------     2 S
+LEVOFLOXACIN----------     1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN---------- =>128 R
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----                2 S      <=1 S
+
+[**2184-3-11**] 8:00 am CATHETER TIP-IV      Source: pic.
+
+                            **FINAL REPORT [**2184-3-13**]**
+
+   WOUND CULTURE (Final [**2184-3-13**]):
+      SERRATIA MARCESCENS.    >15 colonies.
+         Trimethoprim/Sulfa sensitivity available on request.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             SERRATIA MARCESCENS
+                             |
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------    16 I
+CEFTRIAXONE-----------     8 S
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------     2 S
+LEVOFLOXACIN----------     1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN---------- =>128 R
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----   <=1 S
+
+[**2184-3-10**] 12:40 am BLOOD CULTURE
+
+                            **FINAL REPORT [**2184-3-12**]**
+
+   AEROBIC BOTTLE (Final [**2184-3-12**]):
+      REPORTED BY PHONE TO [**Doctor First Name **] [**Doctor Last Name 10280**] @ 1720 ON [**2184-3-10**].
+      SERRATIA MARCESCENS.    FINAL SENSITIVITIES.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+         Trimethoprim/Sulfa sensitivity available on request.
+         SENSITIVE TO AMIKACIN <=2MCG/ML.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             SERRATIA MARCESCENS
+                             |
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------    16 I
+CEFTRIAXONE-----------     8 S
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------     2 S
+LEVOFLOXACIN----------     1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------    64 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------  =>16 R
+
+   ANAEROBIC BOTTLE (Final [**2184-3-12**]):
+      SERRATIA MARCESCENS.
+         IDENTIFICATION AND 

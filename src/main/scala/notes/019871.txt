@@ -1,0 +1,215 @@
+Admission Date:  [**2138-6-7**]              Discharge Date:   [**2138-6-12**]
+
+Date of Birth:  [**2053-12-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Verapamil / Iodine-Iodine Containing / Zoloft / Atenolol /
+Toprol XL / Norvasc / Pindolol / Zestril / Clonidine / Keflex /
+Meclizine / Wellbutrin / Penicillins / Erythromycin Base
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Lightheadedness
+Fast heart rate
+
+Major Surgical or Invasive Procedure:
+Cardioversion
+
+History of Present Illness:
+Ms [**Known lastname 31125**] is a 84F with paroxysmal atrial fibrillation s/p
+cardioversion x3 (last in [**2134**]), diastolic heart failure (EF
+>55% via echo in [**2134**]) admitted to the CCU for management of
+atrial fibrillation with rapid ventricular rate.
+.
+The patient noted a gradual onset of elevation in HR over the
+last 1-2 weeks when checking her daily BP and HR. Her typical
+HRs were in the 60s. In the last week, her HRs increased to the
+80s and her rhythm was also noted to be irregular from the
+monitor read. The morning of [**2138-6-7**] her HR was found to be in
+the 110s-120s which prompted presentation to the ED. During
+episodes of elevated rates, she reported feelings of dizziness,
+lightheadedness as well chest tightness localized to under the
+left arm.
+.
+Her lasix dose was increased from 20mg to 40mg daily for the
+last 3 days after reporting elevated BPs to cardiologists
+office.
+.
+She denied any associated nausea, vomiting and shortness of
+breath, localising symptoms or infection, subjective fevers,
+chills, abdominal pain, cough and diarrhoea.
+.
+On presentation to the ED, the patient was found to be in atrial
+fibrillation and triggered for HRs in the 140s. She received
+10mg IV dilt. She complained of dizziness and was found to be
+hypotensive with SBPs in the 80s. She received 1L of IVF and
+started on dilt ggt at a rate of 5mg/hr. EKG was consistent with
+rapid atrial fibrillation with mild ST depressions in the
+lateral leads. The first set of biomarkers were negative. She
+received ASA 325mg. Prior to transfer, her vital signs were as
+follows - HR: 129 in atrial fibrillation BP: 103/54 RR: 16
+O2sat: 99% on 2L.
+.
+On arrival to the CCU, the patient was without complaint. The
+lightheadness, dizziness and chest discomfort had largely
+resolved.
+.
+On review of systems, she denied any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. She denied recent fevers, chills or
+rigors. She denied exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems was notable for chest discomfort; but
+she denied paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+palpitations, syncope or presyncope.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: -Diabetes, -Dyslipidemia, +Hypertension
+2. CARDIAC HISTORY:
+- Diastolic congestive heart failure
+- Atrial fibrillation s/p cardioversion
+- CABG: None
+- PERCUTANEOUS CORONARY INTERVENTIONS: None
+- PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY:
+- COPD
+- Obstructive sleep-disordered breathing, mild - not on CPAP
+- Diverticulosis
+- Benign paroxysmal positional vertigo
+- Anxiety
+- Anemia
+- Hyponatremia
+- MSSA sepsis in [**2134-7-18**]
+- Pneumonia (~[**2132**])
+
+Social History:
+Occupation: Retired.
+Drugs: Denies.
+Tobacco: Quit smoking 16 years ago with 80 pack-year history.
+Alcohol: Social.
+Other: Lives alone; completes all ADLs, walks with a cane on
+left at baseline.
+
+Family History:
+- Father died of myocardial infarction in his 40s.
+- Mother died of congestive heart failure at 88.
+- Otherwise, no family history of arrhythmia, cardiomyopathies,
+or sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+On Admission:
+VS: HR 105 in Atrial Fibrillation BP 90/52mmHg RR 16 SpO2 98% on
+2LNC T 98.2
+GENERAL: Alert, oriented, NAD. Oriented x3. Mood, affect
+appropriate; speaking in full sentences without problem
+[**Name (NI) 4459**]: [**Name (NI) 12476**]. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. OP clear without
+exudates, lesions.
+NECK: Supple with JVP of 9cm cm, no LAD.
+CARDIAC: irreg, irreg, tachycardiac, normal S1, S2. No m/r/g. No
+thrills, lifts. No S3 or S4. JVD with + HJR
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Mild bibasilar
+crackles, R>L; no wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ DP dopp PT dopp
+Left: Carotid 2+ Femoral 2+ DP dopp PT dopp
+.
+On Discharge:
+VS: BP 110/80 mmHg 50-60s in NSR RR 16 SpO2 98% T 98.2
+GENERAL: Alert, oriented, NAD. Oriented x3. Mood, affect
+appropriate; speaking in full sentences without problem
+[**Name (NI) 4459**]: [**Name (NI) 12476**]. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. OP clear without
+exudates, lesions.
+NECK: Supple without JVD, no LAD.
+CARDIAC: RRR normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Mild bibasilar
+crackles, no wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ DP dopp PT dopp
+Left: Carotid 2+ Femoral 2+ DP dopp PT dopp
+
+Pertinent Results:
+Labs:
+On Discharge: [**2138-6-12**] 06:05
+ WBC   RBC   Hgb  Hct   MCV MCH   MCHC RDW  Plt Ct
+  7.4 3.73* 11.4* 33.4* 90   30.6 34.2  14.0 198
+.
+Glucose UreaN Creat Na   K  Cl HCO3 AnGap
+103       18   1.0  133 4.5 97  30   11
+.
+ALT AST   LD(LDH) CK(CPK) AlkPhos Amylase TotBili DirBili
+13   27   158      67        52             0.4
+.
+Ddimer: <150
+.
+TSH: 8.6
+Free T4: 6.0
+.
+Biomarkers:
+                  CK-MB      cTropnT proBNP
+[**2138-6-9**] 05:32      5       0.14
+ADDED CHEM 8:26AM
+[**2138-6-8**] 04:34     10       0.12
+[**2138-6-7**] 20:42      9       0.10
+[**2138-6-7**] 14:05              <0.013
+LIGHT GREEN TOP
+[**2138-3-22**] 19:45                      2686
+[**2138-3-22**] 18:30                      2742
+
+micro:
+[**2138-6-7**] 3:05 pm URINE     Site: CLEAN CATCH
+
+                            **FINAL REPORT [**2138-6-9**]**
+
+   URINE CULTURE (Final [**2138-6-9**]):
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION.
+
+Imaging:
+CHEST (PORTABLE AP) ([**2138-6-7**] 2:16 PM)
+The lungs are low in volume but clear. The cardiomediastinal
+silhouette, hilar contours, and pleural surfaces are normal. The
+aorta is unfolded with atherosclerotic calcification. No pleural
+effusion or pneumothorax is present. A circular opacity over the
+left upper lobe is likely external.
+.
+IMPRESSION:
+No acute intrathoracic process.
+.
+ECHO Portable TTE (Focused views) ([**2134-7-27**] 2:56:24 PM)
+The left atrium is moderately dilated. The estimated right
+atrial pressure is 5-10 mmHg. Left ventricular wall thickness,
+cavity size, and systolic function are normal (LVEF>55%). Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. Transmitral Doppler and tissue
+velocity imaging are consistent with normal LV diastolic
+function. Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets are mildly thickened. No
+masses or vegetations are seen on the aortic valve. There is no
+aortic valve stenosis. Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are structurally normal. No mass or
+vegetation is seen on the mitral valve. Trivial mitral
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is an anterior space which most
+likely represents a fat pad.
+.
+Compared with the prior study (images reviewed) of [**2134-7-14**],
+estimated pulmonary artery systolic pressures are now higher.
+There are no obvi

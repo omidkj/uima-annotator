@@ -1,0 +1,231 @@
+Admission Date:  [**2178-2-10**]              Discharge Date:   [**2178-2-11**]
+
+Date of Birth:  [**2133-10-18**]             Sex:   M
+
+Service: ORTHOPAEDICS
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 103861**]
+Chief Complaint:
+difficult to extubate
+
+Major Surgical or Invasive Procedure:
+left knee arthroscopy
+
+History of Present Illness:
+44 y/o male with PMH asthma, hypertension, GERD s/p L knee
+arthroscopy today for meniscal tear who now presents to [**Hospital Unit Name 153**]
+after difficulty extubating. [**Name (NI) 101830**], pt was initially
+given LMA but was converted to ETT intraoperatively secondary to
+?"floppy epiglottis". Pt could not be extubated successfully in
+the post-op period so pt was admitted to MICU overnight for
+continued ventilation overnight with plan to extubate in
+morning.
+Intraoperatively, pt was given 3200ccLR, transferred to [**Hospital Unit Name 153**] on
+propofol and versed, HD stable, on SIMV ventilation
+TV750/rate10/FIO250%/PEEP 5. ABG on that setting 7.33/51/98,
+lactate 3.8. CXR with R middle and lower lobe haziness with
+obscuring of R hemidiaphragm.
+
+
+Past Medical History:
+1. Asthma
+2. HTN
+3. GERD
+4. exploratory laparotomy following stab wound to abdomen
+
+Social History:
+pt is firefighter. denies IVDA, tob use. Occ EtOH.
+
+Physical Exam:
+T 96.4 BP 114/66 P75 R12 Sat 96-97%
+Vent SIMV 750/10/100%/5
+Gen: sedated, intubated
+HEENT: pupils pinpoint
+Neck: supple, JVD diff to assess given thick neck
+CV: RRR, no m/r/g
+Pulm: CTA anteriorly, no wheezing
+Abd: s/nt/nd hypoactive BS
+Ext: no edema, +2 DP pulses bilat, L knee with ice pack and foam
+immobilizer in place, mild serosanguinous drainage on gauze
+covering wound
+
+
+Pertinent Results:
+[**2178-2-10**]
+11:42p
+140  102  18 /     AGap=15
+------------- 150
+4.3  27  0.9 \
+Ca: 9.2 Mg: 2.0 P: 4.5
+
+           87
+8.2 \ 13.8 / 273
+    / 39.1 \
+
+ N:89.1 L:9.9 M:0.8 E:0 Bas:0.2
+
+PT: 13.0  PTT: 25.4  INR: 1.1
+
+[**2178-2-10**]
+11:33p
+pH7.36 pCO244 pO296 HCO326 BaseXS0 Type:ArtLactate:3.2
+
+CXR IMPRESSION:
+1. Satisfactory positioning of endotracheal tube.
+2. Right basilar opacity, which could reflect infiltrate versus
+aspiration.
+
+OPERATIVE REPORT
+
+[**Last Name (LF) **],[**First Name3 (LF) **] W.
+Signed Electronically by [**Last Name (LF) **],[**First Name3 (LF) **] on WED [**2178-2-11**] 7:31 AM
+
+Name:  [**Known lastname **], [**Known firstname **]              Unit No:  [**Numeric Identifier 103862**]
+
+Service:  ORT                     Date:  [**2178-2-10**]
+
+Date of Birth:  [**2133-10-18**]        Sex:  M
+
+Surgeon:  [**First Name11 (Name Pattern1) 1692**] [**Last Name (NamePattern4) 103863**], [**MD Number(1) 103864**]
+
+PREOPERATIVE DIAGNOSIS:
+1. Torn lateral meniscus left knee.
+2. Neuropathy with atrophy of the left quads and left calf.
+
+PRIMARY CARE PHYSICIAN:  [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD
+
+[**Known firstname **] presented with a magnetic resonance imaging scan dated
+[**2177-12-30**].  I reviewed that image. He has a thick tear of
+the lateral meniscus.  He has a positive [**Doctor Last Name 103865**].  The
+risks and benefits of arthroscopic for torn lateral meniscus
+were discussed and understood.  He is a firefighter from
+[**Location (un) **].
+
+[**Known firstname **] was brought to the outpatient Operating Room and
+induced under general anesthesia, prepped and draped in the
+usual manner.  The left lower extremity was outlined per his
+topographical landmarks.  A 4 mm stab wound was placed in the
+anterior lateral Hardy-[**Doctor Last Name **] triangle.  A 4 mm [**Doctor Last Name 79**]
+arthroscope, 30 degree lens, was inserted.  The knee was
+distended with saline.  High outflow cannula was placed
+superior and medial to the patella.  With transillumination a
+working portal was established in the anterior medial.
+
+There was marked synovitis within the knee and a very
+metaplastic fat pad that, with the ligamentum mucosum encased
+the entire ACL.  At this point the articular cartilage of the
+patella showed grade 3 changes particularly of the medial
+facet.  The trochlea just appeared age appropriate.  We
+performed a synovectomy along the medial gutter up under the
+inferior pole of the patella and down to the ligamentum
+mucosum.  This was lysed and then we resected the interior 60
+percent of the inflamed infrapatellar fat pad ([**Last Name (un) 75398**]
+lipoiditis) and continued the synovectomy up the lateral
+gutter which was impacted with synovium metaplasia.  Once the
+major synovectomy was completed, we were able to visualize
+the medial compartment.  The articular cartilage looked fine.
+The medial meniscus was lax and had loss of hoop tension,
+however, it was serially visualized on the inferior and
+superior surfaces and was intact.
+
+The anterior cruciate ligament was intact.
+
+In the modified figure-of-four position we found a radial
+tear right at the mid point of the lateral meniscus as well
+as a tear of the anterior [**Doctor Last Name 534**].  The meniscus was discolored
+and there was mucoid degeneration in the horizontal cleavage
+portion of the meniscal tear.  With a series of hand meniscal
+punches, we trimmed it back to a stable rim.  We then used
+the Mitek thermal radiofrequency wand for part of the more
+degenerate parts of the lateral meniscus.  This will give us
+more stability.  The knee was then copiously lavaged,
+vacuumed, reinspected, and no further mechanical derangement
+was noted.
+
+[**Known firstname **] tolerated the procedure well.  He had some asthmatic
+symptoms at the end and was taken to the Recovery Room
+intubated and on pulse oximeter and we will order an x-ray at
+the recommendations of the anesthesiologist.
+
+                        [**First Name11 (Name Pattern1) 1692**] [**Last Name (NamePattern4) 103863**], [**MD Number(1) 103864**]
+
+Dictated By:[**Last Name (NamePattern4) 103866**]
+
+Brief Hospital Course:
+1. s/p left knee arthroscopy - procedure went well. Will need to
+f/u with Ortho (Dr. [**Last Name (STitle) 13355**] as outpatient, scheduled already
+[**2-13**]. Ortho resident = [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 18732**] [**Telephone/Fax (1) 103867**], pager [**Numeric Identifier 56149**]
+
+2. Hypoxia/difficulty extubating - The patient had a difficult
+intraoperative course from respiratory standpoint and required
+conversion from LMA to ETT for "floppy airway" and was difficult
+endotracheal intubation. Unclear if pt may have aspirated during
+surgery or post-operatively given CXR findings, elevated
+lactate, and aspiration PNA vs pneumonitis may be contributing
+to difficulty weaning from vent.  He had stable ABG's overnight
+and RSBI of 24 and was extubated without difficuty the next
+morning with anaesthesia present.
+
+3. Elevated lactate - elevated, ranging between 3.2 to 3.9. Not
+acidotic and anion gap is 12. Unlikely sepsis/aspiration
+pneumonia as patient is clinically stable and afebrile without
+evidence of hypoperfusion.
+
+4. Asthma - No wheezes on exam.  Given albuterol MDIs Q4H
+through ventilator overnight but given normal PIP and plateau
+pressures unlikely asthmatic.
+
+5. GERD - PPI IV was continued.
+
+6. HTN - HCTZ was held
+
+
+Medications on Admission:
+HCTZ
+protonix
+albuterol prn
+ibuprofen prn
+
+Discharge Medications:
+HCTZ
+protonix
+albuterol prn
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day for 30
+days.
+Disp:*30 Tablet(s)* Refills:*0*
+Darvocet-N 100 100-650 mg Tablet Sig: 1-2 Tablets PO every [**3-4**]
+hours for 2 days: no more than 6 pills total per day.
+Disp:*12 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+left knee arthroscopy
+aspiration pneumonitis
+
+
+Discharge Condition:
+patient was frustrated that he had been intubated. He was
+eating, walking, drinking, and sats were good on room air.
+
+Discharge Instructions:
+Weight bearing on your legs as tolerated.
+
+Change knee dressing in 2 days and put band-aids over the
+incisions.
+
+You may shower in 5 days.
+
+Resume your home medications - protonix and HCTZ, plus take 1
+aspirin daily for the next 30 days.
+
+Return or call your doctor if you have fevers, chills, increased
+pain or other concerns.
+
+Followup Instructions:
+With Dr. [**Last Name (STitle) 133

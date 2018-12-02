@@ -1,0 +1,225 @@
+Admission Date:  [**2156-1-26**]              Discharge Date:   [**2156-1-30**]
+
+Date of Birth:  [**2099-9-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**Last Name (NamePattern1) 7539**]
+Chief Complaint:
+Chest Pain
+Acute ST-Elevation Myocardial Infarction
+
+Major Surgical or Invasive Procedure:
+1. Cardiac Catheterization with placement of 2 drug eluting
+stents to LAD
+
+
+History of Present Illness:
+Patient is a 56 yo Male with no known significant cardiac or
+medical history who first noted chest pain approximately three
+days prior to admission. According to the patient, he has never
+in his life experienced chest pain, with exertion or at rest.
+However, over the last three days the patient has experienced
+bouts of chest pain [**2160-5-26**] that were bandlike across his chest.
+This pain was not induced with exercise, was not easily
+reproducible, and would usually self terminate after
+approximately 30 minutes without specific intervention. The
+patient reported these episodes were unpredictable but not
+really increasing in frequency or intensity over the last three
+days. They were not associated with SOB, radiating pain or
+diaphoresis. Of note, yesterday a.m. the patient experienced a
+similar episode of pain that self terminated. He then drove to
+the gas station and while parked, reports he passed out across
+the front wheel for an unknown duration of time. This event was
+witnessed by a gas station attendant who called EMS. The patient
+denied associated chest pain, SOB, N/V with this event but did
+report some associated diaphoresis. The patient recovered from
+this event and despite urging from EMS, declined to go to the
+hospital and drove home. Early this a.m., around 2:00 a.m. the
+patient was woken with similar pain, but more severe than
+previous, now rated to be [**7-29**]. Again however the patient denied
+associated radiation, SOB, diaphoresis. The patient drove
+himself to [**First Name5 (NamePattern1) 745**] [**Last Name (NamePattern1) 66493**] where he was evaluated and found to be
+suffering an acute anterior MI.
+.
+ECG performed at NW was remarkable for atrial bigeminy with ST
+elevation in the precordial leads, most pronounced in V2-V4
+without any reciprocal depressions (largest, 3-4mm in V2-V3).
+Subsequent ECG revealed sinus bradycardia with rate of 57 bpm
+and persistent STE in V1-V5. At NW, patient was treated with:
+O2, ASA 324mg qd, Hep gtt, Metoprolol, SL NT and transferred to
+[**Hospital1 18**].
+.
+Allergies:
+PCN ?????? hives, fever
+.
+Review of Systems: Patient denies significant limitation at home
+physically. He reports he can walk one mile without pain or
+shortness of breath. Sleeps with one pillow, stable for years.
+Denies PND or significant DOE. Prior to three day stuttering
+course of chest pain as above, never suffered chest pain.
+
+Past Medical History:
+Obesessive Compulsive Disorder
+Depression
+Restless Leg Syndrome
+s/p appendectomy for perforated appendix - [**2142**]
+s/p strabismus surgical repair
+s/p trauma R wrist with median nerve injury
+
+Social History:
+The patient lives in [**Hospital1 **] with a roommate.  He does not work
+currently but receives disability due to his psychiatric
+diagnoses. Patient receives medicaid.
+Tobacco: 45 pack years, intermittently smoking currently
+Alcohol: 2-3 beers/wk
+Illicit drug use: Denies
+
+Family History:
+Maternal grandfather: Died at age 54 of MI
+Sister: [**Name (NI) **] disease unspecified, resolved
+
+Physical Exam:
+Physical Exam
+Vitals: T-99.0  BP(i): 138/81  HR: 67  RR: 19  O2 Sat 100% 2L NC
+PA: 29/15
+.
+Gen: Patient is an anxious appearing male, lying flat but in no
+acute distress
+HEENT: NCAT, EOMI, PERRL. OP: MMM
+Neck: No JVD
+Chest: Lungs CTA anterior and lateral
+Cor: RRR, ? split S1. No R/G
+Abd: S/NT/ND. +NABS. Well healed infraumbilical surgical scar
+Groin: Arterial sheath in place, catheter in place. Small blood
+around cath site, no significant bleeding. No bruit over site.
+No hematoma or ecchymosis.
+Pulses: Carotid 2+ bilateral (no bruit). Popliteal 1+
+bilaterally. DP and PT 2+ bilaterally. Right foot W/WP
+
+Pertinent Results:
+Admission Labs:
+(outside hospital)
+CK: 116, no MB performed
+Trop I: 0.8
+Cr: 0.9
+WBC: 14.4
+.
+[**Hospital1 18**] Admission Labs:
+[**2156-1-26**] 07:28AM   HGB-14.4 calcHCT-43 O2 SAT-97
+[**2156-1-26**] 07:28AM   GLUCOSE-117* K+-3.8
+[**2156-1-26**] 07:28AM   TYPE-ART O2 FLOW-3 PO2-160* PCO2-22* PH-7.52*
+TOTAL CO2-19* BASE XS--2
+[**2156-1-26**] 11:00AM   PLT COUNT-279
+[**2156-1-26**] 01:38PM   HGB-17.3 calcHCT-52 O2 SAT-68
+[**2156-1-26**] 01:38PM   TYPE-MIX COMMENTS-MIXED [**Last Name (un) **]
+[**2156-1-26**] 02:00PM   PT-12.3 PTT-22.7 INR(PT)-1.1
+[**2156-1-26**] 02:00PM   WBC-13.9* RBC-4.48* HGB-13.8* HCT-39.4*
+MCV-88 MCH-30.9 MCHC-35.1* RDW-13.9
+[**2156-1-26**] 02:00PM   TRIGLYCER-154* HDL CHOL-48 CHOL/HDL-4.3
+LDL(CALC)-127
+[**2156-1-26**] 02:00PM   %HbA1c-5.4 [Hgb]-DONE [A1c]-DONE
+[**2156-1-26**] 02:00PM   CALCIUM-8.6 PHOSPHATE-3.2 MAGNESIUM-1.6
+CHOLEST-206*
+[**2156-1-26**] 02:00PM   CK-MB-496* MB INDX-8.1* cTropnT-14.15*
+[**2156-1-26**] 02:00PM   ALT(SGPT)-76* AST(SGOT)-393* CK(CPK)-6128*
+[**2156-1-26**] 02:00PM   GLUCOSE-114* UREA N-12 CREAT-1.0 SODIUM-140
+POTASSIUM-3.8 CHLORIDE-107 TOTAL CO2-23 ANION GAP-14
+[**2156-1-26**] 06:41PM   HGB-11.6* calcHCT-35 O2 SAT-76
+[**2156-1-26**] 08:02PM   CK-MB-257* MB INDX-5.3 cTropnT-10.99*
+[**2156-1-26**] 08:02PM   CK(CPK)-4887*
+[**2156-1-26**] 08:02PM   POTASSIUM-4.1
+[**2156-1-26**] 08:17PM   O2 SAT-75
+Pertinent Labs/Studies:
+Trending:
+CK: 116 -> 6128 ([**2156-1-26**]) -> 4887 -> 3111 -> 2148
+CK-MB: 496 -> 257 -> 101 -> 56
+MB Index: 8.1 -> 5.3 -> 3.2 -> 2.6
+TropT: 14.15 -> 10.99 -> 6.69
+.
+LFTs: ([**2156-1-26**]) ALT-76* AST-393* CK(CPK)-6128*
+HbA1c: ([**2156-1-26**]) 5.4%
+Cholesterol Panel: ([**2156-1-26**]) Triglyc-154* HDL-48 CHOL/HD-4.3
+LDLcalc-127
+.
+Cardiac Cath [**2156-1-26**]
+HEMODYNAMICS RESULTS BODY SURFACE AREA:  2.05 m2
+HEMOGLOBIN: 15.4 gms %
+**PRESSURES
+RIGHT ATRIUM {a/v/m} 16/14/12
+RIGHT VENTRICLE {s/ed} 28/12
+PULMONARY ARTERY {s/d/m} 34/19/23
+PULMONARY WEDGE {a/v/m} 20/28/19
+AORTA {s/d/m} 150/91/115
+**CARDIAC OUTPUT
+HEART RATE {beats/min} 59
+RHYTHM SINUS
+O2 CONS. IND {ml/min/m2} 125
+A-V O2 DIFFERENCE {ml/ltr} 77
+CARD. OP/IND FICK {l/mn/m2} 3.3/1.6
+**RESISTANCES
+SYSTEMIC VASC. RESISTANCE 2497
+PULMONARY VASC. RESISTANCE 97
+.
+**% SATURATION DATA (NL)
+PA MAIN 62
+AO 99
+.
+**ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+**RIGHT CORONARY
+1) PROXIMAL RCA   NORMAL
+2) MID RCA   NORMAL
+2A) ACUTE MARGINAL   NORMAL
+3) DISTAL RCA   NORMAL
+.
+**LEFT CORONARY
+5) LEFT MAIN   DISCRETE 10
+6) PROXIMAL LAD   NORMAL
+6A) SEPTAL-1   NORMAL
+7) MID-LAD   DISCRETE 99
+8) DISTAL LAD   NORMAL
+9) DIAGONAL-1   NORMAL
+10) DIAGONAL-2   NORMAL
+12) PROXIMAL CX   NORMAL
+13) MID CX   NORMAL
+13A) DISTAL CX   NORMAL
+14) OBTUSE MARGINAL-1   NORMAL
+15) OBTUSE MARGINAL-2   NORMAL
+16) OBTUSE MARGINAL-3   NORMAL
+17) LEFT PDA   NORMAL
+17A) POSTERIOR LV   NORMAL
+.
+COMMENTS:
+1. Selective coronary angiography of this left dominant system
+revealed a single vessel coronary artery disease. The LMCA had
+10% ostial stenosis. The LAD had 99% mid segment stenosis with
+TIMI 1 flow. The LCX and RCA had no angiographically significant
+coronary artery disease.
+2. Resting hemodynamics demonstrated midly elevated right and
+left sided pressures (mean RA pressure was 12mmHg, mean PCWP was
+19mmHg). There was no evidence of pulmonary hypertension.
+Cardiac index was low at 1.6 L/min/m2.
+3. Successful treatment of mid-LAD with two overlapping Cypher
+drug-eluting stents (3.5 x 23 mm more proximally and 3.0 x 33 mm
+more distally). Final angiography demonstrated no residual
+stenosis, no angiographically apparent dissection, and normal
+flow (See PTCA Comments).
+.
+FINAL DIAGNOSIS:
+1. Single vessel coronary artery disease.
+2. Mild-moderate diastolic dysfunction.
+3. Cardiogenic shock.
+4. Successful placement of drug-eluting stents in mid-LAD.
+.
+.
+[**2156-1-27**] Echocardiogram
+.
+Left Atrium - Long Axis Dimension: 4.0 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: 4.0 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: 4.1 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolat

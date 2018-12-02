@@ -1,0 +1,204 @@
+Admission Date:  [**2107-1-14**]              Discharge Date:   [**2107-1-22**]
+
+Date of Birth:  [**2037-7-24**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics) / Levaquin / Allopurinol And
+Derivatives / Rituxan / Droperidol / Doxycycline / Bacitracin
+
+Attending:[**First Name3 (LF) 2712**]
+Chief Complaint:
+fever
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 69 yo male with a history of CLL,
+hypogammaglobulinemia, parkinson's disease, and recurrent PNA
+who was admitted to [**Hospital1 18**] on [**1-14**] with cough and fever, now
+transferred to the MICU due to tachypnea.  He presented with
+fever, cough, and fatigue in the setting of undergoing bowel
+prep for colonoscopy (for workup of chronic diarrhea).  Of note
+he had a recent MRSA PNA and Pseudomonas sinus infection (as
+well a thrush and intertiginous [**Female First Name (un) 564**]) and had been on vanc
+and cefepime.  CXR in the ED was concerning for an opacity.  He
+was cultured and started on vanc, cefepime, and IVF for possible
+PNA.
+.
+On the floor he was continued on vanc and cefepime (since [**1-14**]).
+She was started on oseltamivir on [**1-14**] on the floor due to
+concern for flu (he was uptodate with his flu shot).   He has
+had some issues with a.fib with RVR during this hospitalization
+and his home metoprolol was changed to diltiazem and uptitrated.
+ Azithromycin was started on [**1-16**] due to concern for atypical
+PNA.  ID was consulted and recommended starting gentamicin if he
+worsened (which was started early [**1-18**] prior to transfer).  IVIG
+was recommended, but not given due to concern for administration
+during fevers.
+.
+The afternoon and evening prior to transfer he was noted to be
+tahypneic to the 30's on a high flow shovel mask.  An ABG was
+7.49/34/63 on 3.5 L.  He was using an acapella valve to help
+clear secretions.  Nightfloat was called to see him due to
+worsening tachypnea in the 40's and initiated transfer to the
+MICU.
+.
+Currently he denies pain.  He feels like his breathing is
+getting worse and he is tired.
+.
+On ROS he admits to loose bowel movements.  ROS was limited due
+to respiratory distress.
+
+
+Past Medical History:
+- CLL (dx [**1-10**]) s/p Rituximab, Fludarabine in [**2105**].
+- Hypogammaglobulinemia (IgA, IgM), last given IVIG x1 in
+[**10/2106**]
+-Recurrent Sinusitis, last treated for MRSA and pseudomonal
+sinusitis in [**10/2106**]
+- Recurrent PNA with MRSA, Pseudomonas, M. gordonae (likely
+contaminant)
+- Bronchiectasis
+- HTN
+- Parkinson's Dz dx [**2098**]
+- Rectal cancer in [**2084**] s/p resection, radiation, 5-FU
+
+
+Social History:
+(per admit note) The patient is married, lives with his wife in
+[**Name (NI) **]. He has two daughters, both healthy. He is a retired
+PhD in economics, still working minimally as a professor. [**First Name (Titles) 7355**] [**Last Name (Titles) 83649**]. No tobacco. No IVDU or illicits.
+
+
+Family History:
+(per admit note) Stroke and Parkinson's disease, congestive
+heart failure, prostate cancer, glaucoma.
+
+Physical Exam:
+GEN: Middle-aged male laying in bed, tired-appearing and very
+tachpneic with a shovel mask on.
+HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no
+supraclavicular or cervical lymphadenopathy, no jvd, no carotid
+bruits, no thyromegaly or thyroid nodules
+RESP: Paradoxical abdominal movements, accessory muscle use,
+patient speaking in short sentences.  Appears very tired.
+Diffusely wheezy and coarse throughout.
+CV: RRR, no MRG.
+ABD: +BS, soft NTND
+EXT: no c/c/e
+NEURO: Sleepy, but arousable.  Oriented to person, place, and
+time.  Grossly nonfocal.
+.
+
+
+Pertinent Results:
+Admission labs:
+Na 134  K 4.7  Cl 101  Bicarb 26  BUN 19  Cr 1.1  Glu 126
+Ca 8.3  Mg 2.0  Phos 2.5
+.
+WBC 80.7  Hct 29.5  Plt 100
+.
+Vanc level [**1-16**]  - 7.3  (he got an extra 250 mg IV dose the
+afternoon of [**1-16**])
+.
+ABG (1:50 pm) 7.49/34/63
+Lactate 0.9
+
+Micro:
+[**1-14**], [**1-16**] BCx: negative
+[**1-17**], [**1-18**] BCx: pending at time of death
+[**1-14**], [**1-18**], [**1-19**] UCx: negative
+[**1-17**] ULegionella: negative
+[**1-15**] Sputum: negative
+[**1-16**] Sputum:    GRAM STAIN (Final [**2107-1-16**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   YEAST(S).
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+   RESPIRATORY CULTURE (Final [**2107-1-21**]):
+      MODERATE GROWTH Commensal Respiratory Flora.
+      YEAST.    MODERATE GROWTH.
+      PSEUDOMONAS AERUGINOSA.    RARE GROWTH.
+         FUTHER WORK-UP PER DR [**Last Name (STitle) **] ([**Numeric Identifier **]).
+      MOLD.    1 COLONY ON 1 PLATE.
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------     4 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+
+[**1-18**] Sputum: ASPERGILLUS SPECIES.    1 COLONY ON 1 PLATE.
+[**1-16**], [**1-18**] Resp viral culture: negative
+[**1-17**] Influenza: negative
+[**1-17**] Stool microsporidia, cyclospora, O&P, cryptosporidium,
+c.diff: negative
+[**1-18**] Cryptococcus serology: negative
+[**1-18**] BAL: Resp culture, legionella, KOH prep, PCP, [**Name10 (NameIs) **] fast
+smear, negative (final). Fungal culture, [**Name10 (NameIs) **] fast culture,
+viral culture, negative (prelim).
+[**1-20**] Sinus swab: GRAM NEGATIVE ROD(S). ~1000/ML.
+[**1-21**] Stool O&P: pending at time of death
+[**1-22**] C. diff: pending at time of death
+.
+Imaging:
+[**1-15**] ECG: Baseline artifact. The rhythm is likely atrial
+flutter/coarse atrial fibrillation with rapid ventricular
+response. Probable left ventricular hypertrophy. Compared to the
+previous tracing of [**2106-10-13**] the findings are similar.
+[**1-17**] CXR:
+FINDINGS: As compared to the previous radiograph, the right
+upper lobe opacity is not relevantly changed. The left lower
+lobe opacity is slightly more extensive than on the previous
+examination and is today accompanied by a small left pleural
+effusion. No evidence of newly appeared focal parenchymal
+opacities. Unchanged calcified granuloma in the left upper lobe.
+Unchanged heart size, unchanged mild tortuosity of the thoracic
+aorta.
+[**1-20**] LENIs: No deep venous thrombosis in either lower extremity.
+.
+Cytology:
+[**1-18**] Bronchial washings: NEGATIVE FOR MALIGNANT CELLS.
+
+Brief Hospital Course:
+Initial differential for his tachypnea and hypoxia included
+worsening PNA, PE, or acute CHF.  Patient was intubated
+emergently on arrival to MICU for respiratory distress.
+Microbiology studies were as above; sputum grew pseudomonas and
+aspergillus. ID was consulted for antimicrobial management; the
+patient was treated with vancomycin, meropenem, and
+voriconazole. His respiratory status continued to worsen, and he
+required increasing levels of ventilatory support. IP was
+consulted for possible u/s guided thoracentesis of left pleural
+effusion but were unable to locate a big enough pocket of fluid.
+
+Blood pressures were initially stable but the patient eventually
+developed likely septic shock, and became vasopressor dependent.
+He was not given his rate control agents for atrial
+fibrillation, given his hypotension. His renal function worsened
+acutely the day after transfer to the MICU, and BUN/creatinine
+continued to worsen through the rest of his hospitalization.
+
+His CLL was evident with leukocytosis beyond his baseline WBC
+levels. His hypogammaglobulinemia was demonstrated with low IgG,
+IgM, and IgA levels. IVIG was considered, but ultimately not
+given in his state of acute critical illness and fevers. He was
+also continued on his chronic Parkinson's medications.
+
+The patient's family had been kept aware of his worsening
+condition. On [**1-22**], after further discussions with the family,
+the decision was made to transition the patient's care to
+comfort measures only. His vasopressors were stopped, and he
+passed away with his family at his side, several hours
+thereafter.
+
+Medications on Admission:
+Alprazolam 0.75mg qhs
+Amitriptyline 25mg qhs
+Carbidopa-levodopa 25mg-100mg 2 tabs 7am, 1.5 tabs 10:30am, 1
+tab 

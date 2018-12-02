@@ -1,0 +1,217 @@
+Admission Date:  [**2138-12-2**]              Discharge Date:   [**2138-12-19**]
+
+Date of Birth:  [**2072-2-25**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Ativan
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+Mitral valve replacement(31-mm St. [**Male First Name (un) 923**] Epic mitral valve),
+Tricuspid annuloplasty ([**Doctor Last Name **] 30-mm MC3 annuloplasty ring),
+ligation of left atrial appendage. [**12-8**]
+
+
+History of Present Illness:
+This 66 year old female was admitted to Lakes [**Hospital 12018**] Hospital
+on [**11-24**] with dyspnea and lower extremity edema.  She was
+diuresed, ruled out for myocardial infarction and transferred to
+[**Hospital1 18**] for cardiac catherization.  Echo revealed 4 + mitral
+regurgitation and she was referred for surgical evaluation. She
+was found to be in acute systolic heart failure and was admitted
+preoperatively.
+
+Past Medical History:
+Nonischemic cardiomyopathy with NYHA Class III/IV
+Ventricular tachycardia s/p dual chamber ICD with PPM - [**2134**]
+noninsulin dependent diabetes mellitus
+Hypertension
+Dyslipidemia
+Restless leg syndrome
+s/p cholecystectomy
+h/o Incarcerated inguinal hernia
+Depression
+Thyroid nodule
+h/o Diverticulitis
+
+Social History:
+lives alone
+Tobacco - quit 30 years ago - 15 pack year history
+ETOH denies
+
+Family History:
+Grandfather died of "heart trouble" at age 51. Mother died of
+"heart trouble" at 76.
+
+Physical Exam:
+Discharge:
+VSS: T:97.8, 103/65, P:81, 98% RA o2 SAT, I/O:1500/650+BR
+General: A&Ox3, NAD
+CVS: RRR
+Lungs: few left basilare crackles, ess. CTA
+ABD: benign
+EXTR: (B) LE edema 2+
+Wound: C/D/I, sternum stable. No [**Doctor Last Name **]/click
+
+Pertinent Results:
+[**2138-12-16**] 03:30AM BLOOD WBC-7.4 RBC-3.49* Hgb-10.0* Hct-31.1*
+MCV-89 MCH-28.8 MCHC-32.3 RDW-17.5* Plt Ct-138*
+[**2138-12-16**] 03:30AM BLOOD Glucose-101 UreaN-57* Creat-2.1* Na-135
+K-4.1 Cl-100 HCO3-28 AnGap-11
+[**2138-12-9**] 03:17AM BLOOD Glucose-94 UreaN-44* Creat-1.6* Na-134
+K-4.9 Cl-104 HCO3-24 AnGap-11
+[**2138-12-11**] 01:43AM BLOOD UreaN-62* Creat-2.9* Na-131* Cl-99
+HCO3-21*
+[**2138-12-15**] 02:22AM BLOOD ALT-35 AST-32 LD(LDH)-377* AlkPhos-110
+Amylase-45 TotBili-0.6
+[**2138-12-19**] 06:20AM BLOOD WBC-6.5 RBC-3.61* Hgb-10.8* Hct-32.6*
+MCV-90 MCH-29.9 MCHC-33.1 RDW-17.5* Plt Ct-203
+[**2138-12-19**] 06:20AM BLOOD Glucose-36* UreaN-64* Creat-2.1* Na-136
+K-4.1 Cl-100 HCO3-25 AnGap-15
+    [**Known lastname **],[**Known firstname **] A [**Medical Record Number 81379**] F  66  [**2072-2-25**]
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2138-12-15**] 9:31
+AM
+
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] CSRU [**2138-12-15**] SCHED
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 81380**]
+Reason: r/o ptx
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 81381**]Portable TTE
+(Complete) Done [**2138-12-11**] at 12:00:40 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2072-2-25**]
+Age (years): 66 F  Hgt (in): 63
+BP (mm Hg): 92/45  Wgt (lb): 177
+HR (bpm): 98  BSA (m2): 1.84 m2
+Indication: Left ventricular function. F/u mvr, tv repair.
+ICD-9 Codes: 428.0, V43.3, 424.0, 424.2
+Test Information
+Date/Time: [**2138-12-11**] at 12:00    Interpret MD: [**Name6 (MD) **] [**Name8 (MD) **], MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1661**],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2008W058-0:25 Machine: Vivid [**6-29**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.2 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.7 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  4.9 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.5 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  4.4 cm
+Left Ventricle - Fractional Shortening:  *0.20  >= 0.29
+Left Ventricle - Ejection Fraction:  30%  >= 55%
+Aorta - Sinus Level:  *3.7 cm  <= 3.6 cm
+Aorta - Ascending:  *3.7 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.7 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT diam:  1.8 cm
+Mitral Valve - Mean Gradient:  5 mm Hg
+Mitral Valve - E Wave:  1.7 m/sec
+Mitral Valve - A Wave:  1.0 m/sec
+Mitral Valve - E/A ratio:  1.70
+Mitral Valve - E Wave deceleration time:  162 ms  140-250 ms
+Tricuspid Valve - Mean Gradient:  2 mm Hg
+TR Gradient (+ RA = PASP):  24 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the prior study of [**2138-12-5**].
+LEFT ATRIUM: Moderate LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA.
+
+LEFT VENTRICLE: Mild symmetric LVH. Top normal/borderline
+dilated LV cavity size. Moderate-severe global left ventricular
+hypokinesis. No resting LVOT gradient.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. RV function
+depressed. Abnormal diastolic septal motion/position consistent
+with RV volume overload.
+
+AORTA: Mildly dilated aortic sinus. Mildly dilated ascending
+aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Bioprosthetic mitral valve prosthesis (MVR). MVR
+well seated, with normal leaflet/disc motion and transvalvular
+gradients. Mild mitral annular calcification.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Tricuspid
+valve annuloplasty ring. Tricuspid annuloplasty ring well seated
+and is not obstructing flow. Moderate [2+] TR. Normal PA
+systolic pressure.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor subcostal
+views. Suboptimal image quality - poor suprasternal views.
+Conclusions
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy. The left ventricular cavity size
+is top normal/borderline dilated. There is moderate to severe
+global left ventricular hypokinesis with basal to mid inferior
+akinesis (LVEF = 30 %). The right ventricular cavity is mildly
+dilated with depressed free wall contractility. There is
+abnormal diastolic septal motion/position consistent with right
+ventricular volume overload. The aortic root is mildly dilated
+at the sinus level. The ascending aorta is mildly dilated. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. A
+bioprosthetic mitral valve prosthesis is present. The mitral
+prosthesis appears well seated, with normal leaflet/disc motion
+and transvalvular gradients. A tricuspid valve annuloplasty ring
+is present. The tricuspid annuloplasty ring appears well seated
+and is not obstructing flow. Moderate [2+] tricuspid
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2138-12-5**],
+the bioprothestic mitral valve is well seated and well
+functioning. The tricuspid ring is well seated and well
+functioning. The severity of tricuspid regurgitation has
+decreased.
+  Electronically signed by [**Name6 (MD) **] [**Name8 (MD) **], MD, Interpreting physician
+[**Last Name (NamePattern4) **] [**2138-12-11**] 13:16
+
+
+?????? [**2132**] CareGroup IS. All rights reserved.
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   66 year old woman s/p mvr/tvr and ct removal
+REASON FOR THIS EXAMINATION:
+   r/o ptx
+
+
+
+Final Report
+HISTORY: Chest tube removal, to evaluate for pneumothorax.
+
+FINDINGS: In comparison with the earlier study of this date, the
+right chest
+tube has been removed. No evidence of pneumothorax. The
+remainder of the
+examination is stable.
+
+DR. [**First Name8 (NamePattern2) 1569**

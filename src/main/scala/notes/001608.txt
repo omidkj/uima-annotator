@@ -1,0 +1,199 @@
+Admission Date:  [**2115-9-10**]              Discharge Date:   [**2115-9-13**]
+
+
+Service: [**Hospital Unit Name 196**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4765**]
+Chief Complaint:
+Dypnea on Exertion
+
+Major Surgical or Invasive Procedure:
+1. cardioversion ([**9-11**])
+
+History of Present Illness:
+Cardiologist: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 73**], MD
+
+This is an 83 year old male who was in his usual state of health
+until this morning when he awoke with shortness of breath and
+epigastric "pressure".  He called 911 and was brought to [**Hospital **]
+Hospital where T:98.1 BP:210/110, HR:92, RR:40. 91% on
+non-rebreather.  CK:86, MB:1.6 TN>0.02.  ECG with Afib at 99,
+non-specific ST-T changes, and PVCs.   BNP of 1370.  He was
+placed on CPAP, then IV nitroglycerin, morphine and 80 IV lasix
+with some relief of symptoms.  The nitro drip was titrated off
+but given persistent oxygen requirement he was transferred to
+[**Hospital1 18**] for further evaluation.
+
+ROS: Denies fevers, chills, worsening reflux, lightheadedness,
+LOC, vision changes, palpitations, pleuritic pressure/pain,
+lower extremity edema, now bowel or urinary changes (except the
+proctitis), nocturia, chest pain.
+
+POSITIVE: nausea (no vomiting) x 1 day, changed from HCTZ to
+Lisinopril two weeks ago and sotolol increased to 120 [**Hospital1 **], 2
+pillow orthopnea, worsening abdominal distention over the past
+few weeks, lower extremity fatigue with
+exercise over the past 3 days.
+
+Past Medical History:
+1. Atrial Fibrillation - discovered approx 4 years ago,
+cardioverted and has been maintained on sotolol; 2 weeks ago at
+his visit with Dr. [**Last Name (STitle) 73**] he was noted to be in afib again.
+2. Prostate Cancer s/p xray therapy with radiation prostatitis
+3. Recent ECHO [**4-30**] with preserved EF; recent catheterization
+without significant disease
+4. Hypertension
+
+
+Social History:
+Former smoker.
+Occasional alcohol.
+Denies IVDU.
+Lives with wife, son and daughter in law in [**Name (NI) 86**] area.
+
+Family History:
+CAD in father (died MI age 80).
+
+Physical Exam:
+VITALS (at [**Hospital1 18**]): afebrile, BP 140/50, P 70's irregular, RR 20,
+99% facemask
+Gen: reclining in bed with facemask initially but then switched
+over to 2L NC and maintained sats in high 90s, in NAD, speaking
+in full sentences, not using any accessory muscles.
+HEENT: MMM, OP clear
+Neck: moderate JVD
+CV: irregularly irregular, no murmurs appreciated
+Lungs: crackles [**1-29**] of the way up lung fields R>L
+Abd: distended, soft, NT, +BS
+Ext: right foot cooler than left with more discoloration [**1-28**]
+venous stasis changes, strong pulses bilaterally, good strength,
+1+ edema to mid shin.
+Neuro: aox3.
+
+Pertinent Results:
+CBC
+[**2115-9-10**] 04:11PM   WBC-5.5 RBC-4.41* HGB-14.1 HCT-40.0 MCV-91
+MCH-32.0 MCHC-35.3* RDW-14.1
+[**2115-9-10**] 04:11PM   PLT COUNT-166
+
+Chemistries
+[**2115-9-10**] 04:11PM   GLUCOSE-97 UREA N-17 CREAT-0.7 SODIUM-141
+POTASSIUM-3.9 CHLORIDE-103 TOTAL CO2-25 ANION GAP-17
+[**2115-9-10**] 04:11PM   CALCIUM-9.5 PHOSPHATE-3.9 MAGNESIUM-2.0
+[**2115-9-12**] 06:45AM BLOOD Glucose-99 UreaN-27* Creat-0.8 Na-140
+K-3.7 Cl-100 HCO3-31* AnGap-13
+[**2115-9-13**] 09:25AM BLOOD Glucose-136* UreaN-33* Creat-1.2 Na-140
+K-4.0 Cl-101 HCO3-27 AnGap-16
+
+Coags
+[**2115-9-10**] 04:11PM   PT-19.4* PTT-28.8 INR(PT)-2.4
+[**2115-9-11**] 03:49AM BLOOD PT-24.9* PTT-33.3 INR(PT)-3.9
+[**2115-9-12**] 06:45AM BLOOD PT-20.2* PTT-30.1 INR(PT)-2.6
+[**2115-9-13**] 09:25AM BLOOD PT-19.0* INR(PT)-2.3
+
+Cardiac Enzymes
+From OSH: CK 86 MB 1.6 TnT <0.02
+[**2115-9-10**] 04:11PM   CK(CPK)-62
+[**2115-9-10**] 04:11PM   CK-MB-NotDone cTropnT-0.04*
+[**2115-9-11**] 03:49AM BLOOD CK-MB-NotDone cTropnT-0.02*
+
+Lipid Panel
+[**2115-9-10**] 04:11PM   TRIGLYCER-127 HDL CHOL-54 CHOL/HDL-3.8
+LDL(CALC)-127
+
+LFTs
+[**2115-9-11**] 03:49AM BLOOD ALT-23 AST-23 LD(LDH)-207 CK(CPK)-42
+AlkPhos-36* TotBili-0.7
+
+TSH 2.1
+
+Hemolysis Labs
+[**2115-9-11**] 03:49AM BLOOD Fibrino-217
+[**2115-9-11**] 03:49AM BLOOD Hapto-126
+
+CXR ([**9-10**]):
+pulmonary edema
+
+ECHO ([**9-10**]):
+Conclusions:
+The left atrium is moderately dilated. There is mild symmetric
+left
+ventricular hypertrophy with normal cavity size and moderate
+global
+hypokinesis. The right ventricular cavity is mildly dilated with
+mild global
+free wall hypokinesis. The aortic root and ascending aorta are
+mildly dilated.
+The aortic valve leaflets are mildly thickened but not stenotic.
+Mild (1+)
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened.
+Trivial mitral regurgitation is seen. There is mild pulmonary
+artery systolic
+hypertension. There is no pericardial effusion.
+
+Compared with the report of the prior study (tape unavailable
+for review) of
+[**2115-5-13**], left ventricular systolic function is now reduced -
+35% - (global) and mild mitral regurgitation is present.
+
+
+Brief Hospital Course:
+83 year old man with a history of atrial fibrillation s/p
+cardioversion and maintained on sotolol and coumadin (recently
+therapeutic INR), presented to OSH in afib with respiratory
+distress, HTN (210/110) and mild tachycardia (90-100s).  Sx
+improved with diuresis.
+
+1.  Cardiovascular
+-- CAD: There was no evidence of significant CAD from a cardiac
+catheterization in [**1-30**].  Serial EKGs did not show any
+concerning ST-T wave changes.  Cardiac enzymes were negative x3.
+ The patient's LDL was high at 127, so he was started on
+atorvastatin 20mg daily.
+-- Rate/rhythm: The patient presented in atrial fibrillation
+with rates in the 70-90s.  He was initially diagnosed with afib
+4 years ago, and at the time of initial diagnosis had similar
+symptoms to the ones that brought him to the hospital this time
+(shortness of breath and fatigue).  He is s/p cardioversion and
+maintained on sotolol and coumadin.  He has been therapeutic on
+his coumadin for at least the past one month, and ECHO shows no
+thrombus in the LV.  Therefore, initially the plan was to DC
+cardiovert him, but overnight on his first hospital day he
+spontaneously converted to sinus rhythm.  Approximately 16 hours
+later he returned to a fib with rates in the 60-70s, and
+converted spontaneously again after that.  He was asymptomatic
+as he was in and out of afib.  He was continued on sotolol and
+coumadin per outpatient doses.  He was discharged in sinus
+rhythm, with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] of Hearts monitor which he was going to
+telephone in twice a day until he followed up with Dr. [**Last Name (STitle) 73**]
+in two weeks ([**9-27**] at 11:30am).
+-- Pump: The patient's last EF at [**Hospital1 18**] in [**4-30**] was 60%; EF done
+as OSH today was estimated to be 20%.  Repeated on admission to
+[**Hospital1 18**] and revealed an EF of 35%. The cause of the decreasing EF
+was unclear - tachycardia associated cardiomyopathy vs. viral
+cardiomyopathy vs. stunning.  The patient presented in pulmonary
+edema per exam and CXR, and was bolused with Lasix IV 40 twice a
+day with good urine output, and was transitioned over to 40mg po
+twice a day.  Spironolactone was also added to his regimen.  He
+was negative approximately 4.5 liters during his stay.  He was
+discharged home on 20mg lasix PO as well as spironolactone
+12.5mg daily.  He was initially continued on Lisinopril 5mg
+daily per outpatient regimen, and this was increased to 10mg
+daily.  The patient tolerated these medication additions and
+changes well, his blood pressure remained in the 110-130s
+systolic.  He will follow up with his primary care physician
+next week ([**9-19**] at 9:15am) to get his INR checked as well as to
+assess how he is tolerating his medications.  He has a follow up
+appointment in the [**Hospital 1902**] clinic on [**10-21**] at 9AM.
+2.  Respiratory: The patient arrived from OSH on a 100% facemask
+with sats in the high 90s.  That night he was transitioned to 4L
+NC without difficulty and continued to maintain sats in the high
+90s.  He was able to be weaned off of oxygen over the next
+couple of days as his diuresis progressed.  This respiratory
+distress was presumed to be due to his volume overload.  He was
+discharged with sats in the mid 90s on room air.
+3.  

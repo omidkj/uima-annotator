@@ -1,0 +1,242 @@
+Admission Date:  [**2168-6-12**]              Discharge Date:   [**2168-6-15**]
+
+Date of Birth:  [**2084-12-4**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 2569**]
+Chief Complaint:
+Left sided weakness
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This 83 y/o woman with recent diagnosis of lung cancer after
+dyspnea/hemoptysis 2wk ago in setting of LE DVT and recurrent
+contralateral DVT w/ PE in spite of warfarin presents with left
+sided weakness.
+
+As per the patient's daughter with whom the patient lives (and
+who provided English/[**First Name3 (LF) 595**] translation) the patient was in
+USOH [**6-11**].  At midnight, her daughter came in her bedroom to
+check on her and found her dosing and leaning to the left.  This
+seemed unusual to her so she woke her mother and checked both
+her grip strength which was equal.  Her mother only indicated
+that she
+felt tired and thus retired to bed.  At 0430h, her daughter had
+awoken so again went to check on her mother, this time finding
+her awake but collapsed on the floor with left sided weakness.
+She called EMS whence the patient was brought to [**Hospital1 18**].
+
+In the ER, FSBS 133, SBP 140s.  Over the initial 45 minutes of
+evaluation, her left sided weakness progressed from significant
+drift to hemiplegia.  Her gaze progressed from mild to forced
+right gaze deviation and her speech progressed from mild to
+unintelligible dysarthria.  She was nonetheless hemodynamically
+stable and able to protect her airway.
+
+
+Past Medical History:
+recent LLL PNA; NSC Lung CA in left lower lobe; b/l LE DVT;
+PE s/p IVC filter; HTN; lipids; RA; depression; GERD
+
+
+Social History:
+Lives with daughter long term.  No alcohol or drug use.  Smoked
+up to at least 1 ppd but tapered off over the years and none for
+the last month.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Temp: 97.6; BP:  145/75; HR: 70; RR: 20; SaO2: 100%
+Gen: Somnolent but rousable w/ voice. Sclerae anicteric. MMM.
+No meningismus.
+No carotid bruits auscultated.
+Diminshed breath sounds on left.
+Heart regular in rate.
+Abd soft, nontender, nondistended.  Bowel sounds heard
+throughout.
+
+Neuro:
+
+>>MS??????Somnolent but rousable to voice.  Speech (w/ daughter
+translating from English to [**Name (NI) 595**]) hypophonic and severely
+labially/lingually dysarthric but fluent.  Able to follow
+commands on right side.  Does not read or name.
+
+>>CN??????Fundi w/ sharp discs. PERRL. VFIC.   Forced right gaze
+deviation but able to get slightly to left of midline
+volitionally. Moderate left facial weakness. Palate elevates
+midline.  Tongue protrudes midline.
+
+>>Motor??????Right UE/LE power intact.  Left UE 0/5 proximally and
+distally with low tone.  Left LE 0/5 proximally and [**3-17**] distally
+with normal tone.
+
+>>Sensory??????Grimaces to nox stim applied throughout albeit less
+robustly on left.
+
+>>DTRs??????L/R: bic [**3-14**], br [**2-11**], tri 0/1; pat [**2-11**], Ach 0/0. Left
+plantar extensor.
+
+>>Coord/Gait??????No dysmetria on right.
+
+
+
+1a LOC =1
+
+1b Orientation =0
+
+1c Commands =0
+
+2 Gaze =2
+
+3 Visual Fields =0
+
+4 Facial Paresis =2
+
+5a Motor Function R UE =0
+
+5b Motor Function L UE=4
+
+6a Motor Function R LE=0
+
+6b Motor Function L LE=4
+
+7 Limb Ataxia =0
+
+8 Sensory perception =1
+
+9 Language =0
+
+10 Dysarthria = 2
+
+11 Extinction/Inattention =2
+
+                    TOTAL = 18
+
+
+Pertinent Results:
+[**Known lastname 33232**],[**Known firstname **] [**Medical Record Number 33233**] F  83  [**2084-12-4**]
+
+Radiology Report CTA HEAD W&W/O C & RECONS Study Date of
+[**2168-6-12**] 5:38 AM
+
+PRELIMINARY REPORT: Provided by Dr. [**First Name (STitle) 805**], who indicated
+"cutoff" in right middle cerebral artery (M1 segment); increased
+mean transit time, decreased flow, equal volume compatible with
+penumbra. Discussed with Dr. [**First Name (STitle) **] at 7:05 a.m.
+
+FINDINGS: I concur with Dr. [**Last Name (STitle) 18991**] observations. There is
+obstruction of the right middle cerebral artery M1 segment
+shortly after its origin. The discrepancy between blood volume
+and mean transit times raises the question of an ischemic
+penumbra. There was no sign for the presence of an intracranial
+hemorrhage. Corresponding to the area of early ischemia is the
+presence of a right-sided insular ribbon sign on the
+conventional head CT images.
+
+There is re-demonstration of the prominent left-sided cavernous
+carotid and supraclinoid aneurysm, which has substantial
+calcific components.
+
+With regard to the angiography of the neck, neither common
+carotid bifurcation exhibits hemodynamically significant
+stenosis, although there was a markedly tortuous proximal right
+internal carotid artery demonstrated. The vertebral arteries
+appear to be non-stenotic.
+
+CONCLUSION: Findings consistent with large area of prolonged
+mean transit
+time, but with a blood volume "mismatch" within virtually the
+entire right middle cerebral artery territory. Obstruction of
+the right middle cerebral artery at its M1 segment.
+
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2168-6-13**]
+10:06 AM
+Provisional Findings Impression: EAGg MON [**2168-6-13**] 12:46 PM
+Complete left lung collapse, leftward mediastinal shift and
+obliteration of the left bronchial lumen.
+
+[**2168-6-12**] 01:11PM   GLUCOSE-111* UREA N-15 CREAT-0.7 SODIUM-136
+POTASSIUM-3.0* CHLORIDE-98 TOTAL CO2-28 ANION GAP-13
+[**2168-6-12**] 01:11PM   CALCIUM-9.0 PHOSPHATE-3.0 MAGNESIUM-1.8
+[**2168-6-12**] 06:26AM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2168-6-12**] 06:26AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2168-6-12**] 05:37AM   GLUCOSE-136* UREA N-18 CREAT-0.9 SODIUM-136
+POTASSIUM-3.3 CHLORIDE-98 TOTAL CO2-26 ANION GAP-15
+[**2168-6-12**] 05:37AM   ALT(SGPT)-12 AST(SGOT)-18 CK(CPK)-23* ALK
+PHOS-113 TOT BILI-0.4
+[**2168-6-12**] 05:37AM   TRIGLYCER-99 HDL CHOL-45 CHOL/HDL-3.1
+LDL(CALC)-73
+[**2168-6-12**] 05:37AM   ALBUMIN-3.2* CHOLEST-138
+[**2168-6-12**] 05:37AM   WBC-17.1* RBC-3.90* HGB-10.3* HCT-31.2*
+MCV-80* MCH-26.5* MCHC-33.1 RDW-16.8*
+[**2168-6-12**] 05:37AM   NEUTS-92.3* LYMPHS-4.3* MONOS-2.8 EOS-0.5
+BASOS-0.1
+[**2168-6-12**] 05:37AM   PT-12.9 PTT-28.8 INR(PT)-1.1
+
+Brief Hospital Course:
+83y [**Year/Month/Day 595**] speaking woman with a new diagnosis lung cancer,
+HTN, HL, long h/o smoking, bilateral DVTs and recent PE while on
+Coumadin, now on therapeutic Lovenox and s/p IVC filter p/w
+right MCA occlusion and stroke.  Etiology most likely her
+diffuse hypercoagulability related to her lung cancer.  She is
+not a candidate for tPA as she currently on therapeutic Lovenox,
+had recent hemoptysis due to lung cancer.  She is not a
+candidate for MERCI clot retrieval because there is decreased
+flow to the right anterior temporal lobe seen on perfusion
+imaging.  Her diffuse
+hypercoagulability with both Coumadin and more recently, Lovenox
+represents a Trousseau-like syndrome. She was started on a
+heparin drip with her goal PTTs between 50-70.
+
+In rounds with Dr [**Last Name (STitle) **] on [**2168-6-13**], there was a discussion with
+the patient's grand-daughter ([**Name (NI) **] [**Name (NI) 28334**]) regarding prognosis.
+Dr [**Last Name (STitle) **] explained that the prognosis was very poor due to her
+multiple medical co morbidities. Dr [**Last Name (STitle) 28334**] mentioned that she
+wanted to have a discussion with her family. Dr [**Last Name (STitle) 28334**]
+mentioned that the DNI would be addressed once her family had
+convened. Later that afternoon, they discussed palliative care
+options with [**First Name8 (NamePattern2) 2270**] [**Last Name (NamePattern1) 33234**].
+
+On [**2168-6-15**] a morphine drip was started for comfort, and the
+patient expired at 20:25h.
+
+
+Medications on Admission:
+-Lovenox
+-Acetaminophen 325-650mg q6h prn pain, fever
+-Atenolol 25mg qd
+-Fluoxetine
+-Folic acid 1mg qd
+-HCTZ 25mg qd
+-Lisinopril 10mg qd
+-Methotrexate 12.5mg qMon
+-Timolol 0.5% 1 drop OU [**Hospital1 **]
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Respiratory arrest
+Right middle cerebral artery stroke
+Lung cancer
+
+
+Dis

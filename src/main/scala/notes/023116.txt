@@ -1,0 +1,199 @@
+Admission Date:  [**2102-8-7**]              Discharge Date:   [**2102-9-7**]
+
+Date of Birth:  [**2021-2-21**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+sternal drainage
+
+Major Surgical or Invasive Procedure:
+sternal wound debridement and VAC, sternal flaps [**8-16**]
+
+
+History of Present Illness:
+81 yo M s/p CABG/AVR/tracheostomy [**6-17**], discharge to rehab
+[**7-11**], return to ED with sternal drainage, new requirement for
+intermittent ventilatory support.
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Prior CVA ([**2083**])
+Known 6 mm L MCA aneurysm
+Mild aortic stenosis
+chronic renal insufficiency - baseline creatinine 1.9
+Acute on chronic systolic heart failure
+
+Social History:
+The patient has been married for 61 years and lives with his
+wife and daughter. [**Name (NI) **] smoked previously, but quit ~ 50 years
+ago. He drinks 2 beers rarely. There is no family history of
+premature coronary artery disease or sudden death; he had one
+brother who died of complications surrounding an MI in his 60s.
+
+
+Family History:
+The patient has been married for 61 years and lives with his
+wife and daughter. [**Name (NI) **] smoked previously, but quit ~ 50 years
+ago. He drinks 2 beers rarely. There is no family history of
+premature coronary artery disease or sudden death; he had one
+brother who died of complications surrounding an MI in his 60s.
+
+Physical Exam:
+NAD, on trach collar some increased work of breathing
+Chest with paradoxical movement, superior MSI open ~3cm with
+yellow base, Remainder of incision erythematous and fluctuent.
+Distal incision with serosanguinous drainage.
+Abdomen soft/NT. PEG tube.
+Extrem 2+ edema, SVG harvest incisions healing
+
+Pertinent Results:
+[**2102-9-6**] 12:58AM BLOOD WBC-12.1* RBC-2.92* Hgb-8.3* Hct-25.5*
+MCV-87 MCH-28.4 MCHC-32.5 RDW-16.7* Plt Ct-242
+[**2102-9-7**] 02:36AM BLOOD WBC-10.6 RBC-2.76* Hgb-7.8* Hct-23.9*
+MCV-86 MCH-28.3 MCHC-32.8 RDW-17.2* Plt Ct-230
+[**2102-9-7**] 02:36AM BLOOD Plt Ct-230
+[**2102-9-7**] 02:36AM BLOOD PT-14.2* PTT-30.3 INR(PT)-1.3*
+[**2102-9-7**] 02:36AM BLOOD Glucose-134* UreaN-45* Creat-3.8* Na-136
+K-3.5 Cl-100 HCO3-31 AnGap-9
+[**2102-9-6**] 12:58AM BLOOD Glucose-126* UreaN-56* Creat-4.4* Na-137
+K-4.0 Cl-101 HCO3-30 AnGap-10
+[**2102-9-5**] 12:57AM BLOOD Glucose-133* UreaN-37* Creat-3.5* Na-138
+K-4.3 Cl-101 HCO3-30 AnGap-11
+[**2102-9-4**] 02:44AM BLOOD Glucose-102 UreaN-49* Creat-4.2* Na-137
+K-4.6 Cl-100 HCO3-30 AnGap-12
+[**2102-8-7**] 04:30PM BLOOD Glucose-138* UreaN-55* Creat-2.3* Na-139
+K-4.5 Cl-96 HCO3-35* AnGap-13
+[**2102-8-18**] 06:39AM BLOOD ALT-10 AST-17 AlkPhos-94 Amylase-13
+TotBili-0.4
+
+CHEST (SINGLE VIEW) IN O.R.  [**2102-9-1**] 1:21 PM
+ONE VIEW CHEST: A single fluoroscopic spot intraoperative
+radiograph was obtained. A right tunneled dialysis catheter
+begins outside the field of view and extends into the distal
+SVC. The tracheostomy has not changed in position.
+IMPRESSION: Right tunneled dialysis catheter with tip in the
+distal SVC.
+
+CHEST (PORTABLE AP)  [**2102-8-29**] 9:22 AM
+FINDINGS: AP single view of the chest obtained with patient in
+supine position is analyzed in direct comparison with a similar
+preceding study obtained [**2102-8-28**]. Position of
+tracheal cannula is unchanged. The previously described
+parenchymal densities in the apical areas of both upper lobes
+have further progressed and so is the evidence of pleural
+effusions bilaterally apparently layering posteriorly but
+reaching also the apical area
+
+[**2102-8-7**] 04:30PM BLOOD WBC-15.8*# RBC-3.29* Hgb-9.7* Hct-29.3*
+MCV-89 MCH-29.7 MCHC-33.2 RDW-16.7* Plt Ct-223
+[**2102-8-7**] 04:30PM BLOOD Plt Ct-223
+[**2102-8-8**] 12:09AM BLOOD PT-76.5* PTT-42.4* INR(PT)-10.0*
+
+TISSUE (Final [**2102-8-11**]):
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+         Trimethoprim/Sulfa sensitivity testing performed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+      ENTEROBACTER CLOACAE.    SPARSE GROWTH.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |          ENTEROBACTER CLOACAE
+                             |          |
+CEFEPIME--------------              <=1 S
+CEFTAZIDIME-----------             =>64 R
+CEFTRIAXONE-----------             =>64 R
+CIPROFLOXACIN---------              =>4 R
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S      <=1 S
+IMIPENEM--------------              <=1 S
+LEVOFLOXACIN----------  0.25 S
+MEROPENEM-------------           <=0.25 S
+OXACILLIN-------------   0.5 S
+PENICILLIN------------ =>0.5 R
+PIPERACILLIN----------            =>128 R
+TOBRAMYCIN------------              <=1 S
+TRIMETHOPRIM/SULFA----       S      <=1 S
+
+   ANAEROBIC CULTURE (Final [**2102-8-12**]):    NO ANAEROBES ISOLATED.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] was admitted to cardiac surgery. He received vitamin K
+and FFP for an INR of 10. He was given amiodarone for rapid
+afib. He was started on meropenum and vancomycin. He was then
+taken to the operating room where he underwent sternal
+debridement and VAC dressing placement. He was transferred to
+the ICU in stable condition on propofol. He remained sedated and
+paralyzed. He was started on tube feeds. His paralytics were
+dc'd on POD #2. He was taken back to the operating room on [**8-11**]
+by plastic surgery for further debridement and vac replacement.
+His vac was again changed on [**8-14**]. Blood cultures grew MRSA. He
+remained on vanco. He underwent TEE for MRSA bacteremia, no
+vegetations were identified. He was taken back to the operating
+room by plastic surgery on [**8-16**] where he underwent further
+debridement and irrigation as well as bilateral pectoralis
+myofascial advancement flaps. He was seen by infectious diseases
+and he finished courses of vancomycin and meropenum. Renal
+counsult was called for borderline oliguria, increasing
+creatinine and volume overload, and acute on chronic renal
+failure. Renal u/s showed No evidence of hydronephrosis in
+either kidney. He was started a lasix drip, however required
+dialysis within the next few days. He underwent tunnelled
+catheter placement on [**2102-8-31**]. He continued with intermittent
+hemodialysis. He was stable for discharge to rehab on [**2102-9-7**].
+He continues to require ventilatory support.
+
+Discharge Medications:
+1. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed.
+6. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+7. Ranitidine HCl 15 mg/mL Syrup Sig: One (1)  PO DAILY (Daily).
+
+8. Albuterol 90 mcg/Actuation Aerosol Sig: 4-6 Puffs Inhalation
+Q4H (every 4 hours) as needed.
+9. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day) as needed.
+10. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q4H (every 4 hours).
+11. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+12. Bisacodyl 5 mg Tablet, Delayed Relea

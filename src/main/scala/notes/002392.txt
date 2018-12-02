@@ -1,0 +1,196 @@
+Admission Date:  [**2164-1-13**]              Discharge Date:   [**2164-1-17**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 7539**]
+Chief Complaint:
+Hypoxic respiratory failure
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+84yo M w/ h/o TBI s/p [**2164**]0 yrs ago, presented to OSH after
+developing respiratory distress at home. Has no diagnosis of
+CHF, but had developed inc DOE and LE edema over last several
+days. Per wife's report, went to lie down after dinner and when
+he awoke, complained of feeling SOB and unwell. Taken to [**Location (un) 620**]
+ER where a nasal intubation was performed. An OG tube was also
+placed. An EKG was taken, as was a CXR (pulm edema), but the EKG
+was concerning for possible STEMI (with EKG changes that showed
+ST elevations in III, [**Location (un) **], VI, as well as ST depressions in I,
+II, V2-V6). He was started on a heparin gtt and sent to [**Hospital1 18**].
+In the [**Hospital1 18**] ER, he was felt to be agitated and was given 2mg
+versed and 50mcg of fentanyl.
+.
+Of note, approx one month ago, pt was at a respite for a week
+and was diagnosed w/ CHF. Wife is unclear what happened to cause
+this, but stated that pt was not discharged on a diuretic.
+.
+ROS: Unobtainable as pt is sedated and intubated and wife is not
+present.
+
+
+Past Medical History:
+1. TBI following a fall in [**2143**]
+- intracranial hemorrhage -> 6 weeks of vegetative state
+- s/p VP shunt placement
+- garbled speech/dysarthria at baseline
+- baseline = wheelchair/walker
+2. Hypothyroidism
+3. Glaucoma
+4. COPD - no PFTs available
+5. h/o UTI w/ MRSA in [**10-12**]
+6. ? left DVT  - date unknown, but on coumadin for this
+7. Anemia - both iron and B12 deficient in the past
+8. BPH s/p TURP on [**2162-1-4**] (underwent general anesthesia)
+
+
+Social History:
+Per CareWeb, the patient is wheelchair-bound, lives with wife,
+who continues to work part-time as a chemistry teacher, quit
+smoking 30 years ago. The patient is a retired airline pilot and
+teacher. No children.
+
+Family History:
+NC
+
+Physical Exam:
+VS - Afebrile, BP 100/67, HR 52, 95% on vent
+Vent - CMV, FiO2 100%, PEEP 8, Vt 486-520, RR 14
+Gen: Sedated, intubated
+HEENT: Pupils pinpoint bilaterally. Sclera anicteric. Nasal
+intubation, NG tube in place, draining bilious material.
+Neck: No JVP appreciated.
+CV: III/VI late systolic murmur best heard over RUSB, radiating
+to carotids. Normal S1, S2 is somewhat obscured by murmur.
+Lungs: Coarse, vented BS anteriorly.
+Abd: Soft, NTND. + BS. Several old, healed surgical scars are
+across his abdomen and torso.
+Ext: 2+ pitting edema up to his knees bilaterally. + nonpitting
+edema of his hands bilaterally. Ext cool, dry.
+Skin: No rashes
+Neuro: Not withdrawing to painful stimuli in any of his 4
+extremities. Pupils pinpoint, round, but nonreactive.
+
+
+Pertinent Results:
+Labs on admission:
+WBC 12.4, Hgb 13.0, Hct 38.0, MCV 88, Plt 234
+(DIFF: Neuts-85.1* Bands-0 Lymphs-9.4* Monos-3.9 Eos-1.4
+Baso-0.2)
+PT 47.6*, PTT 150*, INR(PT) 5.6*
+ALT 16, AST 68*, AlkPh 63, TBili 0.3
+Ca 8.8, Phos 3.2, Mg 1.7
+TSH 3.0
+ABG: pH 7.32, pO2 419*, pCO2 57*
+proBNP 2856*
+.
+Cardiac enzymes:
+[**2164-1-13**] 12:55AM BLOOD CK(CPK)-254* CK-MB-27* MB Indx-10.6*
+cTropnT-0.30*
+[**2164-1-13**] 04:16AM BLOOD CK(CPK)-484* CK-MB-57* MB Indx-11.8*
+cTropnT-1.28*
+[**2164-1-13**] 02:22PM BLOOD CK(CPK)-425* CK-MB-46* MB Indx-10.8*
+cTropnT-5.99*
+[**2164-1-13**] 05:58PM BLOOD CK(CPK)-328* CK-MB-33* MB Indx-10.1*
+cTropnT-5.01*
+[**2164-1-13**] 10:32PM BLOOD CK(CPK)-246* CK-MB-21* MB Indx-8.5*
+cTropnT-3.89*
+[**2164-1-14**] 05:15AM BLOOD CK(CPK)-178* CK-MB-12* MB Indx-6.7*
+cTropnT-2.97*
+.
+Labs on discharge:
+WBC 9.2, Hgb 13.0*, Hct 36.8*, MCV 87, Plt 248
+PT 27.2*, PTT 33.9, INR(PT) 2.8*
+Na 137, K 4.2, Cl 97, HCO3 31, BUN 36, Cr 1.6, Glu 95, Mg 2.0
+.
+Imaging:
+CXR [**2164-1-14**]: Portable erect AP radiograph of the chest is
+reviewed, and compared with previous study dated yesterday. The
+tip of the endotracheal tube is identified slightly above the
+thoracic inlet. A nasogastric tube courses towards the stomach.
+Minimal patchy
+atelectasis is seen at the lung bases. The lungs are clear
+otherwise without evidence of pulmonary edema. The heart is top
+normal in size. There is continued mild tortuosity of the
+thoracic aorta. The previously identified right upper lobe
+opacity has been improving. No pneumothorax is identified.
+.
+CXR [**2164-1-13**]: 1. Unchanged appearance of right upper lobe opacity.
+2. Improved pulmonary edema.
+.
+CXR [**2164-1-13**]: Mild pulmonary edema. Right upper lobe opacity,
+which could be secondary to summation of structures; however
+dedicated PA and lateral views are recommended prior to
+discharge to exclude a pulmonary nodule.
+
+
+Brief Hospital Course:
+84yo M w/ presumed hypoxic respiratory failure from worsening
+CHF. Etiology of his CHF exacerbation is unclear, but likely
+contributors include worsening AS and demand ischemia.
+.
+# PUMP: On admission, we had no information on Mr. [**Known lastname 21617**] EF
+but he had an obvious late peaking systolic murmur best heard at
+LUSB and radiating to his carotids bilaterally, as well as gross
+peripheral edema. BNP on admission was >2800. He was placed on a
+lasix gtt and aggressively diuresed. His BP remained stable,
+even slightly hypertensive, so an ACE inhibitor was added for
+afterload reduction. An ECHO was performed after the patient was
+extubated and showed an EF of >55%, but worsening AS, so he
+likely has diastolic failure exacerbated by worsened severe AS.
+He is not a surgical candidate for [**Last Name (LF) 1291**], [**First Name3 (LF) **] it was decided to
+medically manage his AS and CHF. His weight was monitored daily
+and strict I/Os were kept. By discharge, he was switched over to
+once daily ACE-inhibitor and lasix.
+.
+# ISCHEMIA: His EKG on admission was concerning for diffuse ST
+and T wave changes, likely demand-related in setting of his
+worsened heart failure. His cardiac enzymes were cycled and
+peaked at a max CK of 484, CK MB of 57, and trop of 5.99 on
+[**2164-1-13**]. He was admitted on a heparin gtt, but that was stopped
+once his labs came back w/ PTT >150 and INR of 5.6. After it was
+decided that his enzyme leak was most consistent with demand
+ischemia, his aspirin was also discontinued as it was felt that
+he was a bleeding risk.
+.
+# RHYTHM: He was monitored on telemetry while his cardiac
+enzymes were cycled. He remained mostly in NSR with occasional
+runs of AIVR/NSVT, which was felt to likely be a reperfusion
+rhythm. By discharge, his telemetry was normal, with no further
+arrhythmias.
+.
+# COPD/ASTHMA: He had no evidence of a COPD or asthma
+exacerbation (no wheezing, no hyperinflation on CXR, no
+difficulty w/ ventilation or oxygenation). Mr. [**Known lastname 21617**]
+respiratory symptoms appeared to be mostly due to volume
+overload from heart failure. After approximately 2-3L had been
+removed, he was able to be extubated without any complications.
+He was diuresed first with a lasix gtt, then switched to IV,
+with a total of >6L removed. He was switched to PO lasix prior
+to discharge, with the goal of keeping his I/O even.
+.
+# DVT: He has a h/o of a DVT in the past, which his wife says is
+the reason that he is on coumadin. His INR on admission was
+elevated at 5.6 so his coumadin was held. He was given one dose
+of PO vitamin K and his INR trended down. He had been on a
+heparin gtt on admission for ? NSTEMI, but once in the CCU, it
+was felt that his enzyme leak was more likely from demand
+ischemia so his anticoagulation was held due to his
+supratherapeutic INR. The goal was to hold off on restarting
+coumadin until his INR <2.
+.
+# HYPOTHYROIDISM: Mr. [**Known lastname 21615**] is hypothyroid and is treated with
+levothyroxine. His TSH was 3.0 on [**2164-1-13**]. He was continued on
+his outpatient dose of levothyroxine.
+.
+# ANEMIA: Mr. [**Known lastname 21615**] has a history of chronic anemia, but he
+has been only mildly anemic here, with a stable Hct in the range
+of ~36-38. His anemia is normocytic, with no evidence of Fe
+deficiency or B12 deficiency as he has had in past. His Hct was
+checked daily to insure that it remained s

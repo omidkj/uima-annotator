@@ -1,0 +1,203 @@
+Admission Date:  [**2163-10-14**]              Discharge Date:   [**2163-10-21**]
+
+Date of Birth:  [**2079-1-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Erythromycin Base / Streptomycin / Citric Acid /
+Atenolol / Torsemide / Heparin Agents
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+fevers, vomiting, AMS
+
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+History of Present Illness:  Mr. [**Known lastname 108855**] is an 84yo male with
+history of CAD s/p stenting, CHF (EF 55%), Afib, prior cardiac
+arrest and heart block s/p pacer/AICD placement, chronic trach,
+and recent MRSA bacteremia on vancomycin who presents from rehab
+with a one day history of fevers and vomiting, as well as AMS.
+Patient has had several recent admissions, including admission
+from [**Date range (1) 105469**] for PNA and MRSA bacteremia/sepsis.  Was
+discharged to rehab on vanco, readmitted [**Date range (1) 20211**] for hematuria
+and GI bleed (blood in ostomy bag), and again readmitted
+[**Date range (1) 108857**] with persistent fevers and positive MRSA blood
+cultures.  Source of MRSA bacteremia was unclear, and work-up
+during that time included TTE/TEE negative for vegetations on
+valves and cardiac pacer leads, and negative tagged WBC scan.
+PICC was removed and replaced.  Patient discharged on planned 6
+week course of vanco through [**2163-11-2**].  Hospital course also
+notable for pseudomonas and klebsiella UTI, treated with 7 day
+courses of cefepime and tobramycin.  Patient had Foley changed
+during that admission.  Was discharged back to [**Hospital1 100**] Senior
+Rehab.
+.
+Since discharge, has been noted to have worsening renal function
+requiring nephrology consult, and in this setting his diuretic
+regimen was held.  Also had increasing SOB requiring pulmonary
+consult, with change in vent settings from pressure support to
+AC mode.  Has had recurrent GI bleed requiring transfusion of 2
+units pRBCs on [**2163-10-12**], and has been continued on PPI,
+sucralfate, and iron supplementation.  Per report, usually
+responds to wife, but was less responsive over past 1-2 days.
+On day of admission had several episodes of vomiting, and per
+wife was febrile to 101.  Sent to ED for further evaluation.
+.
+In the ED, initial VS were: 98.2 69 106/51 20 95% assist
+control.  Labs notable for leukocytosis (WBC 14.2) with
+neutrophil predominance, Hct 26.3 (stable), Na 127, Cr 3.5
+(baseline 1.4), lactate 1.2.  UA suggestive of recurrent UTI.
+CXR showed moderate pulmonary edema with bilateral pleural
+effusions, and was similar to recent prior studies.  Given LUE
+edema, ultrasound obtained which was negative for DVT.  Patient
+received vancomycin and cefepime.  Also got ASA given elevated
+trop of 0.2.  ECG showed paced rhythm.  Patient had 1L NS hung
+prior to transfer.  VS prior to transfer 100.0 70, 112/82, 15,
+99%.
+.
+On arrival to the MICU, patient nods yes when asked if he is in
+pain, but he cannot localize the pain.  Appears comfortable when
+resting in bed, though uncomfortable when examined.
+.
+
+
+Past Medical History:
+Rectal cancer s/p excision and XRT ([**2157**])
+CAD s/p stents (?[**2159**])
+CVA in [**2150**] with residual right hand dysthesia
+Complete heart block s/p pacemaker
+H/o cardiac arrest (now with AICD)
+GI bleed secondary to angiectasias in the duodenum ([**1-/2162**]) s/p
+cauterization via EGD
+Atrial fibrillation, not on [**Year (4 digits) **]
+Systolic CHF (EF 40-45%)
+S/p Fall with multiple rib fractures ([**2163-6-23**])
+MICU admission [**Date range (1) 108856**]/[**2163**] for hemoptysis, bleeding from
+trach
+Abdominoperineal resection [**9-/2157**] w/ [**Doctor Last Name **]
+
+
+Social History:
+Resident of [**Hospital 100**] Rehab; previously had lived in [**Location 745**] with
+his wife, now w some depression about moving out of their 42
+year home. Has two children. Retired computer science professor.
+
+- Tobacco: 5 cigars daily for 30 years, quit [**2150**] s/p CVA
+- Alcohol: Previously [**1-16**] glasses/week, generally per wife
+"affects him quite a bit," changing his mood and making him sick
+
+- Illicits: [**Month/Day (2) 4273**]
+
+
+Family History:
+Father died in 80s from MI. Mother died in 80s from PE. No
+family history of colon, breast, uterine, or ovarian cancer. No
+family history of seizures.
+
+Physical Exam:
+ADMISSION EXAM:
+General: easily arousable to voice, frequently falls to sleep,
+oriented to person and place, unable to assess if oriented to
+time (could not interpret patient's answer), appears comfortable
+at rest
+HEENT: PERRL, EOMI, sclera anicteric, dry MM, oropharynx clear
+Neck: supple, JVP 8-9cm, trach in place
+CV: RRR, normal S1 + S2, II/VI holosystolic murmur loudest at
+apex and radiating to axilla
+Lungs: bilateral rhonchi with scattered crackles, no wheezing
+Abdomen: bowel sounds present, soft, mildly distended, diffuse
+mild  tenderness to palpation, suprapubic tenderness, ostomy bag
+in place GU: foley in place
+Ext: slighty cool, 2+ pulses, venous stasis changes, 2+ edema to
+knees bilaterally
+
+DISCHARGE EXAM
+HEENT: PERRL, EOMI, sclera anicteric, dry MM, oropharynx clear
+Neck: supple, JVP 8-9cm, trach in place
+CV: RRR, normal S1 + S2, II/VI holosystolic murmur loudest at
+apex and radiating to axilla
+Lungs: bilateral rhonchi with scattered crackles, no wheezing
+Abdomen: bowel sounds present, soft, mildly distended, diffuse
+mild  tenderness to palpation, suprapubic tenderness, ostomy bag
+in place GU: foley in place
+Ext: slighty cool, 2+ pulses, venous stasis changes, 2+ edema to
+knees bilaterally
+
+
+Pertinent Results:
+ADMISSION LABS
+[**2163-10-14**] 06:25PM BLOOD WBC-14.2*# RBC-3.15* Hgb-8.9* Hct-26.3*
+MCV-83 MCH-28.2 MCHC-33.8 RDW-15.4 Plt Ct-116*
+[**2163-10-14**] 06:25PM BLOOD Neuts-82.8* Lymphs-6.4* Monos-10.2
+Eos-0.3 Baso-0.4
+[**2163-10-14**] 06:25PM BLOOD PT-16.7* PTT-35.8* INR(PT)-1.5*
+[**2163-10-14**] 06:25PM BLOOD Glucose-108* UreaN-117* Creat-3.5*#
+Na-127* K-4.5 Cl-85* HCO3-28 AnGap-19
+[**2163-10-14**] 06:25PM BLOOD ALT-52* AST-65* AlkPhos-258* TotBili-1.7*
+[**2163-10-15**] 02:26AM BLOOD Albumin-2.8* Calcium-8.4 Phos-3.5 Mg-2.2
+
+DISCHARGE LABS
+[**2163-10-21**] 03:32AM BLOOD WBC-4.9 RBC-2.90* Hgb-8.2* Hct-25.5*
+MCV-88 MCH-28.2 MCHC-32.0 RDW-16.2* Plt Ct-108*
+[**2163-10-19**] 12:11AM BLOOD PT-16.1* PTT-36.1* INR(PT)-1.4*
+[**2163-10-21**] 03:32AM BLOOD Glucose-74 UreaN-96* Creat-2.7* Na-140
+K-3.7 Cl-102 HCO3-23 AnGap-19
+[**2163-10-20**] 03:02AM BLOOD CK(CPK)-21*
+[**2163-10-21**] 03:32AM BLOOD Calcium-8.4 Phos-4.9* Mg-2.0
+
+MICROBIOLOGY
+[**10-14**] BLood Culture
+   STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------   =>8 R
+DAPTOMYCIN------------       S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------     2 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------ <=0.5 S
+
+[**10-14**] Urine Culture
+   URINE CULTURE (Final [**2163-10-19**]):
+      ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..
+         Sensitivity testing performed by Sensititre.
+         Daptomycin = 1 MCG /ML.
+      YEAST.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------     1 S
+DAPTOMYCIN------------       S
+LINEZOLID-------------     1 S
+TETRACYCLINE----------  =>32 R
+VANCOMYCIN------------  >256 R
+
+[**10-15**] Sputum culture
+[**2163-10-15**] 7:00 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2163-10-20**]**
+
+   GRAM STAIN (Final [**2163-10-15**]):
+      THIS IS A CORRECTED REPORT [**2163-10-16**] AT 3:00 PM.
+      Reported to and read back by [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 394**].
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      [**2163-10-16**] PREVIOUSLY REPORTED AS.
+      <10 PMNs and >10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2163-10-20**]):
+      

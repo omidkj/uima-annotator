@@ -1,0 +1,87 @@
+Admission Date: [**2200-4-23**]        Discharge Date: [**2200-5-24**]
+
+Date of Birth:  [**2129-3-10**]        Sex:  F
+
+Service:  VSU
+
+
+This is a 71 year old patient admitted on [**2200-4-23**].
+Discharge date anticipated [**2200-5-16**] was cancelled. This
+is a continuation of the hospital course from the discharge
+summary, document #[**Numeric Identifier 56754**].
+
+HOSPITAL COURSE, CONTINUED:  The patient's discharge was
+delayed. Dr. [**Last Name (STitle) **] of the interventional radiology service
+saw the patient regarding vertebroplasty for her lumbar
+compression fracture. An MRI was obtained, which demonstrated
+a compression fracture of the anterior aspect of the L2
+vertebral body, with minimal associated T2 and STIR signal
+abnormalities. The remaining vertebral bodies were normal in
+height, signal and alignment. There were no epidural
+collections seen. The conus medullaris ends at L1-L2, and
+there was no spinal cord narrowing. Also noted on the scan
+was a large left retroperitoneal hematoma in a patient who is
+status post thoraco-abdominal aortic aneurysm repair. There
+was some edema in the muscular soft tissues posterior to the
+lumbar spine at the levels of L2 to L4. These findings could
+reflect dependent changes related to the patient's
+longstanding supine positioning. At this point, a
+vertebroplasty was deferred.
+
+The patient in the next 24 hours developed onset of abdominal
+pain and diarrhea. Abdominal CT was obtained. This CT of the
+abdomen and pelvis did not show any evidence of thoraco-
+aortic dissection. There was a persisting small bowel
+obstruction, which had partially decompressed, and the left
+abdominal wall had a surgical site seroma. The thoraco-
+abdominal aneurysm repair was stable in appearance. The
+appearance of the stenosis of the origin of the SMA, celiac
+and right renal arteries was stable. The patient then
+proceeded to surgery on [**2200-5-16**], and underwent
+abdominal aortogram with selective celiac angiogram,
+angioplasty, and stenting of the celiac artery through a left
+brachial artery access. The patient tolerated the procedure
+well and was transferred to the post anesthesia care unit in
+stable condition, and returned to the VICU for continued
+monitoring and care. The patient's postoperative day 1 from
+her angioplasty and stenting of the celiac artery was
+hemodynamically stable. White count was 13.4, hematocrit
+31.5, BUN 30, creatinine 1.0. Physical examination was
+remarkable for a soft, nontender abdomen with bowel sounds.
+The nasogastric tube was removed and the diet was advanced as
+tolerated. Ambulation was continued. The patient was
+continued on TPN.
+
+Over the next 24 hours, the patient tolerated liquids. The
+TPN was continued. Physical therapy continued to work with
+the patient. Psychiatry was requested to see the patient
+because of a history of depression. The patient's head CT
+scan was remarkable for periventricular white matter changes
+and an old right insular infarct. Psychiatric felt that the
+patient's [**Last Name 16423**] problem was delirium, which was mild and
+which was related to surgery and all the perioperative events
+in an older woman with underlying structurally abnormal
+brain. There was no evidence of anxiety present.
+Recommendations were to discontinue the Ativan, give the
+patient Haldol 0.5 - 1 mg IV every 4-6 hours p.r.n. for
+anxiety or confusion, minimize the use of Dilaudid, or
+replace with a non narcotic analgesic. The patient did
+experience episodes of somnolence with Ativan and narcotics.
+The narcotics were withdrawn, and the Ativan was tapered
+accordingly, with improvement in the patient's somnolence.
+The patient continued to show improvement, and was
+transferred to the regular nursing floor on [**2200-5-22**]. The TPN
+was weaned, and she was continued on diet advanced as
+tolerated. Case Management was requested to begin screening
+for rehab. The finalization of the [**Hospital 228**] hospital course
+will be dictated at the time of discharge to rehab.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 17755**], [**MD Number(1) 17756**]
+
+Dictated By:[**Last Name (NamePattern1) 2382**]
+MEDQUIST36
+D:  [**2200-5-23**] 13:34:03
+T:  [**2200-5-23**] 14:28:22
+Job#:  [**Job Number 56755**]

@@ -1,0 +1,227 @@
+Admission Date:  [**2120-2-9**]              Discharge Date:   [**2120-2-17**]
+
+Date of Birth:  [**2060-9-23**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 99**]
+Chief Complaint:
+Fever, hypotension
+
+Major Surgical or Invasive Procedure:
+Midline intravenous line
+
+History of Present Illness:
+59 yo M w/hx multiple sclerosis, neurogenic bladder,
+schizoaffective disorder, s/p trach, sacral decubitus ulcers,
+and hx VRE/MRSA UTI and recurrent aspiration pneumonia presents
+from the [**Hospital 100**] Rehab MACU with fever to 102 rectal, hypotension
+to 50s/palp, and heart rate in the 130s, with tachypnea with RR
+30s. Patient is a long term [**Hospital 100**] Rehab resident, and was
+admitted to the MACU for treatment of pneumonia and urosepsis
+with vancomycin, levofloxacin, and metronidazole, and IVF. In
+the MACU patient's labs revealed ARF with creatinine of 2.7, as
+well as an elevated WBC of 51 with 21% bands. However, today, IV
+access was unable to be obtained at [**Hospital 100**] Rehab, and patient
+was brought to the ED, where he received 4L IVF, and had a
+femoral line placed due to concern for sepsis. Patient's BP
+increaed from 70s-130s systolic, but then dropped to 80s, at
+which point levophed gtt was started. He received vancomycin,
+levofloxacin, and metronidazole in the ED prior to transfer.
+Patient is nonverbal at baseline but denies any pain.
+
+Past Medical History:
+Multiple sclerosis
+Neurogenic bladder
+Schizoaffective disorder
+S/p colectomy with mucous fistula for c. diff colitis, c/b
+abscess formation.
+Hypothyroidism
+Dysphagia
+Hx aspiration pneumonia
+MRSA/VRE urinary tract infection
+GERD
+Anxiety, depression
+Ex lap with removal of migraged G-tube from terminal ileum in
+[**9-21**]
+Trach tube placement [**10-22**] for failure to wean off vent
+Sacral decubitus ulcer, stage IV
+
+Social History:
+Patient lives at the [**Hospital 100**] Rehab. No tobacco, alcohol, or
+drugs.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: 98.4 HR 123 BP 111/65 O2sat 95% on 15L trach mask with FiO2
+0.50
+Gen: Patient nonverbal
+HEENT: MM dry. Anicteric.
+Neck: No JVD. No cervical LAD. Neck supple.
+Hrt: Normal S1/S2. Difficult to hear heart sounds
+Lungs: Duffusely rhonchorous throughout. Trach in place. Thick
+yellowish secretions. No wheezes.
+Abd: Soft. Normoactive BS. G tube in place. Ostomy with yellow
+brown stool. Mucous fistula pink, with no drainage or erythema.
+Ext: Cachectic. Flexion contractures.
+Neuro: Nonverbal. Moving all extremities. Able to follow
+commands
+
+Pertinent Results:
+Admission labs
+141  103  93 / 101    AGap=18
+-------------
+3.7  24  2.6 \
+Ca: 9.0 Mg: 2.0 P: 2.2
+      11.4
+38.6 >----< 314
+      33.1
+N:96.0 Band:0 L:1.3 M:2.6 E:0.1 Bas:0.1
+.
+UA: Cloudy. Mod leuks, large blood, 30 protein, trace ketones,
+0-2 RBC, 21-50 WBC, many bacteria.
+.
+CXR: Low lung volumes, without definite evidence of pneumonia
+.
+Trends:
+WBC: 38.6 - 32.8 - 17.5 - 13.8 - 6.2
+[**2120-2-10**] 04:54AM BLOOD PT-14.9* PTT-36.3* INR(PT)-1.3*
+.
+Na: 141 - 143 - 147 - 150 - 148 - 148
+Creatinine: 2.6 - 1.9 - 1.2 - 1.1 - 1.2 - 0.9
+.
+[**2120-2-9**] 02:22AM BLOOD Lactate-2.4*
+[**2120-2-9**] 08:17AM BLOOD Lactate-2.0
+.
+Micro:
+C Diff neg x3
+[**2-10**]: Blood cx NGTD
+
+[**2120-2-9**] 2:10 am BLOOD CULTURE 4/4 bottles
+                            **FINAL REPORT [**2120-2-11**]**
+   AEROBIC BOTTLE (Final [**2120-2-11**]):
+      REPORTED BY PHONE TO [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] @ 9PM ON [**2120-2-9**].
+      PROTEUS MIRABILIS.    FINAL SENSITIVITIES.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------    16 I
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     8 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------    64 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+   ANAEROBIC BOTTLE (Final [**2120-2-11**]):
+      PROTEUS MIRABILIS.
+         IDENTIFICATION AND SENSITIVITIES PERFORMED FROM AEROBIC
+BOTTLE.
+
+[**2120-2-9**] 2:10 am SPUTUM     Site: INDUCED
+   GRAM STAIN (Final [**2120-2-9**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI.
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Preliminary):
+      HEAVY GROWTH OROPHARYNGEAL FLORA.
+      Due to mixed bacterial types ( >= 3 colony types) an
+abbreviated
+      workup will be performed appropriate to the isolates
+recovered from
+      this site.
+      UNABLE TO R/O OTHER PATHOGENS DUE TO OVERGROWTH OF
+SWARMING PROTEUS
+      SPP..
+      PROTEUS SPECIES.    MODERATE GROWTH.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+      GRAM NEGATIVE ROD #3.    MODERATE GROWTH.
+      ORGANISM.    MODERATE GROWTH.
+         BEING ISOLATED FOR FURTHER INFORMATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------     4 S
+CEFTAZIDIME-----------     2 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+IMIPENEM--------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+
+[**2120-2-9**] 4:50 am URINE     Site: CATHETER
+                            **FINAL REPORT [**2120-2-11**]**
+   URINE CULTURE (Final [**2120-2-11**]):
+      PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML..
+         Trimethoprim/Sulfa sensitivity testing confirmed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------    16 I
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------    32 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+ECG ([**2-9**]): Sinus tachycardia. Early transition. Other than
+rate, no diagnostic abnormality. Compared to the previous
+tracing of [**2119-10-7**] no significant change.
+
+SUPINE AP CHEST ([**2-10**]):  A tracheostomy is in place at the
+thoracic inlet.  There are low lung volumes.  The upper lungs
+are clear.  There is bibasilar volume loss. Heart size is
+difficult to assess, although it is likely normal.  The aortic
+contour is unchanged from prior studies.  No pneumothorax.  No
+definite effusion is seen.  There is marked right convex
+scoliosis of the thoracic spine, limiting the evaluation.
+IMPRESSION:  Low lung volumes, without definite evidence of
+pneumonia.
+
+Brief Hospital Course:
+Mr. [**Known lastname 104995**] is a 59 yo M w/multiple sclerosis and neurogenic
+bladder, with hx MRSA/VRE UTIs who presents with fever,
+hypotension, leukocytosis, elevated lactate and a positive UA
+c/w sepsis.  Hospital course by problem:
+.
+# Urosepsis: Patient had fever, hypotension, leukocytosis,
+elevated lactate c/w sepsis, with potential sources on admission
+being urine, sacral decubitus ulcer, and lung, with his trach
+and copious secretions.  He received approx 5L IVF within the
+first 12h of admission to the ICU (plus IVF given at rehab prior
+to transfer).  He also intermittently required pressors for BP
+support during the first 36 hours.  These were weaned well
+before transfer back to rehab.  GNR rapidly grew from sputum an

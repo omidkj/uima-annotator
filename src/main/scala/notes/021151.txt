@@ -1,0 +1,225 @@
+Admission Date:  [**2124-6-13**]              Discharge Date:   [**2124-6-30**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1561**]
+Chief Complaint:
+Boerhaave's esophageal rupture
+
+Major Surgical or Invasive Procedure:
+1. Right thoracotomy with primary repair of ruptured
+esophagus.
+2. Pedicle intercostal muscle flap insert.
+3. Decortication of lung.
+
+
+History of Present Illness:
+The patient is an 89-year-old
+woman who suffered a Boerhaave ruptured esophagus about 24
+hours ago. She was transferred to [**Hospital1 190**], septic, in renal failure, for surgical
+therapy. She was taken immediately to the ICU where she was
+assessed and central venous access was attempted in
+preparation for surgery. She underwent volume resuscitation
+and was immediately transferred to the operating room.
+
+Past Medical History:
+Dementia (Alzheimer's), mild COPD, HTN
+
+Physical Exam:
+MS/NEURO: no apparent distress, alert & oriented x 1
+HEENT: PERRLA, EOMI
+CVS: RRR
+Resp: CTA-B
+Abd: S/NT/ND/+BS
+Ext: No. P. Edema
+Inc: C/D/I
+
+
+Pertinent Results:
+[**2124-6-13**] 06:08PM BLOOD WBC-19.2* RBC-3.95* Hgb-10.3* Hct-31.0*
+MCV-79* MCH-26.1* MCHC-33.3 RDW-14.9 Plt Ct-516*
+[**2124-6-19**] 03:22AM BLOOD WBC-25.3* RBC-3.87* Hgb-10.3* Hct-31.3*
+MCV-81* MCH-26.6* MCHC-32.8 RDW-15.9* Plt Ct-432
+[**2124-6-30**] 04:20AM BLOOD WBC-8.6 RBC-3.35* Hgb-8.5* Hct-27.0*
+MCV-81* MCH-25.5* MCHC-31.6 RDW-16.1* Plt Ct-690*
+[**2124-6-17**] 01:54AM BLOOD PT-12.9 PTT-31.3 INR(PT)-1.1
+[**2124-6-13**] 06:08PM BLOOD Glucose-255* UreaN-48* Creat-2.4* Na-141
+K-3.9 Cl-107 HCO3-21* AnGap-17
+[**2124-6-16**] 02:00AM BLOOD Glucose-114* UreaN-28* Creat-1.2* Na-141
+K-4.0 Cl-112* HCO3-21* AnGap-12
+[**2124-6-30**] 04:20AM BLOOD Glucose-212* UreaN-33* Creat-0.9 Na-136
+K-4.2 Cl-101 HCO3-25 AnGap-14
+[**2124-6-14**] 08:01PM BLOOD CK-MB-3 cTropnT-0.02*
+[**2124-6-13**] 06:08PM BLOOD Calcium-9.7 Phos-3.1 Mg-3.2*
+[**2124-6-30**] 04:20AM BLOOD Calcium-7.9* Phos-2.9 Mg-1.8
+[**2124-6-25**] 11:03AM BLOOD Vanco-21.2*
+[**2124-6-13**] 09:58PM BLOOD Type-ART pO2-337* pCO2-37 pH-7.35
+calHCO3-21 Base XS--4 Intubat-INTUBATED
+[**2124-6-17**] 02:34AM BLOOD Type-ART PEEP-5 FiO2-40 pO2-129* pCO2-29*
+pH-7.43 calHCO3-20* Base XS--3 Intubat-INTUBATED Vent-CONTROLLED
+[**2124-6-17**] 03:49PM BLOOD Type-ART Temp-37.6 Rates-/14 Tidal V-540
+PEEP-5 FiO2-40 pO2-133* pCO2-30* pH-7.44 calHCO3-21 Base XS--1
+Vent-SPONTANEOU
+[**2124-6-17**] 08:46PM BLOOD Type-ART Temp-37.2 FiO2-40 pO2-103
+pCO2-30* pH-7.40 calHCO3-19* Base XS--4 Intubat-NOT INTUBA
+[**2124-6-19**] 04:26AM BLOOD Type-ART pO2-61* pCO2-30* pH-7.47*
+calHCO3-22 Base XS-0
+[**2124-6-20**] 03:53AM BLOOD freeCa-1.19
+
+[**2124-6-13**] 7:55 pm TISSUE     Site: LUNG      EMPYEMA RIGHT.
+
+                            **FINAL REPORT [**2124-6-26**]**
+
+   GRAM STAIN (Final [**2124-6-14**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      3+  (5-10 per 1000X FIELD):   BUDDING YEAST.
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+
+   TISSUE (Final [**2124-6-23**]):
+      Due to mixed bacterial types ( >= 3 colony types) an
+abbreviated
+      workup is performed appropriate to the isolates recovered
+from the
+      site (including a screen for Pseudomonas aeruginosa,
+Staphylococcus
+      aureus and beta streptococcus).
+      [**Female First Name (un) **] (TORULOPSIS) GLABRATA.    HEAVY GROWTH.
+         FURTHER WORK-UP REQUESTED BY DR. [**Last Name (STitle) 21809**] ([**Numeric Identifier 63313**])
+[**2124-6-19**].
+         SENT TO [**State **] FOR SENSITIVITY TESTING , PLEASE REFER TO
+SEND OUT
+         SYSTEM FOR RESULTS.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         Please contact the Microbiology Laboratory ([**6-/2425**])
+immediately if
+         sensitivity to clindamycin is required on this
+patient's isolate.
+      [**Female First Name (un) **] ALBICANS, PRESUMPTIVE IDENTIFICATION.    MODERATE
+GROWTH.
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    SPARSE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------   <=1 S
+
+   ANAEROBIC CULTURE (Final [**2124-6-18**]):    NO ANAEROBES ISOLATED
+
+[**2124-6-15**] 2:08 am SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2124-6-29**]**
+
+   GRAM STAIN (Final [**2124-6-15**]):
+      [**10-3**] PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   BUDDING YEAST WITH
+PSEUDOHYPHAE.
+
+   RESPIRATORY CULTURE (Final [**2124-6-17**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      YEAST.    MODERATE GROWTH.
+      YEAST.    SPARSE GROWTH.  2ND TYPE.
+
+   FUNGAL CULTURE (Final [**2124-6-29**]):
+      YEAST.
+
+RADIOLOGY  Final Report
+
+ESOPHAGUS  [**2124-6-21**] 4:14 PM
+
+ESOPHAGUS
+
+Reason: eval for esophgeal anastomotic leak GASTROGRAFFIN
+swallow
+
+[**Hospital 93**] MEDICAL CONDITION:
+89 year old woman with esophgeal rupture/ repair. DO NOT PULL
+BACK CURRENT NGT PER DR. [**Last Name (STitle) **]. DROP 2nd NGt for contrast. ?'s
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] thoracic [**Doctor First Name **] #[**Numeric Identifier 63314**]
+REASON FOR THIS EXAMINATION:
+eval for esophgeal anastomotic leak GASTROGRAFFIN swallow
+INDICATION: 89-year-old woman with esophageal rupture/repair.
+Assess for anastomotic leak.
+
+UPPER GI STUDY: An 8-French [**Location (un) 2174**]-[**Doctor First Name 1557**] tube was inserted
+through the nose into the distal esophagus. 10 cc of Optiray was
+administrated. No anastomotic leak was visualized. Fluoroscopic
+guidance was used throughout the procedure. The [**Location (un) 2174**]-[**Doctor First Name 1557**]
+tube was withdrawn after the procedure.
+
+IMPRESSION: No evidence of anastomotic leak.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name (STitle) 21827**] [**Name (STitle) 21828**]
+DR. [**First Name11 (Name Pattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 6888**]
+Approved: [**Doctor First Name **] [**2124-6-22**] 4:43 PM
+
+RADIOLOGY   Preliminary Report
+
+CHEST (PORTABLE AP)  [**2124-6-30**] 8:40 AM
+
+CHEST (PORTABLE AP)
+
+Reason: 3 cts to air
+
+[**Hospital 93**] MEDICAL CONDITION:
+89 year old woman s/p esophageal rupture repair, 3 chest tubes
+REASON FOR THIS EXAMINATION:
+3 cts to air
+PORTABLE CHEST, [**2124-6-30**]:
+
+COMPARISON: [**2124-6-29**]
+
+INDICATION: Chest tubes assessment.
+
+Three chest tubes remain in place in the right hemithorax, one
+of which has a basilar course. There is a right basilar
+hydropneumothorax present, which is not clearly visualized on
+the previous study. A moderate sized partially loculated left
+pleural effusion is again demonstrated. Cardiac and mediastinal
+contours are stable. Bilateral retrocardiac opacities and small
+left effusion are noted with the left effusion apparently new in
+the interval. Subcutaneous emphysema is noted in the right chest
+wall.
+
+IMPRESSION: Right basilar hydropneumothorax. The pneumothorax
+component is new in the interval.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5785**]
+
+Echo:
+Conclusions:
+The left atrium is mildly dilated. The interatrial septum is
+aneurysmal. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF 60%). The
+right ventricular cavity is dilated. Right ventricular systolic
+function
+appears depressed. The aortic root is mildly dilated. The aortic
+valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Mild
+(1+) aortic regurgitatio

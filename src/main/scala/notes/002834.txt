@@ -1,0 +1,234 @@
+Admission Date:  [**2162-1-5**]              Discharge Date:   [**2162-1-15**]
+
+Date of Birth:  [**2096-5-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+respiratory distress
+
+Major Surgical or Invasive Procedure:
+Intubation
+Arterial line
+Tracheostomy
+
+History of Present Illness:
+65-year-old male with history of COPD (FEV1/FVC 28% of
+predicted), mild mental retardation with schizophrenia and
+recent admission with discharge on [**2161-12-10**] for COPD
+exacerbation requiring intubation presenting in respiratory
+distress. Patient reported increased cough and O2 requirement
+over 1-2 days, completed steroid taper 1 week ago.  VNA called
+the [**Company 191**] to report found patient to have pOx of 65 % and called
+911 for assistance and delivery of patient to [**Hospital1 18**] ED. He was
+given a combivent neb at home. Baseline home O2 requirement of 2
+L O2.
+
+EMS found patient in respiratory distress, satting 70% RA, given
+nebs.
+
+In the ED, initial VS: HR 79 BP 109/69 RR 29 O2 sat 98 % on 40 %
+O2 . CXR without clear infiltrate, had received empiric
+vancomycin and levofloxacin. Given continuous albuterol,
+methylprednisolone.  ABG with PCO2 of 82, baseline of 60s. VS:
+114/64 69 32 98% CPAP. Repeat ABG unchanged on BiPAP showing
+hypercarbia and acidosis. Patient continued to appear somnolent
+despite interventions including biPAP and subsequently intubated
+with etomidate 20 mg IV and succinycholine 120 mg IV. He was
+sedated with fentanyl/versed gtts but stopped in setting of
+hypotension (lowest [**Location (un) 1131**] 52/34 HR 64) and given 2 L NS.
+
+Of note, he refused intubation in ED initially. PCP states
+patient was not ready for DNR/DNI per clinic note on [**2161-12-15**].
+
+.
+On the floor, patient intubated and sedated.
+.
+Review of systems:
+Unable to obtain
+.
+
+Past Medical History:
+- COPD: FEV1 23% predicted,  home 1.5-2L O2 at night only
+- Secondary Pulmonary Hypertension (51-66 mm Hg on ECHO
+[**2159-9-18**])
+- Schizophrenia
+- Hx GI bleeding
+- Mental Retardation
+- Pulmonary Hypertension
+- s/p tonsillectomy
+
+Social History:
+Lives in [**Location **], unknown if alone. On disability since [**2149**]
+for mental health issues. Has home nurse visit every morning and
+evening. Reports ~50 pack-year smoking with current smoking.
+Denies any ETOH/drug use.
+
+
+Family History:
+Patient unable to provide.
+
+Physical Exam:
+Vitals: HR 49 RR 20 BP 84/59 (MAP 65) SaO2 99 on CMV with FiO2
+100, PEEP 6 PPeak 32 Vt 0.500
+General: sedated
+[**Year (4 digits) 4459**]: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: distant breath sounds, end-expiratory wheezes
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+I. Labs
+
+A. Admission
+
+[**2162-1-5**] 05:28PM BLOOD WBC-7.3 RBC-4.37* Hgb-13.5* Hct-39.8*
+MCV-91 MCH-30.9 MCHC-33.9 RDW-13.4 Plt Ct-334
+[**2162-1-5**] 05:28PM BLOOD Neuts-57.8 Lymphs-32.3 Monos-5.4 Eos-3.2
+Baso-1.3
+[**2162-1-5**] 05:28PM BLOOD PT-12.9 PTT-34.7 INR(PT)-1.1
+[**2162-1-5**] 05:28PM BLOOD Glucose-121* UreaN-17 Creat-0.9 Na-144
+K-4.2 Cl-102 HCO3-34* AnGap-12
+[**2162-1-6**] 03:54AM BLOOD Calcium-7.4* Phos-2.0*# Mg-1.4*
+[**2162-1-5**] 05:36PM BLOOD Type-ART FiO2-1 pO2-252* pCO2-82*
+pH-7.26* calTCO2-39* Base XS-6 Intubat-NOT INTUBA
+[**2162-1-7**] 02:10PM BLOOD O2 Sat-98
+
+[**2162-1-5**] 10:20PM URINE Color-Amber Appear-Clear Sp [**Last Name (un) **]-1.027
+[**2162-1-5**] 10:20PM URINE Blood-NEG Nitrite-NEG Protein-25
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**2162-1-5**] 10:20PM URINE RBC-0-2 WBC-[**7-16**]* Bacteri-FEW Yeast-NONE
+Epi-0
+[**2162-1-5**] 10:20PM URINE Mucous-MANY
+
+B. Micro
+[**2162-1-6**] 	URINE 	URINE CULTURE-FINAL 	INPATIENT
+[**2162-1-5**] 	BLOOD CULTURE 	Blood Culture,
+Routine-PENDING 	EMERGENCY [**Hospital1 **]
+[**2162-1-5**] 	BLOOD CULTURE 	Blood Culture,
+Routine-PENDING 	EMERGENCY [**Hospital1 **]
+
+C. Discharge
+
+________________________________
+
+________________________________
+
+II. Radiology
+
+A. CXR
+XAM: Chest, single frontal view.
+
+CLINICAL INFORMATION: 55-year-old male with history of shortness
+of breath.
+
+COMPARISON: Multiple priors including [**2161-12-8**], [**2161-12-6**] and
+[**2161-12-4**].
+
+FINDINGS: Subtle right lower lobe patchy opacity appears
+slightly more
+prominent compared to the study of [**2161-12-8**] but less prominent
+compared to
+[**2161-12-6**]. Findings could be due to aspiration or infectious
+process. Left
+infrahilar opacity is again seen. No pleural effusion or
+pneumothorax is
+seen. Cardiac and mediastinal silhouettes are stable and
+unremarkable.
+
+III. Cardiology
+
+A. EKG
+Sinus tachycardia. Slight ST-T wave changes are non-specific and
+may be within normal limits. Since the previous tracing of
+[**2161-11-29**] sinus tachycardia is now present and the marked ST-T
+wave abnormalities have decreased
+
+Pending studies
+Blood culture x 2, urine culture
+
+
+Brief Hospital Course:
+65-year-old male with mental retardation, history of severe COPD
+with multiple admissions for same complaint requiring intubation
+presenting with hypercarbic respiratory failure likely secondary
+to COPD exacerbation. Goals of care were discussed, and patient
+subsequently underwent tracheostomy.
+
+# Hypercarbic Respiratory failure
+Etiology thought to be COPD exacerbation given symptoms of cough
+in week prior, continued smoking, and absence of leukocytosis,
+fever, and definitive infiltrate. He was treated with a 5-day
+course of levofloxacin and placed on a prednisone taper.
+Multiple pressure support trial were attempted resulting in
+worsening hypercarbia and continued intubation. [**Name (NI) **] sister
+and patient were involved in discussion regarding goals of care
+and decided on undergoing a tracheostomy given multiple
+intubations in the recent past for his severe COPD. It was felt
+that patient has capacity to make this decision given he
+demonstrated understanding risks and benefits of the procedure.
+He spiked a fever to 101 on [**1-14**], but felt to be related to
+post-procedure. Blood and urine cultures no growth to date and
+CXR with no infiltrate. He remained afebrile for 24 hours
+afterwards.
+
+# Hypotension
+Patient initially hypotensive on admission especially with
+sedation after intubation but appeared euvolemic. Attributed to
+intubation with sedatives and PEEP. He was treated with a 4 L NS
+bolus and continued to produce adequate urine output.
+Normotensive throughout rest of MICU course and at time of
+dsicharge.
+
+
+# Pyuria
+Patient noted to have pyuria on admission and history of VRE.
+Urine culture was negative.
+
+# Glucose intolerance. The patient had elevated blood sugars
+during last hospitalization, which may be secondary to steroid
+usage vs. hyperglycemia of acute illness vs. a pre-diabetic
+state. Patient remained of SSI in house. This should be
+monitored closely as an outpt.
+
+# Anemia
+Patient noted to have anemia on admission (Hct 39.8). Advise
+age-appropriate cancer screening on outpatient basis and
+outpatient follow-up.
+
+# Schizophrenia
+Patient remained of zyprexa.
+
+
+Medications on Admission:
+ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler - 2
+puffs(s) inhaled twice a day and q 4 hours prn wheeze
+FAMOTIDINE - 20 mg Tablet - 1 Tablet(s) by mouth every twelve
+(12) hours
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 500 mcg-50 mcg/Dose
+Disk
+with Device - 1 puff(s) inhaled twice a day
+INHALATIONAL SPACING DEVICE [AEROCHAMBER] -   Inhaler - use with
+inhalers every time
+OLANZAPINE [ZYPREXA] -  (Prescribed by Other Provider) - 7.5 mg
+Tablet - 1 Tablet(s) by mouth once a day
+OXYGEN -   - 1- 2 liters nasal canula to keep O2 sat above 90%
+PREDNISONE - 20 mg Tablet - 2 Tablet(s) by mouth once a day for
+7
+days
+PREDNISONE - 10 mg Tablet - Taper as directed
+TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg Capsule,
+w/Inhalation Device - 1 capsule inhaled once a day
+
+Medications - OTC
+ACETAMINOPHEN [TYLENOL] - 325 mg Tablet - 1 Tablet(s) 

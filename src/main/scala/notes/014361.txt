@@ -1,0 +1,204 @@
+Admission Date:  [**2156-4-26**]              Discharge Date:   [**2156-5-1**]
+
+Date of Birth:  [**2086-12-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Niacin / aspirin / Codeine
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+GI Bleed
+
+Major Surgical or Invasive Procedure:
+enteroscopy [**2156-4-29**] and [**2156-4-30**]
+
+
+History of Present Illness:
+HMED ATTENDING ADMISSION NOTE
+.
+ADMIT DATE: [**2156-4-26**]
+ADMIT TIME: 2345
+.
+PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) 1575**] [**Name Initial (NameIs) **].
+Address: [**Doctor Last Name 32771**], [**Location (un) **],[**Numeric Identifier 17464**]
+Phone: [**Telephone/Fax (1) 8340**]
+Fax: [**Telephone/Fax (1) 8341**]
+.
+Cardiology: Dr. [**First Name4 (NamePattern1) 2855**] [**Last Name (NamePattern1) 32772**]
+Address: [**Location (un) **] [**Apartment Address(1) 32773**]. [**Location (un) 936**]
+Phone: [**Telephone/Fax (1) 14967**]
+.
+69 yo M with CAD s/p CABG complicated be restenosis requiring
+multiple stents, mechanical aortic valve on coumadin, recurrent
+GI bleeding and IDDM who is transferred from [**Hospital3 **] for advanced endoscopy for management of active upper
+GI bleed.
+.
+Patient was admitted to [**Hospital6 33**] approximately one
+week ago with melena and hematocrit of 22, found to have a
+NSTEMI (medical management per cardiology, restarted on plavix -
+d/c'ed in [**2154**] given recurrent gi bleeds, 1 month after BMS
+placed).  Upper endoscopy was unrevealing except for mild
+gastritis.  Colonoscopy last done one year ago which was
+unremarkable except for benign polyps.  Patient was transfused 4
+units of pRBCs, hematorcrit increased to 27 and discharged three
+days ago.  Of note, he required diuresis for decompensated CHF.
+Was seen in the ED on [**4-21**] for chest pain, no EKG changes,
+resolved with nitro, discharged home.
+.
+Patient was re-admitted to [**Hospital3 **] today ([**2156-4-26**]) with
+recurrent melena.  Last night he had two black/tarry stools.  He
+also endorsed some mild chest pain.  His hematocrit on admission
+was 26.2.  Patient transfused 1 unit of packed cells.  He ruled
+out for ACS by three sets of negative cardiac enzymes and
+non-ischemic EKG.  Patient underwent a CT angiogram which
+revealed 3 small bowel foci of hemorrhage likely in the proximal
+ileum.  Given the location of the bleeding decision made by
+gastroenterologist to transfer to [**Hospital1 18**] for single balloon
+enteroscopy.  Patient has been continued on plavix given his
+significant cardiac comorbidities.  He has been bridged with a
+heparin gtt for a subtherapeutic INR of 1.9.
+.
+Of note, patient had recurrent GI bleeding at site of
+anastamosis from sigmoid colectomy in [**2154**], requiring multiple
+transfusions.  Was on asa/plavix/coumadin with recent BMS placed
+in diagonal.  ASA stopped and plavix discontinued 1 month after
+BMS placement given recurrent bleeding.  He had no further
+bleeding issues until this past week.
+.
+Currently patient has no complaints.  Denies any current chest
+pain, sob, lightheadedness or dizziness.  No nausea, vomiting or
+abdominal pain.  Reports one episode of black stool prior to
+transfer.
+.
+ROS as per HPI, 10 pt ROS otherwise negative.
+
+Past Medical History:
+-CAD s/p CABG 2v [**2135**], restenosis requiring multiple stents,
+[**2151**] DES for RCA stenosis, [**2152**] NSTEMI medically managed, [**2154**]
+BMS diagonal
+-St. [**Male First Name (un) 923**] aortic valve replacement [**2135**]
+-IDDM
+-COPD
+-Diverticulitis s/p sigmoid colectomy complicated by unstable
+angina, s/p cardiac cath and BMS to diagonal, then developed
+recurrent bleeding on asa/plavix/coumadin therefore plavix
+d/c'ed after 1 month
+-HTN
+-Hypothyroidism
+-CHF
+-Anxiety
+-S/p knee replacement [**2152**] complicated NSTEMI and CHF
+exacerbation
+-Hernia repair
+
+Social History:
+Lives with wife, [**Name (NI) 32774**] and grandson in [**Name (NI) 32775**], MA.  Retired
+heavy lift mechanic.  + tobacco, 1 ppd x 55 yrs.  No etoh or
+illicits.
+
+Family History:
++ CAD and DM, no hx of gi bleeds
+
+Physical Exam:
+ON ADMISSION:
+VS: 97.9  138/79  56  20  96%RA
+Appearance: alert, NAD, obese
+Eyes: eomi, perrl, anicteric
+ENT: OP clear s lesions, mmd, no JVD, neck supple
+Cv: +s1, s2  mechanical aortic click, no peripheral edema, 2+
+dp/pt bilaterally
+Pulm: clear bilaterally, diminished at bases
+Abd: soft, obese, midline scar, nt, nd, +bs
+Msk: 5/5 strength throughout, no joint swelling, no cyanosis or
+clubbing
+Neuro: cn 2-12 grossly intact, no focal deficits
+Skin: no rashes
+Psych: appropriate, pleasant
+Heme: no cervical [**Doctor First Name **]
+
+
+Pertinent Results:
+[**Hospital6 33**] labs:
+.
+[**2156-4-26**]
+.
+6.3> [**10-20**] <148
+.
+138  100  18
+------------< 161
+3.2  28  1.0
+.
+LFTs wnl
+.
+[**Hospital6 33**] Images:
+.
+[**2156-4-26**] CT angio a/p:
+three small foci of hemorrhage, located in proximal ileum with
+extravasation of intraluminal intravenous contrast may be due to
+angiodysplasia, no evidence for underlying mucosal masses;
+colonic diverticulosis without diverticulitis, mild splenomegaly
+.
+[**2156-5-1**]: WBC 3.1 HCT 24.6 PLT 95
+[**2156-4-30**] HCT 25.7 PLT 105
+[**2156-4-28**] 05:05AM BLOOD WBC-3.6* RBC-3.02* Hgb-10.1* Hct-29.2*
+MCV-97 MCH-33.6* MCHC-34.7 RDW-17.8* Plt Ct-129*
+[**2156-4-27**] 09:04PM BLOOD Hct-29.9*
+[**2156-4-27**] 03:16PM BLOOD Hct-30.9*
+[**2156-4-27**] 09:00AM BLOOD Hct-28.5*
+[**2156-4-27**] 05:15AM BLOOD WBC-3.7* RBC-2.72* Hgb-9.5* Hct-26.8*
+MCV-99* MCH-34.8* MCHC-35.3* RDW-17.2* Plt Ct-134*
+[**2156-4-27**] 12:40AM BLOOD WBC-4.0# RBC-2.84*# Hgb-9.5*# Hct-27.7*
+MCV-98# MCH-33.4*# MCHC-34.3 RDW-17.1* Plt Ct-134*
+[**2156-4-27**] 12:40AM BLOOD Neuts-55 Bands-0 Lymphs-35 Monos-8 Eos-2
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2156-4-27**] 12:40AM BLOOD Hypochr-NORMAL Anisocy-2+ Poiklo-2+
+Macrocy-2+ Microcy-NORMAL Polychr-NORMAL Ovalocy-1+
+Pencil-OCCASIONAL Ellipto-OCCASIONAL
+[**2156-5-1**]: INR 1.7
+[**2156-4-28**] 06:40PM BLOOD PT-19.7* PTT-75.3* INR(PT)-1.9*
+[**2156-4-28**] 05:05AM BLOOD Plt Ct-129*
+[**2156-4-28**] 05:05AM BLOOD PT-19.2* PTT-109.9* INR(PT)-1.8*
+[**2156-4-28**] 02:48AM BLOOD PT-19.0* PTT-112.8* INR(PT)-1.8*
+[**2156-4-27**] 08:55PM BLOOD PT-18.9* PTT-56.0* INR(PT)-1.8*
+[**2156-4-27**] 01:00PM BLOOD PT-20.7* PTT-42.6* INR(PT)-2.0*
+[**2156-4-27**] 05:15AM BLOOD Plt Ct-134*
+[**2156-4-27**] 05:15AM BLOOD PT-22.3* PTT-150* INR(PT)-2.1*
+[**2156-4-27**] 12:40AM BLOOD Plt Smr-LOW Plt Ct-134*
+[**2156-4-27**] 12:40AM BLOOD PT-23.0* PTT-45.1* INR(PT)-2.2*
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2156-5-1**] 02:22    glu131* urea N9 cr0.9 na140 k3.5 cl108 hco3
+24 AG12
+[**2156-4-28**] 05:05AM BLOOD Glucose-85 UreaN-13 Creat-1.1 Na-141
+K-3.9 Cl-105 HCO3-25 AnGap-15
+[**2156-4-27**] 05:15AM BLOOD Glucose-95 UreaN-11 Creat-0.9 Na-142
+K-3.4 Cl-104 HCO3-26 AnGap-15
+[**2156-4-27**] 12:40AM BLOOD Glucose-80 UreaN-12 Creat-1.0 Na-143
+K-3.7 Cl-105 HCO3-28 AnGap-14
+[**2156-4-27**] 12:40AM BLOOD Lipase-29
+[**2156-5-1**] ca8.0* mg2.4* phos1.8
+[**2156-4-28**] 05:05AM BLOOD Calcium-8.4 Phos-3.2 Mg-2.3
+[**2156-4-27**] 05:15AM BLOOD Calcium-8.4 Phos-3.0 Mg-2.4
+[**2156-4-27**] 12:40AM BLOOD Calcium-8.5 Phos-3.1 Mg-1.0*
+.
+[**4-28**] ECHO:
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and global
+systolic function (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. The ascending aorta is mildly dilated. The aortic arch
+is mildly dilated. A mechanical aortic valve prosthesis is
+present. The transaortic gradient is higher than expected for
+this type of prosthesis. Trace aortic regurgitation is seen.
+[Normal for this prosthesis.] The mitral valve leaflets are
+mildly thickened. A mitral valve annuloplasty ring is present.
+The gradient across the mitral valve is slightly increased (mean
+= 3-4 mmHg) resulting in trivial/minimal mitral stenosis. No
+mitral regurgitation is seen. [Due to acoustic shadowing, the
+severity of mitral regurgitation may be significantly
+UNDERestimated.] There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Well seated mechanical
+aortic valve but with increased gradient. Well s

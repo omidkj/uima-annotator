@@ -1,0 +1,231 @@
+Admission Date:  [**2144-2-26**]              Discharge Date:   [**2144-2-29**]
+
+Date of Birth:  [**2125-1-9**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+Direct Laryngoscopy
+
+
+History of Present Illness:
+PCP: (notified by fax on admission)
+Name: [**Last Name (LF) **],[**First Name3 (LF) 674**] B.
+Location: CHILD HEALTH
+Address: [**Last Name (un) 84539**], [**Hospital1 **],[**Numeric Identifier 84540**]
+Phone: [**Telephone/Fax (1) 38488**]
+Fax: [**Telephone/Fax (1) 84541**]
+
+Admission Date/Time:[**2144-2-27**] 0050
+
+CC:shortness of breath
+
+HPI:19F with h/o asthma who was recently treated with pred and
+azithor for flare. She states that as soon as the prednisone
+stopped, she started feeling short of breath again. Noticed
+chest tightness, fever to 104, and increased wheezing. She
+started having to use her albuterol 4+ times per day and was
+waking at night with shortness of breath. her cough is
+productive of green sputum. She also still c/o the night sweats
+as she was having before. Denies any hemoptysis.
+
+In ER: (Triage Vitals:) Noted to have mild increase in RR. PE-CT
+with PNA. got 125 solumedrol, CTX/Azitho. 98.2 88 127/56 22
+100RA
+
+ROS:
+-Constitutional: []WNL []Weight loss []Fatigue/Malaise [x]Fever
+[]Chills/Rigors [x]Nightweats []Anorexia
+-ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose
+[]Tinnitus []Sinus pain []Sore throat
+-Cardiac: [x]WNL []Chest pain []Palpitations []LE edema
+[]Orthopnea/PND []DOE
+-Respiratory: see HPI
+-Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis
+[]Hematochezia []Melena
+-GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria
+[]Discharge []Menorrhagia
+-Skin: [x]WNL []Rash []Pruritus
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain
+-Neurological: [ xx]WNL []Numbness of extremities []Weakness of
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo
+[]Confusion []Headache
+
+
+Past Medical History:
+lactose intolerance
+ovarian cyst
+gallbladder dysfunction
+broken nose
+asthma
+ppd neg
+
+Social History:
+Pre-med student, - TOB, - ETOH, - IVDU
+
+
+Family History:
+Her mother and father are well.  There is no family history of
+asthma.  She has 2 brothers and 2 [**Name2 (NI) 84542**], none of whom
+have
+asthma or other pulmonary related conditions
+
+Physical Exam:
+VS: 97.8 88 113/78 24 98RA
+Gen: Well appearing, no acute distress, awake, alert,
+appropriate, and oriented x 3
+Skin: warm to touch, no apparent rashes.
+HEENT: No conjunctival pallor, no scleral jaundice, OP clear, no
+cervical LAD
+CV: RRR no audible m/r/g, pulses 2+, no LE edema
+Lungs: decreased air movement, mild scattered wheezing. no
+crackles.
+Abd: soft, NT, normal BS
+Ext: No C/C/E
+Neuro: strength and sensation intact bilaterally.
+
+
+Pertinent Results:
+[**2144-2-26**] 07:13PM URINE  HOURS-RANDOM
+[**2144-2-26**] 07:13PM URINE  HOURS-RANDOM
+[**2144-2-26**] 07:13PM URINE  UCG-NEGATIVE
+[**2144-2-26**] 07:13PM URINE  GR HOLD-HOLD
+[**2144-2-26**] 07:13PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.007
+[**2144-2-26**] 07:13PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-9.0*
+LEUK-NEG
+[**2144-2-26**] 04:30PM   GLUCOSE-103* UREA N-9 CREAT-0.7 SODIUM-142
+POTASSIUM-3.4 CHLORIDE-104 TOTAL CO2-25 ANION GAP-16
+[**2144-2-26**] 04:30PM   estGFR-Using this
+[**2144-2-26**] 04:30PM   CK(CPK)-49
+[**2144-2-26**] 04:30PM   cTropnT-<0.01
+[**2144-2-26**] 04:30PM   CK-MB-NotDone
+[**2144-2-26**] 04:30PM   WBC-16.0*# RBC-4.62 HGB-13.6 HCT-40.4 MCV-88
+MCH-29.4 MCHC-33.6 RDW-13.5
+[**2144-2-26**] 04:30PM   NEUTS-83.6* LYMPHS-11.7* MONOS-4.0 EOS-0.4
+BASOS-0.2
+[**2144-2-26**] 04:30PM   PLT COUNT-237
+
+PE-CT
+1. Suboptimal IV bolus timing. No central or lobar PE.
+2. No acute aortic pathology.
+3. Right medial lung base opacity, ? aspiration or focal PNA.
+
+
+Brief Hospital Course:
+Summary
+
+19F with repeated flares of presumed asthma presents with
+recurrent event with drop in her peak flow from 400->250, cough,
+fever, and multifocal infiltrate on CT. Patient was given a FQ
+abx last time, but apparently did not improve. Was started on on
+ceftriaxone, azithro and pulse dose steroids. She decompensated
+with tachypnea to the 40's and violent, stridorous breathsounds.
+In the [**Hospital Unit Name 153**], she underwent direct larygoscopy revealing vocal
+cord dysfunction. She did well with anxiolytics and was
+discharged to follow up outpatient
+
+By Problem
+
+Vocal Cord Dysfunction
+
+     Clued to a diagnosis other than asthma by the lack of
+wheezing and normal lung volumes, direct larygoscopy revealed
+vocal cord dysfunction. This is a condition that likely exists
+as part of a syndrome of anxiety and coping dysfunctions
+manifested in her several diagnoses (eating disorders, sphincter
+of oddi dysfunction, lactose intolerance) and is superimposed
+upon her Asthma and GERD. She will need follow up for her voice
+technique and management of her anxiety/coping.
+
+Asthma
+
+     review of PFTs were mild. continued home meds.
+
+Pneumonia
+
+     In light of her multifocal infiltrates and dyspnea, patient
+was treated with cfx/azithro and discharged on azithro for 5 day
+course
+
+GERD - continue omeprazole
+
+Medications on Admission:
+ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler - 2
+puffs(s) inhaled every 6-8 hours as needed for shortness of
+breath
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 500 mcg-50 mcg/Dose
+Disk
+with Device - 1 puff(s) inhaled twice a day rinse after use
+MONTELUKAST [SINGULAIR] - 10 mg Tablet - 1 Tablet(s) by mouth
+nightly
+OMEPRAZOLE - 40 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s)
+by mouth once daily Take 15-30 minutes before breakfast.
+
+Discharge Medications:
+1. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+2. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Azithromycin 250 mg Tablet Sig: One (1) Tablet PO once a day
+for 2 days: Start on Sunday.
+Disp:*2 Tablet(s)* Refills:*0*
+4. Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+5. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation every 6-8 hours as needed for shortness of
+breath or wheezing.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Vocal Cord Dysfunction - paradoxical vocal cord adduction
+GERD
+Asthma
+
+
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+
+
+Discharge Instructions:
+You were admitted to the ICU with severe difficulty breathing.
+You had two major problems: a mild pneumonia that may have
+triggered your asthma and, above all, a condition called vocal
+cord dysfunction. This was diagnosed by direct laryngoscopy. The
+cause of this condition is often associated with stressors in
+life and it can be treated by specialized techniques to help
+relax your vocal cords and also by working on the stress
+response and anxiety in general.
+
+Please finish your course of AZITHROMYCIN - an antibiotic for
+your pneumonia to completa a 5 day course total.
+
+
+Followup Instructions:
+You have an appointment on Tuesday, 9:30am [**2144-3-3**] in the [**Hospital1 **] [**Hospital Ward Name 121**] building - Span 106 for videostriposcopy.
+[**Telephone/Fax (1) 3731**] is the number at which you can reach them
+
+Provider: [**Known firstname **] [**Last Name (NamePattern1) **] Phone:[**Telephone/Fax (1) 3731**] Date/Time:[**2144-3-3**] 9:30
+Provider: [**Name10 (NameIs) 1571**] FUNCTION LAB Phone:[**Telephone/Fax (1) 609**]
+Date/Time:[**2144-4-6**] 3:40
+Provider: [**Name10 (NameIs) 1570**],INTERPRET W/LAB NO CHECK-IN [**Name10 (NameIs) 1570**] INTEPRETATION
+BILLING Date/Time:[**2144-4-6**] 4:00
+
+Please also follow up with the physicians at [**Hospital **] Healthcare
+Center. You can get an appointment at [**Telephone/Fax (1) 84543**].
+
+If you breathing worsens, you notice wheezing, shortness of
+breath please call 911 and go to the

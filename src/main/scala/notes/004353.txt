@@ -1,0 +1,197 @@
+Admission Date:  [**2152-4-29**]              Discharge Date:   [**2152-5-6**]
+
+Date of Birth:  [**2072-7-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+metoprolol
+
+Attending:[**First Name3 (LF) 1257**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+BiPap
+
+History of Present Illness:
+79 yo F with Afib on Coumadin, 3+ mitral regurgitation, and
+recent ICU admission for pneumonia, presenting with worsening
+shortness of breath during past 2 weeks.
+.
+In the ED, initial vital signs were T 97.3 BP 133/97 HR 110 RR
+22 Sat 80%/RA. She was initially put on a non-rebreather, with
+ABG showing 7.32/57/92. Labs were otherwise notable for WBC
+14.3, INR 4.1, BNP [**Numeric Identifier 17406**]. CXR showed bilateral pleural effusion,
+diffuse bilateral ground glass opacities, concerning for
+multifocal pneumonia. She was given cefepime 2 gm IV, vancomycin
+1 gram IV, and levaquin 750 mg IV. She was put on Bipap, with
+apparent improvement in her dyspnea. Vitals on transfer to
+floor, HR 94 BP 116/80 RR 25 Sat 97%/CPAP.
+.
+On arrival to the floor, the patient denies any complaints other
+than shortness of breath. She said that her breathing was
+improved on Bipap. Review of systems was otherwise negative in
+detail.
+
+
+Past Medical History:
+Atrial fibrillation on Coumadin
+Osteoporosis
+Mitral valve prolapse with 3+ MR.  Moderate secondary pulmonary
+hypertension.
+S/P TAH for leiomyoma [**2108**].
+Cyst on back removed in [**2103**].
+S/P tonsillectomy.
+Episode of shingles.
+Breast fibroadenoma left, [**2137**].
+
+
+Social History:
+She is a retired Professor of writing at [**State 17405**], [**Location (un) 86**]. She does not smoke.  Moderate alcohol
+consumption, no more than two glasses of wine.  Lives with her
+husband, recently both came back from [**Name (NI) **] where he was
+performing research. Patient and husband developed cold after
+meeting someone in [**State **] who was ill. 20 pack years smoking
+history. Quit smoking 40 years ago.
+
+
+Family History:
+Father died of congestive heart failure in his 70's.  Mother
+died of congestive heart failure at age 88.  She is married with
+three stepchildren and four grandchildren.
+
+
+Physical Exam:
+General: Sleepy but arousable. Tolerating Bipap. Answers yes/no
+questions appropriately.
+HEENT: Anicteric sclerae. Moist mucous membranes.
+Neck: Supple. JVD present.
+Resp: Diffusely rhonchorous. Decreased breath sounds at bases.
+CV: RRR. Normal s1, s2. Difficult to appreicate presence or
+absense of murmur over breath sounds.
+Abd: +BS. Soft. NT/ND.
+Ext: Cool. 1+ bilateral lower extremity edema.
+Neuro: History limited by Bipap mask, but answers yes/no
+questions appopriately. PERRL. Moves all extremities.
+
+
+Pertinent Results:
+[**2152-4-29**] 10:30PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.019
+[**2152-4-29**] 10:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5
+LEUK-TR
+[**2152-4-29**] 10:30PM URINE  RBC-1 WBC-13* BACTERIA-FEW YEAST-RARE
+EPI-0
+[**2152-4-29**] 10:30PM URINE  HYALINE-1*
+[**2152-4-29**] 10:30PM URINE  MUCOUS-RARE
+[**2152-4-29**] 10:25PM   TYPE-ART O2-100 O2 FLOW-15 PO2-299* PCO2-62*
+PH-7.28* TOTAL CO2-30 BASE XS-1 AADO2-368 REQ O2-64
+INTUBATED-NOT INTUBA COMMENTS-SIMPLE FAC
+[**2152-4-29**] 10:25PM   LACTATE-1.1
+[**2152-4-29**] 09:59PM   LACTATE-2.4* K+-4.2
+[**2152-4-29**] 09:45PM   GLUCOSE-116* UREA N-39* CREAT-0.9 SODIUM-141
+POTASSIUM-4.8 CHLORIDE-103 TOTAL CO2-28 ANION GAP-15
+[**2152-4-29**] 09:45PM   proBNP-[**Numeric Identifier 17406**]*
+[**2152-4-29**] 09:45PM   CALCIUM-8.8 PHOSPHATE-4.0 MAGNESIUM-2.3
+[**2152-4-29**] 09:45PM   DIGOXIN-1.2
+[**2152-4-29**] 09:45PM   WBC-14.3* RBC-4.22 HGB-12.9 HCT-40.7 MCV-96
+MCH-30.6 MCHC-31.7 RDW-14.9
+[**2152-4-29**] 09:45PM   NEUTS-88.8* LYMPHS-8.1* MONOS-2.3 EOS-0.3
+BASOS-0.6
+[**2152-4-29**] 09:45PM   PLT COUNT-790*
+[**2152-4-29**] 09:45PM   PT-40.1* PTT-31.5 INR(PT)-4.1*
+.
+CXR (portable AP) [**2152-4-29**]: bilateral pleural effusion, diffuse
+bilateral ground glass opacities, concerning for multifocal
+pneumonia
+.
+EKG: Atrial fibrillation with ventricular rate 104. Partial
+right bundle branch block. ST-depression in I, V4-V6. TWI in II,
+III, aVF, V3. Compared with prior study [**2152-4-26**], ST-depression in
+I and TWI in II, III, aVF is new.
+
+
+Brief Hospital Course:
+79 year old woman who presented with pulmonary edema from atrial
+fibrillation, acute diastolic heart failure, and prolapsed and
+regurgitant mitral valve. She initially presented with
+progressive shortness of breath with chest x-ray read as
+"multifocal pneumonia". She had leukocytosis, elevated lactate,
+and tachycardia in the setting of "suspected recurrent
+aspiration pneumonia". She tolerated BiPAP and did not require
+intubation. She was recently admitted to the ICU with pneumonia;
+The MICU staff treated her again with vancomycin, cefepime,
+levofloxacin for suspected aspiration pneumonia. However, I
+believe she had pulmonary edema and she appeared fluid
+overloaded with jugular venous distension and peripheral edema
+with very suggestive CXR of edema. Her atrial fibrillation was
+rate controlled with increased doses of Diltiazem ( 90 MG Q 6
+hours then 360 of Cardiazem CD; she could not swallow the latter
+and therefore she was discharged on the short acting). Her
+Coumadin was held for supra therapeutic INR and the rate was
+controlled with digoxin and Diltiazem. She was then treated with
+Coumadin and Heparin bridge as well as IV Lasix and her
+antibiotics were stopped. She was found to have severe
+esophageal narrowings by EGD (upper narrowing and GE narrowing
+with dilated esophagus between) that made TEE difficult. MICU
+team ordered TSH/CRP/RF/B12/folate/cortisol and were all normal.
+They also ordered RUQ ultrasound. She tolerated thin liquids and
+regular consistency solids without any overt or soft signs of
+aspiration. She denied any pneumonia prior to these recent 2
+episodes. She did not have symptoms consistant possible reflux
+and aspiration and she was be advanced to thin liquids and
+regular consistency solids. She did not undergo TEE with
+cardioversion because of the severe esophageal narrowing. Dr.
+[**Last Name (STitle) **] strongly cautioned against doing a TEE. Under
+anesthesia, he could not pass a standard 8 mm scope. He had to
+use an ultra-thin 4.5 mm scope, leave a wire, dilate up with
+[**Last Name (un) 17407**] dilators to 12 mm.  Only then, he could pass his scope
+over a wire-guide to do the injections (at the GEJ, 100 Units of
+Botox was injected successfully in four quadrants into the LES).
+The upper narrowing was most likely from an osteophyte and the
+lower from achalasia (!?). She was asked to keep head of bed
+elevated at 45 degrees at all times to minimize risk of
+gastroesophageal reflux and aspiration and to avoid eating for 3
+hours prior to sleep. In any case she did well and was
+discharged home after she received adequate diuresis, good rate
+control, and several days of antibiotics. She will need her
+valve fixed SOON.
+
+Discharge Medications:
+1. digoxin 125 mcg Tablet [**Last Name (un) **]: One (1) Tablet PO DAILY (Daily).
+
+2. lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Disp:*30 Tablet,Rapid Dissolve, DR(s)* Refills:*2*
+3. warfarin 2 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO Once Daily at 4
+PM.
+Disp:*60 Tablet(s)* Refills:*2*
+4. furosemide 20 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+Disp:*20 Tablet(s)* Refills:*2*
+5. Outpatient Physical Therapy
+3 time a week
+6. diltiazem HCl 90 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO four times
+a day.
+Disp:*120 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+pulmonary edema
+atrial fibrillation
+acute diastolic heart failure
+prolapsed and regurgitant mitral valve
+cardioversion
+esophageal narrowings that was treated with Botox injections.
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted because of pulmonary edema (water in the
+lungs) from atri

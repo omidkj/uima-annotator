@@ -1,0 +1,145 @@
+Admission Date:  [**2175-11-10**]              Discharge Date:   [**2175-11-12**]
+
+Date of Birth:  [**2096-3-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Robitussin
+
+Attending:[**First Name3 (LF) 2698**]
+Chief Complaint:
+Ventricular Tachycardia
+
+Major Surgical or Invasive Procedure:
+Cardiac Cath
+Intra-Aortic Balloon Pump
+
+History of Present Illness:
+79 year old female with h/o AF, COPD who presented to [**First Name5 (NamePattern1) **]
+[**Last Name (NamePattern1) 4117**] with dyspnea, worse with exertion and admitted for COPD
+flare.  Lab revealed trop 0.33, thought to be demand ischemia.
+ECHO revealed EF 20%, severe AS (0.6cm2) [**1-27**]+MR, [**1-27**]+TR and then
+she was scheduled for cardiac cath.  However, she then developed
+VT that required IV lidocaine for arrhythmia suppression.
+Transferred to [**Hospital1 18**] for further care.  On arrival, found to
+have STE in II, III and aVF with reciprocity in V1-V3, along
+with STE in V4R.
+
+Past Medical History:
+No diabetes.  +Htn and dyslipidemia.
+
+Social History:
+No tob/etoh/drugs
+
+Family History:
+non-contrib
+
+Physical Exam:
+AF   100/63    67     18
+Gen:  NAD, A&O X 3
+Heent:  EOMI, PERRL, MMM
+Neck:  +JVD
+Heart:  RRR no mr.  +S4
+Lungs:  Bibasilar crackles [**2-28**] way up thorax
+Abd:  Soft, nt/nd.  NABS
+Ext:  2+ edema
+
+Pertinent Results:
+[**2175-11-12**] 01:57AM BLOOD WBC-8.6 RBC-2.97* Hgb-10.1* Hct-31.7*
+MCV-107* MCH-34.2* MCHC-32.0 RDW-19.1* Plt Ct-81*
+[**2175-11-12**] 01:57AM BLOOD Neuts-86* Bands-3 Lymphs-5* Monos-4 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-2* NRBC-9*
+[**2175-11-12**] 01:57AM BLOOD Hypochr-3+ Anisocy-2+ Poiklo-1+
+Macrocy-3+ Microcy-NORMAL Polychr-1+ Target-1+ Tear Dr[**Last Name (STitle) **]1+
+[**2175-11-12**] 01:57AM BLOOD Plt Smr-LOW Plt Ct-81* LPlt-3+
+[**2175-11-12**] 01:57AM BLOOD PT-26.2* PTT-41.7* INR(PT)-4.3
+[**2175-11-12**] 01:57AM BLOOD Glucose-181* UreaN-71* Creat-1.7* Na-138
+K-4.2 Cl-113* HCO3-12* AnGap-17
+[**2175-11-10**] 11:54PM BLOOD Glucose-145* UreaN-74* Creat-1.7* Na-139
+K-5.3* Cl-108 HCO3-21* AnGap-15
+[**2175-11-11**] 03:21PM BLOOD CK(CPK)-775*
+[**2175-11-11**] 05:17AM BLOOD CK(CPK)-1308*
+[**2175-11-10**] 11:54PM BLOOD CK(CPK)-1559*
+[**2175-11-10**] 06:54PM BLOOD CK(CPK)-1445*
+[**2175-11-10**] 02:14PM BLOOD CK(CPK)-115
+[**2175-11-11**] 03:21PM BLOOD CK-MB-89* MB Indx-11.5*
+[**2175-11-11**] 05:17AM BLOOD CK-MB-163* MB Indx-12.5* cTropnT-14.87*
+[**2175-11-10**] 11:54PM BLOOD CK-MB-208* MB Indx-13.3* cTropnT-17.6*
+[**2175-11-10**] 06:54PM BLOOD CK-MB-166* MB Indx-11.5*
+[**2175-11-10**] 02:14PM BLOOD CK-MB-8 cTropnT-0.24*
+[**2175-11-12**] 01:57AM BLOOD Calcium-7.3* Phos-3.8 Mg-2.4
+[**2175-11-11**] 03:21PM BLOOD Albumin-2.9* Calcium-7.6* Phos-4.4 Mg-1.7
+[**2175-11-12**] 06:49AM BLOOD Type-ART Temp-37.2 Rates-24/ Tidal V-500
+PEEP-5 FiO2-50 pO2-94 pCO2-30* pH-7.26* calHCO3-14* Base XS--12
+Intubat-INTUBATED
+[**2175-11-12**] 02:16AM BLOOD Type-ART Temp-37.2 Rates-24/ Tidal V-500
+PEEP-5 FiO2-50 pO2-104 pCO2-26* pH-7.32* calHCO3-14* Base XS--10
+-ASSIST/CON Intubat-INTUBATED
+[**2175-11-11**] 03:35PM BLOOD Glucose-127* Lactate-2.7*
+[**2175-11-10**] 03:48PM BLOOD K-6.3*
+
+Cardiac Cath:
+
+1.  Selective coronary angiography of this right dominant system
+
+revealed single vessel coronary artery disease.  The LMCA, LAD
+and LCx
+had only mild disease.  The RCA was totally occluded proximally
+without
+collaterals.
+2.  Resting hemodynamics revealed markedly elevated right and
+left sided
+filling pressures with a severely depressed cardiac output and
+extremely
+poor RV function.
+3.  Successful placment of an IABP.
+4.  Successful stenting of the RCA with a 3.5 x 13 mm Hepacoat
+stent.
+Treatment with intracoronary abciximab. Final angiography
+demonstrated
+no residual stenosis, no angiographically apparent dissection,
+and
+normal flow (See PTCA Comments).
+5.  There was no significant gradient on pull-back across the
+aortic
+valve.
+
+
+Brief Hospital Course:
+79 year old female with AF, and acute RV STE infarct with
+cardiogenic shock.
+
+1.  CAD:  TO RCA single vessel CAD.  Acute and resulting in
+cardiogenic shock requiring IABP.  RCA stented with hepacoat and
+intracoronary GpIIb/IIIa.  CVP 20's, PA 40's/30's and BP
+90's/50's.  Continued asa/plavix and statin.
+
+2.  Pump:  Cardiac index 1.2 and mixed venous 02 33% indicating
+cardiogenic shock.  Levophed and milrinone required and dig
+loaded.
+
+3.  Rhythm:  Pt developed AF with RVR and numerous runs of NSVT.
+ Amio gtt started for rate control and arrhythmia secondary
+prevention.
+
+Patient died [**2175-11-12**] after goals of care were switched from
+curative intent to comfort care.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+deceased
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+deceased
+
+Followup Instructions:
+deceased
+
+
+Completed by:[**2176-4-8**]

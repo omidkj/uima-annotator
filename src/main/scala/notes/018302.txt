@@ -1,0 +1,220 @@
+Admission Date:  [**2122-9-15**]              Discharge Date:   [**2122-9-25**]
+
+Date of Birth:  [**2041-10-30**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 7760**]
+Chief Complaint:
+Right lower quadrant pain, severe R-sided chest pain, altered
+mental status and anorexia of 2 days duration.
+
+Major Surgical or Invasive Procedure:
+Appendectomy ([**2122-9-15**])
+
+
+History of Present Illness:
+The patient is an 80-year-old female who presented to our ED
+with the above complaints. She denied nausea, vomiting,
+diarrhea, hematochezia and melena.
+
+Past Medical History:
+Mesenteric ischemia
+Diabetes mellitus type II
+Peripheral vascular disease
+Hypertension
+Thyroid hormone dependent
+
+Past Surgical History:
+Placement of inferior mesenteric artery stent for mesenteric
+ischemia
+Total thyroidectomy
+
+Social History:
+Lives in [**State 15946**], MA, denies tobacco or alcohol use and history.
+Has a son who is a nurse.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: T99.5 P65 BP112/39 R20 sat 96%RA
+Gen - ill-appearing, slightly confused
+HEENT - anicteric, dry MM
+Cor - RRR without m/g/r
+Lungs - CTA bilat.
+[**Last Name (un) **] - bowel sounds present, tense at RLQ, distended, quite
+tender, +guarding
+Ext - no edema, cool toes
+
+
+Pertinent Results:
+[**2122-9-14**] 11:45PM   WBC-19.7* RBC-3.33* HGB-10.6* HCT-30.9*
+MCV-93 MCH-31.6 MCHC-34.2 RDW-14.1
+[**2122-9-14**] 11:45PM   NEUTS-86.4* LYMPHS-9.0* MONOS-3.9 EOS-0.7
+BASOS-0.1
+[**2122-9-14**] 11:45PM   PLT COUNT-174 LPLT-1+
+[**2122-9-15**] 02:20AM URINE  RBC-0 WBC-[**6-13**]* BACTERIA-FEW YEAST-NONE
+EPI-[**6-13**]
+[**2122-9-15**] 02:20AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-TR
+[**2122-9-15**] 02:20AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.013
+
+Brief Hospital Course:
+The patient was admitted to the Platinum Surgery service under
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6633**]. Both her physical exam and her CT scan
+confirmed the presence of appendicitis. Specifically, she had a
+13mm appendix with an appendicolith, and marked inflammatory
+stranding in the right lower quadrant centered about the
+appendix. The appendix was dilated but filled proximally with
+air and stool. The appearance was consistent with uncomplicated
+distal acute appendicitis.  She was also noted to have a ventral
+hernia containing fat. She was administered levofloxacin,
+metronidazole, hydrated and was taken to the operating room for
+a laparoscopic appendectomy and ventral herniorrhaphy, and her
+appendix was noted to be gangrenous. Please refer to the
+operative note for further details of the operation. A drain was
+left in the surgical bed.
+
+In the immediate post-operative period, she was given 1 unit of
+packed red blood cells (PRBCs). Ampicillin was added to her
+antibiotic regimen to broaden gram-negative coverage given the
+state of her appendix. Her pain was controlled adequately and
+her urine output was adequate.
+
+On POD#2, she worked with physical therapy. Leter in the day,
+she was noted to have slightly decreased breath sounds and mild
+shortness of breath (SOB). She was administered a diuretic and
+nebulizer therapy with vast improvement in her pulmonary status.
+Later the same evening, she developed asymptomatic atrial
+fibrillation that ceased with 5mg intravenous metoprolol.
+Work-up for acute coronary syndrome was negative.
+
+On POD#3 ([**2122-9-18**]), the patient again manifested atrial
+fibrillation and SOB, and began to have oliguria, with a urine
+output of 40ml over 4 hours. She was transferred to the
+intensive care unit for close monitoring. A central venous line
+was placed, and she was given a unit of PRBCs for a hematocrit
+of 29.3. A nasogastric tube was placed for decompression of the
+stomach, and this yielded 300ml of contents straightaway. After
+stabilization and conversion to normal sinus rhythm, the patient
+was transferred back to the floor on POD#5.  She had two bowel
+movements and was allowed a clear liquid diet, which she
+tolerated well.
+
+On POD#6 overnight, the patient again had atrial fibrillation
+but was asymptomatic. On the morning of POD#7, she again
+suffered dyspnea, and a chest x-ray showed cephalization. She
+responded well to intravenous furosemide. Later in the day, she
+complained of nausea. Evaluation for acute coronary syndrome
+proved negative. She was seen by the cardiology service for
+evaluation of her atrial fibrillation and dyspnea.  Her
+metoprolol dosage was optimized over the next day.
+
+The cardiology service recommended a trial of beta blocker in
+the absence of albuterol and a trans-thoracic echocardiogram.
+The former was quite successful in preventing her paroxysmal
+atrial fibrillation, and the latter showed mild L atrial
+dilatation, LVEF of 70%, and 1+MR.
+
+On POD#8, her [**Location (un) 1661**]-[**Location (un) 1662**] drain was removed, and she was
+advanced to a regular diet. Her antibiotics were discontinued.
+She felt quite well, and expressed a desire to be discharged.
+She did have a few bouts of diarrhea, but laboratory tests were
+negative for clostridium difficile colitis.
+
+On POD#9, the patient was discharged to the [**Hospital1 10151**] Center in good condition. She was afebrile,
+tolerating a regular diet, able to walk about and manage most of
+her activities of daily living, and was pain-free. She is to
+follow up in clinic with Dr. [**Last Name (STitle) 6633**] in 2 weeks for evaluation
+and outpatient treatment.
+
+
+Medications on Admission:
+bisporolol-HCTZ 2.5/6.25mg QD
+ASA 81mg QD
+clopidogrel 75mg QD
+glipizide 5mg [**Hospital1 **]
+ezetimibe-simvastatin 10/20mg QD
+lisinopril 10'
+levothyroxine 125mcg q TWTSaSu, 62.5mcg q MF
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO TID
+(3 times a day).
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+8. Levothyroxine 125 mcg Tablet Sig: 0.5 Tablet PO MONDAY AND
+FRIDAY ().
+9. Hydrochlorothiazide 25 mg Tablet Sig: 0.26 Tablet PO DAILY
+(Daily).
+10. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO TUES
+THROUGH THURSDAY, SAT & SUNDAY ().
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+12. Glipizide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+13. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer
+treatment Inhalation Q6H (every 6 hours) as needed for shortness
+of breath or wheezing.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - [**Location (un) 550**]
+
+Discharge Diagnosis:
+Acute appendicitis/gangrenous appendix
+Congestive heart failure
+
+
+Discharge Condition:
+Vital signs stable, afebrile, alert/oriented, tolerating po,
+ambulant with assistance. Overall, very good.
+
+
+Discharge Instructions:
+Please call for fever greater than 101, nausea/vomiting,
+inability to eat, wound redness, warmth, swelling, foul smelling
+drainage, abdominal pain that is not controlled by medication or
+any other concerns.
+
+You may resume your regular diabetic diet.
+You may resume your normal activities.
+
+Please resume taking all medications you were taking prior to
+this surgery and pain medications.
+
+Please follow up as directed.
+
+No heavy lifting for 4-6weeks or until directed otherwise.  [**Month (only) 116**]
+leave wound open to air, please leave the steristrips intact
+until they fall off.
+
+Followup Instructions:
+Please follow up with your primary care physician in [**State 15946**],
+MA. Call for an appointment to be seen the week you get
+discharged from [**Hospital3 **].
+
+Call Dr. [**Last Name (STitle) 17477**] office for an appointment in 2 weeks. Her
+phone number is: (81) [**Telephone/Fax (1) **].
+
+
+Completed by:[**2122-9-25**]

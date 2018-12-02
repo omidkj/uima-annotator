@@ -1,0 +1,202 @@
+Admission Date:  [**2124-6-5**]              Discharge Date:   [**2124-6-9**]
+
+Date of Birth:  [**2037-8-15**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Simvastatin / Pravastatin
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Delerium and Hypoxia
+
+
+Major Surgical or Invasive Procedure:
+UF [**Last Name (NamePattern4) 2286**]
+
+History of Present Illness:
+Mr. [**Known lastname 10369**] is an 86 year-old man with wegener's c/b ESRD,
+DM2, atrial fibrillation and chronic right pleural effusion who
+was found to be delerious at [**Known lastname 2286**] today with hypoxia to 89%
+on RA that corrected to 93% on 2L. Patient also complained of
+loose stools for the past several days while at rehab. Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] referred the patient to the ED for further
+evaluation. Of note, the patient was admitted from [**Date range (1) 10375**] for
+the treatment of PNA.
+
+  In the ED, initial vitals were 98.5 120 128/76 24 95% 2L. Labs
+notable for WBC 4.9 90.6%N, HCT 29.9, INR 2.9, proBNP [**Numeric Identifier 10376**],
+Lactate 1.9, Vanco 28.2. Blood cultures were sent. CXR showed
+pulmonary edema with persistence of RLL>RML,RUL opacities (also
+seen was known R-sided effusion that has been worked up
+extensively by Interventional
+Pulmonology). Given concern for HCAP, patient already had a
+therapeutic Vanco level and received ceftriaxone 1g IV,
+azithromycin 500mg IV, and flagyl 500mg IV.
+
+  On arrival to the floor, patient was sleeping but easily
+aroused and was able to answer questions appropriately. Denied
+any
+pain, felt comfortable. Coughing with ronchorous breathing and
+slightly tachypnic.
+
+
+Past Medical History:
+- Wegener's Granulomatosis, dx [**12/2121**] c-anca + and bx +, on
+cytoxan/steroids
+- DM 2 on insulin since [**2082**], typical A1c around 7.5%
+- ESRD on HD (M/W/F via LUE AVF)
+- Monoclonal gammopathy most likely a smoldering multiple
+myeloma
+- HTN, well-controlled
+- Bronchiectasis with baseline grossly abnormal CXR
+- SSS with intermittent afib and bradycardia
+- Mitral Regurgitation
+- Chronic anticoag (indication: AF) on coumadin
+- Prostate cancer --> radiation therapy [**2118**], normalized PSA
+- Radiation proctitis with rectal bleeding --> laser rx
+- GI bleed [**3-9**] radiation proctitis
+- Malignant melanoma left thigh s/p excision
+- Anemia attributed to CKD
+- R ingunal hernia
+- S/p appy
+- S/p L inguinal hernia repair
+- hyperlipidemia
+- Fe deficiency
+- TB: latent, Patient had a history of TB with treatment in
+sanitarium in [**2052**]'s, h/o INH toxicity so no treatment of latent
+
+TB
+- MAC: Bronchoscopy with BAL was performed on [**12-23**], and AFBs
+found on smear c/w MAC per lab results/ID consult. Patient opted
+
+to forego MAC therapy
+- hx of pericardial effusion, no drainage needed
+- TIA [**2124-3-8**], no residual deficits
+
+Social History:
+Lives with wife who is his caregiver. [**First Name (Titles) **] [**Last Name (Titles) **] son. Retired,
+was employed as an international business consultant, has a PhD
+in industrial engineering. Born in Eastern [**Country 10363**]. Came to the
+United States in [**2068**]. Very active individual before onset of
+Wegener's in [**2120**] - former mountain climber, tennis player, and
+skier.
+- Tobacco history: during WWII, stopped [**2057**]
+- ETOH: [**2-7**] glass of wine with dinner nightly
+- Illicit drugs: none
+
+
+Family History:
+Grandmother: DM
+Father: kidney infection
+Sister: TIA x 2 (80s)
+
+Physical Exam:
+Physical Exam on Admission
+GENERAL - Elderly man lying in bed, A&Ox3, NAD, AOx3
+HEENT - NCAT EOMI MM dry OP clear
+NECK - supple, JVP flat ~ 10cm H2O
+HEART - PMI non-displaced, RRR, nl S1-S2, no MRG
+LUNGS - decreased breath sounds bilateral bases; rhonchorous
+left base; breathing unlabored, no apparent respiratory distress
+
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no CVAT
+EXTR - cool, 2+ DP pulses; LUE AVF with bruit/thrill
+SKIN - scattered ecchymoses
+LYMPH - no cervical LAD
+NEURO - AOX3 and although some responses are inappropriat
+
+Physical Exam on Discharge
+Expired
+
+Pertinent Results:
+Admission Labs
+[**2124-6-5**] 07:05PM   LACTATE-1.9
+[**2124-6-5**] 07:00PM   GLUCOSE-151* UREA N-19 CREAT-2.6*# SODIUM-145
+POTASSIUM-3.4 CHLORIDE-100 TOTAL CO2-31 ANION GAP-17
+[**2124-6-5**] 07:00PM   ALT(SGPT)-20 AST(SGOT)-43* CK(CPK)-158 ALK
+PHOS-123 TOT BILI-0.6
+[**2124-6-5**] 07:00PM   LIPASE-42
+[**2124-6-5**] 07:00PM   CK-MB-6 cTropnT-0.21* proBNP-[**Numeric Identifier 10376**]*
+[**2124-6-5**] 07:00PM   VANCO-28.2*
+
+[**2124-6-5**] 07:00PM   ALBUMIN-3.1* CALCIUM-8.6 PHOSPHATE-2.7
+MAGNESIUM-1.7
+[**2124-6-5**] 07:00PM   WBC-4.9 RBC-2.61* HGB-9.5* HCT-29.9* MCV-114*
+MCH-36.3* MCHC-31.7 RDW-19.0*
+[**2124-6-5**] 07:00PM   NEUTS-90.6* LYMPHS-4.9* MONOS-4.3 EOS-0.2
+BASOS-0
+[**2124-6-5**] 07:00PM   PLT COUNT-65*
+[**2124-6-5**] 07:00PM   PT-30.1* PTT-46.8* INR(PT)-2.9*
+[**2124-6-5**] 03:00PM   VANCO-13.0
+[**2124-6-5**] 01:15AM   PT-30.2* INR(PT)-2.9*
+
+Pertinent Labs
+[**2124-6-7**] 04:20AM BLOOD WBC-5.7 RBC-2.77* Hgb-9.5* Hct-31.9*
+MCV-115* MCH-34.4* MCHC-29.9* RDW-18.3* Plt Ct-66*
+[**2124-6-6**] 07:30AM BLOOD Hypochr-2+ Anisocy-2+ Poiklo-2+
+Macrocy-3+ Microcy-OCCASIONAL Polychr-NORMAL Spheroc-OCCASIONAL
+Ovalocy-3+ Schisto-1+ Burr-1+ Ellipto-OCCASIONAL
+[**2124-6-7**] 10:18AM BLOOD PT-33.5* PTT-52.4* INR(PT)-3.3*
+[**2124-6-6**] 07:30AM BLOOD ESR-110*
+[**2124-6-8**] 04:44AM BLOOD Glucose-328* UreaN-48* Creat-3.6*# Na-137
+K-5.3* Cl-94* HCO3-24 AnGap-24*
+[**2124-6-6**] 04:18AM BLOOD CK-MB-5 cTropnT-0.21*
+[**2124-6-8**] 04:44AM BLOOD Calcium-8.2* Phos-7.5* Mg-2.1
+[**2124-6-6**] 12:14PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE
+[**2124-6-6**] 05:00PM BLOOD CRP-212.4*
+
+EKG [**2124-6-5**]
+Minimally irregular supraventricular tachycardia, most likely
+atrial fibrillation. Left axis deviation. Left anterior
+fascicular block.  QS deflection in leads V1-V2 consistent with
+prior anteroseptal myocardial
+infarction. 0.5 millimeter ST segment depression in leads V4-V6
+with T wave inversion in lead aVL and to a lesser degree in lead
+I. Compared to the previous tracing of [**2124-5-27**], ventricular rate
+is much faster. T wave inversion is more pronounced in lead aVL
+but less pronounced in leads V4-V5, with similar left precordial
+ST segment depression. An ongoing lateral ischemic process
+cannot be excluded. Clinical correlation is suggested.
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **] [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+131 0 96 304/428 0 -55 173
+
+CXR portable [**2124-6-5**]
+FINDINGS: Single AP upright portable view of the chest was
+obtained. The
+right costophrenic angle is not included on the images. Again
+seen is a large area of right mid-to-lower lung opacity which is
+better assessed on prior CT from [**2124-5-29**]. There is a moderate
+right pleural effusion with overlying atelectasis, an underlying
+consolidation cannot be excluded. Streaky and fibrotic opacities
+are seen in the right lung involving the upper, mid and lower
+lung fields, most noted in the left mid lung field, also seen on
+the prior study. Left apical pleural thickening and
+calcifications are again seen, consistent with chronic change.
+No large left pleural effusion is seen.  There is no
+pneumothorax. The cardiac and mediastinal silhouettes are
+stable.  Multiple old right-sided rib deformities/fractures are
+again seen. A left sided [**Year (4 digits) 1106**] stent is again partially
+imaged.
+IMPRESSION:
+1. Right costophrenic angle not fully included on the images.
+Given this,
+large area of right mid-to-lower lung opacity is again seen,
+likely
+representing combination of pleural effusion, atelectasis and
+possible
+underlying consolidation. Increased right perihilar opacity.
+Areas of patchy and fibrotic opacities in the left lung again
+seen, may be chronic.
+
+TTE [**2124-6-6**]
+The left atrium is mildly dilated. The right atrium is markedly
+dilated. There is mild symmetric left ventricular hypertrophy.
+The left ventricular cavity size is normal. Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. The
+ascending aorta is mildly dilated. The aort

@@ -1,0 +1,220 @@
+Admission Date:  [**2164-10-2**]              Discharge Date:   [**2164-10-11**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2610**]
+Chief Complaint:
+Respiratory Distress
+
+Major Surgical or Invasive Procedure:
+Intubation and Mechanical ventilation
+
+History of Present Illness:
+This is a [**Age over 90 **] year-old (by record though actually 86 years-old
+per brother) male with history of Afib, HTN, CVA's and severe
+dememntia (nonverbal at baseline) who presented with respiratory
+failure.  Per nursing home documentation the patient was short
+of breath on the morning of admission AM and received
+azithromycin and and furosemide at his facility.  In the evening
+he looked worse and was noted to be acutesly short of breath so
+he was taken by EMS to [**Hospital1 18**].
+
+There he was in some extremis with mottled skin, a heart rate in
+the 180's in and hypoxia.  He was intubated almost immediately
+for hypoxia and then had a central venous line placed after
+becoming hypotensive.  HR improved to 80's with a single dose of
+diltiazem.  He received 2L of fluid, vancomycin, levofloxacin,
+and metronidazole after a CXR showed multifocal pneumonia.
+Conversation with the brother and next of kln revealed he wished
+the patient to be full code.  The patient was transferred to the
+MICU for further treatment, vitals prior to tx were T: 101.2 P
+96 rr 20 bp 109/72 sa 02 100%.
+
+On arrival to MICU pt intubated and nonverbal at baseline so ROS
+not obtainable.  Moves a small amount on own.
+
+Past Medical History:
+-Atrial Fibrillation
+-R MCA embolic stroke [**8-22**]
+-Cerebellar hemorrhage s/p craniotomy [**2126**]
+-Alzheimers dementia and nonverbal / PEG fed since stroke in
+[**2161**]
+-Colon CA stage III s/p resection
+-Coronary Artery Dementia
+-Hypertension
+-Mitral Regurg
+-Left Ventricular Hypertropy
+-Cervical radiculopathy/myelopathy
+-T12 compression fracture
+-Gastroesophageal Reflux
+-Liver hemangioma
+-Chronic Kidney Disease
+-BPH s/p TURP
+-History of bowel obstruction
+-History of multiple falls
+-History of ETOH abuse
+-Remote History of Pulmonary TB ([**2103**]'s)
+
+
+Social History:
+Immigrated from [**Country 532**] in [**2134**], at baseline speaks & understands
+limited English - translator needed. Positive h/o alcohol abuse,
+none for >1 yr. He does not smoke. Previously employed as a
+photographer. Brother states patient is a Holocaust survivor.
+Has lived in facility >1 yr.  Nonverbal and fed by PEG.
+
+Family History:
+Both parents died in [**2095**] in the [**Location (un) 25508**] ghetto.
+
+Physical Exam:
+VS: 97.3, BP 106/47, HR 106, RR 22, O2 99%(AC 500, 20, 15/5, 80%
+FiO2)
+General Appearance: Thin, chronically ill appearing
+Eyes / Conjunctiva: Pupils dilated
+Head, Ears, Nose, Throat: Normocephalic, Poor dentition,
+Endotracheal tube, OG tube
+Lymphatic: Cervical WNL
+Cardiovascular: Tachycardic, normal S1 and S2
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Present), (Left DP pulse:
+Present)
+Respiratory / Chest: Bilateral rhonchi L>R
+Abdominal: Soft, Non-tender, Bowel sounds present
+Extremities: Right lower extremity edema: Absent, Left lower
+extremity edema: Absent
+Skin:  Warm
+Neurologic: No(t) Attentive, No(t) Follows simple commands,
+Responds to: Verbal stimuli, Movement: Purposeful, Tone: Not
+assessed
+
+Pertinent Results:
+===================
+LABORATORY RESULTS
+===================
+Admission labs:
+WBC-19.1* RBC-4.87 Hgb-12.1* Hct-40.6 MCV-83 RDW-16.0* Plt
+Ct-252
+---Neuts-89.7* Lymphs-5.4* Monos-3.8 Eos-0.6 Baso-0.5
+PT-15.6* PTT-28.3 INR(PT)-1.4*
+Glucose-138* UreaN-40* Creat-1.4* Na-148* K-5.3* Cl-106 HCO3-33*
+
+ALT-17 AST-28 LD(LDH)-229 AlkPhos-64 TotBili-0.5
+cTropnT-0.01 proBNP-8748*
+Calcium-8.8 Phos-3.8 Mg-2.4,
+ABG: pO2-102 pCO2-76* pH-7.26* calTCO2-36* lactate 2.8*
+
+Urine
+Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.007 Blood-NEG Nitrite-NEG
+Protein-75 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5
+Leuks-NEG
+RBC-0-2 WBC-0-2 Bacteri-RARE Yeast-NONE Epi-0-2
+
+Other significant lab results:
+Pleural fluid
+WBC-1100* RBC-[**Numeric Identifier **]* Polys-36* Bands-0 Lymphs-21* Monos-41*
+Eos-2*
+TotProt-2.0 Glucose-136 Creat-1.2 LD(LDH)-94 Albumin-1.4
+Polys-93* Lymphs-0 Monos-0 Macro-7*
+Cultures: No growth
+
+=============
+MICROBIOLOGY
+=============
+[**10-2**] BCx *2: Negative
+
+[**10-2**] BAL:
+   RESPIRATORY CULTURE: ~3000/ML Commensal Respiratory Flora.
+   LEGIONELLA CULTURE (Final [**2164-10-9**]):    NO LEGIONELLA
+ISOLATED.
+   NEGATIVE for Pneumocystis jirovecii (carinii)..
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+   ACID FAST SMEAR (Final [**2164-10-3**]): NO AFB SEEN ON CONCENTRATED
+SMEAR.
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+[**10-2**] RSV Screen/culture: negative
+[**10-2**] Bronchial washings:
+   RESPIRATORY CULTURE: ~4000/ML Commensal Respiratory Flora.
+   LEGIONELLA CULTURE (Final [**2164-10-9**]):    NO LEGIONELLA
+ISOLATED.
+   NEGATIVE for Pneumocystis jirovecii (carinii)..
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+   ACID FAST SMEAR (Final [**2164-10-3**]): NO AFB SEEN ON CONCENTRATED
+SMEAR.
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+[**10-3**] Sputum GS/culture: >25 PMNs and <10 epithelial cells/100X
+field.
+      NO MICROORGANISMS SEEN.
+   RESPIRATORY CULTURE (Final [**2164-10-5**]):
+      SPARSE GROWTH Commensal Respiratory Flora.
+
+===========================
+RADIOLOGY & OTHER STUDIES
+===========================
+[**10-1**] ECG: Atrial fibrillation with rapid ventricular response.
+Consider left ventricular hypertrophy. ST-T wave abnormalities.
+No previous tracing available for comparison. Clinical
+correlation is suggested.
+
+[**10-2**] CHEST RADIOGRAPH:
+IMPRESSION-
+1. Mild cardiomegaly.
+2. Diffuse opacities throughout both lungs, worst in the
+perihilar region and left base, concerning for multifocal
+pneumonia. Effusion is also likely present on the left.
+3. Multiple calcified pulmonary nodules.
+4. Adequate positioning of endotracheal and nasogastric tube,
+though the ETT cuff is overinflated.
+
+[**10-2**] CT Chest:
+IMPRESSION-
+1. Dense consolidation of the left lower lobe with associated
+volume loss,
+and multiple additional scattered consolidative and ground-glass
+opacities
+throughout the lungs bilaterally are most compatible with
+multifocal
+pneumonia. Massive aspiration could also have this appearance.
+2. Cardiomegaly, bilateral effusions, and subtle septal
+thickening suggest mild volume overload.
+3. Aortic valve and coronary calcifications are noted.
+4. Attenuated caliber of the central airways, without
+obstruction, compatible with bronchomalacia. Mosaic attenuation
+of the lung parenchyma suggests a degree of airtrapping, which
+may also reflect this process.
+5. Hyperinflation of the endotracheal tube cuff, with a slightly
+low position of the endotracheal tube.
+6. Nasogastric tube extends to the stomach, though should be
+advanced for optimal positioning.
+7. Distention of the gallbladder is noted in the upper abdomen.
+Clinically correlate, and consider right upper quadrant
+ultrasound for further evaluation if indicated.
+
+[**10-2**] CT Head:
+IMPRESSION-
+1. No evidence of acute intracranial abnormalities. MRI would be
+more
+sensitive for an acute infarction or global hypoxic injury.
+2. Extensive cystic encephalomalacia in the right MCA territory,
+likely
+related to prior infarction.
+3. Extensive cystic encephalomalacia in the left cerebellar
+hemisphere and bilateral mid to inferior vermis, with partially
+visualized suboccipital postsurgical changes, which could be
+related to prior hemorrhage or infarct.
+
+[**10-2**] TTE:
+The left atrium is elongated. No atrial septal defect is seen by
+2D or color Doppler. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. There
+is moderate global left ventricular hypokinesis (LVEF = 30 %).
+No masses or thrombi are seen in the left ventricle. There is no
+ventricular septal defect. The right ventricular cavity is
+dilated with depressed free wall contractility. The aortic valve
+leaflets (3) are mildly thickened. There is no aortic valve
+stenosis. Trace aortic regurgitation is se

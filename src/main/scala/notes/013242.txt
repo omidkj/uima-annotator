@@ -1,0 +1,208 @@
+Admission Date:  [**2133-11-11**]              Discharge Date:   [**2133-11-20**]
+
+
+Service: MEDICINE
+
+Allergies:
+Isosorbide
+
+Attending:[**First Name3 (LF) 1990**]
+Chief Complaint:
+?chest pain, shortness of breath.
+
+Major Surgical or Invasive Procedure:
+Arterial line Placement
+Cardiac catheterization
+Tracheal Intubation and Mechanical Ventilation
+
+
+History of Present Illness:
+the patient is an 89-year-old man with history of hypertension,
+aortic stenosis, CKD stage 2-3, and chronic obstructive asthma
+who presented to the ED via EMS from [**Hospital3 2558**] (a halfway
+house) with shortness of breath and hypoxemic respiratory
+failure. The history was obtained from ED reports and caregivers
+at his halfway house, since patient was intubated, sedated, and
+unable to provide history.
+.
+Per report, patient was in his usual state of health until
+3:20am on the morning of admission, when he developed acute
+onset chest pain and said that he "could not breath." EMS was
+called at this time. In the ambulance en route to the hospital,
+patient became acutely dyspneic, with respiratory rate in the
+40s and satting low 80s on non-rebreather.
+.
+He arrived to the emergency [**Hospital1 **] where initial vitals showed T
+98.6, HR 96, BP 115/86, RR 40, satting 95% on 15L. Per report,
+patient was talking and moving all extremities; however, he was
+extremely dyspneic with respiratory rate in the 30s to 40s,
+fighting to breath, and satting in the low 80s on the
+non-rebreather. Patient reportedly said that he wanted
+"everything done" and he was therefore intubated in the
+emergency room for hypoxemic respiratory failure and started on
+Fentanyl and Versed (proprofol was started initially but his
+blood pressures dropped). Prior to intubation, he had been given
+bronchodilator nebs with minimal improvement in symptoms. Labs
+showed a white count of 19.9 with 78% polys and 1% bands.
+Hematocrit was 36.6. Chemistry showed bicarb of 20, with anion
+gap of 16. Creatinine was 2.5 (baseline is unknown). An ABG
+showed 7.44/23/89 with lactate 5.2 (down to 2.2 one hour later).
+CXR showed bilateral pleural effusions, and a BNP was drawn that
+came back at [**Numeric Identifier **] (unfortunately there are no priors for
+comparison). EKG revealed ST-depressions in the lateral leads.
+An initial troponin was 0.18. Bedside echocardiogram showed no
+pericardial effusion, per report.
+.
+For presumptive CAP, patient was given levofloxacin 750 mg IV x1
+and ceftriaxone 1 gm IV x1; he was fluid resuscitated with 2L
+normal saline. His vitals at the time of admission were
+afebrile, HR 79, BP 124/77, and sat 96% on assist control
+ventilation, FiO2 100% with PEEP 12, Vt 500, and rr 16. Access
+includes 2x 20g peripheral IVs.
+.
+Review of systems: unable to obtain as patient was intubated and
+sedated.
+
+
+Past Medical History:
+--aortic stenosis
+--essential hypertension
+--unspecified monoarthritis
+--benign prostatic hyperplasia
+--chronic obstructive asthma
+--chronic renal insufficiency, stage 2-3
+--hyperlipidemia
+**negative PPD in [**2132-7-16**]**
+
+
+Social History:
+lives at [**Hospital3 2558**], a halfway house [**Location (un) 88162**].
+Per the staff there, he has been living at [**Hospital3 2558**] since
+[**9-23**]. This is a re-entry center that helps transition
+residents from prison back to the community. Patient has a long
+history of incarceration, including gun possession at age 70. He
+has two daughters who live in [**Name (NI) **].
+
+
+Family History:
+unknown.
+
+Physical Exam:
+VS: 97.9 152/78 (146-160/70-90) 76 18 97% RA
+UOP: 400cc since MN, 700cc over last 24h
+GA: AOx3, confused, NAD
+HEENT:  PERRLA. dry MM. no LAD. no JVD. neck supple.
+Cards: RRR S1/S2 heard. systolic murmur appreciated
+Pulm: CTAB no crackles or wheezes
+Abd: soft, NT, +BS. no g/rt. neg HSM. neg [**Doctor Last Name 515**] sign.
+Extremities: wwp, no edema. DPs, PTs 2+.
+Skin:
+Neuro/Psych: CNs II-XII intact. 5/5 strength in U/L extremities.
+DTRs 2+ BL
+
+Pertinent Results:
+Admission Labs ([**2133-11-11**])
+PT-14.1* PTT-47.4* INR(PT)-1.2*
+CK(CPK)-259
+CK-MB-29* MB INDX-11.2* cTropnT-1.19*
+GLUCOSE-114* UREA N-49* CREAT-2.0* SODIUM-136 POTASSIUM-4.9
+CHLORIDE-109* TOTAL CO2-19* ANION GAP-13
+
+CK(CPK)-252
+CK-MB-25* MB INDX-9.9* cTropnT-0.96*
+CK-MB-4 proBNP-[**Numeric Identifier 88163**]*
+
+WBC-19.9* RBC-4.26* HGB-12.7* HCT-36.6* MCV-86 PLT COUNT-267
+PT-13.1 PTT-23.0 INR(PT)-1.1
+.
+Discharge labs:
+WBC-9.3 RBC-4.02* Hgb-11.9* Hct-35.7* MCV-89  Plt Ct-271
+Glucose-167* UreaN-38* Creat-1.6* Na-137 K-4.5 Cl-104 HCO3-20*
+Calcium-8.9 Phos-3.0 Mg-2.1
+.
+Micro Data- Urine Legionella Antigen- negative
+Blood cultures from [**11-11**] -pending
+Urine Culture [**11-11**]- No growth
+Sputum Culture- RARE GROWTH Commensal Respiratory Flora.
+.
+Reports
+[**11-11**] Echocardiogram
+The left atrium is normal in size. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. There is mild
+to moderate regional left ventricular systolic dysfunction with
+severe ypokinesis of the inferior and inferolateral walls. There
+is mild hypokinesis of the remaining segments (LVEF = 35 %).
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets are moderately thickened. There is a
+minimally increased gradient consistent with minimal aortic
+valve stenosis. Trace aortic regurgitation is seen. The mitral
+valve leaflets are structurally normal. Mild to moderate ([**1-17**]+)
+mitral regurgitation is seen. There is mild pulmonary artery
+systolic hypertension. There is a trivial/physiologic
+pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Minimal aortic valve
+stenosis. Mild-moderate mitral regurgitation. Pulmonary artery
+systolic hypertension. Regional left ventricular systolic
+dysfunction suggestive of CAD.
+.
+[**11-12**] Cardiac Catherization
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Mild aortic stenosis.
+3. Severe diastolic dysfunction with markedly elevated left
+sided
+filling pressures with secondary pulmonary hypertension.
+4. NSTEMI
+5. Successful PCI to proximal LAD with DES
+6. Successful angioseal closure device.
+.
+[**11-15**] CXR
+IMPRESSION:
+1. COPD and suspected pulmonary hypertension.
+2. Mild cardiomegaly.
+3. Dense left lower lobe collapse and/or consolidation. The
+differential
+includes a pneumonic infiltrate.
+4. CHF with mild interstitial edema.
+5. Probable small bilateral effusions.
+
+CHEST (PA & LAT)	Study Date of [**2133-11-17**] 10:10 AM
+1. Bilateral moderate effusions and associated atelectasis
+2. Possible right lung lower lobe pneumonia.
+
+Brief Hospital Course:
+In summary this is an 89-year-old man with history of
+hypertension, hyperlipidemia, and aortic stenosis who presented
+with acute onset chest pain and shortness of breath, intubated
+in the emergency [**Hospital1 **] for hypoxemic respiratory failure.  Found
+to have NSTEMI and now s/p cardiac cath showing 3 vessel CAD.
+.
+# Hypoxemic respiratory failure: Pt intubated in ED. Etiology
+was either CAP v. ACS. Pt found to have ACS with CHF on cardiac
+cath.  3 vessel CAD, s/p BMS to proximal LAD.  Wedge pressure of
+25-30, suggesting pulmonary congestion which is consistent with
+elevated BNP and CXR showing pulmonary edema. Pt extubated on
+[**11-15**]. Patient was also treated for CAP with ceftriaxone and
+levofloxacin given elevated WBC to 20 with 1% bands on
+admission. However with improving leukocytosis and no clinical
+evidence of pneumonia, antibiotics were discontinued. Patient
+improved over remaining length of stay and was discharged
+without O2 requirement.
+.
+#NSTEMI: TTE showing EF 35%.  Troponins peaked at 1.19; pt taken
+to cardiac cath s/p BMS to prox LAD.  Started aspirin, plavix,
+beta blocker, and high dose statin. Given patient's unclear
+renal function, he should be evaluated as an outpatient and
+started on ACE inhibitor if Cr stable.
+.
+# Hypertension: SBP to 160s-170's at times, however usually
+between 120-140??????s with uptitration of metorprolol. Pt discharged
+on metroprolol 50 mg PO TID. Further titration should occur as
+an outpatient
+.
+#AMS: Patient delirious post extubation. Placed on zyprexa while
+delirium resolved. On discharge patient AAOx3 and did not have
+require any anti-psychotics.
+.
+# Acute renal failure: Unclear baseline 

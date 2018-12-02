@@ -1,0 +1,197 @@
+Admission Date:  [**2121-1-22**]              Discharge Date:   [**2121-1-31**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1620**]
+Chief Complaint:
+Respiratory Distress
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+This is a [**Age over 90 **] yo female with a PMH of CVA, MI, L Breast CA, PUD,
+CHF, Parkinson's with dementia, who presents from [**Hospital1 62825**] after an episode of respiratory distress. The pt was found
+by EMS to be satting 68%RA->87-93% on 100%NRB.
+.
+In the ED, the pt was thought to be in CHF with BNP of [**Numeric Identifier 62826**] and
+was in afib with RVR (rate 110s-160s). Her HR ranged from
+112-162 with RR 19-32. The pt was placed on BIPAP with
+ABG-->7.35/63/225 on 100% FiO2. She was given Lasix 40 mg IVx1,
+Ativan, Lopressor 5 mg IVx1. The pt developed a temp of 104.8
+and her BP dropped from 113/58 to 90/63 and then 80/palp. Code
+sepsis was called and pt received 3L IVF with R subclavian line
+placement. Pt was given Levoflox 500 mg IV x1. Lactate was 2.3,
+down to 1.3 after fluids. Pts UA was suggestive of a source of
+the fever with 21-50 WBC and mod bacteria. CXR revealed ?LLL PNA
+vs atelectasis.
+
+
+Past Medical History:
+CVA [**2099**]
+MI approx 20 yrs ago
+h/o CHF
+h/o L breast cancer s/p radical mastectomy [**2079**]
+h/o PUD with GIB
+Parkinsons with dementia
+dysphagia
+s/p PEG tube placement
+h/o cellulitis
+
+
+Social History:
+
+Pt lives at [**Location (un) 55**] [**Hospital1 599**] since [**8-5**].
+
+
+Family History:
+
+Mother, sister--CVA
+Uncle, [**Name (NI) 62827**]
+
+
+Physical Exam:
+Vitals: T 97.3 BP 80-113/58-72 P 112-162 RR 19-36 Sat 73%RA, 99%
+15LNC neb
+Gen: sleepy elderly woman, NAD
+HEENT: PERRL, BL arcus senilis, pale conjunctivae but
+noninjected and anicteric
+Neck: no JVD, no LAD
+CV: tachy, no appreciable murmurs
+Lungs: diffuse coarse ronchi
+Ab: soft, non-reducible hernia in LLQ, NT to palp, PEG site
+c/d/i
+Extrem: no c/c; 1+pitting edema throughout LUE, weak distal
+pulses, cool extremities
+Neuro: arousable but not speaking, sleepy
+Skin: large eccymosis on abdomen
+
+
+Pertinent Results:
+[**2121-1-22**] 04:20PM   CORTISOL-46.3*
+[**2121-1-22**] 03:50PM   GLUCOSE-108* UREA N-50* CREAT-1.2* SODIUM-141
+POTASSIUM-3.4 CHLORIDE-104 TOTAL CO2-28 ANION GAP-12
+[**2121-1-22**] 03:50PM   CK(CPK)-75
+[**2121-1-22**] 03:50PM   CK-MB-3 cTropnT-0.12*
+[**2121-1-22**] 03:50PM   CALCIUM-6.8* PHOSPHATE-1.9* MAGNESIUM-2.0
+[**2121-1-22**] 03:50PM   CORTISOL-38.7*
+[**2121-1-22**] 03:50PM   WBC-14.9* RBC-2.77* HGB-8.7* HCT-27.5*
+MCV-99* MCH-31.3 MCHC-31.6 RDW-15.0
+[**2121-1-22**] 03:50PM   NEUTS-88* BANDS-1 LYMPHS-6* MONOS-5 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2121-1-22**] 03:50PM   PLT COUNT-328
+[**2121-1-22**] 03:50PM   PT-14.2* PTT-27.2 INR(PT)-1.3*
+[**2121-1-22**] 01:33PM   O2 SAT-58
+[**2121-1-22**] 12:22PM   LACTATE-1.1
+[**2121-1-22**] 12:00PM   GLUCOSE-119* UREA N-54* SODIUM-139
+POTASSIUM-3.8 CHLORIDE-102 TOTAL CO2-29 ANION GAP-12
+[**2121-1-22**] 12:00PM   LD(LDH)-231 CK(CPK)-78
+[**2121-1-22**] 12:00PM   CK-MB-3 cTropnT-0.13*
+[**2121-1-22**] 12:00PM   IRON-13*
+[**2121-1-22**] 12:00PM   calTIBC-134* VIT B12-757 FOLATE-13.3
+HAPTOGLOB-431* FERRITIN-293* TRF-103*
+[**2121-1-22**] 12:00PM   WBC-13.7* RBC-2.68* HGB-8.5* HCT-25.8* MCV-96
+MCH-31.6 MCHC-32.8 RDW-13.6
+[**2121-1-22**] 12:00PM   NEUTS-88* BANDS-1 LYMPHS-6* MONOS-5 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2121-1-22**] 12:00PM   HYPOCHROM-1+ ANISOCYT-NORMAL POIKILOCY-NORMAL
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-OCCASIONAL
+TARGET-OCCASIONAL STIPPLED-OCCASIONAL
+[**2121-1-22**] 12:00PM   PLT SMR-NORMAL PLT COUNT-264
+[**2121-1-22**] 12:00PM   RET AUT-1.1*
+[**2121-1-22**] 10:31AM   LACTATE-1.3
+[**2121-1-22**] 08:05AM   GLUCOSE-132* UREA N-57* CREAT-1.3* SODIUM-138
+POTASSIUM-3.6 CHLORIDE-101 TOTAL CO2-31 ANION GAP-10
+[**2121-1-22**] 08:05AM   CK-MB-NotDone cTropnT-0.10* proBNP-[**Numeric Identifier 62826**]*
+[**2121-1-22**] 08:05AM   ALT(SGPT)-22 AST(SGOT)-110* CK(CPK)-53
+[**2121-1-22**] 08:05AM   CALCIUM-6.5* MAGNESIUM-2.2
+[**2121-1-22**] 08:05AM   CORTISOL-27.7*
+[**2121-1-22**] 08:05AM   CRP-117.1*
+[**2121-1-22**] 08:05AM   WBC-13.0* RBC-2.59* HGB-8.0* HCT-25.2* MCV-97
+MCH-30.8 MCHC-31.6 RDW-14.6
+[**2121-1-22**] 08:04AM   LACTATE-1.6
+[**2121-1-22**] 06:40AM   TYPE-ART PO2-225* PCO2-63* PH-7.35 TOTAL
+CO2-36* BASE XS-7 COMMENTS-BIPAP
+[**2121-1-22**] 06:40AM   LACTATE-2.3*
+[**2121-1-22**] 06:40AM   freeCa-1.07*
+[**2121-1-22**] 06:27AM   COMMENTS-GREEN TOP
+[**2121-1-22**] 06:15AM   WBC-15.8* RBC-3.26* HGB-10.3* HCT-31.7*
+MCV-97 MCH-31.4 MCHC-32.4 RDW-14.3
+[**2121-1-22**] 06:15AM   PT-12.6 PTT-26.0 INR(PT)-1.1
+.
+TTE [**2121-1-22**]:
+The left atrium is mildly dilated. There is symmetric left
+ventricular
+hypertrophy. The left ventricular cavity size is normal. Left
+ventricular  systolic function appears grossly preserved but
+views are technically suboptimal. Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. [Intrinsic left ventricular systolic function is
+likely more depressed given the severity of valvular
+regurgitation.] Right ventricular chamber size and free wall
+motion are
+normal. The aortic valve leaflets are moderately thickened.
+There is no aortic valve stenosis. No aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Moderate
+(2+) mitral regurgitation is seen. The tricuspid valve leaflets
+are mildly thickened. There is moderate pulmonary artery
+systolic hypertension. There is a trivial/physiologic
+pericardial effusion.
+.
+CHEST, ONE VIEW: There are no comparisons. The evaluation is
+markedly
+limited due to patient positioning. There is thoracic scoliosis.
+There is elevation of the left hemidiaphragm. The right lung is
+clear. There may be a left lower lobe infiltrate as well as a
+small pleural effusion.
+.
+EKG: afib with RVR at rate of 75-150, nl axis, poor R wave
+progression with ?reverse Q waves in anterior leads (?prior
+posterior MI)
+
+
+Brief Hospital Course:
+A/P: [**Age over 90 **] yo female with a PMH of CVA, MI, L Breast CA, PUD, CHF,
+Parkinson's with dementia, who presented with respiratory
+distress, fever, and hypotension.
+.
+1. Septic shock/hypotension:
+Pt had temp of 104.8 with SBP down to the 70s in the ED,
+unresponsive to fluids.  Only revealing source was dirty UA (so
+possible urosepsis) as well as ? L sided PNA.  Lactate down to
+1.1 after fluids (was 2.3 on admission). Pt was covered broadly
+initially with vancomycin and ceftazidime both UA and
+pseudomonal/MRSA coverage given pt lives in an [**Hospital1 599**]. She was
+given multiple NS boluses. She was able to come off pressors on
+HD#2. However, the bp remained low normal and did drop again
+into the low 80's. Over the next several days, the pt did
+periodically require that phenylephrine be added back on for bp
+support. However an accurate bp [**Location (un) 1131**] was difficult to obtain.
+There was no arterial line and the pt had poor upper extremitity
+pulses. The bp measurements were obtained by noninvasive cuff on
+the lower extremity. It was ultimately determined to tolerate bp
+in the 80's without the addition of pressors and assess
+perfusion using other surrogates such as urine output and warmth
+of extremities. By these measures, there was good perfusion and
+no need to continue pressors. The culture data remained negative
+and the pt was treated for a presumed PNA given the infiltrates
+on chest imaging.
+.
+2. Respiratory Distress:
+   The pt's initial presentation was for respiratory distress,
+which required NRB to maintain oxygenation at Rehab. She
+required BiPAP in the ED. This was assessed to be
+multifactorial. Pulmonary edema was considered to be a major
+contributor initially given infiltrates on CXR and a BNP of
+27,000 as well as the rapid afib in the ED. The pt was diuresed
+and put on BiPAP and did show some improvement although the BP
+dropped. However the pt was febrile to 104.8 and found to have a
+lactate of 2.3 and there was a suspicion for PNA as well as a
+source of the respiratory distress. Ceftaz and vanc were
+initiated. She was given nebulizer treatments.
+   Over the course of the hospital stay, the respiratory status
+failed to i

@@ -1,0 +1,199 @@
+Admission Date:  [**2124-6-18**]              Discharge Date:   [**2124-7-3**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+Sepsis
+
+Major Surgical or Invasive Procedure:
+Intubation
+PEG Tube Placement
+
+
+History of Present Illness:
+87F with dementia, dm2, CRI, recent GI bleed who resides at
+[**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] and was found to be minially responsive. Of note,
+she was recently admitted to [**Hospital1 18**] from [**6-5**] - [**6-13**] for duodenal
+ulcer requiring 5U pRBCs now s/p EGD with epi and cautery. The
+patient was at [**Hospital3 1186**] and was noted to become SOB at
+around 11:30am. She worsened to the point that she became
+unresponsive and hypotensive with BP 60/20, bradycardiac with
+pulse 36. EMS was called and intubated the patient on arrival.
+She was given atropine with effect, then paced to 70s
+transcutaneously. Central line was placed in ED, patient was
+started on dopamine, levophed, and neosynephrine. Initial labs
+revealed a K= 6.08 (though hemolyzed), lactate 6.8. There was
+also concern for BB toxicity as a cause of the bradycardia. Pt
+was given calcium, glucagon, vanc, cefepime for empiric abx
+coverage. She was transcutaneously paced in the ED for a time,
+then her native rate increased to 50s in SR. Code discussions
+were held with the patient's daughter and the decision was made
+for full code status. The patient was admitted to MICU for
+further management. She received 1L of IVF in ED.
+.
+
+
+Past Medical History:
+1. Dementia
+2. NIDDM
+3. Renal insufficiency  (bl Cr 2.0)
+4. Vitamin D deficiency
+5. HTN
+6. UGI bleed with admission [**Date range (1) 39419**] tx with 5Units PRBC,
+EGD with epi and cautery.
+7. Iron deficiency anemia
+
+
+Social History:
+Lived at [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] recently, unknown tobacco or EtOH
+history.
+
+Family History:
+NC
+
+Physical Exam:
+VS: T 94.1 117/48 66 11 1005 on vent
+Vent: AC 550 x 14 0.7 5
+General: Intubated, sedated
+HEENT: surgical pupils, b/l cataracts
+Neck: supple, no LAD
+Chest: good air moving bilaterally
+CV: RRR s1 s2 normal, [**2-1**] SM LUSB
+Abd: soft, NT/ND, NABS
+Ext: 1+ edema
+Neuro: sedated
+
+
+Pertinent Results:
+Admission Labs:
+[**2124-6-18**] 10:03PM   TYPE-ART TEMP-36.1 PO2-135* PCO2-30* PH-7.39
+TOTAL CO2-19* BASE XS--5 INTUBATED-INTUBATED
+[**2124-6-18**] 10:03PM   LACTATE-1.3
+[**2124-6-18**] 09:33PM   proBNP-[**Numeric Identifier 39420**]*
+[**2124-6-18**] 09:33PM   CORTISOL-29.8*
+[**2124-6-18**] 04:45PM   TYPE-ART PO2-105 PCO2-36 PH-7.32* TOTAL
+CO2-19* BASE XS--6
+[**2124-6-18**] 04:45PM   LACTATE-2.6*
+[**2124-6-18**] 04:45PM   freeCa-1.34*
+[**2124-6-18**] 04:25PM   GLUCOSE-295* UREA N-82* CREAT-3.4* SODIUM-141
+POTASSIUM-5.1 CHLORIDE-114* TOTAL CO2-17* ANION GAP-15
+[**2124-6-18**] 04:25PM   CK(CPK)-79
+[**2124-6-18**] 04:25PM   CK-MB-NotDone cTropnT-0.24*
+[**2124-6-18**] 04:25PM   CALCIUM-9.6 PHOSPHATE-5.2* MAGNESIUM-2.6
+[**2124-6-18**] 04:25PM   WBC-18.8* RBC-3.61*# HGB-10.4*# HCT-32.3*#
+MCV-89 MCH-28.8 MCHC-32.2 RDW-17.2*
+[**2124-6-18**] 04:25PM   PLT COUNT-382
+[**2124-6-18**] 01:38PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.015
+[**2124-6-18**] 01:38PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-500
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-SM
+[**2124-6-18**] 01:24PM   LACTATE-6.3*
+[**2124-6-18**] 01:05PM   CK(CPK)-75
+[**2124-6-18**] 01:05PM   cTropnT-0.25*
+[**2124-6-18**] 01:05PM   CK-MB-NotDone
+[**2124-6-18**] 01:05PM   PLT COUNT-325
+[**2124-6-18**] 01:05PM   PTT-26.0
+.
+Discharge Labs:
+136  98  81
+---------------<134
+3.8  33  2.6
+Ca: 9.1 Mg: 2.0 P: 3.3
+.
+7.6 >---< 227
+     26.3
+PTT: 44.9
+.
+Imaging:
+CHEST (PORTABLE AP)  [**2124-6-28**] 10:39 AM
+The cardiac silhouette is enlarged but unchanged. There is a
+persistent left retrocardiac opacity and bilateral pleural
+effusions, left side worse than right. There is minimal
+pulmonary vascular congestion. Calcifications of the thoracic
+aorta are seen. There is a left-sided PICC line with distal tip
+in the mid SVC. Left IJ catheter has been removed. The
+nasogastric tube has also been removed.
+.
+CT HEAD W/O CONTRAST  [**2124-6-26**] 8:26 PM
+FINDINGS: There is no evidence of intracranial hemorrhage, mass
+effect, shift of normally midline structures, hydrocephalus, or
+acute major vascular territorial infarct. Atherosclerotic
+disease overall does not appear significantly changed as does
+small vessel ischemicc changes. Additionally, previously
+identified chronic appearing right-sided subdural collection
+does not appear as prominent on today's examination. Paranasal
+sinuses and mastoid air cells are well aerated. Soft tissues are
+unremarkable. No acute fractures.
+IMPRESSION:
+No acute intracranial pathology. If concern for acute ischemia,
+MRI would be more sensitive evaluation.
+.
+CT ABDOMEN W/O CONTRAST  [**2124-6-26**] 8:27 PM
+CT OF THE ABDOMEN WITHOUT IV CONTRAST: The lung bases
+demonstrate bilateral pleural effusions and bibasilar airspace
+consolidation. Limited evaluation of the solid organs due to
+lack of IV contrast. The liver and spleen demonstrate punctate
+calcifications. Gastrostomy tube is noted. The pancreas and
+adrenal glands appear normal. Bilateral renal cysts. There is no
+evidence of intra- abdominal bleeding. Severe calcification of
+the aorta and its branches.
+Limited evaluation of the loops of bowel due to lack of oral
+contrast, however, no gross abnormality is detected.
+CT OF THE PELVIS WITHOUT IV CONTRAST: The bladder, distal
+ureters, rectum, and sigmoid appear unremarkable. Rectal tube is
+noted.
+BONE WINDOWS: Severe degenerative changes of the lumbar spine.
+No suspicious lytic or sclerotic lesions.
+IMPRESSION: Very limited study due to lack of contrast and
+artifact from patient's arms. No evidence of retroperitoneal
+bleed.
+.
+ECHO Study Date of [**2124-6-21**]
+Conclusions:
+The left atrium is mildly dilated. No thrombus/mass is seen in
+the body of the left atrium. The interatrial septum is
+aneurysmal. No atrial septal defect is seen by 2D or color
+Doppler. The estimated right atrial pressure is 11-15mmHg. There
+is moderate symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. There is mild regional left
+ventricular systolic dysfunction with distal septal, inferior
+and apical akinesis. EF 45-50%. No masses or thrombi are seen in
+the left ventricle. There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) are mildly thickened. There are
+filamentous strands on the aortic leaflets consistent with
+Lambl's excresences (probably a normal variant). There is mild
+aortic valve stenosis (area 1.2-1.9cm2). Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is mild functional mitral stenosis due to
+mitral annular calcification. Mild (1+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened. There
+is moderate pulmonary artery systolic hypertension. There is
+a small pericardial effusion. There are no echocardiographic
+signs of
+tamponade.  Compared with the prior study (images reviewed) of
+[**2124-6-18**], no definite change. If clinically indicated, a TEE
+may better exclude a cardiac source of embolism.
+.
+MR L SPINE W/O CONTRAST  [**2124-6-21**] 12:51 AM
+MR L SPINE W/O CONTRAST; MR THORACIC SPINE W/O CONTRAST
+CLINICAL INFORMATION: Patient with question of cauda equina
+syndrome, for further evaluation.
+THORACIC SPINE:
+TECHNIQUE: T1, T2 and inversion recovery sagittal and T2 axial
+images of the thoracic spine were obtained.
+FINDINGS: There are mild multilevel degenerative changes seen in
+the thoracic spine without spinal stenosis or extrinsic spinal
+cord compression. The spinal cord demonstrates increased signal
+from mid thoracic region to the conus level with slight
+expansion of the cord. The axial images, which are slightly
+limited by motion, demonstrate central increased signal within
+the cord. The findings are suspicious for ischemia within the
+cord.
+IMPRESSION: Increased signal within the spinal cord from mid
+thoracic region T6 level to the conus, predom

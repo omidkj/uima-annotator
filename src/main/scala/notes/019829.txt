@@ -1,0 +1,209 @@
+Admission Date:  [**2138-6-5**]              Discharge Date:   [**2138-6-7**]
+
+Date of Birth:  [**2090-3-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Neck discomfort.
+
+Major Surgical or Invasive Procedure:
+Fiberoptic endoscopy [**2138-6-5**].
+
+
+History of Present Illness:
+Mr. [**Known lastname 62275**] is a 48 year-old male with PMH significant for
+GERD and asthma, status post left shoulder AC joint
+reconstruction by Dr. [**Last Name (STitle) 62276**] on the day of admission. He was
+discharged from the PACU after an uncomplicated surgery.
+
+Per discussion with anesthesia, intubation was not complicated
+but placement of the OG tube required force. At home, Mr.
+[**Known lastname 62275**] reported that he felt sinus congestion and fullness in
+his in right ear. He then pinched his nose and did a valsalva
+maneuver to clear the congestion. Seconds later, he found that
+his right neck, cheek and periauricular area puffed out with
+air. He subsequently presented to the pre-op holding area, where
+a STAT CXR and neck X-ray showed pneumomediastinum and SQ
+empyshema in neck, no pleural effusion.
+
+ENT was consulted. A fiberoptic scope did not demonstrate
+air/damage in upper pharynx. He was admitted to the [**Hospital Unit Name 153**] for
+closer monitoring. Of note, he says the swelling is actually
+getting better.
+
+Past Medical History:
+Exercise-induced asthma
+Status post left shoulder reconstruction for AC separation
+Gastroesophageal reflux disease
+
+Social History:
+He denies tobacco or EtOH intake.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Physical examination on admission:
+VITALS: AF, 92, 130/61, 12, 100% 2L
+Gen: Flattened affect but not in extremis
+HEENT: NCAT, oropharynx clear
+Neck: Supple, +SQ emphysema around neck (B) extending to R>L
+check, around platysmus and extending to upper chest area
+CVS: RRR, no mrg
+Lungs: CTA except rales at R base
+Abd: Soft, NABS, NT/ND
+Extremities: No edema, L extremity in sling, 2+ pulses
+
+
+Pertinent Results:
+Relevant laboratory data on admission ([**2138-6-5**]):
+CBC:
+WBC-15.4*# RBC-4.83 HGB-13.7* HCT-39.5* MCV-82 MCH-28.4
+MCHC-34.7 RDW-13.1 PLT SMR-NORMAL PLT COUNT-303
+NEUTS-88* BANDS-2 LYMPHS-10* MONOS-0 EOS-0 BASOS-0 ATYPS-0
+METAS-0 MYELOS-0
+
+Chemistry:
+GLUCOSE-136* UREA N-13 CREAT-1.1 SODIUM-139 POTASSIUM-4.8
+CHLORIDE-102 TOTAL CO2-25 ANION GAP-17
+CALCIUM-9.6 PHOSPHATE-1.2* MAGNESIUM-2.0
+LACTATE-3.7*
+
+Relevant imaging data:
+[**2138-6-5**] CXR: Lucency along the left cardiac silhouette and
+along the left trachea represents mediastinal air. There is no
+evidence for PTX, though the upper most apices are not imaged.
+The left costophrenic angle is not imaged. The lungs are clear
+given these limitations, the pleurae are normal. The heart is
+top normal. The mediastinal contours are normal besides presence
+of mediastinal emphysema.
+
+[**2138-6-5**] NECK X-RAY: Moderate subcutaneous emphysema is seen
+tracking within the soft tissues of the neck. Lung apices are
+unremarkable.
+
+[**2138-6-5**] CT NECK: There is extensive pneumomediastinum extending
+into the
+parapharyngeal spaces as well as subcutaneous soft tissues of
+the neck.  There is no definite evidence of disruption of the
+trachea or esophagus.  Oral contrast is noted in the esophagus
+and there is no extravasation of oral contrast into the
+mediastinum.  On lung windows, there is minimal atelectasis in
+the LLL.
+
+[**2138-6-6**] CXR: There is persistent mediastinal emphysema
+extending into the soft tissues of the neck bilaterally. No
+definite pneumothorax. The lungs remain clear and there are no
+definite pleural effusions in this single view.
+
+[**2138-6-7**] CXR: Single portable radiograph of the chest again
+demonstrates air within the superior mediastinum and soft
+tissues of the neck.  The cardiac silhouette is unremarkable.
+The hila are unremarkable. The lungs are clear. Trachea is
+midline.
+
+Brief Hospital Course:
+48 year-old male with a history of asthma, status post
+uncomplicated left AC joint reconstruction, presenting with
+subcutaneous emphysema and pneumomediastinum following a
+Valsalva maneuver. His brief hospital course will be reviewed by
+problems.
+
+1) Subcutaneous emphysema and pneumomediastinum: As noted above,
+a CXR and neck X-ray were remarkable for subcutaneous emphysema
+and pneumomediastinum. A CT neck was subsequently obtained which
+confirmed the above findings. No definite evidence for tracheal
+injury was found (although not fully excluded by CT), and there
+was no evidence of contrast extravasation from the esophagus. As
+noted above, ENT was consulted, and a fiberoptic endoscopy
+showed a normal pharynx/larynx. Thoracic surgery was consulted,
+with recommendation to manage conservatively. Serial CXRs showed
+stable findings, and Mr. [**Known lastname 62275**] remained clinically stable.
+He was placed on empiric antibiotic coverage with Clindamycin,
+initially IV then oral. A mouth care regimen was also initiated
+with chlorhexidine and nystatin, and he was placed on stool
+softeners to prevent straining.
+
+Given radiographic stability and clinical improvement, he was
+discharged home directly from the ICU on hospital day #3. He
+will complete a 7-day course of Clindamycin as an out-patient
+(last doses on [**2138-6-12**]). He was instructed to use his mouthcare
+regimen, and stool softeners, and emphasis was placed on
+avoidance of lifting or straining. He will contact Dr.[**Name2 (NI) 1816**]
+office on Monday [**6-9**] and schedule a follow-up appointment to
+be seen in [**6-23**] days.
+
+2) Status post left shoulder AC reconstruction: He was followed
+by the Orthopedics service while in the hospital. His left arm
+was kept in a sling, non weight bearing. Pain control was
+achieved with Percocet as needed. He has a scheduled follow-up
+appointment with Dr. [**Last Name (STitle) 2719**] on [**2138-6-18**].
+
+Medications on Admission:
+Prilosec OTC 20 mg PO QD
+Rhinocort
+
+
+Discharge Medications:
+1. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) for 10 days.
+Disp:*qs qs* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*20 Capsule(s)* Refills:*0*
+3. Clindamycin HCl 300 mg Capsule Sig: One (1) Capsule PO every
+six (6) hours for 6 days: Last doses on [**2138-6-12**].
+Disp:*24 Capsule(s)* Refills:*0*
+4. Chlorhexidine Gluconate 0.12 % Mouthwash Sig: Fifteen (15) ML
+Mucous membrane  [**Hospital1 **] (2 times a day) for 10 days: After
+brushing, rinse for 30 seconds, then spit.
+Disp:*qs qs* Refills:*0*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+6. Prilosec OTC 20 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Mediastinal emphysema
+Status post left shoulder reconstruction
+
+
+Discharge Condition:
+Patient discharged home in stable condition.
+
+
+Discharge Instructions:
+Please call your PCP or return to the hospital if you notice
+increased neck or facial swelling, or if you develop increased
+shortness of breath, chest pain or fever.
+
+We have prescribed an antibiotic called Clindamycin. Please take
+1 tablet every 6 hours for an additional 6 days (last doses on
+[**2138-6-12**]).
+
+Please AVOID ALL STRAINING. We have started stool softeners.
+Please take Colace twice daily as prescribed for at least 10
+days. Please also use the mouth care regimen prescribed for the
+next 10 days. NO LIFTING.
+
+Please keep your left arm in a sling as instructed by
+Orthopedics until follow-up with Dr. [**Last Name (STitle) 2719**].
+
+Please call Dr.[**Name (NI) 1816**] office on Monday [**Telephone/Fax (1) 170**] (Thoracic
+surgery) and schedule an appointment to be seen in [**6-23**] days.
+
+Followup Instructions:
+1. You have a scheduled appointment with Dr. [**Last Name (STitle) 2719**] on [**6-18**]. Please see below for details.
+- Provider: [**Name10 (NameIs) 8741**] [**Name11 (NameIs) **], MD Phone:[**Telephone/Fax (1) 1228**]
+Date/Time:[**2138-6-18**] 2:20.
+
+2. Please call Dr.[**Name (NI) 1816**] office on Monday [**Telephone/Fax (1) 170**]
+(Thoraci

@@ -1,0 +1,157 @@
+Admission Date:  [**2117-2-12**]              Discharge Date:   [**2117-2-25**]
+
+Date of Birth:  [**2069-9-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Vancomycin Analogues / IV Dye, Iodine Containing / Ace
+Inhibitors / Benadryl
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+fever, respiratory distress
+
+Major Surgical or Invasive Procedure:
+Already intubated on transfer from OSH
+A line
+Esophageal balloon
+
+History of Present Illness:
+47-year old patient of [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] with a 15-year history of
+Hodgkin's Disease, previously treated with chemotherapy
+complicated by bleomycin lung and two allogenic bone marrow
+transplants (2 and 6 years ago) complicated by heart failure and
+radiation fibrosis who presents as a transfer from an outside
+hospital after being intubated in the setting of a bleed during
+a bronchoscopy with subsequent development of ARDS.
+Patient was in usual state of health until this past [**Month (only) **]
+when she presented to clinic with a fever and cough. A sputum
+culture from [**12-25**] was noted to have sparce growth of
+aspirgillus fumigatus and terreus. Galactomannan and beta glucan
+negative. BAL deferred at patient's request. Treated with
+Azithromycin and Cefpodoxime.
+She did well and returned to work. She was given a DLI on [**1-14**].
+On [**1-25**], she presented to [**Hospital **] Medical Center with worsening
+fevers and shakiness for 48 hours. Chest imaging showed what was
+felt to be worsening of her infiltrate (although it is unclear
+what this was compared to) and pneumonitis. They performed a
+bronchoscopy on [**2117-1-26**] which was complicated by an extensive
+bleed leading to intubation. She later developed ARDS and was
+started on IV steroids and pressors. She was started on an
+antibiotic regimen which eventually included Linezolid,
+Meropenem, Voriconazole and Acyclovir (prophylaxis dose).
+She developed worsening hypercarbia on [**2-9**] and underwent a
+workup for embolic disease. A CTA was negative for PE but showed
+b/l pleural effusions R>L and a new left upper lung nodule of
+1.4cm. In addition, diffuse ground glass opacities are present.
+A right gastrognemius thrombus and a left cephalic thrombus was
+found. An MRI of the brain showed a new left parietal lobe
+infarcation. A CT also showed old infarction. Given abscence of
+positive cultures per records at the time, antibacterials were
+stopped on [**2-8**] and [**2-9**]. Voriconazole was continued. Atovaquone,
+Acyclovir ppx was continued. The patient was started on high
+dose Methylprednisolone 60mg Q8h on [**2-9**]. A pigtail catheter
+drainage of R chest loculated effusion was planned for [**2-11**] but
+was not done.
+From the VS it appears that the patient was hypotensive on
+[**11-19**]. No record of a fever. WBC up to 20,000.
+She was transferred to [**Hospital1 18**] for further evaluation and
+management given her extensive past medical care at [**Hospital1 18**]. She
+arrived in the [**Hospital Unit Name 153**] intubated, sedated and in no apparent
+distress. VS on arrival as below.
+
+Past Medical History:
+1. Hodgkin's lymphoma, nodular sclerosing, diagnosed in [**2101**];
+radiation to the mediastinum in [**2102**] and to the lymph nodes in
+[**2115**]
+2. Autologous bone marrow transplant in [**2103**]
+3. Non-myeloablative allogeneic stem cell transplant in [**2110**],
+MUD on [**2115-9-20**] ATG conditioning c/b serum sickness; Cellcept
+discontinued in [**2115-5-8**], only on low dose Prednisone recently
+(increased transiently to 20mg for pruritus)
+4. Cardiomyopathy, chemotherapy induced.
+5. Depression/anxiety
+6. Urinary incontinence
+7. GVHD related to transplant with dry eyes and occasional oral
+involvement
+8. Herpes Zoster, [**2-13**]
+9. PCP infection in [**8-/2114**] and remains on Bactrim
+10. CMV viremia [**9-14**]
+11. EBV viremia [**2115-11-7**] MMF discontinued
+12. BK viremia and viruria- [**2115-11-7**]
+13. RSV infection in [**2116-2-7**]
+.
+.
+46 yo female with a long history of nodular sclerosing Hodgkin's
+disease, s/p autologous SCT [**2101**], s/p sibling donor allogenic
+transplant [**2110**], and s/p unrelated allogenic SCT with D 0 on
+[**2115-9-20**]. Her post transplant course was notable for "serum
+sickness" thought related to ATG with fevers, rash, and joint
+pains. She was started on prednisone for control of the symptoms
+and the steroids have subsequently been discontinued. She had a
+relatively uncomplicated post-transplant course until she
+developed CMV viremia with CMV viral load on [**2115-9-30**] noted at
+4000. [**Doctor First Name 16883**] was started on IV ganciclovir. On [**2115-10-8**], she was
+switched to valganciclovir for continued treatment. Subsequent
+CMV viral loads on [**2115-10-6**] revealed a level of 9000, and
+repeat on [**2115-10-11**] was 14,500. At this point, [**Doctor First Name 16883**] was switched
+back to IV ganciclovir, and she was discharged to the local
+apartments on [**2115-10-16**]. Unfortunately, her CMV viral load
+increased further and she was readmitted for IV Foscarnet on
+[**2115-10-24**]. With improvement in her CMV viral load, she was
+discharged to the apartments on [**2115-11-9**] on IV ganciclovir. She
+was switched to Valganciclovir 900 mg twice per day in mid
+[**Month (only) 359**]. Her dose was decreased to 900 mg once per day as of
+[**2115-12-5**]. She developed a macular papular rash and was seen by
+Dermatology on [**2115-11-13**]. Biopsy was consistent with a drug
+hypersensitivity reaction, possibly related to Foscarnet or
+Bactrim. She also was treated for a short period of time with
+Keflex for possible infected SK on her hand. Her Bactrim was
+switched to Atovaquone and her Keflex was discontinued. She has
+recently been noted for slowly decreasing counts thought related
+to her Valcyte. However, [**Doctor First Name 16883**] was noted for increasing EBV
+level of 400 and with concern for PTLD, she was admitted on
+[**2115-12-15**] for evaluation and followup. Subsequent EBV viral
+loads were < 8 and CT of the neck showed decreasing adenopathy.
+CT of the torso showed stable adenopathy within the abdomen.
+Bone marrow biopsy was negative for lymphoma. [**Doctor First Name 16883**] was
+discharged on [**2115-12-19**]. Her counts have been recovering.
+.
+- Dx [**10/2101**] IIE HD. Treated with 6 cycles of MOPP/ABV
+hybrid followed by XRT.
+- Recurred in [**4-/2103**] with minimal disease and went to autologous
+transplant in 4/[**2103**].
+- [**12/2109**] noted for recurrent disease, received Gemzar as single
+[**Doctor Last Name 360**].
+- s/p nonmyeloablative allogeneic stem cell transplant from a
+sibling donor on [**2110-5-8**] with evidence for recurrent disease.
+
+- s/p 3 cycles of gemcitabine and Navelbine completed on
+[**2110-12-15**] followed by donor lymphocyte infusion on [**2110-12-26**]
+at a dose of 1 x10 to the 7th T cell per kilogram.
+- s/p 3 cycles of CEPP chemotherapy with the first cycle given
+without procarbazine and completed on 03/[**2111**].
+- s/p DC/DLI infusion on [**2111-6-5**] on the DC/DLI protocol with
+DLI dose of 3 x10 to the 7th T-cell per kilogram.
+- Evidence for disease recurrence in [**8-/2111**] and status post
+four weeks of Rituxan, last given on [**2111-10-7**], supported with
+Leukine injections.
+- s/p donor lymphocyte infusion at a dose of 1 x10 to 8th T-cell
+per kilogram on [**2111-10-22**].
+- s/p enrollment on [**Company 2860**] study involving anti-CTLA-4 antibody
+with donor lymphocyte infusion in 05/[**2112**].
+- Evidence for recurrent disease while on protocol and status
+post two cycles of Navelbine and gemcitabine.
+- s/p DLI at a dose of 0.79 x10 to the 8th T-cell per kg on
+[**2112-11-25**].
+- Evidence for recurrent disease in [**1-/2113**] and status post
+single [**Doctor Last Name 360**] Velcade starting in [**1-/2113**] given for two cycles,
+however, complicated by fevers and abdominal pain requiring
+admission at [**Hospital **] Medical Center.
+- Began Gemzar, Navelbine once again on [**2113-3-16**], s/p 4 cycles
+supported with Leukine injections for the second, third and four
+cycles.
+- Status post DLI at a dose of 1.15 x10 to the 8th T-cell per
+kilogram on [**2113-7-7**].
+- Noted for progressive

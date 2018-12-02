@@ -1,0 +1,133 @@
+Admission Date:  [**2112-11-26**]              Discharge Date:   [**2112-11-26**]
+
+Date of Birth:  [**2091-11-25**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Intoxication
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+History obtained from ED record and patient's mother.
+HPI:  The patient is 21 year old female with medical history of
+exertional asthma who went out to celebrate her 21st birthday at
+a bar with friends.  She is home for [**Holiday 1451**] from college
+in upstate NY. She reported drank 6 beers and 6 liquor drinks.
+She went the to bathroom alone and was found passed out on the
+floor by her friends.  [**Name (NI) **] friends call her parents and an
+ambulance.  She was brought into the ED by ambulance.  Her GCS
+on arrival was 6, and she was vomiting so she was intubated for
+airway protection. Her serum EtOH was 334.  The remainder of her
+serum and urine tox screens were negative.  Given the lack of
+head trauma or evidence for significant trauma a CT neck was
+deferred.
+
+
+Past Medical History:
+mild intermittent asthma
+
+Social History:
+Home from college for holiday. works with college EMS. no
+smoking. no known drug use.
+
+
+Family History:
+No alcohol abuse
+
+Physical Exam:
+Admission:
+Vitals: 98.6  108  123/56  14 100%
+Vent: AC 500x14 PEEP 5 FIO2 0.4
+Gen: intubated, sedated
+HEENT: ETT in place. no sign of head trauma
+Neck: supple
+Chest: clear ant and lat
+CV: regular tachy s1/s2 no m/r/g
+Abd: soft, flat, NT, ND, active BS
+Ext: warm, no edema. 2+DP bilat
+Skin: no rash
+Neuro:
+-MS: sedated.
+-CN: pupils round and reactive to light
+-Motor: moving all 4 extremities symmetrically
+
+Pertinent Results:
+[**2112-11-26**] 07:55AM   GLUCOSE-95 UREA N-8 CREAT-0.6 SODIUM-141
+POTASSIUM-4.0 CHLORIDE-108 TOTAL CO2-22 ANION GAP-15
+[**2112-11-26**] 07:55AM   WBC-12.9* RBC-3.87* HGB-12.0 HCT-34.9* MCV-90
+MCH-31.0 MCHC-34.4 RDW-11.7
+[**2112-11-26**] 07:55AM   PLT COUNT-334
+[**2112-11-26**] 12:35AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2112-11-26**] 12:01AM   ASA-NEG ETHANOL-334* ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+.
+CXR: No pneumothorax or consolidation.
+Head CT::No hemorrhage, hydrocephalus, mass effect or shift of
+normally midline structures. The [**Doctor Last Name 352**]-white matter
+differentiation is preserved. No major vascular territorial
+infarct is apparent. The paranasal sinuses and mastoid air cells
+remain normally aerated. No osseous abnormality is detected.
+
+Brief Hospital Course:
+The patient is a 21 year old woman with intermittent asthma who
+presents intoxicated with depressed mental status unable to
+protect her airway.
+.
+# Intoxication - The patient was intubated for altered mental
+status and vomiting. Her altered mental status was likely
+related to binge drinking given history and blood alcohol level
+334. Negative routine serum and urine tox screens and no AG
+acidosis to suspect ethylene glycol.  Also CT head was
+unremarkable for acute process. A CXR was obtained to evaluate
+for aspiration; no aspiration noted. The patient remained
+intubated for several hours in the ICU and then was successfully
+weaned. She was tolerating PO's and ambulating well. She was
+discharged with improved mental status.
+.
+# Asthma - no sign of acute exacerbation. will continue to
+provide bronchodilators while on vent.
+
+
+Medications on Admission:
+Albuterol
+
+Discharge Medications:
+1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q4H (every 4 hours) as needed for shortness of breath or
+wheezing.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Alcohol Intoxication
+
+
+Discharge Condition:
+Stable and improved
+
+
+Discharge Instructions:
+You were admitted for alcohol intoxication. You were intubated
+and admitted to the ICU because you were unable to protect your
+own airway and breathe reliably on your own. If you have you
+feel as though you are going to faint, pass out or if you have
+any specific neurological problems, please return to the
+emergency room.
+
+Followup Instructions:
+Please make an appointment to follow up in your college health
+clinic.
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

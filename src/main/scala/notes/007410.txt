@@ -1,0 +1,223 @@
+Admission Date:  [**2127-8-2**]              Discharge Date:   [**2127-8-18**]
+
+Date of Birth:  [**2050-12-30**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+morphine
+
+Attending:[**Last Name (NamePattern1) 11784**]
+Chief Complaint:
+AMS
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation [**2127-8-10**]
+
+History of Present Illness:
+This is a 75yo F PMHx L MCA stroke with residual dysarthria /
+aphasia / partial R hemiplegia, AF on coumadin, DM, HTN, HLD,
+who initally presented with lethargy to an OSH.  Per patient's
+family, they had found her increasingly lethargic that AM, and
+"looked sweaty".  At OSH, there was concern for whether or not
+neurologic exam findings were acute or chronic (family was not
+there to clarify), so patient was transferred to [**Hospital1 18**] for
+further management.
+.
+At [**Hospital1 18**], intial vital signs were 97.2 70 159/93 18 99%NRB.
+Exam was significant for alterred mental status, neuro exam
+significant for dysarthria, partial R hemiplegia (family arrived
+at this point and reported these were ALL CHRONIC, no new
+deficits). NCHCT did not demonstrate any acute changes.  EKG w/o
+prior for comparison, demonstrating qwaves.  Labs were
+significant for WBC 9.5, Hct 38.1, Cr 0.7, Trop 7.66, UA w 1WBC,
+no bacteria.  CXR w/o acute process.  Patient denied CP, SOB,
+cough, fever.
+.
+Given AMS and initial concern for CVA, patient was evaluated by
+neurology who felt that given lack of new findings on exam and
+imaging, it was unlikely that patient was having a stroke, but
+that close neuro monitoring in an ICU was recommended.
+.
+Given elevated troponin, cardiology was consulted, who felt that
+cause of troponin elevation was unclear given ECG without signs
+of acute ischemia/infarct in a patient without chest pain; they
+felt that potential causes could include demand ischemia [**1-22**]
+afib vs neurogenic myocardial mediated by catecholamines.
+
+Patient was admitted to MICU for further monitoring Vital signs
+prior to transfer were 96.5 110 114/81 2L98%3LNC.
+
+Patient was comfortable, and on ROS had back pain but no chest
+pain, dyspnea, headache, fever, abdominal pain, or extremity
+pain.  This was limited by her dysarthria and expressive
+aphasia.
+
+Past Medical History:
+- [**2-/2127**] - L MCA stroke with residual dysarthria / aphasia /
+partial R hemiplegia
+- AF on coumadin
+- DM
+- HTN
+- HLD
+- GERD
+
+Social History:
+Not tobacco, ETOH, or illicits. Currently residing in a nursing
+home s/p L MCA stroke. Mobilizes with wheelchair, needs
+assistance for transfers and ADLs.
+
+Family History:
+Strokes (mother, multiple), HTN (multiple family members)
+
+
+Physical Exam:
+Admission Exam:
+Vitals: T: 36.2 BP: 116/78 (symmetric bilaterally) P: 100 R: 18
+O2: 94%
+General: Somnolent but rouses to voice, oriented x1, dysarthric,
+no acute distress
+HEENT: Sclera anicteric, mucous membranes dry, oropharynx clear
+
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Irrregular rate and tachycardic, normal S1 + S2, no murmurs,
+rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley in place
+Ext: 1+ pulses, no clubbing, cyanosis or edema
+Neuro:
+CN: II - L hemianopia, PERRLA 5->3 mm
+III, VI, VI - EOMI
+V - sensation intact to light touch
+VII - R facial weakness
+VIII - hearing intact bilaterally
+IX, X - palate elevates symmetrically
+[**Doctor First Name 81**] - [**4-24**] SCM strength
+XII - tongue midline
+Strength - L normal strength throughout, R significantly reduced
+Sensation - L normal throughout, R diminished
+Guaic Negative
+
+Discharge Exam:
+*******************
+Patient afebrile, RR at 14.  Did not complete full exam as pt
+was CMO at discharge.
+
+Pertinent Results:
+Admission Labs:
+[**2127-8-2**] 04:42PM BLOOD WBC-9.5 RBC-4.53 Hgb-12.6 Hct-38.1 MCV-84
+MCH-27.9 MCHC-33.1 RDW-16.2* Plt Ct-264
+[**2127-8-2**] 04:42PM BLOOD Neuts-88.9* Lymphs-7.1* Monos-2.9 Eos-0.6
+Baso-0.5
+[**2127-8-2**] 04:42PM BLOOD PT-19.4* PTT-26.0 INR(PT)-1.8*
+[**2127-8-2**] 04:42PM BLOOD Glucose-201* UreaN-31* Creat-0.7 Na-139
+K-4.6 Cl-105 HCO3-24 AnGap-15
+[**2127-8-2**] 04:42PM BLOOD CK(CPK)-1095*
+[**2127-8-2**] 04:42PM BLOOD Lipase-35
+[**2127-8-2**] 04:42PM BLOOD CK-MB-64* MB Indx-5.8 cTropnT-7.66*
+[**2127-8-3**] 05:00AM BLOOD Calcium-10.2 Phos-2.6* Mg-1.8 Cholest-137
+[**2127-8-3**] 05:00AM BLOOD %HbA1c-6.5* eAG-140*
+[**2127-8-3**] 05:00AM BLOOD Triglyc-60 HDL-60 CHOL/HD-2.3 LDLcalc-65
+[**2127-8-3**] 04:50PM BLOOD Cortsol-28.8*
+[**2127-8-2**] 11:07PM BLOOD Type-[**Last Name (un) **] Temp-36.2 pO2-18* pCO2-56*
+pH-7.35 calTCO2-32* Base XS-2
+[**2127-8-2**] 11:07PM BLOOD Lactate-2.2*
+
+CE Trend:
+[**2127-8-2**] 04:42PM BLOOD CK-MB-64* MB Indx-5.8 cTropnT-7.66*
+[**2127-8-2**] 10:45PM BLOOD CK-MB-36* cTropnT-3.29*
+[**2127-8-3**] 05:00AM BLOOD CK-MB-20* MB Indx-4.2 cTropnT-3.42*
+[**2127-8-3**] 11:05AM BLOOD CK-MB-13* MB Indx-3.8 cTropnT-2.94*
+[**2127-8-3**] 04:50PM BLOOD CK-MB-10 MB Indx-3.5 cTropnT-2.66*
+[**2127-8-4**] 03:37AM BLOOD CK-MB-8 cTropnT-1.72*
+
+Discharge Labs: We did not do labs on discharge as pt was made
+CMO.
+
+Imaging:
+
+[**8-2**] CXR: Mild CHF
+
+[**8-3**] CT Head: There is a moderate sized hypodense area in the
+right occipital lobe parasagittal in location, ( se 2, im 15-18)
+involving the cortex and adjacent white matter with effacement/
+indistinct appearance of the right occipital [**Doctor Last Name 534**], representing
+an acute infarct in the right PCA territory. D/w Dr.[**Last Name (NamePattern4) 91264**]
+by Dr.[**Last Name (STitle) **] on [**2127-8-3**] at 2.35pm. Cllinical team is aware of
+the findings earlier.
+
+[**8-4**] CTA Head and Neck:
+HEAD AND NECK CTA: Occlusion of the distal right posterior
+cerebral artery,
+compatible with distribution of infarction. Otherwise, the
+remaining arteries are patent with no evidence of stenosis. No
+evidence of aneurysm formation.
+IMPRESSION:
+1. Extension of the previously described right posterior
+cerebellar artery
+infarction now including the right occipital and right temporal
+lobe.
+2. New area of infarction involving the right cerebellar
+hemisphere.
+3. Occlusion of the distal right posterior cerebellar artery
+compatible with the distribution of infarction.
+4. No evidence of herniation or midline shift.
+
+[**8-4**] EEG
+IMPRESSION: This is a markedly abnormal record. It shows
+significant
+loss of background frequencies suggestive of either multifocal
+disease
+or significant encephalopathic component. There are paroxysmal
+epileptiform features seen independently in the left central and
+over
+the right central temporal region. The activity in the right is
+occasionally very rhythmic suggesting a brief electrographic
+seizure.
+These occurred perhaps 30-40 times during the course of the
+record and
+usually lasted 10-20 seconds in duration. There is no clinical
+accompaniment with these events. The cardiac monitor, in
+addition, is
+abnormal.
+
+[**8-5**] NCHCT
+IMPRESSION:
+1. Technically limited study due to artifacts from monitoring
+devices on the scalp. Evaluation of inferior cerebellar
+hemispheres is particularly limited.
+2. Evolving infarcts in the right PCA and SCA territories. No
+evidence of new intracranial abnormalities.
+
+[**8-5**] EEG
+IMPRESSION: This 24-hour recording is most compatible with a
+moderately
+severe to severe diffuse encephalopathy with multifocal features
+
+suggesting both an encephalopathy and underlying structural
+pathology.
+The left frontal central region seems to be one area of
+independent
+abnormality, as well as the more posterior aspects of the right
+hemisphere. There were no sustained events that appear to be
+compatible
+with electrographic seizures and it should be noted that the
+record does
+wax and wane throughout the course of the 24-hour recording
+session.
+
+[**8-6**] EEG
+IMPRESSION: This EEG gives evidence for marked encephalopathic
+disorder
+manifest by marked suppression of normal background rhythms,
+suppressive
+bursts with periods of one to four seconds of flatline EEG, and
+high
+voltage triphasic waves that are seen synchronously.
+Additionally, at
+least two areas appear abnormal independently in that there is
+delta and
+sharp slow activity in the left frontal region a

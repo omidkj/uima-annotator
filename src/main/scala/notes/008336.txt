@@ -1,0 +1,177 @@
+Admission Date:  [**2108-2-20**]              Discharge Date:   [**2108-2-22**]
+
+Date of Birth:  [**2026-5-18**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ace Inhibitors
+
+Attending:[**First Name3 (LF) 443**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+-
+
+
+History of Present Illness:
+81 year-old female with history of CAD s/p multiple MIs, CABG
+x4v [**2101**], LAD [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 2 [**2104**], presented to OSH with SOB.  Patient
+was found there to have a new lung mass and possible post
+obstructive pneumonia c/b tachycardia and chest pain.  The
+patient was treated for her shortness of breath with nebs and
+developed chest discomfort.  Pt described chest pain as band
+like tightening around chest radiating to both arms with no
+associated nausea or vomiting.  Patient was given SL NTG,
+heparin gtt - became hypotensive, had continuing chest pain and
+was transferred to [**Hospital1 18**] for cardiac catheterization.
+.
+Cardiac review of systems was notable for absence of chest pain.
+ Reported dyspnea on exertion (20 ft), 2 pillow orthopnea.
+Denied ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+1. CAD s/p MI, CABGx4v [**2101**] (LIMA-LAD; VG-diag; VG2-OMs), PCI
+DESx2 LAD [**2104**]
+2. Hypertension
+3. Hypercholesterolemia
+4. Diabetes mellitus type II
+5. Ischemic cardiomyopathy - EF 35%
+6. LBBB
+7. Right carotid endarterectomy
+8. osteomyelitis
+9. s/p cataract surgery
+
+Social History:
+Soc Hx: widowed, 1.5 ppd tobacco x 50 yrs.  Two daughters
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. No xanthalesma.
+NECK: JVP of 8cm.
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+LUNGS: Poor air movement at bases, diffuse wheezes
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e.
+PULSES:
+Right: DP 1+ PT 1+
+Left: DP 1+ PT 1+
+
+Pertinent Results:
+[**Known lastname **], [**Known firstname 247**]       [**Hospital1 18**] [**Numeric Identifier 27774**]Portable TTE
+(Complete)
+
+IMPRESSION: Suboptimal image quality. Extensive left ventricular
+systolic dysfunction with severe systolic dysfunction. Elevated
+estimated PCWP. Moderate mitral regurgitation. Moderate
+pulmonary hypertension.
+
+Compared with the prior study (images reviewed) of [**2104-1-9**], the
+severity of mitral and tricuspid regurgitation have increased.
+
+.
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2108-2-20**]
+10:41 PM
+
+IMPRESSION: New right lung mass measures 5.5 x 4.8 cm. Recommend
+CT for
+further characterization.
+.
+
+[**2108-2-20**] 10:23PM BLOOD WBC-8.9 RBC-3.69* Hgb-11.3* Hct-33.8*
+MCV-92 MCH-30.7 MCHC-33.5 RDW-13.5 Plt Ct-305
+[**2108-2-22**] 02:32AM BLOOD WBC-22.5* RBC-3.50* Hgb-10.7* Hct-32.4*
+MCV-93 MCH-30.5 MCHC-32.9 RDW-13.2 Plt Ct-292
+[**2108-2-20**] 10:23PM BLOOD PT-12.3 PTT-30.3 INR(PT)-1.0
+[**2108-2-20**] 10:23PM BLOOD Glucose-245* UreaN-62* Creat-1.9* Na-140
+K-5.5* Cl-102 HCO3-25 AnGap-19
+[**2108-2-22**] 02:32AM BLOOD Glucose-118* UreaN-68* Creat-1.8* Na-141
+K-5.1 Cl-102 HCO3-29 AnGap-15
+[**2108-2-20**] 10:23PM BLOOD ALT-23 AST-18 CK(CPK)-98 AlkPhos-81
+TotBili-0.2
+[**2108-2-22**] 02:32AM BLOOD CK(CPK)-157
+[**2108-2-20**] 10:23PM BLOOD CK-MB-5 cTropnT-0.02*
+[**2108-2-21**] 02:25PM BLOOD CK-MB-13* MB Indx-7.6* cTropnT-0.05*
+[**2108-2-22**] 02:32AM BLOOD CK-MB-10 MB Indx-6.4* cTropnT-0.04*
+[**2108-2-21**] 01:39PM BLOOD Type-ART pO2-69* pCO2-56* pH-7.27*
+calTCO2-27 Base XS--1 Intubat-NOT INTUBA
+[**2108-2-22**] 01:59AM BLOOD Type-ART pO2-318* pCO2-74* pH-7.26*
+calTCO2-35* Base XS-3
+[**2108-2-21**] 03:13PM BLOOD Lactate-1.4
+[**2108-2-22**] 01:59AM BLOOD Lactate-0.8 K-5.0
+
+Brief Hospital Course:
+Ms. [**Known lastname 2031**] was an 81 year old woman with history of CAD s/p
+multiple MIs, CABG 4v, presented to outside hospital with new
+lung mass, post obstructive pneumonia, who subsequently
+developed chest pain after albuterol nebulization treatment and
+was transferred to [**Hospital1 18**] Cardiac Intensive Care Unit for concern
+of acute coronary syndrome.
+
+#Hypoxic respiratory failure: Patient was hemodynamically stable
+on presentation to the CCU, requiring 4L O2 by NC.  CXR showed a
+likely large lung mass in the right lung field.  An ABG showed
+the patient had a large A-a gradient.  The patient had
+intermittend hypoxic episodes that became increasingly frequent
+associated with chest pain.  There was concern for PE, and
+heparin was started.  Antibiotics were started as well for a
+post-obstructive pneumonia.  Lasix was given for possible CHF
+exacerbation, and nebulizers and methylprednisolone was given
+for possible COPD exacerbation.
+
+Despite these measures, the patient however continued to
+deteriorate rapidly and she became delirious.  The family was
+[**Name (NI) 653**], who indicated that the primary goal of the patient
+and the family was comfort.  A family meeting was held, and the
+patient all interventions with the exception of comfort measures
+were discontinued.  A morphine drip was started, and the patient
+expired on [**2108-2-22**] at 3:15pm.
+
+Medications on Admission:
+1. Albuterol 90mcg INH q4H PRN
+2. Amlodipine 10mg PO DAILY
+3. Clopidogrel 75mg PO DAILY
+4. Digoxin 0.125mg PO DAILY
+5. Ezetimibe/Simvastatin 10/10mg PO DAILY
+6. Fluticasone-salmeterol dosage unknown
+7. Folic Acid 1mg PO DAILY
+8. Furosemide 40mg PO BID
+9. Glyburide 2.5mg PO DAILY
+10. Ipratropium-albuterol 18 mcg-103 mcg INH PRN
+11. Lisinopril 5mg PO DAILY
+12. Metoprolol succinate 100mg PO BID
+13. Pravastatin 80mg PO BID
+14. Aspirin 325mg PO DAILY
+15. Albuterol-ipratropium dose unknown INH PRN
+16. Nitroglycerin 0.4mg/hr 1 patch TD PRN
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+-
+
+
+Discharge Condition:
+Expired
+
+
+Discharge Instructions:
+None
+
+Followup Instructions:
+-
+
+
+
+Completed by:[**2108-2-23**]

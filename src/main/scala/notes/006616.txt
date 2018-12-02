@@ -1,0 +1,219 @@
+Admission Date:  [**2139-12-8**]              Discharge Date:   [**2139-12-21**]
+
+Date of Birth:  [**2069-12-31**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Tetanus / Penicillins / Latex
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2139-12-11**] Coronary Artery Bypass Graft x 4 (LIMA to LAD, SVT to
+Ramus, SVG to Ramus2, SVG to PDA)
+
+History of Present Illness:
+69 y/o female with dyspnea on exertion who was scheduled for a
+hysterectomy on [**2139-12-7**] for recently diagnosed endometrial
+cancer. During pre-op work-up she had an abnormal EKG. Then
+referred for a stress test and echo. Both of which were
+negative. She then was referred for a cardiac cath.
+
+Past Medical History:
+Hypertension, Hypercholesterolemia, Diabetes, Endometrial Cancer
+(recently diagnosed), GI Bleed (5 yrs ago), Rheumatoid
+Arthritis, Strep throat with abscess, s/p bunion surgery, s/p
+repair of deviated septum, s/p removal of sebaceous cysts
+
+Social History:
+Denies tobacco or ETOH use.
+
+Family History:
+Brother died from an MI at age 50.
+
+Physical Exam:
+Admission
+VS: 97 18 143/97 5'3" 183#
+Gen: Well-appearing female in NAD
+Skin: Unremarkable
+HEENT: EOMI, PERRL, NCAT
+Neck: Supple, FROM, -JVD, -carotid bruit
+Chest: CTAB
+HEart: RRR -murmur
+Abd: Soft NT/ND +BS
+Ext: Warm, well-perfused with minimal edema, -varicosities
+Neuro: A&O x 3, MAE, non-focal
+Discharge
+VS  T 98.1  BP 136/65  HR 78  RR 18  O2sat 96% RA
+Gen: NAD
+Neuro: A&Ox3, nonfocal exam
+Pulm: Diminished bases bilat
+CV: RRR, No murmur. Sternum stable. Incision CDI.
+Abdm: soft, NT/+BS
+Ext: warm, well perfused. Bilat LE edema. SVG harvest sites CDI
+
+Pertinent Results:
+[**2139-12-19**] 07:25AM BLOOD WBC-11.8* RBC-3.78* Hgb-10.7* Hct-32.5*
+MCV-86 MCH-28.2 MCHC-32.8 RDW-14.1 Plt Ct-334
+[**2139-12-19**] 07:25AM BLOOD Plt Ct-334
+[**2139-12-21**] 07:20AM BLOOD Glucose-70 UreaN-17 Creat-0.9 Na-137
+K-5.1 Cl-99 HCO3-27 AnGap-16
+
+[**12-8**] Cath: 1.  Selective coronary angiography of this right
+dominant system reveals severe three vessel coronary artery
+disease.  The LMCA is short and small with diffuse disease.  The
+pLAD is 100% occluded.  There is faint collateral flow filling
+the vessel retrograde via the RCA.  The ramus intermedius is
+occluded and fills faintly retrograde via OM1 and OM2. The LCx
+artery is diffusely disease and gives off 2 OMs with up to
+50-60% disease.  The ostial RCA has 70% disease and the distal
+RCA has a 80% lesion.  The PDA and RPL are moderate sized
+vessels. 2.  Resting hemodynamic measurements reveals low
+cardiac output (2 liter/min/m2), elevated biventricular filling
+pressure with RVEDP of 21mmHg and LVEDP of 30mmHg, and pulmonary
+hypertension with a PA systolic pressure of 68mmHg. 3.  Left
+ventriculography reveals low systolic ejection of 25% with
+anteriorbasal hypokinesis, anteriolateral akinesis and apical
+dyskinesis. The inferior-apical wall is also severely
+hypokineitc.  The segment which moves best is the inferior basal
+wall.
+[**12-8**] CNIS: 1. 40-59% right ICA stenosis, graded closer to 55%.
+2. No significant left ICA stenosis (graded as less than 40%).
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 77221**] (Complete)
+Done [**2139-12-11**] at 11:51:56 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2069-12-31**]
+Age (years): 69 F  Hgt (in): 63
+BP (mm Hg): 145/78  Wgt (lb): 183
+HR (bpm): 76  BSA (m2): 1.86 m2
+Indication: Intraoperative TEE for CABG
+ICD-9 Codes: 786.05, 786.51, 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2139-12-11**] at 11:51    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1510**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW2-: Machine: [**Pager number 5741**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Ejection Fraction:  20%  >= 55%
+Aorta - Ascending:  3.0 cm  <= 3.4 cm
+Aortic Valve - Valve Area:  *1.3 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  0.9 m/sec
+Mitral Valve - A Wave:  0.3 m/sec
+Mitral Valve - E/A ratio:  3.00
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Severe regional LV systolic
+dysfunction. Severely depressed LVEF.
+
+RIGHT VENTRICLE: Mild global RV free wall hypokinesis.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal descending aorta diameter.
+Simple atheroma in descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Mild
+AS (AoVA 1.2-1.9cm2). Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild
+[1+] TR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+
+Conclusions
+Prebypass
+
+1.No atrial septal defect is seen by 2D or color Doppler.
+
+2.There is mild symmetric left ventricular hypertrophy. There is
+severe regional left ventricular systolic dysfunction with 20%.
+Overall left ventricular systolic function is severely depressed
+(LVEF= 20%).
+
+3.There is mild global right ventricular free wall hypokinesis.
+
+4.There are simple atheroma in the descending thoracic aorta.
+
+5.The aortic valve leaflets (3) are mildly thickened. There is
+mild aortic valve stenosis (area 1.2-1.9cm2). Trace aortic
+regurgitation is seen.
+
+6. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen.
+
+7.The tricuspid valve leaflets are mildly thickened.
+
+Post Bypass
+
+1. Patient is in sinus rhythm and receiving an infusion of
+Norepinephrine, epinephrine and Milrinone.
+
+2. RV function is normal.
+
+3. Anterior wall of the LV has better function. Overall LVEF is
+30 %
+
+4. Aorta intact post decannulation.
+
+CHEST (PORTABLE AP)  [**2139-12-19**] 2:13 PM
+
+CHEST (PORTABLE AP)
+
+Reason: eval for pleural effusions
+
+[**Hospital 93**] MEDICAL CONDITION:
+69 year old woman CABGx4
+REASON FOR THIS EXAMINATION:
+eval for pleural effusions
+HISTORY: CABG times four, evaluate for effusions.
+
+CHEST, SINGLE AP PORTABLE VIEW
+
+Lordotic positioning. Status post sternotomy and mediastinal
+clips. There is moderately severe cardiomegaly, unchanged. There
+is some increased retrocardiac density, but this has improved
+compared with [**2139-12-15**], as left hemidiaphragm is now visible.
+There is minimal upper zone redistribution, without overt CHF.
+There is minimal patchy opacity in the right cardiophrenic
+region, without frank consolidation. No right-sided effusion is
+identified. No gross left-sided effusion, though small effusion
+would be difficult to exclude on this view.
+
+
+Brief Hospital Course:
+As mentioned in the HPI, Ms. [**Known lastname 17358**] required a cardiac cath
+following a positive stress test. On [**12-8**] cardiac cath revealed
+severe three vessel disease with both systolic and diastolic
+ventricular dysfunction. She was admitted to the CCU and cardiac
+surgery was consulted. She was medically managed over the next
+several days while undergo further tests prior to surgery. On
+[**12-11**] she was brought to the operating room where she underwent
+a coronary artery bypass graft x 4. Please see operative report
+for surgical details. Following surgery she was transferred to
+the CVICU for invasive management in stable condition. She
+remained intubated and required multiple pressors for several

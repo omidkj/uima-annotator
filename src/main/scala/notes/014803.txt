@@ -1,0 +1,226 @@
+Admission Date:  [**2124-7-8**]              Discharge Date:   [**2124-7-17**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+
+History of Present Illness:
+Mrs. [**Known lastname 39425**] is an 88 yo woman with a PMH of dementia, DM2, CKD
+(baseline Cr 2.0), HTN, chronic subdural hematoma, recent GI
+bleed and recent admission with ?sepsis/bradycardic
+arrest/hypotension complicated by spinal cord infarct who
+presented to the ED from nursing home with respiratory distress.
+
+.
+Per the nursing home, she was in her USOH until approximately 6
+a.m. on the morning of admission, when she acutely desaturated
+to 74%. With suctioning, chest PT and "breathing treatments,"
+her sats improved to 92%. She then again became hypoxemic (to
+the 70s), and she was placed on a NRB, at which point mental
+staus changes became worrisome to the staff. She received 60 of
+furosemide IV, and EMS was called.
+.
+The pt was intubated for hypoxemic respiratory failure in
+transit to [**Hospital1 18**]. In the ED, initial VSs were temp of 101.0 HR
+68, BP 80/59, RR 16, 100% vented. She was started on
+norepinephrine for hypotension and given vancomycin and
+ceftazadime.
+
+
+Past Medical History:
+1. Dementia
+2. NIDDM
+3. Renal insufficiency  (bl Cr 1.7)
+4. Vitamin D deficiency
+5. HTN
+6. UGI bleed with admission [**Date range (1) 39419**] tx with 5Units PRBC,
+EGD with epi and cautery.
+7. Iron deficiency anemia
+8. CAD s/p NSTEMI recent admission [**Date range (2) 39426**]
+9. Lower extremitity paraplegia s/p spinal artery infarct last
+admission [**2124-6-18**] -[**2124-7-1**]
+
+
+Social History:
+Lived at [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] recently, unknown tobacco or EtOH
+history.
+
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: 97 BP: 134/75 (off pressors) P: 74 R: 22 SaO2: 100%
+Vent: AC 400 x 18, 50% 5 peep, 22bpm
+General: Chronically ill appearing, non-responsive
+HEENT: NCAT, Surgical pupils, no scleral icterus, MMM,
+intubated, no lesions noted in OP
+Neck: supple, no significant JVP (4cm)
+Pulmonary: Lungs transmitted upper airway sounds
+Cardiac: RR, nl S1 S2, II/IV SEM at USB, rubs or gallops
+appreciated
+Abdomen: soft, NT, ND, normoactive bowel sounds, no masses or
+organomegaly noted, g tube in place
+Extremities: 2+ edema/anasarca UE>LE, 2+ radial, 1+ DP pulses
+b/l
+Skin: no rashes or lesions noted.
+Neurologic: intubated, not sedated, moves head and arms
+bilaterally spontaneously, no movement in LE, toes mute.
+
+
+Pertinent Results:
+ADMISSION LABS
+---------------
+([**2124-7-8**]) 08:00AM
+WBC-19.5* RBC-3.36* Hgb-9.6* Hct-30.1* MCV-90 MCH-28.4 MCHC-31.7
+RDW-17.3* Plt Ct-466*
+Neuts-85* Bands-6* Lymphs-6* Monos-3 Eos-0 Baso-0 Atyps-0
+Metas-0 Myelos-0
+Hypochr-1+ Anisocy-1+ Poiklo-2+ Macrocy-NORMAL Microcy-1+
+Polychr-OCCASIONAL Ovalocy-1+ Stipple-OCCASIONAL [**Name (NI) **]
+[**Last Name (STitle) 31525**]
+[**Name (STitle) **]16.3* PTT-51.1* INR(PT)-1.5*
+Plt Smr-HIGH Plt Ct-466*
+Glucose-173* UreaN-115* Creat-2.8* Na-135 K-4.6 Cl-92* HCO3-32
+AnGap-16
+CK(CPK)-111
+CK-MB-4
+cTropnT-0.51*
+Calcium-8.7 Phos-6.7*# Mg-2.3
+04:02PM BLOOD Cortsol-36.6*
+04:05PM BLOOD Cortsol-47.9*
+06:00PM BLOOD Cortsol-60.2*
+.
+08:28AM BLOOD Type-ART Temp-38.3 Rates-/14 Tidal V-450 FiO2-100
+pO2-263* pCO2-64* pH-7.31* calTCO2-34* Base XS-3 AADO2-403 REQ
+O2-69 INTUBATED
+.
+01:10PM BLOOD Type-ART Rates-18/22 Tidal V-400 PEEP-5 FiO2-50
+pO2-82* pCO2-49* pH-7.45 calTCO2-35* Base XS-8 -ASSIST/CON
+Intubat-INTUBATED
+.
+01:10PM BLOOD Lactate-1.0 Na-132* K-3.9 Cl-92*
+.
+10:27PM BLOOD Type-ART Temp-37.0 pO2-145* pCO2-45 pH-7.44
+calTCO2-32* Base XS-6
+.
+.
+STUDIES
+----------
+([**2124-7-8**]) HEAD CT
+IMPRESSION:
+1. No hemorrhage or mass effect.
+2. Brain and medial temporal atrophy.
+.
+([**2124-7-8**]) CHEST X-RAY
+IMPRESSION: Consolidation in the left lower lobe with small
+left-sided pleural effusion. Probable consolidation in the right
+lower lobe.
+.
+.
+([**2124-7-8**]) ECG
+Normal sinus rhythm. T wave inversions in leads V1-V6 suggest
+possible
+anterior ischemia. Late R wave transition. Left axis deviation.
+Probable left anterior fascicular block. Cannot exclude prior
+inferior myocardial
+infarction. Compared to the prior tracing of [**2124-6-18**] no
+diagnostic change.
+.
+.
+([**2124-7-10**]) CHEST X-RAY
+Moderate cardiomegaly, unchanged since [**7-8**], substantially
+improved since [**6-28**]. Worsening left lower lobe consolidation
+could be pneumonia or atelectasis. Lungs otherwise generally
+clear. Heavy mitral annulus calcification noted may be
+contributing to mitral regurgitation. ET tube and left
+subclavian line in standard placements. Tubing coiled over the
+stomach, cannot be localized with certainty on this single view.
+No pneumothorax or appreciable pleural effusion.
+.
+([**2124-7-10**]) ECG
+Atrial fibrillation with rapid ventricular response
+Borderline left axis deviation - is nonspecific
+Left ventricular hypertrophy
+Delayed R wave progression - may be due to left ventricular
+hypertrophy
+Diffuse nonspecific ST-T wave changes
+Since previous tracing of [**2124-7-8**], atrial fibrillation now
+present, and further ST-T wave changes seen
+.
+([**2124-7-11**]) TRANS-ESOPHAGEAL ECHO
+IMPRESSION: No definitive evidence of vegetations. However,
+there are
+filamentous strands on the aortic valve leaflets which are
+likely normal
+variant, but endocarditis cannot be entirely excluded.
+.
+[**2124-7-13**] 02:35PM BLOOD Ret Aut-1.1*
+.
+[**2124-7-13**] 02:35PM BLOOD ALT-30 AST-24 LD(LDH)-174 AlkPhos-82
+TotBili-0.3
+.
+[**2124-7-13**] 02:35PM BLOOD calTIBC-147* Hapto-164 Ferritn-854*
+TRF-113*
+.
+DISCHARGE LABS:
+
+
+Brief Hospital Course:
+Briefly this is an 88 year old woman with multiple medical
+issues (dementia, DM, CHF, CKD, spinal cord infarction with BLE
+hemiplegia) who presented with hypoxic respiratory failure, and
+hypotension, found to have MRSA in sputum and BAL, coagulase
+negative staph in blood and from PICC line and VRE in blood from
+art line.
+.
+1.Respiratory failure: Pt admitted for hypoxemic respiratory
+failure, intubated in field. See to have b/l pulmonary
+consolidations on CXR. Sputum, BAL cultures grew BRSA.  Pt on
+vancomycin initially, switched to PO linezolid on [**7-13**]. Pt
+extubated in [**7-12**].  On d/c did not have oxygen requirement.
+.
+2. Sepsis: Pt was admitted with PICC line in place.  Blood
+cultures from [**7-8**] grew coagulase negative staph, her PICC was
+d/c'd on [**7-10**], the cath tip also grew CNS.  Surveillance
+cultures the following day ([**7-11**]) grew VRE from a-line.
+Vancomycin d/c'd and pt started on IV linezolid on [**7-13**] to cover
+MRSA PNA as well as CNS and VRE bacteremia. ID was consulted and
+recommended plan to continue linezolid PO on discharge for a
+total of 2 week course.  Will check weekly CBCs to monitor for
+pancytopenia.  Last day of linezolid [**2124-7-27**].
+.
+3. CKD: History of CKD and elevated creatinine on presentation.
+During admission however, creatinine improved and is now below
+previously recorded values. New baseline cr = 1.7. Pt started on
+ACE-I prior to d/c.
+.
+4. DM2: Adequate blood glucose control on insulin sliding scale.
+.
+5. Anemia/h/o GIB: Pt's hematocrit was in high 20s for hospital
+stay.  Anemia panel negative for hemolysis or iron deficiency.
+No signs of acute bleed.  Anemia likely due to phlebotomy
+superimposed on anemia of chronic disease.  Pt did not require
+transfusion during this stay. On day of discharge Hct = 28.4.
+.
+6. C. diff: Patient was c. diff + on last admission, and her
+antibiotic course was completed on [**2124-7-10**]. No signs of ongoing
+infection. Pt continued on flagyl during this admission for
+prophylaxis during treatment with antibiotics for her PNA and
+bacteremia.  C diff toxin has been negative x 2 during this
+admission. Pt to continue flagyl for one week after the
+completion of linezolid course. Last day of flagyl [**2124-8-3**].
+.
+7. CAD/HTN: Pt had NSTEMI on last admission.  Had episode of
+afib with RVR in unit, responded to labetalol.  Maintained on
+labetalol with parameters, ASA and statin. On tele during
+admission with no further events on floor. Pt was hyp

@@ -1,0 +1,195 @@
+Admission Date:  [**2168-9-7**]              Discharge Date:   [**2168-9-20**]
+
+Date of Birth:  [**2087-7-29**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 9853**]
+Chief Complaint:
+Dyspnea.
+
+Major Surgical or Invasive Procedure:
+PICC line placement [**2168-9-16**].
+
+
+History of Present Illness:
+81 [**Hospital **] nursing home resident with multiple medical problems
+including [**Name2 (NI) **] palsy, mild mental retardation, who was
+admitted to [**Hospital 883**] Hospital in [**Month (only) 205**] and treated for urosepsis
+and a possible infectious eneterococcal endocarditis.  She was
+treated for these and was doing well at her group home until [**9-7**]
+when she developed shortness of breath and tachypnea.
+.
+Of note, regarding her previous admission: she was admitted to
+[**Hospital 883**] Hospital from [**2168-7-15**] to [**2168-7-31**] for a urosepsis and
+infectious endocarditis. She presented hypotensive, T 100.1,
+minimally interactive and somewhat ill-appearing, and was given
+IV ceftriaxone 1gm in the ED.  She was empirically started on
+vancomycin/ceftazidime and quickly defervesced (temp in [**Name (NI) **]
+unclear in d/c summary, but may be 100.1).  Blood and urine
+cultures were sent. Urine cultures grew pseudomonas and 2
+klebsiella colonies, sensitive to ciprofloxacin. 2/2 blood
+cultures on day of admission grew Enterococcus faecalis,
+sensitive to ampicillin.  One subsequent blood culture had no
+growth.  TTE was performed and showed tricuspid regurgitation
+(2+) and mitral regurgitation (1+) with a small, mobile mass on
+the TV c/w a torn cordae vs small vegetation. Because IV access
+was difficult to obtain (picc failed, hickman placement failed),
+the patient was started on oral ampicillin for enterococcal
+infectious endocarditis, which was to be complete a 5 week
+course of antibiotiocs (to [**2168-8-22**]), 500mg po qid. She also
+completed 1 week of IV antibiotics (vanco?) while in house.
+Ciprofloxacin 500mg [**Hospital1 **] was to be continued until [**2168-7-31**] for
+her UTI (a 14 day course).  She should have had f/up with Dr [**First Name8 (NamePattern2) 233**]
+[**Last Name (NamePattern1) 102804**] (ID) at FH on [**8-24**].
+.
+In the [**Hospital1 18**] ED, the patient was afebrile but tachypneic and
+tachycardic. T 99.0 HR 104 BP 148/67 RR 33 O2sat 96% on 2L.  ECG
+showed atrial flutter/fibrillation, right bundle branch block,
+and new inconsistent ST depression in V3.  Ciprofloxacin 500 mg
+was given (nursing record).  She was deemed to be in CHF based
+on an elevated BNP ([**Numeric Identifier 16351**]) and elevated JVP (known TR).  She
+improved with lasix and diuresis.  Her aflutter improved with
+lopressor.
+
+Past Medical History:
+1. Recent diagnosis of tricuspid endocarditis status post
+six-week course of ampicillin PO.
+2. Mental retardation
+3. Seizure disorder
+4. Cerebral palsy
+5. Legal blindness with optic atrophy
+6. Severe sensorineural hearing loss
+7. Status post left hip replacement in [**2159**] and [**2166**]
+8. Osteoarthritis
+9. Mood disorder
+10. History of psychotic depression with auditory hallucinations
+
+11. Hemorrhoids
+12. Gastroesophageal reflux disease
+13. Hypertension
+14. Dysphagia
+15. Asthma
+
+Social History:
+Lives in group home, has guardian who is case manager at group
+home. Has 4 siblings, and is closest to her 2 sisters, who live
+in [**Location (un) 8973**]. At baseline patient is blind, hard of hearing,
+and unable to take care of ADLs. Reportedly can be transfered to
+wheelchair.  Denies tobacco, alcohol, or drug use.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS: T96, BP 87/45, P102, 98% on 4L NC
+GEN: Elderly woman, agitated with headshaking - able to say
+"leave me alone" but unable to verbalize name or any other
+answers clearly. HEENT: Sclera anicteric; severe diplopia (pt
+blind per hx)
+CV: [**Last Name (un) **] irregular, distant heart sounds, III/VI SEM at LUSB
+CHEST: CTA anteriorly
+ABD: Soft, non-distended, nontender
+EXT: WWP
+
+
+Pertinent Results:
+Labwork on admission:
+[**2168-9-7**] 04:15PM   WBC-11.6*# RBC-3.08* HGB-9.5* HCT-29.7*
+MCV-96 MCH-30.7 MCHC-31.8 RDW-16.0*
+[**2168-9-7**] 04:15PM   PLT COUNT-203
+[**2168-9-7**] 04:15PM   NEUTS-81.5* LYMPHS-11.9* MONOS-2.5 EOS-0.2
+BASOS-0.7
+[**2168-9-7**] 04:15PM   GLUCOSE-232* UREA N-48* CREAT-1.4* SODIUM-135
+POTASSIUM-7.6* CHLORIDE-103 TOTAL CO2-23 ANION GAP-17
+[**2168-9-7**] 04:15PM   CK-MB-NotDone proBNP-[**Numeric Identifier 102805**]*
+[**2168-9-7**] 04:15PM   cTropnT-0.02*
+[**2168-9-7**] 04:15PM   PHENYTOIN-14.5
+.
+[**Date range (3) 102806**] BLOOD CULTURE
+
+                            **FINAL REPORT [**2168-9-10**]**
+
+   Blood Culture, Routine (Final [**2168-9-10**]):
+      REPORTED BY PHONE TO [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] ON [**2168-9-8**] @ 8:50 P.M..
+      ENTEROCOCCUS FAECALIS.    FINAL SENSITIVITIES.
+         LINEZOLID SENSITIVITY REQUESTED BY DR [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+(PAGER [**Numeric Identifier 102807**])
+         ON [**2168-9-10**].
+         HIGH LEVEL GENTAMICIN SCREEN: Resistant to 500 mcg/ml
+of
+         gentamicin. Screen predicts NO synergy with penicillins
+or
+         vancomycin. Consult ID for treatment options.
+         HIGH LEVEL STREPTOMYCIN SCREEN: Susceptible to
+1000mcg/ml of
+         streptomycin.  Screen predicts possible synergy with
+selected
+         penicillins or vancomycin.  Consult ID for details..
+         BETA LACTAMASE NEGATIVE.
+SENSITIVITIES: MIC expressed in MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS FAECALIS
+                             |
+AMPICILLIN------------   <=2 S
+LINEZOLID-------------     2 S
+PENICILLIN G----------     8 S
+VANCOMYCIN------------   <=1 S
+
+   Anaerobic Bottle Gram Stain (Final [**2168-9-8**]):
+      GRAM POSITIVE COCCI.
+      IN PAIRS AND CHAINS.
+
+   Aerobic Bottle Gram Stain (Final [**2168-9-9**]):
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+.
+ECG Study Date of [**2168-9-7**]
+Atrial fibrillation with rapid ventricular response. Right
+bundle-branch
+block. Possible left posterior hemiblock. Non-specific ST-T wave
+changes.
+Low QRS voltage in the limb leads. Compared to the previous
+tracing of [**2167-7-29**] rapid atrial fibrillation is new.
+.
+CHEST (PORTABLE AP) Study Date of [**2168-9-7**] 4:03 PM
+AP UPRIGHT CHEST: Mild respiratory motion somewhat limits the
+evaluation.
+Moderate cardiomegaly is unchanged. There are bilateral Kerley B
+lines and
+perihilar haziness which represents mild CHF. Left lower lobe
+atelectasis is noted. The lungs are otherwise clear without
+evidence of consolidation,
+effusion, or pneumothorax.
+IMPRESSION: Mild CHF.
+.
+TTE (Complete) Done [**2168-9-8**]
+The left atrium is normal in size. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). The right
+ventricular cavity is mildly dilated with normal free wall
+contractility. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic stenosis. The
+mitral valve leaflets are mildly thickened. Mild to moderate
+([**1-6**]+) mitral regurgitation is seen. The tricuspid valve
+leaflets are mildly thickened. There is a moderate-sized (1.3 x
+0.8 cm) vegetation on the anterior tricuspid leaflet. Moderate
+to severe [3+] tricuspid regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+IMPRESSION: Tricuspid valve vegetation. Mild symmetric LVH with
+preserved systolic function. Mildly dilated right ventricle with
+preserved systolic function. Mild to moderate mitral
+regurgitation. Moderate to severe tricuspid regurgitation.
+Compared with the report of the prior study (images unavailable
+for review) of [**2163-7-22**], tricuspid vegetation, tricuspid and
+mitral regurgitation are all new.
+.
+CHEST (PORTABLE AP) Study Date of [**2168-9-14**]
+IMPRESSION:
+Heart is persistently enlarged, and pulmonary vascularity
+appears engorged. Bilateral interstitial opacities likely
+reflect interstitial edema. Increasing focus of airspac

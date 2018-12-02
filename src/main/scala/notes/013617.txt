@@ -1,0 +1,186 @@
+Admission Date:  [**2162-8-26**]              Discharge Date:   [**2162-9-7**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2167**]
+Chief Complaint:
+s/p Right Superior MCA embolus -> L hemiparesis ([**2162-8-26**]);
+Bladder Cancer, High-grade papillary urothelial carcinoma, s/p
+TURBT ([**2162-8-26**])
+
+Major Surgical or Invasive Procedure:
+[**2162-8-26**]: s/p Transurethral resection
+[**2162-8-26**]: [**Hospital Unit Name 153**] Admission with intubation, central venous line
+placement, arterial line placement
+[**2162-9-7**]: G-tube placement by IR
+
+History of Present Illness:
+85 year old right-handed [**Month/Day/Year 595**]-speaking male history of
+hypertension, paroxysmal atrial fibrillation, previous
+hemorrhagic CVA (s/p craniotomy), and recent diagnosis of
+bladder cancer. Was off anticoagulation (Coumadin) since ~
+[**2162-8-6**] secondary to hematuria, wet macular degeneration and
+scheduled surgery. Underwent transurethral resection of bladder
+cancer for hematuria on [**2162-8-26**]. Per medical records the
+patient's blood pressure was 210 systolic pre-operatively and he
+received hydralazine, with a decrease in systolic blood
+pressures to 150-160. Post-procedure his blood pressure
+increased again to 200/95 and his EKG was concerning for
+ventricular bigeminy. He was treated with esmolol 10 mg, 20 mg
+and 30 mg IV respectively, followed by labetolol 10 mg IV and
+lidocaine 100 mg IV with improvement in his blood pressure and
+ventricular ectopy. He was also noticed to have increased
+shortness of breath and oxygen requirement and had a CXR which
+showed pulmonary edema. At 4:15 PM the patient was noted to have
+left sided face/arm and leg weakness, right gaze deviation and
+aphasia. He previously was following commands in English and per
+his brother was conversant with him in [**Name (NI) 595**]. A code stroke
+was called 4:39 PM. He underwent a STAT head CT which was
+negative for hemorrhage. CTA was showed a likely superior
+division MCA embolic stroke. His NIH Stroke Score was 23 upon
+arrival of the stroke team. Given the patient's previous history
+of hemorrhagic stroke, surgery that same day and hypertension he
+was felt to not be a candidate for TPA. The neurosurgical
+service was contact[**Name (NI) **] and determined that there was no
+indication for intraarterial TPA or mechanical clot retrival.
+The patient was admitted to the [**Hospital Unit Name 153**] and upon arrival there was
+noted to be aphasic with right gaze preference and no motion of
+his left lower extremity. He was moaning and moving his right
+arm and leg. The patient was intubated for airway protection.
+
+Transferred to floor care on [**9-1**].
+
+Past Medical History:
+#. h/o Hematuria
+#. Paroxysmal atrial fibrillation, off coumadin ~ 3 weeks prior
+to [**2162-8-26**] surgery
+#. h/o Cerebellar hemorrhage ([**2136**]), s/p craniotomy (staples
+present in cranium)
+#. Vascular disease:
+ - Severe stenosis of the left vertebral artery, approximately
+2-3 cm proximal to the vertebrobasilar junction
+ - 40% right ICA stenosis ([**2162-8-27**])
+#. ? Alzheimer's dementia, disinhibition and frontal dysfunction
+per OMR ([**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD, Neurology, [**2162-8-12**])
+#. Hypertension
+#. CAD:
+ - ? angina since [**3-/2151**]
+ - fixed perfusion defects in the apical and apical portion of
+   the anterior wall per Thallium ETT ([**2151-4-7**])
+ - mild regional LV systolic dysfunction with infero-lateral
+   akinesis per TEE ([**2162-8-27**])
+#. Secundum Atrial Septal Defect w/ left to right shunt
+#. Valvular disease: Moderate (2+) MR, mild to moderate [[**12-16**]+]
+TR
+#. LVH by EKG & echo
+#. h/o Anemia, baseline Hct mid-30s
+#. h/o Pulmonary TB:
+ - ~[**2110**] in USSR
+ - multiple calcified granulomas bilat lungs, R>L per CXR
+ - h/o cavitary lung lesion, neg for AFB by bronchoalveolar
+   lavage ([**2154-9-6**])
+#. h/o Pulmonary nodule, RLL (superior segment) per CXR & CT
+scan
+#. Stage III colon cancer (T3N1):
+ - s/p resection
+ - adjuvent 5-FU/leucovorin rx ([**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD, Oncology)
+#. h/o Alcohol abuse (quit in [**2160**])
+#. h/o falls, L Ankle fx ([**6-/2152**]), R ankle injury ([**6-/2153**])
+#. Back Pain:
+ - cervical radiculopathy & myelopathy
+ - T12 compression fracture
+ - hemangioma at L2
+ - bulging disk @ L2/3
+ - multilevel degenerative disk disease
+#. Cataracts, s/p excision & lens implant o.s.
+#. Glaucoma
+#. Wet macular degeneration w/ neovascularization
+#. GERD
+#. Giant hemangioma of the liver
+#. CRF, baseline creatinine 1.1 - 1.3
+#. h/o Right Renal cyst, CT Scan ([**2162-8-3**])
+#. h/o ARF ([**8-/2154**])
+#. h/o bowel obstruction
+
+PSHx:
+s/p Transurethral resection of the bladder, c/b CVA ([**2162-8-26**])
+s/p Complex cataract surgery with intraocular lens implantation,
+o.s. ([**2159-8-27**])
+s/p Cystoscopy & random biopsies of the bladder ([**2157-2-11**])
+s/p Colonoscopy ([**2156-1-15**])
+s/p Cystoscopy and fulguration of bladder tumor ([**2155-9-26**])
+s/p RIH repair with mesh plug & patch ([**2155-4-16**])
+s/p Colonoscopy ([**2155-1-2**])
+s/p Anterior resection of the colon ([**2152-9-5**])
+s/p TURP, ? Prostate Ca ([**2147-6-9**])
+s/p TURP for BPH, [**2138**]
+s/p Posterior fossa craniectomy for a cerebellar hemorrhage
+([**2136**])
+
+Social History:
+Relationships: [**Name (NI) **] (brother)- Cell: [**Telephone/Fax (1) 107744**], Home:
+[**Telephone/Fax (1) 107745**]; [**Doctor First Name **] (neice, [**Name (NI) 2979**] daughter) - Cell:
+[**Telephone/Fax (1) 107746**]; [**First Name5 (NamePattern1) 440**] [**Last Name (NamePattern1) 107747**] (neice, and [**Name8 (MD) **] MD [**First Name (Titles) **] [**Last Name (Titles) **]), Cell:
+([**Telephone/Fax (1) 107748**]; Friend [**Name (NI) 751**]
+
+Social:
+Immigrated from [**Country 532**] in [**2134**], at baseline speaks & understands
+limited English - translator needed. Positive h/o alcohol abuse,
+but per PCP note stopped drinking ~1 year ago. He does not
+smoke. Previously employed as a photographer. Brother states
+patient is a Holocaust survivor.
+
+Assistive Devices:
+Glasses at baseline, upper & lower dentures; no hearing aides,
+did not use walker or cane prior to admission.
+
+Functional Status:
+Was living independantly in senior housing: elevator & no steps
+into building. Had HHA/HM (?) for personal care & cleaning,
+three meals delivered to him every day. Supportive brother lives
+nearby & does shopping. Out-patient Neurological evaluation (OMR
+[**2162-8-12**]) notes abnormal mental status screen, h/o disinhibition
+and frontal dysfunction, positive visuospatial signs that may
+suggest Alzheimer's Disease. PCP had recently filled out forms
+for adult daycare.
+
+Values/Belief: [**Hospital1 **]
+
+Family History:
+Both parents died in [**2095**] in the [**Location (un) 25508**] ghetto.
+
+Physical Exam:
+ADMISSION PE:
+============
+Vitals : T: 97.2 HR: 79 BP: 201/74 RR: 18 O2: 100% on 3L
+General: Aphasic, moaning, moving right extremity, opens eyes to
+voice
+HEENT: Right gaze preference, sclera anicteric, pupils
+post-surgical bilaterally, oropharynx clear, no LAD, JVP
+elevated at 12 cm, poor dentition
+Cardiac: RRR, s1 + s2, no murmurs, rubs or gallops apprecaited
+Respiratory: Harsh rales throughout lung fields bilaterally
+anteriorly, no wheezes or ronchi
+Abdomen: Soft, non-tender, non-distended, +BS
+GU: Foley with continuous bladder irrigation, pink fluid in bag
+Ext: WWP, 2+ pulses, no clubbing, cyanosis or edema
+Neurologic: Alert, aphasic, moaning, right gaze preference,
+opens eyes to voice, left facial droop, pupils post-surgical
+bilaterally, normal muscle bulk bilaterally, increased tone in
+upper and lower extremities bilaterally, moves upper extremity
+against gravity, notable muscle contraction in left lower
+extremity but unclear left upper extremity.  Reflexes 2+ in the
+upper extremities bilaterally.  3+ in right patella and 2+ in
+the left patella. Toes downgoing bilaterally
+
+
+Pertinent Results:
+ADMISSION LABS:
+==============
+[**2162-8-26**] 02:50PM   GLUCOSE-139* UREA N-26* CREAT-1.2 SODIUM-139
+POTASSIUM-3.7 CHLORIDE-105 TOTAL CO2-25 ANION GAP-13
+[**2162-8-26**] 02:50PM   est

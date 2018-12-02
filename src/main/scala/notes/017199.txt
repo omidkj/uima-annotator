@@ -1,0 +1,194 @@
+Admission Date:  [**2166-6-21**]              Discharge Date:   [**2166-6-25**]
+
+Date of Birth:  [**2108-7-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1974**]
+Chief Complaint:
+Clozarl overdose
+
+Major Surgical or Invasive Procedure:
+none.
+
+
+History of Present Illness:
+57 yo male discharged from [**Hospital1 18**] [**6-5**] for episode of
+schizophrenia who took 20tab of Clozaril (most likely 25mg at 10
+am ([**2166-6-21**]) to kill himself. He is currently very confused and
+answering minimal questions so most of this history is from ED
+notes and past medical records. On arrival the the ED he was
+very agitated and scared however he was able to answer questions
+appropriately and was A&OX3. He stated that he was "afraid that
+someone was going to hurt him". At that time he denied any other
+complaints.
+.
+In the ED his initial vital signs were T 98.1, Pulse 118, BP
+103/72, RR 20, Sat 97% on RA. He was initially interactive and
+answering questions appropriately. His EKG was normal and tox
+screen was negative. He was seen by the toxicology attending who
+advised Benzos and close monitoring. He was given 4mg Ativan PO
+and 2mg Ativan IV and admitted to [**Hospital Unit Name 153**] [**2-21**] agitation and
+tachycardia. He had an IV placed in the ED which he pulled,
+repeat IV placed immediately prior to transfer. He was also
+treated with Levofloxacin for RLL pneumonia. Psychiatry was made
+aware and said they would see him once he was medically cleared.
+
+.
+On arrival to the ICU he was unable to answer any questions, he
+was somnolent but arousable. He said his name was "[**Doctor First Name **]" but
+answered giberish to all other questions.
+
+
+Past Medical History:
+PSYCHIATRIC HISTORY: Patient was diagnosed with Schizophrenia in
+[**2135**]. He has >20 psychiatric hospitalizations, last one 10 years
+ago. Has been hospitalized at [**Hospital1 1680**] and MMHC among others.
+Multiple suicide attempts, including placing his head in an
+oven,
+hanging, and slashing wrists. Last suicide attempts was >15
+years
+ago, as he has been relatively stable with outpatient treatment.
+His last 'psychotic break' (hearing auditory hallucinations) was
+in [**August 2165**], did not require inpatient admission.
+Psychiatrist: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 724**] (MMHC)
+Therapist: Dr. [**Last Name (STitle) **] (MMHC). Patient has been seeing his
+outpatient team for 15 years, but now he 'does not trust them'
+for reasons he can't explain.
+
+PAST MEDICAL HISTORY:
+*Hyperlipidemia
+
+
+Physical Exam:
+VS: Temp 98.2, Pulse 114, BP 134/81, RR 18, 99% on RA
+Gen: sedated, arousable to pain, oriented X1
+HEENT: pupils 3mm round and reactive
+Neck: no lymphadenopathy, no thyromegally
+Lungs: very limited exam due to poor cooperation
+CV: tachycardic, nl S1S2, no murmers
+Abd: soft, non-tender, non-distended, positive BS
+Ext; no edema
+Neuro: moving all extremities, unable to assess due to decreased
+mental status
+
+
+Pertinent Results:
+[**2166-6-21**] 04:10PM   WBC-10.4 RBC-4.52* HGB-15.0 HCT-42.6 MCV-94
+MCH-33.2* MCHC-35.1* RDW-14.2
+[**2166-6-21**] 04:10PM   NEUTS-66.1 BANDS-0 LYMPHS-26.1 MONOS-5.2
+EOS-1.8 BASOS-0.7
+[**2166-6-21**] 04:10PM   PLT COUNT-310
+[**2166-6-21**] 04:10PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2166-6-21**] 04:10PM   VALPROATE-79
+[**2166-6-21**] 04:10PM   ALT(SGPT)-12 AST(SGOT)-15 LD(LDH)-163 ALK
+PHOS-51 TOT BILI-0.3
+[**2166-6-21**] 04:10PM   GLUCOSE-107* UREA N-6 CREAT-1.1 SODIUM-140
+POTASSIUM-3.6 CHLORIDE-104 TOTAL CO2-25 ANION GAP-15
+[**2166-6-21**] 09:25PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2166-6-21**] 09:25PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.003
+[**2166-6-21**] 09:25PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-0.2 PH-7.0
+LEUK-NEG
+.
+.
+CXR:
+AP view of the chest on upright position. The cardiac
+silhouette, mediastinal, and hilar contours are normal. There is
+increased interstitial markings in the right lung base likely
+represents atypical pneumonia. No evidence of pleural effusions.
+No evidence of pneumothorax. The pulmonary vasculature is
+normal. The osseous structures are unchanged.
+.
+.
+ECG:
+Sinus tachycardia. Non-specific inferior T wave changes.
+Compared to the
+previous tracing of [**2166-6-1**] the rate is faster and ventricular
+ectopy is
+absent.
+
+
+Brief Hospital Course:
+1) CLOZARIl OVERDOSE:
+Patient was admitted to ICU for monitoring.  Pt was initially
+agitated and tachycardic.  He was also delerious.  All likely
+effect of overdose.  He was monitored on telemetery and QTc
+remained within normal limits.  His agitation and delerium
+improved.  QTc at discharge was 95ms.  He was not started on any
+other psych medications at this time.
+.
+2) PNEUMONIA:
+Pt was found to have a radiographic pneumonia although he did
+not have any respiratory symptoms.  He did have a leukocytosis
+and low grade fever.  started on levaquin and flagyl and
+leukocytosis improved.  He should complete a 5d course (on day 3
+at discharge).
+.
+3) PSYCH:
+Due to suicide attempt, pt was seen by psych and section 12
+completed.  He will be transferred for inpt psych care.
+.
+4) ANEMIA:
+Pt had a slow downtrend in Hct with hydration and was in mid 30s
+at discharge.  No signs of bleeding.  Should have repeat Hct in
+[**1-21**] weeks and further outpt workup for anemia if persists.
+
+Medications on Admission:
+1. Clozapine 25 mg qAM
+2. Clozapine 175 mg qHS
+3. Risperidone 4 mg qHS
+4. Aspirin 81 mg daily
+5. Atorvastatin 20 mg daily
+6. Depakote 500 mg [**Hospital1 **]
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Divalproex 125 mg Capsule, Sprinkle Sig: Four (4) Capsule,
+Sprinkle PO BID (2 times a day).
+4. Levofloxacin 250 mg Tablet Sig: Three (3) Tablet PO Q24H
+(every 24 hours) for 2 days.
+5. Docusate Sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg
+PO BID (2 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 1680**] - [**Hospital **] Hospital - [**Location (un) **]
+
+Discharge Diagnosis:
+PRIMARY:
+Clozaril overdose
+Community acquired pneumonia
+Depression
+Anemia, NOS
+
+
+Discharge Condition:
+Good--afebrile, vitals stable.
+
+
+Discharge Instructions:
+1.  Take medications as prescribed.
+2.  Please follow up as below.
+3.  Seek medical attention for fevers, chills, shortness of
+breath, chest pain.
+
+Followup Instructions:
+Please follow with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] (primary care provider) once
+you are discharged from [**Hospital1 **].
+.
+
+
+

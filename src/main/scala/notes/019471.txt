@@ -1,0 +1,190 @@
+Admission Date:  [**2198-6-20**]              Discharge Date:   [**2198-6-29**]
+
+Date of Birth:  [**2138-11-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3021**]
+Chief Complaint:
+Acute renal failure.
+
+Major Surgical or Invasive Procedure:
+[**2198-6-28**] Tunnelled dialysis catheter placement.
+
+History of Present Illness:
+PCP:
+[**Name Initial (NameIs) 7274**]: [**Last Name (LF) **], [**First Name7 (NamePattern1) 449**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+Location: [**Hospital3 249**]
+[**Hospital1 **]/EAST
+Address: [**Location (un) **], E/CC-6, [**Location (un) **],[**Numeric Identifier 718**]
+Phone: [**Telephone/Fax (1) 250**]
+Fax: [**Telephone/Fax (1) 3382**]
+Email: [**University/College 21961**]
+.
+Primary oncologist
+Name: [**Last Name (LF) **], [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD
+Location: [**Hospital1 18**]-DIVISION OF HEMATOLOGY/ONCOLOGY
+Address: [**Location (un) **] E/KS-121, [**Location (un) **],[**Numeric Identifier 718**]
+Phone: [**Telephone/Fax (1) 3237**]
+Fax: [**Telephone/Fax (1) 21962**]
+Email: [**University/College 21963**]
+.
+Date seen [**2198-6-20**]
+Time [**2203**]
+59 y/o M with PMHx of AFib, PE and Diffuse Large B Cell Lymphoma
+who was recently admitted with acute on chronic renal failure
+and was seen in renal clinic on [**6-19**] where he was found to have
+an acute rise in creatinine.  Pt represented to [**Hospital 3242**] clinic and
+was given 2L IVF without significant improvement in creatinine.
+Pt did have 500cc of urine output and received a single unit of
+prbcs for hct of 21.  Dr. [**Last Name (STitle) **] (primary nephrology)
+recommended admission for further work up of acute renal failure
+and possible renal biopsy.
+.
+In nephrology clinc yesterday urinalysis demonstrated : specific
+gravity of 1.020.  Urine was positive for [**2-8**]+ protein (more
+than
+last time).  Microscopy showed a fragment of granular cast and
+possibly a white cell cast
+.
+RECENT CHEMOTHERAPY ADMINISTRATION and CREATININE MONITORING
+He received Velcade/Doxil C1D1 on [**2198-6-1**]: velcade x 3 days and
+doxil x 1 day. He then received zofran 8mg IV, Decadron 20mg IV
+on [**2198-6-8**]. Pt then received the Velcade 2.6mg as an IVP over
+3-5sec. His velcade was held on [**6-12**] secondary to TCP with
+PLT = 23. PLTS = 17 and received plt transfusion on [**2198-6-13**]. On
+[**6-15**] Cr = 1.7 and PLT  = 20. He was given 1 U plts and 500 cc
+IVF. On [**6-18**] Cr = 3.0 and PLTs= 13. Pt received 1U PLTS and was
+referred to see his neprhologist on [**2198-6-19**].
+.
+He also reports abdominal constriction and pain which resulted
+in difficulty eating. He felt bloated after eating and
+experienced early satiety. No emesis or nausea. No focal
+abdominal pain. His sx improved with defecation.
+.
+PAIN SCALE:0/10
+________________________________________________________________
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:        [] All Normal
+[ -] Fever  T with chills was 97.9 and 98.1 [+ ] Chills   [ ]
+Sweats  [ ] Fatigue   [ ] Malaise   [ ]Anorexia  [ ]Night sweats
+[ +] __11___ lbs.    weight  gain   over 2 weeks per clinic
+sheets
+.
+HEENT:          [X] All Normal
+[ ] Blurred vision   [ ] Blindness  [ ] Photophobia
+[ ] Decreased acuity [ ] Dry mouth  [ ] Bleeding gums
+[ ] Oral ulcers  [ ] Sore throat    [ ] Epistaxis  [ ] Tinnitus
+[ ] Decreased hearing    [ ]Tinnitus [ ] Other:
+.
+RESPIRATORY:    [X] All Normal
+[ ] SOB     [ ] DOE    [ ] Can't walk 2 flights     [ ] Cough
+[ ] Wheeze  [ ] Purulent sputum    [ ] Hemoptysis   [ ]Pleuritic
+pain
+[ ] Other:
+.
+CARDIAC:        []  All Normal
+[ -] Angina    [ -] Palpitations   [ +] Edema   intermittently
+since [**Month (only) 205**] as long as he has been getting the chemotherapy
+without acute worsening [ ] PND
+[ ] Orthopnea    [ ] Chest Pain [ ] Other:
+.
+GI:             [] All Normal
+[ ] Blood in stool     [ ] Hematemesis     [ ] Odynophagia
+[ ] Dysphagia:   [ ] Solids    [ ] Liquids
+[ ] Anorexia    [-] Nausea  [] Vomiting   [ ] Reflux
+[ ] Diarrhea    [+] Constipation- pebbly  []  Abd pain  [ ]
+Other:
+.
+GU:             [] All Normal
+[ -] Dysuria      [ -] Frequency    [ -] Hematuria  []Discharge
+[]Menorrhagia
+.
+SKIN:           [] All Normal
+[X] Recent rash on trunk now resolved       [ ] Pruritus
+.
+MS:             [] All Normal
+[+] knee pain x 2 weeks with swelling when he walks 0.5 miles [
+] Jt swelling   [ ] Back pain  [ ] Bony pain
+.
+NEURO:          [] All Normal
+[+] Increased frequency and duration of HA but none now. On the
+weekend had one all day. It was not severe and he ranks it as
+[**3-15**] [- ] Visual changes   [ ] Sensory change [ -]Confusion [
+-]Numbness of extremities- chronic neuropathy from chemotherapy
+since [**Month (only) 205**] but nothing new
+[-] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo
+[ ] Headache
+.
+ENDOCRINE:     [X] All Normal
+[ ] Skin changes  [ ] Hair changes   [ ] Temp subjectivity
+.
+HEME/LYMPH:    [X] All Normal
+[ ] Easy bruising   [ ] Easy bleeding    [ ] Adenopathy
+.
+PSYCH:         [] All Normal
+[ ] Mood change        []Suicidal Ideation  [+] Other:  He has
+occasional periods of depression but with meditation he is able
+to cope.
+.
+[X]all other systems negative except as noted above.
+
+Past Medical History:
+Mr. [**Known lastname **] presented in early [**6-/2197**] with fever, weight loss, and
+muscle and joint aches. He was diagnosed with PMR and started on
+prednisone with improvement in his symptoms. During the
+preceding six months, he reported a history of shoulder, neck
+and quadriceps pain as well as fatigue, weakness and poor
+appetite. He reported periodic fevers, drenching night sweats
+and a 25-pound weight loss also over the same six months. With
+initiation of his prednisone at 20 mg daily, he noted marked
+improvement of both his musculoskeletal
+and constitutional symptoms. He then presented to the emergency
+room on [**2197-7-17**] with palpitations and dizziness and was found
+to be in atrial fibrillation. He had a history of PAF in the
+past. He was febrile to 101.6 with a heart rate of 126. CT scan
+of the chest, abdomen, and pelvis on [**2197-7-19**] showed multiple
+low-attenuation lesions within the liver, spleen, and kidneys.
+On [**2197-7-20**], MRI of the abdomen showed hypovascular masses in
+both kidneys and spleen of various sizes consistent with
+lymphoma. A CT-guided biopsy of the spleen on [**2197-7-21**] was
+nondiagnostic. Mr. [**Known lastname **] [**Last Name (Titles) 1834**] bone marrow aspirate and
+biopsy on [**2197-7-26**], which showed extensive necrosis with focal
+involvement by high-grade B-cell lymphoma, diffuse large B-cell
+type. FISH translocation was notable for c-Myc and Bcl-2
+indicating a "double hit" lymphoma characterized by a
+Burkitt's-like lymphoma. He then began chemotherapy.
+.
+TREATMENT HISTORY:
+-- Initiated treatment with Dose-adjusted [**Hospital1 **] chemotherapy on
+
+[**2197-7-29**] with two doses of Rituxan on [**2197-8-2**] and
+[**2197-8-3**]. Follow up CT imaging on [**2197-8-5**] showed stable
+lymphomatous lesions in the kidney, spleen, and abdominal nodes.
+
+-- Rituxan 500 mg given on [**2197-8-10**] with a fever that evening
+
+and admission for neutropenia. During admission, noted for
+atrial fibrillation with RVR and was started on digoxin at 0.125
+
+mg daily along with metoprolol 200 mg daily.
+-- Readmitted on [**2197-8-18**] for his second cycle of [**Hospital1 **]
+chemotherapy, which was delayed for two days due to hypotension
+
+and cough. A CT of the chest showed bilateral lower lobe
+opacities, right greater than left, concerning for infection and
+he was treated with a course of Levaquin.
+-- On [**2197-8-30**], received Rituxan at 375 mg/m2.
+-- Follow up PET scan on [**2197-9-6**] showed no evidence for
+lymphoma but was notable for multiple peripheral base pulmonary
+
+opacities with rims of soft tissue density and relative central
+
+lucencies most of which were new. He [**Year (4 digits) 1834**] CT of the chest
+for further evaluation, which showed multiple filling defects
+within the segmental and subsegmental branches of the right
+lower lobe arteries compatible with pulmonary emboli.
+-- Admitted on [*

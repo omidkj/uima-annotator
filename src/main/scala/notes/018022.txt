@@ -1,0 +1,210 @@
+Admission Date:  [**2195-5-21**]              Discharge Date:   [**2195-5-29**]
+
+Date of Birth:  [**2119-1-11**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+dyspnea on exertion/fatigue
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass graft x4: [**2195-5-22**]
+1. Left internal mammary artery to left anterior descending
+    artery.
+2. Saphenous vein graft to posterior left ventricular.
+3. Saphenous vein graft to first obtuse marginal branch of
+    the circumflex.
+4. Saphenous vein graft to the first diagonal branch of the
+    left anterior descending.
+5. Endoscopic harvesting of the long saphenous vein.
+
+
+History of Present Illness:
+76 year old man with complaint of severe fatigue and dyspnea on
+exertion which has been worsening over the past 3 years. He had
+a positive dobutamine stress echocardiogram. Admitted to [**Hospital1 18**]
+for prehydration prior to cardiac catheterization.
+
+Past Medical History:
+Diabetes mellitus 2
+Hypertension
+Hyperlipidemia
+Chronic kidney disease(baseline creat 1.8)
+Chronic obstructive pulmonary disease
+Obstructive sleep apnea
+Severe depression
+Vertigo
+Fatigue
+h/o ETOH abuse
+Obesity
+Celiac trunk atherosclerotic disease
+
+Past Surgical History:
+Tonsillectomy
+Cervical disc surgery
+Transurethral resection prostate
+nose surgery for fractured bones
+
+Social History:
+Lives with wife and mother-in-law
+retired IRS auditor
++tobacco <1 pack per day(h/o [**1-3**] ppd x40 years)
++ETOH-2 martinis/day at times supplemented with beer
+
+Family History:
+Father s/p MI @52yo
+
+Physical Exam:
+HR 60  BP rt 157/65  lft 170/69  RR 14  O2 sat 100%-RA
+Ht 5'9"   Wt 212 lbs
+Gen NAD
+Skin warm and dry
+HEENT PERRL-EOMI
+Neck supple, full ROM
+Chest CTA bilat
+Cor RRR, no murmur
+Abdm soft, NT/ND/+BS
+Ext warm well perfused, no varicosities
+Neuro A&O x3, grossly intact. Caotid- no bruits
+Pulses fem 2+ bilat, Rad 2+ bilat, DP/PT 2+ bilat
+
+Pertinent Results:
+[**2195-5-21**] 07:50AM   HGB-12.4* calcHCT-37
+[**2195-5-21**] 07:50AM   GLUCOSE-99 LACTATE-1.2 NA+-139 K+-4.1 CL--108
+[**2195-5-21**] 12:17PM   PT-15.8* PTT-36.7* INR(PT)-1.4*
+[**2195-5-21**] 12:17PM   PLT COUNT-179
+[**2195-5-21**] 12:17PM   WBC-8.5# RBC-2.78* HGB-9.4* HCT-28.6*
+MCV-103* MCH-33.8* MCHC-32.9 RDW-15.2
+[**2195-5-21**] 12:18PM   GLUCOSE-105 LACTATE-2.8* NA+-139 K+-4.7
+CL--112
+[**2195-5-21**] 01:33PM   UREA N-23* CREAT-1.2 CHLORIDE-116* TOTAL
+CO2-21*
+=============================================
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 73392**] M  76  [**2119-1-11**]
+Radiology Report CT HEAD W/O CONTRAST Study Date of [**2195-5-26**]
+6:26 PM
+[**Last Name (LF) **],[**First Name3 (LF) **] CSURG FA6A [**2195-5-26**] 6:26 PM
+CT HEAD W/O CONTRAST
+[**Hospital 93**] MEDICAL CONDITION: 76 year old man with altered
+mental status/delerium
+REASON FOR THIS EXAMINATION: ischemic event
+CONTRAINDICATIONS FOR IV CONTRAST: None.
+Final Report
+HISTORY: 76-year-old male with altered mental status and
+delirium concerning for ischemic event.
+COMPARISON: MR head from [**2193-7-16**].
+TECHNIQUE: MDCT-axial imaging was performed through the brain
+without
+administration of IV contrast.
+NON-CONTRAST HEAD CT: Slight tilting of the patient's head
+during imaging
+limits evaluation for symmetry somewhat. Allowing for this, no
+evidence of
+acute intracranial hemorrhage, edema, mass effect,
+hydrocephalus, or large
+vascular territory infarction is seen. Study is also limited due
+to patient motion, particularly the imaging through the skull
+base. Again prominence of the sulci and ventricles is consistent
+with age-related involutional change.
+Periventricular white matter hypodensities are likely due to
+chronic small
+vessel ischemic disease. Note is also made of likely chronic
+small lacunar
+infarcts in bilateral basal ganglia. The soft tissues, orbits,
+and skull
+appear intact. The visualized paranasal sinuses and mastoid air
+cells are
+normally aerated. Vascular calcifications are noted along the
+cavernous
+carotid arteries.
+IMPRESSION: No acute intracranial process seen. There is
+evidence of chronic microvascular as well as old lacunar
+infarction, as on the previous MR. If there is persistent
+concern for acute infarction, MRI with diffusion-weighted
+imaging would be recommended for more sensitive evaluation.
+The study and the report were reviewed by the staff radiologist.
+
+DR. [**First Name8 (NamePattern2) 95**] [**Last Name (NamePattern1) **]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 7593**]
+=================================================
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 73393**] (Complete)
+Done [**2195-5-21**] at 10:11:20 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2119-1-11**]
+Age (years): 76 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Coronary artery disease. Left ventricular function.
+Mitral valve disease. Preoperative assessment.
+ICD-9 Codes: 440.0, 424.0
+Test Information
+Date/Time: [**2195-5-21**] at 10:11    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 168**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW1-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%
+Aorta - Annulus:  2.4 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.4 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.9 cm  <= 3.0 cm
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: PFO is present. Left-to-right
+shunt across the interatrial septum at rest.
+LEFT VENTRICLE: Overall normal LVEF (>55%).
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal ascending aorta diameter. Normal descending aorta
+diameter. Simple atheroma in descending aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Trace
+AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+Prebypass
+A patent foramen ovale is present. A left-to-right shunt across
+the interatrial septum is seen at rest. Overall left ventricular
+systolic function is normal (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. There are simple
+atheroma in the descending thoracic aorta. The aortic valve
+leaflets (3) are mildly thickened. Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen at a systolic blood pressure of 110
+mm Hg.. At a systolic blood pressure of 180 mm Hg and
+Trendelenburg position the mitral regurgitation increased to
+mild to moderate (2+).
+Postbypass.
+There is preserved biventricular systolic function. MR is now
+trace/mild. The remaining study is unchanged from the prebypass
+period.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2195-5-21**] 12:12
+ =====================================
+
+
+Brief Hospital Course:
+Mr [**Known lastname 16905**] w

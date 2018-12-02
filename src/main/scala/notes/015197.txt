@@ -1,0 +1,187 @@
+Admission Date:  [**2121-7-11**]              Discharge Date:   [**2121-7-17**]
+
+Date of Birth:  [**2038-6-15**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 425**]
+Chief Complaint:
+VT and ICD shocks
+
+Major Surgical or Invasive Procedure:
+Electrophysiology study and VT ablation
+
+
+History of Present Illness:
+The patient is an 83 year old man with CAD s/p CABG (23yrs ago),
+ischemic cardiomyopathy (EF 20-25%), hx of afib and SSS, and VT
+s/p ICD implantation presenting with syncope. The patient
+initially presented to [**Hospital6 33**] on [**2121-7-10**] after 2
+episodes of syncope. He has had pre-syncopal events that have
+been associated with a wave of dizziness often lasting [**3-4**]
+seconds while standing. On the day of admission he was out to
+breakfast with a friend and while riding in the care he started
+to feel lightheaded and lost consciousness. Per report of the
+friend, the patient was unconscious for ~3-5 seconds. About [**5-10**]
+minutes later he had a second event.
+.
+On arrival to [**Hospital6 33**] he was afebrile with stable
+vital signs. His EKG was v-paced. His initial CK was 86, Tn
+<0.02, and serum potassium was 3.2. He was admitted to the
+telemetry floor. His ICD was interrogated and per report
+multiple episodes of Vt usually cycle lenghth of 2 different
+rates, multiple episodses at 150-160 bpm with termination by ATP
+and muliple episodes at 190 bpm terminted by ATP. VT episodes on
+the day of admission were sustained with rates of 197 bpm which
+failed to terminate with 3 cycles of ATP and required 26 j
+shock.
+On the morning of [**2121-7-11**] he was found by the nurses nauseated,
+diaphoretic and telemetry reported showed VT that was treated by
+his ICD. He was started on an amiodarone bolus then gtt (~930am)
+and transferred to [**Hospital1 18**]. En route to [**Hospital1 18**] he had 3 more events
+with subsequent ICD discharges and restoration of sinus rhythm.
+
+.
+On review of symptoms, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies dysuria but has 1/night
+nocturia. He denies recent fevers, chills or rigors. He denies
+exertional buttock or calf pain. All of the other review of
+systems were negative.
+.
+*** Cardiac review of systems is notable for absence of chest
+pain, dyspnea on exertion, paroxysmal nocturnal dyspnea,
+orthopnea, ankle edema.
+
+
+Past Medical History:
+CAD s/p MI and CABG (c. [**2097**])
+Ischemic cardiomyopathy (EF 20-25%)
+Atrial fibrillation
+Sick sinus syndrome s/p ppm (Guidant)
+VT s/p ICD placement (Guidant Prism VR)
+Hypertension
+Peptic ulcer disease
+sleep apnea (home CPAP = unknown cmH2O)
+
+
+Social History:
+Social history is significant for the absence of current tobacco
+use. There is no history of alcohol abuse. He was widowed last
+[**Month (only) 359**] after his wife died of complications of ovarian cancer.
+He lives at home, and a son from [**Name (NI) 622**] is staying with him,
+his daughter is a PA and a second daughter lives in the same
+town.
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death
+
+Physical Exam:
+VS: T 98.7, BP 129/72, HR 60, RR 12, O2 95% on 4L
+Gen: WDWN elderly male in NAD, resp or otherwise. Oriented x3.
+Mood, affect appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with non elevated JVP.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No S4, no S3.
+Chest: bilateral pacer pockets. No chest wall deformities,
+scoliosis or kyphosis. Resp were unlabored, no accessory muscle
+use. faint bibasilar crackles
+Abd: no surgical scars. Obese, soft, NTND, No HSM or tenderness.
+No abdominal bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Neuro: Mental status - CN II-XII Motor: moving all 4 extremities
+[**Last Name (un) **]: light touch intact to fac/hands/feet
+
+
+Pertinent Results:
+[**2121-7-11**] 02:20PM   WBC-8.9 RBC-4.20* HGB-14.1 HCT-41.4 MCV-99*
+MCH-33.7* MCHC-34.1 RDW-14.0
+[**2121-7-11**] 02:20PM   PLT COUNT-182
+[**2121-7-11**] 02:20PM   PT-18.0* PTT-29.7 INR(PT)-1.6*
+[**2121-7-11**] 02:20PM   GLUCOSE-125* UREA N-26* CREAT-1.5* SODIUM-139
+POTASSIUM-3.8 CHLORIDE-102 TOTAL CO2-27 ANION GAP-14
+
+CXR - There is substantial enlargement of the cardiac silhouette
+in a patient with multiple clips and midline sternal sutures
+from CABG. The defibrillator leads are seen extending to the
+general region of the right atrium and apex of the right
+ventricle. No definite pleural effusion, vascular congestion, or
+acute pneumonia, though the area behind the heart cannot be
+properly evaluated for possible atelectasis or consolidation.
+
+
+Brief Hospital Course:
+83 year old man with history of CAD s/p CABG, ischemic
+cardiomyopathy (EF 20%), paroxysmal atrial fibrillation (on
+amiodarone and coumadin), s/p ICD implantation  and pacemaker,
+presenting with syncope, found to have multiple episodes of
+prolonged VT.  Now s/p VT ablation on [**7-14**] showing inducible
+ventricular tachycardia on right side.
+.
+# Rhythm:
+The patient has a known history of PAF and VT. He presented to
+an outside hospital with episodes of VT with syncope and ICD
+discharges. Interrogation of ICD showed multiple episodes of
+ventricular tachycardia CL 310 msec (all of which had a warm up
+phase - automatic or triggered), some requiring ATP and
+requiring ICD discharge.  Home dose of digoxin was discontinued
+on admission as it likely contributed to NSVT.  Amiodarone was
+discontinued as the patient's ICD continued to discharde despite
+amiodarone bolus and drip.  He was instead started on a
+lidocaine drip.  As his telemetry remained without any further
+events other than occasional short runs of NSVT, his lidocaine
+drip was discontinued.  An EP study on [**2121-7-14**] showed VT most
+inducible on R side near pacer wire; likely due to wires or old
+scar. Ventricular ablation was stopped prematurely secondary to
+fluoroscopy failure. Following the ventricular ablation the
+patient had occasional PVCs, and afib and was restarted on
+amiodarone for rhythm control. Following the EP study,
+amiodarone was increased to 200mg daily to maintain NSR and
+prevent atrial fibrillation. The patient was transitioned to
+warfarin on a heparin bridge with a goal INR [**2-2**], currently 1.9.
+
+.
+# Hematoma: The patient developed a large ecchymosis after
+sheath was pulled on right groin site, with extension to right
+scrotum and laterally to right hip.  Following sheath removal
+pressure was held for 30 minutes.  Pt continues to have good
+pulses with no bruit; hematoma has spread superficially but is
+not indurated. Hematocrit remained stable.
+.
+# Hypotension: Pt developed hypotension with SBPs in 70s
+following the VT ablation.  This was presumed to be due to
+dehydration and not a bleed from the right groin catheter site
+as hematocrit was stable and the groin ecchymosis was
+superficial.  It was not determined to be due to tamponade as no
+clinical signs or symptoms (no JVD, crisp heart sounds, pulsus
+6, not tachycardic, good UO) were present.  Pt's blood pressure
+improved with fluids and oral intake.
+.
+# CAD/Ischemia: The pt has known disease and risk factors but
+there was no evidence of active ischemia on this admission.  The
+patient was not on aspirin due to a history of PUD but he was
+continued on atorvastatin, carvedilol and losartan.
+.
+# CHF: Pt was clinically euvolemic and sans evidence of
+decompensation on physical exam throughout this admission.  He
+was continued on his home doses of carvedilol 6.25 [**Hospital1 **] and
+losartan 25mg QD. His lasix was continued at 20 mg QAM and the
+evening lasix was discontinued. His home spironolactone 25mg
+daily was continued.
+.
+# Sleep apnea: Patient did well on home CPAP machine.
+.
+# Hypothyroidism: TSH was checked and was within normal limits.

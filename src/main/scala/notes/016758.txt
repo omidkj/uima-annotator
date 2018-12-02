@@ -1,0 +1,211 @@
+Admission Date:  [**2173-12-15**]              Discharge Date:   [**2174-1-3**]
+
+Date of Birth:  [**2132-2-29**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Nevirapine / Abacavir / Ampicillin / Tylenol / Zidovudine
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+Productive cough, fever
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Ms. [**Known lastname 31473**] is a 41yo F with AIDS, cardiomyopathy, asthma, CRF
+who presents with two weeks of productive cough. Two weeks ago,
+she developed a runny nose and a productive cough that was
+stable for one week. Then, approximately one week ago, she began
+developing a worsening cough with increasing sputum. The sputum
+is green-yellow, without blood. She denies fevers, chills, night
+sweats, chest pain (pleuritic or constant), SOB, DOE, orthopnea,
+or PND. She has a history of disseminated MAC in [**6-/2173**] and PCP
+[**Last Name (NamePattern4) **] [**2163**] and [**2170**]. She had been feeling well prior to this. She
+currently denies HA, URI sx, neck pain, chest pain, SOB, abd
+pain, back pain, n/v/d/c, dysuria/hematuria, or rash.
+In the ED, she was hypothermic at 96.0 and hypotensive in the
+60's, which improved to low 90's (her baseline per prior clinic
+notes) with one liter NS. She got asa, atovaquone, and
+levofloxacin.
+
+
+Past Medical History:
+-AIDS: Dx [**2163**]. Last CD4 5 and VL 70,500 on [**2173-9-1**]
+-Disseminated MAC [**6-/2173**]
+-HIV Nephropathy (FSGS) - baseline Cr 1.1
+-PCP [**2163**] and [**2170**]
+-CHF with EF 20-25% on [**6-/2173**] ECHO
+-Childhood asthma
+-GERD
+-Cervical dysplasia
+-HSV with subsequent anorectal ulcers
+.
+
+
+Social History:
+Born in [**Country **], moved to the US as a teen. Ms. [**Known lastname 31473**] lives
+with her 13yo daughter in an apartment in [**Name (NI) 5110**], MA. She
+worked as a word processor formerly, now is on disability. She
+never smoked and denies EtOH or illicit drug use. Has good
+social support system (brother, other family members live
+nearby).
+
+Family History:
+CAD: mother died at age 57 from an MI
+
+
+Physical Exam:
+T 96.0, BP 92/50, HR 92, RR 18, sat unobtainable (PO2 127 on
+ABG)
+GEN - cachectic female, looks older than age, mildly
+uncomfortable, nad
+HEENT - anicteric, op clear with mmm
+NECK - supple, no jvd/lad/thyromegaly
+CV - rrr, s1s2, ?s4, no m/r/g
+PUL - no resp distress/acc muscle use, moves air well, bibasilar
+rales r>l, no wheeze
+ABD - scaphoid, soft, nt, nd, nabs, no hepatosplenomegaly
+BACK - no cva/vert tenderness
+EXT - no cyanosis/edema, warm/dry
+NAILS - no clubbing, no pitting/color changes/indentations
+NEURO - a&ox3, no focal cn/motor deficits
+
+
+Pertinent Results:
+Labs on admission:
+WBC 2.8, Hct 26.7, MCV 81, Plt 247
+diff: 80N* 2B 10L* 6M 2E
+Ddimer 1203, granulocyte count 1090
+Glu 83, BUN 34*, Cr 2.8*, Na 134, K 5.5, Cl 106, HCO3 17, AG 17
+ALT 18, AST 55, LDH 446, AlkPhos 100, Amyl 237, Lip 133, Tbili
+0.3
+Ca 7.8, Phos 4.5, Mg 2.0
+UA: staw yellow, clear, USG 1.008, LG blood, 500 prot, pH 6.0, 0
+RBC, 0-2 WBC, occ bacteria, neg nitrites, neg LE
+urine chem: Cr 10, Na 101, Alb 55.1, Prot/Cr 5510.0*
+urine eos negative
+.
+Other labs:
+TIBC 152, Ferritin >assay, TRF 117*
+plasma osm 280
+proBNP [**Numeric Identifier 31474**]
+TSH 2.5, PTH 248
+cosyntropin stim: random cortisol 19.7, 30 min cortisol 36.7,
+60min 42.5
+HBsAg neg, HBsAb neg, HBcAb neg, HCV Ab neg
+.
+Labs on discharge:
+WBC 1.9, Hct 24.7, MCV 94, Plt 96
+Glu 66, BUN 28, Cr 2.1, Na 135, K 3.6, CL 103, HCO3 23, AG 13
+Ca 7.6, Phos 3.1, Mg 1.7
+Dig 0.5
+Albumin 2.2
+.
+Micro:
+[**2173-12-31**]: stool NEG for C diff
+[**2173-12-29**]: stool cx no micro, cyclospora, crypto/giardia, O+P; few
+PMNs
+[**2173-12-28**]: [**Month/Day/Year 1065**] isolators PND
+[**2173-12-28**]: CMV VL not detected
+[**2173-12-28**]: stool cx neg for microsp, cyclospora, O+P,
+crypto/giardia
+[**2173-12-27**]: stool cx for C diff toxin B PND
+[**2173-12-27**]: stool cx neg for microspor, cyclospora, isospora, O+P,
+Cdiff
+[**2173-12-25**]: stool cx NEG for Cdiff
+[**2173-12-24**]: blood cx x2 NGTD
+[**2173-12-23**]: stool cx AFB PND
+[**2173-12-21**]: blood cx x2 NGTD
+[**12-18**]: induced sputum: neg for PCP, [**Name10 (NameIs) **] AFB on direct smear,
+[**Name10 (NameIs) 1065**] cx NGTD, AFB cx + for AFB (speciation pending at State
+Lab)
+[**12-18**]: urine cx NGTD
+[**12-18**]: blood/[**Month/Day (4) 1065**] cx NGTD
+[**12-16**]: urine Legionella neg
+[**12-16**]: Rapid Respiratory Viral Antigen Test (Final [**2173-12-17**]):
+neg for
+ADENO; PARAINFLUENZA 1,2,3; INFLUENZA A,B AND RSV; viral cx
+pending
+[**12-16**]: cryptococcal Ag: neg
+[**12-16**]: CMV VL: negative
+[**12-16**]: induced sputum: neg for PCP, [**Name10 (NameIs) 1065**] cx neg, AFB smear neg
+
+[**12-16**]: stool cx neg for salmonella, shigella, campylobacter,
+Cdiff
+[**12-15**]: blood cx/AFB cx/[**Month/Year (2) 1065**] cx: NGTD
+[**12-15**]: urine cx: NGTD
+.
+Imaging:
+[**2173-12-28**]: ECHO - Left ventricular wall thicknesses are normal.
+The left ventricular cavity is moderately dilated with evere
+global hypokinesis. No left ventricular thrombus is seen. The
+right ventricular cavity is mildly dilated with moderate global
+wall hypokinesis. The aortic leaflets are normal with good
+excursion. No
+aortic regurgitation is seen. The mitral valve leaflets are
+structurally normal. Mild to moderate ([**12-20**]+) mitral
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. Significant pulmonic regurgitation is
+seen. There is a small to moderate sized circumferential
+pericardial effusion without evidence for tamponade physiology.
+Compared with the prior study (images reviewed) of [**2173-12-17**],
+the pericardial effusion is slightly larger (specifically around
+the right atrium). The estimated pulmonary artery systolic
+pressure is higher, right ventricular free
+wall motion may be slightly worse, and the severities of mitral
+and aortic regurgitation are slightly increased.
+.
+[**2173-12-27**]: portable abdominal film - No dilated loops of large or
+small bowel are seen to indicate obstruction.  No definite free
+intraperitoneal air is seen.  There are bilateral pleural
+effusions with lower lobe airspace opacities.
+.
+[**2173-12-24**]: CT a/p - 1. New, bilateral pleural effusions, right
+greater than left. Ground-glass opacities at the left lung base
+may represent fluid overload. 2. Cardiomegaly with interval
+marked enlargement of the cardiac [**Doctor Last Name 1754**] from the previous CT.
+Moderate pericardial effusion. 3. Diffuse bowel wall thickening
+involving the right colon to a greater extent than the left.
+These findings may represent infectious colitis or possibly
+typhlitis. 4. Anasarca.
+.
+[**2173-12-21**]: KUB - Non-specific bowel gas pattern. No air-fluid
+levels to suggest obstruction.
+.
+[**12-18**]: CXR - 1. Stable cardiomegaly. 2. Improvement of the
+perihilar opacities with residual opacities at the bases. This
+may be secondary to resolving pulmonary edema or infectious
+process.
+.
+[**12-17**]: ECHO - The left atrium is elongated. The left ventricular
+cavity size is normal. Overall left ventricular systolic
+function is severely depressed. Right ventricular chamber size
+is normal. There is mild global right ventricular free wall
+hypokinesis. The mitral valve leaflets are structurally normal.
+Mild (1+) mitral regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is a small
+pericardial effusion. LVEF <= 20%.
+.
+[**12-17**]: CXR - Successful placement of 39 cm total length double
+lumen PICC line with tip in the superior vena cava, ready for
+use.
+.
+[**12-16**]: portable CXR - 1. Enlarged cardiac silhouette suggesting
+cardiomegaly or pericardial effusion, which has increased
+compared to the prior examination. 2. Bilateral perihilar
+opacities, likely due to pulmonary edema, increased compared to
+the prior examination. Superimposed infection including PCP
+cannot be excluded.
+.
+[**12-15**]: CXR - Enlargement of the cardiac silhouette suggesting
+cardiomegaly or pericardial effusion that has progressed
+compared to [**2173-8-13**]. Nonspecific bibasilar opacity suggests
+edema or consolidation.
+
+
+Brief Hospital Course:
+# PNEUMONIA: It was felt that Ms. [**Known lastname 31473**] had a pneumonia on

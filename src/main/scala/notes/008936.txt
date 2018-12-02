@@ -1,0 +1,226 @@
+Admission Date:  [**2132-12-16**]              Discharge Date:   [**2132-12-19**]
+
+Date of Birth:  [**2078-12-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+PCP: [**First Name8 (NamePattern2) 58216**] [**Name11 (NameIs) 7537**]
+[**Name12 (NameIs) **]: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+.
+CC: Hyperglycemia, fever
+
+
+Major Surgical or Invasive Procedure:
+femoral central line placement
+
+
+History of Present Illness:
+54 yo woman h/o type 1 DM w/ gastroparesis and neuropathy, HTN,
+Hep C presents with hyperglycemia above 600 (home readings of
+"high" over 600), fevers to 102 x2d with N/V (nonbloody),
+worsening gastroparesis pain and nonproductive cough. Pt has
+taken all her insulin. No new meds either. No [**Last Name (NamePattern1) **] contacts,
+unusual foods. No PO intake x2 days. Her gastroparesis-related
+abdominal pain is associated with sharp, up to [**7-29**] retrosternal
+chest pain without radiation.
+.
+In the ED, her VS were 97.3, 53, 112/59, 16, 97%RA. Glc was 777
+was AG of 33. Pt c/o CP, abdominal pain and b/l foot pain.
+[**Month/Year (2) **] x4. UA with ketones but no infxn. CXR was unremarkable.
+Urine/serum tox negative. EKG with sinus tach and nonspecific,
+rate-related ST depressions. First set of cardiac enzymes
+negative. A R groin line was placed as she refused neck lines.
+12U Regular Insulin bolus was given and an Insulin gtt started
+(at 7U/hr). Pt received about 2L IV NS. Initial K was 6.3, came
+down to 4.3 without treatment given electrolyte shifts. Lactate
+was 4.9. Glc came down to 672 after first liter of NS. ABG at
+that time was 7.24/23/107. Pt remained HD stable throughout her
+ED stay. She was transferred to the ICU for further management.
+
+.
+ROS: No diarrhea, BRPBR, dark stools, dysuria, sputum
+production.
+
+
+Past Medical History:
+1. DM Type 1: Years w/ DM: 5 Age of Diag: 48 Year Diag: [**2127**]
+Several episodes of DKA, managed on Lantus plus HISS
+2. Diabetic polyneuropathy
+3. Hypertension
+4. Grave's disease s/p RAI [**2129**]
+5. Reactive airway disease
+6. Seronegative arthritis, followed in rheumatology
+7. Hepatitis C, genotype 1A, biopsy with grade 1 inflammation,
+no on antiviral therapy
+8. GERD
+9. Migraines
+10.Bilateral knee arthroscopy in [**5-23**]
+11.s/p TAH and pelvic floor surgery with bladder lift
+12.Depression
+13. Obesity
+14. Bone spurs in feet
+
+
+Social History:
+No smoking/EtOH/drugs. Lives at home with 2 daughters. [**Name (NI) **] lives
+
+downstairs
+
+
+Family History:
+Mother: died of colon cancer
+Long h/o DM-2
+
+
+Physical Exam:
+VS: Temp: 99.9 BP: 113/47 HR: 120 regular RR: 18 O2sat 99% RA
+GEN: pleasant, fatigued but NAD
+[**Name (NI) 4459**]: [**Name (NI) 2994**], EOMI, anicteric, dry MM, op without lesions
+NECK: Flat jvd, supple
+RESP: CTA b/l with good air movement throughout
+CV: Tachy but regular, S1 and S2 wnl, no m/r/g
+ABD: nd, +b/s, soft, diffusely tender but no r/g, no masses
+EXT: no c/c/e, warm, good pulses
+SKIN: no rashes/no jaundice
+NEURO: AAOx3. Moves all extremities.
+
+
+Pertinent Results:
+Initial labs in ED:
+.
+AG=33 ->-> 19
+.
+126 80 36
+=========== 777
+6.3 13 1.5
+pH 7.24 pCO2 23 pO2 107 HCO3 10 BaseXS -15
+.
+WBC 6.7 Hct 40.8 Plt 427
+N:86.6 Band:0 L:11.6 M:1.6 E:0.2 Bas:0
+.
+PT: 13.1 PTT: 26.7 INR: 1.1
+.
+UA: Neg Leuk, Blood, Nitrate, Protein, Glc 1000, Ketone 50
+.
+Last HbA1c [**2132-4-19**]: 6.0
+.
+Studies:
+.
+CXR: The study is limited secondary to positioning. The lateral
+aspects of the mid right hemithorax have been excluded. The
+lungs are well expanded and clear. The mediastinum is
+unremarkable. The cardiac silhouette is within normal limits for
+size. No effusion or pneumothorax is evident. The osseous
+structures are unremarkable.
+IMPRESSION: Within limitations stated above, no acute pulmonary
+process.
+.
+EKG: Sinus tach at 107, nonspecific, rate-related ST
+depressions, peaked T waves in V4-V6
+
+
+Brief Hospital Course:
+A/P: 54 yo woman h/o type 1 DM w/ gastroparesis and neuropathy,
+HTN, Hep C presents with DKA (initial Glc 777, AG 33) and fevers
+to 102 x2d with N/V (nonbloody), worsening gastroparesis pain
+and nonproductive cough.
+.
+Pt reports compliance w/ home insulin. EKG without definite
+ischemic changes, cardiac enzymes negative and pt dneied any new
+meds. Infection most likely trigger of DKA given fever x2 days
+with N/V and WBC with mild left shift. Abdominal exam
+nonspecific given DKA and no rebound/guarding. No abdominal
+imaging or abx for now. UA clean. CXR unremarkable. Possible
+trigger viral gastroenteritis. Pt did not have a flu shot so flu
+to be considered but less likely. Thyroid dysfunction can
+trigger DKA but her free T4 and T3 were all within normal limits
+and she will continue her anti-thyroid medication for Graves'
+Disease. Last A1c [**3-26**] was 6.0, now markedly elevated at 10.
+Last DKA in [**2129**]. AG closed at 6 w/ fluids and insulin gtt. Her
+electrolytes were repleted accordingly. Glucose levels were
+labile off the insulin gtt.  [**Last Name (un) **] was consulted and
+recommended restarting home glargine dose at 36units at bedtime.
+ Her humalog sliding scale was increased and patient was
+instructed to take the humalog after meals if she is able to
+tolerate the meal given her gastroparesis.  Her fingersticks
+remained in 100s and she tolerated a PO diet. She did not
+require any antibiotics for her GI symptoms.  She will f/u with
+[**Last Name (un) **] and her PMD next week. No other changes in her
+medications were made.
+.
+REMAINING HOSPITAL COURSE BY PROBLEM:
+.
+# ARF: Normal Cr at baseline. Cr 1.5 in ED. Came down to 0.9 w/
+hydration. Likely prerenal given dehydration and improvement
+with IVF.
+.
+# Neuropathic pain: pt continues to be handicapped by her LE
+neuropathic pain [**2-22**] to her DM.  She takes gabapentin and
+amitriptyline and both medications could be uptitrated.  She
+will follow-up with her PCP. [**Name10 (NameIs) **] is wheelchair bound.
+.
+# Headache: pt w/ history of migraine, pain is unilateral like
+her usual migraine pain. Takes zomig as outpt. Will use caution
+with triptans and continue to monitor lytes. Pt takes
+Zolmitriptan as outpatient.
+.
+# HTN: once blood pressure stabilized, pt's outpt BP meds were
+restarted.
+.
+# Anemia: baseline Hct low 30s.  Stable at discharge.
+.
+# Asthma: Stable.  Continued outpatient asthma medications.
+.
+# Grave's: TSH low while on Methimazole. Free T4 and T3 WNL.
+.
+# Seronegative arthritis: No active issues. Morphine IV prn for
+now. Holding NSAIDs and sulfasalazine.
+.
+# Hep C: never on antiviral meds. Pt followed by Dr. [**Last Name (STitle) 10285**].
+.
+# CODE: FULL, discussed with pt and daughter ([**Female First Name (un) **]).
+.
+# COMM: [**Name (NI) **] [**Known lastname **] [**Telephone/Fax (1) 102661**], cell [**Telephone/Fax (1) 102662**] (HCP).
+
+
+Medications on Admission:
+1. Trazodone 100 mg PO HS (at bedtime) as needed for insomnia.
+2. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation Q6H (every 6 hours) as needed for sob, wheezing.
+3. Amitriptyline 25 mg PO HS (at bedtime).
+4. Gabapentin 300 mg qP Q12H
+5. Aspirin 81 mg Tablet, PO DAILY (Daily).
+6. Methimazole 10 mg PO TID
+7. Metoclopramide 10 mg PO QIDACHS
+8. Montelukast 10 mg PO DAILY
+9. Hexavitamin PO DAILY
+10. Pantoprazole 40 mg PO Q24H
+11. Salmeterol 50 mcg/Dose Disk Q12H
+12. Simvastatin 10 mg blet PO DAILY
+13. Sulfasalazine 500 mg PO TID
+14. Oxycodone-Acetaminophen 5-325 mg 1-2 Tablets PO q6H PRN
+15. Hyoscyamine Sulfate 0.125 mg Tablet, SL [**Hospital1 **]
+16. Losartan 50 mg PO DAILY
+17. Insulin Glargine 36U at bedtime
+19. HISS
+20. Flexeril
+
+
+Discharge Medications:
+1. Insulin Regular Human 100 unit/mL Solution Sig: Please follow
+sliding scale print-out  Injection ASDIR (AS DIRECTED).
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Methimazole 10 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+5. Hyoscyamine Sulfate 0.125 mg Tablet, Sublingual Sig: One (1)
+Tablet, Sublingual Sublingual [**Hospital1 **] (2 times a day).
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed

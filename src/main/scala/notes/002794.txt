@@ -1,0 +1,209 @@
+Admission Date:  [**2108-8-12**]              Discharge Date:   [**2108-8-31**]
+
+Date of Birth:  [**2030-8-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3967**]
+Chief Complaint:
+Weakness
+
+Major Surgical or Invasive Procedure:
+plasmapheresis
+plasmapheresis catheter insertion
+Chemotherapy
+
+History of Present Illness:
+Mr. [**Known lastname 40029**] is a 77 year old gentleman with a PMH significant for
+prostate CA on lupron therapy, GERD, and past afib s/p
+cardioversion admitted to the [**Hospital Unit Name 153**] for urgent plasmapheresis.
+The patient states that he has had 10 days of progressive
+fatigue and weakness such that today he was unable to climb a
+flight of stairs. He denies any dyspnea, orthopnea, increased LE
+edema, or PND. He reports an associated non-productive cough,
+decreased PO intake, urine output, and nausea but no emesis. He
+also reports chills and night sweats that have occurred since
+starting lupron. Denies any bruising, hematochezia or melena,
+dysuria, HA, palpitations, or chest pain. The patient presented
+to an OSH today, and was noted to have a WBC of 144, creatinine
+of 2.72, and a TnI of 0.8 with no CK. Of note, the patient had a
+CBC drawn approximately 3 months ago after a colonoscopy which
+was "normal." The patient received 162 mg ASA and 60 mg IV lasix
+and was transferred to [**Hospital1 18**] for further management.
+.
+In the [**Hospital1 18**] ED, VS 97.9 116/73 62 95%2L nc. The patient was
+again noted to have a WBC 160 with 74% other, Cr 2.8, UA 16, TnT
+0.17, LDH of 2188, and BNP of [**Numeric Identifier 40030**]. The patient was evaluated
+by oncology in the ED with a peripheral smear that was
+consistent with AML. A bone marrow biopsy was also performed in
+the ED, and the patient was then transferred to the [**Hospital Unit Name 153**] for
+further monitoring and leukopheresis.
+.
+Review of Systems: Positive for acid reflux. As above, otherwise
+negative. Denies visual changes, hearing changes, swollen
+glands, sore throat, belly pain, n/v/d, constipation, dysuria,
+bone pain, leg
+swelling, orthopnea or PND.
+
+
+Past Medical History:
+GERD
+Atrial fibrillation - s/p cardioversion 3+ years ago, not
+currently anticoagulated
+OA
+sciatica - took naproxen a couple of years ago.
+HTN
+Hyperlipidemia
+heart murmur ? AS
+
+
+Social History:
+Patient lives on [**Location (un) **] with his son, and in [**Name (NI) 108**] in the
+winter; he is currently engaged. He is retired from the
+wholesale meat industry, no occupational exposures. No tobacco,
+etoh, IV, illicit, or herbal drugs.
+
+Family History:
+noncontributory
+
+Physical Exam:
+Admission Physical Exam:
+Gen: Age appropriate male in NAD
+HEENT: Perrl, eomi, sclerae anicteric. MMM, OP clear without
+lesions, exudate, or erythema.
+CV: Irregular S1+S2, harsh IV/VI systolic murmur throughout the
+precordium radiating to the carotids.
+Pulm: CTAB
+Abd: S/NT/ND +bs
+Ext: No c/c/e, 1+ dp/pt bilaterally
+Neuro: AOx3, CN II-XII intact
+
+Discharg exam:
+Gen: Age appropriate male in NAD
+HEENT: Perrl, eomi, sclerae anicteric. MMM, OP clear without
+lesions, exudate, or erythema.
+CV: Irregular S1+S2, harsh IV/VI systolic murmur throughout the
+precordium radiating to the carotids.
+Pulm: CTAB
+Abd: S/NT/ND +bs
+Ext: No c/c/e, 1+ dp/pt bilaterally
+Neuro: AOx3, CN II-XII intact
+skin: petechial rash in dependent areas of body, including
+buttocks and feet.
+
+
+Pertinent Results:
+Admission labs:
+
+[**2108-8-12**] 03:05PM BLOOD WBC-160.6* RBC-4.04* Hgb-12.0* Hct-35.0*
+MCV-87 MCH-29.8 MCHC-34.3 Plt Ct-218
+  Neuts-11* Bands-3 Lymphs-3* Monos-3 Eos-0 Baso-1 Atyps-0
+Metas-3* Myelos-2* Promyel-0 Young-0 Blasts-0 Other-74*
+
+[**2108-8-12**] 03:05PM BLOOD Glucose-139* UreaN-41* Creat-2.8* Na-141
+K-3.8 Cl-108 HCO3-18* AnGap-19 Calcium-9.9 Phos-4.4 Mg-2.3
+
+[**2108-8-12**] PT-16.2* PTT-31.1 INR(PT)-1.4*
+[**2108-8-13**] PT-21.3* PTT-36.4* INR(PT)-2.0*
+
+[**2108-8-12**] Fibrino-299, FDP->1280*, D-Dimer-8314*
+
+[**2108-8-12**] ALT-33 AST-70* LD(LDH)-2188* CK(CPK)-52 AlkPhos-136*
+TotBili-0.5 Albumin-3.9 UricAcd-16.0*
+
+[**2108-8-12**] proBNP-[**Numeric Identifier 40030**]*
+[**2108-8-14**] BLOOD PSA-11.0*
+
+Cardiac enzymes:
+[**2108-8-12**] 03:05PM BLOOD CK(CPK)-54 CK-MB-NotDone cTropnT-0.17*
+[**2108-8-12**] 09:49PM BLOOD CK(CPK)-114 CK-MB-4 cTropnT-0.21*
+[**2108-8-13**] 02:55AM BLOOD CK(CPK)-84 CK-MB-4 cTropnT-0.18*
+
+Cultures:
+Blood cultures ([**2108-8-13**]): negative to date
+URINE CULTURE (Final [**2108-8-15**]): BETA STREPTOCOCCUS GROUP
+B.10,000-100,000 ORGANISMS/ML..
+
+Imaging/Studies:
+
+EKG ([**2108-8-12**]): Atrial fibrillation with moderate ventricular
+response. Left axis deviation with left anterior fascicular
+block. Modest non-specific ST-T wave changes. No previous
+tracing available for comparison.
+
+Echo ([**2108-8-13**]): There is moderate symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal.
+Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. The
+ascending aorta is moderately dilated. There are three aortic
+valve leaflets. The aortic valve leaflets are moderately
+thickened. There is moderate aortic valve stenosis (valve area
+1.0-1.2cm2). No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Trivial mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. There is mild pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+IMPRESSION: Moderate aortic stenosis and symmetric LVH. Normal
+regional and global biventricular systolic function. Mild
+pulmonary artery systolic hypertension.
+Flow cytometry ([**2108-8-12**]): Three color gating is performed (light
+scatter vs. CD45) to optimize blast yield.
+
+Cell marker analysis demonstrates that the majority of the cells
+isolated from this bone marrow express immature antigens CD34,
+HLA-DR, myelomonocytic antigens CD33, CD15, CD11c, CD64, CD56,
+and CD4.  They lack B  and other T cell associated antigens, are
+CD10 (cALLa) negative, and are negative for CD13, CD117, CD14,
+CD41, and Glycophorin. Blast cells comprise 68% of total gated
+events. In the lymphoid gated events. B cells are scant in
+number. T cells comprise 77% of lymphoid gated events, express
+mature lineage antigens, and have a helper-cytotoxic ratio of 2.
+
+INTERPRETATION: Immunophenotypic findings consistent with
+involvement by: Acute myeloid leukemia with monocytic
+differentiation.
+Bone marrow aspirate and biopsy ([**2108-8-12**]): DIAGNOSIS:
+
+Markedly hypercellular bone marrow with involvement by acute
+monoblastic leukemia (FAB, M5a).  See note.
+
+Note: Please correlate with cytogenetic findings.
+
+MICROSCOPIC DESCRIPTION
+
+Peripheral Blood Smear:
+
+The smear is adequate for evaluation.  Erythrocytes are
+normochromic and show very mild anisopoikilocytosis with
+scattered burr cells.  Scattered polychromatophils are also
+seen.  Rare nucleated RBCs (2 per 100 RBCs) are noted.  The
+white blood cell count appears markedly increased.  Platelet
+count appears normal; large forms are seen; giant forms are not
+present.
+
+Differential count shows 12% neutrophils, 6% bands, 1%
+monocytes, 5% lymphocytes, 2% eosinophils, 0% basophils, 69%
+monoblasts, 3% myelocytes, 2% metamyelocytes.  The blasts are
+large, have abundant vacuolated cytoplasm with fine granules,
+high N/C ratio, round to irregular nuclear contours, open
+chromatin, and prominent nucleoli.
+
+Aspirate Smear: The aspirate material is adequate for
+evaluation.  The M:E ratio is 11:1.  Erythroid precursors are
+decreased and include occasional dyspoietic form.  Myeloid
+precursors appear increased and consist primarily of blasts.
+Megakaryocytes are present in increased numbers; abnormal forms
+are not seen, but focal clusters are seen.
+
+Differential shows: 80% Blasts, <1% Promyelocytes, 2%
+Myelocytes, <1% Metamyelocytes, 6% Bands/Neutrophils, 0% Plasma
+cells, 4% Lymphocytes, 8% Erythroid.
+
+Clot Section and Biopsy Slides: The biopsy material is adequate
+for evaluation.  Marrow cellularity is estimated at 90%. There
+is an interstitial infiltrate

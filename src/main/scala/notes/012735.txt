@@ -1,0 +1,221 @@
+Admission Date:  [**2167-11-29**]              Discharge Date:   [**2167-11-30**]
+
+Date of Birth:  [**2142-10-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Haldol / Oxycodone / Demerol / MS Contin / Penicillins /
+Fentanyl / Bactrim / Tamiflu / Keflex
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Nausea, vomiting, and abdominal pain
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+25 yo female with type 1 diabetes, complicated by gastroparesis,
+with frequent rehospitalizations for abdominal pain and nausea,
+who presents with nausea, vomiting, and abdominal pain. Similar
+to prior hospitalizations. Slight dysuria. She is on narcotic
+contract and has [**Last Name (NamePattern4) 18297**] assigned by state.
+.
+In the ED, initial vitals were: 98.2, 133/87, HR 120, RR 18, Sat
+100%
+always asked for IV compazine but was not vomiting. Received
+total of 30 mg compazine in addition to benadryl 25 iv x1,
+Refused insulin initially, got security to bring her back.
+glucose 70s on initial chem, but stat glucose was 395.  got
+10units humalog but no significant change. She was started on
+insulin gtt. K aimed to be repleted but she declined. Received
+IV fluids 2L. Recieved also diazepam 10x1, ativan 2mg, haldol 10
+IM and diluadid 2 mg. Vitals on transfer were HR 114, BP 134/78,
+RR 18, Sat 100% RA. She refused CXR. UA not suggestive of UTI.
+.
+On the floor, was sleeping comfortably. Upon awakening, stated
+she has pancreatitis and is in severe pain. Asked for pain
+medication and "something to make me sleep".
+
+
+
+
+Past Medical History:
+(per OMR, confirmed key components of medical history with
+patient)
+1. Diabetes, type I
+2. Gastroparesis with chronic g-j tube, though most recent
+gastric emptying study in [**4-17**] was normal
+3. Chronic abdominal pain presumed to be chronic pancreatitis
+- narcotics contract with PCP (recieves weekly prescription
+on Tuesdays)
+- pancreatic divisim (fibrosis and calcification in the
+pancreas as well as 2 completely separate pancreatic ducts on
+ERCP)
+- ampullary stenosis s/p stenting
+4. Depression & Borderline personality disorder
+- history of cutting behavior and suicide attempts
+5. Asthma
+6. History of urinary retention, chronic with episodes of
+worsening. Has seen by Dr. [**Last Name (STitle) 770**] in urology in past, not
+within past year.
+7. PUD secondary to H. pylori
+8. gastritis
+9. iron deficiency anemia
+10. right adnexal cyst
+11. S/p Cholecystectomy
+
+Social History:
+Born in the [**Country 13622**] Republic. She was sent to the US at age
+11-12 years due to onset of medical problems (i.e. diabetes).
+Most recently lives in [**Location 686**] with roommates.  She has a
+twin sister who is married with a baby. [**Name (NI) **] smokes
+cigarettes intermittently.  She denies ETOH, recreational drug
+use.  She works at an electronics store in [**Location (un) 538**] as a
+technician.  She has a very complicated psychosocial history.
+[**Location (un) **]: [**Name (NI) 919**] [**Last Name (NamePattern1) **], [**Name (NI) **]. (O: [**Telephone/Fax (1) 68112**]. C:
+[**Telephone/Fax (1) 66842**]).
+
+
+Family History:
+Grandmother, uncle and mother with DM. Uncles with chronic
+pancreatitis.
+
+
+Physical Exam:
+On Admission:
+Vitals: 114, BP 134/78, RR 18, Sat 100% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+On Admission:
+[**2167-11-29**] 08:20PM BLOOD WBC-14.8* RBC-4.47 Hgb-14.7 Hct-41.2
+MCV-92 MCH-32.9* MCHC-35.8* RDW-12.2 Plt Ct-335
+[**2167-11-29**] 08:20PM BLOOD Neuts-75.2* Lymphs-20.9 Monos-2.1 Eos-1.7
+Baso-0.2
+[**2167-11-30**] 03:02AM BLOOD PT-13.6* PTT-23.4 INR(PT)-1.2*
+[**2167-11-29**] 11:00PM BLOOD Glucose-388* UreaN-15 Creat-0.8 Na-139
+K-3.0* Cl-101 HCO3-18* AnGap-23*
+[**2167-11-30**] 03:02AM BLOOD ALT-36 AST-15 AlkPhos-148* TotBili-0.4
+[**2167-11-30**] 07:35AM BLOOD Calcium-9.2 Phos-2.9 Mg-1.4*
+
+
+Brief Hospital Course:
+Ms [**Known lastname **] is a 25 year-old female with type 1 diabetes who
+presented [**2167-11-29**] with DKA. Left AMA.
+
+# Diabetic Ketoacidosis: The patient has a h/o DMI and multiple
+admissions for DKA. On this admission, the patient arrived
+complaining of abdominal pain and N/V.  In the ED, her initial
+VS were stable.  She received 30 mg of compazine and benadryl
+25mg IV.  Initial glucose was in the 70s; however repeat was
+>300. AG was 23. The patient refused insulin initially but
+eventually accepted a drip. Received IV fluids (2L), diazepam
+10mg, ativan 2mg, haldol 10mg IM and diluadid 2mg. She refused a
+CXR or urinalysis. Transferred to the MICU where the patient
+repeatedly requested IV medications for pain control. Refused
+further insulin and asked to leave AMA. The patient's AG had
+closed by this time. She stated that she would check her own
+glucose levels and self-administer insulin. She demonstrated
+that she was capable of doing this. Given 15 units of longer
+acting insulin and allowed to leave AMA as it was felt physical
+restraint would be more harmful to the patient.
+
+Medications on Admission:
+1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as
+needed for SOB/wheezing.
+2. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+3. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2)  Inhalation every four (4) hours as needed for wheezing.
+
+4. diazepam 10 mg Tablet Sig: One (1) Tablet PO three times a
+day.
+5. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig:
+One (1)  Inhalation twice a day.
+6. gabapentin 250 mg/5 mL Solution Sig: Ten (10) cc PO at
+bedtime.
+7. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO q3h as
+needed for pain.
+8. ibuprofen 100 mg/5 mL Suspension Sig: Thirty (30) ml PO every
+
+six (6) hours as needed for pain.
+9. insulin glargine 100 unit/mL (3 mL) Insulin Pen Sig: Seventy
+(70) units Subcutaneous at bedtime.
+10. insulin lispro 100 unit/mL Solution Sig: One (1)
+Subcutaneous three times a day: s directed SQ three times a day.
+
+As directed by [**Last Name (un) **].
+11. ipratropium-albuterol 18-103 mcg/Actuation Aerosol Sig: One
+(1)  Inhalation every six (6) hours.
+12. lactulose 10 gram/15 mL Solution Sig: Forty Five (45) ml
+ml PO three times a day as needed for constipation: three times
+a day as needed for constipation 1 QUART please.
+13. loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day: 1
+
+tsp swish and spit prn mouth sores.
+14. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO once a day.
+15. mirtazapine 15 mg Tablet Sig: Two (2) Tablet PO at bedtime.
+
+16. zolpidem 10 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+17. nebulizers     Kit Sig: One (1)  Miscellaneous every [**5-13**]
+hours: one nebulizer machine with accessories for nebulized
+asthma treatments to be used by patient every 4-6 hours as
+needed for severe wheezing, shortness of breath
+18. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+
+Capsule, Delayed Release(E.C.) PO once a day.
+19. polyethylene glycol 3350     Powder Sig: One (1) packet
+Miscellaneous once a day as needed for constipation: gram/dose
+Powder - 1 packet(s) by mouth daily as needed for constipation
+not treated with senna or docusate.
+20. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO
+
+every six (6) hours.
+21. trazodone 100 mg Tablet Sig: Two (2) Tablet PO at bedtime as
+
+needed for insomnia.
+22. diphenhydramine HCl 12.5 mg/5 mL Liquid Sig: Forty (40) cc
+PO at bedtime as needed for insomnia.
+23. zolpidem 10 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+
+
+Discharge Medications:
+Left AMA
+
+Discharge Disposition:
+Home
+
+Facility:
+Left AMA
+
+Discharge Diagnosis:
+Left AMA
+
+Discharge Condition:
+Left AMA
+
+Discharge Instructions:
+Left AMA
+
+Followup Instructions:
+Left AMA
+
+               

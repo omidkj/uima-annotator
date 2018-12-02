@@ -1,0 +1,239 @@
+Admission Date:  [**2111-11-15**]              Discharge Date:   [**2111-12-10**]
+
+
+Service: SURGERY
+
+Allergies:
+Percocet
+
+Attending:[**First Name3 (LF) 2597**]
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+Repair of ruptured AAA.
+Closure of open abdomen, with Vicryl mesh overlay.
+Bronchoscopy with lavage.
+
+History of Present Illness:
+Patient had acute onset of abdominal pain, evaluated at
+[**Hospital2 **] [**Hospital3 **], found to have ruptured AAA on CT scan.
+Patient was transferred emergently to [**Hospital1 18**] for operative
+repair.
+
+Past Medical History:
+1.  CAD
+2.  chronic atrial fibrillation
+3.  L breast CA s/p mastectomy
+4.  HTN
+5.  hypothyroid
+6.  osteoporosis
+
+Physical Exam:
+Temp 97.3, HR 95 atrial fibrillation, BP 145/83, RR 30, SaO2 98%
+on 3L
+Gen: NAD
+Chest: decreased breath sounds at bases
+CV: irregularly irregular
+Abdomen: S, NT, ND.  Incision clean and dry with minimal
+erythema/necrosis centrally, no purulence.
+Ext: 1+ pedal edema, 1+ DP pulses bilaterally.
+
+Pertinent Results:
+[**2111-12-10**] 02:45AM BLOOD WBC-8.1 RBC-3.49* Hgb-11.0* Hct-32.5*
+MCV-93 MCH-31.4 MCHC-33.7 RDW-15.5 Plt Ct-369
+
+[**2111-12-10**] 02:45AM BLOOD PT-13.3 PTT-29.3 INR(PT)-1.2
+
+[**2111-12-10**] 02:45AM BLOOD Glucose-106* UreaN-13 Creat-0.6 Na-141
+K-3.5 Cl-102 HCO3-29 AnGap-14
+
+[**2111-12-5**] 11:59 am STOOL     CONSISTENCY: SOFT
+
+                            **FINAL REPORT [**2111-12-6**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2111-12-6**]):
+      FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.
+      Reference Range:  Negative.
+
+[**2111-12-2**] 11:43 pm SPUTUM     Site: ENDOTRACHEAL
+
+                            **FINAL REPORT [**2111-12-5**]**
+
+   GRAM STAIN (Final [**2111-12-3**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2111-12-5**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      ESCHERICHIA COLI.    MODERATE GROWTH.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+
+[**2111-12-2**] 11:52 pm BLOOD CULTURE
+
+                            **FINAL REPORT [**2111-12-9**]**
+
+   AEROBIC BOTTLE (Final [**2111-12-9**]):    NO GROWTH.
+
+   ANAEROBIC BOTTLE (Final [**2111-12-9**]):    NO GROWTH.
+
+[**2111-12-2**] 11:53 pm URINE
+
+                            **FINAL REPORT [**2111-12-5**]**
+
+   URINE CULTURE (Final [**2111-12-5**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Trimethoprim/Sulfa sensitivity testing confirmed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+
+Brief Hospital Course:
+Patient was transferred for emergent repair of ruptured AAA.
+For details of this, please see the previously dictated
+operative note.
+  Post-operatively, the patient was brought to the ICU for
+monitoring.  She remained intubated for 10 days secondary to her
+open abdomen and volume overload following resuscitation.
+Throughout this period, she was maintained on vancomycin,
+Levaquin and Flagyl for antibiotic prophylaxis, fearing a graft
+infection.  On POD #10, she was brought back to the operating
+room for closure of her abdomen.  For details of this, please
+see the previously dictated operative note.
+  The patient then had a slow wean from mechanical ventilation
+and was intermittently diuresed with Lasix prn and Lasix gtt.
+She extubated on POD #20 without event.  She did spike fevers
+and had a mildly elevated WBC (12 - 13) which prompted an
+infectious work-up which revealed an E. coli pneumonia and
+urinary tract infection.  She was empirically begun on Zosyn
+while culture data was pending, and continued on Zosyn based on
+sensitivities.
+  Ultimately, the patient was discharged to rehab on PODs #25 &
+15 tolerating a regular diet, in adequate pain control, afebrile
+and with a normal white count.  She has been working with
+physical therapy to regain her strength and motor function.
+
+Neurologic: no issues
+Cardiac: Lopressor for rate control and HTN; restart quinapril
+Pulmonary: continue with pulmonary toilet; incentive spirometry;
+out of bed to chair and ambulation with assistance
+GI: passed a swallow evaluation for aspiration risk; tolerating
+a cardiac diet and Boost supplementation
+GU: Foley in place for continued diuresis;  Lasix 20 mg IV BID
+x7 more days
+Hematologic: heparin SQ for DVT prophylaxis; begin Coumadin 5 mg
+QD for chronic atrial fibrillation
+ID: Zosyn for 5 more days to complete 14 day course (E. coli
+pneumonia and urinary tract infection)
+Endo: insulin sliding scale while on tube feeds, can be weaned
+off
+
+
+Medications on Admission:
+1.  Lopressor 100 mg [**Hospital1 **]
+2.  quinapril 20 mg QD
+3.  Zantac 150 mg [**Hospital1 **]
+4.  Tricor 145 mg [**Hospital1 **]
+5.  levothyroxine 150 mg QD
+6.  Fosamax
+
+Discharge Medications:
+1. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed.
+2. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day).
+3. Metoprolol Tartrate 25 mg Tablet Sig: Two (2) Tablet PO TID
+(3 times a day).
+4. Levothyroxine Sodium 150 mcg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+5. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+for 1 doses.
+6. Furosemide 10 mg/mL Solution Sig: Twenty (20) mg Injection
+[**Hospital1 **] (2 times a day) for 7 days.
+7. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: One (1) Recon
+Soln Intravenous  Q8H (every 8 hours) for 5 days.
+8. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) as needed for agitation.
+9. Zantac 150 mg Tablet Sig: One (1) Tablet PO twice a day.
+10. Tricor 145 mg Tablet Sig: One (1) Tablet PO once a day.
+11. FOSAMAX 70 mg Tablet Sig: One (1) Tablet PO once a week.
+12. Quinapril 20 mg Tablet Sig: One (1) Tablet PO once a day.
+13. Guaifenesin 100 mg/5 mL Syrup Sig: Ten (10) ML PO Q6H (every
+6 hours).
+14. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID
+(3 times a day) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+Ruptured abdominal aortic aneurysm.
+Respiratory failure.
+Escherichia coli pneumonia and urinary tract infection.
+Atrial fibrillation.
+
+Discharge Condition:
+Stable.  Alert and oriented x3.  1+ dorsal pedal pulses
+bilaterally.  Wound with minimal necrosis and erythema
+centrally, no purulence.
+
+Discharge Instructions:
+DC to rehab facility.  Please continue work with physical
+therapy, pulmonary toilet and wound care.  Continue Lasix 20 mg
+IV BID for one week.  Continue Zosyn for 5 days to complete 14
+day course for E. coli pneumonia and urinary tract infection.
+Monitor INR daily and adjust Coumadin to keep INR > 2.0 for
+atrial fibrillation.
+
+Followup Instructions:
+Follow-up with Dr. [**Last Name (STitle) **] in 2 weeks time.  Call for
+appointment ([**Telephone

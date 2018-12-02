@@ -1,0 +1,197 @@
+Admission Date:  [**2114-11-26**]              Discharge Date:   [**2114-12-20**]
+
+Date of Birth:  [**2033-2-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hypotension, Sepsis.
+
+
+Major Surgical or Invasive Procedure:
+1. Intubation and Mechanical Ventilation
+2. Central Venous Catheterization
+3. Arterial Line
+
+History of Present Illness:
+This is a 81 year-old female who initially presented to OSH with
+complaints of dizziness found to be hypotensive transferred to
+[**Hospital1 18**] ICU for continued manangement of sepsis with PMH notable
+for COPD, CHF, Atrial fibrillation with recent admission for
+treatment of PNA.
+.
+Per report patient was at home prior to admission when she felt
+dizzy. Pressed lifeline and was taken to OSH. There she was
+found to be confused, oriented x1. There vitals signs were
+notable for Temp: 101, SBP ~ 60s with O2 sats in the 70s. ABG
+with 7.1/105/96/39. Labs: WBC: 12.5, lactate 3.98 (hemolyzed) .
+UA: 6-10WBC. Patient intubated for airway protection. Started on
+broad antibiotic coverage with vanc/zosyn. Received 10mg IV
+decadron and 3L of NS. Transferred To [**Hospital1 18**].
+.
+In the ED, patient febrile to 101, started on levofloxacin in
+addition to vanc/zosyn. RIJ placed and patient started on
+Levophed  for pressure support and patient received 4L of NS.
+CVP transduced 13. SvO2: 90%. Labs notable for leukocytosis to
+13. HCT: 38.1. Plts: 258. INR: 3.6. PTT wnl, fibrinogen: 614.
+Serum tox negative. Urine tox + benzos. UA negative for
+infection. Urine and blood cultures pending. ABG: 7.32/76/68/41.
+CXR with bilateral opacities, mild interstitial edema, ET
+terminated proximal to carina, RIJ in distal IVC, NGT in dital
+esophagus. VS at time of transfer: afebrile, 117/85  102  100%.
+.
+In the [**Hospital Unit Name 153**] patient non-responsive. Remains intubated. ABG
+obtained: 7.34/67/23/266, FiO2 weaned from 100 -> 50.
+Antibiotics transitioned to vancomycin, cefepime and
+levofloxacin. CVP 10. MAP: 80. Patient received 1L bolus.
+
+Past Medical History:
+COPD on continuous 02
+CVA
+Atrial fibrillation
+CAD s/p MI
+CHF
+Hyperlipidemia
+HTN
+Arthritis
+IBS
+Depression/Anxiety
+Hyperlipidemia
+Glaucoma
+
+
+Social History:
+Lives in an [**Hospital3 **] center for seniors. Performs many
+ADLs on her own.  Daughter [**Name (NI) **] currently checking in on her,
+while other daughter [**Name (NI) **] and her daughter [**Name (NI) 698**] are the
+HCP's.
+
+Family History:
+Unknown.
+
+Physical Exam:
+On Admission:
+GEN: Intubated, sedated
+HEENT: pinpoint pupils, minimally reactive, MMM, ET, OGT in
+place
+NECK: Hard to discern JVD secondary to habitus and CVL, carotid
+pulses brisk, no bruits, no cervical lymphadenopathy, trachea
+midline
+COR: irreg, irreg, no murmers appreciated thought hard to
+discern over course anterior bs, radial pulses +2, [**12-27**]+
+symmetric pitting edema of bilateral LE
+PULM: rhonchorus breath sounds through all lung fields,
+decreased at bilateral bases, no wheeze
+ABD: Soft, ND, +BS, no HSM, no masses
+EXT: warm upper extremities, cool LE,
+NEURO: sedated, no puposeful movements, no response to noxious
+stimuli
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses,
+no splinter hemorrhages.
+.
+At discharge:
+GEN: no acute distress, anxious to leave
+HEENT: PERRL, sclera anicteric, MMM
+NECK: no JVD
+COR: irregular, no m/r/g, normal S1 S2  with no murmurs
+PULM: mild bibasal crackles with decreased air entry at bases
+ABD: Soft, NT, ND, +BS, no HSM, no masses
+EXT: No C/C/edema
+NEURO: A+Ox3 moving all 4 limbs
+
+Pertinent Results:
+PRE-ADMISSION LABORATORY STUDIES:
+ - ABG with 7.1/105/96/39.
+ - Labs: WBC: 12.5, lactate 3.98 (hemolyzed). UA: 6-10WBC
+
+ADMISSION LABORATORY STUDIES:
+ - INR: 3.6. PTT wnl, fibrinogen: 614.
+ - Lactate: 1.8 -> 0.8
+ - Serum tox negative. Urine tox + benzos.
+ - [**2114-11-26**] 08:40PM   WBC-13.0* RBC-3.92* HGB-12.6 HCT-38.1
+MCV-97 MCH-32.0 MCHC-32.9 RDW-14.4 PLT COUNT-258
+ - [**2114-11-26**] 08:56PM   GLUCOSE-146* LACTATE-1.8 NA+-144 K+-4.6
+CL--96* TCO2-37* ALT(SGPT)-40 AST(SGOT)-52* LD(LDH)-412*
+CK(CPK)-50 TOT BILI-0.6
+ - [**2114-11-26**] 08:40PM   cTropnT-<0.01 proBNP-3877*
+
+DISCHARGE LABORATORY STUDIES:
+ - INR 2.1
+ - WBC 7.1 Hct 31.4
+
+Radiology:
+[**11-26**] CXR: The lungs are low in volume and show bilateral
+interstitial opacities. Also noted are mild bibasilar opacities.
+The cardiac silhouette is mildly enlarged. The mediastinal
+silhouette and hilar contours are normal. An ET tube terminates
+appropriately 4.1 cm above the carina. A NG tube terminates in
+the stomach. There is a small left pleural effusion.
+IMPRESSION: Mild interstitial edema. Small left pleural
+effusion. Mild bibasilar opacities may represent atelectasis,
+aspiration, and/or pneumonia.
+
+[**11-27**] TTE:  The left atrium is mildly dilated. The right atrium is
+moderately dilated. No atrial septal defect or patent foramen
+ovale is seen by 2D, color Doppler or saline contrast with
+maneuvers. There is mild symmetric left ventricular hypertrophy.
+The left ventricular cavity is small. Left ventricular systolic
+function is hyperdynamic (EF 75-80%). Right ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. There is
+severe mitral annular calcification. Trivial mitral
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. There is a trivial/physiologic pericardial
+effusion. There are no echocardiographic signs of tamponade.
+
+[**12-5**] CXR: Cardiomediastinal contours are unchanged. Persistent
+opacities
+within the lower lungs likely representing a combination of
+pleural effusion and adjacent atelectasis and/or consolidation.
+As compared to the recent study, the right lower lobe has
+slightly worsened with increased obscuration of the right
+hemidiaphragm. Standard PA and lateral chest radiographs may be
+helpful to more fully evaluate this region when the patient's
+condition permits, particularly to exclude a developing
+pneumonia at this site.
+
+[**12-6**] CT head: In the left parietal and left frontal regions,
+there is loss of the normal [**Doctor Last Name 352**]-white matter differentiation,
+with areas of hypoattenuation compatible with edema from
+subacute infarction. There is extensive periventricular
+hypodensity, most compatible with chronic small vessel ischemic
+changes.  There is no evidence of hemorrhage, masses, or mass
+effect. There is no midline shift or herniation. The ventricles
+and sulci are prominent, most compatible with atrophic change.
+There is no acute fracture. The visualized portions of the
+paranasal sinuses and mastoid air cells are well aerated. The
+patient is status post bilateral lens implantation.
+IMPRESSION: Areas of loss of the [**Doctor Last Name 352**]-white matter
+differentiation, compatible with areas of subacute infarction
+involving the left frontal and parietal regions. MRI can be
+obtained for further evaluation as clinically indicated. No
+evidence of intracranial hemorrhage.
+
+[**12-10**] MRI head: There are several confluent areas of high signal
+intensity on FLAIR and T2-weighted images, consistent with
+sequelae of chronic microvascular ischemia. In addition, there
+is a focal area of high signal intensity present within the left
+frontal lobe which involves the cortical surface and underlying
+white matter. The appearances could represent a subacute or
+chronic infarct. There is a small focus of slow diffusion within
+the left frontal lobe, likely representing an acute infarct.
+There is also a chronic left posterior parietal infarct. There
+is no evidence of acute intracranial hemorrhage. Similar foci of
+high signal intensity are seen within the cerebellum as well as
+the brainstem on T2 and FLAIR images, most consistent with
+sequelae of microvascular ischemia. There is mild mucosal
+thickening seen in the maxillary sinuses. The remaining
+paranasal sinuses appear unremarkable. There is no abnormal
+marrow signal.
+IMPRESSION: 1. Multiple infarcts of different ages, acute,
+subacute and

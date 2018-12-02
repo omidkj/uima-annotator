@@ -1,0 +1,214 @@
+Admission Date:  [**2101-3-15**]              Discharge Date:   [**2101-3-29**]
+
+Date of Birth:  [**2060-8-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+shortness of breath, pain in right lower extremity
+
+Major Surgical or Invasive Procedure:
+PICC line placement
+
+
+History of Present Illness:
+History of Present Illness (mostly from prior note and OMR,
+including sign out from MICU):
+Mr. [**Known lastname 4300**] is a 49 year old diabetic with CHF (20-30% in [**2097**])
+who presented with SOB on [**2101-3-14**]. SOB was worse over the last 3
+days prior to admission, present both at rest and with exertion.
+It began subacutely. He sleeps on 2 pillows chronically,
+recently has had to sleep more upright. He does endorse PND. He
+says he has been taking all of his medications at home, though
+he is not sure of all of the names. He does not watch his sodium
+intake carefully, but says that his diet hasn't really changed
+recently. Denies any CP or palpitations. Pt also notes RLE
+erythema with some associated pain over the last several days
+prior to admission. He has had a mild productive cough with
+green phlegm and rhinitis no fevers/chills/sweats.
+.
+In the ER, vitals were 97.4 83 157/100 22 93% (?on RA).
+Admission labs notable for BNP of 2595. EKG showed RBBB, new
+from [**2098**]. CXR poor quality but without clear infiltrate. RLE
+lenis were negative for clot. ER did not want to do CTA given
+report of shellfish allergy and felt VQ would not be feasible
+given habitus. He was given 1g vancomycin for ?RLE cellulitis
+and levofloxacin 750mg. Also received carvedilol 12.5mg, lasix
+80mg PO, KCL 20meq, nitro SL, and furosemide 40mg IV. ER course
+notable for hypertension up to 201/128. Vitals prior to transfer
+afebrile 83 177/117 20 92% on 3L
+
+
+Past Medical History:
+* CHF/dilated cardiomyopathy with EF 20-30% on last TTE [**2097-3-30**].
+Trivial MR, [**2-5**] TR and moderate pulmonary hypertension
+* Type 2 DM,
+* Hypercholesterolemia
+* Morbid obesity
+* Crack abuse
+* OSA (new diagnosis)
+
+
+Social History:
+Lives with his mother. Is on disability. Most recent crack use 3
+weeks prior. Formerly smoked cigarettes. Drinks 40oz beer
+occasionally. Denies any IVDA of any kind. Reports prior
+negative HIV test but says he thinks "he's due for another"
+.
+
+
+Family History:
+Family History: +HTN, DM
+
+
+Physical Exam:
+Vitals 97.2 81 177/106 22 94% on 4L
+General Morbidly obese pleasant man, mildly tachypneic but no
+acute distress.
+HEENT Anicteric, conjunctiva pink, MMM
+Neck Large neck, JVP appears to be at least 10cm
+Pulm Lung exam very challenging due to his habitus but no rales
+appreciated
+CV Regular S1 S2 no m/r/g appreciated
+Abd Large pannus, +bowel sounds, nontender
+Extrem 2+ bilateral edema, hand-sized area of erythema R shin
+with warmth slightly tender
+Neuro Alert awake, not somnolent, moving all extremities
+
+
+Pertinent Results:
+ADMISSION LABS:
+.
+CBC 6.8>46.4<179 N 70 no bands
+Chem 138/4.3/97/34/11/1.1<266 gap=7
+CK 183 MB 3 Tropn 0.01
+INR 1.2, PTT 28
+.
+EKG SR @87, left axis with LAFB, RBBB with secondary ST/T
+changes, qtc 461. LAA.
+compared to [**7-/2098**] EKG the RBBB is new.
+
+[**2101-3-15**] 06:25PM   cTropnT-0.01
+[**2101-3-15**] 06:25PM   CK(CPK)-183
+.
+DISCHARGE LABS:
+.
+[**2101-3-28**] 05:39AM BLOOD WBC-4.2 RBC-4.61 Hgb-13.0* Hct-40.8
+MCV-89 MCH-28.2 MCHC-31.9 RDW-14.5 Plt Ct-242
+[**2101-3-29**] 06:38AM BLOOD Glucose-149* UreaN-10 Creat-0.8 Na-137
+K-4.4 Cl-96 HCO3-36* AnGap-9
+[**2101-3-27**] 05:41AM BLOOD ALT-12 AST-19 AlkPhos-70 TotBili-0.4
+[**2101-3-23**] 06:16AM BLOOD proBNP-925*
+[**2101-3-28**] 05:39AM BLOOD Calcium-8.9 Phos-4.1 Mg-2.0
+[**2101-3-16**] 10:15AM BLOOD HIV Ab-NEGATIVE
+[**2101-3-22**] 06:58AM BLOOD INSULIN-LIKE GROWTH FACTOR-1- within
+normal limits
+.
+MICROBIOLOGY:
+[**2101-3-23**] WOUND CULTURE (Final [**2101-3-25**]) - from RLE draining
+cellulitis
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+         This isolate is presumed to be resistant to clindamycin
+based on
+         the detection of inducible resistance .
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   0.5 S
+OXACILLIN-------------<=0.25 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+.
+IMAGING/STUDIES:
+TTE [**2101-3-16**]: The left atrium is markedly dilated. There is
+moderate symmetric left ventricular hypertrophy. The left
+ventricular cavity is moderately dilated. There is severe global
+left ventricular hypokinesis (LVEF = 25 %). No masses or thrombi
+are seen in the left ventricle. There is no ventricular septal
+defect. The right ventricular cavity is dilated with moderate
+global free wall hypokinesis. The ascending aorta is mildly
+dilated. The aortic valve is not well seen. No mitral
+regurgitation is seen. The pulmonary artery systolic pressure
+could not be determined. There is no pericardial effusion.
+.
+CXR for 57cm RUE PICC placement [**2101-3-19**]: There has been interval
+placement of a right-sided PICC, which on initial film
+demonstrated coiling in the supraclavicular region and
+terminated within the mid SVC. Subsequently, this was advanced
+with tip at the cavoatrial region, in good position.
+There is severely limited inspiration. Cardiopericardial
+silhouette is not
+well assessed. Focal airspace consolidation is evident. No
+evidence of
+pneumothorax.
+.
+Bilateral LE Ultrasound [**2101-3-23**]:
+IMPRESSION:
+1. No evidence of DVT.
+2. Prominent inguinal lymph nodes, likely hyperplastic.
+.
+Inpatient Bedside Sleep study [**2101-3-25**]:
+RESPIRATORY EVENTS: ETCO2 measurements varied between 41-47cm
+throughout the course of the night while on PAP. NV mask alone
+was used and no EERS was added. BIPAP SV Auto pressures of EEP
+10
+PS min 5 PS max 10 to BIPAP SV Auto EPAP 12 PS min 7 PS max 13
+with 4L O2 to 6L O2 was titrated throught the course of the
+night. The entire night was spent in the supine position. In
+supine NREM BIPAP Auto SV pressures of EPAP 12 PS min 5 PS max
+10
+with 4L O2 resulted in sats greater than 91% with occasional
+flow
+limitation and occasional microarousals. In supine REM higher
+pressures were clearly needed. In supine REM BIPAP SV auto
+pressures of EPAP 12 PS min 7 PS max 13 and 6L O2 resulted in
+sats 88% and occasional respiratory events but while in NREM
+sats
+stayed at 95% or greater. There was no evidence of periodic
+breathing with the addition of NV mask.
+ASSESSMENT: The patient must avoid supine sleep. BIPAP Auto SV
+EPAP 12 PS min 7 PS max of 13 with 6L O2 results in very good
+control of SDB in supine NREM and acceptable control in supine
+REM. There was no evidence of periodic breathing, albeit with
+the
+aid of a NV mask, on tonights PSG. Continued efforts must be
+made
+towards weight loss. A formal outpatient split night study will
+be performed to identify optimal settings upon discharge from
+the
+hospital.
+ABGS DURING SLEEP STUDY:
+[**2101-3-25**] 01:39AM BLOOD Type-ART pO2-63* pCO2-66* pH-7.38
+calTCO2-41* Base XS-10
+[**2101-3-25**] 05:44AM BLOOD Type-ART pO2-78* pCO2-66* pH-7.38
+calTCO2-41* Base XS-10
+
+
+Brief Hospital Course:
+#Dyspnea / Hypoxia / CAP - Etiology presumed to be
+multifactorial including an acute decompensation of his chronic
+heart failure, a possible viral URI, underlying pulmonary HTN in
+setting of uncontrolled OSA, as well as compressive atelectasis
+secondary to body habitus. CXR on admission was without evidence
+of pneumonia; noted to have some hilar fullness in a very
+limited study due to body habitus. LENIs negative for DVT, BNP
+2595. (no prior). Cardiac enzymes remained negative, however
+Repeat ECHO showed persistant EF 25% (unchanged from prior). PE
+was also considered b

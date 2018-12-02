@@ -1,0 +1,224 @@
+Admission Date:  [**2109-8-11**]              Discharge Date:   [**2109-8-13**]
+
+Date of Birth:  [**2046-7-25**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+latex
+
+Attending:[**First Name3 (LF) 2145**]
+Chief Complaint:
+Pulmonary Embolus
+
+Major Surgical or Invasive Procedure:
+IVC filter placement
+
+
+History of Present Illness:
+The patient was a 63 year old female with metastatic breast
+cancer with metastases to the brain and lungs who underwent
+resection of brain mets and RLL biopsy 1 week prior to
+admission. On day of admission, patient complained of SOB. SHe
+presented to an OSH and was found to have two PEs in left
+posterior basal and middle arterial branches. She was deemed not
+to be a good candidate for anticoagulation due to her recent
+surgery. She was sent to [**Hospital1 18**] for further evaluation,
+management, and placement of IVC filter.
+
+In the ED, initial VS were T 97.6 HR 68 BP 125/76 RR 18 95% RA.
+Patient was transferred to IR where successful placement of an
+IVC filter was accomplished. She was then transferred to the
+MICU for further management of her PE given the contraindication
+for anticoagulation.
+
+Past Medical History:
+1. L breast cancer s/p radiation and resection [**2101**] with
+metastasis to lung and brain in [**2108**]
+2. Arthritis of hips, knees
+3. COPD
+
+Social History:
+Social History:
+- Tobacco: 100 pack year (quit 3 weeks ago)
+- Alcohol: denies
+- Illicits: denies
+
+Family History:
+Father with pancreatic cancer, thyroid disease, skin cancer
+(still living)
+
+Physical Exam:
+Physical exam on admission:
+Vitals: 98.1 122/71 83 17 96 RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, gait deferred
+
+Physical exam on discharge:
+VS: 98.6  108/65  59  18  96%
+Gen: well-appearing female of NAD
+HEENT: coronal incision c/d/i, MMM, EOMI
+Neck: Supple without LAD
+Pulm: L-sided rhonchi/coarse breath sounds, scattered wheeze on
+R
+Cor: RRR (+)S1/S2 without m/r/g
+Abd: Soft, non-distended, non-tender abdomen with NABS
+Extrem: No LE edema with 2+ distal pulses
+Neuro: CNII-XII grossly intact, moving all extrem
+
+
+Pertinent Results:
+ADMISSION LABS
+[**2109-8-11**] 05:09PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0
+LEUK-NEG
+[**2109-8-11**] 05:09PM URINE  COLOR-Yellow APPEAR-Clear SP
+[**Last Name (un) 155**]->1.050*
+[**2109-8-11**] 05:09PM   PT-10.7 PTT-22.9* INR(PT)-1.0
+[**2109-8-11**] 05:09PM   PLT COUNT-336
+[**2109-8-11**] 05:09PM   NEUTS-72.1* LYMPHS-22.0 MONOS-4.5 EOS-1.1
+BASOS-0.2
+[**2109-8-11**] 05:09PM   WBC-9.1 RBC-5.06 HGB-14.5 HCT-43.8 MCV-87
+MCH-28.6 MCHC-33.1 RDW-15.3
+[**2109-8-11**] 05:09PM URINE  UHOLD-HOLD
+[**2109-8-11**] 05:09PM URINE  HOURS-RANDOM
+[**2109-8-11**] 05:09PM   proBNP-51
+[**2109-8-11**] 05:09PM   cTropnT-<0.01
+[**2109-8-11**] 05:09PM   estGFR-Using this
+[**2109-8-11**] 05:09PM   GLUCOSE-89 UREA N-28* CREAT-1.2* SODIUM-138
+POTASSIUM-4.3 CHLORIDE-99 TOTAL CO2-28 ANION GAP-15
+
+Discharge Labs
+
+[**2109-8-13**] 07:40AM BLOOD WBC-7.1 RBC-4.25 Hgb-12.1 Hct-36.9 MCV-87
+MCH-28.6 MCHC-32.9 RDW-15.3 Plt Ct-251
+[**2109-8-13**] 07:40AM BLOOD Plt Ct-251
+[**2109-8-13**] 07:40AM BLOOD Glucose-139* UreaN-17 Creat-0.9 Na-138
+K-4.0 Cl-107 HCO3-23 AnGap-12
+[**2109-8-13**] 07:40AM BLOOD Calcium-8.3* Phos-2.9 Mg-1.8
+
+Brief Hospital Course:
+The patinet is a 63 year old female with hx of ER+, Pr+,
+Her2/Neu+ L breast cancer s/p resection and XRT with metastatic
+lesions to brain and lung presents s/p partial resection of
+brain lesion and lung biopsy 1 week prior presenting with acute
+dyspnea [**1-24**] pulmonary embolus, s/p IVC filter placement,
+hemodynamically stable.
+.
+ACUTE ISSUES
+#Pulmonary Embolus: diagnosis based on read from OSH. Lesion
+located in L posterior basal branches as well as middle basal
+branches.  Patient is contraindicated for anti-coagulation given
+recent neurosurgery.  Hemodynamically stable at this time with
+negative trop, nl BNP, no new O2 requirement.  Patient was given
+IVC filter via IR.  Has been hemodynamically stable throughout
+hospitalization. LENI was negative bilaterally.
+.
+#Metastatic Breast Cancer with mets to lung/brain: s/p partial
+resection of brain lesion (multiple lesions present) at [**Hospital **] as well as lung biopsy showing ER+, PR+,
+Her2/neu+ cells, bronchoscopy c/w neoplastic cells. IP evaluated
+patient and felt there was no impending airway collapse.  She
+will need follow up treatment for her metastatic cancer, as
+there is high risk for worsening of her respiratory status with
+tumor growth.
+.
+#[**Last Name (un) **]: Cr elevated to 1.2, had recent CTA chest for PE which may
+have caused renal insufficiency.  No PMHx suggestive of renal
+disease. Her Cr improved with conservative fluid resuscitation.
+.
+CHRONIC ISSUES
+#Osteoarthritis: chronic issue, located in hips, knees, uses ASA
+at home. told to hold ASA in setting of recent surgery and
+instead use acetaminophen for pain.
+
+#COPD: 100 pack year smoking.  Started on albuterol MDI and
+ipratropium nebs with no respiratory distress throughout
+hospitalization.
+
+TRANSITIONAL ISSUES:
+-Patient needs to establish new PCP, [**Name10 (NameIs) 648**] made with Dr.
+[**Last Name (STitle) **] in [**Month (only) **]
+-Patient was scheduled for oncology follow-up with her primary
+oncologist
+-Patient had schedule follow-up with her neurosurgeon during
+week of discharge
+-Patient was reminded that her IVC filter was not a permanent
+device and would require removal as soon as possible
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from PatientwebOMR.
+1. LeVETiracetam 500 mg PO BID
+2. Aspirin 500 mg PO DAILY
+
+
+Discharge Medications:
+1. LeVETiracetam 500 mg PO BID
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp
+#*60 Tablet Refills:*0
+2. Albuterol Inhaler [**12-24**] PUFF IH Q6H:PRN wheezing
+RX *albuterol sulfate 90 mcg 1-2 puffs IH every six (6) hours
+Disp #*1 Inhaler Refills:*0
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Pulmonary Embolus
+Metastatic Breast cancer
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. [**Known lastname 111978**],
+
+You were treated at [**Hospital1 18**] for a pulmonary embolus.  Since you
+recently had surgery, you were unable to receive blood thinners.
+ Instead, you were given a filter in one of your veins to
+prevent clots to your lungs.
+
+You should follow up with your neurosurgeron tomorrow, and your
+PCP and [**Name Initial (PRE) **] new oncologist in the next week. Information is below.
+
+You have been given an albuterol inhaler for your COPD.
+Directions: 1-2 puffs every 6 hours as needed for wheezing. If
+you're having serious difficulty breathing, please intead go the
+ER -- do not rely on the inhaler.
+
+Followup Instructions:
+You have a follow-up [**Name Initial (PRE) 648**] with Dr. [**Last Name (STitle) 111979**], Neurosurgery,
+on [**2109-8-15**] at noon (confirmed on [**8-13**]).
+
+Name: [**Last Name (LF) **],[**First Name3 (LF) 111980**]-[**Doctor Last Name **]
+Specialty:Primary Care
+When: Wednesday [**9-18**] at 11am
+Location: [**Location (un) **] FAMILY PRACTICE
+Address: [**Street Address(2) 75551**], [**Apartment Address(1) 87446**], [**Location (un) **],[**Numeric Identifier 87435**]
+Phone: [**Telephone/Fax (1) 44915**]
+
+We are working on a follow up appt with an Oncologist Dr. [**First Name8 (NamePattern2) 7422**]
+[**Last Name (NamePattern1) **] in approximately one week. You will be called at
+home with the [**Last Name (NamePattern1) 648**].   If you have not heard or have
+questions, please call [**Telephone/Fax (1) 80105**].
+
+
+
+                             [**Name6 (MD) **] [**Name8 

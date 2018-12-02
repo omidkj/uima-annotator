@@ -1,0 +1,159 @@
+Admission Date:  [**2129-12-17**]              Discharge Date:   [**2130-1-3**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 495**]
+Chief Complaint:
+Septic shock
+
+Major Surgical or Invasive Procedure:
+Intubation
+Central line placement
+PICC line placement
+
+History of Present Illness:
+Ms. [**Known lastname **] is an 87 year old female who presented from her nursing
+home with diarrhea, hypotension, and lethargy. She was recently
+discharged from [**First Name5 (NamePattern1) 745**] [**Last Name (NamePattern1) 3714**] for gastric ulcer and UTI. She
+was discharged on [**2129-12-15**] with clarithromycin and amoxicillin.
+On the morning of this admission, patient was complaining of
+increased thirst. She had large foul smelling bowel movements x
+2 without abdominal pain. She was febrile to 100.5 and so was
+sent to the [**Hospital1 18**]-[**Location (un) 620**] ED.
+.
+At [**Hospital1 18**]-[**Location (un) 620**], she was found to be in renal failure with an
+elevated troponin. Her EKG showed TWI in V3-V6 and lateral ST
+depressions. She was given vanco/flagyl/ceftriaxone. A CT
+abd/pelvis was performed which showed colitis.
+.
+She was intitially taken to [**Hospital1 18**]-[**Location (un) 620**] where her vitals were
+T 100.1 rectal, HR 87, BP 70/30, RR 18-20, 83% on RA. She was
+given 4L of IVF. She became more tachypneic, so was intubated.
+Her stool was found to be C. diff positive. She was given IV
+vanco/flagyl/ceftriaxone. A CT abd/pelvis showed pancolitis. A
+right IJ was placed and she was transferred to [**Hospital1 18**].
+.
+Upon arrival to [**Hospital1 18**], her vitals were T 97.8, BP 108/47, HR 78,
+RR 18, 100%, intubated. Her blood pressure fell to 78/34, so she
+was given ?3L of IVF. She was started on levophed and dopamine.
+Her BP then rose to 200 [**Last Name (LF) 23457**], [**First Name3 (LF) **] dopamine drip was stopped.
+Upon arrival to the floor, her dopamine drip had been titrated
+off. In the ED, she had a loose brown stool with trace bright
+red blood.
+
+Past Medical History:
+Type 2 Diabetes
+Asthma
+Dementia
+Gastric ulcer (h. pylori positive)
+H/o aspiration pneumonia
+Legally blind
+H/o TB (treated at age 20)
+Glaucoma
+
+
+Social History:
+She currently lives in a nursing home. She is widowed. Denies
+alcohol, drug, or tobacco use.
+
+Family History:
+No family history of heart disease or dementia.
+
+Physical Exam:
+GEN: Intubated, sedated
+HEENT: PERRL, sclera anicteric, no epistaxis or rhinorrhea, MMM,
+OP Clear
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+lymphadenopathy, trachea midline
+COR: RRR, no M/G/R, normal S1 S2, radial pulses +2
+PULM: Coarse breath sounds anteriorly, no W/R/R
+ABD: Soft, NT, ND, +BS, no HSM, no masses
+EXT: No C/C/E, no palpable cords
+NEURO: Sedated. Moves all 4 extremities.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+
+
+
+Pertinent Results:
+Labwork on admission:
+[**2129-12-17**] 03:45PM   WBC-13.8*# RBC-2.74*# HGB-8.8* HCT-25.6*
+MCV-93 MCH-32.1* MCHC-34.5 RDW-15.4
+[**2129-12-17**] 03:45PM   NEUTS-47* BANDS-40* LYMPHS-2* MONOS-1* EOS-0
+BASOS-0 ATYPS-4* METAS-6* MYELOS-0
+[**2129-12-17**] 03:45PM   PT-13.2 PTT-38.2* INR(PT)-1.1
+[**2129-12-17**] 03:45PM   GLUCOSE-177* UREA N-49* CREAT-1.4*
+SODIUM-132* POTASSIUM-3.5 CHLORIDE-100 TOTAL CO2-23 ANION GAP-13
+[**2129-12-17**] 03:45PM   ALT(SGPT)-16 AST(SGOT)-38 CK(CPK)-64 ALK
+PHOS-65 TOT BILI-0.3
+[**2129-12-17**] 03:45PM   LIPASE-45
+
+Brief Hospital Course:
+87 year-old female with history of type 2 diabetes and dementia
+transferred from an outside hospital with sepsis from C.
+difficile colitis initially requiring pressors.  She was treated
+with flagyl IV and vancomycin PO.  She developed hypoxic
+respiratory failure in the setting of aggressive fluid
+rescucitation and was intubated prior to transfer.  Her course
+was complicated by NSTEMI in the setting of demand ischemia,
+acute renal failure, and ventilator-associated pneumonia.
+Extubation was attempted [**2129-12-24**], however, the patient
+developed hypercarbic respiratory failure after one and a half
+hours.  She was reintubated at that time.  Her respiratory
+failure was thought due to muscle weakness.  She continued to
+require pressure support ventilation.  After discussion with her
+son, the decision was made not to pursue tracheostomy.  The
+patient was terminally intubated [**2130-1-3**] and expired 22:13.
+Autopsy was declined.
+
+Medications on Admission:
+Calcium and Vitamin D
+Aspirin 81 daily
+Metformin 500 mg [**Hospital1 **]
+Prilosec 40 mg daily
+Mirtazeipne 22.5 qhs
+Celexa 20 mg daily
+Toprol XL 50 mg daily
+Lisinopril 2.5 mg daily
+Lipitor 80 mg daily
+Clarithromycin 500 mg [**Hospital1 **]
+Amoxicillin 1000 mg [**Hospital1 **]
+Sugar free supplement daily
+Collace
+Seena
+Artificial tears 1 drop TID
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary:
+Septic shock from C. difficile colitis
+Respiratory failure
+.
+Secondary:
+Type 2 diabetes
+Dementia
+Gastric ulcer
+History of aspiration pneumonia
+Legally blind
+History of tuberculosis (treated at age 20)
+Glaucoma
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+

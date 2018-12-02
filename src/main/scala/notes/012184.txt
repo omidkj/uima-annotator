@@ -1,0 +1,211 @@
+Admission Date:  [**2200-7-22**]              Discharge Date:   [**2200-7-31**]
+
+Date of Birth:  [**2123-10-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Iodine; Iodine Containing / Penicillins
+
+Attending:[**First Name3 (LF) 6195**]
+Chief Complaint:
+Fatigue, melena
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+Mr. [**Known lastname 56835**] is a 76 year old man with a history of hypertension,
+type II diabetes mellitus, ESRD on HD, rectal cancer s/p
+resection and partial colectmy who presented to the [**Hospital1 18**] ED
+with fatigue and a hematacrit drop noted at hemodialysis today.
+He last saw his PCP [**Last Name (NamePattern4) **] [**7-11**] and complained of fatigue. A CBC was
+checked and he had a hct of 31 when his previous hct in [**Month (only) 958**]
+was 40 (although he's bounced between the mid-20's and 40
+before). This morning, a hct was checked and it was noted to be
+19.6 and was 23.6 p dialysis after 3 kg was removed today. The
+stool in his colostomy was also noted to be guiac positive.
+
+The patient reports increasing DOE over the prior 3-4 weeks PTA,
+worse in the evening; "darkening" stool for 1-2 weeks PTA,
+increased amounts of gas. The patient has also complained of
+intermittent nausea and vomiting approximately for 1 hour after
+meals for about 2 weeks but only would vomit up food; denies
+hematemesis or coffee ground emesis. He has noted some
+lightheadedness and dizziness but no syncopal episodes. He
+reports non-radiating substernal chest pressure when nauseous
+that was often relieved by vomiting; denies associated
+diaphoresis or dyspnea; chest pressure not worse with exertion.
+.
+Denies prior episode of melanotic stools.
+.
+ROS: denies fevers, chills, weight loss, cough, orthopnea, PND,
+visual changes, abdominal pain, weakness, numbness/paresthesias.
+
+
+Past Medical History:
+rectal cancer s/p resction in [**2183**] (with XRT and chemo) and
+[**2189**]; has colostomy
+hypertension
+diabetes mellitis (resolved since lost weight w/ CA)
+end stage renal disease on hemodialysis x 12 years
+mitral regurg
+tonic-clonic seizure after HD in [**2190**]; none since
+Left retinal hemorrhage
+left temporal meningioma
+s/p cholecystectomy
+gallstone pancreatitis
+h/o AV graft clot [**12/2199**]
+cataracts
+
+
+Social History:
+Retired cryogenic engineer. Lives in [**Location (un) 55**] with wife.
+Quit smoking at age 40.  No EtOH.
+
+Family History:
+sister with CVA. Strong family history of DM
+
+Physical Exam:
+On Admission:
+VS: T 96.6 HR 106 BP 176/66 RR 23 Sat 100% RA
+Gen: Pleasant man in bed in no apparent distress.
+HEENT: NG tube in place with pink liquid. +upper/lower dentures,
+MMM. PERRL.
+Neck: Supple, NT. No cervical or supraclavicalar lymphadenopathy
+
+CV: III/VI HSM loudest at apex, II/VI crescendo-decrescendo
+murmur radiating to carotids.
+Pul: scant crackles at right base, otherwise clear
+Abd: Soft, NT, ND +BS
+Ext: no edema, DP 2+ bilaterally
+Neuro: A&O x3, no gross defecits
+
+On Transfer from MICU HD #3
+VS: T 98.6  HR 104, regular BP 110/48  RR 20 Sat 100% RA  Wt:
+140 lbs
+Gen: Pleasant man in bed in no apparent distress.
+HEENT: NCAT.  PERRL 3-->1. EOMI intact.  Muddy sclera.  MMM. OP
+non-erythematous and without lesions.  Neck supple without LAD.
+
+CV: RRR. III/VI HSM loudest at apex.  SEM at RUSB III/VI
+radiating to carotids.
+Pul: CTAB.
+Abd: Soft, NT, ND +BS. Dark brown stool in ostomy.
+Ext: no edema, DP 2+ bilaterally. No rashes. Joints: no
+swelling, no erythema, no warmth.
+Neuro: A&O x3.  CN II-XII intact.  Sensation grossly intact to
+LT.  Good distal UE and LE strength.
+
+Pertinent Results:
+Admission Laboratory Results:
+[**2200-7-22**] 08:40AM BLOOD WBC-7.1 RBC-2.29*# Hgb-6.9*# Hct-19.6*#
+MCV-86 MCH-30.3 MCHC-35.3* RDW-16.8* Plt Ct-307
+[**2200-7-22**] 11:50AM BLOOD Neuts-79.0* Lymphs-14.1* Monos-5.3
+Eos-1.2 Baso-0.4
+[**2200-7-22**] 08:40AM BLOOD Glucose-195* UreaN-70* Creat-7.1* Na-135
+K-3.8 Cl-93* HCO3-27 AnGap-19
+[**2200-7-22**] 08:40AM BLOOD Calcium-8.7 Phos-2.8#
+.
+Cardiac Enyzmes:
+[**2200-7-22**] 11:50AM BLOOD CK(CPK)-76
+[**2200-7-23**] 05:15PM BLOOD CK(CPK)-75
+[**2200-7-24**] 02:04AM BLOOD CK(CPK)-67
+[**2200-7-24**] 05:31PM BLOOD CK(CPK)-45
+[**2200-7-25**] 02:02AM BLOOD CK(CPK)-60
+[**2200-7-22**] 11:50AM BLOOD CK-MB-NotDone cTropnT-0.05*
+[**2200-7-23**] 05:15PM BLOOD CK-MB-NotDone cTropnT-0.05*
+[**2200-7-24**] 02:04AM BLOOD CK-MB-NotDone cTropnT-0.06*
+[**2200-7-24**] 09:59AM BLOOD CK-MB-3 cTropnT-0.06*
+[**2200-7-25**] 02:02AM BLOOD CK-MB-NotDone cTropnT-0.06*
+.
+Laboratory W/U for ?Liver Disease:
+[**2200-7-26**] 06:20AM BLOOD ALT-6 AST-11 AlkPhos-58 TotBili-0.2
+DirBili-0.2 IndBili-0.0
+[**2200-7-26**] 06:20AM BLOOD HBsAg-NEGATIVE HBsAb-BORDERLINE
+HBcAb-NEGATIVE
+[**2200-7-26**] 06:20AM BLOOD [**Doctor First Name **]-POSITIVE Titer-1:40
+[**2200-7-26**] 06:20AM BLOOD AFP-1.6
+[**2200-7-22**] 11:50AM BLOOD CEA-2.9
+[**2200-7-26**] 06:20AM BLOOD IgG-1126 IgA-452* IgM-38*
+[**2200-7-26**] 06:20AM BLOOD HCV Ab-NEGATIVE
+
+Work up for anemia:
+[**2200-7-27**] 06:05AM BLOOD calTIBC-135* Ferritn-1415* TRF-104*
+.
+ECG [**2200-7-22**]  11:29:20 AM
+Sinus rhythm with borderline 1st degree A-V block; Anterolateral
+ST-T changes are nonspecific.  Since previous tracing of
+[**2199-6-27**], no significant change
+.
+DUPLEX DOP ABD/PEL LIMITED  [**2200-7-24**] 4:53 PM
+1. Normal grayscale and Doppler examination of the liver. Air in
+the common duct could be related to the endoscopy of earlier
+today.
+2. Normal appearance of the spleen and a patent splenic vein at
+the hilum. The peripancreatic portions of the splenic vein could
+be assessed with CT or MRI, since the pancreatic bed was
+obscured by bowel gas.
+.
+CHEST (PORTABLE AP)  [**2200-7-25**] 11:59 PM
+IMPRESSION: Left costophrenic angle blunting which likely
+represents a small left pleural effusion. No other acute process
+is demonstrated.
+.
+[**2200-7-22**] EGD:
+Nodule in the middle third of the esophagus
+Enlarged gastric folds
+Blood in the stomach
+Polyps in the duodenal bulb
+No blood was seen in the duodenum.
+Otherwise normal EGD to second part of the duodenum
+.
+[**2200-7-24**] EGD:
+Enlarged gastric folds vs gastric varices were seen in the
+fundus. A blood clot and some fresh blood was seen.
+Polyp in the duodenum
+A very small nodule vs vein was seen in the mid esophagus. There
+was no bleeding.
+Blood in the stomach
+Otherwise normal EGD to second part of the duodenum
+.
+MRI ABDOMEN W/O & W/CONTRAST  [**2200-7-26**] 11:13 AM
+1) Soft tissue mass within the duodenum causing dilatation of
+the distal common bile duct. It is unclear, on this examination,
+if this mass arises from the ampulla or duodenal wall. Further
+evaluation of the distal CBD and pancreatic ducts should be
+performed with ERCP. However, if the sphincter cannot be
+assessed via ERCP, MR imaging of this region could be performed
+following duodenal distention with oral contrast (water).
+2) Pneumobilia; this may be related to a prior procedure, such
+as sphincterotomy.
+3) Cholecystectomy.
+4) Findings consistent with chronic pancreatitis.
+5) Hemosiderosis.
+6) Incompletely characterized left lower pole renal mass. It is
+felt that calcifications are causing the decreased signal on
+both T1 and T2-weighted images. Noncontrast CT would be helpful
+to confirm the presence of calcification.
+.
+ECHO Study Date of [**2200-7-29**]
+No echocardiographic evidence of endocarditis. Symmetric LVH
+with preserved global and regional biventricular systolic
+function. Moderate aortic stenosis with mild aortic
+regurgitation. Compared with the prior study (images reviewed)
+of [**2199-6-24**], aortic stenosis may have slightly progressed.
+Pulmonary hypertension is no longer appreciated. The other
+findings are similar.
+
+Brief Hospital Course:
+In summary, this is a 76 year old man with Type II DM, ESRD on
+HD, who present with 3-4 week history of fatigue, 1-2 weeks of
+"dark stool" found to be severely anemic, with melanotic stools.
+
+ED Course: NG lavage in the ED was notable for pink return with
+some small clots.  The pink color lightened but did not clear.
+His HR was stable in the 80's and his blood pressure was stable
+in the 130's systolic. He was given IV protonix and 1 u prbc and
+transferred to the MICU for further care.
+.
+ICU Course: In the ICU his hem

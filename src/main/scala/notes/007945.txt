@@ -1,0 +1,203 @@
+Admission Date:  [**2125-2-15**]              Discharge Date:   [**2125-2-27**]
+
+Date of Birth:  [**2046-10-16**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1406**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+1. Coronary artery bypass x 3 (Left internal mammary
+to left anterior descending artery, reverse saphenous vein
+grafts
+to the posterior descending artery and obtuse marginal artery)
+2.
+Aortic valve replacement with 19mm St. [**Male First Name (un) 923**] Epic tissue valve
+model#ESP [**Medical Record Number 82702**]
+
+
+History of Present Illness:
+78 year old woman with known aortic stenosis which has worsened,
+a recent cath revealed 3 Vessel coronary artery disease and she
+was transferred to [**Hospital1 18**] for surgical evaluation.
+
+
+Past Medical History:
+mild dementia, asthma, OA, hypothyroidism, mod AS,
+polymyalgia, anemia, afib, Right renal cyst, GERD, vaginal
+enterocele, PVD, open CCY ([**2105**])
+
+
+Social History:
+from [**Location (un) 32944**] Village
+
+
+Family History:
+non contributory
+
+Physical Exam:
+Pulse: 60 Resp: 18 O2 sat: 95 RA
+B/P    Left: 189/79
+Height:  4'[**26**]"   Weight:69
+
+General:obese
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally []distant breath sounds
+Heart: RRR [x]  Irregular []  Murmur II/VI SEM across precordium
+Abdomen: Soft [x] non-distended [x] non-tender []  bowel sounds
++
+[x]Tender right lower back, but no bruising and area is soft
+Extremities: Warm [x], well-perfused [x]  Edema
+(none)Varicosities: None [x] L leg with medial incision down
+length of leg
+Neuro: Gait disturbance, uses cane
+Pulses:
+Femoral      Right:1+   Left:1+
+DP           Right:d   Left:d
+PT           [**Name (NI) 167**]:d   Left:d
+Radial       Right:1+   Left:1+
+
+Carotid Bruit        Right: -   Left: -
+Right cardiac cath site with dressing clean, dry, intact.  No
+bruit, no hematoma noted at site.
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 82703**] (Complete)
+Done [**2125-2-20**] at 11:25:40 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 18**] - Department of Cardiac S
+[**Last Name (NamePattern1) 439**], 2A
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2046-10-16**]
+Age (years): 78 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Intraoperative TEE for CABG, AVR, ? Left atrial
+appendage resection
+ICD-9 Codes: 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2125-2-20**] at 11:25    Interpret MD: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Name Initial (MD) **] [**Name8 (MD) 4901**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW4-: Machine: AW1
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.8 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.5 cm  <= 5.2 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  3.9 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  65%  >= 55%
+Aorta - Ascending:  2.7 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.0 cm  <= 2.5 cm
+Aortic Valve - Peak Gradient:  *85 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  55 mm Hg
+Aortic Valve - LVOT diam:  1.7 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. Elongated LA. Mild
+spontaneous echo contrast in the body of the LA. No
+thrombus/mass in the body of the LA. Moderate to severe
+spontaneous echo contrast in the LAA. Good (>20 cm/s) LAA
+ejection velocity. No thrombus in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Dilated RA. A catheter or
+pacing wire is seen in the RA and extending into the RV. No ASD
+by 2D or color Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness, cavity size,
+and global systolic function (LVEF>55%). Suboptimal technical
+quality, a focal LV wall motion abnormality cannot be fully
+excluded.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Focal calcifications in aortic root. Normal ascending
+aorta diameter. Simple atheroma in ascending aorta. Focal
+calcifications in ascending aorta. Simple atheroma in aortic
+arch. Focal calcifications in aortic arch. Normal descending
+aorta diameter. Complex (>4mm) atheroma in the descending
+thoracic aorta. Focal calcifications in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Critical AS (area
+<0.8cm2). Trace AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Moderate mitral annular calcification. Mild (1+) MR.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized. Mild to
+moderate [[**2-10**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Physiologic (normal) PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. Left pleural effusion.
+Conclusions
+PRE BYPASS The left atrium is moderately dilated. The left
+atrium is elongated. Mild spontaneous echo contrast is seen in
+the body of the left atrium. No thrombus/mass is seen in the
+body of the left atrium. Moderate spontaneous echo contrast is
+present in the left atrial appendage. No thrombus is seen in the
+left atrial appendage. The right atrium is dilated. No atrial
+septal defect is seen by 2D or color Doppler. Left ventricular
+wall thickness, cavity size, and global systolic function are
+normal (LVEF>55%). Due to suboptimal technical quality, a focal
+wall motion abnormality cannot be fully excluded. Right
+ventricular chamber size and free wall motion are normal. There
+are simple atheroma in the ascending aorta. There are simple
+atheroma in the aortic arch. There are focal calcifications in
+the aortic arch. There are complex (>4mm) atheroma in the
+descending thoracic aorta. There are three aortic valve
+leaflets. The aortic valve leaflets are severely
+thickened/deformed. There is critical aortic valve stenosis
+(valve area <0.8cm2). Trace aortic regurgitation is seen. The
+mitral valve leaflets are moderately thickened. Mild (1+) mitral
+regurgitation is seen. There is a left pleural effusion. There
+is a trivial/physiologic pericardial effusion. Dr. [**Last Name (STitle) **] was
+notified in person of the results in the operating room at the
+time of the study.
+
+POST BYPASS The patient is being AV paced. There is normal
+biventricular systolic function. Thre is a bioprosthesis in the
+aortic position. It is well seated. The leaflets are not well
+seen. No aortic regurgitation is seen. The maximum gradient
+through the aortic valve is 27 mmHg with a mean gradient of 16
+mmHg at a cardiac output of 3.2 liters/minute. The effective
+orifice area is approximately 1.1 cm2. The tricuspid
+regurgitation appears slightly improved - now mild. The thoracic
+aorta appers intact. No other changes from the pre bypass
+findings.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD, Interpreting physician
+[**Last Name (NamePattern4) **] [**2125-2-20**] 13:57
+
+
+Brief Hospital Course:
+Transferred for surgical evaluation with known aortic stenosis
+and coronary artery disease.  Underwent preoperative workup
+including pulmonary function test, carotid ultrasound, and vein
+mapping.  CT scan revealed esophag

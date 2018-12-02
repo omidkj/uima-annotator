@@ -1,0 +1,210 @@
+Admission Date:  [**2103-8-7**]              Discharge Date:   [**2103-8-18**]
+
+Date of Birth:  [**2024-9-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Aspirin
+
+Attending:[**First Name3 (LF) 330**]
+Chief Complaint:
+Bright red blood per rectum
+
+Major Surgical or Invasive Procedure:
+Colonoscopy
+Bronchoscopy
+
+History of Present Illness:
+78F PMH colon CA, HTN, [**Hospital 76417**] transferred from
+NH with BRBPR and hematocrit drop. The patient had one episode
+of hematochezia the day of admission with drop in hematocrit
+from 27 [**8-3**] to 25 prior to transfer. She was hemodynamically
+stable with negative orthostatics. The patient was recently
+started on lovenox for atrial fibrillation. Lovenox was held
+[**2103-8-2**] due to guaiac positive stool. She denies current
+abdominal pain or pain prior to the hematochezia, nausea,
+vomiting, hematemesis, melena, rectal pain.
+
+In the ED, VS 98.2 131/48 81 97% 8L. Abdomen benign with guaiac
+positive brown stool on rectal exam. Laboratories significant
+for hematocrit 23 from baseline 27, creatinine 1.2 from baseline
+0.9-1.0. GI was notified. The patient was given morphine 4 mg IV
+x 1 for chronic right knee pain.
+
+Past Medical History:
+1)Ventillator dependence since [**1-5**] s/p trach (perhaps due to
+GBS), successfully decanulated in [**10-7**], however readmitted
+[**Date range (1) 76415**] for evaluation of small tracheal mass and
+desaturated in the setting of bronchoscopy and trach was
+replaced. AC 0.6/500/12/5
+2)Hypertension
+3)CHF
+4)DMII c/b neuropathy
+5)Anemia
+6)CAD
+7)Syncope
+8)hyperlipidemia
+9)COPD
+10)Atrial fibrillation
+
+Social History:
+Lives in [**Location 86**] area. Former smoker, quit 20 years ago. No
+current alcohol or IVDA.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+VS: 97.7 162/60 94 22 94% 15L
+GEN: Eldery woman, NAD
+HEENT: Sclera anicteric, PERRL, EOMI, OP clear, MM dry
+NECK: Supple, tracheostomy in place
+CV: RRR, no M/G/R
+PULM: Rhonchi anteriorly clearing with cough
+ABD: Obese, NABS, soft, NT, ND, PEG tube in place
+RECTAL: Guaiac positive brown stool per ED
+EXT: No C/C/E
+NEURO: AAOx3, CN II-XII grossly intact, moving all extremities
+
+Pertinent Results:
+echo [**2103-8-13**]:The left atrium is mildly dilated. The right atrial
+pressure is indeterminate. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and global
+systolic function (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. The right ventricular cavity is mildly dilated with
+depressed free wall contractility of the mid-wall. The basal and
+apical right ventricular free wall contract normally. The aortic
+valve leaflets appear structurally normal with good leaflet
+excursion. No aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is at least mild pulmonary artery systolic hypertension.
+There is an anterior space which most likely represents a fat
+pad.
+
+IMPRESSION: Suboptimal image quality. Right ventricular cavity
+enlargement with focal free wall hypokinesis. At least mild
+pulmonary artery systolic hypertension. Mild symmetric left
+ventricular hypertrophy with preserved global and regional
+biventricular systolic function.
+Is there a history to suggest right ventricular ischemia? A
+primary pulmonary (pulmonary embolism, bronchospasm etc.)
+process cannot be excluded.
+.
+CT trache [**2103-8-8**]:
+1. Moderate subglottic stenosis, distal to the tracheostomy with
+minimal
+luminal diameter of 6 mm.
+2. Tracheobronchomalacia and moderate multifocal expiratory air
+trapping.
+3. Scattered ground-glass opacity in the right upper lobe and
+bilateral lower lobes, which may represent aspiration and/or
+atelectasis.
+4. Dilatation of the main pulmonary artery consistent with mild
+pulmonary
+arterial hypertension.
+5. Atherosclerosis.
+.
+[**2103-8-12**] Sputum:
+RESPIRATORY CULTURE (Preliminary):
+      OROPHARYNGEAL FLORA ABSENT.
+      ACINETOBACTER BAUMANNII COMPLEX.    SPARSE GROWTH.
+         "Note, for Amp/sulbactam, higher-than-standard dosing
+needs to be
+         used, since therapeutic efficacy relies on intrinsic
+activity of
+         the sulbactam component".
+      STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA.    SPARSE
+GROWTH.
+         sensitivity testing performed by Microscan.
+         CHLORAMPHENICOL RESISTANT MINIMAL INHIBITORY
+CONCENTRATION: >16
+         MCG/ML.
+         TIMENTIN RESISTANT MINIMAL INHIBITORY CONCENTRATION:
+>64 MCG/ML.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ACINETOBACTER BAUMANNII COMPLEX
+                             |          STENOTROPHOMONAS
+(XANTHOMONAS) MALTOPH
+                             |          |
+AMPICILLIN/SULBACTAM--     4 S
+CEFEPIME--------------    16 I
+CEFTAZIDIME-----------  =>64 R     =>16 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------     8 I
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+
+Brief Hospital Course:
+Mrs. [**Known lastname 46**] is a 78 year old female with a PMH sig for colon CA,
+HTN, trach dependent transferred from a NH for BRBPR and HCT
+drop with hospital course complicated by hypoxemia which
+required transfer to the icu. Now s/p Y-stent placement for
+tracheobronchomalacia, upsizing of tracheostomy tube to 7
+french. Course complicated by a acinetobacter and
+stenotrophomanas pneumona. Day [**4-13**] of bactrim and unasyn on the
+day of discharge.
+
+1. BRBPR/Anemia: The patient had a HCT that trended down during
+her hospital course from 23.5 on admission to 19.4.  Due to her
+potential for a complicated airway, she had a colonoscopy
+performed in the OR, which demonstrated "Ulceration in the
+hepatic flexure, Angioectasia in the ileo-cecal valve,
+Diverticulosis of the ascending colon,
+Grade 2 internal hemorrhoids, Congested veins seen in distal
+sigmoid colon. Otherwise normal colonoscopy to cecum. She
+received 3 units of pRBCs during her stay. Her HCT was at
+baseline on discharge. Her bleeding was likely a deverticular
+bleed which resolved.
+
+2. Tracheobronchomalacia: On the morning after admission, the
+patient's oxygen saturation fell to the high 50% range and she
+felt very dyspneic.  The nursing staff reported that they had
+difficulty advancing the suction catheter through her trach tube
+during this episode.  Her O2 saturations self-resolved.  A
+bronchoscopy was performed that which demonstrated severe
+tracheobroncheomalacia.  Interventional pulmonology evaluated
+the patient and she had a dynamic airway CT subsequently had a Y
+stent placed to treat her tracheobronchomalacia. She also had
+upsizing of her tracheostomy to a 7 french tube. She had copious
+secretions after Y-stent which was expected. She required
+increased ventilatory support during her stay. On discharge to
+the rehabilitation facility she remained on vent support with
+the gal to wean vent to trach mask.  She will follow up with
+interventional pulmonology for further plan for decanulation.
+.
+3. Acute renal failure: Patient has baseline Cr 0.9-1.0, her
+renal function improved with hydration.
+.
+4. Leuokocytosis: patient had an acinetobacter and
+stenotrophomanas pneumonia which was treated with bactrim/unasyn
+day [**4-13**] on day of discharge.
+.
+5. Hypertension: The patient was hypotensive during her icu
+stay, likely secondary to her pneumonia. Her blood pressure
+improved and again was elevated and she was restarted on
+lopressor and amlodipine. She also had burst of tachycardia
+which were controlled with restarting of her beta blocker. Her
+blood pressure medications should be uptitrated as needed.
+.
+6. Diabetes mellitus: controlled with regular insulin sliding
+scale and 28 units of glargine at bedtime.
+
+7. COPD: Continued on combivent
+
+8. Atrial fibrillation: Currently in normal sinus. She was
+initially on lovenox for anticoagulation on transfer from
+rehabilitation. Lovenox was stopped due to the gastrointestinal
+bleeding. At this time she should not be anticoagulated due to
+her bleeding. Continue beta blocker for rate control.
+
+9. CHF: an echo showed right heart failure with focal free wall
+hypokinesis and [**1-3

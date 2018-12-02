@@ -1,0 +1,164 @@
+Admission Date:  [**2198-1-26**]              Discharge Date:   [**2198-3-5**]
+
+Date of Birth:  [**2138-11-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 4377**]
+Chief Complaint:
+Neutropenic fever, diffuse large B-cell lymphoma.
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 59 year-old man with a history of diffuse large
+B-cell lymphoma s/p IVAC D11 who presents with fever, nausea and
+vomiting of 1 day duration. He was feeling overall well until
+this morning when he developed a fever of 102. He vomited twice
+(bilious, non-bloody). Denies abdominal pain or diarrhea. Denies
+cough, sore throat, rhinorrhea or headache. Denies sick contacts
+though was concerned his milk was old. Denies shortness of
+breath or chest pain. Denies rashes. Does report increased
+urinary frequency but no dysuria. Yesterday he went to his
+outpatient oncology appointment, received 1 unit platelets with
+no complications and felt well enough to walk home.
+.
+In the ED, initial vitals were T 100.3, BP 112/89, HR 94, RR 18,
+100% NRB. During ED course Tmax 102.7. He was noted to be in
+AFib at a rate of 135-160 which improved without intervention.
+O2 sat 98-100% 2L. BP dropped to 76 and he was given 5L NS and
+started on levophed. He received vancomycin and cefepime before
+being transferred to the ICU. On arrival to the ICU patient was
+actively rigoring.
+.
+Patient recently admitted [**Date range (3) 21959**] and treated with IVAC
+chemotherapy x 5 days which was complicated by neutropenia,
+thrombocytopenia, dizziness and diarrhea. Hospital stay was also
+complicated by Atrial Fibrillation treated with metoprolol and
+digoxin. Patient also has history of pulmonary embolism ([**10-15**]
+admission) felt to be secondary to right atrial
+catheter-associated thrombus complicated by likely TIA/amaurosis
+fugax. Patient was treated with fondaparinux but this was then
+stopped last admission due to thrombocytopenia.
+.
+ROS: The patient denies melena, hematochezia, chest pain,
+shortness of breath, orthopnea, PND, lower extremity edema,
+cough, lightheadedness, gait unsteadiness, focal weakness,
+vision changes, headache, rash or skin changes.
+
+Past Medical History:
+ONCOLOGIC HISTORY:
+Mr. [**Known lastname **] initially presented in early [**6-/2197**] with fever, weight
+loss, and muscle and joint aches. He was diagnosed with PMR and
+started on prednisone with improvement in his symptoms. During
+the preceding six months, he reported a history of the
+generalized body pain as well as fatigue, weakness, and poor
+appetite. He also reported periodic fevers, drenching night
+sweats, and a 25-pound weight loss also over the same six
+months. Marked improvement of both his musculoskeletal and
+constitutional symptoms after prednisone treatment. He then
+presented to the emergency room on [**2197-7-17**] with palpitations
+and dizziness and was found to be in atrial fibrillation. He has
+had a history of PAF in the past. He was febrile to 101.6 with a
+heart rate of 126. CT scan of the chest, abdomen, and pelvis on
+showed multiple low-attenuation lesions within the liver,
+spleen, and kidneys with characteristics felt atypical for
+lymphoma. A follow-up MRI of the abdomen showed hypovascular
+masses in both kidneys and spleen of various sizes consistent
+with lymphoma. Mr. [**Known lastname **] then underwent bone marrow aspirate and
+biopsy on [**2197-7-26**], which showed extensive necrosis with focal
+involvement by a high-grade B-cell lymphoma, diffuse large
+B-cell type. FISH translocation was notable for c-Myc and Bcl-2
+indicating a "double hit" lymphoma characterized by a
+Burkitt's-like lymphoma.
+.
+Mr. [**Known lastname **] has overall tolerated his chemotherapy relatively well.
+He has continued on his Fondaparinux daily when on [**2197-11-16**],
+he noted sudden onset sudden of a dark cover in the lower half
+of the visual field in his right eye, which lasted [**10-20**]
+minutes, then self-resolved. He presented to the emergency room
+for evaluation. TEE revealed thrombus at the tip of his right
+atrial catheter, with no PFO. Ophthalmology work up was negative
+and the episode was attributed to TIA with recommendation to
+continue fondaparinux. He was discharged on [**2197-11-18**] with no
+further episodes.
+.
+TREATMENT HISTORY:
+1. Initiated treatment with [**Hospital1 **] chemotherapy on [**2197-7-29**]
+with two doses of Rituxan on [**2197-8-2**] and [**2197-8-3**]. Follow
+up CT imaging on [**2197-8-5**] showed stable lymphomatous lesions
+in the kidney, spleen, and abdominal nodes.
+2. Rituxan 500 mg given on [**2197-8-10**] with a fever that evening
+and admission for neutropenia. During admission, noted for
+atrial fibrillation with RVR and was started on digoxin at 0.125
+mg daily along with metoprolol 200 mg daily.
+3. Readmitted on [**2197-8-18**] for his second cycle of [**Hospital1 **]
+chemotherapy, which was delayed for two days due to hypotension
+and cough. A CT of the chest showed bilateral lower lobe
+opacities, right greater than left, concerning for infection and
+he was treated with a course of Levaquin.
+4. On [**2197-8-30**], received Rituxan at 375 mg/m2.
+5. Follow up PET scan on [**2194-9-6**] showed no evidence for
+lymphoma but was notable for multiple peripheral base pulmonary
+opacities with rims of soft tissue density and relative central
+lucencies most of which were new. He underwent CT of the chest
+for further evaluation, which showed multiple filling defects
+within the segmental and subsegmental branches of the right
+lower lobe arteries compatible with pulmonary emboli.
+6. Admitted on [**2197-9-7**] for initiation of anticoagulation with
+fondaparinux and began third cycle of treatment with [**Hospital1 **] on
+[**2197-9-8**](dose level 2)
+7. Received Rituxan 375 mg/m2 on [**2197-9-25**].
+8. Admitted on [**2197-9-29**] for fourth cycle of treatment with
+[**Hospital1 **](dose level 3).
+9. Received Rituxan 375 mg/m2 on [**2197-10-17**].
+10. Admitted on [**2197-10-20**] for fifth cycle of treatment with
+[**Hospital1 **](dose level 3 with Adriamycin at dose level 2. Received
+Rituxan on [**2197-11-7**].
+11. Admitted on [**2197-11-23**] for high-dose cyclophosphamide.
+12. Admitted on [**2198-1-15**] for IVAC (originally admitted for
+high-dose MTX, but PET scan showed progressive disease).
+.
+OTHER MEDICAL HISTORY:
+1. Diffuse large B-cell lymphoma, Burkitt's like with c-Myc and
+Bcl-2 positivity s/p [**Hospital1 **] x 5 cycles and multiple rituxan
+infusions. He has had recurrent disease within 2 - 3 months of
+his last treatment. Patient recently admitted [**Date range (3) 21959**]
+for CNS prophylaxis with high-dose MTX for his aggressive
+lymphoma. However, PET scan prior to admission was concerning
+for rapidly progressive disease and CT torso on admission agreed
+with these findings and his LDH continued to rise. He was
+therefore started on IVAC chemotherapy x5 days and discharged on
+neupogen.
+2. PAF diagnosed in [**2180**] with now chronic atrial fibrillation in
+the past several months. He had no history of treatment with
+anti-arrhythmia or anticoagulation prior to his admission in
+[**8-/2197**], currently receiving treatment with metoprolol and
+digoxin.
+3. Pulmonary embolism, currently receiving treatment with
+fondaparinux.
+4. Polymyalgia rheumatica diagnosed in [**2197**] and managed by Dr.
+[**Last Name (STitle) **], although further treatment on hold while getting
+treatment for lymphoma and unclear if his symptoms were related
+to lymphoma and not PMR.
+5. Remote history of syphilis, gonorrhea, and genital herpes in
+[**2160**].
+6. Tonsillectomy and adenoidectomy in the [**2137**].
+7. Myopia.
+8. Recent probable TIA with from thrombus on right atrial
+catheter tip
+
+Social History:
+Mr. [**Known lastname **] is married and lives in [**Location **]. He previously worked
+as a software engineer, but now works without pay from home
+contributing to open source software projects. He gas two adult
+children but has minimal contact with them. He is a nonsmoker,
+drinks alcohol on occasion, and denies any history of illicit
+drugs.
+
+Family History:
+Father had an MI in his 70s

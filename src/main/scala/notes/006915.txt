@@ -1,0 +1,227 @@
+Admission Date:  [**2153-11-30**]              Discharge Date:   [**2153-12-13**]
+
+Date of Birth:  [**2086-8-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 358**]
+Chief Complaint:
+SOB, Fatigue
+
+Major Surgical or Invasive Procedure:
+Thoracostomy
+Intubation
+
+History of Present Illness:
+67 y.o. woman with history of DM presents with 5 days of
+malaise, cough, chills, subjective fevers and poor appetitite.
+She also reports loose stool (non bloody) x 4 today.  Also w/ L
+shoulder pain x few days. No CP/palps. No urinary sx.
+.
+In the ED: VS: 97.3, 118, 114/66, 20-30, 90% RA.   Given
+Levofloxacin 500 mg and NS 2L IV.
+
+
+Past Medical History:
+type 2 DM
+hypercholesterolemia
+
+
+Social History:
+Originally from [**Country **]. No smoking, no alcohol, no drug use.
+Lives alone. Has adult daughter.
+
+Family History:
+non-contributory  --mother alive and well, father died of old
+age.
+
+
+Physical Exam:
+VS: Temp: 98.3, BP 130/80, HR 81, RR 20 Sat 95% RA
+GEN: pleasant, NAD, elderly female
+HEENT: PERRL, EOMI, anicteric, op with [**Female First Name (un) **]
+NECK: no supraclavicular or cervical lymphadenopathy, no jvd, no
+carotid bruits, no thyromegaly or thyroid nodules
+RESP: rales bilaterally, chest tube site clean, dry, intact
+CV: tachy, RR, S1 and S2 wnl, no m/r/g
+ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+EXT: no c/c/e, warm, good pulses.  Pain w/ active ROM L
+shoulder. non tender to palp.
+SKIN: no rashes/no jaundice
+NEURO: AAOx3. Cn II-XII intact.
+
+Pertinent Results:
+[**2153-11-30**] 04:55PM BLOOD WBC-9.2 RBC-3.22* Hgb-10.5* Hct-30.9*
+MCV-96 MCH-32.7* MCHC-34.1 RDW-13.1 Plt Ct-260
+
+[**2153-12-2**] 06:31AM BLOOD WBC-20.5*# RBC-2.66* Hgb-8.8* Hct-26.3*
+MCV-99* MCH-33.3* MCHC-33.6 RDW-13.1 Plt Ct-210#
+[**2153-12-6**] 05:08AM BLOOD WBC-15.9* RBC-2.85* Hgb-9.4* Hct-26.9*
+MCV-94 MCH-33.0* MCHC-34.9 RDW-13.6 Plt Ct-180
+[**2153-11-30**] 04:55PM BLOOD Neuts-73* Bands-18* Lymphs-1* Monos-2
+Eos-0 Baso-0 Atyps-1* Metas-5* Myelos-0
+[**2153-11-30**] 04:55PM BLOOD PT-13.7* PTT-30.3 INR(PT)-1.2*
+[**2153-12-5**] 03:55AM BLOOD PT-14.6* PTT-34.1 INR(PT)-1.3*
+[**2153-11-30**] 04:55PM BLOOD Glucose-287* UreaN-19 Creat-0.7 Na-121*
+K-3.8 Cl-88* HCO3-23 AnGap-14
+[**2153-12-1**] 02:05AM BLOOD Glucose-135* UreaN-16 Creat-0.5 Na-130*
+K-3.1* Cl-98 HCO3-23 AnGap-12
+[**2153-12-2**] 06:31AM BLOOD Glucose-127* UreaN-14 Creat-0.5 Na-135
+K-5.3* Cl-108 HCO3-17* AnGap-15
+[**2153-12-6**] 05:08AM BLOOD Glucose-107* UreaN-32* Creat-0.5 Na-145
+K-3.8 Cl-115* HCO3-25 AnGap-9
+[**2153-12-1**] 02:35PM BLOOD ALT-24 AST-38 AlkPhos-86 TotBili-0.5
+[**2153-12-2**] 01:55PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2153-12-3**] 06:08AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2153-12-4**] 06:02AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2153-11-30**] 11:01PM BLOOD TotProt-4.7* Albumin-2.1* Globuln-2.6
+[**2153-12-6**] 05:08AM BLOOD Albumin-1.7* Calcium-7.2* Phos-2.9 Mg-2.1
+[**2153-11-30**] 11:05PM BLOOD Type-ART Temp-36.6 pO2-84 pCO2-40 pH-7.40
+calTCO2-26 Base XS-0 Intubat-NOT INTUBA
+[**2153-11-30**] 05:04PM BLOOD Lactate-2.5*
+[**2153-12-1**] 03:46AM BLOOD Lactate-1.5
+[**2153-12-6**] 12:53AM BLOOD Lactate-2.1*
+.
+[**2153-11-30**] 6:05 pm BLOOD CULTURE
+
+                            **FINAL REPORT [**2153-12-4**]**
+
+   Blood Culture, Routine (Final [**2153-12-4**]):
+      STREPTOCOCCUS PNEUMONIAE.    FINAL SENSITIVITIES.
+         Note: For treatment of meningitis, ceftriaxone MIC
+breakpoints are
+         <=0.5 ug/ml (S), 1.0 ug/ml (I), and >= 2.0 ug/ml (R).
+         MEROPENEM Sensitivity testing performed by Etest.
+         MEROPENEM SENSITIVE @ .008 MCG/ML.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STREPTOCOCCUS PNEUMONIAE
+                             |
+CEFTRIAXONE-----------<=0.06 S
+LEVOFLOXACIN----------     1 S
+PENICILLIN------------<=0.06 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+
+   Aerobic Bottle Gram Stain (Final [**2153-12-1**]):
+      REPORTED BY PHONE TO [**Doctor Last Name **] KADURA @ 6:05A [**2153-12-1**].
+      GRAM POSITIVE COCCUS(COCCI).    IN PAIRS AND CHAINS.
+
+   Anaerobic Bottle Gram Stain (Final [**2153-12-1**]):
+      GRAM POSITIVE COCCUS(COCCI).    IN PAIRS AND CHAINS.
+
+.
+[**2153-12-1**] 1:00 am PLEURAL FLUID
+
+                            **FINAL REPORT [**2153-12-6**]**
+
+   GRAM STAIN (Final [**2153-12-1**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      REPORTED BY PHONE TO [**Last Name (un) **] [**Location (un) **] @ 3:07A [**2153-12-1**].
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+
+   FLUID CULTURE (Final [**2153-12-4**]):
+      STREPTOCOCCUS PNEUMONIAE.    SPARSE GROWTH.
+         Note: For treatment of meningitis, ceftriaxone MIC
+breakpoints are
+         <=0.5 ug/ml (S), 1.0 ug/ml (I), and >= 2.0 ug/ml (R).
+         SENSITIVE TO MEROPENEM (0.12 MCG/ML).
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STREPTOCOCCUS PNEUMONIAE
+                             |
+CEFTRIAXONE-----------<=0.06 S
+ERYTHROMYCIN----------<=0.06 S
+LEVOFLOXACIN----------     1 S
+MEROPENEM-------------       S
+PENICILLIN------------<=0.06 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+
+   ANAEROBIC CULTURE (Final [**2153-12-5**]):    NO ANAEROBES ISOLATED.
+
+
+[**2153-12-1**] 01:00AM PLEURAL WBC-5325* RBC-1460* Polys-86* Lymphs-0
+Monos-0 Meso-2* Macro-12*
+[**2153-12-1**] 02:35PM PLEURAL WBC-1400* RBC-[**Numeric Identifier 2596**]* Polys-94* Bands-2*
+Lymphs-0 Monos-4*
+[**2153-12-1**] 01:00AM PLEURAL TotProt-3.1 Glucose-118 LD(LDH)-1569
+Amylase-14 Albumin-1.6
+[**2153-12-1**] 02:35PM PLEURAL TotProt-2.1 Glucose-103 Creat-0.5
+LD(LDH)-1378 Amylase-10 Albumin-1.0
+[**2153-12-5**] 12:52PM JOINT FLUID WBC-[**Numeric Identifier **]* RBC-[**Numeric Identifier **]* Polys-97*
+Lymphs-1 Monos-2
+[**2153-12-5**] 12:52PM JOINT FLUID Crystal-NONE
+.
+CT CHEST W/O CONTRAST  [**2153-12-4**] 2:48 PM
+
+CT CHEST W/O CONTRAST
+
+Reason: Please assess for fluid collections. Please do without
+contr
+
+[**Hospital 93**] MEDICAL CONDITION:
+67 year old woman with multifocal pneumonia, effusions.
+REASON FOR THIS EXAMINATION:
+Please assess for fluid collections. Please do without contrast.
+
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Followup after multiple chest radiographs.
+
+TECHNIQUE: Volumetric CT acquisition over the entire thorax from
+the thoracic inlet to the thoracic outlet.
+
+COMPARISONS: No comparison available.
+
+FINDINGS: The lung parenchyma shows a heterogeneous pattern of
+opacities and consolidations. In both lungs, this pattern has
+very dense and almost completely collapsed lung parts in the
+dorsal lung regions and relatively well expanded areas of the
+lung in the ventral lung regions. In between, there are areas of
+ground-glass opacities and opacities with air bronchograms, that
+follow a clear ventro-dorsal gradient. An endotracheal tube is
+in regular position; a chest tube in the left hemithorax is in
+standard position. A nasogastric tube is in place. In the right
+hemithorax, there is 4-5 cm broad pleural effusion. On soft
+tissue window, slight pericardial effusion is seen. No
+pathologically enlarged lymph nodes in the mediastinum and at
+the hila.
+
+IMPRESSION: The patent and distribution of lung parenchymal
+changes corresponds to the imaged typically seen in ARDS. Chest
+tube left, moderate pleural effusion right. No lymphadenopathy.
+.
+CHEST (PA & LAT)  [**2153-11-30**] 5:32 PM
+
+CHEST (PA & LAT)
+
+Reason: r/o pna
+
+[**Hospital 93**] MEDICAL CONDITION:
+67 year old woman with cough and rales at left lung base
+REASON FOR THIS EXAMINATION:
+r/o pna
+CLINICAL INDICATION: 67-year-old woman with cough and rales at
+the left lung base, rule out pneumonia.
+
+COMPARISON: None.
+
+PA AND LATERAL CHEST: There are multifocal bilateral patchy
+opacities, left greater than right, consistent with multifocal
+pneumonia. Rec

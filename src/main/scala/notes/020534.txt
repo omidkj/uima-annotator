@@ -1,0 +1,176 @@
+Admission Date:  [**2114-3-7**]              Discharge Date:   [**2114-3-9**]
+
+Date of Birth:  [**2038-3-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+respiratory failure/pulmonary embolus
+
+Major Surgical or Invasive Procedure:
+intubation
+
+History of Present Illness:
+Mr. [**Known lastname 61867**] is a 75 yo male with a history of TBI, GI bleed in
+[**2111**], CKI, prostate cancer, and recent discharge from [**Hospital1 18**] on
+[**2114-2-14**] for aspiration pneumonia, who was noted at his rehab on
+the morning of [**2114-3-6**] to be SOB with an oxygen sat of 94% on RA.
+Per OSH records, the patient stated that he had felt SOB for two
+days, but denied cough, CP, N/V/D/C, leg pain or LE swelling. A
+CXR at the rehab on [**2114-3-6**] was normal however the patient
+developed an oxygen requirement, satting 93-95% on 2L NC.
+Despite treatment with q4H duonebs, he continued to experience
+SOB, difficulty breathing, and agitation. He was brought by EMS
+to NWH on [**2114-3-7**] where he was found to be A=Ox3,with vitals: T:
+98, BP: 139/60, P: 75, RR: 32, and POx of 88% on RA. EKG showed
+no change from previous. Labs were notable for a elevated
+d-dimer of 3.4 and Cr 1.3. A CTA chest at the OSH showed
+multiple PEs. Although he remained HD stable, he began to have
+increasing work of breathing and was subsequently intubated. He
+was given 70 mg of Lovenox,500cc bolus of NS, and duonebs at
+OSH. At the time of transfer to [**Hospital1 18**] vitals were: BP 159/85 RR
+17 100% AC 550x16 Fi02 100.
+.
+In the ED, initial vs were: afebrile, P: 82, BP: 139/48, RR: 17,
+O2 sat 99% vented. The patient was transferred to the [**Hospital Unit Name 153**] for
+further management. EKG showed LBBB but NSR.
+.
+On the floor, the patient was sedated and intubated. Vitals
+were: T: 101F, P: 69, RR: 18, BP: 122/52, with oxygen sat of 99%
+on FiO2 100, VT 550, f 16, PEEP 5.
+.
+Review of sytems: unable to obtain.
+
+
+Past Medical History:
+- Complex regional pain syndrome
+- Traumatic brain injury s/p remote MVC in [**2054**], slurred speech
+and R hemiplegia at [**Year (4 digits) 5348**]
+- Prostate ca ([**9-/2109**]--operated by Dr. [**Last Name (STitle) 770**]
+- CRI
+- h/o GI bleed admitted [**4-/2113**] --EGD with esophageal ulcers and
+antral gastritis.
+- h/o Barrett's esophagus
+- Iron deficiency anemia
+- Thrombocytopenia
+- HTN
+- Incontinence
+- h/o LBBB
+
+
+Social History:
+Lives at [**Hospital 8218**] Rehab. Tob x 15 yrs (stopped 40 yrs ago), no
+ETOH recently (though may have had Etoh hx), no IVDU. Sister is
+[**Name (NI) **], guardian: [**Name (NI) 16883**] [**Telephone/Fax (1) 61863**] (home: [**Telephone/Fax (1) 61868**]). Fully
+dependent for ADLs.
+
+Family History:
+n/c
+
+Physical Exam:
+General: sedated and intubated
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP 8cm, no LAD
+Lungs: diffuse rhonchi, no wheezes/rales
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+
+no rebound tenderness or guarding, no organomegaly
+GU: foley in place draining clear yellow urine.
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis,
+edema.
+
+
+Pertinent Results:
+[**2114-3-7**] CXR: IMPRESSION:
+1. ET tube approximately 2.4 cm above the carina.
+2. Mild fluid overload.
+3. Basilar atelectasis. However, developing infection cannot be
+excluded.
+
+[**2114-3-7**] CXR: FINDINGS: In comparison with study of [**2-9**], there is
+now an endotracheal tube in place with its tip approximately 2.8
+cm above the carina. Nasogastric tube extends into the distal
+stomach. There is enlargement of the cardiac silhouette with
+bilateral pleural effusions and extension of fluid into the
+minor fissure on the right. Retrocardiac opacification is
+consistent with volume loss or, in the appropriate setting,
+consolidation in the left lower lobe.
+
+[**2114-3-7**] 06:15PM BLOOD Glucose-159* UreaN-22* Creat-1.4* Na-141
+K-4.8 Cl-106 HCO3-23 AnGap-17
+[**2114-3-7**] 06:15PM BLOOD PT-13.0 PTT-30.3 INR(PT)-1.1
+[**2114-3-7**] 06:15PM BLOOD CK(CPK)-54
+[**2114-3-7**] 06:15PM BLOOD cTropnT-<0.01
+[**2114-3-7**] 09:59PM BLOOD Type-ART Rates-/16 Tidal V-550 PEEP-5
+FiO2-100 pO2-108* pCO2-33* pH-7.43 calTCO2-23 Base XS-0
+AADO2-572 REQ O2-94 -ASSIST/CON Intubat-INTUBATED
+
+Brief Hospital Course:
+75 year old male with a history of TBI, GI bleed in [**2113**], CKI,
+prostate cancer, and recent discharge from [**Hospital1 18**] on [**2114-2-14**] for
+aspiration pneumonia, now admitted for respiratory distress
+associated with multiple pulmonary emboli.
+
+# Multiple pulmonary emboli: Patient with multiple pulmonary
+emboli likely secondary to immobility and malignancy. He was
+admitted to the ICU having already been intubated at an OSH due
+to respiratory failure despite his HCP's wishes that the patient
+not be intubated or resuscitated. He remained hemodynamically
+stable and was placed on Lovenox for treatment of his pulmonary
+emboli, but following discussion with the primary team, the HCP
+decided to extubate the patient and to provide only comfort
+measures if the patient's respiratory status began to
+deteriorate. The patient was extubated and placed on Morphine
+for comfort. He passed away early the next day. His HCP gave
+consent for an autopsy.
+
+# Fever: Patient with fever thought to be secondary to pulmonary
+emboli, but given his history of recent hospitalization for
+aspiration PNA, blood, sputum, and urine cultures were sent to
+rule out an infectious etiology. Active surveillance for
+infection was stopped after discussion with the patient's
+caregiver.
+
+# Chronic Renal Insufficiency: Not an active issue. Patient's
+creatinine on admission was noted to be 1.4 which was at
+patient's [**Date Range 5348**] of 1.3-1.7.
+
+
+
+
+
+Medications on Admission:
+Lyrica
+Simvastatin
+Omeprazole
+Metoprolol Tartrate
+Folic Acid
+Flomax
+Docusate Sodium
+Ferrous Sulfate
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+pulmonary embolus
+respiratory failure
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

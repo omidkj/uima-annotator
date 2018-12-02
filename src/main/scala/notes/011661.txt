@@ -1,0 +1,229 @@
+Admission Date:  [**2174-2-3**]              Discharge Date:   [**2174-2-14**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Protamine Sulfate / Gluten / Milk / Wheat Flour
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+palpitations
+
+Major Surgical or Invasive Procedure:
+[**2174-2-3**] cardiac catherization
+[**2174-2-8**] Mitral Valve Replacement (25mm [**Company 1543**] mosaic
+porcine), MAZE procedure with left atrial appendage ligation
+
+
+History of Present Illness:
+85 year old female with history atrial fibrillation admitted for
+dofetilide initation.  Has known history of mitral stenosis
+based on echocardiogram.
+
+
+Past Medical History:
+Paroxysmal atrial fibrillation
+Rheumatic heart disease
+Moderate-to-severe mitral stenosis
+Hypertension
+Hypothyroidism
+Glaucoma
+Osteoporosis
+
+Social History:
+She currently lives alone but has a daughter
+Retired
+[**Name2 (NI) 1139**] denies
+ETOH denies
+
+Family History:
+non contributory
+
+Physical Exam:
+VS -  97.9, 125/69, 70s, 97% RA
+Gen: WDWN middle aged female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Neck: Supple with JVP of *** cm.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+[**2174-2-13**] 06:40AM BLOOD WBC-9.0 RBC-3.42* Hgb-10.6* Hct-30.9*
+MCV-90 MCH-30.9 MCHC-34.2 RDW-17.0* Plt Ct-204
+[**2174-2-3**] 12:40PM BLOOD WBC-6.3 RBC-3.34* Hgb-10.8* Hct-32.6*
+MCV-97 MCH-32.3* MCHC-33.1 RDW-15.6* Plt Ct-300
+[**2174-2-13**] 06:40AM BLOOD Plt Ct-204
+[**2174-2-13**] 06:40AM BLOOD PT-13.8* INR(PT)-1.2*
+[**2174-2-3**] 07:50AM BLOOD PT-14.6* INR(PT)-1.3*
+[**2174-2-8**] 12:27PM BLOOD Fibrino-83*
+[**2174-2-14**] 10:57AM BLOOD K-4.3
+[**2174-2-13**] 06:40AM BLOOD Glucose-61* UreaN-18 Creat-0.8 Na-134
+K-3.7 Cl-96 HCO3-33* AnGap-9
+[**2174-2-3**] 12:40PM BLOOD Glucose-121* UreaN-13 Creat-0.9 Na-139
+K-4.7 Cl-104 HCO3-26 AnGap-14
+[**2174-2-12**] 09:21AM BLOOD ALT-26 AST-29 AlkPhos-49 Amylase-36
+TotBili-1.8*
+[**2174-2-14**] 10:57AM BLOOD Mg-2.3
+[**2174-2-4**] 06:20AM BLOOD %HbA1c-5.9
+[**2174-2-3**] 12:40PM BLOOD TSH-4.2
+[**2174-2-12**] 09:21AM BLOOD Cortsol-25.1*
+
+[**Last Name (LF) **],[**First Name3 (LF) **] CSURG FA6A [**2174-2-14**] 9:15 AM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 77012**]
+Reason: f/u effusions/atx
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   85 year old woman with s/p MVR, maze
+REASON FOR THIS EXAMINATION:
+   f/u effusions/atx
+
+
+
+Provisional Findings Impression: CHgc MON [**2174-2-14**] 11:50 AM
+No significant change in left greater than right pleural
+effusions.
+
+
+Preliminary Report !! PFI !!
+No significant change in left greater than right pleural
+effusions.
+
+DR. [**First Name4 (NamePattern1) 19115**] [**Last Name (NamePattern1) **]
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4130**]
+PFI entered: MON [**2174-2-14**] 11:50 AM
+
+
+[**Known lastname 77013**],[**Known firstname **] [**Age over 90 77014**] F  85  [**2088-7-7**]
+
+Cardiology Report ECG Study Date of [**2174-2-11**]  8:19:40 AM
+
+
+Atrial pacing. Probable prior inferior infarction. Long QTc
+interval.
+Compared to the previous tracing of [**2174-2-8**] atrial pacing is now
+evident.
+Q-T interval is slightly shorter. The other findings are
+similar.
+
+
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **] V.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+84 0 92 420/462 0 20 7
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 77013**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 77015**]TTE (Complete)
+Done [**2174-2-11**] at 8:28:05 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+[**Street Address(2) 15115**]
+[**Location (un) 15116**], [**Numeric Identifier 15117**]  Status: Inpatient DOB: [**2088-7-7**]
+Age (years): 85 F  Hgt (in): 64
+BP (mm Hg): 115/63  Wgt (lb): 130
+HR (bpm): 80  BSA (m2): 1.63 m2
+Indication: Tamponade.
+ICD-9 Codes: 424.0
+Test Information
+Date/Time: [**2174-2-11**] at 08:28    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD
+Test Type: TTE (Complete) Son[**Name (NI) 930**]: Cardiology Fellow
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2009W007-0:06 Machine: Vivid [**6-8**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%
+Mitral Valve - Peak Velocity:  1.4 m/sec
+Mitral Valve - Mean Gradient:  4 mm Hg
+TR Gradient (+ RA = PASP):  *34 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the prior study of [**2174-2-3**].
+LEFT ATRIUM: Moderate LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.
+
+LEFT VENTRICLE: Suboptimal technical quality, a focal LV wall
+motion abnormality cannot be fully excluded. Overall normal LVEF
+(>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Trace AR.
+
+MITRAL VALVE: Bioprosthetic mitral valve prosthesis (MVR). MVR
+well seated, with normal leaflet/disc motion and transvalvular
+gradients. Torn mitral chordae. No MR. [Due to acoustic
+shadowing, the severity of MR may be significantly
+UNDERestimated.]
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to
+moderate [[**12-3**]+] TR. Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion. No
+echocardiographic signs of tamponade.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Left pleural effusion.
+Conclusions
+The left atrium is moderately dilated. Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Overall left ventricular systolic function is
+normal (LVEF>55%). Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) are mildly
+thickened. There is no aortic valve stenosis. Trace aortic
+regurgitation is seen. A bioprosthetic mitral valve prosthesis
+is present. The mitral prosthesis appears well seated, with
+normal leaflet/disc motion and transvalvular gradients. Torn
+mitral chordae are present. No mitral regurgitation is seen.
+[Due to acoustic shadowing, the severity of mitral regurgitation
+may be significantly UNDERestimated.] There is mild pulmonary
+artery systolic hypertension. There is a trivial/physiologic
+pericardial effusion. There are no echocardiographic signs of
+tamponade.
+
+IMPRESSION: No significant pericardial effusion.
+Normally-functioning mitral valve bioprosthesis. Preserved
+global biventricular systolic function. Mild pulmonary
+hypertension.
+
+Compared with the prior study (images reviewed) of [**2174-2-3**],
+stenotic mitral valve has been replaced with a bioprosthesis.
+Right ventricular function has improved and pulmonary pressures
+are lower. The other findings are similar.
+  Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2174-2-11**] 08:50
+
+
+Brief Hospital Course:
+Underwent cardiac catherization for evaluation prior to starting
+dofetilide.  She was started on dofetilide and underwent
+surgical evaluation for mitral valve stenosis.  On [**2-10**] she was
+brought to the operating room where she underwent a mitral valve
+replacement, MAZE procedure and left atrial appendage ligation.
+Please see operative report for surgical details. She received
+vancomycin for perioperative antibiotics.  She was transferred
+to the intensive care unit for hemodynamic montioring.  In the
+first twen

@@ -1,0 +1,230 @@
+Admission Date:  [**2133-5-10**]              Discharge Date:   [**2133-5-19**]
+
+
+Service: [**Month/Day/Year 662**]
+
+Allergies:
+E-Mycin / Levofloxacin / Aspirin / Metronidazole /
+Nitrofurantoin / Tetracycline
+
+Attending:[**First Name3 (LF) 10682**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+PCP:
+[**Name Initial (NameIs) 7274**]: [**Last Name (LF) **],[**First Name3 (LF) **]
+Location: [**Hospital1 **] [**First Name (Titles) 3860**] [**Last Name (Titles) 662**]-[**Location (un) **]/[**Location (un) **]
+Address: [**State 21595**],STE LL2, [**Location (un) **],[**Numeric Identifier 9310**]
+Phone: [**Telephone/Fax (1) 17753**]
+Fax: [**Telephone/Fax (1) 21596**]
+Email: [**Hospital1 21597**]
+confirmed with patient, last saw PCP [**Last Name (NamePattern4) **]
+
+The patient is a [**Age over 90 **] year old community dwelling female with h/o
+CHF and s/p pacer who presents with SOB and cough x 3 days. She
+was SOB at rest.  She does usualy have DOE but not SOB at rest
+so this was new. No CP. She was in her usual state of health
+with the exception fo a flare of her neuropathy and arthritis.
+No known sick contacts. She has received the flu vaccine. Found
+to febrile and to have CAP. She has multiple abx allergies.  Of
+note the patient stopped taking her potassium for a day or so
+because she developed dyspepsia and she thought that the
+potassium was contributing to her dyspepsia.
+
+In ER: (Triage Vitals:100.8 70 142/50 22 92% 4L NC  )
+Meds Given:
+Ceftriaxone 1 gm
+Tylenol 1 gm
+potassium 60 mEQ
+Fluids given:500 cc NS
+Radiology Studies:
+consults called.
+Admission 74, 159/61, 22, 96%on 2L.
+
+Upon arrival to the floor she reports that her breathing is much
+improved.
+PAIN SCALE: 0/10
+________________________________________________________________
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:        [] All Normal
+[ +] Fever in the ED but none at home  [ ] Chills   [ ] Sweats
+[ ] Fatigue   [ ] Malaise   [ ]Anorexia  [ ]Night sweats
+[- ] weight  loss/gain
+
+HEENT:          [X] All Normal
+[ ] Blurred vision   [ ] Blindness  [ ] Photophobia
+[ ] Decreased acuity [ ] Dry mouth  [ ] Bleeding gums
+[ ] Oral ulcers  [ ] Sore throat    [ ] Epistaxis  [ ] Tinnitus
+[ ] Decreased hearing    [ ]Tinnitus [ ] Other:
+
+RESPIRATORY:    [] All Normal
+[ +] SOB     [+ ] DOE    [ ] Can't walk 2 flights     [+ ]
+Cough- green yellow phlegm
+[ ] Wheeze  [+ ] Purulent sputum    [ ] Hemoptysis   [
+]Pleuritic pain
+[ ] Other:
+
+CARDIAC:        []  All Normal
+[ ] Angina    [ ] Palpitations   [ +] Edema- chronic from
+amlodipine no worsening   [- ] PND
+[ ] Orthopnea    [ ] Chest Pain [ ] Other:
+
+GI:             [X] All Normal
+[ ] Blood in stool     [ ] Hematemesis     [ ] Odynophagia
+[ ] Dysphagia:   [ ] Solids    [ ] Liquids
+[ ] Anorexia    [] Nausea  [] Vomiting   [ ] Reflux
+[ ] Diarrhea    [ ] Constipation  []  Abd pain  [ ] Other:
+
+GU:             [] All Normal
+[+] Dysuria- she states that she has this chronically secondary
+to her neuropathy      [ ] Frequency    [ ] Hematuria
+[]Discharge []Menorrhagia
+
+SKIN:           [X] All Normal
+[ ] Rash        [ ] Pruritus
+
+MS:             [X] All Normal
+[ ] Joint pain    [ ] Jt swelling   [ ] Back pain  [ ] Bony pain
+
+NEURO:          [X] All Normal
+[ ] Headache    [ ] Visual changes   [ ] Sensory change [
+]Confusion [ ]Numbness of extremities
+[ ] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo
+[ ] Headache
+
+ENDOCRINE:     [x] All Normal
+[ ] Skin changes  [ ] Hair changes   [ ] Temp subjectivity
+
+HEME/LYMPH:    [] All Normal
+[+ ] Easy bruising  <-- secondary to coumadin ---> [+] Easy
+bleeding    [ ] Adenopathy
+
+PSYCH:         [X] All Normal
+[ ] Mood change        []Suicidal Ideation  [ ] Other:
+
+
+[X]all other systems negative except as noted above
+
+
+Past Medical History:
+1. Hypertension.
+2. Hypothyroidism.
+3. Polymyalgia rheumatica off prednisone for >2yrs
+4. History of upper extremity peripheral neuropathy.
+5. Peptic ulcer disease with history of GI bleed secondary
+to aspirin 7 years ago.
+6. Status post cholecystectomy.
+7. Diverticulitis
+8. Complete heart block s/p DDD pacer in 5/00
+9. COPD
+10. CVA in past with no residual deficit on plavix qod for GIB
+11. insulin resistance-with prednisone use in past
+12. A fib - on coumadin since [**2128-10-25**]
+13. ? Polio when she was a child whicmh may have lead to her
+neuropathy?
+
+
+Social History:
+She lives in [**Location (un) 538**] in senior housing independent living.
+She gets dinner and she makes her other meals. Her daughters buy
+her food. She is independent of ADLS and independent of
+accounting and meal preparation for breakfast and lunch. She
+does her own medications. Her husband passed away 10 years ago.
+She uses a rolling walker to ambulate. She has 6 children - 4
+sons and 2 daughter who are involved in her care.
+She does not smoke or drink alcohol but smoked 1ppd for approx
+20 years up to age 62 (20 pack-years). No IVDU.
+Her HCP: [**Name (NI) **] [**Last Name (NamePattern1) 21598**] [**Telephone/Fax (1) 21599**]- she lives in [**Hospital1 789**]
+RI
+Retired billing supervisor at the [**Hospital1 882**]
+
+Aspirin  hx of stomach ulcers, "bleeding issues"
+  Level of Certainty: Moderately Certain History
+E-Mycin  electrolyte abnormality, "everyone thinks I'm having a
+stroke"
+  Components responsible for reaction(s): Erythromycin Base
+  Level of Certainty: Moderately Certain History
+Levofloxacin    - she can't remember what levo caused stroke
+like sx?
+Metronidazole  stroke like symptoms
+  Level of Certainty: Moderately Certain History
+Nitrofurantoin  SOB
+Tetracycline-she thinks it gave her swelling and difficulty
+swallowing.
+
+Family History:
+Father: died of MI at 75
+Mother: died at 84 of heart attack
+brother: died of MI
+No other hx of COPD, CA, DMII or CVA.
+
+Physical Exam:
+PAIN SCORE= 0/10
+Standing weight: 139.5
+VS: T = 98.4 P = 68 BP 133/57 RR = 20 O2Sat = 94% 3L
+GENERAL: Very pleasant elderly female sitting up in bed. She
+appears spritely and is in no acute distress.
+Nourishment: good
+Grooming: good
+Mentation: intact- she is a good historian
+Eyes:NC/AT, PERRL, EOMI without nystagmus, no scleral icterus
+noted
+Ears/Nose/Mouth/Throat: MMM, no lesions noted in OP
+Neck: supple, no JVD or carotid bruits appreciated
+Respiratory: decreased breath sounds at the L base and crackles
+at the R base.
+Cardiovascular: RRR, nl. S1S2, no M/R/G noted
+Gastrointestinal: soft, NT/ND, normoactive bowel sounds, no
+masses or organomegaly noted.
+Genitourinary:  deferred
+Skin: no rashes or lesions noted.
+Extremities: 2+ pitting edema b/l 2+ radial, DP pulses b/l.
+Lymphatics/Heme/Immun: No cervical lymphadenopathy noted.
+Neurologic:
+-mental status: Alert, oriented x 3. Able to relate history
+without difficulty.
+-cranial nerves: II-XII intact
+-motor: normal bulk, strength and tone throughout. No abnormal
+movements noted.
+Psychiatric:  Appropriate full affect.
+
+Pertinent Results:
+Admission labs:
+[**2133-5-10**] 10:50PM   WBC-18.2*# RBC-4.30 HGB-14.2 HCT-38.8 MCV-90
+MCH-32.9* MCHC-36.5* RDW-13.8
+[**2133-5-10**] 10:50PM   NEUTS-89.6* LYMPHS-6.5* MONOS-3.4 EOS-0.4
+BASOS-0.1
+[**2133-5-10**] 10:50PM   PLT COUNT-266
+[**2133-5-10**] 11:01PM   GLUCOSE-170* LACTATE-1.5
+[**2133-5-10**] 10:50PM   GLUCOSE-171* UREA N-26* CREAT-1.0 SODIUM-140
+POTASSIUM-2.8* CHLORIDE-100 TOTAL CO2-26 ANION GAP-17
+[**2133-5-10**] 10:50PM   PT-24.6* PTT-33.4 INR(PT)-2.3*
+
+Discharge labs:
+[**2133-5-19**] 05:35AM   WBC-17.5 HGB-12.6 HCT-35.5 MCV-90
+[**2133-5-19**] 05:35AM   PLT COUNT-321
+[**2133-5-19**] 05:35AM   GLUCOSE-66* UREA N-49* CREAT-1.0 SODIUM-137
+POTASSIUM-3.7 CHLORIDE-97 TOTAL CO2-35
+[**2133-5-19**] 05:35AM   INR(PT)-1.1
+
+CHEST (PA & LAT) Study Date of [**2133-5-10**]
+IMPRESSION:
+1. Increased vascular congestion is consistent with cardiac
+failure.
+2. Pacemaker device is mobile in patient's chestwall and in a
+different
+position compared to the prior exam.
+4. Complex hiatal hernia.
+
+CTA CHEST W&W/O C&RECONS, NON-CORONARY Study Date of [**2133-5-12**]
+IMPRESSION:
+1. New left apical spiculated lesion, could be a lung carcinoma
+or organized pneumonia.
+2. Bilateral moderately large pleural effusions and left lower
+and lingular lobe atelectasis, new since [**2131-5-26**].
+3. Mild interstitial ede

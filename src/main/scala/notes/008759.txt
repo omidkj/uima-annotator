@@ -1,0 +1,230 @@
+Admission Date:  [**2107-9-12**]              Discharge Date:   [**2107-9-15**]
+
+Date of Birth:  [**2036-4-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+hemoptysis
+
+Major Surgical or Invasive Procedure:
+fiberoptic laryngoscopy
+bronchoscopy
+
+History of Present Illness:
+71 year old man w/ multiple medical problems including locally
+invasive laryngopharyngeal cancer developed approx. 75cc
+hemoptysis while at XRT today. He has been spitting and coughing
+up several tsps of blood daily or sometimes multiple times daily
+for about one month leading up to this. Daily cough, which does
+not seem associated with hemoptysis.
+.
+He was seen by ENT in the ED, who performed fiberoptic exam
+through trach and did not see any active bleeding or friable
+tissue. CTA of neck was performed to rule out invasion of
+carotid sheath.
+Of note, he was seen in the ED on [**2107-8-30**] for similar
+hemoptysis, at which point the bleeding was thought to be coming
+from his tumor and pt was discharged home.
+
+
+Past Medical History:
+Diabetes
+Hypertension
+Coronary Artery Disease, s/p CABG x 5
+Permanent Pacemaker for sick sinus
+Peripheral Vascular Disease (AAA s/p repair)
+COPD
+Spontaneous Pneumothorax s/p chest tube
+Colon Cancer s/p resection and chemo (pt does not know details
+of therapy) in approximately [**2102**]
+
+
+Social History:
+Patient is single. He does not have any children. He reports he
+has been an alcoholic for the past 45 years and had been
+drinking 2 glasses wine per day up to hospitalization in [**Month (only) **].
+He has a 59 pack year smoking history.
+
+
+Family History:
+Aunt with breast cancer and uncle with throat cancer.
+
+Physical Exam:
+VITALS: 98.2 194/72 78 20 97% on 35% trach collar
+GEN: cachectic male lying comfortably in bed
+HEENT: NC/AT, + temporal wasting, OP clear
+NECK: trach with button
+CARDIAC: heart sounds obscured by lung sounds
+LUNG: rhonchorous throughout
+ABDOMEN: scaphoid, PEG site clean, dry, healing
+EXT: decreased bulk and tone, no c/c/e
+NEURO: grossly intact
+SKIN: no rashes
+
+
+Pertinent Results:
+[**2107-9-12**] 03:30PM   WBC-5.8 RBC-3.06* HGB-9.0* HCT-27.4* MCV-90
+MCH-29.5 MCHC-32.9 RDW-14.6
+[**2107-9-12**] 03:30PM   NEUTS-82.0* LYMPHS-14.1* MONOS-2.1 EOS-1.8
+BASOS-0.2
+[**2107-9-12**] 03:30PM   PLT COUNT-174
+[**2107-9-12**] 03:30PM   PT-13.2* PTT-24.6 INR(PT)-1.1
+[**2107-9-12**] 03:30PM   GLUCOSE-93 UREA N-25* CREAT-0.9 SODIUM-140
+POTASSIUM-3.6 CHLORIDE-98 TOTAL CO2-38* ANION GAP-8
+
+CXR: Single bedside AP examination labeled "upright at 5:00
+p.m." is compared with study dated [**2107-8-30**]. The patient is
+status post tracheostomy, median sternotomy with CABG with
+left-sided dual-chamber cardiac pacemaker with intact RA and RV
+leads, unchanged. There is evidence of underlying hyperinflation
+and probable edema. There is persistent moderately large,
+posteriorly-layering right pleural effusion with associated
+basilar atelectasis. There is a small left pleural effusion with
+left basilar atelectasis, as before. The remainder of the lungs
+is grossly clear; specifically, there is no new focal airspace
+process to specifically suggest pulmonary hemorrhage. Again
+demonstrated are numerous surgical clips and gastrostomy tube in
+the left upper central abdomen. IMPRESSION: Findings suggestive
+of CHF with bilateral pleural effusions, superimposed on
+underlying emphysema. However, there is no distinct new airspace
+process to suggest pulmonary hemorrhage. The appearance of the
+cervicothoracic trachea and tracheostomy site are grossly
+unchanged since the [**2107-8-30**] examination.
+
+CTA Neck:
+1. There is redemonstration of an ill-defined, heterogeneous
+mass that is filling the left piriform sinus, with obliteration
+of the airway. Compared to prior study, this lesion appears to
+be more extensive.
+2. There is no evidence of active extravasation of contrast.
+3. There is a right pulmonary parenchymal consolidation that is
+partially imaged.
+
+CT Chest:
+1. Large right and mild/moderate left pleural effusion, slightly
+smaller compared to the previous exam.
+2. No lesion seen in the trachea and lobar bronchi.
+3. Extensive vascular disease.
+4. Please refer to the report from the CTA Neck from one day
+prior for description of the known laryngeal mass.
+
+Brief Hospital Course:
+71M with head and neck cancer undergoing chemo and XRT with
+worsened hemoptysis
+# hemoptysis--likely related to necrosis of either primary mass
+induced by XRT.
+- bronchoscopic exam of lower airways limited by mass, but no
+active bleeding seen
+- Hct down to 24.9, transfused one unit PRBCs [**9-14**]
+- bleeding likely to continue until large enough total dose of
+radiation has been delivered to substantially debulk the mass
+.
+# SCCa--will contact [**Name (NI) **] team in am to let them know
+patient is here; undergoing XRT, which we are attempting to
+coordinate while patient is in-house.
+Oncology fellow saw patient and explained to him that his
+performance status and bleeding prevents him from safely
+receiving more chemo.
+- morphine and tylenol prn for pain
+.
+# HTN--poorly controlled on admission, increased lisinopril.
+Continue metoprolol, lasix, and clonidine.
+.
+# COPD--nebs
+.
+# CAD--h/o CABG but no active issues. Holding ASA since
+bleeding.
+.
+# Diabetes--lantus 10 qhs + SSI.
+.
+# FEN--TF through PEG.
+.
+# Ppx--heparin sub-q, ppi
+.
+# Full Code
+
+
+Medications on Admission:
+# Albuterol Sulfate 0.083 % neb Q6H and Q2H prn
+# ipratropium neb
+# Lisinopril 10 mg DAILY
+# Metoprolol Tartrate 25 mg [**Hospital1 **]
+# Clonidine 0.2 mg/24 hr Patch QTHUR
+# HydrALAzine 20 mg IV Q6H:PRN SBP > 160
+# Insulin Glargine 10 units QHS
+# Insulin sliding scale
+# lasix 20mg daily
+# Nitroglycerin 0.3 mg SL prn
+# esomeprazole 20 mg daily
+# reglan
+# ativan 0.5mg prn
+# morphine prn
+
+
+Discharge Medications:
+1. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Hospital1 **]: One (1)
+neb Inhalation Q4H (every 4 hours) as needed.
+2. Ipratropium Bromide 0.02 % Solution [**Hospital1 **]: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+3. Clonidine 0.2 mg/24 hr Patch Weekly [**Hospital1 **]: One (1) Patch Weekly
+Transdermal QTHUR (every Thursday).
+4. Lisinopril 20 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+
+5. Metoprolol Tartrate 25 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID
+(2 times a day).
+6. Insulin Glargine 100 unit/mL Solution [**Hospital1 **]: Ten (10) units
+Subcutaneous at bedtime.
+7. Insulin Lispro 100 unit/mL Solution [**Hospital1 **]: ASDIR units
+Subcutaneous four times a day: 2 units for FS 151-200, 4 units
+for FS 201-250, 6 units for FS 251-300, 8 units for FS 301-350,
+10 units for FS 351-400.
+8. Lorazepam 0.5 mg Tablet [**Hospital1 **]: One (1) Tablet PO Q8H (every 8
+hours) as needed.
+9. Metoclopramide 10 mg Tablet [**Hospital1 **]: One (1) Tablet PO QIDACHS (4
+times a day (before meals and at bedtime)).
+10. Heparin (Porcine) 5,000 unit/mL Solution [**Hospital1 **]: One (1)
+syringe Injection TID (3 times a day).
+11. Docusate Sodium 50 mg/5 mL Liquid [**Hospital1 **]: Ten (10) mL PO BID (2
+times a day).
+12. Acetaminophen 160 mg/5 mL Solution [**Hospital1 **]: Twenty (20) mL PO
+Q6H (every 6 hours) as needed.
+13. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+14. Furosemide 40 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY
+(Daily).
+15. Morphine 10 mg/5 mL Solution [**Last Name (STitle) **]: Five (5) mL PO every four
+(4) hours as needed for pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+Necrotic Left Piriform Sinus Squamous Cell Carcinoma
+Diabetes
+Hypertension
+Coronary Artery Disease, s/p CABG x 5
+Permanent Pacemaker for ?sick sinus/tachy brady
+Peripheral Vascular Disease (AAA s/p repair)
+COPD
+Spontaneous Pneumothorax s/p chest tube
+Colon Cancer s/p resection in approximately [**2102**]
+Esophageal stricture
+s/p open gastrostomy [**7-14**]
+s/p tracheostomy [**7-14**]
+
+
+Discharge Condition:
+fair
+
+Discharge Instructions:
+You were admitted for evaluation of your hemoptysis. The source
+o

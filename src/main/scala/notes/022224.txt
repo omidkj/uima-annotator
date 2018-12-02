@@ -1,0 +1,215 @@
+Admission Date:  [**2104-1-12**]              Discharge Date:   [**2104-1-23**]
+
+Date of Birth:  [**2040-9-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2186**]
+Chief Complaint:
+sepsis
+
+Major Surgical or Invasive Procedure:
+bronchoalveolar lavage
+
+History of Present Illness:
+Pt is a 63y/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4746**] with a PMH of CHF, DM, HTN, and COPD transerred
+to [**Hospital1 18**] for pneumonia, sepsis, ARDS, and mulitorgan system
+failure.  Prior to admission, the pt was found w/ AMS by his
+family.  At the OSH, the patient was hypoxic w/ a LLL pneumonia.
+ He was treated w/ ceftazidime/vancomycin and intubated.  He
+became hypotensive and was started on pressors in response.  He
+became tachycardic and was paralyzed to improve his oxygenation.
+ He was noted to be hypoglycemic and in ARF and was sent to
+[**Hospital1 18**] for further care.
+
+
+Past Medical History:
+congestive heart failure - unknown EF
+DM2
+HTN
+COPD
+RA
+psoriasis
+depression
+hyperlipidemia
+
+Family History:
+noncontributory
+
+Physical Exam:
+PE: 98.0, 117/49, 87, 22, 98% 5L NC
+Gen: awake, slowly responsive
+HEENT: EOMI, PERRLA, MM dry, O/P clear w/out erythema or exudate
+CV: RRR, nl S1/S2, no m/r/g appreciated
+Pulm: Coarse breath sounds bilaterally w/ bibasilar crackles
+Abd: soft, obese, no masses appreciated
+Ext: 3+ pitting edema, changes c/w venous stasis,
+warm/well-perfused with bounding radial pulses
+Skin: diffuse psoriatic plaques
+
+
+Pertinent Results:
+[**2104-1-12**] 07:00AM   WBC-12.5* RBC-3.37* HGB-8.9* HCT-27.6* MCV-82
+MCH-26.5* MCHC-32.4 RDW-17.0*
+[**2104-1-12**] 07:00AM   NEUTS-92* BANDS-7* LYMPHS-1* MONOS-0 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2104-1-12**] 07:00AM   PLT COUNT-169
+[**2104-1-12**] 07:00AM   GLUCOSE-137* UREA N-98* CREAT-4.7* SODIUM-137
+POTASSIUM-6.4* CHLORIDE-99 TOTAL CO2-21* ANION GAP-23*
+[**2104-1-12**] 07:00AM   ALBUMIN-2.6* CALCIUM-7.5* PHOSPHATE-8.8*
+MAGNESIUM-2.0
+[**2104-1-12**] 07:00AM   CK-MB-11* MB INDX-0.9
+[**2104-1-12**] 07:00AM   cTropnT-0.04*
+[**2104-1-12**] 07:54AM   LACTATE-1.4
+[**2104-1-12**] 09:29AM   CORTISOL-38.8*
+[**2104-1-12**] 09:54AM   CORTISOL-43.7*
+[**2104-1-12**] 07:54AM   TYPE-ART TEMP-36.7 TIDAL VOL-550 PEEP-15
+O2-100 PO2-75* PCO2-50* PH-7.23* TOTAL CO2-22 BASE XS--6
+AADO2-595 REQ O2-97 -ASSIST/CON INTUBATED-INTUBATED
+VENT-SPONTANEOU
+[**2104-1-12**] 02:45PM   CK(CPK)-941*
+[**2104-1-12**] 02:45PM   CK-MB-9 cTropnT-0.03*
+
+[**2104-1-12**] LENI: No evidence of deep vein thrombosis.
+
+[**1-12**] CXR: Various lines and tubes are unchanged in position
+since a recent radiograph. Diffuse airspace opacification and a
+layering moderate left pleural effusion are again demonstrated
+as well as a confluent opacity at the extreme right base. The
+lung volumes are slightly increased compared to the previous
+study, but there is otherwise not a significant interval change.
+
+Brief Hospital Course:
+1.  sepsis and hypoxemic respiratory failure secondary to
+pneumonia - in the ICU, pt was treated with vancomycin, Zosyn,
+and levofloxacin for a 10 day course, with levo x 14 days total.
+ He was fluid repleted and eventually weaned off pressors.  Was
+also given empiric steroids due to hypotension.  Had also
+initially been paralyzed to try to improve oxygenation.
+Pressors and vecuronium discontinued within 2 days of OSH
+transfer.  Pt was placed on vent settings consistent with
+ARDSnet protocol.  Sputum did not reveal a specific
+microorganism, [**Known lastname **] cultures were negative.  Bronchoalveolar
+lavage on [**1-17**] revealed 2+ PMNs and MRSA.  He was clinically
+much improved by that point and was successfully extubated on
+[**1-19**], which he tolerated well.  When he was transferred to the
+floor, he had been afebrile for >24 hours, satting well on 5L
+NC. On the floor, supplemental oxygen was weaned as tolerated,
+and patient was diuresed with good effect. On 2L at home, on 2L
+at discharge.
+
+2.  ATN - On transfer, pt's Cr was 5.3 (unknown baseline).  This
+gradually improved with IVF and pt maintained good UOP
+throughout his stay.  Renal ultrasound negative.  He did not
+require dialysis.  Cr was 1.3 on discharge.
+
+3.  arthritis - pt has arthritis of unclear etiology (rheumatoid
+vs psoriatic vs osteoarthritis).  States that he has been on
+Remicade in the past but failed this.  He states that he took
+80mg OxyContin [**Hospital1 **] at home.  However, his mental status
+prevented the team from giving this quantity of narcotics.  Of
+note, he is requesting being considered for a fentanyl patch or
+more long-acting pain regimen.  Pain under control on floor with
+Oxycontin 40 [**Hospital1 **].
+
+4.  Diarrhea - Pt developed diarrhea a couple of days prior to
+his transfer to the floor.  Stool cx, and C diff x3, were
+negative.  Diarrhea improving per nursing report.
+
+5.  Hypernatremia - pt developed hypernatremia while in the ICU.
+ He was given free water flushes through his OG tube, and then
+more free water was repleted via IV.  This resolved by the time
+of discharge.
+
+6.  Diabetes mellitus type 2 - Pt was maintained on an insulin
+sliding scale while in the ICU.  His glyburide was held in the
+setting of renal failure but can be restarted when his Cr
+returns to baseline.  Sugars have been running low, please be
+cautious in re-starting. Pt was maintained on a diabetic diet.
+
+7.  Altered mental status - pt complained of "slow thinking" and
+clouded sensorium after extubation.  This was likely due to
+course of fentanyl/versed, as well as his critical illness.
+Narcotics could also have contributed.  Mental status remained
+stable to improved, and no further workup was pursued at this
+time.
+
+8.  Depression - pt was restarted on outpatient wellbutrin and
+celexa.
+
+9.  Access - pt had L subclavian in ICU, discontinued.  Had L
+arm swelling thought [**12-27**] IV infiltration, improved.
+
+10. Communication - HCP is brother [**Name (NI) 1312**]; wife [**Name (NI) **] [**Name (NI) **]
+[**Telephone/Fax (1) 65913**].
+
+Medications on Admission:
+1. Levofloxacin 250'
+2. Acetaminophen prn
+3. Miconazole Powder''
+4. Combivent prn
+5. Morphine prn
+6. Albuterol''''prn
+7. Oxycontin 40''
+8. Bisacodyl prn
+9. Percocet prn
+10. Docusate [**Hospital1 **]
+11. Zosyn 2.25''''
+12. Erythromycin Opth''''QID
+13. GlyBURIDE 2.5''
+14. Senna''
+15. HSQ
+16. Tiotropium Bromide'
+17. ISS
+18. Vancomycin by level
+19. Atrovent''''
+
+
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+2. Oxycodone 20 mg Tablet Sustained Release 12HR Sig: Two (2)
+Tablet Sustained Release 12HR PO Q12H (every 12 hours).
+3. Erythromycin 5 mg/g Ointment Sig: One (1) Application
+Ophthalmic  QID (4 times a day).
+4. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  [**Hospital1 **]
+(2 times a day).
+5. Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day): Patient's sugars have been running low. Please re-start
+this medication as tolerated.
+6. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+injection Injection Q8H (every 8 hours).
+7. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**3-3**]
+Puffs Inhalation Q4H (every 4 hours) as needed.
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+9. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+10. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+11. Albuterol Sulfate 0.083 % Solution Sig: One (1) treatment
+Inhalation Q6H (every 6 hours) as needed.
+12. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours).
+13. Insulin Regular Human  Injection
+14. Oxycodone 5 mg Capsule Sig: One (1) Capsule PO every [**2-28**]
+hours as needed for pain.
+15. Sertraline 100 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+16. Bupropion 150 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO QAM (once a day (in the morning)).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 1293**] - [**Location (un) 1294**]
+
+Discharge Diagnosis:
+Sepsis [**12-27**] pneumonia
+Hypoxic respiratory failure
+ATN

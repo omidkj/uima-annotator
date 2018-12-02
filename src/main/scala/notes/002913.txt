@@ -1,0 +1,195 @@
+Admission Date:  [**2180-10-15**]              Discharge Date:   [**2180-11-10**]
+
+Date of Birth:  [**2145-7-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Compazine / Zosyn
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Nausea, labored breathing
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+endocardial biopsy
+
+
+History of Present Illness:
+35yF with multiple medical problems (including SLE, restrictive
+lung disease, global cardiomyopathy with severely depressed
+systolic function, nephrotic syndrome), with recent admission
+[**Date range (1) 68983**] for nausea, vomiting, and diarrhea, re-admitted with
+shortness of breath, tachycardia, and persistent nausea.
+
+Her symptoms began in [**Month (only) **] (after a recent
+hospitalization), when she developed diarrhea (which she relates
+to her metoprolol). The diarrhea (multiple times daily,
+non-bloody, brown in color) initially improved but then worsened
+again. She then developed nausea, vomiting, and dry heaves,
+without abdominal pain, and was admitted on [**10-10**]. She also
+reported worsening shortness of breath, 3 pillow orthopnea, and
+episodes of paroxysmal nocturnal dyspnea. She was felt to be
+intravascularly dry, so she was given IV fluids. She had a
+thorough workup for causes of her diarrhea (infectious,
+structural, medication related etc.) and was scheduled for GI
+follow up on [**10-16**]. During the admission, an echocardiogram was
+performed, demonstrating worsening systolic function (EF
+15-20%), but she was felt to be intravascularly dry, so her
+Lasix was held. Given the patient's concern that her diarrhea
+started at the same time as metoprolol (75mg daily), this
+medication was also stopped (and switched to carvedilol 3.125mg
+[**Hospital1 **]). She was to have close follow up with her cardiologist. She
+had acute on chronic renal failure which returned to close to
+baseline (1.5) with IV fluids; she had a renal biopsy during
+that admission, the results of which are still pending. Her
+Imuran was initially held during the last hospitalization but
+was restarted after a conversation with her [**Hospital1 112**] rheumatologist.
+During that hospitalization, her nausea was not fully explained,
+but there was a possibility that restarting her Imuran may have
+contributed.
+
+Her presentation today is similar. She has nausea and dry heaves
+(non-bloody, non-bilious), along with worsening shortness of
+breath/PND/orthopnea. Her husband (who follows her vitals
+closely) has noted increased blood pressures and heart rates
+since she was discharged from the hospital. Given her worsened
+nausea and tachycardia to the 120's, he brought her to the
+hospital. She denies any history of blood clot (but had IUFD at
+21wks recently).
+
+In the ED, triage vitals were T97.6F, HR 124, BP 126/109, RR 18,
+Sat 100%. She was given 4mg IV ondansteron x 2, in addition to
+ceftriaxone and azithromycin given an equivocal chest x-ray. She
+was transferred to the floor for further evaluation. Her
+respiratory rate was noted to be as high as 33.
+
+On review of systems, she reports nausea and vomiting, as well
+as shortness for breath and orthopnea as above. Diarrhea is
+unchanged. She denies fevers, chills, chest pain (but perhaps
+some chest "heaviness"), palpitations, pleuritic chest pain,
+cough, weakness, numbness, tingling, abdominal pain,
+constipation, hematemesis, hematochezia, urinary symptoms.
+
+Past Medical History:
+- SLE: diagnosed in [**2168**], manifested by kidney disease
+(membranous nephropathy by report of biopsy), facial rash,
+Sjogren's syndrome, Raynaud's phenomenon, and pleuritis
+- Gastritis
+- Restrictive lung disease: followed by Dr. [**Last Name (STitle) **], noted to
+be moderate to severe on PFTs completed 5/[**2179**].
+- History of pancytopenia associated with varicella zoster
+infection
+- History of persistent thrombocytopenia
+- Baseline proteinuria (Cr 0.8-0.9 pre-pregnancy)
+- Intrauterine fetal demise [**7-/2180**] (at gestational age ~21wks)
+- Right- and left-sided cardiomyopathy (EF estimated 15-20% in
+[**9-/2180**])
+
+
+Social History:
+Patient is a computer programer in [**Location (un) 745**] and married. She was
+accompanied at presentation by her husband [**Name (NI) **] and sister. She
+denies tobacco or EtOH.
+
+
+Family History:
+Adopted
+
+Physical Exam:
+Vitals: T94.5F (oral, repeat axillary temp was 95.4F), BP
+120/94, HR 120, RR 40, Sat 95%RA
+General: Moon facies, chronically ill-appearing, tachypneic, in
+mild respiratory distress; malar rash present
+HEENT: EOMI, PERRL, anicteric, OP clear
+Heart: Tachycardic without murmurs
+Lungs: Clear to auscultation bilaterally, no crackles
+appreciated
+Back: No CVA tenderness, no spinal tenderness
+Abd: Soft, non-tender, non-distended, + bowel sounds, no
+hepatosplenomegaly
+Extremities: No clubbing, cyanosis; 1+ DP pulses bilaterally; 2+
+pitting edema in feet to mid-shin bilaterally (L>R)
+Neuro: A&O x 3
+
+Pertinent Results:
+Urine: Yellow, Hazy, SpecGr 1.022, pH 6.0, Sm leuk, Sm blood,
+500 prot, [**1-20**] RBC, few bacteria, 0-2 epi
+
+Na 133   K 4.3   Cl 101   HCO3 18   BUN 33   Creat 1.4   Gluc
+100
+
+CK: 13  MB: Notdone  Trop-T: 0.04
+
+ALT: 29   AST: 34   AP: 121   Tbili: 0.3
+Lip: 64
+
+proBNP: [**Numeric Identifier 68984**]
+
+WBC 5.6
+N:81.3 L:12.8 M:5.3 E:0.4 Bas:0.2
+Hgb 12.1
+Hct 37.5
+Plt 137
+MCV 96
+
+PT: 11.7  PTT: 24.4  INR: 1.0
+
+CXR [**10-15**] PA/Lat (prelim): Retrocardiac opacification which may
+represent atelectasis vs. pneumonia; bibasilar effusions and
+increased hilar infiltrates suggestive of volume overload;
+stable moderate cardiomegaly.
+
+ECG [**10-15**]: Sinus tachycardia. Leftward axis, normal intervals.
+TWF in I, II, V5-V6 (interpreted as pseudonormalization in ED,
+but unimpressive).
+
+[**Month/Year (2) **] [**10-11**]: The left atrium is elongated. No atrial septal
+defect is seen by 2D or color Doppler. The right atrial pressure
+is indeterminate. Left ventricular wall thicknesses are normal.
+The left ventricular cavity is mildly dilated. There is severe
+global left ventricular hypokinesis (LVEF = 15-20 %). No masses
+or thrombi are seen in the left ventricle. There is no
+ventricular septal defect. RV with severe global free wall
+hypokinesis. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. There is no mitral valve prolapse. Moderate
+(2+) mitral regurgitation is seen. There is mild pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2180-7-24**], the
+LV cavity size has increased and the LVEF is slightly lower
+(LVEF OVERestimated on prior study). RV dysfunction is now more
+prominent.
+.
+The left atrium is elongated. Left ventricular wall thicknesses
+and cavity size are normal. There is moderate global left
+ventricular hypokinesis. Quantitative (biplane) LVEF = 33 %.
+Right ventricular chamber size is normal with borderline normal
+free wall systolic function. The diameters of aorta at the
+sinus, ascending and arch levels are normal. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve leaflets
+are structurally normal. There is no mitral valve prolapse.
+Moderate (2+) mitral regurgitation is seen. There is mild
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+.
+[**Year (4 digits) **] [**2180-11-6**]
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is mildly dilated. There is moderate to
+severe global left ventricular hypokinesis (LVEF = 30 %). Right
+ventricular chamber size is normal. with borderline normal free
+wall function. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve leaflets are mildly thickened. There is no
+mitral valve prolapse. There is moderate thickening of the
+mitral valve chordae. Moderate to severe (3+) mitral
+regurgitation is seen. Moderate [2+] tricuspid regurgitation is
+seen. There is moderate pulmonary artery systolic hypertension.
+Significant pulmonic regurgitation is seen. There is no
+pericardial effusion.
+
+[**Month/Day/Year **] [**2180-11-9**]
+Compared with the pr

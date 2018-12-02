@@ -1,0 +1,189 @@
+Admission Date:  [**2130-8-12**]              Discharge Date:   [**2130-8-18**]
+
+Date of Birth:  [**2063-7-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+Intubation for respiratory failure
+Bronchoscopy
+Ultrasound guided thoracentesis
+
+
+History of Present Illness:
+Ms. [**Known lastname 30207**] is a 67 yo woman with COPD, SCLC (s/p chemo/XRT), who
+presented [**8-12**] to OSH with SOB that awoke her from sleep. She
+was treated for CHF exacerbation with nitro gtt and diuresis,
+despite no known history of heart disease. EKG at OSH notable
+for T-wave inversions v2-v4, II, avF which later normalized. She
+was also noted to have a leukocytosis with WBC 15k and 5% bands.
+She was transferred to [**Hospital1 18**] MICU.
+.
+On arrival to [**Hospital1 18**] ED, BP=117/64, HR=110, RR=22, sat recorded
+as 98%. Pt transported on BIPAP 10/5. Nitro drip initially
+continued and pt given first doses of ceftriaxone, azithro, and
+levaquin. Pt's pressures dropped to SBP~60-70s, still mentating.
+Nitro drip was discontinued. Soon after this, pt reportedly
+requested intubation for increased work of breathing. Pt
+intubated with versed boluses for sedation and sent for CTA
+prior to arrival to floor. CTA notable for no PE, RLL
+consolidation, extensive emphysematous changes, possible
+empyema. She was admitted to the MICU.
+.
+In the MICU, she underwent broncoscopy with removal of RLL
+mucous plug. Respiratory function improved considerably and she
+was extubated promptly. Ceftriaxone, vanc, and clinda were given
+initially. However, vanc and clinda were discontinued the
+morning of [**8-15**] as this was felt to be more likely
+community-acquired PNA. Currently breathing well on RA. The
+conclusion of the MICU team was that her recent respiratory
+failure was primarily of an infectious rather than CHF etiology.
+She has continued to be intermitently low-grade febrile.
+.
+Mental status has also been an issue. At baseline she has
+dementia with 24- hour home care. In the MICU she has been
+intermittently agitated getting xanax .25 mg q6h PRN with good
+effect. Additionally, IP was consulted to evaluate if stent
+placement would be beneficial; they advised against any such
+intervention.
+.
+On acceptance to the medicine service, the patient denies
+shortness of breath, cough, chest pain, or hemoptysis. She
+further denies abdominal pain, diarrhea/constipation, blood in
+bowel movements, pain with urination, or other complaints.
+
+Past Medical History:
+1. SCCa of the lung, "limited stage", diagnosed [**6-2**]
+-- s/p platinum/etoposide chemo + XRT (RLL, hilum, mediastinum)
+
+at [**Hospital1 18**], completed course on [**2129-12-15**]/
+-- followed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 27542**] with serial CTs
+-- refused prophylactic cranial radiation therapy
+2. COPD - no PFT testing
+3. Previous PNA requiring intubation [**2-3**]
+4. Dementia: neagtive w/u during last hospitalization in [**2-3**]
+5. Hypertension
+
+Social History:
+Lives alone with 24hr nursing care. Has been in and out of rehab
+last several months. +tobacco use (1 ppd x24 years). quit in [**Month (only) 116**]
+[**2129**]
+when she was diagnosed with SCLC. Denies EtOH or illicit drug
+use recently. Attorney/HCP is [**Name (NI) **] [**Name (NI) 52403**] [**Telephone/Fax (1) 79789**]. No
+immediate family; neighbors check on her frequently and are
+acting as next of [**Doctor First Name **].
+
+Neighbours [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 17926**] [**Telephone/Fax (1) 79794**] [**Doctor Last Name **]: [**Telephone/Fax (1) 79795**]
+House: [**Telephone/Fax (1) 79796**].  Discussion with [**Doctor First Name **] - states that
+she has not been safe at home, leaving gas on, fidgeting with
+circuit breakers.
+
+Family History:
+no history of cancer in the family.
+
+Physical Exam:
+Discharge exam:
+
+General: Alert, oriented x1, no acute distress.  Patient appears
+very thin.
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Decreased breath sounds and dullness to percussion Right
+lung base; otherwise clear. negative egophony.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+neuro: CNII-XII intact, strength and sensation grossly intact.
+
+Brief Hospital Course:
+This is a 67 F with a history of SCLC and previous PNA
+presneting with a large (complex appearing) RLL consolidation,
+leukocytosis w/ left shift, and respiratory distress requiring
+intubation, all of which suggest a significant RLL pneumonia.
+.
+Hospital course by issue:
+.
+#  PNEUMONIA: Large RLL consolidation, white count, and
+increasing O2 requirement all c/w PNA. Not displaying septic
+physiology currently although UOP on admission was the lower end
+of normal. Surprising that she did not present sooner given
+magnitude of PNA.  On Ceftriaxone, Clindamycin, and Vancomycin
+for possible cavitary pneuomonia. Low UOP was likely [**2-27**] to
+infection and third spacing. She was given IVF with goal UOP >
+30cc/hr. A bronchoscopy was also done on [**2130-8-13**] to look for
+endobronchial lesions. No obvious abnormality, besides a large
+mucous plug was found. Sputum was sent for gram stain and
+cytology. The night of [**2130-8-13**] the patient had a temperature
+spike of 101F. Blood, urine, sputum, and stool cultures were
+resent, none of which came back positive.  She also underwent a
+thoracentesis on [**2130-8-17**] for drainage of a right sided pleural
+effusion that was suspicious for empyema.  Drainage showed no
+frank pus, likely a complicated parapneumonic effusion.  Air
+seen on CT prior had decreased, this was thought to be a
+bronchopleural fistula that has since sealed.  She shall need a
+follow up CT scan.  Pt was switched to levofloxacin 750mg to
+finish a 10 day course.
+.
+MS changes - patient had waxing and [**Doctor Last Name 688**] mental status
+initially, now stable, although still has baseline dementia.
+.
+# ARF: Cr initially at 1.5 from baseline of 1.0. Likely
+intravascular depletion in the setting of third spacing from
+significant infection. Has since improved back to baseline
+during hospital course.
+.
+# Anemia: Pt found to have hct down as low as 23.  During
+hospital course, has stabilized to 28.  Iron studies sent
+consistent with anemia of chronic inflammation.
+.
+# SCLC: to follow up with Dr. [**Last Name (STitle) **] in [**Hospital1 **] and Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 23509**]
+.
+#Rash: Pt developed a urticarial rash on back and legs just
+prior to discharge that was itchy.  This was believed to be a
+contact dermatitis, and she was given [**Name (NI) 6398**] lotion for
+symptomatic relief.
+.
+# Communication: Patient  +  HCP/ATTORNEY [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+[**Telephone/Fax (1) 79797**]
+.
+# Dispo: To [**Doctor Last Name **] green nursing home.  However, the patient has
+safety issues at home and will need social work to help work
+with HCP to determine best future course.
+
+Medications on Admission:
+lisinopril 2.5 mg daily
+alprazolam 0.25mg q6h PRN
+furosemide 20mg daily
+paxil 10mg daily
+metoprolol 12.5 mg [**Hospital1 **]
+MVI
+
+Discharge Medications:
+1. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+2-4 Puffs Inhalation Q4H (every 4 hours).
+2. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Senna 8.6 mg Tablet Sig: Five (5) ML PO BID (2 times a day)
+as needed for Constipation.
+7. Docusate Sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg
+PO BID (2 times a day).
+8. Alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for agitation.
+9. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY 

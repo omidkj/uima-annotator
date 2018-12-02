@@ -1,0 +1,244 @@
+Admission Date:  [**2111-11-18**]              Discharge Date:   [**2111-11-29**]
+
+Date of Birth:  [**2048-2-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3561**]
+Chief Complaint:
+Unresponsiveness
+
+Major Surgical or Invasive Procedure:
+EEG Monitoring
+
+History of Present Illness:
+63 y.o. female with history of seizures and CVA as well as
+multiple abdominal surgeries and recent mesenteric ischemia s/p
+bowel resection who was admitted to the general medicine floor
+lastnight for confusion, hallucinations, increased falls and
+worsened abdominal pain. In the ED, she was evaluated by
+neurology where an LP was done and was normal and a CT head
+showed posterior reversible leukoencephalopathy vs. multiple old
+CVAs. She was additionally seen by surgery to evaluate abdomen
+and drains were felt to be in place and working well.
+.
+This morning, patient was found unresponsive by nurse with right
+arm twitching, concerning for a seizure. Of note, patient has
+history of a seizure disorder since [**2108**] and was on Dilantin
+until one month ago when it was stopped because of problems with
+line clogging. She was then switched to [**Year (4 digits) 13401**] 500 mg [**Hospital1 **]. She
+was also recently taken off of Klonopin. Patient was only
+responsive to sternal rub this morning and a trigger was called
+for change in mental status. She was given a total of 6 mg of
+Ativan with improvement of twitching. She was additionally
+loaded with Dilantin after which her blood pressure dropped to
+SBP of 80s. She received a 500 cc bolus with improvement of her
+BP. The stroke fellow was notified and requested a stat CTA head
+perfusion study. Patient was transferred to the ICU for further
+management.
+
+
+Past Medical History:
+PVD
+L subclavian stenosis s/p bypass
+HTN
+Hyperlipidemia
+COPD
+s/p appendectomy
+s/p tonsillectomy
+Seizure d/o - since [**2108**]
+CVA '[**08**]
+bilateral CEA
+cholecystectomy
+SBO s/p bowel resection
+Mesenteric ischemia s/p further bowel resection with jejunostomy
+
+Social History:
+Married female living with husband. Unknown occupation status.
+Smokes cigarettes: unknown amount, denies alcohol/illicit drug
+
+Family History:
+n/c
+
+Physical Exam:
+General: Cachectic, mute and largely unresponsive, though she
+does withdraw from sternal rub
+HEENT NC/AT; PERRLA,
+CV: S1,S2 nl, no m/r/g appreciated
+Lungs: CTAB anteriorly
+Abd: Soft with old surgical scars and G and J tubes,
+well-appearing
+Ext: No c/c/e
+Neuro: Limited due to patient's inability to cooperate, but
+notable for 2+ bilateral biceps reflexes, but otherwise reflexes
+could not be elicited; upgoing toes bilaterally;
+Skin: No lesions
+
+
+Pertinent Results:
+CT Head ([**11-18**]): Confluent subcortical white matter hypodensity
+in the frontal and parieto-occipital lobes bilaterally, most
+likely representing chronic subcortical infarcts.  Given the
+distribution, another differential consideration would include
+PRES, which does not appear concordant with the clinical
+presentation.
+.
+CXR ([**11-18**]): No acute cardiopulmonary process. Evidence of old
+granulomatous disease.
+.
+CSF:
+#2
+Chemistry: Protein  57    Glucose  61
+.
+#4
+WBC  0    RBC  0
+Poly 0    Lymph  70    Mono  30    EOs
+.
+Ammonia: 25
+.
+138  99  29
+--------------< 117
+4.0  32  0.4
+Ca: 8.8 Mg: 2.1 P: 4.9
+ALT: 73
+AP: 276
+Tbili: 0.3
+Alb: 2.9
+AST: 47
+[**Doctor First Name **]: 69 Lip: 78
+.
+WBC: 8.8
+HCT: 36
+PLT: 337
+N:70.0 L:24.8 M:4.3 E:0.7 Bas:0.1
+.
+PT: 13.3  PTT: 27.0  INR: 1.1
+
+
+Brief Hospital Course:
+63 y.o. female with multiple medical problems, admitted for
+confusion and ?gait instability treating in MICU for ? seizure
+vs status.
+.
+Seizure: Patient has a history of seizures and had been on
+Dilantin, which was switched to [**Doctor First Name 13401**] because of problems with
+a clogged PICC, though [**Name (NI) 13401**] was subtherapeutic.  Transferred
+to MICU for episode of status vs seizure.  She was dilantin
+loaded and continued on [**Name (NI) **].  Dilantin levels monitored
+closely and doses titrated for goal corrected level 20-25.
+Continuous EEG performed without evidence of seizures.
+.
+Delirium: Likely multifactorial. ID w/u revealing for GNR in
+blood (details below) potentially contributing.  LP negative.
+No evidence of seizures on EEG.  Likely significant contribution
+of PRESS syndrome(posterior reversible leukoencephalopathy)
+causing visual hallucinations from the occipital lobes which was
+managed as below.  Intermittently responded to Zydis.  Her pain
+was treated with dilaudid and then morphine elixir after
+palliative care consult with question of contribution.  She was
+eventually started on standing ativan with improved agitation.
+.
+Reversible posterior leukoencephalopathy syndrome: Seen on MRI.
+This could account for hallucinations, altered ms, and seizures.
+ Pls see neurology notes for details.  Thought [**1-30**] hypertension,
+which occurs in setting of pain.  We maintained goal SBP 140
+given proven improvement in sx with good BP control.  Were not
+more aggressive given hx of bowel ischemia.
+.
+ID: Grew 2/2 bottles GNR from Hickman cath on presentation to
+MICU.  Other blood cx negative.  Repeat CT abd performed which
+showed no evidence of bowel or intraabdominal abscess.  Surgery
+was consulted and did not recommend surgery or change of line.
+Recommended treating through it and she received a 14 day course
+of ceftriaxone.
+.
+Hx of bowel ischemia s/p resection: as above.  Surgery followed
+pt.  Repeat imaging showed no abscess for drainage.  Pain
+control as below
+.
+Chronic Pain: In the setting of multiple abdominal surgeries.
+Pain medications intially minimized to assess mental status.
+These were added back and she was relatively well controlled
+with dilaudid IV prn.  Fentanyl patch was added back.  At the
+recommendation of palliative care, dilaudid was changed to
+morphine elixir for ease of transition to home.
+.
+Psych: On multiple medications for depression/anxiety.
+- Continued Venlafaxine. Held Restoril given somnolence
+.
+FEN: She was profoundly malnurished.  TPN for nutrition.
+.
+Access: Right Hickman, left PIV
+.
+Code: DNR/DNI
+.
+Dispo: After long discussion with the patient and her family,
+patient expressed wishes to go home with hospice. With the help
+of the palliative care team, she was transitioned to morphine
+and fentanyl for pain, ativan for agitation, and per neuro PR
+[**Month/Day (2) **] for seizures. She will not be going home with any IV
+medications and the Hickman will not be used any longer. Goals
+of care is patient's comfort. She will be receiving home hospice
+while at home.
+
+Medications on Admission:
+Medications (as an outpatient):
+Dilaudid 2mg IV q4H PRN pain
+Desenex 2% topical PRN
+Tylenol 650mg po q6H PRN pain
+Flexeril 10mg po TID PRN spasm
+Percocet 1 tab po q4H PRN pain
+Compazine 10mg IM q6H PRN nausea
+Fentanyl patch 25mcg
+KCl elixer 40meq po BID
+Calcium carbonate 1250mg po BID
+Ativan 2mg po q4H
+Zofran 4mg IV q4H PRN
+Plavix 75mg po daily
+Prevacid 30mg po daily
+Vit B12 1000mcg IM qmonth
+MSIR 15mg po q4H
+Restoril 15mg QHS
+Effexor 37.5mg po BID
+[**Month/Day (2) 13401**] 500 mg [**Hospital1 **]
+.
+Allergies/Adverse Reactions: NKDA
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 1519**]
+
+Discharge Diagnosis:
+Primary:
+1. delerium
+2. PRESS syndome
+3. hypertension
+
+Secondary:
+1. mesenteric ischemia
+2. epilepsy
+3. peripheral vascular disease
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please take all medications as prescribed
+
+
+Followup Instructions:
+Please follow up with your Primary Care Provider as needed.
+
+Continues with hospice care
+
+
+
+Completed by:[**2111-11-29**]

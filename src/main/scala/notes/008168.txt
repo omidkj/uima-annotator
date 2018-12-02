@@ -1,0 +1,228 @@
+Admission Date:  [**2132-9-19**]              Discharge Date:   [**2132-9-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides
+
+Attending:[**First Name3 (LF) 5755**]
+Chief Complaint:
+Abdominal pain.
+
+Major Surgical or Invasive Procedure:
+ERCP
+
+History of Present Illness:
+This is an 89 year-old female with multiple medical problems
+including metastatic breast cancer and history of gallstones and
+diverticulitis, now with RUQ abdominal pain x 2-3 days, getting
+progressively worse. Pain was described as dull and generalized.
+Patient also with decreased po intake over that time. Patient
+and daughter deny fevers/chills, nausea/vomiting; no other
+systemic symptoms. Last bowel movement in the ED; denies
+diarrhea, melena, hematochezia. Patient also complains of
+dysuria and urinary frequency over ths time frame.
+.
+In the ED, VS 96.1 78 106/70 16 100%RA. Patient given
+levofloxacin 500 mg IV, flagyl 500 mg IV.
+.
+Admitted to ICU for progressively worsening abd pain and
+anorexia. ROS negative for fevers/chills, N/V/D, no melena or
+BRBPR. +dysuria and frequency. Patient initially given
+levofloxacin 500 mg IV, flagyl 500 mg IV.  Patient admitted to
+[**Hospital Ward Name **] 3, continued to have abdominal pain, RUQ U/S c/w
+cholecystitis however no LFT abnormalities on admission. Plan
+was to get a HIDA scan to better evaluate gallbladder. On [**9-20**],
+patient noted to be more sedated, difficult to arouse, only
+responding to painful stimuli. Given narcan since was getting
+morphine for pain, however no response. Head CT was ordered
+which showed a possibly thrombus however CTA was negative.
+Patient then spiked a temp to 101.4 and Vanco added. SBP dropped
+to 80's, started peripheral fluid boluses. Patient evaluated by
+both surgery and GI, taken for ERCP which showed gallstones and
+sludge. Of note, micro growing E Coli and coag neg staph in
+blood.
+.
+Upon arrival to the ICU VS: 112/ 67  14  92-100% FM. Patient
+sedated, extubated, eyes open but does not follow commands.
+
+Past Medical History:
+1. Metastatic breast cancer, left breast, status post
+lumpectomy, now on faslodex; no chemotherapy or radiation per
+patient's wishes [**2129**]
+2. Vascular dementia
+3. Endoscopic removal of gallstones [**2130**]
+4. COPD with frequent pneumonias
+5. RBBB, history of Wenkebach, 2:1 AV block
+6. History of diverticulitis
+7. Chronic constipation
+8. Arthritis
+9. Brain aneurysm
+10. Status post compression fracture of spine
+11. History of bleeding gastric ulcer
+12. Thyroid irradiation [**2105**], not on thyroid replacement
+13. Pacemaker placement [**2123-3-12**] ([**Company 1543**] Prodigy 7865U
+pacer placement)
+14. ORIF, right hip, [**2125-12-18**]
+15. ORIF, left hip, [**2126-2-2**]
+16. Right rotator cuff repair in [**2115**]'s
+
+Social History:
+She lives in a nursing home. She does not walk and is wheelchair
+bound. She quit smoking 17 years ago, having been a prior one
+pack per day for approximately 50 years. No alcohol use.
+
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS: 100.9 88 136/70 20
+GEN: Elderly women lying in bed, breathing comfortably, in no
+acute distress.
+HEENT: PERRL, EOMI, MM dry.
+NECK: No bruits.
+HEART: Distant heart sounds. RRR.
+LUNGS: CTAB.
+ABD: Diffusely tender. NABS. Soft, nondistended. Negative
+[**Doctor Last Name 515**] sign. No HSM. No rebound, guarding. No CVAT.
+EXT: No c/c/e.
+NEURO: Alert, oriented x 0. Strength 5/5 BUE/LE.
+
+Pertinent Results:
+Labwork on admission:
+[**2132-9-19**] 01:18PM   WBC-6.1 RBC-4.51 HGB-12.4 HCT-36.3 MCV-81*
+MCH-27.5 MCHC-34.1 RDW-14.0
+[**2132-9-19**] 01:18PM   PLT SMR-NORMAL PLT COUNT-192
+[**2132-9-19**] 01:18PM   NEUTS-86.8* BANDS-0 LYMPHS-7.7* MONOS-4.2
+EOS-0.8 BASOS-0.6
+[**2132-9-19**] 01:18PM   ALT(SGPT)-22 AST(SGOT)-58* ALK PHOS-161*
+AMYLASE-76 TOT BILI-0.6
+[**2132-9-19**] 01:18PM   LIPASE-24
+[**2132-9-19**] 01:44PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.018
+[**2132-9-19**] 01:44PM URINE  BLOOD-NEG NITRITE-POS PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-8* PH-7.0
+LEUK-NEG
+[**2132-9-19**] 01:44PM URINE  RBC-0 WBC-[**10-27**]* BACTERIA-MANY
+YEAST-NONE EPI-0
+.
+BLOOD CULTURE:
+AEROBIC BOTTLE (Final [**2132-9-23**]):
+      REPORTED BY PHONE TO [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 98290**] [**2132-9-21**] 1120.
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     4 S
+
+   ANAEROBIC BOTTLE (Final [**2132-9-24**]):
+      ESCHERICHIA COLI.
+         IDENTIFICATION AND SENSITIVITIES PERFORMED FROM AEROBIC
+BOTTLE.
+      ESCHERICHIA COLI.    SECOND MORPHOLOGY.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------    64 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+.
+URINE CULTURE (Final [**2132-9-23**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Trimethoprim/Sulfa sensitivity testing confirmed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+BLOOD CULTURES 10/17, [**9-24**]: NO GROWTH TO DATE
+.
+LIVER OR GALLBLADDER US [**2132-9-19**]
+IMPRESSION:
+1. Distended gallbladder containing gallstones with gallbladder
+wall edema.
+2. Borderline/dilated common duct at the porta hepatis, for a
+patient of this age. Sludge and possibly small stones are seen
+within the common duct. The caliber of the common duct appears
+minimally increased from [**2126-1-8**], when the duct measured 7
+mm, though sludge within the duct is new from this time.
+3. Pneumobilia in the left lobe of the liver, possibly related
+to prior
+ERCP.
+4. Intrahepatic biliary ductal dilatation within the right lobe.
+
+In the appropriate clinical setting, the findings would raise
+concern for cholecystitis/cholangitis. However, it is noted that
+patient does not have an elevated white blood cell count or
+profound LFT abnormalities. Edema of the gallbladder wall could
+be related to third spacing of fluid, particularly given the
+pleural effusion. The findings merit further evaluation, both
+clinically and/or with ERCP/MRCP.
+.
+CXR [**2132-9-19**]: No free air.
+.
+EKG [**2132-9-19**]: Ventricularly paced rhythm at 68. Appropiate
+discordance.
+.
+CT head w/o contrast [**2132-9-20**]:
+FINDINGS: There is no evidence of hemorrhage, mass effect, shift
+of 

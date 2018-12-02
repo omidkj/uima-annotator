@@ -1,0 +1,219 @@
+Admission Date:  [**2185-8-7**]              Discharge Date:   [**2185-8-11**]
+
+Date of Birth:  [**2105-10-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+HYPOTENSION
+
+Major Surgical or Invasive Procedure:
+Right internal jugular central venous catheter placement
+
+
+History of Present Illness:
+Patient is a 79 yo M with a history of respiratory failure and
+chronic vent dependence who presented from OSH with hypotension
+coupled with history of fever and leukocytosis.
+Per report the patient was at his facility and found to have
+febrile and congested treated with lasix as CXR showed fluid
+overload with possible pneumonia. However, he became hypotensive
+and required pressor support. There were no MICU beds at OSH and
+was transferred to [**Hospital1 18**].
+While in the [**Hospital1 18**] ED, the patient was treated with pressors
+(levophed) and ceftazadime as well as kayexelate for
+hyperkalemia.
+.
+Upon arrival to the MICU, the patient was asymptomatic without
+shortness of breath, chest pain, headache, fever, chills, nausea
+or vomiting. He was able to communicate with mouthing words.
+He became tachycardic to the 140s with atrial flutter with
+persistent hypotension. For this he was changed to phenylephrine
+and given IV fluids
+
+
+Past Medical History:
+Pulmonary  hypertension, COPD, CVA, Gout
+
+
+Social History:
+history of tobacco x 50 years, quit 22 years ago, no current
+alcohol use, prior to admission in [**Month (only) 205**] lived at home with his
+wife.
+
+Family History:
+NC
+
+Physical Exam:
+T 100.1 BP:116/56 RR: 26 02 98% Vent (AC 550x12 Fi02 0.65 PEEP
+10)
+GEN: alert and oriented to hospital, person
+HEENT: OP clear, MMM
+Neck: right IJ placed
+CV: tachycardic, regular
+Pulm: rhonchi bilaterally with decreased breath sounds on the
+right
+Abd: soft, nd, nd, PEG with slight drainage around are with mild
+erythema
+Ext: 1+ edema LE, RUE 2+ edema, LUE 1+ edema
+Neuro: moves all extremities on command
+Psych: appropriate
+
+
+Pertinent Results:
+[**2185-8-7**] 03:03AM BLOOD WBC-20.5* RBC-2.65* Hgb-8.6* Hct-26.6*
+MCV-101* MCH-32.3* MCHC-32.2 RDW-19.4* Plt Ct-153
+[**2185-8-11**] 05:06AM BLOOD WBC-22.8* RBC-2.84* Hgb-9.2* Hct-27.9*
+MCV-98 MCH-32.2* MCHC-32.8 RDW-20.9* Plt Ct-147*
+[**2185-8-7**] 03:03AM BLOOD Neuts-88* Bands-3 Lymphs-1* Monos-6 Eos-1
+Baso-0 Atyps-0 Metas-1* Myelos-0
+[**2185-8-7**] 03:03AM BLOOD PT-24.1* PTT-33.9 INR(PT)-2.4*
+[**2185-8-7**] 03:03AM BLOOD Plt Ct-153
+[**2185-8-9**] 05:05AM BLOOD Ret Aut-1.5
+[**2185-8-7**] 03:03AM BLOOD Glucose-139* UreaN-64* Creat-1.5* Na-147*
+K-5.7* Cl-110* HCO3-30 AnGap-13
+[**2185-8-11**] 05:06AM BLOOD Glucose-165* UreaN-33* Creat-1.2 Na-142
+K-4.0 Cl-109* HCO3-26 AnGap-11
+[**2185-8-7**] 03:03AM BLOOD ALT-26 AST-20 CK(CPK)-24* AlkPhos-57
+Amylase-90 TotBili-0.4
+[**2185-8-7**] 03:03AM BLOOD CK-MB-NotDone cTropnT-0.03*
+[**2185-8-7**] 01:02PM BLOOD CK-MB-NotDone cTropnT-0.07*
+[**2185-8-7**] 03:03AM BLOOD Albumin-2.3* Calcium-8.1* Phos-3.2
+Mg-2.9*
+[**2185-8-8**] 03:53AM BLOOD calTIBC-129* VitB12-453 Folate-11.5
+Ferritn-1587* TRF-99*
+[**2185-8-10**] 04:50AM BLOOD Vanco-14.2
+[**2185-8-11**] 05:06AM BLOOD Vanco-22.0*
+[**2185-8-7**] 03:33AM BLOOD Lactate-2.4*
+[**2185-8-10**] 08:46AM BLOOD Lactate-1.8
+
+Initial KUB:
+FINDINGS: Nonspecific dilated loops of small bowel are seen,
+extending up to approximately 4 cm in diameter, which is similar
+in degree when compared to the study of [**2185-7-26**]. A gastrostomy
+tube is again seen, with the balloon at the tip projecting over
+what is presumed to be the gastric bubble. No contrast was
+administered through the tube to verify tube location. There is
+a somewhat unusual appearance of the left femoral head,
+presumably secondary to patient positioning.
+
+IMPRESSION: Gastrostomy tube balloon and tip projects over what
+is presumed to be the gastric bubble. Higher confidence in
+localization could be obtained by obtaining a radiograph after
+injecting the tube with contrast.
+.
+CT CHEST W/CONTRAST  [**2185-8-8**] 2:55 PM
+
+CT CHEST W/CONTRAST
+
+Reason: eval for interstitial lung disease vs chf
+Field of view: 40 Contrast: OPTIRAY
+
+[**Hospital 93**] MEDICAL CONDITION:
+79 year old man with unclear history asbestosis and COPD, recent
+PEA arrest, difficult to wean vent, readmitted with VAP, need to
+further delineate lung disease
+REASON FOR THIS EXAMINATION:
+eval for interstitial lung disease vs chf
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+CT CHEST
+
+REASON FOR EXAM: Difficult to wean from vent.
+
+TECHNIQUE: Multidetector CT through the chest following
+administration of IV contrast. Five, 1.25 mm collimation images
+and coronal reformations were provided and reviewed.
+
+FINDINGS: Tracheostomy tube is in standard position. Multiple
+lymph nodes in the prevascular, pretracheal, subcarinal and in
+the hila bilaterally measure up to 11 mm in the subcarinal
+station. Layering moderate - size bilateral pleural effusions
+are nonhemorrhagic and associated with adjacent relaxation
+atelectasis. There is no pneumothorax. The airways are patent to
+segmental level. Very dense calcifications are in the left main,
+LAD, left circumflex and right coronary arteries. There is
+moderate cardiomegaly. There is no pericardial effusion. The
+aorta is normal in caliber. Ground glass opacity, and
+interlobular septal thickening in the upper lobes are consistent
+with interstitial pulmonary edema. Ill-defined multifocal areas
+of consolidation in the right upper lobe are likely infectious
+in origin. There is paraseptal emphysema.
+
+There are no bone findings of malignancy.
+
+The imaged portion of the upper abdomen shows no abnormalities.
+
+IMPRESSION:
+
+1. CHF.
+
+2. Multifocal areas of consolidation in the right upper lobe are
+likely due to infectious process.
+
+3. Bilateral pleural effusions.
+
+3. Coronary calcifications.
+
+4. Moderate cardiomegaly.
+
+5. Reactive lymphadenopathy.
+.
+
+Last CXR [**8-10**]
+CHEST, SINGLE VIEW: Again there is a right internal jugular
+catheter with its tip projecting over the distal SVC and
+tracheostomy tube in unchanged standard position. Persistent
+cardiomegaly. Nontypical interstitial edema suggesting
+coexisting emphysema. Layering effusions, right greater than
+left, appear marginally increased on today's study.
+
+IMPRESSION: Equivocally increased layering bilateral pleural
+effusions. Essentially unchanged nontypical interstitial edema
+with likely underlying emphysema.
+
+
+Brief Hospital Course:
+79 yo M with COPD, vent dependence who presents with pressor
+dependent hypotension
+
+Sepsis: Patient with persistent hypotension and not responsive
+to pressors. Given leukocytosis with left shift and history of
+fever, infection is likely.  Was initiall treated with broad
+spectrum antibiotics and improved however, pressor requirement
+again increased several days later and antibiotics were
+continued.
+Patient was given fluids but began to develop volume overload
+.
+#) ID: Likely secondary to infection in lungs, though other
+sources of infection cannot be ruled out especially given that
+the chest x-ray was no significantly different than [**7-30**].
+Sputum culture showed pansensitive PSEUDOMONAS AERUGINOSA
+STENOTROPHOMONAS (XANTHOMONAS) MALTOPHIDA.
+.
+#) Cardiac:
+- Rhythm:A fib/ flutter: appears to go in and out of this.
+Continued on amiodarone.
+- Pump: Has likely diastolic dysfunction at baseline. Does have
+signs of fluid overload on exam though with low CVP and likely
+low filling pressures. Also with possible HOCM on last echo.
+Therefore, may be very preload dependent explaining why patient
+is sensitive to hypotension.
+Diuresis was attempted but patient did not tolerate it and
+required fluid boluses
+- CAD: no signs CAD currently though does have slight troponin
+leak. Will continue to follow ECGs.
+.
+#) Pulmonary hypertension/vent dependence: Unclear etiology and
+treatment. Appears to be on sidenifil at baseline though
+pulmonary pressures are not significantly elevated on echo.
+Likely has multifactorial lung disease given appearance of
+asbestos exposure, pulmonary hypertension and smoking history.
+Suspect COPD component as well.  These issues ultimitely
+worsened and given his overall status was difficult to treat
+.
+#

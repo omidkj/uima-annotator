@@ -1,0 +1,232 @@
+Admission Date:  [**2196-10-26**]              Discharge Date:   [**2196-11-4**]
+
+Date of Birth:  [**2122-3-30**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+BenGay
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Asymptomatic
+
+
+Major Surgical or Invasive Procedure:
+Ascending aorta and hemiarch replacement [**2196-10-28**]
+
+
+History of Present Illness:
+Mr. [**Known lastname 32296**] is a 74 year old male who was seen by Dr. [**Last Name (STitle) **] for
+an aortic aneurysm that was incidently found 1 year ago. A
+recent CT scan of his aorta showed his aneurysm to measure 5cm
+where it was 4.8cm in [**2195-8-6**]. Given the progression of his
+disease, he was referred to Dr. [**Last Name (STitle) 914**] for consultation. His
+review determined aorta to be 5.2 cm. he will need will need his
+aneurysm repair prior to hip surgery.
+
+
+Past Medical History:
+Aortic aneurysm
+AV block Mobitz 1
+Remote pericarditis
+Jaundice as a teenager
+Osteoarthritis
+BLE varicosities
+Dyslipidemia
+Hypertension
+Migraines
+Chronic back pain
+Depression
+Sleep apnea ( has not been able to use CPAP in past)
+Atrial fibrillation
+Vitamin D Defficiency
+One kidney from a remote injury playing football
+Occasional testicular pain ( Rx neurontin)
+Ventral hernia
+Left Nephrectomy at age 15
+Appendectomy
+Back surgery for ruptured disc
+Hand surgeries
+Partial Left knee replacement [**6-14**]
+
+Social History:
+Mr. [**Known lastname 32296**] lives with his wife and is a retired banker.  He
+smoked his last cigarette 40 yrs ago and has a 40-45 pack-year
+history.  He drinks 2-7 alcoholic beverages per week.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Pulse: 54  Resp: 18   O2 sat: 98%
+B/P  Right:121/80    Left: 124/79
+Height: 5'[**96**]"   Weight: 215 lbs
+
+General:NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]anicteric sclera, OP unremarkable
+Neck: Supple [x] Full ROM [x]no JVD appreciated
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [] Irregular [x] Murmur [] grade _-none_____
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds
++
+[x]; no HSM
+Extremities: Warm [x], well-perfused [x] Edema [] _none____
+Varicosities: severe BLE
+Neuro: Grossly intact [x]; MAE 5./5 strengths; nonfocal exam
+Pulses:
+Femoral      Right: 2+  Left:2+
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) 167**]: 2+  Left:2+
+Radial       Right:   Left:
+
+Carotid Bruit        Right: none   Left:none
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 87122**] (Complete)
+Done [**2196-10-28**] at 9:24:12 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2122-3-30**]
+Age (years): 74 M  Hgt (in): 61
+BP (mm Hg): 124/79  Wgt (lb): 215
+HR (bpm): 63  BSA (m2): 1.95 m2
+Indication: Aortic valve disease. Atrial fibrillation. Left
+ventricular function.
+ICD-9 Codes: 427.31, 424.1, 441.2
+Test Information
+Date/Time: [**2196-10-28**] at 09:24    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete)
+3D imaging. Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2011AW3-: Machine: us3
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Right Atrium - Four Chamber Length:  *6.8 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.1 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.4 cm
+Left Ventricle - Fractional Shortening:  0.33  >= 0.29
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Left Ventricle - Lateral Peak E':  0.80 m/s  > 0.08 m/s
+Aorta - Sinus Level:  *3.9 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  *3.8 cm  <= 3.0 cm
+Aorta - Ascending:  *4.8 cm  <= 3.4 cm
+Aorta - Arch:  2.7 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *2.6 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT diam:  2.2 cm
+Aortic Valve - Pressure Half Time:  887 ms
+
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. No
+spontaneous echo contrast in the body of the RA. No ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Mild regional LV systolic dysfunction. Low
+normal LVEF.
+
+RIGHT VENTRICLE: Normal RV systolic function.
+
+AORTA: Mildy dilated aortic root. Moderately dilated ascending
+aorta Normal aortic arch diameter. Simple atheroma in aortic
+arch. Mildly dilated descending aorta. Simple atheroma in
+descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. No AS. Mild to
+moderate ([**2-7**]+) AR. Eccentric AR jet directed toward the
+anterior mitral leaflet.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to
+moderate [[**2-7**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+
+PERICARDIUM: Pericardial calcifications.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The rhythm appears
+to be atrial fibrillation. Results were personally reviewed with
+the MD caring for the patient. See Conclusions for post-bypass
+data
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. The right atrium is moderately dilated. No
+spontaneous echo contrast is seen in the body of the right
+atrium. No atrial septal defect is seen by 2D or color Doppler.
+There is mild regional left ventricular systolic dysfunction
+with hypokinesis of the mid inferior septal wall. The remaining
+segments contract normally (LVEF =55X %). Overall left
+ventricular systolic function is low normal (LVEF 50-55%). with
+normal free wall contractility.
+The aortic root is mildly dilated at the sinus level. The
+ascending aorta is moderately dilated. There are simple atheroma
+in the aortic arch. The descending thoracic aorta is mildly
+dilated. There are simple atheroma in the descending thoracic
+aorta. There are three aortic valve leaflets. There is no aortic
+valve stenosis. Mild to moderate ([**2-7**]+) aortic regurgitation is
+seen. The aortic regurgitation jet is eccentric, directed toward
+the anterior mitral leaflet.
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen.
+There are pericardial calcifications.
+Dr. [**Last Name (STitle) 914**] was notified in person of the results before
+surgical incision
+
+POST-BYPASS:
+Preserved biventricular sytolic function.
+Intact thoracic aortic graft.
+No new valvular findings.
+Mild AI.
+LVEF 55%
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2196-10-28**] 19:16
+
+[**2196-11-2**] 06:23AM BLOOD WBC-8.2 RBC-3.41* Hgb-10.2* Hct-30.4*
+MCV-89 MCH-29.9 MCHC-33.5 RDW-15.0 Plt Ct-191
+[**2196-11-2**] 06:23AM BLOOD PT-14.0* INR(PT)-1.2*
+[**2196-11-2**] 06:23AM BLOOD UreaN-34* Creat-1.1 Na-138 K-3.8 Cl-97
+[**2196-11-3**] 04:58AM BLOOD WBC-8.1 RBC-3.60* Hgb-11.1* Hct-31.9*
+MCV-89 MCH-30.9 MCHC-34.9 RDW-15.2 Plt Ct-218
+[**2196-11-3**] 04:58AM BLOOD PT-14.6* INR(PT)-1.3*
+[**2196-11-3**] 04:58AM BLOOD UreaN-30* Creat-1.2 Na-141 K-4.3 Cl-100
+
+Brief Hospital Course:
+On [**10-26**] Mr. [**Known lastname 32296**] was admitted for cardi

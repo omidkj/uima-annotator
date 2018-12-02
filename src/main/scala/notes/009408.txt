@@ -1,0 +1,204 @@
+Admission Date:  [**2200-5-26**]              Discharge Date:   [**2200-5-30**]
+
+Date of Birth:  [**2135-4-15**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2200-5-26**] 1. Mitral valve repair with a 28-mm [**Doctor Last Name 405**] and
+resection of P2 2. Coronary artery bypass grafting x1 with left
+internal mammary artery to left anterior descending.
+
+History of Present Illness:
+65 yo M with known severe mitral regurgitation followed by
+serial echocardiogram with increasing dyspnea on exertion. He
+underwent a cardiac catheterization [**2200-4-22**] which revealed a 50%
+LAD stenosis and an 80% second diagonal artery stenosis. The
+left ventriculogram showed 4+ MR with an EF of 60%. Given the
+severity of his MR [**First Name (Titles) **] [**Last Name (Titles) 22191**] of his symptoms, he presents
+surgery.
+
+Past Medical History:
+Mitral Regurgitation
+Hypertension
+Arthritis
+Benign Prostatic Hypertrophy
+Depression
+
+Past Surgical History
+Hernia repair
+Appendectomy
+Left rotator cuff repair [**2186**]
+Right THR [**2192**]
+Left THR [**2197**]
+Bilateral carpal tunnel surgery
+
+Social History:
+Retired. Lives alone. Seperated from wife. [**Name (NI) **]: Caucasian
+Tobacco: Quit 5 YRS AGO, 1.5 PPD X 40 YRS
+ETOH: [**1-21**] glasses of wine/night
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Pulse:77 Resp:16  O2 sat:94 RA
+B/P  Right:150/87    Left145/86:
+Height:5'7"     Weight:190 LBS
+
+General:pleasant male in NAD, normocephalic
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [], aniscleric sclerae
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur 2/6 systolic murmur
+radiating to the axilla, s1, s2
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused []  Edema
+Varicosities: multiple varicosities in both lower extremities
+below knee. Left thigh appears better on standing then right
+thigh
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: +3  Left: +3
+DP           Right:+2   Left:+2
+PT           [**Name (NI) 167**]:+2   Left:+2
+Radial       Right:+2   Left:+2
+
+Carotid Bruit        none
+
+Pertinent Results:
+[**2200-5-26**] 09:43AM   HGB-13.3* calcHCT-40
+[**2200-5-26**] 09:43AM   GLUCOSE-99 LACTATE-1.1 NA+-142 K+-3.8 CL--106
+[**2200-5-26**] 09:43AM   TYPE-ART PO2-394* PCO2-48* PH-7.36 TOTAL
+CO2-28 BASE XS-1 INTUBATED-INTUBATED
+[**2200-5-26**] 01:29PM   PT-15.5* PTT-38.6* INR(PT)-1.4*
+[**2200-5-26**] 01:29PM   FIBRINOGE-178
+[**2200-5-26**] 01:29PM   PLT COUNT-153
+[**2200-5-26**] 01:29PM   WBC-9.8# RBC-3.01*# HGB-9.7*# HCT-28.3*#
+MCV-94 MCH-32.1* MCHC-34.2 RDW-14.5
+[**2200-5-26**] 02:33PM   PT-14.6* PTT-37.0* INR(PT)-1.3*
+=========================
+
+[**2200-5-29**] 05:35AM BLOOD WBC-8.7 RBC-2.98* Hgb-9.5* Hct-27.6*
+MCV-93 MCH-31.9 MCHC-34.5 RDW-14.1 Plt Ct-178
+[**2200-5-29**] 05:35AM BLOOD Plt Ct-178
+[**2200-5-29**] 05:35AM BLOOD Glucose-107* UreaN-11 Creat-0.9 Na-136
+K-3.9 Cl-98 HCO3-28 AnGap-14
+[**2200-5-29**] 05:35AM BLOOD Mg-2.0
+=========================
+    [**Known lastname **],[**Known firstname **] [**Medical Record Number 22192**] M  65  [**2135-4-15**]
+Radiology Report CHEST (PA & LAT) Study Date of [**2200-5-28**] 10:46
+AM
+Final Report
+PA AND LATERAL CHEST, [**2200-5-28**]
+HISTORY: Status post CABG. Rule out pneumothorax.
+IMPRESSION: PA and lateral chest compared to [**2200-5-26**]:
+Lungs are low in volume, but clear. Cardiomediastinal silhouette
+has a normal postoperative appearance. Bilateral pleural
+effusions are small. No
+pneumothorax or pulmonary edema.
+DR. [**Known firstname **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**]
+Approved: WED [**2200-5-28**] 9:45 PM
+=============================
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 22193**] (Complete)
+Done [**2200-5-26**] at 12:43:49 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2135-4-15**]
+Age (years): 65 M  Hgt (in): 67
+BP (mm Hg): 160/86  Wgt (lb): 190
+HR (bpm): 77  BSA (m2): 1.98 m2
+Indication: MVReplacement/ cabg
+ICD-9 Codes: 402.90, 786.05, 424.0
+Test Information
+Date/Time: [**2200-5-26**] at 12:43    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Name8 (MD) 22194**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW000-0:00 Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.5 cm  <= 4.0 cm
+Left Atrium - Peak Pulm Vein S:  0.3 m/s
+Left Atrium - Peak Pulm Vein D:  0.2 m/s
+Left Atrium - Peak Pulm Vein A:  0.2 m/s  < 0.4 m/s
+Left Ventricle - Septal Wall Thickness:  1.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.6 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.5 cm
+Left Ventricle - Fractional Shortening:  0.38  >= 0.29
+Left Ventricle - Ejection Fraction:  55% to 60%  >= 55%
+Left Ventricle - Stroke Volume:  59 ml/beat
+Left Ventricle - Cardiac Output:  4.53 L/min
+Left Ventricle - Cardiac Index:  2.29  >= 2.0 L/min/M2
+Left Ventricle - Peak Resting LVOT gradient:  2 mm Hg  <= 10 mm
+Hg
+Left Ventricle - Peak Inducible LVOT gradient:  1 mm Hg
+Left Ventricle - Lateral Peak E':  0.09 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  10  < 15
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Ascending:  2.6 cm  <= 3.4 cm
+Aorta - Arch:  2.4 cm  <= 3.0 cm
+Aortic Valve - Peak Velocity:  1.3 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  7 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  3 mm Hg
+Aortic Valve - LVOT pk vel:  0.78 m/sec
+Aortic Valve - LVOT VTI:  17
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *2.2 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  0.9 m/sec
+Mitral Valve - A Wave:  0.5 m/sec
+Mitral Valve - E/A ratio:  1.80
+Mitral Valve - E Wave deceleration time:  204 ms  140-250 ms
+Findings
+PRE-CPB: Severe mitral regurgitaion noted with what is most
+likely a P2 flail leaflet. Regional wall motion looked to be
+normal and EF was in the 55-60% range. NO PFO was detectable
+upon color doppler analysis of inter-atrial septum.
+LEFT ATRIUM: Mild LA enlargement.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. Normal interatrial
+septum.
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+global systolic function (LVEF>55%).
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal diameter of aorta at the sinus, ascending and arch
+levels. Normal descending aorta diameter.
+MITRAL VALVE: Partial mitral leaflet flail. Mild mitral annular
+calcification. Severe (4+) MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+POST-CPB: Patient was weaned off CPB on 0.6 mcg/kg min of
+phenylephrine after P2 resection and mitral valve annuloplasty
+and LIMA --> LAD coronary artery bypass. Wall motion was noted
+to be similar to pre-bypass function. CW interrogation of miral
+valve revealed a mean gradient of 6 in the setting of a
+hyperdynamic ventricle and cardiac output of 8.5 L/min.
+Calculated mitral valve area via pressure half-time was 2.04cm2.
+Minimal mitral regurgitation was seen utilizing color doppler.
+The aorta was scanned and there was no visible evidence of
+dissection noted.
+Conclusions
+The left atrium is mild

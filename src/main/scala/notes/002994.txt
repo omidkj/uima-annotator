@@ -1,0 +1,200 @@
+Admission Date:  [**2143-3-28**]              Discharge Date:   [**2143-4-11**]
+
+Date of Birth:  [**2067-1-25**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Captopril
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+increasing fatigue
+
+Major Surgical or Invasive Procedure:
+[**2143-3-28**] MVRepair(28 CE Band)/AVR(21 mm CE pericardial)/CABG
+x3(Lima>lad,svg>pda,svg>om)
+[**2143-4-10**] right hemicolectomy, cholecystectomy, aortagram, SMA
+bypass graft from right common iliac artery, small bowel
+resection
+
+
+History of Present Illness:
+Patient was a 76 male complaining of increasing fatigue who had
+an echo showing worsening mitral reguritation.  Cath showed
+subtotal occlusion of the LAD, mod-severe MR, EF 30-35%.
+
+Past Medical History:
+HTN, hyperlipidemia
+CAD with BMS x2 of RCA [**2137**]/instent restenosis [**7-25**]
+arthritis, anemia
+
+Social History:
+quit smoking 25 years ago, occasional alcohol, retired, lives
+with wife.
+
+Family History:
+Mother deceased from MI in late 80s.
+
+Physical Exam:
+(at exam [**3-13**]):HR 70  RR 15 157/49
+NAD flat after cath
+skin unremarkable
+teeth in very poor repair
+neck supple with full ROM
+CTAB anteriorly
+RRR no murmur
+abd soft, NT, ND +BS
+extrems warm, well-perfused, no edema or varicosities noted
+neuro grossly intact
+no carotid bruits appreciated
+
+Pertinent Results:
+[**2143-4-11**] 03:03AM BLOOD WBC-7.3 RBC-3.07* Hgb-9.2* Hct-26.3*
+MCV-86 MCH-30.1 MCHC-35.1* RDW-15.4 Plt Ct-78*
+[**2143-4-10**] 03:57PM BLOOD Neuts-75* Bands-1 Lymphs-18 Monos-3 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-2* Promyel-1* NRBC-2*
+[**2143-4-10**] 03:57PM BLOOD Hypochr-3+ Anisocy-1+ Poiklo-1+
+Macrocy-NORMAL Microcy-NORMAL Polychr-1+ Ovalocy-1+
+Schisto-OCCASIONAL Burr-1+
+[**2143-4-11**] 03:03AM BLOOD PT-28.7* PTT-86.1* INR(PT)-2.9*
+[**2143-4-11**] 03:03AM BLOOD Plt Smr-VERY LOW Plt Ct-78*
+[**2143-4-11**] 03:03AM BLOOD Glucose-200* UreaN-55* Creat-2.2* Na-159*
+K-6.4* Cl-99 HCO3-19* AnGap-47*
+[**2143-4-11**] 03:03AM BLOOD ALT-586* AST-4466* LD(LDH)-4932*
+AlkPhos-177* Amylase-28 TotBili-2.7*
+[**2143-4-11**] 03:03AM BLOOD Lipase-36
+[**2143-4-11**] 03:03AM BLOOD Albumin-1.6* Calcium-10.5* Phos-12.8*
+Mg-3.6*
+[**2143-4-11**] 05:15AM BLOOD Type-ART pO2-68* pCO2-35 pH-7.18*
+calTCO2-14* Base XS--14
+[**2143-4-11**] 05:15AM BLOOD Glucose-234* Lactate-26.4* K-6.6*
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 73938**] (Complete)
+Done [**2143-4-10**] at 3:06:05 PM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2067-1-25**]
+Age (years): 76 M  Hgt (in): 63
+BP (mm Hg): /  Wgt (lb): 135
+HR (bpm):  BSA (m2): 1.64 m2
+Indication: Intraop sternal debridement, ex lap
+ICD-9 Codes: 440.0, 396.9
+Test Information
+Date/Time: [**2143-4-10**] at 15:06    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine: aw2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Mitral Valve - Mean Gradient:  3 mm Hg
+
+Findings
+LEFT ATRIUM: Mild LA enlargement. No thrombus in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.
+
+LEFT VENTRICLE: Mild symmetric LVH. Mildly depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending aorta diameter. Simple atheroma in
+ascending aorta. Normal aortic arch diameter. Complex (>4mm)
+atheroma in the aortic arch. Normal descending aorta diameter.
+Complex (>4mm) atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR). AVR
+well seated, normal leaflet/disc motion and transvalvular
+gradients. No AS. Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mitral
+valve annuloplasty ring. Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications. The patient appears
+to be in sinus rhythm.
+Conclusions
+Pre Bypass: The left atrium is mildly dilated. There is mild
+symmetric left ventricular hypertrophy. Overall left ventricular
+systolic function is mildly depressed (LVEF=40%). Septal motion
+is paradoxical, c/w post CABG. Right ventricular chamber size
+and free wall motion are normal. There are simple atheroma in
+the ascending aorta. There are complex (>4mm) atheroma in the
+aortic arch. There are complex (>4mm) atheroma in the descending
+thoracic aorta. A bioprosthetic aortic valve prosthesis is
+present. The aortic valve prosthesis appears well seated, with
+normal leaflet/disc motion and transvalvular gradients. There is
+no aortic valve stenosis. Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. A mitral valve
+annuloplasty ring is present. Trivial mitral regurgitation is
+seen. There is no pericardial effusion.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Interpretation assigned to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician
+
+
+
+Brief Hospital Course:
+Mr [**Known lastname 1169**] was admitted on [**3-28**] after he underwent a mitral
+valve repair, CABG x 3, and aortic valve replacement.  For
+details of the operation please see the operative report.
+Extubated on POD #1. Postoperatively he was on milrinone,
+levophed and epinephrine to maintain his cardiac output and
+blood pressure.  He received multiple blood transfusions as
+well.Amiodarone started for A fib. Pressors/support weaned and
+then restarted for decreasing C.I. Chest tubes removed. C diff.
+positive with continuing diarhhea on POD #6 and flagyl started.
+Beta blockade titrated. Echo showed global hypokinesis. Sub Q
+heparin started for prophylaxis and mutiple BP agents added for
+hypertension. Gentle diuresis restarted on POD #7, pacing wires
+removed, and transferred to the floor to begin increasing his
+activity level. on POD #11, his WBC rose to 18 and he was
+pancultured. He c/o LLQ pain on POD #12. Cipro started for UTI.
+Left pleural effusion tapped on POD #12.
+
+At 6:30 AM on POD #13, he acutely decompensated with acute
+respiratory failure on the floor. He had agonal breathing, was
+bradycardic and had palpable pulses and was intubated by
+anesthesia emergently during the code. Transferred back to CVICU
+for stat TTE and left chest tube placed. Tamponade ruled out by
+echo. Sternum found to be unstable on exam (no CPR had been
+performed).Bronchoscopy done to rule out aspiration. Lactate
+rose to 11 and general surgery was urgently consulted.Creatinine
+rose to 2.2 and INR was 2.9. New subclavian accesss
+established.He was taken directly to the OR and Dr. [**First Name (STitle) **]
+debrided his sternum and re-wired it. The general surgery team
+then did an exploratory laparotomy to evaluate for acute
+mesenteric ischemia. He had a right hemicolectomy,
+cholecystectomy, aortagram with right common iliac artery to SMA
+bypass graft ( vascular team), and then a small bowel resection
+by Dr. [**First Name (STitle) **]. He was profoundly acidotic.
+
+He was aggressively resuscitated the rest of the night with
+multiple pressor support to maintain a BP. The family was
+consulted about his extremely grave prognosis and they agreed to
+continue the drips but no CPR or additional drug resuscitation.
+Made CMO by family with increasing pressor requirements and
+acidosis. Expired at 8:00 AM on [**4-11**]. Family declined autopsy.
+Medical Examiner elected to review the case.
+
+Medications on Admission:
+coreg 6.25

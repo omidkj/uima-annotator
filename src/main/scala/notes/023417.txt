@@ -1,0 +1,200 @@
+Admission Date:  [**2163-12-8**]              Discharge Date:   [**2163-12-26**]
+
+Date of Birth:  [**2098-1-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Heparin Agents / cefepime / vancomycin
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hyopxia
+
+Major Surgical or Invasive Procedure:
+Tracheostomy placement [**12-16**]
+
+
+History of Present Illness:
+65-year-old male with a history of AAA repair with multiple
+complications (operated in [**Month (only) 404**] by Dr. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]),
+including spinal ischemia with LE paralysis, bowel perforation
+with colostomy, and right pleural effusion and perihepatic fluid
+coming in with acute onset shortness of breath and hypoxia.
+Patient developed acute onset of shortness of breath this
+morning accompanied by pleuritic chest pain. No hemoptysis. No
+history of blood clots, and he is on fondaparinox for
+prophylaxis. He denies any fevers or chills.
+.
+The patient was admitted from [**10-26**] to [**11-1**] with a pleural
+effusion and perihepatic fluid collection. He had a perihepatic
+[**Month/Year (2) 19843**] placed by IR, with cultures growing clostridium species,
+and the decision was to treat him with cipro, metronidazole and
+fluconazole until the [**Month/Year (2) 19843**] was removed. He went to [**Hospital1 1872**]
+rehab to continue the antibiotics.
+.
+In the ED, initial vs were: 98.7 114 124/59 22 96%
+non-rebreather. UA suggested an infection, so he was given
+ciprofloxacin. A CTA chest showed no PE, but tracheal secretions
+causing plugging and possible infection, so the patient got
+ceftriaxone and metronidazole. Transplant surgery requested a CT
+abd/pelvis to see if his [**Hospital1 19843**] could be removed. He got [**4-1**]
+liters of fluid. He was requiring a lot of suctioning for oral
+secretions, so he was triaged to the MICU instead of the floor.
+Prior to transfer he had 18g and 22g PIVs, vitals were 76 128/48
+26 satting 98% on 50% O2 moistened air.
+.
+On the floor, patient tachypneic and uncomfortable.
+Intermittently hypoxic down to the low 80s, requiring increasing
+amounts of oxygen. He has no feeling below T8, so does not know
+if he has dysuria, but does note his foley was changed 3-4 days
+ago. His ostomy output is unchanged. Other ROS negative.
+
+Past Medical History:
+- AAA repair ([**1-/2163**]) c/b T8 paraplegia, bowel perforation with
+graft infection and bacteremia/fungemia (bacteriodes, strep
+pneumo and [**Female First Name (un) **]). On chronic suppressive medications with
+suppressive antibiotics with ciprofloxacin, Flagyl and
+fluconazole.
+- complete heart block, now status post pacemaker placement
+- Hypertension
+- Hyperlipidemia
+- COPD
+- Osteoarthritis
+- Increased PSA for which the patient underwent a biopsy prior
+to [**2163-1-29**], which was complicated by an E. coli bacteremia
+- s/p Trach for inability to clear secretions. Trach removed
+about 3 weeks ago.
+
+Social History:
+Has 50 pack-year smoking history who stopped smoking prior to
+his admission in [**Month (only) 404**]. He has a pet dog. He is married with a
+very supportive wife and children. He works as a wine
+distributor but is currently on disability and also retired a
+year ago. Currently living at [**Hospital1 **] Rehabilitation
+Center. No drugs or EtOH
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: 98.7 114 124/59 22 96% non-rebreather
+General: Alert, oriented, anxious, moderate resp distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: course central breath sounds
+CV: distant, regular, no audible murmurs
+Abdomen: large, well-healed scars. G-tube in place, colostomy
+with greenish discharge. Perihepatic [**Hospital1 19843**] in place with small
+amt white fluid. Non-tender, non-distended, bowel sounds
+present.
+GU: foley in place
+Ext: atrophied LE that are warm, well perfused, 2+ pulses, no
+clubbing, cyanosis or edema
+Neuro: A&Ox3, CNII-XII intact, no movement or sensation in the
+LEs. Sensation and movement of UEs intact. Wound-vac in place
+over left hip and sacrum.
+
+Discharge:
+VS 96.8, P: 61, BP: 126/60, RR: 16, 96% on trach mask
+General: Alert, oriented, interactive
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD , trach in place
+Lungs: scattered rhonchi
+CV: distant, regular, no audible murmurs
+Abdomen: large, well-healed scars. G-tube in place. Non-tender,
+non-distended, bowel sounds present.
+GU: chronic foley in place
+Ext: atrophied LE that are warm, well perfused, 2+ pulses, no
+clubbing, cyanosis or edema. Lateral L hip wound with clean
+borders, wound vac currently off.
+Neuro: A&Ox3, CNIII-XII intact, no movement or sensation in the
+LEs. Sensation and movement of UEs intact.
+
+Pertinent Results:
+Admission labs:
+[**2163-12-8**] 03:45PM   GLUCOSE-115* UREA N-24* CREAT-0.4* SODIUM-137
+POTASSIUM-4.3 CHLORIDE-100 TOTAL CO2-28 ANION GAP-13
+[**2163-12-8**] 03:45PM   cTropnT-0.02*
+[**2163-12-8**] 03:45PM   WBC-17.5*# RBC-4.30* HGB-11.8* HCT-36.7*
+MCV-85 MCH-27.4 MCHC-32.2 RDW-16.7*
+[**2163-12-8**] 03:45PM   NEUTS-86.0* LYMPHS-4.9* MONOS-6.9 EOS-1.8
+BASOS-0.3
+[**2163-12-8**] 03:45PM   PLT COUNT-433
+[**2163-12-8**] 03:45PM   PT-13.2 PTT-33.8 INR(PT)-1.1
+[**2163-12-8**] 03:59PM   LACTATE-1.6
+[**2163-12-8**] 06:13PM URINE  COLOR-Yellow APPEAR-Clear SP
+[**Last Name (un) 155**]->1.050*
+[**2163-12-8**] 06:13PM URINE  BLOOD-MOD NITRITE-POS PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0
+LEUK-MOD
+[**2163-12-8**] 06:13PM URINE  RBC-17* WBC-20* BACTERIA-FEW YEAST-NONE
+EPI-0
+[**2163-12-8**] 06:13PM URINE  CA OXAL-RARE
+
+Imaging:
+[**2163-12-8**] AP Chest: FINDINGS: AP upright portable view of the
+chest were obtained. No definite evidence of pneumothorax is
+seen. There are right greater than left bibasilar opacities that
+may be due to atelectasis, although consolidation is not
+excluded. Blunting of the bilateral costophrenic angle suggests
+trace bilateral pleural effusions. The cardiac and mediastinal
+silhouettes are stable. A single-lead right-sided pacemaker is
+unchanged in position.
+
+CTA chest: IMPRESSION:
+1. Large amount of secretions throughout the trachea and main
+stem bronchi
+with impaction of bronchi of the lower lobes and right middle
+lobe. Increased atelectasis at both bases with small pleural
+effusions. Given the elevated white blood cell count, there may
+be a developing aspiration pneumonia, although the lower lobe
+opacification is felt primarily due to atelectasis and volume
+loss.
+2. No evidence of pulmonary embolism.
+
+CT Abd/Pelvis: IMPRESSION:
+1. Interval near complete resolution of subphrenic perihepatic
+collection
+with residual tiny foci of air noted within.
+2. Unchanged appearance to aortic graft without evidence of
+infection.
+3. Left greater than right bibasilar atelectasis. Cannot exclude
+
+superimposed aspiration.
+4. Status post left colectomy with colostomy.
+5. Large anterior abdominal wall defect as before.
+
+[**2163-12-23**] AP CXR: FINDINGS: In comparison with the study of
+[**12-21**], the monitoring and support devices remain in place. Areas
+of opacification are seen at both bases, similar to the previous
+study on the right and probably decreased on the left.
+Although this most likely represents atelectasis and effusion,
+the possibility of supervening pneumonia would have to be
+considered in the appropriate clinical setting.
+
+Micro:
+Multiple blood cultures all negative
+[**2163-12-11**] Urine culture: SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+                             ENTEROBACTER CLOACAE
+                             |
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN-------- =>512 R
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+Bronchoalveolar lavage:
+GRAM STAIN (Final [**2163-12-16**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blo

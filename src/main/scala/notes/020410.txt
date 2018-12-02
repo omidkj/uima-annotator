@@ -1,0 +1,203 @@
+Admission Date:  [**2174-8-15**]              Discharge Date:   [**2174-8-27**]
+
+Date of Birth:  [**2091-7-18**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement (19mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] Porcine), Coronary artery
+bypass grafting times three
+
+
+History of Present Illness:
+Ms. [**Known lastname 12409**] is a 82 year old female with known aortic stenosis.
+After she underwent a cardiac catheterization at [**Hospital 3278**] Medical
+Center on [**8-8**] which showed multi-vessel coronary artery
+disease, she was deemed not to be a good
+surgical candidate due to heavily calcified aorta.  Therefore,
+she was discharged home with medical management. Shortly after
+being home she developed worsening shortness of breath and was
+admitted to [**Hospital3 **] on [**8-14**].  She was referred from
+there to the [**Hospital1 18**] cardiac surgery service for consideration of
+an aortic valve replacement and coronary artery bypass grafting.
+
+Past Medical History:
+Congestive heart failure related to severe aortic stenosis,
+hypertension, hyperlipidemia, reflux, transitory ischemic
+attacks, osteoarthritis, carotid stenosis, hyperlipidemia,
+hammer toes right foot, callus right foot, right hip replacement
+times two, left hip replacement, right knee replacement,
+hysterectomy, appendectomy, tonsillectomy and adenoidectomy
+
+Social History:
+Ms. [**Known lastname 12409**] lives independently at home in [**Hospital1 2436**] after
+husband died in [**11-30**].
+She denies a smoking history and any alcohol or illicit drug
+use.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Pulse:74 Resp: 14 O2 sat: 100 on 3l
+B/P  Right: 158/75   Left:151/65
+Height:5ft     Weight:114lbs
+
+Five Meter Walk Test #1_______ #2 _________  #3_________
+
+General:
+Skin: Dry [] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [] Full ROM [] stiff neck
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [x] grade _4/6_____
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema [] none_____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:+1   Left:+1
+DP           Right: +1  Left:+1
+PT           [**Name (NI) 167**]: +1  Left:+1
+Radial       Right: +2  Left:+2
+
+Carotid Bruit        Right: positive   Left:Positive
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 91722**] (Complete)
+Done [**2174-8-22**] at 1:10:41 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2091-7-18**]
+Age (years): 83 F  Hgt (in): 60
+BP (mm Hg): 180/90  Wgt (lb): 114
+HR (bpm): 73  BSA (m2): 1.47 m2
+Indication: Aortic valve replacement, CABG
+ICD-9 Codes: 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2174-8-22**] at 13:10    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2011AW1-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.9 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *3.8 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *55 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  39 mm Hg
+Aortic Valve - LVOT diam:  2.0 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. No spontaneous echo contrast
+or thrombus in the LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. PFO is present.
+Left-to-right shunt across the interatrial septum at rest.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+regional/global systolic function (LVEF>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Simple atheroma in ascending aorta. Focal calcifications in
+ascending aorta. Normal aortic arch diameter. Simple atheroma in
+aortic arch. Focal calcifications in aortic arch. Normal
+descending aorta diameter. Complex (>4mm) atheroma in the
+descending thoracic aorta.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Critical AS (area <0.8cm2). Trace AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. No
+MVP. Moderate mitral annular calcification. Moderate thickening
+of mitral valve chordae. Moderate to severe (3+) MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+
+Conclusions
+PRE-BYPASS:
+The left atrium is markedly dilated. No spontaneous echo
+contrast or thrombus is seen in the body of the left atrium/left
+atrial appendage or the body of the right atrium/right atrial
+appendage. A patent foramen ovale is present. A left-to-right
+shunt across the interatrial septum is seen at rest.
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size and regional/global systolic function (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There are simple atheroma in the ascending aorta. There are
+simple atheroma in the aortic arch. There are focal
+calcifications in the aortic arch. There are complex (>4mm)
+atheroma in the descending thoracic aorta.
+The aortic valve leaflets are severely thickened/deformed. There
+is critical aortic valve stenosis (valve area <0.8cm2). Trace
+aortic regurgitation is seen.
+The mitral valve leaflets are moderately thickened. There is no
+mitral valve prolapse. There is moderate thickening of the
+mitral valve chordae. Moderate to severe (3+) mitral
+regurgitation is seen.
+There is no pericardial effusion.
+Dr. [**Last Name (STitle) **] was notified in person of the results before
+surgical incision..
+
+POST-BYPASS:
+
+Normal RV systolic function.
+LVEF 55%.
+Stable prosthesis in the native aortic position, no perivalvular
+leaks and a mean gradient of 15 mm of Hg across the aortic
+valve.
+Moderate MR. [**First Name (Titles) **] [**Last Name (Titles) **].
+Intact thoracic aorta
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 12409**] was admitted on [**2174-8-15**] for a pre-operative work-up.
+She was diuresed with lasix.  She was newly diagnosed as
+diabetic and given diabetic teaching.  She was cleared for
+surgery by the dentistry service.  She was treated for a urinary
+tract infection with ciprofloxacin.  On [**2174-8-22**] she underwent an
+aortic valve replacement (19mm St. [**Male First Name (un) 923**] porcine), coronary
+artery bypass grafting times three (left internal mammary to
+left anterior descending, saphenous vein graft to diagonal and
+obtuse marginal), performed by Dr. [**Last Name (STitle) **].  Please see the
+operative note for details.  She tolerated the procedure well
+and was transferred in critical but stable condition to the
+intensive care unit. By the following day she was extubated

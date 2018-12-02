@@ -1,0 +1,203 @@
+Admission Date:  [**2130-7-15**]              Discharge Date:   [**2130-8-4**]
+
+Date of Birth:  [**2060-11-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Flomax / Shellfish Derived / Fish Product Derivatives / Zolpidem
+/ Ativan
+
+Attending:[**First Name3 (LF) 3918**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+[**First Name3 (LF) 13241**]
+
+History of Present Illness:
+Mr. [**Known lastname 69629**] is a 69 y.o. Spanish-speaking male with multiple
+myeloma, ESRD on HD, history of right PICA CVA, HTN who presents
+
+with worsened mental status per his family members.  Apparently
+he was doing fine 1 day prior to admission.  Of note he received
+chemotherapy (cytoxan) on [**2130-7-3**] and his blood counts are
+decreasing.  He is overall a poor historian despite use of a
+Spanish interpreter on the phone.
+.
+He did make it to [**Date Range 13241**] today on his own, but was
+slightly confused there and sent home from HD by taxi.  His son
+then brought him to [**Name (NI) **] because he "wasn't acting right."
+Initial VS in the ED: T 97.3, BP 173/76, HR 104, 87%RA, up to
+100% 3L NC.  Emperically given vanco/ceftriaxone for possible
+infection.  He does not complain of respiratory symptoms (cough,
+SOB).  His temperature subsequently went up to 100.6 in the ED.
+CT head negative for acute process.  CXR negative.  CTA chest
+pursued given his h/o PE (although INR 6.0), and revealed RUL
+consolidation consistent with pneumonia.  Azithromycin also
+given to cover atypical organisms.  Blood cultures drawn prior
+to antibiotics.  In addition his serum calcium was 12.2 (has h/o
+hypercalcemia of malignancy) and he was given 500cc bolus of
+normal saline only given his h/o [**Name (NI) **] failure on HD.  Troponin
+elevated at his baseline given his ESRD.
+.
+While in ED, his SBP rose into the 200s when he was aggitated
+waiting for CT scan and other tests.  This was not treated given
+concern for possibility he may decline clinically and become
+septic.  The SBP come down to 180 spontaneously after the
+studies.
+.
+ROS: Denies chest pain, SOB, cough, chills, abdominal pain, N/V.
+ Does admit to "total body pain" which on further
+characterization seems to be muscle pain, predominately in the
+legs and head.  He admits to chronic leg pain at baseline.
+
+
+Past Medical History:
+IgA Multiple myeloma s/p 11 cycles velcade/dex
+-- received first dose cytoxan on [**2130-7-3**] for disease progression
+on velcade
+ESRD [**2-27**] to MM - Tu/Th/Sa
+R PICA CVA [**5-27**] - ataxic @ baseline
+PAF
+PE [**9-2**]
+Mild-mod AR
+Mod MR
+[**Name13 (STitle) **] TR
+C. diff
+Strep pneumo PNA
+PCP PNA
+HTN
+Hyperlipidemia
+Diverticulosis
+H. pylori gastritis
+Anemia of B12/Fe-deficiencies, CKD
+Anxiety and depression
+
+
+Social History:
+Formerly worked at [**Hospital1 **] and [**Hospital6 **].
+Married, 3 children. Son is HCP. Wife has [**Name2 (NI) 499**] CA. 20 pack-year
+
+smoking hx. Drinks ETOH socially.
+
+Family History:
+Mother and father died of lung CA.
+
+Physical Exam:
+VS: T  99.4, BP 194/97, HR 106, RR 18, 95%3L
+NECK: supple
+LUNGS: Scattered rhonchi and wheezes, L>R
+HEART: tachy, regular, [**3-31**] late systolic murmur, best at apex
+ABD: soft, ND/NT
+EXT: LE edema, R>L (chronic per patient)
+NEURO: answers questions appropriately, no focal deficit
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2130-7-15**] 07:02PM   WBC-3.0* RBC-2.58* HGB-8.8* HCT-26.8*
+MCV-104* MCH-33.9* MCHC-32.6 RDW-17.7*
+[**2130-7-15**] 07:02PM   NEUTS-82.9* LYMPHS-10.8* MONOS-3.1 EOS-2.8
+BASOS-0.3
+[**2130-7-15**] 07:02PM   PLT COUNT-141*
+[**2130-7-15**] 07:02PM   PT-53.7* PTT-60.3* INR(PT)-6.0*
+[**2130-7-15**] 07:02PM   GLUCOSE-98 UREA N-12 CREAT-4.1*# SODIUM-137
+POTASSIUM-4.1 CHLORIDE-94* TOTAL CO2-28 ANION GAP-19
+[**2130-7-15**] 07:02PM   CALCIUM-12.2* PHOSPHATE-4.1 MAGNESIUM-2.0
+.
+Portable Chest x-ray: no acute process
+.
+CTA chest [**2130-7-15**]:
+1. Right upper lobe consolidation, likely infectious.
+2. No PE or acute aortic process.
+3. Emphysema.
+4. Interval resolution of bilateral pleural effusions and left
+lower lobe pneumonia.
+.
+CT head (non-contrast) [**2130-7-15**]: IMPRESSION: No acute
+intracranial process.
+.
+ECG: Sinus tachycardia @ 104.  1mm downsloping ST depressions
+V4-V6 (new)
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 69629**] is a 69 y.o. man with multiple myeloma and ESRD on
+[**Known lastname 2286**] who presented with altered mental status and was found
+to have a right upper lobe pneumonia and hypercalcemia.
+.
+# RUL pneumonia.  The patient was found to have a right upper
+lobe pneumonia on CT scan.  He was treated with vancomycin,
+zosyn, and azithromycin for hospital acquired PNA.  He was
+hypoxic on admission.  His O2 requirement worsened in the
+setting of volume overload.  Pt had rigors and low grade temps
+on HD2.  Blood and sputum cultures were negative.  A
+bronchoscopy was performed on [**7-24**] and the BAL was negative.  He
+was discharged breathing comfortably on room air.
+.
+# hypercalcemia/ altered mental status: The patient's altered
+mental status likely due to a combination of his infection
+(pneumonia) and metabolic derangements (hypercalcemia).  The
+patient's hypercalcemia was thought to be secondary to his
+multiple myeloma.  He has been on weekly pamidronate.  He was
+treated with pamidronate, calcitionin, decadron, and [**Month/Year (2) 2286**] to
+decrease his calcium level.
+.
+# right back pain: The patient developed excruciating right back
+pain during this admission.  Multiple imaging modalities were
+negative for any pathological fractures, but there was a
+question of left sided ilio-psoas bursitis which did not
+correlate with his clinical presentation.  His pain was managed
+with Dilaudid throughout his admission.  He was transitioned to
+oral Dilaudid prior to discharge.
+.
+# End-stage [**Month/Year (2) 2793**] Disease: The patient is on HD with ESRD
+secondary to his multiple myeloma.  The [**Month/Year (2) **] team was consulted
+and the patient was treated with HD during this hospitalization.
+ The patient is basically anuric so his hypercalcemia and volume
+status was dependent on HD.  The patient had to undergo HD daily
+in order to manage his hypercalcemia.
+.
+# Pancytopenia: The patient was supported with blood
+transfusions during this hospitalization.  He was transfused to
+keep his hematocrit greater than 25.  He also receives epogen at
+[**Month/Year (2) 2286**].
+.
+# Atrial Fibrillation: The patient has been anticoagulated for
+paroxsymal atrial fibrillation. He was in sinus rhythm on
+admission.  The patient was supratherapeutic on admission.  His
+INR was 6.0.  He was reversed with Vitamin K and anticoagulation
+was held as patient was thought to be at high risk of bleeding
+given his likely uremic platelets.  Of note, the patient had a
+history of PE in [**9-2**], but completed a 6 month treatment course
+with warfarin and repeat CTA was negative for residual clot.  It
+was decided that the risks of anticoagulation outweigh the
+benefits at this point and it was discontinued.
+.
+# Hypertension:  The patient's antihypertensive medications were
+initially held due concern that he might be developing sepsis
+physiology; however, he developed HTN with SBP 200.  His
+metoprolol was restarted and he was treated with hydralazine IV
+PRN.
+.
+# ST depressions:  The patient was noted to have ST depressions
+on EKG most likely secondary to demand ischemia.  He did not
+have any symptoms of chest pain or pressure.  His troponin was
+elevated in the setting of [**Date Range **] failure and missed [**Date Range 2286**],
+but his CK was flat.
+.
+# Multiple myeloma:  The patient has end stage multiple myeloma.
+ His was treated with Cytoxan on [**2130-7-3**] in an effort to help
+control his disease and hypercalcemia.  He was started on
+Rituxan as an inpatient and will follow-up with Dr. [**Last Name (STitle) 410**]
+(oncology) for further treatment.  Orthopedic oncology was
+consulted and it was determined that no intervention for his
+back pain would be indicated at this time.
+
+Medications on Admission:
+Albuterol Inhaler - 1-2 puffs Q4-6H prn
+Allopurinol - 100 mg every other day
+B COMPLEX-VITAMIN C-FOLIC ACID [[**Last Name (STitle) **] CAPS] - 1 mg Capsule Daily
+Calcitonin 200 unit/dose Aerosol, Spray -
+Epog

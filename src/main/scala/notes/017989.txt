@@ -1,0 +1,235 @@
+Admission Date:  [**2111-8-19**]              Discharge Date:   [**2111-8-26**]
+
+Date of Birth:  [**2049-9-30**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5368**]
+Chief Complaint:
+CC: nausea, vomiting x 2 days
+
+
+Major Surgical or Invasive Procedure:
+AV fistula
+tunneled central line
+
+History of Present Illness:
+HPI: 61 year old female with history of IDDM with frequent
+episodes of DKA last admitted [**2111-8-6**] for DKA, nephropathy, CAD
+with CABG '[**03**], poorly controlled HTN, CHF with EF 40%, PVD s/p L
+CEA, pancreatitis p/w nausea and vomiting since yesterday.  In
+the ED, BP 230/100 91% BG=900.  Gap closed to 12 within 6 hours
+with insulin gtt, ivf.  Head CT negative for acute hemorrhage or
+edema.
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. Insulin-dependent diabetes mellitus for 25 years. Diagnosed
+in [**2085**] @ age 36.
+-last Hemoglobin A1C 8.3 in [**5-31**]
+-h/o of diabetic ketoacidosis
+-nephropathy: baseline 2.8-3.2 in recent months.  Recent
+-neuropathy: Gastroparesis, peripheral neuropathy
+2. Coronary artery disease
+-5 vessel coronary artery bypass graft in [**2103**] at [**Hospital1 756**] and
+Women??????s.
+-cardiac catheterization in [**2109**] revealed patent grafts.
+-Echo [**2111-2-20**] revealed LVEF 40%, 1+MR
+[**Name13 (STitle) 35744**] MIBI [**2111-3-27**] revealed no reversible perfusion
+defect. Mild global hypokinesis, LVEF 39%.
+3. Congestive heart failure with an ejection fraction of 40%.
+4. Hypertension.
+5. Hypercholesterolemia, no longer on a statin secondary to LFT
+abnormalities.
+6. History of fibroids.
+7. History of peripheral vascular disease, status post left
+carotid endarterectomy.
+8. osteoporosis
+9. pubic ramus fracture in 12/[**2108**].
+10. History of Methicillin resistant Staphylococcus aureus
+urinary tract infection in [**2111-1-26**].
+11. Status post cholecystectomy.
+12. ? right lower lobe pulmonary mass seen on [**12-31**] chest CT.
+13. History of pleural effusions, which were tapped in [**Month (only) 956**]
+[**2110**], with negative cytologies.
+14. dizziness
+15. folliculitis
+16. pancreatitis
+17. pneumonias
+
+Social History:
+>100 pack-year smoking history and she continues to smoke.
+Occasional alcohol.
+Divorced with 2 children.
+She lives with her mother, who is in her 80s, who is the
+patient's primary caregiver.
+
+
+Family History:
+Father died of myocardial infarction at the age of 65.
+Her mother had a heart attack and had cardiac surgery in [**2101**].
+She has a history of hypertension. No history of cancer, strokes
+or liver or kidney disease.
+
+
+Physical Exam:
+VITALS:
+GEN: NAD, AOx3, thin
+HEENT: PER, minimally reactive to light, MMM
+CV: S1S2, ectopic beats
+RESP: lower [**11-28**] CTA B/L
+ABD: +BS, soft, NT, ND
+EXT: L arm with 3 small bandages, C/D/I, no induration, edema
+     vendoynes in place
+NEURO: CN 2-12 in tact
+
+Pertinent Results:
+[**2111-8-19**] 06:30AM   WBC-12.2* RBC-3.99* HGB-12.7 HCT-39.4 MCV-99*
+MCH-31.8 MCHC-32.2 RDW-13.3
+[**2111-8-19**] 06:30AM   NEUTS-91* BANDS-0 LYMPHS-6* MONOS-3 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+
+[**2111-8-19**] 06:30AM   GLUCOSE-953* UREA N-63* CREAT-4.2*
+SODIUM-131* POTASSIUM-5.5* CHLORIDE-85* TOTAL CO2-23 ANION
+GAP-29*
+
+[**2111-8-19**] 08:40AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-100
+GLUCOSE-1000 KETONE-15 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2111-8-19**] 08:40AM URINE  RBC-0-2 WBC-0-2 BACTERIA-NONE YEAST-NONE
+EPI-0
+
+[**2111-8-19**] 08:40AM   CK-MB-NotDone cTropnT-0.15*
+[**2111-8-19**] 08:40AM   CK(CPK)-37 AMYLASE-50
+
+[**2111-8-19**] 08:40AM   LIPASE-38
+
+Brief Hospital Course:
+Hospital course, briefly, by system:
+
+1.  DM/Chronic [**Month/Day/Year **] failure:
+Pt was admitted in DKA to the [**Hospital Unit Name 153**].  Her DKA was managed with
+insulin and IVF.  Her [**Hospital Unit Name **] function was noted to be declining
+so she underwent AV fistula formation and received a central
+line to begin dialysis during this admission rather than later
+next month as was originally planned.
+
+The patient's anion gap closed with insulin and IVF and she was
+called out of the [**Hospital Unit Name 153**] on HD#3.  The patient underwent three
+successful rounds of hemodialysis during this admission, and was
+set up to undergo outpatient hemodialysis on a
+Tuesday/Thursday/Saturday schedule at the dialysis unit in
+[**Location (un) 1468**].  Once the patient was transferred to the floor, she
+continued to have elevated blood sugars >400 in the evening, so
+her basal glargine was increased to 10 units at bedtime.  [**Last Name (un) **]
+followed the patient while she was inhouse.
+
+2.  CAD
+Pt's EKG upon presentation demonstrated chronic t-wave inversion
+and her cardiac enzymes were cycled to rule her out for MI.  Of
+note, the patient did report one episode of chest pain during
+admission that resolved promptly with nitroglycerin sl.  Her EKG
+demonstrated no changes during this episode.  The patient was
+continued on a beta [**Last Name (LF) 7005**], [**First Name3 (LF) **], statin, and ACE inhibitor in
+house.
+
+3.  UTI
+UA was suggestive of a UTI so the patient was given a 3-day
+course of levofloxacin.
+
+4.  HTN
+Pt was continued on amlodipine, lisinopril, and metoprolol for
+control of her blood pressure.  Upon discharge, the patient's
+blood pressure ranged from 110-160/40-80s.
+
+5.  Hypercholesterolemia
+The patient was continued on atorvastatin 10 mg qday for
+cholesterol management.
+
+On hospital day #8, the patient was cleared by PT and discharged
+to home in stable condition.
+
+Medications on Admission:
+- [**First Name3 (LF) **] 325 mg qday
+- multivitamin
+- Vit D3 400 units qday
+- albuterol MDI prn
+- Toprol XL 150 mg qday
+- isosorbide mononitrate 60 qday
+- hydralazine 25 mg qid
+- reglan 10 mg qidachs
+- FeSO4 325 mg qday
+- protonix 40 mg qday
+- lantus 8 units qhs
+- lasix 40 mg qday
+- SS humalog
+- colace 100 mg [**Hospital1 **]
+
+Discharge Medications:
+1. Multivitamin     Capsule Sig: One (1) Cap PO QD (once a day).
+
+2. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+3. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*2*
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+Disp:*30 Tablet(s)* Refills:*0*
+6. Amlodipine Besylate 5 mg Tablet Sig: Two (2) Tablet PO QD
+(once a day).
+Disp:*60 Tablet(s)* Refills:*2*
+7. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO QD (once a day).
+Disp:*30 Cap(s)* Refills:*2*
+8. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H (every
+48 hours) for 6 days.
+Disp:*3 Tablet(s)* Refills:*0*
+10. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Metoclopramide HCl 10 mg Tablet Sig: 0.5 Tablet PO QIDACHS
+(4 times a day (before meals and at bedtime)).
+Disp:*60 Tablet(s)* Refills:*2*
+12. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+13. Toprol XL 50 mg Tablet Sustained Release 24HR Sig: One (1)
+Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+14. Insulin Regular Human 100 unit/mL Solution Sig: sliding
+scale  Injection four times a day: [**First Name8 (NamePattern2) **] [**Last Name (un) **] sliding scale.
+15. Insulin Glargine 100 unit/mL Solution Sig: Eighteen (18)
+units Subcutaneous at bedtime.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA of [**Location (un) 270**]-East & Visiting Nurse Hospice
+
+Discharge Diagnosis:
+1.  DKA
+2.  s/p AV fistula
+3.  End-stage [**Location (un) **] disease; successful initiation of
+hemodialysis
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+1.  Please call your doctor if you experience nausea, vomiting,
+lightheadedness, chest pain, difficulty breathing, fevers,
+chills, or any other symptoms of concern.
+2.

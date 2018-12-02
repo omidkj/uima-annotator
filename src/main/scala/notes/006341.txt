@@ -1,0 +1,203 @@
+Admission Date:  [**2129-9-16**]              Discharge Date:   [**2129-10-11**]
+
+Date of Birth:  [**2050-1-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Haldol / Heparin Agents
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Fever from Facility
+
+Major Surgical or Invasive Procedure:
+PICC placement
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 79 year-old male with a history of diabetes,
+coronary artery disease, recent AVR who presents from rehab with
+fevers and acute renal failure.
+.
+Recent long-term admission ([**7-9**] - [**8-25**]) with volume overload
+and hypotension in the setting of severe aortic stenosis.  The
+hospitalization was complicated by a slow GI bleed with notable
+black tarry stools; an EGD showed evidence of gastritis and
+duodenotis and a colonoscopy showed evidence of diverticulosis
+but no evidence of
+active bleeding.  Also during the admission, his trach was
+changed three times secondary to persistent leak; tracheomalacia
+extending to both mainstem bronchi was noted.  On [**2129-8-12**] he was
+taken to the operating room where he underwent AVR.
+.
+In speaking with staff from rehab, patient spiked on [**9-6**]; was
+started on vancomycin an ceftazidime for MRSA in the sputum and
+ESBL in the urine.  Tip from PICC line grew staph on [**9-9**].
+Zosyn was added on that day.  The creatinine was noted to
+increase on [**9-11**] and the vancomycin was stopped.  Transfused
+one unit of pRBC on [**9-13**].
+.
+On the morning of admission, spiked to 101.8.  Blood cultures
+were sent and he was transferred to [**Hospital1 18**] for further care.
+
+
+Past Medical History:
+1. Coronary artery disease:
+- Left heart cath done at [**University/College **] revealed non-obstructive
+CAD,
+2. Diabetes mellitus
+3. Atrial fibrillation
+4. s/p AVR, [**8-5**]
+5. Anemia
+6. s/p MVC with multiple traumas in [**2-2**] with prolonged 4 month
+hospital stay at [**University/College **], with trach placed [**2129-5-25**] after
+several intubations for hypercarbic respiratory failure
+7. Chronically depressed mental status
+8. Chronic b/l pleural effusions
+9. Chronic, severe generalized myopathy with mild membrane
+instability, and evidence for a moderate peroneal neuropathy at
+the right fibular neck seen on EMG on [**5-/2129**]
+.
+INFECTIOUS HISTORY:
+1. MRSA PNA:  Grown on sputum sample from [**2129-6-26**].
+2. Pseudomonal PNA:  Has grown pseudomonas in [**6-5**] sputum samples
+from [**6-11**] - [**8-13**].  Possible colonization.
+3. VRE UTI:  Grown on urine culture from [**2129-8-19**].  Treated with
+linezolid.
+
+Social History:
+Non-smoker. Currently at [**Hospital 100**] rehab. Has several children.
+Daughter [**First Name8 (NamePattern2) **] [**Name2 (NI) 74057**] is a nurse and makes many of his health
+decisions.
+
+Family History:
+non-contributory
+
+Physical Exam:
+vitals - T 97.3, BP 165/85, HR 83.  AC 500/12, PEEP 5, Fi02 0.4
+gen - Trached.  Does not respond to verbal cues (did not squeeze
+hand) and does not make eye contact.  In no apparent distress
+but grimaces often during physical.
+heent - Trach in place.  Difficult to assess JVP.
+cv - Hard to hear heart sounds over vent.  Irregular.  Systolic
+murmur.  Sternal wound healing without dehiscence.
+pulm - Clear anteriorly without wheeze or rales.
+abd - Soft and mildly distended.  Non-tender.
+ext - Cool.  RUE with edema > LUE.  Minimal lower extremity
+edema.  Bronze coloration of anterior shins R>L.
+neuro - Does not follow commands.
+
+Pertinent Results:
+LABS:
+.
+---ADMIT---
+138  104  66
+============ 141
+4.0  26  1.7
+.
+Ca: 8.9 Mg: 2.3 P: 3.2
+ALT: 68 AP: 263 Tbili: 0.8 Alb: 2.2
+AST: 65 LDH: 221
+.
+WBC: 13.9
+PLT: 182
+HCT: 24.4
+PT: 16.7  PTT: 39.9  INR: 1.5
+.
+RUE ULTRASOUND ([**2129-8-6**]):
+.
+ECHO ([**2129-9-28**]):
+Increased pressure gradient across the replaced AV valve.
+Outflow tract obstruction due to decreased ventricular filling.
+Otherwise normal echo.
+.
+Renal US ([**2129-9-19**]):
+1.  No evidence of hydronephrosis.
+2.  Moderate amount of free pelvic fluid.
+.
+Discharge Labs:
+138  93  79     AGap=5
+------------ 52
+4.0  44  1.9
+
+Ca: 9.5 Mg: 2.4 P: 3.6
+
+    \7.7/
+10.6 ---- 200
+    /23.3\
+
+
+Brief Hospital Course:
+ASSESSMENT/PLAN [**9-17**]:
+79 year-old male with a history of [**Month/Year (2) 8751**] and eventual trach,
+coronary artery disease, AVR, diabetes who presents with fevers.
+.
+1. Fever and leukocytosis:
+Transfered from rehab with culture data positive for ESBl E.Coli
+UTI ([**Last Name (un) 36**]:zosyn, gent, imi, tetracyclin; resis: augmentin, amp,
+ceftriaxone, aztreonam, cefepime.  He was sent from rehab on
+vanc (History of MRSA in sputum) and zosyn, and on admission was
+switched to vanc and meropenem. Pt had a pseudomonas culture
+from his sputum which was initially thought to be contamination,
+but given signs of PNA on CXR, was treated as a real infection.
+There were no signs of MRSA infection on cultures so vanc was
+discontinued (pt had been on a >10 day course starting in
+rehab).  His old PICC line was replaced with a new IR guided
+picc line early in his admission.  Given that pt had a ESBL UTI,
+it was decided to give him a 14 day course of meropenem, which
+would cover the organisms isolated from sputum culture as well.
+Pt defervesed well on meropenem therapy.  There were occassional
+isolated fever and WBC spikes which had negative workups (sputum
+cultures continued to show pseudomonas contamination).  Later in
+his hospital course, urine appeared cloudy and cultures
+indicated yeast.  Foley was changed without resolution of
+findings, so pt was given a 5 day course of fluconazole for
+bladder candidiasis and had the foley changed after that course.
+
+.
+2. Acute renal failure:
+Baseline creatinine of 1.0-1.1 at the time of prior discharge.
+Pt came in with elevated Cr in the 1.8 range.  Pt was volume
+overloaded from rehab along with fliud resucitation from
+admission, so it was initially felt that volume overload in the
+setting of history of CHF was causing poor forward flow and
+decreased renal perfusion.  Pt was agressively diuresed on
+admission, but Cr did not improve (though urine output was
+appropriate). A course of low dose captopril (6.25mg tid) was
+attempted to reduce afterload and increase forward flow, but
+this caused pt to become hypotensive, so it was stopped after 1
+day.  TTE was performed which showed EF of 70% without wall
+motion abnormalities, but did show outflow tract obstruction
+likely from intravascular depletion.  Renal US showed no
+abnormalities. During diuresis, Cr varied from 1.7 to 2.0, and
+it was assessed that this was likely a new chronic problem in
+this patient. Will recommend checking BUN/Creatinine atleast
+twice a week unless his clinical picture changes.
+.
+3. Respiratory Failure - Pt had been chronically ventilated
+since his automobile accident earlier this year.  He had some
+success with weaning in the past, but his respiratory status
+would eventually fail and he would need to be intubated again,
+and thus necessitated a tracheostomy.  Ventilator weaning was
+attempted during admission, and pt did show some evidence of
+being able to be weaned.  While initially unsuccessful at being
+taking off of AC for more than 30 minutes, but by the time of
+transfer he was able to stay on pressure support of 15/5 for
+over 24 hours at a time, but then would tire and require higher
+PS settings for rest.  It was noted that the pt was requiring
+higher cuff pressures to prevent tracheostomy leaking.  IP was
+consulted who stated that pt has a known history of
+tracheomalicia, and that the pt's trachea is fairly large and
+the current hardware available is a less than perfect fit.
+Their recomendation is to accept higher cuff pressures with some
+leak and that as long as the pt is being adqeuately ventilated,
+there is little acute intervention that needs to be done at this
+time.
+.
+4.Volume Overload: Pt was volume overloaded from rehab and from
+fluid resucitation on admission. Diuresis was started with lasix
+IVP, and at one point necessitating a lasix drip (Adjusted
+between 2-7mg/h) to which he diuresed appropriately.  Lasix dose
+needed to be adjusted frequently for hypotension.  Potassium was
+repleted as needed while on drip. Lasix was switched to 40mg IV
+bid.  As the pa

@@ -1,0 +1,194 @@
+Admission Date:  [**2128-7-9**]              Discharge Date:   [**2128-7-24**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1436**]
+Chief Complaint:
+Presented to [**Hospital3 3583**] with Chest Pain.  Transfered to
+[**Hospital1 18**] from [**Hospital3 3583**] with respiratory arrest, CHF, &
+NSTEMI.
+
+Major Surgical or Invasive Procedure:
+Intubation
+Cardiac cath with stent placmenent & Valvulopasty
+Chest tube placement
+
+
+History of Present Illness:
+[**Age over 90 **]yo F with PMH significant for HTN, colon CA, hyperlipidemia,
+and CAD who presented to [**Hospital3 **] on the evening of [**7-8**]
+with sudden onset CP. On arrival to [**Hospital3 3583**], her SaO2
+was found to 79% on room air, and she was intubated. A chest
+CT-angiogram was done, which was reportedly negative for
+pulmonary embolus. Initial ECG demonstrated a junctional rhythm
+with new 2-3mm inferior and anterolateral ST depressions and ST
+elevations in AVR and V1. She was given ASA, loaded with plavix,
+and started on heparin and integrillin gtt prior to transfer.
+In the [**Hospital1 **] ED, her VS were T 95.8F (rectal) to 99.8F, HR 63-80,
+BP 100-127/40-50. ECG demonstrated junctional rhythm with HR 60
+with persistent lateral ST depressions, but resolving ST
+depressions in inferior leads and resolving ST elevations in AVR
+and V1. Initial CEs were CK 185(17), tropT 0.63, drawn 6 hours
+after onset of symptoms. Other initial labs were significant for
+BUN/Cr of 28/1.9, K 2.8, and BNP of [**Numeric Identifier 961**]. CXR demonstrated
+hyperinflation with hilar congestion and possible R-sided
+consolidation--question of PNA. She received levofloxacin 500mg
+IV and blood cultures were sent. She was admitted to CCU for
+further management of NSTEMI, CHF and respiratory distress.
+
+
+Past Medical History:
+HTN
+Hyperlipidemia
+?CAD - note made of h/o angina
+h/o Colon CA s/p resection
+s/p hip fracture with THR
+Vit B12 deficiency
+
+
+Social History:
+Lives in senior housing where meals are prepared for her. Walks
+with a cane. Daughter comes to visit daily. Family states she
+has never smoked and does not drink. No h/o lung problems or use
+of home O2.
+
+Family History:
+non-contributory.
+
+Physical Exam:
+T: 98.8F (rectal), BP: 108/46, HR 62 (junctional), RR: 11
+Current settings: AC 450x12/5/60%.
+Gen: Intubated and sedated. NAD
+HEENT: PERRL, MMM
+CV: RRR, II/VI harsh SEM radiating to carotids, II/IV diastolic
+murmur
+Chest: Coarse BS diffusely, no rales. BS equal.
+Abd: Soft, NT/ND, +BS, no HSM
+Extr: 1+ LE edema bilaterally, 2+ DPs bilaterally
+Neuro: Intubated, sedated. No focal deficits.
+
+
+Pertinent Results:
+[**2128-7-24**] INR = 4.4 (off coumadin for 2days)
+
+[**2128-7-8**] 11:45PM   GLUCOSE-180* UREA N-28* CREAT-1.9* SODIUM-133
+POTASSIUM-2.8* CHLORIDE-98 TOTAL CO2-21* ANION GAP-17
+[**2128-7-8**] 11:45PM   WBC-22.5* RBC-4.21 HGB-12.0 HCT-34.0* MCV-81*
+MCH-28.5
+[**2128-7-8**] 11:45PM   calTIBC-222* FERRITIN-226* TRF-171*, RET
+AUT-1.8
+[**2128-7-8**] 11:45PM   cTropnT-0.63*, CK(CPK)-185*
+[**2128-7-9**] 10:59AM   TYPE-ART PO2-76* PCO2-33* PH-7.41 TOTAL
+CO2-22 BASE XS-2
+
+Echo [**2128-7-9**]: Ejection Fraction: 45% to 50%
+1. The left atrium is moderately dilated.
+2.Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is mildly depressed. Resting regional wall
+motion abnormalities include anterior hypokinesis with distal
+septal akinesis.
+3.Right ventricular chamber size is normal. Right ventricular
+systolic  function is normal.
+4.The aortic valve leaflets are moderately thickened. There is
+severe aortic  valve stenosis. Trace aortic regurgitation is
+seen.
+5.The mitral valve leaflets are moderately thickened. There is
+minimal to mild mitral stenosis. Mild (1+) mitral regurgitation
+is seen.
+6.There is no pericardial effusion.
+
+
+Brief Hospital Course:
+#Cardiovascular-
+  STEMI:  Pt found to have NSTEMI with troponin peaking 1.232.
+Trigger for MI may have been plaque rupture or, also,
+demand-supply mismatch in the setting of possible PNA &
+respiratory failure.  Cardiac catheterization on [**2128-7-12**]
+revealed normal LMCA, 70-80% calcified stenosis of LAD, small
+LCx, and RCA with 90% mid-occlusion.  The RCA was stented with
+Sirolimus-eluting stents.  Pt recovered uneventfully from the
+cath.  NSTEMI & post-cath therapy included ASA, Plavix, and
+heparin gtt.
+.
+CHF:
+Pulmonary edema on admission thought to be due to CHF.  Echo on
+[**7-9**] revealed moderate to severe AS (tx'd at cath) and an EF of
+45 to 55%.  It appears that pt may have mild CHF.  After
+admission, she showed few if any signs of heart failure.
+.
+A-fib:
+Pt monitored on telemetry.  Went into rapid a. fib during
+admission.  Underwent D/C cardioversion, which failed to convert
+her to NSR.  Multiple meds were equired to slow rate
+(amiodarone, metoprolol, and diltiazem).  Her rapid afib seemed
+to respond best to the diltiazem & amiodarone.  On these three
+medications, she eventually converted into sinus rhythm, which
+she has been in for 3 days now.  Since converting into sinus
+rhythm, her HR has dropped into the 50's.  Because of this slow
+rate, her beta-blocker was d/c'd and her calcium-channel blocker
+was continued at lower dose--short acting diltiazem 30mg, three
+times a day. The patient was also started on coumadin for the
+afib.  However, there was debate over whether the patient should
+be on coumadin (given her age, risk factors for a fall, and the
+fact that she is already on aspirin & plavix for her cardiac
+issues).  After extensive discussion, it was determined to
+proceed with coumadin therapy during hospitalizaiton and to
+discuss the issue with the patients PCP before discharge;
+however, we were unable to contact PCP prior to this discharge.
+While on coumadin, the pt had two bouts of uncomplicated,
+supratherapeutic INRs.  Becuase of this we eventually, decided
+that it would be safer for her to be off coumadin, and tx'd only
+with aspirin & plavix.
+.
+# Aortic Stenosis:
+Found to have moderate to sever AS on echo. During cath, the pt
+underwent balloon valvuloplasty for AS (valve area
+0.7cm2-->0.9cm2), reducing the gradient by 50%.
+.
+#Respiratory failure: Hypoxic respiratory failure.  Intubated on
+[**7-9**]. Failed extubation on [**7-12**], after developing worsening
+pulmonary edema.  Successful extubation on [**7-13**], post-cath.
+.
+#? RLL PNA/infx: afebrile on admission, though CXR suspicious
+for PNA. Pt tx'd with azithromycin, ceftriaxone & levofloxacin,
+which were d/c'd after concern of pt developing ATN w/ azithro &
+CTX and of further prolonging QTc interval.  Pan-cultured,
+yielding no evidence of infection.
+.
+#Pneumothorax: caused during placement of central line.
+Resolved with chest tube.
+.
+#Elevated WBC w/ monocytosis: Noted upon arrival at [**Hospital1 18**].
+Unclear what baseline white count or differential is.  While WBC
+has declined somewhat, it is still elevated,  The differential
+has shown persistent monocytosis (>4,000 u/L) along with
+promyelocytes and metamyelocytes on peripheral smear. (No blasts
+seen on smear.)  Pt seen & elavuated by Hematology/Oncology, who
+believes pt likely has a myeloproliferative disorder.  They have
+recommended a number of blood tests (including a complete anemia
+evaluation and cytogenetic testing).  They will help develop
+plan for follow-up care, and are in the process of contacting
+the pt's PCP.
+.
+#Anemia: Pt required multiple transfusions during
+hospitalization.  She reportedly has h/o B12 defic, requiring
+B12 injections.  Iron studies revealed a nml iron level (88) and
+an elevated ferritin (226).  If the pt does have a
+myeloproliferative d/o, her anemia may be related to that.
+.
+#Renal Failure: baseline Creatinine is unknown, though her crt
+has settled at 0.9.  It peaked at 2.4, and improved since then.
+Exact cause of her ARF is unclear.  It may have been due in part
+to a pre-renal state given that she was showing some signs of
+CHF.  Medications renally dosed.
+.
+#Coagulation issues: after pt was started on coumadin for afib,
+she developed a supratherapeutic INR.  Coumadin d/c'd because of
+pt's risk for fall.
+.
+#FEN: pt started on tube feeds via NGT while intuba

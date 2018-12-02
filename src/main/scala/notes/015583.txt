@@ -1,0 +1,199 @@
+Admission Date:  [**2163-12-25**]              Discharge Date:   [**2163-12-31**]
+
+Date of Birth:  [**2082-12-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Aspirin
+
+Attending:[**First Name3 (LF) 1646**]
+Chief Complaint:
+respiratory distress
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname 8498**] is an 81 year-old former smoker with [**Last Name (un) 309**] body
+dementia and dysphagia who presents with respiratory distress.
+He is bedbound at baseline, cared for by his family, and has
+been having likely aspiration for at least one year, with
+worsening over the past week, as demonstrated by increased
+coughing after eating. He was doing well until last night when
+he began coughing more frequently, though his cough was
+non-productive. This morning, he developed gradually worsening
+dyspnea and was brought to the E.D. by his daughter and
+son-in-law, Dr. [**Last Name (STitle) 1911**], one of the attending cardiolgoists
+at the [**Hospital1 18**]. He was also described as having difficultly
+clearing his secretions en route. ROS was negative for fevers,
+chills, sick contacts, pets, n/v/diarrhea.
+.
+In the ED, vital signs were initially: 98.2 120 106/61 27 89%ra.
+He appeared in marked respiratory distress and was placed on
+cpap (peep 5), with improvement in his respiratory status. An
+ABG demonstrated 7.32/39/71 and a CXR was concerning for a
+likely LLL pneumonia. He was given ceftriaxone, azithro, and
+clinda for aspiration and transferred to the [**Hospital Unit Name 153**].
+.
+REVIEW OF SYSTEMS (per family):
+No fevers, chills, weight loss, chest pain, nausea, vomiting,
+abdominal pain, constipation, diarrhea.
+.
+
+
+Past Medical History:
+- [**Last Name (un) 309**]-body Dementia
+- REM Behaviour Disorder (followed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **])
+- BPH
+- Status post partial gastrectomy
+- Hypertension
+- Left Radical Nephrectomy, [**3-5**] (for pT1b papillary RCC)
+.
+
+
+Social History:
+He lives at home with his wife, daughter and son-in-law. [**Name (NI) **] has
+been having cognitive/functional decline for many months now,
+more so in the last month. Prior heavy smoker, quit 18 yrs ago.
+
+Family History:
+NC
+
+Physical Exam:
+VS: 98.8 80 102/49 18 96%4L
+GEN: agitated, breathing with accessory muscles but appears
+comfortable, not cooperative with exam
+SKIN: Open decubitus on right heel and heeling pressure ulcer on
+left elbow
+HEENT: No JVD, neck supple, No lymphadenopathy in cervical,
+posterior, or supraclavicular chains noted.
+CHEST: Lungs with bilateral rhonchi
+CARDIAC: Regular rhythm; no murmurs, rubs, or gallops.
+ABDOMEN: Non-distended, and soft without tenderness
+EXTREMITIES:no peripheral edema
+NEUROLOGIC: not cooperative with exam, only able to say name. CN
+II-XII grossly intact. BUE [**5-31**], and BLE [**5-31**] both proximally and
+distally. +Cogwheel rigidity.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 8498**] is an 81 year-old former smoker with [**Last Name (un) 309**] body
+dementia and dysphagia who presented with respiratory distress.
+.
+Primary Diagnosis: 486 PNEUMONIA, ORGANISM UNSPECIFIED
+Likely secondary to aspiration pneumonitis versus pneumonia.
+Now has a persistent infiltrate on CXR likely an aspiration
+pneumonia vs community-acquired pneumonia. After receiving bipap
+he was sent to the ICU. His respiratory status improved enough
+to be transferred to the floor soon afterwards.  He was treated
+with levofloxacin to complete a 10 day course. At the time of
+discharge he was on room air breathing comfortably.
+.
+Secondary Diagnosis: 584.9 ACUTE RENAL FAILURE
+Secondary Diagnosis: 585.3 CHRONIC KIDNEY DISEASE, STAGE III
+(30-59)
+Cr elevated to 3.2 from baseline of 1.2.  Improved with IVF and
+intake from TF. To be checked the week following discharge.
+.
+Secondary Diagnosis: 276.0 HYPERNATREMIA
+The patient was dehydrated on admission. Free water repleted
+with combination of IV and NG free water. Nutrition recommended
+daily intake of 450cc a day to maintain sodium, which did not
+appear to work as his sodium was increasing on this regimen, so
+he was discharged on 750cc/day of free water to be checked in
+the week following discharge.
+.
+Secondary Diagnosis: 287.5 THROMBOCYTOPENIA, UNSPECIFIED
+Has baseline Plts in mid 100's. fell lower with fluids, but
+returned to baseline.
+.
+Secondary Diagnosis: 787.20 DYSPHAGIA, UNSPECIFIED
+S/S evals revealed aspiration.  Plan for 2 weeks of TF to regain
+strength and to clear infection along with heavy secretions. At
+2-3 weeks, repeat bedside swallowing eval to be performed to
+return to prior PO intake.
+.
+Secondary Diagnosis: 331.82 DEMENTIA, [**Last Name (un) **] BODIES (PICK'S)
+Patient with baseline severe dementia, but is able to walk with
+assistance and can be alert and vocal(although oriented x 0).
+Plan is to continue conservative management. Geriatrics was
+consulted and recommended continuing Aricept as this has some
+effects even in advance [**Last Name (un) 309**] body dementia.
+
+Medications on Admission:
+MEDICATIONS AT HOME (per OMR):
+CLONAZEPAM - 0.5 mg Tablet - [**1-30**] Tablet(s) by mouth at bedtime
+DONEPEZIL [ARICEPT] - 10 mg Tablet - 1 Tablet(s) by mouth once a
+day
+
+
+Discharge Medications:
+1. Docusate Sodium 50 mg/5 mL Liquid Sig: Two (2) doses PO BID
+(2 times a day) as needed for constipation.
+2. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+3. Senna 8.8 mg/5 mL Syrup Sig: Ten (10) ML PO HS (at bedtime)
+as needed for constipation.
+4. Levofloxacin 500 mg Tablet Sig: 0.5 Tablet PO once a day for
+4 days.
+Disp:*2 Tablet(s)* Refills:*0*
+CLONAZEPAM - 0.5 mg Tablet - [**1-30**] Tablet(s) by mouth at bedtime
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Last Name (LF) 486**], [**First Name3 (LF) 487**]
+
+Discharge Diagnosis:
+Primary Diagnosis: 486 PNEUMONIA, ORGANISM UNSPECIFIED
+Secondary Diagnosis: 331.82 DEMENTIA, [**Last Name (un) **] BODIES (PICK'S)
+Secondary Diagnosis: 584.9 ACUTE RENAL FAILURE
+Secondary Diagnosis: 585.3 CHRONIC KIDNEY DISEASE, STAGE III
+(30-59)
+Secondary Diagnosis: 276.0 HYPERNATREMIA
+Secondary Diagnosis: 287.5 THROMBOCYTOPENIA, UNSPECIFIED
+Secondary Diagnosis: 787.20 DYSPHAGIA, UNSPECIFIED
+Secondary Diagnosis: 293.0 DELIRIUM, NOS
+
+
+Discharge Condition:
+Mental Status:Confused - always
+Activity Status:Out of Bed with assistance to chair or
+wheelchair
+Level of Consciousness:Lethargic but arousable
+
+
+Discharge Instructions:
+-Tube Feeding:The tube feeds will operate on a continuous pump
+at 50ml/hr. The dobhoff tube has been marked at it's current
+site and please ensure that it is secured at all times. When the
+patient is getting out of bed or laying flat in bed, the tube
+feeds should be put on hold for [**11-10**] minute prior if possible.
+While the tube feeds are running the head of the bed should be
+at >45 degrees. The free water flushes should start at 125 ml
+six times a day and can be administered by shutting off the tube
+feeds for 5-10 minutes, then slowly infused with a syringe. Our
+nutritionist recommend 125 ml flushes 3 times a day to meet his
+free water goals, but he appeared to require approximately 6 to
+maintain his blood tests in normal range. The free water will
+likely need to be adjusted based on his laboratory findings
+which will be drawn by VNA 2 times in the next week.
+-Swallowing function:We recommend re-evaluating his swalling
+with a bedside swallowing evaluation in [**3-1**] weeks when his
+strength has returned to pre-hospitalization levels. While his
+swallowing function is improving, we recommend oral care every 6
+hours to prevent aspiration pneumonia.
+-Antibiotics:He received 7 doses of antibiotics during the
+hospitalization and he will only need 3 more days of treatment.
+This can be done by crushing and soaking the pills in water and
+flushing them in the tube once a day.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 665**] has been contact[**Name (NI) **] about his discharge and we
+recommend calling his office for follow up plans on monday.  If
+you would like to arrange a new patient follow up with a
+geriatrician in your area that is recommended as well.
+
+
+

@@ -1,0 +1,200 @@
+Admission Date:  [**2153-4-23**]              Discharge Date:   [**2153-4-29**]
+
+Date of Birth:  [**2083-5-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 11892**]
+Chief Complaint:
+fever, altered mental status
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+History obtained from MICU team; patient appears to be
+unreliable historian.
+
+Pt is a 69M with dementia, s/p cardiac arrest [**2149**] with anoxic
+brain injury, paroxysmal atrial fibrillation, DM2, and HTN
+admitted from [**Hospital3 537**] with fever and altered mental
+status.  Per [**Hospital3 537**] staff, "hasn't been himself" since
+day prior to admission; testing there demonstrated leukocytosis
+(WBC 15.5K) with borderline pyuria (5 WBCs) and received empiric
+ciprofloxacin for possible UTI.  On day of admission, noted to
+have unstable gait, "leaning to right", unable to get to
+bathroom by himself (apparently normally able to ambulate
+independently with walker).  Sent to [**Hospital1 18**] ED for further
+evaluation.
+
+Further history obtained from daughter [**Name (NI) 7346**], who reports
+patient was lethargic, "not talking", "wincing" when touched
+approximately 48hrs prior to his admission.  Patient was not
+reporting any specific symptoms, however has noted to be
+recently "choking on his food".  Has a chronic cough (since his
+VF arrest in [**2149**]), but recently more productive.  Poor PO
+intake prior to admission.  Daughter reports that patient is
+currently (evening of [**4-25**]) very close to his baseline mental
+status.
+
+In ED, febrile ro 103.8, in afib with RVR 150s-170s, with serum
+Na=153.  Treated with IV fluids (2L), vancomycin/ciprofloxacin,
+diltiazem, and right IJ CVL placed.  Subsequent transient
+hypotension to 80s, resolved spontaneously without pressor
+support.  Admitted to [**Hospital Unit Name 153**] for possible sepsis.
+
+In [**Hospital Unit Name 153**], converted to sinus rhythm with HR 70s.  Antibiotics
+continued empirically.  D5W infusion administered in setting of
+hypernatremia.  Blood, urine cultures unrevealing.  Chest x-ray
+without overt infiltrate.  Head CT without mass or acute bleed.
+Abd/pelvis CT unremarkable per preliminary report.  Per MICU
+notes, overall mental status much improved according to
+patient's daughter, though not yet at baseline.
+
+Past Medical History:
+1. DM2
+2. Hypertension
+3. Hyperlipidemia
+4. h/o VFIB arrest in [**12-17**] secondary to cocaine/EtOH use,
+complicated by coma, anoxic brain injury, and evidence if IMI,
+inferior ischemia with resultant improvement in heart function
+5. Paroxysmal AFib: not on anticoagulation due to fall risk
+6. Anoxic Brain Injury/Dementia
+7. Pulmonary Hypertension
+8. BPH with urinary retention
+9. GERD
+
+
+Social History:
+[**Hospital3 537**] resident.  Daughter [**First Name8 (NamePattern2) 7346**] [**Last Name (NamePattern1) 3924**] is his legal
+guardian; she is a registered nurse.  Prior history of
+EtOH/cocaine abuse.
+
+Ambulates with cane at baseline.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+T 99.2 / BP 154/92 / HR 90s / O2 sat 96% RA / RR 21
+GEN: Awake and alert in NAD.  Disoriented.
+HEENT: Pupils 2mm round and reactive, anicteric sclerae, moist
+mucous membranes, atraumatic.
+NECK: Right IJ CVL in place, no palpable lymphadenopathy.
+Supple.
+CHEST: Clear to auscultation and resonant to percussion
+bilaterally.
+COR: S1 S2 tachycardic regular without audible murmur.
+ABD: Soft, non-tender, non-distended, without organomegaly.
+NABS.
+EXTREM: Trace ankle edema.  Dupuytren's contracture right hand.
+No clubbing or cyanosis.
+NEURO: Oriented only to self.  Counts 10 to 1 fluently, names
+days of week forward but not backwards.  CN II-XII intact.  No
+asterixis.  No pronator drift.  Motor strength 5/5 bilateral
+delt/tri/[**Hospital1 **]/wrist ext/wrist flex, iliopsoas/quad/hams/ankle
+ext/ankle flex.  Toes downgoing bilaterally.  DTRs 2+ biceps,
+brachioradialis, patella bilaterally.  Sensation to LT grossly
+intact throughout.
+
+
+Pertinent Results:
+Admission labs:
+Na 157 K 4.0 Cl 122 CO2 25 BUN 37 Cr 1.3 Gluc 80; AG 10
+CPK 1050, Trop 0.08, CK-MB 4
+Ca 8.3, Phos 3.2, Mag 1.9
+WBC 12.5, HCT 40.7, PLT 174
+Lact 2.7 -> 4.5
+UA negative
+
+Repeat labs:
+Na 153, Cr 1.7, AG 19
+CPK 1348, Trop 0.06, CK-MB 5
+LFTs wnl
+WBC 12.4 (91N)
+
+EKG: Afib/flutter 155, QRS axis WNL, Q waves in III/F, 1mm ST
+depression in I, avL
+
+IMAGING:
+HEAD CT: No mass or bleed.
+CT ABD/PELVIS: No source of infection identified; stable
+peri-renal stranding since [**2151**] study.
+CXR: No acute infiltrate.
+
+Brief Hospital Course:
+Mr. [**Known lastname 10321**] is a 69 yo M with a history of dementia/anoxic brain
+injury, DM2, HTN admitted with fever and altered mental status,
+noted to be in atrial flutter with RVR. Transferred to [**Hospital1 1516**]
+cardiology floor for diltiazem drip as rate not responding to IV
+metoprolol and diltiazem. Converted to NSR on dilt gtt so was
+switched to po dilt 240 mg SR, and went back into aflutter with
+RVR. EP consulted and recommended starting quinidine on [**2153-4-26**].
+Patient was successfully converted to NSR on quinidine.  His
+hospital course is outlined by problem below:
+.
+#. Atrial Flutter with intermittant RVR: Hemodynamically stable.
+Patient had been in AFib with RVR when initially admitted to the
+ICU, but spontaneously converted to NSR during his stay. After
+being called out, the patient has had sustained ventricular
+rates in 130-150s and had not responded to IV metoprolol and
+diltiazem. The patient was transferred for IV diltiazem gtt. Per
+medical record, no anticoagulation in setting of baseline fall
+risk. He was started on a heparin gtt and dilt gtt on [**2153-4-25**].
+Converted to NSR on dilt gtt so was switched to po dilt 240 mg
+SR, and went back into aflutter with RVR. EP consulted and
+recommended starting quinidine on [**2153-4-26**]. Patient was
+successfully converted to NSR on quinidine. Continue quinidine
+at 324 mg q8H as outpatient with close monitoring of QTc with
+daily EKGs. Baseline QTc [**2153-4-23**] was 466. Monitor for QT
+prolongation of increase in QTc 25% above baseline. His QTc at
+time of discharge was ~480. Continue to replete K<4.0 and
+Mg<2.0; he will be discharged on 400mg magnesium oxide [**Hospital1 **].
+Continue daily aspirin per baseline regimen. PT consult to
+evaluate fall risk; pt is significant fall risk. Because of
+this, he will not be anticoagulated with coumadin as outpatient
+at time of discharge.
+.
+#. Fever/leukocytosis: Resolved. Afebrile, pt has clinically
+improved since admission. Potential sources urinary, pulm have
+been ruled out. Only symptom appears to be mildly productive
+cough. Patient had been on antibiotics (Vanc/Levo) while in the
+ICU, but these were discontinued in the absence of identified
+bacterial process and clinical improvement. NGTD on urine or
+blood cultures suggestive of infection.
+Since transfer to [**Hospital1 1516**] cardiology on [**2153-4-25**] patient was
+afebrile and had resolution of leukocytosis with normal WBC at
+time of discharge.
+.
+#. Anemia: Stable HCT of 38.4. Asymptomatic.
+.
+#. AMS: Improved. Suspect that patient had waxing and [**Doctor Last Name 688**]
+delirium in setting of fever, hypernatremia, and hypovolemia
+when he was admitted. Patient has had CT head that did not show
+new infarct or bleed. Continued baseline fluoxetine, donepezil,
+risperidone, and prn Haldol. Haldol was discontinued without
+issues regarding agitation on morning of [**2153-4-28**], given increase
+in QTc.
+.
+#. Hypernatremia: Na 148 on admission, resolved with normal
+serum sodium of 141 with po free water repletion.
+.
+#. HTN: Held beta blocker and ACEI while on dilt gtt. Restarted
+lisinopril [**4-26**].
+.
+#. ARF, pre-renal: Improved s/p fluid resusitation. Cr 1.1, at
+baseline.
+.
+#. Mild Rhabdo, elevated CPK: CK 815. Unclear etiology. Suspect
+related to acute illness. Held statin initially with
+improvement. Restarted at time of discharge.
+.
+# FEN: Patient had speech and swallow evaluation on [**2153-4-25**]. No
+evidence of aspiration. Okay to continue on regular diet with
+distant supervision per their recommedations.
+.
+# Continue DVT prophylaxis with Hepar

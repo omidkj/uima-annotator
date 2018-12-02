@@ -1,0 +1,170 @@
+Admission Date:  [**2189-8-31**]              Discharge Date:   [**2189-9-4**]
+
+Date of Birth:  [**2114-5-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Magnesium Sulfate
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Dyspnea
+
+
+Major Surgical or Invasive Procedure:
+Bilateral chest tubes placed [**2189-8-31**]
+Right sided pleurex chest tube [**2189-9-3**]
+
+
+History of Present Illness:
+Pt is a 75yo woman with critical AS, CHF (EF 30%), complete
+heart block s/p pacemaker, HCV, hypothyroidism, recently
+diagnosed aggressive B cell lymphoma c/b SVC syndrome s/p Y
+stent and subsequent removal, C3D+11 reduced R-CHOP. Recently
+admitted for hypotension and anemia/thrombocytopenia requiring
+transfusions in the setting of her critical AS. She was given
+500cc IVF for SBP in the 80s, with good response to her baseline
+SBP of 90s-100s. She was then transfused 1unit PRBCs and 1 bag
+of platelets, and given a dose of Neupogen. Since discharge, she
+has been feeling more dyspneic, with symptoms increasing over
+the last 3-4 days while at home. She also describes occasional
+cough and clear phlegm production. She denies fevers or chills,
+but noted a "rising temp" and generalized weakness. She also
+describes increasing difficulty swallowing and odynophagia. She
+denies any chest pain, abd pain, nausea, vomiting, change in
+bowel habits, or dysuria. Her home health nurse has also noted
+increasing accessory muscle use and adventitious lung sounds.
+
+In the ED, initial VS: Temp 98.4 F, HR 88, BP 96/56, RR 18, SaO2
+100% 2L NC. She was 93% on RA, which improved to 97% on 2L O2
+NC. Exam was notable for decreased BS on the right. She
+otherwise appeared comfortable and not tachypneic. She was
+speaking in full sentences and A&Ox3. Labs included WBC 10.2
+(86% PMNs), stable H&H, Plts, and normal INR. Chemistries
+notable for Na 133, K 3.2, Cl 90, HCO3 34. Other labs included
+BNP [**Numeric Identifier 23459**], normal trop and lactate. Blood culture was sent and
+is pending. ECG was V-paced at 88 bpm with lateral ST
+depressions, unchanged on repeat. CXR with increasing pleural
+effusion from previous. Interventional pulmonology fellow was
+alerted. She was given PO K 40 mEq but she vomited the pills. No
+IV fluids or Abx were given. She is admitted for further care.
+VS prior to transfer: Temp 97.6 F, HR 91, BP 99/76, RR 20, SaO2
+96% 2L NC.
+
+ROS: As listed above in the HPI. All other systems are negative.
+
+
+Past Medical History:
+ONCOLOGY HISTORY: Aggressive B cell lymphoma
+[**3-/2189**]: Presented to PCP with neck and facial swelling. Referred
+to allergy and ENT with neck CT revealing SVC syndrome from
+extensive mediastinal lymphadenopathy. Chest CT showed right
+supraclavicular mass displacing trachea and massive mediastinal
+lymphadenopathy.
+[**Date range (3) 23460**]: Admitted to [**Hospital1 18**] with c/o 2 months of facial
+swelling, poor appetite and 10 lbs weight loss.
+[**2189-5-11**]: Bronchoscopy with diagnostic EBUS-TBNA revealed B
+cell lymphoma although minimal specimen was obtained. LDH was
+314. Silicone Y stent placed for extrinsic compression in light
+of [**Year (4 digits) 9140**] respiratory symptoms.
+TREATMENT HISTORY:
+ *  Received two doses of emergency radiation therapy on
+[**2189-5-15**], a dose of Cytoxan on [**2189-5-16**] and three-fifth dose
+of [**Hospital1 **] chemotherapy starting on [**2189-5-20**] that had to be
+aborted secondary to failure of her vascular access.  Repeat CT
+chest showed a widely patent Y stent and she was discharged to
+home [**2189-5-26**].
+ * Admitted on [**2189-6-1**] with hypotension (SBP 80s) with
+increasing dyspnea for further evaluation.  Mediastinal biopsy
+on [**2189-6-3**] was nondiagnostic and the Y stent was removed.
+ * 2nd cycle of [**Hospital1 **] (dose level 1) given on [**2189-6-8**],
+requiring increasing doses of Lasix to maintain her volume
+status.
+ * [**2189-6-11**], developed non-occlusive PICC associated thrombus
+in the brachial vein extending into the axillary vein.  Given
+her difficult access, it was decided to leave PICC in place and
+she continued on Lovenox twice per day.  Discharged on
+[**2189-6-16**].
+ * Required an admission on [**2189-6-19**] with pancytopenia,
+[**Year (4 digits) 9140**] dyspnea, and increased creatinine.  Diureses and
+underwent right thoracentesis.  Noted for C difficile infection
+and treated with Flagyl which has been switched to Vancomycin.
+ * Discharged on [**2189-7-2**] and saw Dr. [**Last Name (STitle) 23461**] [**Name (STitle) 3315**] from [**Company 2860**]
+in consultation who recommended a dose adjusted CHOP regimen
+given her age and other medical issues with usual dose of
+Rituxan.
+ * Required admission again on [**2189-7-9**] with weakness and
+increased dyspnea requiring oxygen support.  Transferred to
+Cardiology for [**Year (4 digits) 9140**] peripheral edema and dyspnea.  Started
+on a lasix drip and underwent aggressive electrolyte and fluid
+management.  Switched to Torsemide.  After her fluid status was
+optimized, transferred back to the Hematologic Malignancy
+service for her chemotherapy.
+ * Received dose adjusted CHOP on [**2189-7-18**](Cytoxan given at a
+dose of 400 mg per meter squared, Adriamycin 25 milligrams per
+meter squared, vincristine 2 mg(no dose reduction) and
+prednisone 60 milligrams daily for 5 days).  Discharged on
+[**2189-7-20**] with close follow up with the Heart failure clinic.
+ * [**2189-7-24**], attempts were made to give Rituxan as outpatient.
+Developed shortness of breath given large fluid volume. Dose
+divided and she received 150 mg on [**2189-7-29**] and [**2189-7-31**].
+ * [**2189-8-3**], admitted with acute dyspnea with a drop in her
+oxygen saturation. Chest CTA without pulmonary embolus. Noted
+for large pleural effusions, right greater than left.
+Transferred again to Cardiology service for closer management of
+her fluid status.  Cardiac catheterization done which revealed
+full occlusion of her RCA stent and 70-80% stenosis of her LMCA
+that had developed since the most recent angiogram.  No surgical
+intervention was performed given her high risk; continued on her
+aspirin.  Metoprolol has been held with low blood pressure but
+restarted along with aspirin.  Right pleural effusion was again
+tapped.
+ * Third consultation with Dr. [**Last Name (STitle) 23462**] @ [**Hospital1 2025**] on [**2189-8-7**] who
+agreed with the current plan.  Maintained on Oxygen and was
+discharged on [**2189-8-8**].
+ * [**2189-7-23**], admitted for her 2nd cycle of the dose adjusted
+RCHOP.  Chemotherapy given on [**2189-8-19**] and Rituxan on [**2189-8-20**]
+after her pleural effusion was again tapped and her fluid status
+maximized with aggressive diuresis.  Repeat echocardiogram on
+[**2189-8-14**] which showed an EF of ~ 30%.  Repeat upper extremity
+ultrasound showed resolution of upper extremity thrombus and
+Lovenox discontinued.  Discharged on [**2189-8-22**] and has been
+receiving Neupogen daily.
+
+Past Medical History:
+- Left breast cancer s/p lumpectomy and radiation in [**2153**], at
+[**State 792**]Hospital
+- Critical aortic stenosis with plans for possible percutaneous
+aortic valve replacement, aortic valve area of 0.87 cm2
+- Coronary artery disease s/p drug-eluting stent to the RCA in
+[**2188-5-21**]
+- moderate aortic regurgitation
+- Complete heart block status post pacemaker [**2185-6-21**]
+- CHF, EF 35-40% ([**2189-7-15**])
+- History of Pericarditis- prior to [**2184**]
+- Chronic Hepatitis C: stage II fibrosis per biopsy [**Month (only) **]
+[**2185**]
+- Osteopenia
+- Hypothyroidism
+- Basal cell carcinoma s/p resection of right clavicular lesion
+[**2187**]
+- Hyperlipidemia
+- Hypertension
+- Endometriosis
+- Superior vena cava syndrome resulting from primary mediastinal
+lymphoma, s/p Y bronchial stent placement, Y stent has been
+removed. XRT for SVC syndrome
+- s/p [**Company 1543**] PPM [**2184**] (Model # ADDRL1)
+- s/p Bilateral Cataracts
+- s/p Left Breast Lumpectomy
+- s/p Laparoscopy for Endometriosis
+- s/p Squamous Cell Removal
+
+
+Social History:
+Lives alone, works as an artist(abstract art). Used to be very
+active, but activities have been curtailed by symptomatic
+shortness of breath. Divorced, no children. Currently with 24
+hour nursing care.
+- 

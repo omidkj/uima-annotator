@@ -1,0 +1,225 @@
+Admission Date:  [**2165-7-2**]              Discharge Date:   [**2165-7-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 759**]
+Chief Complaint:
+hypoxic respiratory failure
+
+Major Surgical or Invasive Procedure:
+intubation
+arterial line
+
+History of Present Illness:
+Mr [**Known lastname **] is a 83 y/o M with MMP including CAD s/p CABG, afib,
+HTN, Parkinson's and chronic aspiration recently admitted for
+GIB and PNA who represents with hypoxic respiratory distress
+requiring intubation in the ED.
+.
+During his last admission ([**Date range (1) 66812**]); Pt presented from his NH
+intubated after being found in respiratory distress, febrile,
+hypotensive and anemic/melena. Pt was admitted to the MICU and
+started on pressors and broad spectrum ABx. Transfused
+aggressively requring 7 units PRBC and FFP to reverse a
+therapeutic INR. HCT stabilized and EGD was not pursued based on
+family wishes. Abx course for MRSA PNA: Vanc/Zosyn ->
+Vanc/Flagyl -> Vanc/Levo which he was d/c home on to complete 10
+more days of therapy. Of note; during this hospitalization he
+had occasional desaturations, but these resolved with aggressive
+chest PT and expectoration of large mucus plugs. Pt subsequentlt
+d/c'd to rehab on [**6-29**] to complete his ABx course.
+.
+Rehab: Apparently Pt with worsening lung examination and hypoxia
+with SaO2 66% on unclear O2.
+.
+ED Course:
+Intubated for hypoxic respiratory failure [7.38/68/48]
+Became hypotensive -> transiently started on Levophed
+ABx: Levo/Flagyl
+
+
+Past Medical History:
+1. Parkinson's
+2. chronic aspiration with g-tube
+3. AFib on coumadin  (had been evaluated by cardiologist in
+[**12-22**], and it was decided not to place him on coumadin given
+history of multiple falls, but to rate control him with
+metoprolol.  Had been on sotalol in the past)
+4. CAD s/p CABG [**2157**], 4 coronary vein grafts
+5. frequent falls
+6. GERD
+7. Hyperlipidemia
+8. Myelodysplastic syndrome
+9. Urinary obstruction (?BPH)
+10. HTN
+11. Antral gastritis
+12. malignant melanoma right ear excised
+13. multiple polyps (from ascending, transverse and sigmoid
+colons - hyperplastic tubulovillous adenomas) seen on
+colonoscopy [**3-/2164**]
+14. Restrictive lung disease [**3-21**] to asbestos exposure
+15. chronic vit B12 deficiency
+16. BPH
+
+
+Social History:
+Patient lives in a nursing home.  Quit smoking in [**2128**] after 20
+years.  Quit alcohol in [**2154**].
+
+
+Family History:
+diabetes in brother
+
+Physical Exam:
+ED -> 98.1, 149/90, 134, 41 90% NRB
+ICU -> 99.1, 143/73, 162, 100 % (AC 500x20/5/50%)
+.
+Gen: intubated and sedated
+HEENT: PERRL, anicteric, ETT
+Neck: visible carotid pulsations, no obvious JVD
+Lungs: course BS thru/o with scattered rhonchi ant.
+CV: tachycardic, no appreciated m/r/g
+Abd: soft, nd. g-tube site intact. +BS
+Ext: No edema, 1+ DP bilaterally, PT not felt
+SKIN: dry and cool
+Neuro: sedated
+
+
+Pertinent Results:
+CXR AP [**7-2**]:
+1. Findings consistent with multifocal pneumonia.
+2. There is mild pulmonary edema.
+
+ECG [**7-2**]:
+Atrial fibrillation with rapid ventricular response
+Probable left ventricular hypertrophy
+Poor R wave progression - could be in part left ventricular
+hypertrophy but clinical correlation is suggested
+Nonspecific ST-T wave changes
+Since previous tracing of [**2165-6-25**], no significant change
+
+Moderate pulmonary edema, worse in the right lung, unchanged
+over the past three days. Small right pleural effusion persists.
+Heart size normal. Tip of the ET tube at the level of the
+sternal notch. No pneumothorax.
+
+ECHO [**7-4**]:
+The left atrium is moderately dilated. The right atrium is
+moderately dilated.  Left ventricular wall thicknesses are
+normal. The left ventricular cavity size is normal. Overall left
+ventricular systolic function is normal (LVEF>55%).  Right
+ventricular chamber size and free wall motion are normal. The
+aortic root is mildly dilated. The aortic valve leaflets are
+mildly thickened. There is a minimally increased gradient
+consistent with minimal aortic valve stenosis. Moderate (2+)
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild to moderate ([**2-18**]+) mitral regurgitation
+is seen. The tricuspid valve leaflets are mildly thickened.
+There is mild pulmonary artery systolic hypertension. There is a
+small pericardial effusion.
+
+No vegetation seen (but cannot exclude).
+
+Time Taken Not Noted     Log-In Date/Time: [**2165-7-2**] 10:12 pm
+      BLOOD CULTURE
+
+   AEROBIC BOTTLE (Preliminary):
+      ENTEROCOCCUS SP..    FURTHER IDENTIFICATION TO FOLLOW.
+         PRELIMINARY SENSITIVITY.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------       R
+CHLORAMPHENICOL-------       S
+LEVOFLOXACIN----------       R
+VANCOMYCIN------------       R
+
+   ANAEROBIC BOTTLE (Preliminary):
+      REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] AT 1605 ON [**7-3**]..
+      ENTEROCOCCUS SP..
+         IDENTIFICATION AND SENSITIVITIES PERFORMED FROM AEROBIC
+BOTTLE.
+
+[**2165-7-3**] 3:04 pm SPUTUM     Site: ENDOTRACHEAL
+
+   GRAM STAIN (Final [**2165-7-3**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Preliminary):
+      OROPHARYNGEAL FLORA ABSENT.
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          STAPH AUREUS COAG +
+                             |          |
+CEFEPIME--------------    16 I
+CEFTAZIDIME-----------     8 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------  =>16 R
+MEROPENEM-------------  =>16 R
+PIPERACILLIN----------    32 S
+PIPERACILLIN/TAZO-----    64 S
+TOBRAMYCIN------------  =>16 R
+
+ECHO: The left atrium is moderately dilated. The right atrium is
+moderately dilated. Left ventricular wall thicknesses are
+normal. The left ventricular cavity size  is normal. Overall
+left ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. The
+aortic root is mildly dilated. The aortic valve leaflets are
+mildly thickened. There is a minimally increased gradient
+consistent with minimal aortic valve stenosis. Moderate (2+)
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild to moderate ([**2-18**]+) mitral regurgitation
+is seen. The tricuspid valve leaflets are mildly thickened.
+There is mild pulmonary artery systolic hypertension. There is a
+small pericardial effusion.
+No vegetation seen (but cannot exclude).
+
+[**2165-7-2**] 10:10PM   GLUCOSE-86 UREA N-10 CREAT-0.5 SODIUM-140
+POTASSIUM-4.2 CHLORIDE-98 TOTAL CO2-35* ANION GAP-11
+[**2165-7-2**] 10:10PM   CK(CPK)-31*
+[**2165-7-2**] 10:10PM   CK-MB-NotDone cTropnT-<0.0
+[**2165-7-2**] 10:10PM   WBC-10.0 RBC-3.49* HGB-11.4* HCT-33.8* MCV-97
+MCH-32.7* MCHC-33.8 RDW-19.5*
+[**2165-7-2**] 10:10PM   NEUTS-84.7* LYMPHS-10.2* MONOS-4.2 EOS-0.6
+BASOS-0.2
+[**2165-7-2**] 10:10PM   PLT COUNT-381
+[**2165-7-2**] 10:10PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-TR
+[**2165-7-2**] 10:10PM URINE  RBC->50 WBC-0-2 BACTERIA-OCC YEAST-NONE
+EPI-0
+[**2165-7-2**] 08:00PM   PO2-48* PCO2-68* PH-7.38 TOTAL CO2-42* BASE
+XS-11
+[**2165-7-2**] 08:00PM   LACTATE-1.7
+
+Brief Hospital Course:
+83 y/o M with CAD s/p CABG, AF, HTN, Parkinson's and chronic
+aspiration recently admitted for GIB and PNA who represented
+from rehab with hypoxic respiratory failure.
+.
+[**Hospital Unit Name 153**] Course:
+started on Vanco and Zosyn
+Extubated on [**7-4**] with no further resp distress
+Pressors weaned off on day of [**Hospital Unit Name 153**] admission
+Grew VRE in [**5-21**] blood cultures, Pseudomonas and MRSA in sputum
+-> changed to Linezolid and Zosyn
+PICC pulled
+TTE showed no vegetations
+Episodes RVR -> Metoprolol ti

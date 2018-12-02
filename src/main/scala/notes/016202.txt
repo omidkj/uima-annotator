@@ -1,0 +1,215 @@
+Admission Date:  [**2141-9-4**]              Discharge Date:   [**2141-9-5**]
+
+Date of Birth:  [**2064-11-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lovenox / aspirin
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Chest pain and Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+Hemodialysis (Monday, Wednesday, Friday each week)
+
+History of Present Illness:
+History of Present Illness:
+76 yo male history of anoxic brain injury s/p likely vfib
+arrest, ESRD on HD MWF, HTN, and DMII presenting from rehab with
+SOB.  Per report, patient awoke with substernal chest pain and
+shortness of breath around 11:30 AM.
+
+In the ED, initial VS were: T97.4, HR87 BP190/87 RR22 satting
+100% on NRB.  Labs showed CBC with HCT of 39, otherwise rest of
+CBC WNL, pro BNP of [**Numeric Identifier **], Normal LFTs except for an AP of 135,
+and a CMP showing hyponatremia with Na of 129, hyperkalemia of
+5.5, CL of 95, BUN 54, Cr of 6.9 and glucose of 251.  Troponins
+were checked with a Trop of 0.34 with baseline in the 0.25 to
+0.4 region.  EKG performed showed sinus rhythm with peaked TW in
+the anterior leads, as well as TWI in AVL and V1.  LVH present
+as well as LAE.  No other ST/ischemic changes were noted.  CXR
+showed bilateral infiltrates with superimposed fluid overload.
+Patient was provided with IV vancomycin and levofloxacin for
+empiric tx of PNA.
+
+In the ICU patient is complaining of [**8-8**] chest/belly pain
+
+Past Medical History:
+Anoxic brain injury s/p likely VF arrest in the setting of
+hyperkalemia
+CKD stage V, on HD MWF at [**Hospital **] hospital
+HTN
+DM II
+Severe peripheral neuropathy
+Glaucoma
+Depression
+
+
+Social History:
+Lives at [**Hospital3 537**] in JP.
+niece/HCP [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], [**Telephone/Fax (3) 105203**] 043
+- Tobacco:  None
+- Alcohol:  None
+- Illicits:  None
+
+
+Family History:
+No history of cardiac disease, diabetes.
+
+Physical Exam:
+ADMIT EXAM:
+Vitals: T 97.6, HR 81, BP 196/93, RR 22, satting 99% ON 3L
+General: Alert, oriented, appears uncomfortable
+HEENT: Sclera anicteric, MMM, oropharynx clear with poor
+dentition, EOMI, PERRL
+Neck: supple, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, pansystolic murmur
+as well as [**4-4**] crescendo descrescendo murmur best auscultated
+parasternally.   No rubs, gallops
+Lungs: Diffuse crackles with wheezes.
+Abdomen: soft,  mild tenderness to palpation in epigastric
+region. Non-distended, bowel sounds present, no organomegaly
+GU: no foley
+Ext: warm, well perfused,1+ pulses, no clubbing, cyanosis or
+edema.  Fistula with palpable thrill and auscultated bruit in
+LUE.
+Neuro: Alert and oriented to person and place.  CNII-XII intact,
+5/5 strength upper/lower extremities, grossly normal sensation,
+1+ reflexes bilaterally, gait deferred.
+
+DISCHARGE EXAM:
+
+
+Pertinent Results:
+IMAGING:
+CXR [**2141-9-4**] -
+FINDINGS:  Diffuse parenchymal opacities with areas of increased
+interstitial markings are consistent with development of
+moderate pulmonary edema.  No pneumothorax is seen.  There is
+mild cardiomegaly.  There may be small pleural effusions.
+Surgical clips are noted in the region of the gastroesophageal
+junction.
+
+MICRO/PATH:
+
+ADMIT LABS:
+[**2141-9-4**] 12:30AM BLOOD WBC-6.3 RBC-5.03 Hgb-11.4* Hct-39.0*
+MCV-78* MCH-22.7* MCHC-29.2* RDW-17.1* Plt Ct-176
+[**2141-9-4**] 12:30AM BLOOD Neuts-77.2* Lymphs-15.2* Monos-5.5
+Eos-1.7 Baso-0.4
+[**2141-9-4**] 12:30AM BLOOD Plt Ct-176
+[**2141-9-4**] 04:39AM BLOOD PT-10.1 PTT-32.5 INR(PT)-0.9
+[**2141-9-4**] 12:30AM BLOOD Glucose-251* UreaN-54* Creat-6.9*#
+Na-129* K-5.5* Cl-95* HCO3-23 AnGap-17
+[**2141-9-4**] 12:30AM BLOOD ALT-27 AST-27 AlkPhos-135*
+[**2141-9-4**] 12:30AM BLOOD proBNP-[**Numeric Identifier **]*
+[**2141-9-4**] 12:30AM BLOOD cTropnT-0.34*
+[**2141-9-4**] 12:30AM BLOOD Albumin-4.1 Calcium-9.1 Phos-4.5# Mg-2.7*
+[**2141-9-4**] 04:50AM BLOOD Type-[**Last Name (un) **] pO2-44* pCO2-52* pH-7.29*
+calTCO2-26 Base XS--1
+[**2141-9-4**] 12:40AM BLOOD Lactate-0.8 K-5.3*
+
+RELEVENT LABS:
+[**2141-9-4**] 04:39AM BLOOD WBC-5.2 RBC-4.87 Hgb-11.1* Hct-37.9*
+MCV-78* MCH-22.9* MCHC-29.4* RDW-17.0* Plt Ct-155
+[**2141-9-4**] 04:39AM BLOOD Plt Ct-155
+[**2141-9-4**] 04:39AM BLOOD Glucose-314* UreaN-52* Creat-6.5* Na-129*
+K-5.1 Cl-96 HCO3-23 AnGap-15
+
+Brief Hospital Course:
+76 year old male with anoxic brain injury s/p likely vfib
+arrest, end stage renal disease on hemodialysis three times a
+week (monday, wednesday, friday), hypertension, and type two
+presenting from rehab with shortness of breath and chest pain.
+
+# Chest Pain: Intial chest xray shows bilateral multiple
+inflitrates concerning for fluid overload from flash pulmonary
+edema. While acute coronary syndrome was a concern, troponins
+were initially around baseline without evidence of EKG changes.
+While in the MICU he was treated with a nitroprusside drip given
+his hypertension to 220's systolic and underwent hemodialysis
+with the removal of 3.3 liters. His chest pain and shortness of
+breath resolved. Repeat EKG's and cardiac markers were
+unconcerning for a cardiac etiology.
+
+# Respiratory distress: Pt likely volume overloaded from renal
+failure and superimposed congestive heart failure exacerbation
+given elevated BNP, appearance of CXR, hypertension and history
+of similar episodes. His respiratory status improved with
+hemodialysis and nebulizers of albuterol and ipratropium. On day
+of discharge, he was dialyzed and 1.8L were removed. It appears
+that this is a recurrent process which may be related to
+inability to fully ultrafiltrate patient because BPs tend to
+fall. ****It is important that patient receive antihypertensives
+after dialysis sessions.**** [**Hospital1 **] Dialysis team will communicate
+with outpatient nephrologist.
+
+# End Stage Renal Disease: On hemodialysis monday, wednesday,
+and friday. While in the MICU we renally dosed his medication
+and treated him with Nephrocaps, calcium acetate, Vitamin D. On
+day of discharge, 1.9L were dialyzed off. For further comments
+see above.
+
+# Hypertension: Pt was hypertensive to systolic blood pressure
+of 220s on admission. Initially he was started on a
+nitroglycerin drip to drop pre-load and underwent dialysis for
+volume removal as above. He was continued on his home
+amlodipine, lisinopril, and carvedilol. His pulse pressure
+remained high, likely secondary to his fistula.
+
+# Coronary Artery Disease and Systolic Congestive Heart Failure:
+No evidence of acute coronary syndrome on EKG. Tropnin leak
+likely secondary to demand ischemia. He was constinued on his
+[**Last Name (un) **] medications one dialysis was complete. His BNP was elevated
+suggesting a acute CHF exacerbation. Unclear etiology. [**Month (only) 116**] be
+dietary indiscrestion or underlaying infection or inadequate
+fluid removal during dialysis.
+
+#Diabetes Mellitus: Chronic issue. Placed on insulin sliding
+scale.
+
+#Glaucoma: Chronic issue. Continued outpatient eyedrops.
+
+Transitional Issues:
+1) Please check CBC on Wednseday [**9-6**] to follow up on mild
+leukopenia.
+2) Please be sure to give antihypertensives after diaylsis
+sessions per renal recommendations.
+
+Medications on Admission:
+1. Amlodipine 10 mg PO DAILY
+Hold for SBP<100
+2. Omeprazole 20 mg PO DAILY
+3. Finasteride 5 mg PO DAILY
+4. Nephrocaps 1 CAP PO DAILY
+5. brimonidine *NF* 0.2 % OU [**Hospital1 **]
+6. Senna 1 TAB PO BID
+7. Levobunolol 0.25% 1 DROP BOTH EYES [**Hospital1 **]
+8. Docusate Sodium 100 mg PO BID
+9. Calcium Acetate 667 mg PO TID W/MEALS
+10. Pilocarpine 1% 1 DROP RIGHT EYE QID
+11. Acetaminophen 500 mg PO QOD HS
+12. Gabapentin 400 mg PO HS
+13. Carvedilol 12.5 mg PO BID
+Hold for SBP<100, HR<60
+14. Lisinopril 40 mg PO DAILY
+Hold for SBP<100
+15. Guaifenesin 20 mL PO TID cough
+16. Loperamide 2 mg PO QID:PRN diarrhea
+17. Polyethylene Glycol 17 g PO BID:PRN constipation
+18. Epoetin Alfa 0.6 mL SC M,W,F AT HD
+19. Lidocaine 5% Patch 1 PTCH TD DAILY
+20. Isosorbide Mononitrate 30 mg PO QAM
+Hold for SBP<120
+21. Loratadine *NF* 10 mg Oral qd itching, allergic rash
+22. Vitamin D 50,000 UNIT PO 1X/WEEK (TU)
+23. Glargine 5 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+
+
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY
+2. Omeprazole 20 mg PO DAILY
+3. Finasteride 5

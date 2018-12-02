@@ -1,0 +1,203 @@
+Admission Date:  [**2193-2-7**]              Discharge Date:   [**2193-2-18**]
+
+
+Service: MEDICINE
+
+Allergies:
+Quinine
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+fatigue
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is an 85 yo M w/PMHx sx for diastolic CHF, s/p MVR,
+CAD, HTN, DM2 who presents with one month of gradually worsening
+fatigue and dyspnea, with weight gain of approximately 10 lbs at
+home. Per daughter, patient has been gradually becoming more
+fatigued. He has developed increased lower extremity swelling.
+He has stable 2 pillow orthopnea. He has been compliant with his
+medications, including his torsemide, and has not been eating
+salty foods, and has in fact been taking very little po in the
+past several days. His oxygen requirement has increased from 2L
+NC at night only to 80% of the time requiring supplemental
+oxygen. He has had a labile INR as well, yesterday measured at
+6.3, and had epistaxis, ecchymoses and occasional hematuria. His
+daughter denies [**Name2 (NI) **], coffee grounds emesis, or BRBPR. He has
+never had a colonoscopy/endoscopy. She denies chest pain,
+fevers, chills, nausea, vomiting, head trauma, falls, increased
+confusion, cough, dysuria. Patient has been living at home with
+his wife, who helps with his medications.
+.
+In the ED patient received 5 mg vitamin K and 2u FFP to reverse
+his coagulopathy. He was noted to be guaiac positive as well. He
+was started on a lasix gtt for volume overload.
+
+Past Medical History:
+Congestive heart failure, systolic and diastolic with EF 50%
+S/p MVR on coumadin
+Atrial fibrillation
+DMII
+CRI 3.0
+Anemia
+Aortic stenosis
+s/p pacemaker
+CVA
+BPH
+Insomnia
+
+Social History:
+Retired [**Name2 (NI) 595**] literature professor. Lives with wife in
+[**Name (NI) 583**], quit tobacco 50 years ago. 20 pack year. No ETOH,
+IVDA.
+
+
+Family History:
+n/c
+
+Physical Exam:
+VS: Temp 96.6 BP 98/43 HR 57 RR 22 O2sat 99% 2L
+Gen: chronically ill appearing
+HEENT: JVD to tragus. No carotid bruits. MMM. No oral ulcers.
+Conjunctiva pale.
+Hrt: [**2-6**] holosystolic murmur at apex. S1 click. No rubs or
+gallops.
+Lungs: Rales 1/3 up both lung fields. Minimal expiratory
+wheezing.
+Abd: Soft, nontender, nondistended. No organomegaly. Guaiac
+positive brown stool per ED.
+Ext: Cool. 1+ pulses at radial, DP. 3+ pitting edema to sacrum.
+Neuro: Extremely hard of hearing. PERRL. Moves all extremities.
+Responds to daughter's voice.
+
+Pertinent Results:
+Trop-T: 0.24
+116  81  131 / 141
+-------------
+4.0  22  3.1  \
+.
+CK: 182 --> 159 --> 150 --> 137
+MB: 17  --> 14 --> 13 --> 11
+Trop-T: 0.24 --> 0.25 --> 0.27 --> 0.26
+.
+Ca: 8.6 Mg: 2.3 P: 5.4
+ 86
+4.9 \ 9.1 D / 150
+    --------
+     25.8 D
+ N:85.8 Band:0 L:10.7 M:2.5 E:1.0 Bas:0.1
+.
+Creatinine : 3.1 --> 3.9
+.
+BUN: 131 --> 169
+.
+Sodium: 116 --> 136
+.
+CXR: 1. Stable massive cardiomegaly.
+2. Mild improvement in the pulmonary vascular congestion
+although not totally resolved.
+3. Loculated chronic right-sided pleural effusion.
+.
+ECHO: The left atrium is markedly dilated. The right atrium is
+markedly dilated. The right atrial pressure is indeterminate.
+There is moderate symmetric left ventricular hypertrophy. The
+left ventricular cavity is mildly dilated. Overall left
+ventricular systolic function is moderately depressed (LVEF=
+35-40 %) with inferior/infero-septal, and inferoapical
+hypokinesis/akinesis. The remaining segments appear hypokinetic.
+There is no ventricular septal defect. The right ventricular
+free wall is hypertrophied. The right ventricular cavity is
+mildly dilated with mild global free wall hypokinesis. The
+aortic root is moderately dilated at the sinus level. The
+ascending aorta is moderately dilated. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present.
+There is a minimally increased gradient consistent with minimal
+aortic valve stenosis. Mild to moderate ([**1-2**]+) aortic
+regurgitation is seen. A bileaflet mitral valve prosthesis is
+present. The mitral prosthesis appears well seated, with normal
+leaflet/disc motion and transvalvular gradients. Torn mitral
+chordae are present. The tricuspid valve leaflets are mildly
+thickened. Moderate [2+] tricuspid regurgitation is seen. There
+is moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+.
+Compared with the prior study (images reviewed) of [**2192-4-3**], the
+overall LVEF is slightly lower (overerstimated on the prior
+study). The degreee of pulmonary hypertension detected has
+increased.
+
+Brief Hospital Course:
+A/P: Mr. [**Known lastname **] is an 85 yo M w/PMHx sx for severe diastolic
+CHF, CAD, DM2, CVA who presents with a GIB with associated SOB
+and fatigue, also with evidence of NSTEMI with elevation in
+cardiac enzymes likely in setting of demand.
+.
+#. Acute on chronic systolic and diastolic CHF: The patient was
+started on a Lasix drip in the emergency department for both
+evidence of volume overload on exam (crackles and
+sacral/peripheral edema) and pulmonary edema on CXR. He also had
+a Ck and troponin elevation consistent with either NSTEMI or
+more likely demand ischemia secondary to volume overload and
+heart failure. An echocardiogram showed multiple wall motion
+abnormalities and overall depressed EF at 35-40% with moderate
+pulmonary artery hypertension. He was transferred out of the ICU
+and transferred to the cardiology service. His Lasix drip was
+continued and uptitrated to 20mg/hour in order to attain approx
+1L negative daily. He did have improvement of edema and oxygen
+saturation, and appeared more comfortable with diuresis, though
+it was difficult to ascertain improvement in dyspnea as pt was
+often sleepy or confused. His diuresis was limited by rising
+creatinine and uremia and his Lasix drip was discontinued. His
+carvedilol dose was decreased to 12.5mg po bid to allow more
+room in blood pressure for diuresis. He was continued on
+aspirin, atorvastatin, isosrbide mononitrate and ezetimibe. Due
+to continued elevated creatinine/BUN, his home torsemide dose
+was not restarted on discharge, to be restarted based on labs
+[**2-20**] and clinical status, may be restarted. Pt was also provided
+with a prescription for concentrated morphine in the event of
+shortness of breath not relieved with Lasix.
+.
+#. Acute blood loss anemia: Upon admission patient had
+self-limited [**Month/Year (2) **] thought secondary to a supratherapeutic INR.
+NG lavage was not done secondary to concern for elevated INR for
+which he received FFP. The patient had no further episodes of GI
+bleeding and hematocrit remained stable throughout his hospital
+course. He was started on a heparin drip once hematocrit
+stablized with bridge to Coumadin for mechanical mitral valve.
+His INR was held for several days after supratherapeutic value
+of 7 and given 1.25mg po vitamin K and 2 units of FFP with
+decline to 2.4. His coumadin was then resumed at a lower dose of
+2.5mg po daily, to be checked on [**2-20**].
+.
+#. Hyponatremia. Upon admission, patient's sodium was 116 and
+did partially correct with above medical managment and diuresis
+to 136 without the need for other intervention.
+.
+#. Acute on Chronic Renal Failure: The patient was continued on
+calcitriol and started on sevelemer for increased phosporus. His
+BUN remained elevated throughout admission, likely high enough
+to be causing symptoms of confusion from uremia, but after
+discussion with the family it was decided to direct care more
+towards comfort, and in particular, relief of dyspnea so
+diuresis was pursued in spite of this. Creatinine increased to
+3.9 and Lasix drip was discontinued. His home dose of torsemide
+should be restarted as above.
+.
+#. Goals of care: As previously mentioned, the patient's family
+and health care proxy had already decided against dialysis and
+DNR/DNI order. They also asked to speak with the palliative care
+team regarding hospice options but ultimately it was decided not
+to pursue comfort care at this time, though this might occur on
+the next hospitalization if he does not respond to diuresis.
+
+Medications on Admission:
+Potassium 20 mEq every day
+Lipitor 40 mg daily
+Prozac 10 mg daily
+Warfarin as directed
+Aspirin 325 mg daily
+Imdur 60 mg daily

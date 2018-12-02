@@ -1,0 +1,208 @@
+Admission Date:  [**2140-1-4**]              Discharge Date:   [**2140-1-11**]
+
+Date of Birth:  [**2082-10-29**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+mild DOE
+
+Major Surgical or Invasive Procedure:
+AVR (29 porcine) Replac Asc Aorta (30 Gelweave graft)[**1-4**]
+/Reexploration for bleeding [**1-4**]
+
+
+History of Present Illness:
+57 yo M with h/o AI and minimal DOE followed by echo. Most
+recent echo showed severe AI and bicuspid AV, dilated aorta and
+preserved LVEF. Referred for surgery.
+
+Past Medical History:
+AI, Hep C, Anemia, COPD
+
+Social History:
+works with extruding company
+lives with wife
+etoh: case of beer per week
+quit tobacco [**2118**]
+
+Family History:
+NC
+
+Physical Exam:
+hr 65 bp 131/51
+NAD
+Lungs CTAB
+Heart RRR 4/6 DM t/o->neck
+Abdomen benign
+Extrem warm, no edema
+Mild LLE varicosities
+
+
+Pertinent Results:
+[**2140-1-8**] 07:05AM BLOOD WBC-8.2 RBC-3.05* Hgb-10.0* Hct-28.4*
+MCV-93 MCH-32.8* MCHC-35.2* RDW-14.3 Plt Ct-167
+[**2140-1-8**] 07:05AM BLOOD Plt Ct-167
+[**2140-1-5**] 12:33PM BLOOD PT-14.2* PTT-29.4 INR(PT)-1.2*
+[**2140-1-7**] 07:25AM BLOOD Glucose-112* UreaN-9 Creat-0.9 Na-143
+K-3.7 Cl-103 HCO3-28 AnGap-16
+
+[**Known lastname 74966**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 74967**] (Complete)
+Done [**2140-1-4**] at 2:55:15 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Last Name (Prefixes) 413**], [**First Name3 (LF) 412**]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2082-10-29**]
+Age (years): 57 M  Hgt (in): 68
+BP (mm Hg): 122/80  Wgt (lb): 147
+HR (bpm): 75  BSA (m2): 1.79 m2
+Indication: Intraoperative TEE for AVR, ascending aortic
+replacement
+ICD-9 Codes: 786.05, 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2140-1-4**] at 14:55    Interpret MD: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5740**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2007AW3-: Machine: 3
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *7.5 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  25% to 30%  >= 55%
+Aorta - Annulus:  *3.8 cm  <= 3.0 cm
+Aorta - Sinus Level:  *4.7 cm  <= 3.6 cm
+Aorta - Ascending:  *4.2 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  *3.6 cm  <= 2.5 cm
+Aortic Valve - Pressure Half Time:  240 ms
+
+Findings
+LEFT ATRIUM: Dilated LA. All four pulmonary veins identified and
+enter the left atrium.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. Normal interatrial
+septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Severely dilated LV cavity.
+Severely depressed LVEF. [Intrinsic LV systolic function likely
+depressed given the severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Moderately dilated aortic sinus. Moderately dilated
+ascending aorta. Moderately dilated descending aorta Simple
+atheroma in descending aorta. No 2D or Doppler evidence of
+distal arch coarctation.
+
+AORTIC VALVE: Bicuspid aortic valve. Mildly thickened aortic
+valve leaflets. Aortic leaflet prolapse. No AS. Severe (4+) AR.
+Eccentric AR jet directed toward the anterior mitral leaflet.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild MVP.
+Mitral leaflets fail to fully coapt. Mild mitral annular
+calcification. Eccentric MR jet. Moderate (2+) MR.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. Suboptimal image
+quality. The patient appears to be in sinus rhythm. Results were
+Conclusions
+PRE-BYPASS:
+1. The left atrium is dilated. No atrial septal defect is seen
+by 2D or color Doppler.
+2. There is mils symmetric left ventricular hypertrophy. The
+left ventricular cavity is severely dilated. Overall left
+ventricular systolic function is severely depressed (LVEF= 25-30
+%). [Intrinsic left ventricular systolic function is likely more
+depressed given the severity of valvular regurgitation.]
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. The aortic root is moderately dilated at the sinus level. The
+ascending aorta is moderately dilated. There is a section of the
+descending thoracic aorta, just distal to the aortic arch that
+appears moderately dilated. There are simple atheroma in the
+descending thoracic aorta and the aortic arch.
+5. The aortic valve is bicuspid. The aortic valve leaflets are
+mildly thickened. There is no aortic valve stenosis. Severe (4+)
+aortic regurgitation is seen. The aortic regurgitation jet is
+eccentric, directed toward the anterior mitral leaflet.
+6. The mitral valve leaflets are mildly thickened. There is mild
+mitral valvular prolapse. An eccentric, anteriorly directed jet
+of Moderate (2+) mitral regurgitation is seen.
+7. There is no evidence of PDA or coarctation.
+
+POST-BYPASS:
+Patient removed from cardiopulmonary bypass on a phenylephrine
+infusion.
+1. There is a bioprosthetic aortic valve that is well seated
+with no evidence of paravalvular leak or valvular aortic
+regurgitation. Mean gradient across the valve is 8.6mmHg with a
+maximum around 20 mm Hg.
+2. Biventricular function is unchanged with LVEF 25-30%.
+3. Degree of mitral regurgitation is also unchanged.
+4. Aortic contours are intact post-decannulation.
+5. The ascending aortic graft can not be visualized.
+
+
+Brief Hospital Course:
+He was taken to the operating room on [**1-4**] where he underwent
+an AVR & replacement of ascending aorta. He was transferred to
+the ICU in stable condition. He was taken back to the operating
+room later that same day for bleeding and was found to have
+chest wall bleeding. He was returned to the ICU. He was
+extubated on POD #1. He was transferred to the floor on POD #2.
+He was noted to have an air leak on his left pleural chest tube;
+it was left in while his meiastinal tubes were removed.  It was
+placed to water seal on POD # 3, but he had a pneumothorax on
+CXR.  The tube was again placed to water seal on POD # 4, CXR
+revealed a left apical ptx. This remained, but the airleak
+resolved.  The tube was ultimately removed on POD #6 when the
+airleak resolved.  Repeat CXR showed slight increase in ptx.  He
+remained in the hospital another day.  Repeat CXR showed
+decrease in left apical ptx., he has remained hemodynamically
+stable, and is ready to be discharged home.
+
+Medications on Admission:
+norvasc 5', lisinopril 10'
+
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 7 days.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours)
+for 7 days.
+Dis

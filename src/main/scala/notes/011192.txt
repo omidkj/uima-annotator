@@ -1,0 +1,137 @@
+Admission Date:  [**2102-10-31**]              Discharge Date:   [**2102-11-7**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 613**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+86 y/o Russian speaking male with extensive PMH including
+metastatic nonsmall cell lung CA s/p lobectomy and XRT, DM,
+orthostasis, mild diastolic CHF and chronic renal insufficiency
+presenting with SOB. Pt has had difficulty breathing for the
+past several years, especially increasing about 1.5 years ago
+after segmental resection of a right lung mass. At that time he
+also developed increasing pain in his back around the site of
+his surgery, which increases on inspiration, is present at rest
+and does not increase with exertion. He was last discharged from
+[**Hospital1 18**] for COPD exacerbation [**2102-9-30**].  In general, the patient
+has not been eating or drinking as much as he used to and has
+lost weight.  Currently, he describes gradual increase in
+viscosity of sputum and decreased total volume over the last
+month.  He feels it difficult to breathe with these secretions.
+He continues to have lateral chest pain on deep inspiration.  He
+denies palpitations, nausea, vomiting, hemoptysis, night sweats,
+assymetric leg or arm swelling.
+
+In the ED, the patient was treated BiPAP, CXR obtained
+(interstial infiltrates) and antibiotics given (after sputum was
+collected).
+
+Past Medical History:
+1. Metastatic nonsmall cell lung cancer - s/p RUL lobectomy
+[**2100**], radiation tx to pleural based nodule [**12/2101**]
+2. CAD
+3. PVD, s/p left femoral stent in [**2091**]
+4. Type II DM
+5. Chronic Renal Insufficiency
+6. COPD
+7. Depression
+
+Social History:
+The patient was born in [**Country 532**] and moved to the United States in
+[**2091**]. He speaks no English.  He currently lives in [**Location 86**] with
+his wife. His granddaughter is his health care proxy. [**Name (NI) **] has a
+60-90 pack per year history of tobacco use. He quit smoking 1.5
+years ago. He denied alcohol use.
+
+Family History:
+noncontributory
+
+Physical Exam:
+98.4     138/65    87      18 (slightly labored)   95% 3L NC
+
+Brief Hospital Course:
+1.  Dyspnea:  Pt was noted to be producing thick secretions and
+having difficulty expectorating them.  CXR revealed diffuse
+interstitial infiltrates and CT revealed an interval increase in
+the # and size of the pt's innumerable pulmonary nodules,
+indicating progression of intrapulmonary metastatic disease.  Pt
+was initially treated with ceftriaxone and azithromycin
+empirically to cover for CAP, later switched to just
+azithromycin for bacterial tracheobronchitis--he will complete a
+7 day course.  Mr.[**Known lastname 7640**] was also started on mucolytics and
+nebulizers for symptom relief.  Chest physiotherapy also helped
+to mobilize the patient's secretions.  His butamide was
+increased from 2 to 3mg po qD to aid in decreasing any
+concurrent pulmonary edema and drying out his secretions.
+Pulmonary was consulted and felt no cure was feasable for the
+patient, and he should be treated palliatively.  Scopolamine
+patch started to decrease secretions.
+
+2.  Code Status:  Palliative care consult was obtained and
+Dr.[**Last Name (STitle) **] met with the patient and grandaughter (health care
+proxy).  Goals of care were discussed and it was decided that
+shifting from the goal of cure to the goal of maximizing comfort
+was most appropriate.  He was made DNR/DNI.  He needs chest
+physiotherapy and aggressive pulmonary toilet.  Plans were made
+for home services with bridge to hospice care, but the patient
+subsequently deteriorated (see below).
+
+3.  Pneumonia: On [**11-2**], we were informed by Micro lab that
+patient's sputum was growing Nocardia. This raised the
+possibility that some of his radiographic findings were
+attributable to this infection as opposed to advancing
+metastatic disease. The Infectious Disease service was consulted
+& the patient was started on the appropriate abx immediately.
+
+4. respiratory failure: Pt deteriorated on [**11-3**], and after
+discussion with his family, he was transferred to the MICU where
+he was stabilized with NIPPV. Etiology was likely
+multifactorial, including advanced lung ca, COPD, Nocardiosis.
+After a couple of days, he returned to the medicine floor, where
+he again had severe respiratory compromise, along with
+increasing lethargy. The family requested transfer back to MICU
+for another trial of NIPPV, and shortly after his arrival there,
+the family agreed to change the goals of care to comfort
+measures only. He was started on a morphine drip and expired
+comfortably on [**11-7**].
+
+
+Discharge Medications:
+N/A
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital6 1952**], [**Location (un) 86**]
+
+Discharge Diagnosis:
+Stage 4 Squamous Cell Lung Cancer
+COPD
+Nocardiosis
+
+
+Discharge Condition:
+N/A
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+
+
+                             [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 617**]
+
+Completed by:[**2102-11-2**]

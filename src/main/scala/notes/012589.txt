@@ -1,0 +1,203 @@
+Admission Date:  [**2159-9-16**]              Discharge Date:   [**2159-10-5**]
+
+Date of Birth:  [**2110-12-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril / Morphine
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Chest pain, abdominal pain
+
+Major Surgical or Invasive Procedure:
+1. Left femoral line placement with Swan Ganz.
+2. Right Midline placement by interventional radiology.
+3. Arterial line placement.
+
+History of Present Illness:
+48 yo man with MMP including idiopathic dilated CM w/ end stage
+CHF (EF 15-20%), s/p AICD on [**2159-8-7**], chronic chest/abd pain,
+s/p recent admission to [**Hospital Unit Name 196**] and d/c on [**2159-9-13**] w/ lingular PE
+and renal infarct who re-presents w/ c/o continued chest and abd
+pain. States that both are his chronic pain. Describes Chest
+pain as L sided, non-pleuritic, no radiation to arm or jaw, no
+associated diaphoresis, SOB, N/V. States abd pain is diffuse
+across entire abd. Pt states both of these are his chronic abd
+pain that he's had for 3 mos, and chronic CP he's had for 6 mos.
+Comes to ED b/c pain is too much. Pt initially presented to [**Hospital1 112**]
+[**Hospital **] transferred to [**Hospital1 18**].
+.
+In [**Name (NI) **], pt afebrile, SBP 90's-100's (baseline), HR 110's
+(baseline), labs WNL. EKG unchanged. Bedside ECHO w/ no
+pericardial effusion or dilated aorta. D/w cardiology who do not
+want pt admitted to them as no further cardiac issues. Plan to
+admit to medicine for likely placement.
+
+
+Past Medical History:
+1. CHF: Idiopathic dilated cardiomyopathy. Echo [**6-2**] with LVEF
+15-20%, mild-mod MR. [**Name14 (STitle) 33421**] [**4-30**] with global hypokinesis,
+moderate dilation, no perfusion defects and normal EKG. Cath
+[**8-2**] with no flow limiting coronary disease, elevated right and
+left sided filling pressures consistent with biventricular
+diastolic dysfunction (RVEDP = 16 mmHg, LVEDP = 31 mmHg),
+moderate pulmonary arterial hypertension, markedly reduced
+cardiac index, and markedly elevated SVR and PVR. Dry weight is
+144lbs (65.5kg).
+2. NSVT: Pt with several episodes during hospitalization in [**8-2**]
+and underwent AICD placement.
+3. h/o STDs: MSM. +gonorrhea [**2153**]. HBV core Ab+, sAb+. HIV neg
+[**7-3**], HCV neg [**7-3**].
+4. RUE DVT - on coumadin
+5. ? Protein C and S deficient last admit
+
+
+Social History:
+The patient immigrated from [**Country 5976**] in [**2149**].  He currently lives
+alone in [**Location (un) 686**].  He denies any use of alcohol, tobacco or
+illicit drugs.  He is a man who has sex with men (see above).
+
+
+Family History:
+CAD - Mother died of MI in her 50s.  Brothers and sisters also
+have "problems with their hearts." No known history of blood
+clots.
+
+
+Physical Exam:
+VS: T 97.4, HR 113, BP 101/87, RR 24, O2 99% on 3L NC
+GEN: NAD, comfortable, Spanish-speaking gentleman, breathing
+comfortably.
+HEENT: PERRL. MMM. OP clear. No JVD.
+HEART: tachycardic, regular rhythm, no m/r/g. Defibrillator site
+c/d/i without erythema or swelling.
+LUNGS: CTA B/L
+ABD: soft, nondistended. Hyperactive BS. Diffuse TTP throughout
+abd, but no rebound/guarding.
+EXT: No edema bilat.
+NEURO: AO x 3. No focal deficits
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2159-9-15**] 11:00PM   PT-17.8* PTT-32.5 INR(PT)-1.7*
+[**2159-9-15**] 11:00PM   PLT COUNT-423
+[**2159-9-15**] 11:00PM   HYPOCHROM-2+ ANISOCYT-1+ MICROCYT-1+
+[**2159-9-15**] 11:00PM   NEUTS-66.1 LYMPHS-24.6 MONOS-6.4 EOS-2.2
+BASOS-0.8
+[**2159-9-15**] 11:00PM   WBC-6.4 RBC-4.43* HGB-11.9* HCT-35.9* MCV-81*
+MCH-26.8* MCHC-33.1 RDW-16.6*
+[**2159-9-15**] 11:00PM   DIGOXIN-0.5*
+[**2159-9-15**] 11:00PM   ACETONE-NEGATIVE
+[**2159-9-15**] 11:00PM   ALBUMIN-3.5 CALCIUM-8.6 PHOSPHATE-2.5*
+MAGNESIUM-1.9
+[**2159-9-15**] 11:00PM   CK-MB-NotDone
+[**2159-9-15**] 11:00PM   cTropnT-<0.01
+[**2159-9-15**] 11:00PM   LIPASE-35
+[**2159-9-15**] 11:00PM   ALT(SGPT)-34 AST(SGOT)-24 CK(CPK)-45 ALK
+PHOS-147* AMYLASE-43 TOT BILI-0.8
+[**2159-9-15**] 11:00PM   GLUCOSE-135* UREA N-13 CREAT-0.8 SODIUM-135
+POTASSIUM-4.4 CHLORIDE-106 TOTAL CO2-17* ANION GAP-16
+[**2159-9-15**] 11:17PM   LACTATE-2.1*.
+.
+DISCHARGE LABS:
+[**2159-10-5**]: WBC 6.8, Hct 27.4, Hgb 8.9, Plt 486
+[**2159-10-5**]: Na 129, K 5.4, Cl 102, CO2 20, BUN 19, Cr 1, INR 2.1, PT
+21.1, PTT 32.5
+.
+IMAGING:
+Chest X Ray [**9-15**]: IMPRESSION: PA and lateral chest compared to
+[**9-15**]:
+
+Interstitial abnormality in the lungs has cleared substantially
+consistent with resolved edema. Severe cardiomegaly persists.
+There is no pleural effusion or evidence of central adenopathy.
+Transvenous right ventricular pacer defibrillator lead follows
+the expected course.
+.
+Duplex Abd/Pelvis [**9-19**]: IMPRESSION:
+1. Patent hepatic vasculature.
+2. Moderate to large amount of sludge in the gallbladder, which
+is not distended. Gallbladder wall edema, pericholecystic fluid
+and ascites fluid likely relate to third spacing in this
+patient.
+.
+Cardiac Cath [**9-21**]: COMMENTS:
+ 1. Resting hemodynamics demonstrated normal pulmonary capillary
+wedge
+pressures (14mmHg mean PCWP) with moderate pulmonary
+hypertension
+(pulmonary artery pressures of 50/12 mmHg).  Cardiac output was
+above
+normal with cardiac index of 3.8 L/min/m2.
+ 2. Tailored therapy with dobutamine 20 mcg/kg/min and
+ultimately
+nitroprusside 1.5 mcg/kg/min improved cardiac index to 4.5
+L/min/m2 with
+simultaneous reduction of pulmonary vascular resistance to 1.8
+Wood
+units, which demonstrated adequate reversibililty of pulmonary
+vascular
+resistance to remain a viable candidate for cardiac
+transplantation.
+ 3. Left femoral pulmonary artery catheter was left in place at
+65 cm
+from the distal tip to the femoral sheath.
+
+FINAL DIAGNOSIS:
+1. Moderate pulmonary hypertension.
+2. Above normal cardiac output and normal filling pressures at
+baseline
+on dobutamine 15 mcg/kg/min.
+3. Adequate reduction of pulmonary vascular resistance on trial
+of
+dobutamine and nitroprusside to confirm that pulmonary
+hypertension is
+reversible.
+.
+ECHO [**9-26**]: Conclusions:
+The left atrium is mildly dilated. The inferior vena cava is
+dilated (>2.5  cm). Left ventricular wall thicknesses are
+normal. The left ventricular cavity  is mildly dilated. There is
+severe global left ventricular hypokinesis.  [Intrinsic left
+ventricular systolic function is likely more depressed given
+the severity of valvular regurgitation.] The right ventricular
+cavity is  mildly dilated. There is moderate global right
+ventricular free wall  hypokinesis. The aortic valve leaflets
+(3) appear structurally normal with  good leaflet excursion and
+no aortic regurgitation. The mitral valve leaflets  are
+structurally normal. Mild to moderate ([**1-29**]+) mitral
+regurgitation is seen.  There is moderate pulmonary artery
+systolic hypertension. There is no  pericardial effusion.
+.
+Compared with the prior study (images reviewed) of [**2159-9-3**],
+right and left  ventricular systolic function are slightly
+improved. The severity of mitral  regurgitation is reduced. Left
+ventricular cavity size is also slightly  smaller. The heart
+rate has increased. Pulmonary artery systolic hypertension  is
+now present.
+
+
+Brief Hospital Course:
+A/P: 48 yo M with h/o idiopathic dilated cardiomyopathy (EF
+15-20%) s/p AICD [**2159-8-7**] and RUE DVT who represents after d/c on
+[**2159-9-13**] with c/o chest pain, now transferred for decompensated
+CHF.  Labs notable for hyperkalemia, and elevated INR and LFTs,
+improved on inotrope therapy with milrinone, evaluated for
+possible cardiac transplant.
+.
+1# Cardiac:
+A. Pump: Pt w/ h/o idiopathic dilated cardiomyopathy, EF < 20%.
+S/p AICD placement.  On transfer was found to be in cardiogenic
+[**Date Range **] (LFT's acutely rose to high thousands and had ARF, altered
+MS). Treated with dobutamine and dopamine and clinically
+improved and began diuresing.  We stopped spironolactone,
+valsartan, digoxin, lasix d/t rising Cr.  Also stopped
+metoprolol given decompensated CHF.  A right heart cath [**9-21**]
+with resting PCWP 14mmHg mean with moderate pulm HTN, CI 3.8.
+Tailored therapy with dobutamine 20 and nitroprusside 1.5
+improved CI to >4.5 with decreased Pulm vascular resistance to
+1.8 Wood units ->pt is suitable candidate for heart transplant.
+Milrinone was added 

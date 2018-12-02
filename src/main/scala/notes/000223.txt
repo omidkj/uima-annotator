@@ -1,0 +1,196 @@
+Admission Date:  [**2174-1-11**]              Discharge Date:   [**2174-1-21**]
+
+Date of Birth:  [**2106-4-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+hematochezia
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+Mr. [**Known lastname 93733**] is a 67 year old man with history of severe COPD (on
+3.5L home O2 and chronic steroids x 4 years, previously
+intubated on several occasions), was who was hospitalized at
+NEBH from [**Date range (1) 93734**] for a pseudomonal and proteus pneumonia,
+and had been discharged on cefepime to pulmonary rehab at [**Hospital1 15454**] from [**Date range (1) 86904**], where on [**2174-1-10**] he was found to
+have a bright red bloody bowel movement. His Hct was seen to
+fall from 35.8 ([**1-8**] @11:40) to 32.7 ([**1-10**] @8:23). His Hct was
+28.6 on [**1-10**] @10pm. He received one unit of pRBCs with Hct
+increase to 33.2 ([**1-11**] @8:38). He was transfered to NEBH for
+further evaluation however there were no ICU beds so he was
+transferred to [**Hospital1 18**]. The patient's wife states that he had
+worsening confusion for the 2 days prior to admission. She
+states that he has been confused over the past few weeks over
+the course of these illnesses.
+.
+In the [**Hospital1 18**] ED his initial vitals were unremarkable. He
+received 1 dose of cefepime and flagyl and was admitted to the
+MICU.
+.
+In the MICU he received one unit of PRBCs and serial HCTs bumped
+appropriately and were stable. GI consulted and felt that there
+was no urgent need for an inpatient colonoscopy. However, blood
+cultures from [**1-11**] grew [**5-12**] bottle of pan-sensitive (ampicillin)
+enterococcus. He was briefly treated empirically with vanc and
+then linezolid until sensitivities were available, and then
+switched to ampicillin [**1-14**].  He was not intubated but did have
+an O2 requirement. His mental status was largely intact but he
+did have episodes of agitation which responded to low dose
+haldol. He was deemed stable for transfer to the floor on [**1-14**].
+
+.
+On the floor, he was afebrile and had no further GI bleeding.
+Serial HCTs were stable. He continued to demonstrate an O2
+requirement, satting in the high 80's to low 90's on 4-5L NC. On
+the call of call-out he triggered for tachypnea, and he did
+occasionally have brief (1 minute) self limited episodes of
+tachypnea with associated desaturations to the mid-low 80's.
+These were largely felt to be due to anxiety and he responded
+well to low dose haldol and ativan. On [**1-17**], he reveived a PICC
+line in anticipation of d/c. Later that afternoon, he became
+hypoxic to the mid 70's and had increased somnolence. An ABG
+showed extreme hypercarbia to 99. Due to his worsening CO2
+narcosis/somnolence, he was voluntarily intubated and
+transferred back to the MICU for further management.
+.
+
+Past Medical History:
+CHF
+atrial flutter s/p ablation
+hypertension
+multiple pneumonias
+glaucoma
+osteoporosis
+compression fx spine
+rib fracture
+gastroesophageal reflux disease
+cor pulmonale
+obstructive sleep apnea
+diabetes mellitus
+
+Social History:
+50yrs x 1.5 ppd smoking hx. Stopped smoking 4 years ago.  Prior
+to hospitalizations lived with wife, son, and daughter-in-law.
+[**Name (NI) **] EtOH in 35 years.
+
+Family History:
+Noncontributory. no history of GI bleeds
+
+
+Physical Exam:
+Vitals: T 97.9  P 86  R 17  109/72  96%3L
+Gen: plethoric. multiple ecchymotic patches
+HEENT: PERRL (4->2mm) EOMI  MMM
+Neck: no IJ seen. supple
+Chest: bilat wheeze with prolonged I:E ratio
+CV: regular. tachy s1/s2 no m/r/g
+Abd: obese. soft. active sounds. mild tenderness to LLQ w/o
+rebound
+Ext: marked calf wasting. trace edema to ankles.
+Skin: multiple ecchymosis
+Neuro:
+-MS: alert, oriented to self, "hospital", "[**2174**]", "[**Last Name (un) 2450**]"
+-CN: II-XII intact
+-Motor: moving all 4 extremities
+-[**Last Name (un) **]: intact to light touch over face, hands, feet.
+
+
+Pertinent Results:
+Na 145
+K 3.9
+Cl 98
+HCO3 36
+BUN 32
+Creat 0.6
+Gluc 141
+.
+WBC 12.4
+HCT 35.2
+Plt 277
+.
+[**2174-1-11**] 03:30PM   LACTATE-1.5
+.
+Studies:
+Abd X-Ray: Limited due to body habitus.  Bowel gas pattern
+demonstrates no definite evidence of ileus or obstruction.
+There is no free air on upright view.  Air is seen throughout
+segments of the large bowel and appears unremarkable. Visualized
+osseous structures are intact. Visualized lung bases are clear.
+
+
+Brief Hospital Course:
+Summary: 67 year old man with history of COPD, OSA, aflutter s/p
+ablation with recent subacute altered mental status transferred
+from OSH for w/u hematochezia found to have [**5-12**] blood cx
++enterococcus.
+.
+# Enterococcal bacteremia: The source of the infection was
+unclear as culture data was incomplete. Urine or PICC line were
+thought to be most likely sources. Pt initially treated with
+linezolid; when sensitivities returned, he was transitioned to
+IV ampicillin with a two week course planned. He received a R
+PICC line on [**1-17**]. He was started  on IV ampicillin and
+remained afebrile until his transfer back to the ICU on [**1-17**]
+for hypoxia and hypercarbia. (see below). He was noted to have
+worsening leukopenia and thromocytopenia while on ampicillin and
+although it has probable better coverage than vancomycin, the
+ampicillin was replace by vancomycin for total 14-day course.
+.
+# Respiratory: Pt began treatment at OSH for pseudomonas and
+proteus PNA with ceftazidime on [**12-30**]; this was d/c'd after a 14
+days. There was initially a question of possible TB exposure
+given cavitary lesions reported on OSH CT, but AFB stain of BAL
+were negative. A CT in-house shows emphysematous lesions,
+retained secretions with L upper lobe lung nodules and RML
+collapse. CXR also confirms opacity L base and RML/RLL collapse.
+Pt also w/ significant COPD on high-dose steroids. On [**1-14**] he
+was called out from the ICU. The patient's solumedrol was
+transitioned to PO prednisone daily, with a taper planned. He
+was started on Bactrim DS 3x/week for PCP prophylaxis while on
+high-dose steroids. However, on [**1-17**], he demonstrated
+increasing somnolence and an ABG showed a CO2 of 99, so the
+patient was intubated for ventilation and transferred back to
+the ICU. He was extubated after 24 hours and continued to do
+well. His respiratory distress appeared to be exacerbated by
+anxiety as well as intolerance of face mask.  His anxiety also
+makes Bipap nearly impossible and he cannot use it to treat his
+sleep apnea.  He does best on nasal cannula with O2 sat goal
+90%.  Anxiety control is therefore paramount to his respiratory
+status with emphasis on minimizing meds that will cause
+somnolence and respiratory depression.
+.
+# Hematochezia: A lower source of bleeding was felt more likely
+over upper source based on the presence of bright red blood.
+Differential included diverticular bleed, ischemic colitis,
+polyp, hemorrhoid. The pt's HCT responded appropriately to
+transfusion of one unit pRBCs. GI was consulted; as the pt was
+clinically stable, no inpt endoscopy was performed. The pt
+should undergo colonoscopy as an outpt. [**Hospital1 **] PO PPI therapy was
+initiated. His HCTs were entirely stable on the floor and he had
+no further episodes of BRBPR.
+.
+# Mental Status and Anxiety: The patient's subacute change in MS
+was felt likely related to steroids, sedating medications,
+prolonged hospitalization. Sedating medications were limited,
+although it was found that the patient has a good therepeutic
+response to low-dose Haldol administered in the evenings. He was
+evaluated by psychiatry who recommended discontinuing the
+zyprexa the pt was on from his past hospitalization.  No further
+diagnoses were established, but per pt's wife, he has a baseline
+anxiety.  Haldol 0.5-1mg can be given on PRN basis but pt also
+responds well to reasoning.  Ativan 1mg PRN can be second-line
+treatment.
+.
+# HTN: The pt's home dose of diltiazem had been lowered given
+bleed; this was slowly titrated back up with good effect.
+.
+# Atrial Tachycardia: The pt's home dose of diltiazem had been
+lowered given bleed; this was slowly titrated back up with good
+effect, though 

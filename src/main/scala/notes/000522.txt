@@ -1,0 +1,224 @@
+Admission Date:  [**2140-8-11**]              Discharge Date:   [**2140-8-20**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4980**]
+Chief Complaint:
+Surgical Wound Draining
+
+Major Surgical or Invasive Procedure:
+Debridement of Laminectomy Wound
+
+History of Present Illness:
+Ms. [**Known lastname 4643**] is a [**Age over 90 **] year woman with a h/o CAD, HTN, CHF with EF
+of 25% s/p L4-L5 laminectomy with Dr. [**Last Name (STitle) 1352**] in [**5-/2140**],
+presented from rehab facility with nonhealing lumbar surgical
+wound. Wound began producing serous drainage a week prior to
+presentation, and started on Keflex [**8-6**]. Drainage was cultured
+on [**8-6**] which grew heavy growth of MSSA and moderate alpha
+strep, as a result was switched to Levaquin on [**8-8**], then
+transferred to [**Hospital1 18**] [**8-11**].
+
+Past Medical History:
+s/p L4-5 laminectomy/fusion
+CAD
+HTN
+Hyperlipidemia
+Osteoporosis
+Osteoarthritis
+Skin Cancer
+Restless leg syndrome
+
+Social History:
+She lives alone in [**Location (un) 3320**]. No tobacco or alcohol use. Has four
+sons, two of whom live close by.
+
+
+Family History:
+No premature CAD, SCD
+
+Physical Exam:
+O: Tm:98.1 BP:115/64 HR:78 RR:18 SpO2:97% on RA
+General: Alert, oriented to Person and Place, no acute distress
+
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, no LAD
+Lungs: Fine crackles on BL lung bases, no wheezes, ronchi
+CV: Regular rate and rhythm
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley draining clear yellow urine
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+[**2140-8-11**] 06:10PM BLOOD WBC-6.5 RBC-4.30# Hgb-11.1* Hct-35.0*
+MCV-82# MCH-25.7*# MCHC-31.5 RDW-17.9* Plt Ct-472*
+[**2140-8-19**] 05:42AM BLOOD WBC-7.9 RBC-3.47* Hgb-8.6* Hct-27.0*
+MCV-78* MCH-24.9* MCHC-32.0 RDW-18.6* Plt Ct-454*
+.
+.
+.
+[**2140-8-11**] 06:10PM BLOOD Glucose-86 UreaN-11 Creat-0.6 Na-136
+K-4.7 Cl-101 HCO3-28 AnGap-12
+[**2140-8-20**] 04:45AM BLOOD Glucose-89 UreaN-8 Creat-0.6 Na-138 K-3.6
+Cl-102 HCO3-29 AnGap-11
+[**2140-8-20**] 10:06AM BLOOD Na-142 K-4.2 Cl-103
+.
+.
+[**2140-8-18**] 8:56 am STOOL     CONSISTENCY: LOOSE      Source:
+Stool.
+
+                            **FINAL REPORT [**2140-8-18**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2140-8-18**]):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+.
+.
+[**2140-8-12**] 10:45 am SWAB      LUMBAR CERVICAL WOUND.
+
+                            **FINAL REPORT [**2140-8-18**]**
+
+   GRAM STAIN (Final [**2140-8-12**]):
+      3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   WOUND CULTURE (Final [**2140-8-16**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    RARE GROWTH.
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------<=0.25 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------ <=0.5 S
+
+   ANAEROBIC CULTURE (Final [**2140-8-18**]):    NO ANAEROBES ISOLATED.
+
+
+
+Brief Hospital Course:
+Mrs. [**Known lastname 4643**] is a [**Age over 90 **] year old woman with a h/o CAD, HTN, CHF with
+EF of 25% s/p L4-L5 laminectomy with Dr. [**Last Name (STitle) 1352**] in [**5-/2140**], who
+presented from a rehab facility with nonhealing lumbar surgical
+wound.
+
+#) Wound Infection/Sepsis: She had been started on Keflex [**8-6**] at
+the rehab facility and the drainage was cultured on [**8-6**], which
+grew heavy growth of MSSA and moderate alpha strep. As a result,
+she was switched to Levaquin on [**8-8**] and then transferred to
+[**Hospital1 18**] [**8-11**]. She was started on Vancomycin and Unasyn on [**8-12**].
+She was taken to the OR on [**8-12**], where copious purulent fluid
+was encountered, bathing the hardware. This was thoroughly
+irrigated, and samples sent to micro, cultures ultimately grew
+CoNS. She was initially placed on vancomycin and cefepime and
+then transitioned
+to a combination of Unasyn 2 q 12 hours (given her renal
+function) and vancomycin 1 q 24 hours. Her OR course was
+complicated by the fact that she was required requiring a
+fiberoptic intubation, and was noted to have significant
+tracheomalacia from midtrachea through carina. She was
+successfully extubated in the PACU and required Levophed for
+blood pressure support in the ICU for two days post operatively.
+She was transferred to the general medicine floor from the ICU
+on [**8-15**] where she remained afebrile and had reduced wound
+drainage requiring twice daily dry sterile dressing changes. She
+received a PICC line for the purpose of administering IV
+antibiotics at her rehab facility. Finial infectious disease
+recommendations are as follows:
+
+Plan for 8-10 weeks for spinal osteomyelitis with hardware in
+place, followed by life-long oral suppression given the presence
+of hardware in infected bed.
+
+Opat Antibiotic regimen and projected duration
+Unasyn 2 q 12 hours x 8-10 weeks from time of operative
+debridement, [**Date range (1) 4981**].
+Vancomycin 1 q 24 hours x 8-10 weeks from time of operative
+debridement, [**Date range (1) 4981**].
+
+Cultura data (organism and susceptibilities)
+MSSA, GAS (OSH)
+CoNS ([**Hospital1 18**])
+
+Essential diagnostic date for OPAT rx (TEE< bx, ect) baseline
+Pertinent co-morbidities or complications:
+
+Laboratory monitoring required: Weekly CBC with differential,
+BUN, Cr, AST, ALT, Alk phos, Tbili, vancomycin trough, ESR, CRP.
+
+All laboratory results should be faxed to Infectious disease
+R.Ns. at ([**Telephone/Fax (1) 1353**]. All questions regarding outpatient
+antibiotics should be directed to the infectious disease R.Ns.
+at
+.
+#) AMS: She was noted to have fluctuating mental status with
+narcotic pain [**Telephone/Fax (1) 4982**], thus these were avoided to the extent
+possible with pain control primarily with Tylenol and subsequent
+improvement in her mentation to baseline per family. At her
+baseline dementia she can answer questions about her care
+appropriately.
+.
+#) Respiratory Failure: She was weaned off the ventilator post
+operatively and was subsequently weaned from a non-rebreather to
+4L O2 on nasal canula in the ICU and finally to room air with
+excellent oxygen saturation on the general medicine floor.
+.
+#) Systolic CHF: She has a reported LVEF of 25% and requires 20
+mg of Lasix daily at home. Because of the intravenous fluids she
+as received while admitted this dose should be increased to 40
+mg daily and titrated to her daily weight and creatinine.
+.
+#) Hypokalemia: Secondary to diuresis with Lasix required
+monitoring and potassium repletion to reflect Lasix dose as
+appropriate.
+.
+#) Iron Deficiency Anemia: She was started on ferrous sulfate
+325mg daily while admitted.
+.
+#) Incontinence: She was incontinent at baseline and thus
+requires absorbent undergarment and miconazole powder QID.
+.
+#) Depression: She was not restarted on her Citalopram 10mg
+daily while admitted, however this may be restarted after
+discharge if her mental status is believed to be at baseline
+.
+#) Loose stools were noted by the nursing staff - however her C.
+Diff studies were negative and this may be her baseline.
+.
+#) DVT Prophylaxis was achieved with 5000 units of SC Heparin
+TID.
+
+[**Telephone/Fax (1) **] on Admission:
+Trazodone 25mg Q6H PRN Anxiety or Insomnia
+Aspirin 325mg daily
+Citalopram 10mg daily
+Metoprolol ER 25mg daily
+Celebrex 200mg daily
+Lasix 20mg daily
+Tylenol 650mg Q4H PRN pain (not to exceed 4gms daily)
+Guaifenein 100mg/5ml 10ml every 4 hrs as needed for cough
+Levaquin 500mg daily
+Lipitor 8

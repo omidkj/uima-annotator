@@ -1,0 +1,191 @@
+Admission Date:  [**2192-6-28**]              Discharge Date:   [**2192-7-7**]
+
+
+Service: MEDICINE
+
+Allergies:
+Aleve
+
+Attending:[**First Name3 (LF) 9598**]
+Chief Complaint:
+diarrhea, abdominal pain
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+[**Age over 90 **]-year-old man with recently diagnosed lymphoplasmacytic
+lymphoma on rituximab presented from [**Hospital1 **] long-term facility
+with 2 days of loose stools, abdominal pain, chills, low-grade
+fevers, and generalized malaise. Patient was hospitalized at
+[**Hospital1 18**] in [**2192-5-17**] for E. coli bacteremia and was found to be
+neutropenic secondary to lymphoplasmacytic lymphoma. He was then
+discharged to [**Hospital1 **]. He received his first dose of rituximab on
+[**2192-6-21**]. Patient has been neutropenic. On [**2192-6-26**], he started
+having diarrhea and was started on metronidazole 500 mg PO bid.
+C. diff toxin came back positive today, [**2192-6-27**].  Patient
+continued to do poorly, with low-grade fever and chills, and
+therefore was transferred to [**Hospital1 18**] on [**2191-6-28**].
+.
+In the ED, T 100.4, HR 99, BP 82/45 (but on repeat SBP 132
+before any intervention), RR 18, 98%RA. His abdomen was
+distended as baseline and was moderately tender. Abdominal CT
+revealed colitis. His WBC was 0.8 with 29% neutrophils, 27%
+bands, and 39% lymphs. He was given cefepime, PO vancomycin, IV
+vancomycin and admitted to BMT.
+
+Past Medical History:
+ONCOLOGIC HISTORY:
+# Lymphoplasmacytic lymphoma:
+- [**5-/2192**]: presented with E. coli bacteremia secondary to
+neutropenia. Bone marrow biopsy revealed a hypercellular bone
+marrow with involvement by a chronic lymphoproliferative
+disorder. By immunohistochemical stains, B-cells comprise 10-20%
+of overall marrow cellularity, with dim co-expression for CD5.
+Reactive T-cells are present and express CD3.  Plasma cells are
+reactive for CD138, and comprise <10% of marrow cellularity. The
+absence of significant lymphadenopathy, presence of cytoplasmic
+immunoglobulin inclusions in plasma cells in the marrow and
+rather strong expression of CD20 by flow cytometry suggest
+lymphoplasmacytic lymphoma or, alternatively, small lymphocytic
+lymphoma (total lymphocyte count <4,000), with plasma cell
+differentiation.
+- [**2192-6-21**]: first dose of rituximab
+.
+OTHER MEDICAL HISTORY:
+- recurrence malignant melanomas (including local recurrences),
+last [**2191**] that was pT1b
+- [**Doctor Last Name **] 3+3 prostate adenocarcinoma (diagnosed [**2183**]) followed
+by surveillance with Dr. [**Last Name (STitle) **]
+- benign prostatic hypertrophy
+- cholecystectomy
+- known chronic intestinal pneumatosis
+- DM2 on insulin
+- HTN
+- asthma
+- hyperlipidemia
+- GERD
+
+Social History:
+(from OMR) Smoked 6-7 years as a young adult, none since.
+Lifelong nondrinker.  Retired 11 years ago after working as a
+travel [**Doctor Last Name 360**] for 50+ years; also worked conducting a band.
+
+
+Family History:
+Father had DM, Mother had Asthma and Brother died of MI.
+
+Physical Exam:
+On admission:
+Gen: elderly Caucasian man lying in bed, awake, alert, NAD
+HEENT: EOMI, conjunctivae clear, sclerae anicteric, OP moist
+without lesion
+Neck: supple
+Lungs: CTAB
+CV: normal S1/S2, regular rhythm, no murmur
+Abd: soft, distended (baseline per patient), nontender, BS
+present, no fluid wave
+
+On discharge: same.
+
+Pertinent Results:
+[**2192-6-27**] 10:10PM   WBC-0.8*# RBC-2.78* HGB-8.5* HCT-24.8* MCV-89
+MCH-30.6 MCHC-34.4 RDW-16.5*
+[**2192-6-27**] 10:10PM   NEUTS-29* BANDS-27* LYMPHS-39 MONOS-3 EOS-0
+BASOS-0 ATYPS-2* METAS-0 MYELOS-0
+[**2192-6-27**] 10:10PM   PLT COUNT-207
+[**2192-6-27**] 10:10PM   PT-13.6* PTT-24.7 INR(PT)-1.2*
+[**2192-6-27**] 10:14PM   LACTATE-1.4
+[**2192-6-27**] 10:10PM   GLUCOSE-182* UREA N-64* CREAT-2.8*#
+SODIUM-134 POTASSIUM-4.4 CHLORIDE-101 TOTAL CO2-21* ANION GAP-16
+[**2192-6-27**] 10:10PM   ALT(SGPT)-22 AST(SGOT)-15 ALK PHOS-296* TOT
+BILI-0.7
+[**2192-6-27**] 10:10PM   LIPASE-15
+[**2192-6-27**] 10:10PM   cTropnT-0.03*
+[**2192-6-27**] 10:10PM   ALBUMIN-3.2*
+
+[**2192-6-30**] 06:08AM BLOOD WBC-0.3* RBC-2.91* Hgb-8.6* Hct-25.9*
+MCV-89 MCH-29.5 MCHC-33.0 RDW-16.6* Plt Ct-175
+[**2192-7-1**] 06:16AM BLOOD WBC-0.6*# RBC-2.92* Hgb-8.8* Hct-26.5*
+MCV-91 MCH-30.3 MCHC-33.4 RDW-16.7* Plt Ct-168
+[**2192-7-2**] 06:12AM BLOOD WBC-0.8* RBC-3.04* Hgb-9.4* Hct-27.5*
+MCV-90 MCH-30.9 MCHC-34.2 RDW-16.7* Plt Ct-180
+[**2192-7-3**] 06:30AM BLOOD WBC-1.1* RBC-3.12* Hgb-9.6* Hct-28.8*
+MCV-92 MCH-30.8 MCHC-33.4 RDW-16.2* Plt Ct-177
+[**2192-7-4**] 06:00AM BLOOD WBC-1.0* RBC-3.07* Hgb-9.4* Hct-28.2*
+MCV-92 MCH-30.7 MCHC-33.4 RDW-15.8* Plt Ct-155
+[**2192-6-28**] 06:33AM BLOOD Neuts-46* Bands-0 Lymphs-47* Monos-6
+Eos-0 Baso-1 Atyps-0 Metas-0 Myelos-0
+[**2192-6-30**] 06:08AM BLOOD Neuts-52 Bands-0 Lymphs-36 Monos-12*
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2192-7-2**] 06:12AM BLOOD Neuts-37* Bands-5 Lymphs-45* Monos-5
+Eos-2 Baso-0 Atyps-5* Metas-1* Myelos-0
+[**2192-7-3**] 06:30AM BLOOD Neuts-28* Bands-11* Lymphs-51* Monos-8
+Eos-1 Baso-0 Atyps-0 Metas-1* Myelos-0
+[**2192-7-4**] 06:00AM BLOOD Plt Ct-155
+[**2192-7-3**] 06:30AM BLOOD Plt Ct-177
+[**2192-7-2**] 06:12AM BLOOD Plt Smr-NORMAL Plt Ct-180
+[**2192-7-1**] 06:16AM BLOOD Plt Ct-168
+[**2192-6-28**] 06:33AM BLOOD Gran Ct-230*
+[**2192-6-30**] 06:08AM BLOOD Glucose-98 UreaN-52* Creat-1.8* Na-139
+K-4.1 Cl-112* HCO3-18* AnGap-13
+[**2192-7-1**] 06:16AM BLOOD Glucose-43* UreaN-51* Creat-1.6* Na-137
+K-3.7 Cl-111* HCO3-18* AnGap-12
+[**2192-7-2**] 06:12AM BLOOD Glucose-77 UreaN-49* Creat-1.5* Na-137
+K-4.4 Cl-112* HCO3-18* AnGap-11
+[**2192-7-3**] 06:30AM BLOOD Glucose-42* UreaN-49* Creat-1.4* Na-137
+K-4.0 Cl-111* HCO3-19* AnGap-11
+[**2192-7-4**] 06:00AM BLOOD Glucose-80 UreaN-46* Creat-1.5* Na-138
+K-4.2 Cl-113* HCO3-20* AnGap-9
+[**2192-6-28**] 06:33AM BLOOD Calcium-7.7* Phos-4.1 Mg-1.1*
+[**2192-6-29**] 05:40AM BLOOD Calcium-7.8* Phos-4.0 Mg-1.5*
+[**2192-6-30**] 06:08AM BLOOD Calcium-8.0* Phos-3.6 Mg-1.7
+[**2192-7-1**] 06:16AM BLOOD Calcium-8.0* Phos-2.7 Mg-2.0
+[**2192-7-2**] 06:12AM BLOOD Calcium-7.9* Phos-2.8 Mg-1.8
+[**2192-7-3**] 06:30AM BLOOD Calcium-8.1* Phos-2.9 Mg-1.7
+[**2192-7-4**] 06:00AM BLOOD WBC-1.0* RBC-3.07* Hgb-9.4* Hct-28.2*
+MCV-92 MCH-30.7 MCHC-33.4 RDW-15.8* Plt Ct-155
+[**2192-7-5**] 06:00AM BLOOD WBC-1.0* RBC-3.00* Hgb-8.6* Hct-27.8*
+MCV-93 MCH-28.8 MCHC-31.1 RDW-16.6* Plt Ct-148*
+[**2192-7-6**] 09:34AM BLOOD WBC-1.1* RBC-2.95* Hgb-9.0* Hct-26.7*
+MCV-91 MCH-30.6 MCHC-33.8 RDW-16.6* Plt Ct-135*
+[**2192-7-3**] 06:30AM BLOOD Neuts-28* Bands-11* Lymphs-51* Monos-8
+Eos-1 Baso-0 Atyps-0 Metas-1* Myelos-0
+[**2192-7-5**] 06:00AM BLOOD Neuts-50 Bands-1 Lymphs-34 Monos-11 Eos-3
+Baso-1 Atyps-0 Metas-0 Myelos-0
+[**2192-7-6**] 09:34AM BLOOD Neuts-49.7* Lymphs-44.4* Monos-4.7
+Eos-0.7 Baso-0.5
+[**2192-7-5**] 06:00AM BLOOD Plt Smr-LOW Plt Ct-148*
+[**2192-7-6**] 09:34AM BLOOD Plt Ct-135*
+[**2192-6-28**] 06:33AM BLOOD Gran Ct-230*
+[**2192-7-4**] 06:00AM BLOOD Gran Ct-390*
+[**2192-7-6**] 09:34AM BLOOD Gran Ct-540*
+[**2192-7-3**] 06:30AM BLOOD Glucose-42* UreaN-49* Creat-1.4* Na-137
+K-4.0 Cl-111* HCO3-19* AnGap-11
+[**2192-7-4**] 06:00AM BLOOD Glucose-80 UreaN-46* Creat-1.5* Na-138
+K-4.2 Cl-113* HCO3-20* AnGap-9
+[**2192-7-5**] 06:00AM BLOOD Glucose-64* UreaN-43* Creat-1.4* Na-139
+K-4.5 Cl-112* HCO3-21* AnGap-11
+[**2192-7-6**] 09:34AM BLOOD Glucose-165* UreaN-40* Creat-1.4* Na-137
+K-5.2* Cl-110* HCO3-21* AnGap-11
+
+STUDIES:
+# Abd/pel CT [**2192-6-27**]: (prelim) Marked wall thickening and
+inflammatory changes involving the sigmoid colon, with mild
+distension of the descending colon, c/w colitis, likely
+infectious. Mild inflammatory changes surrounding the cecum.
+# CXR [**2192-6-27**]: (my read) elevated right hemidiaphragm, no
+infiltrate, unchanged from [**2192-6-8**]
+
+Brief Hospital Course:
+[**Age over 90 **]-year-old man with recently diagnosed lymphoplasmacytic
+lymphoma, neutropenic on rituximab, recently with E. coli
+bacteremia, presented with C. diff colitis and neutropenia.
+.
+# C. diff colitis: with evidence on CT. Patient was
+hemodynamically stable, and was started on Vanco PO and
+metronidazole IV, which improved his diarrhea. Patient shall
+continue to take Vanco PO for 2 weeks after discontinuation of
+all other antibiotics.
+.
+# 

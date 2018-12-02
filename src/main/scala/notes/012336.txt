@@ -1,0 +1,263 @@
+Admission Date:  [**2191-8-10**]              Discharge Date:   [**2191-8-24**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Increasing shortness of breath
+
+Major Surgical or Invasive Procedure:
+AVR with 19 mm CE magna pericardial valve [**2191-8-16**]
+Cardiac Catherization [**2191-8-11**]
+
+
+History of Present Illness:
+The patient is an 88 year old woman with a history of HTN and
+severe aortic stenosis who presents with increasing SOB. Over
+the past few months she has become increasingly SOB to the point
+where she gets SOB walking from one room to another and from
+talking. She denies chest pain, cough, lightheadedness, and
+recent syncope. She denies leg edema, orthopnea, and PND. She
+was sent to [**Hospital1 18**] for cardiac cath to further evaluate her for
+aortic valve replacement. At the outside hospital her EKG showed
+LVH. Her first set of enzymes was negative and her BNP was
+elevated.
+
+Past Medical History:
+HTN
+Aortic stenosis
+Syncope for 25 years. Last episode > 1 year ago.
+s/p Lumbar disc surgery
+Hypothyroidism
+Polymyalgia Rheumatica
+Depression
+Carotid Artery Disease
+
+Social History:
+No tobacco or alcohol use.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS 140/56 87 24 96/2L
+Thin elderly woman in NAD A&Ox3
+NCAT Sclera anicteric
+Neck supple
+CV PMI @5th intercostal, midclavicular line. RR, normal S1 S2.
+2/6 systolic murmur loudest at USB.
+Decreased breath sounds both bases
+Abdomen soft/NT/ND
+No CCE
+1+DP/PT pulses
+
+
+Pertinent Results:
+[**2191-8-24**] 06:45AM BLOOD WBC-8.6 RBC-3.58* Hgb-10.2* Hct-31.1*
+MCV-87 MCH-28.6 MCHC-32.9 RDW-16.5* Plt Ct-225
+[**2191-8-11**] 01:52AM BLOOD WBC-7.7 RBC-4.51 Hgb-13.1 Hct-39.5 MCV-88
+MCH-29.1 MCHC-33.2 RDW-16.1* Plt Ct-199
+[**2191-8-24**] 06:45AM BLOOD Plt Ct-225
+[**2191-8-20**] 02:26AM BLOOD PT-12.1 PTT-27.1 INR(PT)-1.0
+[**2191-8-11**] 01:52AM BLOOD Plt Ct-199
+[**2191-8-11**] 01:52AM BLOOD PT-14.3* PTT-25.7 INR(PT)-1.3*
+[**2191-8-24**] 06:45AM BLOOD Glucose-94 UreaN-12 Creat-0.5 Na-138
+K-4.0 Cl-104 HCO3-27 AnGap-11
+[**2191-8-11**] 01:52AM BLOOD Glucose-131* UreaN-37* Creat-0.8 Na-138
+K-4.4 Cl-104 HCO3-23 AnGap-15
+[**2191-8-11**] 04:34PM BLOOD ALT-28 AST-31 AlkPhos-70 TotBili-0.7
+[**2191-8-24**] 06:45AM BLOOD Calcium-8.2* Phos-2.5* Mg-2.2
+[**2191-8-11**] 04:34PM BLOOD %HbA1c-5.5
+[**2191-8-11**] 01:52AM BLOOD Triglyc-96 HDL-40 CHOL/HD-4.2 LDLcalc-107
+[**2191-8-22**] 06:25AM BLOOD TSH-6.3*
+
+Cardiology Report ECG Study Date of [**2191-8-22**]  10:43:52 AM
+
+
+Sinus rhythm. Left atrial abnormality. Left ventricular
+hypertrophy with
+ST-T wave changes. Compared to the prior tracing of [**2191-8-16**] the
+P wave
+morphology has changed.
+
+
+Read by: [**Last Name (LF) 578**],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 579**]
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+75 156 82 350/376 -22 -7 167
+
+   RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  [**2191-8-22**] 9:49 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate ? effusion
+
+[**Hospital 93**] MEDICAL CONDITION:
+88 year old woman pre-op for AVR
+REASON FOR THIS EXAMINATION:
+evaluate ? effusion
+TWO VIEWS OF THE CHEST ON _____.
+
+Two views of the chest are compared with last study. The
+pulmonary artery line has been removed since then. Sternal
+sutures and artificial aortic valve are seen in place. There is
+trace of fluid in the right costophrenic angle and approximately
+2-300 cc of fluid at the left base. Old left healed rib fracture
+again noted. Heart size remains stable. Lungs are otherwise
+clear with no evidence of failure.
+
+CONCLUSION: Small bilateral effusions left greater than right.
+
+DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+Approved: MON [**2191-8-22**] 10:59 AM
+
+Cardiology Report ECHO Study Date of [**2191-8-16**]
+
+
+
+PATIENT/TEST INFORMATION:
+Indication: Aortic valve disease. Left ventricular function.
+Preoperative assessment. Right ventricular function.
+Status: Inpatient
+Date/Time: [**2191-8-16**] at 13:24
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2007AW4-:
+Test Location: Anesthesia West OR cardiac
+Technical Quality: Adequate
+
+
+
+
+REFERRING DOCTOR: DR. [**First Name (STitle) **] R. [**Doctor Last Name **]
+
+MEASUREMENTS:
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 5.5 cm (nl <= 5.6 cm)
+Left Ventricle - Ejection Fraction: 20% to 25% (nl >=55%)
+Aorta - Ascending: 3.0 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Gradient: 40 mm Hg
+Aortic Valve - Mean Gradient: 23 mm Hg
+Aortic Valve - LVOT Diam: 1.9 cm
+Aortic Valve - Valve Area: *0.6 cm2 (nl >= 3.0 cm2)
+
+INTERPRETATION:
+
+Findings:
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum. No
+ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Top normal/borderline
+dilated LV cavity
+size. Severe regional LV systolic dysfunction.
+
+RIGHT VENTRICLE: Normal RV chamber size. Focal apical
+hypokinesis of RV free
+wall.
+
+AORTA: Normal ascending aorta diameter.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Severe AS
+(AoVA <0.8cm2). [**Doctor Last Name **] (2+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular
+calcification. [**Doctor Last Name **] (2+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. [**Doctor Last Name **]
+[2+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic
+(normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify
+I was present in compliance with HCFA regulations. No TEE
+related
+complications. The patient was under general anesthesia
+throughout the
+procedure.
+
+Conclusions:
+PREBYPASS
+No atrial septal defect is seen by 2D or color Doppler. There is
+mild
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is
+top normal/borderline dilated. There is severe regional left
+ventricular
+systolic dysfunction with akinesis of the septal, inferoseptal
+and
+anteroseptal walls. All other walls are moderately hyopinetic.
+LVEF~20%. Right
+ventricular chamber size is normal. There is focal hypokinesis
+of the apical
+free wall of the right ventricle. The aortic valve leaflets are
+severely
+thickened/deformed. There is severe aortic valve stenosis (area
+<0.5-0.7cm2 by
+Continuity Equataion). [**Doctor Last Name **] (2+) aortic regurgitation is
+seen. The mitral
+valve leaflets are mildly thickened. [**Doctor Last Name **] (2+) mitral
+regurgitation is
+seen. [**Doctor Last Name **] [2+] tricuspid regurgitation is seen.
+
+POSTBYPASS
+The patient is on an epinephrine infusion at 0.04 ucg/kg/min
+LV systolic function is marginally improved in the setting of
+inotropes. The
+is a well seated, well functioning bioprosthesis in the aortic
+position. There
+is a trace perivalvular leak(AI). MR [**First Name (Titles) 19947**] [**Last Name (Titles) 1192**] in
+quantity. The study
+is otherwise unchanged from prebypass.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD on [**2191-8-16**] 13:43.
+[**Location (un) **] PHYSICIAN:
+
+ [**Hospital1 69**]
+[**Location (un) 86**], [**Telephone/Fax (1) 15701**]
+
+Pathology Examination
+
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 74010**],[**Known firstname **] C       [**2103-4-6**]    88 Female      [**-7/3196**]
+[**Numeric Identifier 74011**]
+Report to:   DR. [**Last Name (STitle) **]. [**Doctor Last Name **]
+Gross Description by:   DR. [**Last Name (STitle) **]. [**Doctor Last Name 395**]/cofc
+
+
+
+SPECIMEN SUBMITTED: AORTIC VALVE LEAFLETS.
+
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2191-8-16**] [**2191-8-16**] [**2191-8-19**] DR. [**Last Name (STitle) **]. BROWN/nbh
+
+DIAGNOSIS:
+
+
+
+Aortic valve:
+
+Valvular tissue with marked calcification and focal mild chronic
+inflammation.
+
+Clinical: Specimen submitted:  Aortic valve leaflets.
+Gross:  The specimen is received fresh in a container, labeled
+with the patient's name, "[**Known firstname 7019**] [**Known lastname **]", the medical record
+number and additionally labeled "aortic valve leaflets", and
+consists of multiple fragments of markedly calcif

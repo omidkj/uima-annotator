@@ -1,0 +1,215 @@
+Admission Date:  [**2105-10-6**]              Discharge Date:   [**2105-10-12**]
+
+Date of Birth:  [**2038-10-20**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2597**]
+Chief Complaint:
+Aortoiliac atherosclerosis with disabling claudication
+
+Major Surgical or Invasive Procedure:
+Aorta biprofunda bypass with [**First Name5 (NamePattern1) 899**] [**Last Name (NamePattern1) 72997**] [**10-6**]
+Post-op NSTEMI
+
+
+History of Present Illness:
+This 66-year-old gentleman with severe peripheral vascular
+disease has severe disabling claudication in both of his
+extremities. He has had a previous femoral- femoral graft which
+has failed. He underwent an arteriogram
+which showed his aorta to be diseased. His right common iliac
+artery was ectatic and ended at the internal iliac artery with
+no external iliac artery on that side. On the left side, his
+entire iliac system is totally occluded with a very large
+profunda femoris artery reconstituting collaterals in the
+groin. Both common femoral arteries also totally occluded.
+Because of the extent of his disease and his severe symptoms, he
+was advised of an aortobifemoral bypass.
+
+
+Past Medical History:
+CAD
+COPD
+PVD s/p peripheral revascularization in [**2095**] ?fem-fem ([**Hospital1 2025**])
+NIDDM
+HTN
+"Hepatitis" >20 yrs ago
++ tob abuse
++ ETOH abuse
+EF 20-25%
+
+
+Social History:
+Social history is significant for the presence of current
+tobacco use. There is history of alcohol abuse. Lives alone. Has
+one daughter ([**Name (NI) **] [**First Name8 (NamePattern2) **] [**Name (NI) 46**]). retired
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.
+
+Physical Exam:
+VS: 98.5   P: 85   BP 143/66   RR: 23      Spo2: 93% RA
+
+General: NAD
+Neuro: Alert and oriented x 3
+Cards: RRR, SR on tele
+Lung: CTA bilaterally
+Abdominal: soft, nt, nd
+Wounds: Midline Abdominal incision CDI. Bilateral groin incision
+CDI with staples, without signs/symptoms of infection.
+Pulses: Femoral palp bilaterally
+DP, PT [**Name (NI) **] bilaterally
+
+Pertinent Results:
+[**2105-10-11**] 05:15AM BLOOD WBC-7.1 RBC-3.38* Hgb-10.7* Hct-30.2*
+MCV-89 MCH-31.6 MCHC-35.4* RDW-15.0 Plt Ct-128*#
+
+[**2105-10-11**] 05:15AM BLOOD Plt Ct-128*#
+
+[**2105-10-12**] 05:45AM BLOOD Glucose-137* UreaN-17 Creat-1.3* Na-136
+K-3.6 Cl-100 HCO3-26 AnGap-14
+
+[**2105-10-9**] 03:35AM BLOOD CK(CPK)-184*
+
+[**2105-10-9**] 03:35AM BLOOD cTropnT-0.52*
+
+[**2105-10-12**] 05:45AM BLOOD Calcium-8.6 Phos-3.7 Mg-2.1
+
+[**2105-10-9**] 03:35AM BLOOD Ammonia-13
+
+[**2105-10-8**] 08:27AM BLOOD TSH-5.2*
+
+[**2105-10-10**] Blood culutures pending
+
+[**2105-10-8**] 2:59 pm SPUTUM     Site: EXPECTORATED
+      Source: Expectorated.
+
+                            **FINAL REPORT [**2105-10-10**]**
+
+   GRAM STAIN (Final [**2105-10-8**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS, CHAINS, AND
+CLUSTERS.
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2105-10-10**]):
+      SPARSE GROWTH OROPHARYNGEAL FLORA.
+
+[**2105-10-8**] 4:13 pm BLOOD CULTURE      Source: Line-artearial.
+
+   AEROBIC BOTTLE (Pending):
+
+   ANAEROBIC BOTTLE (Final [**2105-10-11**]):
+      REPORTED BY PHONE TO [**Last Name (LF) **],[**First Name3 (LF) 72998**] ON [**2105-10-9**] @2051 .
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    ISOLATED FROM ONE
+SET ONLY.
+         SENSITIVITIES PERFORMED ON REQUEST.
+
+OPERATIVE REPORT
+
+[**Last Name (LF) 1111**],[**First Name3 (LF) 1112**] B.
+**NOT REVIEWED BY ATTENDING**
+
+Name:  [**Known lastname **], [**Known firstname **]           Unit No:  [**Numeric Identifier 72999**]
+
+Service:                          Date:  [**2105-10-6**]
+
+Date of Birth:  [**2038-10-20**]        Sex:  M
+
+Surgeon:  [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD 2287
+
+PREOPERATIVE DIAGNOSIS:  Aortoiliac occlusive disease with
+severe claudication and failed femoral-femoral bypass.
+
+POSTOPERATIVE DIAGNOSIS:  Aortoiliac occlusive disease with
+severe claudication and failed femoral-femoral bypass.
+
+PROCEDURE:  Aortobifemoral bypass with 16 x 8 Dacron graft,
+proximal aortic and left renal endarterectomy and
+reimplantation of inferior mesenteric artery into the graft.
+
+ASSISTANT:  [**Doctor Last Name 29316**].
+
+ANESTHESIA:  General endotracheal.
+
+ESTIMATED BLOOD LOSS:  800 cc.
+
+COMPLICATIONS:  None.
+
+INDICATIONS:  This 66-year-old gentleman with severe
+peripheral vascular disease has severe disabling claudication
+in both of his extremities. He has had a previous femoral-
+femoral graft which has failed. He underwent an arteriogram
+which showed his aorta to be diseased. His right common iliac
+artery was ectatic and ended at the internal iliac artery
+with no external iliac artery on that side. On the left side,
+his entire iliac system is totally occluded with a very large
+profunda femoris artery reconstituting collaterals in the
+groin. Both common femoral arteries also totally occluded.
+Because of the extent of his disease and his severe symptoms,
+he was advised of an aortobifemoral bypass.
+
+PROCEDURE:  Under adequate general tracheal anesthesia the
+abdomen and groins were prepped and draped in the usual
+sterile fashion. The old groin incisions were opened. There
+was extensive scar formation in the groins. Ultimately the 2
+femoral anastomoses of the [**Doctor Last Name 4726**]-Tex femoral-femoral graft
+were encountered. The graft was divided close to the femoral
+arteries. The common deep and superficial femoral arteries
+were dissected out on both sides and encircled with vessel
+loops. The common and superficial femoral arteries were
+chronically occluded. The profunda femoris artery was the
+only artery available for outflow.
+
+On the right side the profunda femoris artery took off high
+and took an unusual medial course to the superficial femoral
+artery, and in fact it appeared as though the femoral-femoral
+bypass had been implanted on the right into the superficial
+femoral artery. On the left side the common femoral and
+superficial femoral arteries were occluded, the graft was
+into the common femoral artery. The profunda femoris artery
+was calcified proximally, was soft distally, but somewhat
+small in caliber.
+
+Tunnels were created under the inguinal ligaments into the
+retroperitoneal space and the femoral grafts were completely
+removed from the femoral arteries where they had been
+attached and the artery over sewn with 5-0 Prolene sutures.
+We then made a xiphoid to pubis midline abdominal incision
+and entered the abdomen without difficulty. The sigmoid colon
+was pulled superiorly and the viscera retracted to the right.
+The ligament of Treitz was incised and the abdominal aorta
+was exposed from the crossing left renal vein to the iliac
+bifurcation. The aorta was heavily calcified and there
+appeared to be one area proximally near the renal arteries
+which was relatively soft and appeared as safe to clamp.
+There was a low-lying left renal artery which was actually
+known to be 1 of 2 left renal arteries on that side. We
+decided to incorporate this renal artery into a beveled
+anastomosis proximally.
+
+I had initially given some thought to an end-to-side
+anastomosis because there was a very large inferior
+mesenteric artery distally, but in seeing the aorta, felt
+that it was too diseased for anything other than end-to-end
+anastomosis. We dissected out the very large inferior
+mesenteric artery encircled with vessel loop, as well as the
+left renal artery. We then created retroperitoneal tunnels
+between the groins and this dissection.
+
+The patient was then heparinized and proximal distal control
+was obtained. The aorta was transected in an oblique fashion
+with the high end of the oblique cut tracking towards the
+right side, and the left lower end cut below the left renal
+artery. A large amount of atheromatous debris and plaque was
+found in the aorta and this was carefully endarterectomized
+including plaque in the origin of the left renal artery. The
+wall of the aorta was then extraordinarily thin after doing
+this, particularly on the right si

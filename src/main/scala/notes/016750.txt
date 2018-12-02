@@ -1,0 +1,184 @@
+Admission Date:  [**2108-10-10**]              Discharge Date:   [**2108-10-13**]
+
+Date of Birth:  [**2033-12-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2751**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+74F with history of hypertension presented to the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with
+one day history of acute onset shortness of breath. She first
+noticed shortness of breath while walking up the stairs on
+Monday. She presented to her PCP who drew [**Name Initial (PRE) **] D-dimer that was
+elevated. She was sent to the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].  In the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], she
+was tachycardiac to 120s and had hypoxemia to high 80s improving
+to low 90s on NC. ECG showed "strain" in V2 and V3 and TWI in V2
+and V3. Bedside ECHO showed RV dilitation. She was given 1 mg/kg
+lovenox SQ empirically. CTA showed extensive bilateral segmental
+pulmonary embolism with no saddle embolism.
+
+Of note, she denies past medical history of cancer, estrogen
+usage, known hypercoagulability, recent travel.  No family
+history fo clotting disorders.
+
+Labs were significant for troponin 0.3 and BNP 515. The patient
+was transferred to [**Hospital1 18**] for ICU admission.  In the ED, initial
+VS were: 97.8 110 151/110 20 98% 4L. cTropnT 0.10, lactate 2.3,
+BNP of [**Numeric Identifier 961**].  Heparin infusion was started, and lovenox was
+discontinued.
+
+On arrival to the MICU, the patient had no complaints or
+concerns.  In the MICU she was continued on heparin infusion and
+started on coumadin today.
+
+Currently patient reports mild sob but denies any chest pain,
+palpitations, coughing, n/v, diaphoresis, diarrhea,
+constipation, hematochezia, dysuria, hematuria.  Denies any
+recent weight loss.
+
+
+Past Medical History:
+- Hypertension
+- Osteoarthritis
+
+Social History:
+Lives by herself at [**Hospital1 **].  Tiotally independnt with ADSLs
+- Tobacco: None
+- Alcohol: None
+- Illicits: None
+
+Family History:
+No history of clotting disorder or DVT/PE. No history of
+neoplasm.
+
+Physical Exam:
+VT: 98.1  HR 95  BP 140s/80  O2 98% on 2L
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred, finger-to-nose intact
+Skin: diffuse hyperpigmented lesion in the her face.  one
+crusted escahar lesion in her lower lip.
+
+
+Pertinent Results:
+Admission/Pertinent Labs:
+[**2108-10-10**] 07:25PM BLOOD WBC-12.7* RBC-4.60 Hgb-15.2 Hct-42.1
+MCV-91 MCH-32.9* MCHC-36.0* RDW-15.3 Plt Ct-219
+[**2108-10-10**] 07:25PM BLOOD Neuts-88.0* Lymphs-7.2* Monos-4.1 Eos-0.4
+Baso-0.2
+[**2108-10-10**] 07:25PM BLOOD PT-13.2* PTT-39.7* INR(PT)-1.2*
+[**2108-10-10**] 07:25PM BLOOD Glucose-125* UreaN-36* Creat-1.2* Na-134
+K-7.2* Cl-99 HCO3-26 AnGap-16
+[**2108-10-10**] 07:25PM BLOOD proBNP-[**Numeric Identifier **]*
+[**2108-10-10**] 07:25PM BLOOD cTropnT-0.10*
+[**2108-10-11**] 02:02AM BLOOD CK-MB-5 cTropnT-0.09*
+[**2108-10-11**] 08:10PM BLOOD CK-MB-6 cTropnT-0.07*
+[**2108-10-10**] 07:25PM BLOOD Calcium-9.8 Phos-3.6 Mg-1.9
+[**2108-10-10**] 07:35PM BLOOD Lactate-2.3* K-5.6*
+[**2108-10-10**] 11:28PM BLOOD Lactate-1.4
+.
+Discharged Labs:
+[**2108-10-13**] 09:00AM BLOOD WBC-9.6 RBC-4.05* Hgb-12.8 Hct-37.6
+MCV-93 MCH-31.6 MCHC-34.1 RDW-15.2 Plt Ct-240
+[**2108-10-13**] 09:00AM BLOOD PT-22.8* INR(PT)-2.2*
+[**2108-10-13**] 09:00AM BLOOD Glucose-92 UreaN-26* Creat-0.9 Na-138
+K-4.1 Cl-101 HCO3-25 AnGap-16
+[**2108-10-13**] 09:00AM BLOOD Calcium-8.9 Phos-2.9 Mg-1.6
+.
+TTE: [**2108-10-11**]
+The left atrium is dilated. Left ventricular wall thicknesses
+are normal. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is normal (LVEF 75%). Doppler
+parameters are most consistent with Grade I (mild) left
+ventricular diastolic dysfunction. The right ventricular free
+wall thickness is normal. The right ventricular cavity is
+dilated with severe global free wall hypokinesis. There is
+abnormal septal motion/position consistent with right
+ventricular pressure/volume overload. There are focal
+calcifications in the aortic arch. The aortic valve leaflets (3)
+are mildly thickened but aortic stenosis is not present. No
+aortic regurgitation is seen. The mitral valve appears
+structurally normal with trivial mitral regurgitation. There is
+no mitral valve prolapse. The estimated pulmonary artery
+systolic pressure is normal. There is no pericardial effusion.
+.
+IMPRESSION: findings are consistent with hemodynamically
+significant pulmonary embolism with severe right ventricular
+dysfunction
+
+Brief Hospital Course:
+74F with history of hypertension who presented with shortness of
+breath and found to have bilateral submassive pulmonary embolism
+with right heart strain.
+.
+# Submassive Pulmonary embolism: Patient initially presented to
+PCP's office with acute shortness of breath and tachycardia and
+found to have elevated d-dimer; sent to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] where CTA
+showed bilateral pulmonary embolisms along with RV strain on EKG
+and on echo but hemodynamically stable.  She was given one dose
+of Lovenox and  transferred to [**Hospital1 18**] MICU service. Repeat TTE
+showed severe RV dysfunction but she remained hemodynamically
+stable therefore she did not undergo thrombolytic or surgical
+embolectomy.  She was transferred to regular medical floor with
+IV heparin.  She was transitioned to Lovenox injections [**Hospital1 **]
+dosing and started on Coumadin  On the medical floor patient
+complained of shortness of breath on exertion but denied any
+chest pain, or shortness of breath.  One day prior to discharge
+she was weaned off of oxygen and had sats in mid 90s.  She was
+also evaluated by physical therapy and had ambulatory sats
+ranging 89-92.  On the day of discharge patient's INR was 2.2.
+She will have her next INR checked at PCP's office on [**10-16**].  If
+her INR remains therapeutic then her PCP will discontinue
+lovenox injections.  Patient has no obvious risk factors for PE
+such as stasis, recent surgery/trauma, or hypercoagulable state.
+Given her age, it is suspicious that she might have an
+underlying malignancy or other secondary process causing
+bilateral PE. Patient's PCP will decide to initiate further work
+up to screen for coagulopathies that could have caused patient's
+pulmonary embolism including a screening colonoscopy for colon
+cancer. Per patient she is also about to undergo skin biospy by
+dermatologist for suspicious skin lesions.
+.
+# CKD: Likely secondary to her HTN. Baseline Cr from [**2098**] is
+1-1.2 at [**Hospital1 **] records (estimated eGFR 44) with admission Cr
+1.2.  Her discharged Cr of 0.9.
+.
+# Hypertension: Patient was hypertensive to 180s one day after
+admission in the setting of not received her home hypertensive
+medications.  She was started on her regular home medications
+Triameterene-HCTZ and amlodipine and her blood pressures dropped
+to 140s.
+.
+# Emergency contact: [**Name (NI) **] [**Last Name (NamePattern1) 41841**] (daughter) Home: [**Telephone/Fax (1) 112218**];
+cell: [**Telephone/Fax (1) 112219**]: [**First Name4 (NamePattern1) 553**] [**Last Name (NamePattern1) 23096**] (daughter) Home [**Telephone/Fax (1) 112220**];
+cell: [**Telephone/Fax (1) 112221**]
+#Code: Full
+.
+Transitions of Care:
+- Patient will follow up with PCP on tuesday [**10-16**] at
+11am.  Patient will also have her INR checked on tuesday and her
+coumadin dose will be adjusted based on her INR.  Her lovenox
+injections will be discontinued if INR remains therapeutic. PCP
+will initiate [**Name9 (PRE) 8019**] for 

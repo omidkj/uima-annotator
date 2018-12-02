@@ -1,0 +1,211 @@
+Admission Date:  [**2152-2-28**]              Discharge Date:   [**2152-3-10**]
+
+
+Service: MEDICINE
+
+Allergies:
+Cephalexin / Nsaids / Phenergan / Codeine
+
+Attending:[**First Name3 (LF) 7202**]
+Chief Complaint:
+transferred from OSH for STEMI
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+TEE Cardioversion
+Pacemaker/Defibrillator Placement
+
+
+History of Present Illness:
+Ms. [**Known lastname 7749**] is a 83 year old woman with a history of CAD s/p cath
+[**12-24**] with stent LCX and RCA, ESRD on HD for the past 5 weeks,
+Hep B cirrhosis and COPD who is transferred from [**Hospital1 25986**] and Rehab Center with STEMI.
+.
+She was recently hospitalized at [**Hospital1 18**] from [**1-19**] to [**2-2**] with
+left lower lobe pneumonia and ESRD and started on HD. She was
+discharged to [**Hospital1 **] for treatment of her pneumonia.
+Over the past week, she was noted to have increasing cough with
+white sputum production, bronchospasm, shortness of breath and
+orthopnea. She was treated with IV solumedrol and biaxin which
+was changed to prednisone 60 mg on [**2-25**]. She was continued on
+levaquin and vancomycin and nebulizers. She was seen by
+pulmonary and they felt her wheeze and sob were due to CHF
+rather than COPD exacerbation. On [**2-25**] they were unable to
+complete dialysis due to clotted access catheter. On [**2-25**] she was
+started on 100 mg IV Lasix [**Hospital1 **] and zaroxyln with good response.
+ECG done [**2-25**] elevation in the inferior leads which
+were new compared to ECG from [**2152-2-2**]. ECG was repeated on [**2-28**]
+and showed similar ST elevation that was slightly decreased. CK
+was 115, CK-MB was 41 and TnI was 14.88. She was transfered to
+the [**Hospital1 18**] ED for further evaluation. Of note her aspirin was
+discontinued one week prior to admission due to platelet count
+of [**Numeric Identifier 17445**].
+.
+In the ED the patient reported that she has been having chest
+pressure for several days. The pressure is worse with
+inspiration and expiration and worse with cough. She has had
+cough and shortness of breath for one month. She reported [**5-31**]
+chest pain, radiating to her right shoulder. In the ED she
+received aspirin 325 mg, heparin 5000 bolus and 300 mg plavix.
+She was brought to the cath lab.
+.
+Cath: findings notable for mod LMCA calcification, LAD mod calc
+with diffuse disease, LCX with non dom vessel, RCA occ mid
+segment with L --> R collaterals, RCA lesion dilated and then
+Taxus stent x 5.
+.
+Admitted to [**Hospital Unit Name 196**].
+.
+ROS: Reports 5/10 chest pain that is slightly better than prior
+to cath. Worse with inspiration and expiration. She feels short
+of breath and feels like she has sputum that she cannot get up.
+She denies abdominal pain, diaphoresis, nausea, vomiting. Feels
+her legs are restless.
+
+
+Past Medical History:
+1. COPD
+2. Hepatitis B cirrhosis
+3. Low back pain s/p laminectomy
+4. Chronic renal insufficency - baseline Cr 2.9-3.3-> Being
+followed by renal (Dr. [**Last Name (STitle) 3271**] who feels this may be either
+hypertensive vascular disease or membranous glomerulonephritis
+secondary to hepatitis
+5. rheumatoid arthritis
+6. chronic renal insufficiency
+7. recurrent urinary tract infections
+8. right total knee replacement
+9. anemia of chronic disease
+10. coronary artery disease
+11. hypothyroid
+12. right ORIF of hip
+13. Depression
+14. Gout
+
+
+Social History:
+lives with daughter
+
+
+Family History:
+non contributory
+
+Physical Exam:
+PE:
+VS: T 96.8 HR 74 BP 123/55 RR 22 O2 sat 92-97% 2L
+GEN: Elderly woman, lying in bed flat, with some tachypnea and
+complaining of chest pain.
+HEENT: PERRL, EOMI, sclera anicteric, MMM.
+Neck: JVP at 10 cm. No lymphadenopathy.
+Lungs: Crackles at left base with wheezes throughout.
+CV: Regular, no murmurs, rubs or gallops appreciated.
+Abd: Soft, obese, non tender and non distended, active bowel
+sounds.
+Ext: No edema, no rash.
+vascular: 2+ DP pulses.
+Groin: no hematoma, no bruit, good pulse.
+Neuro: Alert and oriented.
+
+
+Pertinent Results:
+ECG: [**2152-2-25**]: Sinus at 72 bpm, normal intervals. Normal axis. 1mm
+STE in II, III, avf, (III>II) TWI and ST depressions I, AVL, new
+since [**2152-2-2**].
+.
+[**2152-2-28**] prior to cath: 1mm STE in II, III, AVF, slightly
+improved. TWI I, Avl, ST depressions I AVL.
+.
+[**2152-2-28**] post cath: Sinus 68 bpm. Normal intervals and axis. STE
+II, III, AVF, with TWI and ST depressions I and AVL.
+.
+Labs: see below, notable for elevated BUN/Cr, low plts, elevated
+MB/trop
+
+[**2152-2-28**] 01:40PM   PT-11.6 PTT-32.8 INR(PT)-1.0
+[**2152-2-28**] 01:40PM   PLT SMR-LOW PLT COUNT-93*
+[**2152-2-28**] 01:40PM   HYPOCHROM-NORMAL ANISOCYT-2+ POIKILOCY-NORMAL
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-1+ SCHISTOCY-1+
+[**2152-2-28**] 01:40PM   NEUTS-93.3* BANDS-0 LYMPHS-3.1* MONOS-3.1
+EOS-0.2 BASOS-0.3
+[**2152-2-28**] 01:40PM   WBC-6.8 RBC-4.54# HGB-14.7# HCT-43.4# MCV-96
+MCH-32.4* MCHC-33.9 RDW-15.9*
+[**2152-2-28**] 01:40PM   CALCIUM-8.9 PHOSPHATE-3.5 MAGNESIUM-2.1
+[**2152-2-28**] 01:40PM   CK-MB-35* MB INDX-31.0* cTropnT-5.12*
+[**2152-2-28**] 01:40PM   CK(CPK)-113
+[**2152-2-28**] 01:40PM   GLUCOSE-189* UREA N-36* CREAT-4.1* SODIUM-138
+POTASSIUM-4.6 CHLORIDE-97 TOTAL CO2-26 ANION GAP-20
+[**2152-2-28**] 08:55PM   PT-11.7 PTT-25.5 INR(PT)-1.0
+[**2152-2-28**] 08:55PM   PLT COUNT-91*
+[**2152-2-28**] 08:55PM   WBC-5.7 RBC-4.57 HGB-14.5 HCT-43.0 MCV-94
+MCH-31.8 MCHC-33.7 RDW-15.5
+[**2152-2-28**] 08:55PM   ALBUMIN-3.9
+[**2152-2-28**] 08:55PM   CK-MB-25* MB INDX-24.0* cTropnT-5.25*
+[**2152-2-28**] 08:55PM   ALT(SGPT)-59* AST(SGOT)-54* LD(LDH)-407*
+CK(CPK)-104 ALK PHOS-117 TOT BILI-0.3
+[**2152-2-28**] 08:55PM   GLUCOSE-154* UREA N-44* CREAT-4.3* SODIUM-136
+POTASSIUM-4.5 CHLORIDE-96 TOTAL CO2-22 ANION GAP-23*
+[**2152-2-28**] 10:30PM   PLT COUNT-81*
+[**2152-2-28**] 10:30PM   CK-MB-NotDone
+[**2152-2-28**] 10:30PM   CK(CPK)-88
+[**2152-2-28**] 10:30PM   POTASSIUM-4.3
+[**2152-2-28**] 11:01PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-500
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-SM
+[**2152-2-28**] 11:01PM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 155**]-1.034
+[**2152-2-28**] C.Cath:
+COMMENTS:
+1. Selective coronary angiography showed a right dominant system
+with
+calcified LMCA but no critical stenosis. LAD had some moderate
+diffuse
+disease. LCX was a non-dominant vessel without critical lesions.
+RCA was
+totally occluded through its mid-vessel course with some distal
+flow to
+the PDA territory via L->R collaterals.
+2. Left ventriculography was deferred given CRI.
+3. Hemodynamic assessment showed mildly elevated right-sided
+filling
+pressures consistent with volume overload. There was mild to
+moderate
+pulmonary hypertension.
+4. The acute total occlusion of the mid RCA was predilated with
+1.5 X
+6mm Sprinter and 2.5 X 30mm maverick balloons, stented with 2.5
+X 20mm,
+3.0 X 20mm, 3.0 X 15mm and 3.5 X 32mm Taxus stents and post
+dilated with
+3.0 X 15mm NC ranger balloon with lesion reduction from 100% to
+0%. The
+final angiomgram showed TIMI flow with no dissection and no
+embolisation. (see PTCA comments)
+5. R femoral arteriotomy site was closed with a 6Fr angioseal.
+
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Normal ventricular function.
+3 Successful stenting of the mid RCA lesion in the setting of an
+Acute
+inferior STEMI
+[**2152-3-2**] CXR:
+HISTORY: Shortness of breath and cough. Recent MI. Please
+evaluate for CHF versus pneumonia.
+
+AP upright and left lateral views of the chest show interval
+clearing of pleural effusion seen on the patient's prior
+portable study from [**2152-1-26**]. No focal consolidation is
+seen to suggest pneumonia and the pulmonary vasculature is not
+congested. Moderate cardiomegaly appears stable and soft tissue
+mass at the right upper mediastinum has been shown to be
+vascular on previous cross sectional imaging studies. Tunneled
+dialysis tubing is seen with distal tip at the level of the
+right atrium and the proximal tip at the level of the SVC/right
+atrial junction. Calcified atherosclerotic plaque is seen in the
+arch of the aorta.
+
+CONCLUSION: No CHF or pneumonia.
+[**2152-2-29**] Echo:
+Conclusions:
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or
+color Dopple

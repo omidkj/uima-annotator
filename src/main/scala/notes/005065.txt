@@ -1,0 +1,226 @@
+Admission Date:  [**2109-3-26**]              Discharge Date:   [**2109-3-29**]
+
+Date of Birth:  [**2062-9-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Clindamycin
+
+Attending:[**First Name3 (LF) 2186**]
+Chief Complaint:
+Shortness of breath and HTN
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+46 y/o Ethiopian male with a h/o T1DM, HIV, ESRD, and peripheral
+neuropathy who presented to the ED with SOB, cough, and
+pleuritic chest pain. Pt states that he was in his usual state
+of health until he developed a fever (temp to 102 at home),
+pleuritic chest pain, and SOB the night prior to admission. He
+reports URI symptoms over the past 6 days. His last HD session
+was the day prior to admission with removal of over 2L of fluid.
+Pt was evaluated in the ED. Of note, he had not taken his
+medications prior to admission.
+.
+Upon arrival to the ED, vitals were T 99.7 HR 70 BP 227/104 RR
+16 and 98%RA. He was given Metoprolol 5 mg IV x 1 and
+hydralazine 10 mg IV x 1. He was also given cefepime 2 grams IV
+and vancomycin 1 g IV. He was started on a Nipride gtt for BP
+control and transferred to the MICU hemodynamically stable.
+.
+In ICU, he was monitored and continued on nipride gtt for BP
+control. Renal was consulted and he had HD with 3.5 UF. He was
+also found to have a multifocal pneumonia by CT scan and Abx
+changed to vanco/levo. ID was consulted. When off nipride, he
+was then transferred to medical floor.
+.
+On the floor, he currently has no complaints except that cough
+may be worsening. He denies any fevers, chills, nausea,
+vomiting, pain. Pt in middle of changing dwell for PD and wished
+to defer further discussion.
+
+
+Past Medical History:
+- Type 1 diabetes
+- HIV (boosted atazanavir, lamivudine, stavudine), dx'd [**2096**]
+- ESRD on HD, planned change to peritoneal dialysis in near
+future, on transplant list (clinical study for HIV/solid organ
+transplant)
+- Recent hospitalizations for Serratia bacteremia (presumed
+source AV graft) most recently treated with 6 week course
+meropenem
+- History of schistosomiasis
+- Restless leg syndrome
+- Peripheral neuropathy on gabapentin
+- S/p cholecystectomy
+
+
+Social History:
+Moved from [**Country 4812**] in [**2091**]. Lives with wife in [**Location (un) 538**].
+Works in support services for a law firm. Denies any alcohol or
+IV drug use. Quit smoking last year; previous 30 pack-year
+history.
+
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+T 98.9 HR 82 BP 197/98 RR 12 98% 2L NC
+General: WD/WN 46 y/o male in NAD.
+HEENT: NC/AT. PERRLA. EOMI. MMM. OP clear.
+Neck: No LAD or JVD.
+CV: Normal S1, S2 without m/r/g.
+Pulm: CTAB without wheezes or crackles.
+Abd: Soft, ND, mild diffuse tenderness. Normoactive BS.
+Ext: No c/c/e.
+Neuro: CNs II-XII grossly intact. A/O x 3.
+Skin: No rash
+
+
+Pertinent Results:
+CT Chest: IMPRESSION:
+1. No pulmonary embolism is seen.
+2. Diffuse peribronchiolar opacities within both lungs that
+suggest infectious etiology.
+3. Small bilateral pleural effusion which is associated with
+left lower lobe atelectatic changes.
+.
+Labs on discharge: [**2109-3-29**]
+WBC-6.2 RBC-3.56* Hgb-12.8* Hct-37.1* MCV-104* MCH-35.8*
+MCHC-34.4 RDW-15.3 Plt Ct-241  Glucose-115* UreaN-45*
+Creat-9.4*# Na-137 K-4.2 Cl-95* HCO3-30
+
+Brief Hospital Course:
+# SOB/PNA: Etiology most likely [**1-11**] to PNA and possible volume
+overload due to missing HD; his SOB has improved after removing
+2L from HD. On CT chest, he was noted to have diffuse bronchial
+opacities concerning for infection. In ED, he was started on
+vanc and cefepime. In MICU, continued vanc (dose based on level
+and re-dose at HD) and started levofloxacin to cover for CAP and
+possible HAP given recent admission in [**1-16**].  ID was consulted
+and felt this was reasonable and low suspicion for other
+infectious etiologies. Rapid resp panel was negative. He was
+discharged on a course of PO levofloxacin (10 day course)
+.
+# HTN: Pt admitted with HTN urgency requiring nipride gtt likely
+[**1-11**] to not taking BP meds for 2 doses prior to admission. Once
+in MICU, he was weanned off nipride gtt and transitioned back to
+home HTN meds. For the remainder of hosp course, he was
+normotensive.
+.
+# HIV: Followed by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] as outpatient. Recent viral
+load and CD4 count 393 (and in this range in 1/[**2107**]).  He
+continued his outpatient antiretroviral regimen. On discharge,
+he will have close follow-up with Drs. [**Last Name (STitle) **] and [**Name5 (PTitle) 9404**].
+.
+# ESRD: Currently attempting to transition pt to PD but pt has
+been noncompliant with teaching. he continuied on his home HD
+schedule with outpatient plans to transition to PD.
+.
+# T1DM: No active issues. He re-started home insulin regimen and
+covered with RISS (on regular at home)
+.
+# FEN
+- renal, diabetic, cardiac healthy diet
+- monitor lytes
+.
+# Access
+- Right HD catheter
+- PIV
+.
+# Code
+- full code
+
+Medications on Admission:
+Gabapentin 100 mg tid
+Atenolol 50 mg PO daily
+Compazine PRN
+Insulin (NPH 10 U [**Hospital1 **] and Regular 5 U QAM)
+Lamivudine 250 mg PO after HD on HD days
+Atazanavir 300 mg PO QD
+Ritonavir 100 mg PO DAILY
+Stavudine 20 mg PO QHD DAYS after HD
+Ativan PRN
+Tenofovir 300 mg PO QSAT
+
+
+Discharge Medications:
+1. Valsartan 160 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+2. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1)
+Tablet PO QSATURDAY ().
+3. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H (every
+48 hours) for 10 days.
+Disp:*5 Tablet(s)* Refills:*0*
+4. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+5. Atazanavir 150 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+6. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed for Insomnia.
+7. Lamivudine 10 mg/mL Solution Sig: One (1)  PO DAILY (Daily).
+
+8. Stavudine 20 mg Capsule Sig: One (1) Capsule PO Q24H (every
+24 hours).
+9. Nifedipine 90 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO DAILY (Daily).
+10. Atenolol 25 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+11. Lanthanum 500 mg Tablet, Chewable Sig: Two (2) Tablet,
+Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+12. Insulin
+Please continue your home insulin regimen
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+pneumonia
+HIV
+hypertensive urgency
+
+
+Discharge Condition:
+stable, normotensive, afebrile
+
+
+Discharge Instructions:
+You had very high blood pressures and also a pneumonia, which is
+being treated with antibiotics.
+.
+Please call 911 or go to the emergency room if you have any
+fevers greater than 100.4, chills, nausea, vomiting, shortness
+of breath, chest pain, or any other concerning symptoms.
+.
+Please take all medications as prescribed and attend all
+follow-up appointments.
+
+Followup Instructions:
+Please attend your appointment with Dr. [**First Name (STitle) **] [**Name8 (MD) **], MD
+Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2109-4-1**] 10:10AM in the [**Hospital Ward Name 23**]
+Building [**Location (un) 453**].
+.
+You also have an appointment with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 9404**] on [**4-23**]
+at 10 AM. The location is [**Last Name (NamePattern1) 439**]. Please call
+[**Telephone/Fax (1) 457**] if you have any questions.
+.
+
+Please go to your regular dialysis center on Monday for
+dialysis. You will receive your peritoneal dialysis equiptment
+from home.
+.
+Provider: [**First Name4 (NamePattern1) 971**] [**Last Name (NamePattern1) 970**], MD Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2109-5-14**] 9:10
+Provider: [**Last Name (NamePattern4) **]. [**First Name (STitle) **] [**Doctor Last Name 9406**] Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2109-5-14**]
+10:00
+Provider:
+
+
+

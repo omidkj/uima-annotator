@@ -1,0 +1,203 @@
+Admission Date:  [**2139-9-27**]              Discharge Date:   [**2139-12-10**]
+
+Date of Birth:  [**2084-9-19**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Plasma Expander Classifier / Valium / Mercaptopurine / Remicade
+/ Shellfish Derived
+
+Attending:[**First Name3 (LF) 3376**]
+Chief Complaint:
+Low back pain and inability to care for himself, fungating tumor
+growing from enterocutaneous fistula
+
+Major Surgical or Invasive Procedure:
+1. Exploratory laparotomy and extensive lysis of adhesions.
+2. Choledochojejunostomy dictated by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+3. En bloc resection of involved small bowel, abdominal
+    wall and mass of tumor with primary jejunoileal
+    anastomosis.
+4. Veritas patch closure of abdominal wall defect.
+.
+[**2139-11-20**]: Pt with SVC syndrome, went through R IJ CVC access
+site and baloon dilated svc/RBCV with improved flow. Pt placed
+on heparin and is to have an MRV. Possible re-intervention at
+later date.
+.
+[**11-26**] Angio: LIJ & RSC occluded, IVC severely stenosed with
+collaterals, angioplastied SVC to 5-7 mm, could not get wire
+across from L to R
+.
+[**2139-11-28**]: had line replaced due to one of the Tunneled port not
+working.
+
+
+History of Present Illness:
+Patient is 55 yo male with h/o Crohn's disease and
+hypercoagulable condition s/p multiple amputations as a
+complication of this who presents for increasing low back pain
+and failure to care for himself at home. Pt was recently
+admitted to [**Hospital1 2177**] for [**Hospital1 **] and found to have line sepsis and new
+dx of stage IV mucinous adenocarcinoma from fungating mass
+originating from enterocutaneous fistula. (Admitted to [**Hospital1 2177**] from
+[**9-10**]) His tunnel line was replaced at [**Hospital1 2177**]
+on the contralateral side after removing the previous line. The
+patient also had multiple episodes of anemia characterized by a
+HCT drop from 24-25. Abdominal CT scan negative for bleeding. He
+required 4 units PRBCs but a source of the bleeding was never
+found. Patient was d/c'd 2 days ago with intent of presenting to
+[**Hospital1 18**]. Patient went home instead to care for himself and was
+unable to do this with increased ostomy output and increasing
+low back pain.
+
+GEN: {X]WNL, no fevers, chills, night sweats, fatigue,
+weightloss/weight gain
+HEENT:  [X ]WNL, no vision changes, tinnitus, loss of hearing,
+dysphagia headache, sinus tenderness, rhinorrhea or congestion.
+CV: [X ]WNL - no chest pain -
+RESP: [ X]WNL-  no cough, +shortness of breath, no orthopnea,
+PND
+GI:  copious drainage of stool and gastric contents through
+fistula.
+GU:  [X] WNL- no dysuria, hematuria, hesitancy, or change in
+frequency, change in bladder habits, vaginal discharge
+SKIN:  []WNL no rashes, lesions, - healing stage II pressure
+ulcer
+NEURO:[X] WNL no weakness, paresthesias, numbness, headaches,
+dizziness
+MUSCULOSKELETAL:  []WNL, chronic arthralgias- back pain in good
+control, myalgias
+PSYCH:  [X]WNL No sadness or hallucinations.
+All other review of systems negative.
+
+
+Past Medical History:
+1.Crohn??????s disease:  diagnosed at age 21, followed by Dr.
+[**Last Name (STitle) 1940**].  Has involvement of his mouth, proximal small bowel,
+ampulla of Vater and biliary system.  Had small bowel resection
+and cholecystectomy at same surgery in past.  Treated with
+Remicade in late [**2133**], though course was stopped due to burning
+pain in his legs and joint pains.  Has also had 6-MP therapy (as
+above) and did not respond to budesonide (Entocort).  Currently
+treated with pentasa and intermittent prednisone.  Most recent
+steroid course completed 1 month ago.
+2.Antiphospholipid antibody syndrome:  Diagnosed with
+hypercoagulable state at age 29.  In the past has been told that
+he also had antithrombin III deficiency.  Per Dr. [**Last Name (STitle) 410**]??????s
+notes, he did not have antithrombin III deficiency in [**2125**], but
+had high levels of anticardiolipin IgG antibody (normal IgM) and
+positive lupus anticoagulant at that time.  Repeat tests in [**2130**]
+revealed very high levels of both IgG and IgM anticardiolipin
+antibody.  On chronic anticoagulation with coumadin, INR goal
+3.0-4.0.
+3.[**Doctor Last Name **]??????s syndrome: known to have mild case per Dr. [**Last Name (STitle) 1940**]??????s
+notes.
+4.Pulmonary embolism:  History of at least 2 PE??????s in distant
+past, had IVC filter placed.
+5.L AKA and R BKA:  s/p multiple bilateral amputations secondary
+to clotting, status post right below-knee amputation in [**5-/2114**],
+s/p revision in 09/84, s/p left above-knee amputation in 05/95,
+s/p revision in 05/[**2132**].
+6. Small bowel resection and cholecystectomy: as above.
+7. Reversible pancytopenia of unclear etiology.
+8. Iron deficiency anemia.
+9. Lactose intolerance.
+10. Osteoarthritis.
+11. Status post vascular bypass surgery of his right groin.
+
+
+Social History:
+The patient does not smoke or drink alcohol. He was using
+recreational drugs including marijuana in the 60s but not
+recently. He denies ever using intravenous drugs. He is single
+and has no children. He has been on disability since [**2108**].
+Lives in subsidized housing. HCP = niece [**Name (NI) **] Di [**Name (NI) 25912**] [**Telephone/Fax (1) 25913**]/[**Numeric Identifier 25914**]
+
+
+Family History:
+His mother had hypercoagulability and was on Coumadin as well.
+She also had lung cancer. His father was an alcoholic, he had
+[**Name (NI) 4522**] disease, and he died secondary to cirrhosis.
+
+
+Physical Exam:
+VS: 98.6, 124/78, 18, 96% on RA
+GENERAL: Thin male who looks his stated age
+Nourishment: At risk
+Grooming: Good
+Mentation: Alert, conversant, completely up to date about his
+medical diagnoses.
+Eyes:NC/AT, PERRL, EOMI without nystagmus, no scleral icterus
+noted
+Ears/Nose/Mouth/Throat: MMM, no lesions noted in OP
+Neck: supple, no JVD or carotid bruits appreciated
+Respiratory: Lungs CTA bilaterally without R/R/W
+Cardiovascular: RRR, nl. S1S2, no M/R/G noted
+Gastrointestinal: Large polypoid fungating abdominal wall mass
+and enterocutaneous fistula.
+Genitourinary: wnl.
+Skin: Stage II sacral decubitus ulcer.
+Extremities: 2+ radial, DP and PT pulses b/l. 2+ edema of UEs
+b/l.
+Lymphatics/Heme/Immun: No cervical, supraclavicular, axillary or
+inguinal lymphadenopathy noted.
+Neurologic:
+-mental status: Alert, oriented x 3. Able to relate history
+without difficulty.
+-cranial nerves: II-XII intact
+-motor: normal bulk, strength and tone throughout. No abnormal
+movements noted.
+Psychiatric: WNL - remarkably after all that he has been
+through.
+.
+At Discharge:
+Vitals:__________
+GEN: A/Ox3, somnolent/withdrawn on occasion. Depressed.
+CV: RRR, no M/R/G.
+Face/Upper extremities: Moderate Edema, + radial & brachial
+pulses. + cap refill. R & L arm broken skin weeping serous
+fluid.
+Neck: distended, edematous, +JVD
+RESP: RR-20-24, SOB/DOE, occasional wheeze.
+ABD: +BS, +flatus, +BM-liquid, brown stool, ND, appropriately
+TTP, central incision with vacuum dressing appliance-wound bed:
+Beefy red granulation tissue, close to skin level,
+fistula LLQ lateral wound bed wall.
+Lower Extrem: Mild edema. B/L LE amputee.
+Skin: generalized maculo-papular rash Upper extremities, trunk,
+back. Coccyx stage II ulcer, pink tissue, blanching. Duoderm
+applied.
+
+
+Pertinent Results:
+CXR: No acute intrathoracic pathology. IVC filter appears high
+in
+position though unchanged. Recommend clinical correlation
+
+L-S Spine:
+INDICATION: 55-year-old man with history of Crohn's disease and
+back pain.
+
+LUMBAR SPINE, TWO VIEWS: The osseous structures are intact and
+in normal
+alignment. Mild loss of disc space is noted at the level of
+L4-L3 and L2-L3.
+Diffuse calcification of the aorta and high position of the IVC
+filter is
+noted. The bowel gas pattern is nonobstructive.
+
+THORACIC SPINE, TWO VIEWS: The osseous structures are intact and
+in normal
+alignment. No paravertebral soft tissue prominence is noted.
+
+IMPRESSION: No fracture or malalignment in the thoracic and
+lumbar spine.
+
+CT SCAN CHEST/ABD/PELVIS
+IMPRESSION:
+1. Mass involving the anterior abdominal wall and adjacent small
+bowel loops increased in size
+2. No definite evidence of metastatic disease. Heterogeneous
+enhancement of segment 4 of the liver lik

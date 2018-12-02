@@ -1,0 +1,209 @@
+Admission Date:  [**2159-10-10**]              Discharge Date:   [**2159-10-15**]
+
+Date of Birth:  [**2077-1-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Transfer from outside hospital for repeat catheterization
+
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+thrombin injection
+
+
+History of Present Illness:
+This is an 82 year-old caucasian male with a history of mild
+congestive heart failure, s/p 4 previous myocardial infarctions,
+s/p CABG x 4 [**2141**], s/p TIA who presented to an OSH with
+dizziness, described as spinning sensation. He had been having
+angina since [**2154**]. However in the past few weeks, he has had
+worsening daily chest pain, releived by NTG. He was seen in OSH
+ED with CP and ECG showed new LBBB. He was taken to the cath lab
+and found to have chronically occluded native arteries and
+posterior descending artery with 40-50% diffuse lesion. No
+interventions were performed. The pt was transferred to the CCU
+where he was found to have a elev in his cardiac enzymes,
+peaking at - CK 271, CK-MB 43.2, trop 0.85. Initially the plan
+was to continue medical therapy with asa, plavix, bb, statin and
+nitrates however on evening of [**10-9**] had recurrent L sided CP
+which resolved with 1 SL nitro. Patient's films reviewed by Dr.
+[**Last Name (STitle) 8467**] who felt he had a tight left main that could be stented.
+he was transferred to the [**Hospital1 18**] for repeat catheterization.
+
+On arrival to the [**Hospital1 18**] floor the patient was CP free. He had no
+SOB, dizziness or headache. ROS was negative. He was given
+prehydration in preparation for cath on [**10-11**].
+
+Past Medical History:
+Cardiac History:
+[**2141**]: CABG x 4 vessel: SVG to RCA.
+[**2145**] Angioplasty OM branch distal to graft
+[**10/2155**]: Stress test with evidence of small inf wall MI, ant
+apical and lateral ischemia. EF 40%, inferior hypokinesis,
+distal anterior severe hypokinesis, diskinesis of apex.
+Other History:
+Dyslipidemia
+TIA
+s/p hernia repair
+
+
+Social History:
+Lives with his wife. [**Name (NI) **] ETOH, tobacco or illicit drug use
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS - T 98 HR 72 BP 92/44 RR 12 Sat 97
+Gen: elderly, caucasian male, no acute distress
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with JVP 8 cm
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness.
+Ext: No c/c/e. No femoral bruits.
+Skin: midline sternal scar
+Pulses:
+Right: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+
+Pertinent Results:
+ADMISSION LABS:
+
+[**2159-10-10**] 06:45PM   GLUCOSE-106* UREA N-13 CREAT-1.0 SODIUM-141
+POTASSIUM-3.7 CHLORIDE-105 TOTAL CO2-29 ANION GAP-11
+[**2159-10-10**] 06:45PM   CALCIUM-8.7 PHOSPHATE-2.7 MAGNESIUM-2.1
+CHOLEST-126
+[**2159-10-10**] 06:45PM   TRIGLYCER-57 HDL CHOL-42 CHOL/HDL-3.0
+LDL(CALC)-73
+[**2159-10-10**] 06:45PM   WBC-6.5 RBC-4.12* HGB-12.9* HCT-36.4* MCV-89
+MCH-31.4 MCHC-35.5* RDW-13.3
+[**2159-10-10**] 06:45PM   PLT COUNT-227
+[**2159-10-10**] 06:45PM   PT-14.7* PTT-58.8* INR(PT)-1.3*
+
+CARDIAC ENZYMES:
+
+[**2159-10-11**] 04:20PM BLOOD CK-MB-NotDone cTropnT-0.74*
+[**2159-10-12**] 12:25AM BLOOD CK-MB-NotDone cTropnT-0.74*
+[**2159-10-12**] 08:59AM BLOOD CK-MB-NotDone cTropnT-0.69*
+[**2159-10-12**] 04:47PM BLOOD CK-MB-NotDone cTropnT-0.64*
+[**2159-10-11**] 06:10AM BLOOD ALT-20 AST-31 CK(CPK)-64 AlkPhos-40
+TotBili-0.5
+[**2159-10-11**] 02:10PM BLOOD CK(CPK)-51
+[**2159-10-11**] 04:20PM BLOOD CK(CPK)-47
+[**2159-10-12**] 12:25AM BLOOD CK(CPK)-60
+[**2159-10-12**] 08:59AM BLOOD ALT-22 AST-29 CK(CPK)-68 TotBili-0.8
+[**2159-10-12**] 04:47PM BLOOD CK(CPK)-62
+
+DISCHARGE LABS:
+
+[**2159-10-15**] 05:35AM BLOOD Hct-32.2*
+[**2159-10-15**] 05:35AM BLOOD Glucose-95 UreaN-14 Creat-1.1 Na-138
+K-4.5 Cl-104 HCO3-27 AnGap-12
+[**2159-10-15**] 05:35AM BLOOD Calcium-8.8 Phos-3.7 Mg-2.1
+
+ECG [**2159-10-10**]:
+Sinus rhythm. Left atrial abnormality. Left bundle-branch block.
+No previous tracing available for comparison.
+
+CARDIAC CATHETERIZATION REPORT [**2159-10-11**]:
+COMMENTS:
+1. Selective coronary angiography of the LMCA demonstrated 70%
+distal
+LMCA stenosis, 100% proximally occluded LAD, 70% ostial LCX
+stenosis
+with 80% stenosis in the AV groove branch.
+2. Limited hemodynamics were performed. The systemic arterial
+pressures
+were normal measured 110/56mmHg.
+3. Successful stenting of the LMCA with a 3.0x15mm Xience stent
+that was
+postdilated to 3.25mm. Final angiography revealed no residual
+stenosis,
+no angiographically apparent dissection and TIMI III flow (see
+PTCA
+comments).
+4. Course later complicated by hematoma and pseudoaneurysm
+treated with
+thrombin injection.
+5. Patient participated in Champion PCI study involving
+randomization to
+Plavix or Cangrelor.
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Normal systemic arterial pressures.
+3. Successful stenting of the LMCA into the LCX.
+
+ECG [**2159-10-11**]:
+Sinus rhythm. The tracing is marred by baseline artifact. There
+is
+Q-T interval prolongation. Compared to the previous tracing of
+[**2159-10-10**]
+left bundle-branch block is no longer recorded and the rate is
+slower.
+A repeat tracing of diagnostic quality is suggested.
+
+ECG [**2159-10-12**]:
+Sinus rhythm. Left atrial abnormality. Left bundle-branch block
+is new as
+compared with prior tracing of [**2159-10-11**] and similar to that
+recorded on [**2159-10-10**]. The presence of left bundle-branch block
+may be rate-related.
+
+Right Femoral Vascular US [**2159-10-13**]:
+RIGHT FEMORAL VASCULAR ULTRASOUND: Grayscale and color and pulse
+wave Doppler examination was performed in the right groin
+region. Examination reveals a 3.1 x 2.7 x 1.7 cm pseudoaneurysm
+in the right groin, with visualization of the neck connecting
+the pseudoaneurysm to the right common femoral artery. The neck
+demonstrates to and fro flow, and is located slightly
+superomedially along the pseudoaneurysm. Normal flow is
+demonstrated in the common femoral artery. Wall-to-wall flow and
+normal compressibility is demonstrated in the right common
+femoral vein. Flow is also demonstrated in the greater saphenous
+vein.
+IMPRESSION: Pseudoaneurysm arising from right common femoral
+artery as
+described above.
+
+
+Brief Hospital Course:
+This is an 82 year old male with history of multiple myocardial
+infarctions, coronary artery bypass graft with four vein grafts
+in [**2141**], and chronic angina who was found to have NSTEMI at an
+outside hospital, underwent cardiac cath there demonstrating
+three vessel coronary artery disease and left main stenosis. No
+interventions were performed at the outside hospital and he was
+transferred to [**Hospital1 18**] for left main coronary artery stenting.
+
+1) Coronary Artery Disease: Cardicac catheterization
+demonstrated three vessel disease and 70% stenosis of the left
+main coronary artery which was successfully stented with a drug
+eluting stent.  Patient remained chest pain free throughout this
+hospitalization. He was started on metoprolol and lisinopril and
+will continue taking plavix, simvastatin, aspirin, and
+sublingual nitroglycerin as needed. He will follow up with his
+outpatient cardiologist, Dr. [**Last Name (STitle) **].
+
+2) Femoral Hematoma: Following catheterization patient developed
+an expanding hematoma at access site. During this episode of
+bleeding patient became bradycardic and unresponsive. He
+regained responsiveness after intravenous fluid and one dose of
+atropine. Hematoma was stablized and patient was transferred to
+the CCU. Patient remained hemodynamically stable and was
+transferred back to the cardiology floor service. On hospital
+day 4 patient determined to have right femoral pseudoaneurysm
+diagnosed by a femoral bruit and confirmed by ultrasound. He was
+seen by the vascular surgery team who performed a thrombin
+ejection on [**2159-10-15**]. At time of discharge he was ambulating

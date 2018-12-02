@@ -1,0 +1,152 @@
+Admission Date:  [**2137-1-22**]              Discharge Date:   [**2137-1-31**]
+
+
+Service: SURGERY
+
+Allergies:
+All drug allergies previously recorded have been deleted
+
+Attending:[**First Name3 (LF) 3223**]
+Chief Complaint:
+s/p fall
+facial fractures
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+87-year-old female status post fall from walker in nursing home
+with resulting facial injuries, +LOC. Seen in OSH, head CT neg,
+facial CT LeFort II fracture, intubated for facial edema.
+Transferred to [**Hospital1 18**] for further management. Here stable vitals,
+significant facial edema, c-collar in place. CT face multiple
+bilateral pterygoid, maxillary, nasal, orbital floor fx, right
+frontal bone fx. GCS ET1. Admitted to TSICU.
+
+Past Medical History:
+1. Coronary artery disease
+2. Status post CVA
+3. Dementia
+
+Social History:
+1. Lives in nursing home
+2. DNR/DNI
+
+Family History:
+NC
+
+Physical Exam:
+On arrival:
+VS: T 99 BP 144/74 HR 104 RR 12 sat 98%
+GEN: intubated, thin
+HEENT: diffuse facial swelling, edematous eyelids, bilateral
+nasal packing, L surgical pupil, R pupil RRL 3-2, c-collar
+CARDIO: S1S2, RRR
+PULM: CTAB, trachea midline
+[**Last Name (un) **]: soft, ND, stable pelvis, normal rectal tone, guaiac neg
+EXTR: L shin hematoma, no deformities, no TLS
+deformities/stepoffs
+
+Pertinent Results:
+[**2137-1-22**] 02:50AM   WBC-11.0 RBC-2.98* HGB-8.6* HCT-26.9* MCV-90
+MCH-29.0 MCHC-32.1 RDW-16.8*
+[**2137-1-22**] 02:50AM   PLT COUNT-295
+[**2137-1-22**] 02:50AM   PT-12.7 PTT-22.2 INR(PT)-1.0
+[**2137-1-22**] 02:50AM URINE  RBC-0-2 WBC-[**10-13**]* BACTERIA-MANY
+YEAST-NONE EPI-0-2
+[**2137-1-22**] 02:50AM   GLUCOSE-145* UREA N-33* CREAT-1.1 SODIUM-138
+POTASSIUM-3.3 CHLORIDE-103 TOTAL CO2-25 ANION GAP-13
+[**2137-1-22**] 02:50AM   CK(CPK)-244*
+[**2137-1-22**] 02:50AM   CK-MB-5 cTropnT-<0.01
+[**2137-1-22**] 02:50AM   CALCIUM-8.6 PHOSPHATE-0.9* MAGNESIUM-1.8
+
+CT face [**2137-1-22**]:
+Multiple facial fractures consistent with Lefort's type II
+fracture. Large amount of blood within the paranasal sinuses.
+Possible small fracture through the right frontal bone extending
+to the right frontal sinus
+
+Brief Hospital Course:
+NEURO: Mrs. [**Known lastname 60823**] was admitted to the TSICU for q 2 hours
+neurological checks and weaning off her ETT. The patient had
+negative head CT. Moved extremities symmetrically. Improved over
+hospital course and could understand family members.
+##
+ORL: She was seen by the ORL service and recommendations were
+made to maintain her nasal packing for 4-5 days, use antibiotics
+and afrin.
+##
+CARDS: The patient was ruled out for having a cardiac event. She
+received a unit of PRBC for a hematocrit <28 upon arrival.
+##
+GU: Upon admission, she was found to have a mild UTI which was
+treated with levofloxacin 500 once daily.
+##
+CODE STATUS: Our service discussed the issue of her DNR status
+with family members who agreed to make her [**Name (NI) 3225**] once extubated.
+
+Medications on Admission:
+1. Plavix 75 once daily
+2. Aricept 10 once daily
+3. Xanax 0.5 three times daily PRN
+4. Lasix 80 once daily
+5. Fosamax 70 once daily
+6. Spironolactone 25 once daily
+7. Risperdal
+8. Colace
+9. FeSO4
+
+Discharge Medications:
+1. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+2. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Disp:*30 Capsule(s)* Refills:*2*
+3. Morphine Concentrate 20 mg/mL Solution Sig: 5-20 Mg PO Q One
+Hour PRN.
+Disp:*60 ccs* Refills:*0*
+4. Ativan 1 mg Tablet Sig: One-half to two  Tablet PO every [**2-27**]
+hours as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+5. Levsin/SL 0.125 mg Tablet, Sublingual Sig: 0.125 mg
+Sublingual Q4 hrs PRN as needed for secretions.
+Disp:*30 cc* Refills:*0*
+6. Acetaminophen 650 mg Suppository Sig: One (1)  Rectal every
+four (4) hours as needed for fever or pain.
+Disp:*60 * Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 **]
+
+Discharge Diagnosis:
+[**Last Name (un) **] II facial fracture
+Respiratory Distress
+Blood Loss anemia
+Pneumonia
+Urinary Retention
+HTN
+Asthma
+Congestive HEart Failure
+Age related dementia
+Anxiety
+Osteoporosis
+Coronary Artery Disease
+Cerebral Vascualr Accident
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Provide comfort care for patient.
+
+Followup Instructions:
+None
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 520**] MD, [**MD Number(3) 3226**]
+
+Completed by:[**2137-1-31**]

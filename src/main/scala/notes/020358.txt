@@ -1,0 +1,187 @@
+Admission Date:  [**2118-8-27**]              Discharge Date:   [**2118-9-5**]
+
+Date of Birth:  [**2057-3-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Myocardial Infarction, Cardiac Arrest
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+Endotracheal intubation (done at another hospital) and
+extubation
+
+
+History of Present Illness:
+The patient is a 61 yo man with h/o DM, CAD s/p stents to D1 and
+LCx, who presented from [**Hospital3 4107**] as a Code STEMI.  The
+patient was reportedly in his normal state of health until noon
+on [**8-27**], when he was lifting furniture and developed chest pain.
+ He reportedly had associated diaphoresis and lightheadedness.
+An hour and a half later, the patient drove himself to [**Hospital1 **], where he continued to have substernal chest pain.
+
+On arrival to the ED, the patient was noted to be ashen but
+conversant and AAO x3.  His initial VS were BP 130/77, P 51, R
+14, O2 97% on RA, Wt 233 lbs.  On transfer to the ED stretcher,
+the patient went into VFib arrest.  He was coded for 54 minutes,
+during which time he was intubated and received 12 mg
+Epinepherine, 5 mg of Atropine, and was started on Lidocaine and
+Dopamine gtts.  Cooling protocol was initiated, and he was then
+transferred to [**Hospital1 18**] as code STEMI for cardiac catheterization.
+
+In the cath lab, the patient was found to have a total occlusion
+of the mid-RCA.  He underwent successful primary PCI and had a
+BMS placed in his RCA.  He was weaned off the pressors, and
+heparin and integrilin were discontinued as the patient
+continued to have substantial bleeding from his nares.
+
+The patient was intubated and sedated upon arrival to the CCU
+and was thus unable to answer ROS.
+
+Past Medical History:
+Dyslipidemia
+Hypertension
+Percutaneous Coronary Interventions:
+  - [**5-/2115**] at [**Hospital6 33**], PCI of LCx
+  - [**6-/2115**] at [**Hospital1 112**], DES to the LAD
+
+Social History:
+Single and unmarried per [**Hospital1 112**] file, works as an accountant and
+employment benefits manager.  Lives alone, has girlfriend that
+travels often.  Family in [**Location (un) **], CT and on west coast.
+
+Family History:
+Per [**Hospital1 112**], family history of CAD, but details are unknown.
+
+Physical Exam:
+VS: BP 111/78, HR 83, RR 19 O2 sat 99% on CMV with TV 600, FiO2
+100%, RR 25, PEEP 5
+GENERAL: Middle aged man, intubated and sedated, in NAD.
+HEENT: Pupils minimally reactive bilaterally.  NGT in place,
+draining frank blood.  Conjunctiva were pink, no pallor or
+cyanosis of the oral mucosa. No xanthalesma.
+NECK: JVD of 13 cm
+CARDIAC: Distant heart sounds, obscured by ventilator.  RR, no
+r/m/g appreciated.
+LUNGS: Diffuse coars breath sounds bilaterally.  Ventilated.  No
+crackles or wheezes appreciated.
+ABDOMEN: Hypoactive BS, non-distended.  No HSM or tenderness.
+Abd aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: 1+ edema bilaterally.  Femoral venous lines in
+place bilaterally.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:  Distant radial pulses bilaterally.
+
+Pertinent Results:
+Admission Labs:
+WBC 20.8  Hgb 13.2 Hct 38.7 Plt 293
+Pt 14.7 PTT 38.4 INR 1.3
+Na 139 K 3.3 Cl 106 HCO3 15 BUN 16 Crt 1.4 Gluc 102
+AST 415 ALT 288 LDH 952 CK 3402 AlkPhos 81 Tot Bili 0.7
+
+Other Labs:
+Cholest 94 Triglyc 85 HDL 30 LDLcalc 47
+
+Microbiology:
+[**2118-8-30**] Sputum:    GRAM STAIN (Final [**2118-8-30**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI.
+
+   RESPIRATORY CULTURE (Preliminary):
+      SPARSE GROWTH OROPHARYNGEAL FLORA.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         SENSITIVITIES PERFORMED PER DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ([**Numeric Identifier 82934**]).
+
+      GRAM NEGATIVE ROD(S).    RARE GROWTH.
+
+Blood Cx: No growth to date
+
+Urine Cx: Group B streptococcus >100,000 organisms
+
+Imaging/Studies:
+CXR [**2118-8-31**]: Portable upright chest radiograph is compared to
+[**2118-8-30**]. There has been interval removal of endotracheal and
+nasogastric tubes. The lung volumes are low. The
+cardiomediastinal silhouette is probably unchanged. However,
+there is new fullness in the hilar regions bilaterally and
+increase in interstitial markings suggesting new pulmonary edema
+above what would be expected for extubation. Small bilateral
+pleural effusions are also evident. There is no pneumothorax.
+Retrocardiac density, likely atelectasis, is unchanged.
+.
+ECHO [**2118-8-29**]: The left atrium and right atrium are normal in
+cavity size. Left ventricular wall thickness, cavity size and
+regional/global systolic function are normal (LVEF >55%). Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. The estimated cardiac index is normal
+(>=2.5L/min/m2). Right ventricular chamber size and free wall
+motion are normal. The aortic root is mildly dilated at the
+sinus level. The aortic valve leaflets (?#) appear structurally
+normal with good leaflet excursion. There is no aortic valve
+stenosis. No aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+The estimated pulmonary artery systolic pressure is normal.
+There is an anterior space which most likely represents a fat
+pad. IMPRESSION: Suboptimal image quality. Normal biventricular
+cavity sizes with preserved global biventricular systolic
+function. No definite valvular pathology or pathologic flow
+identified. Dilated aortic root.
+.
+Cardiac Cath [**2118-8-27**]:
+1.  Selective coronary angiography of this right-domimant system
+revealed single-vessel coronary artery disease.  The LMCA had no
+significant stenoses.  The LAD had mild diffuse disease and
+patent stents in the first diagonal with moderate diffuse
+restenosis.  The LCX had patent proximal stent and a large OM2
+branch with mild diffuse disease.  The RCA had an acute
+mid-vessel total occlusion
+2.  Resting hemodynamics demonstrated elevated biventricular
+filling
+pressures and RA / PCWP pressures suggestive of right
+ventricular
+infarction, with depressed cardiac output.
+3.  Successful manual aspiration thrombectomy and placement of a
+
+3.5x18mm Vision bare-metal stent were performed in the mid-RCA.
+Final
+angiography showed TIMI 3 flow, no apparent dissection, and no
+residual
+stenosis.  (See PTCA comments.)
+4.  Post PCI bleeding was observed in the left nares, resolved
+with
+manual pressure and cessation of integrilin.
+
+
+Brief Hospital Course:
+The patient is a 61 yo man with h/o CAD s/p DES to the LAD and
+D1, and hyperlipidemia, who presented from [**Hospital3 **] s/p
+cardiac arrest with STEMI and is now s/p BMS to the RCA.
+
+# Right Ventricular Myocardial Infarct:  The patient presented
+with chest pain and subsequently lost consciousness at [**Hospital1 **].  He was found to have STe in II, III, AVF, and after
+one hour of resuscitiation, subsequent cardiac catheterization
+demonstrated a fresh thrombus in the mid-RCA.  He was on
+Dopamine briefly prior to cardiac catheterization.  He underwent
+cooling protocol with Fentanyl/Versed for sedation and
+Vecuronium for paralytics for 18 hours.  He was then rewarmed
+and weaned off sedation without complication.  He was started on
+aspirin 325mg daily, Plavix 75mg daily, Lipitor 80mg daily, and
+metoprolol 25mg [**Hospital1 **].  Heparin and integrilin were held due to
+nose bleeding post-cath.  He had episodes of hypotension over
+the 24-48 hours after cath, and was aggressively given IV fluids
+to maintain blood pressure. HIs BP and HR were stable at
+discharge on current meds.
+
+#. Respiratory Distress:  The patient was intubated at [**Hospital1 **] in the setting of cardiac arrest.  After cardiac cath,
+extubation was slightly delayed due to concern for
+ventilator-associated pneumonia and increased secretions.  He
+was started on Vancom

@@ -1,0 +1,194 @@
+Admission Date:  [**2167-12-23**]              Discharge Date:   [**2168-1-8**]
+
+Date of Birth:  [**2094-1-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine / Aspirin / Cephalosporins
+
+Attending:[**First Name3 (LF) 2485**]
+Chief Complaint:
+Septic Shock, Respiratory [**Hospital 67809**] transfer from OSH
+
+Major Surgical or Invasive Procedure:
+intubation, central venous line
+
+History of Present Illness:
+This is a 73 year-old female with a PMH history of Parksinson's,
+protein C/S deficency, multiple VTE off anticoag [**1-4**] to RP
+hematoma with IVC filter, CKD, s/p partial colectomy with ostomy
+who is transferred to the [**Hospital Unit Name 153**] from OSH ([**Hospital1 14579**])a for further management and evaluation of septic shock
+and respiratory failure.
+
+Patient presented to OSH ED on [**2167-12-18**] with 2-3 days of general
+malaise and abdominal pain at her colostomy site. She was
+treated with Toradol and discharged back to her nursing home
+with a diagnosis of constipation. She subsequently developed
+respiratory distress and was sent back to the ED where she was
+hypotensive and in shock. CXR revealed interstitial edema and
+B/L PNA. She was given Lasix 80 mg IV x 1 for possible CHF. She
+was started on levofloxacin, Flagyl, and vancomycin. She was
+admitted to the ICU on [**2167-12-19**] with septic shock, acute
+hypoxemic respiratory failure requiring intubation, and PNA. A
+right IJ Precept catheter was placed along with a right arterial
+line and she was aggressively resuscitated with IVF. She was
+also started on levophed. She was found to have bibasilar E.coli
+PNA and E.coli UTI. Nephrology was consulted for ARF on CRI
+which was thought to be [**1-4**] to ATN from hypotension/sepsis.
+Prior Toradol may also have contributed. TTE on [**2167-12-21**] showed
+an EF of 55-60% with RV pressure of 46 mmHg. Initial creatinine
+was 4.1, down to 3 on transfer. Levophed was weaned on [**2167-12-22**].
+UCx and SCx grew E.coli, resistant to levofloxacin. ABx were
+changed to aztreonam given her drug allergies. She was started
+on tube feeds as well. Also presented with mild rhabdomyolysis
+at 837 which improved with hydration.
+
+ROS (per report): Denies F/C. Positive for nonproductive cough.
+Denies CP or palpitations. No LE edema.
+
+Past Medical History:
+h/o B/L PNA
+h/o septic shock in [**12-9**]
+Parkinson's disease
+Protein C and S deficiency
+h/o multiple VTE including PE, briefly off anti-coagulation
+because of large retroperitoneal hematoma in [**11-7**], s/p IVC
+filter, and currently anticoagulated with coumadin
+Colectomy for colon cancer
+CRI with baseline creatinine around 2
+Pancreatitis [**12/2164**], unclear cause
+Hyperlipidemia
+Large ventral hernia
+Depression
+h/o TIA
+Postural hypotension
+Restless leg syndrome
+
+Social History:
+Non smoker, non drinker. Lived independently until [**11-7**].
+Daughter is HCP.  Currently lives in nursing home (The [**First Name4 (NamePattern1) 6382**]
+[**Last Name (NamePattern1) **] in [**Location (un) 8973**]).
+
+
+Family History:
+Non-contributory
+
+
+Physical Exam:
+Vitals: Per Metavision
+GEN: NAD, intubated and sedated, opens eyes to verbal stimuli
+HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or
+rhinorrhea, MMM, ET tube in place.
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+lymphadenopathy, trachea midline.
+COR: RRR, no M/G/R, normal S1 S2, radial pulses +2.
+PULM: B/L Rhonchi.
+ABD: Soft, NT, ND, +BS, no HSM, no masses, colostomy in place.
+EXT: No C/C/E, no palpable cords, chronic venous stasis changes.
+
+NEURO: Sedated. Toes downgoing. Reflexes normal and symmetric.
+
+
+Pertinent Results:
+[**2167-12-23**] 09:40PM   GLUCOSE-141* UREA N-95* CREAT-2.8*
+SODIUM-148* POTASSIUM-4.2 CHLORIDE-116* TOTAL CO2-20* ANION
+GAP-16
+[**2167-12-23**] 09:40PM   ALT(SGPT)-3 AST(SGOT)-13 ALK PHOS-79 TOT
+BILI-0.2
+[**2167-12-23**] 09:40PM   ALBUMIN-3.2* CALCIUM-7.8* PHOSPHATE-4.1
+MAGNESIUM-4.4*
+[**2167-12-23**] 09:40PM   WBC-13.7*# RBC-3.36* HGB-10.1* HCT-30.5*
+MCV-91 MCH-30.2 MCHC-33.3 RDW-15.5
+[**2167-12-23**] 09:40PM   NEUTS-89* BANDS-3 LYMPHS-5* MONOS-3 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2167-12-23**] 09:40PM   PLT SMR-LOW PLT COUNT-132*
+[**2167-12-23**] 09:40PM   PT-19.4* PTT-27.7 INR(PT)-1.8*
+[**2167-12-23**] 10:09PM   LACTATE-0.7
+[**2167-12-23**] 10:09PM   TYPE-ART TEMP-36.5 RATES-20/ TIDAL VOL-550
+PEEP-10 O2-50 PO2-64* PCO2-37 PH-7.37 TOTAL CO2-22 BASE XS--3
+-ASSIST/CON INTUBATED-INTUBATED
+
+OSH CXR [**2167-12-23**]: LLL infiltrate with unchanged right basilar
+infiltrate.
+
+OSH Labs:
+ABG on arrival to OSH ED: 7.29/57/52 on 10L NC
+ABG on BiPAP: 7.20/64/126
+ABG at time of transfer: 7.34/36/80 on AC, TV 550, rate 20, PEEP
+10, FiO2 50%.
+ABG prior to intubation: 7.39/57/52.
+
+BNP 143, initial K 2.7, AG 19, WBC 4.5, HCT 39, PLT 185, INR
+1.25. Lactate 0.9.
+
+C.diff negative x 1
+
+UCx positive for E.coli, only sensitive to Cefazolin, tobra,
+imipenem, and zosyn.
+
+SCx: E.coli, same sensitivities
+
+BCx: NGTD
+
+EKG: NSR, no acute ST changes, normal axis and intervals.
+
+Imaging:
+CXR ([**12-23**]): Portable AP chest radiograph was compared to prior
+study obtained on [**2166-12-31**]. No recent radiographs
+obtained in the outside hospital are available for comparison.
+The current study demonstrates ET tube tip being approximately
+3.5 cm above the carina. The right internal jugular line tip
+cannot be visualized but most likely in the right atrium. The NG
+tube tip is in the stomach. The patient is after placement of
+IVC filter. Left retrocardiac consolidation is demonstrated, new
+compared to the prior study and might represent pneumonia.
+Bilateral pleural effusions are seen.  Vascular engorgement is
+present but no pulmonary edema is demonstrated.
+
+
+Brief Hospital Course:
+The following is a detailed discussion of her MICU course
+through [**2168-1-8**]. Briefly, she was admitted with respiratory
+failure and septic shock complicated by failure to wean from the
+ventilator.  She had gram negative rod infection of lung and
+urinary system.  Sepsis did resolve with antbiotic therapy over
+initial week of hospitalization.  She had aggressive diuresis
+with negative fluid balance.  Despite this she had persistent
+and recurrent hypoxemia with attempts to wean from the
+ventilator and required elevated PEEP pressures of >12 to
+maintain PaO2>65 despite diuresis, ongoing antibtiotics and
+recruitment maneuvers.  She had heparin continued outside of
+times of active tracheal bleeding and there was no clinical
+evidence to suggest PE.  She had prolonged course and had
+clearly stated to her family that return to a level of function
+to allow independent living prior to illness.  When faced with
+decision to pursue Trach/PEG after > 14 days on ventilator in
+the setting of weakness and persistent hypoxemia extensive and
+repeated family meetings were held.  After discussion with her
+family and health care proxy, she was made comfort measures only
+and she was extubated on [**2168-1-7**]. She passed away from
+cardiopulmonary arrest at 4am [**2168-1-8**].
+
+MICU COURSE:
+73 year-old female with a PMH history of Parkinson's, protein
+C/S deficency, multiple VTE off anticoag [**1-4**] to RP hematoma with
+IVC filter, CKD, s/p partial colectomy with ostomy who is
+transferred to the [**Hospital Unit Name 153**] from OSH ([**Hospital6 8972**])
+for further management and evaluation of septic shock and
+respiratory failure.
+
+# Sepsis/recent septic shock: Sources previously found to be
+resistant E. coli in urine and sputum, and MRSA in her sputum.
+Sputum culture sensitivity shows sensitivity to meropenem,
+zosyn, and cephalosporins. Pt unfortunately has an allergy to
+beta lactams.  Initially treated with vanc, levo, flagyl and
+switched to Aztreonam once sensitivities returned however per
+ID, aztreonam not a good singel source [**Doctor Last Name 360**], changed to
+meropenem.  Spurum cx returned with MRSA, initially treated with
+vancomycin but changed to Linezolid for better MRSA coverage. Pt
+also noted to have a positive fungal culture from [**12-23**], her
+subsequent bld cultures have not been positive however even with
+one positive result fungemia is a concern. Pt was started on
+Caspofungin. Sensitivities fort Voriconazole and Fluconazole
+have been ordered an

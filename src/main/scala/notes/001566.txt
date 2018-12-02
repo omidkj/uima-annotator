@@ -1,0 +1,215 @@
+Admission Date:  [**2114-2-14**]              Discharge Date:   [**2114-2-23**]
+
+Date of Birth:  [**2067-3-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Latex / Penicillins
+
+Attending:[**First Name3 (LF) 2195**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+Intubation
+Central venous catheterization
+
+History of Present Illness:
+Ms. [**Known lastname 60258**] is a 46 year-old woman with history of advanced
+interstitial lung disease, likely NSIP, chronic diastolic CHF,
+DM, and chronic pain s/p MVA who presents with respiratory
+failure. Patient unable to provide history, so HPI gathered from
+OMR and sign-out. Patient was presumably in USOH on home O2 and
+began to feel unwell over the past 7 days, with increased home
+O2 requirement, fever, cough and sputum production. She saw her
+PCP who treated her for presumed asthma exacerbation and started
+the patient on a steroid taper (unclear dose). The patient did
+not improve with this treatment regimen. At home, patient's
+respiratory distress worsened and she called EMS who took her to
+OSH ED. At OSH she was found to be hypoxic to 60-70's on RA, she
+was treated with 750 mg levaquin, 125 mg solumedrol, 4 mg
+morphine, duonebs and 12.5 mg benadryl, and transfered to [**Hospital1 18**]
+for further care.
+.
+In the ED, initial vs were: T AFeb P 116 BP 118/69 R 30 O2 sat.
+85% 7L. Patient was given etomidate, succinylcholine and
+vecuronium for intubation and sedated with propofol. She was [**Last Name (un) **]
+given 1g IV ceftriaxone, 100 ucg fentanyl, and albuterol nebs.
+Even on the ventilator, her O2 Sats were still in the 80's with
+ABG 7.07/91/78 on 100% FiO2. After optimization of her
+ventilator settings with low RR and high Vt, the patient's O2
+sats improved to 90's. On the floor, the patient was intbuated
+and sedated. IV access was challenging to obtain and a central
+line was placed. Her vitals were HR 121 BP 128/59 RR 20 O2 Sat
+98% on 100% FiO2.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+or changes in bowel habits. Denies dysuria, frequency, or
+urgency. Denies arthralgias or myalgias. Denies rashes or skin
+changes.
+
+Past Medical History:
+Non-specific interstitial pneumonitis (possibly idiopathic
+pulmonary hemosiderosis?)
+- s/p lung biopsy by VATS [**2109**] at [**Hospital1 **], lost to follow-up until
+[**2112**]
+- followed by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], perhaps started prednisone course
+[**2114-1-30**]
+- Home O2 requirement of ~4L
+- [**2114-1-2**] PFTs: DLCO 40% predicted, TLC 58% predicted, FEV1 54%
+
+- Overall consistent with restrictive lung disease
+CHF with recent hospitalization (per OMR)
+Diabetes
+Depression
+Chronic pain status post MVA
+?Cardiomegaly
+TTE with ?rheumatic MV disease
+CAD s/p MI (normal MIBI in [**2109**])
+Cervical dysplasia
+Colonic polyps s/p multiple polypectomies
+Hiatal hernia
+Migraines
+
+PSH:
+TAH-BSO
+Cervical cone bx
+Mediastinoscopy & L VATS [**2109**]
+
+Social History:
+She lives in [**Location **]. She is currently widowed. She has been
+disabled after a motor vehicle accident which happened several
+years ago.
+- Tobacco: ~25 pack year history
+- Alcohol: denies
+- Illicits: h/o illicit drug use in youth
+
+
+Family History:
+She has two children. She has several relatives who have had
+lung problems and has died from complications related lung
+disease. Her mother had COPD, died of respiratory failure,
+father with cardiovascular disease. She had a sister
+who died after a lung biopsy was performed. She states that
+several of her family members may have had asbestos exposure
+including the patient.
+
+
+Physical Exam:
+ON ADMISSION:
+Vitals: AFeb HR 121 BP 128/59 RR 20 O2 Sat 98% on 100% FiO2
+General: Intubated, mildly sedated, in mild distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, difficult to assess JVP due to short, thick neck
+Lungs: Tubular, coarse breath sounds anteriorly with occasional
+expiratory squeaks
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+ON DISCHARGE:
+Vitals: 97.5 HR 58 BP 100/66 RR 20 O2 Sat 98% on 6L NC
+General: NAD, comfortable
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: Supple, no JVP
+Lungs: Symmetric chest rise, no increased resp effort, dew
+scattered crackles.  No wheezes/rales/rhonchi.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses,  no clubbing, cyanosis.
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2114-2-13**] 11:40PM   WBC-10.6 RBC-4.06* HGB-11.3* HCT-32.9*
+MCV-81* MCH-27.9 MCHC-34.5 RDW-15.1
+[**2114-2-13**] 11:40PM   NEUTS-89.4* LYMPHS-7.4* MONOS-2.3 EOS-0.5
+BASOS-0.3
+[**2114-2-13**] 11:40PM   PLT COUNT-198
+[**2114-2-13**] 11:40PM   GLUCOSE-227* UREA N-10 CREAT-0.9 SODIUM-133
+POTASSIUM-4.1 CHLORIDE-98 TOTAL CO2-21* ANION GAP-18
+[**2114-2-13**] 11:54PM   LACTATE-2.3* K+-4.0
+[**2114-2-13**] 11:40PM   PT-14.8* PTT-35.6* INR(PT)-1.3*
+[**2114-2-13**] 11:40PM   proBNP-1023*
+[**2114-2-13**] 11:40PM   cTropnT-<0.01
+
+MICRO:
+[**2114-2-13**] BLOOD CULTURE X2 - NGTD (PENDING)
+
+[**2114-2-14**] 10:30 am Influenza A/B by DFA
+  DIRECT INFLUENZA A ANTIGEN TEST (Final [**2114-2-14**]):
+      Negative for Influenza A.
+   DIRECT INFLUENZA B ANTIGEN TEST (Final [**2114-2-14**]):
+      Negative for Influenza B.
+
+[**2114-2-14**] 11:07 am SPUTUM      Source: Endotracheal.
+   GRAM STAIN (Final [**2114-2-14**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**2114-2-16**]):
+      Commensal Respiratory Flora Absent.
+      YEAST.    RARE GROWTH.
+
+[**2114-2-15**] 10:37 am URINE      Source: Catheter.
+   URINE CULTURE (Final [**2114-2-16**]):    NO GROWTH.
+
+[**2114-2-15**] 12:05 pm SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal.
+
+   GRAM STAIN (Final [**2114-2-15**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+
+   RESPIRATORY CULTURE (Preliminary):
+      Commensal Respiratory Flora Absent.
+      YEAST.    SPARSE GROWTH.
+
+[**2114-2-15**] BLOOD CULTURE - NGTD (PENDING)
+
+STUDIES:
+[**2114-2-13**] CXR: Interval recurrence or progression of diffuse
+alveolar
+opacification in setting of known chronic interstitial lung
+disease (NSIP/ILD leading diagnostic considerations per OMR).
+This could be pulmonary edema or widespread pneumonia or
+hemorrhage. Given the course consideration should also be given
+to drug or toxin exposure exacerbating a preexisting reaction.
+
+[**2114-2-14**] TTE:  Suboptimal image quality. Right ventricular cavity
+enlargement with free wall hypokinesis. Normal left ventricular
+cavity size and regional/global systolic function. Mild mitral
+stenosis.
+Compared with the prior study (images reviewed) of [**2110-4-9**],
+the right ventricular findings are new and suggestive of
+myocardial contusion. The severity of mitral stenosis has
+increased. The severity of mitral regurgitation has declined
+(may be due to tachycardia and suboptimal image quality).
+
+[**2114-2-15**] EKG: Sinus rhythm and increase in rate as compared to
+the previous tracing of [**2110-4-9**]. There is right axis deviation
+and low limb lead voltage. There is now ST segment elevation in
+leads V1-V3 with biphasic to inverted T waves in leads V1-V5,
+more prominent as compared to the previous tracing of [**2110-4-9**].
+The rate is increased. These findings are consistent with active
+anterolateral ischemic process. Followup and clinical
+correlation are suggested.
+
+CTA Wet read [**2114-2-23**]:
+No PE. Some consolidations/septal thickening suggestive of fluid
+vs infection. Enlarged pulm art

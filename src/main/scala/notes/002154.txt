@@ -1,0 +1,199 @@
+Admission Date:  [**2180-6-3**]              Discharge Date:   [**2180-6-12**]
+
+Date of Birth:  [**2134-3-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+vancomycin
+
+Attending:[**First Name3 (LF) 759**]
+Chief Complaint:
+fever, sputum production, shortness of breath, stomach pain
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mrs. [**Known lastname **] is a 46-year-old with a history of intracranial
+hemorrhage secondary to AVM s/p evacuation in [**2179-8-27**],
+complicated by hydrocephalus requiring VP shunt, brought in from
+[**Hospital3 2558**] nursing home. She has a tracheostomy and PEG. She
+has undergone rehabilitation at [**Hospital3 **] [**Hospital1 8**] and
+[**Location (un) 1036**] [**Location (un) 620**]. During her time at [**Location (un) 1036**], she was
+hospitalized at [**Hospital1 18**] [**Location (un) 620**] and found to have a mucous plug
+with sputum culture positive for MRSA, as well as E. faecalis
+urinary tract infection (sensitive to linezolid, vancomycin, and
+furantoin) treated with nitrofurantoin x 6 days. She was
+transferred from [**Location (un) 1036**] to [**Hospital3 2558**] on [**2180-5-30**]. Per a
+[**Hospital3 2558**] employee who spoke with the patient's respiratory
+therapist, the patient was noted to have increasingly voluminous
+secretions requiring increasingly frequent sunctioning (every
+four hours -> every two hours -> every hour -> every 30
+minutes). She was febrile to 101.2 with a heart rate in the
+120s.
+.
+In the [**Hospital1 18**] ED, VS were HR 126, BP 90/68, RR 26, O2 99% on ?
+O2. She was thought to have suprapubic tenderness on exam. Chest
+X-ray revealed no acute intrathoracic process. Urinalysis was
+leukocyte- and nitrite-positive with many bacteria. Sputum
+Gram-stain and culture, blood culture, and urine culture went
+sent. She received cefepime 2g IV x 1 and linezolid 600mg IV x 1
+for possible healthcare-associated pneumonia and urinary tract
+infection, plus acetaminophen and fluids.
+.
+On the floor she is noted to be hypotensive to 82/palp and is
+triggered in the setting of losing her IV access. She is
+admitted to the MICU for closer monitoring. In the MICU she
+denies complaints.
+.
+ In the MICU pt received fluid boluses (6.5L total) to treat
+hypotension, but did not receive pressors. Linezolid and
+cefepime were continued [**12-29**] vanc allergy. CXR revealed
+questionable pneumonia with retrocardiac opacity vs atelectasis,
+and current abx should treat for any HAP as well. On hospital
+day 3, pt's hypotension stabilized, with SBPs in the 100s. At
+time of txfr, sputum culture taken is growing GNR, which will
+need to be followed. Urine Cx revealed E. coli sensitive to
+cefepime. Pt's lactate trended down with condition improvement.
+Pt was transferred to the floor.
+.
+On the floor, pt remained stable, with SBPs in the 100s.
+Midodrine was added to pt's regimen, with resumption of normal
+blood pressures in the 110s to 120s. Pt remained afebrile on the
+floor, with no adverse events. Cefepime and Linezolid were
+continued. Pt was restarted on her normal cycled tube feeding
+regimen from continuous feeds, which she tolerated well.
+.
+Review of systems:
+(+) Per HPI; she has had ongoing hyperthermia thought to a
+"central fever"/reset thermostat, though she was afebrile on
+discharge from [**Location (un) 1036**] (T 98.0); husband also notes that she
+has complained of intermittent headache recently; she is
+constipated at baseline
+(-) Denies sinus tenderness, rhinorrhea or congestion. Denied
+chest pain or tightness, palpitations. Denied arthralgias or
+myalgias
+
+Past Medical History:
+Intracranial hemorrhage in [**2179-8-27**]
+s/p VP shunt
+Enterococcus faecalis UTI ([**2-4**])
+Mucous plug ([**2-4**])
+MRSA colonized
+Situational depression
+
+Social History:
+Cared for by husband, who is her guardian. Currently [**Name2 (NI) 546**] at
+[**Hospital3 2558**] ([**Location (un) **]), a nursing facility, but has spent
+the last ~9 months at [**Hospital3 **] [**Hospital1 8**] and [**Location (un) 1036**]
+[**Location (un) 620**]. [**University/College **] grad [**First Name8 (NamePattern2) **] [**Doctor First Name **] note.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+On Admission:
+VS: T 97.3, BP 95/60, HR 79, RR 24, SpO2 100% on 50%
+GA: somnolent and uncommunicative
+HEENT: PERRL. eyes with strabismus. oropharynx exam limited but
+there are visible secretions. no LAD. trach with visible
+secretions.
+Cards: Faint S1 and S2, no MRG, pulses full but faint
+Pulm: Diffusely rhonchorous breath sounds with scattered
+background wheezes
+Abd: soft, deep palpation did not elicit grimace
+Extremities: WWP
+Skin: warm with no rashes, PEG site clean and non-draining
+Neuro/Psych: strabisus as above. CN IV-XII, UE/LE strength,
+coordination, reflexes, and gait not assessed.
+
+On Discharge:
+VS: T 98.8, BP 116/75, HR 82, RR 24, SpO2 99% on 35% humidified
+through trach mask
+GA: alert and responsive.
+HEENT: eyes with strabismus, left anisocoria. oropharynx without
+lesions. no LAD. trach clean and well-cushined with no leaking
+secretions.
+Cards: normal S1 and S2, no MRG, pulses 2+
+Pulm: Good air entry b/l throughout. Transmitted upper airway
+sounds from trach heard throughout.
+Abd: soft, non-tender, non-distended.
+Extremities: WWP 2+ PT/DP pulses
+Skin: warm with no rashes, PEG site clean and non-draining
+Neuro/Psych: strabisus as above, left anisocoria unchanged
+during course on floors.
+
+
+Pertinent Results:
+ADMISSION LABS:
+
+DISCHARGE LABS:
+
+STUDIES:
+cxr [**2180-6-3**]:
+IMPRESSION: No acute intrathoracic process.
+
+CT abd/pelvis:
+IMPRESSION:
+Mild amount of subcutaneous air in the anterior abdominal wall
+inferiorly is likely related to injections.
+Trace pelvic free fluid, could be physiologic (if patient
+pre-menopausal), or could relate to VP shunt.
+
+MICRO:
+Blood Cx [**2180-6-3**]: pending
+Urine Cx [**2180-6-3**]: pending
+Sputum Cx [**2180-6-3**]:
+[**2180-6-3**] 11:45 am SPUTUM
+
+   GRAM STAIN (Final [**2180-6-3**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI.
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND IN SHORT
+CHAINS.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+
+   RESPIRATORY CULTURE (Preliminary):
+
+[**2180-6-8**] 06:15AM BLOOD WBC-8.8 RBC-3.24* Hgb-10.0* Hct-30.7*
+MCV-95 MCH-30.9 MCHC-32.6 RDW-14.9 Plt Ct-378
+[**2180-6-7**] 05:55AM BLOOD WBC-7.5 RBC-3.19* Hgb-9.8* Hct-30.3*
+MCV-95 MCH-30.8 MCHC-32.4 RDW-14.6 Plt Ct-333
+[**2180-6-6**] 06:14AM BLOOD Hct-30.9*
+[**2180-6-6**] 04:02AM BLOOD WBC-7.4 RBC-2.68* Hgb-8.2* Hct-24.9*
+MCV-93 MCH-30.8 MCHC-33.1 RDW-14.5 Plt Ct-322
+[**2180-6-5**] 05:46AM BLOOD WBC-8.0 RBC-3.20* Hgb-9.9* Hct-29.8*
+MCV-93 MCH-30.8 MCHC-33.1 RDW-14.4 Plt Ct-264
+[**2180-6-4**] 04:25AM BLOOD WBC-7.1# RBC-2.98*# Hgb-9.2*# Hct-28.0*#
+MCV-94 MCH-30.9 MCHC-32.9 RDW-14.4 Plt Ct-280
+[**2180-6-3**] 11:12AM BLOOD WBC-16.8* RBC-4.34 Hgb-13.3 Hct-39.0
+MCV-90 MCH-30.6 MCHC-34.0 RDW-14.5 Plt Ct-421
+[**2180-6-3**] 11:12AM BLOOD Neuts-82.2* Lymphs-10.4* Monos-5.8
+Eos-0.7 Baso-0.8
+[**2180-6-8**] 06:15AM BLOOD Plt Ct-378
+[**2180-6-5**] 05:46AM BLOOD PT-11.1 PTT-26.3 INR(PT)-0.9
+[**2180-6-8**] 06:15AM BLOOD Glucose-117* UreaN-6 Creat-0.4 Na-137
+K-4.0 Cl-98 HCO3-32 AnGap-11
+[**2180-6-7**] 05:55AM BLOOD Glucose-103* UreaN-4* Creat-0.3* Na-138
+K-3.9 Cl-101 HCO3-30 AnGap-11
+[**2180-6-6**] 04:02AM BLOOD Glucose-87 UreaN-6 Creat-0.4 Na-141 K-3.8
+Cl-107 HCO3-27 AnGap-11
+[**2180-6-5**] 05:46AM BLOOD Glucose-139* UreaN-6 Creat-0.4 Na-136
+K-4.0 Cl-105 HCO3-24 AnGap-11
+[**2180-6-4**] 04:25AM BLOOD Glucose-117* UreaN-11 Creat-0.4 Na-137
+K-3.9 Cl-108 HCO3-22 AnGap-11
+[**2180-6-3**] 11:12AM BLOOD Glucose-128* UreaN-19 Creat-0.7 Na-132*
+K-5.1 Cl-95* HCO3-20* AnGap-22*
+[**2180-6-7**] 05:55AM BLOOD ALT-74* AST-50* AlkPhos-78 TotBili-0.1
+[**2180-6-5**] 05:46AM BLOOD ALT-33 AST-22 LD(LDH)-242 AlkPhos-69
+TotBili-0.1
+[**2180-6-3**] 11:12AM BLOOD ALT-53* AST-38 LD(LDH)-309* AlkPhos-98
+Amylase-47 TotBili-0.2
+[**2180-6-7**] 05:55AM BLOOD Lipase-24
+[**2180-6-5**] 05:46AM BLOOD Lipase-29
+[**2180-6-3**] 11:12AM BLOOD Lipase-42
+[**2180-6-8**] 06:1

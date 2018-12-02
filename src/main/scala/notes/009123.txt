@@ -1,0 +1,227 @@
+Admission Date:  [**2202-11-4**]              Discharge Date:   [**2202-11-16**]
+
+Date of Birth:  [**2145-7-27**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+lightheadedness
+
+Major Surgical or Invasive Procedure:
+esophagogastroduodenoscopy [**2202-11-4**]
+colonoscopy [**2202-11-9**]
+
+
+History of Present Illness:
+57 year old female well known to our service.  She underwent
+redo sternotomy, MVR (St. [**Male First Name (un) 923**] mechanical), TVrepair on
+[**2202-10-11**].  Post operative course was complicated by complete
+heart block, which resolved by POD 3, and subsequent A-flutter
+which was successfully cardioverted.  The patient was
+anti-coagulated for her mechanical valve with a goal INR
+2.5-3.5.  The patient was discharged on POD 9 with INR 2.4.
+Follow up was arranged for Dr. [**First Name8 (NamePattern2) 2048**] [**Last Name (NamePattern1) **] (PCP) to manage
+INR and coumadin dosing.  The patient presented to the ED on
+[**11-4**] with fatigue, and lightheadedness/near syncope.  Initial
+work up reveals INR 6.3, hematocrit 13, and guaiac positive
+stool.  She was admitted for further workup and management.
+
+Past Medical History:
+mitral regurgitation
+tricuspid regurgitation
+s/p aortic valve replacement
+systemic lupus erythematosis
+systemic hypertension
+pulmonary hypertension
+raynaud's disease
+s/p cholecystectomy
+lupus nephritis
+rheumatic heart disease
+portal hypertension
+anemia
+
+Social History:
+Patient is married with one son, denies tobacco, minimal EtOH
+
+
+Family History:
+Grandmother died from a CVA at age 50. Father died at age 70
+from complications of diabetes.
+
+Physical Exam:
+Admission:
+Vitals: pulse 90, BP 76/43
+General: pasty, lying on ER stretcher
+HEENT: PERRL, EOMI, mucous membranes- dry
+Neck: no bruit, JVD or LAD
+Chest: CTAB
+Heart: RRR, sharp click
+Abd: soft, non-distended, non-tender, NABS, blood tinged
+drainage from NGT
+Ext: cool, no edema, pulses palpable
+Varicosities: none
+Neuro: non-focal/grossly intact
+
+Discharge:
+Vitals:
+General: WF, NAD, appears stated age
+Lungs: CTAB
+CV: RRR, no murmur or rub
+Abd: NABS, soft, non-tender, non-distended
+Ext: no edema
+Sternal incision: c/d/i, no erythema or drainage
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 103924**]Portable TTE
+(Focused views) Done [**2202-11-4**] at 1:53:52 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 645**] E.
+
+[**Last Name (LF) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2145-7-27**]
+Age (years): 57 F  Hgt (in): 65
+BP (mm Hg): 78/56  Wgt (lb): 120
+HR (bpm): 124  BSA (m2): 1.59 m2
+Indication: H/O cardiac surgery. Tamponade
+ICD-9 Codes: 423.3, V43.3, 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2202-11-4**] at 13:53    Interpret MD: [**First Name11 (Name Pattern1) 449**] [**Last Name (NamePattern4) **],
+MD
+Test Type: Portable TTE (Focused views) Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) 2270**]
+[**Last Name (NamePattern1) **]
+Doppler: Limited Doppler and color Doppler Test Location: [**Location 56698**]
+Contrast: None Tech Quality: Adequate
+Tape #: 2008W00-0:00 Machine: Vivid i-3
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+
+Findings
+LEFT VENTRICLE: Small LV cavity. Hyperdynamic LVEF >75%.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion. No
+echocardiographic signs of tamponade.
+Conclusions
+The left ventricular cavity is unusually small. Left ventricular
+systolic function is hyperdynamic (EF>75%). There is a
+trivial/physiologic pericardial effusion. There are no
+echocardiographic signs of tamponade.
+  Electronically signed by [**First Name11 (Name Pattern1) 449**] [**Last Name (NamePattern4) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2202-11-4**] 15:58
+
+
+?????? [**2197**] CareGroup IS. All rights reserved.
+
+[**2202-11-4**] 12:45PM BLOOD WBC-12.4* RBC-1.45*# Hgb-4.1*# Hct-13.0*#
+MCV-89 MCH-28.5 MCHC-31.9 RDW-15.5 Plt Ct-431#
+[**2202-11-4**] 12:45PM BLOOD PT-54.4* PTT-40.2* INR(PT)-6.3*
+[**2202-11-4**] 12:45PM BLOOD Glucose-126* UreaN-117* Creat-1.5* Na-134
+K-4.8 Cl-107 HCO3-16* AnGap-16
+[**2202-11-4**] 12:45PM BLOOD WBC-12.4* RBC-1.45*# Hgb-4.1*# Hct-13.0*#
+MCV-89 MCH-28.5 MCHC-31.9 RDW-15.5 Plt Ct-431#
+[**2202-11-4**] 12:45PM BLOOD PT-54.4* PTT-40.2* INR(PT)-6.3*
+[**2202-11-15**] 05:40AM BLOOD PT-19.9* PTT-83.1* INR(PT)-1.9*
+[**2202-11-15**] 05:40AM BLOOD WBC-4.9 RBC-2.84* Hgb-8.4* Hct-25.0*
+MCV-88 MCH-29.6 MCHC-33.6 RDW-15.3 Plt Ct-263
+
+Brief Hospital Course:
+Ms. [**Known lastname 9996**] was admitted to the CVICU where TEE revealed no
+tamponade, and EGD revealed no evidence of upper GI bleed.  The
+patient was transfused five units of fresh frozen plasma, as
+well as two units of packed red blood cells.  Hematocrit rose to
+21 and INR began to fall.  The patient remained stable and was
+transferred to the step down unit on hospital day 4.  Sternal
+drainage was cultured and revealed coag positive staph aureus,
+the patient was started on vancomycin given her history of MRSA.
+ EGD was performed on [**11-4**] and was normal. Heparin was started
+when INR dropped below 2.  Colonoscopy was performed on [**11-9**].
+Two polyps were removed and sent for biopsy, however, remainder
+of exam was normal.  Pathology reveals: 1.Fragments of adenoma,
+and 2. Condyloma acuminatum with low grade dysplasia (anal
+intraepithelial neoplasia I).  The GI team referred Ms. [**Known lastname 9996**]
+to a ZGI [**Known lastname 5059**] for outpatient work-up of these findings.
+Following these procedures, heparin and coumadin were resumed.
+The patient's hematocrit remained stable throughout the hospital
+course.  She was discharged to home when her INR became
+therapeutic on hospital day 13.
+
+Medications on Admission:
+lopressor
+colace 100''
+zantac 150''
+asa 81'
+plaquenil 200''
+MVI daily
+niferex 150'
+ultram 50 q4h prn
+percocet prn
+warfarin (thurs 4, fri 4, sat 2, sun 2)
+ativan 0.5''
+lisinopril 20'
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+4. Lisinopril 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+8. Warfarin 2 mg Tablet Sig: Two (2) Tablet PO ONCE (Once) for 1
+doses: please take 4mg (two 2mg tablets) daily until directed
+otherwise by the office of Dr. [**First Name (STitle) 437**].
+Disp:*60 Tablet(s)* Refills:*0*
+9. Outpatient Lab Work
+Please draw an INR on Friday [**2202-11-19**] with results sent to
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at the office of Dr. [**First Name (STitle) 437**] at ([**Telephone/Fax (1) 9410**].
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+anemia, hct 13
+supratherapeutic INR (6.1)
+hypertension
+Rheumatic heart disease
+systemic lupus erythematosis
+Raynaud's phenomenon
+Lupus nephritis
+portal hypertension
+hepatic enlargement/ fibrosis
+s/p mitral valve replacement (St. [**Male First Name (un) 923**] mechanical), tricuspid
+valve ring [**2202-10-6**]
+s/p aortic valve replacement (tissue) [**2197**]
+s/p cholecystectomy
+esophageal spasm
+rheumatoid arthritis
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please shower daily including washing i

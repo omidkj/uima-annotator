@@ -1,0 +1,249 @@
+Admission Date:  [**2160-3-26**]              Discharge Date:   [**2160-4-1**]
+
+
+Service: MEDICINE
+
+Allergies:
+Acetylcysteine
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+Anemia
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+The patinet is an 86 year old male with a history of advanced
+dementia, CAD w/ prior PCI, CHF, CKI (baseline cratinine ~1.3)
+COPD, CAF (not on coumadin due to GI bleed), bipolar disorder
+who presented to [**Hospital3 **] on [**3-21**] with abnormal lab
+results. He was found to have a hematocrit of 17, WBC of 23. He
+was admitted to their ICU for further care.
+.
+He recieved a total of 9 units of pRBC, but if he had elements
+of hemodynamic instaiblity. On the day of transfer hehis hct was
+29.8. The patient underwent an EGD which showed a a "huge deep
+ulcer" in the distal duodenal bulb with evidence of recent
+bleding, but no active bleed. It was injected with 2ml of
+epinephrine, but the patient continued to have a falling hct.
+General surgy was consulted, who fent that given the patients
+multiple comorbidities, embolization for the GDA would be most
+appropriate.
+.
+Other significant elements of his hospitalization include
+ongoing chronic AF with a bradicardic response for which
+cardiology was consulted. His BB was decreased and his digoxin
+was discontinued in the setting of ARF on presentation to 1.9
+(now down to baseline of 1.3) with IVF. Additionally, the
+patinet was treated empirically for c.diff with PO vancomycin,
+despite having 2 stool cultures which were negative. His WBC
+fell to 11.4 during his hospitalization. He is now transfered to
+[**Hospital1 18**] for further manegment.
+.
+The patient is currently AAOx1. He denies any abdominal pain,
+nausea/vomtiing, fevers/chills, and endorses being hundry. No
+complaints of chest pain, shortness of breath, lightheadedness.
+
+
+
+Past Medical History:
+CAD w/ prior stent.
+HTN
+Chronic AF not on coumadin [**1-15**] to GI Bleed
+COPD
+Dementia
+CVA
+CKI (baseline Cr of 1.3)
+Chronic Anenia
+Hyperlipidemia
+C.diff
+CHF
+
+
+Social History:
+The patient lives at [**Location 2203**] [**Hospital1 1501**] after recent d/c from Radius.
+He is a former smoker and has a formal history of alcohol use.
+
+Family History:
+NO history of GI issues
+
+Physical Exam:
+afebrile HR 73 BP 157/57 97% RA
+appears well- pleasantly confused, talkative
+MMM- no oropharyngeal lesions, anicteric
+lungs with faint bibasilar ronchi
+irregular, soft SM at LSB
+abdomen soft, nontender, no organomegaly
+rectal with small/mod amount of borderline melena (vs. dark
+stool) in vault
+extremities- no c/c/e
+
+
+Pertinent Results:
+[**2160-3-26**] 06:19PM   GLUCOSE-84 UREA N-31* CREAT-1.2 SODIUM-144
+POTASSIUM-3.7 CHLORIDE-115* TOTAL CO2-20* ANION GAP-13
+[**2160-3-26**] 06:19PM   estGFR-Using this
+[**2160-3-26**] 06:19PM   AMYLASE-107*
+[**2160-3-26**] 06:19PM   LIPASE-60
+[**2160-3-26**] 06:19PM   CALCIUM-8.0* PHOSPHATE-3.6 MAGNESIUM-1.7
+[**2160-3-26**] 06:19PM   WBC-13.8* RBC-3.70* HGB-11.3* HCT-33.2*
+MCV-90 MCH-30.5 MCHC-34.1 RDW-16.5*
+[**2160-3-26**] 06:19PM   PLT COUNT-197
+[**2160-3-26**] 06:19PM   PT-12.3 PTT-25.8 INR(PT)-1.0
+.
+Time Taken Not Noted     Log-In Date/Time: [**2160-3-27**] 5:08 pm
+      SEROLOGY/BLOOD      CHEM# 3333B.
+
+                            **FINAL REPORT [**2160-3-28**]**
+
+   HELICOBACTER PYLORI ANTIBODY TEST (Final [**2160-3-28**]):
+      NEGATIVE BY EIA.
+           (Reference Range-Negative).
+
+Time Taken Not Noted     Log-In Date/Time: [**2160-3-27**] 7:47 am
+      URINE     Site: NOT SPECIFIED      HEM # 0094B [**3-27**].
+
+                            **FINAL REPORT [**2160-3-29**]**
+
+   URINE CULTURE (Final [**2160-3-29**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------     4 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+[**2160-3-26**] 6:19 pm MRSA SCREEN      Source: Nasal swab.
+
+                            **FINAL REPORT [**2160-3-28**]**
+
+   MRSA SCREEN (Final [**2160-3-28**]):
+      POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS.
+
+CHEST, AP: The lungs are slightly hyperexpanded. Mild vascular
+congestion,
+interstitial edema, and small bilateral pleural effusions, left
+greater than
+right, are slightly improved. Mild bibasilar atelectasis
+persists. The
+cardiac silhouette is normal. No free intraperitoneal air is
+visualized,
+although portable radiograph is not in full upright position.
+
+IMPRESSION: Slightly improved edema.
+.
+Discharge Labs:
+[**2160-4-1**] 05:35AM BLOOD WBC-9.2 RBC-3.21* Hgb-9.7* Hct-29.9*
+MCV-93 MCH-30.3 MCHC-32.5 RDW-15.6* Plt Ct-251
+[**2160-3-31**] 05:25AM BLOOD Glucose-100 UreaN-24* Creat-1.2 Na-138
+K-3.6 Cl-110* HCO3-20* AnGap-12
+[**2160-3-31**] 05:25AM BLOOD Valproa-33*
+
+Brief Hospital Course:
+Acute blood loss anemia/duodenal ulcer bleed: The cause of his
+GI bleed was found to be a deep duodenal ulcer, discovered at
+[**Hospital3 **].  Upon transfer to [**Hospital1 18**] his HCT was stable in
+the low-mid 20s.  GI, surgery, and IR were consulted.  It was
+felt that endoscopy would not be helpful in terms of
+intervention.  Surgery did not feel he was a good candidate for
+surgery given his multiple comorbidities.  IR felt that
+embolization could be pursued if his bleeding resumed.  He was
+maintained on [**Hospital1 **] PPI with good effect and improvement in his
+Hct.  No further interventions were performed.  H. pylori was
+negative.  His ASA/Plavix were held in house.
+- should continue [**Hospital1 **] PPI indefinitely.
+- will need GI follow up
+- baseline Hct at discharge 27-28
+- still had guaiac positive stool at discharge
+.
+CAD, native: Per report he had underwent stenting many years
+ago.  His ASA/plavix were held prior to transfer here.  These
+were held in house, his metoprolol and statin were continued.
+Going forward, may consider restarting aspirin after resolution
+of his ulcer and outpatient assessment.
+- aspirin/plavix held.  can consider restarting if duodenal
+ulcer heals and is cleard by GI.  risk/benefits should be
+discussed with sister.
+.
+HTN, benign: His metoprolol was continued at lower dose.
+Amlodipine was continued.
+- metoprolol decreased to 12.5mg [**Hospital1 **] am/pm, 25mg in the
+afternoon
+.
+Atrial Fibrillation: Stable in house with episodes of
+bradycardia to 40-50s.  His digoxin had been held at [**Hospital1 **].
+His metoprolol was decreased in house.  Further titration will
+be necessary.  He is not an anticoagulation candidate.
+- digoxin held, metoprolol adjusted per below
+.
+Encephalopathy: Likely delirium from GI bleed and UTI.
+Supportive care was provided.  His depakote was continued and
+increased to 250mg [**Hospital1 **]
+.
+UTI: E. coli in urine with encephalopathy.  He was treated with
+ceftriaxone x3 days, and discharged on cefpodoxime to complete 5
+day course through [**2160-4-3**]
+.
+CKD: Stable during admission.
+.
+COPD: started on flovent, spiriva, albuterol prn
+.
+Baseline was pleasant, lucid/awake, and talkative.  Only
+occasionally oriented to place, person.  no focal neurologic
+deficits.  has mild cough.
+.
+DNR/DNI during admission, discussed with sister who is his
+primary contact.
+[**Name (NI) 3608**]: [**Telephone/Fax (1) 81880**] SISTER [**Name (NI) 81881**] HOME PHONE
+
+
+Medications on Admission:
+Home Medications:
+MVI
+Amlodipine 10mg daily
+Plavix 75mg daily
+Flvoent
+Trazadone
+Simvastatin 80mg daily
+Colace
+Ultram
+Tylenol
+Duoneb
+Lopressor 100mg TID
+Depakote
+Digoxin 0.125mg daily
+Fe
+Calcitrol
+Allopurinol
+Allergies:
+.
+---- MEDICATIONS AT TIME OF TRANSFER----
+.
+mvi
+AMLODIPNE 10MG DAILY
+FLUTICOSONE 110 MCG ih [**Hospital1 **]
+TRAZADONE 50MG Qhs
+SIMVASTATIN 80MG DAILY
+COLACE 200MG DAILY
+TRAMADOL 25MG q8h PRN
+TYLENOL 650MG prn
+Metoprolol 50mg TID
+Depakote 125mg [**Hospital1 **]
+Sucralfat

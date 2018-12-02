@@ -1,0 +1,220 @@
+Admission Date:  [**2150-10-15**]              Discharge Date:   [**2150-10-26**]
+
+Date of Birth:  [**2070-1-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Aspiration/Hypoxic respiratory failure
+
+Major Surgical or Invasive Procedure:
+- Intubation [**2150-10-15**]
+- Right radial A line [**2150-10-15**]
+- Right IJ Central Venous Line insertion [**2150-10-16**]
+- PICC line removal [**2150-10-16**]
+- Extubation [**2150-10-24**]
+- Right IJ Central Venous Line removal [**2150-10-25**]
+
+History of Present Illness:
+Ms. [**Known firstname 12335**] [**Known lastname **] is an 80 year old woman with a history of
+paranoid schizophrenia, anoxic brain injury and advanced
+dementia and recent aspiration pneumonia presents from her
+nursing home with acute shortness of breath and hypoxia while
+eating breakfast.
+
+In the ED, initial vs were: T 96.5 P 140 BP 162/116 R 28 O2 sat
+80%. Patient was in significant respiratory distress on
+presentation with oxygen saturations falling into the 70s.  She
+was urgently intubated. Report of large amount of pink frothy
+sputum. Patient initially with persistent hypoxia requiring FiO2
+100%. Subsequent ABG revealed 7.25/60/323/28. CXR was performed
+confirming placement of ET tube and existing PICC line. CXR
+showed diffuse infiltrates. Patient was started on vancomycin 1
+g IV, flagyl 500 IV, and levoquin 750 mg IV.  Her blood
+pressures fell to systolic on 80s and IV boluses were started.
+
+Labs were notable for WBC 27, HCT 30 (baseline), lactate 3.3, UA
+with trace protein and ketones, glucose 278, and Na 134. In
+addition to antibiotics patient was given 2L NS, protonix 40 mg
+IV, versed 2 mg IV bolus and fentanyl 50 mcg IV bolus.
+
+On arrival to the ICU, patient is awake but not answering
+questions.
+
+Past Medical History:
+paranoid schizophrenia
+anoxic brain injury
+advanced dementia
+insulin-dependent diabetes
+hypertension
+hyperlipidemia
+malignant melanoma
+aspiration pneumonia
+history of C. difficile
+history of hip fracture
+history of right parietal meningioma
+
+Social History:
+Patient lives at [**Location 12336**] House since [**2145**].  She is dependent of
+all ADLs. She is alert and oriented x 1, nonverbal and bedbound
+at baseline.  She has no recent alcohol, tobacco, or illicit
+drug history. Her nephew [**Name (NI) 915**] is her HCP.
+
+Family History:
+Noncontributory.
+Nephew denies.
+
+Physical Exam:
+Physical Exam on Admission to [**Hospital Unit Name 153**]:
+Vitals: T: 95.8 BP: 131/71 P: 128 R: 12 O2: 97% on vent
+General: Alert chewing on ET tube, no acute distress
+HEENT: Sclera anicteric, Right pupil dilated and minimally
+responsive to light, left pupil responive to light, ET tube
+inplace with pink frothy oral secretions
+Neck: JVP not elevated, no LAD
+Lungs: scattered rhonchi throughout anteriorly
+CV: tachycardic and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present
+Neuro: Patient spontaneously moves all four extremities,
+continuously smacking lips, chewing on ET tube, awake, tremor
+present (baseline) not following commands.
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+Labs
+[**2150-10-15**]
+- CBC with differential: WBC-27.2*# RBC-3.43* Hgb-9.8* Hct-30.2*
+MCV-88 MCH-28.5 MCHC-32.4 RDW-15.1 Plt Ct-489* Neuts-70 Bands-1
+Lymphs-24 Monos-4 Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0
+- Coagulations: PT-13.1 PTT-22.5 INR(PT)-1.1
+- CHEM 10: Glucose-298* UreaN-24* Creat-0.5 Na-134 K-4.3 Cl-98
+HCO3-25 Calcium-9.1 Phos-3.4 Mg-1.9
+- Albumin 2.1*
+- ABG: Rates-14/ Tidal V-440 PEEP-5 FiO2-100 pO2-322* pCO2-60*
+pH-7.25* calTCO2-28 Base XS--1 AADO2-357 REQ O2-62 -ASSIST/CON
+Intubat-INTUBATED
+- Free ionized Ca 1.11*
+
+[**2150-10-16**]
+- Iron studies: calTIBC-172*  Ferritn-632* TRF-132*
+- VitB12 898
+- folate 11.9
+- cortisol AM 28.7*
+
+MICROBIOLOGY
+[**2150-10-15**]
+- Urine legionella antigen negative
+- Blood [**12-13**]
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    FINAL
+SENSITIVITIES.
+      ENTEROCOCCUS FAECALIS.    FINAL SENSITIVITIES.
+         HIGH LEVEL GENTAMICIN SCREEN: Susceptible to 500 mcg/ml
+of
+         gentamicin. Screen predicts possible synergy with
+selected
+         penicillins or vancomycin. Consult ID for details.
+         HIGH LEVEL STREPTOMYCIN SCREEN: Susceptible to
+1000mcg/ml of
+         streptomycin.  Screen predicts possible synergy with
+selected
+         penicillins or vancomycin.  Consult ID for details..
+         SENSITIVE TO Daptomycin AT MIC 1.0 MCG/ML, Sensitivity
+testing
+         performed by Etest.
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |          ENTEROCOCCUS FAECALIS
+                             |          |
+AMPICILLIN------------              <=2 S
+CLINDAMYCIN-----------       R
+DAPTOMYCIN------------                  S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------     1 R
+PENICILLIN G----------                2 S
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     1 S        1 S
+
+[**2150-10-16**]
+- Blood
+ STAPHYLOCOCCUS, COAGULASE NEGATIVE.    FINAL SENSITIVITIES.
+                   SENSITIVITIES: MIC expressed in MCG/ML
+ _________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------     8 I
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------     2 S
+- PICC tip culture negative
+- Sputum:
+STAPH AUREUS COAG +.    MODERATE GROWTH.
+      ESCHERICHIA COLI.    SPARSE GROWTH.
+         AZTREONAM Sensitivity testing per DR.[**Last Name (STitle) 91**],[**First Name3 (LF) **] PAGER
+[**Numeric Identifier 12337**]
+         [**2150-10-19**].  SENSITIVE TO AZTREONAM.
+         AZTREONAM sensitivity testing performed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+      ESCHERICHIA COLI.    SPARSE GROWTH.  SECOND MORPHOLOGY.
+         AZTREONAM Sensitivity testing per DR. [**Last Name (STitle) 91**],[**First Name3 (LF) **] PAGER
+[**Numeric Identifier 12337**]
+         [**2150-10-19**].  SENSITIVE TO AZTREONAM.
+         AZTREONAM sensitivity testing performed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |          ESCHERICHIA COLI
+                             |          |          ESCHERICHIA
+COLI
+                             |          |          |
+AMPICILLIN------------             =>32 R     =>32 R
+AMPICILLIN/SULBACTAM--               16 I       16 I
+CEFAZOLIN-------------              <=4 S      <=4 S
+CEFEPIME--------------              <=1 S      <=1 S
+CEFTAZIDIME-----------              <=1 S      <=1 S
+CEFTRIAXONE-----------              <=1 S      <=1 S
+CIPROFLOXACIN---------              =>4 R      =>4 R
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S      <=1 S      <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------           <=0.25 S   <=0.25 S
+OXACILLIN-------------   0.5 S
+TOBRAMYCIN------------              <=1 S      <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S     =>16 R     =>16 R
+
+IMAGES
+[**2150-10-15**]
+CT Head
+1. No acute intracranial process.
+2. Right parietal craniectomy changes with associated underlying
+
+encephalomalacia versus extra-axial chronic collection is stable
+at least
+since [**2149-12-2**].
+
+CXR
+1. Endotracheal tube 4 cm above the carina.
+2. Bilateral patchy opacities, which may be due to patient
+motion versus
+infection versus edema. Consider repeat chest radiograph if
+clinically
+warranted.
+3. Distended stomach despite nasogastric tube in pla

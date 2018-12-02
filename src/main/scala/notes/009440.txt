@@ -1,0 +1,189 @@
+Admission Date:  [**2127-11-18**]              Discharge Date:   [**2127-11-24**]
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Ceftriaxone / Keflex
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hematemesis
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Pt is [**Age over 90 **] yo f with HTN, DM II, OA, and h/o Klebsiella UTI
+(multi-drug resistant), who reportedly had episode of
+hematemesis this AM.  Pt lives at [**Hospital1 **], and vomited 80cc of
+bright red blood this AM, and was also found to be tachycardic
+and diaphoretic.  She had SOB and abdominal pain as well. Per
+pt's son, she was "sharp as a tack" 2 days ago for a birthday
+party (her birthday is today), and now has worsened mental
+status.  No hx of diarrhea, hematochezia, hematuria, or dysuria.
+ Per pt's son, pt may have had course of [**Name (NI) **] for UTI several
+months ago.
+.
+In the [**Name (NI) **], pt had Temp 101.6, BP 200/108, HR in the 140's, was
+diaphoretic, and c/o abdominal pain.  NG lavage was attempted x
+2, but was unsuccessful due to pt's inability to cooperate.  The
+pt also refused central line placement. Pt was found to have a
+dirty UA, and a CT abd showed pan-colitis.  She was given 2L NS,
+Levoflox 500mg IV, Vanc 1g IV, Morphine 2mg x 2, Protonix 40mg
+IV, Metoprolol 5mg IV x 1, Anzemet 12.5mg x 1, and Tylenol 650mg
+PR.
+.
+
+
+Past Medical History:
+- DM type II - ? steroid induced (per notes) -> no meds
+- Hypertension
+- Osteoarthritis
+- Rheumatoid arthritis on prednisone
+- CRI - baseline creatinine is 0.9 to 1.3.
+- Neurogenic bladder
+- Dementia
+- s/p total right hip replacement in [**2116**]
+- PMR with chronic pain on prednisone, Fentanyl
+- Depression
+- h/o Klebsiella UTI (multi-drug resistant)/urosepsis
+- h/o hyperkalemia
+- Stage II sacral decub on R buttock
+
+Social History:
+Has lived at [**Hospital **] nursing home x several years. Is bedbound and
+needs assistance w/ ADLs like eating/dressing/toileting because
+of her contractures and pain. She is DNR/DNI.
+
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T 96.3 BP 168/109 HR 118 RR 31 O2 98% RA
+Gen: elderly female, moaning occasionally
+HEENT: PERRL
+Neck:  Supple. JVD flat
+Cardio: tachycardic, no m/r/g appreciated
+Resp: crackles [**3-8**] way up on R, crackles [**1-6**] way up on L
+Abd: soft, nd, diffusely tender, +BS, no rebound/guarding
+Ext: LE contractures. No c/c/e
+Neuro:  A&Ox1 (knows only name)
+Rectal (per ED): brown stool, guaiac negative
+
+Pertinent Results:
+CT abd:  Pancolitis.  The appearance is nonspecific and could be
+secondary to infection, an inflammatory process, or ischemia.
+Severe atherosclerotic disease; however, the mesenteric vessels
+appear patent.  Gallbladder fundal adenomyosis.  Low attenuation
+splenic foci, which are incompletely characterized on this exam.
+
+.
+CXR: Cardiomegaly with a tortuous aorta is again seen and
+unchanged.  Pulmonary vascularity is unremarkable.  No
+infiltrate or consolidation is identified within the lung. No
+pleural effusion is seen.  No intraperitoneal free air is
+identified. Gas-distended fundus of the stomach is noted.
+.
+EKG: sinus tach @ 126, LAD, nl intervals, <1mm STD in V5-V6
+
+Brief Hospital Course:
+A/P:  [**Age over 90 **] yo f with HTN, DM II, OA, h/o UTI's, who now presents
+with hematemesis, UTI, and pan-colitis.
+.
+#) Hematemesis: Upon admission, the patient was reported to have
+approximately 50cc of hematemsis.  She was admitted to [**Hospital Unit Name 153**] in
+hemodynamically stable condition.  Her Hct upon admission was
+50.0, thought to represent hemoconcentration [**2-6**] severe
+dehydration in the setting of pan-colitis.  This returned to her
+baseline around 28-30 after IVF hydration and then remained
+stable.  GI was made aware of pt, however plan for EGD was
+deferred as pt/family wish to avoid aggressive invasive
+measures.  The patient had no further episodes of hematemesis
+and her Hct remained stable. ASA, NSAIDS were avoided and she
+was put on Protonix.
+.
+#) Pan-colitis:  An abdominal CT scan with contrast upon
+admission showed a pan-colitis.  The differential included
+infectious (? C dif), inflammatory, or ischemic causes.  An
+infectious etiology was thought to be most likely given fever,
+elevated WBC count, and was guaiac negative.  Ischemia was
+thought to be less likely given pan colitis distribution.  Stool
+cultures were sent and were negative (C dif x 3 was negative as
+well as Campylobacter, O&P and stool culture.  She was treated
+with flagyl, and meropenem for 6 days.  Pain control acheived
+with fentanyl patch + prn morphine.  After three negative C difs
+and clinical improvement in her abdominal exam, her antibiotics
+were discontinued.
+.
+#) Respiratory distress/Hypoxia: While in the ICU, the patient
+was noted to have one episode of mild respiratory distress with
+pulmonary edema after getting IVF hydration.  She was
+approximately +7 Liters at the time after aggressive IVF
+hydration for pan-colitis.  Her respiratory distress was [**2-6**]
+volume overload and mild CHF from diastolic dysfunction.  She
+was gently diuresed with excellent response to Lasix 10mg IV and
+got daily Lasix.  She will be discharged on daily PO Lasix which
+will need to be titrated based on daily weights, monitoring Cr
+and UOP (this was discussed with patient's PCP [**First Name8 (NamePattern2) 622**] [**Last Name (NamePattern1) **]
+before discharge).
+.
+#) Acute Renal Failure: Upon admission, the patient's Cr was 1.0
+(near her baseline 0.9-1.3).  Her Cr climbed to as high as 1.4
+after gentle diuresis for volume overload with Lasix.  Her
+creatinine trended down and was 1.2 upon discharge.  Her volume
+status and creatinine will need to be monitored as an outpatient
+as she will be going home on daily Lasix 10mg daily (this may
+need to be titrated, possibly qday or QOD).
+.
+#) UTI: The patient has a long history of multiple Klebsiella
+UTIs that are multi-drug resistant (ESBL, extended spectrum
+beta-lactamase producing).  Her urine culture upon admission
+showed Klebsiella (again ESBL but sensitive to Meropenem, pt
+cannot take cephaloporins or PCN, Klebsiella was resistant to
+Cipro, Bactrim, Nitrofurantoin and Levofloxacin).  She completed
+a 6 day course of Meropenem.
+.
+#) Tachycardia: The patient was admitted with tachycardia to the
+120s thought to be [**2-6**] intravascular volume
+depletion/dehydration as well as from diffuse abdominal pain.
+After volume resuscitation upon admission and resolution of
+pain, the patient's HR improved.  She appears to run between
+90s-105 at baseline.
+.
+#) Hypertension: Pt has a h/o of HTN, which was treated with
+metoprolol and initially with prn hydral and nitropaste.  Her
+blood pressure improved during her hospital stay and she
+required only Metoprolol to control her BP during the remainder
+of her hospital stay.
+.
+#) Fever: Thought to be secondary to UTI and colitis.  She
+completed 6 days of Meropenem for resistent Klebsiella UTI and
+Flagyl for colitis of unclear etiology (C dif x 3 negative).
+Her fevers trended down during this admission and she was
+afebrile before discharge.
+.
+#) Mental status change: Thought to be likely secondary to
+infection and hypovolemia superimposed on mild dementia.  On HD
+#2, her MS improved significantly after IVFs.  She was restarted
+on Remeron and Neurontin after her mental status returned to
+baseline.
+.
+#) Arthritis: Stable.  She was continued on her outpatient
+low-dose prednisone, and fentanyl patch.
+.
+#) DM II: Her diabetes was reportedly diet controlled (thought
+possibly to be [**2-6**] steroids).  Finger sticks were elevated on
+admission likely due to infection.  She was maintained on an
+insulin sliding scale and required minimal coverage.
+.
+#) FEN:  Patient was maintained on a regular diet with thickened
+liquids.
+.
+#) Comm: son [**Name (NI) 109259**] [**Name (NI) 12246**], HCP (cell: [**Telephone/Fax (1) 109181**], office:
+[**Telephone/Fax (1) 109260**], home: [**Telephone/Fax (1) 109261**], admin assistant Ms. [**Last Name (Titles) 8260**]
+[**Telephone/Fax (1) 109262**]), grandson [**Name (NI) **] ([**Telephone/Fax (1) 109263**])
+.
+#) Code: DNR/DNI (discussed with son, [**Name (NI) 109259**] [**Name (NI) 12246**]); Son
+requesting no aggressive procedures preferring ins

@@ -1,0 +1,141 @@
+Admission Date:  [**2162-11-26**]              Discharge Date:   [**2162-11-26**]
+
+Date of Birth:  [**2092-3-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lipitor
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+[**Hospital 15305**] transfer from outside hospital
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Pt is a 70 yo M w/ h/o CAD, CHF (EF 5-10% from recent ECHO), s/p
+rigth right nephrectomy who presents from outside hospital with
+sepsis. Pt was originally admitted to [**Hospital1 2436**] on [**2162-11-23**]
+with fevers, and [**Location (un) 2452**] colored urine. Initially felt to have a
+UTI and treated with levoquin. Also had elevated LFT's but RUQ
+US was normal at this point. Continued to spike fevers, and
+changed abx to Zosyn out of concern for biliary sepsis. However
+Ct chest,abd pelvis unremarkable. He then had worsening acute
+renal failure. He was given fluids and then developed
+respiratory compromise. Ultimately he required intubation. Blood
+pressures continued to drop and required pressors. [**Last Name (un) **] stim was
+60 with no response. Ultimately required 3 pressors. Repeat RUQ
+US showed GB thickening. A percutaneous cholecystectomy was
+placed. Found to have gram negative bacilli in biliary fluid.
+Despite aggressive care continued to have worsening renal
+failure, required pressors, became anuric, and difficulty to
+oxygenate on vent. Therefore transferred to [**Hospital1 18**] for possible
+CVVH and further intensive care.
+
+Past Medical History:
+MI s/p 3 stents
+Right nephrectomy
+Hiatal hernia
+
+
+Social History:
+Lives with wife. Former [**Name2 (NI) 1818**]
+
+Family History:
+NC
+
+Physical Exam:
+T 101.3 BP 134/70 HR 140 RR 21 O2sats 95%
+Vent settings: AC TV 600 RR 20 FiO2 100% PEEP 10
+Gen: Sedated, non-responsive
+HEENT: Pupils constricted but reactive, equal. + scleral
+icterus, + scleral edema, + ETT
+Neck: no LAD
+Lungs: Crackles at bases
+Heart: Tachy, no m/r/g
+Abd: Distended, hypoactive bowel sounds, + biliary drain w/ dark
+gree bile
+Ext: no edema, ext. cool, + mottling
+Neuro: non-resposive
+Lines: Left subclavian, right femoral Aline
+
+
+Pertinent Results:
+[**2162-11-26**] 08:31PM   TYPE-ART TEMP-37.2 PEEP-10 PO2-105 PCO2-39
+PH-7.18* TOTAL CO2-15* BASE XS--13 INTUBATED-INTUBATED
+VENT-CONTROLLED
+[**2162-11-26**] 08:22PM   GLUCOSE-121* UREA N-40* CREAT-5.2* SODIUM-135
+POTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-14* ANION GAP-22*
+[**2162-11-26**] 08:22PM   ALT(SGPT)-145* AST(SGOT)-120* LD(LDH)-294*
+CK(CPK)-127 ALK PHOS-114 AMYLASE-297* TOT BILI-2.1*
+[**2162-11-26**] 08:22PM   LIPASE-125*
+[**2162-11-26**] 08:22PM   CK-MB-15* MB INDX-11.8* cTropnT-1.38*
+[**2162-11-26**] 08:22PM   ALBUMIN-2.4* CALCIUM-6.3* PHOSPHATE-4.8*
+MAGNESIUM-1.6
+[**2162-11-26**] 08:22PM   WBC-21.6* RBC-3.40* HGB-10.9* HCT-30.7*
+MCV-90 MCH-32.2* MCHC-35.6* RDW-15.1
+[**2162-11-26**] 08:22PM   PT-13.7* PTT-30.0 INR(PT)-1.3
+[**2162-11-26**] 08:22PM   FIBRINOGE-622*
+
+Brief Hospital Course:
+When patient arrived to floor he was on three pressors at max
+dosages. He was required full ventilatory support with FiO2 of
+100%. On attempting to transition him from transort meds to our
+meds his BP would drop from the low 100's to 60's. During this
+time we bolused him 2 L of IVF and continued pressor support.
+Initially ABG should acidosis of 7.18 and Bicarb of 15. His
+pressors returned to low 100's after fluid boluses but then
+would have transient episodes of hypotension. Initially labs
+came back with worsening renal failure, elevated trop, hypoca,
+hyperphos, leukocytosis. A discussion was held with family given
+poor prognosis as patient was in sepsis with multi-organ failure
+including heart, lungs, lkidneys, liver. He was anuric. EF at
+OSH was 5-10%. Contact[**Name (NI) **] renal about possible CVVH> They
+recommended trying lasix, zaroxyln, bicarb gtt. Pt was given
+bicarb and calcium and increased his minute ventilation to blow
+off CO2. However despite this patient worsened. His BP dropped
+into the 50's despite maximizing three pressors. HE then went
+into PEA arrest. CPR started. He was given epineprine 1mg times
+2 and atropine 1mg times 2 with no response. After 11 minutes of
+CPR and coding the patient he was pronounced dead at 2221
+(1021pm).
+
+Medications on Admission:
+Meds on admission to OSH:lescol, zetia, effexor, terazosin,
+flomax, mavik, cardia, percocet
+.
+Meds on admission to [**Hospital1 18**]:
+Levophed 0.5
+Dopamine 20
+Vasopressin 2.4
+cefepime, gent, heparin sc, protonix, propofol, fentanyl, alb,
+atrovent
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Sepsis
+Hypotension
+Heart Failure
+Cholangitis
+Respiratory Failure
+Cardiac Arrest
+
+Discharge Condition:
+Expired [**2162-11-26**] at 2221
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

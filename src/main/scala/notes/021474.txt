@@ -1,0 +1,201 @@
+Admission Date:  [**2166-3-5**]              Discharge Date:   [**2166-3-17**]
+
+Date of Birth:  [**2103-10-10**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1561**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+ Rigid bronchoscopy.
+2.  Cervical tracheal resection and reconstruction.
+3.  Adjacent tissue flap.
+
+
+History of Present Illness:
+61-
+year-old gentleman with multiple medical problems including
+severe sleep apnea who developed a severe pneumonia in
+[**2164-10-5**] requiring intubation. After 10 days, he
+underwent tracheostomy tube placement which remained for 5
+months during a prolonged recovery phase. Subsequent to
+decannulation, he developed progressive dyspnea and was
+diagnosed with subglottic stenosis. He is, therefore, being
+taken forward for surgical resection.
+
+
+Past Medical History:
+intubation/trach for PNA ([**2164**]), admit [**3-5**] w/ subglottic
+stenosis s/p tracheal resection [**3-6**]-
+subglottic stenosis, s/p tracheal resection [**2166-3-6**], gastic
+esophogeal reflux disease, hypertension, hypertension, s/p
+myocardial infarction, congestive heart failure, sleep apnea,
+obesity
+
+
+Social History:
+lives at home with son in [**Name (NI) 15158**], NY.
+REceived services from Americare.
+
+Family History:
+n/a
+
+Physical Exam:
+General- obese middle age male
+HEENT- suture line well healed, no cervical, supraclavicular
+adenopathy
+Resp- Clear bilat
+Cor- RRR
+Abd- obese, soft, NT, ND
+Ext- trace edema.
+
+Pertinent Results:
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2166-3-15**] 11:10AM    10.0 4.27* 11.7* 38.1* 89 27.5 30.8* 14.1
+281
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2166-3-15**] 11:10AM        281
+BASIC COAGULATION (FIBRINOGEN, DD, TT, REPTILASE, BT) Fibrino
+[**2166-3-9**] 02:59AM    784*
+Source: Line-arterial
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2166-3-15**] 11:10AM    107* 25* 1.1 143 4.7 101 36* 11
+  ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+[**2166-3-8**] 02:46AM          34*
+  CPK ISOENZYMES CK-MB cTropnT
+[**2166-3-8**] 02:46AM    NotDone1 0.06*2
+1 NotDone
+CK-MB NOT PERFORMED, TOTAL CK < 100
+
+2 CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+
+[**2166-3-15**] 11:10AM          8.8 3.0 1.8
+  RADIOLOGY  Final Report
+CHEST (PORTABLE AP)  [**2166-3-15**] 11:37 AM
+Reason: SOB
+[**Hospital 93**] MEDICAL CONDITION:
+62 year old man s/p tracheal resection and reconstruction
+REASON FOR THIS EXAMINATION:
+SOB
+HISTORY: Shortness of breath.
+Single portable chest radiograph demonstrates no change in the
+previously demonstrated prominent superior mediastinum when
+compared to multiple examinations including the one dated
+[**2166-3-10**]. No pneumothorax detected. There has been interval
+improvement in the previously seen pulmonary edema. Small
+right-sided pleural effusion likely persists. Trachea remains in
+the midline. The cardiac silhouette is unchanged.
+IMPRESSION:
+Persistent, small, right-sided pleural effusion. Prominent
+superior mediastinum, unchanged.
+Pathology Examination
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 66218**],[**Known firstname **]       [**2103-10-10**]    62 Male      [**Numeric Identifier 66219**] [**Numeric Identifier 66220**]
+
+Report to:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]
+Gross Description by:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 44437**]/mtd
+SPECIMEN SUBMITTED: TRACHEAL STENOSIS (1).
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2166-3-7**] [**2166-3-7**] [**2166-3-13**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/nbh
+DIAGNOSIS:
+Trachea:
+Fragment of trachea with acute and chronic inflammation and
+squamous metaplasia.  There is inflammation and scarring
+transmurally.  This is consistent with an old tracheostomy site.
+Clinical: Tracheal stenosis.
+Gross: The specimen is received fresh in one part labeled
+"[**Known lastname 22771**], [**Known firstname 5335**]" with the [**Hospital 228**] medical record number and
+"tracheal stenosis" and consists of a 3.5 x 2.9 x 1.6 cm
+aggregate of multiple tan-white focally hemorrhagic soft tissue
+fragments, some of which have a C-shaped configuration. The
+specimen is represented in A.
+
+OPERATIVE REPORT
+
+[**Last Name (LF) **],[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+Signed Electronically by [**Last Name (LF) **],[**First Name3 (LF) **] on TUE [**2166-3-11**] 7:45 AM
+
+Name:  [**Known lastname **], [**Known firstname **]             Unit No:  [**Numeric Identifier 66220**]
+
+Service:  [**Last Name (un) 7081**]                     Date:  [**2166-3-7**]
+
+Date of Birth:  [**2103-10-10**]        Sex:  M
+
+Surgeon:  [**First Name11 (Name Pattern1) 951**] [**Last Name (NamePattern4) **], MD 2367
+
+PREOPERATIVE DIAGNOSIS:  Post tracheostomy subglottic
+stenosis.
+
+POSTOPERATIVE DIAGNOSIS:  Post tracheostomy subglottic
+stenosis.
+
+PROCEDURE PERFORMED:
+1.  Rigid bronchoscopy.
+2.  Cervical tracheal resection and reconstruction.
+3.  Adjacent tissue flap.
+
+ASSISTANT SURGEON:  Dr. [**First Name (STitle) 15738**] [**Name (STitle) 15737**], RES.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+ANESTHESIA:  General endotracheal.
+
+INDICATION FOR OPERATION:  The patient is a delightful 61-
+year-old gentleman with multiple medical problems including
+severe sleep apnea who developed a severe pneumonia in
+[**2164-10-5**] requiring intubation. After 10 days, he
+underwent tracheostomy tube placement which remained for 5
+months during a prolonged recovery phase. Subsequent to
+decannulation, he developed progressive dyspnea and was
+diagnosed with subglottic stenosis. He is, therefore, being
+taken forward for surgical resection.
+
+DESCRIPTION OF PROCEDURE:  The patient was taken to the
+operating room, positioned supine and placed under
+anesthesia. We carefully placed the rigid bronchoscope and
+with some difficulty, we were able to find the glottis and
+intubate the larynx. It took some time due to the excessive
+soft tissue folds in this pharynx. With the rigid scope
+sitting just above the stricture, I carefully examined the
+lesion in the distal airways. Using the flexible
+bronchoscope, we traversed the lesion, examined the lower
+airways and found there to be diffuse tracheobronchomalacia
+extending down the bilateral mainstem bronchi as well as the
+trachea. We took airway measurements and the lesion measured
+2 cm in length and commenced 2.5 cm from below the vocal
+cords and the distance from the inferior aspect of the
+stenosis to the carinal spur was 8.5 cm. The stenosis was a
+classic A-shaped stenosis with buckling of the 1st and 2nd
+cartilaginous rings of the trachea and scarring of the
+anterior aspect of the trachea creating an A-shape. The lumen
+was approximately 4-5 mm. There was malacia of the posterior
+wall. The anesthesia service then placed a bougie catheter
+through the rigid bronchoscope and we used this to guide a #8
+endotracheal tube into position. We then positioned the
+patient supine with the table carefully positioned in the
+manner of a reclining chair. We placed a roll behind the
+patient's shoulders and extended his neck, but at no time was
+his neck left in the floating position. We tucked his arms at
+his sides and prepped and draped his neck and chest in the
+usual sterile fashion.
+
+We commenced the operation by making a collar incision,
+dissecting down through the scarred areas of the platysma and
+elevating a subplatysmal flap superiorly up to the superior
+aspect of the thyroid cartilage and inferiorly down to the
+sternal insertions of the sternocleidomastoids. We then
+placed Weitlaner retractors bilaterally and continued with
+our dissection. We separated the strap muscles from the
+midline and dissected down to the trachea below the area of
+stricture and scarring. In order to facilitate exposure, we
+performed a lipectomy of the pretracheal fat that left a
+large portion of soft tissue surrounding the innomin

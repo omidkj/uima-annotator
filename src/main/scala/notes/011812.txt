@@ -1,0 +1,202 @@
+Admission Date:  [**2175-6-14**]              Discharge Date:   [**2175-6-21**]
+
+
+Service: MEDICINE
+
+Allergies:
+Erythromycin Base
+
+Attending:[**Name (NI) 9308**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+TEE cardioversion
+
+
+History of Present Illness:
+Mr. [**Known lastname 86608**] is a [**Age over 90 **] yoM with history of CAD, end stage CHF (LVEF
+20%), atrial fibrillation, moderate atrial stenosis, CKD
+(baseline Cr 1.4), who developed acute shortness of breath at
+[**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **] yesterday evening.  He was recently admitted from
+[**Date range (1) 31153**]/10 for similar symptoms due to CHF exacerbation, and
+had an admission earlier in [**Month (only) 116**] to the [**Hospital1 882**] for similar
+symptoms complicated by hypotension requiring pressors.
+.
+When he developed his SOB last night, he was given a nebulizer
+treatment which did not help and EMS was called.  The patient
+thinks he was in bed when it happened but is not certain;  he
+said he had been feeling well throughout the day.  O2 sat was
+85% on RA per EMS, though there is no paperwork from EMS in
+chart.  On arrival to the ED, he was found to have rales
+throughout with CXR showing diffuse pulm edema with small b/l
+effusions.  He was given lasix 80 mg IV and was started on BIPAP
+10/5/100% O2, which improved his O2 sats to 90's with RR in the
+20's.  ABG on current settings showed on the BIPAP showed
+7.45/35/506.  He was also started on nitro drip for HTN/CHF (not
+for chest pain, which patient denies).  Received 325 mg ASA.
+Trop 0.03.  In the ED prior to transfer, VS were 97.9, 1222
+AFib, 107/75, RR 28, 100% O2 sat on BIPAP PS 10/5 PEEP with 100%
+O2.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS:
+ - Dyslipidemia
+ - History of Hypertension
+2. CARDIAC HISTORY:
+ - systolic heart failure (LVEF 20%)
+ - Coronary artery disease
+ - Atrial fibrillation on coumadin
+ - moderate aortic stenosis ([**Location (un) 109**] 1.1 on echo [**2175-6-3**])
+ - moderate to severe mitral regurgitation  (3+ on echo [**2175-6-3**])
+3. OTHER PAST MEDICAL HISTORY:
+ - Peripheral Vascular disease
+ - Chronic renal insufficiency (present creatinine 1.8)
+ - H/o recent gastrointestinal bleed
+ - Peptic ulcer disease
+ - Benign prostatic hypertrophy
+ - Glaucoma
+ - Restless legs syndrome
+ - Vitamin D deficiency
+ - Osteoporosis
+ - Dupuytren contracture
+ - Cholecystectomy
+
+
+Social History:
+-Lives independently at house [**Location (un) 6409**] w/ VNA
+-Regular visits from only son [**Name (NI) 382**] and grandson
+-Widowed for past 17 years
+-Tobacco history:  lifelong non-smoker
+-ETOH:  No-ETOH
+-Illicit drugs: None
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+VS in the ED: 97.9, 1222 AFib, 107/75, RR 28, 100% O2 sat on
+BIPAP PS 10/5 PEEP with 100% O2
+VS on arrival to the ICU: HR 110, RR 31, 93-96% on 2L, BP 95/68,
+afebrile, weight
+GENERAL: cachectic, elderly man, comfortable in bed, conversant
+peaking in shorter sentences
+HEENT: poor dentition, conjunctiva normal/non-icteric, no LA
+LUNGS: labored, moderate accessory muscle use, crackles
+throughout in all fields including anteriorly, no wheezes
+CARDIO: soft irregular heart sounds, no murmurs appreciated this
+morning (though prior papers indicate II/VI systolic murmur
+RUSB)
+ABD: soft, NTND, no HSM apreciated
+EXT: [**1-7**]+ [**Location (un) **], left > right, calves not TTP, distal pulses 1+
+SKIN: no rashes; sacral decub per nursing
+NEURO: AA, Ox3, pleasant, conversant though SOB, appropriate
+speech, CN II- XII grossly in tact; gait deferred
+
+
+Pertinent Results:
+Admission labs:
+[**2175-6-14**] 04:55AM BLOOD WBC-11.1* RBC-5.01 Hgb-14.9 Hct-46.8
+MCV-93 MCH-29.7 MCHC-31.8 RDW-14.9 Plt Ct-387
+[**2175-6-14**] 04:55AM BLOOD PT-26.3* PTT-28.6 INR(PT)-2.5*
+[**2175-6-14**] 04:55AM BLOOD Glucose-218* UreaN-28* Creat-1.8* Na-136
+K-5.9* Cl-97 HCO3-21* AnGap-24*
+[**2175-6-14**] 01:00PM BLOOD ALT-71* AST-95* LD(LDH)-231 CK(CPK)-24*
+AlkPhos-111 TotBili-0.5
+[**2175-6-14**] 01:00PM BLOOD Albumin-3.1* Calcium-8.1* Phos-5.1*
+Mg-2.0
+.
+Discharge labs:
+[**2175-6-19**] 04:10AM BLOOD WBC-8.4 RBC-4.02* Hgb-11.9* Hct-37.9*
+MCV-94 MCH-29.7 MCHC-31.5 RDW-15.6* Plt Ct-275
+[**2175-6-19**] 04:10AM BLOOD PT-34.8* PTT-33.0 INR(PT)-3.6*
+[**2175-6-19**] 04:10AM BLOOD Glucose-106* UreaN-25* Creat-1.3* Na-142
+K-4.3 Cl-107 HCO3-27 AnGap-12
+[**2175-6-19**] 04:10AM BLOOD Calcium-8.2* Phos-2.6* Mg-2.3
+.
+[**2175-6-16**] 5:08 pm STOOL     CONSISTENCY: NOT APPLICABLE
+
+                            **FINAL REPORT [**2175-6-17**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2175-6-17**]):
+      REPORTED BY PHONE TO [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], R.N. ON [**2175-6-17**] AT 0530.
+
+      CLOSTRIDIUM DIFFICILE.
+         FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+           (Reference Range-Negative).
+         A positive result in a recently treated patient is of
+uncertain
+         significance unless the patient is currently
+symptomatic
+         (relapse).
+
+.
+[**2175-6-16**] CXR: IMPRESSION:
+1. Interval decrease, but residual mild pulmonary edema.
+2. Unchanged moderate bilateral pleural effusions.
+3. No evidence of pneumonia.
+.
+[**2175-6-16**] Echo:
+The left atrium is moderately dilated. Left ventricular wall
+thicknesses and cavity size are normal. There is severe global
+left ventricular hypokinesis (LVEF = 25%). [Intrinsic function
+may be more depressed given the severity of mitral
+regurgitation.] The left ventricular apex is heavily
+trabeculated, but no masses or thrombi are seen. Tissue Doppler
+imaging suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). with mild global free wall hypokinesis. The
+aortic valve leaflets (3) are mildly thickened. There is mild
+aortic valve stenosis (valve area 1.2-1.8cm2). Trace aortic
+regurgitation is seen. The mitral valve leaflets and supporting
+structures are mildly thickened. Moderate (2+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is mild pulmonary artery systolic hypertension.
+There is a trivial pericardial effusion.
+
+IMPRESSION: Normal left ventricular cavity size with severe
+global hypokinesis c/w diffuse process (multivessel CAD, toxin,
+metabolic, etc.). Increased PCWP. Mild aortic stenosis. Moderate
+mitral regurgitation. Mild pulmonary artery systolic
+hypertension.
+Compared with the prior study (images reviewed) of [**2175-6-3**], the
+severity of mitral regurgitation and the estimated PA systolic
+pressure are now reduced. Right ventricular free wall motion is
+improved. The other findings are similar.
+.
+[**2175-6-15**] TEE:
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. The left atrial appendage emptying velocity is
+depressed (<0.2m/s). No atrial septal defect is seen by 2D or
+color Doppler. Overall left ventricular systolic function is
+severely depressed (LVEF= 20 %). Right ventricular chamber size
+is normal. with mild global free wall hypokinesis. There are
+simple atheroma in the ascending aorta, aortic arch, and
+descending thoracic aorta. The aortic valve leaflets (3) are
+mildly thickened. Significant aortic stenosis is present (not
+quantified). No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. The mitral valve leaflets do not
+fully coapt. Moderate to severe (3+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened. There
+is moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+IMPRESSION: No left atrial/appendage thrombus seen.
+Moderate-severe mitral regurgitation. Aortic stenosis present
+(not quantified). Severely depressed left ventricular function.
+
+.
+[**2175-6-14**] CXR:
+Moderate interstitial pulmonary edema with small bilateral
+pleural effusions, slightly worsened since [**2175-6-3**].
+
+.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 86608**] is a [**Age over 90 **] yoM with systolic CHF (EF 20%) and frequent
+admission this spring for CHF exacerbations.  He is admitt

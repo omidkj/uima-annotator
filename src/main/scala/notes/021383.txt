@@ -1,0 +1,191 @@
+Admission Date:  [**2141-2-6**]              Discharge Date:   [**2141-2-10**]
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 317**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with aortic valvuloplasty.
+
+
+History of Present Illness:
+Primary Cardiologist: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD
+[**First Name (Titles) **] [**Last Name (Titles) **] in [**Name9 (PRE) 86**]: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2539**], M.D.
+
+This is a [**Age over 90 **] y.o. female with known AS presents with dypsnea for
+elective aortic valvuloplasty '[**36**], '[**38**].  After the valvuloplasty
+in [**2138**] she was somewhat improved.  She was in her USOH (able to
+walk about 100 feet before developing dyspnea, with 24 private
+nurse) until late [**2140-10-10**] when she developed mild dyspnea
+and was treated at a hospital in [**State 108**] for bronchitis.  She
+improved somewhat but then had recurrent dyspnea and was
+hospitalized in late [**11-12**] until [**2140-12-10**], and treated again for
+bronchitis, discharged with home oxygen (at night) and a
+prednisone taper (last dose 1 week ago).  She states that over
+the past several weeks she has been limited to walking ~10 feet
+before becoming short of breath.  She discussed this with Dr.
+[**First Name8 (NamePattern2) **] [**Name (STitle) **] who advised her to return from [**State 108**] for a
+repeat valvuloplasty by Dr. [**Last Name (STitle) **] on [**2-7**].
+
+ROS:
+POSITIVE: diffuse weakness, occasional left jaw pain and
+left-sided chest pain at rest alleviated with belching,
+paresthesias in the distal finger tips, occasional palpitations,
+occasional diarrhea with lower ABD cramping
+NEGATIVE: Fevers, Nausea, Vomiting, dysuria
+
+Past Medical History:
+1. Critical aortic stenosis, mean gradient 51 and peak of 76.
+Valve area of 0.6 by Echo in [**5-13**].
+2. Congestive heart failure with EF of 40%, 2+MR/AR by Echo
+[**5-13**].
+3. Coronary artery disease status post left anterior
+descending artery stent on [**2137-7-10**].  RCA with 60% lesion
+and 30% mid LAD by cath in [**2138**].
+4. ITP followed by Dr. [**Last Name (STitle) 2539**]
+5. Hypertension.
+6. Right inguinal hernia repair in [**2131**].
+7. Psoriasis.
+8. Supraventricular tachycardia.
+9. Status post cholecystectomy and total abdominal
+hysterectomy/bilateral salpingo-oophorectomy with elevated Alk
+Phos in [**2138**]
+
+
+Social History:
+Patient splits her time in [**Location (un) 55**] and
+[**Last Name (LF) 60966**], [**First Name3 (LF) 108**], where she is living currently.  She has a
+remote history of tobacco use.  Drinks an occasional glass of
+champagne.  She ambulates with a cane or a walker and has a
+nurses aide ([**Female First Name (un) **]),
+housekeeper and choufer at home who assist her with
+heractivities of daily living.  She has been on home oxygen at
+night since her discharge in [**12-14**].  Of note [**First Name8 (NamePattern2) **] [**Doctor Last Name **] was
+her son's camp counselor.  Her son is the namesake for the
+[**Name (NI) 25922**] Imax Theatre in [**Location (un) 86**].
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Temp:Afebrile  BP:101/71  HR:60  RR:12  O2:92% RA
+Gen: NAD.  Lying in bed.  A/O x 3.
+HEENT: PEARLA.  Brown macules at nasal margin of sclera.  EOMI.
+OP: dry mm w/o lesions.
+CV: RR with prominent S2.  III/VI SEM at RUSB with radiation to
+carotids.  Mild delay in carotid upstroke and radial pulse.
+Mild increase in murmur intensity with valsalva.  Soft II/VI
+diastolic murmur at LLSB.  Non-displaced PMI.  No carotid bruits
+Pulm: CTA B/l.  No wheezing
+ABD: S/NT/ND   No HSM/bruits
+Ext: 1+ edema b/l.  1+ DP/PT/Radial
+Neuro: Motor [**4-13**] at all flex/ext.  Sensation: GI to LT.
+CNII-XII GI
+
+
+Pertinent Results:
+Echo [**5-13**]:
+Left Atrium - Long Axis Dimension: *5.9 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *7.1 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: *5.6 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.3 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 4.8 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 3.6 cm
+Left Ventricle - Fractional Shortening: *0.25 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: 40% (nl >=55%)
+Aorta - Valve Level: 2.7 cm (nl <= 3.6 cm)
+Aorta - Ascending: *3.8 cm (nl <= 3.4 cm)
+Aorta - Arch: 2.4 cm (nl <= 3.0 cm)
+Aortic Valve - Peak Velocity: *4.4 m/sec (nl <= 2.0 m/sec)
+Aortic Valve - Peak Gradient: 76 mm Hg
+Aortic Valve - Mean Gradient: 51 mm Hg
+Aortic Valve - LVOT Peak Vel: 0.80 m/sec
+Aortic Valve - LVOT Diam: 2.0 cm
+***Aortic Valve - Valve Area: *0.6 cm2 (nl >= 3.0 cm2) ****
+Mitral Valve - E Wave: 1.3 m/sec
+Mitral Valve - A Wave: 0.5 m/sec
+Mitral Valve - E/A Ratio: 2.60
+Mitral Valve - E Wave Deceleration Time: 135 msec
+TR Gradient (+ RA = PASP): *50 mm Hg (nl <= 25 mm Hg)
+[**12-11**]+ AR and [**12-11**]+MR
+*
+ECHO - [**2141-2-7**]
+Left Atrium - Long Axis Dimension: *5.6 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *6.4 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: *5.5 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 4.8 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 3.0 cm
+Left Ventricle - Fractional Shortening: 0.38 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: >= 60% (nl >=55%)
+Aorta - Valve Level: 2.9 cm (nl <= 3.6 cm)
+Aorta - Ascending: *3.9 cm (nl <= 3.4 cm)
+Aorta - Arch: 2.2 cm (nl <= 3.0 cm)
+Aortic Valve - Peak Velocity: *4.8 m/sec (nl <= 2.0 m/sec)
+Aortic Valve - Peak Gradient: 92 mm Hg
+Aortic Valve - Mean Gradient: 58 mm Hg
+Aortic Valve - LVOT Peak Vel: 0.80 m/sec
+Aortic Valve - LVOT Diam: 2.0 cm
+Aortic Valve - Valve Area: *0.5 cm2 (nl >= 3.0 cm2)
+Aortic Valve - Pressure Half Time: 218 ms
+Mitral Valve - Mean Gradient: 2 mm Hg
+Mitral Valve - Pressure Half Time: 151 ms
+Mitral Valve - E Wave: 1.6 m/sec
+Mitral Valve - A Wave: 0.9 m/sec
+Mitral Valve - E/A Ratio: 1.78
+Mitral Valve - E Wave Deceleration Time: 120 msec
+TR Gradient (+ RA = PASP): *62 mm Hg (nl <= 25 mm Hg)
+CONCLUSIONS: The left atrium is moderately dilated. There is
+mild symmetric left ventricular hypertrophy with normal cavity
+size and systolic function (LVEF>55%). Regional left ventricular
+wall motion is normal. The ascending aorta is mildly dilated.
+The aortic valve leaflets are severely thickened/deformed. There
+is severe aortic valve stenosis. Mild to moderate ([**12-11**]+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Moderate (2+) mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] There is severe pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+*
+Cardiac cath - [**2141-2-7**]:  report not available
+*
+CT Abdomen/Pelvis - [**2141-2-8**]
+Indication:  r/o retroperitoneal bleed
+1)Bibasilar atelectasis or consolidation, with small right-sided
+pleural effusion. 2)Extensive vascular calcifications. 3)Status
+post CCY. 4)Extensive involvement of the whole pelvis with Paget
+disease. 5)Mild scoliosis. 6)Diverticulosis. 7)No evidence of
+retroperitoneal hematoma.
+*
+ECHO - [**2141-2-9**]
+Left Atrium - Long Axis Dimension: *5.4 cm (nl <= 4.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 4.6 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 2.8 cm
+Left Ventricle - Fractional Shortening: 0.39 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: 60% to 70% (nl >=55%)
+Aorta - Valve Level: 3.1 cm (nl <= 3.6 cm)
+Aorta - Ascending: *3.8 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: *4.8 m/sec (nl <= 2.0 m/sec)
+Aortic Valve - Peak Gradient: 94 mm Hg
+Aortic Valve - Mean Gradient: 51 mm Hg
+Aortic Valve - Valve Area: *0.6 cm2 (nl >= 3.0 cm2)
+Aortic Valve - Pressure Half Time: 460 ms
+TR Gradient (+ RA = PASP): *42 mm Hg (nl <= 25 mm Hg)
+INTERPRETATION:
+LEFT ATRIUM: Moderate LA enlargement.

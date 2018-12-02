@@ -1,0 +1,198 @@
+Admission Date:  [**2193-8-25**]              Discharge Date:   [**2193-8-31**]
+
+Date of Birth:  [**2117-2-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Procainamide / Niacin
+
+Attending:[**First Name3 (LF) 99**]
+Chief Complaint:
+fatigue
+
+Major Surgical or Invasive Procedure:
+PRBC
+FFP
+EGD
+
+History of Present Illness:
+76 yo man with CML on gleevec, CHF EF 25%, CAD, ?CKD (baseline
+1.1-1.7) p/w fatigue, lightheadedness. Patient went to the Va on
+tuesday to receive what sounds to be neupogen (per wife, for
+'low white blood count'). He then became progreesively more
+tired, lightheaded and short of breath with light activity. He
+also reports feeling more cold. Given his increasing fatigue, he
+presented today to the ED. He had 1 glass of wine today, but
+otherwise denies NSAIDS, steroids, alcohol, recent antibiotics.
+
+.
+In ED, VS HR 82, BP 106/36 (baseline) , RR 13, O2 Sat 96% RA.
+Hct down drom baseline around 30 to 15.6, INR 6.0, rest of CBC,
+Chem 7 unremarkable. TroT negative. cross match sent, ~600cc NS
+given, 2 PIV placed, Tx to MICU for further management.
+.
+ROS: (+) melena, fatigue
+(-) N/V/SOB/CP/abd apin/diarrhea
+
+
+Past Medical History:
+chronic myelogenous leukemia on Gleevec
+s/p ICD implantation [**10-28**] as cannot take quinidine with Gleevec
+
+CKD - baseline Cr 1.7
+MI late [**2155**]'s - was asymptomatic
+bilateral hearing aides
+Lumbar disc disease
+Depression
+[**2177**] CVA d/t LV thrombus - no residual deficits
+[**2183**] Cath - RCA 90% proximal, totally occ distally, akinetic
+inferoposterior segment, EF 25-30%
+[**10-28**] ECHO - LVEF 25%, severe global LV hypokinesis, 2+ MR, 2+
+TR, mild pulmonary hypertension
+
+Social History:
+Married x48 years.  Lives with his wife.  Quit smoking 25 yrs
+ago, smoked 1 ppd x 20-25 years.  ETOH 1 glass wine/day.  No
+IVDU.  Worked in construction, worked only part-time after CVA
+in [**2178**], now retired.  Was in the military, worked with
+automatic weapons.
+
+
+Family History:
+(-) FHx CAD
+no leukemia/lymphoma
+
+Physical Exam:
+Vitals - T 97.5, BP 99/60, HR 69, RR 16, O2 100%RA;
+General - awake, alert, in NAD
+HEENT - PERRL, EOMI, MMM, OP clear, pale conjunctiva
+Neck - no JVD
+CV - RRR, no r/m/g
+Lungs - on ant exam CTA b/l
+Abd - S/NT/ND/+BS
+Ext - no e/c/c
+Neuro- AOx3, grossly intact
+
+
+Pertinent Results:
+[**2193-8-25**] 10:15PM   GLUCOSE-95 UREA N-35* CREAT-1.2 SODIUM-139
+POTASSIUM-3.9 CHLORIDE-104 TOTAL CO2-28 ANION GAP-11
+[**2193-8-25**] 10:15PM   estGFR-Using this
+[**2193-8-25**] 10:15PM   CK(CPK)-53
+[**2193-8-25**] 10:15PM   cTropnT-<0.01
+[**2193-8-25**] 10:15PM   CK-MB-NotDone
+[**2193-8-25**] 10:15PM   CALCIUM-8.8 PHOSPHATE-3.2 MAGNESIUM-1.8
+[**2193-8-25**] 10:15PM   WBC-5.9 RBC-1.37*# HGB-5.1*# HCT-15.6*#
+MCV-113* MCH-37.5* MCHC-33.1 RDW-18.9*
+[**2193-8-25**] 10:15PM   NEUTS-74.5* LYMPHS-19.4 MONOS-4.8 EOS-1.2
+BASOS-0.2
+[**2193-8-25**] 10:15PM   PLT COUNT-317#
+[**2193-8-25**] 10:15PM   PT-50.6* PTT-34.6 INR(PT)-6.0*
+
+Brief Hospital Course:
+76 M with CML on gleevec, CHF EF 25%, CAD, chronic renal disease
+(baseline Cr 1.1-1.7), presents with fatigue, lightheadedness,
+and Hct 15 from slow GI bleeding.
+.
+# GI Bleeding:
+EGD performed on [**8-29**] showed old blood in stomach with fresh
+blood in duodenum but no source of bleeding. Serial Hcts were
+checked, showing a slow GIB. Hct was maintained at >28 for
+cardiac ischemia. He was guaiac positive in the ED with stable
+VS throughout. His baseline hematocrit was 30, attributed to CML
+and gleevec therapy. In the MICU, he received 5U PRBC. Iron
+studies were consistent with anemia of chronic disease, with
+normal B12 and folate. INR was unremarkable at 1.3, likely from
+nutrition. Patient was placed on PPI [**Hospital1 **]. Plan is for patient to
+follow up for Hcts intermittently, to monitor whether periodic
+pRBC transfusions will be required. For cardiac ischemia, goal
+Hct would be >28.
+.
+# Elevated INR:
+INR on admission was 4.9, was brought down to <1.5 for EGD.
+Patient is on coumadin, likely for severe left global
+hypokinesis (apex was not commented) and history of CVA.
+Coumadin was held during admission. Plan is to follow up with
+PCP as outpatient regarding whether Coumadin should be
+restarted.
+.
+# CML:
+Follows with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3060**], and has been seen by Dr. [**Last Name (STitle) **] in
+the past. Gleevec was continued throughout admission. In
+response to Gleevec, patient had vomiting when he was not able
+to eat meals, but he tolerated Gleevec well with no vomiting
+when he was able to take his med with meals.
+.
+# CAD:
+Patient was maintained on metoprolol, but not on ASA inhouse
+because of possible interaction with Gleevec. Statin was
+continued. Issue of restarting ASA should be addressed with his
+PCP.
+.
+# CHF:
+He has an EF 25% in [**2190**] with ICD in place. Repeat ECHO showed
+unchanged LV function but worsening mitral regurgitation. He was
+euvolemic on exam throughout admission.
+.
+# Depression:
+Effexor was continued during admission.
+
+Medications on Admission:
+1. Venlafaxine 75 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO DAILY (Daily).
+2. Fluvastatin 80 mg Tablet Sustained Release 24 hr Sig: One (1)
+
+Tablet Sustained Release 24 hr PO once a day.
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+4. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day).
+6. Imatinib 400 mg Tablet Sig: One (1) Tablet PO daily ().
+7. Coumadin 2 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+8. Toprol XL 50 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+9. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+10. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO QID (4 times a day).
+Disp:*120 Tablet, Chewable(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis: GI bleeding
+Secondary diagnosis: CML on Gleevec, CHF with ICD
+
+
+Discharge Condition:
+VSS, feels well, no dizziness, walks well.
+
+
+Discharge Instructions:
+1. Please take all medications as prescribed.
+2. Please return to the emergency room if you experience
+increased gastrointestinal bleeding such as black or bright red
+blood in stool, dizziness, lightheadedness, or fatigue.
+3. Please call your primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 5762**], if you
+have questions regarding your medical care.
+
+Followup Instructions:
+1. Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 59**]
+Date/Time:[**2193-11-25**] 8:00
+.
+2. Please have your hematocrit checked on [**Last Name (LF) 766**], [**9-2**],
+and have the results faxed to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3060**]. Or have your
+hematocrit checked on Tues, [**9-3**] at your appointment with Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3060**].
+
+
+
+Completed by:[**2193-8-31**]

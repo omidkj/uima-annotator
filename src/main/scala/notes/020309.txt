@@ -1,0 +1,188 @@
+Admission Date:  [**2125-11-8**]              Discharge Date:   [**2125-11-21**]
+
+Date of Birth:  [**2101-5-4**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1481**]
+Chief Complaint:
+24M s/p GSW to left-ant neck
+
+Major Surgical or Invasive Procedure:
+L neck exploration, trap door(limited sternotomy), LIJ/L
+subclavian vein ligation.
+
+History of Present Illness:
+24M s/p GSW to left-ant neck, zone I, w/ vascular injury to
+confluence of LIJ/L subclavian veins, including injury to
+thoracic duct. L 1st & 2nd rib fx's. No other injuries
+identified. Massive EBL/transfusions, likely TRALI. No tracheal
+injury seen on IO bronch, no esoph injury.
+
+Past Medical History:
+unknown
+
+Social History:
+unknown
+
+Family History:
+n/c
+
+Physical Exam:
+Physical exam:
+Vitals- T 96.6, HR 112, BP 97/65, RR 27, O2sat 100%
+Vent- AC 80% 420/26 PEEP 20
+Gen- edematous
+Head and neck- incision to L neck and upper chest, JP in neck
+with serosanguinous output
+Heart- sinus tach, no murmurs
+Lungs- bilateral coarse breath sounds, decreased at L apex, L CT
+with serosanguinous output
+Abd- soft, distended, ? NT
+Ext- warm, well-perfused, no edema
+
+Pertinent Results:
+[**2125-11-8**] 02:39PM   TYPE-ART TEMP-36.9 RATES-26/ TIDAL VOL-420
+PEEP-14 O2-60 PO2-157* PCO2-44 PH-7.37 TOTAL CO2-26 BASE XS-0
+INTUBATED-INTUBATED VENT-CONTROLLED
+[**2125-11-8**] 02:39PM   GLUCOSE-83 LACTATE-1.3
+[**2125-11-8**] 02:39PM   freeCa-1.19
+[**2125-11-8**] 02:21PM   VoidSpec-[**First Name9 (NamePattern2) 21799**] [**Male First Name (un) **]
+[**2125-11-8**] 01:56PM   GLUCOSE-98 UREA N-12 CREAT-1.1 SODIUM-143
+POTASSIUM-4.8 CHLORIDE-110* TOTAL CO2-26 ANION GAP-12
+[**2125-11-8**] 01:56PM   CALCIUM-8.7 PHOSPHATE-5.5* MAGNESIUM-2.0
+[**2125-11-8**] 01:56PM   HCT-35.0*
+[**2125-11-8**] 01:56PM   PLT COUNT-171
+[**2125-11-8**] 01:56PM   PT-13.1 PTT-30.4 INR(PT)-1.1
+[**2125-11-8**] 12:11PM   TYPE-ART TEMP-36.9 RATES-26/ PEEP-14 O2-70
+PO2-136* PCO2-48* PH-7.34* TOTAL CO2-27 BASE XS-0
+INTUBATED-INTUBATED VENT-CONTROLLED
+[**2125-11-8**] 12:11PM   freeCa-1.26
+[**2125-11-8**] 10:15AM   TYPE-ART TEMP-35.9 RATES-/26 TIDAL VOL-420
+PEEP-18 O2-80 PO2-178* PCO2-52* PH-7.31* TOTAL CO2-27 BASE XS-0
+AADO2-368 REQ O2-63 -ASSIST/CON INTUBATED-INTUBATED
+[**2125-11-8**] 08:22AM   GLUCOSE-84 UREA N-12 CREAT-1.3* SODIUM-144
+POTASSIUM-4.2 CHLORIDE-110* TOTAL CO2-28 ANION GAP-10
+[**2125-11-8**] 08:22AM   CALCIUM-8.7 PHOSPHATE-6.5* MAGNESIUM-1.8
+[**2125-11-8**] 08:22AM   WBC-9.5 RBC-4.07* HGB-12.1* HCT-34.7* MCV-85
+MCH-29.7 MCHC-34.9 RDW-14.5
+[**2125-11-8**] 08:22AM   NEUTS-68 BANDS-8* LYMPHS-9* MONOS-15* EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2125-11-8**] 08:22AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**2125-11-8**] 08:22AM   PLT SMR-NORMAL PLT COUNT-194
+[**2125-11-8**] 08:22AM   PT-13.9* PTT-30.9 INR(PT)-1.2*
+[**2125-11-8**] 07:43AM   TYPE-ART TEMP-36.8 RATES-/27 PEEP-20 O2-100
+PO2-112* PCO2-63* PH-7.26* TOTAL CO2-30 BASE XS-0 AADO2-572 REQ
+O2-90 -ASSIST/CON INTUBATED-INTUBATED
+[**2125-11-8**] 07:43AM   GLUCOSE-94
+[**2125-11-8**] 05:18AM   TYPE-ART PO2-88 PCO2-57* PH-7.18* TOTAL
+CO2-22 BASE XS--7
+[**2125-11-8**] 04:44AM   TYPE-ART PO2-48* PCO2-70* PH-7.20* TOTAL
+CO2-29 BASE XS--2
+[**2125-11-8**] 04:44AM   LACTATE-1.6
+[**2125-11-8**] 04:44AM   freeCa-1.27
+[**2125-11-8**] 04:34AM   GLUCOSE-183* UREA N-11 CREAT-1.2 SODIUM-145
+POTASSIUM-4.3 CHLORIDE-111* TOTAL CO2-28 ANION GAP-10
+[**2125-11-8**] 04:34AM   CALCIUM-8.9 PHOSPHATE-5.7* MAGNESIUM-1.8
+[**2125-11-8**] 04:34AM   WBC-11.7* RBC-3.77* HGB-11.6* HCT-32.7*
+MCV-87 MCH-30.7 MCHC-35.3* RDW-14.2
+[**2125-11-8**] 04:34AM   PLT COUNT-200
+[**2125-11-8**] 04:34AM   PT-15.4* PTT-36.8* INR(PT)-1.4*
+[**2125-11-8**] 04:34AM   FIBRINOGE-406*#
+[**2125-11-8**] 03:02AM   TYPE-ART PO2-54* PCO2-59* PH-7.20* TOTAL
+CO2-24 BASE XS--5
+[**2125-11-8**] 03:02AM   GLUCOSE-255* LACTATE-3.8* NA+-141 K+-4.3
+CL--107
+[**2125-11-8**] 03:02AM   HGB-9.9* calcHCT-30
+[**2125-11-8**] 03:02AM   freeCa-1.02*
+[**2125-11-8**] 03:02AM   WBC-9.9 RBC-3.04* HGB-9.4* HCT-26.4* MCV-87
+MCH-30.9 MCHC-35.7* RDW-14.3
+[**2125-11-8**] 03:02AM   PLT COUNT-194
+[**2125-11-8**] 02:06AM   TYPE-ART PO2-41* PCO2-62* PH-7.18* TOTAL
+CO2-24 BASE XS--7 INTUBATED-INTUBATED
+[**2125-11-8**] 02:06AM   GLUCOSE-250* LACTATE-4.2* NA+-137 K+-5.4*
+CL--107
+[**2125-11-8**] 02:06AM   HGB-8.4* calcHCT-25
+[**2125-11-8**] 02:06AM   freeCa-0.94*
+[**2125-11-8**] 01:46AM   TYPE-ART PO2-66* PCO2-57* PH-7.19* TOTAL
+CO2-23 BASE XS--6 INTUBATED-INTUBATED
+[**2125-11-8**] 01:46AM   GLUCOSE-244* LACTATE-4.1* NA+-140 K+-4.9
+CL--109
+[**2125-11-8**] 01:46AM   HGB-8.7* calcHCT-26
+[**2125-11-8**] 01:46AM   freeCa-1.52*
+[**2125-11-8**] 01:20AM   WBC-18.2*# RBC-2.84* HGB-8.5* HCT-25.7*
+MCV-90 MCH-29.8 MCHC-33.0 RDW-14.1
+[**2125-11-8**] 01:20AM   PLT COUNT-258
+[**2125-11-8**] 01:20AM   PT-18.3* PTT-67.0* INR(PT)-1.7*
+[**2125-11-8**] 01:20AM   FIBRINOGE-128*
+[**2125-11-8**] 01:05AM   TYPE-ART PO2-79* PCO2-71* PH-7.04* TOTAL
+CO2-21 BASE XS--13 INTUBATED-INTUBATED
+[**2125-11-8**] 01:05AM   GLUCOSE-283* LACTATE-6.3* NA+-141 K+-4.1
+CL--110
+[**2125-11-8**] 01:05AM   HGB-10.1* calcHCT-30
+[**2125-11-8**] 01:05AM   freeCa-1.01*
+[**2125-11-8**] 12:21AM URINE  HOURS-RANDOM
+[**2125-11-8**] 12:21AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2125-11-8**] 12:21AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.016
+[**2125-11-8**] 12:21AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-500
+GLUCOSE-250 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2125-11-8**] 12:21AM URINE  RBC-[**4-18**]* WBC-[**4-18**] BACTERIA-MOD YEAST-NONE
+EPI-0-2
+[**2125-11-8**] 12:21AM URINE  MUCOUS-FEW
+[**2125-11-8**] 12:14AM   UREA N-14 CREAT-1.8*
+[**2125-11-8**] 12:14AM   estGFR-Using this
+[**2125-11-8**] 12:14AM   LIPASE-42
+[**2125-11-8**] 12:14AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2125-11-8**] 12:14AM   GLUCOSE-340* LACTATE-14.2* NA+-144 K+-3.9
+CL--108 TCO2-12*
+[**2125-11-8**] 12:14AM   HGB-11.6* calcHCT-35
+[**2125-11-8**] 12:14AM   WBC-11.6* RBC-3.49* HGB-10.3* HCT-33.2*
+MCV-95 MCH-29.4 MCHC-30.9* RDW-13.3
+[**2125-11-8**] 12:14AM   PLT COUNT-305
+[**2125-11-8**] 12:14AM   PT-17.9* PTT-61.3* INR(PT)-1.6*
+[**2125-11-8**] 12:14AM   FIBRINOGE-177
+
+Brief Hospital Course:
+24M was admitted on [**2125-11-8**] with GSW to Left neck was intubated
+at the scene. Thoracic and vascular surgery was consulted.  Pt
+was immediately taken to OR for left neck exploration, trap
+door(limited sternotomy), LIJ/L subclavian vein ligation. Please
+see Op note for details. Pt experienced hypoxia in OR and on
+arrival to Surgical ICU. Pt was able to oxygenate with 100% FIO2
+and Peep of 25. CXR with apparent RUL collapse and LUL
+contusion.  Esophageal baloon was used to titrate PEEP to
+transpulmonary pressures.Pt was taken to surgical ICU for
+recovery.  Chest tube was inserted and output was followed
+daily.  Nutrition was given via OG tube. Chest tube was to
+suction.
+POD1 2U PRBC for falling hct. HCt 31->26
+POD2 TPN was given. Began vent wean
+POD3 PEEP was weaned as tolerate.
+On POD4 patient developed fever and fever work up was started
+and antibiotics were given.
+POD5 thick secretions were producted from ETT and CT sinuses was
+ordered (which showed fluid in sinuses).  continued vent wean.
+POD6 BAL was performed to determine whether patient had
+pneumonia.  Pt was on Meropenum.
+POD7.  Collar was taken off. Continued vent wean trial. Diuresis
+was started in preparation for extubation. Patient failed
+spontaneous breathing trial.  TPN was discontinued. tube feeds
+were continued. Diuresis was continued and venting was
+intubated.
+POD8 Tube feeds was stopped and TPN continued for high residual.
+ CT of chest showed resolving pneumothorax, no effusion.
+POD9 pt failed extubation attempt. Continued to diurese. Patient
+did not have BM after surgery.  Mag citrate given.
+POD10 Patient extubated. Pt started on Heparin gtt for PE that
+was seen on PE protocol CT. Ultrasound was negative for DVT.
+POD12 Patient was stable to be transferred to floor
+POD13.  Patient is being transferred to prison facility
+afebrile, on 

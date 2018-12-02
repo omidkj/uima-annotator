@@ -1,0 +1,179 @@
+Admission Date:  [**2164-6-27**]              Discharge Date:   [**2164-6-30**]
+
+Date of Birth:  [**2095-6-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+69yo Man with hx of DM2, HTN, dyslipidemia and CAD s/p ant/lat
+MI in '[**60**] transferred from [**First Name5 (NamePattern1) 46**] [**Last Name (NamePattern1) 30746**] for mgt of CHF and
+PNA. Pt reports 2 weeks of URI sx consisting of cough productive
+of green sputum.  On the day prior to his presentation to his
+PCP, [**Name10 (NameIs) **] had nausea, vomiting and diarrhea and complaints of
+dizziness.  Seen by PCP and sent to [**First Name4 (NamePattern1) 46**] [**Last Name (NamePattern1) **].  In the ED, a CXR
+was read as volume overload vs infiltrate.  He was then diuresed
+with lasix which led to hypotension requiring BP support with
+Dopa.  Started on CTX/Azithro. Blood cx taken at OSH grew out
+gram pos diplococci and vancomycin was added.  He was then
+transferred to [**Hospital1 18**] on Dopamine for further management.
+.
+Pt was admitted to the CCU for management of the pt's
+hypotension, ?sepsis and ? CHF exacerbation.  In the CCU, pt was
+weaned off the dopamine and given his lack of volume overload on
+exam, there was no further diuresis.  His BP rose to 100s/60s
+off pressors and maintained with gentle fluid boluses.  When
+blood cx returned strep pneumo sensitive to ceftriaxone, azithro
+and vancomycin were discontinued.
+
+
+Past Medical History:
+CAD s/p STEMI '[**60**] with stent to prox LAD.
+CHF with EF 35%
+HTN
+Dyslipidemia
+
+
+Social History:
+Works as a salesman.  Married and lives with wife and daughters.
+ Non-[**Name2 (NI) 1818**], does not drink.
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS 97.9,  HR 88, BP 110/70, O2 95% RA
+General: sitting up in bed, NAD, pleasant
+HEENT: PERRL, EOMI, MMM
+Neck: Flat JVP, no bruits
+CV: RRR, no murmurs, distant heart sounds
+Lungs: coarse crackles bilaterally at bases; no wheezes
+Abdomen: + bowel sounds, soft, NT, ND
+Ext: Warm, no CCE.  DP pulses 2+
+
+
+Pertinent Results:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2164-6-28**] 03:13AM    13.3*# 3.94* 12.6* 37.3* 95 32.0 33.7
+13.9 169
+DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+Myelos
+[**2164-6-28**] 03:13AM    79* 10* 9* 2 0 0 0 0 0
+RED CELL MORPHOLOGY Hypochr Anisocy Poiklo Macrocy Microcy
+Polychr
+[**2164-6-28**] 03:13AM    NORMAL NORMAL NORMAL NORMAL NORMAL NORMAL
+
+BASIC COAGULATION (PT, PTT, PLT, INR) Plt Smr Plt Ct
+[**2164-6-28**] 03:13AM    NORMAL 169
+ .
+Chemistry
+RENAL & GLUCOSE      Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2164-6-28**] 03:13AM    111* 33* 1.1 142 3.8 104 27 15
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+[**2164-6-28**] 03:13AM          8.6 2.0* 1.8
+
+.
+CHEST (PORTABLE AP)  [**2164-6-27**] 1:43 PM
+Likely chronic scarring at the left lung base. However, there is
+a new opacity in the right cardiophrenic angle as well as in the
+left lower lobe suggestive of pneumonia. Clinical correlation is
+advised. A repeat film when the patient's symptoms resolve is
+recommended. There is no radiographic evidence of CHF.
+
+Brief Hospital Course:
+69M with history of DM2, CAD (s/p anterior STEMI [**2160**], EF35%),
+here with strep pneumo bacteremia (outside hospital cultures)
+and bibasilar pneumonia who developed hypotension after getting
+diuresed for presumed CHF.
+.
+1. Pneumonia:  Pt was initially treated with ceftriaxone and
+azithromycin for community-acquired pneumonia and Vancomycin was
+added when his blood cx grew out GPC in pairs.  Once the cx
+results returned as strep pneumo, azithro and vanc were stopped.
+ On day of discharge, he was changed to po levaquin which the
+strep pneumo was also sensitive to (per OSH micro lab).  Blood
+cx at [**Hospital1 18**] were no growth at discharge.  Pt will continue
+Levaquin for total of 14 days.
+.
+2. CHF: Pt was EF of 35% on [**2163**] echo.  Due to a presumed CHF
+exacerbation at OSH, he was diuresed and then became
+hypotensive.  Pt was likely volume depleted due to vomiting and
+diarrhea and then became hypotensive after receiving lasix. No
+evidence of volume overload on exam or on CXR.  Pt was weaned
+off dopamine and received gentle fluid boluses to maintain
+MAP>50.  Once his BP was back to baseline, his lasix, coreg and
+lisinopril were restarted.
+.
+3. CAD: Pt with MI in [**2160**] s/p stent but no active ischemia.
+Continued ASA, statin, BB, ACE-I
+.
+4. DM: Continued Metformin, Avandia, RISS.
+.
+
+
+Medications on Admission:
+Glucophage 1000 [**Hospital1 **]
+Avandia 8
+Lasix 40 PO BID
+Aspirin 325
+Coreg 6.25 [**Hospital1 **]
+Lisinopril 2.5
+Lipitor 20
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Rosiglitazone Maleate 4 mg Tablet Sig: Two (2) Tablet PO
+DAILY (Daily).
+3. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+4. Metformin HCl 500 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+5. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 8 days.
+Disp:*8 Tablet(s)* Refills:*0*
+6. Coreg 6.25 mg Tablet Sig: One (1) Tablet PO twice a day.
+7. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+8. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Strep pneumonia bacteremia
+2. Pneumonia
+3. Hypovolemia excerbated by diuresis
+.
+Secondary Diagnoses:
+1. CAD s/p STEMI
+2. CHF, EF 35%
+3. Hypertension
+4. Dyslipidemia
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Take all medications as prescribed.  You have a pneumonia and
+bacteria in your blood so please take your antibiotic as
+directed.  Call your PCP if you experience fevers, chills, abd
+pain, nausea/vomiting, shortness of breath.
+
+Followup Instructions:
+Please call your PCP, [**Last Name (NamePattern4) **]. [**First Name (STitle) **], at [**Telephone/Fax (1) 26647**] to make an
+appointment in the next 1-2 weeks.
+
+
+

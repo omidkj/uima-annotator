@@ -1,0 +1,215 @@
+Admission Date:  [**2174-10-2**]              Discharge Date:   [**2174-10-8**]
+
+Date of Birth:  [**2103-12-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Vioxx / Celebrex / Lasix
+
+Attending:[**First Name3 (LF) 3561**]
+Chief Complaint:
+Mental status changes, ARF
+
+Major Surgical or Invasive Procedure:
+R-IJ Placed
+Fiberoptic nasal intubation
+
+History of Present Illness:
+70F h/o COPD, OSA on BiPAP at night, HTN, DM2, morbid obesity,
+chronic pain who presents from NH after being found to be
+lethargic, confused and unable to ambulate, with 'tongue hanging
+out of mouth'. Of note pt recently seen in the pain clinic and
+started taking Morphine 2 days ago.
+.
+ED COURSE: Initial VS T 97.7 HR 60 BP 90/50 RR 20 SaO2 99%RA
+then desated to 86%RA, placed on NRB O2 improved to 100%. FS
+105. on 50% ventimask. Pt was hypoxic on RA placed on NRB. U/A
+positive and serum tox negative. CXR without clear. She was
+given ceftriaxone 2gm for UTI, solumedrol and pepcid for
+"enlarged tongue", narcan 0.2mg x2, 0.4mg narcan x1 with minimal
+response in mental. 1.7L IVFs infused with improvement of
+lactate to 0.2. Pt was hypotensive and started on peripheral
+dopa with improvement in SBP to 120s. Initial labs notable for
+ARF Cr 5.6, K 6.7, phos 8.8. She received Bicarb 1amp, Insulin
+10Units, and 1amp D50 for hyperacute TW. She was placed on BiPAP
+for 1hr in ED for initial ABG 7.19 pCO2 83 pO2 247. She was
+admitted to MICU for closer monitoring.
+.
+
+Past Medical History:
+-morbid obesity
+-hypertension
+-diabetes - diet controlled
+-osteoarthritis
+-obstructive sleep apnea on Bipap at home
+-COPD
+-gout
+-depression
+-hypothyroidism
+-GERD
+
+Social History:
+Social History: Lives temporarily at [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **]. Lost housing
+at [**Known firstname 553**] [**Last Name (NamePattern1) 7143**] in [**2174-4-14**]. 30-40 ppd smoking history. No
+EtOH, IVDU, or illicit drugs. Patient is not sexually active.
+Does not excercise, but is very careful about what she eats.
+
+
+Family History:
+Mother with HTN
+
+Physical Exam:
+T 96.6 HR 66 BP 141/65 (on dopa 5) RR 12 SaO2 99% on 15L, FiO2
+30% ventimask
+General: Obese, somnolent, arousable intermittently
+HEENT: pinpoint PERRL, anicteric sclera, nasal trumpet and
+ventimask, tongue protruding from mouth, crusted tongue surface
+very dry MM
+CV: Reg Nml S1, S2, no M/R/G
+RESP: Distant BS, poor air movement, no crackles or wheeze
+appreciated anteriorly
+Abdomen: soft, obese, ND, +BS, tender to palpation LLQ,
+Umbilical area no rebound/no guarding
+Extremities: warm, trace bilateral edema, dopplerable pulses
+Neuro: Somnolent, arousable to voice, follows simple commands,
+moves all extremities, involuntary twitching of extremeties.
+
+Pertinent Results:
+MICRO:
+[**2174-10-3**] 9:34 am SPUTUM      Source: Endotracheal.
+
+   GRAM STAIN (Final [**2174-10-3**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+
+   RESPIRATORY CULTURE (Final [**2174-10-5**]):
+      SPARSE GROWTH OROPHARYNGEAL FLORA.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         Please contact the Microbiology Laboratory ([**8-/2473**])
+immediately if
+         sensitivity to clindamycin is required on this
+patient's isolate.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         Trimethoprim/Sulfa sensitivity testing performed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA----       S
+VANCOMYCIN------------   <=1 S
+
+   ACID FAST SMEAR (Final [**2174-10-4**]):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Pending):
+.
+[**2174-10-2**] 6:26 pm URINE     Site: CATHETER
+
+                            **FINAL REPORT [**2174-10-4**]**
+
+   URINE CULTURE (Final [**2174-10-4**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------     8 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------    16 I
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+
+Brief Hospital Course:
+A/P: 70F h/o COPD, OSA, HTN, DM2 who presents from NH after
+being found lethargic with MS changes and ARF
+.
+# Hypotension: No fever, leukocytosis, and elevated cardiac
+enzymes in setting of ARF make cardiogenic process less likely
+without ischemic changes on EKG. Etiology most likely urosepsis
+with +UA and recently similar admission requiring ICU for
+Urosepsis and unresponsiveness. Hypovolemic shock also
+possibility given extremely dry MM and ARF. She was initially
+covered broadly with Abx vanco/zosyn, also h/o GPC on blood
+culture (coag neg staph, coming from NH). She was kept on a 5
+day course of Vanco for MRSA in sputum, no infiltrate on CXR.
+She was switched to ceftriaxone and completed 5 days for an E
+coli UTI and switched to cefpodoxime po for a total 7 day course
+of abx for the UTI. She never required pressors and BP responded
+well to IVF boluses. She became Hypertensive when sedation was
+weaned off.
+.
+# Altered mental status: Likely toxic-metabolic due to
+infection, hypercarbia, and narcotic use with underlying COPD
+(baseline pCO2 low 50s, HCO3 30). Pt responded to narcan but
+only transiently. Pt also switched to morphine which is renally
+cleared now with ARF. She was treated with Abx as above, she was
+intubated for airway protection and hypercarbia. She was
+extubated on [**10-5**] and her MS status cleared. She was kept on
+oxycodone only for pain control and neurontin and escalation of
+other narcotics were avoided. She was kept on BiPAP o/n with
+plan to cont Bipap at any signs of lethargy. Her TSH was normal.
+.
+#. Respiratory: Pt desated in ED with O2 sat 86%RA. However, pt
+very lethargic with depressed MS, most likely from obtundation
+in setting of hypercarbia, narcotics and infection as above. No
+evidence of pulm edema on CXR. COPD [FEV1 82% predicted [**8-16**]].
+She was briefly intubaated with fiberoptic nasal intubation
+given morbid obesity. She was successfully extubated [**10-5**] with
+BiPAP o/n [**11-18**] for settings. She remained on RA while she was
+extabated with O2 sats 88-92%goal given COPD. Her advair was
+resumed.
+
+# Acute renal failure: Baseline 1.0 now with ARF, unclear
+etiology, NSAID related vs. hypotension/ATN, vs. rhabdo. Her CK
+was never elevated significantly, she responded very well to IVF
+with correction of Renal failure with fluids alone. Her diuretic
+was subsequently resumed. Umyoglobin was negative. Her ACE-I was
+also resumed.
+
+.
+# HTN: PT was significantly hypertensive with BP 180-210 range
+requiring nitro gtt for [**2-15**] while she was NPO post extubation.
+Her lisinopril was resumed at 40mg daily, her BB was titrated up
+to 100mg TID and Norvasc was added [**10-6**] and increased to 10mg on
+[**10-7**].
+
+.
+# DM2: HISS. Monitor FS.  Her orag hypoglycemics to be resumed
+while on floor or outpati

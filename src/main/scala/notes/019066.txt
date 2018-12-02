@@ -1,0 +1,223 @@
+Admission Date:  [**2100-9-11**]              Discharge Date:   [**2100-9-14**]
+
+Date of Birth:  [**2033-5-7**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+chest pressure
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization with stenting
+
+History of Present Illness:
+67 yo F with no significant cardiac hx, transferred from outside
+hospital management of STEMI. Patient was in her usual state of
+health until yesterday at 2pm when she noticed a feeling of food
+got stuck in her midsternum area, associated with diaphoresis.
+Patient also noticed chest pressure, achyness with radiation to
+left arm and back, as well as shortness of breath. Her symptom
+did not resolve with resting. She had one dose of 81 mg aspirin,
+and went to the [**Hospital3 4107**], where EKG showed ST elevation
+in II, III, aVF and V2-4 in the AM. Pt was plavix loaded and
+transferred to [**Hospital1 **]. On arrival of [**Hospital1 **], only ST elevation in V2-4
+seen. Cath showed LAD occlusion distal to the 1st diagnonal, and
+a stent was placed. There was also a LCx lesion that was thought
+to be stable, and not intervened. RCA looked clean.
+.
+Upon arrival to the CCU, pt had stable vital signs.
+.
+On ROS, pt had a mild cough for a month, which she thought was
+due to allergy. Pt otherwise denied prior angina symptoms, DOE,
+orthopnea, edema, palpitation, syncope or presyncope.
+.
+Pt was last seen by her PCP two years ago. Depression was the
+major issue in her healthcare. Per her daughter, she gained
+30-40lbs in the past 10 years. There were no prior history of
+stroke, TIA, deep venous thrombosis, pulmonary embolism,
+bleeding at the time of surgery, black stools or red stools.
+S/he denies recent fevers, chills or rigors.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: HTN, HLD (was on Zocor)
+2. CARDIAC HISTORY:
+- CABG: none
+- PERCUTANEOUS CORONARY INTERVENTIONS: none
+- PACING/ICD: none
+3. OTHER PAST MEDICAL HISTORY:
+- Depression (on Ritalin, celexa, klonopin)
+- Fascitis
+4. Past surgical history
+- appendidectomy [**2082**].
+
+Social History:
+Live with husband in [**Name (NI) 90555**]
+- Tobacco history: none recently (2 pky when younger)
+- ETOH: none
+- Illicit drugs: none
+
+Family History:
+- Mother: brain tumor in 70s, died of stroke at 79
+- Father: MI at 52
+- Sister1: pancreatic cancer in 50s
+- Sister2: pancreatic cancer in 70s
+- Sister3: liver cancer at 42
+- Son: Fragile X
+- Grandson: Fragile X, autism
+
+Physical Exam:
+ADMISSION EXAM
+VS: T=96.6 BP=127/71 HR=76 RR=20 O2 sat= 95% on RA
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with JVP of 7 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: no accessory muscle use. CTAB, no crackles, wheezes or
+rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: no pitting edema in LE bl
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Neuro: CN2-12 grossly intact, muscle strength strength 5/5
+throughout, sensation intact
+.
+DISCHARGE EXAM:
+
+
+Pertinent Results:
+ADMISSION LABS
+[**2100-9-11**] 01:25PM BLOOD WBC-13.3* RBC-4.05* Hgb-12.1 Hct-35.8*
+MCV-88 MCH-30.0 MCHC-33.9 RDW-14.2 Plt Ct-276
+[**2100-9-11**] 01:25PM BLOOD Neuts-80.2* Lymphs-14.6* Monos-4.3
+Eos-0.6 Baso-0.2
+[**2100-9-11**] 01:25PM BLOOD PT-12.8 PTT-50.9* INR(PT)-1.1
+[**2100-9-11**] 10:30AM BLOOD Glucose-114* UreaN-12 Creat-0.4 Na-127*
+K-3.1* Cl-96 HCO3-21* AnGap-13
+[**2100-9-11**] 01:25PM BLOOD CK(CPK)-2074*
+[**2100-9-11**] 01:25PM BLOOD Calcium-9.3 Phos-2.6* Mg-1.9
+.
+DISCHARGE LABS
+
+PERTINENT LABS
+[**2100-9-11**] 10:30AM BLOOD cTropnT-2.43*
+[**2100-9-11**] 01:25PM BLOOD CK-MB-246* MB Indx-11.9* cTropnT-9.64*
+[**2100-9-11**] 11:57PM BLOOD CK-MB-79* MB Indx-7.3* cTropnT-2.24*
+[**2100-9-12**] 04:22AM BLOOD CK-MB-52* cTropnT-2.06*
+[**2100-9-12**] 04:22AM BLOOD Triglyc-230* HDL-51 CHOL/HD-4.2
+LDLcalc-118
+[**2100-9-11**] 01:25PM BLOOD TSH-0.68
+
+PERTINENT STUDIES
+CXR ([**2100-9-11**]): Cardiac and mediastinal contours are within
+normal limits given portable technique. Lungs appear well
+inflated without evidence of focal airspace consolidation,
+pulmonary edema, pleural effusions or pneumothorax. No acute
+bony abnormality is seen.
+.
+CARDIAC CATH ([**2100-9-11**]): Report pending...
+
+
+Brief Hospital Course:
+PRIMARY REASON FOR ADMISSION: 67 yo F with no significant
+cardiac hx, transferred from outside hospital for management of
+LAD STEMI.
+.
+ACTIVE ISSUES:
+# STEMI:
+Pt had a late presentation (~20hr) of distal LAD disease. She
+had a single (by report) DES placed to the LAD with good
+restoration of flow. She also had a LCx lesion, which was felt
+to be stable, and not intervened upon. She was started on ASA
+325, Prasugrel, Metoprolol, Atorvastatin and Lisinopril. Cath
+showed apical akinesis and she was started on coumadin and
+heparin. She did not have further chest pressure during her
+hospital stay and was stable on medical regimen although her BP
+was somewhat low in the 90's-100's. Plan is for a follow up appt
+with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] who performed her stent procedure to
+reassess her LCX lesion and assess her symptoms. It is
+preferable for the LCX intervention to be performed after
+myocardial recovery but may be necessary emergently if patient
+has recurrent chest pain. She was discharged on nitroglycerin
+sublingually with instructions to use for chest pressure but to
+also contact Dr. [**Last Name (STitle) **]. Coumadin was started at 3mg daily and
+INR will be checked on [**2100-9-16**] with INR management to be done by
+Dr.[**Name (NI) 60978**] office.
+.
+# Acute Systolic Dysfunction:
+EF 35% on ECHO. No symptoms of fluid overload during hospital
+stay and no diuretics were prescribed at discharge. She was
+instructed to weigh herself daily and take all of her medicines.
+A Low Na diet was also counseled.
+.
+CHRONIC ISSUES:
+# DEPRESSION
+Her ritalin was held [**3-17**] recent MI. She also has a prescription
+for Celexa and Klonapin that she had self d/c'ed. She was
+encouraged to take Klonapin as needed at home for anxiety and to
+talk to Dr [**First Name (STitle) 1356**] about treatment of her depression as a MI
+increases her risk of a depressive episode.
+.
+TRANSITIONAL ISSUES:
+- INR, CHEM-7 and CBC on [**2100-9-16**] with results to Dr. [**First Name (STitle) 1356**]
+- F/U appt with Dr. [**Last Name (STitle) **] to re-evaluate LCX lesion and need for
+PCI
+
+
+Medications on Admission:
+Ritalin 10mg po qday
+
+
+Discharge Medications:
+1. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet
+Sublingual as directed as needed for chest pain.
+Disp:*25 tablet* Refills:*0*
+3. prasugrel 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. warfarin 2 mg Tablet Sig: 1.5 Tablets PO once a day.
+Disp:*45 Tablet(s)* Refills:*2*
+6. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig:
+One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*2*
+7. lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*15 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 2255**] [**Name (NI) 2256**]
+
+Discharge Diagnosis:
+ST elevation myocardial infarction
+acute systolic dysfunction
+Hypertension
+Dyslipidemia
+Depression
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You had a heart attack and a cardiac catheterization showed a
+blockage in your left anterior coroonary artery. This blockage
+was opened up 

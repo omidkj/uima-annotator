@@ -1,0 +1,188 @@
+Admission Date:  [**2169-8-16**]              Discharge Date:   [**2169-10-11**]
+
+Date of Birth:  [**2117-5-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 4377**]
+Chief Complaint:
+Initially admitted for:
+Fever and neutropenia
+Transferred to [**Hospital Unit Name 153**] for:
+A fib and hypotension
+
+Major Surgical or Invasive Procedure:
+A-line
+thoracentesis
+bronchoscopy
+bone marrow biopsy
+mediastinoscopy with LN biopsy
+
+
+History of Present Illness:
+Mr. [**Known lastname 63305**] is a 52 year old Cuban-American man who has resided
+in the US for 25 years.  For the past year he has experienced
+aches and pains, especially worse in the past six months on
+stairs.  He was working and feeling genrally well until the
+beginning of [**Month (only) **] when he developed daily fevers to 102.  These
+were associated with chills and body aches but no rigors or
+nightsweats.  He went to his [**Hospital 6435**] clinic and had a CXR which
+was negative but was put on antibiotics and analgesics.  He
+remained well for a few weeks but then suffered 2 syncopal
+attacks on [**8-8**] and was admitted to [**Hospital3 **] Hosputal
+that day.  At LGH, the patient was found to be neutropenic with
+72% lymphocytes and a WBC of 0.5.  He was also anemic with a HCT
+of 17 and was transfused 2 units of PRBCs.  Further lab tests
+upon admission included a leukemia/lymphoma eval which yielded
+abundant myeloblasts with a probable diagnosis of AML.  In
+addition, >100,000 colonies of E.coli were found in his urine
+resistent to Bactrim.  ID put him on Zosyn, Vancomycin and
+Diflucan by [**8-15**].
+
+At LGH, he had a negative CT scan of the head done for
+dizziness.  CT of the chest and abdomen was performed as part of
+the lymphoma workup with the following key findings:  1) R
+paratracheal mass (3.2cm)with BL pleural effusions.  2) Multiple
+small liver and splenic lesions of intermediate nature.  3)
+Small pancreatic lesion (1.6cm) 4) BL inguinal hernias.
+Thoracic surgery was consulted and recommended a mediastinoscopy
+under general anesthesia when the patient was feeling better.
+He was subsequently transferred to [**Hospital1 18**] on [**8-16**] for further
+workup at the request of his wife.
+
+
+Past Medical History:
+Wisdom teeth extracted.  Hypertension treated with Toprol XL
+100mg daily at home for some time.  No other medical issues or
+surgeries.
+
+Social History:
+Born and raised in [**Country 5976**].  Came to US 25 years ago.  Lives with
+his wife and 3 children (14, 13, 11).  Works as a machinist.
+
+Family History:
+Mother died age 53 of a heart attack.
+Father died in late 60's of unknown cause.
+4 siblings, all living and all well.
+
+Physical Exam:
+Vitals: T 99.2  HR 120-130  RR 25  BP 90-100/70-80 100% O2 RA
+Gen: diaphoretic
+HEENT: PERRLA, No discharge from eyes, ears, nose.  EOMI.
+Anicteric.  Normal conjunctiva.
+Neck: No LAD, No JVD, Midline trachea.  Normal sized thyroid
+with no palpable nodules.
+Chest: decreased breath sounds bilaterally
+CV: irregular, irregular, II/VI SM
+Abd: BS normoactive, nontender, nondistended, increased
+adiposity of gut.
+Ext: No C/C/E nontender calves
+Neuro: CN II-XII intact, A and O x 3.
+Skin: No visible lesions.  No tender nodules.
+
+
+Pertinent Results:
+At [**Hospital6 3105**]:
+
+CT of the chest and abdomen was performed as part of the
+lymphoma workup with the following key findings:  1) R
+paratracheal mass (3.2cm)with BL pleural effusions.  2) Multiple
+small liver and splenic lesions of intermediate nature.  3)
+Small pancreatic lesion (1.6cm) 4) BL inguinal hernias.
+
+CT head was normal
+
+Admission labs at LGH )  WBC 0.5, 8%N, 72%L, 6%B  ALT 69, AST 39
+Alb 2.7 Alk Phos 159 T Bili 0.7 D Bili 0.22
+
+HIV Neg
+Parvovirus Neg
+>100,000 E. coli in urine
+
+Discharge labs ([**8-15**])  WBC 0.8, 4%N, 72%L, 17%M, 5%B, 1.3% Eo
+RBC 3.13, Platelets 183.
+
+Labs
+lactate 2.5
+Na 141 K 3.1 cl 105 Hco 21 BUN 22 Creat 1.2 gluc 110
+Ca 8.1 Mg 1.6 P 2.4
+ALT 37 AP 288 T bili 0.5 AST 53 LDH 461
+WBC 11 (neutro 65%, 8% lymph 21 % mono) Hct 34 Plt 264
+PT 16.4 PTT 28.7 INR 1.8
+FIbrinogen 912
+uric acid 7.8
+U/A Tr bld
+
+[**2169-10-11**] 12:40PM BLOOD WBC-5.3# RBC-2.91* Hgb-9.1* Hct-26.9*
+MCV-92 MCH-31.2 MCHC-33.7 RDW-18.9* Plt Ct-83*
+[**2169-10-11**] 12:40PM BLOOD Gran Ct-4770
+[**2169-10-11**] 12:40PM BLOOD Glucose-117* UreaN-23* Creat-0.8 Na-133
+K-3.6 Cl-102 HCO3-18* AnGap-17
+[**2169-10-11**] 12:40PM BLOOD ALT-29 AST-30 AlkPhos-186* TotBili-0.2
+[**2169-10-11**] 12:40PM BLOOD Albumin-3.0* Calcium-8.6 Phos-3.1 Mg-1.8
+UricAcd-5.4
+[**2169-8-19**] 08:49PM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE
+HBcAb-POSITIVE IgM HAV-NEGATIVE
+[**2169-9-13**] 04:14AM BLOOD HIV Ab-NEGATIVE
+[**2169-9-27**] 05:03PM PLEURAL WBC-750* RBC-[**Numeric Identifier **]* Polys-49*
+Lymphs-40* Monos-11*
+[**2169-9-27**] 05:03PM PLEURAL TotProt-3.6 Glucose-97 Creat-1.0
+LD(LDH)-271 Amylase-77 Albumin-1.8
+
+Brief Hospital Course:
+1.) AML: Leukemia/Lymphoma evaluation at outside hospital
+yielded probable AML.  [**8-18**] BMT done at [**Hospital1 18**] confirmed leukemia
+(AML) and pt decided to undergo 7+3 induction treatment here.
+DAY 1 was [**2169-8-18**], BM bx completed three times, with the latest
+report from [**10-2**] showing no evidence of leukemic cells.  Patient
+will need maintenance chemo, but was awaiting stabilization of
+ID status prior to starting further chemo.
+.
+2.) Fever and neutropenia/ID:
+High fevers persisted, pt had multiple imaging studies including
+a CT Chest, Abd Pelvis that revealed multiple splenic and liver
+nodules and mediastinal LAD.  Pt was seen by ID and pulm (for
+RLL effusion and mediastinal LAD seen on CT scan).  ID thinks
+probably infectious source of liver, spleen nodules and
+mediastinal LAD.  They asked for several cultures including acid
+fast bacilli, legionella, etc.  Pulm completed bronch on [**8-22**],
+negative for malignant cells.  Patient developed some diarrhea,
+C.diff sent, which was negative on multiple occasions.  Stool
+also tested for cryptosporidium/O and P/campylobacter- all of
+which were negative.  Patient underwent thoracentesis on [**8-30**],
+which showed exudative fluid that grew afb in cultures, although
+the afb smear was negative.  All other cultures negative.
+Repeat thoracentesis failed to show further afb growth in
+culture, was also negative for CMV.  CT chest on [**9-5**] revealed
+stable nodules but new pericardial effusion.  Patient started on
+4 drug anti-tuberculosis regimen on [**9-8**].  AFB in blood was sent
+to state lab and pending.  Repeat AFB smears were neg x 3 and
+patient was taken off precautions.  The patient was transferred
+to ICU [**Date range (1) 64418**]. When patient returned to BMT, he was placed on
+Rifabutin, Ethambutol, Pyridoxine, Clarithromycin for MAC
+coverage, as TB+ blood cxs likely MAC vs. TB, anti-TB meds
+d/ced, other atypical mycobacteria was also a consideration.
+Patient was started on Vanc empirically on [**9-17**] as blood cultures
+from [**9-15**] returned [**2-14**] gram + cocci=coag neg staph and those from
+[**9-17**].  On [**9-21**], patient underwent a TEE, which was negative for
+endocarditis, and a mediastinal LN biopsy, which was positive
+for afb on smear and culture.  Patient placed back in
+respiratory isolation.  In addition, pleural fluid from [**9-12**]
+returned TB PCR positive, therefore patient's abx regimen
+changed back to 4 drug anti-tuberculosis coverage.  Vanc was
+discontinued as the +blood cultures were thought to be likely
+contaminates. [**9-26**], [**9-27**], [**9-29**] AFB smear neg x 3.  Remains in
+isolation room as w/ likely disseminated TB w/ pulm nodules.
+Patient underwent repeat thorax CT, which showed enlarging
+abdominal LN and an increasing number of splenic and liver
+lesions.  Amikacin was added to help potentiated anti-TB drug
+effects, however this was later discontinued, along with the
+clarithromycin, so that patient was only on anti-TB coverage.
+Patient underwent a repeat echo and chest x-ray which showed a
+small to moderate pleural effusion and a small decrease in the
+mediastinal LAD.  The patient was placed on an 11 week steroid
+taper (beginning with 60mg prednisone daily) per ID recs to help
+lessen risk of constrictive pe

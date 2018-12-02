@@ -1,0 +1,200 @@
+Admission Date:  [**2145-12-3**]              Discharge Date:   [**2145-12-9**]
+
+Date of Birth:  [**2077-10-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin / Zometa / Keflex / Tetracycline / erythromycin /
+Iodine Containing Agents Classifier
+
+Attending:[**First Name3 (LF) 7333**]
+Chief Complaint:
+ventricular tachycardia, ICD generator change
+
+Major Surgical or Invasive Procedure:
+ICD generator change
+
+History of Present Illness:
+The patient is a 68 y/o F with PMHx significant for NIICMP
+(EF5-10%) s/p AICD/BiV pacer, PAF s/p ablation, who presented to
+OSH on [**2145-12-2**] with worsening DOE, cough, runny nose, diarrhea,
+fatigue.  BNP was noted to be elevated at 1000, and there was
+some concern for dietary indiscretion during a recent trip.
+Symptoms were initially attributed to CHF exacerbation, and she
+was treated with lasix.  Given leukocytosis, there was also
+concern for underlying respiratory infection, for which she was
+started on doxycycline.
+.
+However, on the day after admission, the patient had a syncopal
+event while in the bathroom, hitting her head on the door.
+During this event, telemetry recorded VT/?torsades and she
+received a shock from her AICD.  She endorseded lightheadedness
+prior to the event, denies any chest pain, palpitations, or
+shortness of breath.  Given that she was scheduled to have and
+AICD generator change at [**Hospital1 18**] in the next few weeks, her
+cardiologist was contact[**Name (NI) **] and recommended transfer to [**Hospital1 18**].
+ICD was interrogated at OSH and reported to episodes of
+device-classified VT (vs. Afib with RVR).
+.
+Of note, imaging performed after the patient's head strike was
+significant for anterior C4 fracture of unclear chronicity.
+Telephone neurosurgery consult was placed at OSH, and it was
+recommended that patient be placed in a neck collar.  Patient
+also experienced a significant head laceration, which was
+sutured prior to transfer.  VS at the time of transfer were HR
+80s - 100s with SBP 100s - 110s.  She has been experiencing
+significant nausea and diarrhea; her doxycycline has been
+stopped out of concern that it could be contributing to her GI
+symptoms.
+.
+On arrival to the CCU, the patient's VS were .  She denies any
+shortness of breath or chest pain.  She reports pain in the area
+where she struck her forehead.  She denies any other complaints.
+.
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, bleeding at the time of surgery,
+myalgias, joint pains, cough, hemoptysis, black stools or red
+stools. She denies recent fevers, chills or rigors. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+palpitations.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. CARDIAC RISK FACTORS: -Diabetes, -Dyslipidemia, -Hypertension
+
+2. CARDIAC HISTORY:
+- CABG: None
+- PERCUTANEOUS CORONARY INTERVENTIONS: None
+- PACING/ICD: AICD and BiV pacer
+3. OTHER PAST MEDICAL HISTORY:
+- nonischemic idiopathic cardiomyopathy, EF 5-15%, s/p AICD and
+biventricular pacer
+- paroxysmal atrial fibrillation status post ablation
+- severe asthma
+- old compression fractures of T8 and T10
+- venous stasis disease
+- anxiety
+- depression
+- restless legs syndrome
+- recent septic bursitis of right knee
+
+Social History:
+Used to work as a jeweler. Lives with son.
+- Tobacco history: Remote, 1 ppw, quit 42 years ago.
+- ETOH: approx. 1-2 drinks 4 times a week
+- Illicit drugs: None
+
+
+Family History:
+Father had "heart problems" and died at 69. Brother had some
+form of arrhythmia. No other cardiac history.
+
+Physical Exam:
+PHYSICAL EXAMINATION (on admission):
+VS: T=96.4 BP=105/62 HR=94 RR=20 O2 sat=95%2L
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: Cervical collar in place. NCAT. Sclera anicteric. PERRL,
+EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral
+mucosa.  Abrasions and sutured laceration on right forehead.
+NECK: Unable to asses JVP 2/2 cervical collar.
+CARDIAC: Irregular rhythm, normal S1, S2. No m/r/g. No thrills,
+lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Some bibasilar crackles
+anteriorly.
+ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+
+EXTREMITIES: No c/c/e.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: DP 2+
+Left: DP 2+.
+.
+ON DISCHARGE:
+Unchanged except of note: cervical collar no longer in place.
+
+Pertinent Results:
+[**2145-12-3**] 11:51PM BLOOD WBC-11.8* RBC-4.64 Hgb-15.1 Hct-43.4
+MCV-93 MCH-32.6* MCHC-34.9 RDW-14.2 Plt Ct-180
+.
+[**2145-12-3**] 11:51PM BLOOD PT-26.7* PTT-37.6* INR(PT)-2.6*
+.
+[**2145-12-4**] 10:00AM BLOOD Glucose-198* UreaN-21* Creat-1.2* Na-135
+K-4.6 Cl-96 HCO3-30 AnGap-14
+.
+[**2145-12-4**] 10:00AM BLOOD Albumin-3.6 Calcium-8.4 Phos-2.7 Mg-2.1
+.
+[**2145-12-4**] 10:00AM BLOOD ALT-36 AST-51* AlkPhos-89 TotBili-1.8*
+.
+OSH CXR - Cardiomegaly with pulmonary vascular congestion (per
+d/c summary)
+.
+OSH Cervical Xray - Limited exam, not visualizing C7. Moderate
+degenerative change. No fracture seen.
+.
+OSH CT Head and C-Spine - No acute intracranial finding. Right
+forehead soft tissue swelling. Bilateral maxillary sinusitis.
+Fracture line through the anterior osteophyte of the inferior
+endplate of the C4, age-indeterminate. No visible associated
+soft tissue swelling. No prior study available for correlation.
+Cervical spondylosis.
+.
+[**2145-12-4**] CXR - Left dual-lead pacemaker has its leads terminating
+over the expected location of the right atrium and right
+ventricle respectively. An external pacing wire also is
+unchanged. Heart remains enlarged. There is worsening
+indistinctness of the perihilar and pulmonary vasculature which
+is suggestive of moderate pulmonary edema. No evidence of
+pleural effusions.
+
+DISCHARGE LABS
+
+[**2145-12-8**] 06:55AM BLOOD WBC-10.9 RBC-4.18* Hgb-13.2 Hct-39.3
+MCV-94 MCH-31.5 MCHC-33.5 RDW-14.1 Plt Ct-205
+[**2145-12-8**] 06:55AM BLOOD Plt Ct-205
+[**2145-12-8**] 06:55AM BLOOD PT-15.1* PTT-33.4 INR(PT)-1.4*
+[**2145-12-8**] 06:55AM BLOOD Glucose-122* UreaN-23* Creat-1.2* Na-137
+K-4.3 Cl-99 HCO3-29 AnGap-13
+[**2145-12-5**] 07:57AM BLOOD ALT-31 AST-39 TotBili-1.4
+[**2145-12-8**] 06:55AM BLOOD Calcium-8.9 Phos-3.2 Mg-1.9
+
+Brief Hospital Course:
+68F with with a PMH significant for non-ischemic and ischemic
+cardiomyopathy (LVEF 5-10%) s/p AICD and biventricular pacer,
+paroxysmal atrial fibrillation s/p ablation, admitted to an
+outside hospital with worsening dyspnea on exertion, cough,
+rhinorrhea, diarrhea and fatigue who was initially treated for a
+CHF exacerbation but through her hospital course she developed
+ventricular tachycardia and Torsades de Pointes with firing of
+her ICD and a shock successfully delivered with maintenance of
+her circulation; thus, she was transferred to [**Hospital1 18**] for further
+monitoring and AICD generator change.
+.
+# VENTRICULAR TACHYCARDIA / TORSADES DE POINTES - The event on
+telemetry strip from her outside hospital appears to be
+polymorphic ventricular tachycadia with a Torsades de Pointes
+morphology. There was no clear inciting event noted. The patient
+is not on any new QT-prolonging medications (although Sertraline
+and Zofran have been known to prolong the QT), and only new
+medication was Doxycycline. She had no significant electrolyte
+abnormalities noted (K was 3.5 the morning of admission to the
+outside hospital and her magnesium was reassuring). The most
+likely etiology at this point seems to be patient's underlying
+ischemic cardiomyopathy and prior scarring. Her electrolytes
+were optimized with a magnesium of greater than 2.0 and
+potassium greater than 4.0 to 4.5. We consulted the
+Electrophysiology team and planned for ICD generator change
+early in the week. She was maintained on telemtry and had serial
+EKG monitoring.
+.
+# CORONARIES - The patient had no documented history of coronary
+disease in our records; or cardiac catheterizations. On
+admission, she denied any chest pain and her EKG was without
+ischemic changes.
+.
+# DYSPNEA ON EXERTION - The patient has a known history of
+non-ischemic and ischemic cardiomyopathy wi

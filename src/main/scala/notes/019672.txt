@@ -1,0 +1,172 @@
+Admission Date:  [**2132-7-16**]              Discharge Date:   [**2132-7-17**]
+
+Date of Birth:  [**2062-6-29**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Phenergan
+
+Attending:[**First Name3 (LF) 7934**]
+Chief Complaint:
+transferred to [**Hospital1 18**] for bronchoscopy
+
+Major Surgical or Invasive Procedure:
+1. Flexible Bronchoscopy
+
+History of Present Illness:
+Mrs. [**Known lastname **] is a 70 year old woman with a history of severe COPD
+on, NSCLC s/p LUL lobectomy [**2126**] s/p XRT, vent-dependence,
+tracheomalacia, s/p bavonna trach w/ Y-stent, type II DM and CHF
+who is admitted to the MICU for mechanical ventilation. Her
+problems began in [**2130**] in the setting of hospitalization and
+then rehabilitation for CHF. She was transferred from [**State 108**] to
+[**Hospital3 105**] and intubated x3wks for respiratory distress.
+She was then xfered to [**Hospital1 336**] for trach/PEG. The trach was changed
+to a bavonna [**1-/2132**] and then returned to [**Hospital1 **]. She did well
+until [**Month (only) **] when she had increased work of breathing. The
+tracheostomy tube was then changed at [**Hospital3 5365**] and at
+[**Hospital1 18**] a bronch was performed and it was noted she had an
+peri-tracheal ulceration with naer-total obstruction of her
+trach. In late [**First Name7 (NamePattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 7935**] was placed and the trach was
+placed into the stent. Her course was also complicated by
+serratia sepsis / pseudomonas & acinetobacter pneumonia, NSTEMI,
+fluid overload, and refractory hypotention. She was discharged
+to rehab [**2132-6-25**]. At rehab she did well, her diet was advanced
+but had great difficulty weaning from the vent.
+
+Past Medical History:
+1. CHF s/p respiratory failure s/p trach
+2. COPD - O2 dependent
+3. NSCLC s/p LUL lobectomy [**2126**], s/p chemo (Iressa)/XRT, s/p ?
+pleurodesis
+4. DM II
+5. Anemia, thrombocytopenia
+6. Hx recurrent bacteremias
+7. Hx [**First Name5 (NamePattern1) 564**] [**Last Name (NamePattern1) 563**] fungemia
+8. s/p L THR
+9. s/p cataract surgery
+[**35**]. s/p TAH
+11. paroxysmal afib
+
+
+Social History:
+Lived in [**State 108**] w/ husband, moved to [**Name (NI) 38**] in [**Month (only) **] to live
+at [**Hospital1 **] [**Location (un) 38**]. + Hx tobacco (uncertain duration). No
+EtoH, illicits. Very involved, supportive family.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Weight prior to Xfer 235lbs
+VS: T 99.4 HR 71 afib BP 100/46 RR 26 Sat 100%
+Vent: AC 450x10 PEEP 5 FIO 0.4 ; MAP 16 Plat 32 RR 27 Mv 12.4
+GEN: Pleasant obese woman +trach +foley +PICC
+HEENT: OP clear, MMM, PERRL, sclerae anicteric
+CV: nl s1/s2 RRR
+PUL: Diffuse rhonchi
+ABD: Obese, soft, NT, ND +BS
+EXT: 2+ LE edema to thighs, 2+ LUE edema, 1+ RUE edema. PICC in
+R AC.
+NEURO: Awake, alert.
+
+
+Pertinent Results:
+[**2132-7-16**] 09:58PM   PT-17.1* PTT-25.8 INR(PT)-1.6*
+[**2132-7-16**] 09:58PM   PLT COUNT-130*
+[**2132-7-16**] 09:58PM   WBC-8.8 RBC-2.71* HGB-8.4* HCT-25.4* MCV-94
+MCH-31.2 MCHC-33.2 RDW-19.8*
+[**2132-7-16**] 09:58PM   proBNP-7164*
+[**2132-7-16**] 09:58PM   GLUCOSE-94 UREA N-14 CREAT-0.6 SODIUM-137
+POTASSIUM-3.7 CHLORIDE-94* TOTAL CO2-34* ANION GAP-13
+
+Brief Hospital Course:
+70 year old woman with respiratory failure, tracheomalacia, CHF,
+COPD on home o2, and type II diabetes presenting from rehab for
+rigid bronchoscopy.
+# Tracheomalacia: s/p y-stent and bavonna trach 6/[**2131**]. The
+physicians at NE-[**Hospital1 **] have had difficulty weaning her from the
+vent. She is here for evaluation of whether her airways are
+patent and for other causes for her continued respiratory
+failure. The differential diagnosis is continued fluid overload,
+pneumonitis or pneumonia.
+- CXR  showed bilateral lung opacities, possibly slightly more
+aerated than in the prior study from [**2132-6-24**]
+- flex bronch in AM  - found to have subglottic and supraglottic
+edema , subglottic stenosis, and bronchitis.  IP recs to
+increase PPI to [**Hospital1 **], start guaifenisin 600mg po bid, increase
+flovent to 220mcg 2 puffs [**Hospital1 **].  Please return to IP if problems
+with decannulation.
+.
+# Cardiac: h/o CHF, systolic dysfunction. She is significantly
+fluid overloaded on exam, but by family report is much improved.
+Her BP was difficult to manage so we gently diuresed her.
+.
+# UTI: started fluconazole for 7 day course for >100,000 yeast
+in urine.
+.
+# Endocrine: continue NPH and SSI, diabetic diet.
+- hold NPH when NPO
+.
+# PPX: SCD boots, PPI, HOB > 30degrees.
+.
+# Comm: w/ husband.
+.
+# CODE: full
+
+
+Medications on Admission:
+Combivent inh 4puffs q6h
+Atorvastatin 10mg daily
+Aranesp 0.06mg qFri
+Digoxin 0.125mg daily
+Docusate 100mg twice daily
+Esomeprazole 40mg daily
+Iron Sulfate 300mg daily
+Fluticasone 220mcg MDI twice daily
+Lasix 60mg po q12hr
+NPH 6u sc qAM
+Midodrine 10mg po q8h
+Miconazole pwdr
+Paroxetine 20mg daily
+KCL 40meq po 12hr
+Spironoalactone 50mg daily
+Tylenol 650mg q6h prn fever
+bisacodyl supp daily prn constipation
+lactulsoe 30cc tid prn constipation
+SLNTG prn cp
+Trazadone 50mg prn insomnia
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+1. Respiratory failure s/p trach placement
+2. Tracheomalacia
+3. CHF
+4. COPD
+5. Type 2 Diabetes Mellitus
+
+
+Discharge Condition:
+.
+Stable
+
+
+Discharge Instructions:
+- Please take all medications as prescribed.
+
+
+Followup Instructions:
+.
+Please return to Interventional Pulmonary if there are problems
+with decannulation of the trach
+
+
+

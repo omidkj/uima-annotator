@@ -1,0 +1,226 @@
+Admission Date:  [**2136-2-11**]              Discharge Date:   [**2136-3-4**]
+
+Date of Birth:  [**2104-8-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ibuprofen
+
+Attending:[**First Name3 (LF) 943**]
+Chief Complaint:
+Chest pain, SOB
+
+Major Surgical or Invasive Procedure:
+Thoracentesis
+Chest tube placement
+Pericardial window and drain
+Dobhoff placement by IR
+HD temporary line placement
+HD tunnelled line placement
+
+History of Present Illness:
+31 year old male h/o liver [**First Name3 (LF) **] age 5 [**12-27**] biliary atresia
+and subsequent cirrhosis, ESRD [**12-27**] GN on HD presents with chief
+complaint of left chest pain when he coughs, non productive, no
+hemoptysis, no fever or chils.  He states that the pain is sharp
+and pleuritic.  His CP does not radiate.  He also complains of
+abdominal pain which is chronic in nature.  He denies
+constipation or diarrhea.  He has SOB at rest and 2 pillow
+orthopnea.  No nausea or vomiting.
+.
+He denies any other symptoms, at the current moment the patient
+would like only to sleep, and is asking for benadryl.
+.
+In the ER his initial VS were: T 97.6 HR 72 BP 122/83 RR 24 O2
+sat: 96% RA.  He rec'd 1 L IVF in total in the ER.  He was also
+mildly hypoglycemic in the ER and rec'd 2 amps of D50.  He had a
+WBC of 20 and therefore had a CT of his torso, this revealed
+possible colonic thickening, possible focal enhancement of the
+kidney.  He rec'd vanc/zosyn/flagyl.  His VS prior to transfer
+to the ICU was HR 110, RR 23, BP 113/73 92% RA.  Access is HD
+line and 18g x 1.
+
+
+Past Medical History:
+Biliary atresia s/p liver [**Month/Day (2) **] [**2110**]
+ESRD [**12-27**] post-infectious GN on HD M/W/F
+asthma, well-controlled
+right hip avascular necrosis, per ortho may need THR
+nephrotic syndrome (4.1g proteinuria), hypoalbuminemia
+s/p small bowel resection
+Seizure [**12-27**] presumed emoblic event ([**12-4**]) from hepato-pulmonary
+syndrome
+
+Social History:
+He lives with his parents. He has a child with a prior
+girlfriend. [**Name (NI) **] does not have a job. No tobacco, alcohol, or
+illegal drugs.
+
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: 96.8 BP: 139/85 P: 114 R: 22  O2: 98% on 2L
+General: somewhat drowsy, oriented x 2 (person and place, date
+is [**2128**] or [**2131**]), mild respiratory distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP 10cm, no LAD
+Lungs: bronchial breath sounds throughout on the L side, clear
+on the Right
+CV: Regular rate and rhythm, normal S1 + S2, 3/6 SEM at the USB
+Abdomen: soft, non-tender, moderatley distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, minimal edema bilaterally
+Neuro: AOx2. [**3-28**] stregnth in all 4 extremities, normal sensation
+to light touch, no myoclonus.  Drowsy.  + asterixis - very
+prominent.
+
+Pertinent Results:
+ADMISSION LABS:
+.
+134 94 43 AGap=18
+------------<67
+4.0 26 5.6
+ALT: 19 AP: 338 Tbili: 2.6 Alb: 1.0
+AST: 43 Lip: 11
+K:4.0
+Glu:67
+Lactate:4.1
+MCV 85 WBC 20.8 HGB 12.8 PLTs 206 HCT 40.0
+N:92.7 L:2.4 M:4.3 E:0.4 Bas:0.2
+PT: 18.9 PTT: 50.0 INR: 1.7
+.
+MICRO:
+.
+[**2136-2-22**] CMV Viral Load: Not detected
+.
+[**2136-2-13**] Strongyloides Antibody, IgG ([**Doctor First Name **]): Positive
+.
+[**2136-2-11**] Blood Culture, Routine (Final [**2136-2-14**]):
+      STAPH AUREUS COAG +.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   Aerobic Bottle Gram Stain (Final [**2136-2-12**]):
+      GRAM POSITIVE COCCI IN CLUSTERS.
+   Anaerobic Bottle Gram Stain (Final [**2136-2-12**]):
+      GRAM POSITIVE COCCI IN CLUSTERS.
+.
+[**2136-2-12**] 11:37 am PLEURAL FLUID
+
+   GRAM STAIN (Final [**2136-2-12**]):
+      3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Final [**2136-2-16**]):
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    RARE GROWTH.
+
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |          STAPHYLOCOCCUS,
+COAGULASE NEGATIVE
+                             |          |
+CLINDAMYCIN-----------<=0.25 S   <=0.25 S
+ERYTHROMYCIN----------<=0.25 S   <=0.25 S
+GENTAMICIN------------ <=0.5 S    <=0.5 S
+LEVOFLOXACIN----------<=0.12 S   <=0.12 S
+OXACILLIN-------------   0.5 S   <=0.25 S
+TETRACYCLINE----------             =>16 R
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------                1 S
+
+   ANAEROBIC CULTURE (Final [**2136-2-16**]):    NO ANAEROBES ISOLATED.
+
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+.
+[**2136-2-13**] HD Catheter tip cx: MSSA
+.
+IMAGING:
+.
+[**2136-2-11**] CT head: No acute intracranial process. Consider MRI
+given the patient's history of prior infarcts if clinically
+warranted.
+.
+[**2136-2-11**] CXR: Congestive heart failure, large left pleural
+effusion. Follow up post-diuresis is recommended
+.
+[**2136-2-11**] CT abdomen:
+1. Large left pleural effusion which is incompletely imaged with
+complete
+collapse of the left lower lobe and visualized lingula. Right
+lower lobe
+probable early pneumonia and/or fluid overload.
+2. Apparent wall thickening of collapsed descending colon,
+sigmoid and rectum may represent mild colitis; however, this may
+also be secondary to
+underdistension.
+3. Interval decrease in ascites. Persistent body wall and
+mesenteric edema, likely secondary to underlying liver disease.
+
+4. Cirrhosis with stigmata of portal hypertension.
+5. L5 spondylolysis.
+.
+[**2136-2-16**] TEE: No mass or thrombus is seen in the right atrium or
+right atrial appendage. No atrial septal defect is seen by 2D or
+color Doppler. Overall left ventricular systolic function is
+normal (LVEF>55%). Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion. No masses or
+vegetations are seen on the aortic valve. There is no aortic
+valve stenosis. No aortic regurgitation is seen. The mitral
+valve leaflets are structurally normal. No mass or vegetation is
+seen on the mitral valve. Mild (1+) mitral regurgitation is
+seen. No vegetation/mass is seen on the pulmonic valve. There is
+a small pericardial effusion. No right atrial or right
+ventricular diastolic collapse is seen.
+
+IMPRESSION: No valvular vegetations seen. No evidence of
+vegetation on right atrial line. Small pericardial effusion with
+no evidence of right atrial or right ventricular collapse.
+.
+[**2136-2-19**] TTE: The left atrium is normal in size. Left ventricular
+wall thicknesses and cavity size are normal. Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Overall left ventricular systolic function is
+normal (LVEF>55%). Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. No masses or vegetations are seen on the mitral
+valve, but cannot be fully excluded due to suboptimal image
+quality. Mild to moderate ([**11-26**]+) mitral regurgitation is seen.
+There is a moderate sized pericardial effusion. The pericardium
+may be thickened. There is right ventricular diastolic collapse,
+consistent with impaired fillling/tamponade physiology.
+.
+[**2136-2-21**] TTE: Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets (?#) appear structurally normal with
+good leaflet excursion. The mitral valve leaflets are
+structurally normal. There is no mitral valve prolapse. Trivial
+mitral regurgitation is seen. There is a very small pericardial
+effusion.
+
+IMPRESSION: Very smal

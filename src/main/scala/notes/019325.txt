@@ -1,0 +1,185 @@
+Admission Date:  [**2174-3-9**]              Discharge Date:   [**2174-3-31**]
+
+Date of Birth:  [**2112-12-12**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Zosyn / Cephalosporins
+
+Attending:[**Last Name (NamePattern1) 1171**]
+Chief Complaint:
+Bile lead s/p cholecystectomy requiring ERCP
+
+Major Surgical or Invasive Procedure:
+ERCP
+Mechanical ventilation
+
+
+History of Present Illness:
+This is a 61-year-old man with ETOH and cocaine abuse, CHF w/ EF
+15% who presented to an OSH on [**3-6**] with abdominal pain and
+sepsis.  He was found to have a gangrenous gallbladder, and
+underwent surgical resection on [**3-7**] with percutaneous drain
+placement.  Cultures grew alpha hemolytic streptocoocus.  This
+procedure was complicated by a bile leak, and he was transferred
+to [**Hospital1 18**] for ERCP.
+.
+On arrival to the [**Hospital 86340**] medical intensive care unit, patient was
+intubated and mildly sedated but responsive and following
+commands.  He was on vasopressin with a systolic blood pressure
+in the 90-100 range.  Antibiotics included: vancomycin, zosyn,
+and levofloxacin.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of breath. Denied chest pain
+or tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias.
+
+Past Medical History:
+--CHF - EF 15%, [**2169**], thought to be due to ETOH and cocaine
+--COPD
+--Hypertension
+--ETOH abuse
+--Cocaine abuse
+--Colitis, details unknown
+--ARF
+--RBBB
+--History of CVA
+
+Social History:
+ETOH - reports he drinks enough to pass out daily (about 3
+shots/day).  However, on discharge, patient states that he has
+"quit everything": alcohol, smoking, and all illicits.
+
+Family History:
+Patient denies any family history of HTN, DM, high cholesterol,
+or heart disease.  He states his brother just passed away 2
+months ago from cancer (unsure of what kind).
+
+Physical Exam:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin:  warm and dry
+
+Pertinent Results:
+CXR [**2174-3-9**].
+FINDINGS: Exam is limited by underexposed technique.
+Endotracheal tube terminates about 6.6 cm above the carina, and
+a nasogastric tube courses below the diaphragm. Heart is
+enlarged, and there is mild pulmonary vascular congestion.
+Bibasilar retrocardiac opacities are present, as well as small
+bilateral pleural effusions with some intrafissural extension on
+the right.
+.
+ERCP. [**2174-3-9**].
+Cannulation of the biliary duct was successful A straight tip
+0.025 in, 270cm visiglide wire was placed. Extravasation was
+noted at the cystic duct remnant. Large flow of contrast noted,
+consistent with clinically suspected bile leak. Limited view of
+intrahepatic ducts, no evidence of leak at ducts of luschka.  An
+9cm by 10FR Cotton [**Doctor Last Name **] biliary stent was placed successfully
+using a Oasis 10FR stent introducer kit.  Stent placed in common
+hepatic duct with excellent drainage of bile.  No immediate
+complications
+.
+Echo [**2174-3-10**].
+The left atrium is elongated. Left ventricular wall thicknesses
+are normal. The left ventricular cavity is moderately dilated.
+There is severe global left ventricular hypokinesis (LVEF =
+15-20%). Regional distribution of LV dysfunction (apical
+segments marginally more contractile than the base) argues for a
+non-coronary etiology of the cardiomyopathy, although this is by
+no means a definitive assessment. Right ventricular chamber size
+and free wall motion are normal. The ascending aorta is mildly
+dilated. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Trivial mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] The pulmonary artery systolic
+pressure could not be determined. There is no pericardial
+effusion.
+
+IMPRESSION: Dilated left ventricle with severe global systolic
+dysfunction. Preserved right ventricular systolic function. No
+clinically-significant valvular disease seen.
+.
+CT Abdomen/pelvis.
+IMPRESSION:
+1. Persistent fluid and fat stranding seen in the region of the
+gallbladder fossa, corresponding to the extraluminal biliary
+leak seen during ERCP.
+2. Minimal stranding about the pancreatic tail, possibly related
+to uncomplicated pancreatitis.
+3. Degenerative changes in the spine.
+
+Brief Hospital Course:
+Mr. [**Known lastname 40612**] is a 61 year old with alcohol abuse, gangrenous gall
+bladder s/p surgical cholecystectomy complicated by bile leak,
+transferred from OSH for ERCP.  His hospital course was
+complicated by septic shock, persistent fevers, and prolonged
+intubation.  He was initially admitted to the ICU, and then to
+the general cardiac floor.
+
+# GANGRENOUS GALLBLADDER S/P SURGICAL RESECTION WITH BIL LEAK:
+Treated with drainage at OSH, on imipenem/vancomycin/flagyl on
+transfer. On admission, patient underwent ERCP with stenting of
+the CBD. He was kept on antibiotics with cefepime/flagyl/vanco
+with improvement in his condition.  Abdominal U/S done on [**2174-3-9**]
+showed no ascites or evidence of abscess. The patient will
+require removal of the CBD stent within one month of placement
+per ERCP recs. General surgery was consulted and recommended
+supportive care, weaned ventilation, and broad spectrum
+antibiotics. A CT abdomen/pelvis with contrast done on [**2174-3-10**]
+showed no free gas or fluid in the pelvis and no pelvic sidewall
+or inguinal lymphadenopathy.  The JP drain was monitored and had
+ongoing small amounts of drainage; drain will remain in place
+until patient has follow-up outpatient ERCP.  LFTs were
+monitored and found to be within normal limits.
+
+On [**2174-3-14**], vancomycin and cefepime were stopped, and Mr. [**Known lastname 40612**]
+was put on cipro and flagyl.  He was noted to spike a temp of
+103F on [**2174-3-15**], so he was pan cultured again and Zosyn was added
+on for extra gram negative coverage; he required pressors
+intermittently during this time for low SBPs in the 70s.
+Despite multiple cultures, no source of infection was found.
+However, the patient's leukocytosis was noted to eventually
+resolve, and all antibiotics were stopped on [**2174-3-20**].
+
+# SEPTIC SHOCK:  Mr. [**Known lastname 40612**] had been on vasopressin at the time
+of transfer from the OSH but as he was HD stable, this was
+discontinued on admission to [**Hospital1 18**] ICU.  He was treated with IV
+vancomycin, cefepime and flagyl and despite improvements in his
+WBC, he continued to spike fevers through [**3-13**].  His antibiotics
+were changed to ciprofloxacin/flagyl on [**2174-3-14**]; as noted above,
+Zosyn was added on [**2174-3-15**].  The patient was noted to have a drug
+rash with Zosyn, so was transiently switched to Meropenem.  All
+antibiotics were discontinued on [**2174-3-20**].  The patient remained
+afebrile, HD stable, and without leukocytosis.
+
+# RESPIRATORY FAILURE.  Patient remained intubated during much
+of his hospital stay for altered mental status, abdominal
+distention, volume status, and COPD.  Patient was gradually
+weaned from the ventilator and successfully extubated on
+[**2174-3-20**]. Patient was transferred to the floor for further
+management and was doing well, but was noted to have an
+increased oxygen requirement of 6L NC in the setting of SBP in
+the 80s (his baseline) and in apparent fluid overload.  He was
+transferred back to the ICU on [**3-24**] for diuresis and close
+monitoring of his blood pressure. He was given his home dose of
+torsemide and diuresed well over the next 4 days until transfer
+to cardiology service (because of CHF) when he was satting 95

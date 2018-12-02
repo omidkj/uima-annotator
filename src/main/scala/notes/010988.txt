@@ -1,0 +1,173 @@
+Admission Date:  [**2199-11-20**]              Discharge Date:   [**2199-12-11**]
+
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Sulfa (Sulfonamides) / Novocain / Ciprofloxacin
+
+Attending:[**First Name3 (LF) 301**]
+Chief Complaint:
+Jaundice, abdominal pain
+
+Major Surgical or Invasive Procedure:
+ultrasound-guided percutaneous cholecystostomy tube placement
+
+
+History of Present Illness:
+Patient is 83 year-old female transferred from [**Hospital **]
+hospital to [**Hospital1 18**] on [**2199-11-20**] for management of gallstone
+pancreatitis. She was initially admitted to [**Hospital1 **] for an
+ankle fracture, for which she underwent orthopaedic surgery and
+an external fixation device was placed. Post-operatively at
+[**Hospital1 **] she developed 3 days of epigastric pain and jaundice
+and was diagnosed with pancreatitis and stone in the
+gallbladder. MRCP showed 1cm common bile duct and intrahepatic
+ductal dilatation. ERCP was then attempted and was aborted when
+the patient developed tachycardia during the procedure. She was
+evaluated by [**Hospital1 **] cardiology for paroxysmal a-fib and
+subsequently transferred to [**Hospital1 18**].
+
+Past Medical History:
+Paroxysmal atrial fibrillation, previously not anticoagulated
+CAD, stable angina
+TIA
+HTN
+Hypercholesterolemia
+s/p TAH/BSO
+s/p pinning of Right ankle
+
+Pertinent Results:
+Admission labs:
+[**2199-11-20**] 07:14AM   ALT(SGPT)-94* AST(SGOT)-115* LD(LDH)-413* ALK
+PHOS-286* AMYLASE-118* TOT BILI-7.1*
+[**2199-11-20**] 07:14AM   LIPASE-68*
+[**2199-11-20**] 07:14AM   WBC-21.5* RBC-4.29 HGB-13.0 HCT-37.5 MCV-88
+MCH-30.3 MCHC-34.7 RDW-16.1*
+
+Discharge labs: ([**2199-12-11**])
+INR 1.6, wbc 6.6, hct 28.6
+
+CT [**11-29**]
+1. Edematous pancreas with peripancreatic inflammatory changes
+consistent
+with pancreatitis. No mass is visualized in the pancreatic head
+or
+surrounding the common bile duct. A small mass may be present
+but obliterated by the diffuse inflammatory changes. The
+pancreas enhances homogeneously, there is no evidence of
+necrosis.
+2. No biliary dilatation. Findings consistent with hepatic
+cirrhosis.
+Conventional hepatic vasculature.
+3. Colonic diverticulosis without evidence of diverticulitis.
+There is mild thickening of the colonic wall throughout which
+may be secondary to low protein state.
+4. A peripheral opacity seen in the right upper lobe is likely
+related to
+inflammatory changes. A nodule in the atelectatic portion of the
+lung would not be visualized.
+
+Echocardiogram [**2199-12-4**]
+Conclusions:
+The left atrium is mildly dilated. A left-to-right shunt across
+the interatrial septum is seen at rest c/w a small secundum
+atrial septal defect. Left ventricular wall thickness, cavity
+size, and systolic function are normal (LVEF>55%). Regional left
+ventricular wall motion is normal. Right ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+(3) appear structurally normal with good leaflet excursion and
+no aortic regurgitation. The mitral valve leaflets are
+structurally normal. Mild (1+) mitral regurgitation is seen. The
+estimated pulmonary artery systolic pressure is normal. There is
+no pericardial effusion.
+
+IMPRESSION: Preserved global and regional biventricular systolic
+function. Mild mitral regurgitation.
+
+
+Brief Hospital Course:
+Patient presented as outlined above and was admitted to the SICU
+at [**Hospital1 18**]. RUQ ultrasound showed distended gall bladder with
+positive [**Doctor Last Name 515**] sign, and the patient was diagnosed with
+cholecystitis as well as pancreatitis. She was started on broad
+spectrum antibiotics (Vanc/ceftazidime/Flagyl), hydrated, and a
+percutaneous cholecystostomy tube was successfully placed by
+ultrasound guidance. Her white count dropped to 3.3 after the
+procedure and there was initial concern that the patient she was
+developing a septic picture, however blood cultures were
+negative, bile cultures grew MDR E-coli (although sensitivities
+at this point were still pending). Gastroenterology and
+orthopaedic services were both consulting on the patient, and
+cardiac enzymes were sent that returned negative. The patient
+remained afebrile, clinically stable, and her LFTs continued to
+trend down over the next several days while her white count
+returned to the normal range. She was started on clears on [**11-23**]
+and MRCP was entertained but held given the presence of the
+external fixation device, as well as decreasing total bili and
+the recent OSH MRCP that did not reveal an obstruction.
+Orthopaedics was re-consulted regarding temporary removal but
+did not favor doing so. She was transferred out of the ICU on
+[**2199-11-23**], with pancreatic enzymes normalized, and her antibiotic
+regimen was changed to imipenem once the bile cultures-Ecoli
+sensitivities returned. Her LFTs seemed to reach a plateau in
+their decline near [**11-26**] and due to remaining above normal, and
+an increase in the wbc to 12, an ERCP was performed on [**11-27**]
+which revealed a non-dilated bile duct with a tapered stricture
+in the distal CBD. The intrahepatic ducts appeared normal. CT
+scan was performed on [**11-29**], which did not reveal a mass or
+other cause of the CBD stricture. Please see the results section
+above for the summarized findings. Right lower extremity
+ultrasound was also performed per orthopaedic request that was
+negative for a DVT. Patient was tolerating a full diet however
+her intake was poor, and TPN was initiated on [**11-28**] via a newly
+placed PICC line. Cardiology was consulted on [**11-29**] when the
+patient experienced a short episode of asymptomatic Vtach
+overnight and subsequent atrial fibrillation that responded to
+beta-blockers. Her electrolytes were monitored closely and an
+echocardiogram was obtained that demonstrated EF 55% with
+relatively well-preserved global function. The patient was
+slightly fluid overloaded and did well with some mild diuresis,
+with no further episodes of vtach or a-fib. She has a known
+diagnosis of paroxysmal atrial fibrillation and therefore
+cardiology recommended longterm anticoagulation. Coumadin was
+initiated with a brief period of lovenox until she became
+therapeutic. Due to persistent leakage around the
+cholecystostomy tube a paracentesis was performed on [**2199-12-4**] that
+drained several liters of clear, non-bilous ascites. Worry for a
+bile leak was primary reason for the paracentesis, which
+revealed simple ascites, likely due to malnutrition, and bile
+leak was ruled out. Over the next week patient was feeling
+considerably better and her laboratory results were also
+improved. Total bili fell to below 2 and her wbc again
+normalized. On [**2199-12-6**] she was noted to have several small, loose
+stools and a cdiff test was sent that returned positive. She did
+not experience any further loose stools, and showed no other
+symptoms of infection. Infectious disease was consulted and did
+not recommend treatment with flagyl for likely bacterial
+shedding. Her meropenem was discontinued on [**12-6**] after a full, 2
+week course. She remained afebrile, and her appetite slowly
+picked up (calorie counts). Her Picc line was removed on [**12-10**]
+and the TPN was weaned off. She is being discharged to rehab on
+[**2199-12-11**], afebrile, tolerating a full diet with
+borderline-sufficient calorie counts and emphatic refusal of any
+sort of feeding tube. She is still non-weight bearing on the RLE
+and activity is still limited to sitting up in the chair daily
+as a goal. She will need very close follow-up with her
+internist/the rehab internist, orthopaedics, general surgery and
+possibly thoracic surgery as outlined in the PAGE 1 referral.
+Thank you.
+
+Discharge Medications:
+1. Insulin Regular Human 100 unit/mL Solution Sig: [**12-2**] units
+Injection ASDIR (AS DIRECTED): Please follow sliding scale rules
+of the rehabilitation facility.
+Disp:*100 units* Refills:*2*
+2. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed. neb
+3. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed.
+4. Acetaminophen-Codeine 120-12 mg/5 mL Elixir Sig: 12.5-25 MLs
+PO Q4H (every 4 hours) as needed for pain.
+5. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable

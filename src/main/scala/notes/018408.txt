@@ -1,0 +1,211 @@
+Admission Date:  [**2164-9-8**]              Discharge Date:   [**2164-9-21**]
+
+Date of Birth:  [**2106-6-3**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+Aortic Valve Replacement ( 27mm [**Company 1543**] porcine) [**9-17**]
+
+
+History of Present Illness:
+The patient presented to an outside hospital with recurrent
+shortness of breath.  He had been treated with diuretics
+earlier, but symptoms persisted.  He was treated for congestive
+failure and diuresis was continued. He was transferred here for
+further workup and treatment.
+
+Past Medical History:
+hypertension
+chronic renal insufficiency
+
+
+Social History:
+Tobacco history: Currently smoking
+ETOH: Denies
+Illicit drugs: Denies
+
+
+Family History:
+No family history of early MI, otherwise non-contributory.
+
+Physical Exam:
+Admission
+VS 97.5  HR83  BP186/85  RR24  O2sat 99% nonrebreather  Ht68"
+Wt200
+Gen NAD
+Neuro A&Ox3
+Heent PERRL/EOMI anicteric. MMM, neck supple
+CV RRR, S1-S2 4/6 SEM,
+Pulm Bilat rales 1/3way up
+Abdm soft, NT/ND, +BS
+Ext warm, no CCE
+
+Discharge
+VS T98  BP 122/85  RR18  O2sat 93%-RA  Wt 100.4K
+Gen NAD
+Neuro nonfocal exam
+CV RRR, no murmur. Sternum stable incision CDI
+Pulm CTA-bilat
+Abdm soft, NT/ND/+BS
+Ext warm well perfused. trace edema
+
+Pertinent Results:
+[**2164-9-8**] 06:56PM   GLUCOSE-242* UREA N-25* CREAT-1.6* SODIUM-140
+POTASSIUM-2.7* CHLORIDE-101 TOTAL CO2-29 ANION GAP-13
+[**2164-9-8**] 06:56PM   ALBUMIN-3.3* CALCIUM-7.5* PHOSPHATE-4.2
+MAGNESIUM-1.7
+[**2164-9-8**] 05:06PM   CK(CPK)-159
+[**2164-9-8**] 05:06PM   CK-MB-5 cTropnT-0.09*
+[**2164-9-8**] 11:18AM URINE  HOURS-RANDOM UREA N-276 CREAT-39
+SODIUM-110
+[**2164-9-8**] 11:18AM URINE  OSMOLAL-289
+[**2164-9-8**] 09:32AM   %HbA1c-5.8
+[**2164-9-8**] 01:55AM   WBC-5.8 RBC-4.49* HGB-13.8* HCT-39.6* MCV-88
+MCH-30.7 MCHC-34.8 RDW-13.4
+[**2164-9-8**] 01:55AM   PLT COUNT-180
+[**2164-9-8**] 01:55AM   PT-13.5* PTT-24.9 INR(PT)-1.2*
+[**2164-9-21**] 05:00AM BLOOD WBC-6.9 RBC-3.05* Hgb-9.4* Hct-26.8*
+MCV-88 MCH-30.9 MCHC-35.2* RDW-12.9 Plt Ct-199
+[**2164-9-21**] 05:00AM BLOOD Plt Ct-199
+[**2164-9-17**] 12:00PM BLOOD PT-15.1* PTT-43.7* INR(PT)-1.3*
+[**2164-9-21**] 05:00AM BLOOD Glucose-94 UreaN-28* Creat-1.4* Na-134
+K-3.9
+
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2164-9-20**] 9:06 AM
+
+[**Hospital 93**] MEDICAL CONDITION:
+   58 year old man with
+REASON FOR THIS EXAMINATION:
+   ??ptx
+Preliminary Report !! PFI !!
+No significant interval change. No pneumothorax.
+
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4130**]
+PFI entered: [**Doctor First Name **] [**2164-9-20**] 11:52 AM
+
+
+
+Radiology Report RENAL U.S. Study Date of [**2164-9-19**] 4:15 PM
+ [**Hospital 93**] MEDICAL CONDITION:
+   58 year old man with
+REASON FOR THIS EXAMINATION:
+   renal doppler to r/o renal artery stenosis
+Final Report
+HISTORY: 58-year-old male with renal Doppler to evaluate for
+renal artery
+stenosis.
+COMPARISON: None available.
+RENAL ULTRASOUND: The right kidney measures 11.0 cm, and the
+left kidney
+measures 9.8 cm. There is no evidence of stones, mass, or
+hydronephrosis.
+Doppler waveform analysis of the renal arteries was performed to
+evaluate for renal artery stenosis. The right kidney
+demonstrates normal arterial
+waveforms throughout, with normal resistive indices of
+0.62-0.68.
+The left renal arteries are difficult to evaluate despite
+scanning with
+multiple accoustic windows and in multiple patient positions.
+However, a
+waveform tracing obtained from the upper pole was normal, with a
+normal
+resistive indicex of 0.69.
+The bladder is visualized and is unremarkable.
+IMPRESSION:
+1. No evidence of stones, mass, or hydronephrosis.
+2. No evidence of renal artery stenosis on the right.
+3. Despite slight limitation on the left, no evidence of renal
+artery
+stenosis.
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**First Name (STitle) **] [**Doctor Last Name 3900**]
+DR. [**First Name11 (Name Pattern1) 8711**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname **], [**Known firstname 275**]       [**Hospital1 18**] [**Numeric Identifier 80024**]Portable TEE
+(Complete) Done [**2164-9-10**] at 10:15:54 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] S.
+[**Hospital1 **] C
+[**Location (un) 830**], E/RW-453
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2106-6-3**]
+Age (years): 58 M  Hgt (in): 68
+BP (mm Hg): 140/65  Wgt (lb): 213
+HR (bpm): 83  BSA (m2): 2.10 m2
+Indication: Aortic valve disease. ? Aortic dissection.
+ICD-9 Codes: 428.0, 424.1
+Test Information
+Date/Time: [**2164-9-10**] at 10:15    Interpret MD: [**Name6 (MD) **] [**Name8 (MD) 4082**], MD
+Test Type: Portable TEE (Complete) Son[**Name (NI) 930**]: Cardiology
+Fellow
+Doppler: Full Doppler and color Doppler Test Location: West CCU
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008W000-0:00 Machine: Vivid i-4
+    Sedation: Versed: 1.5 mg
+Fentanyl: 50 mcg
+(See comments below for other sedation.)
+Patient was monitored by a nurse throughout the procedure
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  *3.3 cm  <= 2.5 cm
+Findings
+LEFT ATRIUM: Moderate LA enlargement. No spontaneous echo
+contrast or thrombus in the LA/LAA or the RA/RAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+LEFT VENTRICLE: Symmetric LVH. Normal LV cavity size.
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Mildly dilated descending aorta.
+Simple atheroma in abdominal aorta. No thoracic aortic
+dissection.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No
+masses or vegetations on aortic valve, but cannot be fully
+excluded due to suboptimal image quality. Moderate (2+) AR.
+Eccentric AR jet directed toward the anterior mitral leaflet.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No masses
+or vegetations on mitral valve, but cannot be fully excluded due
+to suboptimal image quality. Mild (1+) MR.
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was monitored by a nurse [**First Name (Titles) **] [**Last Name (Titles) 9833**]
+throughout the procedure. The patient was monitored by a nurse
+in [**Last Name (Titles) 9833**] throughout the procedure. Local anesthesia was
+provided by benzocaine topical spray. The posterior pharynx was
+anesthetized with 2% viscous lidocaine. 0.2 mg of IV
+glycopyrrolate was given as an antisialogogue prior to TEE probe
+insertion. No TEE related complications. Image quality was
+suboptimald - poor esophageal contact. Resting tachycardia
+(HR>100bpm). MD caring for the patient was notified of the
+echocardiographic results by e-mail. Echocardiographic results
+were reviewed with the houseofficer caring for the patient.
+Conclusions
+Technically suboptimal study due to poor contact.
+The left atrium is moderately dilated. No spontaneous echo
+contrast or thrombus is seen in the body of the left atrium/left
+atrial appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler. There is prominent symmetric left ventricular
+hypertrophy with normal cavity size. There are simple atheroma
+in the abdominal aorta. The descending aorta is mildly dilated.
+.No thoracic aortic dissection is seen. The aortic valve
+leaflets (3) are mildly thickened. No masses or vegetations are
+seen on the aortic valve, but cannot be fully excluded due to
+suboptimal image quality. There is no aortic valve stenosis. An
+eccentric jet of moderate (2+) aortic regurgitation is seen
+directed towards the anterior mitral leaflet. The mitral valve
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is
+seen. There is a trivial/physiologic pericardial e

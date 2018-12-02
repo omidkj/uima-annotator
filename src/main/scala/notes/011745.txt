@@ -1,0 +1,233 @@
+Admission Date:  [**2115-1-15**]              Discharge Date:   [**2115-1-27**]
+
+Date of Birth:  [**2046-7-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Methotrexate / Enbrel / Ceftazidime
+
+Attending:[**Last Name (NamePattern1) 293**]
+Chief Complaint:
+lower extremity weakness, aspiration pneumonia post-surgery
+
+Major Surgical or Invasive Procedure:
+laminectomy and discectomy
+
+History of Present Illness:
+This is a 68year old M with history of hypertension, coronary
+artery disease, diabetes mellitus, rheumatoid arthritis and
+spinal stenosis who presented with increased lower extremity
+weakness 3 days prior to admission. He underwent L3-5
+laminectomy /fusion for spinal stenosis on [**2114-11-16**]. He has been
+lying flat in bed since surgery and on [**1-19**] 04 developed
+shortness of breath with sat in 91%RA and then 80%RA. He was put
+on NRB at87-95%. ABG 7.44/33/69 on NRB. CXR showed RLL superior
+segment pneumonia, likely from aspiration
+
+Past Medical History:
+1. Hypertension
+2. diabetes mellitus
+3. COPD
+4. spinal stenosis
+5. pheumatic heart disease
+
+Social History:
+occasional ETOH, no other drug use. smoked >1ppd for >40 years,
+quit 8 years ago
+
+Family History:
+father and brother with kidney cancer
+
+Physical Exam:
+T99.1 P130 BP 129/73 R22 sat 98% NRB, I/O 2L/2.2L
+Gen-moderate respiratory distress
+HEENT_mmm, JVP 8cm
+CV-tachy, rrr, no r/m/g
+resp-b/l expiratory wheezes
+[**Last Name (un) 103**]-slight distension, +BS
+extremities-no edema, no tenderness, no Homans, 2+pulses
+
+Pertinent Results:
+[**2115-1-21**] 03:52AM BLOOD WBC-8.3 RBC-3.24* Hgb-9.8* Hct-29.8*
+MCV-92 MCH-30.3 MCHC-33.0 RDW-14.5 Plt Ct-252
+[**2115-1-20**] 05:41AM BLOOD WBC-11.7* RBC-3.49* Hgb-10.8* Hct-32.6*
+MCV-93 MCH-30.9 MCHC-33.1 RDW-15.5 Plt Ct-269
+[**2115-1-19**] 08:35PM BLOOD WBC-12.3*# RBC-4.15* Hgb-12.8*#
+Hct-39.0*# MCV-94 MCH-30.9 MCHC-32.9 RDW-15.0 Plt Ct-406
+[**2115-1-20**] 05:41AM BLOOD Neuts-86* Bands-3 Lymphs-8* Monos-3 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2115-1-21**] 03:52AM BLOOD Plt Ct-252
+[**2115-1-21**] 03:52AM BLOOD PT-13.2 PTT-34.6 INR(PT)-1.1
+[**2115-1-21**] 03:52AM BLOOD Glucose-131* UreaN-36* Creat-1.1 Na-141
+K-5.0 Cl-111* HCO3-21* AnGap-14
+[**2115-1-20**] 05:41AM BLOOD Glucose-111* UreaN-26* Creat-1.0 Na-140
+K-4.8 Cl-111* HCO3-20* AnGap-14
+[**2115-1-19**] 08:35PM BLOOD Glucose-160* UreaN-24* Creat-0.9 Na-138
+K-5.1 Cl-105 HCO3-22 AnGap-16
+[**2115-1-20**] 05:41AM BLOOD CK(CPK)-35*
+[**2115-1-19**] 08:35PM BLOOD Lipase-21
+[**2115-1-19**] 08:35PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2115-1-17**] 07:00AM BLOOD CK-MB-5 cTropnT-0.01
+[**2115-1-21**] 03:52AM BLOOD Calcium-8.0* Phos-3.9 Mg-2.4
+[**2115-1-19**] 11:18PM BLOOD Type-ART Temp-38.3 pO2-113* pCO2-42
+pH-7.34* calHCO3-24 Base XS--2 Intubat-NOT INTUBA
+Comment-NON-REBREA
+[**2115-1-19**] 08:50PM BLOOD Type-ART Temp-36.1 Rates-/22 FiO2-100
+pO2-69* pCO2-33* pH-7.44 calHCO3-23 Base XS-0 AADO2-630 REQ
+O2-100 Intubat-NOT INTUBA Vent-SPONTANEOU
+[**2115-1-19**] 11:18PM BLOOD Lactate-1.4
+[**2115-1-19**] 08:50PM BLOOD Lactate-1.9
+[**2115-1-16**] 06:25PM BLOOD Hgb-10.2* calcHCT-31
+[**2115-1-19**] 08:50PM BLOOD freeCa-1.13
+
+CTA [**2115-1-19**]:CTA CHEST WITH AND WITHOUT CONTRAST: Examination of
+the pulmonary arterial
+tree fails to reveal any intraluminal filling defect that would
+suggest
+pulmonary embolus. Coronary artery and aortic arthroscerlotic
+calcifications
+are present. Small mediastinal and hilar lymph nodes are
+present, but they do
+not meet the CT criteria for pathologic enlargement. There is no
+pericardial
+effusion. The central airways are patent. There is a background
+of
+centrilobular emphysema. Moderate patchy consolidated opacities
+are present
+in the dependent portions of the right upper and lower lobes.
+Given the
+diffuse thickening of the esophagus and fluid within the
+proximal esophagus,
+the consolidation may represent aspiration pneumonia. There is
+some mild
+pleural thickening posteriorly on the right. Minimal atelectasis
+is present in
+the dependent portions of the left lower lobe. Multiple old rib
+fractures
+are noted on the right.
+
+CT RECONSTRUCTIONS: Coronal and sagittal reformatting performed
+for additional
+assessment of the pulmonary arteries agrees with the above
+findings.
+
+IMPRESSION:
+1. No pulmonary embolus detected.
+2. Right upper and lower lobe consolidated opacities suggesting
+pneumonia.
+3. Thickened esophagus suggesting esophagitis. Retention of
+fluid in the
+proximal esophagus raises suspicion for aspiration in the right
+lung.
+
+
+
+
+
+
+
+
+
+Brief Hospital Course:
+This is a 68yo male who underwent laminectomy and fusion on
+[**2115-1-16**] who developed respiratory distress from likely
+aspiration pneumonia.Post surgery, he had to be lying flat and
+most likely aspirated. He was also found to have possible dural
+leak and had to lie flat for more days in ICU. This impaired
+mucus clearance and further increased his chance of continued
+aspiration. He was put on high flow mask and antibiotics were
+started. He was initially on ceftazidime and levofloxacin.
+However, he developed allergic rash and the antibiotic was hence
+changed to Zosyn. Sputum culture initially showed gram negative
+rods and zosyn was continued while waiting for sensitivity. His
+respiratory status improved dramatically when he was able to be
+sitted up per neurosurgery. He was also found to be very sedated
+with just a tiny touch of morphine. His mental status improved
+drastically with discontinuation of morphine and just using
+tylenol for pain control. His sputum eventually grew Citrobacter
+which is sensitive to levofloxacin and he was hence changed to
+PO levofloxacin.
+Of note, his RA medication-Arava was initially held because of
+the immunosuppresive effect while he was acutely ill. It has
+been restarted prior to discharge from the hospital.
+Patient found to be guiaic positive on this admission. Stable
+hematocrit, recommend outpatient colonoscopy.
+He has been very cooperative with physical therapy and is
+discharged to rehab with outpatient follow up with neurosurgery.
+
+
+.
+
+
+Medications on Admission:
+lisinopril
+atenolol
+lipitor
+protonix
+metformin
+ASA
+flovent
+heparin sc TID
+SSI
+cefazolin
+colace
+lipitor
+prednisone
+
+Discharge Medications:
+1. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+2. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)
+ml Injection TID (3 times a day).
+5. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig:
+[**1-20**] Disk with Devices Inhalation [**Hospital1 **] (2 times a day).
+6. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) as
+needed for constipation.
+7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed for constipation.
+8. Methyl Salicylate-Menthol     Ointment Sig: One (1) Appl
+Topical  TID (3 times a day) as needed.
+9. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours).
+10. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+11. Albuterol Sulfate 0.083 % Solution Sig: [**1-20**]  Inhalation
+Q4-6H (every 4 to 6 hours) as needed.
+12. Ipratropium Bromide 0.02 % Solution Sig: [**1-20**]  Inhalation Q6H
+(every 6 hours) as needed.
+13. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+14. Leflunomide 10 mg Tablet Sig: One (1) Tablet PO q3days ().
+15. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.)
+Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24
+hours).
+16. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+17. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 6 days. Tablet(s)
+18. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+19. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Tablet(s)
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 2971**] Rehabilitation and Nursing Center - [**Hospital1 1474**]
+
+Discharge Diagnosis:
+1. Aspiration pneumonia
+2. post laminectomy
+3. diabetes
+4. hypertension
+
+
+Discharge Condition:
+stable, ambulating with assistance, no oxy

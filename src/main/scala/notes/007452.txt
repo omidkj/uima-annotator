@@ -1,0 +1,196 @@
+Admission Date:  [**2103-6-2**]              Discharge Date:   [**2103-6-7**]
+
+Date of Birth:  [**2029-12-9**]             Sex:   M
+
+Service: [**Doctor First Name 147**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 371**]
+Chief Complaint:
+Septic shock due to necrotizing fasciitis of the left flank
+
+Major Surgical or Invasive Procedure:
+1. Sharp debridement of necrotizing wound of the left flank
+([**2103-6-2**])
+2. Placement of central venous catheter [**2103-6-2**]
+
+History of Present Illness:
+73 yo male with a history of diabetes, end stage renal failure,
+and congestive heart failure presents to the emeergency
+department with evidence of septic shock following a recent
+fall. Pt has been confused, acutely hypotensive (80/50).  The
+patient has had diarrhea and dizziness for the last 2 days and
+fell while trying to go to the bathroom.  A family member noted
+that he struck his head and flank on falling.
+
+Past Medical History:
+end stage renal disease on hemodialysis
+diabete mellitus
+congestive heart failure (EF 30% with 3+ MR)
+Atrial fibrillation (on coumadin)
+hypertension
+gout
+
+
+Social History:
+Divorced living with daughter.
+History of alcohol abuse
+
+Family History:
+None
+
+Physical Exam:
+VS: t98.4 bp 114/59 (levophed 0.3) 80 (on pacer) 12 100%
+Confused, AOx1
+pulm: clear to aucsultation bilaterally
+cv: regular systolic murmur
+abd: distended with left flank ecchymosis, erythema, and
+tenderness.  Extends from pelvis to the shoulder.
+rectum: guaiac negative, no masses
+ext: warm
+
+
+Pertinent Results:
+[**2103-6-2**] 11:56PM   TYPE-ART TEMP-37.2 RATES-[**7-27**] TIDAL VOL-700
+PEEP-5 O2-50 PO2-84* PCO2-54* PH-7.32* TOTAL CO2-29 BASE XS-0
+INTUBATED-INTUBATED VENT-CONTROLLED
+[**2103-6-2**] 11:56PM   LACTATE-3.5*
+[**2103-6-2**] 11:41PM   GLUCOSE-153* UREA N-37* CREAT-4.9* SODIUM-134
+POTASSIUM-5.6* CHLORIDE-94* TOTAL CO2-25 ANION GAP-21*
+[**2103-6-2**] 11:41PM   WBC-24.5* RBC-4.02* HGB-11.7* HCT-39.3*
+MCV-98 MCH-29.2 MCHC-29.9* RDW-17.9*
+[**2103-6-2**] 05:57PM   TYPE-ART O2-40 PO2-116* PCO2-51* PH-7.37
+TOTAL CO2-31* BASE XS-3 INTUBATED-NOT INTUBA
+[**2103-6-2**] 05:57PM   LACTATE-3.1*
+[**2103-6-2**] 12:56PM   LACTATE-2.6*
+[**2103-6-2**] 12:27PM   GLUCOSE-108* UREA N-32* CREAT-5.1*
+SODIUM-131* POTASSIUM-5.4* CHLORIDE-91* TOTAL CO2-25 ANION
+GAP-20
+[**2103-6-2**] 12:27PM   CALCIUM-8.6 PHOSPHATE-3.1 MAGNESIUM-1.4*
+[**2103-6-2**] 12:27PM   WBC-20.3* RBC-4.04* HGB-11.7* HCT-39.1*
+MCV-97 MCH-28.9 MCHC-29.9* RDW-18.1*
+[**2103-6-2**] 07:10AM   LACTATE-5.6*
+[**2103-6-2**] 06:56AM   CK-MB-NotDone cTropnT-0.13*
+[**2103-6-2**] 06:56AM   WBC-18.4*# RBC-4.00* HGB-11.6* HCT-38.8*
+MCV-97 MCH-28.9 MCHC-29.8* RDW-17.7*
+[**2103-6-4**] 04:35AM BLOOD WBC-15.7* RBC-3.86* Hgb-11.0* Hct-35.9*
+MCV-93 MCH-28.4 MCHC-30.5* RDW-17.7* Plt Ct-146*
+[**2103-6-6**] 03:43AM BLOOD WBC-20.7* RBC-3.97*# Hgb-11.3* Hct-37.4*
+MCV-94 MCH-28.5 MCHC-30.4* RDW-17.7* Plt Ct-187
+[**2103-6-2**] 06:56AM BLOOD PT-17.3* PTT-30.9 INR(PT)-2.0
+[**2103-6-4**] 04:35AM BLOOD PT-19.1* PTT-32.2 INR(PT)-2.4
+[**2103-6-6**] 03:43AM BLOOD PT-17.4* PTT-31.7 INR(PT)-2.0
+[**2103-6-2**] 12:27PM BLOOD Glucose-108* UreaN-32* Creat-5.1* Na-131*
+K-5.4* Cl-91* HCO3-25 AnGap-20
+[**2103-6-4**] 11:26PM BLOOD Glucose-148* UreaN-42* Creat-5.4* Na-129*
+K-5.4* Cl-95* HCO3-18* AnGap-21*
+[**2103-6-6**] 03:43AM BLOOD Glucose-177* UreaN-35* Creat-4.4* Na-134
+K-4.5 Cl-97 HCO3-19* AnGap-23*
+[**2103-6-3**] 03:31AM BLOOD Type-ART pO2-101 pCO2-42 pH-7.41
+calHCO3-28 Base XS-1
+[**2103-6-4**] 11:56PM BLOOD Type-ART O2-70 pO2-85 pCO2-40 pH-7.33*
+calHCO3-22 Base XS--4
+[**2103-6-6**] 04:08AM BLOOD Type-ART Temp-37.1 pO2-84* pCO2-41
+pH-7.34* calHCO3-23 Base XS--3
+[**2103-6-2**] 07:10AM BLOOD Lactate-5.6*
+[**2103-6-3**] 03:31AM BLOOD Lactate-3.4*
+[**2103-6-5**] 04:20AM BLOOD Lactate-3.0*
+[**2103-6-6**] 04:08AM BLOOD Lactate-3.9*
+
+Brief Hospital Course:
+Following initiation of resuscitative efforts in the ED the
+patient was taken to the operating room for debridement of his
+left flank necrotizing soft tissue infection.  He was
+subsequently tranferred to the surgical intensive care unit for
+resuscitation of his septic shock.
+
+The remainder of his hospital course will be summarized by
+system:
+
+Neuro:
+The patient was maintained on sedative and analgesic medications
+throughout his course.  There were no specific untoward events
+during his stay.
+
+Pulmonary:
+The patient was mainained on the ventilator throughout his
+hospital course due to the severity of his illness.  There were
+no
+
+Cardiovascular:
+Beginning in the ED and continuing thereafter the patient
+required multiple pressor agents to sustain a perfusing
+pressure.  Agents included vasopressin, and levophed
+predominantly.  He stabilized with massive fluid resuscitation
+and these medications but remained dependent on them throuhout
+his stay.
+
+Fluids/GI:
+Initial and continued fluid resuscitation to approximately 15
+liters above his baseline was required to maintain peripheral
+perfusion.  There were no GI problems except for ileus.
+
+Renal:
+The patient was oliguric throughout his course consistent with
+his basline ESRD.  Hemodialysis was started after he appeared to
+stabilize late in his hospital stay.
+
+Heme/ID:
+The patient was started on broad spectrum empiric antibiotic
+therapy with input from the infectious disease team as well.
+Blood cultures were positive for Strep Pneumo and his antibiotic
+coverage was tailored accordingly.  Additional work-up to rule
+out an occult process contributing to his sepsis included
+cross-sectional body imaging, and cardiac echo both of which
+were unfruitful.
+
+Endocrine:
+Good glycemic control was acheived with insulin therapy.
+
+Wound:
+The left flank wound was found to track extensively along the
+fascial plane of the left side.  Wet to dry dressing changes
+were done daily with significant improvement in the overall
+appearance of the wound.  The progress of the wound necrosis had
+been halted with sharp debridement and resuscitation.
+
+The patient stabilized on intensive supportive therapy including
+antibiotics, mechanical ventilation, IV fluids, blood products,
+sharp debridement of the necrotic tissue, and pressors.  However
+there was little evidence that he would be able to wean from
+these measures.  Multiple meetings were held with members of his
+family.  By hospital day 5, they requested that comfort measures
+only be administered and the patient subsequently expired the
+same evening.  The cause of death is thought to be compications
+secondary to septic shock.
+
+Medications on Admission:
+allopurinol
+coumadin
+toprol
+vitamin b12
+amiodarone
+aspirin
+folate
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Septic shock
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+None
+
+Followup Instructions:
+None
+
+

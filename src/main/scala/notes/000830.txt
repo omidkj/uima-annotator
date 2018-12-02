@@ -1,0 +1,234 @@
+Admission Date:  [**2138-7-3**]              Discharge Date:   [**2138-7-6**]
+
+Date of Birth:  [**2108-12-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Tramadol
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Patient is a 29 yo female with asthma, hx of 2 icu admissions in
+the past, no intubations who presents with asthma exacerbation
+since 8pm last night.  She is unable to give a full history but
+believes that the triggers are environmental allergies.
+.
+Denies cp/n/v/d/abd pain/urinary/bowel symptoms
+.
+In ed rec'd steroids, cont nebs, magnesium heliox from 12 am to
+4:30 am with minimal effect.  PF was initially 200, increased to
+250 with nebs.  Patient was transferred to MICU for increased
+work of breathing.
+.
+pcp: [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] at [**Hospital1 756**]
+
+Past Medical History:
+asthma
+gerd
+anemia
+migraines
+ptsd
+hypothyroid
+fibromyalgia
+uti's
+legally blind--secondary to optic neuritis at age 10
+chronic pelvic pain
+chronic low back pain
+
+Social History:
+no smoking, etoh, drugs. lives alone with guiding eye dog, on
+disability. Hx of sexual abuse.
+
+Family History:
++asthma in father, cervical, [**Name2 (NI) 24817**] ca in grandparents
+
+Physical Exam:
+97.9 HR 146 sinus tach BP 121/42 O2 96-98% on 2L, pf 330
+GEN: anxious, tachypneic
+HEENT: PERLLA, EOMI, jvp flat, no erythema/exudate
+Lungs: insp wheezes in all quadrants with moderate air flow,
+right worse than left
+Heart: s1 s2 tach, no m/r/g
+Abd: obese, soft, +bs, rlq tenderness, no r/g
+Ext: no c/c/e
+Neuro: AOx3
+
+Pertinent Results:
+Admission Labs:
+
+[**2138-7-3**] 04:47AM   TYPE-ART O2 FLOW-2 PO2-110* PCO2-16* PH-7.49*
+TOTAL CO2-13* BASE XS--7 INTUBATED-NOT INTUBA COMMENTS-NASAL
+[**Last Name (un) 154**]
+[**2138-7-3**] 01:04AM   GLUCOSE-118* UREA N-11 CREAT-0.8 SODIUM-142
+POTASSIUM-3.5 CHLORIDE-108 TOTAL CO2-20* ANION GAP-18
+[**2138-7-3**] 01:04AM   CALCIUM-9.2 PHOSPHATE-2.6* MAGNESIUM-2.0
+[**2138-7-3**] 01:04AM   TSH-5.9*
+[**2138-7-3**] 01:04AM   FREE T4-0.97
+[**2138-7-3**] 01:04AM   ASA-NEG
+[**2138-7-3**] 01:04AM   WBC-7.8# RBC-4.33 HGB-11.7* HCT-33.2*
+MCV-77*# MCH-27.0# MCHC-35.2* RDW-16.6*
+[**2138-7-3**] 01:04AM   D-DIMER-515*
+.
+CXR: IMPRESSION: No acute cardiopulmonary abnormality
+.
+LENIs: Using linear probe, [**Doctor Last Name 352**] scale and color Doppler
+son[**Name (NI) 1417**] of the common femoral, superficial femoral, and
+popliteal vessels were performed bilaterally. Study is limited
+by large body habitus. Allowing for limitations, there is no
+intraluminal thrombus. Vessels demonstrate normal flow,
+compressibility, respiratory variability, and augmentation.
+
+
+Brief Hospital Course:
+Patient is a 29 yo legally blind female with h/o asthma and
+anxiety presenting with respiratory distress.
+.
+1. Shortness of breath: the patient was treated for an asthma
+flare with immediate improvement in her peak flow, symptoms and
+oxygen requirement.  There was a strong anxiety component to her
+presentation.  After obtaining [**Hospital1 112**] records, we learned that the
+patient also has paradoxical vocal cord motion and
+severe/difficult to control GERD which are also contributing to
+her presentation.  The patient had negative LENIs and a d-dimer
+of 515.  The patient was discharged to complete a 2 week steroid
+taper and with the addition of Singuair to her outpatient
+regimen of Advair, Albuterol, Flovent, Rhinocort, and Xolair. We
+recommended she follow up with her Pulmonologist and ENT.  She
+was to complete a 10 day course of Amoxicillin for sinusitis.
+.
+2. Tachycardia: related to anxiety and albuterol. Quickly
+improved with spacing out nebulizer treatments.  Negative LENIs
+and no clinical evidence or history of PE or cardiac pathology.
+.
+4. GERD: continued on protonix and famotidine. The patient has
+an outpatient pH monitoring soon for further evaluation of this
+chronic problem.
+.
+5. Iron deficiency anemia-continue patient on ferrous sulfate
+.
+6.  Respiratory alkalosis- 1) partially compensated primary
+respiratory alkalosis, or (2) acute superimposed on chronic
+Primary Respiratory Alkalosis, or (3) mixed acute respiratory
+alkalosis with a small metabolic acidosis. Pt appears to be a
+chronic hyperventilator given anxiety.
+.
+7. fibromyalgia/ptsd- cont nsaids, celexa. Ativan given in house
+with good effect.
+.
+8. Hospital:
+-prophylaxis: sq heparin, ppi/h2 blocker
+-code: full
+-disposition: discharged home to complete 2 week steroid taper.
+She will need PCP, [**Name10 (NameIs) 17329**] and ENT follow up.
+
+
+Medications on Admission:
+advair
+albuterol
+flovent
+protonix
+rhinocort
+xolair
+celebrex
+meropex
+synthroid 100 mcg'
+zantac
+celexa 80
+
+Discharge Medications:
+1. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+neb Inhalation Q4-6H (every 4 to 6 hours) as needed.
+2. Amoxicillin 500 mg Tablet Sig: Two (2) Tablet PO three times
+a day for 7 days.
+Disp:*0 Tablet(s)* Refills:*0*
+3. Celexa 40 mg Tablet Sig: Two (2) Tablet PO once a day.
+4. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+5. Rhinocort Aqua 32 mcg/Actuation Spray, Non-Aerosol Sig: One
+(1) inh Nasal twice a day.
+6. Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] ().
+7. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+10. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+11. Prednisone 10 mg Tablet Sig: variable Tablet PO once a day:
+-take 4 tabs (40 mg) daily from [**Date range (1) 24818**], then
+-take 3 tabs (30 mg) daily from [**Date range (1) 24819**], then
+-take 2 tabs (20 mg) daily from [**Date range (1) 24820**], then
+-take 1 tab (10 mg) daily from [**Date range (1) 24821**], then stop. .
+Disp:*36 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 2255**] [**Name (NI) 2256**]
+
+Discharge Diagnosis:
+Primary:
+Asthma exacerbation
+Anxiety
+
+Secondary:
+Sinusitis
+Gastroesophageal reflux disease
+Iron deficiency anemia
+Migraines
+Post-traumatic stress disorder
+Legal blindness
+Fibromyalgia
+Hypothyroidism
+Recurrent Urinary Tract Infection
+
+
+Discharge Condition:
+Stable, on room air, on steroid taper.
+
+
+Discharge Instructions:
+You were admitted with an asthma exacerbation.  You were treated
+with steroids and nebulizer treatments with improvement in your
+symptoms. It is important that you take all of your medications
+and make and keep all of your follow up appointments.  Please
+return to the ED if you develop worsening shortness of breath,
+fever, chills, chest pain, worsening peak flow or any other
+concerning symptom.
+.
+Please continue to take all of your medications as you were
+prior to admission. This includes completing your course of
+Amoxicillin 1000 mg by mouth three times daily for 6 additional
+days. Your last day of antibiotics should be [**2138-7-12**].  The
+additions to your home regimen include:
+1. Singulair 10 mg daily
+2. Prednisone, according to the following taper:
+-A. Take 40 mg (4 tabs) daily from [**2138-7-7**] through [**2138-7-9**], then
+-B. Take 30 mg (3 tabs) daily from [**2138-7-10**] through [**2138-7-13**], then
+-C. Take 20 mg (2 tabs) daily from [**2138-7-14**] through [**2138-7-17**], then
+-D. Take 10 mg (1 tab) daily from [**2138-7-18**] through [**2138-7-21**], then
+stop.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) 24822**] you do not have an appointment with your
+outpatient ENT, please call [**7-7**] for an appointment.
+
+Please call for an appointment with your primary care doctor,
+Dr. [**Last Name (STitle) **], [**Telephone/Fax (1) 24823**], for 1-2 weeks after hospital discharge
+to discuss your recent hospitalization and for evaluation of
+your progress.
+
+
+

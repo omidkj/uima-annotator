@@ -1,0 +1,242 @@
+Admission Date:  [**2174-5-27**]              Discharge Date:   [**2174-6-7**]
+
+Date of Birth:  [**2100-2-13**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+lisinopril
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+chest pain and shortness of breath
+
+
+Major Surgical or Invasive Procedure:
+. Urgent coronary artery bypass graft x4; left internal
+    mammary artery to left anterior descending artery,
+    saphenous vein graft to posterior left ventricular
+    branch and saphenous vein sequential graft to obtuse
+marginal 1 and 2 on [**2174-6-1**]
+
+
+History of Present Illness:
+Mr. [**Known lastname 53743**] is a 74 yo M with ILD, COPD, CAD, dCHF, DMII and CKD
+who presented with intermittent chest pain over the course of
+the last 3 days associated with shortness of breath. Pain is
+non-radiating. It is made worse with swallowing. Patient
+eventually decided to come in after talking to a friend with a
+cardiac history.
+
+In the ED, Initial VS were 98.3 73 116/67 16 98% RA. Troponin
+was noted to be elevated at 0.18. EKG showed PRWP and <1mm ST
+depressions in V4,V5. He received Aspirin and was admitted to
+the cardiology service for further management.
+Cardiac cath was done and Cardiac surgery was consulted for
+coronary revascularization.
+
+Past Medical History:
+MEDICAL & SURGICAL HISTORY:
+# Interstitial Lung disease
+# CAD
+# CKD, baseline creat 1.7
+# Diabetes Mellitus Type 2 with ophthalmic complications
+# Hypercholesterolemia
+# Hypertension
+# Esophageal Reflux
+# Osteoarthritis
+# Spinal Stenosis s/p Laminectomy
+# Thyroid Nodule
+# Colonic Polyp
+# BPH
+# Cataracts
+# Glaucoma
+# Hiatal hernia
+# Obesity
+# Erectile dysfunction
+# Cataract
+# Retinal vascular occlusion
+# Hearing loss
+# Glaucoma, primary open angle
+# Osteoarthritis
+# BPH
+# Anemia, iron deficiency
+
+
+Social History:
+# Home: Able to climb stairs at home. Ambulates with a walker.
+# Work: Retired since [**2160**]. Has worked as karate instructor in
+the past.
+# Tobacco: hx tobacco use, 20 pack-years (quit in [**2145**])
+# Alcohol: Rare
+# Drugs: Denies
+
+
+Family History:
+Denies family history of early malignancy or SCD.
+
+
+Physical Exam:
+INITIAL:PHYSICAL EXAMINATION:
+VS- 98.0 136/83 62 20 100% RA
+GENERAL- WDWN in NAD. Oriented x3. Mood, affect appropriate.
+HEENT- NCAT. Sclera anicteric. PERRL, EOMI. MMM
+NECK- Supple without JVD.
+CARDIAC- PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS- No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN- Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES- No c/c/e. No femoral bruits.
+SKIN- No stasis dermatitis or ulcers
+PULSES-
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+[**2174-6-7**] 05:26AM BLOOD WBC-12.7* RBC-2.68* Hgb-7.0* Hct-21.7*
+MCV-81* MCH-26.0* MCHC-32.2 RDW-17.3* Plt Ct-330
+[**2174-5-27**] 12:15PM BLOOD WBC-8.2 RBC-4.87 Hgb-12.1* Hct-38.8*
+MCV-80* MCH-24.8* MCHC-31.1 RDW-15.8* Plt Ct-242
+[**2174-6-7**] 06:24AM BLOOD Hct-22.7*
+[**2174-6-7**] 05:26AM BLOOD UreaN-12 Creat-1.4* Na-134 K-4.0 Cl-98
+HCO3-32 AnGap-8
+[**2174-5-27**] 12:15PM BLOOD Glucose-346* UreaN-21* Creat-1.9* Na-135
+K-3.8 Cl-92* HCO3-35* AnGap-12
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 86412**] (Complete)
+Done [**2174-6-1**] at 3:30:18 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2100-2-13**]
+Age (years): 74 M  Hgt (in): 76
+BP (mm Hg): 120/70  Wgt (lb): 244
+HR (bpm): 70  BSA (m2): 2.41 m2
+Indication: Coronary artery disease; hypertensive heart disease
+
+ICD-9 Codes: 402.90, 786.51
+Test Information
+Date/Time: [**2174-6-1**] at 15:30    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2012AW02-: Machine: u/S6
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.6 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  45%  >= 55%
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.8 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  13 mm Hg  < 20 mm Hg
+Aortic Valve - LVOT diam:  2.3 cm
+Aortic Valve - Valve Area:  *1.6 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast or thrombus in the
+LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Mild
+regional LV systolic dysfunction. Mildly depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Simple atheroma in ascending aorta. Normal aortic arch diameter.
+Normal descending aorta diameter. Simple atheroma in descending
+aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Moderately thickened
+aortic valve leaflets. Mild AS (area 1.2-1.9cm2). No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Written informed consent was obtained from the
+patient. The patient appears to be in sinus rhythm. Results were
+Conclusions for post-bypass data
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS:
+No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. No atrial septal defect is seen
+by 2D or color Doppler.
+
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. There is mild regional left
+ventricular systolic dysfunction with focalities in the mid and
+apical inferior. inferoseptal and inferolateral walls.. Overall
+left ventricular systolic function is mildly depressed (LVEF= 45
+%).
+
+Right ventricular chamber size and free wall motion are normal.
+
+There are simple atheroma in the ascending aorta. There are
+simple atheroma in the descending thoracic aorta.
+
+There are three aortic valve leaflets. The aortic valve leaflets
+are moderately thickened. The left coronary cusp is non mobile.
+A 0.3 x 0.3 cm calcium deposit seenon the right coronary cusp.
+There is mild aortic valve stenosis (valve area 1.6cm2). No
+aortic regurgitation is seen.
+
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen.
+There is no pericardial effusion.
+Dr. [**First Name (STitle) **] was notified in person of the results before surgical
+incision.
+
+POST-BYPASS:
+Intact thoracic aorta.
+LVEF 50%.
+There is a mild improvement of wall motions in the inferior,
+inferoseptal and inferolateral segments.
+No new valvular findings. Aortic valve findings remains the same
+as prebypass.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2174-6-1**] 16:49
+
+
+?????? [**2164**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+On [**2174-6-1**] Mr. [**Known lastname 53743**] was taken to the operating room and
+underwent Urgent coronary artery bypass graft x4; left internal
+mammar

@@ -1,0 +1,218 @@
+Admission Date:  [**2192-1-11**]              Discharge Date:   [**2192-1-17**]
+
+Date of Birth:  [**2116-11-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+[**Last Name (un) 18774**] Dayquil Cough
+
+Attending:[**First Name3 (LF) 4028**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+NONE
+
+History of Present Illness:
+History of present illness: Mr. [**Known lastname 13260**] is a 75 year old male
+with COPD, h/o spontaneous pneumothorax, pleurodesis, and LUL
+lobectomy, Prostate ca, PAF, who presented to [**Hospital3 13347**] with SOB. He was initially found to be 84% on RA. At
+home, he is supposed to be on 2LNC as needed, though he reports
+he wasn't using it recently. He was given 125 mg IV of
+methylprednisolone, albuterol neb, and moxifloxacin at OSH. He
+was then transferred to [**Hospital1 **] per family request. Over the last
+two weeks, he reports increasing SOB. He denies fevers, chills,
+productive cough. Per patient's wife, he always has some
+non-productive coughing. He has has intermittent chest pain
+versus SOB for 2 years. He is unable to characterize the pain.
+He denies associated nausea, vomiting, diaphoresis. CP is not
+exertional.
+In the ED, vitals were T 97.9, HR 108, BP 216/81, RR 16, 87% on
+3LNC. He was given a 50% ventimask, albuterol neb, and
+ceftriaxone.
+.
+Upon arrival to the MICU, patient is tachypneic with increased
+work of breathing. He denies chest pain at present. Review of
+systems is otherwise negative.
+
+
+Past Medical History:
+Prostate Cancer
+Empysema
+Nephrolitiasis
+Dysrhythmia
+s/p LUL lobectomy for ruptured emphysematous bleb in [**2179**] (in
+[**Country 2560**])
+s/p spontaneous pneumothorax x2
+s/p Rt pleurodesis and wedge resection in [**2183**]
+
+
+Social History:
+History of heavy tobacco use, quit over 1 year ago. Denies
+recreational drug use or alcohol use.
+
+
+Family History:
+NC
+
+Physical Exam:
+General Appearance: Thin
+
+Eyes / Conjunctiva: PERRL, anicteric sclear
+
+Head, Ears, Nose, Throat: Normocephalic
+
+Cardiovascular: (S1: Normal), (S2: Normal)
+
+Peripheral Vascular: (Right radial pulse: Not assessed), (Left
+radial pulse: Not assessed), (Right DP pulse: Not assessed),
+(Left DP pulse: Not assessed)
+
+Respiratory / Chest: (Breath Sounds: Wheezes : diffuse wheezes,
+Diminished: b/l), poor air entry
+
+Abdominal: Soft, Non-tender, Bowel sounds present
+
+Extremities: Right: Absent, Left: Absent
+
+Skin:  Not assessed
+
+Neurologic: Follows simple commands, Responds to: Not assessed,
+Oriented (to): x3, Movement: Not assessed, Tone: Not assessed
+
+
+Pertinent Results:
+[**2192-1-11**] 12:45PM   PLT COUNT-246
+[**2192-1-11**] 12:45PM   NEUTS-91.7* LYMPHS-6.5* MONOS-0.9* EOS-0.4
+BASOS-0.4
+[**2192-1-11**] 12:45PM   WBC-6.5 RBC-5.46 HGB-17.2 HCT-51.5 MCV-94#
+MCH-31.5 MCHC-33.5 RDW-14.5
+[**2192-1-11**] 12:45PM   proBNP-507
+[**2192-1-11**] 12:45PM   estGFR-Using this
+[**2192-1-11**] 12:45PM   GLUCOSE-146* UREA N-25* CREAT-0.8 SODIUM-142
+POTASSIUM-4.4 CHLORIDE-101 TOTAL CO2-34* ANION GAP-11
+[**2192-1-11**] 01:10PM   LACTATE-1.0
+[**2192-1-11**] 01:39PM   TYPE-ART RATES-/17 O2-50 PO2-84* PCO2-88*
+PH-7.20* TOTAL CO2-36* BASE XS-3 INTUBATED-NOT INTUBA
+COMMENTS-VENTIMASK
+[**2192-1-11**] 01:45PM   TYPE-ART O2-50 PO2-89 PCO2-91* PH-7.18* TOTAL
+CO2-36* BASE XS-2 INTUBATED-NOT INTUBA
+[**2192-1-11**] 04:42PM   VoidSpec-[**First Name9 (NamePattern2) 21799**] [**Male First Name (un) **]
+[**2192-1-11**] 04:52PM   freeCa-1.17
+[**2192-1-11**] 04:52PM   LACTATE-1.0
+[**2192-1-11**] 04:52PM   TYPE-ART O2-50 PO2-82* PCO2-83* PH-7.26*
+TOTAL CO2-39* BASE XS-7 INTUBATED-NOT INTUBA
+[**2192-1-11**] 08:44PM   CK-MB-NotDone cTropnT-0.02*
+[**2192-1-11**] 08:44PM   CK(CPK)-92
+[**2192-1-11**] 08:54PM   freeCa-1.14
+[**2192-1-11**] 08:54PM   LACTATE-1.0
+[**2192-1-11**] 08:54PM   TYPE-ART O2-50 PO2-66* PCO2-76* PH-7.30*
+TOTAL CO2-39* BASE XS-7 INTUBATED-NOT INTUBA
+
+Brief Hospital Course:
+Mr.  [**Known lastname 13260**] is a 75 year old male with severe COPD, prostate ca
+s/p lupron and brachytherapy, PAF, urinary retention who
+presents with respiratory distress, likely secondary to COPD
+exacerbation.
+
+# COPD - AE, Patient is known to have severe COPD. His blood
+gasses showed significant hypercarbia and he was initially
+wheezing on exam, making COPD exacerbation the most likely
+diagnosis.  Patient had significant improvement with nebs,
+steroids, antibiotics, lasix.  Got ceftaz/levaquin to cover
+severe CAP, however ceftaz stopped given lack of cough, fever,
+wbc or clinical suggestion of pneumonia.   He initially diuresed
+1L with lasix, but appeared euvolemic so did not have
+significant further lasix. Patient will be discharged on slow
+Prednisone 40mg PO taper and placed on Spiriva/Combivent/Duoneb.
+Patient was observed in the MICU on non-rebreather until
+determined to be stable for the floor. Patient completed a seven
+day course of Levoquin. Cultures were negative through the
+course of the admission. At the time of discharge patient was
+sating 94% on baseline oxygen of 2L and 87% 2L on ambulation.
+
+#  HTN.  Patient has HTN.  Home cardiac meds appear to be
+diltiazem 240mg [**Hospital1 **] and no BB as well as cozar.  Meds doses
+taken from PCP by phone (from memory) which agreed with
+paperwork from [**Hospital3 5365**]. Patient's pressures were too low
+and the regimen was changed to Diltiazem ER 240 daily.
+
+#  PAF/MAT?.  In house patient had one episode of irregular
+heart rate on telemetry.  It remains unclear if this was PAF vs
+MAT.  Given the setting of severe COPD exacerbation it is more
+likely to be MAT.   Rhythm rapidly converted spontaneously and
+he remained in NSR over the next 48 hours.  The patient does
+have a history of PAF (athough details unknown).  Given this
+history and unclear event in hospital, the patient was started
+on Aspirin 325mg PO daily and instructed to further discuss with
+his PCP with regards to coumadin anticoagulation for stroke
+prevention.
+
+#. Urinary retention.  Has history of prostate cancer s/p
+brachytherapy with history of subsequent urinary retention.
+Patient was started on flomax, and to continue at home
+
+Medications on Admission:
+Flomax 0.4 mg qhs
+Carvedilol 6.25mg [**Hospital1 **]
+Diltiazem XT 240mg [**Hospital1 **]
+Duo nebs (last [**Month (only) 462**])
+Spiriva (has not filled since [**Month (only) 462**])
+
+
+Discharge Medications:
+1. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+2. Prednisone 10 mg Tablet Sig: Taper PO once a day for 28 days:
+Please take 6 tablets per day for the next 3 days, the 5 tablets
+per day for the following 5 days, then 4 tablets per day for the
+following 5 days, then 3 tablets per day for the following 5
+days, 2 tablets per day for 5 days, and finally 1 tablet per day
+for a final 5 days.
+Disp:*93 Tablet(s)* Refills:*0*
+3. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device
+Sig: One (1)  Inhalation twice a day.
+4. Combivent 18-103 mcg/Actuation Aerosol Sig: One (1)
+Inhalation four times a day as needed.
+5. DuoNeb 0.5-2.5 mg/3 mL Solution for Nebulization Sig: One (1)
+ Inhalation four times a day.
+6. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO once a day
+for 28 days.
+Disp:*19 Tablet(s)* Refills:*0*
+7. DILT-XR 240 mg Capsule,Degradable Cnt Release Sig: One (1)
+Capsule,Degradable Cnt Release PO qam.
+Disp:*30 Capsule,Degradable Cnt Release(s)* Refills:*2*
+8. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Primary:
+Chronic Obstructive Pulmonary Disease, Acute Exacerbation
+Community Acquired Pneumonia
+
+Secondary:
+Paroxymal Atrial Fibrillation
+Urinary Retention
+Hypertension
+
+
+Discharge Condition:
+stable, on home O2 requirement
+
+
+Discharge Instructions:
+You presented to an outside hospital for shortness of breath and
+were found to have low oxygen satuaration secondary to your
+known COPD. You were diagnosed to be in acute exacerbation and
+were given nebulizers, antibiotics, and IV steroids. You
+completed a seven day course of antibiotics. Ster

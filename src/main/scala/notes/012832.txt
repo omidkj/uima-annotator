@@ -1,0 +1,249 @@
+Admission Date:  [**2166-6-26**]              Discharge Date:   [**2166-7-4**]
+
+
+Service: MED
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 14037**]
+Chief Complaint:
+Acute R hemiparesis
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+    The patient is an 83 yo M who presented to the [**Hospital1 18**] ED from
+Provident NH on [**2166-6-26**], after being found partially out of bed,
+likely after a fall. Scrapes were noted on his R arm, leg, and
+abdomen.  The patient was noted to be drowsy, and he was unable
+to move the R side of his body.  At baseline, the patient was
+able to transfer from bed to chair, walk with a cane, and speak
+fluently.  During the episode, his finger stick glucose was 381.
+ He was transferred to [**Hospital1 18**] for evaluation of possible stroke
+and management of hyperglycemia.
+    In the ED, the patient was hemodynamically stable, but was
+noted to have a WBC 15.1, glucose of 443, anion gap of 18, Cr of
+1.5 (1.3 in [**4-22**]), and CK ~24,000.  CT head was negative for
+bleed or mass. The patient was initially admitted to the Stroke
+service.  After MRI/A showed no evidence of a stroke, the
+patient was transferred to the MICU for further management of
+DKA and rhabdomyolosis.
+    In the MICU, the patient was aggressively hydrated for
+treatment of DKA and rhabdomyolysis.  Given concern for infected
+foot ulcers, he was started on Vanco/Unasyn.  He was followed
+closely by Neurology. Etiology of R hemiparesis was thought to
+be related to hyperglycemia, with concern that metabolic
+derangements caused "reactivation" of old stroke. MRI did not
+show evidence of an acute stroke.
+    By [**6-28**], the patient was transitioned to SC insulin. CKs
+have trended downward.  On [**6-29**], the patient was transfered to
+the medical service.
+
+Past Medical History:
+Bipolar disorder. Off psych meds x several years.
+
+Mental retardation. The patient has lived in an institution for
+all of his life.
+
+Atrial fibrillation.  Was on Amiodarone in the past.
+
+CHF. ECHO '[**62**]--> EF 25-25%.
+
+CAD.
+
+PVD.
+
+Venous stasis ulcers.
+
+MRSA colonization.
+
+Facial sebhorrhea.
+
+Basal cell carcinoma of forehead.
+
+Diabetes mellitius, Type II.
+
+Positive PPD, treated with INH in [**2157**].
+
+Congenital foot disease.
+
+
+Social History:
+Lives in a nursing home.
+Minimal family contact. The patient does not have a guardian.
+DNR/[**Name2 (NI) 835**].
+
+Family History:
+Not known
+
+Physical Exam:
+GEN: Elderly male lying in bed, appears somewhat agitated.
+VS: 99.3   148/70   86   20  97%RA
+HEENT: Seborrheic dermatitis on face. PERRL. EOMI. MMM. OP
+clear. Teeth absent.
+NECK: R IJ in place.
+CVS: RRR. N1 S1, S2. II/VI sys murmur at apex--> axilla.
+LUNGS: CTAB.
+ABD: Soft, NT, ND, +BS.
+EXTR: Skin changes c/w venous stasis.  Multipodus boots b/l.
+Ulcers present on both feet.  Blisters on L thigh.  R arm
+edematous.
+NEURO: Speech dysarthric.  Flaccid R arm. Moves L arm, L leg.
+Does not follow commands.
+
+Pertinent Results:
+[**2166-6-26**] 12:04PM   WBC-15.1*# RBC-5.28# HGB-15.3# HCT-47.3#
+MCV-90 MCH-29.1 MCHC-32.5 RDW-13.7
+[**2166-6-26**] 12:04PM   PLT COUNT-290
+[**2166-6-26**] 12:04PM   GLUCOSE-443* UREA N-35* CREAT-1.5* SODIUM-140
+POTASSIUM-4.4 CHLORIDE-100 TOTAL CO2-22 ANION GAP-22*
+[**2166-6-26**] 01:25PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30
+GLUCOSE-1000 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2166-6-26**] 01:25PM URINE  RBC-0 WBC-1 BACTERIA-RARE YEAST-NONE
+EPI-0
+[**2166-6-26**] 01:25PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2166-6-26**] 01:38PM   CK(CPK)-[**Numeric Identifier 23302**]*
+
+[**6-29**] Lab Data:
+Hematology
+ WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+13.2* 3.65* 10.6* 32.3* 89 29.2 32.9 14.7 310
+Chemistry
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2166-6-29**] 06:36AM    131* 31* 1.4* 149* 3.7 113* 27 13
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+[**2166-6-29**] 06:36AM    134* 292* 525*   388* 228* 1.5
+OTHER ENZYMES & BILIRUBINS Lipase
+    [**2166-6-29**] 06:36AM    141*
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+[**2166-6-29**] 06:36AM      2.6*   8.1* 2.8 2.0
+
+Micro data:
+Blood cx [**6-27**]: NGTD
+Urine cx [**6-27**]: NG
+[**2166-6-27**] 12:13 am SWAB     Site: ANKLE      Source: left ankle
+decub.
+
+   WOUND CULTURE (Preliminary):
+      MODERATE GROWTH MIXED BACTERIAL FLORA ( >=3 COLONY TYPES)
+CONSISTENT
+      WITH SKIN FLORA.
+      Due to mixed bacterial types ( >= 3 colony types) an
+abbreviated
+      workup is performed appropriate to the isolates recovered
+from the
+      site (including a screen for Pseudomonas aeruginosa,
+Staphylococcus
+      aureus and beta streptococcus).
+      GRAM NEGATIVE ROD(S).
+         MODERATE GROWTH OF TWO COLONIAL MORPHOLOGIES.
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+
+
+EKG ([**6-26**]): NSR 78 bpm.  LAD. RBBB with L ant fasicular block.
+No change from previous EKG.
+
+RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  [**2166-6-26**] 11:57 AM
+
+CHEST (PORTABLE AP)
+
+Reason: [**Month (only) **] BS - eval for infil
+
+[**Hospital 93**] MEDICAL CONDITION:
+83 year old man with
+REASON FOR THIS EXAMINATION:
+[**Month (only) **] BS - eval for infil
+INDICATION: Decreased breath sounds.
+
+CHEST AP: There is borderline cardiac enlargement. The lungs are
+clear. There are no pleural effusions. The pulmonary vasculature
+is normal. There is drooping of the head which obscures the apex
+somewhat.
+
+IMPRESSION: No acute cardiopulmonary process.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name (STitle) 21827**] [**Name (STitle) 21828**]
+DR. [**First Name (STitle) **] [**Initials (NamePattern5) 3250**] [**Last Name (NamePattern5) 3251**]
+Approved: SAT [**2166-6-28**] 12:50 PM
+
+RADIOLOGY  Final Report **ABNORMAL!
+
+CT HEAD W/O CONTRAST  [**2166-6-26**] 12:16 PM
+
+CT HEAD W/O CONTRAST
+
+Reason: change in MS
+
+[**Hospital 93**] MEDICAL CONDITION:
+83 year old man with
+REASON FOR THIS EXAMINATION:
+change in MS
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Change in mental status.
+
+NON-CONTRAST HEAD CT:
+
+Exam compared to prior study of [**2163-10-28**].
+
+FINDINGS: There is no evidence of mass effect or hemorrhage.
+There is no displacement of normally midline structures. There
+is no evidence of a focal extra-axial lesion or fluid
+collection. Ventricles and sulci are mildly prominent consistent
+with mild brain atrophy unchanged from prior study. There is a
+remote lacunar infarct in the left putamen. There is increased
+opacification of the maxillary sinus as compared to the previous
+examination especially on the left.
+
+IMPRESSION: Increased maxillary sinus disease. No evidence of
+intracranial mass or hemorrhage.
+DR. [**First Name (STitle) 23303**] [**Doctor Last Name **]
+Approved: [**Doctor First Name **] [**2166-6-26**] 2:22 PM
+
+   RADIOLOGY  Final Report
+
+MRA BRAIN W/O CONTRAST  [**2166-6-26**] 4:27 PM
+
+MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST
+
+Reason: What is extent and location of new stroke? Hemorrhage
+ruled
+
+[**Hospital 93**] MEDICAL CONDITION:
+83 year old man with flaccid right hemiparesis, acute onset.
+REASON FOR THIS EXAMINATION:
+What is extent and location of new stroke? Hemorrhage ruled out
+froM CT.? PLease perform MRI stroke protocol AND MRA to
+investigate vasculature.
+
+INDICATIONS: Flaccid right hemiparesis with acute onset extent
+and location of new strokes. Evaluate vasculature with MR
+angiography.
+
+MRI OF THE BRAIN AND MRA OF THE CIRCLE OF [**Location (un) **]:
+
+TECHNIQUE: Multiplanar T1 and T2W imaging of the brain was
+performed. Diffusion weighted scans are provided.
+
+3D time of flight MRA of the Circle of [**Location (un) 431**] was performed.
+Multiplanar reformatted images and source image data are
+reviewed.
+
+FINDINGS: There are no signal intensity abnormalities within the
+brain. There is no diffusion signal abnormality. The ventricles
+are not dilated. There is no shift of structures. The brain
+appears morphologically normal.
+
+There is no abnormal susceptibility artifact identified within
+the brain.
+
+There is opacification of the right mastoid and middle ear
+cavity. There is also some sinus mucosal thi

@@ -1,0 +1,215 @@
+Admission Date:  [**2169-1-24**]              Discharge Date:   [**2169-1-28**]
+
+Date of Birth:  [**2143-6-6**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+chaest pain
+
+Major Surgical or Invasive Procedure:
+s/p coronary artery bypass x4 (LIMA->LAD/RIMA->RCA/SVG->OM1/OM2)
+
+
+History of Present Illness:
+25 year old male treated for pericarditis in [**June 2167**] reports
+chest pain with activity. Stress test performed indicated
+ischemia. He was referred for cardiac cath which revealed severe
+3 vessel coronary disease. Dr.[**Last Name (STitle) **] was consulted for
+revascularization.
+
+Past Medical History:
+- pericarditis '[**67**] c/w small effusion managed without drainage.
+
+- Mononucleosis at age 14 with subsequent PNA not requiring
+hospitalization
+
+
+Social History:
+Pt is a project manager for a construction company. He denies
+occupational exposures. No hx of drug abuse other than distant
+rare use of LSD and marijauna. No hx of cocaine. Social history
+is significant for the absence of current or past tobacco use.
+There is no history of alcohol abuse.
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.
+
+Physical Exam:
+GENERAL:NAD
+VS: 99, 98.5, 114/67, 83SR, 20, 96%RA
+HEENT: AT/NC, Carotids 2+(B)
+CVS:RRR
+Lungs: CTA(B)
+ABD: benign
+EXT: no cyanosis/clubbing/edema
+sternotomy: c/d/i without erythema or drainage
+
+Pertinent Results:
+[**2169-1-24**] 12:09PM BLOOD WBC-25.2*# RBC-3.52*# Hgb-11.0*#
+Hct-29.7*# MCV-84 MCH-31.1 MCHC-36.9* RDW-13.0 Plt Ct-160
+[**2169-1-26**] 06:20AM BLOOD WBC-15.9* RBC-3.21* Hgb-10.5* Hct-27.9*
+MCV-87 MCH-32.8* MCHC-37.7* RDW-12.6 Plt Ct-156
+[**2169-1-24**] 06:50AM BLOOD PT-13.1 PTT-26.0 INR(PT)-1.1
+[**2169-1-24**] 01:26PM BLOOD PT-13.8* PTT-28.5 INR(PT)-1.2*
+[**2169-1-27**] 05:20AM BLOOD Glucose-110* UreaN-12 Creat-0.8 Na-136
+K-4.0 Cl-100 HCO3-27 AnGap-13
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 488**]       [**Hospital1 18**] [**Numeric Identifier 81450**] (Complete)
+Done [**2169-1-24**] at 8:55:07 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2143-6-6**]
+Age (years): 25 M  Hgt (in): 67
+BP (mm Hg): /  Wgt (lb): 200
+HR (bpm):  BSA (m2): 2.02 m2
+Indication: Abnormal ECG. Chest pain. Pericarditis.
+ICD-9 Codes: 786.51, 440.0, 423.9
+Test Information
+Date/Time: [**2169-1-24**] at 08:55    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6507**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW1-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Diastolic Dimension:  4.8 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  1.8 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  0.8 m/sec  <= 2.0 m/sec
+Mitral Valve - Pressure Half Time:  48 ms
+Mitral Valve - MVA (P [**1-6**] T):  4.6 cm2
+Mitral Valve - E Wave:  0.5 m/sec
+Mitral Valve - A Wave:  0.2 m/sec
+Mitral Valve - E/A ratio:  2.50
+
+Findings
+LEFT ATRIUM: Normal LA size. Good (>20 cm/s) LAA ejection
+velocity. No thrombus in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No thrombus in
+the RAA. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Mild
+regional LV systolic dysfunction. Low normal LVEF.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Normal RV systolic
+function.
+
+AORTA: Normal ascending, transverse and descending thoracic
+aorta with no atherosclerotic plaque. Normal aortic diameter at
+the sinus level. Simple atheroma in aortic root. Normal
+ascending aorta diameter. Normal aortic arch diameter. Normal
+descending aorta diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+Three aortic valve leaflets. No AS. No AR.
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: The pericardium may be thickened.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The patient received antibiotic prophylaxis. The
+TEE probe was passed with assistance from the anesthesioology
+staff using a laryngoscope. No TEE related complications. The
+patient appears to be in sinus rhythm. Results were personally
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-CPB:1. The left atrium is normal in size. No thrombus is
+seen in the left atrial appendage.
+2. No thrombus is seen in the right atrial appendage No atrial
+septal defect is seen by 2D or color Doppler.
+3. Left ventricular wall thicknesses and cavity size are normal.
+There is mild regional left ventricular systolic dysfunction
+with inferior hypokinesis. Overall left ventricular systolic
+function is low normal (LVEF 50-55%).
+4. The right ventricular cavity is mildly dilated with normal
+free wall contractility.
+5. The ascending, transverse and descending thoracic aorta are
+normal in diameter and free of atherosclerotic plaque. There are
+simple atheroma in the aortic root. There are simple atheroma in
+the descending thoracic aorta.
+6. The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic regurgitation. There are
+three aortic valve leaflets. No aortic regurgitation is seen.
+7. The mitral valve appears structurally normal with trivial
+mitral regurgitation.
+8. The pericardium may be thickened.
+Dr. [**Last Name (STitle) **] was notified in person of the results.
+
+POST-CPB: On infusion of phenylephrine. A-pacing . Preserved
+biventricular systolic function. LVEF = 55%. Trace MR. Aortic
+contour is normal post decannulation.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2169-1-24**] 12:26
+
+
+?????? [**2163**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+[**2169-1-24**] Mr.[**Known lastname **] went to the operating room and underwent
+coronary artery bypass grafting x
+4(LIMA->LAD/RIMA->RCA/SVG->OM1/OM2). Please refer to
+Dr[**Last Name (STitle) **] operative report for further details. He was
+transferred sedated and intubated to the CVICU. He awoke
+neurologically intact, weaned off drips and was extubated in a
+timely fashion. All lines and tubes were discontinued when
+appropriate criteria was met. POD#1 beta-blocker, statin,
+aspirin was initiated and he was transferred to the step down
+unit for further telemetry monitoring. The remainder of his
+postoperative course was essentially uncomplicated. He continued
+to progress and was ready for discharge on POD# 4. All follow up
+appointments were advised.
+
+Medications on Admission:
+SL NTG prn
+lopressor 25 [**Hospital1 **]
+atorvastatin 80mg [**Hospital1 **]
+lisinopril 2.5mg daily
+enteric coated aspirin 325mg daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a da

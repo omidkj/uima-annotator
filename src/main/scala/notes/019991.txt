@@ -1,0 +1,172 @@
+Admission Date:  [**2112-11-10**]              Discharge Date:   [**2112-11-29**]
+
+Date of Birth:  [**2056-11-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine / Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 5893**]
+Chief Complaint:
+transfer for radiation oncology evaluation
+
+Major Surgical or Invasive Procedure:
+intubation
+PICC placement
+[**2112-11-21**] tracheostomy, PEG, thoracentesis
+
+History of Present Illness:
+55 yo female with history of tobacco abuse and chronic back pain
+transferred from [**Hospital6 33**] for Oncology and Radiation
+Oncology evaluation.  The patient initially presented to [**Hospital 7912**] on [**2112-11-5**] following an evaluation by ENT for
+sinus congestion.  Per the patient's family, she had been
+complaining of upper respiratory symptoms including nasal
+congestion, drainage, cough for approximately 2 months.  She had
+been evaluated in [**State 108**] by her PCP and ENT.  She was treated
+with antibiotics and antihistamines without relief.  She came to
+[**Location (un) 86**] to visit her family for [**Holiday 1451**].  Her daughter was
+concerned with facial and neck swelling.  She noticed that her
+neck veins were engorged.  Her daughter referred her to her own
+ENT who ordered a CT chest to evaluate for SVC syndrome.  The CT
+showed RUL and RML collapse due to a central obstructing lesion
+as well as bulky lymphadenopathy.
+
+The patient was referred to the [**Hospital3 **] ED, and admitted for
+malignancy evaluation.  On admission she had a thoracentesis
+which did not show evidence of malignancy.  She was transferred
+to the ICU on [**2112-11-6**] for respiratory decompensation.  On
+[**2112-11-8**], thoracic surgery performed a rigid bronchoscopy with
+biopsy which showed non-small cell lung cancer.  The patient was
+intubated initially for this procedure, extubated, but then
+developed respiratory failure 20 min later requiring
+reintubation.  She self extubated on [**2112-11-9**], was in respiratory
+extremis and required reintubation.  The patient was transferred
+to [**Hospital1 18**] for further evaluation.  Her sedation medications have
+included propofol, precedex, fentanyl and ativan.
+
+On arrival to the [**Hospital Unit Name 153**], the patient is intubated and sedated.
+The patient's husband, daughter and son are present.  They are
+concerned for her comfort.  They feel she has been very
+uncomfortable on the ventilator, without adequate sedation.
+They report she has chronic severe back pain from scoliosis
+which is likely contributing to her discomfort.
+
+Unable to obtain review of systems secondary to intubation.
+
+Past Medical History:
+Non-small cell lung cancer diagnosed [**10-17**], SVC syndrome
+Scoliosis, chronic back pain
+s/p cholecystectomy
+s/p hysterectomy
+
+
+Social History:
+The patient lives in [**State 108**] with her husband.  [**Name (NI) **] daughter and
+son are very supportive and live here in Mass.  She has smoked a
+pack of cigarettes per day since she was 18 years old (37 pack
+year history).  Denies alcohol or illicit drug use.
+
+
+Family History:
+NC, no known lung cancer
+
+Physical Exam:
+GENERAL: Intubated sedated in NAD
+HEENT: neck has dilated veins, plethoric, normocephalic,
+atraumatic. No conjunctival pallor. No scleral icterus.
+PERRLA/EOMI. MM dry. OP clear. Neck Supple, No LAD, No
+thyromegaly.
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs,
+rubs or [**Last Name (un) 549**].
+LUNGS:  Rhonchi bilaterally, decreased air movement on right
+upper, no wheezes or crackles.
+ABDOMEN: NABS. Soft, NT, ND. No HSM
+EXTREMITIES:  BL UE edema, no LE edema, 2+ dorsalis pedis/
+posterior tibial pulses.
+SKIN: No rashes/lesions, ecchymoses.
+NEURO:  Unable to assess given sedation
+PSYCH: Listens and responds to questions appropriately, pleasant
+
+
+Pertinent Results:
+From [**Hospital6 33**]
+CT Chest [**2112-11-2**]:  RUL and RML collapse, central obstructing
+mass, large right pleural effusion, bulky right paratracheal,
+subcarinal, precarinal and lateral vascular adenopathy.
+
+MRI head [**2112-11-6**]:  Nonspecific small foci of increased T2 and
+Flair signal in the subcortical white matter likely represent
+small vessel ischemic change.  No mass or metastatic disease.
+
+CT Abd/pelvis [**2112-11-6**]:  Large right pleural effusion,
+compressive atelecatsis, no liver lesions, no abdominal mass or
+adenopathy, 3mm right renal calculus, edema in the subcutaneous
+fat of the anterior chest wall as well as the right and left
+breast.  no pelvic mass
+
+
+Brief Hospital Course:
+#.  Respiratory Failure:  She was intubated at an OSH for
+respiratory distress.  She had a high a-A gradient throughout
+admission that was felt to be secondary to shunt physiology with
+collapse of her right upper and right middle lobe.  She had an
+initial bronchoscopy the day after admission which showed a
+large tumor burden obstructing the airways.  She had a stent
+placed by IP on [**11-13**] to the right main stem bronchus to prevent
+further collapse.  She then had a tracheostomy/PEG placed on
+[**11-21**] as well as a thoracentesis of 1.2 L of pleural fluid.  The
+fluid was negative for malignant cells.  On [**2112-11-22**], she was
+liberated from the ventilator but required further ventilatory
+support overnight on several instances.  Ms. [**Known lastname **] continued to
+do well, spending most of her time on trache-mask.  Repeat CXR
+showed slow reaccumulation of pleural effusion, but her
+respiratory function remained stable with attempts to diurese
+her further.  If her respiratory function acutely worsens, would
+consider CXR to assess fluid status, diuresis with prn lasix
+and/or thoracentesis to drain pleural fluid.  She also likely
+may require ventilatory support to rest overnight occasionally.
+She was on this at discharge at night.  Her settings were Volume
+Control TV 450, RR 16, PEEP 5, Fi02 50%.
+
+#.  Non-Small Cell Lung Cancer:  This was a new diagnosis
+immediately prior to admission.  Radiation oncology was
+consulted.  She completed 4 doses of palliative XRT (400 cGy x 5
+fractions) which was completed [**11-16**].  Medical oncology was
+consulted as well and offered chemotherapy as a possible option
+for the future.  Initial metastatic workup has been negative
+with negative abdominal and brain imaging.  She was followed by
+palliative care.
+
+#.  SVC Syndrome:  She initiallly presented to the OSH with
+facial swelling secondary to SVC sydrome due to her lung mass
+and bulky lymphadenopathy.  She was started on IV steroids which
+were tapered gradually.  She was also started on a Heparin gtt
+due to an SVC and IVC clot which was transitioned to Lovenox on
+[**11-22**].  Her neck and facial swelling worsened from [**Date range (1) 84136**],
+and she was restarted on dexamethasone 4 mg [**Hospital1 **] with a plan to
+slowly taper down to a low dose (4 mg [**Hospital1 **] x 2 days then decrease
+to 2 mg [**Hospital1 **] (on [**12-1**]) and assess response.  If pt continues to
+have better controlled edema and no vomiting, it can eventually
+be decreased to 2 mg qd.  If she has more symptoms may need to
+go up on dose to 2 mg tid or 4 mg [**Hospital1 **]. Goal is smallest dose
+possible to keep symptoms under control and to allow of increase
+in dose if symptoms reoccur.
+
+#.  Bleeding: On [**11-23**], she had an episode of bleeding from her
+PEG tube, increasing abdominal pain, and a hematocrit drop.  She
+was given a total of 2 units of blood and her bleeding stopped.
+Her anticoagulation was initially held.  GI did an endoscopy on
+[**11-25**] and found an ulcer which was injected with epinephrine and
+her hematocrit remained stable, although dropped slightly (2
+points of the day of discharge).  Her hematocrit should be
+checked daily for 2-3 days to ensure stability after discharge.
+
+#.  Chronic Back pain:  She has chronic pain secondary to
+scoliosis.  She was continued on fentanyl initially and was
+transitioned to Dilaudid IV as needed however this caused
+delerium so she was changed back to oxycodone on [**11-26**].  She was
+also started on Methadone, but felt that this precipitated
+nausea and made her somnolent.  Consequently, she was changed to
+oxycodone 30mg PGT q4 standing, with oxycodone 30-60 mg PGT q2
+prn.  The patient was o

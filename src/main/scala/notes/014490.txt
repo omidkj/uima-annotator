@@ -1,0 +1,183 @@
+Admission Date:  [**2125-10-6**]              Discharge Date:   [**2125-10-9**]
+
+Date of Birth:  [**2090-10-15**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Cephalosporins / Aspirin / Motrin / Iron
+
+Attending:[**First Name3 (LF) 2641**]
+Chief Complaint:
+headache, fever, chills, tachycardia
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+This is a 34 year old female with suspected immunodeficiency
+being worked up as an outpatient who presented to the ED with
+sudden onset of headache and chills that were accompanied by
+tachycardia, neck stiffness, and shortness of breath. Earlier
+that day she started taking amoxicillin she'd been given to take
+as needed after she began to feel ill. She'd had a recent prior
+admission to the ICU for pneumococcal sepsis in [**2125-5-19**],
+complicated by acute respiratory distress syndrome, disseminated
+intravascular coagulopathy, acute renal failure, and fetal
+demise.  This admission, there was initial concern for
+pneumoccal sepsis and so the patient was aggresively fluid
+resuscitated with 9L normal saline in the ED.  Additionally, she
+received IV antibiotics (ceftriaxone, linezolide, and Pen G) and
+high dose steroids. She had a maximum fever of 103F and
+leukocytosis with maximum wbc count of 44. The patient had LP
+which was unremarkable, without evidence of microorganisms or
+neutrophils on gram stain and without growth in bacterial/fungal
+cultures. She was admitted to the ICU with diagnosis of sepsis;
+however all culture data (CSF, urine, blood, stool)was negative
+to date. A recent MRI of head revealed pansinusitis. Chest X ray
+revealed bilateral basilar infiltrates with right costophrenic
+angle effusion that was improving in serial films. In the ICU,
+she has been continued on IV Ampicillin and Ceftriaxone pre ID
+consult recommendation and recovered quickly and followed the
+hospital's gluten free diet.  The day before transfer to the
+medicine service, she had an episode of nausea and vomiting. At
+the time of transfer to the medicine floor, the patient was
+feeling well in her usual state of health.  Her only complaint
+was loose stools that started after hospitalization and were
+similar to past diarrheal episodes relieved by immodium. C.diff
+toxin and multiple stool cultures were negative.
+
+She has been referred to Dr. [**First Name4 (NamePattern1) 27272**] [**Last Name (NamePattern1) 29826**], [**First Name3 (LF) **]
+allergist/immunologist at [**Hospital3 1810**], by her [**Hospital1 112**]
+primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) 29827**]. Initial evaluation has shown
+weak anti-pneumococcal titers, low complement levels, and high
+IgG count. She has received pneumovax.  [**Location (un) **]-Jolly bodies were
+seen on her peripheral smear although there has not been further
+evidence of splenic dysfunction.  She sees a gastroenterologist
+for celiac sprue, which has been well managed in the past few
+months on a gluten-free diet.
+
+Past Medical History:
+pneumonia
+sinusitis
+secondary:
+celiac sprue
+asthma
+h/o pneumococcal sepsis complicated by ARDS, DIC, and ARF
+h/o nasal polypectomy
+one prior migraine headache with aura including diploplia,
+nausea, vomiting
+iron deficiency anemia
+
+Social History:
+Married with two children at home. Moved to US from [**Location (un) **] in
+[**2118**]. Statistician at [**University/College **] School of Public Health. Denied
+alcohol, tobacco, or drug use. No recent travel.
+
+Family History:
+Her cousin's children have CF but the patient has tested
+negative. Father had [**Name2 (NI) 499**] cancer. Brother with asthma and
+hayfever. No positive history for immunodeficiency.
+
+Physical Exam:
+T 98.3 BP 122/70 HR 60 RR 18 O2 99%RA
+Gen - Alert, awake, in NAD
+HEENT - extraocular motions intact, anicteric, MMMI
+Neck - supple, no jugular venous distention
+Chest - clear to auscultation bilaterally, no crackles/wheeze
+CV - Normal S1/S2, regular rate and rhythm, no murmurs, rubs or
+gallops, 2+ pulses throughout
+Abd - soft, nondistended, nontender, normoactive bowel sounds,no
+masses
+Extr - warm, no clubbing, cyanosis, or edema
+Neuro - AOx3, CN2-12 intact, ambulatory, no ataxia, strength 5/5
+throughout, denies loss of sensation, face symmetric, tongue
+non-deviated
+
+
+Pertinent Results:
+[**2125-10-9**] 05:30AM BLOOD WBC-15.0* RBC-3.20* Hgb-9.3* Hct-29.0*
+MCV-91 MCH-29.1 MCHC-32.1 RDW-14.6 Plt Ct-251
+[**2125-10-8**] 04:13AM BLOOD WBC-26.0* RBC-2.96* Hgb-8.6* Hct-27.0*
+MCV-91 MCH-29.0 MCHC-31.7 RDW-14.7 Plt Ct-230
+[**2125-10-7**] 06:11PM BLOOD WBC-35.6* RBC-2.95* Hgb-8.9* Hct-27.1*
+MCV-92 MCH-30.1 MCHC-32.8 RDW-15.1 Plt Ct-210
+[**2125-10-6**] 08:35PM BLOOD WBC-44.8* RBC-3.24* Hgb-9.6* Hct-29.6*
+MCV-92 MCH-29.6 MCHC-32.4 RDW-14.8 Plt Ct-256
+[**2125-10-7**] 06:11PM BLOOD Neuts-88.7* Bands-0 Lymphs-6.0* Monos-2.6
+Eos-2.4 Baso-0.3
+[**2125-10-7**] 06:11PM BLOOD FDP-10-40
+[**2125-10-5**] 11:55PM BLOOD Gran Ct-6180
+[**2125-10-7**] 06:11PM BLOOD Lupus-PND
+[**2125-10-9**] 05:30AM BLOOD Glucose-87 UreaN-8 Creat-0.6 Na-143 K-3.6
+Cl-108 HCO3-25 AnGap-14
+[**2125-10-7**] 03:13AM BLOOD ALT-32 AST-22 LD(LDH)-159 AlkPhos-51
+Amylase-19 TotBili-0.2
+[**2125-10-7**] 03:13AM BLOOD Lipase-19
+[**2125-10-7**] 03:13AM BLOOD Albumin-2.9* Calcium-8.3* Phos-2.9 Mg-1.9
+[**2125-10-7**] 06:11PM BLOOD Hapto-111
+[**2125-10-5**] 11:55PM BLOOD TSH-4.6*
+[**2125-10-8**] 04:13AM BLOOD T4-6.6 T3-88
+[**2125-10-5**] 11:55PM BLOOD Cortsol-30.3*
+[**2125-10-8**] 04:30AM BLOOD Lactate-1.0
+[**2125-10-6**] 02:20AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.018
+[**2125-10-6**] 02:20AM URINE Blood-NEG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**2125-10-6**] 02:20AM URINE RBC-0 WBC-0 Bacteri-NONE Yeast-NONE Epi-0
+[**2125-10-6**] 02:06AM CEREBROSPINAL FLUID (CSF) WBC-4 RBC-1* Polys-0
+Lymphs-96 Monos-0 Macroph-4
+[**2125-10-7**] 08:00PM CEREBROSPINAL FLUID (CSF) ENTEROVIRUS PCR-PND
+
+[**2125-10-6**] CSF:
+CRYPTOCOCCAL ANTIGEN (Final [**2125-10-8**]): NOT DETECTED.
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+GRAM STAIN (Final [**2125-10-6**]): NO POLYMORPHONUCLEAR LEUKOCYTES or
+MICROORGANISMS SEEN.
+FLUID CULTURE (Preliminary):    NO GROWTH.
+
+Stool:**FINAL REPORT [**2125-10-8**]**
+   CYCLOSPORA STAIN (Final [**2125-10-8**]):    NO CYCLOSPORA SEEN.
+   MICROSPORIDIA STAIN (Final [**2125-10-8**]):    NO MICROSPORIDIUM
+SEEN.
+   FECAL CULTURE (Final [**2125-10-8**]):    NO SALMONELLA OR SHIGELLA
+FOUND.
+   CAMPYLOBACTER CULTURE (Final [**2125-10-8**]):    NO CAMPYLOBACTER
+FOUND.
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final [**2125-10-7**]):
+      NO E.COLI 0157:H7 FOUND.
+   FECAL CULTURE - R/O YERSINIA (Final [**2125-10-8**]):    NO YERSINIA
+FOUND.
+   FECAL CULTURE - R/O VIBRIO (Final [**2125-10-8**]):    NO VIBRIO
+FOUND.
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2125-10-7**]):
+      FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.
+      Reference Range:  Negative.
+   OVA + PARASITES (Final [**2125-10-8**]):
+      NO OVA AND PARASITES SEEN.
+      CHARCOT-[**Location (un) **] CRYSTALS PRESENT.
+   Cryptosporidium/Giardia (DFA) (Final [**2125-10-8**]):
+      NO CRYPTOSPORIDIUM OR GIARDIA SEEN.
+
+URINE CULTURE (Final [**2125-10-7**]):    NO GROWTH.
+
+[**2125-10-5**] 11:55 pm BLOOD CULTURE Site: ARM 4 bottles; no growth
+to date
+
+CXR [**2125-10-8**]: Mild upper lung zone redistribution. Small
+bilateral effusions and bilateral lower lobe patchy opacities.
+The right effusion is smaller.
+CXR [**2125-10-7**]:The previously identified pulmonary edema has been
+resolved. There is small left pleural effusion. Patchy opacity
+is seen in both lower lobes. These findings most likely
+represent patchy atelectasis. The posterior pneumonia cannot be
+excluded. There is also a new patchy opacity in the right apex
+overlying the right 1st rib. This may represent patchy area of
+pneumonia ossification.
+CXR [**2125-10-6**] 4AM:Mild-to-moderate pulmonary edema, likely due to
+volume overload. Development of infection is unusual since the
+prior study 2 hours earlier did not show the presence of
+significant pulmonary edema.
+CXR [**2125-10-6**] 2AM:The lung volumes are low. The mediastinal and
+hilar contours are unremarkable. The heart size is normal. There
+is mild 

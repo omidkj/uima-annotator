@@ -1,0 +1,196 @@
+Admission Date:  [**2104-3-24**]              Discharge Date:   [**2104-4-4**]
+
+Date of Birth:  [**2021-6-12**]             Sex:   F
+
+Service: EMERGENCY
+
+Allergies:
+Levofloxacin / Penicillins / IV Dye, Iodine Containing /
+Statins-Hmg-Coa Reductase Inhibitors / simvastatin
+
+Attending:[**First Name3 (LF) 2565**]
+Chief Complaint:
+red urine
+
+Major Surgical or Invasive Procedure:
+Urinary Foley catherization
+Central line insertion
+Mechanical Intubation
+
+History of Present Illness:
+Mrs. [**Known firstname 2554**] F. [**Known lastname 2555**] is a 82 year-old spanish and italian
+speaking woman with DM2, asthma, AFib who presents with weakness
+for the past week. She has been unable to stand or get out of
+bed and has had generalized weakness.
+.
+In the ED, initial vitals were 99, 103, 181/84, 16, 96%. Her
+labs were significant for CK elevation to [**Numeric Identifier 2566**] without renal
+failure. Her EKG was unchanged from prior. Neurology was
+consulted given her weakness and felt this was likely related to
+rhabdo. Patient received approximately 1 liter of NS in the ER
+given CXR with concern for volume overload. Head CT showed small
+(<4.5mm) L frontal area that was possibly SDH vs calcium. She
+was admitted to medicine with vitals on transfer of 94, 155/66,
+16, 98% RA.
+.
+On the floor, her son translates for her and says she feels ok.
+She denies any pain, SOB, CP, palpitations. She is asking for
+water.
+.
+ROS: Per son, patient frequently complains of having to urinate.
+Denies headache, vision changes, sore throat, cough, shortness
+of breath, chest pain, abdominal pain, nausea, vomiting,
+diarrhea, constipation.
+
+
+Past Medical History:
+- Diastolic CHF
+- Hypertension
+- Diabetes
+- Paroxysmal AFib on coumadin
+- Asthma
+- GERD
+
+
+Social History:
+She is originally from [**Country 2559**] and then moved to [**Country 2560**], where
+she lived most of her life. She has been in the US since [**2085**].
+She denies any current or past history of smoking. Drinks
+alcohol socially and has never used illicit drugs. She lives
+with her husband, who is her primary care taker. She uses a
+walker at baseline and requires a lot of help with her ADLs.
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+Admission
+PHYSICAL EXAM:
+VS: 97.7, 145/86, 125, 18, 98% RA
+GENERAL: Elderly female in NAD, comfortable, appropriate.
+HEENT: NC/AT, EOMI, sclerae anicteric, MM dry, OP clear.
+NECK: Supple, no JVD
+HEART: Tachycardic, no MRG, nl S1-S2.
+LUNGS: CTA bilat anteriorly (pt unwilling to sit forward), no
+r/rh/wh, good air movement, resp unlabored.
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.
+LYMPH: No cervical LAD.
+NEURO: Awake, CNs II-XII grossly intact, muscle strength 4/5 in
+bilateral feet (would not participate with rest of exam)
+
+.
+[**4-3**]
+PHYSICAL EXAM:
+VS: 95.9, 162/51, 78, 18, 99% RA
+GENERAL: Elderly female in NAD, comfortable, appropriate,
+oriented X 0.
+HEENT: NC/AT, EOMI, sclerae anicteric, MM dry, OP clear.
+NECK: Supple, elevated JVD to mandible
+HEART:irregular rhythym, no MRG, nl S1-S2.
+LUNGS: Bilaterl lower lung insp. crackles and decreased breath
+sounds toward the bases.no wheezes, good air movement, resp
+unlabored.
+ABDOMEN: Soft/NT to palp/ND,positive bowel sounds, no masses or
+HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses. No CVA
+tenderness
+LYMPH: No cervical LAD.
+NEURO: Awake, CNs II-XII grossly intact, muscle strength 4/5 in
+bilateral feet on plantarflexion (would not participate with
+rest of exam)
+
+
+Pertinent Results:
+Admission Labs
+
+[**2104-3-24**] 08:45PM   SODIUM-138 POTASSIUM-3.8 CHLORIDE-99
+[**2104-3-24**] 08:45PM   ALT(SGPT)-507* AST(SGOT)-880* CK(CPK)-[**Numeric Identifier 2567**]*
+ALK PHOS-71 TOT BILI-0.5
+[**2104-3-24**] 06:30PM URINE  COLOR-AMBER APPEAR-Hazy SP [**Last Name (un) 155**]-1.015
+[**2104-3-24**] 06:30PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30
+GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2104-3-24**] 06:30PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE
+EPI-0
+[**2104-3-24**] 06:30PM URINE  AMORPH-OCC
+[**2104-3-24**] 06:30PM URINE  MUCOUS-OCC
+[**2104-3-24**] 05:51PM   PT-34.5* PTT-26.5 INR(PT)-3.4*
+[**2104-3-24**] 05:25PM   SODIUM-134 POTASSIUM-6.4* CHLORIDE-95*
+[**2104-3-24**] 05:25PM   GLUCOSE-474* UREA N-26* CREAT-0.9 SODIUM-133
+POTASSIUM-7.4* CHLORIDE-96 TOTAL CO2-28 ANION GAP-16
+[**2104-3-24**] 05:25PM   estGFR-Using this
+[**2104-3-24**] 05:25PM   CK(CPK)-[**Numeric Identifier 2566**]*
+[**2104-3-24**] 05:25PM   cTropnT-0.07*
+[**2104-3-24**] 05:25PM   proBNP-1537*
+[**2104-3-24**] 05:25PM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG
+barbitrt-NEG tricyclic-NEG
+[**2104-3-24**] 05:25PM   WBC-11.0# RBC-4.66# HGB-14.1 HCT-42.6 MCV-91
+MCH-30.2 MCHC-33.1 RDW-13.6
+[**2104-3-24**] 05:25PM   NEUTS-76.1* LYMPHS-18.3 MONOS-4.2 EOS-0.7
+BASOS-0.7
+[**2104-3-24**] 05:25PM   PLT COUNT-251
+.
+Discharge Labs
+
+[**2104-4-4**] 07:03AM BLOOD WBC-35.9* RBC-1.82*# Hgb-5.5*# Hct-18.4*#
+MCV-101* MCH-30.3 MCHC-30.0* RDW-16.2* Plt Ct-150
+[**2104-4-4**] 05:22AM BLOOD WBC-42.8* RBC-2.93* Hgb-9.0* Hct-28.3*
+MCV-96 MCH-30.7 MCHC-31.9 RDW-15.7* Plt Ct-260
+[**2104-4-3**] 09:24PM BLOOD WBC-32.9*# RBC-3.14* Hgb-9.4* Hct-30.1*
+MCV-96 MCH-29.8 MCHC-31.1 RDW-15.5 Plt Ct-274
+[**2104-4-3**] 06:38AM BLOOD WBC-20.7* RBC-3.65* Hgb-11.3* Hct-34.5*
+MCV-95 MCH-31.1 MCHC-32.8 RDW-15.0 Plt Ct-259
+[**2104-4-2**] 02:40AM BLOOD WBC-15.7* RBC-3.70* Hgb-11.3* Hct-35.2*
+MCV-95 MCH-30.5 MCHC-32.1 RDW-15.2 Plt Ct-231
+[**2104-4-1**] 03:19AM BLOOD WBC-14.8* RBC-3.77* Hgb-11.3* Hct-35.6*
+MCV-95 MCH-29.9 MCHC-31.6 RDW-15.2 Plt Ct-232
+[**2104-3-31**] 06:29PM BLOOD WBC-15.8* RBC-3.78* Hgb-11.6* Hct-35.6*
+MCV-94 MCH-30.6 MCHC-32.5 RDW-15.3 Plt Ct-227
+[**2104-4-4**] 07:03AM BLOOD Neuts-77* Bands-4 Lymphs-10* Monos-4
+Eos-0 Baso-0 Atyps-1* Metas-4* Myelos-0 NRBC-1*
+[**2104-4-3**] 09:24PM BLOOD Neuts-81* Bands-3 Lymphs-7* Monos-8 Eos-0
+Baso-0 Atyps-0 Metas-1* Myelos-0
+[**2104-4-3**] 06:38AM BLOOD Neuts-75* Bands-2 Lymphs-4* Monos-11
+Eos-2 Baso-0 Atyps-0 Metas-1* Myelos-5*
+[**2104-4-1**] 03:19AM BLOOD Neuts-77* Bands-2 Lymphs-12* Monos-4
+Eos-0 Baso-0 Atyps-1* Metas-2* Myelos-2*
+[**2104-4-4**] 07:03AM BLOOD Plt Smr-NORMAL Plt Ct-150
+[**2104-4-4**] 07:03AM BLOOD PT-63.6* PTT-150* INR(PT)-7.04*
+[**2104-4-4**] 05:22AM BLOOD Plt Ct-260
+[**2104-4-4**] 05:22AM BLOOD PT-49.4* PTT-69.0* INR(PT)-5.2*
+[**2104-4-3**] 09:24PM BLOOD PT-35.3* PTT-150* INR(PT)-3.5*
+[**2104-4-3**] 05:00PM BLOOD PT-28.7* PTT-39.4* INR(PT)-2.8*
+[**2104-4-2**] 02:40AM BLOOD PT-32.3* PTT-30.0 INR(PT)-3.2*
+[**2104-3-28**] 04:20AM BLOOD PT-73.6* PTT-36.9* INR(PT)-8.3*
+[**2104-3-26**] 07:15AM BLOOD PT-29.3* PTT-27.1 INR(PT)-2.8*
+[**2104-4-4**] 07:03AM BLOOD Glucose-286* UreaN-33* Creat-1.0 Na-141
+K-5.4* Cl-103 HCO3-22 AnGap-21*
+[**2104-4-4**] 05:22AM BLOOD Glucose-187* UreaN-32* Creat-0.7 Na-139
+K-5.1 Cl-102 HCO3-24 AnGap-18
+[**2104-4-3**] 09:24PM BLOOD Glucose-268* UreaN-26* Creat-0.7 Na-138
+K-4.7 Cl-103 HCO3-26 AnGap-14
+[**2104-4-3**] 05:00PM BLOOD Glucose-205* UreaN-24* Creat-0.5 Na-140
+K-4.4 Cl-105 HCO3-28 AnGap-11
+[**2104-4-4**] 05:22AM BLOOD ALT-443* AST-508* LD(LDH)-1116*
+AlkPhos-86 TotBili-0.8
+[**2104-4-3**] 09:24PM BLOOD ALT-298* AST-144* LD(LDH)-545*
+CK(CPK)-535* AlkPhos-84 TotBili-0.4
+[**2104-4-3**] 09:24PM BLOOD CK-MB-17* MB Indx-3.2 cTropnT-1.18*
+[**2104-4-3**] 05:00PM BLOOD CK-MB-17* MB Indx-2.9 cTropnT-1.19*
+[**2104-4-3**] 11:01AM BLOOD CK-MB-18* MB Indx-3.2 cTropnT-1.36*
+[**2104-4-4**] 07:03AM BLOOD Calcium-10.9* Phos-7.7*# Mg-2.3
+[**2104-4-4**] 05:22AM BLOOD Albumin-2.1* Calcium-7.2* Phos-4.5 Mg-2.2
+[**2104-4-3**] 09:24PM BLOOD Albumin-2.0* Calcium-7.1* Phos-3.1 Mg-1.7
+[**2104-4-3**] 05:00PM BLOOD Calcium-7.2* Phos-2.3* Mg-1.7
+[**2104-3-27**] 04:01AM BLOOD Osmolal-313*
+[**2104-3-31**] 03:46AM BLOOD TSH-0.87
+[**2104-3-27**] 08:13AM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2104-4-3**] 06:38AM BLOOD Digoxin-2.0
+[**2104-3-24**] 05:25PM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+[**2104-4-4**] 07:17AM BLOOD Type-CENTRAL VE pO2-95 pCO2-68* pH-7.10*
+calTCO2-22 Base XS--9 Comment-GREEN TOP
+[**2104-4-4**] 05:45AM BLOOD Type

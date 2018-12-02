@@ -1,0 +1,200 @@
+Admission Date:  [**2135-1-20**]              Discharge Date:   [**2135-1-25**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1936**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+This is a 88 year-old male with a history of CAD s/p CABG [**2121**],
+CHF (EF: 25%), DM2, HTN, HL, a-fib who presents with dyspnea.
+.
+The patient was in his normal state of health until today when
+he complaned of SOB. He was at rehab and was given a neb, but
+continued to have worsening dyspnea. He denied any fevers,
+chills, cough, sputum, or abdominal pain, EMS was called to take
+the patient to the ED and O2 sats were in the high 80's per EMS.
+In the ED he was placed on NRB with initial vital signs 97.1
+HR:64 BP:142/81 RR:36 O2:99%. He was then placed on BiPAP and
+vitals signs improved to HR:63 BP:120/64 RR:20 O2:100%. Labs
+were significant for a BNP: [**Numeric Identifier 8068**], trop:0.04, CK:36, WBC: 15.5,
+lactate 2.4 creatinine 1.4. The CXR showed mild vascular
+congestion, large left pleural effusion and ?opacity in the left
+base, likely atelectasis. He was given Vanco/levoflox/CTX for
+presumed pneumonia and albuterol/ipratropium nebs. He only
+received 150ml IVF and no lasix.
+.
+In the ICU the patient was continued on bipap and comfortable.
+He denied any fevers, chills, cough. He did report improved SOB.
+
+.
+ROS: The patient denies any fevers, chills, weight change,
+nausea, vomiting, abdominal pain, diarrhea, constipation,
+melena, hematochezia, chest pain, shortness of breath,
+orthopnea, PND, lower extremity oedema, cough, urinary
+frequency, urgency, dysuria, lightheadedness, gait unsteadiness,
+focal weakness, vision changes, headache, rash or skin changes.
+
+
+
+Past Medical History:
+- CHF (EF 25% [**2132**])
+- [**Company 1543**] Thera DDD pacer for sick sinus syndrome
+- Coronary artery disease s/p CABG '[**21**] w/ SVG-RCA-PDA, SVG-OM1,
+
+LIMA-LAD, and status post MI
+- Status post DDD pacer placement in [**2122-1-17**] for sinus
+
+arrest and bradycardia
+- History of prostate cancer status post XRT in [**2121**],
+status post prostatectomy.
+- Radiation cystitis with hematuria.
+- Hypertension.
+- Hypercholesterolemia.
+- Type II diabetes.
+- A.fib
+- Appendectomy
+
+
+Social History:
+The patient lives with his wife in [**Location (un) **] and has five sons
+and four daughters, who are extremely attentive. He retired at
+68 years after working in textiles as an executive. He reports
+6mo hx of tobacco, denies alcohol history recently.
+
+
+
+Family History:
+The patient has a brother who died of a myocardial infarction at
+age 63 years, and a mother with diabetes mellitus. Brother died
+of EtOH abuse.
+
+
+Physical Exam:
+Tcurrent: 36 ??????C (96.8 ??????F)
+HR: 60 (60 - 69) bpm
+BP: 127/65(81) {126/64(78) - 127/65(81)} mmHg
+RR: 29 (17 - 29) insp/min
+SpO2: 96%
+Heart rhythm: V Paced
+
+General Appearance: Well nourished, No acute distress, Anxious,
+on bipap
+Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, Conjunctiva
+pale
+Head, Ears, Nose, Throat: Normocephalic, dry MM
+Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t)
+Systolic, No(t) Diastolic)
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Present), (Left DP pulse:
+Present)
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Crackles : b/l , Bronchial: , Diminished: L>R)
+Abdominal: Soft, Non-tender, Bowel sounds present, No(t)
+Distended, No(t) Tender: , Obese
+Extremities: Right lower extremity edema: Absent, Left lower
+extremity edema: Absent
+Skin:  Not assessed
+Neurologic: Attentive, Follows simple commands, Responds to:
+Verbal stimuli, Oriented (to): x3, Movement: Purposeful, No(t)
+Sedated, Tone: Normal
+
+
+Pertinent Results:
+==================
+  ADMISSION LABS
+==================
+
+[**2135-1-20**] 01:00AM BLOOD WBC-15.5*# RBC-3.82* Hgb-9.8* Hct-31.6*
+MCV-83 MCH-25.6* MCHC-30.9* RDW-18.4* Plt Ct-295
+[**2135-1-20**] 01:00AM BLOOD Neuts-90.9* Lymphs-4.3* Monos-4.3 Eos-0.5
+Baso-0.2
+[**2135-1-20**] 01:00AM BLOOD PT-24.1* PTT-30.6 INR(PT)-2.3*
+[**2135-1-20**] 01:00AM BLOOD Glucose-190* UreaN-29* Creat-1.4* Na-142
+K-4.3 Cl-100 HCO3-31 AnGap-15
+[**2135-1-20**] 01:00AM BLOOD CK-MB-NotDone proBNP-[**Numeric Identifier 8068**]*
+[**2135-1-20**] 01:00AM BLOOD cTropnT-0.04*
+[**2135-1-20**] 01:00AM BLOOD Calcium-9.1 Phos-4.5 Mg-2.0
+[**2135-1-20**] 01:04AM BLOOD Lactate-2.4* K-4.4
+
+ECHO ([**2135-1-20**])
+The left atrium is moderately dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is severely
+depressed (LVEF= 20-30 %) secondary to extensive severe inferior
+and posterior wall hypokinesis/akinesis, apical dyskinesis, and
+hypokinesis of all other segments with relatively preserved
+function of the basal segments. Tissue Doppler imaging suggests
+an increased left ventricular filling pressure (PCWP>18mmHg).
+There is no ventricular septal defect. The right ventricular
+free wall is hypertrophied. Right ventricular chamber size is
+normal. with depressed free wall contractility. There is
+abnormal systolic septal motion/position consistent with right
+ventricular pressure overload. The ascending aorta is moderately
+dilated. The aortic valve leaflets are moderately thickened.
+There is a minimally increased gradient consistent with minimal
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. Mild (1+) mitral regurgitation is seen. The
+tricuspid valve leaflets are mildly thickened. Moderate [2+]
+tricuspid regurgitation is seen. There is severe pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+CHEST X-RAY ([**2135-1-21**])
+IMPRESSION: Mild pulmonary interstitial edema. Worsened, now
+large left
+pleural effusion and left basilar opacification with component
+of atelectasis, though pneumonia is not excluded.
+Read in conjunction with CT examination from [**2128**] which
+demonstrated concern possible left lower lobe lung mass, current
+radiograph is insensitive for confirmation, and correlation with
+interval imaging or a repeat CT examination can be performed as
+appropriate.
+
+[**2135-1-22**] CXR: FINDINGS As compared to the previous radiograph,
+the pre-existing basal opacity has completely cleared. The left
+basal opacity, however, is more dense than on the previous
+examination. There seems to be an element of volume loss,
+leading to slight displacement of the heart towards the left.
+The presence of a left pleural effusion cannot be excluded. The
+cardiac silhouette is of unchanged size. Unchanged position of
+sternal wires and pacemaker leads.
+
+
+Brief Hospital Course:
+Please see attending d/c letter for further details: below is
+summary by resident:
+.
+.
+This is a 88 year-old male with a history of CAD s/p CABG [**2121**],
+CHF (EF: 25%), DM2, HTN, HL, a-fib who presents with dyspnea.
+.
+#. ACUTE SYSTOLIC HEART FAILURE / DYSPNES: Pt with extensive
+cardiac history and last EF 25% likely secondary to ischemia.
+The patient has a markedly elevated BNP of [**Numeric Identifier 8068**] (prior value
+~5000). Given his extensive cardiac history most likely etiology
+is CHF exacerbation, and during admission able to elucidate
+recent discontinuation of metolazone and drastic dose reductions
+in home furosemide, carvedilol and ACE-I. CXR showed large left
+pleural effusion and atelectasis vs consolidation in the left
+base. He does have leukcytosis and elevated lactate and received
+vanco/levo/CTX while more data was obtained, however all
+cultures remained negative and urine legionella antigen was
+negative; no leukocytosis or fever was observed. Patient was
+given BIPAP initially and diuresed gently to avoid acute kidney
+injury. Able to transition to supplemental oxygen without
+difficulty in MICU and patient was transferred to the floor for
+further management of his CHF exacerbation. Antibiotics were
+discontinued with exception of azithromycin (5 day course).  He
+did well on the floor, tolerated physical therapy.  He was
+continually diuresed and improved in O2 requirement.  He was
+discharged i

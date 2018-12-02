@@ -1,0 +1,206 @@
+Admission Date:  [**2169-4-14**]              Discharge Date:   [**2169-4-28**]
+
+Date of Birth:  [**2088-7-18**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+palpitations, SOB
+
+Major Surgical or Invasive Procedure:
+[**4-18**] redo sternotomy/ AVR (#23 [**First Name8 (NamePattern2) **] [**First Name5 (NamePattern1) 923**] [**Last Name (NamePattern1) 9041**]), CABG x 1
+(SVG->PDA)
+
+
+History of Present Illness:
+Pt is an 80 y/o M hx MI s/p CABG, extensive cardiac history
+(read below in PMHx), severe AS (h/o syncope), DM, HTN, and
+Hyperlipidemia who presents today to ED with palpitations, CP
+and SOB and found to have Afib w/ RVR.
+.
+At baseline, patient is able to walk up 6 stairs and has to stop
+due to SOB. He has ? gastroenteritis for the last few days.
+Today, he was unable to climb any steps as he felt lousy
+intially. Then he developed severe [**10-25**] pounding chest pain
+which was associated with SOB and sweating. He did not have any
+dizziness or syncope with that. He called EMS and enroute, he
+was found to have AFib w/ RVR and was given bolus of Amio IVB
+without any effect.
+.
+Upon arrival in the ED, his HR was > 160, BP was 100-120/70-90,
+RR 30. He then received 10 mg IV Dilt -> BP dropped to 84/74
+without any effect on the HR. He was then electrically
+cardioverted to sinus rhythm. Subsequently his vitals were
+stable at around 101, 127/80, 28, 100%/NRB. He also received 4.5
+lts of NS. He also had some ST depressions in the inferolateral
+leads in the setting of tachycardia and so he was started on
+heparin. He also got 2.5 IV lopressor to which he dropped his
+SBP from 125 to 70 which reverted back to his baseline of around
+120 within few minutes. He was also given Levaquin 500 mg IV for
+UTI.
+.
+Cath from [**2169-4-7**]
+-- Three vessel coronary artery disease with patent LIMA to LAD
+and
+occluded SVG to Ramus and jump segment to R PDA.
+-- Severe aortic stenosis.
+-- Moderate diastolic ventricular dysfunction
+-- severe AS w/ peak gradient of 55 mmHg, valve area of 0.65m3
+-- EF of 60% without regional wall motion abnormalities
+Hemodynamics:
+-- moderately elevated R & L sided filling pressure with RVEDP
+of 15mmHg and LVEDP of 18mmHg
+-- moderate PAH with a PASP of 50mmHg
+-- CI depressed at 2 L/min/m2
+
+
+Past Medical History:
+- CAD s/p CABG x 3 in [**2158**] (LIMA to LAD, SVG to OM, and SVG to
+RCA)
+- S/P stenting [**2164**] of mid RCA, PTCA of proximal RCA and PDA
+- DM
+- HTN
+- Hyperlipidemia
+- Left leg cellulitis
+- OA
+- Renal cell carcinoma (unchanged in 4 months)
+- Depression
+- Asbestos Lung
+- Spinal stenosis
+
+
+Social History:
+Lives with daughter in [**Name (NI) 2312**]
+Denies EtOH use
+Quit smoking in [**2104**]
+.
+
+
+Family History:
+Father - MI in his 60's
+Mother - died of unknown cancer
+
+
+Physical Exam:
+VS: 95.2, 100, 107/74, 21, 100%/NRB
+Gen: appears comfortable, mild conversational dyspnea
+HEENT: PERLA, EOMI, Dry MM
+Neck: distended neck veins, JVD ~ [**7-23**] cms
+Heart: tachycardia, regular rhythm, distant heart sounds, could
+not appreciate any murmur
+Lungs: mild expiratory wheezing, crackles at bases bilaterally
+Abd: distended, tympanic, bowel sounds normoactive, soft/NT
+Ext: 1+ edema bilaterally, changes from venous statis on right,
+resolving cellulitic changes on left
+
+Pulses:
+Right: Carotid 1+ Femoral 1+ Popliteal 1+ DP 1+ PT 1+
+Left: Carotid 1+ Femoral 1+ Popliteal 1+ DP 1+ PT 1+
+
+
+Pertinent Results:
+[**2169-4-14**] CArotid Duplex Ultrasound
+1. Occluded left internal carotid artery.
+2. No significant right ICA or CCA stenosis (right ICA stenosis
+is graded as less than 40%).
+
+[**2169-4-15**] ECHO
+Conclusions:
+The estimated right atrial pressure is 5-10 mmHg. There is mild
+symmetric left ventricular hypertrophy with normal cavity size.
+There is mild to moderate regional left ventricular systolic
+dysfunction with anterior and
+infero-lateral hypokinesis (?multi-vessel CAD?). Right
+ventricular systolic function is borderline normal. The number
+of aortic valve leaflets cannot be determined. The aortic valve
+leaflets are severely thickened/deformed. There is at least
+moderate aortic valve stenosis (area 0.8-1.19cm2). No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. The pulmonary
+artery systolic pressure could not be determined. The pulmonic
+valve leaflets are thickened. The end-diastolic pulmonic
+regurgitation velocity is increased suggesting pulmonary artery
+diastolic hypertension. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2169-2-24**],
+there are new
+regional wall motion abnormalities c/w multi-vessel CAD. The
+degree of aortic stenosis (moderate to severe) is probably
+similar (currently lower gradient probably secondary to
+decreased cardiac output).
+
+[**2169-4-17**] Vein Mapping
+There is a patent right greater saphenous vein, however, there
+is reflux throughout and varicosities below the knee. There are
+patent bilateral lesser saphenous veins of small diameter and
+the left greater saphenous vein is only visualized at the
+saphenofemoral junction and not seen throughout the rest of the
+leg.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 97733**] was admitted to the [**Hospital1 18**] on [**2169-4-14**] for further
+evaluation of his aortic stenosis and coronary artery disease.
+He was evaluated by the cardiac surgical service given that a
+recent cardiac catheterization revealed occluded vein grafts
+from his prior CABG in [**2158**]. Mr. [**Known lastname 97733**] was worked up in the
+usual preoperative manner. A carotid duplex ultrasound was
+performed which revealed an occluded left internal carotid
+artery and mild plaque in the right internal carotid artery.
+Ciprofloxacin was started for a urinary tract infection. Vein
+mapping was performed which revealed a patent right saphenous
+vein with dimensions ranging between 3.7mm to 6.7mm. On [**2169-4-18**],
+Mr. [**Known lastname 97733**] was taken to the operating room where he underwent a
+redo sternotomy with coronary artery bypass grafting to one
+vessel and an aortic valve replacement using a 23mm [**Known lastname 9041**]
+Porcine Valve. Postoperatively he was taken to the cardiac
+surgical intensive care unit for monitoring. Pressors were
+continued to maintain an acceptable blood pressure. Gentle
+diuresis was initiated. On postoperative day three, Mr. [**Known lastname 97733**] [**Last Name (Titles) **]e neurologically intact and was extubated. Amiodarone was
+started for atrial fibrillation.
+
+On postoperative day five, Mr. [**Known lastname 97733**] was transferred to the
+step down unit for further recovery. The physical therapy
+service was consulted for assistance with his postoperative
+strength and mobility. Haldol was used for periods of
+postoperative delirium. As his diet improved and advanced, his
+oral diabetes medications were resumed. Foley was reinserted for
+urinary retention on POD #7. Mental status much improved on POD
+#9 and haldol discontinued. C. diff. culture sent for diarrhea
+amd was negative twice.  He was discharged to rehab on POD#10 in
+stable condition.
+
+Medications on Admission:
+ASA 325 mg daily
+Lipitor 80 mg daily
+Glyburide 5 mg daily
+Colace 100 mg [**Hospital1 **]
+Pantoprazole 40 mg daily
+Citalopram 20 mg daily
+Senna 8.6 mg prn 2 times a day
+Albuterol PRN
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*30 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*0*
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+6. Glyburide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+7. Citalopram 20 mg Tablet Sig: One (1) Tablet PO once a day.

@@ -1,0 +1,193 @@
+Admission Date:  [**2159-9-3**]              Discharge Date:   [**2159-9-13**]
+
+Date of Birth:  [**2110-12-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril / Morphine
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+epigastric pain
+
+Major Surgical or Invasive Procedure:
+femoral central line placement
+
+History of Present Illness:
+Mr. [**Known lastname 33419**] is a 48 year-old Cuban gentleman with a history of
+idiopathic dilated cardiomyopathy (EF 15-20%) s/p AICD [**2159-8-7**]
+who presented to the Emergency Department with intermittant,
+epigastric pain that is similar to his presentation at his last
+admission on [**8-25**]. Also admits to bilious emesis. Denies any
+f/chills. He reports pain worsened over the past 3 days with N/V
+as well as abdominal distension and firmness. He reports some
+increased dysuria intermittently for the past 2 days.
+.
+In the [**Name (NI) **], pt temp was 97.7, Hr 112, BP 110/69, 100%RA. He
+received 1L NS, D5W + bicarb and mucomyst prior to receiving IV
+contrast during his CT torso.
+
+
+Past Medical History:
+1. CHF: Idiopathic dilated cardiomyopathy. Echo [**6-2**] with LVEF
+15-20%, mild-mod MR. [**Name14 (STitle) 33421**] [**4-30**] with global hypokinesis,
+moderate dilation, no perfusion defects and normal EKG. Cath
+[**8-2**] with no flow limiting coronary disease, elevated right and
+left sided filling pressures consistent with biventricular
+diastolic dysfunction (RVEDP = 16 mmHg, LVEDP = 31 mmHg),
+moderate pulmonary arterial hypertension, markedly reduced
+cardiac index, and markedly elevated SVR and PVR. Dry weight is
+144lbs (65.5kg).
+2. NSVT: Pt with several episodes during hospitalization in [**8-2**]
+and underwent AICD placement.
+3. h/o STDs: MSM. +gonorrhea [**2153**]. HBV core Ab+, sAb+. HIV neg
+[**7-3**], HCV neg [**7-3**].
+4. RUE DVT - on coumadin
+5. ? Protein C and S deficient last admit
+
+
+Social History:
+The patient immigrated from [**Country 5976**] in [**2149**].  He currently lives
+alone in [**Location (un) 686**].  He denies any use of alcohol, tobacco or
+illicit drugs.  He is a man who has sex with men (see above).
+
+
+Family History:
+CAD - Mother died of MI in her 50s.  Brothers and sisters also
+have "problems with their hearts." No known history of blood
+clots.
+
+
+Physical Exam:
+Admission PE:
+VS: T97.2 BP96/52 P116 R20 O2 95%RA
+GEN: NAD, comfortable, Spanish-speaking gentleman, breathing
+comfortably.
+HEENT: PERRL. MMM. OP clear. No JVD.
+HEART: RRR no m/r/g. Defibrillator site c/d/i without erythema
+or swelling.
+LUNGS: CTA B/L
+ABD: soft, nondistended. Hyperactive BS. Diffuse TTP throughout
+abd, but no rebound/guarding. Mild CVAT on R, none on L.
+EXT: No edema bilat.
+NEURO: AO x 3. No focal deficits
+
+
+Pertinent Results:
+Admission Labs:
+.
+[**2159-9-2**] 08:20PM BLOOD WBC-7.1 RBC-4.65 Hgb-13.1* Hct-38.5*
+MCV-83 MCH-28.2 MCHC-34.0 RDW-15.7* Plt Ct-351
+[**2159-9-2**] 08:20PM BLOOD Neuts-65.7 Lymphs-27.6 Monos-5.0 Eos-1.2
+Baso-0.4
+[**2159-9-2**] 08:20PM BLOOD Hypochr-1+ Microcy-1+
+[**2159-9-2**] 08:20PM BLOOD PT-36.2* PTT-30.3 INR(PT)-4.0*
+[**2159-9-2**] 08:20PM BLOOD Glucose-112* UreaN-20 Creat-1.3* Na-135
+K-6.2* Cl-100 HCO3-21* AnGap-20
+[**2159-9-2**] 08:20PM BLOOD ALT-54* AST-77* CK(CPK)-140 AlkPhos-157*
+Amylase-30 TotBili-1.0
+[**2159-9-2**] 08:20PM BLOOD Lipase-30
+[**2159-9-2**] 08:20PM BLOOD CK-MB-2
+[**2159-9-2**] 08:20PM BLOOD Calcium-8.8 Phos-4.6* Mg-2.2
+.
+Other labs:
+[**2159-9-2**] troponin <0.01, CK 140
+[**2159-9-5**] homocystein level 10
+[**2159-9-5**] ACA IgM 8.0 and ACA IgG 5.2
+[**2159-9-5**] prothrombin mutation not detected
+[**2159-9-5**] Factor V leiden mutation not detected
+.
+CXR ([**2159-9-2**]):
+1. Marked cardiomegaly, stable.
+2. Interval improvement in the degree of congestive heart
+failure with a tiny right pleural effusion.
+3. Stable appearance of the transvenous pacemaker and leads.
+.
+CT Torso ([**2159-9-2**]):
+1. Likely small subsegmental nonocclusive lingular pulmonary
+embolus.
+2. Heterogeneous right nephrogram, new from [**2159-7-31**], is
+pyelonephritis versus renal infarcts.
+3. A moderate right pleural effusion. (enlarged from [**2159-7-31**]), and small ascites (relatively unchanged).
+.
+Echo [**2159-9-3**]:
+The left and right atrium are moderately dilated. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity is moderately dilated. There is severe global left
+ventricular hypokinesis. No masses or thrombi are seen in the
+left ventricle. The right ventricular cavity is moderately
+dilated with severe global free wall hypokinesis. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Moderate to severe (3+) mitral
+regurgitation is seen. The left ventricular inflow pattern
+suggests a restrictive filling abnormality, with elevated left
+atrial pressure. Moderate [2+] tricuspid regurgitation is seen.
+There is mild pulmonary artery systolic hypertension. There is
+no pericardial effusion. Compared with the prior study (images
+reviewed) of [**2159-6-12**],the findings are
+similar.
+.
+Echo [**2159-9-4**]:
+The left ventricular cavity is moderately dilated. Overall left
+ventricular systolic function is severely depressed. No definite
+thrombus identified (cannot definitively exclude). Spontaneous
+echo contrast is noted in the left heart consistent with slow
+flow. The right ventricular cavity is dilated. There is moderate
+to severe global right ventricular free wall hypokinesis. The
+aortic valve leaflets (3) are mildly thickened. The mitral valve
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened. There
+is moderate pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+.
+RLE U/S [**2159-9-6**]: no DVT
+.
+Discharge Labs:
+.
+[**2159-9-13**] 06:40AM BLOOD WBC-6.1 RBC-4.68 Hgb-12.7* Hct-38.4*
+MCV-82 MCH-27.0 MCHC-33.0 RDW-16.4* Plt Ct-459*
+[**2159-9-13**] 06:40AM BLOOD Plt Ct-459*
+[**2159-9-13**] 06:40AM BLOOD PT-19.6* PTT-33.2 INR(PT)-1.9*
+[**2159-9-13**] 06:40AM BLOOD Glucose-93 UreaN-23* Creat-1.1 Na-133
+K-4.8 Cl-98 HCO3-24 AnGap-16
+[**2159-9-13**] 06:40AM BLOOD Calcium-9.0 Phos-4.0 Mg-2.0
+
+Brief Hospital Course:
+48 year-old M with nonischemic dilated CMP with EF<20%, multiple
+VTE (DVT/PE) who presents with persistent epigastric pain
+initially admitted to medicine, transfered to the MICU due to
+hypotension on the same day, then CCU the next day for further
+management of CHF (tailored therapy).  His hospital course for
+this admission is as follows:
+.
+1 CHF: Severe systolic CHF with EF <20% with moderate MR,
+hypotension likely secondary to poor cardiac output.   We
+continued his digoxin at home dose.  Central line was placed,
+and he was started on dobutamine drip tailored therapy at
+15/kg/min on [**2159-9-4**] which was gradually weaned to 12mcg/kg/min
+on [**2159-9-6**], and weaned completely on [**2159-9-7**] and his central
+line was pulled on the same day.  We monitored him closely for
+arrythmias on the tele while he was on the dobutamine drip.
+Lasix, [**Last Name (un) **], and spironolactone was held initially given
+increased Cr, while he was at the CCU, [**Last Name (un) **] (valsartan 40''),
+lasix 40', aldactone 25' was restarted once his Cr function was
+back to his baseline.  He was held on most of his heart failure
+meds given BP parameter setting (SBP<95), but we adjusted the
+parameter to hold meds for SBP<85, and the decision was made not
+to take him for right heart cath at the time since he was able
+to tolerate his heart failure meds with changing parameters.  He
+was discharged home with valsartan 40mg PO qhs, lasix 80mg PO
+qday, aldactone 25mg PO qday, digoxin 0.125mg PO qday.
+.
+2 Ischmia. No CP, no h/o CAD. initial troponin and CK negative.
+.
+3 Rhythm. pt had sinus tach, likely [**3-1**] to low cardiac output,
+anticipate improvement.
+.
+4 Abdominal Pain. Leading diagnosis is congestion from CHF
+causing pain from liver capsule expansion. Somewhat responsive
+to PPI. He continued to complained abdominal pain while in the
+hopsital, and seemed to improved with pain management.  CT torso
+initially was unrevealing.  We fo

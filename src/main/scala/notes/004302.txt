@@ -1,0 +1,229 @@
+Admission Date:  [**2192-6-25**]              Discharge Date:   [**2192-7-3**]
+
+Date of Birth:  [**2140-6-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Acute liver failure
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Mr. [**Known lastname 15674**] is a 52 year old male with a pmh of DMII, EtOH abuse,
+and Crohn's disease who presented to an OSH after a night of
+partying with friends where they had wine and raw oysters. He
+went home and slept until he awoke with acute N/V/D and fevers.
+
+At the OSH he was found to be in ALF with AST of >5000, ALT >
+3000 INR of 3.2 and platelets of 62. Given his history of EtOH
+abuse he was given a dose of steroids, covered for vibrio with
+doxycycline and ceftriaxone, and started on NAC drip (Tylenol
+level <15). Per report, U/S was negative at the OSH ED. After
+acute worsening of his liver failure and development of
+encephalopathy/withdrawal, he was transferred to [**Hospital1 18**] for
+ongoing care.
+
+Prior to transfer he had received a total of 16mg Ativan, 2mg
+Haldol for agitation and withdrawal. QTc on arrival is 410.
+
+On arrival to the MICU, he is extremely agitated. Thrashing in
+the bed trying to break free of restraints kicking the bed.
+Easily redirectable for short periods of times. Initially vitals
+were with HR in 120s, BP 110s/60s, RR 16 and temp of 102.3.
+However, he became acutely agitated and BP elevated to 210/120s,
+HR in 150s. Given 2mg IV ativan, 5mg IV haldol. Fan and cooling
+blanket being used to help cool patient.
+
+Review of systems:
+(+) Per HPI  - Unable to obtain.
+
+
+
+Past Medical History:
+DMII complicated by neuropathy
+Narcotic Agreement
+Asthma
+HL
+HTN
+GERD
+Alcohol Abuse
+Crohn's Disease
+Barrett's Esophagus
+
+
+Social History:
+- Tobacco: Never
+- Alcohol: Yes documented as abuse and "heavy" but not
+quantified.
+- Illicits: Denies
+
+
+Family History:
+Unable to obtain.
+
+
+Physical Exam:
+Vitals: T:102.3 BP:113/55 P:121 R:22 O2: 97% on RA
+General: Agitated, thrashing in bed.
+HEENT: Sclera icteric, dry MM, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Tachycardic
+Lungs: Clear to auscultation anteriorly
+Abdomen: soft, non-tender, non-compliant from exam
+GU:  foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: Very warm. Erythema over chest and face
+Neuro: Unable to cooperate
+
+
+Pertinent Results:
+ADMISSION
+[**2192-6-25**] 08:59AM URINE  MUCOUS-RARE
+[**2192-6-25**] 08:59AM URINE  GRANULAR-6*
+[**2192-6-25**] 08:59AM URINE  RBC-3* WBC-1 BACTERIA-NONE YEAST-NONE
+EPI-0
+[**2192-6-25**] 08:59AM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-100
+GLUCOSE-300 KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-5.5
+LEUK-NEG
+[**2192-6-25**] 10:54AM   FIBRINOGE-196
+[**2192-6-25**] 10:54AM   PT-38.7* PTT-29.1 INR(PT)-3.8*
+[**2192-6-25**] 10:54AM   PLT SMR-VERY LOW PLT COUNT-58*
+[**2192-6-25**] 10:54AM   NEUTS-90.0* LYMPHS-7.0* MONOS-2.7 EOS-0
+BASOS-0.1
+[**2192-6-25**] 10:54AM   WBC-5.2 RBC-3.89* HGB-11.9* HCT-37.5* MCV-96
+MCH-30.6 MCHC-31.7 RDW-12.5
+[**2192-6-25**] 10:54AM   HCV Ab-NEGATIVE
+[**2192-6-25**] 10:54AM   IgG-620* IgA-248 IgM-114
+[**2192-6-25**] 10:54AM   AMA-NEGATIVE Smooth-NEGATIVE
+[**2192-6-25**] 10:54AM   HBsAg-NEGATIVE HBs Ab-NEGATIVE HAV
+Ab-POSITIVE
+[**2192-6-25**] 10:54AM   IgM HBc-NEGATIVE IgM HAV-NEGATIVE
+[**2192-6-25**] 10:54AM   calTIBC-265 HAPTOGLOB-108 FERRITIN-[**Numeric Identifier 112216**]*
+TRF-204
+[**2192-6-25**] 10:54AM   ALBUMIN-3.7 CALCIUM-8.4 PHOSPHATE-1.7*
+MAGNESIUM-1.6
+[**2192-6-25**] 10:54AM   IRON-214*
+[**2192-6-25**] 10:54AM   ALT(SGPT)-5735* AST(SGOT)-[**Numeric Identifier 20965**]*
+LD(LDH)-[**Numeric Identifier 112217**]* ALK PHOS-132* TOT BILI-3.4*
+[**2192-6-25**] 10:54AM   GLUCOSE-211* UREA N-21* CREAT-1.1 SODIUM-137
+POTASSIUM-4.1 CHLORIDE-98 TOTAL CO2-21* ANION GAP-22*
+[**2192-6-25**] 11:04AM   LACTATE-7.8*
+.
+DISCHARGE
+[**2192-7-3**] 04:47AM BLOOD WBC-6.3 RBC-3.48* Hgb-10.7* Hct-34.3*
+MCV-99* MCH-30.7 MCHC-31.0 RDW-13.9 Plt Ct-90*
+[**2192-7-3**] 04:47AM BLOOD PT-14.9* PTT-32.3 INR(PT)-1.4*
+[**2192-7-3**] 04:47AM BLOOD Glucose-105* UreaN-20 Creat-1.5* Na-136
+K-4.1 Cl-102 HCO3-25 AnGap-13
+[**2192-7-3**] 04:47AM BLOOD ALT-279* AST-101* AlkPhos-359*
+TotBili-7.4*
+[**2192-7-3**] 04:47AM BLOOD Albumin-3.3* Calcium-8.7 Phos-2.8 Mg-1.5*
+.
+MICRO
+[**Doctor Last Name **]-[**Doctor Last Name **] VIRUS VCA-IgG AB (Final [**2192-6-28**]):    POSITIVE BY
+EIA.
+
+   [**Doctor Last Name **]-[**Doctor Last Name **] VIRUS EBNA IgG AB (Final [**2192-6-28**]):    POSITIVE
+BY EIA.
+
+   [**Doctor Last Name **]-[**Doctor Last Name **] VIRUS VCA-IgM AB (Final [**2192-6-28**]):
+      NEGATIVE <1:10 BY IFA.
+      INTERPRETATION: RESULTS INDICATIVE OF PAST EBV INFECTION.
+[**2192-6-27**] 5:45 pm STOOL     CONSISTENCY: SOFT      Source: Stool.
+
+
+                            **FINAL REPORT [**2192-6-29**]**
+
+   C. difficile DNA amplification assay (Final [**2192-6-28**]):
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay.
+           (Reference Range-Negative).
+
+   FECAL CULTURE (Final [**2192-6-29**]):    NO SALMONELLA OR SHIGELLA
+FOUND.
+
+   CAMPYLOBACTER CULTURE (Final [**2192-6-29**]):    NO CAMPYLOBACTER
+FOUND.
+
+   OVA + PARASITES (Final [**2192-6-28**]):
+      NO OVA AND PARASITES SEEN.
+      This test does not reliably detect Cryptosporidium,
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected
+by routine
+      O+P, the Giardia antigen test may enhance detection when
+organisms
+      are rare.
+
+   FECAL CULTURE - R/O VIBRIO (Final [**2192-6-29**]):    NO VIBRIO
+FOUND.
+
+   FECAL CULTURE - R/O YERSINIA (Final [**2192-6-29**]):    NO YERSINIA
+FOUND.
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final [**2192-6-28**]):
+      NO E.COLI 0157:H7 FOUND.
+CMV, HCV VL negative
+Urine cx [**7-2**] no growth
+Blood cx [**6-25**], [**7-2**] no growth to date
+OSH blood cx no growth
+.
+[**2192-6-25**] Echocardiogram:
+The left atrium is mildly dilated. Left ventricular wall
+thickness, cavity size and regional/global systolic function are
+normal (LVEF >55%). Tissue Doppler imaging suggests a normal
+left ventricular filling pressure (PCWP<12mmHg). Right
+ventricular chamber size and free wall motion are normal. The
+ascending aorta and aortic arch are mildly dilated. The aortic
+valve leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic stenosis or aortic regurgitation. The
+mitral valve leaflets are mildly thickened. No mitral
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+IMPRESSION: Suboptimal image quality. Normal biventricular
+cavity sizes with preserved global biventricular systolic
+function. Mild pulmonary artery hypertension. Mildly dilated
+thoracic aorta.
+CLINICAL IMPLICATIONS:
+Based on [**2187**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis is NOT recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+.
+[**2192-6-25**] LIVER/GALLBLADDER ULTRASOUND:
+IMPRESSION:
+Increased liver echogenicity, compatible with fatty deposition.
+However, more advanced types of liver disease,
+fibrosis/cirrhosis cannot be excluded.  No discrete hepatic
+lesion.  Hepatic vasculature is patent.
+.
+[**2192-6-25**] CXR:
+NG tube tip is in the stomach.  Heart size is top normal.  There
+is prominence of the right pulmonary artery, most likely
+asymmetric due to patient rotation. Mild vascular edema is
+present, but no overt consolidations to suggest infectious
+process are seen.
+.
+[**2192-6-25**] CT ABDOMEN and PELVIS with CONTRAST:
+IMPRESSION:
+1.  Fatty liver.
+2.  No evidence of colitis or intra-abdominal abscesses.
+3.  Small left lower lobe consolidation, might represent
+subsegmental
+atelectasis, still, infection cannot be ruled out.
+.
+[**2192-6-26**] RENAL ULTRASOUND:
+FINDINGS:  The right kidney measures 12.3 cm and the left kidney
+measures 11.2 cm.  There is no hydronephrosis.  No cyst or stone
+or solid mass is seen in either kidney.  No perinephric fluid
+collection is identified.  The bladder is collapsed on a Foley
+catheter.
+  IMPRESSIO

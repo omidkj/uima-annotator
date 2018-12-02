@@ -1,0 +1,221 @@
+Admission Date:  [**2129-9-20**]              Discharge Date:   [**2129-9-23**]
+
+Date of Birth:  [**2102-6-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Fentanyl
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+27year old male with Hajdu-[**Location (un) 2987**] Syndrome, (bone disorder) with
+restrictive lung disease from severe scoliosis and COPD (current
+smoker) at home on 4L O2 by nasal cannula and then SIMV by
+ventilator at night presenting to ED with increased SOB x 2days
+and increasing secretions. Patient was recently admitted to
+[**Hospital1 18**] with right olecranon osteomyelitis. He has been treated
+for 1.5 weeks with vancomycin for this infection. Since then he
+reports very little improvement in the infection.
+ Patient has history of ventilator-associated pneumonia with
+resistant pseudomonas in recent cultures (sensitive only to
+tobramycin but treated with cefepime with good result) and
+reports that over the last few days he has had increasing SOB
+worse than baseline. In addition he has had increasing
+secretions. He thinks he may also have been having fevers
+(low-grade). No sick contacts but says this feels like his prior
+PNAs so he came to ED.
+.
+ VS on arrival to the ED: T:98.9 HR:122 BP:109/79 RR:22 O2Sat:98
+on 5L trach mask.  Reportedly received cefepime and/or levoquin
+in the ED  for history of pseudomonal VAP since already on
+Vancomycin for osteomyelitis was covered for MRSA. Also takes
+prednisone at home and got 60mg in the ED for ?COPD
+exacerbation.
+.
+VS prior to transfer: T 99 HR 108 BP 124/72 RR 20 O2 97% on 5L
+trach mask.
+.
+On the floor,  patient complained of SOB and requested nebulizer
+treatments. He denied chest pain, dysuria, N/V/abdominal
+pain/diarrhea.
+
+
+Past Medical History:
+1. Hajdu-[**Location (un) 2987**] Syndrome
+2. Osteomyelitis, right olecranon (pressure-related)
+3. Chronic obstructive/restrictive lung disease
+4. h/o multiple pneumonias, including Pseudomonas pna and VAP
+
+Social History:
+Lives at home with his grandparents and brother. [**Name (NI) **] a Home
+Health Aide.
+- Tobacco: active tobacco use ([**5-16**] cigarettes a day)
+- Alcohol: denies
+- Illicits: denies
+
+
+Family History:
+Mother and brother with [**Location (un) 86059**] syndrome.
+
+Physical Exam:
+Vitals: T: 98.2 BP: 135/92 P:108 R: 24 O2: 99% on 40% trach mask
+
+General: Alert, oriented, no acute distress, small stature with
+marked [**Last Name (un) 2043**] abnormalities of extremities and back.
+HEENT: Sclera anicteric, dry MM, oropharynx clear, trach in
+place without erythema around site
+Neck: supple, JVP not elevated
+Lungs: Rales right middle lobe but left side clear. No wheezing.
+tachypneic but not in acute distress.
+CV: tachycardic and regular normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, edema
+
+
+Pertinent Results:
+[**2129-9-20**] 01:09PM   LACTATE-0.9
+[**2129-9-20**] 02:25PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-1 PH-7.0 LEUK-NEG
+[**2129-9-20**] 01:00PM   WBC-9.3 RBC-3.85* HGB-10.2* HCT-31.7* MCV-83
+MCH-26.5* MCHC-32.1 RDW-13.9
+[**2129-9-20**] 01:00PM   GLUCOSE-128* UREA N-17 CREAT-0.4* SODIUM-138
+POTASSIUM-4.0 CHLORIDE-96 TOTAL CO2-34* ANION GAP-12
+[**2129-9-20**] 01:00PM   NEUTS-94.8* LYMPHS-4.1* MONOS-0.7* EOS-0.3
+BASOS-0.1
+
+Micro:
+   GRAM STAIN (Final [**2129-7-30**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   MULTIPLE ORGANISMS
+CONSISTENT WITH
+                                    OROPHARYNGEAL FLORA.
+
+   RESPIRATORY CULTURE (Final [**2129-8-1**]):
+      MODERATE GROWTH Commensal Respiratory Flora.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.  PREDOMINATING
+ORGANISM.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------  =>64 R
+CEFTAZIDIME-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+MEROPENEM-------------     8 I
+PIPERACILLIN/TAZO----- =>128 R
+TOBRAMYCIN------------     2 S
+
+.
+Images:
+CXR (wet read): limited study secondar to pt body
+habitus/scoliosis; RML consolidation - may represent aspiration
+vs PNA
+
+.
+EKG:  Sinus tachycardia with <1mm STE I avl slightly worse than
+prior and TWI III.
+
+
+Brief Hospital Course:
+# Respiratory distress/SOB: Afebrile, no leukocytosis and no
+evidence of pneumonia on chest xray (although exam difficult due
+to patient anatomy.)  Initially started on cipro, cefepime for
+history of Pseudomonas pneumonia.  Continued on vanco for
+osotemyelitis and home vent settings for night/day.  No
+microbiologic evidence of bacteria from sputum, Legionella
+antigen negative.  Thought likely secondary to Enterococcus
+bacteremia, and cipro, cefepime were discontinued.  Patient's
+symptoms subjectively improved.
+
+# R Olecranon Osteomyelitis: Increased vancomycin dose initially
+due to low trough, then switched to daptomycin after
+consultation with ID as clinically no improvement.  Presumably
+no response to vancomycin.
+
+# Enterococcal bacteremia: Initial blood cultures grew
+Enterococcus and coag neg Staph.  Patient was continued on
+daptomycin and after extensive discussion with ID the decision
+was made to continue antibiotic treatment via his picc.  The
+risks of removing the picc were high as the patient has
+difficult iv access and requires a long course of iv
+antibiotics.  The patient will follow up with ID on an
+outpatient basis (as he was doing prior to admission for his
+osteomyelitis.)
+
+# Chronic obstructive/restrictive pulmonary disease: Continued
+on home dose of prednisone 15mg daily and bactrim prophylaxis
+with prn nebs and chest PT.  Home regimen of trach mask collar
+and SIMV at night was continued.
+
+# Hajdu-[**Location (un) 2987**] Syndrome:  Home pain medications were continued
+including methadone, morphine, baclofen, gabapentin, and
+ibuprofen (with holding parameters for somnolence).  Bowel
+regimen prn constipation.
+
+
+Medications on Admission:
+MSIR 60mg QID
+Methadone 40mg TID
+Baclofen 40mgs QAM, 20mg at 11am 20mg at 7pm
+Gabapentin 800mg TID
+Motrin 800mg TID with food
+Lorazepam 1mg HS
+Singulair daily
+Omprazole daily
+Prednisone 15mg daily (given 60mg in ED)
+Atrovent neb Q4H PRN
+Albuterol [**Doctor First Name **] Q4H PRN
+Pulmicort neb [**Hospital1 **]
+
+Patient also was supposed to have been taking Bactrim DS daily
+for PCP prophylaxis as he is on chronic daily prednisone;
+however this was not on his home medication list.
+
+Discharge Medications:
+1. Saline Flush 0.9 % Syringe Sig: One (1) flush Injection once
+a day.
+Disp:*1 month's supply* Refills:*2*
+2. Outpatient Lab Work
+Please check CBC/diff, BUN/Cr, ESR, CRP, CK and fax to Dr. [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **] [**Telephone/Fax (1) 1419**]
+3. Daptomycin 500 mg Recon Soln Sig: One (1) vial Intravenous
+once a day: Give at 5pm.
+Disp:*1 month's supply* Refills:*2*
+4. Morphine 30 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6
+hours) as needed for pain.
+5. Methadone 10 mg Tablet Sig: Four (4) Tablet PO TID (3 times a
+day).
+6. Baclofen 10 mg Tablet Sig: Four (4) Tablet PO QAM (once a day
+(in the morning)).
+7. Baclofen 10 mg Tablet Sig: Two (2) Tablet PO TWICE DAILY AT
+11AM AND 7PM ().
+8. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO Q8H (every
+8 hours).
+9. Ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8
+hours): WITH FOOD.
+10. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q 24H (Every 24
+Hours).
+11. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+13. Testosterone 5 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal Q24H (every 24 hours).
+14. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+15. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)

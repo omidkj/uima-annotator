@@ -1,0 +1,214 @@
+Admission Date:  [**2129-12-13**]              Discharge Date:   [**2130-1-13**]
+
+Date of Birth:  [**2060-3-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 8487**]
+Chief Complaint:
+Transfer from outside hospital for further management of biliary
+leak status post cholecystectomy.
+
+Major Surgical or Invasive Procedure:
+Endoscopic retrograde cholangiopancreatography
+Endotracheal intubation
+Tracheostomy secondary to difficulty weaning
+Central venous line placement
+Paracentesis
+
+History of Present Illness:
+69 year-old female with h/o obesity, afib/flutter, asthma, [**Hospital **]
+transferred from OSH [**12-13**] for further management of biliary
+leak s/p CCY [**11-19**]. Ms. [**Known lastname 59817**] was initially admitted to
+[**Hospital3 417**] Hospital with confusion and slurred speech.
+CT/MRI/MRA of head revealed no acute disease. She also had afib
+with RVR and was treated with digoxin, then diltiazem and
+lopressor.
+
+During her OSH, she developed lower abdominal pain. A CT
+revealed free fluid around the liver, spleen, and pelvis.  She
+was afebrile, but with a WMC of 20. Zosyn and Flagyl were
+initiated. She was transferred to [**Hospital3 4107**] on [**12-10**],
+where an abdominal ultrasound confirmed ascites. A diagnostic
+paracentesis was remarkable for bilious fluid. MRCP normal. A
+HIDA suggested biliary leak. She was transferred on [**12-13**] to
+[**Hospital1 18**] surgery with plan for ERCP.
+
+Past Medical History:
+Obesity
+Atrial fibrillation/flutter
+Hypertension
+Depression/anxiety
+Asthma
+S/P cholecystectomy on [**2129-11-19**]
+S/P colonoscopy with polypectomy [**9-/2129**]
+S/P appendectomy
+
+
+Social History:
+Patient denies EtOH consumption.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Per [**Hospital Unit Name 153**] admission note on [**2129-12-14**]:
+T97 BP 106-126/60-70  P 75-88  R 22-26  O2 95@3LNC
+Gen - pleasant, NAD, A+Ox3
+HEENT - PERRL, MM slightly dry
+Cor - irreg, no murm
+Chest - scattered end expiratory wheezes
+GI - obese, soft, NT to deep palp, no rebound or guarding, L
+biliary drain in place with minimal fluid, R incision site from
+Lap CCY intact without drainage.
+Ext- no c/c/e, DP +2 b/l
+
+
+Pertinent Results:
+ADMISSION DATA:
+
+Labs [**12-14**]:
+WBC 22.9  Hct 31.6 Plt 826  PT 14.2  PTT 25.1 INR 1.3
+Na 132 K 4.1 Cl 92 HCO3 29 BUN 89 Cr 2.8 Glu 208
+ALT 13 AST 19 AP 223 TB 2.5  [**Doctor First Name **] 30 Lip 30
+Biliary fluid at OSH 4300 wbc, 13 rbc, 50N 11L 39M
+
+EKG [**12-14**]: Afib at 86, nl axis, Q in 3, ST depression in I, II,
+aVL.  TWI in precordial leads.
+
+CXR [**12-14**]: Small lung volumes, high diaphragm.
+
+*****************
+
+PERTINENT RESULTS IN HOSPITAL:
+
+[**2129-12-15**] Peritoneal fluid:
+WBC 47 RBC 3 Polys 97
+TotProt 2.0 LD(LDH) 1414
+
+[**2129-12-21**] Peritoneal fluid:
+WBC [**Numeric Identifier 59818**] RBC [**Numeric Identifier **] Polys 97
+TotPro 1.2 Glucose 26 LD(LDH) [**Numeric Identifier 59819**] Amylase 28 TotBili 7.7
+Albumin <1.0
+
+MICRO:
+[**2130-1-11**] STOOL
+         CLOSTRIDIUM DIFFICILE TOXIN ASSAY-PENDING;
+[**2130-1-10**] BLOOD CULTURE
+         AEROBIC BOTTLE-PENDING; ANAEROBIC BOTTLE-PENDING;
+[**2130-1-10**] BLOOD CULTURE
+         AEROBIC BOTTLE-PENDING; ANAEROBIC BOTTLE-PENDING;
+[**2130-1-10**] MRSA SCREEN
+         MRSA SCREEN-NEGATIVE
+[**2130-1-10**] MRSA SCREEN
+         MRSA SCREEN-PENDING;
+[**2130-1-10**] STOOL
+         CLOSTRIDIUM DIFFICILE TOXIN ASSAY-NEGATIVE;
+[**2130-1-9**] CATHETER TIP-IV NEGATIVE
+[**2130-1-6**] URINE CULTURE-NEGATIVE
+[**2130-1-6**] BLOOD CULTURE NEGATIVE
+[**2130-1-6**] BLOOD CULTURE NEGATIVE
+[**2130-1-4**] SPUTUM - {GRAM NEGATIVE ROD(S), YEAST};
+[**2130-1-3**] SPUTUM - {ENTEROBACTER CLOACAE, YEAST};
+[**2130-1-1**] CATHETER TIP- {ENTEROBACTER CLOACAE};
+[**2130-1-1**] URINE CULTURE- {KLEBSIELLA PNEUMONIAE,
+         ENTEROBACTER CLOACAE};
+[**2129-12-31**] BLOOD CULTURE ( MYCO/F LYTIC BOTTLE)
+         BLOOD/FUNGAL CULTURE-FINAL {ENTEROBACTER CLOACAE};
+         BLOOD/AFB CULTURE-FINAL;
+[**2129-12-31**] BLOOD CULTURE
+         AEROBIC BOTTLE-FINAL; ANAEROBIC BOTTLE-FINAL
+         {ENTEROBACTER CLOACAE};
+[**2129-12-31**] BLOOD CULTURE
+         AEROBIC BOTTLE-FINAL; ANAEROBIC BOTTLE-FINAL
+         {ENTEROBACTER CLOACAE};
+[**2129-12-23**] BRONCHOALVEOLAR LAVAGE
+         GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {YEAST};
+[**2129-12-21**] PERITONEAL FLUID
+         {YEAST, PRESUMPTIVELY NOT C. ALBICANS, ENTEROCOCCUS
+GALLINARUM,
+         YEAST, PRESUMPTIVELY NOT C. ALBICANS}; ANAEROBIC
+CULTURE-FINAL;
+[**2129-12-21**] CLOSTRIDIUM DIFFICILE TOXIN ASSAY-NEGATIVE;
+[**2129-12-19**] SPUTUM
+         RESPIRATORY CULTURE-FINAL {YEAST};
+         FUNGAL CULTURE-FINAL {YEAST};
+[**2129-12-16**] URINE CULTURE - {YEAST};
+[**2129-12-16**] CLOSTRIDIUM DIFFICILE TOXIN ASSAY-POSITIVE
+
+[**12-14**] CT OF THE ABDOMEN WITHOUT IV CONTRAST: The visualized lung
+bases demonstrate minor dependent atelectatic changes. There is
+a large amount of free fluid within the abdomen with evidence of
+cholecystectomy, consistent with the clinical history of biliary
+leak. The liver, spleen, splenules, adrenals, pancreas, and
+opacified loops of large and small bowel are unremarkable. Note
+is made of a lobulated contour of the left kidney and a slight
+rotation of the right kidney which are otherwise unremarkable.
+Atherosclerotic calcifications are noted in the abdominal aorta.
+Nonspecific stranding is noted in the omentum anteriorly. There
+are no pathologically enlarged mesenteric or retroperitoneal
+lymph nodes.
+
+CT OF THE PELVIS WITHOUT IV CONTRAST: There is extensive sigmoid
+diverticulosis without evidence of diverticulitis. There is a
+Foley present within the collapsed bladder. The rectum is
+unremarkable. There is no pelvic or inguinal lymphadenopathy.
+
+BONE WINDOWS: There are no suspicious lytic or sclerotic
+lesions. Degenerative changes are noted in the thoracic and
+lumbar spines.
+
+IMPRESSION:
+1) Large amount of free fluid in the abdomen and pelvis
+consistent with clinical history of bile leak.
+2) Status post cholecystectomy.
+3) Nonspecific stranding in the anterior omentum, in the absence
+of a known primary, this may represent reactive changes.
+-----------------
+
+[**12-16**] ERCP FINDINGS: Eight fluoroscopic spot film images were
+obtained from endoscopy performed by gastroenterology staff.
+Cannulation of the common bile duct was performed with
+opacification of biliary tree. Extravasation of extra biliary
+contrast was identified, likely into the intraperitoneal cavity
+within the region of the cystic duct. There was no evidence of
+intra or extra hepatic biliary dilatation or filling defects.
+Final films showed placement of a plastic stent within the
+common bile duct.
+
+IMPRESSION:
+Extravasation of contrast from the biliary tree within the
+region of cystic duct. Placement of plastic biliary stent.
+-----------------
+
+[**12-18**] CHEST CT: An ET tube and NG tube are noted. There are
+multifocal bilateral patchy air space consolidations within the
+lungs, consistent with bilateral pneumonia. No cavitation is
+seen to suggest lung abscess. There is a small right pleural
+effusion. There is no axillary, hilar, or mediastinal pathologic
+lymphadenopathy. There is no pericardial effusion.
+Calcifications are seen within the aortic arch and descending
+aorta.
+
+ABDOMEN CT W/ORAL CONTRAST: Again noted is a moderate amount of
+ascites within the upper abdomen, surrounding the liver and the
+spleen. This has not changed in volume since the prior exam. The
+liver, spleen, pancreas, adrenal glands, and kidneys are
+unremarkable allowing for the unenhanced technique. A metallic
+stent is seen within the biliary tree. There is no sign of
+intrahepatic ductal dilatation. The opacified loops of bowel are
+normal in caliber. A drainage catheter enters the left lower
+quadrant.
+
+PELVIS CT W/ORAL CONTRAST: Contrast has reached the rectum
+without obstruction. A rectal tube and Foley catheter are in
+place. There is a small amount of residual fluid within the
+pelvis, but overall, the volume of fluid has decreased markedly
+since the placement of the drainage catheter. Diffuse, severe
+anasarca is noted.
+
+BONE WINDOWS: Degenerative changes are seen throughout the
+spine. 

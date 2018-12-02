@@ -1,0 +1,193 @@
+Admission Date:  [**2189-6-30**]              Discharge Date:   [**2189-7-3**]
+
+Date of Birth:  [**2123-4-23**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+morphine
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+hematemesis
+
+Major Surgical or Invasive Procedure:
+endoscopy
+
+History of Present Illness:
+Ms. [**Known lastname **] is a 66 year-old woman with a past medical history of
+prior lung cancer s/p left pneumonectomy, COPD, history of
+breast cancer s/p radiation/lumpectomy, multiple recent
+hospitalizations for pneumonia, initially presented to [**Hospital1 **] on [**6-24**] with shortness of breath and persistent cough.
+She had a recent admission at the beginning of [**Month (only) 116**] for a CAP,
+COPD exacerbation during which she had a CTA of her chest which
+showed a new lobulated right upper lobe mass invasive into the
+airways, with possible postobstructive pneumonitis, highly
+suspicious for malignancy. She was apparently supposed to have
+an outpatient bronchoscopy, but this never happened. When she
+presented to [**Hospital1 **] with SOB, she had a troponin of .28/.24,
+diffuse deep TWI, BNP of 1,000. TTE was done which showed apical
+hypokinesis, EF 60%. Cardiology was consulted and per notes,
+thought she had stable CAD, not acute coronary syndrome,
+recommended statin/aspirin, held off beta blocker secondary to
+wheezing. In terms of her SOB, it was felt that she was having
+another COPD exacerbation with possible postobstructive
+pneumonia. She was initially admitted to the floor and improved
+on PO steroids with nebulizers, then her respiratory status
+worsened, she became tachcyardic and she was tranferred to the
+MICU and started on Vancomycin and Zosyn. According to the
+notes, vanco had been dc'ed, however was given earlier today
+prior to transfer. It was determined that she needed another CTA
+of the chest, however, she declined. After speaking with IP
+here, the patient was intuabted on [**6-30**], had a bronch at [**Hospital1 **],
+and is being transferred post - procedure to [**Hospital1 18**] for further
+management and evaluation for possible stenting procedure. At
+the time of transfer, the results of the bronch were unknown,
+but tissue biopsies were taken.
+
+On arrival to the MICU, patient is intubated and sedtaed,
+comfortable on vent.
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+or changes in bowel habits. Denies dysuria, frequency, or
+urgency. Denies arthralgias or myalgias. Denies rashes or skin
+changes.
+
+
+Past Medical History:
+- Prior right lung pneumonectomy for lung cancer
+- COPD
+- prior community acquired pneumonias
+- breast cancer with lumpectomy: lumpectomy followed by
+radiation
+therapy
+- anxiety
+- positional vertigo
+- stress fracture both
+ankles
+- Cesarean section
+- reported history of a right adrenal mass
+- insomnia
+- GERD
+- diaphragmatic hernia.
+
+
+Social History:
+([**First Name8 (NamePattern2) **] [**Hospital1 **] records):
+She was a moderate cigarette smoker, smoking about less than a
+pack of cigarettes a day for 35-40 years until 4 years ago when
+lung cancer was diagnosed. No smoking since then and no exposure
+to secondhand cigarette smoke. She does not drink alcohol, does
+not use drugs. She does not work right now. She is married,
+lives with her husband. She is physically quite active.
+
+
+Family History:
+NC
+
+Physical Exam:
+Admission Exam
+Vitals: 98.4 95 158/81 18 100%
+gen: intubated and sedated, not responding to commands
+CV: tachycardic, no appreciable murmurs over vent
+Resp: transmitted breath sounds on left, coarse breath sounds on
+right
+Abd: +BS, soft
+Neuro: pupils equal
+
+Pertinent Results:
+[**6-30**] Chest Xray
+Left lung is airless and mediastinum occupies the left
+hemithorax suggesting prior left pneumonectomy.  Right upper
+lobe is densely consolidated, and at its periphery is a 5 x 12
+cm homogeneous opacity with lobulated margins along the lung
+interface which certainly could be a mass involving lung and
+pleura.  The right lower lung is free of consolidation but there
+are septal lines suggesting mild edema.
+ET tube is in standard placement.  Nasogastric tube ends in the
+upper stomach. Right jugular line tip projects over the middle
+third of the leftward displaced SVC.
+
+[**6-30**] ECG
+Sinus rhythm with premature atrial contractions. Right
+bundle-branch block. Possible lateral infarction, age
+undetermined. No previous tracing available for comparison.
+
+
+
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is a 66 year old woman with a history of non small
+cell lung cancer s/p left pneumonectomy and COPD who presented
+with a new right lung mass and post - obstructive pneumonia. She
+was initially admitted to [**Hospital3 **] with symptoms of
+shortness of breath. She was transferred for possible stenting.
+She had been intubated at [**Hospital3 **]. On arrival to [**Hospital1 18**]
+she was placed on broad spectrum antibiotics given concern for a
+possible post-obstructive picture. She was seen by the
+interventional pulmonary team shortly after arrival to [**Hospital1 18**].
+They performed a bronchoscopy, but were unable to perform any
+intervention given the location of the tumor compressing her
+airway. Multiple discussions were held with the patient's family
+and her outside providers were contact[**Name (NI) **]. We discussed her
+overall poor prognosis. Ms. [**Known lastname **] family expressed that she
+would not want any more invasive procedures or further
+treatments. Her care was transitioned to comfort focused
+measures. She was extubated on [**7-2**] and passed away on [**7-3**].
+
+Her sons [**Name (NI) **] and [**Name (NI) **] were both contact[**Name (NI) **]. [**Name2 (NI) 6**] autopsy was
+declined.
+
+Medications on Admission:
+albuterol 2 puffs q.i.d.
+calcium 500 mg t.i.d.
+vitamin D 1000 units a day
+Tylenol 1000 mg q.6h. p.r.n.
+zolpidem 12.5 mg at bedtime
+fluticasone 110 mcg 2 sprays b.i.d
+Meds on transfer:
+Vancomycin HCl 1000 mg DAILY
+Zosyn 3.375 g q6
+Propofol
+Fentanyl
+Prednisone 60 mg PO daily
+Lorazepam 1 mg TID:PRN anxiety
+Escitalopram Oxalate 10 mg DAILY
+Buspar 5 mg [**Hospital1 **]
+Xopenex nebs PRN
+Omeprazole 40 mg [**Hospital1 **]
+Singulair 10 mg once a day
+Aspirin 81 mg daily
+Simvastatin 10 mg daily
+Ambien 10 mg:PRN
+Lovenox 40 mg daily
+Fluticasone [**Hospital1 **]
+Mucinex
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Expired
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

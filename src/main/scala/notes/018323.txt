@@ -1,0 +1,205 @@
+Admission Date:  [**2197-12-31**]              Discharge Date:   [**2198-1-6**]
+
+Date of Birth:  [**2150-10-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2901**]
+Chief Complaint:
+Malaise, cough, fever
+
+Major Surgical or Invasive Procedure:
+none.
+
+History of Present Illness:
+Mr. [**Known lastname 931**] is a 47 M with DM1 s/p kidney/pancreas transplant
+on chronic prednisone, HTN, CRI, who presented with a
+non-productive cough, SOB, malaise, increase in LE edema, and
+fever 100.1 starting [**12-28**].  The patient thought he may have
+pneumonia and went to [**Hospital3 6592**] for assessment.  At [**Hospital1 **],
+his Cr 3.6 from baseline Cr 2.0.  WBC 16.4 with Bands 5.  CK
+389, MB 24, MBI 6.6, TropT 7.84, BNP [**Numeric Identifier 26568**].  An EKG showed
+evidence of an anterolateral STEMI, and patient was transferred
+to [**Hospital1 18**] for further management.
+.
+The patient was transferred to [**Hospital1 18**] transplant surgery service
+because of his previous kidney/pancreas transplant.  O2 sat was
+99% RA.  He was given IVF 75/hr, which was stopped a few hours
+later.  The Cards fellow requested transfer to [**Hospital Ward Name 121**] 3, and a
+trigger was called on [**Hospital Ward Name 121**] 3 for O2 sat 93% on nonrebreather.
+He was given lasix 40 IV before transfer to CCU on monitoring.
+.
+In the CCU, EKG showed 1-2 mm STE V2-V6; Q waves V2-V5, I, AVL;
+STE in AVR, AVL, suggesting an anterolateral STEMI and proximal
+LAD infarct that occurred several days prior.  CK 267, MB 17,
+Trop 6.19.  In the early am, the case was discussed with Dr.
+[**Last Name (STitle) **] (interventional attending) who did not wish to take
+patient to the cath lab immediately.  The patient was found to
+have a systolic murmur.  No valvular pathology was noted on
+previous TEE (normal EF with normal wall motion).  A bedside TTE
+was performed to assess mechanical complication of STEMI.  TTE
+showed EF 30%, 1+MR, mid anterior wall and apex akinetic, no
+thrombus.
+
+Past Medical History:
+DM1 x 12 yo
+R toe amputation
+Osteopenia
+Urethral stricture
+Penile implant
+Sleep apnea history
+Kidney/pancreas transplant [**2183**]:
+His kidney transplant is present in his RLQ, pancreas transplant
+is in his LLQ (enteric conversion was performed where pancreas
+was moved from bladder to GI).  He had one rejection episode in
+[**2183**], but transplant has generally taken well on prednisone and
+prograf.  Since the pancreas transplant, the patient has not
+required any insulin since [**2183**], and he does not need to check
+his blood glucose at home.  He has been completely compliant
+with his medications, and has not been taking ASA.
+
+Social History:
+No ETOH, 20 pky smoker, quit [**2183**] before transplant, smokes
+marijuana rarely, no heroin, no cocaine. Married with 2
+children, works for [**Company 11293**].
+
+
+Family History:
+Brother - MI at age 52, died from this MI
+Father - MI at age 53, died from this MI
+No CVA
+
+Physical Exam:
+VS: 97.7 / 135/85 / 70 / 20 / 94% on NRB
+GEN: Abdominal breathing but not overtly SOB, alert, appears
+comfortable
+HEENT: JVD to 8 cm, no LAD, PERRL, no carotid bruits
+LUNGS: Rales 1/2way up both lungs
+HEART: 3/6 systolic murmur increasing on inspiration, [**4-17**]
+systolic murmur radiating to axilla, no r/g, no S3, no S4
+ABDOMEN: Kidney transplant in RLQ, Pancreas transplant in LLQ,
++BS, soft, nonobese, ND NT
+NEURO: [**6-16**] motor, CN 2-12 intact
+SKIN: No rashes, telangiectasias, bruises, petechiae
+EXTR: Trace bilateral LE edema, no c/c, 1+ R DP pulse,
+nonpalpable L DP pulse
+
+
+Pertinent Results:
+[**2197-12-31**] 11:15PM   PT-13.5* PTT-29.6 INR(PT)-1.2*
+[**2197-12-31**] 11:15PM   PLT COUNT-230
+[**2197-12-31**] 11:15PM   ALBUMIN-3.4 CALCIUM-8.4 PHOSPHATE-4.3
+MAGNESIUM-2.3
+[**2197-12-31**] 11:15PM   LIPASE-21
+[**2197-12-31**] 11:15PM   GLUCOSE-129* UREA N-62* CREAT-3.7*#
+SODIUM-139 POTASSIUM-4.3 CHLORIDE-108 TOTAL CO2-18* ANION GAP-17
+.
+[**2198-1-1**] 06:00PM      CK    203*
+[**2198-1-1**] 10:41AM      CK    263*1
+.
+[**2198-1-1**] 06:00PM    CKMB 13* MBI 6.4* TropT 6.62*1
+[**2198-1-1**] 10:41AM    CKMB 17* MBI 6.5* TropT 6.19*1
+[**2198-1-1**] 04:50AM    CKMB 20* MBI 6.9* TropT 6.09*
+.
+CXR: IMPRESSION: PA and lateral chest compared to the most
+recent prior chest radiograph, [**2195-6-1**]:
+
+There is a severe interstitial pulmonary abnormality
+predominantly in the lower lungs with some coalescence in the
+right middle and lower lobes accompanied by small bilateral
+pleural effusions. This could be due to pulmonary edema except
+that the heart is normal size and there is no mediastinal,
+pulmonary or hilar vascular engorgement. Alternative
+explanations are acute interstitial pneumonia or acute
+myocardial infarction.
+.
+TTE: Conclusions:
+The left atrium is moderately dilated. There is mild symmetric
+left
+ventricular hypertrophy. The left ventricular cavity is mildly
+dilated with  severe hypokinesis/akinesis of the distal half of
+the septum and anterior walls and distal inferior and lateral
+walls. The apex is akinetic and mildly  aneurysmal. No masses or
+thrombi are seen in the left ventricle. Right  ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets are moderately thickened. There is moderate aortic
+stenosis (AoVA =  0.8cm2). Trace aortic regurgitation is seen.
+The mitral valve leaflets are  mildly thickened. Mild (1+)
+mitral regurgitation is seen. The left ventricular  inflow
+pattern suggests a restrictive filling abnormality, with
+elevated left  atrial pressure. There is moderate pulmonary
+artery systolic hypertension.  There is no pericardial effusion.
+
+IMPRESSION: Moderate aortic valve stenosis. Mild symmetric left
+ventricular  hypertrophy with regional systolic dysfunction c/w
+CAD (mid-LAD territory).  Moderate pulmonary artery systolic
+hypertension.
+.
+Adenosine MIBI: IMPRESSION: 1. Moderate, predominantly fixed
+perfusion defect involving the mid-distal anterior wall, the
+apex, and the distal septum. 2. Marked left ventricular
+enlargement. 3. Severe global hypokinesis, with superimposed
+apical dyskinesis. LVEF=18%.
+.
+Adenosine MIBI:
+SUMMARY OF DATA FROM THE EXERCISE LAB:
+
+Dipyridamole was infused intravenously for 4 minutes at a dose
+of 0.142
+mg/kg/min.
+
+METHOD:
+
+Resting perfusion images were obtained with Tc-[**Age over 90 **]m sestamibi.
+Tracer was
+injected approximately one hour prior to obtaining the resting
+images.
+Two minutes after the cessation of infusion of dipyridamole,
+approximately three times the resting dose of Tc99m sestamibi
+was administered IV. Stress images were obtained approximately
+one hour following tracer injection.
+Imaging protocol: Gated SPECT.
+This study was interpreted using the 17-segment myocardial
+perfusion model.
+INTERPRETATION:
+The image quality is adequate.
+Left ventricular cavity size is markedly enlarged.
+Resting and stress perfusion images reveal uniform moderate,
+predominantly fixed perfusion defect involving the mid-distal
+anterior wall, the apex, and the distal septum.
+Gated images reveal severe global hypokinesis, with superimposed
+apical
+dyskinesis.
+The calculated left ventricular ejection fraction is 18%.
+
+IMPRESSION: 1. Moderate, predominantly fixed perfusion defect
+involving the
+mid-distal anterior wall, the apex, and the distal septum. 2.
+Marked left
+ventricular enlargement. 3. Severe global hypokinesis, with
+superimposed
+apical dyskinesis. LVEF=18%.
+.
+[**1-5**] CXR: CHEST: Comparison is made with the prior chest x-ray
+of [**1-4**]. The perihilar interstitial opacities, most
+marked in the anterior segment of the right upper lobe are again
+seen. This pattern of interstitial infiltrate would be unusual
+and prolonged for simple failure and I suspect the presence of
+pneumonia in addition. The size of the effusions has decreased
+consistent with improved failure, but I doubt the infiltrates
+are caused by this.
+IMPRESSION: Persistent perihilar infiltrates, pneumonia is
+suspected.
+
+
+Brief Hospital Course:
+This is a 47 M with DM1, kidney/pancreas transplant [**2183**], HTN,
+CRI, who is here s/p anterolateral STEMI, presenting with
+shortness of breath which is likely attributed to a CHF
+exacerbation.
+.
+1. CARDIAC:
+A. CAD: This patient was admitt

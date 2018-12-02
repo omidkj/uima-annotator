@@ -1,0 +1,183 @@
+Admission Date:  [**2197-7-4**]              Discharge Date:   [**2197-7-5**]
+
+Date of Birth:  [**2142-3-12**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+Cardiac arrest/found down in field
+
+Major Surgical or Invasive Procedure:
+Central line placed
+Multiple resuscitations
+
+History of Present Illness:
+55 yo M with HTN nephropathy s/p renal tx in [**4-15**], on
+immunosuppressants, h/o DM, CHF, CAD s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (Prefixes) **] 2 in [**6-13**]
+brought in to ED after a witnessed cardiac arrest. Per records,
+the family heard a noise and found pt down. He c/o arm pain
+before falling. The patient had been down for about 10 minutes.
+EMS arrived at 20:45. Pt intubated in the field. CPR was
+initiated. Pt in asystole. Received calcium, bicarb, albuterol,
+epi/atropine x 3. Transferred to [**Hospital1 18**]. On arrival to [**Hospital1 18**],
+patient in sinus. BP 210/122 HR 111 RR 18. Then dropped BP to
+61/36, HR 44. Femoral line placed. Dopamine was started. Pt went
+into PEA arrest then asystole. He was given atropine x 3, epi
+x4, bicarb, calcium chloride. EKG showed nl sinus rate 93; nl
+axis, peaked [**Last Name (LF) 105445**], [**First Name3 (LF) **] depressions in I, II, V4-V6. CXR with
+increased interstital markings. Labs notable for K 6.1,
+BUN 13, Cr 2, lactate 14, Ca [**04**], PO4 10.
+.
+On arrival to ICU, BP 70s/50s, HR 130s. Pupils were fixed and
+dilated. Levophed, Neo, Vasopressin added for BP support. Per
+family, the patient had been in USOH until the incident. In the
+ICU, bedside echo showed thickened LV and RV, but no effusion.
+
+
+Past Medical History:
+1. ESRD on HD Tues/Thurs/Sat at [**Location (un) 4265**] in [**Location (un) **]
+2. s/p 2 [**Location (un) **] in [**6-13**] (LAD and ramus), exercise MIBI [**2-14**] limited
+by poor exercise tolerance. No definite evidence of reversible
+perfusion defects. Slightly enlarged cavity size. Global
+hypokinesis. LVEF of 38%
+3. CHF: TTE ([**2196-5-5**]) showed EF=45% to 50%, mild symmetric left
+ventricular hypertrophy, overall left ventricular systolic
+function mildly depressed, inferior hypokinesis, moderate (2+)
+mitral regurgitation is seen, moderate pulmonary artery systolic
+hypertension.
+4. HTN
+5. DM2 followed by [**Last Name (un) **]
+6. Hyperlipidemia
+7. GERD
+8. Anemia, baseline hematocrit 30-36%
+9. TIA on aspirin
+
+
+Social History:
+Per chart: Pt lives with his wife and children. Does not work.
+Denies tobacco, Etoh or other drugs.  Born and raised in [**Country 2045**],
+lived in [**Country 2560**] 2 years before moving to [**Location (un) 86**].
+
+
+Family History:
+Per chart: HTN, no diabetes or heart disease
+
+
+Physical Exam:
+VS: T 100.1, HR 128; BP 80/50
+Vent: 600 x 18 (total 29), PEEP 5, FiO2 1.0
+GEN: Intubated
+HEENT: NC, AT, pupils are fixed and dilated
+CV: regular, nl S1S2, no M/r/g
+PULM: fine crackles bilaterally
+ABD: protuberant, soft, NT, ND, renal transplant scar in RLQ
+EXTR: lower extremities cool, no edema; fistula in LLE w/o thril
+
+NEURO: pupils are fixed and dilated, no corneal reflexes, does
+not withdraw to pain
+
+
+Pertinent Results:
+HEMATOLOGY
+[**2197-7-4**] 11:32PM BLOOD WBC-6.8# RBC-5.21 Hgb-15.2 Hct-48.9
+MCV-94# MCH-29.1 MCHC-31.0# RDW-17.0* Plt Ct-216
+[**2197-7-4**] 11:32PM BLOOD Neuts-81* Bands-3 Lymphs-14* Monos-1*
+Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2197-7-4**] 11:32PM BLOOD PT-13.3* PTT-44.8* INR(PT)-1.2*
+
+CHEMISTRY
+[**2197-7-4**] 09:39PM BLOOD Glucose-715* UreaN-13 Creat-2.0* Na-140
+K-6.1* Cl-100 HCO3-15* AnGap-31*
+[**2197-7-5**] 04:04AM BLOOD Glucose-200* UreaN-18 Creat-2.5* Na-141
+K-3.8 HCO3-20*
+[**2197-7-4**] 11:32PM BLOOD ALT-764* AST-656* CK(CPK)-432*
+AlkPhos-185* Amylase-99 TotBili-0.4
+[**2197-7-5**] 04:04AM BLOOD Calcium-9.9 Phos-2.0*# Mg-2.2
+[**2197-7-5**] 01:15AM BLOOD Cortsol-17.0
+
+CARDIAC ENZYMES
+[**2197-7-4**] 09:39PM BLOOD cTropnT-<0.01
+[**2197-7-4**] 09:39PM BLOOD CK-MB-3
+[**2197-7-4**] 11:32PM BLOOD CK-MB-5 cTropnT-0.06*
+
+ARTERIAL BLOOD GAS RESULTS
+[**2197-7-4**] 11:45PM BLOOD Type-ART pO2-116* pCO2-69* pH-7.09*
+calTCO2-22 Base XS--10 Comment-ABG ADDED
+[**2197-7-5**] 01:17AM BLOOD Type-ART pO2-112* pCO2-51* pH-7.25*
+calTCO2-23 Base XS--5
+[**2197-7-5**] 03:46AM BLOOD Type-ART PEEP-10 pO2-175* pCO2-37
+pH-7.32* calTCO2-20* Base XS--6 Intubat-INTUBATED
+Vent-CONTROLLED
+[**2197-7-5**] 04:39AM BLOOD Type-ART pO2-91 pCO2-48* pH-7.21*
+calTCO2-20* Base XS--8
+[**2197-7-4**] 10:23PM BLOOD Glucose-637* Lactate-14.3* Na-141 K-6.1*
+Cl-108 calHCO3-19*
+[**2197-7-5**] 03:46AM BLOOD Lactate-3.5*
+
+Brief Hospital Course:
+Femoral central line placed in ED. Insulin drip started. Patient
+broadly covered empirically for possible respiratory infection
+or sepsis with Vanco/Levo/Zosyn.
+
+Coded in ED. We ordered multiple pressors (dopamine, norepi,
+vasopressin) to keep his blood pressure within acceptable
+limits. Phenylephrine added during his time in the CCU.
+
+Multiple codes (primarily PEA/asystole) while in CCU. Patient
+continued to be unresponsive with pupils fixed and dilated.
+Family called, plans of care discussed. Early in admission,
+patient had been stabilized, family felt full code was
+appropriate because patient was so recently s/p transplant and
+had been doing well. After family had gone home, patient coded
+again (PEA) and family was called back. Attending ([**Doctor Last Name **])
+discussed evolving situation and worsening prognosis with wife
+and son. Wife in room s/p resuscitation, witnessed ongoing
+efforts to stabilize and treat patient.
+
+After several additional codes including many chest compressions
+and courses of ACLS medications appropriate to evolving rhythms,
+patient's wife agreed that resuscitation efforts should be
+suspended if situation did not improve. Patient continued to
+re-enter PEA/asystole, and soon expired. Family asked for
+autopsy without brain findings in order to find out what had led
+to patient's relatively sudden death.
+
+
+Medications on Admission:
+1. Prograf 2 mg po bid (being transitioned to rapamune)
+2. Myfortic 750 [**Hospital1 **]
+3. Valcyte 450 qd
+4. Bactrim SS
+5. Nystatin prn
+6. Protonix 40 mg po qd
+7. Rapamune 3 mg po qd
+8. Carvedilol 50 mg po bid
+9. amlodipine 5 mg po qd
+10. insulin 70/30 14 units ad
+11. Humalog SS
+.
+
+
+Discharge Medications:
+None.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Cardiac arrest, leading to death.
+
+Discharge Condition:
+Expired.
+
+Discharge Instructions:
+N/A.
+
+Followup Instructions:
+N/A.
+
+

@@ -1,0 +1,211 @@
+Admission Date:  [**2145-1-17**]              Discharge Date:   [**2145-1-25**]
+
+Date of Birth:  [**2070-3-24**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+abdominal pain, acute renal failure, hypotension
+
+Major Surgical or Invasive Procedure:
+left subclavian central line
+Upper endoscopy
+Transfusion of packed red blood cells
+
+
+History of Present Illness:
+Ms. [**Known lastname 4886**] is a 74 year old woman with a history of CHF, chronic
+renal insufficiency, peptic ulcer disease, CAD, HTN, who is
+admitted to the MICU for management of acute renal failure,
+abdominal pain, and hypotension. She was brought in to the
+[**Hospital6 10353**] ED yesterday after reportedly having
+several days of poor PO intake and abdominal pain at her
+[**Hospital3 **] facility, per her daughter. The patient gives a
+vague history of recent URI symptoms, and she reports a
+mechanical fall yesterday, without any head trauma or loss of
+consciousness.
+.
+At the [**Hospital3 **] ED, she was noted to be in
+acute-on-chronic renal failure with a creatinine of 4.9 and a
+serum HCO3 of 6. She had a SBP in the mid-80s and was reportedly
+hypothermic to 95.8, with a leukocytosis to [**Numeric Identifier 2686**]. An ABG showed
+a metabolic acidosis (7.22/22/175 on 2L n.c.). She was noted to
+vomit 200cc of "blood-tinged mucous". She underwent an abdominal
+CT with PO (no IV) contrastwhich showed no acute process. She
+was given a dose of metronidazole and moxifloxacin for empiric
+antibiotics. She was also given a dose of IV ondansetron, a
+1000cc NS bolus, and 150 mEq of NaHCO3. A left-sided subclavian
+central line was placed and she was transferred to [**Hospital1 18**].
+.
+Upon arrival to the [**Hospital1 18**] ED, she was afebrile with a
+temperature of 98.2, BP 91/59, HR 84. She was given 1000cc NS
+bolus and 1000cc D5W with 150 mEq HCO3. She reportedly had a
+decrease in her BP to 56/44 which improved to 102/58 with a
+250cc NS bolus and low dose of norepinephrine. She was also
+given 10 mg of IV dexamethasone for unclear reasons. She had a
+CT which showed no acute process and an abdominal ultrasound
+which showed a mildly dilated (1.1cm) CBD; no gallbladder was
+identified. Per the [**Hospital1 18**] ED resident, she was noted on two
+separate rectal examinations to have black tarry stool which was
+Guaiac negative.
+.
+Upon arrival to the MICU, she had a dry black stool which was
+Guaiac positive. Her norepinephrine was weaned off upon arrival
+to the MICU.
+.
+Of note, she had a similar presentation to [**Hospital 882**] Hospital in
+[**9-/2144**] when she presented with acute-on-chronic renal failure,
+decreased PO intake, and left-sided abdominal pain. An EGD on
+that admission showed a nonbleeding gastric ulcer, and her ppi
+was changed from pantoprazole to omeprazole and increased [**Hospital1 **].
+She also had a question of antral thickening on a CT scan, and
+antral biopsies were taken, the results of which are unavailable
+to us at the time of this note.
+
+
+Past Medical History:
+Past Medical History:
+- congestive heart failure (by report, LVEF 50% om [**4-/2144**])
+- CAD with ?MI
+- peptic ulcer disease with ? bleeding ulcer in distant past;
+EGD in [**11/2143**] showed nonbleeding gsatritis; EGD in [**9-/2144**]
+showed nonbleeding erythematous gastritis and nonbleeding
+gastric ulcer
+- short-term memory loss
+- ?CVA vs TIA
+- chronic renal insufficiency (baseline creatinine 1.6) with
+multiple recent episodes of acute exacerbations
+- HTN
+- hx C2 fracture with hardware in place
+- "moderate" right-sided RAS
+- s/p appendectomy
+- s/p cholecystectomy
+- s/p partial colectomy for diverticulitis
+- osteoporosis
+- hyperlipidemia
+- COPD
+.
+
+Social History:
+Social History:
+Quit smoking >15 yrs ago. No alcohol or drugs. Lives in River
+Bay Club [**Hospital3 **] facility.
+
+
+Family History:
+Family History:
+Per daughter, the patient's father died at an early age from an
+MI.
+
+
+Physical Exam:
+T 97.8 BP 121/58 HR 93 RR 23 Sat 100% on 2L n.c.
+CVP 4cm
+General: uncomfortable, but in no acute distress
+HEENT: no scleral icterus, MM moderately dry
+Neck: JVP 6cm, no thyromegaly
+Chest: clear to auscultation throughout, no w/r/r
+CV: regular rate/rhythm, normal S1S2, no m/r/g
+Abdomen: soft, mild voluntary guarding esp. in LLQ; tenderness
+to moderate palpation mostly in LLQ; no rebound
+Extremities: no edema, 2+ PT pulses
+Skin: no rashes
+Neuro: alert, oriented to self, "[**2142-1-3**]" and "River Bay
+Club".
+
+
+Pertinent Results:
+From [**Hospital3 **] Ctr:
+ABG (9:45pm)
+7.22/22/175 on 2L n.c.
+.
+Labs on admission:
+[**2145-1-17**] 12:30AM BLOOD WBC-16.2* RBC-3.56* Hgb-11.1* Hct-32.5*
+MCV-91 MCH-31.3 MCHC-34.3 RDW-14.1 Plt Ct-253
+[**2145-1-17**] 12:30AM BLOOD Neuts-95.9* Bands-0 Lymphs-2.8*
+Monos-1.2* Eos-0.1 Baso-0
+[**2145-1-17**] 12:30AM BLOOD PT-13.2 PTT-26.0 INR(PT)-1.1
+[**2145-1-18**] 06:09AM BLOOD Ret Aut-0.7*
+[**2145-1-17**] 12:30AM BLOOD Glucose-196* UreaN-119* Creat-4.0* Na-137
+K-4.7 Cl-110* HCO3-13* AnGap-19
+[**2145-1-17**] 12:30AM BLOOD ALT-14 AST-25 CK(CPK)-164* AlkPhos-143*
+Amylase-68 TotBili-0.2
+[**2145-1-17**] 12:30AM BLOOD Lipase-80*
+[**2145-1-17**] 12:30AM BLOOD CK-MB-8 cTropnT-0.01
+[**2145-1-17**] 12:30AM BLOOD Calcium-9.5 Phos-3.3 Mg-2.3
+[**2145-1-18**] 06:09AM BLOOD calTIBC-148* Ferritn-397* TRF-114*
+[**2145-1-19**] 06:05AM BLOOD Osmolal-307
+[**2145-1-21**] 06:15AM BLOOD PEP-NO SPECIFI
+[**2145-1-17**] 06:02AM BLOOD Type-ART pO2-123* pCO2-22* pH-7.36
+calTCO2-13* Base XS--10
+[**2145-1-17**] 12:31AM BLOOD Lactate-1.3
+[**2145-1-17**] 06:02AM BLOOD freeCa-1.28
+.
+Labs on discharge:
+[**2145-1-24**] 11:00AM BLOOD WBC-9.5 RBC-2.75* Hgb-9.1* Hct-26.0*
+MCV-95 MCH-33.2* MCHC-35.1* RDW-14.5 Plt Ct-266
+[**2145-1-25**] 06:04AM BLOOD Glucose-83 UreaN-8 Creat-1.2* Na-140
+K-4.0 Cl-108 HCO3-22 AnGap-14
+[**2145-1-25**] 06:04AM BLOOD Calcium-9.1 Phos-3.3 Mg-1.5*
+.
+Microbiology:
+[**2145-1-17**] blood culture - negative
+[**2145-1-17**] Urine culture - negative
+[**2145-1-17**] c diff - negative
+[**2145-1-18**] blood culture - negative
+[**2145-1-19**] h pyloi - negative
+.
+Other Studies:
+Abd CT ([**2145-1-16**]- from [**First Name4 (NamePattern1) 392**] [**Last Name (NamePattern1) **]):
+Appendix is not identified. Atrophic kidneys. Gallbladder is not
+visualized. Atherosclerotic aorta. Old healed deformity of left
+anterior and superior pubic rami.
+.
+Head CT ([**2145-1-17**]):
+Examination is mildly limited by motion artifact. There is no
+hemorrhage, mass effect, shift of the normally midline
+structures, or vascular territorial infarct. Mild
+periventricular white matter hypodensity is consistent with
+chronic microvascular ischemia. There is no hydrocephalus. The
+[**Doctor Last Name 352**]-white matter differentiation is preserved. Orthopedic
+hardware is seen within the dens. The visualized paranasal
+sinuses and mastoid air cells are well aerated.
+.
+Abd US ([**2145-1-17**]):
+The liver is unremarkable without focal or textural abnormality.
+The portal vein is patent with appropriate hepatopedal flow.
+There is no intrahepatic biliary dilatation. The common bile
+duct is dilated measuring 1.1 cm. The gallbladder is not
+definitively identified. The structure interrogated on multiple
+views located near the gallbladder fossa most likely represents
+bowel/stomach with gallstone-filled gallbladder.
+.
+ECG ([**2145-1-17**]):
+NSR at 93 bpm. Normal axis, normal intervals. Poor baseline.
+Biphasic T waves noted in I, aVL, II, aVF, and V5-V6.
+.
+CT Abd/Pelvis ([**2145-1-17**]):
+IMPRESSION:
+1. Mild colonic wall thickening extending from the splenic
+flexure to the distal sigmoid, suggestive of infectious or less
+likely, ischemic etiology. No perforation or fluid collection.
+No abscess. Following recuperation of renal function, a CT
+angiogram of the mesenteric vessels could be performed if
+clinically indicated.
+2. Likely subacute fracture of the left symphysis pubis and
+rami. Correlation with prior outside imaging studies may be of
+assistance.
+3. LLL 6 mm pulmonary nodule. 6 month fllow-up exam advised.
+.
+CT Abd/Pelvis, repeat ([**2145-1-24**]):
+IMPRESSION:
+1. Resolution of mild colonic wall thickening seen on prior
+study.
+2. No additional evidence to explain patient's symptoms.
+
+
+B

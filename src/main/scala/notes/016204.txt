@@ -1,0 +1,232 @@
+Admission Date:  [**2141-8-25**]              Discharge Date:   [**2141-9-5**]
+
+Date of Birth:  [**2077-6-26**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Morphine Sulfate
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+[**2141-8-30**] Aortic valve replacement/Coronary artery bypass graft
+times four
+
+
+History of Present Illness:
+Mr. [**Known lastname 79654**] is a 63 year-old gentleman who underwent a cardiac
+catheterization in [**Month (only) **] secondary to chest pain that revealed
+lesions in the LAD and LCx.  Further, he was found to have
+aortic stenosis.  He was referred to [**Hospital1 18**] for surgical
+management of his pathology.
+
+Past Medical History:
+hypertension
+non-insulin dependent diabetes
+BPH
+bilateral inguinal hernias
+anemia
+chronic renal insufficiency
+hypothyroidism
+s/p umbilical hernia repair
+
+Social History:
+Mr. [**Known lastname 79654**] is retired and lives alone.  He quite smoking in
+[**2113**].  He drinks one alcoholic beverage per month.
+
+Family History:
+His family history is unremarkable.
+
+Physical Exam:
+At the time of discharge, Mr. [**Known lastname 79654**] was found to be awake,
+alert, and oriented.  His heart was of regular rate and rhythm.
+His lungs were clear to ausculatation bilaterally.  His abdomen
+was found to be soft, non-tender, and non-distended.  His
+sternal incision was clean, dry, and intact and the sternum
+stable.  Trace edema was noted in his lower extremities.
+
+Pertinent Results:
+[**2141-9-4**] 05:30AM BLOOD WBC-17.3* RBC-2.99* Hgb-8.7* Hct-26.1*
+MCV-87 MCH-29.2 MCHC-33.4 RDW-14.5 Plt Ct-565*
+[**2141-8-30**] 10:34AM BLOOD WBC-26.2*# RBC-3.31* Hgb-9.7* Hct-27.9*
+MCV-84 MCH-29.2 MCHC-34.6 RDW-13.7 Plt Ct-194
+[**2141-8-25**] 06:05PM BLOOD WBC-12.4* RBC-3.47* Hgb-9.5* Hct-28.6*
+MCV-82 MCH-27.4 MCHC-33.2 RDW-14.3 Plt Ct-328
+[**2141-8-31**] 02:56AM BLOOD PT-14.4* PTT-30.7 INR(PT)-1.3*
+[**2141-8-25**] 06:05PM BLOOD PT-14.6* PTT-44.5* INR(PT)-1.3*
+[**2141-9-4**] 05:30AM BLOOD Glucose-145* UreaN-41* Creat-1.9* Na-139
+K-4.0 Cl-101 HCO3-29 AnGap-13
+[**2141-8-25**] 06:05PM BLOOD Glucose-121* UreaN-20 Creat-1.5* Na-144
+K-3.9 Cl-110* HCO3-26 AnGap-12
+
+
+
+
+[**2141-8-26**] 10:32 pm SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal.
+
+                            **FINAL REPORT [**2141-8-29**]**
+
+   GRAM STAIN (Final [**2141-8-27**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   MULTIPLE ORGANISMS
+CONSISTENT WITH
+                                    OROPHARYNGEAL FLORA.
+
+   RESPIRATORY CULTURE (Final [**2141-8-29**]):
+      HEAVY GROWTH OROPHARYNGEAL FLORA.
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 79655**] (Complete)
+Done [**2141-8-30**] at 6:22:46 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2077-6-26**]
+Age (years): 64 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Aortic valve disease. Chest pain. Congestive heart
+failure. Coronary artery disease. Left ventricular function.
+Preoperative assessment.
+ICD-9 Codes: 424.1
+Test Information
+Date/Time: [**2141-8-30**] at 06:22    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 168**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW3-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.8 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%
+Aorta - Annulus:  2.6 cm  <= 3.0 cm
+Aorta - Sinus Level:  *4.2 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.6 cm  <= 3.0 cm
+Aorta - Ascending:  *4.0 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.5 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *3.0 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *35 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  18 mm Hg
+Aortic Valve - LVOT pk vel:  1.00 m/sec
+Aortic Valve - LVOT diam:  2.5 cm
+Aortic Valve - Valve Area:  *1.7 cm2  >= 3.0 cm2
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Normal regional LV systolic function. Overall normal LVEF
+(>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Moderately dilated ascending aorta. Normal descending
+aorta diameter.
+
+AORTIC VALVE: Bicuspid aortic valve. Mildly thickened aortic
+valve leaflets. Mild AS (AoVA 1.2-1.9cm2). Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Physiologic MR (within normal limits).
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PREBYPASS
+No atrial septal defect is seen by 2D or color Doppler. There is
+mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. Regional left ventricular
+wall motion is normal. Overall left ventricular systolic
+function is normal (LVEF>55%). Right ventricular chamber size
+and free wall motion are normal. The ascending aorta is
+moderately dilated at 4.0cm. The aortic valve is bicuspid. The
+aortic valve leaflets are mildly thickened. There is mild aortic
+valve stenosis (area 1.6-1.8 cm2). Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened.
+Physiologic mitral regurgitation is seen (within normal limits).
+
+
+POSTBYPASS
+Biventricular systolic function is preserved. There is a wello
+seated, well functioning bioprosthesis in the aortic position.
+There is trace valvular aortic valve regurgitation. The study is
+otherwise unchanged from prebypass.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2141-8-30**] 10:06
+      [**Known lastname **],[**Known firstname **] [**Medical Record Number 79656**] M  64  [**2077-6-26**]
+
+Radiology Report UNILAT UP EXT VEINS US LEFT Study Date of
+[**2141-9-3**] 5:15 PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] CSURG FA6A [**2141-9-3**] SCHED
+UNILAT UP EXT VEINS US LEFT   Clip # [**Clip Number (Radiology) 79657**]
+Reason: R/O DVT, LUE, SWELLING
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   64 year old man with
+REASON FOR THIS EXAMINATION:
+   r/o dvt, LUE
+
+
+
+Provisional Findings Impression: JKPe SUN [**2141-9-3**] 6:40 PM
+No DVT.
+
+
+Final Report
+HISTORY: Left upper extremity edema. Evaluate for DVT.
+
+No priors are available.
+
+LEFT UPPER EXTREMITY ULTRASOUND: Grayscale and Doppler son[**Name (NI) 1417**]
+of the left
+internal jugular, subclavian, axillary, brachial, basilic veins
+demonstrate
+normal flow, compression, augmentation, and waveforms. The
+cephalic vein is
+not identified. Due to the swelling within the subcutaneous
+tissues, the more
+distal aspects of the brachial veins are difficult to evaluate.
+
+IMPRESSION:
+
+No evidence of left upper extremity DVT.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**Known firstname **] [**Last Name (NamePattern1) **]
+DR. [**First Name8 (NamePattern2) 814**] [**Name (STitle) 815**]

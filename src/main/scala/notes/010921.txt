@@ -1,0 +1,202 @@
+Admission Date:  [**2195-8-8**]              Discharge Date:   [**2195-8-14**]
+
+Date of Birth:  [**2113-1-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3326**]
+Chief Complaint:
+altered mental status, aspiration PNA
+
+Major Surgical or Invasive Procedure:
+PICC placement
+
+History of Present Illness:
+Mr. [**Known lastname 29963**] is an 82y/o gentleman with myasthenia [**Last Name (un) 2902**] and
+advanced Parkinson's disease whose wife brought him to the [**Name (NI) **]
+because he was having difficulty swallowing at home, and he is
+transferred to the ICU with concerns that he may not be able to
+protect his airway and that he might have aspirated.
+He was recently admitted for altered mental status, and per
+Neurology his decreased responsiveness, stiff posture, and
+agitation were likely due to advancing Parkinson's Disease.
+This morning, the patient's wife reports that he has been more
+lethargic, and that when she was feeding him an Ensure, the
+liquid dribbled out of his mouth.  She is unsure if he
+aspirated.
+.
+In the ED, initial vs were: T 98, P 100, BP 148/78, R 34, O2 sat
+90%2L NC.  He was given 1L IVF.  CXR was suggestive of mild
+volume overload and also revealed a possible opacity; aspiration
+could not be excluded.  The patient was given Levaquin and
+Ceftriaxone.  Wife refused CT, and also expressed that the
+patient is DNI.
+Vitals on transfer: T 87, BP 112/68, RR 32, SaO2 98% 2L NC
+.
+In the ICU, the patient is somnolent bit arousable but hedoes
+not comply with exam and cannot answer Review of Systems.
+
+
+Past Medical History:
+-advanced Parkinson's Disease (bradyphrenia, dysarthria,
+slumping) Has been on Sinemet x 5 yrs.  Has significant dementia
+and reported hallucinations.  Followed by Dr. [**Last Name (STitle) **].
+-[**First Name9 (NamePattern2) **] [**Last Name (un) 2902**]
+-Afib: on coumadin
+-CAD s/p angioplasty
+-CHF (LVEF ~35% by TTE [**1-31**])
+-HTN
+-Myasthenia [**Last Name (un) **] (mainly ocular symptoms, has been on
+pyridostigmine in the past)
+stable)
+-Choledocholithiasis
+-GI bleed in setting of [**Last Name (un) **] [**2190**]
+-BPH
+-hx of prostate cancer s/p XRT [**4-2**] yrs ago
+-s/p L hip replacement at [**Hospital3 **] [**2187**]
+-cervical spondylosis
+
+
+Social History:
+Married, wife [**Name (NI) **] is primary care provider, [**Name10 (NameIs) **] assistance
+during
+the day when at home, distant pipe smoker, no current ETOH. No
+history or IV or illicit drug use. He used to own a business
+making [**Holiday **] decorations.
+
+Family History:
+No Parkinson's disease in family - Mom had Alzheimer's and Dad
+died of esophageal cancer.
+
+Physical Exam:
+Vitals: T: 96.8, BP: 108/62, P: 93, R: 12, O2: 91% 2L NC
+General: somnolent but arousable; no acute distress, breathing
+fast but is not using accessory muscles (patient states that
+this is his baseline)
+HEENT: Sclera anicteric, MM dry
+Neck: supple, no JVD, no LAD
+Lungs: Clear to auscultation bilaterally from the front, with
+crackles at bilarteral bases
+CV: tachycardic, irregularly irregular, no murmurs
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+LABS:
+[**2195-8-7**] 09:05PM BLOOD WBC-15.0*# RBC-4.40* Hgb-13.3* Hct-40.0
+MCV-91 MCH-30.2 MCHC-33.3 RDW-14.1 Plt Ct-268#
+[**2195-8-7**] 09:05PM BLOOD PT-55.5* PTT-57.5* INR(PT)-6.2*
+
+[**2195-8-14**] 04:10AM BLOOD WBC-8.8 RBC-3.63* Hgb-11.1* Hct-33.7*
+MCV-93 MCH-30.5 MCHC-32.8 RDW-14.1 Plt Ct-160
+[**2195-8-14**] 04:10AM BLOOD PT-19.2* PTT-37.0* INR(PT)-1.8*
+[**2195-8-14**] 04:10AM BLOOD Glucose-150* UreaN-22* Creat-0.7 Na-137
+K-4.2 Cl-106 HCO3-25 AnGap-10
+
+MICRO:
+[**2195-8-8**] 12:24 pm BLOOD CULTURE      Source: Line-piv SET#2.
+
+   Blood Culture, Routine (Preliminary):
+      ENTEROCOCCUS SP..
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE #
+305-7306S
+         [**2195-8-8**].
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.
+         REPORTED BY PHONE TO [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 29967**] [**2195-8-11**] 11AM.
+         ISOLATED FROM ONE SET ONLY.  SENSITIVITIES PERFORMED ON
+REQUEST..
+
+   Anaerobic Bottle Gram Stain (Final [**2195-8-9**]):
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+
+[**2195-8-8**] 12:24 pm BLOOD CULTURE      Source: Line-piv.
+
+   Blood Culture, Routine (Preliminary):
+      ENTEROCOCCUS SP..     POSSIBLE ENTEROCOCCUS RAFFINOSUS.
+         FINAL SENSITIVITIES.  Sensitivity testing performed by
+Sensititre.
+         Penicillin = RESISTANT ( >=8 MCG/ML ).
+         Daptomycin = SENSITIVE ( 1 MCG/ML ).
+      PROBABLE ENTEROCOCCUS.    POSSIBLE SECOND TYPE.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------    16 R
+DAPTOMYCIN------------       S
+LINEZOLID-------------     2 S
+PENICILLIN G----------       R
+VANCOMYCIN------------   <=1 S
+
+   Anaerobic Bottle Gram Stain (Final [**2195-8-9**]):
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+      REPORTED BY PHONE TO DR [**Last Name (NamePattern4) 29968**] [**Numeric Identifier 29969**] [**2195-8-9**] 910AM.
+
+                            **FINAL REPORT [**2195-8-11**]**
+
+[**2195-8-10**] 10:19 am MRSA SCREEN      Source: Nasal swab.
+
+                            **FINAL REPORT [**2195-8-11**]**
+
+   MRSA SCREEN (Final [**2195-8-11**]):
+      POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS.
+
+IMAGING:
+[**2195-8-7**] CXR
+1. Mild fluid overload.
+2. Left retrocardiac opacities, may reflect atelectasis.
+However, aspiration or pneumonia is not excluded.
+
+[**2195-8-10**] CXR
+Improved pulmonary edema, particularly left lung. Worsening
+right lower lobe pneumonia.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 29963**] is an 82y/o gentleman with advanced Parkinson's
+Disease brought to the [**Hospital1 18**] ED by his wife for possible
+aspiration and admitted to the ICU given concern of possible
+airway compromise and need for intubation.
+
+#PNA: Patient admitted with tachypnea, increasing respiratory
+requirements, elevated WCC, and question of a new opacity on
+CXR, in the setting of a AMS and question of aspiration.  The
+team considered aspiration PNA to be the most likely diagnosis,
+although PE was also considered (but patient's INR was
+supratherapeutic).  At time of arrival to the [**Hospital Unit Name 153**], he was able
+to swallow his oral secretions and was believed to be able to
+protect his airway.  He was started on Levofloxacin+Flagyl to
+cover CAP and aspiration, which was then broadened to
+CTX+flagyl.  He briefly spiked a fever to 102 with rigors, but
+remained hemodynamically stable.  The gram stains on his blood
+cultures came back with GPCs in [**3-1**] bottles.  His coverage was
+broadened to cover MRSA with Vanco.  He remained stable from
+hemodynamic and respiratory perspectives.  He was then
+transfered to the floors, but was transferred back to the [**Hospital Unit Name 153**] a
+day later in the setting of fevers, decreased arouseability, and
+low urine output.  At that time, his blood cultures were growing
+enterococcus (Vanc-sensitive).  CXR showed progressing PNA.
+Patient was stabilized, was satting well with a shovel mask and
+humidified air (he is a mouth breather and does not sat well
+with nasal cannula).  At the time of discharge, his WBC had
+stabilized and he had been afebrile for >24H.  He was discharged
+with a PICC line with plans for Vancomycin (14 day course for
+bacteremia), and Ceftriaxone/Flagyl (7 day course for aspiration
+pneumonia). Discharged home on O2 by face tent.
+.
+#. Parkinson's Disease: Patient with a history of progressive
+[**Last Name (un) 3562**], with dementia, bradykinesia, paucity of speech, and
+pill-rolling tremor.  Recently discharged after an episode of
+"slumping over," with decreased arousability.  He was continued
+on his Sinemet and Entacapone.  When he was made NPO for concern
+of aspiration, an NG tube was placed so that he could receive
+his Parkinson's medications.  Family wa

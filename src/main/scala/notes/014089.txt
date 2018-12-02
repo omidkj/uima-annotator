@@ -1,0 +1,235 @@
+Admission Date:  [**2141-7-24**]              Discharge Date:   [**2141-7-27**]
+
+Date of Birth:  [**2077-6-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Doctor Last Name 10493**]
+Chief Complaint:
+Fever, cough
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+64yo man with history of pulmonary fibrosis on 2L home O2, on
+lung transplant list, presents with worsening cough, fever,
+chills and increasing O2 requirement. He has felt generally
+unwell for about 2 weeks, noting that he had decreased exercise
+tolerance and decreased energy. Then starting Thursday, he had
+fevers up to 101.7 accompanied by sweats. Notes worsening of his
+baseline, dry cough. He stopped taking pirfenidone then. Started
+on azithromycin Saturday morning without improvement. Went to
+see his PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 1007**] in clinic for a physical, where he had
+rales at his bilateral bases and appeared unwell.
+
+In the ED, initial vs were: T 98.0 P 104 BP 134/73 R 24 O2 sat
+96% 4L. Patient was given levofloxacin and 1L NS. Afebrile. UA
+negative, WBC count 15 with left shift. Initially to go to floor
+but had repeated desats to the 80s requiring additional oxygen.
+.
+On the floor, the patient has a frequent, paroxysmal,
+non-productive cough. He has mild chest pain when coughing. He
+has had loose BM's for the last couple of days. Has occasional
+mild burning with urination, not worse currently. Denies N/V,
+abdominal pain, headache, rash or arthralgias. He has never been
+hospitalized. All other ROS negative.
+
+
+Past Medical History:
+- idiopathic pulmonary fibrosis, diagnosed in [**2134**], has been
+progressive. Currently on transplant list at [**Hospital1 2025**], where his
+work-up included a right-heart cath one year ago with mild
+pulmonary HTN. Most recent PFTs have moderate restrictive
+pattern and severe diffusion limitation. Wears between 2 and 6
+liters O2 at home depending on level of exertion.
+- systolic murmur
+
+
+Social History:
+Lives with wife and daughter. [**Name (NI) 1403**] for a mutual fund company.
+- Tobacco: denies
+- Alcohol: social
+- Illicits: denies
+
+
+Family History:
+Father died of TB. Mother died of esophageal cancer. Has two
+sisters who are healthy. No history of interstitial lung
+disease.
+
+
+Physical Exam:
+On admission:
+Vitals: T: 99.1 BP: 133/56 P: 102 R: 25 O2: 88-90% on 4L NC when
+talking, 94% at rest
+General: Alert, oriented, moderate respiratory distress when
+coughing
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Fine crackles throughout, fair air movement.
+CV: Regular rate and rhythm, faint systolic murmur
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses. Finger tips with clubbing
+and mild cyanosis. No edema.
+
+On Discharge:
+97.5 110/68 74 18 98% 1L
+Well appearing, breathing comfortably with oxygen in place.
+Bilateral crackles persist on discharge but improved from
+admission.
+
+Pertinent Results:
+ADMISSION LABS
+--------------
+[**2141-7-24**] 02:00PM BLOOD WBC-15.0*# RBC-4.91 Hgb-15.4 Hct-44.7
+MCV-91 MCH-31.3 MCHC-34.4 RDW-14.6 Plt Ct-223
+[**2141-7-24**] 02:00PM BLOOD Neuts-90.0* Lymphs-6.3* Monos-3.1 Eos-0.5
+Baso-0.2
+[**2141-7-24**] 02:00PM BLOOD Glucose-105* UreaN-22* Creat-1.0 Na-138
+K-3.9 Cl-101 HCO3-22 AnGap-19
+[**2141-7-24**] 02:09PM BLOOD Lactate-1.6
+.
+DISCHARGE LABS
+--------------
+[**2141-7-27**] 06:45AM BLOOD WBC-8.9 RBC-4.50* Hgb-13.8* Hct-41.1
+MCV-91 MCH-30.7 MCHC-33.6 RDW-14.3 Plt Ct-243
+[**2141-7-27**] 06:45AM BLOOD Glucose-108* UreaN-17 Creat-0.9 Na-139
+K-4.7 Cl-102 HCO3-27 AnGap-15
+
+.
+MICROBIOLOGY
+------------
+Blood culture [**7-24**] x 2: pending
+Legionella urine antigen: negative
+.
+[**2141-7-25**] 11:13 am Rapid Respiratory Viral Screen & Culture
+      Source: Nasopharyngeal swab.
+
+   Respiratory Viral Culture (Preliminary):
+
+   Respiratory Viral Antigen Screen (Final [**2141-7-25**]):
+      Negative for Respiratory Viral Antigen.
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3,
+Influenza A, B,
+      and RSV by immunofluorescence.
+      Refer to respiratory viral culture for further
+information.
+.
+IMAGING
+-------
+Chest X-ray on admission:
+IMPRESSION: Mild increase in interstitial markings which could
+reflect
+worsening fibrosis or superimposed pulmonary interstitial edema.
+Please
+correlate clinically.
+
+
+Brief Hospital Course:
+64 year old male w/ h/o of advanced idiopathic pulmonary
+fibrosis presenting with fever, cough and increased O2
+requirement.
+
+ACTIVE ISSUES
+-------------
+# Dyspnea: Patient had worsening of chronic dyspnea, which was
+most likely secondary to infection, either viral or bacterial
+superinfection after viral infection.  Viral studies are so far
+negative, and are thus far pending.  Worsening of patient's
+idiopathic pulmonary fibrosis is also a possibility, and repeat
+CT scan may be useful as an outpatient.  Given patient's tenuous
+baseline respiratory status and ICU admission, coverage for
+hospital acquired pneumonia was deemed reasonable,, and he is
+often in pulmonary rehabilitation and at support groups with
+chronically ill individuals, giving him significant exposure to
+resistant organisms and patient was initiated on vancomycin,
+levofloxacin and cefepime.  Patient was narrowed to
+levofloxacin, after patient improved and culture data remained
+negative
+At this point, since we are 48 hours out without culture
+positivity, antibiotic regimen can be narrowed to seven day
+course of levofloxacin.  Blood cultures and viral swab are
+currently pending.  Patient's pirfenidone, a study drug, was
+held on admission, and patient will follow up with his
+pulmonologist, Dr. [**Last Name (STitle) **], after discharge to determine if he
+should continue this medication.  He will also follow up with
+his primary care provider.
+
+TRANSITION OF CARE:
+# Follow-up: patient will follow up with his primary care
+provider and pulmonologist upon discharge.  He has pending blood
+cultures and nasopharyngeal viral swab data which will need to
+be followed up.
+
+# Code: full code, confirmed
+
+
+Medications on Admission:
+- iodoquinol 1% cream apply [**Hospital1 **]
+- mupirocin 2% ointment daily
+- pirfenidone 3 tabs TID (study drug - anti fibrotic [**Doctor Last Name 360**] that
+blocks various growth factors) -> stopped Thursday
+- sildenafil 20mg TID -> stopped 1 month ago w/o change
+- Vitamin D
+- multivitamin
+
+Discharge Medications:
+1. iodoquinol-HC [**2-4**] % Cream Sig: One (1) application Topical
+twice a day.
+2. mupirocin 2 % Ointment Sig: One (1) application Topical once
+a day.
+3. sildenafil 20 mg Tablet Sig: One (1) Tablet PO three times a
+day.
+4. Vitamin D  Oral
+5. multivitamin  Oral
+6. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 2 days.
+Disp:*2 Tablet(s)* Refills:*0*
+7. Outpatient medication
+Please do not resume taking pirfenidone until instructed by your
+pulmonologist, Dr. [**Last Name (STitle) **]
+8. Outpatient oxygen therapy
+Please resume oxygen therapy per home regimen
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis:
+
+Healthcare-associated pneumonia
+
+Secondary diagnosis:
+
+Idiopathic pulmonary fibrosis
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Dear Mr. [**Known lastname **],
+
+It was a pleasure taking care of you at [**Hospital1 827**].  You came for further evaluation of shortness of
+breath and fever.  Testing showed that you may have bacterial
+pneumonia.  It is important that you follow up with your
+pulmonologist and primary care provider as listed below and
+continue to take your medications as indicated.
+
+The following changes have been made to your medications:
+
+We ADDED levofloxacin, to treat pneumonia, which you should take
+until it is totally finished, one more day after discharge
+
+Followup Instructions:
+Name: White, [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **], MPH
+Address: [**Doctor First Name **],STE 9A, [**Location (un) **

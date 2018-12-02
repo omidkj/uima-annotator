@@ -1,0 +1,190 @@
+Admission Date:  [**2160-1-28**]              Discharge Date:   [**2160-2-8**]
+
+Date of Birth:  [**2096-5-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 358**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Intubation [**2160-1-27**]
+Self-extubation [**2160-1-30**]
+Intubation [**2160-1-31**]
+Extubation [**2160-2-4**]
+Intubation/mechanical ventilation
+
+
+History of Present Illness:
+63 y/o man with a PMHx of COPD on home O2(1.5-2L) &
+schizophrenia who was presented to the ED with complaint of
+cough, shortness of breath for 2 days. Additional history is
+unclear, as the patient was noted to be a poor historian, but
+according to the medical records, the pt was recently
+hospitalized for COPD exacerbation (discharged on [**12-24**] and
+again on [**1-3**]). He has recently been treated with azithromycin,
+levoquin and completed a prednisone taper on [**1-14**]. He was last
+seen by his PCP [**Last Name (NamePattern4) **] [**1-13**], at which time he appeared to be doing
+well and without complaints.
+.
+In the ED this evening, vitals were initially BP 121/61, HR 111,
+RR 34, sating 81% on Room air. He recieved Solumedrol,
+vancomycin and levoquin. He was noted to have worsening
+respiratory status and was placed on a non-rebreather. He
+subsequently was noted to be more lethargic, placed on bi-pap
+and then intubated. His BP dropped following intubation and the
+patient was given 4L NS and was started on levophed at .03 and
+transferred to the [**Hospital Unit Name 153**].
+.
+Here, the patient is intubated, sedated, non-arousable on
+fentanyl and versed. Additional history was unobtainable.
+
+Past Medical History:
+1) COPD: FEV/FVC 60% in [**2150**] (no recent PFTs available), on
+home 1.5-2L O2 at night only
+2) Secondary Pulmonary Hypertension (51-66 mm Hg on ECHO
+[**2159-9-18**])
+3) Schizophrenia
+4) Hx GI bleeding
+5) Mental Retardation
+
+
+Social History:
+Lives in [**Location **] with brother and brother-in-law. On
+disability since [**2149**] for mental health issues. Visiting nurse
+twice daily. Ongoing tobacco use, in the past as much as 4
+packs/day. Denies ongoing EtOH or drug use.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VSS, Sat >90% on 2L nasal canula
+GEN: NAD, well developed middle aged male, poor eye contact
+[**Name (NI) 4459**]: anicteric, reactive
+NECK: Supple, no lymphadenopathy, no thyromegaly
+PULM: very poor air movement, but clear bilaterally
+CARD: Distant heart sounds, rrr by pulse, no M/R/G appreciated
+ABD: BS+, soft, mildly distended
+EXT: 2+ radial and pedal pulses. No clubbing, cyanosis or edema,
+shin bruising on left leg
+SKIN: hairless legs, vericose veins bilateral shins, extensive
+nail thickening bilateral toes.
+NEURO/PSYCH: poor eye contact, rambling speech but will answer
+direct questions appropriately
+
+Pertinent Results:
+CHEST (PORTABLE AP) Study Date of [**2160-1-27**]:
+SINGLE AP SUPINE BEDSIDE CHEST RADIOGRAPH: ET tube is in
+satisfactory position, approximately 6 cm above the carina and
+at the level of the lower border of the clavicles. NG tube
+descends below the diaphragm with tip not visualized. There is
+worsening aeration, with increasing patchy consolidation in the
+right, middle, and lower lobes, which may represent an infection
+or aspiration. The left lung remains clear. No pneumothorax.
+IMPRESSION: ET tube in satisfactory position. Worsening right
+middle and lower lung zone infiltrates, which could represent
+infection or aspiration.
+
+CHEST (PORTABLE AP) Study Date of [**2160-1-30**]:
+PORTABLE AP CHEST RADIOGRAPH: NG tube follows appropriate
+course. ET tube tip terminates 74 mm above the carina.
+Right-sided central line with tip terminating in mid SVC.
+Worsening of opacities in both lung bases, that could represent
+area of aspiration pneumonia. Cardiomediastinal silhouette is
+unremarkable.
+
+CHEST (PORTABLE AP) Study Date of [**2160-2-4**]:
+FINDINGS: Endotracheal tube terminates about 5.7 cm above the
+carina. Other indwelling devices remain in standard positions.
+Cardiomediastinal contours are within normal limits. Multifocal
+patchy parenchymal opacities in the right mid and both lower
+lungs appear slightly improved. Findings may be due to provided
+history of pneumonia. Differential diagnosis includes
+asymmetrical pattern of pulmonary edema in the setting of COPD.
+
+ADMISSION LABORATORY RESULTS:
+[**2160-1-27**] 08:30PM BLOOD WBC-17.0* RBC-4.86 Hgb-15.3 Hct-44.5
+MCV-92 MCH-31.5 MCHC-34.4 RDW-12.7 Plt Ct-368
+[**2160-1-27**] 08:30PM BLOOD Neuts-89.5* Lymphs-7.4* Monos-2.9 Eos-0.1
+Baso-0.1
+[**2160-1-27**] 08:30PM BLOOD PT-14.2* PTT-34.2 INR(PT)-1.2*
+[**2160-1-27**] 08:30PM BLOOD Glucose-135* UreaN-20 Creat-1.2 Na-138
+K-4.5 Cl-98 HCO3-30 AnGap-15
+[**2160-1-27**] 08:30PM BLOOD Calcium-9.1 Phos-4.1 Mg-1.7
+[**2160-1-27**] 09:58PM BLOOD Type-ART Temp-37.5 Rates-/30 pO2-323*
+pCO2-79* pH-7.17* calTCO2-30 Base XS--1
+
+DISCHARGE LABORATORY RESULTS:
+
+[**2160-2-5**] 4:24 am MRSA SCREEN      Source: Nasal swab.
+
+                            **FINAL REPORT [**2160-2-6**]**
+
+   MRSA SCREEN (Final [**2160-2-6**]):
+      POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS.
+
+BLOOD GAS RESULTS:
+[**2160-1-27**] 09:58PM BLOOD Type-ART Temp-37.5 Rates-/30 pO2-323*
+pCO2-79* pH-7.17* calTCO2-30 Base XS--1
+[**2160-2-4**] 08:31AM BLOOD Type-ART Rates-[**11-7**] Tidal V-500 PEEP-5
+FiO2-30 pO2-76* pCO2-60* pH-7.35 calTCO2-35* Base XS-4
+-ASSIST/CON Intubat-INTUBATED
+[**2160-2-4**] 03:21PM BLOOD Type-ART Temp-36.7 Rates-/22 Tidal V-350
+PEEP-5 FiO2-30 pO2-82* pCO2-53* pH-7.38 calTCO2-33* Base XS-4
+Intubat-INTUBATED Vent-SPONTANEOU
+[**2160-2-4**] 06:35PM BLOOD Type-ART Temp-36.7 Rates-/30 FiO2-35
+pO2-92 pCO2-51* pH-7.40 calTCO2-33* Base XS-4 Intubat-NOT INTUBA
+
+MICROBIOLOGY:
+[**2160-2-2**] URINE URINE CULTURE-FINAL (NO GROWTH)
+[**2160-1-29**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+{MRSA}
+[**2160-1-29**] MRSA SCREEN MRSA SCREEN-FINAL {POSITIVE FOR
+METHICILLIN RESISTANT STAPH AUREUS}
+[**2160-1-28**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+{YEAST}; LEGIONELLA CULTURE-FINAL; FUNGAL CULTURE-PRELIMINARY
+{YEAST, PENICILLIUM SPECIES}
+[**2160-1-28**] BLOOD CULTURE Blood Culture, Routine-FINAL (NO
+GROWTH)
+[**2160-1-28**] BLOOD CULTURE Blood Culture, Routine-FINAL (NO
+GROWTH)
+[**2160-1-28**] MRSA SCREEN MRSA SCREEN-FINAL {POSITIVE FOR
+METHICILLIN RESISTANT STAPH AUREUS}
+[**2160-1-28**] URINE URINE CULTURE-FINAL (NO GROWTH)
+[**2160-1-27**] BLOOD CULTURE Blood Culture, Routine-FINAL (NO
+GROWTH)
+[**2160-1-27**] BLOOD CULTURE Blood Culture, Routine-FINAL (NO
+GROWTH)
+
+Brief Hospital Course:
+# Hypercarbic Respiratory distress/tachypnea:
+Pt with a history of COPD and recent hospitalizations for
+exacerbation/pneumonia. Given this history and his CT findings,
+it is likely that his initial presentation of dyspnea, cough,
+leukocytosis were similar to his previous complaints. His rapid
+respiratory decline upon presentation, however, is possibly due
+to increased supplemental O2 and a subsequent deminished
+respiratory drive. PCO2 has been in the 50's at basline per
+previous ABGs. Patient was initiated on vancomycin,
+levofloxacin, and IV solumedrol at presentation. Throughout the
+MICU course, the patient was switched from IV solumedrol to oral
+prednisone on [**2160-1-31**] and a taper was begun. The dose of
+prednisone was 10 mg [**Hospital1 **] starting on [**2160-2-4**] prior to
+transfer out of the intensive care unit. Patient remained
+intubated from admission until self-extubation on [**2160-1-30**]. He
+showed signs of hypercarbia on his arterial blood gas and was
+put on BiPAP; however, he evetually required intubation again
+early in morning of [**2160-1-31**]. He was then diuresed with > 2L
+negative fluid balance on [**2160-2-4**] prior to extubation. His
+sedation was lightened and he was extubated on afternoon of
+[**2160-2-4**] with blood gas of 7.40/51/92 on face mask with 35%
+FiO2 several hours after extubation. Later in the evening of
+[**2160-2-4**] he had ABG on room air was 7.42/49/74.
+The patient's repiratory status continued to improve throughout
+his hospitalization and he was discharged to pulmonary rehab.
+His prednisone can continu

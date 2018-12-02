@@ -1,0 +1,223 @@
+Admission Date:  [**2199-5-1**]              Discharge Date:   [**2199-5-5**]
+
+Date of Birth:  [**2142-3-18**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+chest pain
+
+
+Major Surgical or Invasive Procedure:
+coronary artery bypass grafting x 3 (left internal mammary
+artery grafted to left anterior descending artery/saphenous vein
+grafted to Diagnal /posterior descending arteries)
+
+
+History of Present Illness:
+57yo male with history of hypertension, hyperlipidemia and
+diabetes.  He had an episode of chest pain 2 weeks ago while
+walking, which was relieved with SL NTG.  Cath today reveals 3
+vessel disease.  He is referred for surgical evaluation.
+
+Past Medical History:
+hypertension, diabetes mellitus, hypercholesterolemia,
+nephrolithiasis s/p lithotripsy, Vit D deficiency, probable
+asbestos exposure, psoriasis, asthma, plantar fasciitis- right
+
+
+Social History:
+Race: caucasian
+Last Dental Exam: 6 wks ago
+Lives with: wife, [**Name (NI) **] [**Name (NI) 17**], in [**Name (NI) 1411**], no children
+Occupation: police officer
+Tobacco: occasional cigar
+ETOH: 15 drinks/week
+
+
+Family History:
+father died 77 MI
+mother died 66 leukemia
+
+Physical Exam:
+Pulse:63 Resp: 24 O2 sat: 95%RA
+B/P  Right:    Left: 138/81
+Height: 5'[**98**]"    Weight: 213lb
+
+General:
+Skin: Dry [x] intact [x] psoriatic plaques right lower extremity
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [] no edema or varicosities
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) 167**]: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right:    Left: no bruits
+
+
+Pertinent Results:
+[**2199-5-4**] 07:00AM BLOOD WBC-12.5* RBC-3.48* Hgb-10.3* Hct-31.2*
+MCV-90 MCH-29.7 MCHC-33.1 RDW-13.8 Plt Ct-217
+[**2199-5-1**] 02:15PM BLOOD WBC-16.4*# RBC-3.90* Hgb-12.7* Hct-34.5*
+MCV-88 MCH-32.4* MCHC-36.7* RDW-14.0 Plt Ct-182
+[**2199-5-4**] 07:00AM BLOOD UreaN-21* Creat-1.0 K-4.3
+[**2199-5-1**] 02:15PM BLOOD UreaN-10 Creat-0.9 Cl-108 HCO3-31
+[**2199-5-4**] 07:00AM BLOOD ALT-33 AST-17 LD(LDH)-222 AlkPhos-51
+Amylase-20 TotBili-1.5
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 69603**] (Complete)
+Done [**2199-5-1**] at 12:12:46 PM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2142-3-18**]
+Age (years): 57 M  Hgt (in): 70
+BP (mm Hg): 120/65  Wgt (lb): 213
+HR (bpm): 65  BSA (m2): 2.15 m2
+Indication: Intraop CABG
+ICD-9 Codes: 424.0
+Test Information
+Date/Time: [**2199-5-1**] at 12:12    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW 1-: Machine: AW 5
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  3.9 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  4.3 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.6 m/s
+Left Atrium - Peak Pulm Vein D:  0.4 m/s
+Left Atrium - Peak Pulm Vein A:  0.1 m/s  < 0.4 m/s
+Right Atrium - Four Chamber Length:  3.9 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Diastolic Dimension:  4.8 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.3 cm
+Left Ventricle - Fractional Shortening:  0.31  >= 0.29
+Left Ventricle - Ejection Fraction:  50% to 60%  >= 55%
+Left Ventricle - Stroke Volume:  75 ml/beat
+Left Ventricle - Cardiac Output:  4.86 L/min
+Left Ventricle - Cardiac Index:  2.26  >= 2.0 L/min/M2
+Left Ventricle - Peak Resting LVOT gradient:  3 mm Hg  <= 10 mm
+Hg
+Left Ventricle - Septal Peak E':  *0.04 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *20  < 15
+Aorta - Annulus:  2.4 cm  <= 3.0 cm
+Aorta - Sinus Level:  *3.8 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  *3.1 cm  <= 3.0 cm
+Aorta - Ascending:  3.1 cm  <= 3.4 cm
+Aorta - Arch:  2.4 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.2 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.5 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  9 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  5 mm Hg
+Aortic Valve - LVOT VTI:  18
+Aortic Valve - LVOT diam:  2.3 cm
+Aortic Valve - Valve Area:  *2.3 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  1.0 m/sec
+Mitral Valve - Mean Gradient:  2 mm Hg
+Mitral Valve - Pressure Half Time:  96 ms
+Mitral Valve - MVA (P [**12-29**] T):  2.3 cm2
+Mitral Valve - E Wave:  0.8 m/sec
+Mitral Valve - A Wave:  0.8 m/sec
+Mitral Valve - E/A ratio:  1.00
+Mitral Valve - E Wave deceleration time:  246 ms  140-250 ms
+
+Findings
+LEFT ATRIUM: Normal LA and RA cavity sizes. No spontaneous echo
+contrast is seen in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Lipomatous
+hypertrophy of the interatrial septum. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size.
+Normal LV wall thickness. Normal regional LV systolic function.
+Overall normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Mildly dilated aortic sinus. Normal ascending aorta
+diameter. Normal aortic arch diameter. Complex (>4mm) atheroma
+in the aortic arch. Normal descending aorta diameter. Complex
+(>4mm) atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MS.
+Trivial MR. The MR vena contracta is <0.3cm.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+No PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+Pre Bypass: The left atrium and right atrium are normal in
+cavity size. No spontaneous echo contrast is seen in the left
+atrial appendage. No atrial septal defect is seen by 2D or color
+Doppler. There is mild symmetric left ventricular hypertrophy
+with normal cavity size. Left ventricular wall thicknesses are
+normal. Regional left ventricular wall motion is normal. Overall
+left ventricular systolic function is normal (LVEF>55%).The
+aortic root is mildly dilated at the sinus level. There are
+complex (>4mm) atheroma in the aortic arch and in the descending
+thoracic aorta. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion. There is no
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened, with partial
+calcifcation of the posterior leaflet. Trivial mitral
+regurgitation is seen.
+
+Post Bypass: Patient is A paced on phenylepherine infusion.
+Preserved biventricuar function LVEF >55%. Mitral regurgitation
+remains mild. Aortic contours intact. Remaining exam is
+unchanged. All findings discussed with srugeons at the time of
+the exam.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Interpretation assigned to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician
+
+
+?????? [**2191**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+[**2199-5-1**] Mr.[**Known lastname **] was taken to the operating room and
+underwent coronary artery bypass grafting x 3. Please see
+Dr[**Doctor Last Name 14333**] 

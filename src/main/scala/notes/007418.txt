@@ -1,0 +1,238 @@
+Admission Date:  [**2183-3-10**]              Discharge Date:   [**2183-3-23**]
+
+Date of Birth:  [**2105-10-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+Hypotension.
+
+Major Surgical or Invasive Procedure:
+Intubation
+Mechanical Ventilation
+PICC Placement
+
+History of Present Illness:
+Mr. [**Known lastname 77869**] is a 77 y.o. M well known to the MICU [**Location (un) **]
+team with h/o afib on coumadin, dementia, DM, CHF, recent right
+hemiarthroplasty of the hip who presented to and OSH after being
+found unresponsive and hypotensive in the setting of oxycodone
+at NH. Before admission, pt was being treated for C. diff, with
+positive assay noted at NH 2 weeks PTA (had a course of PO
+flagyl but still had diarrhea so was changed to PO vanc). At OSH
+CT ABD showed pan colitis. Pt was stabilized with IVF digoxin
+for a fib and transfered to [**Hospital1 18**]. At BICMC surgery evaluated
+and felt the collitis to be most likely infectious. Pt was
+hypotensive in the ED so went to the MICU. In the MICU PO vanc
+was continued and PO flagyl was added for C. Diff. BP stabilized
+to basline of SBP 90-100 with fluid resuscitation - no pressors
+were required. All cultures negative since admission. C. Diff
+assay has been negative here, but he has continued to have
+diarrhea. He was transferred to the floor with stable VS.
+.
+On the floor, he has had a worsening polyarticular gout flare.
+He was restarted on his home colchicine and probenacid with
+little relief of symptoms. Rheumatology was consulted and
+recommended a steroid taper, but the floor team decided to hold
+off on this in the setting of infection. UA was positive after
+transfer and cipro was started empirically.
+.
+On the afternoon after transfer, he triggered for low urine
+output. This was felt to be due to hypovolemia and he was given
+1L of 1/2NS because of concern for hypernatremia. By 10pm he had
+made ~500cc urine since midnight. He was then hypotensive to
+mid-80s systolic. At that time he was afebrile and it was felt
+that hypotension was still most likely due to hypovolemia. He
+received 500cc NS with good effect (SBP to 100s). Following this
+he became febrile to 100.8, BP returned to mid-80s systolic.
+Continue to have very poor urine output. Blood pressure and
+urine output did not respond to a further 1L of NS. Mental
+status grossly the same although patient has baseline dementia.
+Was unable to swallow pills however which is reportedly new. On
+repeat exam patient was felt to have mild guarding although he
+denied pain, he did not have rebound tenderness. CXR did not
+show free air. Given possibility of urosepsis with resistant
+organism, Cipro was broadened to Zosyn.
+
+With volume resuscitation, patient began to get more edematous
+in lower extremities and scrotum. He continued to breathe
+comfortably on room air however O2 saturation went from 99-100%
+to 94-95%.
+
+On arrival, he was unable to give additional details of history.
+He denies CP, SOB, orthopnea, PND, cough, abdominal pain, N/V.
+
+He does complain of joint pain and stiffness in his arms
+especially.
+
+Past Medical History:
+Atrial Fibrillation
+Diabetes Mellitus
+CHF - EF 50% with 1-2+MR and 2+TR
+Dementia
+Parkinson's disease
+HTN
+RA
+gout
+s/p open appy -remote
+s/p R total hip 6 weeks ago
+
+
+Social History:
+Married. Living at nursing home since hip surgery.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS: 97.7, 78/48, 80, 95% on RA
+GEN: NAD lying in bed at rest.
+HEENT: PERRL, anicteric, MM sl dry
+CV: irreg irreg, no m/r/g
+LUNGS: few crackles at left base, otherwise clear
+ABD: +BS. soft. NTND. No rebound or guarding.
+EXT: Warm. 2+ LE edema. Warm, erythematous MCPs of both hands.
+Erythematous warm toes on B feet with tenderness to palpation
+(c/w podagra). Tenderness, warmth, and erythema of bilateral
+tibial tuberosities.
+NEURO: A&Ox1 to person. Moving all extremities, but with pain on
+ROM. Following commands.
+BACK: Stage I/II sacral decubitus ulcers.
+
+
+Pertinent Results:
+ADMISSION LABS:
+===============
+        9.8
+ 13.7 >------< 465
+        31.6
+
+MCV 91  Neuts 76  Bands 1  Lymphs 13  Monos 6  Eos 4
+PT 38  PTT 55.1  INR 4.1
+
+ 140   106   27
+-----|-----|-----< 72
+ 3.0   21    1.5
+
+ALT 5  AST 12  Alk Phos 103  Bili 0.3  Alb 2.1
+Ca 6.9  Phos 3.4  Mg 1.2
+
+Lactate 1.3
+
+MICROBIOLOGY:
+=============
+[**3-10**] Blood Culture x 2: negative
+[**3-10**] C. diff: negative
+[**3-11**] C. diff: negative
+[**3-13**] C. diff: negative
+[**3-14**] UCx: contaminated
+[**3-14**] Blood Culture: negative
+[**3-15**] Blood Culture x 2: negative
+[**3-15**] Stool O&P: negative
+[**3-16**] UCx: Yeast 10,000-100K
+
+[**2183-3-14**] 2:20 pm URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2183-3-16**]**
+
+   URINE CULTURE (Final [**2183-3-16**]):
+      ESCHERICHIA COLI.    10,000-100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+      YEAST.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     8 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    64 I
+PIPERACILLIN---------- =>128 R
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+[**2183-3-14**] 2:20 pm STOOL     CONSISTENCY: SOFT      Source: Stool.
+
+
+                            **FINAL REPORT [**2183-3-17**]**
+
+   FECAL CULTURE (Final [**2183-3-16**]):    NO SALMONELLA OR SHIGELLA
+FOUND.
+
+   CAMPYLOBACTER CULTURE (Final [**2183-3-16**]):    NO CAMPYLOBACTER
+FOUND.
+
+   OVA + PARASITES (Final [**2183-3-17**]):
+      NO OVA AND PARASITES SEEN.
+      .
+      MANY POLYMORPHONUCLEAR LEUKOCYTES.
+      .
+      FEW RBC'S.
+      .
+      This test does not reliably detect Cryptosporidium,
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected
+by routine
+      O+P, the Giardia antigen test may enhance detection when
+organisms
+      are rare.
+
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2183-3-15**]):
+      FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.
+           (Reference Range-Negative).
+
+STUDIES:
+========
+CHEST (PORTABLE AP)  [**2183-3-10**]
+Portable AP chest radiograph compared to previous study obtained
+the same day earlier at 04:17.
+
+The right internal jugular line tip is in the distal SVC. The
+mild cardiomegaly is unchanged. There is interval improvement in
+perihilar interstitial prominence and bibasilar opacities
+suggesting resolution of mild pulmonary edema. There is no
+pleural effusion or pneumothorax.
+
+ABDOMEN (SUPINE ONLY)  [**2183-3-10**]
+FINDINGS: Please note, the detection of free air on a supine
+abdominal radiograph is limited. No gross abdominal free air is
+noted. There are several mildly distended air-filled loops of
+small bowel in the left and mid abdomen. Air is noted throughout
+the colon and rectum as well.
+There are mild-to-moderate degenerative changes involving the
+lumbar-sacral spine. The patient is status post right femoral
+hip prosthesis.
+IMPRESSION: Limited examination for the assessment of free air.
+Unremarkable bowel gas pattern.
+
+EKG [**2183-3-10**]
+Baseline artifact. Irregular rhythm, probably atrial
+fibrillation although
+baseline artifact makes assessment difficult. Ventricular
+premature beats.
+Low QRS voltage. Delayed R wave progression with late precordial
+QRS transition is non-specific but cannot exclude prior septal
+myocardial infarction. Diffuse non-specific ST-T wave
+abnormalities. Clinical correlation is suggested.  No previous
+tracing available for comparison.
+
+Portable TTE (Complete) Done [**2183-3-10**]
+The left atrium is elongated. No left atrial mass/thrombus seen
+(best excluded by transesophageal echocardiography). Left
+ventricular wall thicknesses and cavity size are normal. Due to
+suboptimal technical quality, a f

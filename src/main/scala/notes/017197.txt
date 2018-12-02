@@ -1,0 +1,223 @@
+Admission Date:  [**2132-10-9**]              Discharge Date:   [**2132-10-11**]
+
+Date of Birth:  [**2049-3-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2817**]
+Chief Complaint:
+hypotension
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+83 year old male with PMH of ESRD on HD and CHF presenting from
+HD session with lethargic and hypotension. Patient was noted to
+be hypotensive and lethargic on arrival at HD session and
+throughout his treatment and was noted to have no urine output
+(oliguric at baseline). He was given vanc and gent at HD and at
+the end of the session sent to the ED.
+.
+On arrival to the ED his initial BP was 88/47 and he was noted
+to be somnolent but responsive to voices. He was bolused with
+IVF and briefly went up to a SBP of ~100 but then went back
+down. An attempt to place an IJ line failed and during the
+procedure he became bradycardic.
+.
+Levophed was started peripherally and a femoral line was placed.
+He was then intubated. A CXR showed a RLL PNA and he was started
+on levoquin. An EKG showed precordial depressions, II and aVF,
+V4-V6, and a troponin was 0.08 (near baseline in setting of
+ARF). Given an aspirin.
+.
+At the time of transfer his blood pressures were failing to
+adequately respond to levo at 0.27. BPs were ~88/44 and he was
+being given additional fluids. Last temperature in the ED was
+100.0. FS was 147. He received a total of ~3L IVF in the ED.
+.
+On arrival in the ICU initial VS were BPs 70s/40s and HR 90s.
+.
+Review of systems:
+unable to obtain
+
+
+Past Medical History:
+Diabetes mellitus type I, dx [**2096**]
+Diabetic retinopathy
+ESRD on HD
+Secondary hyperparathyroidism
+Anemia [**1-1**] ESRD
+Nephrotic syndrome
+CHF, EF 50% (last echo [**5-5**])
+mild tricuspid and mitral regurgitation
+Essential HTN
+Alzheimer's dementia
+Depression
+BPH with urinary retention and chronic indwelling foley catheter
+
+recurrent UTIs and hematuria followed by urology
+
+
+Social History:
+Lives in [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **], a nursing facility in [**Location (un) 538**].
+Has 4 children, son [**Name (NI) 449**] [**Name (NI) **] is his primary caretaker. Was
+active in his church. No alcohol or illicit drug use, quit
+smoking cigars years ago. Wife passed away in [**2128**].
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Vitals: T: 98.3 BP: 107/59 P: 97 R:23 O2: 97%/FiO2 100%
+General: Alert, oriented, no acute distress
+HEENT: dry MM
+Neck: unable to appreciate elevated JVP
+Lungs: Coarse breath sounds bilaterally but no focal crackles,
+no wheeze
+CV: RRR no R/G/M appreciated
+Abdomen: soft, non-tender, slightly-distended, +bowel sounds, no
+rebound/guarding
+Ext: cold, weak pulses, no edema
+
+
+Pertinent Results:
+Admission Labs
+
+[**2132-10-9**] 09:04PM   TYPE-ART TEMP-36.1 RATES-16/4 TIDAL VOL-460
+O2-100 PO2-461* PCO2-47* PH-7.38 TOTAL CO2-29 BASE XS-2
+AADO2-219 REQ O2-44 -ASSIST/CON INTUBATED-INTUBATED
+[**2132-10-9**] 08:40PM   LACTATE-4.9*
+[**2132-10-9**] 05:30PM   cTropnT-0.08*
+[**2132-10-9**] 05:30PM   WBC-11.3*# RBC-4.81 HGB-13.0* HCT-42.5 MCV-89
+MCH-27.1 MCHC-30.6* RDW-15.9*
+[**2132-10-9**] 05:30PM   NEUTS-75* BANDS-13* LYMPHS-2* MONOS-10 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2132-10-9**] 05:30PM   HYPOCHROM-1+ ANISOCYT-NORMAL POIKILOCY-1+
+MACROCYT-NORMAL MICROCYT-OCCASIONAL POLYCHROM-OCCASIONAL
+OVALOCYT-2+ TEARDROP-OCCASIONAL FRAGMENT-OCCASIONAL
+[**2132-10-9**] 05:30PM   PLT SMR-NORMAL PLT COUNT-344
+[**2132-10-9**] 05:30PM   PT-15.5* PTT-25.1 INR(PT)-1.4*
+[**2132-10-9**] 05:14PM   GLUCOSE-132* LACTATE-4.6* NA+-145 K+-3.5
+[**2132-10-9**] 05:14PM   HGB-13.5* calcHCT-41
+[**2132-10-9**] 05:00PM   GLUCOSE-134* UREA N-26* CREAT-2.9* SODIUM-141
+POTASSIUM-3.7 CHLORIDE-101 TOTAL CO2-26 ANION GAP-18
+[**2132-10-9**] 05:00PM   estGFR-Using this
+[**2132-10-9**] 05:00PM   ALT(SGPT)-19 AST(SGOT)-24 LD(LDH)-316*
+CK(CPK)-39* ALK PHOS-101 TOT BILI-0.4
+[**2132-10-9**] 05:00PM   LIPASE-11
+[**2132-10-9**] 05:00PM   CK-MB-2
+[**2132-10-9**] 05:00PM   ALBUMIN-3.4*
+.
+Micro Data-
+[**2132-10-10**] 12:54PM BLOOD Hct-36.1*
+[**2132-10-10**] 04:24AM BLOOD WBC-6.8 RBC-4.30* Hgb-11.9* Hct-37.6*
+MCV-88 MCH-27.7 MCHC-31.6 RDW-15.6* Plt Ct-224
+[**2132-10-10**] 04:24AM BLOOD Plt Smr-NORMAL Plt Ct-224
+[**2132-10-9**] 05:30PM BLOOD Plt Smr-NORMAL Plt Ct-344
+[**2132-10-9**] 05:30PM BLOOD PT-15.5* PTT-25.1 INR(PT)-1.4*
+[**2132-10-10**] 08:12PM BLOOD Glucose-194* UreaN-37* Creat-2.3* Na-141
+K-5.5* Cl-104 HCO3-9* AnGap-34*
+[**2132-10-10**] 12:54PM BLOOD Glucose-164* UreaN-35* Creat-2.3* Na-140
+K-4.1 Cl-105 HCO3-16* AnGap-23*
+[**2132-10-10**] 04:24AM BLOOD Glucose-177* UreaN-30* Creat-2.4* Na-143
+K-2.9* Cl-107 HCO3-22 AnGap-17
+[**2132-10-10**] 05:40PM BLOOD CK(CPK)-1079*
+[**2132-10-10**] 09:37AM BLOOD CK(CPK)-669*
+[**2132-10-10**] 04:24AM BLOOD CK(CPK)-386*
+[**2132-10-10**] 05:40PM BLOOD CK-MB-21* MB Indx-1.9 cTropnT-0.20*
+[**2132-10-10**] 09:37AM BLOOD CK-MB-14* MB Indx-2.1 cTropnT-0.19*
+[**2132-10-10**] 04:24AM BLOOD CK-MB-12* MB Indx-3.1
+[**2132-10-10**] 12:31AM BLOOD cTropnT-0.15*
+[**2132-10-10**] 08:12PM BLOOD Calcium-7.9* Phos-7.7*# Mg-2.4
+[**2132-10-10**] 12:54PM BLOOD Calcium-7.9* Phos-3.3# Mg-2.2
+[**2132-10-10**] 04:24AM BLOOD Calcium-8.4 Phos-1.4*# Mg-1.5*
+[**2132-10-10**] 05:40PM BLOOD Vanco-5.2*
+[**2132-10-10**] 06:11PM BLOOD Type-ART Temp-36.4 PEEP-5 pO2-144*
+pCO2-28* pH-7.17* calTCO2-11* Base XS--16 Intubat-INTUBATED
+[**2132-10-10**] 01:06PM BLOOD Type-ART Temp-36.6 Tidal V-450 PEEP-5
+FiO2-50 pO2-153* pCO2-33* pH-7.31* calTCO2-17* Base XS--8
+Intubat-INTUBATED
+[**2132-10-10**] 12:36PM BLOOD Type-MIX Temp-36.6 Comment-ORAL
+[**2132-10-10**] 09:54AM BLOOD Type-ART Temp-37.3 Rates-16/24 Tidal
+V-450 PEEP-5 FiO2-50 pO2-193* pCO2-40 pH-7.30* calTCO2-20* Base
+XS--5 Intubat-INTUBATED
+[**2132-10-11**] 12:25AM BLOOD Lactate-17.6*
+[**2132-10-11**] 12:11AM BLOOD Lactate-14.9*
+[**2132-10-10**] 06:11PM BLOOD Glucose-98 Lactate-9.5* Na-139 K-4.8
+Cl-110
+[**2132-10-10**] 01:06PM BLOOD Lactate-6.3*
+[**2132-10-10**] 12:36PM BLOOD Glucose-294* Lactate-6.8*
+[**2132-10-11**] 12:25AM BLOOD O2 Sat-81
+[**2132-10-11**] 12:11AM BLOOD O2 Sat-98
+[**2132-10-10**] 06:11PM BLOOD Hgb-10.7* calcHCT-32 O2 Sat-98
+[**2132-10-10**] 12:36PM BLOOD O2 Sat-69
+[**2132-10-10**] 08:32PM BLOOD freeCa-1.09*
+[**2132-10-10**] 07:02PM BLOOD freeCa-1.11*
+[**2132-10-10**] 06:11PM BLOOD freeCa-1.07*
+.
+Micro Data
+[**10-9**] Blood Cx.
+Blood Culture, Routine (Preliminary):
+      ENTEROCOCCUS SP..
+         SENSITIVITIES PERFORMED ON CULTURE # 309-9780G
+([**2132-10-9**]).
+
+   Anaerobic Bottle Gram Stain (Final [**2132-10-10**]):
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+
+   Aerobic Bottle Gram Stain (Final [**2132-10-10**]):
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+
+[**10-9**]
+Blood Culture, Routine (Preliminary):
+      ENTEROCOCCUS SP..    PRELIMINARY SENSITIVITY.
+         These preliminary susceptibility results are offered to
+help guide
+         treatment; interpret with caution as final
+susceptibilities may
+         change. Check for final susceptibility results in 24
+hours.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------       S
+LEVOFLOXACIN----------       S
+VANCOMYCIN------------       S
+
+   Anaerobic Bottle Gram Stain (Final [**2132-10-10**]):
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+      REPORTED BY PHONE TO DR. [**Last Name (STitle) **] [**2132-10-10**] 12:26PM.
+
+   Aerobic Bottle Gram Stain (Final [**2132-10-10**]):
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+
+.
+[**10-10**] Blood cx. pending
+.
+MRSA- pending
+.
+
+Reports
+[**10-10**] CT head
+FINDINGS: There is no intracranial hemorrhage, edema, mass
+effect, or
+vascular territorial infarction. Ventricles and sulci are
+enlarged,
+reflecting parenchymal volume loss. Periventricular white matter
+
+hypodensities indicate chronic microvascular infarction. There
+is no
+fracture. Mastoid air cells are clear. Paranasal sinuses are
+also clear.
+
+IMPRESSION: No acute intracranial abnormality.
+.
+[**10-10**] X Ray of

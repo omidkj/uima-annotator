@@ -1,0 +1,240 @@
+Admission Date:  [**2171-2-6**]              Discharge Date:   [**2171-2-13**]
+
+Date of Birth:  [**2093-1-18**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+78 year old woman referred to [**Hospital6 **] by
+cardiologist for evaluation of chest pain x1 month. Transferred
+from [**Hospital3 **] to [**Hospital1 18**] for further evaluation/cardiac
+catheterization.
+
+Major Surgical or Invasive Procedure:
+[**2-7**] Cardiac catheterization
+[**2-8**] CABG x5(LIMA-LAD, SVG-D1-d2, SVG-OM, SVG-PLV)[**2-8**]
+
+
+History of Present Illness:
+Patient has been experiencing chest pain for past month, she had
+increase in symptoms on day of presentation to [**Hospital3 **]
+ER.
+
+Past Medical History:
+Diabetes
+Hypothyroid
+Hypercholesteroemia
+Spinal Stenosis
+Bilat catarct surgery
+[**Last Name (un) 19171**] cough
+
+Social History:
+Lives with daughter
+remote tobacco quit 50 years ago
+no ETOH use
+
+Family History:
+unknown
+
+Physical Exam:
+Admission
+VS HR 84 RR 18 BP 144/82
+NAD
+Lungs CTAB
+Heart RRR
+Abdomen soft/NT/ND
+Extrem warm, no edema
+No varicose veins
+No carotid bruits
+
+Pertinent Results:
+[**2171-2-13**] 05:00AM BLOOD WBC-14.3* RBC-3.27* Hgb-9.7* Hct-28.5*
+MCV-87 MCH-29.6 MCHC-33.9 RDW-14.8 Plt Ct-206
+[**2171-2-10**] 03:17AM BLOOD WBC-17.0* RBC-3.72* Hgb-10.7* Hct-30.5*
+MCV-82 MCH-28.8 MCHC-35.1* RDW-14.3 Plt Ct-108*
+[**2171-2-6**] 11:25PM BLOOD WBC-10.3 RBC-4.07* Hgb-11.7* Hct-34.6*
+MCV-85 MCH-28.8 MCHC-33.8 RDW-12.3 Plt Ct-298
+[**2171-2-7**] 05:10PM BLOOD Neuts-54.9 Lymphs-34.9 Monos-5.1 Eos-4.5*
+Baso-0.5
+[**2171-2-13**] 05:00AM BLOOD Plt Ct-206
+[**2171-2-6**] 11:25PM BLOOD PT-11.7 PTT-23.1 INR(PT)-1.0
+[**2171-2-8**] 01:21PM BLOOD Fibrino-147*
+[**2171-2-13**] 05:00AM BLOOD Glucose-146* UreaN-15 Creat-0.6 Na-135
+K-4.0 Cl-95* HCO3-31 AnGap-13
+[**2171-2-6**] 11:25PM BLOOD Glucose-147* UreaN-17 Creat-0.7 Na-142
+K-4.3 Cl-105 HCO3-24 AnGap-17
+[**2171-2-7**] 05:10PM BLOOD ALT-21 AST-24 AlkPhos-77 Amylase-66
+TotBili-0.3 DirBili-0.1 IndBili-0.2
+[**2171-2-6**] 11:25PM BLOOD Lipase-34
+[**2171-2-11**] 06:00AM BLOOD Calcium-7.6* Phos-4.8* Mg-1.8
+[**2171-2-13**] 05:00AM BLOOD Mg-2.0
+[**2171-2-7**] 05:10PM BLOOD %HbA1c-7.1*
+
+[**2171-2-12**] 01:10PM
+Report Comment:
+Source: CVS
+GENERAL URINE INFORMATION
+Urine Color Yellow
+  PERFORMED AT WEST STAT LAB
+Urine Appearance Clear
+  PERFORMED AT WEST STAT LAB
+Specific Gravity 1.007  1.001 - 1.035
+  PERFORMED AT WEST STAT LAB
+DIPSTICK URINALYSIS
+Blood TR
+  PERFORMED AT WEST STAT LAB
+Nitrite NEG
+  PERFORMED AT WEST STAT LAB
+Protein NEG mg/dL
+  PERFORMED AT WEST STAT LAB
+Glucose NEG mg/dL
+  PERFORMED AT WEST STAT LAB
+Ketone NEG mg/dL
+  PERFORMED AT WEST STAT LAB
+Bilirubin NEG mg/dL
+  PERFORMED AT WEST STAT LAB
+Urobilinogen NEG mg/dL 0.2 - 1
+  PERFORMED AT WEST STAT LAB
+pH 7.0 units 5 - 8
+  PERFORMED AT WEST STAT LAB
+Leukocytes SM
+
+ [**Known lastname **], [**Known firstname 77961**]       [**Hospital1 18**] [**Numeric Identifier 77962**] (Complete)
+Done [**2171-2-8**] at 9:55:40 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2093-1-18**]
+Age (years): 78 F  Hgt (in): 62
+BP (mm Hg): 120/70  Wgt (lb): 120
+HR (bpm): 75  BSA (m2): 1.54 m2
+Indication: Intraoperative Tee for CABG Abnormal ECG. Chest
+pain. Coronary artery disease. Hypertension.
+ICD-9 Codes: 786.05, 440.0
+Test Information
+Date/Time: [**2171-2-8**] at 09:55    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5209**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.5 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Aorta - Annulus:  1.9 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.4 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.4 cm  <= 3.0 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.2 cm  <= 2.5 cm
+
+Findings
+LEFT ATRIUM: Good (>20 cm/s) LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. Normal interatrial
+septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Low normal LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal aortic arch diameter. Simple
+atheroma in aortic arch. Normal descending aorta diameter.
+Simple atheroma in descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AR.
+
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Trivial MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+The post-bypass study was performed while the patient was
+receiving vasoactive infusions (see Conclusions for listing of
+medications).
+Conclusions
+PRE-BYPASS:
+1. No atrial septal defect is seen by 2D or color Doppler.
+2. Overall left ventricular systolic function is low normal
+(LVEF 50-55%). Right ventricular chamber size and free wall
+motion are normal.
+3. There are simple atheroma in the aortic arch. There are
+simple atheroma in the descending thoracic aorta.
+4. The aortic valve leaflets (3) are mildly thickened. No aortic
+regurgitation is seen.
+5. The mitral valve leaflets are mildly thickened. There is
+moderate mitral annular calcification of the posterior leaflet
+of the mitral valve. Trivial mitral regurgitation is seen.
+6. The tricuspid valve leaflets are mildly thickened.
+7. There is no pericardial effusion.
+
+POST-BYPASS:
+For the post-bypass study, the patient was receiving vasoactive
+infusions including phenylephrine and was A paced.
+1. Regional and global left ventricular systolic function are
+normal.
+2. Right ventricular systolic function is normal.
+3. Aortic contours are intact post-decannulation.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2171-2-8**] 14:01
+
+RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  [**2171-2-12**] 2:10 PM
+
+CHEST (PA & LAT)
+
+Reason: ? effusion
+
+[**Hospital 93**] MEDICAL CONDITION:
+78 year old woman with s/p cabg
+REASON FOR THIS EXAMINATION:
+? effusion
+HISTORY: Status post CABG.
+
+FINDINGS: In comparison with the study of [**2-10**], the patient has
+taken a much better inspiration. The right IJ catheter has been
+removed. There is persistent enlargement of the cardiac
+silhouette in a patient with recent CABG procedure and intact
+sternal sutures. Opacification behind the heart is consistent
+with a substantial left effusion. Smaller right effusion.
+Minimal indistinctness of pulmonary vessels suggests some
+residual increased pulmonary venous pressure.
+
+DR. [**First Name8 (NamePattern2) 1569**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11006**]
+Approved: TUE [**2171-2-12**] 2:59 PM
+
+
+
+
+Brief Hospital Course:
+She was admitted to cardiac surgery. She was seen by cardiology
+and 

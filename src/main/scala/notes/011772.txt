@@ -1,0 +1,197 @@
+Admission Date:  [**2197-12-4**]              Discharge Date:   [**2197-12-14**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+blood from trach
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy (bedside): small area of injury at main carina
+without active bleeding.  Blood seen in all segments and cleared
+fully.  Upon re-inspection return of blood seen and with BAL
+progressive bloody return seen.
+
+
+History of Present Illness:
+HPI: Ms. [**Known lastname **] is an 89 yo female with PMH notable for
+Alzheimer's disease, depression, paroxysmal afib on coumadin and
+recent admission to [**Hospital1 18**] MICU for MRSA pneumonia, Proteus
+urosepsis and stenotrophomonas VAP who presents from her rehab
+facility with bright red blood from her trach. On [**12-3**] at 1400,
+the patient was noted to have blood-tinged secretions. At that
+time, labs were obtained and heparin was held. Lasix was also
+increased to 40 mg IV BID. At 1500, nurse [**First Name (Titles) 12883**] [**Last Name (Titles) **] blood from
+trach. INR noted to be 5.4 with Hct 29.1. Later in the evening
+(2300), her nurse [**First Name (Titles) 8706**] [**Last Name (Titles) 17577**] [**Last Name (Titles) **] hemoptysis with hct down
+to 23.8; vent settings at that time AC 12X350, peep 5, fio2 40%
+with oxygen saturation 93%. CXR showed worsening bilateral
+infiltrates by report; she had a CT scan of the chest which
+showed At midnight, she was seen by the ICU resident that she
+had been treated with 2 U FFP and 5 mg vitamin K. ABG at that
+time demonstrated pH 7.46 / pCO2 59 / pO2 77. Due to [**Last Name (Titles) 17577**]
+hemoptysis, the patient was transferred back to the [**Hospital1 18**] ICU
+for further evaluation and treatment.
+.
+On arrival to the CCU, the patient has [**Hospital1 **] blood secretions
+from her ET tube. She opens eyes to voice and actively opposes
+eye opening but otherwise is nonverbal at present.
+
+Past Medical History:
+Alzheimer's
+Depression
+Hypernatremia
+Paroxymal Afib
+h/o Urinary tract infections
+Cholelithiasis
+h/o Influenza A/b
+
+
+Social History:
+Permanent resident of [**Hospital3 **] Manor. Chinese speaking only,
+Son and daughter active in her life and visit daily.
+
+
+Family History:
+N/A
+
+Physical Exam:
+vitals: T 98.9, HR 108, BP 171/88, RR 37, O2 100% on AC 12X400,
+PEEP 5, FiO2 60%
+gen: lying still with eyes closed, trach in place, no distress
+heent: actively opposes eye opening, tongue slightly dry
+neck: trach in place with mild bright red ooze surrounding
+insertion site
+pulm: coarse breath sounds bilaterally, expiratory wheeze R>L
+cv: RRR, difficult to hear due to vent noise
+abd: firm, no guarding or rebound, hypoactive bowel sounds, no
+specific areas of palpation which elicit grimace, PEG tube in
+place in LUQ with minimal surrounding erythema
+extr: extremities warm, 3+ pitting edema to thighs, bruise on
+right hand, R PICC in place
+neuro: trached, opens eyes to sound occasionally, actively
+opposes eye opening and does not follow other commands
+
+
+Pertinent Results:
+[**2197-12-4**] 02:37AM BLOOD WBC-10.8# RBC-2.09* Hgb-7.2* Hct-20.9*
+MCV-100* MCH-34.6* MCHC-34.6 RDW-18.2* Plt Ct-271
+[**2197-12-4**] 03:54PM BLOOD Hct-25.4*
+[**2197-12-5**] 04:00AM BLOOD WBC-8.9 RBC-2.49* Hgb-8.1* Hct-23.5*
+MCV-94 MCH-32.3* MCHC-34.3 RDW-19.5* Plt Ct-228
+[**2197-12-5**] 10:53AM BLOOD Hct-22.8*
+[**2197-12-5**] 10:53AM BLOOD Hct-22.8*
+[**2197-12-5**] 10:00PM BLOOD Hct-25.4*
+[**2197-12-6**] 03:32AM BLOOD WBC-8.7 RBC-2.65* Hgb-8.5* Hct-24.0*
+MCV-91 MCH-32.0 MCHC-35.4* RDW-18.4* Plt Ct-207
+[**2197-12-6**] 03:32AM BLOOD WBC-8.7 RBC-2.65* Hgb-8.5* Hct-24.0*
+MCV-91 MCH-32.0 MCHC-35.4* RDW-18.4* Plt Ct-207
+[**2197-12-7**] 03:34AM BLOOD WBC-13.5* RBC-2.80* Hgb-9.0* Hct-26.6*
+MCV-95 MCH-32.0 MCHC-33.7 RDW-18.3* Plt Ct-280
+[**2197-12-8**] 03:56AM BLOOD WBC-11.6* RBC-2.28* Hgb-7.5* Hct-21.6*
+MCV-95 MCH-33.1* MCHC-35.0 RDW-18.1* Plt Ct-249
+[**2197-12-8**] 05:23AM BLOOD Hct-20.7*
+[**2197-12-8**] 03:19PM BLOOD WBC-11.0 RBC-2.83* Hgb-9.1* Hct-25.4*
+MCV-90 MCH-32.0 MCHC-35.7* RDW-18.7* Plt Ct-198
+[**2197-12-10**] 03:35AM BLOOD WBC-11.8* RBC-3.38* Hgb-10.5* Hct-30.4*
+MCV-90 MCH-31.0 MCHC-34.5 RDW-17.4* Plt Ct-192
+[**2197-12-4**] 02:37AM BLOOD Neuts-91.5* Lymphs-2.6* Monos-4.2 Eos-1.5
+Baso-0.2
+[**2197-12-4**] 02:37AM BLOOD PT-23.6* PTT-41.5* INR(PT)-2.3*
+[**2197-12-4**] 03:54PM BLOOD PT-16.7* INR(PT)-1.5*
+[**2197-12-5**] 04:00AM BLOOD PT-16.1* PTT-34.5 INR(PT)-1.4*
+[**2197-12-6**] 03:32AM BLOOD PT-20.9* PTT-35.8* INR(PT)-2.0*
+[**2197-12-7**] 03:34AM BLOOD PT-25.3* PTT-32.2 INR(PT)-2.5*
+[**2197-12-8**] 03:56AM BLOOD PT-16.4* PTT-28.8 INR(PT)-1.5*
+[**2197-12-9**] 03:54AM BLOOD PT-15.5* PTT-30.1 INR(PT)-1.4*
+[**2197-12-10**] 03:35AM BLOOD PT-16.5* PTT-28.4 INR(PT)-1.5*
+[**2197-12-8**] 05:23AM BLOOD Ret Aut-2.4
+[**2197-12-4**] 02:37AM BLOOD Glucose-161* UreaN-32* Creat-1.4* Na-134
+K-4.6 Cl-90* HCO3-40* AnGap-9
+[**2197-12-5**] 04:00AM BLOOD Glucose-76 UreaN-34* Creat-1.4* Na-136
+K-4.8 Cl-91* HCO3-39* AnGap-11
+[**2197-12-7**] 03:34AM BLOOD Glucose-132* UreaN-38* Creat-1.9* Na-134
+K-5.0 Cl-89* HCO3-42* AnGap-8
+[**2197-12-8**] 03:56AM BLOOD Glucose-71 UreaN-43* Creat-2.0* Na-134
+K-4.6 Cl-90* HCO3-38* AnGap-11
+[**2197-12-10**] 03:35AM BLOOD Glucose-120* UreaN-44* Creat-1.8* Na-137
+K-4.0 Cl-93* HCO3-38* AnGap-10
+[**2197-12-10**] 06:55PM BLOOD Glucose-133* UreaN-44* Creat-1.7* Na-140
+K-4.2 Cl-97 HCO3-40* AnGap-7*
+[**2197-12-4**] 02:37AM BLOOD ALT-18 AST-25 LD(LDH)-209 AlkPhos-88
+TotBili-0.2
+[**2197-12-4**] 02:37AM BLOOD Lipase-54
+[**2197-12-4**] 02:37AM BLOOD Albumin-2.6* Calcium-8.5 Phos-4.0# Mg-2.5
+[**2197-12-8**] 03:56AM BLOOD Hapto-142
+[**2197-12-4**] 03:54PM BLOOD ANCA-NEGATIVE B
+[**2197-12-8**] 06:29PM BLOOD Vanco-15.0
+[**2197-12-7**] 06:06PM URINE Blood-LG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-SM Urobiln-NEG pH-5.0 Leuks-MOD
+[**2197-12-7**] 06:06PM URINE RBC-21-50* WBC-[**6-13**]* Bacteri-MOD
+Yeast-NONE Epi-0-2 RenalEp-1
+[**2197-12-7**] 06:06PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.017
+[**2197-12-7**] 06:06PM URINE CastHy-<1
+[**2197-12-7**] 03:02PM URINE Eos-POSITIVE
+[**2197-12-7**] 10:27AM URINE Hours-RANDOM UreaN-440 Creat-64 Na-18
+Cl-LESS THAN  Uric Ac-23.9
+[**2197-12-7**] 10:27AM URINE Osmolal-336
+.
+Micro data:
+[**2197-12-4**] 3:56 am BRONCHIAL WASHINGS
+                            **FINAL REPORT [**2197-12-6**]**
+   GRAM STAIN (Final [**2197-12-4**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+   RESPIRATORY CULTURE (Final [**2197-12-6**]):    ~[**2189**]/ML
+OROPHARYNGEAL FLORA.
+.
+[**2197-12-5**] 9:57 pm CATHETER TIP-IV      Source: R arm PICC.
+                            **FINAL REPORT [**2197-12-8**]**
+   WOUND CULTURE (Final [**2197-12-8**]):    No significant growth.
+.
+[**2197-12-7**] 2:51 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool.
+                            **FINAL REPORT [**2197-12-8**]**
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2197-12-8**]):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+.
+Radiographic studies:
+[**12-4**] CXR:
+IMPRESSION:
+1. Developing right upper lobe infiltrate.
+2. Continued bilateral pleural effusions with bibasilar
+atelectasis.
+3. Findings concerning for mild congestive failure.
+.
+[**12-8**] CT:
+IMPRESSION:
+1. Migration of gastric tube into the rectus sheath. There is a
+clear
+connection, however, into the stomach and no evidence for free
+air or free
+fluid. Repositioning of tube is recommended.
+2. No radiographic explanation for falling hematocrit.
+3. Multiple incidental findings including right staghorn
+calculus, porcelain gallbladder, anasarca, bilateral pleural
+effusions with associated atelectasis, and severe
+atherosclerotic disease.
+.
+[**12-9**] CXR:
+Compared to the study from the prior day, there is increased
+vascular
+congestion and increased volume loss in both lower [**Known lastname **]s. An
+underlying
+infectious infiltrate cannot be excluded. Diffuse alveolar
+opacities are
+again seen.
+.
+
+
+Brief Hospital Course:
+A/P: 89 yo with PMH of alzheimer's dementia, hypernatremia, UTI
+presents with AMS, sepsis physiology, UTI, and i

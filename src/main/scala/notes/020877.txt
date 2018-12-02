@@ -1,0 +1,186 @@
+Admission Date:  [**2112-10-12**]              Discharge Date:   [**2112-10-16**]
+
+Date of Birth:  [**2048-10-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 11892**]
+Chief Complaint:
+Chest pain, shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. [**Known lastname 53899**] is a 64 year old female with large anterolateral
+STEMI requiring IABP in late [**2112-9-7**] s/p LAD bare metal
+stent who presented with chest pain and shortness of breath on
+[**2112-10-11**].  The shortness of breath started about 40 minutes
+before the chest pain while she was making dinner. She described
+substernal chest pain and tightness that was acute in onset and
+felt similar to her prior MI, but not as severe. It did not
+radiate to her arm or jaw, and was not associated with nausea or
+diaphoresis. On the way to the hospital she took 3 of her
+husband's sublingual nitroglycerine tabs which provided minimal
+relief of the chest pain.
+.
+On arrival to the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], initial vital signs were: T:98.6
+HR:90 BP:83/51 RR:20 O2sat:97% RA. She was given oxygen and 3L
+normal saline but BP responded only transiently to each bolus.
+She was eventually transferred to [**Hospital1 18**] ED to rule out MI.
+.
+In the [**Hospital1 18**] ED, initial vital signs were: T:97.3 P:80 B:92/53
+(on 10 dopa) R:16 O2sat:97% RA. She had new TWIs in V2-V4
+(similar to when she had an NSTEMI in [**2108**]). Her chest x-ray was
+clear, she had no LE edema, and was not hypoxic. She was given
+potassium chloride 60 mEq SR and dopamine 400mg. Cardiac enzymes
+were negative.  Cardiology did not think this was a cardiac
+issue, so she was admitted to the MICU for management of
+hypotension.
+.
+
+
+Past Medical History:
+1. Coronary artery disease, NSTEMI [**2108**], STEMI [**9-/2112**] s/p BMS
+to LAD
+2. Migraine headaches
+3. Chronic lower back pain
+4. 100 lb weight loss: pt has undergone extensive w/u including
+colonoscopy, GYN exam, HIV test, cardiac w/u, stool studies,
+celiac studies negative. Also had abd CT negative, Chest CT
+demonstrated LUL nodule which was monitered. Had recent scan
+that demonstrated increase in size of LUL nodule from 3mm->7mm,
+PET scan in [**12-11**] negative - scheduled to have repeat Chest CT
+this month.
+5. Depression
+
+Social History:
+Patient is married, lives with husband. Family stress due to
+death of her son from heroin overdose.  Also has daughter w/
+current substance abuse problems. [**Name (NI) **] a 60 pack year history and
+currently smokes about one pack per day, but has plans to quit.
+
+
+Family History:
+Mother had CHF, died from [**Name (NI) 11964**] at age 80. Father died from
+lung cancer.
+
+
+Physical Exam:
+MICU:
+Vitals: T: 97.2 BP:84/43 P:79 R: 16 O2: 98% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, dry mucus membranes, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, [**2-13**] holosystolic
+murmur best heard over mitral area.
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+On admission:
+[**2112-10-11**] 11:52PM BLOOD WBC-13.4* RBC-3.74* Hgb-12.5 Hct-37.5
+MCV-100* MCH-33.5* MCHC-33.5 RDW-14.3 Plt Ct-345 Neuts-85.4*
+Lymphs-9.7* Monos-2.6 Eos-1.8 Baso-0.5
+[**2112-10-11**] 11:52PM BLOOD PT-12.1 PTT-29.6 INR(PT)-1.0
+[**2112-10-11**] 11:52PM BLOOD Glucose-83 UreaN-24* Creat-0.9 Na-140
+K-2.8* Cl-105 HCO3-21* AnGap-17 Calcium-7.9* Phos-3.2 Mg-2.0
+[**2112-10-11**] 11:52PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2112-10-12**] 05:15AM BLOOD CK-MB-4 cTropnT-<0.01
+[**2112-10-12**] 12:29PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2112-10-12**] 01:47AM BLOOD D-Dimer-298
+[**2112-10-11**] 11:52PM BLOOD TSH-0.79
+[**2112-10-11**] 11:52PM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+[**2112-10-12**] 04:36AM BLOOD Type-ART pO2-48* pCO2-43 pH-7.38
+calTCO2-26 Base XS-0
+[**2112-10-12**] 02:40PM BLOOD Lactate-1.1
+[**2112-10-14**] 03:01AM BLOOD VitB12-387
+.
+Studies:
+[**2112-10-12**] ECG: Sinus rhythm with a late cycle atrial premature
+beat. Q-T interval prolongation. Anterior myocardial infarction.
+Low voltage throughout. Since the previous tracing precordial
+voltage has decreased. T wave abnormalites and Q-T interval
+prolongation persist. Clinical correlation is suggested.
+.
+[**2112-10-12**] ECHO: No pericardial effusion or tamponade. Regional LV
+systolic dysfunction consistent with prior LAD infarction. Left
+ventricle ejection fraction: 25% to 30%.
+.
+[**2112-10-11**] CHEST (PORTABLE AP) Approved: No acute intrathoracic
+abnormality.
+.
+[**2112-10-11**] ECG: Sinus rhythm with atrial premature beats. Low limb
+lead voltage.Late R wave progression. Q-T interval prolongation
+with marked precordial ST-T wave abnormalities. Since the
+previous tracing of [**2112-9-9**] there is new Q-T interval
+prolongation with prominent precordial T wave inversions.
+Consider infarction or metabolic derangements. Clinical
+correlation is suggested. The precordial Q waves were present on
+the previous tracing of [**2112-9-9**].
+
+.
+Micro:
+[**2112-10-12**] Urinalysis: negative
+.
+[**2112-10-12**] MRSA screen: No MRSA isolated
+.
+[**2112-10-12**] Blood Culture: Pending, no growth to date
+.
+Discharge Labs:
+[**2112-10-16**] 06:26AM BLOOD WBC-6.4 RBC-3.52* Hgb-11.6* Hct-34.5*
+MCV-98 MCH-33.1* MCHC-33.8 RDW-14.4 Plt Ct-306
+[**2112-10-16**] 06:26AM BLOOD Glucose-82 UreaN-9 Creat-0.6 Na-142 K-3.9
+Cl-106 HCO3-31 AnGap-9
+[**2112-10-16**] 06:26AM BLOOD Albumin-3.7 Calcium-8.8 Phos-3.8 Mg-2.3
+
+Brief Hospital Course:
+Mrs. [**Known lastname 53899**] is a 64 year old female s/p anteriolateral STEMI
+with BMS to LAD who required IABP in cath lab, who presented on
+[**2112-10-11**] with chest pain and shortness of breath. Hypotension
+on presentation required MICU stay with peripheral dopamine.
+.
+# Hypotension: She was hypotensive to the 70s systolic on
+arrival to [**Hospital3 **], which was likely due to a recently
+started beta-blocker in the setting of her systolic heart
+failure and possible volume depletion from decreased PO intake
+leading up to admission. She was given a total 3.5 L normal
+saline in [**Hospital1 **] and [**Hospital1 18**], and was started on peripheral
+dopamine in the [**Hospital1 18**] MICU. Her lisinopril, furosemide, and
+metoprolol were all held.  No infectious etiology was
+identified. There was no evidence of adrenal insufficiency with
+cortisol stimulation testing. Bedside echo showed no interval
+worsening of EF. Interestingly, the MICU team noted that her
+pressure with invasive montitoring via a-line was consistently
+[**10-21**] points higher than with a peripheral cuff. Her blood
+pressure stabilized to the 90s systolic without dopamine and she
+was transferred to the floor. Her metoprolol was restarted
+before leaving the MICU, but was discontinued again on the floor
+because her SBPs were intermittently in the high 80s-90s.
+Whether or not to re-start her BBlocker and ACEi should be
+discussed at her cardiology follow up in a few days. Given
+recent weight loss, there was concern that poor nutritional
+status was resulting in a decreased oncotic pressure in the
+vasculature, but albumin was 3.7. On discharge, she was
+hemodynamically stable without orthostasis and denied any
+symptoms of feelings of lightheadedness or feeling unsteady.
+.
+# Chest pain: She had substernal chest pain and tightness that
+was acute in onset and felt similar to her prior MI. The pain
+was mildly relieved by 3 of her husband's expired sublingual
+nitroglycerine tabs. On arrival to the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], she was given
+oxygen which improved her symptoms. She had new T-wave
+inversions in V2-V4 on her initial ECG. Negative cardiac enzymes
+x 3. Her chest pain resolved without further intervention and
+had no complaints of chest pain throughout her admission. She
+has a follow up formal ECHO scheduled later thi

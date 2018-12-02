@@ -1,0 +1,221 @@
+Admission Date:  [**2110-3-3**]              Discharge Date:   [**2110-3-8**]
+
+Date of Birth:  [**2048-6-29**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Inderal La / Codeine / Morphine
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Shortness of breath, worsening fatigue
+
+
+Major Surgical or Invasive Procedure:
+s/p biventricular pacing/defibrillator system.
+
+
+History of Present Illness:
+61 year old man with a PMH notable for ischemic cardiomyopathy.
+He has had two prior myocardial infarctions, the first in [**2092**]
+and the second in [**2096**]. He also has undergone multiple PCI??????s,
+the most recent being an angioplasty at [**Hospital1 756**]
+and Women??????s Hospital in [**2106**]. He does complain of chest
+discomfort. He does get significant shortness of breath with
+mild to moderate exertion. This can occur with activities like
+emptying the garbage. Given his degree of cardiomyopathy with an
+ejection fraction of 26%, he has been referred for LV lead
+placement with biventricular upgrade.
+
+
+Past Medical History:
+Past Medical History
+- Coronary Artery Disease/Ischemic Cardiomyopahty
+- History of Myocardial Infarctions
+- Prior PCI's([**Hospital1 756**] and Women??????s)
+- Hypertension
+- Hyperlipidemia
+- Diet controlled diabetes
+- GERD
+- History of Rheumatic fever as a child, Heart murmur
+Past Surgical History
+s/p PPM/AICD [**2109-2-27**]([**Company 1543**] Virtuoso DR)
+s/p Resection of skin cancer on his face
+s/p Back surgery
+s/p Appendectomy
+
+
+Social History:
+Patient is married and lives with his wife.
+Occupation: Recently unable to work. Previously worked in auto
+parts delivery.
+ETOH:  occasional
+Tobacco: Quit in [**2092**], 45+PYH
+
+
+Family History:
+Notable for premature coronary disease on his paternal side.
+Paternal uncles died in their 40's of "heart disease".
+
+
+Physical Exam:
+Physical Exam
+
+Pulse: 94 Resp: 16 O2 sat: 97% RA
+B/P  Right: 86/52   Left: 81/52
+General: Middle ages male in NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x] no JVD
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur - soft SEM
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]
+Edema: none
+Varicosities: None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 1  Left: 1
+Radial       Right: 2  Left: 2
+
+Carotid Bruit        Right: none   Left: possible
+
+
+Pertinent Results:
+[**2110-3-6**] 05:20AM BLOOD WBC-6.8 RBC-3.04* Hgb-10.0* Hct-28.8*
+MCV-95 MCH-32.8* MCHC-34.6 RDW-14.3 Plt Ct-157
+[**2110-3-3**] 04:50PM BLOOD WBC-10.9 RBC-3.86* Hgb-12.2* Hct-35.9*
+MCV-93 MCH-31.7 MCHC-34.1 RDW-14.4 Plt Ct-295
+[**2110-3-4**] 02:08AM BLOOD PT-12.9 PTT-27.3 INR(PT)-1.1
+[**2110-3-6**] 05:20AM BLOOD Glucose-106* UreaN-25* Creat-1.0 Na-137
+K-4.4 Cl-99 HCO3-31 AnGap-11
+[**2110-3-3**] 04:50PM BLOOD Glucose-144* UreaN-26* Creat-1.0 Na-134
+K-4.2 Cl-101 HCO3-25 AnGap-12
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 82485**]Portable TTE
+(Complete) Done [**2110-3-5**] at 3:36:27 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2048-6-29**]
+Age (years): 61 M  Hgt (in): 64
+BP (mm Hg): 85/55  Wgt (lb): 116
+HR (bpm): 92  BSA (m2): 1.55 m2
+Indication: Left ventricular function. Dilated cardiomyopathy.
+ICD-9 Codes: 425.4, 414.8, 424.0, 424.2
+Test Information
+Date/Time: [**2110-3-5**] at 15:36    Interpret MD: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4083**],
+MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name4 (NamePattern1) 1022**] [**Last Name (NamePattern1) **],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: [**Location 13333**]/[**Hospital Ward Name 121**] 6
+Contrast: None Tech Quality: Adequate
+Tape #: 2010W007-1:32 Machine: Vivid [**6-4**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  3.1 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  4.6 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.4 m/s
+Left Atrium - Peak Pulm Vein D:  0.8 m/s
+Right Atrium - Four Chamber Length:  4.3 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *0.5 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.6 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  5.0 cm
+Left Ventricle - Fractional Shortening:  *0.11  >= 0.29
+Left Ventricle - Ejection Fraction:  <= 20%  >= 55%
+Left Ventricle - Stroke Volume:  41 ml/beat
+Left Ventricle - Cardiac Output:  3.75 L/min
+Left Ventricle - Cardiac Index:  2.42  >= 2.0 L/min/M2
+Left Ventricle - Lateral Peak E':  *0.07 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.05 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  12  < 15
+Aorta - Sinus Level:  3.0 cm  <= 3.6 cm
+Aorta - Ascending:  2.4 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.2 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT VTI:  16
+Aortic Valve - LVOT diam:  1.8 cm
+Mitral Valve - E Wave:  0.7 m/sec
+Mitral Valve - A Wave:  0.7 m/sec
+Mitral Valve - E/A ratio:  1.00
+Mitral Valve - E Wave deceleration time:  *92 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *36 to 42 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Normal LA and RA cavity sizes.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. Normal IVC diameter
+(<2.1cm) with <35% decrease during respiration (estimated RA
+pressure indeterminate).
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Severe
+global LV hypokinesis. No LV mass/thrombus. No resting LVOT
+gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size. Focal apical
+hypokinesis of RV free wall.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Normal mitral valve leaflets. Mild to moderate
+([**11-30**]+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Moderate PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Left pleural effusion.
+Conclusions
+The left atrium and right atrium are normal in cavity size. The
+right atrial pressure is indeterminate. Left ventricular wall
+thicknesses and cavity size are normal. There is severe global
+left ventricular hypokinesis (LVEF <20 %). The basal
+inferolateral wall contracts best. No masses or thrombi are seen
+in the left ventricle. Right ventricular chamber size is normal.
+with focal severe hypokinesis of the apical half of the free
+wall. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. No aortic regurgitation is seen.
+The mitral valve leaflets are structurally normal. Mild to
+moderate ([**11-30**]+) mitral regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+IMPRESSION: Severe global left ventricular systolic dysfunction.
+Mild-moderate mitral regurgitation. Moderate pulmonary artery
+systolic hypertension. Right ventricular apical free wall
+hypokinesis.
+
+CLINICAL IMPLICATIONS:
+The left ventricular ejection fraction is <40%, a threshold for
+which the patient may benefit from a beta blocker and an ACE
+inhibotor or [**Last Name (un) **].
+Based on [**2106**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis is NOT recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+  Electronically signed by [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4083**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2110-3-5**] 16:03
+
+
+?????? [**2102**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+[**3-3**] Mr.[**Known lastname **] went to the operating room and underwent left
+epicardial ventricular lead placement for biventricular upgrade
+via 

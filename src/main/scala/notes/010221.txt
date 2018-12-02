@@ -1,0 +1,224 @@
+Admission Date:  [**2169-3-24**]              Discharge Date:   [**2169-4-5**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1257**]
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+Percutaneous gall bladder drain placement
+Thoracentesis
+
+
+History of Present Illness:
+Mr. [**Known lastname 11979**] is a [**Age over 90 **] year-old male with past medical history of of
+diabetes mellitus and hypertension who was admitted on [**3-24**] with
+several days of abdominal and found to have acute cholecystitis
+on ultrasound. He underwent a percutaneous cholecystostomy
+placement on [**3-24**] and was admitted directly to the SICU from IR.
+He was transferred to the floor on [**3-25**] while continuing to
+undergo medical management with antibiotics (levofloxacin and
+augmentin). Post procedure he became confused and was determined
+to be delirious. Geriatrics was consulted and are following.
+.
+The night of [**3-26**] he developed tachycardia and was noted to be in
+atrial flutter with a HR in the 150s. He was given multiple
+doses of IV metoprolol and IV diltiazem with control of his
+heart rate. During this episode his blood pressure remained
+stable. He had been on po metoprolol. He developed tachycardia
+again the morning of [**3-27**] (which was treated with 5 mg IV
+metoprolol) and po diltiazem was also started. Cardiology was
+consulted and recommended increasing his po metoprolol to 12.5
+tid and stopping the diltiazem.
+.
+Currently he is in atrial fibrillation, but rate controlled. He
+denies abdominal pain, chest pain, shortness of breath or other
+symptoms. He denies having had any symptoms when his heart rate
+was fast.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of breath. Denied chest pain
+or tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation. No recent change in bowel or bladder habits. No
+dysuria. Denied arthralgias or myalgias.
+
+Past Medical History:
+Diabetes
+Hypertension
+Legally blind
+Gluacoma
+Cataracts s/p surgery b/l
+s/p left hip arthroplasty
+
+Social History:
+He lives with his daughter. Quit smoking 15 years ago. No
+alcohol or drug use.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+(At time of transfer to medicine service)
+Vitals: T: 96.7 BP: 138/58 P: 66 R: 18 O2: 100% on 3L (had been
+95% on RA earlier in the day)
+General: Elderly male lying in bed in NAD.
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Breathing comfortably. Occasional scattered rhonchi.
+CV: Irregularly irregluar. No MRG.
+Abdomen: +BS, soft NTND. Drain present in his right-mid side.
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: Alert, oriented to hospital, but can't tell me the name.
+Thought it was [**Month (only) 958**], but knew it was [**2168**]. Follows translated
+commands appropriately.
+
+Pertinent Results:
+Abd US [**3-24**]:
+IMPRESSION: Distended gallbladder, gallbladder wall thickening,
+and
+pericholecystic fluid are concerning for acute cholecystitis. No
+definite
+shadowing stone though echogenic GB sludge noted.
+
+MRI abdomen [**3-26**]
+IMPRESSION:
+1. Limited and incomplete study due to lack of patient
+cooperation.
+2. Mild intrahepatic duct dilation without definite extrahepatic
+biliary duct
+dilatation. Evaluation of the mid CBD, as well as the confluence
+of the cystic
+duct and CBD, however, was limited due to the lack of
+visualization of these
+regions, and thus, Mirizzi syndrome cannot be completely
+excluded.
+3. Acute cholecystitis status post percutaneous cholecystostomy
+with
+decreased distention of the gallbladder lumen. Large amount of
+sludge and
+debris seen within the gallbladder and cystic duct.
+4. Moderate amount of perihepatic ascites.
+5. Three hepatic cysts or hemangiomas.
+6. Simple cortical renal cysts bilaterally.
+7. Small right pleural effusion.
+
+CT abd/pelvis [**4-1**]
+1. Post-cholecystostomy tube placement, with two subcapsular
+collections.
+These may represent most likely liquefactive hematoma versus
+biloma,
+superinfection cannot be excluded. The collections are stable
+compared to MRI
+from [**2169-3-26**].
+2. Moderate amount of free fluid.
+3. Multiple other incidental findings including bilateral renal
+cysts,
+tortuous, calcified aorta and its branches, and fluid-filled.
+4. Anasarca of the soft tissues.
+
+CXR [**3-30**]
+IMPRESSION: AP chest compared to [**3-25**] through 10:
+Right lung base elevation has worsened, probably due in large
+part to
+increasing right pleural effusion. Given the history, this is
+concerning for transthoracic spread of infection. Catheter
+tubing which previously traversed the right upper quadrant is
+external today, as it was on [**3-27**].
+Left lower lobe atelectasis is worsened and small left pleural
+effusion is
+unchanged. Heart size is normal. No pneumothorax. [**First Name8 (NamePattern2) 714**]
+[**Last Name (NamePattern1) 1833**] was
+paged.
+
+CXR [**4-4**]
+Aeration at the base of the right lung and the middle and lower
+lobes has
+improved, moderate right pleural effusion persists. Upper lobes
+grossly
+clear. Heart size top normal. No pneumothorax. A tiny left
+pleural effusion is new or newly apparent.
+
+[**2169-3-24**] 8:30 am BLOOD CULTURE      #2.
+
+                            **FINAL REPORT [**2169-3-30**]**
+
+   Blood Culture, Routine (Final [**2169-3-30**]):
+      KLEBSIELLA PNEUMONIAE.    FINAL SENSITIVITIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+[**2169-3-24**] 4:30 pm BILE
+
+                            **FINAL REPORT [**2169-3-28**]**
+
+   GRAM STAIN (Final [**2169-3-24**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   FLUID CULTURE (Final [**2169-3-28**]):
+      KLEBSIELLA PNEUMONIAE.    MODERATE GROWTH.
+      ESCHERICHIA COLI.    MODERATE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------             =>32 R
+AMPICILLIN/SULBACTAM--     8 S     =>32 R
+CEFAZOLIN-------------   <=4 S     =>64 R
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN/TAZO-----     8 S       32 I
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+
+Brief Hospital Course:
+Assessment and Plan:
+[**Age over 90 **] year-old male with pmh of DM and htn admitted with acute
+cholecystitis s/p a percutaneous cholecystostomy whose hospital
+course has been complicated by Klebsiella bacteremia, a
+parapneumonic effusion new atrial flutter with RVR, delirium,
+and a persistent leukocytosis which improved with antibiotics.
+.
+# Acute cholecystitis: Patient found to have acute cholecystitis
+and treated with cholecystostomy tube placement. Bile fluid grew
+out Klebsiella and E.Coli and it was complicated by Klebsiella
+bacteremia (positive BCx on [**3-24**]) with all surveillance cultures
+negative since: Patient was treated initially with broad
+spectrum antibiotics (vanc/levofloxacin/zosyn) and then switched
+to PO levofloxacin/augmentin on [**4-3**] and remained afebrile on PO
+antibiotics. LFTs and bili normalized by discharge. Repeat CT
+abd showed possible bilioma which was unchanged in s

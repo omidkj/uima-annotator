@@ -1,0 +1,282 @@
+Admission Date:  [**2192-8-24**]              Discharge Date:   [**2192-9-7**]
+
+Date of Birth:  [**2125-3-15**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5790**]
+Chief Complaint:
+slowly increasing right upper lobe nodule
+
+Major Surgical or Invasive Procedure:
+bronchoscopy,  videoassisted thoracoscopy, right thoractomy  for
+lung mass, nonsmall cell lung cancer wedge resection, and right
+upper lobectomy and several bronchoscopies post-op
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 67-year-old gentleman who has a history of CNS
+lymphoma and also is status post a right thoractomy with biopsy
+of pleaural mass and lung nodule, the pathology of which
+revealed a nonnecrotizing granulomas. Since that time, he has
+been followed with serial CT scans following the discovery of
+the right upper lobe nodule after a bout of pnuemonia.  In
+addition he has been followed for bronchiectasis, most
+prominently noted in the left lung.  The right upper lobe nodule
+in retrospect has been present since [**2190-10-22**] and it was found
+to have a increasing in size.  So he presents for diagnosis and
+possible treatment with lobectomy.
+
+Past Medical History:
+1. CNS lymphoma - followed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 724**]
+-Dx'd by biopsy on [**2188-6-4**] - B-cell CD20+ CNS lymphoma
+-Tx'd w/methotrexate high dose IV and intrathecal
+-Relapse [**8-11**] tx'd w/induction Rituxan and temozolomide
+immunotherapy
+-Completed 12 cycles of maintenance temozolomide chemotherapy
+[**8-13**]
+2. Polymyalgia rheumatica
+3. Stage I seminoma in the right testicle treated with
+orchiectomy and
+ irradiation in [**2159**]
+4. Waldenstrom's macroglobulinemia - per notes stable. His serum
+IgM
+ from [**2191-2-17**] was 432 (range 20-230). + hypogammaglobulinemia
+5. Squamous Cell Carcinoma of the Skin: followed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1022**]
+   s/p electron-beam irradiation for squamous cell carcinoma to
+   his right neck and mid-back from [**2190-12-28**] to [**2191-1-27**].
+6. Bronchiectasis and Granulomatous Lung Mass: [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) 217**], M.D.
+7. Neurocognitive Dysfunction: Stable on Ritalin LA and Namenda.
+
+8. Low Testosterone on adrogel
+9. S/p DVT, IVC placement on lovenox therapy
+10. Bovine atrial valve replacement 3 yrs ago at [**Hospital1 112**]
+
+Social History:
+Patient lives with his wife and son. [**Name (NI) **] manages auto dealership.
+He has >60 pkyr smoking history, quit 20 yrs ago.  He ~30yrs ago
+he previously was a heavy drinker but now drinks one to two
+alcoholic drinks a month.  He denies illicit drug use. His only
+exposure history is that related to radiation that he had for
+his squamous cell and seminoma.
+
+
+Family History:
+Father died of colon cancer at the age of 80. Mother died of CVA
+at the age of 94. No family history of lung cancer.
+
+Physical Exam:
+VITAL SIGNS: Temperature 99.9, pulse 88, blood pressure 96/36,
+respiratory rate 18, and oxygen saturation 93% on room air.
+GENERAL: Well-nourished, well-developed gentleman, in no
+apparent distress.
+LUNGS: Clear to auscultation bilaterally.
+HEART: Regular rate and rhythm.
+ABDOMEN: Soft, nontender, and nondistended.
+EXTREMITIES: No clubbing, cyanosis, or edema.
+
+
+Pertinent Results:
+[**2192-8-24**] 10:35 am TISSUE      RT UPPER LOBE.
+
+   GRAM STAIN (Final [**2192-8-24**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   TISSUE (Final [**2192-8-27**]):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Final [**2192-8-30**]):    NO GROWTH.
+
+   ACID FAST SMEAR (Final [**2192-8-25**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+
+   ACID FAST CULTURE (Pending):
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+Pathology Examination
+
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 42688**],[**Known firstname **] T       [**2125-3-15**]    67 Male      [**-5/3646**] [**Numeric Identifier 42689**]
+
+Report to:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1533**]
+Gross Description by:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/dif
+
+
+
+SPECIMEN SUBMITTED: RIGHT UPPER LOBE WEDGE (6).
+
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2192-8-24**] [**2192-8-24**] [**2192-8-29**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/lo??????
+Previous biopsies:    [**-5/3106**]  COLONOSCOPY (1).
+  [**-4/3743**]  SKIN LT EYEBROW
+  [**-3/4189**]  MID BACK SKIN EXC.
+  [**-3/3816**]  RIGHT NECK SHAVE.
+(and more)
+
+DIAGNOSIS:
+
+
+
+1.  Lung, right upper lobe, wedge resection (A-C):
+
+
+
+     A.  Squamous cell carcinoma, well-differentiated. See
+synoptic report.
+
+     B.  Focal calcification.
+
+
+
+2.  Lymph node, level 10, biopsy (D):
+
+
+
+     One lymph node, no malignancy identified.
+
+
+
+3.  Lymph node, level 12, biopsy (E):
+
+
+
+     Two lymph nodes, no malignancy identified.
+
+
+
+4.  Lung, right upper lobe, lobectomy (F-K):
+
+
+
+     A.  No residual carcinoma seen.
+
+     B.  Fibrosis and focal ossification of lung parenchyma.
+
+     C.  Atelectasis and alveolar hemorrhage, likely related to
+procedure.
+
+
+
+5.  Lymph node, level 4 R, biopsy (L-M):
+
+
+
+     Four lymph nodes, no malignancy identified.
+
+
+
+6.  Lymph node, level 7, biopsy (N):
+
+
+
+     Five lymph nodes, no malignancy identified.
+
+
+
+Lung Cancer Synopsis
+
+
+MACROSCOPIC
+
+Specimen Type:  Wedge resection. Lobectomy.
+
+Laterality:  Right.
+
+Tumor Site:  Upper lobe.
+
+Tumor Size
+    Greatest dimension:  1.0 cm.
+
+MICROSCOPIC
+
+Histologic Type:  Squamous cell carcinoma.
+
+Histologic Grade:  G1:  Well differentiated.
+
+EXTENT OF INVASION
+
+Primary Tumor:  pT1:  Tumor 3 cm or less in greatest dimension,
+surrounded by lung or visceral pleura, without bronchoscopic
+evidence of invasion more proximal than the lobar bronchus (ie,
+not in the main bronchus).
+
+
+    Location:   Level 10.
+    Number examined:  1.
+    Number involved:  0.
+
+
+    Location:   Level 12.
+    Number examined:  2.
+    Number involved:  0.
+
+
+
+    Location:   Level 4R.
+    Number examined: 4.
+    Number involved:  0.
+
+
+
+   Location:   Level 7.
+    Number examined: 5.
+    Number involved:  0.
+
+
+Regional Lymph Nodes:  pN0:  No regional lymph node metastasis.
+
+Distant metastasis:  pMX:  Cannot be assessed.
+
+Margins:
+    Margins uninvolved by invasive carcinoma:
+        Distance from closest margin:  40 mm.  Specified margin:
+bronchial margin
+
+Direct extension of tumor:  None.
+
+Venous invasion (V):  Absent.
+
+
+Clinical:  right upper lung lobe nodule.
+
+Gross:
+
+Part 1 is received fresh labeled with "[**Known firstname **] [**Known lastname **]" and the
+medical record number and "right upper lobe wedge" and consists
+of a 5.5 x 2.0 x 1.2 cm wedge of lung with a red and smooth
+pleura. The specimen is sectioned to reveal a nodule measuring
+up to 1 cm with a red maroon cut surface. A portion of the
+nodule is frozen, and frozen section diagnosis by Dr. [**Last Name (STitle) **]
+is "non small cell, favor squamous process." The frozen section
+remnant is entirely submitted in A and the remainder of the
+specimen with the exception of the stapled parenchyma is
+entirely submitted in B-C.
+
+
+
+Part 2 is additionally labeled "level 10" and consists of a
+single lymph node measuring up to 1.8 cm entirely submitted in
+cassette D
+
+
+
+Part 3 is additionally labeled "level 12" and consists of an
+aggregate of tan-brown and focally anthracotic lymph nodes
+measuring 1.5 x 1.0 x 0.5 cm entirely submitted in cassette E.
+
+
+
+Part 4 is additionally labeled "right upper lobe" and consist of
+a lobe of lung measuring 13 x 10 x 4 cm. There are multiple
+suture and staple lines identified, representing the site of
+prior biopsy. The pleural surface is predominantly smooth, with
+no areas of puckering identified. The pleural surface is inked
+black and the specimen is bread-loafed to reveal a hemorrhagic
+appearing lung parenchyma, without discrete lesions identified.
+The bronchus resection margin is frozen and frozen section
+diagnosis by Dr. [**Last Name (STitle) 9885**] is: "Bronc

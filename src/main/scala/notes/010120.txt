@@ -1,0 +1,226 @@
+Admission Date:  [**2176-1-4**]              Discharge Date:   [**2176-1-7**]
+
+Date of Birth:  [**2106-8-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+COB, cough, lung cancer with obstruction
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+69 yo male with extensive smoking history, recurrent squamous
+cell lung cancer with hx of LLL lobectomy in the past, many
+hospitalizations for COPD flares (2 L home O2 baseline), with hx
+of intubations in the past, now presents in transfer from [**Hospital1 **] for palliative radiation therapy of recurrence of
+squamous cell lung cancer with RLL mass with bronchial
+obstruction, and SOB.  He had presented to [**Hospital3 **] with
+hypercarbic respiratory failure requiring CPAP.
+
+He was treated with Vancomycin and Pip/Tazo epirically, however
+this was later discontinued after bronchoscopy as
+post-obstructive pneumonia was thought less likely.
+
+He underwent bronchoscopy on [**2176-1-2**] which revealed the RLL
+mass obstructing the bronchus.  Biopsy was taken and revealed
+moderately differentiated squamous cell carcinoma.
+
+Pt currently denies subjective SOB at rest, but admits to
+significant dyspnea with minimal exertion.  +cough, moderately
+productive white sputum.  States breathing worse with lying
+down.  Has had difficulty with urination, with difficulty
+starting and maintaining stream, and some burning with the
+effort.
+
+ROS:
++: as above. Occas diarrhea.
+.
+Denies:
+fever, chills/rigors, night sweats, anorexia, chest pain,
+palpitations, LE edema, hemoptysis, nausea, vomiting, abdominal
+pain, abdominal swelling,  constipation, hematemesis,
+hematochezia, melena.  ROS otherwise negative.
+
+Past Medical History:
+# Lung cancer, squamous cell carcinoma, s/p Left lower lobe
+lobectomy
+# History Etoh abuse
+# COPD, with hx CO2 retention requiring ICU admission; 2L home
+O2
+# CHF; EF [**1-30**] 50-55%, diastolic dysfunction, central
+hypertrophy, PE pressure approx 50 mmHg
+# BPH
+# Hx positive PPD since [**2149**]
+# Hx syncope, ?vasovagal
+# Prevertebral mass of unclear etiology
+# Neurosyphillis in [**2-27**], treated with IVP
+
+
+Social History:
+Lives in a nursing home with his wife.
+[**Name (NI) 1139**]: 60 [**Name2 (NI) 1686**] x [**1-24**] ppd; now 1 pk/2-3 days
+ETOH: quit x 3 [**Month/Day (3) 1686**]
+Illicits: denies
+
+Family History:
+Denies any family history of significant illnesses.  Parents
+were healthy.
+
+Physical Exam:
+VS: 97.8  131/80  84  28  95% 3L
+GEN: AAOx3. Mildly SOB, able to speak full sentences. Cachectic.
+HEENT: eomi, perrl, MMM.
+Neck:  No cervical/supraclavicular LAD.
+RESP:  Coarse central BS B.  Decreased BS on R lower lung
+fields.  Scattered wheezes. Able to speak full sentences, with
+minimal difficulty.
+CV:  RRR. No mrg.
+ABD:  +BS. Soft, NT/ND.
+Ext:  No CEE. notable flapping and myoclonus on exam.
+Neuro:  CN 2-12 grossly intact.
+
+Pertinent Results:
+Discharge Labs OSH:
+WBC 8.8  HCT 29.6  PLT 235
+Na 140  K 5.3  Cl 98  CO2 38  BUN 21  Cr 1.4  Glu 79
+Ca 8.6
+
+Blood Gas
+BLOOD GASES            Type            pO2  pCO2 pH calTCO2 Base
+XS Intubat Comment
+[**2176-1-6**] 09:18AM    ART             80* 83*1 7.35 48*2 15
+
+[**2176-1-5**] 11:41AM    ART 37.1        67* 85*3 7.34* 48*3 15
+[**2176-1-5**] 01:37AM    ART             71* 91*6 7.31* 48*6 14
+
+[**2176-1-5**] 12:13AM    ART             136* 101*1 7.27* 48*1 14
+
+.
+Chemistries            Glu BUN Cre Na  K+  Cl- HCO3
+[**2176-1-7**] 12:38PM                138 5.0 94*
+[**2176-1-7**] 05:09AM    88   15 1.1 138 5.2* 93* 42*2
+[**2176-1-6**] 04:44AM    69*1 16 1.0 137 5.1 95* 37*
+[**2176-1-5**] 06:33PM    143*1 17 1.1 138 4.5 96 40*
+[**2176-1-5**] 09:09AM    67*1 16 1.0 143 5.1 99 39*
+[**2176-1-4**] 08:40PM    98   16 1.1 141 5.1 99 40*
+.
+COMPLETE BLOOD COUNT   WBC RBC   Hgb  Hct   MCV MCH MCHC RDW
+Plt Ct
+[**2176-1-7**] 05:09AM    7.6 3.21* 8.8* 30.5* 95 27.3 28.7* 15.0
+262
+[**2176-1-6**] 04:44AM    7.9 3.13* 8.7* 30.3* 97 27.7 28.7* 15.1
+241
+[**2176-1-5**] 09:09AM    7.4 3.06* 8.5* 29.2* 96 27.9 29.2* 15.2
+226
+[**2176-1-4**] 08:40PM    8.1 3.05* 8.6* 29.4* 96 28.0 29.1* 15.1
+250
+.
+
+
+Brief Hospital Course:
+69 yo male with hx of severe COPD with hx of hospitalizations
+requiring intubations in the past, squamous cell lung cancer
+with hx of LLL lobectomy, presents in transfer from [**Hospital1 **] s/p episode of hypercarbic respiratory failure.
+Complete records from [**Hospital1 **] are not currently available,
+however, it appears that during that hospitalization an ABG
+revealed pCO2 of 95, although it is not clear if that was his
+peak.  He does require BiPAP at night with settings [**11-24**] with 14
+backup rate, and 30% FIO2 to maintain O2 sat between 88 and 92%.
+ During that hospitalization, he was treated with CPAP and
+underwent bronchoscopy for concern of RLL collapse which
+revealed mass obstructing the bronchus, and was confirmed to
+have recurrence of squamous cell cancer.  Patient was
+transferred to [**Hospital1 18**] for radiation therapy per recommendations
+of their pulmonary consult, despite requesting transfer to [**Hospital1 112**]
+where his oncologist is.
+.
+# Severe COPD, CO2 retention
+Floor course unclear, however patient was initially admitted to
+the floor, where BIPAP was not started.  Overnight [**Hospital Unit Name 153**] staff
+was called to take the patient to the unit, secondary to
+elevated CO2 and evidence of CO2 narcosis.  Patient was taken to
+the [**Hospital Unit Name 153**] where he was placed on standing nebs, and he was placed
+on BIPAP.  While on nighttime bipap his mental status improved,
+he began speaking coherently and became A+Ox3.  On exam some
+evidence of CO2 toxicity persists.  As definitive treatment of
+this issue would be relief of dead space via XRT of his
+obstructing SCC, and because his oncological care is at the
+[**Hospital1 84145**] transfer to [**Hospital1 112**] for initiation of XRT was undertaken.
+.
+Plan going forward:
+- Transfer to [**Hospital1 112**] for XRT
+- Continue NEBS
+- Continue BIPAP at 12/5 with 14 backup rate, and 30% FIO2 to
+maintain O2 sat between 88 and 92%
+.
+# Squamous cell cancer, with RLL mass/RLL collapse
+Bronchoscopically evaluated at [**Hospital1 **], found to have SCC
+obstructing bronchus intermedius.
+.
+Plan going forward
+-Transfer to [**Hospital1 756**] for continuity of care
+-XRT as above
+.
+# BPH with hx of retention
+- We continued his flomax
+.
+# Hx of dCHF (EF 50-55%)
+- Per records, pt no longer on betablocker, diuretics, or other
+cardiac medications, he never displayed signs of volume
+overload.
+.
+FEN: Cardiac diet
+CODE: DNR/DNI - confirmed by [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) **]
+PPX: Heparin SQ, ppi
+
+
+Medications on Admission:
+Spiriva 1 INH q Day
+Heparin 5000 units SQ TID
+Folic acid 1 mg po q day
+Colace 100 mg po bid
+tylenol 650 mg po q 4hr prn
+Mucinex 1200 mg po BID
+Albuterol nebs 1 4hr
+Protonix 40 mg po qday
+Flomax 0.4 mg po q day
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+2. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+4. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed for cough.
+5. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for fever or pain.
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as
+needed for wheezing.
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for wheezing.
+10. Budesonide 0.5 mg/2 mL Suspension for Nebulization Sig: Two
+(2) puffs Inhalation twice a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Primary:
+1. Recurrent SCC status post LLL lobectomy.
+2. COPD with CO2 narcosis requiring

@@ -1,0 +1,210 @@
+Admission Date:  [**2185-5-20**]              Discharge Date:   [**2185-5-30**]
+
+Date of Birth:  [**2114-1-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+transfer from [**Hospital1 **] for hypotension and pneumonia and COPD
+
+Major Surgical or Invasive Procedure:
+Arterial line (left hand)
+Left subclavian line
+PICC line placement
+
+
+History of Present Illness:
+71M with hx COPD, respiratory failure s/p trach, transferred for
+hypotension, new infiltrate, sepsis. Came from [**Location (un) 47**] ICU
+with COPD flare when he was trached and peg'd. Pt transferred to
+[**Hospital3 105**] for vent weaning and has been off ventilator
+support for the last 3 days. He had his trach downsized to size
+6 and he was speaking with a Passy-Muir valve. Yesterday he had
+a barium swallow. Barium swallow showed severe aspiration with
+pudding, ineffective cough/clearance. No witnessed aspiration
+event. This am pt had respiratory distress (desat) and was
+placed back on the vent, became hypotensive. CVL (R fem) line
+placed and pt started on levophed and dopamine. Received ceftaz,
+clindamycin and vancomycin, 100mg hydrocortisone. CXR showed
+large L infiltrate.
+.
+ROS: Unable to obtain [**1-20**] poor mental status
+
+
+Past Medical History:
+s/p ablation for dysrhythmia (per family)
+end stage COPD
+size 6 trach
+
+
+Social History:
+Unknown
+
+Family History:
+Noncontributory
+
+Physical Exam:
+VS: 99.8 BP 71/45 HR 100 R 20 99%
+AC 16 X 450 P5, FiO2 50% Ppeak 36
+Gen: intubated, arouseable, but does not answer questions, not
+sedated
+HEENT: EOMI, PERRL
+Neck: no LAD
+Chest: decreased BS L side, expiratory wheezes throughout
+CV: tachy, RRR, s1 s2 present, no mrg
+Abd: soft, NT, ND +BS
+Ext: no edema, no rash, R fem line in place
+Neuro: moves all 4. A&O X 0.
+
+
+Pertinent Results:
+Labs: From OSH, [**5-20**] notable for Cr 1.3, gap 1. WBC 3.0, Hct
+36.4. plt clumped. ABG [**5-19**] 7.51/49/45
+.
+Studies:
+[**5-20**] CXR (OSH): Process predominantly in perihilar region on the
+L side and L upper lobe with suspected patchy diffuse infiltrate
+through the L lower lobe.
+
+Brief Hospital Course:
+Mr. [**Known lastname 67436**] is a 71M with endstage COPD s/p trach who was
+transferred from [**Hospital **] Rehab with likely aspiration PNA and
+sepsis. He arrived to the [**Hospital Unit Name 153**] in a very tenuous condition while
+on 2 pressors. He was noted to be in hypoxic and hypercarbic
+respiratory failure (hypoxic and hypercarbic), likely secondary
+to endstage COPD coupled with aspiration pneumonia. He was
+initially ventilated on AC mode via his trach. He was also noted
+to be in septic shock and was significantly hypotensive (60/30s)
+on 2 pressors on arrival to [**Hospital Unit Name 153**]. He was started on IVF, stress
+dose steroids, and a 3 pressor regimen with Dopamine, Levophed
+and Vasopressin. His blood pressure stabilized on this regimen.
+.
+He was broadly covered with Vanc, Ceftazidime and Clindamycin at
+the rehab. In the [**Hospital Unit Name 153**] he was transitioned to Zosyn, Levoflox
+and Vanc. and maintained on a sepsis protocol. He was given
+Albuterol MDI, Atrovent MDI and Flovent for COPD exacerbation.
+His sputum cultures were significant for Ecoli (S to Zosyn) and
+P. aeruginosa. His Levoflox and Vanc were discontinued.
+.
+Mr. [**Known lastname 67436**] has a gradual improvement in his ventilation status
+status during the hospitalization. He was noted to have an
+APACHE score of >25 for which he was started on 96h of Xigris.
+His sedation was eventually weaned off and his blood gases
+improved.  His blood pressure remained stable off of pressors.
+He did become hypernatremic with a sodium which peaked at 150.
+This resolved with the addition of free water boluses to his
+tube feedings.
+.
+Transitioned to PS vent. Pressors weaned off o/n b/w [**5-24**]- [**5-25**].
+Had a trach mask trial on [**5-25**], which he failed.  He was noted to
+be sig vol overloaded but he started autodiuresing as his vent
+settings were weaned down.  His respiratory status improved and
+he tolerated longer and longer periods on the trach mask.  His
+antibiotics were converted to Zosyn 4.5g IV q8 once his blood
+and sputum cultures grew sensitive E.Coli.  Due to his
+bacteremia, he was to continue a course of 14 days for his
+aspiration PNA with E.coli bacteremia (day#11 on discharge -
+last dose [**2185-6-2**]).  Prior to discharge, patient was able to
+complete wean from the vent and remained on a 50% trach mask.
+.
+Patient was transferred to his prior rehab hospital to continue
+with trach management as well as to complete a 2 week course of
+ABx.  Pt is to remain on tube feedings as he represents a
+permanent swallow risk as evaluated by S&S.
+
+Medications on Admission:
+Lidocaine jelly around trach
+ativan 1mg q2h prn
+tylenol 650 mg 4-6h prn
+dulcolax 10 mg qd prn
+morphine 1-2 mg SQ q1h prn
+albuterol MDI q2h prn
+duoneb QID prn
+clindamycin 600 mg q8 IV (started [**5-16**])
+colace 100 mg PO BID
+Protonix 40 mg PO qD
+Free H2o 250 ml q6 hr
+Promod TF
+Novasource Renal 30 mg TID
+Fragmin [**Numeric Identifier 16351**] SQ daily
+combivent 4p q4hr
+prednisone 60 mg daily
+Ceftaz
+Vanc
+
+Discharge Medications:
+1. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: 4.5 gram Recon
+Solns Intravenous  Q8H (every 8 hours) for 3 days: Last doses on
+[**2185-6-2**]).
+[**Date Range **]:*qs Recon Soln(s)* Refills:*0*
+2. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Eight
+(8) Puff Inhalation every six (6) hours.
+[**Date Range **]:*qs inhalations* Refills:*0*
+3. Fluticasone 110 mcg/Actuation Aerosol Sig: Four (4) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+[**Hospital1 **]:*qs inhalation* Refills:*2*
+4. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: 0.5 Tablet, Rapid
+Dissolve PO BID (2 times a day) as needed for anxiety.
+[**Hospital1 **]:*60 Tablet, Rapid Dissolve(s)* Refills:*0*
+5. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+[**Hospital1 **]:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day): Please give through G-tube.
+[**Hospital1 **]:*60 Capsule(s)* Refills:*2*
+7. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day).
+[**Hospital1 **]:*qs units* Refills:*2*
+8. Insulin Regular Human 100 unit/mL Solution Sig: as per scale
+below units Injection three times a day: Check BS qid:
+For BS 150-200, give 2 units. For 200-250, give 4 units.  For
+250-300, give 6 units. For 300-350, give 8 units. For 350-400,
+give 10 units. For >400, give 12 units and call doctor.
+[**Last Name (Titles) **]:*qs units* Refills:*2*
+9. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day:
+Hold for SBP<100.
+10. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig:
+Thirty (30) mg PO once a day.
+11. Prednisone 5 mg Tablet Sig: as directed Tablet PO once a day
+for 3 days: [**2185-5-31**]: 10mg
+[**2185-6-1**]: 5mg
+[**2185-6-2**]: 5mg
+[**2185-6-3**]: off. .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 8629**]
+
+Discharge Diagnosis:
+Septic shock due to aspiration pneumonia
+E.Coli bacteremia from aspiration pneumonia
+COPD flare
+Pancreatitis
+
+
+Discharge Condition:
+stable to be discharged to rehab
+
+
+Discharge Instructions:
+Please take medications as outlined below.
+.
+If you develop fever, respiratory distress, difficulty
+oxygenating on the venilator, vomiting, or any other concerning
+symptoms, seek medical attention immediately.
+
+
+Followup Instructions:
+Please follow up with your doctor at the rehab as needed.
+
+
+
+Completed by:[**2185-5-30**]

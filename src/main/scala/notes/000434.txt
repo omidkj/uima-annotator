@@ -1,0 +1,200 @@
+Admission Date:  [**2182-5-20**]              Discharge Date:   [**2182-5-30**]
+
+Date of Birth:  [**2119-6-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lasix / Betalactams / Haldol / Ceftriaxone
+
+Attending:[**First Name3 (LF) 10370**]
+Chief Complaint:
+Tachypnea, hypoxia
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+61 yo Russian-speaking man w/anoxic brain injury and with hx of
+
+DMI, s/p cadaveric kidney transplant([**2175**]), h/o CVA and chronic
+
+aspiration (multiple admissions for aspiration PNA - last [**3-19**]),
+
+CABG in [**2170**], widespread tracheomalacia with trach stent, and
+recent admission to the ICU from [**Date range (2) 21579**] for PNA, stent
+removal and tracheostomy.  He was treated for aspiration PNA
+with Vanc, Levo, Flagyl and then switched to Cefepime and
+Azithro to complete a 10 day course.  He was also given Cipro x
+7 days for a UTI.  He was discharged with a dobhoff feeding tube
+and on tube feeds.  He was found today at rehab to be hypoxic to
+the mid-80s. Suction was attempted but did not show improvement
+and he was sent to [**Hospital1 18**] ED.
+.
+In the ED, initial vs were: T100.4 HR102 BP163/93 RR24 O2sat96.
+Patient was given Vanc, Cefepime, Azithro and Solumedrol 125mg
+IV x 1.  He was given Kayexalate PR for potassium of 5.7 and
+aspirin for troponin of 0.62.  He was seen by IP due to possible
+air leak as he was pulling tidal volumes of 200.  The plan was
+to replace his trach once in the ICU.
+.
+On the floor, he appears comfortable, unable to answer
+questions, not following commands.
+
+
+Past Medical History:
+- Cadaveric renal transplant in [**2175**]
+- CVA-residual right hemiparesis
+- DM Type I
+- HTN
+- Hx non-QMI and Vfib arrest [**2169**] with anoxic brain injury
+- CAD/CABG [**2170**]
+- Swallow study-showed silent aspiration
+- hx of aspiration pneumonia
+- tracheomalacia after long intubation requiring trach stent and
+button complicated by site cellulitis and granulation tissue
+requiring cryoptherapy.
+
+
+Social History:
+Lives with wife. Former endocrinologist in [**Country 532**]. Has homemaker
+who comes in 5 times a week. Has 3 daughters who visit him.
+
+
+Family History:
+No history of lung disease
+
+
+Physical Exam:
+General: Awake, in no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Course breath sounds bilaterally, left sided rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: + foley with brown sediment
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+TRANSTHORACIC ECHO:
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. There is moderate regional left ventricular systolic
+dysfunction with inferior/inferolateral akinesis/hypokinesis and
+apical septal akinesis/dyskinesis. Right ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+(3) are mildly thickened. There is no aortic valve stenosis. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild (1+) mitral regurgitation is seen. There
+is a trivial/physiologic pericardial effusion.
+.
+Compared with the prior study (images reviewed) of [**2181-11-16**],
+left ventricular sysotlic function is now more significantly
+impaired. Focal apical septal hypokinesis was present
+previously. Inferolateral /inferior akinesis is new (there may
+have mild inferior hypokinesis previously).
+.
+.
+CXR:
+BEDSIDE FRONTAL RADIOGRAPH OF THE CHEST: Bilateral airspace
+opacities which are more confluent in the left lung, worrisome
+for pneumonia. Distended azygous contour, could represent volume
+overload with part of the RUL opacity representing early edema.
+There is no pleural effusion or pneumothorax. Heart size is
+normal. Median sternotomy wire and mediastinal clips from prior
+CABG are present. Tracheostomy tube is in standard location with
+the tip terminating 3 cm above the carina.
+.
+IMPRESSION: Multifocal pneumonia with mild volume overload.
+.
+.
+
+[**2182-5-20**] 05:35AM BLOOD cTropnT-0.62*
+[**2182-5-20**] 02:40PM BLOOD CK-MB-23* MB Indx-6.7* cTropnT-1.47*
+proBNP-[**Numeric Identifier 21580**]*
+[**2182-5-20**] 11:01PM BLOOD CK-MB-14* MB Indx-5.1 cTropnT-1.70*
+[**2182-5-21**] 04:36AM BLOOD CK-MB-12* MB Indx-4.7 cTropnT-1.79*
+[**2182-5-21**] 01:59PM BLOOD CK-MB-7 cTropnT-1.36*
+[**2182-5-20**] 05:35AM BLOOD Glucose-415* UreaN-65* Creat-2.4* Na-146*
+K-5.7* Cl-106 HCO3-21* AnGap-25*
+[**2182-5-20**] 02:40PM BLOOD Glucose-405* UreaN-75* Creat-2.7* Na-146*
+K-4.9 Cl-111* HCO3-23 AnGap-17
+[**2182-5-20**] 11:01PM BLOOD Glucose-170* UreaN-68* Creat-2.4* Na-149*
+K-4.9 Cl-115* HCO3-23 AnGap-16
+[**2182-5-21**] 04:36AM BLOOD Glucose-66* UreaN-67* Creat-2.2* Na-151*
+K-4.7 Cl-117* HCO3-23 AnGap-16
+[**2182-5-24**] 05:38AM BLOOD Glucose-98 UreaN-36* Creat-1.1 Na-144
+K-3.8 Cl-107 HCO3-31 AnGap-10
+[**2182-5-20**] 02:40PM BLOOD CK(CPK)-345*
+[**2182-5-20**] 11:01PM BLOOD CK(CPK)-277
+[**2182-5-21**] 04:36AM BLOOD CK(CPK)-254
+[**2182-5-23**] 05:27AM BLOOD CK(CPK)-70
+[**2182-5-20**] 05:35AM BLOOD tacroFK-14.6
+[**2182-5-21**] 04:36AM BLOOD tacroFK-5.4
+[**2182-5-23**] 05:27AM BLOOD tacroFK-7.2
+[**2182-5-24**] 05:38AM BLOOD tacroFK-4.9*
+[**2182-5-30**] 06:09AM BLOOD WBC-4.5 RBC-3.87* Hgb-9.9* Hct-30.9*
+MCV-80* MCH-25.7* MCHC-32.2 RDW-17.2* Plt Ct-249
+[**2182-5-30**] 06:09AM BLOOD Glucose-290* UreaN-30* Creat-1.1 Na-145
+K-4.7 Cl-108 HCO3-30 AnGap-12
+[**2182-5-27**] 07:38PM BLOOD ALT-23 AST-19 LD(LDH)-231 CK(CPK)-33*
+AlkPhos-58 TotBili-0.4
+[**2182-5-28**] 05:50AM BLOOD CK-MB-NotDone cTropnT-1.05*
+[**2182-5-25**] 08:45AM BLOOD CK-MB-NotDone cTropnT-1.81*
+[**2182-5-23**] 05:27AM BLOOD CK-MB-NotDone cTropnT-1.58*
+[**2182-5-22**] 04:03AM BLOOD CK-MB-5 cTropnT-1.35*
+[**2182-5-21**] 01:59PM BLOOD CK-MB-7 cTropnT-1.36*
+[**2182-5-21**] 04:36AM BLOOD CK-MB-12* MB Indx-4.7 cTropnT-1.79*
+[**2182-5-20**] 02:40PM BLOOD CK-MB-23* MB Indx-6.7* cTropnT-1.47*
+proBNP-[**Numeric Identifier 21580**]*
+[**2182-5-20**] 05:35AM BLOOD cTropnT-0.62*
+[**2182-5-30**] 06:09AM BLOOD Calcium-8.8 Phos-3.1 Mg-1.9
+[**2182-5-23**] 05:27AM BLOOD Triglyc-114 HDL-55 CHOL/HD-2.8 LDLcalc-76
+[**2182-5-28**] 02:36PM URINE Color-Yellow Appear-SlHazy Sp [**Last Name (un) **]-1.015
+[**2182-5-28**] 02:36PM URINE Blood-LG Nitrite-NEG Protein-30
+Glucose->1000 Ketone-NEG Bilirub-NEG Urobiln-0.2 pH-6.0 Leuks-TR
+[**2182-5-28**] 02:36PM URINE RBC->50 WBC-[**4-12**] Bacteri-FEW Yeast-FEW
+Epi-0-2
+
+MICRO:
+[**2182-5-29**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2182-5-28**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2182-5-28**] URINE URINE CULTURE-FINAL {YEAST} INPATIENT
+[**2182-5-22**] BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2182-5-22**] CATHETER TIP-IV WOUND CULTURE-FINAL
+INPATIENT
+[**2182-5-20**] URINE Legionella Urinary Antigen -FINAL
+INPATIENT
+[**2182-5-20**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-FINAL; FUNGAL CULTURE-PRELIMINARY {YEAST} INPATIENT
+[**2182-5-20**] MRSA SCREEN MRSA SCREEN-FINAL INPATIENT
+[**2182-5-20**] URINE URINE CULTURE-FINAL {ESCHERICHIA COLI}
+EMERGENCY [**Hospital1 **]
+[**2182-5-20**] BLOOD CULTURE Blood Culture, Routine-FINAL
+{STAPHYLOCOCCUS, COAGULASE NEGATIVE}; Aerobic Bottle Gram
+Stain-FINAL EMERGENCY [**Hospital1 **]
+[**2182-5-20**] BLOOD CULTURE Blood Culture, Routine-FINAL
+EMERGENCY [**Hospital1 **]
+
+
+Radiology Report CT HEAD W/O CONTRAST Study Date of [**2182-5-27**]
+
+
+FINDINGS: Despite repeated image acquisition, the study is
+limited by patient motion. Hyperdensity projecting over the left
+inferolateral frontal lobe (3:20) is likely a bone-related
+artifact in the setting of motion. Otherwise, there is no
+evidence of acute intracranial hemorrhage, mass effect, edema or
+major vascular territorial infarct. The prominent ventricles and
+sulci are unchanged in size or configuration. There is no shift
+of normally midline structures. Moderate periventricular and
+subcortical white matter hypodensities are compatible with known
+chronic microvascular ischemic disease. Lacunar infarct

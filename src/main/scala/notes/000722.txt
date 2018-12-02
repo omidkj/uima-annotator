@@ -1,0 +1,179 @@
+Admission Date:  [**2186-9-3**]              Discharge Date:   [**2186-9-8**]
+
+Date of Birth:  [**2142-12-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Demerol
+
+Attending:[**First Name3 (LF) 1145**]
+Chief Complaint:
+cardiac arrest
+
+Major Surgical or Invasive Procedure:
+Pacemaker/ICD generator change [**2186-9-5**]
+
+
+History of Present Illness:
+42 yo M CAD s/p MI '[**78**] (tx with TPA with rescue PCI of p LAD),
+no significant dz on cath in '[**84**], ESRD on HD, former smoker, h/o
+recent tunnelled HD line sepsis (pulled 2 weeks ago, on vanco at
+HD since) p/w n/v and respiratory distress. Found by EMS to be
+bradycardic HR 50 with agonal respirations at a rate of 4/min,
+then became pulseless with wide complex irregular rhythym,
+shocked 3 times, unclear number of shocks delivered by patients
+own device, pulse regained, but with wide complex rhythym.
+Intubated in the field. Self extubated en route to [**Location (un) **].
+.
+At [**Location (un) **] vitals V paced at 70, BP 140/113 R 17 sat 100% NRB,
+had ABG 7.19/32/116 K 5.2 HCO3 12 trop I 0.11, treated with:
+lidocaine gtt (which had been stopped prior to arrival to [**Hospital1 **]),
+D50, insulin, Ca; He was then medflighted to [**Hospital1 **] for further
+management.
+.
+On arrival to [**Hospital1 **], vital signs remained stable. ABG 7.27/36/228 K
+5.6 lactate 2.6, given D50, insulin, bicarb, Ca, and kayexylate.
+K peaked at 6.3, but most recently is 5.0. EKG here shows V
+paced rhythym at 82 bpm.
+EP interrogated the device.
+
+
+Past Medical History:
+ESRD on HD via L forearm AV graft at [**Location (un) 1157**] North County
+Kidney Center
+CAD s/p MI '[**78**], tPA and rescue PCI of LAD
+EF 20%
+LV thrombus
+h/o VT
+s/p pacer and ICD
+recent line sepsis, line pulled, treating with vanco at HD
+
+
+Social History:
+former smoker
+
+Family History:
+non-contributory
+
+Brief Hospital Course:
+Overnight: Renal came to see patient and felt K was not the
+precipitant for these rhythyms. EP interogated his paced and
+found several episodes of VT and VF, many of the VT episodes
+were below his lower rate threshold to shock (> 188 bpm). His
+device was reprogrammed to treat VT at rate > 170 and record
+rates >150. There was no inappropriate function of ICD detected.
+We increased his toprol from 25 to 50, left his amio at 200
+daily, plan for possible EPS in next few days.
+.
+A/P
+42 yo M CAD s/p MI '[**78**], no significant dz on cath in '[**84**], EF
+20%, ESRD on HD, presents with V-fib/v-tach arrest with delayed
+ICD response.
+
+1. V-tach/v-fib:
+Interrogation of the device revealed that the pt had episodes of
+V-tach which degenerated into v-fib. The device was found to be
+functioning appropriately to the parameters with which it was
+programmed. The device was not programmed to detect V-tach so it
+only shocked him when it degenerated into v-fib. The EP
+consultant changed v tach sensing parameters to detect rates
+below 188 and added in anti-tachycardia pacing function. The
+device will try ATP twice, then shock. The pt underwent a
+prcedure for the generator change of the device. The pt
+underwent this procedure without complications. The pt remained
+stable without further episodes of arrhythmia during the
+hospitalization.
+.
+2. CHF:
+pt currently well compensated. EF 20% by report. Echo was done
+at [**Hospital1 18**] to eval cardiac fxn. The coumadin which the pt takes
+for mural thrombus and CHF was held for the EP procedure, then
+restarted afterwards. The pt was continued on his home
+medications.
+.
+3. Renal failure
+Pt was found to be in metabolic acidosis with bicarb 17. K 6.3.
+Pt recieved calcium, insulin, bicarb, kayhexelate in ED. He was
+dialyzed while in the hospital. The AV graft was not functioning
+optimally for dialsis, with elevated pressures and suboptimal
+flow, although he was able dialyze. A AV fistulogram was
+obtained which revealed venous obstruction. Renal and transplant
+surgery teams followed the pt. The pt was informed of the need
+to see his regular renal physician for planning to revise the
+AVF.
+.
+4. CAD:
+no active ischemia during hospitalization. ASA/statin/BB were
+continued
+.
+5. ID:
+being treated for tunneled r IJ line infection. R IJ was pulled
+2 weeks ago. Vanco with HD was recommended for an additional
+week, because a device was implanted.
+.
+6. Ppx: heparin when INR <2
+.
+7. FEN: follow K, renagel 2400, NPO p MN
+
+
+Medications on Admission:
+ASA 81 po qd
+dig 0.125 po qfriday
+Toprol XL 25 po qd
+Warfarin 2.5 daily
+Lipitor 40 PO qd
+Amio 200 po qd
+
+
+Discharge Medications:
+1. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig:
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. Sevelamer 800 mg Tablet Sig: Three (3) Tablet PO TID (3 times
+a day).
+6. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO ONCE (once) for
+1 doses.
+7. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+Intravenous  QHD (each hemodialysis) for 7 days.
+8. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO once a week.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Ventricular tachycardia
+Unstable arrhythmia
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please take all of your medicines as directed.
+.
+Please continue the vancomycin for one week with the dialysis
+sessions to prevent the new pacemaker device from becoming
+infected.
+.
+If you have chest pain that lasts longer than 20 minutes, or if
+you have episodes of passing out or dizziness, please call your
+doctor or go to the emergency room.
+
+Followup Instructions:
+Provider DEVICE CLINIC Where: [**Hospital6 29**] CARDIAC SERVICES
+Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2186-9-14**] 1:30.
+.
+Please make an appointment to see your nephrologist regarding
+sugery to improve the function of the AV fistula.
+
+
+

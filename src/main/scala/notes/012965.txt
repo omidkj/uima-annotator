@@ -1,0 +1,200 @@
+Admission Date:  [**2166-12-8**]              Discharge Date:   [**2166-12-14**]
+
+
+Service: MEDICINE
+
+Allergies:
+Vasotec / Niacin
+
+Attending:[**First Name3 (LF) 14145**]
+Chief Complaint:
+Diarrhea, Delirium.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+This is an 86 year old male with ischemic cardiomyopathy
+(ejection fraction 17%), prior ST-elevation myocardial
+infarction (STEMI), peripheral vascular disease (PVD), who
+presented with worsening fatigue and diarrhea. His family noted
+worsened malaise, fatigue, diarrhea, over past week, also with
+loose, non-bloody stools over the prior 3 days, then with
+decreased oral intake. His wife had noticed more sundowning at
+night-time, worse than normal. Of note, he recently started
+Digoxin and diuresed with Diuril from wt of 160lbs to admission
+wt ~140lbs. Outpatient EKG showed lateral lead scooping on
+[**12-2**].
+
+In [**Hospital1 18**] ED, 95/50, 95% room air, HR 70, lungs clear
+bilaterally, guaiac (-), otherwise benign exam. EKG showed
+lateral lead scooping. He was given Aspirin 325, Lidocaine Jelly
+2% (Urojet) 5mL Urojet. The patient dropped SBP to 70s, given 3
+250cc boluses, with appropriate bump to 90s, asymptomatic. Out
+of concern for Digoxin toxicity, Digibind was given, but then
+stopped after Dig level returned at 1 (only half vial
+administered). Toxicology was consulted. CXR showed trace bil
+effusions, streaky atelectasis in RLL, final read possible
+pneumonia. He was given Levaquin and ceftriaxone for CAP.
+Cardiology consulted: recs for careful fluid resuscitation. 2
+large bore pIVs. He was admitted to MICU for concern for
+evolving pneumo-sepsis.
+
+Past Medical History:
+1. History of Colon cancer - last scope [**2162**] with polyp
+2. Atrial fibrillation
+3. History of Basal cell carcinoma
+4. Mitral valve replacement [**1-/2164**] - (#29 Perimount Thermafix
+pericardial valve).
+5. Hypertension
+6. Gout
+7. Peripheral vascular disease (PVD)
+8. Mild aortic stenosis
+9. History of deep venous thrombosis - IVF filter placed [**2163**]
+10. Hypercholesterolemia
+11. Spinal stenosis
+12. Familial hand tremor
+13. Hernia repair, R-side inguinal
+14. Cataract repair, last [**2165-8-14**]
+15. Nephrolithiasis
+16. Chronic kidney disease
+
+Social History:
+- Former orthodontist.
+- Smoked until early 40s at 1-1.5 packs/day since age 22. Denies
+smoking since.
+  Denies drinking.
+- Lives with wife in [**Location (un) 55**].
+
+Family History:
+- Father had heart attack at age 60. "Four generations" of
+"tremors," mother
+  had "head shake." Has two sons, one of which is affected by
+the hand tremors.
+- Denies history of CA, diabetes in family.
+
+Physical Exam:
+VITALS: T 97.7, BP 84/55, HR 84, RR 20, 96% on room air, I/O
+1558/650(also incontinent)
+Tm 98.2, 82-103/50-63, 80-87, 18-20
+Gen: NAD. Oriented x3. Mood, affect appropriate, difficult to
+understand
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: JVD to mid-neck
+CV: irregular rhythm. systolic murmur, S1, S2, No thrills or
+lifts.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. no wheezes or rhonchi.
+Abd: Soft, NTND.
+Ext: +LE tense edema, pitting, with erythema bil, appearance of
+some stasis dermatitis.
+
+Pertinent Results:
+Labs on admission:
+[**2166-12-8**] 03:50PM BLOOD WBC-6.6 RBC-4.31* Hgb-10.4* Hct-34.0*
+MCV-79* MCH-24.0* MCHC-30.5* RDW-17.6* Plt Ct-278
+[**2166-12-8**] 03:50PM BLOOD Neuts-63.4 Lymphs-23.7 Monos-7.9 Eos-4.5*
+Baso-0.6
+[**2166-12-8**] 03:50PM BLOOD PT-17.3* PTT-31.6 INR(PT)-1.6*
+[**2166-12-8**] 03:50PM BLOOD Glucose-128* UreaN-98* Creat-4.6*# Na-139
+K-4.2 Cl-91* HCO3-34* AnGap-18
+[**2166-12-8**] 03:50PM BLOOD ALT-13 AST-28 CK(CPK)-83 TotBili-1.6*
+DirBili-0.9* IndBili-0.7
+[**2166-12-8**] 03:50PM BLOOD CK-MB-NotDone proBNP-[**Numeric Identifier 101894**]*
+[**2166-12-8**] 03:50PM BLOOD Albumin-3.8 Calcium-9.6 Phos-5.5*#
+Mg-3.3*
+[**2166-12-8**] 03:50PM BLOOD TSH-3.1 Cortsol-16.3 Digoxin-1.0
+[**2166-12-8**] 06:18PM BLOOD Glucose-95 Lactate-2.1* Na-138 K-4.2
+Cl-87* calHCO3-32*
+[**2166-12-9**] 03:19AM BLOOD freeCa-1.02*
+
+Labs on discharge:
+[**2166-12-14**] 06:45AM BLOOD WBC-10.4 RBC-4.21* Hgb-10.2* Hct-32.8*
+MCV-78* MCH-24.2* MCHC-31.0 RDW-17.4* Plt Ct-277
+[**2166-12-14**] 06:45AM BLOOD PT-15.5* PTT-34.0 INR(PT)-1.4*
+[**2166-12-14**] 06:45AM BLOOD Glucose-89 UreaN-74* Creat-2.9* Na-136
+K-3.8 Cl-96 HCO3-30 AnGap-14
+[**2166-12-14**] 06:45AM BLOOD Mg-2.4
+
+Chest x-ray [**2166-12-8**]:
+AP view of the chest in upright position was obtained. The
+patient is status post CABG and mitral valve replacement. The
+cardiac silhouette is enlarged and unchanged. There is hazy
+consolidation in the right lung base with associated pleural
+effusion. The pulmonary vasculature is engorged without overt
+pulmonary edema. There is no pneumothorax. The osseous
+structures are unchanged.
+
+IMPRESSION: Findings consistent with right lower lung pneumonia
+and associated pleural effusion.
+
+
+ECHO [**2166-12-9**]:
+The left atrium is markedly dilated. There is mild symmetric
+left ventricular hypertrophy. The left ventricular cavity is
+mildly dilated. There is severe global left ventricular
+hypokinesis (LVEF = 15-20% %). The right ventricular cavity is
+mildly dilated with moderate global free wall hypokinesis. The
+aortic root is mildly dilated at the sinus level. The aortic
+valve leaflets are moderately thickened. There is moderate to
+severe aortic valve stenosis (area 0.8-1.0cm2). Mild to moderate
+([**1-22**]+) aortic regurgitation is seen. A bioprosthetic mitral
+valve prosthesis is present. Mild (1+) mitral regurgitation is
+seen. [Due to acoustic shadowing, the severity of mitral
+regurgitation may be significantly UNDERestimated.] The
+tricuspid valve leaflets are mildly thickened. Moderate to
+severe tricuspid regurgitation is seen. The estimated pulmonary
+artery systolic pressure is normal. The pulmonic valve leaflets
+are thickened. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2166-4-22**], the
+severity of aortic stenosis has progressed. The other findings
+are similar.
+
+Brief Hospital Course:
+This is a 86 year old male with ischemic CMA, EF 20-25%, prior
+STEMI, PVD, p/w worsening fatigue and diarrhea, admitted to MICU
+with hypotension, now stable on floor:
+
+In [**Hospital1 18**] ED, 95/50, 95% room air, HR 70, lungs clear
+bilaterally, guaiac (-), otherwise benign exam. EKG showed
+lateral lead scooping. He was given Aspirin 325, Lidocaine Jelly
+2% (Urojet) 5mL Urojet. The patient dropped SBP to 70s, given 3
+250cc boluses, with appropriate bump to 90s, asymptomatic. Out
+of concern for Digoxin toxicity, Digibind was given, but then
+stopped after Dig level returned at 1 (only half vial
+administered). Toxicology was consulted. CXR showed trace
+bilateral effusions, streaky atelectasis in RLL, final read
+possible pneumonia. He was given Levaquin and ceftriaxone for
+CAP. Cardiology was consulted with recommendations for careful
+fluid resuscitation. 2 large bore pIVs were placed, and the
+patient was admitted to the MICU for concern for evolving
+pneumo-sepsis.
+
+MICU course: BP 70/40, three 500cc bolus with good response.
+Levo/ceftriaxone for pneumonia was continued initially. No
+leukocytosis fever or tachycardia, no tachypnea. Digoxin,
+Amiodarone and diuretics were initially held. He was in the unit
+for two days. As patient was stable and infiltrate on CXR found
+to be chronic, antibiotics were discontinued [**12-10**]. His Troponin
+was measured at 0.21. Hypotension is considered, perhaps, an
+element of his worsening AS with overdiuresis. The MICU did not
+restart dig or diuretics. Metoprolol was restarted. New acute
+renal failure was considered pre-renal in etiology.
+
+On the floor, the patient's Cr continued to improve and
+gradually, the patient was restarted on a diuresis regimen with
+Torsemide. On discharge, the patient was started on low-dose
+Coumadin for his afib and low EF.
+
+Medications on Admission:
+(some question about doses):
+1. Lasix 20mg [**Hospital1 **]
+2. Digoxin
+3. Metoprolol 12.5mg XL
+4. Amiodarone 200mg daily
+5. Prilosec OTC 20mg daily
+6. Docusate 100mg daily
+7. Zolpidem 5mg qhs PRN
+8. Aspirin 81 mg P

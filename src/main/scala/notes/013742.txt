@@ -1,0 +1,164 @@
+Admission Date:  [**2147-9-1**]       Discharge Date:  [**2147-9-9**]
+
+Date of Birth:   [**2084-9-1**]       Sex:  F
+
+Service:
+
+CHIEF COMPLAINT:  Shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 63 year-old
+female with a history of right lower lobe lung nodule likely
+metastatic breast cancer presented with shortness of breath,
+worsening hyponatremia, hyperkalemia to the Emergency Room.
+The patient was recently admitted on [**2147-3-1**] for syncope and
+found to have hyponatremia of unknown etiology with decreased
+urine sodium and euvolemia.  At that time her Lasix was
+discontinued and her [**Last Name (un) **] was decreased and the patient's
+hyponatremia improved.  The patient was found to have
+exudative pleural effusion positive for adenocarcinoma with
+ER positivity.  The patient was to follow up with oncology,
+however, did not make her appointments.  She was seen by her
+primary care physician [**Last Name (NamePattern4) **] [**2147-8-25**] and at that time was found
+to have a sodium of 126 and a potassium of 5.5.  At that time
+her [**Last Name (un) **] was discontinued and Hydralazine was started.  The
+patient's laboratories subsequently revealed a sodium of 125
+and a K of 6.0.  The patient was asked by her primary care
+physician [**Last Name (NamePattern4) **] [**2147-8-30**] to come to the Emergency Room, but did
+not present until [**2147-8-31**]. In the Emergency Department the
+patient was complaining of shortness of breath.  Her chest
+x-ray revealed bilateral pleural effusion right greater then
+left.  A CTA was negative for pulmonary embolus.  The patient
+was treated with Ativan and experienced respiratory
+depression with an arterial blood gas revealing 7.22, 63, 81.
+The patient was brought to the MICU and was intubated.  The
+patient was extubated approximately eight hours later and her
+workup for hyponatremia was initiated.  The patient's TSH was
+checked, a cord stem test was performed and urine lytes were
+also sent off.  The patient was also seen by psychiatry and
+was felt not to be currently unstable, but to have
+depression.  The patient was transferred to the Medicine
+Service on [**2147-9-3**] for further medical management of her
+metastatic breast cancer, pleural effusions as well as
+electrolyte abnormalities.
+
+PHYSICAL EXAMINATION:  On the date of transfer the patient's
+temperature maximum was 98 degrees, T current was 96.5, pulse
+90 to 115.  Blood pressure 144/70 and oxygen saturation was
+97 to 98% on 2 liters of oxygen.  Generally, the patient was
+in no acute distress, was teary eyed and appeared depressed.
+Normocephalic, atraumatic.  Extraocular movements intact.
+Mucous membranes are moist.  Oropharynx was clear.
+Additionally, no thyromegaly was palpated.  There was no neck
+lymphadenopathy.  Neck was supple.  Heart was regular rate
+and rhythm.  There was no JVD.  The JVP was approximately 6
+cm.  On lung examination the patient had decreased breath
+sounds at the bases bilaterally, right greater then left and
+crackles bilaterally right greater then left.  There was no
+clubbing, cyanosis or edema in her extremities.  Her belly
+was soft, nontender, nondistended with normoactive bowel
+sounds.
+
+PAST MEDICAL HISTORY:
+1.  Right lower lobe lung nodule malignant pleural effusion.
+2.  Atrial fibrillation on Coumadin.
+3.  Congestive heart failure with ejection fraction less then
+20% on [**6-29**].  [**10-28**] had catheterization with no coronary
+artery disease found.
+4.  Diabetes mellitus.
+5.  Chronic renal insufficiency.
+6.  Breast cancer status post mastectomy in [**2138**], status post
+Tamoxifen treatment.
+7.  Hypercholesterolemia.
+8.  Multinodular goiter.
+
+ALLERGIES:  Vasotec, which cause a cough.
+
+MEDICATIONS:
+1.  Prozac 10 mg one po q day.
+2.  Digoxin 125 mg one q.d.
+3.  FES04 325 t.i.d.
+4.  NPH 25 in the morning and 8 at night.
+5.  Levoxyl 100 mcg q day.
+6.  Nasacort 55 b.i.d.
+7.  Coumadin 5/3.75 on alternating days.
+
+SOCIAL HISTORY:  The patient lives with daughter.  Forty pack
+year history of smoking.  No tobacco currently.  Quit twenty
+years ago.  No ETOH.
+
+LABORATORY DATA:  White blood cell count was 8.9, hematocrit
+33.1, platelets count 207, INR 1.2, sodium 133, potassium
+5.1, chloride 99, bicarb 24, BUN 30, creatinine 1.3.  The
+patient has a history of renal insufficiency and glucose 129.
+
+HOSPITAL COURSE:  1.  Respiratory failure:  The patient
+remained on minimal oxygen requiring initially sating at 99
+to 100% on 1 to 2 liters.  Subsequently hematology/oncology
+was contact[**Name (NI) **] as well as interventional pulmonology and it
+was felt that the patient was not currently a candidate for
+chemotherapy and that hormonal therapy with Arimidex was
+indicated.  Hence, the patient had a talc pleurodesis on the
+right side with chest tube placement.  The plan is to pull the
+tube when drainage is < 150cc/24 hours. The patient's pain was
+very well controlled with minimal pain medication requirement.
+
+2.  Metastatic breast cancer:  The patient was discussed with
+Dr. [**Last Name (STitle) **] as well as Dr. [**Last Name (STitle) 2148**] and it was felt that the
+patient's functional capacity was quite bad and that she was
+not an ideal candidate for chemotherapy and it was decided
+that the patient would continue on Arimidex therapy at 1 mg q
+day and follow up with Dr. [**Last Name (STitle) **] upon discharge.
+
+3.  Hyponatremia, hyperkalemia:  The patient's urine
+electrolytes were recent and a TTEKG was calculated.  This
+was consistent with type 4RTA felt likely secondary to [**Last Name (un) **]
+use.  In the hospital no [**Last Name (un) **] was used and the patient's
+hyponatremia and hyperkalemia completely normalized with
+entirely normal sodiums and potassiums by the time of
+discharge.
+
+4.  Endocrine:  The patient was continued on regular sliding
+scale of insulin and had very good glycemic control with
+blood sugars ranging from 98 to approximately 130.  Otherwise
+the patient was continued on her Synthroid and her q.i.d.
+finger sticks.
+
+5.  Hematology:  The patient's Coumadin was restarted at the
+time of discharge.  Her INR will need to be followed up and
+the patient will need to stay in the range of approximately
+2.5 to 3.
+
+6.  Prophylaxis:  The patient was maintained on an H2 blocker
+and subq heparin with no complications.
+
+DISPOSITION:  The patient will be discharged to a
+rehabilitation center for further physical therapy as well as
+pulmonary therapy as the patient is considerably
+deconditioned.  The patient is to follow up as an outpatient
+with Dr. [**Last Name (STitle) 1968**] as well as Dr. [**Last Name (STitle) **] for her primary care
+and further oncology workup.
+
+MEDICATIONS ON DISCHARGE:
+1.  Digoxin 125 po q day.
+2.  FES04 325 mg po t.i.d.
+3.  NPH 25 in the morning and 8 at night.
+4.  Levoxyl 100 mcg one po q day.
+5.  Lipitor 20 mg one po q day.
+6.  Coumadin 5 mg on Tuesday, Thursday, Saturday and Sunday
+and 3.75 on Monday and Wednesday.
+
+DISCHARGE STATUS:  Stable at the time of this dictation.
+
+
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 7585**]
+
+Dictated By:[**Last Name (NamePattern1) 47748**]
+MEDQUIST36
+
+D:  [**2147-9-8**]  07:17
+T:  [**2147-9-8**]  08:07
+JOB#:  [**Job Number 96642**]

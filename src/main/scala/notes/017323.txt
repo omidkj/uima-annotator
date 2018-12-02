@@ -1,0 +1,232 @@
+Admission Date:  [**2106-8-20**]              Discharge Date:   [**2106-8-24**]
+
+Date of Birth:  [**2034-12-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Salicylates / Morphine / Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 348**]
+Chief Complaint:
+bloody secretions
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+71 y/o F, h/o airway obstruction w/ trach, presents via
+ambulance from [**Hospital 745**] Health Center with white secretions,
+bleeding x 15 minutes bright red blood, locally around trach
+site- low volume, + tachypnea.
+.
+In ER, had some blood around trach site. O2 sats in 97-98% on
+TM.
+T to 101. Hct 41. INR 2.4. Few additional episodes of small
+volume bright red blood per trach, ~60cc. Rec'd Vit K. CXR w/
+?LLL infiltrate. Given Vancomycin one dose. Spoke with pulmonary
+fellow, likely will need bronch. Admit to MICU.
+
+
+Past Medical History:
+h/o trach, airway obstruction, pancreatitis, MR, CHF, Afib,
+hypothyroidsm, depression, CRF, DMII, CVA
+
+Social History:
+From [**Hospital 745**] Health Care Center
+
+Family History:
+unknown
+
+Physical Exam:
+T 98.7, BP 158/72, HR 64, RR 22, 50% FiO2 on TM
+Gen- awake, responsive, NAD
+HEENT- EOMI. op clear. TM in place- no active blood
+Pulm- Coarse ronchi diffusely w/ occ exp wheeze
+CV- RRR. distant heart sounds. no m/r/g
+ABD- soft, NT/ND
+EXT- b/l venous stasis change, 1+ edema b/l
+Neuro- alert, oriented, following commands
+
+Pertinent Results:
+Admission Labs:
+===============
+.
+[**2106-8-20**] 08:00PM   PT-24.3* PTT-29.2 INR(PT)-2.4*
+[**2106-8-20**] 08:00PM   WBC-11.2* RBC-5.00 HGB-13.4 HCT-41.2 MCV-82
+[**2106-8-20**] 08:00PM   NEUTS-85.7* LYMPHS-8.9* MONOS-2.2 EOS-1.0
+BASOS-2.2*
+[**2106-8-20**] 08:00PM   CALCIUM-8.3* PHOSPHATE-3.7 MAGNESIUM-2.5
+[**2106-8-20**] 08:00PM   GLUCOSE-170* UREA N-37* CREAT-1.5* SODIUM-138
+
+POTASSIUM-7.2* CHLORIDE-102 TOTAL CO2-29 ANION GAP-14
+[**2106-8-20**] 08:20PM   LACTATE-2.2* K+-5.7*
+[**2106-8-20**] 10:10PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-MOD
+[**2106-8-20**] 10:10PM URINE  RBC-[**5-22**]* WBC->50 BACTERIA-MANY
+YEAST-NONE EPI-0-2 TRANS EPI-0-2
+.
+CXR [**8-22**]:
+========
+FINDINGS: There has been no significant change in the
+tracheostomy tube or the left subclavian line with tip
+projecting over the SVC. The heart size appears mildly enlarged.
+There continues to be opacity at the left lateral lung base
+which may represent atelectasis, consolidation or effusion.
+There is patchy area of increased opacity in the right lower
+medial lung as well. This is slightly increased compared to the
+prior day. Otherwise, there is no significant change.
+.
+[**2106-8-21**] 3:55 am SPUTUM      Source: Endotracheal.
+
+**FINAL REPORT [**2106-8-21**]**
+
+GRAM STAIN (Final [**2106-8-21**]):
+>25 PMNs and >10 epithelial cells/100X field.
+Gram stain indicates extensive contamination with upper
+respiratory
+secretions. Bacterial culture results are invalid.
+PLEASE SUBMIT ANOTHER SPECIMEN.
+RESPIRATORY CULTURE (Final [**2106-8-21**]):
+TEST CANCELLED, PATIENT CREDITED.
+
+MICRO:
+========
+[**8-20**] Blood Culture- No growth to date
+[**8-21**] Blood Culture-
+[**2106-8-21**] 4:00 am BLOOD CULTURE
+
+                           **FINAL REPORT [**2106-8-23**]**
+
+   AEROBIC BOTTLE (Final [**2106-8-23**]):
+   REPORTED BY PHONE TO [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] @ 830PM ON [**2106-8-21**].
+   PROTEUS MIRABILIS.    FINAL SENSITIVITIES.
+
+   SENSITIVITIES: MIC expressed in MCG/ML
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+CIPROFLOXACIN---------     2 I
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ANAEROBIC BOTTLE (Final [**2106-8-23**]):
+PROTEUS MIRABILIS.
+IDENTIFICATION AND SENSITIVITIES PERFORMED FROM AEROBIC BOTTLE.
+
+
+Brief Hospital Course:
+71 y/o F w/ trach, found to have bloody secretions, fever and
+proteus bacteremia.
+.
+# Proteus Bacteremia- Blood cultures from [**8-21**] grew 2 out of 2
+bottles positive for proteus, with intermediate sensitivity to
+quinolones. Levofloxacin had been initially started prior to
+return of sensitivities. This was changed to IV meropenem to
+complete 14 day course (Allergies to pcn, cephalosporins,
+sulfa). Suspected source is her urine, given her floridly
+positive urinalysis on admission. However initial urine culture
+was contaminated, so there is no positive urine cultures to
+support this. Sputum cultures were also taken, but also returned
+contaminated. She has had no evidence of shock, remaining
+hemodynamically stable, with good urine output, mentation, and
+baseline renal function. Midline placed for completion of IV
+antibiotics at rehab.
+.
+# Pneumonia- Left lung opacity on initial CXR. Clinically with
+increased secretions from trach, diffuse ronchi on lung exam.
+Initially covered with Vancomycin and Levofloxacin, subsequently
+changed to Meropenem on [**8-23**]. Sputum cultures contaminated.
+Repeat sputum cultures taken [**8-23**]. She remained stable from an
+oxygenation standpoint throughout her hospital course,
+maintained on trach mask at 30% FiO2 with intermittent
+suctioning for secretions.
+.
+# Bloody secretions- Small volume blood from trach site, likely
+secondary to bronchitis vs tracheal irritation/inflamed
+granulation tissue. Less likely endobronchial lesion. Bleeding
+in setting of anti-coagulation w/ INR 2.4 on admission. Coumadin
+held and given Vitamin K in ER. No further bleeding from trach
+over next 48 hours and hematocrit remained stable. Initial plan
+was for bronchoscopy to evaluate bleeding source, however
+patient refused procedure. This was also discussed with her son.
+Since she remained stable, with no further bleeding, and refused
+procedure, bronchoscopy was deferred and she was discharged back
+to her care facility on coumadin.
+.
+# CHF- She was continued on her b-blocker and lasix.
+.
+# Afib- Rate controlled with b-blocker; Anti-coagulated w/
+coumadin. Initially on hold given her tracheal bleeding.
+Re-started prior to discharge given h/o recent CVA.
+.
+# DMII- Controlled on sliding scale insulin. Diabetic diet.
+.
+# Psych- Continued on klonpin, seroquel
+.
+# Chronic pain- Continued on methadone, gabapentin
+.
+# psoriasis- on chronic prednisone 10mg/day
+.
+# precautions- mrsa precautions, VRE
+.
+# FEN: ground textures for all meals; low fat-diabetic; cuff
+must be up when she takes fooby mouth.
+.
+Full Code- per rehab records
+.
+# Communication- regular care at [**Location (un) 745**] [**Location (un) 3678**]; currently at
+[**Hospital 745**] Health Center. [**First Name8 (NamePattern2) **] [**Known lastname **] [**Telephone/Fax (1) 65059**]; [**Name (NI) **] [**Name (NI) **]
+(sister- emergency contact): home [**Telephone/Fax (1) 65060**]
+.
+The pt was discharged to [**Hospital 745**] Health Center in stable
+condition to complete 14 day course of IV Meropenum for Proteus
+bacteremia, PNA, and UTI.
+
+Medications on Admission:
+Meds:
+coumadin 4mg qhs
+macrobid 10mgPO [**Hospital1 **]
+nifedipine 60mg/day
+effexor 225mg/day
+folic acid 1mg/day
+prednisone 10mg/day
+prilosec 10mg/day
+dilantin 400mg/day
+ursodiol 300mg daily
+colace
+FeSO4 325mg daily
+Seroquel 50mg [**Hospital1 **]
+Klonopin 0.5 qhs
+lopressor 50mg [**Hospital1 **]
+lasix 40mg [**Hospital1 **]
+gabapentin 300mg qam
+albuterol inhaler prn
+lorazepam 1mg q6prn
+methadone 45mg TID
+nystatin powder
+
+Discharge Medications:
+1. Venlafaxine 75 mg Capsule, Sust. Release 24HR Sig: Three (3)
+Capsule, Sust. Release 24HR PO DAILY (Daily).
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. Phenytoin Sodium Extended 100 mg Capsule Sig: Four (4)
+Cap

@@ -1,0 +1,204 @@
+Admission Date:  [**2198-8-14**]              Discharge Date:   [**2198-8-28**]
+
+Date of Birth:  [**2132-7-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim / vancomycin
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+Central venous line placement
+Cardiac catheterization
+Swan Ganz catheter placement
+PICC placement
+Intubation and extubation
+Arterial line placement
+
+
+History of Present Illness:
+Mrs. [**Known lastname **] is a 66 year old woman with a history of COPD on
+home O2 2-4LNC, bronchiechtasis with multiple recurrent
+pneumonias, dCHF, a fib not on coumadin, AS s/p balloon
+valvuloplasty who presents with acute shortness of breath and
+[**Known lastname **] with green/yellow sputum. Of note, she was recently
+admitted to [**Hospital1 18**] from [**Date range (2) 111100**] for acute dCHF, acute COPD
+and treated with diuresis and steroids with improvement in her
+symptoms. She grew pan-resistant pseudamonas but was thought to
+be a colonizer per ID c/s. She was discharged on a long steroid
+taper, starting at prednisone 5 daily x 1 week, followed by
+prednisone 2.5 daily x 1 week, then to stop. She was still
+taking 5 a day when her symtptoms began 3 days prior to
+presentation. She first noted increasing [**Date range (2) **] with heavy
+green/yellow sputum that was new. She also noted associated
+dyspnea worsening with the [**Date range (2) **]. Within 1-2 days prior to
+presentation she noticed increasing wheezing, orthopnea, mild
+weight gain (4lbs from 266->270lbs in 24 hours), pedal edema.
+She also complained of generalized malaise and weakness. Due to
+this constellation of symptoms, she decided to come to the ED
+for further evaluation.
+.
+In the ED, her initial vitals were 99  131/99  100  18  94%3L.
+She was thought to be in hypercarbic respiratory failure
+requiring bipap with her initial ABG 7.33/79/181. Repeat 1 hr
+after bipap trial was 7.42.60/174 while on 2LNC. She was given 2
+doses of albuterol nebulizer without clear improvement in her
+symptoms, but it did lead to thick yellow sputum clearance. Her
+pressures remained in the 90s/40s while on bipap. After bipap
+her pressures improved and she was given lasix 40mg IV ONCE for
+presumed pulmonary edema. She made approximately 300cc of urine
+after this bolus. She had a foley and 1 20 gauge IV placed. Her
+last set of vitals were 98.6  95  100/50  26  96%2LNC.
+.
+In the MICU, she continued to have a heavy [**Date range (2) **] with heavy
+secretions and remained mildly dyspneic and mildly tachypneic.
+She also became hypotensive to the high 70s/40s, which responded
+to a 250cc bolus. She was started on vancomcyin, meropenem for
+HAP treatment, hydrocortisone for mild COPD flare and relative
+adrenal insufficiency, and kayaxalate for hyperkalemia. Bipap
+was started overnight for her known OSA.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies Denies chest pain, chest pressure, palpitations, or focal
+weakness. Denies nausea, vomiting, diarrhea, constipation,
+abdominal pain, or changes in bowel habits. Denies dysuria,
+frequency, or urgency. Denies arthralgias or myalgias. Denies
+rashes or skin changes
+
+Past Medical History:
+ Asthma: (since childhood)/COPD s/p multiple intubations: 2L NC
+(since [**2172**]) at baseline for spO2 91-95%, last PFT ~1 yr ago
+at OSH, trach previously suggested but pt refused
+- OSA: sleep study in [**2187**], recommended CPAP but has not
+tolerated it well, unclear how compliant since last discharge
+(made some progress on the fit of the mask). Of note, overnight
+oximetry "better than expected" when measured at rehab --> now
+100% adherance to CPAP at home
+- Bronchiectasis: Grows panresistant pseudamonas last admission
+[**Date range (2) 111100**] thought to be colonizer
+- GERD
+- Anemia (history of GI bleeding many years ago)
+- Leukopenia, long standing, unclear etiology
+- Hyperglycemia when previously on prednisone
+- Diastolic heart failure, LVEF > 55%, [**8-/2197**]
+- Aortic stenosis (valve area 1.0-1.2 cm^2)  -->ballooned in
+[**4-/2198**] and again in [**8-/2198**] while intubated for respiratory
+failure
+- Moderate to severe pulmonary HTN, PCWP > 18
+- Atrial fibrillation (on dilt + beta blocker), no
+anticoagulation due to questionable history of GI bleeding
+- Acute on chronic respiratory failure with intubation in [**8-/2198**]
+during which she had balloon valvuloplasty for severe AS and
+started workup for TAVI vs surgical AVR, was treated for
+resistant Pseudomonas PNA
+
+Social History:
+-Smoking/Tobacco: quit smoking in [**2172**] (20 pack years)
+-EtOH: None
+-Illicits: None
+-Lives at/with: sister (a nurse) in [**Name (NI) 4628**], was in rehab until
+
+[**12-4**]; has 3 children, 1 died @ 27 in [**4-/2197**] from asthma
+complication, has a daughter who's a CNA.
+-Retired manager of a medical answering services
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+-Mother died of CVA
+-Father died of lung CA
+
+Physical Exam:
+On admission:
+General: Alert, oriented, morbidly obese woman in mild-mod resp
+distress, frequent coughing
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP difficult to discern, no LAD
+Lungs: Diffuse and heavy ronchi, no rales, wheezes
+CV: Regular rate and rhythm, normal S1 + S2, [**4-8**] musical SM at
+RLSB, no rubs, gallops
+Abdomen: soft, obese, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+GU: foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis,
+significant bilateral LE edema, tenderness to palpation diffuse,
+venous changes bilaterally
+
+On discharge:
+99.2   p95   100-108/50-50's  26   93-100% on 2L NC
+Able to get out of bed to bedside chair
+Extubated, awake, alert, pleasant
+Otherwise unchanged
+
+Pertinent Results:
+MICRO:
+Blood cultures negative x1
+Blood cultures myco/lytic negative x1
+B-glucan and Aspergillus antigen negative
+Legionella Urinary Antigen  (Final [**2198-8-15**]): NEGATIVE FOR
+LEGIONELLA SEROGROUP 1 ANTIGEN.
+
+[**2198-8-15**] 4:05 am SPUTUM      Source: Expectorated.
+
+   GRAM STAIN (Final [**2198-8-15**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+
+   RESPIRATORY CULTURE (Final [**2198-8-19**]):
+      HEAVY GROWTH Commensal Respiratory Flora.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+AMIKACIN--------------  =>64 R
+CEFEPIME--------------    16 I
+CEFTAZIDIME-----------    16 I
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------     4 S
+PIPERACILLIN/TAZO-----       S
+TOBRAMYCIN------------  =>16 R
+
+   LEGIONELLA CULTURE (Final [**2198-8-22**]):    NO LEGIONELLA
+ISOLATED.
+
+   FUNGAL CULTURE (Preliminary):
+      YEAST.
+
+[**2198-8-19**] 1:05 pm BRONCHOALVEOLAR LAVAGE      BRONCHIAL LAVAGE..
+
+   GRAM STAIN (Final [**2198-8-19**]):
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2198-8-25**]):
+      Commensal Respiratory Flora Absent.
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..
+         OF TWO COLONIAL MORPHOLOGIES.
+         Piperacillin/Tazobactam sensitivity testing confirmed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+      NON-FERMENTER, NOT PSEUDOMONAS AERUGINOSA.
+         10,000-100,000 ORGANISMS/ML..
+         sensitivity testing performed by Microscan.
+         AMIKACIN & CEFTRIAXONE >32MCG/ML.
+         GENTAMICIN ,TOBR

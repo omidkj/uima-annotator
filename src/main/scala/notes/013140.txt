@@ -1,0 +1,238 @@
+Admission Date:  [**2183-10-3**]              Discharge Date:   [**2183-10-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+Shellfish / Zolpidem
+
+Attending:[**First Name3 (LF) 3507**]
+Chief Complaint:
+Urosepsis
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+87 y/o M from [**First Name3 (LF) **] Reb with h/o CAD s/p CABG, CHF (unknown EF),
+A.fib, PPM, h/o GI bleed, anemia, CRI, DM, urinary retension,
+prostate CA p/w decreased urine output, hypotension and fever to
+104. Had 3x loose stool prior to admission, noted low UOP from
+Foley, BP 80/40s at rehab, also vomited x 1. Patient noted to be
+at baseline mental status, A+O x3. Given Levofloxacin at NH.
+.
+In the ED VS T 102.8 BP 70/30-->90-100s HR 65 O2 Sat 94% 4L,
+Started periperal fluids, given Ceftriaxone x 1, Vanco x 1 for
+?MRSA otitis externa. Labs notable for WBC of 27, Hct 21, Guiac
+neg in ED. Received one unit of blood in the ED.
+
+Past Medical History:
+- urinary retention
+- prostate CA
+- CAD s/p CABG
+- CHF ?EF
+- PPM
+- A.fib on coumadin
+- HOH with hearing aid
+- MRSA otitis externa
+- squamous cell CA
+- COPD
+- CRF
+- PVD
+- DM
+- recurrent UTIs
+- HTN
+
+Social History:
+Lives at [**Name (NI) **] Reb, girlfriend [**Name (NI) 2894**] is HCP, has one son.
+
+Family History:
+NC
+
+Physical Exam:
+VS: 100.0 HR 65 BP 82/35 RR 14 100% 2L
+Gen: elderly man, NAD, labored breathing
+Skin: many echymosses, thin skin
+Heent: Op clear, dry, pale, anicteric, PERRL, EOMI
+Neck: unable to asses JVD, supple
+CVS: nl S1 S2, irregular, RRR, no m/r/g
+Abd: obese, soft, ventral hernia easily reducible, active BS, NT
+
+Ext: warm, trace edema
+Neuro: Awake, confused, HOH, follows commands
+
+
+Pertinent Results:
+[**2183-10-6**] 06:25AM BLOOD calTIBC-135* VitB12-785 Folate-9.9
+Ferritn-1126* TRF-104*
+[**2183-10-3**] 10:10AM BLOOD Glucose-148* UreaN-105* Creat-3.6*
+Na-130* K-4.8 Cl-93* HCO3-23 AnGap-19
+[**2183-10-9**] 05:19AM BLOOD Glucose-126* UreaN-46* Creat-1.2 Na-144
+K-3.8 Cl-107 HCO3-29 AnGap-12
+[**2183-10-9**] 05:19AM BLOOD PT-22.2* PTT-30.4 INR(PT)-2.2*
+[**2183-10-3**] 10:10AM BLOOD Neuts-96.0* Bands-0 Lymphs-1.9*
+Monos-1.2* Eos-0.8 Baso-0.1
+[**2183-10-3**] 10:10AM BLOOD WBC-27.4* RBC-2.37* Hgb-7.4* Hct-21.7*
+MCV-92 MCH-31.0 MCHC-33.9 RDW-18.5* Plt Ct-230
+[**2183-10-9**] 05:19AM BLOOD WBC-15.7* RBC-2.59* Hgb-7.7* Hct-23.8*
+MCV-92 MCH-30.0 MCHC-32.5 RDW-18.8* Plt Ct-267
+.
+Blood Cultures:
+        KLEBSIELLA PNEUMONIAE
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------             =>32 R
+AMPICILLIN/SULBACTAM--     8 S       16 I
+CEFAZOLIN-------------    32 R        8 S
+CEFEPIME--------------       R      <=1 S
+CEFTAZIDIME-----------       R      <=1 S
+CEFTRIAXONE-----------       R      <=1 S
+CEFUROXIME------------       R       16 I
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------   <=1 S     =>16 R
+IMIPENEM--------------   <=1 S      <=1 S
+LEVOFLOXACIN----------   =>8 R      =>8 R
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN----------               32 I
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S        4 S
+.
+CXR [**10-7**]
+Moderate cardiomegaly is unchanged. Small bilateral pleural
+effusions, probably stable. Pulmonary vascular congestion is
+unchanged. Transvenous right atrial and right ventricular pacer
+leads in standard placements, unchanged. No pneumothorax.
+
+Brief Hospital Course:
+Hospital course, by problem:
+.
+#UROSEPSIS:  Patient started on vanco and zosyn in ICU.  BP
+responded to fluids.  Per HCP and family pt was DNR/DNI and did
+not want any CVL.  BLood cultures grew out GNR eventually
+speciated as klebsiella and E coli, which were both sensitive to
+Zosyn; UA markedly positive.  Pt defervesced and WBC improved.
+BB and ACE-I initially held d/t hypotension but then restarted.
+Will complete a total of a 14 day course of IV abx.
+.
+#? Otitis externa:  No significant otitis noted on exam but pt
+had h/o MRSA otitis.  As there was no evidence of ongoing
+infection, vanco d/c'd.
+.
+#ELEV INR:  INR up on admission.  coumadin held and vit k given.
+ INR trended down and coumadin restarted at 5mg.  He was
+transfused for HCt in low 20s but Hct remained in 20s.  No
+evidence of bleeding and iron studies show ACD.
+.
+#ARF:  Cr over 3 on admission.  With hydration and treatment of
+sepsis trended down steadily to 1.2 upon d/c
+.
+#Anemia:  HCT noted to be low on admission (21.7); the patient
+was given 2U PRBC with elevation to 24.9; HCT remained stable
+during rest of admission.  Labs consistent with Anemia of
+Chronic disease.  Epogen should be started as an outpt along
+with iron.
+.
+#CHF:  the patient developed volume overload in the setting of
+volume resuscitation.  Once BP stabilized, Lopressor and
+Captopril readded, along with PO lasix.  He can be further
+diuresed at rehab.  Lopressor and Captopril should be titrated
+as BP/HR allow.
+.
+#Speech/Swallow:  pt had ?aspiration event while in house.
+Speech swallow consult obtained; recommended obtaining a video
+swallow.  This showed mild-moderate oropharyngeal dysphagia
+characterized by reduced base of tongue retraction, hyolaryngeal
+excursion, and laryngeal valve closure resulting in
+moderate-severe vallecular residue which builds up over time.
+This residue is more significant with solids than liquids
+andputs the pt at increased risk for penetration and aspiration.
+ As such, s/s team recommended:  diet be restricted to pureed
+solids
+and thin liquids with PO meds crushed in purees.  Strict
+aspiration precautions and swallowing strategies should be
+followed.  Pt would benefit from follow up by speech/swallowing
+therapy at rehab to determine appropriateness for a repeat video
+swallow study for possible diet upgrade.
+.
+RECOMMENDATIONS:
+1. Pureed solids and thin liquids.
+.
+2. PO meds crushed in puree, wash down with sip of liquid.
+.
+3. Strict aspiration precautions including:
+   a) Swallow twice for every bite.
+   b) Alternate between sips and bites.
+
+
+Medications on Admission:
+- senna
+- tylenol
+- warfarin 5 mg daily
+- simvastatin 10 mg daily
+- trazadone 150
+- lexapro 10 mg daily
+- pantoprazole 20 mg daily
+- iron
+- combivent
+- amoxicillin [**2176**] mg prn
+- colace
+- lasix 60 mg po daily
+- loperamide
+- lisinopril 10 mg daily
+- toprol 50 mg daily
+- phenazopyridine 100 mg tid
+- levofloxacin 250 mg po daily
+- Ceftriaxone 1 gram IV x 1
+
+
+Discharge Medications:
+1. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO QHS (once a day (at bedtime)) as needed.
+Disp:*qs Tablet, Rapid Dissolve(s)* Refills:*0*
+2. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*qs Tablet(s)* Refills:*2*
+3. Captopril 12.5 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day): please titrate as BP allows.
+Disp:*90 Tablet(s)* Refills:*2*
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Lexapro 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+8. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: 4.5 gm
+Intravenous  Q8H (every 8 hours): to continue through [**10-18**].
+Disp:*qs gm* Refills:*0*
+9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Epoetin Alfa 4,000 unit/mL Solution Sig: 4000 (4000) U
+Injection QMOWEFR (Monday -Wednesday-Friday).
+Disp:*qs U* Refills:*2*
+12. Trazodone 150 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insomnia.
+Disp:*30 Tablet(s)* Refills:*0*
+13. Insulin Regular Human 100 unit/mL Solution Sig: sliding
+scale  Injection ASDIR (AS DIRECTED).
+Disp:*qs qs* Refills:*2*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - MACU
+
+Discharge Diagnosis:
+1.  Urosepsis secondary to E. Coli/Klebsiella bacteremia
+2.  Anemia of Chronic Disease
+3.  Congestive Heart Failure
+4.  Acu

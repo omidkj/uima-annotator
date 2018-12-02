@@ -1,0 +1,209 @@
+Admission Date:  [**2167-3-27**]              Discharge Date:   [**2167-4-1**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2167-3-27**] Aortic valve replacement ([**First Name8 (NamePattern2) 6158**] [**Male First Name (un) 923**] tissue)
+
+
+History of Present Illness:
+[**Known firstname **] [**Known lastname 12330**] is a [**Age over 90 **] year old woman with known aortic
+stenosis and coronary artery disease.  She has had multiple
+recent admissions for pulmonary edema.  She was admitted for
+cardiac surgery.
+
+Past Medical History:
+aortic stenosis s/p valvulopasty in [**6-4**]
+coronary artery disease
+MRSA (left elbow cellulitis)
+hypertension
+pancreatitis
+gastric esophageal reflux disease
+hypercholesterolemia
+colovesical fistula repair
+s/p trach after valvuloplasty and pancreatitis in '[**65**]
+bilateral cataracts
+
+Social History:
+She lives with her family and is widowed.  She denies tobacco
+and alcohol use.
+
+Family History:
+non-contributory
+
+Physical Exam:
+At the time of admission, Ms. [**Known lastname 12330**] was in no acute
+distress.  She is noted to use a cane for ambulation.  Her skin
+is intact.  Her neck is supple with no JVD.  Her lungs are clear
+to ausculation bilaterally.  Her heart is of regular rate and
+rhythm with a III/VI systolic ejection fraction.  her abdomen is
+soft, non-tender, and non-distended.  Her extremities are warm
+and well-perfused with trace edema.  Left lower extremity
+varicosities are noted.
+
+Pertinent Results:
+[**2167-3-30**] 05:00AM BLOOD WBC-9.2 RBC-2.99* Hgb-9.3* Hct-27.3*
+MCV-91 MCH-31.0 MCHC-33.9 RDW-15.0 Plt Ct-127*
+[**2167-3-30**] 05:00AM BLOOD Plt Ct-127*
+[**2167-3-30**] 05:00AM BLOOD Glucose-97 UreaN-21* Creat-0.9 Na-138
+K-4.5 Cl-104 HCO3-28 AnGap-11
+[**2167-4-1**] 05:15AM BLOOD WBC-7.5 RBC-2.80* Hgb-9.2* Hct-26.1*
+MCV-93 MCH-32.7* MCHC-35.1* RDW-14.3 Plt Ct-230#
+[**2167-4-1**] 05:15AM BLOOD Glucose-97 UreaN-20 Creat-0.9 Na-141
+K-4.5 Cl-102 HCO3-32 AnGap-12
+
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 79474**]
+(Complete) Done [**2167-3-27**] at 10:19:25 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2076-7-7**]
+Age (years): [**Age over 90 **] F  Hgt (in): 65
+BP (mm Hg): 134/78  Wgt (lb): 155
+HR (bpm): 67  BSA (m2): 1.78 m2
+Indication: Intraoperative TEE for AVR. Aortic valve disease.
+Chest pain. Coronary artery disease. Hypertension. Left
+ventricular function. Mitral valve disease. Preoperative
+assessment. Right ventricular function. Shortness of breath.
+ICD-9 Codes: 745.5, 786.05, 786.51, 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2167-3-27**] at 10:19    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1510**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW5-: Machine: aw5
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm
+Left Ventricle - Diastolic Dimension:  3.6 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  1.9 cm
+Left Ventricle - Fractional Shortening:  0.47  >= 0.29
+Left Ventricle - Ejection Fraction:  60%  >= 55%
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *3.9 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *59 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  34 mm Hg
+Aortic Valve - Valve Area:  *0.4 cm2  >= 3.0 cm2
+Mitral Valve - MVA (P [**1-30**] T):  1.6 cm2
+Mitral Valve - E Wave:  1.3 m/sec
+Mitral Valve - A Wave:  1.7 m/sec
+Mitral Valve - E/A ratio:  0.76
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast in the body of the [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) **] LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. Left-to-right shunt
+across the interatrial septum at rest. Small secundum ASD.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Mild symmetric LVH. Normal LV cavity
+size. Normal regional LV systolic function. Overall normal LVEF
+(>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Simple atheroma in aortic root. Normal ascending aorta
+diameter. Simple atheroma in ascending aorta. Normal descending
+aorta diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Severe AS (AoVA <0.8cm2). Moderate to severe (3+) AR.
+
+MITRAL VALVE: Severely thickened/deformed mitral valve leaflets.
+Severe mitral annular calcification. Mild valvular MS (MVA
+1.5-2.0cm2). Moderate (2+) MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+Prebypass
+
+1. No spontaneous echo contrast is seen in the body of the left
+atrium or left atrial appendage. A left-to-right shunt across
+the interatrial septum is seen at rest. A small secundum atrial
+septal defect is present.
+
+2. There is mild symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. Regional left
+ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%).
+
+3.Right ventricular chamber size and free wall motion are
+normal.
+
+4.There are simple atheroma in the aortic root. There are simple
+atheroma in the ascending aorta. There are simple atheroma in
+the descending thoracic aorta. The aortic valve leaflets are
+severely thickened/deformed. There is severe aortic valve
+stenosis (area <0.8cm2). Moderate to severe (3+) aortic
+regurgitation is seen.
+
+5.The mitral valve leaflets are severely thickened/deformed.
+There is severe mitral annular calcification. There is mild
+valvular mitral stenosis (area 1.5-2.0cm2). Moderate (2+) mitral
+regurgitation is seen.
+
+6. Dr. [**Last Name (STitle) **] was notified in person of the results on
+[**2167-3-27**] at 845am.
+
+Post bypass
+
+1. Patient is a paced and receiving an infusion of
+phenylephrine.
+
+2. Biventricular systolic function is unchanged.
+
+3. Bioprosthetic valve seen in the aortic position. The leaflets
+move well and the valve appears well seated. No aortic
+insufficiency seen. Peak gradient across the aortic valve is 27
+mm Hg and the mean gradient is 11 mm Hg.
+
+4. Mild mitral regurgitation is present.
+
+5. Aorta intact post decannulation.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 1509**] [**Name8 (MD) 1510**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2167-3-30**] 00:13
+
+
+?????? [**2161**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+On [**2167-3-27**] Ms. [**Known lastname 12330**] was taken to the operating room and
+underwent an aortic valve replacement with a St. [**Male First Name (un) 923**] tissue
+aortic valve.  This procedure was performed by Dr. [**First Name (STitle) **]
+[**Name (STitle) **].  Please see the operative note for details of the case.
+ She tolerated the procedure well and was transferred in
+critical but stable condition to the surgical intensive care
+unit.  She was extubated on the following day and her pressors
+were weaned.  She was drowsy but easy to arrouse. On
+post-operative day two her chest tubes were removed.  She was
+gently diuresed.  She experienced atrial fibrillation and
+converted to sinus rhythm on amiodarone and beta blockers.  On
+the following day she was transferred to the

@@ -1,0 +1,203 @@
+Admission Date:  [**2150-9-9**]              Discharge Date:   [**2150-9-24**]
+
+Date of Birth:  [**2082-1-12**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Tetanus
+
+Attending:[**First Name3 (LF) 1481**]
+Chief Complaint:
+esophageal adenocarcinoma
+
+Major Surgical or Invasive Procedure:
+[**2150-9-9**]:
+1. Minimally-invasive esophagectomy with right thoracoscopy,
+laparoscopy and cervical esophagogastrostomy.
+2. Feeding jejunostomy tube
+
+[**2150-9-14**]:
+Neo-esophagogastroduodenoscopy
+
+
+History of Present Illness:
+68-year-old man who has been followed for Barrett's esophagus
+and has had an area of high-grade dysplasia.  He had been
+followed every six months since [**2144**] given long segment
+Barrett's with biopsies returning indeterminate for dysplasia.
+He has had a longstanding history of GERD, although this is well
+controlled now on Nexium once a day.  EGD [**5-/2150**] showed
+evidence of Barrett's from 26 cm to 36 cm.  There was evidence
+of a nodule at 32 cm, which was
+biopsied as well.  Biopsies from [**State 1727**] showed evidence of
+Barrett's metaplasia again indefinite for dysplasia.  The
+biopsies from the nodule showed high-grade dysplasia but they
+could not rule out an underlying carcinoma.  Slides were
+reviewed here at [**Hospital3 **].  Our pathologist felt that Mr.
+[**Known lastname 20756**] had evidence of low-grade dysplasia in several of the
+random biopsies.  The esophageal nodule had evidence of
+adenocarcinoma.  The pathologist felt that this was at least
+intramucosal in nature.  There was no muscularis mucosa or
+submucosa to evaluate for potential invasive component.  Patient
+then saw Dr. [**Last Name (STitle) **] of GI for endomucosal resection.  Results
+of the resection showed high-grade dysplasia with intramucosal
+carcinoma.  The deep margin was fine, but unfortunately, this
+extends focally to the peripheral margin and did also have focal
+lymphatic invasion.  After some discussion with oncology at our
+GI oncology group, surgery was recommended.
+
+
+Past Medical History:
+PMH: Barrett's esophagus s/p bx showing high grade dysplasia,
+possible gastroparesis previously on reglan, asthma took
+inhalers for 30 years (quiescent since [**2144**])
+
+PSH: esophageal EMR [**2150-7-7**] w/ invasive adenocarcinoma
+
+
+Social History:
+Mr. [**Known lastname 20756**] is married.  He has two children.  He used to work
+as an engineer but is currently retired.  He denies any tobacco
+or drug use, uses alcohol occasionally in social settings.
+
+
+Family History:
+Notable for hypertension in his mom and his dad, diabetes in his
+mother.  [**Name (NI) **] history of cancers.
+
+
+Physical Exam:
+P/E at time of Discharge:
+VS: T:98.7   P:75   BP:100/64   RR:18   O2sat: 96ra
+GEN: WD, WN in NAD
+HEENT: NCAT, EOMI, anicteric, nice incision cdi covered with
+steris.
+CV: RRR, +S1S2 w no M/R/G
+PULM: breath sounds positive bilaterally, coarse breath sounds
+present with mild expiratory wheeze, no stridor, intermittent
+coughing.
+BACK: no vertebral tenderness, no CVAT
+ABD: soft, NT, ND, no mass, no hernia, jtube in place.
+PELVIS: deferred
+EXT: WWP, no CCE, no tenderness, 2+ B/L radial/DP/PT
+NEURO: A&Ox3, no focal neurologic deficits
+DERM: no rashes/lesions/ulcers
+PSYCH: normal judgment/insight, normal memory, normal
+mood/affect
+
+
+Pertinent Results:
+LABORATORIES:
+Admit:
+[**2150-9-9**] 04:30PM BLOOD WBC-15.9*# RBC-4.25* Hgb-14.5 Hct-40.9
+MCV-96 MCH-34.2* MCHC-35.5* RDW-13.6 Plt Ct-272
+[**2150-9-9**] 04:30PM BLOOD Glucose-187* UreaN-25* Creat-1.2 Na-137
+K-4.9 Cl-101 HCO3-24 AnGap-17
+[**2150-9-9**] 04:30PM BLOOD Calcium-8.7 Phos-3.5 Mg-1.8
+
+MICROBIOLOGY:
+UCx [**2150-9-14**]: NEG
+C. diff [**2150-9-16**]: NEG
+JP Drain [**2150-9-18**]: Polymicrobial
+
+IMAGING:
+Barium Swallow [**2150-9-14**]: Normal postoperative appearance of
+esophagogastrostomy with no evidence of anastomotic leak, mass,
+or stricture.
+
+Barium Swallow [**2150-9-18**]: Normal postoperative appearance with no
+evidence of anastomotic leak or stricture. There is normal
+gastric emptying.
+
+PATHOLOGY [**2150-9-9**]:
+A.  Esophagus and stomach, esophagogastrectomy:
+1.  Barrett's esophagus involving distal 8 cm of esophagus with
+extensive low-grade and multifocal high-grade dysplasia; no
+residual carcinoma identified.; 2.  Distal gastric and proximal
+esophageal (squamous lined) margins are unremarkable.; 3.
+Mildly active esophagitis.; 4.  Fourteen lymph nodes with rare
+non-necrotizing granulomas consistent with prior procedure; no
+malignancy identified.;
+B.  Paraesophageal lymph node, resection: One lymph node; no
+evidence of malignancy.
+
+
+Brief Hospital Course:
+Patient was admitted for MIE for esophageal cancer. He tolerated
+the procedure well and was discharged to the TSICU for further
+management.  Details of ICU course/hospital course below.
+Patient had no acute ICU issues POD1 and was transferred to
+[**Wardname **].
+
+Neuro: Post-operatively, the patient received Dilaudid IV/PCA
+with good effect and adequate pain control. When tolerating oral
+intake, the patient was transitioned to oral pain medications.
+
+CV: A-line was placed preop for BP monitoring in the OR.  This
+was removed on POD1.  The patient was stable from a
+cardiovascular standpoint; vital signs were routinely monitored.
+
+PULM:  Patient left OR intubated and was extubated POD0 in
+TSICU.  Supplemental O2 was given by nasal cannula.  Patient was
+given R thoracostomy tube to pleuravac on suction postop.  This
+was placed to water seal on POD1.  Patient had cough/congestion
+POD1 treated w nebs.  Patient had persistent supplemental O2
+requirement.  Chest tube was removed [**9-19**] with post pull CXR
+negative for PTX.  Pulmonary toilet including incentive
+spirometry and early ambulation were encouraged.  The patient
+was stable from a pulmonary standpoint; vital signs were
+routinely monitored.
+
+GI/GU: Patient exited OR w NGT, cervical JP drain and feeding
+jejunostomy.  Post-operatively, the patient was given IV fluids
+until tolerating oral intake. Patient started TF at 2/3 strength
+POD3 and this was tolerated well.  He underwent swallow study
+POD5 which was negative for leak.  NGT was removed at this time.
+ Patient tolerated sips.  CXR POD6 showed retained barium in
+conduit.  [**9-16**] patient had some choking with with lunch followed
+by acute shortness of breath.  Patient made NPO given concern
+for aspiration.  EGD [**9-17**] showed retained food w no stricture.
+Botox was injected to anastomosis.  Repeat barium swallow [**9-18**]
+was negative for leak or stricture.  Cervical JP had high output
+with high triglycerides [**9-18**].  Was taken off suction [**9-20**] and
+output decreased significantly.   no His/Her diet was advanced
+when appropriate, which was tolerated well. Patient passed
+flatus on POD3 and had a BM on POD4.  He/She was also started on
+a bowel regimen to encourage bowel movement.
+
+Foley was removed on POD#1. Intake and output were closely
+monitored.
+
+ID: Patient received appropriate periop antibiotics.
+Vancomycin, cipro and flagyl (all IV) were started [**9-17**] for
+rising WBC, concern for aspiration and further concern for a
+question of purulent JP output [**9-18**].  Vancomycin and flagyl were
+discontinued [**9-22**].  The patient's temperature was closely
+watched for signs of infection.
+
+Prophylaxis: Patient was OOB to chair ambulating POD1.  The
+patient received subcutaneous heparin during this stay, and was
+encouraged to get up and ambulate as early as possible.
+
+DISPO: POD1 a PT consult was requested for patient ambulation
+and chest PT.
+
+At the time of discharge on POD#15, the patient was doing well,
+afebrile with stable vital signs, tolerating a regular diet,
+ambulating, voiding without assistance, and pain was well
+controlled on tylenol alone.Patient was discharged with home VNA
+for Jtube teaching and tube feed care.
+
+
+Medications on Admission:
+ASA 81, nexium 40, Red yeast rice, Move Free, NeuroThera,
+vitamin E, vitamin C, multivitamin, Omega, TheraOne, niacin,
+Policosanol, calcium, GoutCure, Coenzyme Q, acidophilus, vitamin
+B6, GlucoThera and vitamin D
+
+Discharge Medications:
+1. docusate sodium 50 mg/5 mL Liquid Sig: Ten (10) ml PO BID (2
+times a day) as needed for constipation.
+Disp:*300 ml* Refills:*2*
+2. ciproflox

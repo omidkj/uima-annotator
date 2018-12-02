@@ -1,0 +1,223 @@
+Admission Date:  [**2196-4-17**]              Discharge Date:   [**2196-4-27**]
+
+Date of Birth:  [**2119-1-10**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Haldol / Halcion / Ambien
+
+Attending:[**First Name3 (LF) 1283**]
+Chief Complaint:
+SOB, lethargy
+
+Major Surgical or Invasive Procedure:
+[**2196-4-20**] - Sternotomy redo MVRepair (30mm Band)/CABGx1
+(LSVG->PDA)
+
+History of Present Illness:
+77 y/o male s/p CABG in [**2180**], w/progressive SOB.  Echo revealed
+mod-severe MR, Cath: CAD, unsuccessful PCI > SVG to OM.
+
+
+Past Medical History:
+chronic systolic CHF
+AFib
+COPD
+GERD
+NSTEMI
+CRI
+HTN
+TIA
+BPH
+Claudication
+PVD
+elev. lipids
+s/p CABG X 3
+Bilat. fem-[**Doctor Last Name **]
+Right CEA x 2
+deviated septum repair
+s/p abd. hernia repair
+
+Social History:
+former smoker, quit [**12-1**]
+rare ETOH
+retired
+lives w/wife
+
+Family History:
+premature CAD
+
+Physical Exam:
+pre-op:
+General: frail, thin
+Lungs: bibasilar crackles
+Cor: SEM
+abd: abd. hernia
+extrem: 2+ edema
+
+
+Pertinent Results:
+[**2196-4-26**] 05:10AM BLOOD WBC-5.8 RBC-3.16* Hgb-8.5* Hct-26.4*
+MCV-84 MCH-26.9* MCHC-32.2 RDW-16.5* Plt Ct-152
+[**2196-4-27**] 05:15AM BLOOD PT-12.4 INR(PT)-1.0
+[**2196-4-27**] 05:15AM BLOOD Glucose-91 UreaN-58* Creat-2.1* Na-146*
+K-3.9 Cl-106 HCO3-28 AnGap-16
+
+TECHNIQUE: Non-contrast head CT.
+
+FINDINGS: Well-defined hypodensity is noted of the parasagittal
+right frontal cortex and subcortical white matter consistent
+with acute infarction. A smaller area of hypodensity of the left
+parietal cortex and subcortical white matter is also consistent
+with acute infarction. There is no evidence of intracranial
+hemorrhage or mass effect. The cerebral sulci and ventricles are
+symmetric and age appropriate. The paranasal sinuses and mastoid
+air cells are clear. No osseous or surrounding soft tissue
+abnormality is seen.
+
+IMPRESSION: Acute infarction of the right frontal and left
+parietal lobes. Well-defined appearance of the areas of
+infarction suggest that infarction is over 24 hours old and not
+hyperacute.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 101770**] (Complete)
+Done [**2196-4-20**] at 11:55:51 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Last Name (Prefixes) 413**], [**First Name3 (LF) 412**]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2119-1-10**]
+Age (years): 77 M  Hgt (in): 66
+BP (mm Hg): 134/67  Wgt (lb): 150
+HR (bpm): 75  BSA (m2): 1.77 m2
+Indication: Intraoperative TEE for redo CABG and AVR
+ICD-9 Codes: 427.31, 786.05, 786.51, 440.0, 440.20, 424.1, 424.0
+
+Test Information
+Date/Time: [**2196-4-20**] at 11:55    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1510**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW2-: Machine: AW2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  *6.5 cm  <= 5.2 cm
+Left Ventricle - Ejection Fraction:  25% to 30%  >= 55%
+Aorta - Ascending:  *3.7 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.2 m/sec  <= 2.0 m/sec
+Aortic Valve - Valve Area:  *2.3 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Elongated LA. Cannot exclude LAA thrombus.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Severe regional LV systolic dysfunction.
+Severely depressed LVEF. [Intrinsic LV systolic function likely
+depressed given the severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Moderately dilated RV cavity. Focal apical
+hypokinesis of RV free wall.
+
+AORTA: Normal aortic diameter at the sinus level. Mildly dilated
+ascending aorta. Complex (>4mm) atheroma in the ascending aorta.
+Complex (>4mm) atheroma in the aortic arch. Complex (>4mm)
+atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Moderate mitral annular calcification. Moderate to severe (3+)
+MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The rhythm appears
+to be atrial fibrillation. Results were personally reviewed with
+the MD caring for the patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+Conclusions-
+Prebypass:
+1. The left atrium is elongated. A left atrial appendage
+thrombus cannot be excluded. No atrial septal defect is seen by
+2D or color Doppler.
+2.There is severe regional left ventricular systolic dysfunction
+with hypokinesia of the apex , inferolateral, inferior and
+inferior septum. Overall left ventricular systolic function is
+severely depressed (LVEF= 25-30%%). [Intrinsic left ventricular
+systolic function is likely more depressed given the severity of
+valvular regurgitation.]
+3. The right ventricular cavity is moderately dilated with focal
+hypokinesis of the apical free wall.
+4.The ascending aorta is mildly dilated. There are complex
+(>4mm) atheroma in the ascending aorta. There are complex (>4mm)
+atheroma in the aortic arch. There are complex (>4mm) atheroma
+in the descending thoracic aorta.
+5.The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen.
+6.The mitral valve leaflets are moderately thickened. Moderate
+to severe (3+) mitral regurgitation is seen. Dr. [**Last Name (STitle) 1290**] was
+notified in person of the results on [**2196-4-20**] at 1015 am.
+
+Post Bypass:
+1. Patient is receiving an infusion of phenylephrine, milrinone
+and epinephrine. Patient is A paced.
+2. LV systolic function is slightly improved.
+3. Annuloplasty ring seen in the mitral position. It appears
+well seated. There is trivial mitral regurgitation.
+
+CHEST (PA & LAT)  [**2196-4-27**] 9:14 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate for ptx
+
+[**Hospital 93**] MEDICAL CONDITION:
+77 year old man with s/p mv repair
+REASON FOR THIS EXAMINATION:
+evaluate for ptx
+HISTORY: Previous pneumothorax, to evaluate for persistence.
+
+FINDINGS: In comparison with the study of [**4-26**], there is no
+longer any convincing evidence of pneumothorax. There is still
+evidence of pleural effusions, more marked on the left with
+elevation of pulmonary venous pressure in this patient who has
+undergone a previous CABG procedure.
+
+
+Brief Hospital Course:
+Admitted pre-operatively for IV heparin drip as pt. had
+discontinued his Coumadin in preparation for surgery.  He was
+taken to the OR on [**4-20**], underwent a re-do sternotomy, CABG X 1,
+MV repair (please see operative report for details of surgical
+procedure).  Post-operatively, he was taken to the CVICU, on
+propofol, epinephrine & milrinone drips.  He woke up agitated,
+and self extubated on post-op day # 1.  He weaned off vasoactive
+drips, and remained stable from a hemodynamic standpoint.  As he
+woke it was noted that he did not appear to be moving his left
+arm or leg.  A head CT was obtained, as was a neurology consult.
+ The CT revealed a right frontal and left parietal stroke.
+Initially, he had a dobhoff tube placed for nutritional support.
+ Once he was fully awake & alert, speech therapy re-evaluated
+him, and he was able to take po liquids, and ground or soft
+solid foods.  He was started on anticoagulation at the request
+of the neurology service, continued on aspirin, and has remained
+hemodynamically stable.  Central lines were taken out prior to
+transfer to the floor.  A limited carotid u/s showed 80-99%
+stenosis so a vascular consult was obtained.  Mediastinal chest
+tubes were taken out POD #5 and pleural tube POD #6.  Repeat
+full carotid u/s on [**4-27**] showed bilateral 70-79% stenosis. He
+will need a CTA and follow up with va

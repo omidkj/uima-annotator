@@ -1,0 +1,222 @@
+Admission Date:  [**2185-5-13**]              Discharge Date:   [**2185-5-18**]
+
+Date of Birth:  [**2129-2-18**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Codeine / crabmeat only / Shellfish
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Chest discomfort
+
+Major Surgical or Invasive Procedure:
+[**2185-5-13**] - Coronary artery bypass grafting times 4; left internal
+mammary artery graft to left anterior descending, reverse
+saphenous vein graft to the ramus intermedius, marginal branch,
+and posterior descending.
+
+
+History of Present Illness:
+56 year old male with known CAD, cardiomyopathy with EF 30%
+status post [**Company 1543**] ICD implantation. His most recent coronary
+angiography [**2184-6-1**] revealed an occluded D1 and RCA with
+extensive collaterals and normal renal arteries. Recent device
+interrogation on [**2185-4-18**] by Dr [**Last Name (STitle) 11250**] revealed an episode
+of nonsustained ventricular tachycardia on [**2185-2-28**] at a
+rate of 214 which was self-terminating. He reports vague
+episodes of left chest discomfort radiating down left arm at
+rest starting about one week ago. One recent episode of
+lightheadedness with postural change. He was referred for
+coronary angiography. He was found to have three vessel disease
+and is now being referred to cardiac surgery for
+revascularization.
+
+Past Medical History:
+Hypertension
+Cardiomyopathy, EF 30%
+ICD placed
+Non-sustained ventricular tachycardia
+Syncope, [**1-/2184**]
+Congestive heart failure
+Hyperlipidemia
+Diabetes mellitus type 2
+Asthma
+Sleep apnea, no CPAP machine, uses oxygen concentrator
+GERD
+Degenerative joint disease
+History of episode of 1 week of vomiting blood, 2 years ago
+Anxiety, s/p trauma hit by car as child
+Depression
+s/p right knee replacement, [**11/2184**]
+s/p umbilical hernia repair, [**2185-3-8**]
+s/p colonoscopy with polyps removed
+s/p Tonsillectomy
+
+Social History:
+Race:Caucasian
+Last Dental Exam:2 years ago
+Lives with:Lives alone. Disabled
+Contact:[**Name (NI) **] [**Name (NI) **] (friend)  Phone# [**Telephone/Fax (1) 110414**]
+Occupation:retired
+Cigarettes: Smoked no [x] yes []
+Other Tobacco use:remote rare cigars
+ETOH: < 1 drink/week [x]  [**3-8**] drinks/week [] >8 drinks/week []
+Illicit drug use:denies
+
+Family History:
+Premature coronary artery disease- non contributory
+
+Physical Exam:
+Pulse:73 Resp:18  O2 sat:97/RA
+B/P  Right:145/80    Left:154/81
+Height:5'[**83**]"     Weight:241 lbs
+
+General: NAD, AAOx3
+Skin: Dry [] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x] Recent
+umbilical hernia incision with appropriate mild tenderness
+Extremities: Warm [x], well-perfused [x]  Edema [x] with right
+ankle swelling from recent trauma
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: palp  Left: palp
+DP           Right: palp  Left: palp
+PT           [**Name (NI) 167**]: dop   Left: palp
+Radial       Right: palp  Left: palp
+
+Carotid Bruit        Right: none  Left: none
+
+Pertinent Results:
+Note Date: [**2185-5-13**]
+Signed by [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD on [**2185-5-13**] at 10:30 am  Affiliation:
+[**Hospital1 18**]
+Cosigned by [**Name (NI) **] [**Last Name (NamePattern4) 11899**], MD on [**2185-5-13**] at 12:33 pm
+
+ICD INTERROGATION FORM
+
+Reason for interrogation:  Therapy Deactivation prior to CABG in
+patient with single lead ICD placed for primary prevention
+
+Device Brand:  [**Company 1543**]
+
+Model: Protecta XT VR D314VRG
+
+Presenting rhythm: Sinus rhythm at 72 bpm
+Intrinsic Rhythm: Sinus rhythm at 72 bpm
+Programmed Mode: VVI with lower rate at 40bpm
+
+FVT/VT detection/therapties off
+VF therapy ATP before charging, 25J, 35J x 5
+
+Battery Voltage: 3.18V
+
+RV lead
+  Intrinsic amplitude: 14.5 mV
+  Pacing impedance:
+  Pacing threshold: 2.25V @ 0.40ms
+  %pacing: <0.1%
+
+Diagnostic information: arrhythmias, morphologies, rates, Rx:
+-- possible optivol fluid accumulation
+-- no fast atrial or ventricualr rates
+-- no therapies deliviered
+
+Programming changes (details):
+VR Detection and therapies turned off
+
+Summary (normal / abnormal device function):
+
+-- Normal Device function
+-- No arrythmias recorded
+-- VT/VF therapies turned off for surgery, please call following
+completion of surgery for repeat interrogation and re-activation
+of VF therapy
+
+Addendum by [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11899**], MD on [**2185-5-13**] at 12:33 pm:
+I personally reviewed the ICD interrogation on this patient, and
+agree with Dr.[**Name (NI) 110415**] findings.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 110416**] was a same day admit and on [**2185-5-13**] he was brought
+directly to the operating room where he underwent a coronary
+artery bypass graft x 4. Please see operative note for surgical
+details. Following surgery he was transferred to the CVICU for
+invasive monitoring in stable condition. Within 24 hours he was
+weaned from sedation, awoke neurologically intact and extubated.
+On post-op day one he was started on beta-blockers and diuretics
+and gently diuresed towards his pre-op weight. Later on this day
+he was transferred to the step-down floor for further care.
+Chest tubes and epicardial pacing wires were removed per
+protocol. The physical therapy service was consulted for
+assistance with his postoperative strength and mobility. Oxygen
+therapy was continued given his preoperative home oxygen use. He
+required aggressive diuresis and the plan was to discharge him
+to rehab with 1 week of lasix at 120mg daily and then decrease
+dose to his preoperative dose of 80mg daily. A low dose ace
+inhibitor was resumed given his ejection fraction of 30%. His
+renal function will be monitored closely at rehabilitation as
+his creatinine was mildly elevated postoperatively at 1.2.
+Potassium levels will also be followed and repeleted as needed.
+He had a burst of atrial fibrillation which converted to normal
+sinus rhythm with amiodarone. He will be discharged on an
+amiodarone taper of 400mg daily for 1 week and then decrease the
+dose to 200mg daily on [**2185-5-24**] until otherwise instructed by his
+cardiologist. He continued to make steady progress and was
+discharged to [**Hospital 11252**] [**Hospital 18979**] health care on postoperative day
+4. He will follow-up with Dr. [**Last Name (STitle) **], his cardiologist and his
+primary care physician as an outpatient.
+
+Medications on Admission:
+ALPRAZOLAM 0.5 mg HS
+AMLODIPINE 10 mg Daily
+ATENOLOL 150 mg Daily
+ATORVASTATIN 40 mg Daily
+BENAZEPRIL 40 mg [**Hospital1 **]
+DIAZEPAM 5 mg HS
+FEXOFENADINE-PSEUDOEPHEDRINE 180 mg/240 mg- 1 Tablet HS
+FUROSEMIDE 80 mg Daily
+GLIPIZIDE 10 mg [**Hospital1 **]
+LOSARTAN 25 mg Daily
+METFORMIN 1,000 mg [**Hospital1 **]
+OXYGEN CONCENTRATOR 3 L at night time
+RANITIDINE HCL 150 mg Daily
+SITAGLIPTIN [JANUVIA] 100 mg Daily
+ASCORBIC ACID 1,000 mg Daily
+ASPIRIN 325 mg Daily
+BILBERRY- Dosage uncertain
+VITAMIN D3 1,000 unit [**Hospital1 **]
+CHROMIUM PICOLINATE - Dosage uncertain
+IBUPROFEN 200 mg HS
+L.ACIDOPH & SALI-B.BIF-S.THERM [ACIDOPHILUS] - Dosage uncertain
+MULTIVITAMIN Daily
+OMEGA 3-DHA-EPA-FISH OIL Daily
+VITAMIN E 400 unit Daily
+
+Discharge Medications:
+1. Lasix 40 mg Tablet Sig: Three (3) Tablet PO once a day for 7
+days: Then decrease to 80mg daily as per his preop dose.
+2. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day for 7 days.
+
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+4. amiodarone 200 mg Tablet Sig: 400mg daily for 1 week then on
+[**2185-5-24**], decrease dose to 200mg daily thereafter. Tablets PO
+once a day for as instructed months: 400mg daily for 1 week then
+on [**2185-5-24**], decrease dose to 200mg daily thereafter.
+5. omega-3 fatty acids     Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+6. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+7. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO at bedtime.
+
+8. Norvasc 10 mg Tablet Sig: One (1) Tablet PO once a day.
+9. aspirin 81 

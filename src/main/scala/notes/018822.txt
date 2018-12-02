@@ -1,0 +1,200 @@
+Admission Date:  [**2104-1-30**]              Discharge Date:   [**2104-2-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Aspirin
+
+Attending:[**First Name3 (LF) 425**]
+Chief Complaint:
+Hypoxia.
+
+Major Surgical or Invasive Procedure:
+Status post pacemaker lead removal.
+Temporary wire placement.
+
+
+History of Present Illness:
+87 year-old male with CAD s/p CABG, CHF (EF 30% with BiV ICD),
+AF (on coumadin), diet-controlled DM, s/p recent admission for
+sepsis, who now presents s/p fall with hypoxia and hypotension.
+The patient fell x2 the night prior to admission at [**First Name4 (NamePattern1) 1188**]
+[**Last Name (NamePattern1) **] stating he felt "weak". He denies dizzines,
+lightheadedness, LOC, or head trauma. He was subsequently
+dyspneic, found to have an oxygen saturation in mid 70's, and
+noted to be cyanotic. EMS was then called.
+.
+Review of systems positive for increased SOB over past several
+days. The patient denies chest pain. He also denies fevers,
+chills, nausea, vomiting, abdominal pain, or diarrhea. He has
+had some minor dysuria recently with increased frequency.
+.
+In the ED, patient had SBP in 70's and lactate 4.0. A CVL was
+placed, and he was given 1L NS, vancomycin 1g IV, levofloxacin
+500mg IV, and flagyl 500mg IV. BP improved to 80/44. CVP noted
+to be 24 and levophed was started instead of further fluid
+bolus. Oxygen saturations were 95-98% on 100% NRB. He had oral
+temperature of 99.5. He was then transferred to the MICU for
+further treatment.
+
+Past Medical History:
+1. Coronary artery disease status post CABG in [**2089**]
+2. Congestive heart failure, EF 30%
+3. Atrial fibrillation
+4. Status post pacemaker/AICD placement
+5. History of idiopathic intrinsic lung disease, on 3L O2 at
+home
+6. Diabetes mellitus type II, diet-controlled
+7. Benign prostatic hyperplasia
+8. Gastrointestinal bleeding without clear etiology and
+resulting anemia
+9. Hypothyroidism
+10. Right ear melanoma status post excision
+
+Social History:
+Used to deliver milk for job. Lives by himself but son is in
+same house, widower, retired. Denies tobacco past or present,
+previous moderate EtOH use, no IVDU.
+
+
+Family History:
+Father>>Tb
+
+Physical Exam:
+Vitals: T 98 BP 133/72 HR 104 RR 24 O2 97% on 100% NRB
+Gen: Mild respiratory distress, but able to speak a [**2-28**] word
+sentences comfortably. Lying flat.
+HEENT: OP dry. Circular area of hypopigmentation medial to right
+ear (s/p melanoma surgery).
+Neck: R IJ in place.
+Cardio: RRR, nl S1S2, [**1-29**] sys murmur at LUSB.
+Resp: Crackles [**1-27**] way up on left, crackles [**11-27**] way up on right.
+
+Abd: Soft, mildly distended, +BS (somewhat hypoactive),
+non-tender
+Ext: 2+ pitting edema BL LE
+Neuro: A&Ox3.
+
+
+Pertinent Results:
+CT Head on [**2104-1-30**]:
+IMPRESSION:
+1.  No evidence of intracranial hemorrhage.
+2.  Dilated superior ophthalmic veins (right greater than left).
+ This may be related to differences in section location on
+current study v. the prior examination. It is likely not
+clinically significant but suggest correlation for bruits on
+auscultation.
+.
+CHEST (PORTABLE AP)  [**2104-1-30**]
+FINDINGS: Compared with [**2103-12-28**], the left lower lobe is now
+clear. There is now bilateral perihilar and right lower lobe
+edema consistent with CHF/fluid overload.
+No obvious consolidating pulmonary infiltrates.
+.
+Echocardiogram on [**2104-1-31**]:
+IMPRESSION: No valvular vegetations seen. Dilated and
+hypertrophied left
+ventricle with moderate global systolic dysfunction. Dilated
+right ventricle  with moderate systolic dysfunction. Moderate to
+severe tricuspid  regurgitation. Moderate pulmonary
+hypertension.
+Compared with the prior study (images reviewed) of [**2103-12-24**],
+the left
+ventricle appears slightly more dilated. The other findings are
+similar.
+.
+Chest Ultrasound [**2104-2-1**]:
+IMPRESSION:  No abscess identified around the pacemaker pocket.
+.
+ECG Study Date of [**2104-2-6**]  8:09:30 AM
+Atrial fibrillation and ventricular paced rhythm with capture.
+Occasional
+ventricular ectopy. Compared to the previous tracing of [**2104-2-5**]
+there is
+occasional ventricular ectopy. Otherwise, no diagnostic interim
+change.
+.
+[**Numeric Identifier **] PICC W/O PORT  [**2104-2-6**]
+IMPRESSION: Successful placement of PICC line via the left
+basilic vein, terminating in the superior vena cava. Ready for
+use.
+.
+Labwork on admission:
+[**2104-1-30**] 06:50AM   WBC-30.0*# RBC-3.58* HGB-10.0* HCT-31.5*
+MCV-88 MCH-28.0 MCHC-31.8 RDW-16.9*
+[**2104-1-30**] 06:50AM   PLT COUNT-285
+[**2104-1-30**] 06:50AM   NEUTS-94.5* LYMPHS-2.6* MONOS-2.7 EOS-0.1
+BASOS-0.1
+[**2104-1-30**] 06:50AM   PT-20.8* PTT-32.5 INR(PT)-2.0*
+[**2104-1-30**] 06:50AM   GLUCOSE-94 UREA N-36* CREAT-2.3*# SODIUM-138
+POTASSIUM-4.6 CHLORIDE-99 TOTAL CO2-23 ANION GAP-21*
+[**2104-1-30**] 06:50AM   CK(CPK)-48
+[**2104-1-30**] 06:50AM   CK-MB-NotDone proBNP-[**Numeric Identifier 43211**]*
+[**2104-1-30**] 06:50AM   cTropnT-0.08*
+[**2104-1-30**] 07:03AM   LACTATE-4.0* K+-4.6
+.
+Labwork on discharge:
+[**2104-2-13**] 06:50AM BLOOD WBC-7.3 RBC-3.45* Hgb-9.6* Hct-30.4*
+MCV-88 MCH-27.9 MCHC-31.6 RDW-17.5* Plt Ct-307
+[**2104-2-13**] 06:50AM BLOOD PT-20.3* PTT-38.3* INR(PT)-2.0*
+[**2104-2-13**] 06:50AM BLOOD Glucose-90 UreaN-29* Creat-1.5* Na-138
+K-3.6 Cl-94* HCO3-35* AnGap-13
+
+Brief Hospital Course:
+87 year-old male with coronary artery disease s/p CABG,
+congestive heart failure, atrial fibrillation, diabetes
+mellitus, with recent admission for sepsis, who now presents
+status post fall with hypoxia and hypotension secondary to
+sepsis.
+.
+1. Sepsis: The patient had a recent admission for sepsis and was
+found to have MRSA bacteremia and Pseudomonas UTI at that time.
+The patient's recurrent sepsis on this admission was thought to
+be secondary to infected ICD leads and the patient went to the
+operating [**2104-2-3**] for lead removal and temporary lead
+placement.  The differential initially included endocarditis,
+recurrent UTI, pneumonia, and C. difficile infection.  These
+diagnoses were excluded as there were no vegetations noted on
+intraoperative TEE, the patient's urinalysis was negative, chest
+X-ray negative for pneumonia, and C. difficile cultures
+negative.  The patient was followed by Infectious Disease during
+admission.  The patient was started on vancomycin [**2104-1-30**] and
+will continue to complete a four-week course from [**2104-2-3**], the
+date of pacer lead removal.  The patient will have a permanent
+pacemaker placed once the antibiotic course is completed.  The
+patient was transiently on cefepime and metronidazole
+empirically but these were discontinued.  The patient initially
+required levophed but this was weaned the second day of
+admission.  Lactate 4.0 on presentation but subsequently
+normalized.
+.
+2. Hypoxia: The patient has a history of lung disease of unclear
+etiology (restrictive and diffusion defects by last pulmonary
+function testing).  The patient has a history of amiodarone use,
+but CT chest in [**2101**] did not show definitive signs of amiodarone
+toxicity.  The patient has a baseline oxygen requirement 2-3L.
+The patient's increased oxygen requirement on admission was
+believed secondary to hypoxia secondary to sepsis and/or CHF.
+The patient's BNP was elevated on admission.  There were no
+signs of pneumonia on imaging or sputum culture.  The patient's
+oxygen requirement decreased during admission with diuresis and
+treatment of sepsis.  On discharge, the patient was saturating
+93% on 3L at rest, but required higher levels of oxygen on
+ambulation from severe deconditioning.  The patient should be
+given nebulizers and increased oxygen prior to exertion.  The
+patient also intermittently desaturated during sleep, likely
+secondary to intermittent hypoventilation.  The patient responds
+to brief use of increased oxygen or non-rebreather mask as
+needed.
+.
+3. Acute renal failure: The patient had creatinine 2.3 on
+admission, from baseline 0.9.  This was likely pre-renal in
+setting of sepsis and congestive heart failure.  The patient's
+creatinine improved with diuresis and treatment of sepsis.  The
+patient's renal failure subsequently remained stable 1.4-1.5 and
+this may represent a new baseline.
+.
+4. Status post fall: The patient suffered a fall prior to
+admission likely s

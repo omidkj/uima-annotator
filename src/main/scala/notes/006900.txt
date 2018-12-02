@@ -1,0 +1,200 @@
+Admission Date:  [**2112-5-9**]              Discharge Date:   [**2112-5-25**]
+
+Date of Birth:  [**2034-8-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine / Ace Inhibitors
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+OSH transfer for evaluation of abdominal pain
+
+Major Surgical or Invasive Procedure:
+stenting of SMA and celiac arteries [**2112-5-12**]
+
+History of Present Illness:
+Ms [**Known lastname 6185**] is a 77F w DM2, HTN, HL, CAD (s/p CABG), PVDz, known
+celiac/SMA stenosis, pAF (on home Coumadin), chr sys CHF (EF 20%
+[**3-/2112**]), sinus bradycardia (s/p PPM), recent admission to [**Hospital1 18**]
+and OSH for SOB (s/p MICU and intubation), who originally
+presented to OSH 4 days ago w acute on chronic abdominal pain,
+and is now transferred to [**Hospital1 18**] for further evaluation.
+.
+Pt reports chronic RLQ abd pain x [**1-12**] mos. Pain is intermittent,
+sharp, worse w food, better w not eating, gradually worsening.
+Associated w nausea and NBNB vomiting at least once daily. She
+also reports chronic diarrhea ([**1-12**] loose stools per day, yellow,
+non-bloody/tarry in general, though occasional drops of red
+blood). No fevers, but often feels cold. Sxs have been worse in
+the last 2 weeks, which prompted presentation to OSH 4 days
+prior to transfer.
+.
+At OSH, pt was started empirically on metronidazole (d1=[**5-6**])
+for C. diff colitis, though C diff toxin negative. CT A/P w/o
+contrast showed diffuse thickening of colon (left, transverse,
+rectosigmoid). GI there recommended evaluation by [**Month/Year (2) 1106**]
+surgery for mesenteric ischemia, and likely GI here for
+colonoscopy.
+.
+Now still having diarrhea, but less, and nausea and vomiting
+resolved. Of note, sister has similar sxs recently. No recent
+travel, no sick contacts, no new food items. No urinary sxs.
+
+
+Past Medical History:
+CAD s/p CABGx3 and s/p inf MI
+Chr sys CHF (EF 20% in [**3-/2112**])
+pAF (on home Coumadin)
+Sinus bradycardia (s/p PPM in [**2107**])
+HTN
+HL
+DM2
+H/o TIAs
+PVD
+severe celiac/SMA stenosis
+Gout
+COPD
+CKD Stage 2 (creatinine 1.2)
+s/p hemigastrectomy for PUD in remote past
+
+Social History:
+Lives alone in a housing complex in [**Location (un) 14663**] in a single floor
+apartment w/ an elevator in the building. She pays her own
+bills.
+Patient states she quit smoking 1 month ago, was smoking [**1-12**]
+cigarettes per day for most of life (denies smoking more than
+this).  Previously had 1 EtOH drink per day.
+
+Family History:
+Heart disease and cancer. She is 1 of 12 children but only 4 of
+them are living.
+
+
+Physical Exam:
+Exam on Admission:
+VS: 99.3, 94/50, 69, 20, 96% RA
+GEN: pleasant, ill-appearing elderly woman lying in bed supine
+in NAD
+HEENT: NC/AT, PERRL, EOMI, MMM, OP clear
+NECK: supple, no LAD, normal JVP
+CV: irregular, S1S2, no M/R/G
+CHEST: diffuse crackles b/l midway up
+ABD: +TTP in RLQ, non-distended, NABS
+EXTR: WWP, no C/C/E, 2+ DP/rad pulses b/l
+NEURO: AOx3, CNII-XII intact, [**4-12**] Motor strength in UE/LE b/l
+
+Pertinent Results:
+Labs on Admission:
+[**2112-5-9**] 09:00PM BLOOD WBC-10.9# RBC-3.83* Hgb-11.5* Hct-35.0*
+MCV-91 MCH-30.1 MCHC-33.0 RDW-18.2* Plt Ct-184
+[**2112-5-9**] 09:00PM BLOOD PT-36.9* PTT-31.9 INR(PT)-3.9*
+[**2112-5-9**] 09:00PM BLOOD Glucose-147* UreaN-20 Creat-1.2* Na-131*
+K-4.5 Cl-102 HCO3-19* AnGap-15
+[**2112-5-9**] 09:00PM BLOOD ALT-26 AST-30 AlkPhos-70 TotBili-0.7
+[**2112-5-13**] 03:00AM BLOOD Lipase-13
+[**2112-5-12**] 03:44AM BLOOD CK-MB-4 cTropnT-0.03*
+[**2112-5-12**] 12:59PM BLOOD proBNP-[**Numeric Identifier 42758**]*
+[**2112-5-14**] 11:56PM BLOOD CK-MB-4 cTropnT-0.01
+[**2112-5-9**] 09:00PM BLOOD Albumin-3.2* Calcium-7.6* Phos-2.5*#
+Mg-1.0*
+
+Labs on Discharge:
+[**2112-5-25**] 08:32AM BLOOD WBC-6.2 RBC-3.16* Hgb-9.3* Hct-28.7*
+MCV-91 MCH-29.5 MCHC-32.4 RDW-18.8* Plt Ct-309
+[**2112-5-25**] 08:32AM BLOOD PT-15.0* INR(PT)-1.3*
+[**2112-5-25**] 08:32AM BLOOD Glucose-144* UreaN-25* Creat-1.0 Na-135
+K-4.0 Cl-97 HCO3-33* AnGap-9
+
+Urine Studies:
+[**2112-5-10**] 06:04AM URINE Color-Red Appear-Hazy Sp [**Last Name (un) **]-1.014
+[**2112-5-10**] 06:04AM URINE Blood-TR Nitrite-POS Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-LG
+[**2112-5-10**] 06:04AM URINE RBC-8* WBC-557* Bacteri-MANY Yeast-NONE
+Epi-3 TransE-1
+[**2112-5-10**] 06:04AM URINE CastHy-12*
+[**2112-5-19**] 04:08AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.009
+[**2112-5-19**] 04:08AM URINE Blood-NEG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-SM
+[**2112-5-19**] 04:08AM URINE RBC-2 WBC-7* Bacteri-NONE Yeast-NONE
+Epi-1
+[**2112-5-19**] 04:08AM URINE CastHy-3*
+
+Micro Data:
+[**2112-5-11**], [**2112-5-15**], [**2112-5-19**]: C. Diff negative X 3
+[**2112-5-10**], [**2112-5-19**]: urine cultures contaminated
+
+Studies:
+[**2112-5-12**] Angiography/Cath of Mesenteric Vessels:
+ANGIOGRAPHIC FINDINGS:
+1. Elongated 2.5-cm long stenosis of approximately 70% to the
+superior mesenteric artery with post-stenotic dilatation. There
+was some sparing of the orifice of the vessel. Because of the
+length, two 7-mm Genesis sounds stents were deployed to cover
+the lesion appropriately. The stents expanded to their nominal
+size without difficulty. There was an initial 15-mm gradient
+which was reduced to less than 10 mm systolic after second
+ablation of the 7-mm balloon.
+2. 80% focal stenosis of the proximal celiac artery successfully
+stented with a 7 x 18-mm Genesis stent. There was no residual
+systolic gradient after completion of the stent.
+3. A small brachial artery required cutdown initially for access
+and was repaired using interrupted Prolene sutures without
+difficulty.
+
+[**2112-5-12**] CXR: The pacemaker leads are in the right atrium and
+right ventricle. The cardiomediastinal silhouette is stable in
+the patient after CABG. There is still present interstitial
+pulmonary edema, slightly asymmetric with more involvement of
+the right side, most likely due to patient positioning. Small
+right pleural effusion is noted, slightly increased since the
+prior study but still small. There are no areas of focal
+consolidation worrisome for infection.
+
+[**2112-5-14**] KUB: Supine and upright film of the abdomen demonstrate
+scattered
+gas-filled loops of bowel with loops of transverse colon
+measuring up to 6.8 cm. Air-fluid levels are seen in the upright
+film, but the majority of these appear to be within the colon.
+This most likely represents an ileus rather than an SBO.
+
+[**2112-5-16**] CT Abd Pelvis, non-contrast:
+1. Findings compatible with anasarca, with diffuse soft tissue
+stranding/edema, marked bilateral effusions, and free fluid
+within the abdomen and pelvis.
+2. No specific evidence of bowel ischemia. No pneumotosis or
+free air. No
+obstruction.
+
+[**2112-5-19**] CXR, pa and lateral: Slight worsening of congestive
+heart failure with increasing interstitial edema.
+
+[**2112-5-20**] KUB: Improved bowel gas pattern with air noted
+throughout non-distended loops of large and small bowel. No
+evidence of obstruction.
+
+[**2112-5-22**] CXR, portable: There is no significant change in the
+right PICC line, pacemaker, sternal wires and mediastinal clips,
+small bilateral effusions, left greater than right, and mild
+interstitial edema similar in appearance compared to the prior
+study. The right IJ line has been removed.
+
+[**2112-5-23**] KUB: Stents are seen in the upper abdomen, likely in the
+celiac and SMA. The colon is prominent measuring up to 5.7 cm
+with some air-fluid levels. Gas is seen in the rectum.
+IMPRESSION: Ileus.
+
+Brief Hospital Course:
+77yo F w/hx of CAD, CHF, PVD, DM2, afib who presents as a
+transfer from an OSH for evaluation of abdominal pain and
+mesenteric ischemia.  On admission, GI and [**Month/Day/Year **] surgery were
+consulted.  Her INR was elevated and she was given FFP with
+plans for EGD/Colonoscopy to further evaluate her symptoms.  Her
+INR was still therapeutic and this procedure was deferred.
+
+On [**2112-5-12**], patient became hypoxic and tachypneic likely
+secondary to volume overload; she was given lasix and
+transferred to the MICU. Then she was taken to the OR by the
+[**Date Range 1106**] team and had a brachial artery exposure and repair with
+celiac artery stent x1 and superior m

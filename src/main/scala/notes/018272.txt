@@ -1,0 +1,219 @@
+Admission Date:  [**2137-10-19**]              Discharge Date:   [**2137-10-29**]
+
+Date of Birth:  [**2066-1-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Oxycodone
+
+Attending:[**First Name3 (LF) 11839**]
+Chief Complaint:
+Worsening jaundice, pneumonia
+
+Major Surgical or Invasive Procedure:
+ERCP on [**2137-10-17**] with stent placement
+
+History of Present Illness:
+PCP [**Name Initial (PRE) 7274**]: [**Name10 (NameIs) **],[**Name11 (NameIs) **]
+Location: [**Location (un) **]-[**Location (un) **] PRIMARY CARE
+Address: [**Street Address(2) **] STUITE 212, [**Location (un) **],[**Numeric Identifier 40624**]
+Phone: [**Telephone/Fax (1) 13266**]
+Fax: [**Telephone/Fax (1) 67271**]
+
+71F with PMH of colon CA s/p partial colectomy in [**5-/2137**], on
+chemotherapy
+since [**Month (only) 216**], who recently developed acute cholecystitis and
+underwent a CCY [**2137-10-14**]. Post-op course complicated by increased
+LFT's.  She was sent here for ERCP on [**2137-10-17**]. ERCP performed,
+showing CBD stones.  Sphincterotomy was deferred due to
+coagulopathy (elevated INR to 1.8), but biliary stent was placed
+successfully.  The patient was transferred back to the [**Hospital1 3325**].  However, since returning her LFTs had not improved,
+was sent to [**Hospital1 18**] on [**2137-10-19**] for possible repeat ERCP.
+Additionally, her coagulopathy has persisted, for unclear
+reasons.  Bilirubin 4->6, AST/ALT elevated, alk phos normal.
+She has also been mildly anemic but no overt signs of bleeding.
+Dr. [**Last Name (STitle) 63834**] (surgeon) and her oncologist did not feel these
+abnormalities were related to her surgery or chemotherapy.
+Thus, she returns for further evaluation.  Of note, she was
+diagnosed with a LUL PNA, and broadened to Vanco/Zosyn for
+possible biliary infection plus HCAP.  She has also been given 2
+units FFP for her coagulopathy and possible need for repeat
+ERCP, as well as 2 units PRBCs.  She did have a ? rectal temp of
+102.
+
+On admission she complains of fatigue/weakness and shortness of
+breath with cough.  The nebulizers help, though the albuterol
+makes her shaky.  She endorses a recent BM with flatus.
+
+Review of systems: 10 point ROS negative except as listed above
+
+Past Medical History:
+Colon cancer, stage IIIb on adjuvant chemo with FOLFOX-6
+Partial colectomy [**6-3**]
+s/p CCY [**2137-10-16**]
+Hypertension
+
+Social History:
+Indpendent, cares for a blind child.  No recent tobacco or
+alcohol use
+
+Family History:
+Sister with history of [**Name (NI) 87245**] [**Doctor First Name **] na ddeceased of a
+stroke
+Father also history of a myeloproliferative disorder.
+
+Physical Exam:
+VS: T 98.4, BP 136/76, HR 94, RR 22, 93% 3L
+Gen: thin, jaundiced, tired appearintg
+HEENT: EOMI, icteric sclera, MM dry
+Neck: supple no LAD
+Heart: RRR no m/r/g
+Lung: bibasilar fine crackles with poor effort.  No clear wheeze
+Abd: distended, soft diffusely TTP, no rebound or guarding, + BS
+Ext: warm and well perfused
+Skin: jaundiced
+Neuro: no focal deficits grossly
+
+Pertinent Results:
+CXR [**10-16**]: No acute processes
+
+CXR [**10-19**]: LUL airspace opacity, atelectasis of bases
+
+RUQ US [**10-16**]: cholelithiasis with mild dilated CBD.  Small amount
+free fluid.
+
+CT ABD [**10-16**]: Acute cholecystitis, diverticulosis
+
+WBC 4.1, Hct 36.6, Plt 189
+Neut: 66, Band 5
+
+INR 1.29, PTT 29.1
+
+Na 1326, K 3.2, BUN 3, Cr 0.79, Ca 8.6, T bili 4.9->6.4, D bili
+2.9, Alk phos 105, AST 111->92, ALT 118->108
+
+[**Month/Year (2) **] cx [**10-17**]: NGTD
+Urine cx [**10-18**]: Negative
+-
+urine and [**Month/Year (2) **] cultures: [**2137-10-28**] no growth, final results
+pending on discharge.
+-
+Labs on discharge:
+[**2137-10-29**] 07:05AM [**Month/Day/Year 3143**] WBC-10.7 RBC-4.89 Hgb-11.7* Hct-36.9
+MCV-76* MCH-24.0* MCHC-31.8 RDW-22.8* Plt Ct-564*
+[**2137-10-29**] 07:05AM [**Month/Day/Year 3143**] Glucose-149* UreaN-17 Creat-1.1 Na-136
+K-4.8 Cl-101 HCO3-24 AnGap-16
+[**2137-10-29**] 07:05AM [**Month/Day/Year 3143**] ALT-26 AST-36 LD(LDH)-257* AlkPhos-190*
+TotBili-0.8
+[**2137-10-28**] 05:13AM [**Month/Day/Year 3143**] proBNP-415*
+[**2137-10-29**] 07:05AM [**Month/Day/Year 3143**] Calcium-9.7 Phos-4.0 Mg-2.1
+
+CHEST CTA [**2137-11-22**]:No evidence for pulmonary embolus.
+No mediastinal, hilar, axillary or internal mammary adenopathy.
+
+There is a left-sided Port-A-Cath, its tip is identified within
+the SVC.
+There is a small pericardial effusion measuring maximum
+thickness anteriorly
+of 5 mm (series 2, image 35).
+There are small bilateral pleural effusions.
+Evaluation of the lung parenchyma demonstrates marked thickening
+of the
+interlobular septae with ground glass change identified within
+the superior
+segments of the right lower lobe (series 2, image 21), distal
+segment of the
+right middle lobe (series 2, image 25) and within the superior
+segment of the
+lingula (series 2, image 31). Inflammatory scarring is also
+identified within
+the superior segment of the left upper lobe. This is actually
+unchanged when
+compared to chest radiograph from [**2137-10-24**].
+Findings most likely represent intercurrent infection. Other
+differentials
+include edema, and less likely hemorrhage. No pulmonary masses
+or nodules.
+
+Evaluation of the upper abdomen demonstrates pneumobilia within
+the left lobe
+of the liver with surgical clips identified in the gallbladder
+fossa, and
+plastic stent is noted in a decompressed CBD.
+
+CT OSSEOUS SKELETON:
+Evaluation of the bony skeleton shows multilevel degenerative
+changes in the
+dorsal spine with relative osteopenia of the bony skeleton
+without osseous
+destructive lesion.
+
+IMPRESSION:
+1.Negative study for CTPA.
+2.Bilateral hazy ground-glass change consistent with
+intercurrent infection or
+resolving pulmonary edema. 3.Small bilateral effusions.
+
+
+
+RUQ U/S [**2137-10-29**]:FINDINGS: There are no focal hepatic lesions.
+There is pneumobilia
+predominantly in the left lower lobe, as expected after ERCP.
+Patient is
+status post cholecystectomy with surgical clips and minimal
+amount of fluid in
+the gallbladder fossa. There is no intra- or extra-hepatic
+biliary duct
+dilatation with the common hepatic duct measuring 4 and the
+common bile duct
+measuring 7 mm. A biliary stent is seen in the common bile duct.
+There is no
+evidence of common bile duct stones, however evaluation with
+ultrasound is
+limited. The pancreas is only partially visualized secondary to
+overlying
+bowel gas, but appears normal. The portal vein is patent with
+normal
+hepatopetal flow. The right kidney measures 9.6 cm, the left
+kidney measures
+10.1 cm. The abdominal aorta is normal. There is no free fluid.
+
+IMPRESSION:
+No evidence of intra- or extra-hepatic biliary dilatation.
+
+CXR [**2137-10-28**]
+FINDINGS: In comparison with the study of [**10-24**], there is some
+decrease in the
+opacification in the right mid and lower lung zones, most likely
+representing
+some decreasing atelectasis in a patient with improved degree of
+inspiration.
+Pulmonary vascularity is essentially within normal at this time.
+Central
+catheter remains in place.
+
+
+
+
+Brief Hospital Course:
+71 yr/o F w/ stage IIIb colon Ca s/p partial colectomy in [**Month (only) 116**]
+[**2137**], on adjuvant chemo since [**Month (only) **] who recently underwent a lap
+chole and ERCP for cholecystitis with CBD stones presented with
+increase in liver function tests, LUL opacity concerning HAP,
+and fever. Early on admission was transfered from floor to ICU
+for tachypnea and hypoxia.
+.
+# Tachypnea with hypoxia: likely [**2-26**] to fluid overload based on
+CXR which showed vascular congestion and diffuse bilateral
+opacities and exam with anterior crackles/wheezing and abdominal
+rounding; also may be due to underlying PNA however it was
+difficult see definite opacity in LUL described at OSH due to
+volume overloaded on initial examination.
+DX: BNP 6219, CE negative x 1, Sputum Cx contaminated, urine
+legionella antigen is negative.  Treated with nitro ointment TP
+0.25 in to venodilate and reduce preload/afterload. Patient was
+aggressively diuresed with furesomide with electrolytes repleted
+as needed.  Treated with Vanco/Zosyn/Cipro for emperic Tx of HAP
+(total 8 day course, continued through [**10-25**]).  Given
+Xopenex/ipratropium nebs.  Tachypnea with hypox

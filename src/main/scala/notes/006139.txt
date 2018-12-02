@@ -1,0 +1,226 @@
+Admission Date:  [**2174-4-6**]              Discharge Date:   [**2174-4-19**]
+
+Date of Birth:  [**2125-10-12**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+Chest tightness, shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2174-4-12**] Five Vessel Coronary Artery Bypass Grafting utilizing
+the left internal mammary artery to left anterior descending
+artery, and saphenous vein grafts to second diagonal, first
+obtuse marginal, second obtuse marginal and posterior descending
+artery.
+[**2174-4-12**] Bronchoscopy with Bronchaveolar Lavage. Excision of
+Right Paratracheal Lymph Node.
+[**2174-4-7**] Cardiac Catherization
+
+
+History of Present Illness:
+48 year old male with known coronary disease, who presented to
+outside hospital with chest tightness and shortness of breath.
+He ruled in for an NSTEMI with troponin 8.56. He was started on
+intravenous Heparin and Nitroglycerin and urgently transferred
+to the [**Hospital1 18**] for further evaluation and treatment.
+
+Past Medical History:
+Ischemic Cardiomyopathy
+Coronary Artery Disease, prior LAD stent
+Hypertension
+Dyslipidemia
+Diabetes Mellitus Type II
+Asthma
+Obesity
+History of Non-sustained Ventricular Tachycardia
+
+Social History:
+Retired paramedic. 20 pack year history of tobacco, quit 4 years
+ago. Denies excessive ETOH consumption. Lives alone.
+
+Family History:
+Denies premature coronary artery disease.
+
+Physical Exam:
+BP 115/85, P 82, RR 16
+Ht 75 inches / Wt 140.6 kg
+General: obese male in no acute distress
+HEENT: oropharynx benign
+Neck: supple, no jvd
+Chest: few crackles at bases
+Heart: regular rate and rhythm, normal s1s2, no murmur or rub
+Abd: obese, benign
+Ext: warm, trace edema
+Neuro: non-focal
+Pulses: 1+ distally
+
+Pertinent Results:
+[**2174-4-19**] 06:48AM BLOOD WBC-8.8
+[**2174-4-18**] 11:00AM BLOOD WBC-11.3* RBC-4.24* Hgb-12.4* Hct-36.8*
+MCV-87 MCH-29.2 MCHC-33.7 RDW-13.7 Plt Ct-476*
+[**2174-4-6**] 03:55PM BLOOD WBC-10.0 RBC-3.88* Hgb-11.6*# Hct-32.4*#
+MCV-84 MCH-29.8 MCHC-35.6* RDW-13.1 Plt Ct-206
+[**2174-4-18**] 11:00AM BLOOD Neuts-70.2* Lymphs-19.2 Monos-5.5
+Eos-4.4* Baso-0.6
+[**2174-4-6**] 03:55PM BLOOD Neuts-73.4* Lymphs-21.4 Monos-4.2 Eos-0.8
+Baso-0.3
+[**2174-4-18**] 11:00AM BLOOD Plt Ct-476*
+[**2174-4-17**] 01:22AM BLOOD PT-15.0* PTT-31.3 INR(PT)-1.3*
+[**2174-4-6**] 03:55PM BLOOD Plt Ct-206
+[**2174-4-6**] 03:55PM BLOOD PT-17.2* PTT-142.9* INR(PT)-1.6*
+[**2174-4-12**] 01:54PM BLOOD Fibrino-470*
+[**2174-4-18**] 11:00AM BLOOD Glucose-94 UreaN-26* Creat-1.0 Na-138
+K-4.6 Cl-99 HCO3-29 AnGap-15
+[**2174-4-6**] 03:55PM BLOOD UreaN-27* Creat-1.1 Na-134 K-4.4 Cl-102
+HCO3-19* AnGap-17
+[**2174-4-17**] 01:22AM BLOOD ALT-28 AST-30 AlkPhos-57 TotBili-0.6
+[**2174-4-9**] 06:45AM BLOOD proBNP-2083*
+[**2174-4-6**] 03:55PM BLOOD cTropnT-2.09*
+[**2174-4-18**] 11:00AM BLOOD Phos-2.9 Mg-2.3
+[**2174-4-8**] 05:50AM BLOOD %HbA1c-8.4*
+[**2174-4-8**] 05:50AM BLOOD Triglyc-153* HDL-17 CHOL/HD-8.4
+LDLcalc-95
+[**2174-4-14**] 05:52AM BLOOD Vanco-11.1
+
+Pathology Examination
+
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 43189**],[**Known firstname **]       [**2125-10-12**]    48 Male      [**Numeric Identifier 43190**]
+[**Numeric Identifier 43191**]
+Report to:   DR. [**Last Name (STitle) **]. [**Doctor Last Name **]
+Gross Description by:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 21496**]
+
+
+
+SPECIMEN SUBMITTED: immunophenotyping - 4R LN
+
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2174-4-12**] [**2174-4-13**] [**2174-4-15**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 21496**]/ttl
+Previous biopsies:    [**Numeric Identifier 43192**]  FS R 4 LYMPH NODE.
+DIAGNOSIS:
+FLOW CYTOMETRY REPORT
+FLOW CYTOMETRY IMMUNOPHENOTYPING
+The following tests (antibodies) were performed: HLA-DR, FMC-7,
+Kappa, Lambda, CD antigens 2, 3, 5, 7, 10, 19, 20, 23, 45.
+RESULTS:
+Three color gating is performed (light scatter vs. CD45) to
+optimize lymphocyte yield.
+B cells comprise 50% of lymphoid gated events, are polyclonal,
+and do not express aberrant antigens.
+T cells comprise 39% of lymphoid gated events and express mature
+lineage antigens.
+
+INTERPRETATION
+Non-specific T cell dominant lymphoid profile; diagnostic
+immunophenotypic features of involvement by a T- or B-cell
+lymphoproliferative disorder are not seen in specimen.
+Correlation with clinical findings and morphology (see
+S09-[**Numeric Identifier **]) is recommended. Flow cytometry immunophenotyping may
+not detect all lymphomas as due to topography, sampling or
+artifacts of sample preparation.
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2174-4-18**] 11:38
+AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] CSURG FA6A [**2174-4-18**] 11:38 AM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 43193**]
+Reason: evaluate for effusion
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   48 year old man with s/p cabg mv repair
+REASON FOR THIS EXAMINATION:
+   evaluate for effusion
+
+
+
+Final Report
+REASON FOR EXAMINATION: Followup of a patient after CABG and
+mitral valve
+repair.
+
+PA and lateral upright chest radiograph was compared to [**4-15**], [**2174**].
+
+Post-sternotomy wires appear to be intact. Cardiomediastinal
+contour is
+stable. Left linear opacities consistent with atelectasis, with
+overall
+slight improvement of the left base aeration. Upper lungs are
+clear and there
+is no evidence of failure.
+
+IMPRESSION:
+
+Improved aeration of the left paramediastinal opacities
+consistent with
+improvement of atelectasis.
+
+DR. [**First Name4 (NamePattern1) 2618**] [**Last Name (NamePattern1) 2619**]
+Approved: MON [**2174-4-18**] 5:49 PM
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 17982**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 43194**] (Complete)
+Done [**2174-4-12**] at 9:07:04 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+[**Street Address(2) 15115**]
+[**Location (un) 15116**], [**Numeric Identifier 15117**]  Status: Inpatient DOB: [**2125-10-12**]
+Age (years): 48 M  Hgt (in): 74
+BP (mm Hg): /  Wgt (lb): 300
+HR (bpm):  BSA (m2): 2.58 m2
+Indication: Intra-op TEE for CABG, MV repair
+ICD-9 Codes: 428.0, 440.0, 414.8, 424.0
+Test Information
+Date/Time: [**2174-4-12**] at 09:07    Interpret MD: [**Name6 (MD) 928**]
+[**Name8 (MD) 929**], MD, MD
+Test Type: TEE (Complete)
+3D imaging. Son[**Name (NI) 930**]: [**Last Name (NamePattern5) 9958**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2009AW05-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.6 cm  <= 4.0 cm
+Left Ventricle - Diastolic Dimension:  *7.5 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  20% to 25%  >= 55%
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aorta - Arch:  2.2 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.3 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  0.9 m/sec  <= 2.0 m/sec
+Mitral Valve - Peak Velocity:  1.1 m/sec
+Mitral Valve - Mean [**Last Name (NamePattern5) 21888**]:  1 mm Hg
+Mitral Valve - Pressure Half Time:  36 ms
+Mitral Valve - MVA (P [**1-28**] T):  6.1 cm2
+Mitral Valve - E Wave:  1.0 m/sec
+Mitral Valve - A Wave:  0.3 m/sec
+Mitral Valve - E/A ratio:  3.33
+
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+
+LEFT ATRIUM: Marked LA enlargement. Mild spontaneous echo
+contrast in the body of the LA. No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **]
+LAA. Depressed LAA emptying velocity (<0.2m/s)
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Severely dilated LV cavity. Severe
+regional LV systolic dysfunction. Severely depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size. Mild global RV free
+wall hypokinesis.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal aortic arch diameter. Simple
+atheroma in aortic arch. Normal d

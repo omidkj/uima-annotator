@@ -1,0 +1,204 @@
+Admission Date:  [**2121-9-8**]              Discharge Date:   [**2121-10-1**]
+
+Date of Birth:  [**2047-1-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2763**]
+Chief Complaint:
+transfer from osh c severe sepsis
+
+Major Surgical or Invasive Procedure:
+-Intubation
+-Central venous line placement
+-Arterial line placement
+
+History of Present Illness:
+This is a 74 y.o. male with history of adrenal insufficiency,
+hypothyroidism, paranoid schizophrenia, and DM II presenting
+with sepsis of unclear etiology.
+
+On the day prior to admission the patient's family reports he
+had decreased PO intake as well as congestion symptoms. Last
+night his family noted that he was a little weak and put him to
+bed. Although he did not complain of any fevers his family noted
+that he was extremely cold to the touch and gave him several
+blankets and heating blankets to help him stay warm. The next
+day they noted that he was awake but was not verbal. Given this
+he was taken to [**Location (un) **] ED. At [**Location (un) **] he was noted to be very
+hypotensive to 40s-50s. He was given Solumedrol 125mng x 1, he
+was also noted to be bradycardic to 40s and received Atropine.
+Azithromycin, Zosyn were initiated and a HeadCT was performed
+which was negative. He was also intubated and started on
+Dopamine, Levophed and Neo.
+.
+In the [**Name (NI) **], pt was given 2gm of Vancomycin and 750mg of
+Levofloxacin. He was also given stress dose steroids of
+Hydrocortisone 100mg IV x 1, PEEP was increased to 10 and pt was
+set on ARDSnet protocol. He also received a total of 8L of NS.
+His labs were notable for leukopenia, thrombocytopenia 116,
+creatinine 3.7, BUN 93. Troponin was noted to be 0.06 with a CK
+of 1836 and CK-MB that was pending. Urine and serum tox were
+negative. ABG obtained after intubation noted to be pH 7.28,
+pCO2, 43, O2 60, HCO3 21 on PEEP of 5 that was increased to 10.
+.
+Review of systems:
+unable to obtain ROS [**1-20**] intubation
+
+Past Medical History:
+Paranoid Schizophrenia (unable to care for self at baseline)
+HTN
+DM II
+COPD
+h.o. PNA requiring hospitalization
+nephrectomy
+mild CRI
+
+
+Social History:
+Pt lives with family at home. Per PCP family is not able to care
+for pt adequately and home is in disrepair and has been
+investigated by department of health with consideration for
+condemning the property
+
+Family History:
+noncontributory
+
+Physical Exam:
+General: Elderly Caucasian Male intubated in NARD.
+Psych: Localizes to pain, opens eyes to verbal stimuli
+HEENT: Sclera anicteric, MMM
+Neck: difficult to eval JVP given IJ
+Lungs: Crackles noted diffusely on anterior exam with diminished
+crackles over left lung field.
+CV: Borderline bradycardic (50), S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: no grimacing noted on abdominal palpation,
+non-distended, obese, + bowel sounds present, no rebound
+tenderness or guarding
+Left Groin: Hematoma noted from femoral line placement, appears
+better [**Name8 (MD) **] RN from ED after warm compress
+Ext: 2+ edema noted in all extremities.
+
+Pertinent Results:
+LABS ON ADMISSION:
+[**2121-9-8**] 06:50PM BLOOD WBC-2.6* RBC-3.77* Hgb-11.2* Hct-35.7*
+MCV-95 MCH-29.7 MCHC-31.4 RDW-17.1* Plt Ct-116*
+[**2121-9-8**] 06:50PM BLOOD Neuts-37* Bands-29* Lymphs-27 Monos-1*
+Eos-0 Baso-0 Atyps-0 Metas-4* Myelos-2*
+[**2121-9-8**] 06:50PM BLOOD Hypochr-NORMAL Anisocy-1+
+Poiklo-OCCASIONAL Macrocy-1+ Microcy-NORMAL Polychr-NORMAL
+Burr-OCCASIONAL
+[**2121-9-8**] 06:50PM BLOOD PT-12.8 PTT-32.7 INR(PT)-1.1
+[**2121-9-8**] 06:50PM BLOOD Fibrino-623*
+[**2121-9-8**] 06:50PM BLOOD Glucose-332* UreaN-93* Creat-3.7* Na-145
+K-4.8 Cl-107 HCO3-22 AnGap-21*
+[**2121-9-8**] 06:50PM BLOOD ALT-74* AST-109* CK(CPK)-1836* AlkPhos-59
+TotBili-0.2
+[**2121-9-8**] 06:50PM BLOOD CK-MB-230* MB Indx-12.5*
+[**2121-9-8**] 06:50PM BLOOD Calcium-8.3* Phos-4.5 Mg-2.3
+
+FROM OSH: blood culture 2/4 bottles growing 2 species of coag
+neg staph
+urine cx growing >100,000 VRE sensitive to ampicillin,
+daptomycin and linezolid
+
+GRAM STAIN (Final [**2121-9-10**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   MULTIPLE ORGANISMS
+CONSISTENT WITH
+                                    OROPHARYNGEAL FLORA.
+      2+   (1-5 per 1000X FIELD):   BUDDING YEAST WITH
+PSEUDOHYPHAE.
+   RESPIRATORY CULTURE (Preliminary):
+      Further incubation required to determine the presence or
+absence of
+      commensal respiratory flora.
+      YEAST.    MODERATE GROWTH.
+      ACINETOBACTER BAUMANNII COMPLEX.    SPARSE GROWTH.
+                              SENSITIVITIES: MIC expressed in
+MCG/M
+_________________________________________________________
+                             ACINETOBACTER BAUMANNII COMPLEX
+                             |
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFEPIME--------------    32 R
+CEFTAZIDIME-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+IMIPENEM--------------     2 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+   URINE CULTURE (Final [**2121-9-11**]):
+      ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+ _________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+LINEZOLID-------------     2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------  =>32 R
+
+
+Brief Hospital Course:
+This is a 74 y.o. Male with h.o. hypothyroidism p/w septic
+shock, NSTEMI, hypothermia with suspected pulmonary versus urine
+source.
+
+##. Septic Shock: Pt noted to be in septic shock on admission to
+the ED on multiple pressors. Per family pt has a history of PNA
+versus aspiration PNA, hospitalized three times over the past
+year and also had dirty UA and ?pna on cxr from ed. Pt was
+initially started on zosyn, cipro and vancomycin for broad
+coverage in this frequently hospitalized pt in addition to
+pressors and xygris given pt's high apache score. Stress dose
+steroids were also started as pt was on dexamethasone as outpt
+per his med list. Influenza antigen and legionella antigen were
+sent and were negative. Pressors able to be weaned and
+antibiotics switched to linezolid for VRE in urine and meropenem
+for acinetobacter in sputum. Antibiotic course was completed on
+[**9-26**].
+
+##. Respiratory Failure: Pt arrived intubated in ventilatory
+failure believed to be [**1-20**] pna versus ards from urosepsis. This
+was complicated by fluid overload in the setting of volume
+repletion. Pt's infections were treated and pt was diuresed
+aggressively with resolution of pulmonary edema at time of
+discharge.  Tracheostomy tube placed on [**9-26**].  Secretions
+continued to be a problem so t-tube kept in place.
+
+# [**Last Name (un) **]:  baseline Cr of 1.8-2, which slowly rose to 4.6. Etiology
+was believed to be ATN secondary to hypotension in setting of
+septic shock. Renal functions improved with creatinines trending
+towards baseline (baseline is 1.8-2.0, at time of discharge was
+2.3).  Home lasix, glyburide, flomax, lubripristone,
+fenofexadine, verapamil held.
+
+##. NSTEMI: Pt showed no ischemic EKG changes in the ED but
+cardiac enzymes were noted to be positive with a CK of 1836,
+CKMB 230, CKMBI 12.5, troponin 0.06. TWI in I, avL, q in Lead
+III, small R-wave and aVF inferiorly. Pt ruled in, likely
+ischemic from his prolonged episode of hypotension. Aspirin was
+initially held as pt had been started on xygris, but asa was
+restarted once xygris course completed.
+In future could consider adding ace inhibitor as renal function
+resolves.  Did not start beta blocker given episodes of
+bradycardia.
+
+##. Bradycardia: Pt noted to be bradycardic, requiring atropine
+in the field for HR in the 40s. Bradycardia initially thought to
+likely be due to his hypothermia. However, had additional
+episodes of sinus bradycardia periodically, particularly in the
+evening.  Improved during hospital course, with patient
+maintaining normal sinus rhythm with regular rate at time of
+discharge.
+
+# Anemia: pt??????s hematocrit trended down throughout first few days
+of admission. Likely [**1-20**] a

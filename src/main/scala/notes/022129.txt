@@ -1,0 +1,234 @@
+Admission Date:  [**2153-7-11**]              Discharge Date:   [**2153-7-13**]
+
+Date of Birth:  [**2104-7-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1943**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+48yo M with PMH of COPD, asthma, and OSA who presented to Dr.
+[**First Name8 (NamePattern2) 24906**] [**First Name8 (NamePattern2) 41875**] [**Last Name (NamePattern1) **] in [**Company **] for routine follow up with dyspnea.  Dr. [**First Name (STitle) **]
+is a new pcp for him as he recently moved to [**Location (un) **] from [**Location (un) **] where his pcp was previously Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 22552**]. The pt had
+just been hospitalized at [**Hospital1 **] for copd flare and pna and this
+was his f/u appt in [**Company **]. Dr. [**First Name (STitle) **] sent him to the ED for
+evalution of his sob.
+.
+In the ED, initial vs were: T 97.9 P 98 BP 133/88 R 25 O2 sat.
+99% with nebulizer (92% on RA).  Peak flow was 150 on entrance
+to the ED.  Patient was given Combivent x3, solumedrol 125mg IV,
+and placed on BIPAP with goal pulse ox 90-92%.  He was sent to
+the ICU for respiratory monitoring after a gas of 7.33/69/108/38
+with lactate 2.4.
+.
+On the floor, he arrived on room air and appeared comfortable.
+He no longer complains of SOB but does endorse some dyspnea on
+exertion that has been stable for the past few months.  He is
+complaining of anxiety and chronic gastric pains that are [**4-8**]
+today.  The pain is located in his LUQ and he describes it as a
+dull, cramping pain that is improved by food and worsened with
+anxiety.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, headache, sinus tenderness, rhinorrhea
+or congestion. Denied cough, shortness of breath. Denied chest
+pain or tightness. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria.
+
+Past Medical History:
+Asthma, severe COPD.  Hospitalized 5 times within the last 2
+years, most recently in [**2153-5-30**].
+Severe emphysema on CT scan [**5-8**]
+Obstructive sleep apnea
+Probable substance induced mood disorder
+Hepatitis C
+History of "Gastritis and Colitis"
+History of polysubstance abuse
+Anxiety and Panic Attacks
+Self Reported Bipolar Disease
+
+Social History:
+He recently moved to [**Location (un) 86**] and is living in a dual-dx sober
+house [**Location (un) 34564**]. He is a former EtOh & drug abuser
+(cocaine & heroin) who says that he is now sober. He is not
+working and has a long smoking history but quit about 2 weeks
+ago and is using the patch.
+
+Family History:
+strong FH of asthma/COPD
+
+Physical Exam:
+Vitals: T: 97.2 BP: 150/88 P: 98 R: 17 O2: 91% RA
+General: Alert, oriented, no acute distress
+Lungs: Decreased breath sounds throughout, mild expiratory
+wheezing bilaterally
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, non- tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses, clubbing of index finger
+only b/l, cyanosis or edema
+
+
+Pertinent Results:
+Labs at admission [**2153-7-11**]:
+WBC-12.2* RBC-4.57* Hgb-13.2* Hct-42.4 MCV-93 MCH-28.8 MCHC-31.0
+RDW-15.0 Plt Ct-192
+Neuts-88.7* Lymphs-9.0* Monos-1.7* Eos-0.4 Baso-0.2
+PT-10.8 PTT-21.8* INR(PT)-0.9
+Glucose-154* UreaN-31* Creat-1.0 Na-140 K-5.8* Cl-99 HCO3-33*
+AnGap-14
+CK(CPK)-69; cTropnT-<0.01
+ABG: pO2-108* pCO2-69* pH-7.33* calTCO2-38* Base XS-7
+Intubat-NOT INTUBA
+Lactate-2.4* K-4.4
+.
+Labs at transfer [**2153-7-12**]:
+WBC-16.3* RBC-4.50* Hgb-13.0* Hct-41.2 MCV-92 MCH-28.9 MCHC-31.6
+RDW-15.4 Plt Ct-201
+PT-11.5 PTT-21.8* INR(PT)-1.0
+Glucose-121* UreaN-27* Creat-1.1 Na-142 K-4.5 Cl-100 HCO3-32
+AnGap-15
+.
+Micro:
+.
+BCx [**2153-7-11**]: NGTD
+.
+Imaging
+CXR [**2153-7-11**]: final read pending
+.
+EKG: NSR, no ST segment changes
+
+Peak flow at admission: 150
+Peak flow at discharge: 265
+
+Brief Hospital Course:
+48 yo M admitted to the [**Hospital Unit Name 153**] for Acute exacerbation of COPD
+
+[**Hospital Unit Name 153**] Course [**Date range (1) 83512**]:
+COPD exacerbation: Patient maintained good sats on RA after
+receiving 3 nebs and BIPAP in the ED. Started on Solumedrol 125
+mg IV Q8H which was changed to Prednisone PO 40mg daily.
+Azithromycin discontinued. Pt received albuterol and
+ipratroprium nebulizers and O2 weaned to maintain O2 sats
+88-92%. Pt was at his baseline upon transfer to floor.
+
+Problem list:
+1. COPD exacerbation: Initially treated with Solumedrol,
+nebulizer treatments, and BIPAP.  Pt returned to his baseline
+during the hospital course.  A slow prednisone taper would be
+continued as outpatient.  Smoking cessation was emphasized and
+patient stated a desire to quit for good.
+
+2. OSA: CPAP
+
+3. Anxiety: Patient has h/o of anxiety. Continued home meds of
+vistaril, klonopin, paxil, aripiprazole, mirtazapine.
+
+4. Gastric pain: Pain sounds like possible gastric ulcer.  Home
+PPI continued as well as MOM and mylanta PRN.
+
+5. Tobacco use: Using patch at home. Nicotine patch continued in
+house. The importance of smoking cessation discussed with
+patient.
+
+Dispo: To pulmonary rehab pending placement. Pt and family wish
+to be in rehab near Cape as that is where his mother, brother
+and advocate live.
+
+Medications on Admission:
+Aripiprazole 15 mg daily
+Paroxetine 20 mg daily
+Mirtazapine 30 mg QHS
+BIPAP 18/8 with humidification 2L O2 sat 93%
+Clonazepam 1 mg PO TID:PRN
+Nicotine patch
+Prednisone taper
+Advair 250-50 mcg [**Hospital1 **]
+Combivent 2 puffs QID
+Omeprazole 20 mg daily
+Ibuprofen 800 mg TID
+Milk of Magnesia QHS
+Benadryl 50 mg QHS:PRN
+Mylanta PRN
+Vistaril 50 mg Q4H:PRN
+
+Discharge Medications:
+1. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day) as needed for anxiety.
+2. Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+4. Mirtazapine 15 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+5. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Aripiprazole 15 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Ibuprofen 800 mg Tablet Sig: One (1) Tablet PO three times a
+day as needed for pain.
+8. Aripiprazole 15 mg Tablet Sig: One (1) Tablet PO once a day.
+
+9. Advair Diskus 250-50 mcg/Dose Disk with Device Sig: One (1)
+puff Inhalation twice a day.
+10. Combivent 18-103 mcg/Actuation Aerosol Sig: Two (2) puffs
+Inhalation four times a day.
+11. Prednisone 10 mg Tablet Sig: Taper, see instructions PO see
+special instructions: 4 tablets daily from [**Date range (1) 83505**], 3 tablets
+daily from [**Date range (1) 83506**], 2 tablets daily from [**Date range (1) 83507**], 1 tablet
+daily from [**Date range (1) 83508**], and [**12-1**] tablet daily from [**Date range (1) 83509**] Tablets
+by mouth taper as directed.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+1. Chronic COPD with acute exacerbation
+2. Obstructive sleep apnea
+
+SECONDARY DIAGNOSES:
+1. Anxiety disorder
+
+
+Discharge Condition:
+You are in fair condition for discharge.
+
+
+Discharge Instructions:
+You were admitted to the hospital with an exacerbation of your
+chronic condition called COPD. You were treated for this
+condition and have improved in your breathing ability.
+Initially your peak flow was 150, but has now improved to 265.
+
+We support your committment to quit smoking as this will help
+you from redeveloping a flare of your COPD.  We will recommend
+continuing a slow taper of the medication called Prednisone.
+
+If your condition should worsen, please seek further medical
+attention.
+
+Followup Instructions:
+PULMONARY FUNCTION LAB Phone:[**Telephone/Fax (1) 609**] Date/Time:[**2153-8-1**]
+3:40
+
+[**Month/Day/Year 1570**],INTERPRET W/LAB NO CHECK-IN [**Month/Day/Year 1570**] INTEPRETATION BILLING
+Date/Time:[**2153-8-1**] 4:00
+
+DR [**Last Name (STitle) **] & DR [**Last Name (STitle) **] Phone:[**Telephone/Fax (1) 612**] Date/Time:[**2153-8-1**]
+4:00
+
+
+

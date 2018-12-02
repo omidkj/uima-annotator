@@ -1,0 +1,196 @@
+Admission Date:  [**2117-11-2**]              Discharge Date:   [**2117-11-9**]
+
+Date of Birth:  [**2063-1-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+lorazepam
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Worsening abdominal pain, poor PO intake, worsening back pain,
+right vision loss
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+00Mr [**Known lastname **] is a 54 year old male with a history of
+metastatic NSCLC with KRAS mutation, metastatic to bone.  He is
+s/p Carboplatin and Pemetrexed [**Date range (3) 88828**], maintenance
+Pemetrexed (s/p 5 cycles, POD [**2117-2-24**] CT), s/p DF/HCC protocol
+11-302 randomized to the arm receiving GSK1120212 (an inhibitor
+of MEK1/2 activation and kinase activity) and is also s/p
+palliative radiation to low back for metastatic disease of the
+vertebra.  He presents with increasing lower back pain despite
+attempts to control with fentanyl patch and narcotics at home.
+Previous PET scans have shown increased FDG avidity in the right
+ischial tuberosity and left L5 vertebral body and pedicle
+compatible with known metastases.  He has found the fentanyl,
+oxycodone, and morphine that he has taken at home to be
+ineffective.  He often feels better when he stands and walks,
+and worse when he lies down.  Pain frequently radiates down his
+legs.  His palliative radiation treatments started [**10-11**] of
+this year.
+
+He also presents with poor PO intake over the last several weeks
+(he thinks he has lost 10 lbs over this time period) and a
+burning, epigastric sensation after eating.  He denies vomiting
+but states that his PO intake has decreased dramatically
+secondary to the epigastric pain.  No diarrhea.
+
+Otherwise, he also has discovered a progressive loss of vision
+in his right eye.  Over the past week or so, he feels his right
+eye has gotten increasingly blurry - he has never required
+visual correction in the past.  He does not describe an acute
+event but feels he's had a gradual loss over the week.  No pain
+or erythema associated with this event.
+
+Otherwise, review of systems is positive for a mildly productive
+cough.  Denies fevers, chills.  No chest pain, chest pressure.
+
+Pain was controlled in house with fentanyl patch and dialudid.
+However, pt's respiration status got worse. Patiet had an
+aspiration event following a bout of cough. Pt was initially
+started on levo but zosyn was ordered as well. Pt had three
+triggers for hypoxia and required 10L of face mask for some time
+to maintain sats. MICU transfer was sought for worsening resp
+status and nursing concern.
+
+Past Medical History:
+Stage 4 NSCLC c/b SVC syndrome (please refer to oncology
+progress notes for full oncologic history), asthma,
+osteoarthritis.
+
+Past Surgical history:
+[**2116-6-22**]: VATS with RUL biopsy and wedge resection of right lung
+mass
+
+ONCOLOGIC HISTORY:
+- [**12/2115**] developed hacking productive cough, [**4-/2116**] became
+worse, occasional hemoptysis and Patient presented to [**Hospital3 35296**] Hospital ED where he underwent CXR [**2116-5-22**] revealing a
+RUL mass lesion with central cavitation.
+- OSH CT of the chest w/ contrast [**2116-5-22**]
+2 RUL masses identified, one in the apical segment and the other
+in the anterior segment.  The larger lesion measures 8 cm and
+the
+smaller lesion, 4 cm. There is extensive right hilar and
+pericarinal adenopathy with circumferential compression of the
+bronchus intermedius and RUL bronchus. The right main pulmonary
+artery is compressed. Besides an isolated nonspecific 3 mm
+nodule
+in the LUL and extensive coronary artery calcifications, the
+restof the chest is unremarkable. Note is also made of likely
+adrenalhyperplasia.
+- [**2116-6-22**] underwent OSH bronchoscopy showing fullness in the
+area
+bt the RUL and the right main stem bronchus near the carina with
+initial biopsies nondiagnostic (Dr. [**Last Name (STitle) **] [**Last Name (NamePattern5) 88829**]).
+- [**2116-6-22**] OSH VATS with RUL biopsy and wedge resection of right
+lung mass (4 X 2 X 1.5 cm fragmented lung tissue with soft
+necrotic tumor mass that is about 2.5 cm in greatest diameter)
+diagnosed as well-differentiated bronchoalveolar carcinoma (no
+lymph nodes assessed, positive margins), EGFR mutation testing
+byIHC, EGFR not detected
+- [**2116-6-24**] Saw Dr. [**Known firstname 449**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 33667**], Oncologist, at [**Hospital 27034**]
+Hospital in consultation for NSCLC but was unable to continue
+following with him for insurance issues.
+- [**2116-7-20**] Initial consultation with Radiation Oncology here, Dr.
+[**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **].
+- [**2116-8-13**] C1D1 of carboplatin and pemetrexed
+- [**2116-8-25**] - [**2116-8-28**] admitted at [**Hospital1 18**] for cough-induced syncope
+(EKG, cardiac enzymes, telemetry, TTE unremarkable).  IP
+consulted and performed a R throacentesis on [**2116-8-28**] to
+alleviate
+severe cough.  Pleural fluid was + for malignant cells.
+- Restaging PET/CT [**2116-10-13**]:
+1. Interval decrease in the size and FDG uptake in the right
+apical lung mass and right hilar mass.  Interval decrease in the
+FDG avidity of the bony metastases. No new FDG avid bony
+metastatic disease.
+- Restaging MRI of the brain [**2116-10-13**]:
+Unchanged size and appearance of enhancing small left frontal
+lobe lesion corresponding to an area with a punctate
+calcification seen on the recent head CT. These findings may be
+related to a granuloma.
+-Restaging PET CT [**2117-12-30**]:
+Overall increase in FDG-avidity of known right lung mass, hilar
+mass and subcarinal lymph node compatible with progression of
+disease. Newly FDG-avid right infraclavicular lymph node and new
+right ischial tuberosity FDG uptake
+
+[**2117-4-1**] DF/HCC protocol 11-302 C1D1, randomized to
+GSK1120212(MEK [**1-11**] inhibitor)
+[**2117-4-15**] Dose reduction in GSK1120212 for grade II rash.
+[**2117-6-24**] Off treatment portion of protocol 11-302 for POD on CT
+torso [**2117-6-21**].
+
+
+Social History:
+Patient is of Italian heritage; his father is first generation
+and his mother emigrated to the U.S. Single with no children.
+Lives with his parents in [**Location (un) 932**]. Worked as an engineering
+technician in a company that makes auto remote sensors.
+-Cig smoking 1.5 ppd X 38 years.
+-Drinking beer for "fun" in the past.
+-Denies history of substance abuse.
+
+
+Family History:
+His sister died of brain cancer at 32 yo. Maternal Grandmother
+died of liver cancer at 69 yo. Maternal uncle died of
+livercancer at 72 yo. Another maternal uncle died of an
+aneurysm. His father has HTN, HL. His mother has [**Name (NI) 2320**].
+
+Physical Exam:
+Admission exam
+VS: temp 98, HR 77, BP 100/80, RR 12, 98 % RA
+Gen: Caucasian male, pleasant, mildly anxious secondary to pain
+Neurologic:  Significantly diminished right vision loss, with
+poor resolution beyond [**2-12**] feet of right eye, left eye vision
+intact. Pupils mid-sized, round and reactive to light. No loss
+in peripheral vision.  Otherwise nonfocal cerebellar, motor, and
+sensory exam.
+Neck: supple
+Cardiac: Nl s1/s2 RRR no murmurs appreciable
+Pulm: lungs clear bilaterally
+Abd: soft and nontender with no palpable masses
+Ext: no edema noted
+
+Discharge exam
+Tmax: 36.3 ??????C (97.4 ??????F)
+
+Tcurrent: 36.1 ??????C (97 ??????F)
+
+HR: 108 (90 - 161) bpm
+
+BP: 105/73(81) {98/59(69) - 105/73(81)} mmHg
+
+RR: 8 (6 - 16) insp/min
+
+SpO2: 95%
+
+Heart rhythm: ST (Sinus Tachycardia)
+
+Height: 67 Inch
+
+Exam was deferred as pt was sleeping soundly.
+
+Pertinent Results:
+Admission labs:
+
+[**2117-11-2**] 02:40PM BLOOD WBC-8.5 RBC-4.56* Hgb-11.9* Hct-36.7*
+MCV-81* MCH-26.2* MCHC-32.5 RDW-19.0* Plt Ct-251
+[**2117-11-2**] 02:40PM BLOOD Neuts-78.9* Lymphs-12.0* Monos-5.4
+Eos-3.3 Baso-0.4
+[**2117-11-2**] 02:40PM BLOOD PT-28.0* PTT-40.9* INR(PT)-2.6*
+[**2117-11-2**] 02:40PM BLOOD UreaN-14 Creat-0.7 Na-139 K-4.6 Cl-102
+HCO3-32 AnGap-10
+[**2117-11-3**] 07:00AM BLOOD Albumin-3.7 Calcium-9.6 Phos-3.5 Mg-1.8
+[**2117-11-6**] 08:18AM BLOOD Type-ART pO2-71* pCO2-42 pH-7.43
+calTCO2-29 Base XS-2 Intubat-NOT INTUBA
+
+Pertinent micro/path:
+
+[**2117-11-6**] BLOOD CULTURE Blood Culture, Routine-

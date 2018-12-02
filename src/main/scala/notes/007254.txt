@@ -1,0 +1,208 @@
+Admission Date:  [**2111-11-14**]              Discharge Date:   [**2111-11-23**]
+
+Date of Birth:  [**2031-8-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+coronary artery disease
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafts x 3(LIMA-LAD, SVG-DG,SVG-RCA)[**11-17**]
+
+
+History of Present Illness:
+This 80 year old white male with a history of chronic angina
+with exertion and negative stress tests. His angina has
+crescendoed over a two day period to having angina with climbing
+one flight of stairs.. He was admitted for elective
+catheterization at [**Hospital6 1109**]. This revealed 3
+vessel disease with preserved LV function and he was transferred
+for revascularization.
+
+Past Medical History:
+Prostate cancer- XRT
+Diverticulitis
+colectomy for diverticular disease
+hyperlipidemia
+peripheral neuropathy
+prostatism
+s/p dual chamber pacemaker implant
+
+Social History:
+remote smoker.
+rare ETOH use.
+lives with his wife
+
+Family History:
+noncontributory
+
+Physical Exam:
+Discharge:
+98.1 124/64 76 18
+No acute distress, oriented, and awake
+Heart of regular rate and rhythm
+Lungs clear to auscultation bilaterally
+Abdomen soft, non-tender, non-distended
+Extremities warm with 1+ edema
+Mediastinal incision clean, dry, and intact
+Sternum stable
+Left vein harvest sites clean, dry, and intact
+
+Pertinent Results:
+[**2111-11-22**] 07:15AM BLOOD WBC-6.8 RBC-3.37* Hgb-10.6* Hct-30.4*
+MCV-90 MCH-31.6 MCHC-35.0 RDW-13.8 Plt Ct-263
+[**2111-11-22**] 07:15AM BLOOD Plt Ct-263
+[**2111-11-22**] 07:15AM BLOOD Glucose-94 UreaN-22* Creat-1.3* Na-135
+K-3.9 Cl-97 HCO3-32 AnGap-10
+[**2111-11-21**] 03:14AM BLOOD ALT-21 AST-34 LD(LDH)-303* AlkPhos-62
+Amylase-32 TotBili-0.6
+[**2111-11-22**] 07:15AM BLOOD WBC-6.8 RBC-3.37* Hgb-10.6* Hct-30.4*
+MCV-90 MCH-31.6 MCHC-35.0 RDW-13.8 Plt Ct-263
+[**2111-11-21**] 03:14AM BLOOD WBC-9.0 RBC-3.88*# Hgb-12.1*# Hct-34.5*
+MCV-89 MCH-31.2 MCHC-35.1* RDW-14.5 Plt Ct-209#
+[**2111-11-17**] 02:29PM BLOOD WBC-6.7 RBC-2.64*# Hgb-8.3*# Hct-23.7*#
+MCV-90 MCH-31.6 MCHC-35.2* RDW-13.8 Plt Ct-147*
+[**2111-11-14**] 07:15PM BLOOD WBC-6.5 RBC-4.08* Hgb-13.0* Hct-37.7*
+MCV-92 MCH-31.9 MCHC-34.5 RDW-13.2 Plt Ct-235
+[**2111-11-21**] 03:14AM BLOOD PT-12.7 PTT-30.8 INR(PT)-1.1
+[**2111-11-14**] 07:15PM BLOOD PT-12.2 PTT-27.0 INR(PT)-1.0
+[**2111-11-22**] 07:15AM BLOOD Glucose-94 UreaN-22* Creat-1.3* Na-135
+K-3.9 Cl-97 HCO3-32 AnGap-10
+[**2111-11-14**] 07:15PM BLOOD Glucose-136* UreaN-20 Creat-1.4* Na-139
+K-4.4 Cl-104 HCO3-28 AnGap-11
+[**2111-11-21**] 03:14AM BLOOD ALT-21 AST-34 LD(LDH)-303* AlkPhos-62
+Amylase-32 TotBili-0.6
+[**2111-11-14**] 07:15PM BLOOD ALT-18 AST-21 AlkPhos-68 Amylase-56
+TotBili-0.2
+[**2111-11-22**] 07:15AM BLOOD Mg-2.4
+[**2111-11-14**] 07:15PM BLOOD Albumin-4.1 Mg-2.1
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 105287**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 105288**] (Complete)
+Done [**2111-11-17**] at 12:14:43 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2031-8-16**]
+Age (years): 80 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Abnormal ECG. Aortic valve disease. Chest pain.
+Coronary artery disease. Hypertension.
+ICD-9 Codes: 402.90, 786.51, 440.0, 424.1
+Test Information
+Date/Time: [**2111-11-17**] at 12:14    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5209**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW5-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.7 cm  <= 4.0 cm
+Right Atrium - Four Chamber Length:  *5.7 cm  <= 5.0 cm
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Aortic Valve - Peak Gradient:  2 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  1 mm Hg
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. No spontaneous echo
+contrast or thrombus in the LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. No
+spontaneous echo contrast in the body of the RA. A catheter or
+pacing wire is seen in the RA and extending into the RV. Dynamic
+interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Normal
+LV wall thickness. Normal LV cavity size.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Simple
+atheroma in aortic root. Normal ascending aorta diameter. Simple
+atheroma in ascending aorta. Normal aortic arch diameter. Simple
+atheroma in aortic arch. Normal descending aorta diameter.
+Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened
+aortic valve leaflets. No AS. Mild to moderate ([**12-24**]+) AR.
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+Mildly thickened mitral valve leaflets. Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The patient received antibiotic prophylaxis. The
+TEE probe was passed with assistance from the anesthesioology
+staff using a laryngoscope. No TEE related complications.
+patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-CPB:1. The left atrium is moderately dilated. No spontaneous
+echo contrast or thrombus is seen in the body of the left
+atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. No spontaneous echo contrast is
+seen in the body of the right atrium.
+2. No atrial septal defect is seen by 2D or color Doppler.
+3. Left ventricular wall thicknesses and cavity size are normal.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal.
+4. Right ventricular chamber size and free wall motion are
+normal.
+5. There are simple atheroma in the aortic root. There are
+simple atheroma in the ascending aorta. There are simple
+atheroma in the aortic arch. There are simple atheroma in the
+descending thoracic aorta.
+6. There are three aortic valve leaflets. The aortic valve
+leaflets are mildly thickened. There is no aortic valve
+stenosis. Mild to moderate ([**12-24**]+) aortic regurgitation is seen.
+7. The mitral valve appears structurally normal with trivial
+mitral regurgitation. The mitral valve leaflets are mildly
+thickened. Trivial mitral regurgitation is seen.
+8. There is a trivial/physiologic pericardial effusion.
+Drs. [**Last Name (STitle) **] and [**Name5 (PTitle) **] were notified in person of the
+results.
+
+POST-CPB: On infusion of phenylephrine. AV pacing.
+Well-preserved LV systolic function with improvement of the
+anteroapical and anteroseptal walls. LVEF is now 45%. 1+ AI,
+trace MR. Aortic contour is normal post decannulation.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting
+physician [**Last Name (NamePattern4) **]
+
+
+Brief Hospital Course:
+The patient was transferred her from [**Hospital **] Hospital for
+surgery following his catheterization. He remained stable and on
+[**11-17**] was taken to the operating room where triple bypass
+grafting was performed as noted. Please see operative note for
+complete details. He weaned from bypass on neosynephrine and
+Propofol.  Epinephrine was begun after surgery for low card

@@ -1,0 +1,184 @@
+Admission Date:  [**2160-1-1**]              Discharge Date:   [**2160-1-4**]
+
+Date of Birth:  [**2096-5-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2474**]
+Chief Complaint:
+dyspnea
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname 79627**] is a 63 yo M with history of COPD (2L home O2 at
+night), schizophrenia, pulmonary hypertension admitted with
+progressively worsening dyspnea and hypoxia.  Of note he was
+recently admitted [**Date range (1) 17777**] for COPD exacerbation and
+pneumonia for which he was treated with levofloxacin x5 days and
+prednisone taper decreasing by 10mg q2 days.  He has been
+followed by VNA daily since his recent discharge and was sent in
+for O2 of 86% on RA, normally 90-92%.  Per report from VNA he
+was taking steroids at home, antibiotic course was completed on
+the day following discharge.  He report that he has had
+increasing dypnea and chest tightness for the past 4-5 days
+although it is difficult to elicit details about how he has been
+feeling.  He denies fever, nausea, vomiting, light headedness,
+syncope, diarrhea, abdominal discomfort.
+.
+On arrival in the ED T99.4 BP 102/61 HR 109  99% on NRB.  He was
+given albuterol/atrovent nebs and noted to be more somnolent in
+the ED, was changed from NRB to 2L NC with improvement in mental
+status.  ABG was drawn which was similar to baseline 7.37/58/73
+on 2LNC.  He did have period of hypotension with BP 95/p.  He
+was given 1.5L NS, vancomycin 1g IV, zosyn 4.5g IV and
+prednisone 60g po.  He was also sent for CTA given hypotension
+and mild tachycardia.  He was also started on BIPAP.
+.
+On arrival to the ICU he appears well and reports that he is
+feeling significantly better than when he first got to the ED.
+He was changed over from BIPAP to 2L NC upon arrival.
+
+
+Past Medical History:
+1) COPD: FEV/FVC 60% in [**2150**] (no recent PFTs available), on
+home 1.5-2L O2 at night only
+2) Secondary Pulmonary Hypertension (51-66 mm Hg on ECHO
+[**2159-9-18**])
+3) Schizophrenia
+4) Hx GI bleeding
+5) Mental Retardation
+
+
+Social History:
+Lives in [**Location **] with brother and brother-in-law. On
+disability since [**2149**] for mental health issues. Has home nurse
+visit every morning and evening. Reports ~50 pack-year smoking
+history with abstinence for the past 9 days since recent d/c.
+Patient denies alcohol use and drug use.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: T96.7 HR 74 BP 120/70 RR 27 94%2L NC
+General: A&O x3, answers questions however difficult to
+understand [**3-10**] mumbling, no acute distress
+HEENT: NC AT PERRL, EOMI
+Neck: supple, no LAD, no JVD
+CV: distant heart sounds, RRR no appreciable murmur
+Lungs: breathing comfortably, no accessory muscle use, decreased
+breath sounds L>>R, scattered ronchi, diffuse expiratory wheezes
+Abd: soft, NT ND BS+ no rebound or guarding
+Ext: warm, no pedal edema, palpable DP's bilaterally
+
+
+Pertinent Results:
+ADMISSION LABS
+[**2160-1-1**] 08:14AM BLOOD WBC-38.4*# RBC-4.79 Hgb-15.2# Hct-44.7#
+MCV-93 MCH-31.7 MCHC-34.0 RDW-13.3 Plt Ct-377
+[**2160-1-1**] 08:14AM BLOOD Neuts-89* Bands-2 Lymphs-4* Monos-3 Eos-0
+Baso-0 Atyps-2* Metas-0 Myelos-0
+[**2160-1-1**] 08:14AM BLOOD PT-12.5 PTT-30.0 INR(PT)-1.1
+[**2160-1-1**] 08:14AM BLOOD Glucose-147* UreaN-23* Creat-1.0 Na-135
+K-4.3 Cl-93* HCO3-32 AnGap-14
+[**2160-1-1**] 08:14AM BLOOD Calcium-9.0 Phos-4.2 Mg-1.8
+DISCHARGE LABS
+[**2160-1-4**] 06:43AM BLOOD WBC-15.9* RBC-4.06* Hgb-12.7* Hct-37.9*
+MCV-94 MCH-31.4 MCHC-33.6 RDW-13.0 Plt Ct-343
+[**2160-1-4**] 06:43AM BLOOD Neuts-80.6* Lymphs-14.6* Monos-3.8
+Eos-0.9 Baso-0.1
+[**2160-1-3**] 07:00AM BLOOD PT-10.9 PTT-27.7 INR(PT)-0.9
+[**2160-1-4**] 06:43AM BLOOD Glucose-110* UreaN-22* Creat-0.8 Na-139
+K-4.1 Cl-95* HCO3-40* AnGap-8
+[**2160-1-3**] 07:00AM BLOOD Calcium-8.8 Phos-2.9# Mg-1.9
+ABGs
+[**2160-1-1**] 09:58AM BLOOD Type-ART Rates-/40 O2 Flow-2 pO2-73*
+pCO2-58* pH-7.37 calTCO2-35* Base XS-5 Intubat-NOT INTUBA
+Comment-NC
+[**2160-1-2**] 02:50AM BLOOD Type-ART Temp-36.8 O2 Flow-2 pO2-59*
+pCO2-64* pH-7.32* calTCO2-34* Base XS-3 Intubat-NOT INTUBA
+[**2160-1-3**] 11:15AM BLOOD Type-ART pO2-56* pCO2-62* pH-7.38
+calTCO2-38* Base XS-8
+.
+[**2160-1-1**] CXR Opacity seen within the right lower lobe may
+represent resolving pneumonia; however, a recurrence cannot be
+excluded. However, this is less likely given incongruity with
+clinical findings. No new areas of consolidation seen.
+.
+[**1-2**] CXR: Previously reported right basilar opacities are
+improving with minimal residual infrahilar opacities remaining
+with associated bronchial wall thickening and mild volume loss.
+New peribronchiolar opacities have developed in the left
+retrocardiac region and may represent acute aspiration,
+atelectasis, or an early focus of pneumonia. Heart size remains
+normal. Prominence of the hila appear unchanged, possibly due to
+prominent pulmonary vasculature, but standard PA and lateral
+radiographs would be helpful prior to discharge for more
+complete assessment when the patient's condition permits.
+.
+CHEST (PA & LAT) Study Date of [**2160-1-3**] 9:13 AM The lungs are
+hyperinflated and the diaphragms are flattened, consistent with
+COPD. The heart is not enlarged. There is mild unfolding of the
+ascending aorta. There is patchy opacity in the right infrahilar
+region and to a lesser extent in the lingula. There is minimal
+blunting of the right costophrenic
+angle. IMPRESSION: Patchy opacity right infrahilar region worse
+than on [**2160-1-1**], consistent with pneumonia. Patchy opacity also
+in the left lingular region, probably unchanged allowing for
+technique. Please note that followup to resolution is
+recommended to exclude a neoplastic or other chronic infiltrate.
+
+Brief Hospital Course:
+Mr. [**Known lastname 79627**] is a 63 yo M with history of COPD (2L home O2 at
+night), schizophrenia, pulmonary hypertension admitted to MICU
+with progressively worsening dyspnea. His MICU course was
+uncomplicated and he was transfered to the floor for further
+management. On the floor he remained hypoxic but reporting he
+was at baseline. Ultimately he was discharged with followup with
+pulmonary medicine on a steroid taper and abx for concern of
+PNA. VNA is scheduled to see him and do home pulmonary PT. He
+may eventually need inpatient pulm. PT if he can tolerate it.
+.
+# Respiratory distress: Most likely [**3-10**] COPD exacerbation;
+initial ABG relatively similar to his baseline, second overnight
+with slight worsening. CXR equivocal for worsening pneumonia.
+Significant worsening of leukocytosis on admission which is
+improving off ABx. Steroids: prednisone 60 for a total of 5 days
+and taper by 10mg daily every other day. So 60mg to [**2160-1-5**],
+11/30-12/0 50mg, and so forth. With the help of pulmonary
+consult he was discharged on anticholinergics, inhaled steroids,
+and beta agonists. Was on azithromycin initially but switching
+to levofloxacin 750mg PO daily D1 [**2160-1-4**] for worsening R
+perihilar opacity on interval CXR concerning for PNA. Continue
+levofloxacin to [**2160-1-10**]. Goal O2 sats were 90-93% given COPD and
+baseline retention. Desat to 77% with ambulation which is worse
+than baseline by report. 90% at rest. ABG at rest on room air
+was 7.38/62/56. Discharged with 24hr O2 at home.
+.
+# Leukocytosis - significantly elevated to 38.4 on admission
+from 15 on [**2159-12-25**] at time of discharge. Some improvement
+today. Possibly [**3-10**] to steroids, also consider infection with
+most likely sources being recurrence of pneumonia vs C.diff
+given recent antibiotics. Given CXR on [**2160-1-3**] concerning for
+PNA switched to levofloxacin. This is a good explanation for his
+leukocytosis.
+.
+# Schizophrenia: stable. Continued olanzapine.
+.
+# Tobacco abuse - readressed importance of tobacco cessation in
+preventing progression of COPD and helping to decrease future
+infections/hospitalizations.
+Was discharged on continuous O2 and warned about the risks of
+oxygen and smoking. Given nicotine patch
+
+Medications on Admission:
+Olanzapine 5 mg Tablet qd
+Fluticasone-Salmeterol 250-50 mcg/Dose one INH [**Hospital1 **]
+Tiotropium Bromide 18 mcg one INH dail

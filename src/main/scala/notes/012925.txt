@@ -1,0 +1,197 @@
+Admission Date:  [**2118-6-3**]              Discharge Date:   [**2118-6-17**]
+
+Date of Birth:  [**2046-5-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 4917**]
+Chief Complaint:
+Septic shock, hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This is a 72-year-old gentleman with a pmhx. significant for
+diabetes, hypertension, systolic CHF, and iron deficiency anemia
+who is transferred from outside hospital with septic shock in
+the setting of severe c.diff colitis.  Apparently patient was
+being worked up for iron deficiency anemia and went for
+colonoscopy on [**2118-5-27**].  Since that time he did not feel well,
+with diarrhea and fevers up to 102 (unclear if he received
+antibiotics peri-procedure).  He presented to [**Hospital3 **] on
+[**6-1**] where he was found to be hypotensive and c.diff positive.
+A CT scan of his abdomen showed pan-colitis without perforation.
+ Patient was transferred to [**Hospital1 18**] on [**2118-6-3**] as WBC continued to
+rise, lactate was high, and there was concern for toxic
+megacolon.  While at [**Hospital1 **] cardiology was consulted for
+persistent hypotension and an ECHO showed an EF of 15%.  [**Hospital1 **],
+cardiology was consulted for persistent hypotension and
+tachycardia, and an echo was done which showed EF of 15% (down
+from 40% in past).  Creatinine also continued to rise.
+
+Upon transfer, vs in MICU were 97.7, HR 127 was in a.fib,
+108/74, 21, 93%. He was on phenylephrine and dobutamine until
+[**2118-6-4**], during which time his blood pressures dipped from
+60s-90s few times.  Was weaned off pressors and continued to do
+well.  He was seen by surgery who recommended no intervention.
+Patient was transferred to the floor on [**2118-6-5**].
+
+He returned to the floor after a day or two, and developed
+progressive renal failure, possibly [**1-6**] to hypotension. He
+became anuric, developed altered mental status, with respiratory
+distress. Profoundly acidemic, he was sent to MICU [**Location (un) 2452**].
+Before initiating HD, he was tried on lasix/dobutamine, but EF
+recently went from 30 --> 15%. He was initiated on HD; he didn't
+tolerate bipap, did well on autoset cpap.  ECHO repeated at
+[**Hospital1 18**] and found to be wnl (potentially on dobutamine). He was on
+po vanc and IV flagyl for a while (had +cdiff at OSH, repeated
+here and was negative) -- continue to treat for 14 day course.
+Stopped flagyl [**2118-6-13**] because taking the PO vanc on a regular
+basis. Had a S&S, he passed, he can eat.
+
+He was downgraded from MICU to the floor, and did well. He had
+pain on urination, which was improving. Bladder US revealed BPH,
+so his tamsulosin was resumed at home doses (0.4mg QD). He
+received PT for reconditioning. He resumed PO diet without
+problem.
+
+ROS:  Patient denies chest pain, shortness of breath, abdominal
+pain, nausea, vomiting, or persistent diarrhea.  He endorses a
+good appetitie.
+
+Past Medical History:
+CHF (EF 15% from OSH)
+T2DM
+non-insulin dependent
+OSA, occassionally using BiPAP
+HTN
+Hyperlipidemia
+Iron deficiency anemia
+BPH.
+
+Social History:
+Mr. [**Known lastname 95279**] is an antiques dealer.  He does not use tobacco
+or drink alcohol.  He is independent with ADLs.
+
+Family History:
+No history of chronic kidney disease.
+
+Physical Exam:
+ADMISSION Physical Exam
+VS: 97.3, 128/60, 86, 20, 96% on 2L
+GENERAL:  Well appearing, obese gentleman, no acute distress
+HEENT:  Mucous membranes slightly dry
+NECK:  JVP very difficult to assess but not obviously elevated
+CHEST:  Clear to auscultation bilaterally, no wheezes, rales, or
+rhonchi
+CARDIAC:  Distant heart sounds, irregularly irregular
+ABDOMEN: +BS, distended, non-tender
+EXTREMITIES:  No edema bilaterally
+NEURO: Alert and oriented to person, place, time and event
+
+DISCHARGE Physical exam:
+VS T 97.6 HR 93 BP 118/62 RR 18 100% 2L
+GEN Eating, sitting comfortably. Alert, no acute distress.
+HEENT NCAT MMM EOMI sclera anicteric, OP clear
+NECK supple
+PULM Good aeration, CTAB no wheezes, rales, rhonchi
+CV RRR normal S1/S2, no mrg
+ABD soft NT ND normoactive bowel sounds, no r/g
+EXT WWP 2+ pulses palpable bilaterally, no c/c/e
+NEURO CNs2-12 intact, motor function grossly normal
+SKIN no ulcers or lesions
+
+
+Pertinent Results:
+[**2118-6-3**] 10:00PM   WBC-16.8* RBC-5.49 HGB-10.0* HCT-35.0*
+MCV-64* MCH-18.1* MCHC-28.5* RDW-18.0*
+[**2118-6-3**] 10:00PM   NEUTS-89.2* LYMPHS-6.6* MONOS-4.0 EOS-0.1
+BASOS-0
+[**2118-6-3**] 10:00PM   CALCIUM-6.8* PHOSPHATE-3.4 MAGNESIUM-2.1
+Glucose: 170
+Creatinine: 3.2
+BUN: 67
+K: 4.7
+Cl: 117
+HCO3: 15
+
+KUB [**2118-6-4**]: Consistent with ileus.
+
+Bladder and kidney US [**2118-6-14**]:
+FINDINGS:  The right kidney measures 11.8 cm and the left kidney
+measures 11.8 cm.  There is no hydronephrosis.  No cyst or stone
+or solid mass is seen in either kidney.  No perinephric fluid
+collection is identified.  A scant trace  of ascites is seen in
+the right lower quadrant.  The amount of ascites is  decreased
+since the prior ultrasound of [**2118-6-6**].  The pre-void
+bladder is  moderately distended and is unremarkable.  Post-void
+imaging was attempted;  however, the patient stated he was
+unable to void.  The prostate is enlarged  with a volume of
+about 90 mL.
+IMPRESSION:  No hydronephrosis.  Enlarged prostate.  Distended
+bladder.  Note is made that the patient was not able to void.
+
+Echo repeated ([**2118-6-16**]):
+The estimated right atrial pressure is 0-5 mmHg. Left
+ventricular wall thicknesses are normal. There is mild regional
+left ventricular systolic dysfunction with hypokinesis of the
+inferoseptal segments. Right ventricular chamber size and free
+wall motion are normal. There is abnormal septal
+motion/position. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+stenosis. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is
+seen. There is mild pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion. There is an
+anterior space which most likely represents a prominent fat pad.
+
+
+IMPRESSION: Normal left ventricular wall thickness with
+hypokinesis of the inferoseptal segments. Mild mitral
+regurgitation. Mild pulmonary artery systolic hypertension.
+
+Compared with the prior study (images reviewed) of [**2118-6-9**], the
+regional wall motion abnormalities are new. The LVEF has
+decreased from 50% to 45%. Due to the limited nature of the
+current study, a comprehensive comparison of all previously
+mentioned parameters could not be made.
+
+DISCHARGE LABS:
+BMP and CBC
+[**2118-6-17**] 04:35AM BLOOD WBC-9.5 RBC-3.89* Hgb-7.1* Hct-24.3*
+MCV-63* MCH-18.3* MCHC-29.2* RDW-19.2* Plt Ct-149*
+[**2118-6-17**] 04:35AM BLOOD Plt Ct-149*
+[**2118-6-17**] 04:35AM BLOOD Glucose-190* UreaN-43* Creat-3.5* Na-135
+K-3.9 Cl-98 HCO3-30 AnGap-11
+[**2118-6-17**] 04:35AM BLOOD Calcium-7.6* Phos-3.0 Mg-2.1
+
+Iron Studies
+[**2118-6-14**] 12:15PM BLOOD calTIBC-183* Ferritn-485* TRF-141*
+
+
+Brief Hospital Course:
+This is a 72-year-old gentleman with a pmhx significant for
+systolic heart failure, HTN, diabetes type II, and BPH who was
+transferred from OSH for septic shock in the setting of c.diff
+colitis and required MICU care for a course complicated by [**Last Name (un) **]
+causing ATN and requiring initiation of HD, CHF, hypotension,
+and respiratory failure.
+
+Active Diagnoses
+
+# SEPTIC SHOCK [**1-6**] SEVERE C.DIFF: The pt presented to OSH for
+endoscopy and colonoscopy for w/u anemia on [**5-27**]. He then went
+to the [**Hospital1 **] ER on [**6-1**] with fever, abdominal pain, nausea and
+vomitting and was found to have leukocytosis, pancolitis on CT,
+and +c diff. There he received fluid resuscitation, was started
+on PO vanco and flagyl and required blood pressure support. He
+was found to have an EF of 15% (down from previous EF of 40%).
+He was transferred to MICU [**Hospital1 18**] for concern of toxic
+megacolon/sepsis on [**6-3**]. ACS was consulted and felt the abdomen
+was not toxic. He was continued on vanco/flagyl in the MICU,
+phenylephrine and dobutamine were weaned off, and he was
+continued to require IVF 

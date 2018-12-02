@@ -1,0 +1,200 @@
+Admission Date:  [**2123-2-3**]              Discharge Date:   [**2123-2-13**]
+
+Date of Birth:  [**2046-5-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1899**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname 91946**] is a 76 yo M with h/o CAD s/p CABG, DM, HTN, CKD
+(baseline Cr ~3), CHF with EF 45%, PVD with chronic right 3rd
+toe ulceration, s/p bioprosthetic aortic valve replacement, who
+is being transferred from OSH for shortness of breath, found to
+have pneumonia and CHF exacerbation. Patient was recently
+discharged from [**Hospital3 **] to rehab (Newbridge on the
+[**Doctor Last Name **]) after admission for falls and uncontrolled diabetes.
+Prior to that he had been living independently at home. During
+hospitalization at Sturdy, his ACE inhibitor and Bumex were
+stopped due to worsening renal function. While in rehab, he
+subsequently developed respiratory distress and hypoxia to 82%
+on RA. He was admitted to [**Hospital1 18**] [**Location (un) 620**], where he was found to
+have worsening respiratory failure possibly due to pneumonia or
+CHF. CXR showed likely multifocal BL pneumonia, +/- pulmonary
+edema. Echo showed LVEF 40%, moderately depressed LV systolic
+function, hypokinesis/near-akinesis of at least basal and
+mid-anteroseptal segments, moderate MR. [**Name14 (STitle) 16835**] negative (CPK
+100, MB 2.3, Trop T 0.129 -> 0.138). EKG unremarkable. BNP
+[**Numeric Identifier 91947**]. Lasix gtt @ 5cc/hr was started with good diuresis
+(-1300cc on [**2-2**], -1500cc on [**2-3**]) but limited improvement in
+oxygenation. Patient received dose of vanc/azithro/ceftriaxone
+in [**Location (un) 620**] ED, then started on azithro and ceftriaxone as
+inpatient. On transfer to [**Hospital1 18**], he is on 100% nonrebreather
+satting in the 80s, antibiotics and Lasix gtt. He is currently
+normotensive.
+.
+On arrival to the CCU, patient is hemodynamically stable,
+satting in low 90's on 100% NRB. He complains of "weakness" but
+denies dyspnea.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+-CHF (EF 45%), requiring hosp 2 yrs ago
+-CAD s/p CABG ~10 yrs ago
+-s/p bioprosthetic aortic valve replacement ([**2121**])
+-CKD (baseline Cr 3)
+-PVD with chronic right 3rd toe ulceration
+-HTN
+-HLD
+-IDDM
+-Anemia requiring multiple blood transfusions, details unknown
+-Frequent falls
+-Hypothyroidism
+
+
+Social History:
+Prior to hospitalization and rehab, patient continued to work at
+the Bay [**Location (un) 47997**] teaching appliance maintenance and
+refrigeration. He has not smoked for more than 50 years. He
+lives independently with his girlfriend.
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+General: elderly M in NAD, AAOx2.5, slightly confused, poor
+historian, somewhat tachypneic when talking with examiner
+HEENT: PERRL, sclera anicteric, MMM, oropharynx clear
+Neck: JVD 6-7cm above clavicle, with positive hepatojugular
+reflux, carotid pulsations normal
+Lungs: Crackles 1/3 up bases without wheezes or rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: 1+ bilateral lower extremity edema warm, well perfused, 2+
+pulses, no clubbing, cyanosis. +bruising in BUE.
+Neuro: CN??????s [**2-14**] grossly intact. +BLE flexor/extensor weakness.
+Patient somewhat confused with word finding difficulties.
+.
+Discharge Physical Exam:
+Deceased.
+
+Pertinent Results:
+ADMISSION LABS:
+WBC-12.8* RBC-2.49* Hgb-7.7* Hct-23.6* MCV-95 MCH-31.1 MCHC-32.8
+RDW-16.0* Plt Ct-235
+PT-14.5* PTT-29.7 INR(PT)-1.4*
+Glucose-209* UreaN-81* Creat-2.9* Na-142 K-4.1 Cl-105 HCO3-18*
+AnGap-23*
+ALT-65* AST-42* CK(CPK)-83 AlkPhos-182* TotBili-0.4
+CK-MB-5 cTropnT-0.13*
+Calcium-8.4 Phos-5.0* Mg-2.5
+VBG: pO2-46* pCO2-30* pH-7.40 calTCO2-19* Base XS--4
+Lactate-2.0
+.
+Labs on admission to [**Hospital1 18**] [**Location (un) 620**] ([**2-2**]):
+Na 132, K 4.9, Cl 99, HCO3 18, BUN 79, Cr 3.0, glucose 348, Ca
+8.1
+WBC 12.3 (92% PMNs), HCT 21.6 (baseline ~25), MCV 97
+INR 1.1
+ALT 92, AST 92, AP 254, Tbili 0.77, albumin 2.6
+Lactate 2.1
+BNP 38,000
+CPK 100, MB 2.3, Trop T 0.129 -> 0.138 (5:30am on [**2123-2-3**])
+UA: trace blood, protein 30, glucose 100, no WBCs
+A1C recently 9.0
+ABG ([**2123-2-3**], 5:50 PM): 26/62/18.5
+.
+CXR ([**2123-2-2**], [**Location (un) 620**]): The patient is status-post CABG and
+median sternotomy wires are intact. There is diffuse air space
+opacity overlying the right hemithorax and portions of the left
+hemithorax with sparing of the left lung apex and upper lobe.
+The opacity obscures the cardiomediastinal silhouette. There is
+no pneumothorax or large pleural effusion.
+IMPRESSION: BILATERAL AIR SPACE OPACITIES, WORSE ON THE RIGHT.
+IN THE PROPER CLINICAL SCENARIO, THESE ARE CONSISTENT WITH
+MULTIFOCAL PNEUMONIA. LESS LIKELY, THIS WOULD REPRESENT
+PULMONARY EDEMA.
+.
+CXR ([**2123-2-3**]): bilateral pulmonary edema and possible bilateral
+infiltrates, pleural effusion on left.
+.
+EKG ([**2123-2-2**], [**Location (un) 620**]): NSR at a rate of 74 beats per minute,
+normal axis, QTC of 495, minimal ST depression in V5 alone.
+.
+EKG ([**2123-2-3**]): ST depressions V4-V6
+.
+ECHO ([**2123-2-3**], [**Location (un) 620**]): [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3841**] dilated. RA moderately
+dilated. Normal LV wall thickness and cavity size. Mild/moderate
+regional LV systolic dysfunction with hypokinesis of the basal
+and mid anteroseptal segments. Due to suboptimal technical
+quality, additonal focal wall motion abnormalities cannot be
+fully excluded. Overall LV systolic function is moderately
+depressed (LVEF= 40 %). There is abnormal septal
+motion/position. A bioprosthetic aortic valve prosthesis is
+present. The aortic valve prosthesis appears well seated, with
+normal leaflet/disc motion and transvalvular gradients. Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+moderately thickened. There is severe mitral annular
+calcification. Moderate (2+) mitral regurgitation is seen. [Due
+to acoustic shadowing, the severity of mitral regurgitation may
+be significantly UNDERestimated.] There is mild pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+IMPRESSION: Biatrial enlargement. Normal left ventricular cavity
+size and wall thickness with moderately depressed left
+ventricular systolic function and hypokinesis/near-akinesis of
+at least the basal and mid anteroseptal segments. Right
+ventricle not well-visualized. Well-seated, normally functioning
+bioprosthetic aortic valve. At least moderate mitral
+regurgitation in the setting of severe mitral annular
+calcification. Mild pulmonary artery systolic pressure.
+.
+EEG ([**2123-2-11**]):
+IMPRESSION: This is an abnormal continuous ICU video EEG because
+of
+frequent bursts of generalized periodic epileptiform discharges
+at 1-1.5
+Hz in the beginning of the recording which became prolonged
+induration
+by the afternoon. These do not have any clinical correlation. In
+
+between bursts of GPEDs, the background remains slow and
+disorganized at
+a maximum of 5 Hz posteriorly indicative of moderate diffuse
+encephalopathy. During the recording, frequent right arm and leg
+
+writhing movements that are sometimes generalized are seen,
+associated
+with grunting at times, and do not have any electrographic
+correlate or
+clear association with GPEDs. No clear electrographic seizures
+are
+present in this recording. Compared to the previous day, there
+is no
+significant change.
+
+Brief Hospital Course:
+Primary Reason for Hospitalization:  76 yo M with h/o CABG, DM,
+HTN, CKD (baseline Cr ~3), systolic CHF with EF 40-45% who is
+being transferred from OSH for shortness of breath, found to
+have pneumonia and CHF exacerbation thought to be due to
+pneumonia and cessation of Lasix.
+
+Active Diagnoses:
+# s/p PEA arrest: Cardiac arrest most likely occurred in the
+setting of h

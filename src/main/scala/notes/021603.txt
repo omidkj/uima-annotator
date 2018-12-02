@@ -1,0 +1,179 @@
+Admission Date:  [**2117-12-18**]              Discharge Date:   [**2118-1-7**]
+
+Date of Birth:  [**2064-7-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin,Porcine
+
+Attending:[**First Name3 (LF) 9160**]
+Chief Complaint:
+Shortness of breath, hypoxemia
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+
+
+History of Present Illness:
+53M with history of schizoprhenia on anti-psychotics and COPD,
+active smoker group home resident who began c/o wheezing and
+respiratory distress.  Whe was given an albuterol treatment and
+EMS was called.  While in EMS, c/o respiratory distress.  When
+EMTs arrived his vitals were 130/85 115 28 90% on 3l NC, he had
+an end-tidal CO2 of 50.  Per his sister he reports several days
+of feeling unwell with non-specific symptoms.
+.
+Per reports, he arrived at [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] with hypoxia and
+somnelence, a trial of bipap was initiated and he became acutely
+agitated.  He was noted to have the following initial gas 7.30
+76 55 and he was trialed on NRB however failed and was
+intubated.  Bilateral breath sounds are documented but no CXR.
+Initial peak pressures appearr to have been 38, plateau 24,
+Compliance 33 on 14x600 with 5 of peep.  He also received
+steroids and lasix.  By report CXR showed edema.  They had no
+ICU beds available and transferred him to the [**Hospital1 **] for further
+management.
+.
+In the ED inital vitals were not documented.  He was evaluated
+with head CT and CTA.  Preliminarily both studies are
+non-diagnostic though there is clear L>R atelectasis.  He was
+noted to have coarse BS.  ET tube was pulled back.  Tox screen
+was negative.
+
+Past Medical History:
+Schizoprhenia c/b psychosis
+Anxiety
+COPD
+Hyperlipidemia
+
+
+Social History:
+Lives in a group home, sister is next of [**Doctor First Name **], smoker
+
+
+Family History:
+None known
+
+Physical Exam:
+Vitals: T:97.3 BP:139/86 P:95 R: 18 O2: 95%
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+On Admission:
+[**2117-12-18**] 02:39AM BLOOD WBC-7.3 RBC-4.76 Hgb-14.7 Hct-44.3 MCV-93
+MCH-30.9 MCHC-33.2 RDW-13.3 Plt Ct-220
+[**2117-12-18**] 02:39AM BLOOD WBC-7.3 RBC-4.76 Hgb-14.7 Hct-44.3 MCV-93
+MCH-30.9 MCHC-33.2 RDW-13.3 Plt Ct-220
+[**2117-12-18**] 02:39AM BLOOD Neuts-93.3* Lymphs-5.3* Monos-0.9*
+Eos-0.3 Baso-0.1
+[**2117-12-18**] 02:39AM BLOOD PT-12.6 PTT-35.3* INR(PT)-1.1
+[**2117-12-18**] 02:39AM BLOOD Glucose-150* UreaN-14 Creat-1.1 Na-141
+K-5.1 Cl-98 HCO3-37* AnGap-11
+[**2117-12-18**] 02:39AM BLOOD [**Month/Day/Year **]-22 AST-15 LD(LDH)-189 CK(CPK)-90
+AlkPhos-99 TotBili-0.3
+[**2117-12-18**] 02:39AM BLOOD Albumin-4.2 Calcium-9.1 Phos-2.6* Mg-2.3
+[**2117-12-18**] 02:39AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+Studies:
+.
+Echo [**2117-12-18**] - Regional left ventricular wall motion is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). No mitral regurgitation is seen. The pulmonary
+artery systolic pressure could not be determined. There is no
+pericardial effusion. There is an anterior space which most
+likely represents a prominent fat pad.
+.
+CT Head [**2117-12-18**] - No acute intracranial process. Ethmoidal
+and left maxillary fluid.
+.
+CTA Chest [**2117-12-18**] - Left greater than right lower lobe
+opacities most suggestive of substantial atelectasis. No
+evidence for pulmonary embolism.
+.
+CT Chest [**2117-12-25**] - Bilateral pulmonary emboli with embolus
+straddling the left main pulmonary artery. Worsening opacity
+within the lower lobes representing a combination of atelectasis
+and consolidation. Samll bilateral pleural effusions.
+.
+RUQ US [**2117-12-28**] - Minimally distended gallbladder without
+gallstones or evidence for cholecystitis.
+
+Brief Hospital Course:
+Mr. [**Name13 (STitle) 60973**] is a 53 year-old male with PMH of schizophrenia,
+smoking and COPD who was initially transferred to [**Hospital1 18**] on
+[**2117-12-18**] for acute hypoxic/hypercarbic respiratory failure
+attributed to pneumonia. MICU course complicated by bilateral
+PE.
+.
+## H. flu Pneumonia / Respiratory failure: The patient initially
+presented to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Hospital with hypoxia and somnelence.
+[**Last Name (NamePattern1) **] a trial of bipap but became acutely agitated. Initial
+ABG showed 7.30/76/55. The patient was intubated and transferred
+to [**Hospital1 18**].  At [**Hospital1 18**], Mr. [**Name13 (STitle) 60973**] was treated with steorids and
+nebulizers for a potential COPD exacerbation and CTX, azithro
+for CAP. Initial CT chest was negative for PE. Over the
+subsequent days the patient was noted to be requiring high
+levels of PEEP to maintain oxygen saturations.  Diuresed without
+significant improvement. ECHO with bubble study was
+unremarkable. The patient grew H. Flu sensitive to ampicillin
+from his sputum and was changed to Ampicillin monotherapy. All
+other cultures remained negative. On [**2117-12-23**], the patient was
+noted to be having desaturations and PEEP was increased. Started
+spiking persistent fevers >101. CXR unchanged but was broadened
+empirically to Cefepime and Vancomycin for hospital-acquired
+pneumonia coverage. Fever work-up included HIV, [**Doctor First Name **], HBV, HCV,
+Lyme, Monospot- all of which were negative. Given lack of
+progress and continued hypoxia and fevers, the patient [**Doctor First Name 1834**]
+CT chest/abdomen/pelvis on [**2117-12-25**], which revealed multiple
+pulmonary embolisms. Started on a heparin drip. Soon after the
+patient was noted to have a morbilliform drug rash and the
+heparin was switched to argatroban/warfarin. Tobramycin was
+added for continued fevers and concern for VAP. The patient's
+drug rash worsened the following day, and Cefepime was switched
+to Meropenem. The patient's antibiotic course was completed on
+[**2117-12-31**] after which he remained afebrile. On [**2117-12-29**], the
+patient was extubated but could not manage his secretions and
+was re-intubated. Plan was for trach although on [**2118-1-1**], the
+patient self-extubated. He was subsequently weaned to room air,
+transferred to the floor, and has done extremely well from
+respiratory standpoint. He is no longer on antibiotics.
+.
+## HIT/Pulmonary embolism: Mr. [**First Name (Titles) 60973**] [**Last Name (Titles) 1834**] CTA on initial
+evaluation at [**Hospital1 18**]. This was negative for PE. Was placed on
+subcutaneous Heparin for DVT prophylaxis. On repeat CT scan on
+[**2117-12-25**], multiple bilateral pulmonary emboli were noted. The
+patient had no evidence of right heart strain. Initially started
+on heparin drip although this was changed to argatroban/warfarin
+due to a developing drug rash. Continued on Argatroban until
+[**2117-12-30**] when he was switched to Lovenox for a planned trach.
+A HIT Ab was sent and found to be positive. Given new PE and
+thrombocytopenia, he most likely had Heparin-induced
+thrombocytopenia. His INR was therapeutic (goal INR [**3-18**]) on
+Warfarin prior to transfer out of ICU. He will have his INR
+checked 3 times per week by VNA, which should be faxed to his
+PMD, Dr. [**First Name4 (NamePattern1) 429**] [**Last Name (NamePattern1) **] at [**Hospital3 2358**], so that he can adjust the
+Warfarin dose as needed.
+.
+## Agitation: He had agitation while in the ICU, which was
+likely due to ICU delirium and being intubated. He required a
+fair amount of sedation on the vent. He responded to PRN Haldol
+and his home Psychiatry meds. His agitation resolved after he
+was extubated.
+.
+## Transaminitis: AST and [**Hospital3 **] rose during the admission, which
+was likely due to antibiotics given the time course. There was
+no record of sustained hypotension to predispose to shock liver.
+AP and TBili were not elevated, so cholestasis was unl

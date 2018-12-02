@@ -1,0 +1,194 @@
+Admission Date:  [**2131-12-31**]              Discharge Date:   [**2132-1-4**]
+
+Date of Birth:  [**2060-3-7**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Procardia / Aliskiren
+
+Attending:[**First Name3 (LF) 8850**]
+Chief Complaint:
+Altered Mental Status.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+Mr. [**Known firstname 95455**] [**Known lastname 95456**] is a 71-year-old man with a history of
+diastolic CHF, CAD, type II diabetes mellitus, and most recently
+a insular glioblastoma diagnosed in [**2131-9-16**] now status post
+radiotherapy and temzolomide currently being managed by Dr. [**First Name11 (Name Pattern1) **]
+[**Initial (NamePattern1) **] [**Last Name (NamePattern4) 724**].  Mr. [**Known lastname 95456**] presents from his [**Hospital1 1501**] after having
+acute onset of lethargy at 06:00 p.m. this evening.  He was
+monitored closely and his vital signs remained stable.  At
+around 11:30 pm he was noted to have increased left sided
+weakness and new left sided facial droop.  He was brought to
+[**Hospital1 18**] Emergency Department by EMS for further evaluation of his
+altered mental status.
+
+In the Emergency Department initial vital signs were:
+Temperature 97.3 F, pulse 70, blood pressure 137/79, repsiration
+16, and oxygen saturation 97% on 2 liters via nasal cannula.
+Patient was found to be lethargic but arousable. CT head was
+performed showing interval increase in hemorrhage around the
+mass, now with acute area of hemorrhage 2.6 cm x 1.4 cm.
+Neurology was consulted urgently for left sided facial droop and
+weakness.  Given evidence of bleed they recommended holding home
+aspirin and maintaining blood pressure control. Per ED team, Dr.
+[**First Name8 (NamePattern2) 1151**] [**Last Name (NamePattern1) **] from the Neuro-Oncology Service reviewed the imaging
+and did not recommend any changes to current antiepilectic and
+steroid regimen at this time.  He recommended further imaging
+only if significant change in neurologic examination.
+Laboratory findings were notable for troponin 0.11, Hct 35
+(baseline), creatinine 1.2 (baseline), INR 1.0, PTT 20.8.
+Patient's EKG was unchanged compared to prior.  Chest X-ray was
+without evidence of an acute cardiopulmonary process.  Patient
+received no medications or IV fluids prior to transfer to the
+Medicine ICU for serial neurologic examinations.
+
+On arrival to the ICU the patient appears comfortable.  He
+attempts to follow simple commands but is too lethargic to
+follow any complex commands or to speak in full sentences.
+
+ROS:  Difficult to obtain given lethargy.  Patient does deny any
+headache, chest pain, shortness of breath, abdominal pain.  Per
+OMR he has urinary incontinence.
+
+Past Medical History:
+-Right frontotemporal glioblastoma multiforme WHO Grade IV,
+status post biopsy on [**2131-9-27**], on protocol using
+hypofractionated involved-field radiotherapy with temozolomide
+followed by Cyberknife boost
+-Ischemic stroke
+-Malignant HTN
+-CAD s/p IMI
+-Chronic diastolic CHF
+-PAF (ED visit [**7-25**])
+-Type II diabetes mellitus
+-Anxiety/Depression
+
+Social History:
+He is a resident of [**First Name5 (NamePattern1) 4542**] [**Last Name (NamePattern1) 19207**] & Nursing Center in
+[**Location (un) 38**], MA.  He is a retired rocket scientist from [**Country 532**].
+He worked for USSR space program and NASA.  A former pipe
+smoker, he quit in [**2097**].  He is a social drinker and he does not
+abuse illicit drugs.
+
+Family History:
+Father: Type [**Name (NI) **] diabetes and hypertension.  Mother: [**Name (NI) **] [**Name (NI) 3730**].
+ Brother: Type [**Name (NI) **] Diabetes.
+
+Physical Exam:
+VITAL SIGNS:  Tempperature 96.3 F, blood pressure 160/88, pulse
+65, respiration 18, and oxygen saturation 96% in room air.
+GENERAL:  Lethargic, opens right eye to loud verbal stimuli
+SKIN:  No rasheS, jaundice, or splinters
+HEENT:  Left eye s/p cataract surgery, left pupil appears
+chronically dilated, right eye pupil 3 --> 2 mm, EOMI,
+anicteric, dry MM, no supraclavicular or cervical
+lymphadenopathy, no JVD, no thyromegaly or thyroid nodules
+CARDIOVASCULAR:  Irregular, bradycardic S1 and S2 wnl, no m/r/g
+PULMONARY:  Irregular respirations concerning for sleep apnea
+versus [**Last Name (un) 6055**]-[**Doctor Last Name **] respirations, rhonchorus breath sounds at
+bilateral bases
+ABDOMEN:  Non-distended, positive bowel sounds, soft,
+non-tender, and without masses
+EXTREMITIES:  No clubbing, cyanosis, or edema
+DRAINS:  Portacath in place, Foley catheter in place.
+
+NEUROLOGICAL EXAMINATION:  Awake, alert, and oriented x 1 only.
+He is lethargic, keeps eyes open for only seconds, answers
+questions appropriately, cooperative while awake, and has mild
+left-sided facial droop.  Tongue at midline.  Strength and
+sensation difficult to assess given lethargy.  Left arm appears
+weaker than right.  Patient able to wiggle fingers and toes in
+both hands and feet symmetrically.
+
+Pertinent Results:
+Imaging:
+[**2131-12-30**] Head CT:
+1. Large mass in the right frontal lobe with adjacent new
+hemorrhage at the right putamen.
+2. Subacute infarcts in the right occipital lobe and right
+posterior corona radiata.
+3. No subfalcine herniation or uncal herniation.
+4. No hydrocephalus.
+
+[**2131-12-31**] Chest X-Ray:
+1. No focal lung consolidation.
+2. Right Port-A-Catheter with tip at the mid SVC in similar
+position compared to prior.
+3. Upper mediastinal silhouette widened could be due to goiter.
+Correlate
+with physical exam.
+
+Microbiology:
+[**2132-1-2**] URINE CULTURE-PRELIM {PROTEUS MIRABILIS} >100,000
+ORGANISMS/ML
+[**2132-1-2**] STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-NEGATIVE
+[**2131-12-31**] URINE CULTURE-FINAL {PROTEUS MIRABILIS}
+PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+[**2131-12-31**] MRSA SCREEN MRSA SCREEN-NEGATIVE
+
+Labs on admission:
+[**2131-12-31**] 05:05AM BLOOD WBC-10.0 RBC-4.03* Hgb-12.0* Hct-36.0*
+MCV-89 MCH-29.8 MCHC-33.4 RDW-17.0* Plt Ct-255
+[**2131-12-30**] 11:38PM BLOOD Neuts-86.9* Lymphs-8.8* Monos-3.8 Eos-0.2
+Baso-0.3
+[**2131-12-31**] 05:05AM BLOOD PT-11.7 PTT-21.6* INR(PT)-1.0
+[**2131-12-31**] 05:05AM BLOOD Glucose-160* UreaN-43* Creat-1.0 Na-143
+K-3.8 Cl-101 HCO3-34* AnGap-12
+[**2131-12-31**] 05:05AM BLOOD ALT-21 AST-17 CK(CPK)-50 AlkPhos-89
+TotBili-0.5
+[**2131-12-31**] 05:05AM BLOOD CK-MB-4 cTropnT-0.09*
+[**2131-12-31**] 05:05AM BLOOD Calcium-8.7 Phos-4.4 Mg-2.2
+[**2131-12-31**] 04:51AM BLOOD Type-ART pO2-76* pCO2-42 pH-7.50*
+calTCO2-34* Base XS-7
+[**2131-12-31**] 04:51AM BLOOD Lactate-1.3
+[**2131-12-31**] 04:51AM BLOOD freeCa-1.14
+
+Labs on discharge:
+[**2132-1-4**] 04:30AM BLOOD WBC-10.7 RBC-3.42* Hgb-10.3* Hct-29.9*
+MCV-88 MCH-30.3 MCHC-34.5 RDW-16.6* Plt Ct-238
+[**2132-1-4**] 04:30AM BLOOD Glucose-160* UreaN-49* Creat-1.0 Na-142
+K-3.6 Cl-106 HCO3-27 AnGap-13
+[**2132-1-4**] 04:30AM BLOOD Calcium-8.7 Phos-2.9 Mg-2.2
+
+Finger stick glucose on day of discharge: 331 <-- 143 <-- 220
+<-- 298
+
+Brief Hospital Course:
+Patient with acute mental status change found to have
+intraparenchymal hemorrhage at site of glioblastoma multiforme
+on CT scan.  Initially admitted to the ICU, and then transferred
+to the floor in stable condition.
+
+(1) Altered Mental Status:  His head CT shows increased
+hemorrhage around known glioblastoma multiforme.  It is not
+clear whether his symptoms on presentation are secondary to this
+hemorrhage, increased edema from his tumor, possibly a new
+ischemic stroke, or the UTI.  Patient's known intracranial
+lesion also raises concern for seizure activity though this is
+less likely given his seizure prophylaxis and clinical history.
+There was no evidence of int

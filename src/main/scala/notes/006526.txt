@@ -1,0 +1,133 @@
+Admission Date:  [**2133-4-16**]              Discharge Date:   [**2133-4-18**]
+
+Date of Birth:  [**2063-7-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Augmentin / Erythromycin Base
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hyperkalemia and constipation
+
+Major Surgical or Invasive Procedure:
+Hemodialysis
+
+History of Present Illness:
+Mr. [**Known lastname 4281**] is a 69 year old man who was transferred from rehab
+(there after recent hospitalization for CHF at NWH) due to
+hyperkalemia and abdominal discomfort.  The patient has
+apparently not had a bowel movement for over 1 week, and was
+also found to have potassium of 6.8 (per records receiving
+Kayexelate intermittently since [**4-11**]).  In the ED, the patient
+was found to have a prolonged QRS of 236, with a sinusoidal
+pattern.  He received insulin, D50, bicarb, and calcium in the
+ED. There was also concern for digoxin toxicity, so digibind was
+given, and his dig level returned at 1.1.  His QRS improved to
+176.  Renal was consulted and the initial plan was for dialysis,
+but he had a foley placed and 800 cc of urine drained, so it was
+decided that diuresis would be attempted first.
+
+
+Past Medical History:
+PMHx:
+DM2
+a-fib
+CABG in [**2126**]
+CHF(? 2nd to ischemic CM?)
+PVD (s/p mult toe amps, R SFA to DP bypass)
+CRI baseline around 2.0
+HTN
+s/p appy
+s/p umbilical hernia repair
+.
+Allergies:E-mycin, augmentin
+
+
+Social History:
+unknown
+
+Family History:
+unknown
+
+Physical Exam:
+96.9; 86; 102/77; 18; 99% 4L NC
+GEN: somnolent
+HEENT: anicteric, MMM, OP clear
+CHEST: few crackles R>L
+CV: RRR, Nl S1S2, no M/R/G
+ABD: NABS, soft, NT, ND
+EXT: 2+ pitting edema to knees bilaterally
+
+Pertinent Results:
+[**2133-4-16**] 02:00PM BLOOD WBC-10.5 RBC-4.48* Hgb-11.3* Hct-37.1*
+MCV-83 MCH-25.3*# MCHC-30.5* RDW-16.0* Plt Ct-354
+[**2133-4-16**] 02:00PM BLOOD Plt Ct-354
+[**2133-4-16**] 02:00PM BLOOD PT-24.0* PTT-35.9* INR(PT)-3.6
+[**2133-4-16**] 02:00PM BLOOD Glucose-123* UreaN-87* Creat-3.1*#
+Na-132* K-7.2* Cl-94* HCO3-12* AnGap-33*
+[**2133-4-16**] 04:16PM BLOOD Calcium-9.5 Phos-4.6* Mg-3.4*
+[**2133-4-16**] 02:00PM BLOOD Albumin-3.7
+[**2133-4-16**] 02:00PM BLOOD ALT-60* AST-53* CK(CPK)-116 AlkPhos-160*
+TotBili-5.3*
+[**2133-4-16**] 02:00PM BLOOD CK-MB-6 cTropnT-0.13*
+[**2133-4-17**] 12:40AM BLOOD CK-MB-7 cTropnT-0.12*
+[**2133-4-16**] 02:00PM BLOOD Digoxin-1.1
+[**2133-4-16**] 02:07PM BLOOD K-7.8*
+[**2133-4-17**] 04:37AM BLOOD Lactate-5.2*
+.
+CHEST (PORTABLE AP)  [**2133-4-16**] 2:23 PM
+CHEST AP: There is stable cardiomegaly. The patient is status
+post median sternotomy and CABG. Mediastinal and hilar contours
+are stable. The lungs are clear. There is no evidence of
+pneumothorax. No definite pleural effusions are seen. Osseous
+and soft tissue structures are stable. Central line tip appears
+to be in the region of the right brachiocephalic vein. It
+appears kinked at the IJ entry site.
+IMPRESSION: No pneumothorax. Right IJ CVL tip in the region of
+the right brachiocephalic vein. The catheter appears kinked at
+the IJ entry site.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 41702**] hyperkalemia was likely secondary to acute renal
+failure of unclear etiology.  Renal failure was thought to be
+prerenal in etiology, or possibly due to poor cardiac output
+because of CHF.  His EKG was significant for a widened QRS with
+RBBB morphology.  His widened QRS was likley secondary to
+hyperkalemia.  He received bicarb, calcium chloride, insulin/d50
+for reduction of his potassium, but wide QRS complex remained on
+his EKG.  The renal service was following, and hemodyalisis was
+also performed on the night of admission.  He was monitored on
+telemetry and serial EKG's were followed.  Throughout his
+admission, he developed a worsening acidosis, rising lactate,
+and coagulopathy.  On [**2133-4-18**], he became progressively
+bradycardic and hypotensive.  Levophed was started, but could
+not suppport his blood pressure.  The patient went into PEA
+arrest and could not be resuscitated despite intervention.  He
+died at 9:12am.
+
+Medications on Admission:
+Meds on x-fer:isordil, hydral, coumadin, dig 0.125 qod, lasix
+(recently held), RISS, protonix, [**Last Name (LF) 9202**], [**First Name3 (LF) **], MVI, ambien,
+compazine, tylenol, albuterol PRN, colace.
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+n/a
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

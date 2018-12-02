@@ -1,0 +1,208 @@
+Admission Date:  [**2142-5-2**]              Discharge Date:   [**2142-5-3**]
+
+Date of Birth:  [**2076-8-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+vancomycin / Ace Inhibitors
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Leukocytosis
+
+Major Surgical or Invasive Procedure:
+- None.
+
+History of Present Illness:
+65 M w recent dx lymphoboplasmacytic lymphoma now in remission
+s/p 4 cycles R-C-medrol [**2140**], who was recently hospitalized at
+[**Hospital1 18**] ([**2142-3-7**] - [**2142-4-16**]) for a saccular aneurysm of the
+lateral aspect of the aortic arch that was emergenctly
+intervened upon under deep hypothermic circulatory arrest on
+[**2142-3-11**] (descending aorta was replaced with 28 mm Gelweave
+graft).
+.
+The patient had a prolonged and complicated hospital course.  He
+failed extubation on POD 2 and multiple times thereafter.
+.
+He had persistent leukocytosis, fevers, and diarrhea during
+hospitalization and was empirically treated for C. Diff with a
+10-day course of vancomycin & flagyl (despite 7 negative C. Diff
+toxin tests).
+.
+His thoracotomy wound developed erythema and blistering and he
+had an incision & drainage of [**2142-3-21**] (fluid culture returned
+without growth).  He becam septic on [**2142-4-8**] and, in addition
+to persisent leukocytosis & fevers, he also became hypotensive
+and required pressors.  He was treated with broad spectrum
+antibiotics per ID recommendations. He was found to have a graft
+infection (noted on CT) requiring IR drainage on [**2142-4-8**]. All
+OR swabs were without growth.
+.
+The patient had a tracheostomy & PEG tube placed on [**2142-4-1**] for
+multile failed attempts at extubation.
+.
+Ultimately, his sputum was showed enterobacter; the patient was
+started on meropenem.  He was transferred to [**Hospital1 49145**] on [**2142-4-16**] on meropenem (course to end on [**2142-4-22**]).
+.
+On [**2142-4-24**], the patient presented to the [**Hospital3 **] from NESH
+with hypoxic respiratory failure with hypotension & fever to
+101.3.  At that time, according to the OSH notes, he was still
+on meropenem and this was initially continued. In he ED he was
+found to have a PNA which was ultimately determined to be due to
+Enterobacter resistant to all tested antibiotics except
+tigecycline.  He initially required ventilatory support, but
+transitioned to trach mask on [**2142-4-30**].  He has since been
+stable from a hemodynamic & respiratory standpoint.
+.
+A CT chest with contrast performed (& read) at OSH demonstrated
+a 7 x 3.4 x 1.7 cm loculated pleural fluid collection at the
+lateral posterior aspect of the L lung base.
+.
+Serial chest x-rays during his admission at [**Hospital3 **]
+demonstrated development of a a R lower lobe PNA.
+.
+The patient has had an intermittent leukocytosis with bandemia
+at the [**Hospital3 **]. A tagged WBC scan was performed on [**4-30**] in an
+attempt to identify an infectious source.  The scan demonstrated
+increased update in the L chest adjacent to the aortic arch
+which was suspicious for a periarotic infection.  According to
+notes, he has been afebrile for several days but developed WBC
+12.3 with 13% bands [**Last Name (un) **].    As such, the patient is being
+transfered to [**Hospital1 18**] for further evaluation and treatment.
+.
+REVIEW OF SYSTEMS: Unable to obtain.
+
+
+Past Medical History:
+- Descending Aortic Aneurysm s/p emergent repair
+----> s/p replacement with 28 mm graft [**2142-3-11**]
+----> c/b graft infection requiring IR draining [**2142-4-8**]
+- Respiratory Failure
+----> VAP (Enterobacter)
+- Tracheostomy placement
+- PEG placement
+- Lymphoplasmacytic lymphoma (dx in [**4-7**]) - see onc history
+below
+- Hypertension
+- Gout
+- Anemia: B12 & iron deficiency
+- Hx/o EtOH overuse
+- Hx/o esophageal stricture
+- Diverticulitis
+- Inflammatory arthritis (on chronic prednisone)
+- CVA
+- GERD
+- Laparoscopic cholecystectomy
+- s/p vein stripping on left leg
+
+ONCOLOGIC HISTORY:
+- [**2140-3-7**]  Initial consult.  CT C-A-P unremarkable.
+- [**2140-4-13**] Bone marrow: path = lymphoplasmacytic lymphoma
+- [**2140-4-25**] Cycle #1 Rituxan-Cytoxan-Medrol 16mg qd
+- [**2140-5-18**] Cycle #2 R-C-Medrol 16mg qd taper
+- [**2140-6-6**] Cycle #3 R-C-Medrol 8mg [**Hospital1 **] ordered celebrex
+- [**2140-7-4**]  Cycle #4 R-C, medrol tapered off, MRI: meniscal
+injury, bone infarct?
+- [**2140-7-5**]  Admitted [**Hospital1 18**] transfused for HCT 22% d/c [**7-7**]
+- [**2140-7-12**] Admitted [**Hospital1 18**] severe pain, Rheum, Ortho evals, d/c
+[**7-15**]
+- [**2140-7-19**] Dr. [**First Name4 (NamePattern1) 449**] [**Last Name (NamePattern1) 11422**] [**Location (un) 2274**] ortho, relief with R knee
+steroid & lidocaine injection
+- [**2140-7-25**] Heme Onc follow-up, Aranesp
+- [**2140-7-28**] Flare of joint pain
+- [**2140-8-28**] Medrol per Dr. [**Last Name (STitle) **]
+- [**2140-9-20**] Joint pain back to baseline, IgM down to 862, plan to
+continue steroids and IgM
+- [**2141-3-9**] At baseline level of compensated health, IgM stable.
+Followup in 6 months
+- [**2141-6-7**] Worsening joint pain Dr. [**Last Name (STitle) **] [**Name (STitle) **] Rituximab
+1000mg/m2
+- [**2141-6-21**] Rituximab 1000mg/m2
+- [**2141-7-20**] Start sulfasalazine 3g/d, cont medrol
+- [**2141-9-7**] Hematology follow up: baseline level of malaise,
+tapering medrol per Rheum
+- [**2142-2-2**]  Follow up IgM 500s, stable, stable anemia
+
+
+Social History:
+Prior to [**Hospital1 18**] hospitalization, he lived with his wife
+- [**Name (NI) **] children
+- Was most recently in rehab
+- Contact = wife:  [**Telephone/Fax (1) 96773**]
+- Retired [**Company 2318**] inspector
+- Tobacco: Quit smoking in [**2122**] (previously 2-3 packs/day x 30
+years)
+- EtOH: none in 2 years (-pack or more a last week)
+
+
+Family History:
+Father with EtOH abuse and liver cancer, hypertension.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+71  102/51  99% on 40% FM
+GEN: Appears slightly agitated. Follows basic commands. Frail.
+HEENT: PERRL. OP clear.
+NECK: Trached.
+PULM:  Faint breath sounds throughout both lung fields,
+diminished at bases. Intermittent transmission of upper
+respiratory sounds
+[**Last Name (un) **]: +NABS.  PEG in place. Soft, NTND
+EXT: Trace LE. No rashes.
+GU: Excoriated rash on buttocks.
+NEURO: Follows basic commands. MAEE.
+
+DISCHARGE PHYSICAL EXAM:
+Unchanged.
+
+Pertinent Results:
+ADMISSION LABS:
+
+[**2142-5-2**] 04:15PM BLOOD WBC-9.8 RBC-3.89* Hgb-11.8* Hct-38.4*
+MCV-99*# MCH-30.5 MCHC-30.9* RDW-14.4 Plt Ct-192
+[**2142-5-2**] 04:15PM BLOOD Neuts-79* Bands-0 Lymphs-11* Monos-7
+Eos-3 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2142-5-2**] 04:50PM BLOOD ALT-22 AST-17 CK(CPK)-29* AlkPhos-122
+TotBili-1.0
+
+DISCHARGE LABS:
+
+[**2142-5-3**] 05:20AM BLOOD WBC-7.3 RBC-3.63* Hgb-10.8* Hct-34.0*
+MCV-94 MCH-29.9 MCHC-31.9 RDW-14.5 Plt Ct-196
+[**2142-5-3**] 05:20AM BLOOD Plt Ct-196
+[**2142-5-3**] 05:20AM BLOOD Glucose-99 UreaN-30* Creat-0.4* Na-142
+K-4.1 Cl-111* HCO3-23 AnGap-12
+[**2142-5-3**] 05:20AM BLOOD Albumin-2.6* Calcium-9.0 Phos-3.7 Mg-1.7
+
+IMAGING STUDIES:
+
+LEFT LATERAL DECUB FILM: ([**2142-5-2**])
+FINDINGS: As compared to the previous radiograph, a left lateral
+decubitus
+view has been added. The likelihood of a left pleural effusion
+is low. No
+PICC line is seen on the radiograph. Tracheostomy tube in
+unchanged position.
+
+
+Brief Hospital Course:
+65 M with recent complicated hospitalization at [**Hospital1 18**] for
+emergent aortic surgery for a saccular aneurysm which was
+complicated by graft infection requiring IR drainage on
+[**2142-4-8**], enterobacter VAP now represents after initial
+hospitalization at OSH for ongoing enterobacter pneumonia &
+respiratory failure.
+
+# Chronic Respiratory Failure:  The patient is now s/p
+tracheostomy on [**2142-4-1**] for multiple failed extubation
+attempts.  He has been requiring 40% FiO2 by trach mask.  His
+most recent CT scan shows evidence of bronchiectasis. The
+patient's respiratory failure was recently complicated by
+enterobacter PNA now s/p 7-day course of tigecycline.  He will
+continue supplemental oxygen via trach mask on discharge; he
+will likely having an ongoing oxygen requirement.
+
+# Leukocytosis: The patient was transferred from [**Hospital3 **] for
+leukocytosis 12.3 with 13% bandemia. There was 

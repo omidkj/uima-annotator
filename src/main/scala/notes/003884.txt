@@ -1,0 +1,204 @@
+Admission Date:  [**2181-10-17**]              Discharge Date:   [**2181-10-22**]
+
+
+Service: MEDICINE
+
+Allergies:
+Metronidazole / Morphine / Percocet
+
+Attending:[**Doctor Last Name 10493**]
+Chief Complaint:
+PCP: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1007**], MD
+.
+REASON FOR MICU TRANSFER: Respiratory Failure.
+CHIEF COMPLAINT: Shortness of Breath.
+
+Major Surgical or Invasive Procedure:
+Mechanical Ventilation
+Endotracheal intubation
+
+
+History of Present Illness:
+Ms. [**Known lastname 20802**] is a [**Age over 90 **] y.o. F with diastolic CHF (EF 55% on [**9-2**]
+echo), recent PE on [**2-/2181**], recent GI bleeding attributed to
+colon diverticuli seen on colonoscopy during recent [**Hospital1 18**]
+hospitalization in [**2181-9-25**], transferred from OSH ([**Hospital1 **])
+with respiratory failure attributed to flash pulmonary edema.
+.
+From [**10-11**] - [**2181-10-16**], the patient was admitted to [**Hospital1 18**] for
+rectal bleed for 2 days.  On presentation, pt [**Name (NI) 4650**], stable Hct,
+and supratherapeutic INR 3.8.  Rectal exam with gross blood in
+rectal vault.  No other episodes of rectal bleeding in hospital.
+Transfused 2 pRBCs and given vitamin K for colonoscopy. [**Last Name (un) **]
+showed diverticuli.  Hct stable.  Patient was discharged without
+anticoagulation after discussing risk of GI bleed, fall risk and
+benefit of coumadin.  Was also diuresed while in hospital with
+[**Hospital1 **] lasix (from home daily dose of lasix).  Discharged to
+[**Location (un) 5481**] on [**2181-10-16**].
+.
+The patient was admitted on [**2181-10-17**] to [**Hospital3 **] after
+episode of acute shortness of breath at [**Hospital1 1501**].  Per Patient Care
+Referral form, pt found pale, unable to breath with oxygen
+fluctuating between 60 and 70%, was on 2 L NC and then increased
+to 5 L NC. Transferred to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].  She was intubated for
+this.  No documentation of DNR/DNI was with her at OSH.  CXR
+showed pulmonary edema. Given lasix IV but limited by
+hypotension this AM to SBP 70s.  Gave 200 cc IVF bolus ---> SBP
+110.  Troponins now 0.04 --> 0.29 --> 0.38 (cutoff 0.5). EKG
+initially in atrial fibrillation in ED and given cardizem x 1
+with conversion to NSR. EKG this AM without ischemic changes [**Name8 (MD) **]
+MD.  Bedside echo was ordered, but no report yet. Cardiology
+consulted and believed may be due to ischemia but hesitant to
+anticoagulate due to recent GI bleed. Noted to have leukocytosis
+that has been trending up to 18,000 today. Pt was cultured and
+placed on zosyn and vancomycin for broad coverage.  Noted to
+have a UTI also.  Attempted CPAP trial this morning, but she
+failed by report from MD.
+.
+Currently, pt is sedated and intubated.
+.
+ROS: Cannot obtain as intubated and sedated.
+
+
+Past Medical History:
+- CAD - stress [**2170**] showed 1-1.[**Street Address(2) 1755**] depression consistent
+with
+ischemia, nl echo treated medically. Repeat echo [**2175**]: LVEF>60%,
+
+1+MR, trace AI. Exercise MIBI [**2175**]: nl study with EF 78% ; TTE
+[**11-1**]: hyperdynamic, EF 80%
+- LUL spiculated lung mass-likely bronchalveolar CA
+- recurrent R sided pleural effusion--likely due to dCHF, lower
+
+suspicion for TB.
+- Recent PE
+- HTN
+- Hyperlipidemia
+- Hypothyroidism
+- GERD
+- Breast ca, followed by Dr. [**Last Name (STitle) **] at [**Hospital1 2177**], dx [**2162**], s/p XRT
+- urge incontinence
+- Osteoporosis
+- s/p CCY [**2175**]
+- s/p TAH, BSO age 40
+- Macular degeneration
+
+Social History:
+She lives in independent living at [**Location (un) 5481**]. Performs her
+own ADLs. She does not smoke or drink alcohol, but did smoke
+tobacco in the past (quit 38 yrs ago). She does not use any
+illicit drugs.
+.
+
+Family History:
+All female family members except 1 daughter with breast cancer.
+Mother with CVA.  Mother and sister with CHF.  No h/o colon
+cancer, GI bleed.
+
+
+Physical Exam:
+Vitals - T: 99.5  BP: 129/39  HR: 94  RR: 13  02 sat: 100% on AC
+450 x 14, PEEP 5, FiO2 50%
+GENERAL: sedated and intubated
+HEENT: PERRL, OP - MM dry, no cervical LAD
+CARDIAC: RRR, nl S1, S2, II/VI SEM at LLSB, no r/g
+LUNG: anterior BS rhoncherous
+ABDOMEN: NDNT, soft, NABS
+EXT: no c/c/e
+NEURO: able to squeeze fingers on command
+
+Pertinent Results:
+[**Hospital1 **] LABS:
+[**10-17**] UA cloudy, trace blood, positive nitrite, moderate LE, WBC
+[**6-2**], bacteria 2+
+.
+[**10-17**]
+WBC 18.1  Hgb 10.1  Hct 30.7  Plt 232
+Neut 89  Band 6  Lymph 2  Mono 3
+Trop 0.04 --> 0.29 --> 0.38 (range 0 - 0.5)
+BNP 396
+.
+Na 138  K 3.9  Cl 96  CO2 35  BUN 15  Cr 1.0  Gluc 139
+Alb 3.1  TP 5.5  Bilirubin 0.3  Direct bili 0.1  Ca 8.1
+Alk phos 60  ALT 19  CK 78  AST 30
+.
+7.32 / 73 / 209 / 38 (drawn at [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with NRB 100%)
+.
+INR 1.23
+.
+MICROBIOLOGY: None.
+.
+STUDIES:
+OSH EKG [**10-17**]: atrial fibrillation with controlled ventricular
+response. nonspecific ST-T wave abnormalities
+.
+OSH PCXR [**10-17**]: R pleural effusion, pulmonary edema.  Suggest CHF
+or volume overload.
+.
+CXR (my read): slightly congested pulm vasculature, R pleural
+effusion, no overt infiltrate.
+.
+EKG: NSR at 80 bpm, nl axis, nl intervals, no Q waves
+.
+TTE [**2181-8-28**]:
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. There are three
+aortic valve leaflets. The aortic valve leaflets are moderately
+thickened. There is mild aortic valve stenosis (valve area
+1.2-1.9cm2). Trace aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. There is mild functional
+mitral stenosis (mean gradient 6 mmHg) due to mitral annular
+calcification. Mild (1+) mitral regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Mild calcific aortic stenosis. Mild calcific mitral stenosis.
+Moderate pulmonary hypertension. Bilateral pleural effusions.
+.
+Compared with the prior study (images reviewed) of [**2180-10-26**],
+pleural effusions are new. The other findings are similar.
+
+CXR - PORTABLE CHEST, [**2181-10-21**]
+FINDINGS: Pulmonary vascularity appears engorged, but there is
+no overt
+evidence of pulmonary edema. Bilateral moderate-to-large pleural
+effusions
+are again demonstrated with adjacent areas of basilar
+atelectasis. Interval removal of endotracheal tube and
+nasogastric tube.
+
+[**2181-10-22**] 07:10AM BLOOD WBC-8.4 RBC-3.05* Hgb-8.2* Hct-25.4*
+MCV-84 MCH-26.9* MCHC-32.2 RDW-15.3 Plt Ct-241
+[**2181-10-17**] 06:00PM BLOOD PT-14.3* PTT-29.9 INR(PT)-1.2*
+[**2181-10-22**] 07:10AM BLOOD Glucose-118* UreaN-22* Creat-0.8 Na-140
+K-4.5 Cl-98 HCO3-36* AnGap-11
+
+Brief Hospital Course:
+[**Age over 90 **] y.o. F with diastolic CHF (EF 55% on [**9-2**] echo), recent PE on
+[**2-/2181**], recent GI bleeding attributed to colon diverticuli seen
+on colonoscopy during recent [**Hospital1 18**] hospitalization in [**Month (only) **]
+[**2181**], transferred from OSH ([**Hospital1 **]) with respiratory failure
+attributed to flash pulmonary edema.
+
+# Acute Respiratory Failure/Flash Pulmonary Edema:  She required
+intubation for hypoxic respiratory failure in the setting of
+flash pulmonary edema.  She was diuresed aggressively and
+extubated.  She was also managed with a lasix gtt, nitro gtt and
+labetolol.  Her blood pressure medications were titrated and
+blood pressure was well controlled on captopril and metoprolol.
+Her lasix was restarted at a lower dose after the acute
+decompensation but will likely need uptitration of this
+medication.
+
+# Acute Renal Failure: She had ARF likely in the setting of
+diuresis.  Her creatinine returned to her baseline of 0.9-1.0.
+
+# CAD/diastolic heart failure:  She had no evidence of acute
+events and was continued on a beta blocker, aspirin, statin,
+beta blocker and aceI.  Her lasix was restarted at a lower dose
+after the acute decompensation in her respiratory status but she
+will likely need uptitration of this medication (was on las

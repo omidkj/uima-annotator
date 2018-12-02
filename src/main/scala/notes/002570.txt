@@ -1,0 +1,228 @@
+Admission Date:  [**2157-1-14**]              Discharge Date:   [**2157-1-18**]
+
+
+Service: MEDICINE
+
+Allergies:
+Lidocaine (Anest)
+
+Attending:[**First Name3 (LF) 8487**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+89-yo M w/extensive hx including HTN, MI, CABG X 2, carotid
+stenosis s/p bilat CEA, afib, CRI, and non-Hodgkins lymphoma in
+remission. Presents w/hx of SOB since shortly before noon today
+until arrival in ED in evening. Hx limited due to patient being
+taken for VQ study. Basically, pt. notes that he began to feel
+SOB around lunch time with no precipitant that he can recall. It
+persisted until he came to ED at which point it began to
+resolve. Only recent problems pt. can note are difficulty eating
+since his L CEA as well as recent diarrhea and very little
+urination. Per pt., nursing home told him diarrhea had a little
+bit of blood in it. Pt. reports some recent nausea w/o vomiting.
+No fevers, weight change, sweats, chills. Found to have INR of
+10 on arrival at ED. Was given 5 mg SC vit K and 1 unit FFP.
+
+Past Medical History:
+-hypertension
+-carotid stenosis s/p Rt. CEA'[**52**] and now s/p L CEA with patch
+angioplasty on [**2156-12-21**]
+-hypercholestremia
+-CAD with chronic angina-stable, s/p MI, s/p CABG's x2
+-chronic Atrial fibrillation
+-CHF, EF 50%, O2 dependant --> more recent ECHO [**12-17**] showed EF
+of 20-30%  and 3+ MR [**First Name (Titles) **] [**Last Name (Titles) **]
+-chronic renal insuffiency ( 1.2-1.6)
+-on-Hodgkins lymphoma
+-Major depression with sucidal ideation
+-macrcytic anemia
+-chronic low back pain
+-cervical dissc disease s/p cervical laminectomy
+-bilateral catracts s/p surgery
+
+Social History:
+Retired educator, wife with [**Name2 (NI) 8483**] in nursing home. Patient
+lives alone. Former smoker
+
+Family History:
+unknown
+
+Physical Exam:
+99.9,89,156/71,20,94% on 3.5L
+GEN: Thin, lying in bed NAD.
+HEENT: Not assessed; bandages s/p CEA noted
+CVS: Irregular rhythm, no m/r/g
+PULM: Coarse inspiratory/expiratory breath sounds bilat in all
+lung fields but w/good air movement.
+ABD/GU: No palpable inguinal LAD.
+NEURO: Grossly normal.
+SKIN: Multiple ecchymoses bilat in UE's. Otherwise no cyanosis,
+rashes or other obvious lesions.
+EXT: trace bilateral LE edema
+
+Pertinent Results:
+.CBC: 9.1 27.8* 149 Diff: N 88.5* L 9.1* M 2.3 Eo 0 Bas 0.1
+.PT,PTT,INR: 80.9,45.0,10.7
+.Chem-7: 134,4.8,96,19,104,2.8,139
+.ALT,AST,ALK,TBILI,ALB - 33,44,144,0.6,3.8
+.D-dimer:979
+.LDH:414
+.CK, MB, Trp: Pend,4,0.20
+.CXR: CHEST, ONE VIEW: Comparison with [**2156-12-24**]. The
+patient is status post CABG. The cardiac and mediastinal
+contours are stable. There are no consolidations, effusions,
+pneumothorax, or pulmonary vascular congestion. IMPRESSION: No
+acute cardiopulmonary process.
+
+Brief Hospital Course:
+A/P: 89-yo M w/extensive comorbidities who present with  sudden
+onset SOB while at his nursing home, likely to have UGIB given
+his melena
+
+...
+# SOB:  His shortness of breath was thought to be secondary to
+his aspiration as he had been complaining of difficulty
+swallowing after his recent CEA.  He also did show increased
+risk of aspiration on a bedside swallow examination during his
+hospitalization.  His chest xray on admission was negative for
+signs of volume overload, although his oxygen saturation and
+comfort improved with some diuresis.  He was continued on
+albuterol and ipratropium nebulizers with good relief.  A V/Q
+scan done on admission was low probability for pulmonary
+embolism.  He required 4L of oxygen at time of discharge to
+maintain his oygen saturation.
+...
+# GIB. This was likely an  UGIB due to supratherapeutic INR. He
+had no history of NSAID use or EtOH use, his colonoscopy 3
+years ago was negative per patient while at [**Hospital3 **].
+He received 3 units of PRBC, although his hematocirt slowly
+trended down with occasional melena.  He was started on protonix
+and his INR was reversed with FFP and vitamin K, but secondary
+to his respiratory status, he was felt to be a poor candidate
+for egd and colonoscopy.
+
+....
+# ARF: His initial presentation of acute renal failure was
+likely secondary to dehydration as his FeNa was 1% in the
+setting of home diuretics, rare urine eosinophils, but no
+peripheral eosinophils were found. He responded well to
+hydration, but then his creatinine worsened with likely
+overdiuresis.  Laboratory monitoring was held after the patient
+became comfort measures.
+
+...
+#Elevated WBC: The patient was without a clear source of
+infection, he was afebrile although with a WBC up to 14.2 with
+78%PMN.  His chest xray was clear, blood, urine, stool cultures
+were negative.
+.
+
+#Elevated Lactate:  His lactate peaked at 2.9 but trended down.
+The etiology was unclear, he was monitored with serial abdominal
+exams for possible bowel ischemia, given his leukocytosis,
+although unlikely given his elevated INR
+.
+# ANEMIA
+He received 3 units of PRBC, he anemia was likely secondary to
+GI blood loss
+-
+...
+# RECENT L CEA.  His surgeons were contact[**Name (NI) **] in regards to
+holding his plavix given his recent CEA and now acute GI blood
+loss. He was to continue plavix, but as the patient was changed
+to comfort measures, plavix was held.
+
+..
+# HTN/AFIB/CAD
+His home lasix, and antihypertensive were held in the setting of
+comfort measures only
+
+...
+# DEPRESSION
+His home medications were held in the setting of comfort
+measures only
+...
+# PPx
+- Activity as tolerated
+...
+# FEN: He was evaluated to have aspiration risk, but given his
+comfort measures status, he was continued on a regular diet as
+tolerated
+
+Code CMO
+
+Disp: Home with Hospice
+...
+
+
+Medications on Admission:
+Bactrim DS x 7 dd for UTI
+Trazodone 25 mg
+Sertraline 25 mg Tablet
+Aspirin 81 mg Tablet, Delayed Release
+Cyanocobalamin 500 mcg
+Folic Acid 1 mg
+Docusate Sodium 100 mg
+Atorvastatin 80 mg
+Coumadin 1 mg
+Hydrocodone-Acetaminophen 5-500 mg 1-2 Tablets PO
+Q4-6H:prn
+Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**12-13**]
+Puffs q4h:PRN
+Acetaminophen 160 mg/5 mL Solution Sig: 650mgm PO Q4-6H:PRN
+Albuterol Sulfate 0.083 % Solution One Inhalation
+Q6H:PRN
+Isosorbide Dinitrate 10 mg Tablet Sig
+Clopidogrel 75 mg
+Furosemide 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Hydralazine 10 mg PO Q6H
+Isosorbide Dinitrate 10 mg TID
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Morphine Concentrate 20 mg/mL Solution Sig: 1-20 mg PO q1hr
+as needed for pain.
+Disp:*100 mls* Refills:*0*
+4. Ativan 0.5 mg Tablet Sig: 1-4 Tablets PO every four (4)
+hours.
+Disp:*180 Tablet(s)* Refills:*0*
+5. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 417**] Hospice
+
+Discharge Diagnosis:
+GI Bleed
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+If you experience increased pain, shortness of breath or other
+concerning symptoms please contact your doctor
+
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] [**Name11 (NameIs) **], [**Name Initial (NameIs) **].D. Phone:[**Telephone/Fax (1) 2574**]
+Date/Time:[**2157-2-15**] 4:00
+
+
+

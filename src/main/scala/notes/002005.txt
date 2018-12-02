@@ -1,0 +1,206 @@
+Admission Date:  [**2146-2-9**]              Discharge Date:   [**2146-2-16**]
+
+Date of Birth:  [**2098-10-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Demerol / Compazine / Reglan / Betadine Surgi-Prep / Tape /
+Iodine; Iodine Containing / Vancomycin
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+Replacement of left groin double-lumen central venous line under
+anesthesia.
+2D transthoracic Echocardiogram
+
+
+History of Present Illness:
+Ms. [**Known lastname 1557**] is a 47 year-old with a history of [**Last Name (un) 111738**]??????s syndrome
+s/p colectomy and small bowel resection (on TPN) presenting with
+hypotension.
+.
+Most recently admitted ([**Date range (1) 12405**]) with a line infection (coag
+negative staph).  She was treated with Linezolid (plan for 8
+days) and IR performed an immediate replacement of her femoral
+line at the same site over wire under general anesthesia on HD
+#1.  Her SBPs ranged 80-90s.
+.
+Reports pain in hips, chills, nausea and rigors on Monday
+evening.  This recurred on Tuesday morning with vomiting.  Given
+these symptoms, she presented to an OSH for evalution.
+.
+Initially presented to an OSH where she was afebrile with BP
+75/49 and HR 133.  WBC was 11.4 with 11% bands.  Linezolid was
+given.
+In the ED, afebrile with BP 69/45 and HR 102.  Remained in the
+60-80s SBP during ED stay.  Got cefepime 2g IV, fentanyl and
+tylenol and 3L of NS.
+
+
+Past Medical History:
+1. [**Location (un) **] syndrome
+- diagnosed at age 23 s/p colectomy ([**2121**])
+- repeated small bowel resections [**12-27**] persistent polyp growth
+- short [**Month/Day (2) **] syndrome and on chronic TPN since [**2123**]
+- (states she has "3 feet" of small bowel left and [**11-27**] of it has
+polyps)
+2. History of line infections, including:
+- [**2-25**]: [**Female First Name (un) **] parapsilosis
+- [**9-29**]: coag negative staph; [**Female First Name (un) **] parapsilosis
+- [**10-2**]: klebsiella
+3. Right femoral vein thrombosis
+4. History of GI bleed (remote)
+5. Fibromyalgia causing generalized fatigue
+6. Spinal stenosis with RLE weakness
+7. Osteoporosis
+- bilateral hip fracture s/p ORIF repair
+8. Scoliosis s/p repair
+9. s/p TAH BSO
+10. s/p dermoid cyst removal, originally in small bowel, then
+extended to ovaries
+
+
+Social History:
+The patient lives w/ her mother who assists her with her medical
+needs. No ETOh or Tob.
+
+
+Family History:
+Father with [**Name2 (NI) **] syndrome as do 6 of 8 siblings. Mother and
+relatives with HTN and resulting CVA. Sister with breast cancer.
+Her father's parents died of cancer.
+
+
+Physical Exam:
+GEN: Thin, lying in bed in no distress.
+HEENT: No icterus or pallor. JVP difficult to assess.
+CV: Regular. No murmurs.
+PULM: Clear.
+ABD: Scaphoid. Ostomy bad in place. [**6-3**] TTP.
+EXT: Warm. No edema.
+NEURO: Pupils 4mm->2mm and equal. CNII-XII intact. Sensation
+intact in all four extremeties to gross touch. BLUE 4+/5 in
+proximal and distal muscles; LLE 4+/5; RLE 4-/5
+
+
+Pertinent Results:
+Admission Labs:
+[**2146-2-9**] 03:40PM BLOOD WBC-18.7*# RBC-3.79* Hgb-11.9* Hct-33.9*
+MCV-89 MCH-31.4 MCHC-35.2* RDW-14.2 Plt Ct-228
+[**2146-2-9**] 03:40PM BLOOD Neuts-95.2* Lymphs-1.7* Monos-1.7*
+Eos-1.3 Baso-0.1
+[**2146-2-10**] 03:26AM BLOOD PT-14.4* PTT-30.7 INR(PT)-1.3*
+[**2146-2-9**] 03:40PM BLOOD Glucose-223* UreaN-41* Creat-2.0*#
+Na-132* K-3.8 Cl-103 HCO3-16* AnGap-17
+[**2146-2-9**] 03:40PM BLOOD ALT-101* AST-76* CK(CPK)-15* AlkPhos-376*
+TotBili-1.2
+[**2146-2-9**] 03:40PM BLOOD Albumin-3.6 Calcium-8.5 Phos-2.8 Mg-1.5*
+[**2146-2-9**] 05:33PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.008
+[**2146-2-9**] 05:33PM URINE Blood-TR Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**2146-2-9**] 05:33PM URINE RBC-0-2 WBC-2 Bacteri-OCC Yeast-RARE
+Epi-0-2
+.
+Microbiology:
+[**2146-2-9**] 3:40 pm BLOOD CULTURE      SOURCE: HICKMAN.
+
+                            **FINAL REPORT [**2146-2-12**]**
+
+   Blood Culture, Routine (Final [**2146-2-12**]):
+      KLEBSIELLA PNEUMONIAE.    FINAL SENSITIVITIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     2 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   Aerobic Bottle Gram Stain (Final [**2146-2-10**]):
+      GRAM NEGATIVE ROD(S).
+      REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 17604**] ON [**2146-2-10**] @ 8:40
+P.M..
+
+   Anaerobic Bottle Gram Stain (Final [**2146-2-10**]):    GRAM
+NEGATIVE ROD(S).
+
+Studies:
+[**2146-2-9**] CXR - CONCLUSION: Multiple vascular stents, unchanged
+since the prior examination. No acute cardiopulmonary process.
+
+[**2146-2-10**] CT abdomen, pelvis - IMPRESSION:
+1. Peripancreatic fluid adjacent to the pancreatic tail and in
+the
+right anterior pararenal space, consistent with tail
+pancreatitis. Recommend correlation with amylase.
+2. Elevation of the right hemidiaphragm is similar to [**2142-10-22**]
+and suggests chronic right phrenic nerve paralysis.
+3. Resolving discitis/osteomyelitis since [**2145-9-23**].
+4. No evidence of abdominal abscess or small-bowel obstruction.
+5. Lower lobe atelectasis.
+
+[**2146-2-11**] TTE:
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. Left ventricular wall thickness,
+cavity size and regional/global systolic function are normal
+(LVEF >55%). There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+diameters of aorta at the sinus, ascending and arch levels are
+normal. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic regurgitation. No
+masses or vegetations are seen on the aortic valve. The mitral
+valve appears structurally normal with trivial mitral
+regurgitation. No mass or vegetation is seen on the mitral
+valve. No vegetation/mass is seen on the pulmonic valve. There
+is a trivial/physiologic pericardial effusion.
+Compared with the prior study (images reviewed) of [**2145-11-8**],
+no change.
+IMPRESSION: No valvular vegetations or significant valve disease
+seen.
+
+
+
+Brief Hospital Course:
+47F with Gardners Syndrome, short [**Year (4 digits) **], and tunneled line,
+presented with bacteremia and likely line infection.
+
+1. Klebsiella sepsis with hypotension: 7/8 bottles from OSH
+positive for Klebsiella and 1/2 blood cultures positive here.
+Previously has had Klebsiella bacteremia felt to be line
+related.  Patient intially required levophed for blood pressure
+support which was weaned off after the tunnelled line was
+changed out in the OR under anesthesia on [**2-11**].  Of note, the
+patient normally has systolic blood pressures in the 80s.
+Initial lactate of 3.5, down to 0.8 with 4+ liters of IVF.  No
+evidence for intra-abdominal abscess or other source of
+infection on CT scan.  TTE on [**2-11**] neg for vegetations, so less
+likely endocarditis.  Patient was initially started on meropenem
+and daptomycin (had been on linezolid for coag neg Staph
+bacteremia) pending blood culture results and daptomycin was
+dropped when cultures were positive for Klebsiella.  She
+finished her course of treatment for the Staph bacteremia.
+Meropenem was changed to ceftriaxone on [**2-12**] per ID recs.  ID
+recommends a 2 week course of ceftriaxone with Day 1 = [**2-11**].
+The patient has had a prior history of a questionable lesion on
+her SVC ([**11-1**] ECHO).  Cardiology declined TEE at the time of
+the line change out feeling that lesion likely not abscess.  ID
+recommended a chest CT, however, radiology did not feel that the
+scan would be informative and the patient has a history of IV
+contrast allergy.  She was discharged home on IV antibiotics to
+complete a 2 week course and will follow up with Dr. [**

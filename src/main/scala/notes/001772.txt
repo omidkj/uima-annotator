@@ -1,0 +1,217 @@
+Admission Date:  [**2125-7-10**]              Discharge Date:   [**2125-7-15**]
+
+Date of Birth:  [**2061-4-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Bradycardia and Hypotension
+
+Major Surgical or Invasive Procedure:
+Mechanical Ventilation
+Cardiac catheterization
+
+
+History of Present Illness:
+64 year old female with cardiac history of type 2 DM on insulin,
+hypertension and dyslipidemia presents to the ED with two week
+history of generalized weakness and poor po intake.  She reports
+having had nausea and vomiting for three days last week with
+subsequent improvement over the week.  She had similar episode
+of nausea/vomiting yesterday which led her daughters to bring
+her to the the [**Name (NI) **] today.  She reports no sick contacts, eating
+outside, fever, chills, change in bowel movement, chest pain,
+shortness of breath or dysuria.
+.
+In the ED, she was noted to have bradycardia in 50s, hypotensive
+to 69/54 and finger stick of 123.  Labs significant for acute
+kidney injury with creatinine of 3.3 (baseline of 1.1) and
+hematocrit of 25.5 (basline in mid 30s).  She was given glucagon
+5 mg bolus x 1 without change in her rate or blood pressure.
+She was subsequently transferred to CCU for further evaluation
+and management.
+.
+In the CCU, she reported no complaints.  She was given IV
+atropine 1 mg x 1 which improved her heart rate and blood
+pressure. She was started on dopamine gtt at 5 mcg/kg/min which
+improved her heart rate but did not improve her blood pressure.
+
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:
+- CABG:  None
+- PERCUTANEOUS CORONARY INTERVENTIONS:  Clean coronaries on Cath
+at [**Hospital1 336**] in [**2117**]
+- PACING/ICD:  None
+3. OTHER PAST MEDICAL HISTORY:  Osteopenia; Gastritis in setting
+of NSAID use and extrinsic restrictive lung disease
+
+Social History:
+She lives alone.  Her daughter lives on the [**Location (un) 1773**] above
+her with her husband and children.  She works for the city of
+[**Location (un) 86**] as an assistant city order.  She has quit smoking
+recently and denies any alcohol use.  Notes her diet is okay.
+She is working on eating more sugarless products and working on
+exercise.
+
+Family History:
+Mother and grandfather had diabetes.  One uncle had cancer in
+the leg.  Another aunt with throat cancer.  Another aunt with
+breast cancer.  Her grandfather had an MI at an older age as
+well.  She does not know her dad well.
+
+Physical Exam:
+On admission:
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Dry mucosal
+membranes.  NECK: Supple with flat JVP. Left IJ in place
+CARDIAC: rRR. No murmurs or gallops appreciated
+LUNGS: Poor inspiratory effort.  CTAB otherwise
+ABDOMEN: Soft, NTND.
+EXTREMITIES: No edema. No rash
+Neuro: CN 2-12 intact.
+
+On discharge:
+Vitals: BP:150-170s/80s HR: 65-90  RR: 18   O2: 98%RA
+Gen: alert, sitting in bed, NAD
+HEENT: supple, no JVD
+CV: regular, no M/R/G, distant
+RESP: clear lung fields
+ABD: soft, NT, ND, obese, +BS
+EXTR: No lower extremity edema
+NEURO: A/O, speech clear, no focal defects
+
+Pertinent Results:
+Labs/Results
+.
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2125-7-14**] 07:30    5.5 3.62* 7.9* 25.3* 70* 21.9* 31.3 18.5*
+345
+[**2125-7-13**] 04:11    6.9 3.36* 7.4* 23.7* 70* 22.0* 31.3 18.6*
+323
+[**2125-7-12**] 05:41    7.6 3.60* 8.1* 25.5* 71* 22.5* 31.7 19.1*
+352
+[**2125-7-11**] 03:37    11.5* 3.63* 7.9* 26.3* 72* 21.8* 30.2* 18.2*
+337
+[**2125-7-10**] 21:10    6.8 3.53* 8.1* 25.5* 72* 23.1* 31.9 18.3*
+339
+[**2125-4-19**] 12:35    6.9 4.69 10.6* 34.4* 73* 22.7* 31.0 18.6*
+271
+[**2125-2-27**] 10:00    6.9 4.83 10.7* 34.3* 71* 22.2* 31.3 17.9*
+320
+[**2124-11-7**] 12:30    4.5 5.22 11.8* 38.2 73* 22.6* 30.9* 17.2*
+323
+[**2124-2-10**] 09:55    5.9 4.84 10.8* 34.7* 72* 22.3* 31.1 16.9*
+439
+.
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2125-7-14**] 07:30    120*1 25* 0.9 141 3.9 109* 21* 15
+[**2125-7-13**] 19:10        1.1 141 3.4 109*
+[**2125-7-13**] 04:11    771 40* 1.3* 142 3.6 111* 20* 15
+[**2125-7-12**] 13:20        1.8* 141 4.0 111*
+[**2125-7-12**] 05:41    125*1 53* 2.0* 137 4.4 109* 17* 15
+[**2125-7-11**] 17:30    222*1 60* 2.6* 135 4.6 110* 16* 14
+[**2125-7-11**] 03:37    119*1 64* 3.5* 138 4.3 109* 16* 17
+[**2125-7-10**] 21:10    57*1 67* 3.3* 138 4.2 110* 20* 12
+.
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+[**2125-7-11**] 03:37        155 41
+[**2125-7-10**] 21:10    23 19 139   81   0.1
+.
+CPK ISOENZYMES CK-MB cTropnT
+[**2125-7-11**] 03:37    2 <0.01
+.
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+Cholest
+[**2125-7-14**] 07:30          8.6 2.6* 2.1
+[**2125-7-13**] 19:10              1.6
+[**2125-7-13**] 04:11    6.0*     8.5 3.9 1.9   9*
+[**2125-7-12**] 13:20              2.0
+[**2125-7-12**] 05:41          8.5 3.9 2.0
+[**2125-7-11**] 17:30          8.1* 5.5* 2.2
+[**2125-7-11**] 03:37          7.5* 5.7* 2.1
+.
+HEMATOLOGIC calTIBC Folate Hapto Ferritn TRF
+[**2125-7-13**] 04:11    246*     282* 189*
+[**2125-7-11**] 03:37        143
+.
+PITUITARY TSH
+[**2125-7-11**] 03:37    2.1
+OTHER ENDOCRINE Cortsol
+[**2125-7-11**] 03:37    35.2
+.
+WHOLE BLOOD, MISCELLANEOUS CHEMISTRY Lactate
+[**2125-7-12**] 05:47    0.8
+[**2125-7-12**] 03:24    0.9
+[**2125-7-11**] 23:59    0.7
+[**2125-7-11**] 03:42    0.9
+.
+CXR:
+UPRIGHT AP VIEW OF THE CHEST: Low lung volumes are noted. This
+accentuates
+the size of the cardiac silhouette which is likely mildly
+enlarged. The
+mediastinal and hilar contours are likely within normal limits.
+The lungs are clear without focal consolidation. No pleural
+effusion, pneumothorax, or pulmonary vascular congestion is
+present. No acute osseous findings are seen.
+ IMPRESSION: Low lung volumes with mild cardiomegaly. No
+evidence for
+pneumonia.
+.
+TTE:
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size. Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. Left ventricular
+systolic function is hyperdynamic (EF>75%). Doppler parameters
+are indeterminate for left ventricular diastolic function. There
+is a mild resting left ventricular outflow tract obstruction.
+The right ventricular cavity is dilated with depressed free wall
+contractility. The aortic valve leaflets (3) are mildly
+thickened. There is no valvular aortic stenosis. The increased
+transaortic velocity is likely related to high cardiac output.
+No aortic regurgitation is seen. The mitral valve leaflets are
+not well seen. No mitral regurgitation is seen. There is no
+pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left
+ventricular hypertrophy with hyperdynamic left ventricular
+function. Right ventricular dilation and dysfunction.
+.
+CARDIAC CATHETERIZATION
+1. Moderate pulmonary hypertension (PAS 50-55 Mean 30)
+2. Preserved cardiac output
+3. Elevated right and left sided filling pressures without
+hemodynamic evidence supporting constriction.
+4. No evidence of valvular stenosis.
+5. No angiographically-apparent CAD.
+.
+
+Brief Hospital Course:
+64F DMII on insulin, HTN and HL admitted with junctional rhythm,
+hypotension and acute kidney injury in the setting of likely
+beta-blocker toxicity. Pt had an episode of acute respiratory
+distress during admission requiring intubation.
+.
+ACTIVE ISSUES
+# Junctional rhythm: The patient presented to the ED with HR in
+the 50s and BP of 69/54. EKG showed junctional rhythm. She was
+given glucagon 5 mg IV x 1 out of concern for beta-blocker
+toxicity. In the CCU, 1 mg atropine was administered with good
+response and improvement in HR. She was started on an
+epinephrine gtt with improvement in HR, dripp was d/c'ed on
+[**7-11**]. ECHO [**7-11**] revealed mild symmetric left ventricular
+hypertrophy with hyperdynamic left ventricular function and
+right ventricular dilation and dysfunction.
+.
+# Hypotension: Likely mixed cardiogenic and hypovolemic. She
+received ~ 3L of IVF in the ED and additional 1L on presentation
+to the CCU. Epinephrine gtt was started with improvement in BP
+so d/c'ed on [**7-11**]. AM Cortisol and TSH were normal. TTE s

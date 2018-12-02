@@ -1,0 +1,184 @@
+Admission Date:  [**2157-5-5**]              Discharge Date:   [**2157-5-8**]
+
+Date of Birth:  [**2108-10-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 17865**]
+Chief Complaint:
+Gastrointestinal bleed, hypotension.
+
+Major Surgical or Invasive Procedure:
+Coil embolization of left gastric artery
+Esophagogastroduodenoscopy x2
+Central venous line placement to right internal jugular vein
+Temporary dialysis catheter placement to left femoral vein
+Radial arterial line placement
+
+History of Present Illness:
+Patient is a 48 yo man h/o recent admission for pneumonia,
+septic shock, and bacteremia, also with history of hypertension,
+chronic obstructive pulmonary disease, and s/p bowel resection
+and anastamosis due to "kinking" 1.5 years ago, who presents
+from OSH with gastrointestinal bleed, intubated and on two
+pressors.
+
+Per OSH report, patient presented yesterday morning to ED at OSH
+after 4 dark bowel movements. His SBP was noted to be 80 with
+hct of 21.9 (down from 32.2 just one day prior to that at time
+of discharge from [**Hospital1 18**]). White count was 48 (increased from
+13). Patient was fluid resuscitated and transfused with two unit
+PRBCs. Yesterday afternoon, patient was noted to have increasing
+abdominal pain. KUB was negative for free air, per report.
+Follow-up CT showed possible SBO. SBP dropped to 40s and code
+blue was called. Patient was intubated and transfused an
+additional 5u PRBCs, for a total of 7u at time of transfer. In
+addition he was given 4u FFP for worsening coagulopathy, felt to
+be secondary to DIC. CVL was placed and patient was started on
+norepinephrine and vasopressin. NGT per report was suctioning
+bloody fluid. In addition patient was noted to have melanotic
+stools in the setting of becoming increasingly coagulopathic
+with most recent INR 3.3 and PTT 78. His vitals at time of
+[**Location (un) **] transfer are BP 119/87, HR 117, sat 100% on FiO2 50%.
+Most recent ABG was 7.3/38/138. Meds at time of transfer are IV
+Flagyl and PO vanco (for presumptive C dif), IV [**Name (NI) **] (unclear
+why), and IV vancomycin (for bacteremia from previous
+admission).
+
+Of note, patient was recently admitted for hypoxic respiratory
+failure, ARDS and septic shock. He was intubated prior to
+transfer here, transiently on pressors, and extubated on the
+fourth hospital day. He was treated with broad spectrum
+antibiotics for sepsis from a presumed pulmonary source
+(vancomycin/levofloxacin/Zosyn); in the end he completed a 7-day
+course of [**Name (NI) **]/Zosyn and was discharged to complete a 14-day
+course of vancomycin for GPC bacteremia (peptostreptococcus on
+blood culture from [**4-24**] with negative surveillance cultures). For
+what was felt to be a COPD flair during that admission, he had
+been discharged to complete a 14-day course of prednisone. Other
+issues during that admission included acute renal failure (felt
+to be secondary to shock ATN versus prerenal) that resolved at
+discharge, transaminitis (felt to be secondary to shock liver),
+thromboctyopenia (uptrending at time of discharge). His
+hematocrit at time of discharge was 32, with white count of 13.
+
+Past Medical History:
+- COPD
+- HTN
+- Depression
+- History of bowel resection and anastamosis due to "kinking"
+1.5 years ago
+- History of chronic back pain s/p surgery x3
+
+
+Social History:
+- Tobacco:  Quit smoking 1 week ago.  Generally smokes 1.5-2
+PPD, for 30 years.
+- Alcohol:  Not much in last few weeks; prior was 10 beers per
+day.  Wife denies history of withdrawals.
+- Illicits:  Wife denies, including all inhalants.
+No recent travel.  No unusual hobbies/exposures.  Wife reports
+fire down the street that occurred about 3 weeks ago.
+
+
+Family History:
+Parents with hypertension.  Father died of lung cancer.
+
+
+Physical Exam:
+General: intubated, sedated
+HEENT: left eye dilated and minimially reactive compared to
+right; bloody output from NGT
+Neck: supple
+Lungs: clear breath sounds anterior fields
+CV: RRR, tachycardic, normal s1/s2
+Abdomen: distended but soft
+Ext: cold lower extremities, mottled.
+
+
+Pertinent Results:
+Labs at Admission:
+
+[**2157-5-5**] 02:32PM BLOOD WBC-28.1*# RBC-2.67* Hgb-8.2*# Hct-22.3*#
+MCV-84# MCH-30.7 MCHC-36.8* RDW-18.4* Plt Ct-45*#
+[**2157-5-5**] 02:32PM BLOOD Neuts-86* Bands-9* Lymphs-3* Monos-1*
+Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 NRBC-1*
+[**2157-5-5**] 02:32PM BLOOD Hypochr-NORMAL Anisocy-2+ Poiklo-NORMAL
+Macrocy-NORMAL Microcy-1+ Polychr-OCCASIONAL
+[**2157-5-5**] 02:32PM BLOOD PT-27.8* PTT-47.0* INR(PT)-2.7*
+[**2157-5-5**] 02:32PM BLOOD Glucose-247* UreaN-115* Creat-2.7*#
+Na-124* K-4.7 Cl-86* HCO3-23 AnGap-20
+[**2157-5-5**] 02:32PM BLOOD ALT-2694* AST-5230* LD(LDH)-[**Numeric Identifier **]*
+CK(CPK)-2741* AlkPhos-137* TotBili-5.2*
+[**2157-5-5**] 02:32PM BLOOD CK-MB-411* MB Indx-15.0* cTropnT-8.33*
+[**2157-5-5**] 02:32PM BLOOD Calcium-6.1* Phos-9.5*# Mg-1.7
+[**2157-5-5**] 02:32PM BLOOD D-Dimer-[**Numeric Identifier 85825**]*
+[**2157-5-8**] 12:15AM BLOOD calTIBC-31* Ferritn-GREATER TH TRF-24*
+[**2157-5-7**] 02:44AM BLOOD Triglyc-1853*
+[**2157-5-5**] 02:32PM BLOOD Osmolal-320*
+[**2157-5-7**] 09:02AM BLOOD Cortsol-168.4*
+[**2157-5-5**] 02:32PM BLOOD Vanco-15.4
+
+Studies/Reports:
+
+Liver ultrasound with duplex ([**2157-5-6**]):CONCLUSION: This is a
+limited study with heterogeneous hyperechoic liver and no
+definite focal lesions seen, but views are technically
+challenging in this patient. Portal vein is fully patent with
+forward flow. Minimal perihepatic ascites is noted.
+
+Brief Hospital Course:
+A 48 y/o man with history of COPD and hypertension and recent
+admission for pneumonia and bacteremia presents with severe GIB
+and possible SBO, currently on pressors and intubated.
+
+# Hypotension and gastrointestinal bleed. Patient was bleeding
+from NGT, bright-red blood, at time of transfer. Additionally,
+his platelets were falling and INR/PTT were rising. He was
+transfused aggressively with blood products to maintain hct
+greater than 25, platelets greater than 50, INR greater than 2,
+and fibrinogen greater than 200. On the first hospital day, GI
+performed upper endoscopy x2 but unfortunately could not
+localize a bleeding source due to poor visualization of the
+gastric and small bowel mucosa, secondary to the abundance of
+blood. There were no esophageal varices. On the night of the
+first hospital day, patient went to interventional radiology
+where angiography revealed bleeding source in the left gastric
+artery. The bleeding was stopped with coil embolization. After
+this procedure, his hematocrit stabilized somewhat, although he
+was still requiring (less frequent) blood transfusions.
+Furthermore, his lactic acidosis continued to worsen. Throughout
+all of this, he was treated with broad spectrum antibiotics for
+GI flora, proton-pump inhibitor drip, stress-dose steroids, and
+norepinephrine titrated to maintain MAP >65.
+
+# Lactic acidosis. His lactic acidosis improved initially,
+particularly after the IR-guided coil embolization. However, on
+the second to third hospital day, the lactic acidosis worsened.
+Patient was started on CVVHD when serial ABGs revealed worsening
+acidemia. There was no clear cause for his worsening acidemia.
+It was felt that the combination of findings may have been due
+to propofol infusion syndrome, especially in light of the
+worsening hypertriglyceridemia.
+
+# Respiratory failure. Patient was intubated for airway
+protection in the setting of code blue for worsening
+hypotension. Ventilation settings were increased in an effort to
+compensate for the worsening metabolic acidosis, but ultimately
+he required CVVHD.
+
+# Coagulopathy. His coagulopathy was felt to be secondary to
+DIC. This improved initially but at time of death was worsening.
+
+# Transaminitis. Initially this was felt to be secondary to
+shock liver from hypotension during the code blue arrest at OSH.
+His liver enzymes improved and then worsened on the second and
+third hospital day. Liver was consulted and recommended for
+right upper quadrant ultrasound; this showed no evidence of
+portal venous clot. His liver function continued to worsen up
+until time of death.
+
+# Acute kidney injury and hypona

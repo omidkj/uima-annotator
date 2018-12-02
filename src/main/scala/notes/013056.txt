@@ -1,0 +1,202 @@
+Admission Date:  [**2193-6-20**]              Discharge Date:   [**2193-6-26**]
+
+Date of Birth:  [**2106-4-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+aspirin
+
+Attending:[**Last Name (NamePattern1) 13159**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is an 87yoM with history of ESRD on HD (TTSa), CHF, AS,
+myelodysplastic syndrome who presents from [**Location (un) **] with acute
+dyspnea. Per report patient was in USOH until this evening when
+he complained of acute SOB. On evaluation at [**Hospital3 2558**],
+patient was desatting to 70s on RA. EMS was called and placed
+patient on NRB mask and transported him to [**Hospital1 18**].
+In the ED, initial VS were: 98.5 105 117/61 28 100% 15L NRB.
+Patient was very tachypneic on arrival and appeared hypervolemic
+and febrile on exam. LUE was noted to be mildly edematous.
+Patient was started CPAP with improvement of respiratory status.
+Labs were significant for leukocytosis to 26.4 with lactate of
+2.4. Troponin was 0.52. CXR showed pulmonary edema. CTA chest
+was completed and showed large pleural effusions without e/o
+PEs. Patient was then admitted to the MICU for further
+evaluation. Patient received Vancomycin and levofloxacin while
+in ED VS prior to transfer were 98.1 86 141/55 25 98%BiPAP.
+In MICU, patient stated that breathing was feeling better.
+Denied chest pain, palpitations or abdominal pain.
+Of note patient was recently admitted to [**Hospital1 18**] from [**Date range (1) **]
+with similar complaints during which time palliative care was
+consulted to discuss of end of life issues. During this time,
+hospice was introduced given that patient did not appear to be
+tolertating dialysis.
+
+
+Past Medical History:
+ESRD: unknown etiology, since [**3-26**]
+Elevated WBC count
+Polycythemia [**Doctor First Name **]
+AS
+CHF
+HTN
+HL
+Dysphagia
+Hypothyroidism
+
+
+Social History:
+Previously smoked 2ppd for 30 years, quit in [**2155**]. No EtoH or
+drug use. Used to live with son at home prior to last d/c from
+[**Hospital1 2025**] when they sent him to [**Hospital3 2558**] rehab.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+ADMISSION EXAM
+VS:36.8 103/47 96 25 100 on BIPAP
+General: Alert, slow to respond, mild respiratory distress
+HEENT: Sclera anicteric, EOMI, PERRL
+Neck: JVP at angle of jaw of mandible
+CV: Regular rate and rhythm, normal S1 + S2, III/VI
+Lungs: decreased breath sounds at bases but otherwise clear
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley
+Ext: wwp, LUE slightly more edematous than RUE, fistula on left
+with palpable thrill, warm to touch, [**11-19**]+ edema in LE b/l, 8x3cm
+non infected appearing ulcer on LLE, chronic venous changes b/l
+.
+DISCHARGE EXAM
+VS: T:97.7 BP:118/57 P:84 RR:18 Pox: 97% on 2L
+GEN Alert, oriented, no acute distress, lying comfortably in bed
+HEENT NCAT MMM EOMI sclera anicteric, OP clear
+NECK supple, trachea midline, no JVD, no LAD
+PULM normal respiratory effort, good aeration, CTAB no wheezes,
+rales, ronchi
+CV RRR normal S1/S2, [**2-22**] holosystolic mumur loudest at RUSB
+radiating to carotids.
+ABD soft NT ND normoactive bowel sounds, no r/g
+EXT WWP 2+ pulses palpable bilaterally, left forearm with patent
+AV fistula (palpable thrill, bruit present), Pt with 1+ pitting
+edema of lower extremities bilaterally
+NEURO CNs2-12 intact, motor function grossly normal, no focal
+deficits
+SKIN: Left LE lateral area of shin with a 5cm x2cm ulcer
+present, yellow/white in color with pink edges,
+
+
+Pertinent Results:
+Admission Labs:
+[**2193-6-20**] 12:06AM BLOOD WBC-26.4*# RBC-2.18* Hgb-7.9* Hct-25.6*
+MCV-117* MCH-36.5* MCHC-31.1 RDW-22.0* Plt Ct-131*
+[**2193-6-20**] 12:06AM BLOOD Neuts-88.7* Lymphs-8.0* Monos-2.5 Eos-0.5
+Baso-0.3
+[**2193-6-20**] 12:06AM BLOOD Glucose-84 UreaN-32* Creat-3.3* Na-140
+K-5.9* Cl-98 HCO3-31 AnGap-17
+[**2193-6-20**] 12:06AM BLOOD ALT-98* AST-160* CK(CPK)-113 AlkPhos-151*
+TotBili-0.3
+[**2193-6-20**] 12:06AM BLOOD CK-MB-8 proBNP->[**Numeric Identifier **]
+[**2193-6-20**] 12:06AM BLOOD cTropnT-0.52*
+[**2193-6-20**] 12:06AM BLOOD Albumin-3.4* Calcium-9.4 Phos-3.3 Mg-1.8
+[**2193-6-20**] 12:16AM BLOOD Type-ART pO2-164* pCO2-47* pH-7.46*
+calTCO2-34* Base XS-9
+[**2193-6-20**] 12:22AM BLOOD Lactate-2.4*
+[**2193-6-20**] 02:25AM BLOOD Lactate-1.4 K-4.6
+[**2193-6-20**] 07:42AM BLOOD Lactate-1.1 K-3.2*
+.
+Discharge Labs:
+[**2193-6-26**] 07:20AM BLOOD WBC-26.6* RBC-2.47* Hgb-8.4* Hct-27.5*
+MCV-112* MCH-34.1* MCHC-30.5* RDW-22.7* Plt Ct-160
+[**2193-6-26**] 07:20AM BLOOD PT-13.1* PTT-37.5* INR(PT)-1.2*
+[**2193-6-26**] 07:20AM BLOOD Glucose-47* UreaN-26* Creat-3.1* Na-137
+K-4.3 Cl-94* HCO3-33* AnGap-14
+[**2193-6-26**] 07:20AM BLOOD Calcium-9.0 Phos-2.9 Mg-1.9
+.
+Imaging
+CXR [**2193-6-20**]: Recurrent, moderately severe, pulmonary edema,
+worsened since [**6-10**].  Bibasilar opacification, likely edema
+and atelectasis.
+.
+CT chest [**2193-6-20**]:
+No pulmonary embolism. Evaluation of subsegmental vessels is
+limited. Moderate to large bilateral pleural effusions with
+associated atelectasis. Moderate bilateral ground glass opacity
+likely represents pulmonary edema.
+Additional findings are present in addition to the original wet
+read: There
+appears to be a small amount of gas within the right rectal wall
+(2:73).
+Stercoral colitis is suspected given the presence of a large
+amount of rectal
+stool. Trace free air is present (2:38). The apparent trace
+pneumobilia may
+instead represent intraperitoneal air dissecting along portal
+veins.
+Alternatively, portal gas is possible.
+.
+CT ABDOMEN AND PELVIS WITH CONTRAST [**2193-6-20**]
+IMPRESSION:
+1.  Minimal biliary air in the gallbladder and biliary tree is
+nonspecific and may the sequelae of prior instrumentation such
+ERCP/sphinterotomy. Please correlate with patients history.  No
+free air.
+2.  Comminuted fracture of the left ilium with extension to the
+superior pubic ramus and acetabulum. Acetabular component has
+intra-articular extension without femoral head involvement or
+dislocation.
+3.  Changes of ankylosing spondylitis with fusion of the right
+sacroiliac
+joint and vertebral body.
+4. Diffusely abnormal marrow with sclerosis and atrophic kidneys
+consistent renal osteodystrophy. Osseous sequelae of
+myeloproliferative disease are also superimposed.
+5.  Moderate bilateral pleural effusions with subsegmental
+atelectasis.
+Difficult to exclude infectious consolidation in the atelectatic
+lung.
+6. Mild fusiform aneurysmal dilatation of the abdominal aorta
+just proximal to the bifurcation measuring 2.2 cm
+
+CXR [**2193-6-26**]
+In comparison with study of [**6-20**], the degree of bilateral
+opacification may be slightly less prominent.  Substantial
+enlargement of the cardiac silhouette persists.
+
+Brief Hospital Course:
+87 year old M with ESRD on HD (T/Th/Sa), renal osteodystrophy,
+diastolic CHF, severe aortic stenosis, myelodysplastic syndrome,
+who presented from [**Hospital3 2558**] on [**2193-6-20**] with dyspnea [**12-20**] to
+pulmonary edema now resolved but with acute/subacute fractures
+of the left acetabulum and found to have free air which is
+thought to be [**12-20**] stercoral ulcer.
+
+Active Issues:
+# Acute Respiratory Distress: Pt was hypoxic on admission
+requiring O2 therapy secondary to pulmonary edema. Inciting
+event unclear. [**Name2 (NI) **] evidence of PNA or PE on CT scan. No evidence
+of MI. TTE showed stable severe AS. Pt appeared hypervolemic and
+was approximately 3kg above last dry wt. Pt respiratory symptoms
+improved after he received emergent ultrafiltration. Since
+resolution of acute dyspneic event pt has been asymptomatic and
+tolerating 2L of O2 with Pox sats > 95. An oxygen weaning trial
+resulted in O2 sats dropping to around 92%. CXR was obtained
+which did not show evidence of recurrent pulmonary edema. He
+will be discharged on 2L of O2.
+
+#Left acetabular fracture: This was found incidentally on the CT
+abd/pelvis.  Patient reported a fall 1 week prior with minimal
+pain. He remembers falling while trying to put on his pants.
+Orthopedics was consulted to recommended surgery. However given
+his sever AS and multiple poor outcome comorbidites it was felt
+that he would survive this type of high risk surgery 

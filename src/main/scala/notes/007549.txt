@@ -1,0 +1,206 @@
+Admission Date:  [**2130-2-20**]              Discharge Date:   [**2130-2-23**]
+
+Date of Birth:  [**2067-7-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+palpitations x1 week
+
+Major Surgical or Invasive Procedure:
+Cardioversion for Aflutter
+
+
+History of Present Illness:
+62 yo male with history of atrial fibrillation on Coumadin
+presenting with palpitations for one week. He reports being on
+amiodarone through [**Month (only) 404**] of this year, but then stopping it
+until the past three weeks. Three weeks ago, he resumed his
+prior amiodarone dose of 200mg daily. He reports one week of
+palpitations, DOE, and diaphoresis with any exertion. He
+eventually presented to the ED with presyncope and diffuse
+weakness. In addition, he reports one episode of left sided
+nonradiating chest pain that was self limited after last 10
+minutes. He reports PND without orthopnea. He also reports a
+ferocious appetite without any weight gain.
+.
+Returning to [**Hospital1 614**] on Friday, and has a follow up
+appointment with his cardiologist next Monday. He reports being
+followed in a coumadin clinic, but notes his last INR was 1.1 on
+[**1-26**], at which point they kept his dose at 5mg.
+.
+In the ED, Initial Vitals: 98.3 78 129/88 16 100% RA
+- EKG: Likely atrial fibrillation RVR versus atrial flutter
+- Portable chest x-ray was done
+- Diltiazem 20 mg IV was given then he was loaded with 60 po
+dilt.
+- Labs including troponin
+- Chest pain resolved
+- Cardiology consulted: Recommended TEE cardioversion tomorrow.
+For tonight start heparin without bolus and double up on the
+evening Coumadin.
+Most recent vitals prior to transfer: 110, 125/85, 18, 98% on 2
+L NC
+.
+Currently, he feels well, but is tired from a long day. He
+denies any current CP or SOB.
+.
+REVIEW OF SYSTEMS:
+Positive for Chronic Low back pain
+He denies any fever, chills, night sweats, headache, vision
+changes, rhinorrhea, congestion, sore throat, abdominal pain,
+nausea, vomiting, diarrhea, constipation, BRBPR, melena,
+hematochezia, dysuria, hematuria.
+
+
+Past Medical History:
+Paroxysmal Afib s/p prior cardioversion, on warfarin and
+amiodarone
+sCHF with EF 35-40%
+HTN
+Hypertensive Cardiomyopathy
+
+Social History:
+Doesn't smoke, quit 3-4 months ago, used to smoke 1 pack over 4
+days for 35 years. Occaisional EtOH, no drug use. Lives alone,
+fully independent, drives, works as a high school teacher in the
+culinary arts. Lives in [**Hospital1 614**], visiting his mother with his
+family in the [**Name (NI) 86**] area.
+
+Family History:
+Not reviewed.
+
+Physical Exam:
+ VS - 97.5 149/91 108 20 100% on RA 116.3kg
+GENERAL - Alert, interactive, well-appearing in NAD
+HEENT - PERRLA, EOMI, sclerae anicteric, MMM, OP clear
+NECK - Supple, no thyromegaly, JVP at 6mmHg, no carotid bruits
+HEART - PMI non-displaced, irregularly tachycardic, slight [**12-26**]
+murmur at apex
+LUNGS - CTAB, no r/rh/wh, good air movement, resp unlabored, no
+accessory muscle use
+ABDOMEN - +BS, soft/NT/ND, no masses or HSM
+EXTREMITIES - WWP, 1+ bilateral LE edema, 2+ peripheral pulses
+SKIN - no rashes or lesions
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength
+[**3-25**] throughout, steady gait
+
+DISCHARGE EXAM:
+VSS, BP 135/70, HR 75
+Gen: AOx3
+Heart: RRR, widely split S2, 2/6 systolic murmur at apex with
+radiation into axilla
+Lungs: CTAB
+
+Pertinent Results:
+ADMISSION LABS
+
+[**2130-2-20**] 07:45PM BLOOD WBC-10.2 RBC-5.22 Hgb-13.0* Hct-44.8
+MCV-86 MCH-25.0* MCHC-29.1* RDW-15.8* Plt Ct-268
+[**2130-2-20**] 07:45PM BLOOD Neuts-61.8 Lymphs-30.9 Monos-3.4 Eos-3.1
+Baso-0.8
+[**2130-2-20**] 07:45PM BLOOD PT-15.6* PTT-35.6 INR(PT)-1.5*
+[**2130-2-20**] 07:45PM BLOOD Glucose-111* UreaN-31* Creat-1.5* Na-139
+K-4.4 Cl-100 HCO3-28 AnGap-15
+[**2130-2-22**] 06:15AM BLOOD ALT-39 AST-38 AlkPhos-146* TotBili-0.7
+[**2130-2-21**] 06:30PM BLOOD Lipase-20
+[**2130-2-20**] 07:45PM BLOOD proBNP-1803*
+[**2130-2-20**] 07:45PM BLOOD cTropnT-<0.01
+[**2130-2-21**] 07:15AM BLOOD CK-MB-5 cTropnT-<0.01
+[**2130-2-21**] 06:30PM BLOOD CK-MB-4 cTropnT-<0.01
+[**2130-2-20**] 07:45PM BLOOD Calcium-9.9 Phos-4.0 Mg-2.3
+[**2130-2-20**] 08:05PM BLOOD Lactate-1.6
+
+DISCHARGE LABS:
+
+[**2130-2-23**] 06:15AM BLOOD WBC-8.9 RBC-5.03 Hgb-12.8* Hct-42.5
+MCV-85 MCH-25.4* MCHC-30.0* RDW-16.2* Plt Ct-195
+[**2130-2-23**] 06:15AM BLOOD PT-22.0* PTT-77.2* INR(PT)-2.1*
+[**2130-2-23**] 06:15AM BLOOD Glucose-113* UreaN-38* Creat-1.7* Na-138
+K-4.3 Cl-101 HCO3-29 AnGap-12
+[**2130-2-23**] 06:15AM BLOOD Calcium-9.2 Phos-3.9 Mg-2.4
+[**2130-2-21**] 02:55AM BLOOD %HbA1c-6.4* eAG-137*
+[**2130-2-20**] 07:45PM BLOOD TSH-5.5*
+[**2130-2-21**] 06:30PM BLOOD Free T4-1.6
+
+===================
+EKG: There appears to be atrial flutter with variable block.
+Intraventricular conduction delay. Non-specific ST-T wave
+changes. No previous tracing available for comparison.
+===================
+TTE:
+The left atrium is mildly dilated. The right atrium is markedly
+dilated. No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity is moderately dilated. There is severe global
+left ventricular hypokinesis (LVEF = 25 %). No masses or thrombi
+are seen in the left ventricle. There is no ventricular septal
+defect. The right ventricular cavity is moderately dilated with
+moderate global free wall hypokinesis. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Moderate
+(2+) mitral regurgitation is seen. The left ventricular inflow
+pattern suggests a restrictive filling abnormality, with
+elevated left atrial pressure. The tricuspid valve leaflets are
+mildly thickened. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+=====================
+CXR:
+Cardiomegaly is substantial, unchanged. Mediastinum is
+unremarkable. Lungs are essentially clear with no evidence of
+pulmonary edema or increased in pleural effusion. Pneumothorax
+is not seen.
+
+
+Brief Hospital Course:
+62 yo M with hypetensive cardiomyopathy presented with dyspnea
+on exertion, found to be in aflutter, cardioverted but course
+complicated by myocardial stunning.
+.
+1. Atrial Flutter: The patient was cardioverted out of atrial
+flutter into NSR after a TEE did not demonstrate intra-atrial
+clot. Post-procedure, the patient developed hypotension and
+bradycardia requiring atropine and dopamine for pressor support.
+ This likely developed in the setting of anesthesia, and
+multiple medications given during his rapid ventricular rate
+(diltizem and beta blockers).  Additionally, the patient
+developed a similar reaction while cardioverted in the past.  In
+the CCU, the patient was gradually weaned off dopamine. He
+remained in sinus with a short run of NSVT noted on telemetry
+overnight.  It was recommended that the patient's primary
+cardiologist in [**Hospital1 614**] consider ablation to prevent future
+episodes of atrial flutter.  Additionally, amiodarone was
+recommended at 200mg daily.  The patient did not exhibit signs
+of heart failure. The patient will need to remain on coumadin
+for at least 1 month after cardioversion.
+.
+2. Hypertensive Chronic Systolic Failure: TTE here showed
+moderate MR, global LV hypokinesis, and an EF 25-35%. The
+patient had previously been on lasix 40mg [**Hospital1 **], diltiazem,
+spironolactone, and coreg. These medications were held in the
+setting od the patient's recent hypotension and bradycardia. The
+patient should be restarted on these medications as an
+outpatient. Also, the patient should be started on an ACEI if
+indicated as determined by the patient's PCP/Cardiologist.
+.
+3. Elevated Glucose: A1C of 6.4% on admission labs. This should
+be followed as an outpatient.
+.
+TRANSITIONAL ISSUES:
+- Adjust patient's HF medications. These were held on discharge
+due to recent hypotension.
+- Add an ACEI
+- Establish cardiology follow-up
+- Control sugars
+- Discuss role for aflutter ablation in the near future
+
+Medications on Admission:
+Warfarin 5mg daily
+Diltiazem 30mg tid
+Amiodarone 200mg daily
+l

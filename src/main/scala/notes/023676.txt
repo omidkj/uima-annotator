@@ -1,0 +1,223 @@
+Admission Date:  [**2138-4-24**]              Discharge Date:   [**2138-4-30**]
+
+Date of Birth:  [**2065-8-1**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Sulfonamides / Lipitor / Naprosyn / Penicillins / Amoxicillin /
+Chocolate Flavor / Crestor / Morphine / Ativan
+
+Attending:[**First Name3 (LF) 5880**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 72-year-old male with complex medical history who
+was originally admitted to the hospital in [**Month (only) 958**] with a
+strangulated ventral hernia.  He underwent small bowel
+resections x 2, had a prolonged recovery which included
+placement of a tracheostomy tube, and was discharged to a
+long-term rehabiliation facility.
+
+He was subsequently transferred back to [**Hospital1 18**] secondary to
+respiratory distress/?pneumonia as well as management of volume
+overload.
+
+Past Medical History:
+1. CAD - s/p LAD and OM1 stent in [**8-2**], s/p RCA PTCA in '[**28**]
+2. DM 2
+3. HTN
+4. PVD s/p bilat LE bypass surgeries (Dr.[**Last Name (STitle) **])
+5. CRI - baseline Cr 1.6-2.0
+6. cataracts
+7. gout
+8. BPH
+9. Abd hernia
+10. s/p CCY, ex-lap w/abd hernia resulting
+11. Incarcerated ventral hernia containing strangulated small
+bowel and requiring small bowel resection.  This was complicated
+by a leak leading to re-operation.
+
+Social History:
+Worked as head [**Doctor Last Name 7051**]. Hx Etoh abuse x 20 yrs, but quit [**2124**]. 86
+ppy tob.
+Multiple family memebrs live nearby
+
+
+Family History:
+Fa: died secondary to colon ca
+Mo: died secondary to PNA
+Siblings: Etoh abuse, HTN
+
+Physical Exam:
+T: 100.1  HR: 77  BP: 147/81  RR: 12  SpO2: 100%
+Alert, no apparent distress
+Regular rate & rhythm
+Breath sounds course bilaterally, no wheezes or rhonchi
+Tracheostomy intact, + air leak
+Soft, non-tender, & non-distended.  VAC in place.
+[**2-1**]+ upper & lower extremity edema
+
+Pertinent Results:
+[**2138-4-24**] 08:49PM BLOOD WBC-13.3*# RBC-3.52* Hgb-11.0* Hct-34.5*
+MCV-98 MCH-31.3 MCHC-31.9 RDW-18.9* Plt Ct-145*#
+
+[**2138-4-27**] 01:41PM BLOOD WBC-23.7*# RBC-3.07* Hgb-9.9* Hct-30.1*
+MCV-98 MCH-32.2* MCHC-32.9 RDW-17.8* Plt Ct-159
+
+[**2138-4-30**] 02:21AM BLOOD WBC-11.3* RBC-3.15* Hgb-9.4* Hct-30.9*
+MCV-98 MCH-29.9 MCHC-30.5* RDW-17.2* Plt Ct-182
+
+[**2138-4-24**] 08:49PM BLOOD Glucose-113* UreaN-72* Creat-1.3* Na-156*
+K-4.0 Cl-117* HCO3-31 AnGap-12
+
+[**2138-4-30**] 02:21AM BLOOD Glucose-152* UreaN-64* Creat-1.1 Na-144
+K-4.2 Cl-110* HCO3-32 AnGap-6*
+
+[**2138-4-24**] 08:49PM BLOOD ALT-26 AST-25 AlkPhos-92 Amylase-193*
+TotBili-0.6
+
+[**2138-4-27**] 01:41PM BLOOD Amylase-138*
+
+[**2138-4-24**] 8:50 pm SPUTUM      Source: Endotracheal.
+GRAM STAIN (Final [**2138-4-25**]):
+      [**10-23**] PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2138-4-28**]):
+      SPARSE GROWTH OROPHARYNGEAL FLORA.
+      STAPH AUREUS COAG +.    SPARSE GROWTH.  OF TWO COLONIAL
+MORPHOLOGIES.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------     2 S
+VANCOMYCIN------------   <=1 S
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+[**2138-4-24**] 10:02 pm BLOOD CULTURE      Source: Venipuncture.
+
+                            **FINAL REPORT [**2138-4-30**]**
+
+   AEROBIC BOTTLE (Final [**2138-4-30**]):    NO GROWTH.
+
+   ANAEROBIC BOTTLE (Final [**2138-4-28**]):
+      REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 24690**] CC5B [**Numeric Identifier 24691**] [**2138-4-25**]
+20:30.
+      STAPH AUREUS COAG +.    FINAL SENSITIVITIES.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         VANCOMYCIN SENSITIVITY DONE BY E-TEST..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------     2 S
+VANCOMYCIN------------     2 S
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] was readmitted to the surgical intensive care unit at
+[**Hospital1 18**] from the rehabilitation facility.  He was alert and
+responsive, and looked well.  Diuresis was initiated with good
+response, and he was weaned from the ventilator and placed on
+tracheostomy mask ventilation.  He initially did well, but was
+noted to have a large cuff leak from his tracheostomy, and
+became somewhat tachypneic.  He was placed back on the
+ventilator to which he responded well.  He was then noted to
+have a fever and blood/urine cultures were sent.  He was found
+to have staphylococcus in his sputum and blood, and pseudomonas
+in his urine.  Appropriate antibiotic coverage was initiated
+(linezolid and cefepime), and he defervesced, with a
+corresponding drop in his WBC.
+
+In addition, his tracheostomy tube was removed and replaced with
+a similarly sized flexible [**Last Name (un) 295**] tracheostomy, angled
+specifically to have a longer down-arm.  His air leak resolved
+with this maneuver.  He continued to improve, and it was decided
+that he was again ready for transfer to a rehabiliation
+facility.
+
+Medications on Admission:
+1. Lopressor 25 mg PO TID
+2. ASA 81 mg PO DAILY
+3. Lasix 40 mg PO BID
+4. Ativan PRN
+5. Albuterol IH
+6. Lansoprazole 30 mg PO DAILY
+7. Regular Insulin Sliding Scale
+8. Epogen
+9. Seroquel
+10. Heparin 5000U SC TID
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution [**Last Name (un) **]: 5000 (5000)
+Units Injection TID (3 times a day).
+2. Albuterol Sulfate 0.083 % Solution [**Last Name (un) **]: One (1) Neb
+Inhalation Q6H (every 6 hours) as needed.
+3. Epoetin Alfa 2,000 unit/mL Solution [**Last Name (un) **]: 1000 (1000) Units
+Injection QMOWEFR (Monday -Wednesday-Friday).
+4. Zinc Oxide-Cod Liver Oil 40 % Ointment [**Last Name (un) **]: One (1) Appl
+Topical PRN (as needed).
+5. Miconazole Nitrate 2 % Powder [**Last Name (un) **]: One (1) Appl Topical TID
+(3 times a day) as needed.
+6. Acetaminophen 160 mg/5 mL Solution [**Last Name (un) **]: Six [**Age over 90 1230**]y
+(650) mg PO Q4-6H (every 4 to 6 hours) as needed.
+7. Docusate Sodium 50 mg/5 mL Liquid [**Age over 90 **]: One Hundred (100) mg
+PO BID (2 times a day).
+8. Lorazepam 0.5 mg Tablet [**Age over 90 **]: 1-4 Tablets PO Q4-6H (every 4 to
+6 hours) as needed.
+9. Clonidine 0.1 mg/24 hr Patch Weekly [**Age over 90 **]: One (1) Patch Weekly
+Transdermal QFRI (every Friday).
+10. Aspirin 81 mg Tablet, Chewable [**Age over 90 **]: One (1) Tablet, Chewable
+PO DAILY (Daily).
+11. Metoprolol Tartrate 25 mg Tablet [**Age over 90 **]: One (1) Tablet PO TID
+(3 times a day).
+12. Quetiapine 25 mg Tablet [**Age over 90 **]: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+13. Ipratropium Bromide 17 mcg/Actuation Aerosol [**Age over 90 **]: 6-8 Puffs
+Inhalation Q4H (every 4 hours) as needed for when on vent.
+14. Albuterol 90 mcg/Actuation Aerosol [**Age over 90 **]: 6-8 Puffs Inhalation
+Q4H (every 4 hours) as needed for when on vent.
+15. Therapeutic Multivitam

@@ -1,0 +1,222 @@
+Admission Date:  [**2135-12-30**]              Discharge Date:   [**2136-1-16**]
+
+Date of Birth:  [**2068-2-1**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+Exertional dyspnea
+
+Major Surgical or Invasive Procedure:
+[**2136-1-6**] - Urgent pump-assisted beating heart coronary artery
+bypass graft x3:  Left internal mammary artery to left anterior
+descending artery, and saphenous vein grafts to obtuse marginal
+and posterior descending arteries.
+
+
+History of Present Illness:
+67 year old male who presented to [**First Name4 (NamePattern1) 3075**] [**Last Name (NamePattern1) 3549**] Hospital with
+systolic heart failure. An echocardiogram and nuclear stress
+test showed an old large/inferior-lateral MI. He was referred
+for a cardiac catheterization for further evaluation. He was
+found to have multivessel disease upon catheterization. He was
+transferred to [**Hospital1 18**] for further evaluation and
+revascularization.
+
+
+Past Medical History:
+-Ischemic cardiomyopathy, LVEF=15-20% (3 heart failure
+admissions
+in [**Male First Name (un) 1056**] in 1 year)
+-CAD status post large inferior MI [**2134**] (managed medically in
+[**Male First Name (un) 1056**])
+-CVA [**2134**]
+-Bicuspid Aortic Valve
+-IDDM
+-Bilateral leg amputation secondary to peripheral arterial
+disease (Right in [**2132**], Left in [**2134**])
+-Chronic kidney disease
+-Anemia
+-Mild aortic stenosis
+
+Social History:
+Last Dental Exam: edentulous
+Lives with:recently moved to US from [**Male First Name (un) 1056**]
+Occupation:retired, previously worked in construction
+Tobacco: denies
+ETOH: denies
+
+
+Family History:
+non-contributory
+
+
+Physical Exam:
+Pulse: 80SR  Resp: 20   O2 sat: 97%RA
+B/P  Right:    Left: 114/75
+Height:  5' (s/p bilat. BKA)   Weight: 190lb ?
+
+General: NAD, WGWN, appears stated age
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x] edentulous
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]
+Edema none Varicosities: None [x]
+Bilateral BKA
+Neuro: Grossly intact x
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right:   Left: NA
+PT           [**Name (NI) 167**]:   Left: NA
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right:    Left:
+no bruits
+
+
+Pertinent Results:
+ECHO [**2136-1-6**]
+PREBYPASS: There is severe LV dilation and global hypokinesis of
+the left ventricle with a calculated LVEF <20% by simpsons
+method of discs, and a fractional area change of <20%. The right
+ventricular cavity is moderately dilated, and there is a mild to
+moderate decrease in RV systolic funciton. The aortic valve
+leaflets are severely thickened/deformed, but there is a valve
+area by continuity equation of 1.8 cm2 and by planimetry of
+1.75cm2 cosistent with mild stenosis. There is decreased
+systolic function with a decreased stroke volume across the AV,
+therefore the gradients were all very low. There is mild aortic
+valve stenosis (valve area 1.2-1.9cm2). Trace aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. Mild TR and PI are
+present. The interatrial septum is intact. There is no evidence
+of clot in the left atrial appendage, although the velocities
+measrued are less than 40 cm/sec. There is mild to moderate
+descending thoracic aortic atherosclerosis. There is no
+pericardial effusion.
+
+POSTBYPASS: S/P CABG. Essentially unchanged. Mild improvement of
+systolic function with inotrope administration
+
+[**2136-1-2**] Carotid Duplex Ultrasound
+Impression: Right ICA stenosis <40%.  Left ICA stenosis <40%.
+
+Renal Ultrasound [**2136-1-3**]
+1. Normal-sized kidneys with no evidence of hydronephrosis.
+2. Non-obstructive right upper pole stone versus stone in a
+caliceal
+diverticulum.
+3. Bilateral cysts and a small AML in the upper pole of the left
+kidney.
+
+
+Brief Hospital Course:
+ Mr. [**Known lastname 7086**] was admitted to the [**Hospital1 18**] on [**2135-12-30**] for further
+management of his coronary artery disease. He was worked-up in
+the usual preoperative manner which included a carotid duplex
+ultrasound which showed less then a 40% stenosis of the
+bilateral internal carotid arteries. A renal consult was
+obtaibed given his baseline creatinine was elevated at 1.6. An
+ultrasound was obtained which showed normal-sized kidneys with
+no evidence of hydronephrosis. It was believed that his chronic
+kidney disease was due to his diabetes. On [**2136-1-6**], Mr. [**Known lastname 7086**]
+was taken to the operating room where he underwent coronary
+artery bypass grafting to three vessels. Please see operative
+note for details. Postoperatively he was taken to the cardiac
+surgical intensive care unit for monitoring. He was transfused
+for postoperative anemia.
+He developed ATN with a  creatinine peak to 2.9- doown to 1.5 on
+day of discharge.
+Ace-I , betablocker and diuresis and statin therapies were
+started and titrated to effect. Pacing wires and chest tubes
+were removed per protocol. Mr. [**Known lastname 7086**] developed serosanguinous
+drainage from the distal pole of his sternal incision. He was
+started on IV cefazolin and changed to po keflex upon discharge
+for 7 days.
+He was cleared for discharge by Dr. [**First Name (STitle) **] on POD#10 to rehab
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] rehab in [**Location (un) 47**].
+
+Medications on Admission:
+Simvastatin 20mg Daily
+Enalapril 10mg Daily
+Carvedilol 12.5mg [**Hospital1 **]
+Lasix 40mg Daily
+Asprin 81mg Daily
+Humalog insulin 70/30; 25 units every morning and every night
+Saloftazol 100mg [**Hospital1 **]
+
+Discharge Medications:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+3. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+6. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for fever/pain.
+7. simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+8. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+10. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+11. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+13. zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed for insomnia.
+14. Keflex 500 mg Capsule Sig: One (1) Capsule PO four times a
+day for 7 days.
+15. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day:
+decrease to daily dosing once sternal drainage resolves.
+16. insulin NPH & regular human 100 unit/mL (70-30) Suspension
+Sig: Fifteen (15) units Subcutaneous twice a day.
+17. insulin regular human 100 unit/mL Solution Sig: per
+fingerstick units Injection before meals and at bedtime: dose
+per fingerstick.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Rehab & Nursing Center - [**Location (un) 47**]
+
+Discharge Diagnosis:
+-CAD status post large inferior MI [**2134**] (managed medically in
+[**Male First Name (un) 1056**])
+- Mild aortic stenosis
+-Ischemic cardiomyopathy, LVEF=15-20% (3 heart failure
+admissions
+in [**Male First Name (un) 1056**] in 1 year)
+-CVA [**2134**]
+-Bicuspid Aortic Valve
+-IDDM
+-Bilateral leg amputation secondary to peripheral arterial
+disease (Right in [**2132**], Left in [**2134**])
+-Chronic kidney disease
+-Anemia
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with tylenol
+Incisions:
+Sternal - healing well, no erythema or scant serosanguinous
+drainage from mid point of

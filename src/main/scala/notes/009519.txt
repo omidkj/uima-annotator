@@ -1,0 +1,203 @@
+Admission Date:  [**2164-5-22**]              Discharge Date:   [**2164-5-28**]
+
+Date of Birth:  [**2099-5-24**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 301**]
+Chief Complaint:
+64 year old male admitted with abdominal pain with recent
+diagnosis of right lower lobe pulmonary emboli.
+
+Major Surgical or Invasive Procedure:
+Percutaneous Cholecystotomy tube placed [**2164-5-22**]
+ERCP with stent [**2164-5-25**]
+
+
+History of Present Illness:
+64 yo male M with symptoms of N/V and back pain which began
+on [**5-17**]. Patient had a CTA of the chest on [**5-17**] with diagnosis
+of
+RLL PE. He was discharged on Coumadin and returned 3 days later
+with ongoing N/V and pain and was found to have acute
+cholecystitis. He was transferred from [**Location (un) 620**] for placement of
+a
+biliary drain.
+
+Past Medical History:
+HTN, GERD, spinal stenosis L3-L4, chronic low back pain
+
+Social History:
+Lives with wife in [**Name (NI) **]
+
+Family History:
+Non- contributory
+
+Physical Exam:
+Vitals: t 98.4 hr 84  bp 127/76 rr 14 sat 93% 4L NC
+Gen: well-appearing, NAD
+HEENT: ? mild scleral icterus, perrla, eomi, op - MMM, no
+lesions
+Neck: no lad
+CV: rrr, no mrg
+Resp: clear anteriorly
+Abd: + bs, distended, biliary drain in place, non-tender
+Ext: no edema, dp 2+ b/l
+Neuro: aao x 3
+
+
+Pertinent Results:
+[**2164-5-22**] 06:50PM BLOOD WBC-10.8 RBC-3.74* Hgb-12.6* Hct-35.5*
+MCV-95 MCH-33.8* MCHC-35.6* RDW-13.9 Plt Ct-167
+[**2164-5-26**] 09:17PM BLOOD WBC-8.6# RBC-3.86*# Hgb-12.8*# Hct-36.3*
+MCV-94# MCH-33.3* MCHC-35.4*# RDW-13.8 Plt Ct-240
+[**2164-5-28**] 05:35AM BLOOD WBC-8.8 RBC-3.65* Hgb-12.0* Hct-34.5*
+MCV-95 MCH-32.9* MCHC-34.8 RDW-13.5 Plt Ct-354
+[**2164-5-22**] 02:54PM BLOOD PT-21.7* PTT-44.0* INR(PT)-2.1*
+[**2164-5-23**] 05:16PM BLOOD PT-19.5* PTT-36.9* INR(PT)-1.8*
+[**2164-5-25**] 05:15AM BLOOD PT-20.4* PTT-47.1* INR(PT)-1.9*
+[**2164-5-28**] 05:35AM BLOOD PT-28.0* PTT-59.6* INR(PT)-2.8*
+[**2164-5-22**] 06:50PM BLOOD Glucose-151* UreaN-19 Creat-1.0 Na-139
+K-4.3 Cl-102 HCO3-30 AnGap-11
+[**2164-5-28**] 05:35AM BLOOD Glucose-178* UreaN-6 Creat-0.9 Na-136
+K-4.5 Cl-105 HCO3-22 AnGap-14
+[**2164-5-22**] 06:50PM BLOOD ALT-38 AST-30 LD(LDH)-182 CK(CPK)-36*
+AlkPhos-107 Amylase-31 TotBili-2.6*
+[**2164-5-26**] 02:06AM BLOOD ALT-24 AST-22 CK(CPK)-21* AlkPhos-183*
+Amylase-1652* TotBili-0.7
+[**2164-5-28**] 05:35AM BLOOD ALT-28 AST-21 AlkPhos-185* Amylase-93
+TotBili-1.5
+[**2164-5-22**] 06:50PM BLOOD Lipase-18
+[**2164-5-28**] 05:35AM BLOOD Lipase-142*
+[**2164-5-22**] 06:50PM BLOOD Albumin-3.4 Calcium-8.6 Phos-2.2* Mg-2.0
+[**2164-5-28**] 05:35AM BLOOD Calcium-8.3* Phos-2.7 Mg-2.1
+
+Brief Hospital Course:
+64 yo male M with symptoms of N/V and back pain which began on
+[**5-17**]. Patient had a CTA of the chest on [**5-17**] with diagnosis of
+RLL PE. He was discharged on coumadin and returned 3 days later
+with ongoing N/V and pain and was found to have acute
+cholecystitis. He was transferred from [**Location (un) 620**] for placement of
+a biliary drain. Coumadin has been discontinued and he was
+started on a heparin gtt for anticoagulation while hospitalized.
+Patient started on antibiotics.
+
+On [**2164-5-22**] a percutaneous cholecystotomy tube was placed.
+
+On [**2164-5-25**] ERCP was performed with large stone found in common
+hepatic duct, a stent was placed.
+
+[**2164-5-28**] vital signs stable, afebrile. INR 2.8. He has been
+instructed to hold his coumadin today and take 2.5 mg tomorrow.
+His labwork will be done on wednesday. He is tolerating a
+regular diet without nausea.
+
+Discharge plans:
+1. VNA - to monitor cholecystotomy tube and assess and monitor
+respiratory status.
+
+2. Follow up with Dr. [**Last Name (STitle) **] in 2 weeks.
+
+3. Have spoken with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 29866**] (PCP) who will follow his
+INR levels and make coumadin adjustments. He will also order
+chest x-ray in 6 months to follow up on right rib lesion.
+
+4. Dr. [**Last Name (STitle) **] will perform another ERCP in 3 months to assess
+need for drain.
+
+5. Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 3060**] (hematology) will see him in 6 months to work
+him for his pulmonary
+emboli.
+
+Medications on Admission:
+lansoprazole 30'
+
+Discharge Medications:
+1. Warfarin 2.5 mg Tablet [**Last Name (NamePattern4) **]: One (1) Tablet PO Once Daily at 4
+PM: Please check with your primary care physician regarding
+daily dosing .
+Disp:*qs Tablet(s)* Refills:*2*
+2. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] once a day.
+3. Levofloxacin 500 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day:
+for ten days.
+Disp:*10 Tablet(s)* Refills:*0*
+4. Flagyl 500 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO three times a
+day: for 10 days.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Outpatient [**Name (NI) **] Work
+PT, PTT, INR twice weekly until stable and then weekly. Please
+send labwork to Dr. [**First Name8 (NamePattern2) 2174**] [**Last Name (NamePattern1) 29866**] at [**Hospital1 1774**], [**Location (un) 8985**]. His
+fax number is [**Telephone/Fax (1) 78792**], His telephone number is [**Telephone/Fax (1) 67063**]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 1519**]
+
+Discharge Diagnosis:
+Acute Cholecystitis with R lower lobe pulmonary emboli
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+
+Please call your doctor or return to the emergency room if you
+have any of the following:
+
+ * You experience new chest pain, pressure, squeezing or
+ tightness.
+
+* New or worsening cough or wheezing.
+
+* If you are vomiting and cannot keep in fluids or your
+ medications.
+
+* You are getting dehydrated due to continued vomiting,
+ diarrhea or other reasons. Signs of dehydration include dry
+ mouth, rapid heartbeat or feeling dizzy or faint when standing.
+
+* You see blood or dark/black material when you vomit or have a
+ bowel movement.
+
+
+* You have shaking chills, or a fever greater than 101.5 (F)
+ degrees or 38(C) degrees.
+
+* Any serious change in your symptoms, or any new symptoms that
+ concern you.
+
+* Please resume all regular home medications and take any new
+meds
+ as ordered.
+
+
+Followup Instructions:
+Please follow up with your primary care provider [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] [**Last Name (NamePattern4) 29866**]
+regarding your coumadin doses. Should check your labwork 2 times
+a week until stable and then weekly. You need to be on coumadin
+for 6 months. His number is [**Telephone/Fax (1) 67063**]. you will also need a
+follow up chest x-ray in 6 months to check on a right rib
+lesion.
+
+Please follow up with Dr. [**Last Name (STitle) **] in his office in 2 weeks. His
+number is [**Telephone/Fax (1) 2723**], he is located in the [**Hospital Ward Name 23**] building on
+the [**Location (un) 10043**].
+
+Follow up with Dr. [**Last Name (STitle) **] Repeat ERCP with stent removal/stent
+change in 3 months. His number is [**Telephone/Fax (1) 1983**].
+
+Follow up with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 3060**] (hematologist)in 6 months regarding
+hypercoagable work up. His number is [**Telephone/Fax (1) 31916**].
+
+
+
+Completed by:[**2164-5-28**]

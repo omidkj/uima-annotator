@@ -1,0 +1,138 @@
+Admission Date: [**2102-7-3**]        Discharge Date: [**2102-7-10**]
+
+Date of Birth:  [**2026-8-22**]        Sex:  F
+
+Service:  ENT
+
+
+ADMITTING DIAGNOSIS:  Laryngeal mass.
+
+DISCHARGE DIAGNOSIS:  Laryngeal rhabdomyoma.
+
+HISTORY OF PRESENT ILLNESS:  Ms. [**Known lastname **] is a 75-year-old
+woman, with an extensive past medical history, who was
+admitted to [**Hospital6 12112**] for increasing
+shortness of breath.  She was diagnosed with probable
+congestive heart failure and treated with intravenous Lasix.
+While her respiratory status did not improve, she was
+eventually evaluated by ENT where she was found to have a
+superglottic mass on fiberoptic exam.  CT scan confirmed the
+presence of this mass.  Then she was seen by Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] at the [**Hospital6 256**] as an
+outpatient and subsequently scheduled for surgical management
+of this problem.
+
+PAST MEDICAL HISTORY:  Insulin dependent diabetes mellitus.
+
+Hypertension.
+
+History of myocardial infarction.
+
+COPD.
+
+Asthma.
+
+MEDICATIONS BEFORE ADMISSION:
+1. Lipitor 20 qd.
+2. Atenolol 25 qd.
+3. Glyburide 5 qd.
+4. Celexa 20 qd.
+5. Effexor 75 qd.
+6. Protonix 40 qd.
+7. Regular insulin sliding scale.
+8. Lisinopril was recently discontinued because of mild renal
+   insufficiency.
+
+
+HOSPITAL COURSE:  On [**2102-7-3**], Ms. [**Known lastname **] [**Last Name (Titles) 1834**] an awake
+tracheostomy and biopsy of a laryngeal mass with Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **].  She tolerated the procedure well, and her
+postoperative course by systems is as follows:
+
+1. NEURO:  Ms. [**Known lastname 100103**] pain was well-controlled with IV pain
+   medication which was easily transitioned to PO pain meds.
+   Her mental status was within normal limits.
+
+1. CARDIOVASCULAR:  Ms. [**Known lastname **] was hemodynamically stable
+   throughout her hospitalization.  Postop EKG was without
+   changes.  She was not placed on a rule out.
+
+1. RESPIRATORY:  Ms. [**Known lastname **] had a tracheostomy placed under
+   awake conditions in the operating room on [**2102-7-3**].  She
+   tolerated the procedure well.  She stayed in the ICU until
+   postoperative day 5, at which time the number 6 trach was
+   changed to a number 7 Portex trach.  She currently has a
+   number 7 Portex trach.  The sutures were removed on
+   postoperative day 6.  The trach is held in place by a
+   trach tie.  This should be placed snuggly around the
+   patient's neck to allow 2 fingers between the trach tie
+   and the neck, but this should be snug.  The patient is a
+   very difficult intubation from above.  Extreme care should
+   be taken so the trach does not come out.  If the trach
+   does fall out, it should be replaced.  If it cannot be
+   replaced, an ET tube or an endotracheal tube may be
+   substituted for a trach at the time that the trach falls
+   out.  From a respiratory standpoint otherwise, she was
+   doing very well.  She was saturating well on room air.
+   She was ambulating several times per day, and she was on
+   her home asthma medication.
+
+1. GI:  Ms. [**Known lastname **] was currently tolerating a regular diabetic
+   diet.  She was seen by nutrition.  Tube feeds were started
+   in the early postoperative period.  This was transitioned
+   to a regular diet after an evaluation by speech and
+   swallow.  The speech and swallow evaluation consisted of a
+   bedside blue dye swallow which showed a question of
+   aspiration.  For this reason, a video swallow was
+   performed, and a post swallow x-ray as well.  Both of
+   these were negative for signs of aspiration.  Her diet was
+   advanced.  She was currently tolerating a regular diabetic
+   diet
+
+1. GU:  Ms. [**Known lastname **] was on her home PO Lasix regimen.  She was
+   currently making good urine.  Her creatinine on [**2102-7-8**]
+   was 1.2.  This was much improved from her preoperative and
+   early postoperative creatinine of approximately 1.6.
+
+1. HEME:  Ms. [**Known lastname **] was transfused on 2 occasions during her
+   postoperative period for hematocrit's around 26-27.  Her
+   most recent hematocrit on [**2102-7-8**] was 33.1.  She does
+   have a history of coronary artery disease.  She was also
+   on subcu heparin, and ambulating several times per day.
+
+1. PROPHYLAXIS:  Ms. [**Known lastname **] was kept on perioperative Ancef.
+   She had been afebrile.  Her wound was healthy with no
+   erythema.
+
+
+DISPOSITION:  Ms. [**Known lastname **] was seen in house by physical who had
+recommended for several reasons that she go to rehab.  She
+was currently being screened for rehab and was ready for
+discharge today.
+
+DISCHARGE MEDICATIONS:
+1. Zolpidem tartrate 5 mg po q hs prn insomnia.
+2. Pantoprazole 40 mg po qd.
+3. Subcu insulin sliding scale q ac and hs.
+4. Glyburide 2.5 mg po bid.
+5. Atenolol 25 mg po qd.
+6. Lasix 40 mg po qd.
+7. Heparin 5,000 U subcu [**Hospital1 **].
+8. Atrovent 2 puffs inhaled q 4-6 h prn shortness of breath
+   or wheezing.
+9. Percocet 5/325 mg tabs 1 tab po q 4 h prn pain.
+10.Albuterol 1-2 puffs inhaled q 6 h prn shortness of breath
+or wheezing.
+11.Venlafaxine 75 mg po qd.
+12.Citalopram hydrobromide 20 mg po qd.
+13.Atorvastatin 20 mg po qd.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **], DENT [**Numeric Identifier 25181**]
+
+Dictated By:[**Last Name (NamePattern1) 100104**]
+MEDQUIST36
+D:  [**2102-7-10**] 09:40:27
+T:  [**2102-7-10**] 10:05:12
+Job#:  [**Job Number 100105**]

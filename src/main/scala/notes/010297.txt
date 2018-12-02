@@ -1,0 +1,169 @@
+Admission Date:  [**2151-2-3**]              Discharge Date:   [**2151-5-20**]
+
+Date of Birth:  [**2096-11-16**]             Sex:   M
+
+Service: EMERGENCY
+
+Allergies:
+Bee Pollen / Lorazepam
+
+Attending:[**First Name3 (LF) 2565**]
+Chief Complaint:
+Allogenic Stem Cell Transplant
+
+Major Surgical or Invasive Procedure:
+Central Venous Line Placement
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 54 year old male with history of Myelofibrosis,
+diagnosed in the last year admitted today for allogenic stem
+cell transplant.  He initially presented to his PCP with fatigue
+and lower extremity swelling.  Ultrasound was negative for DVT.
+Cardiac work-u normal.  He was noted to be anemic on lab work
+and have splenomegally on exam.  He was referred to Dr. [**First Name4 (NamePattern1) 402**]
+[**Last Name (NamePattern1) **] for evaluation.  Bone marrow biopsy at that time was
+suggestive of myelofibrosis.  He was referred to [**Hospital1 18**], under
+the care of Dr. [**Last Name (STitle) 410**] for evaluation.  Pathology reviewed his
+BM bx and agreed with diagnosis of myelofibrosis.  He has had
+continued fatigue with need for frequent naps.  He has a
+hematocrit baseline ~30-31 and platelet baseline 150.  He has
+not been transfusion dependent.  He is admitted today for allo
+stem cell transplant.  On review of symptoms, he notes a rash on
+his buttocks, occasionally pruritic, non vesicular, usually in
+the winter months only.  He denies fever, chills, sore throat,
+cough, rhinorrhea, shortness of breath, chest pain,
+palpitations, N/V/D, dyuria, consitpation, abdominal pain,
+weakness, parasthesias, headache, changes in vision, changes in
+hearing.
+
+
+Past Medical History:
+- "lazy eye"
+- s/p Pneumovax, a meningococcal vaccine, flu shot in fall [**2149**]
+
+
+Social History:
+Non-smoker; previously drank alcohol socially, however has not
+been drinking since [**52**]/[**2149**].  No drug use.  Lives with
+girlfriend.  Technical writer at medical filter manufacturing
+company.  No known exposures.
+
+
+Family History:
+No family history of malignancy, leukemia or
+lymphoma.  Father - diabetes, hypertension, PVD, CAD and
+TIA.  Mother, sisters (2) and brother are [**Name2 (NI) 84820**].
+
+Physical Exam:
+VITALS: T: 98.8  BP: 114/60  HR: 82  RR: 20  O2: 100%RA
+GEN: NAD, lying in bed comfortably
+HEENT: Pupils equal and reactive, eyes with disconjugate
+movement (chronic), oropharynx clear, EOMI
+NECK: No LAD, No JVD, right tunneled line in place
+CV: RRR, no m/g/r
+LUNGS: CTAB, no wheezes of rhonchi
+ABD: soft, splenomegally across midline and to top of illiac
+crest, +BS, no guarding or rebound
+EXT: no c/c/e, DP pulses palpable bilaterally in LE, radial
+pulses palpabel and equal in bilateral UE.
+NEURO: Alert, oriented x 3, strength 5/5 in all 4 extremities,
+sensation intact throughout.  No disdiadochokinesis.  Gait not
+assessed.
+SKIN: discreet erythematous rash over bilateral buttocks with
+some scaling of skin, no exudate or pus, no sign of infection.
+
+
+Pertinent Results:
+Admission Labs:
+[**2151-2-3**] 10:05AM BLOOD WBC-9.5 RBC-4.13* Hgb-9.6* Hct-31.7*
+MCV-77* MCH-23.2* MCHC-30.3* RDW-16.7* Plt Ct-155
+[**2151-2-3**] 10:05AM BLOOD Neuts-71* Bands-0 Lymphs-16* Monos-7
+Eos-2 Baso-1 Atyps-1* Metas-0 Myelos-2* NRBC-2*
+[**2151-2-3**] 10:05AM BLOOD PT-14.7* PTT-35.8* INR(PT)-1.3*
+[**2151-2-3**] 10:05AM BLOOD UreaN-19 Creat-0.8 Na-138 K-5.1 Cl-102
+HCO3-25 AnGap-16
+[**2151-2-3**] 10:05AM BLOOD ALT-9 AST-15 LD(LDH)-492* AlkPhos-72
+TotBili-0.6 DirBili-0.2 IndBili-0.4
+[**2151-2-3**] 10:05AM BLOOD TotProt-7.8 Albumin-4.1 Globuln-3.7
+Calcium-9.3 Phos-4.2 Mg-2.1 UricAcd-5.6
+[**2151-2-3**] 10:05AM BLOOD IgG-2052* IgA-125 IgM-84
+
+[**2151-2-11**] Abdomninal U/S - 1. There is small amount of ascites and
+a small right pleural effusion. 2. Gallbladder wall thickening
+and pericholecystic fluid is likely secondary to the patient's
+underlying disease process and ascites. However, if there is
+clinical concern for cholecystitis, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] scan (nuclear
+medicine) should be considered. 3. Severe splenomegaly.
+
+[**2151-2-19**] CT Abdomen and Pelvis - 1. No evidence of
+retroperitoneal bleed. 2. Massive splenomegaly. 3. Diffusely
+mottled appearance of the bones, consistent with the history of
+MDS/myelofibrosis.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 54 year old gentleman with history Myelofibrosis
+who had a long and complicated hospital course including a
+failed allogenic stem cell transplant from his brother and then
+a failed double cord transplant on [**4-21**]. He expired on [**2151-5-20**]
+due to sepsis.
+
+# Myelofibrosis s/p Failed Allo Stem Cell Transplant s/p Double
+Cord Transplant -
+Mr. [**Known lastname **] was admitted for allogenic stem cell transplant for
+treatment of his myelofibrosis.  On admission, he had a tunneled
+catheter placed by interventional radiology.  He received
+ablative therapy with Fludarabine, ATG and Busulfan.  He
+recieved his stem cell transplant without complication.
+Prophylactic acyclovir, fluconazole and cipro were started per
+protocol as well as cyclosporine.  On day +34, patient's
+chimerism results returned 45% donor cells despite an ANC of 50.
+He was then initiated on splenic radiation therapy on [**3-19**] in
+the hope of aiding engraftment. The patient's ANC did improve on
+[**3-27**] to a peak of 198. After transfer to the [**Hospital Unit Name 153**] on [**4-19**], the
+patient was given a 2 cord stem cell transplant on [**4-21**] without
+complication, while intubated for fluid overload.  Due to renal
+toxicity of cyclosporine, patient was maintained on IV
+methylprednisolone [**Hospital1 **] dosing in addition to his mycophenolate
+mofetil. Mr. [**Known lastname 84821**] hospital course was complicated by GI bleed,
+acute renal failure, and neutropenic fever (see below).  He
+ultimately died from spesis with DIC.
+
+# Neutropenic fever/sepsis:
+The patient experienced several episodes of neutropenic fever,
+first on [**2-20**] at which time he was placed on Cefepime and
+Vancomycin. Acyclovir was initiated at the time of admission,
+but was held when his Cr rose above 1.5. The patient's fever
+resolved and he did not experience any further episodes until
+spiking to 103.3 on [**3-11**] in the context of a presumed aspiration
+event with a brief episode of hypoxia. A CXR at the time
+demonstrated some increased opacities, so Metronidazole was
+added with resolution of his fever and hypoxia, but he spiked
+again on [**3-12**]. ID was consulted and per their recommendations,
+his antibiotics were broadened to Daptomycin, Meropenem,
+Voriconazole, & Flagyl. He remained afebrile afterwards, but had
+several episodes of hypothermia with a nadir of 94.4. An
+infectious work-up was negative and the patient never exhibited
+hemodynamic instability. In the context of low cell counts, the
+Infectious disease team later review the patient's medications
+and recommended discontinuing his Flagyl and switching his
+Meropenem to Ciprofloxacin to prevent any medication driven
+reduction in his cell counts. His antibiotics were changed per
+ID recommendations several times during his [**Hospital Unit Name 153**] stay, and he
+returned to the BMT service on [**4-26**] on acyclovir, atovaquone,
+cefepime, micafungin, and vancomycin.  He was started on
+Ambisome on [**5-8**] for positive yeast culture in blood and urine.
+He had Hickman cath removed on [**5-9**] by IR. On [**2151-5-10**] changed
+micafungin to voriconazole. Later in his hospital course he
+developed acute lethargy, and was found to be hypothermic and
+hypotensive. He also c/o worsening abdominal pain.  He was
+transferred back to the [**Hospital Unit Name 153**] for presumed sepsis.  ID was
+consulted overnight and his antibiotics were broadedned.  A
+central line and arterial line were placed and he was started on
+pressors.  He was noted to be in DIC with platelets below 10.
+He had developed acute on chronic renal failure, lactic acidosis
+of 11.7, acidemia with pH 6.95 and was intubated for a
+respiratory rate near the 40s.  A catheter was placed for HD.
+However, the following morning, his family decided to change his
+goals of care to comfort measures only.  All medications were
+stopped. 

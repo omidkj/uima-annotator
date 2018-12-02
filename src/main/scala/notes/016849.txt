@@ -1,0 +1,224 @@
+Admission Date:  [**2188-4-11**]              Discharge Date:   [**2188-4-30**]
+
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+Shortness of breath, LE edema
+
+Major Surgical or Invasive Procedure:
+[**2188-4-17**] OPERATION:
+1. Ultrasound-guided puncture of the left common femoral
+    artery.
+2. Contralateral second-order catheterization of the right
+    external iliac artery.
+3. Serial arteriogram of the right lower extremity.
+4. Abdominal aortogram.
+
+[**2188-4-24**]
+Right iliofemoral and profunda femoral artery
+endarterectomy with saphenous vein patch angioplasty.
+
+
+History of Present Illness:
+[**Age over 90 **] M with A fib, CHF, HTN, HL, s/p recent L colectomy for [**Female First Name (un) 899**]
+bleed complicated by NSTEMI and ARF presents with SOB an
+dincreasing LE edema.  Patient is a poor historian.  Reports
+that he was having SOB for many months now and that more
+recently it has been getting slightly worse.  Has noticed that
+his legs have been more swollen since his surgery in [**Month (only) 547**].
+Minimal exertion will cause him ot become fairly winded,
+something that is not completely new to him, but is worse than
+it used to be.  Patient otherwise thinks that he has been
+admitted because of his right heel ulcer.
+.
+In the ED, initial VS: 97.0, 68, 121/53, 24, 97%RA.  He was
+found to have a BNP of [**Numeric Identifier **].  Because of symptoms of volume
+overload and diffuse crackles on lung exame and bilateral LE
+edema, he was given 40 mg IV lasix.  A V/Q scan was also
+performed which showed low probability of PE.
+.
+Currently patient feels well, breathing feels better,
+comfortable.  Wants to know what will be done about his foot,
+whether he will get an angiogram or amputation.
+
+Past Medical History:
+-recent admission for [**Female First Name (un) 899**] bleed requiring colectomy and 21 units
+of pRBCs.  Admission also complicated by NSTEMI and ARF.
+-Hypertension
+-Hyperlipidemia
+-benign bladder tumors
+-atrial fibrillation
+-distant h/o gout in right LE
+-BPH
+
+
+Social History:
+Patient lives with his wife in [**Hospital3 4298**]. Wife has
+[**Name2 (NI) 11964**]. He is retired broadcast manager. Drinks 1 glass wine
+daily. Prior tobacco use, smoked 1PPD x 40 years and quit at age
+60. No illicit drug use.
+
+Family History:
+Brother died at age 57 from MI. No family history of colon
+cancer, UC/Crohns
+
+Physical Exam:
+VS: 96.5, 108/60, 70, 20, 99%2L
+I/O: 240/250
+GENERAL: AAOx3, labored breathing
+HEENT: PERRL, EOMI, dry MM. OP clear with fair dentition but
+missing teeth.
+NECK: JVP to his ear, supple, no LAD, no thyromegaly
+CARDIAC: S1S2, irregularly irregular, no m/r/g
+LUNG: bibasilar crackles, rales diffusely.  No w/r/r
+ABDOMEN: soft, ND, NT, +BS, no HSM
+EXT: 2+ pedal pulses, quarter-sized ulcer over right heel,
+c/d/i. 2+ pitting edema to knees bilaterally
+NEURO: CNs II-XII grossly intact
+SKIN: wound on right heel
+
+
+Pertinent Results:
+LUNG SCAN Study Date of [**2188-4-11**]
+INTERPRETATION:
+Ventilation images obtained with Tc-[**Age over 90 **]m aerosol in 8 views
+demonstrate a large defect in the posterior right lower lobe and
+a defect along the minor fissure.
+Perfusion images in the same 8 views show a smaller defect in
+the posterior right lower lobe.
+Chest x-ray shows cardiomegaly with pulmonary vascular
+congestion and bilateral pleural effusions, right greater than
+left.
+The above findings are consistent with a low-probability scan,
+with matched defects that are worse on ventilation than
+perfusion images.
+IMPRESSION: Low probability for PE. Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] was notified
+on [**2188-4-11**] at 5 PM.
+
+[**2188-4-23**]
+CXR:
+Final Report
+PROCEDURE: Chest preop PA and lateral.
+
+REASON FOR EXAM: Preoperative
+
+FINDINGS: In comparison to the previous chest radiograph,
+bilateral layering
+pleural effusions are minimally changed allowing for differences
+in patient
+positioning. The appearance of the right pleural effusion is
+slightly unusual
+with a lucency in the upper margins of the fluid suggesting
+loculation. A
+lucent line along the lateral right costal margin is probably
+due to overlying
+soft tissue structures. Pulmonary vascular congestion is mild
+and unchanged.
+
+IMPRESSION:
+Large right and small left layering pleural effusions with mild
+vascular
+congestion. The findings were discussed with the referring team
+
+The study and the report were reviewed by the staff radiologist.
+
+
+Echo :
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 86859**]Portable TTE
+(Complete) Done [**2188-4-12**] at 2:57:55 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Last Name (LF) **], [**First Name3 (LF) **] V.
+[**Hospital 18**] Hospital Medicine Program
+[**Location (un) 830**], PBS-2
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2096-1-7**]
+Age (years): [**Age over 90 **] M  Hgt (in): 71
+BP (mm Hg): 72/35  Wgt (lb): 188
+HR (bpm): 82  BSA (m2): 2.06 m2
+Indication: Congestive heart failure. Left ventricular function.
+Right ventricular function.
+ICD-9 Codes: 428.0, 427.31, 414.8, 424.1, 424.0, 424.3, 424.2
+Test Information
+Date/Time: [**2188-4-12**] at 14:57    Interpret MD: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD
+
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**Name2 (NI) 16812**]
+[**Last Name (un) 16813**], RDCS
+Doppler: Full Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2010W009-0:20 Machine: Vivid [**6-11**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.8 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.7 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.7 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  3.6 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30% to 35%  >= 55%
+Left Ventricle - Lateral Peak E':  *0.08 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.05 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *20  < 15
+Aorta - Sinus Level:  *4.3 cm  <= 3.6 cm
+Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT diam:  1.5 cm
+Mitral Valve - E Wave:  1.3 m/sec
+Mitral Valve - E Wave deceleration time:  200 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *32 to 40 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the prior study of [**2188-3-18**].
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size.
+Moderate regional LV systolic dysfunction. Moderately depressed
+LVEF. TDI E/e' >15, suggesting PCWP>18mmHg. No resting LVOT
+gradient.
+
+RIGHT VENTRICLE: Dilated RV cavity. Focal apical hypokinesis of
+RV free wall. Prominent moderator band/trabeculations are noted
+in the RV apex.
+
+AORTA: Moderately dilated aortic sinus.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild (1+) AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. No
+MVP. Moderate mitral annular calcification. Moderate (2+) MR.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized. Moderate
+to severe [3+] TR. Moderate PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Suboptimal image quality - body habitus. Ascites.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. There is
+moderate regional left ventricular systolic dysfunction with
+focal severe hypokinesis of the distal left ventricle and
+dyskinesis of the apex. There is also hypokinesis of the entire
+inferior wall and inferior septum . Overall left ventricular
+systolic function is moderately depressed (LVEF= 30-35 %).
+Tis

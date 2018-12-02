@@ -1,0 +1,210 @@
+Admission Date:  [**2189-1-20**]              Discharge Date:   [**2189-2-16**]
+
+Date of Birth:  [**2121-4-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Pneumonia
+
+Major Surgical or Invasive Procedure:
+Hemodialysis initiation
+Paracentesis
+Thoracentesis
+
+
+History of Present Illness:
+HPI: Mr. [**Known lastname **] is a 67 y.o. male with cryptogenic cirrhosis
+and hepatorenal syndrome presented to outside hospital with
+incrasing abdominal girth.  He has also experienced increasing
+shortness of breath and right flank pain similar to his prior
+symptoms due to increased ascities.  He was [**Hospital 82065**]
+[**Hospital3 8834**] and had his ascities tapped today,
+approx 5000 ml (turbid serosanguineous) taken out.  His CXR was
+suspicious for Multifocal PNA.
+
+His lab tests there were HCT 30.3, plt 193, wbc 12.1, PT 17, INR
+1.7, glu 136, BUN 61, CR 3.8, Na 134, K 5.7, Cl 102, bicarb 17,
+Ca 9.3, prot 6.1, alb 3.6, bili 1.8, alk phos 353, alt 20, ast
+60, amylase 58, lipase 112.  His creatine trended upto 4.7 today
+per discharge summary.
+
+He was treated with zosyn 2.25 grams IV q8h, cipro 250 mg daily,
+midodrine 5 mg tid, prilosec 20 mg daily, carafate 1 gram qid,
+sodium bicarb 650 mg [**Hospital1 **], lactulose 10 grams [**Hospital1 **], dilaudid 1 mg
+q3h, vitamin K 5 mg oral.
+
+He was afebrile at OSH with stable vital signs per verbal
+report.  On arrival to MICU his vitals were HR 106  BP 112/50
+RR 22  96% on 4LNC.  Temp was not measured.  Patient states that
+his symptoms improved after the paracentesis.
+
+
+Past Medical History:
+- cryptogenic cirrhosis; heterozygous for HFE gene mutation and
+liver biopsy with marked iron deposition; grade I varices s/p
+banding [**10/2188**]; listed for transplant (currently inactive given
+his pneumonia)
+- recent hepatorenal syndrome with rising creatinine
+- left carotid endarterectomy on [**2189-1-13**] with Dr. [**Last Name (STitle) **]
+- known left-sided chylothorax per thoracentesis [**12/2188**]
+- nephrolithiasis s/p surgical stone extraction
+
+Social History:
+Patient denies current alcohol, tobacco or illicit drug use. He
+reports prior, social alcohol use and infrequent tobacco use. He
+has no tattoos or piercings and also denies a history of blood
+transfusions. He is self-employed, working in sales.
+
+
+Family History:
+Nephew with hemachromatosis, otherwise no family history of
+liver disease. Father died from prostate CA and mother died from
+CAD. Two sisters died from CAD. Two brothers alive with cardiac
+problems. 3 daughters alive and well.
+
+
+Physical Exam:
+Admission Exam
+Vitals: HR 106  BP 112/50  RR 22  96% on 4LNC
+General: pleasant gentleman in no acute distress, following
+commands
+HEENT: MMM, EOM-I, sclerae anicteric
+Neck: supple, JVP 8-9 cm
+Cor: S1S2, regular tachycardic
+Lungs: Left base > right base crackles, no wheezing
+Abd: distended but soft, nontender, hypoactive bowel sounds
+Ext: 3+ pitting edema bilaterally, feet warm, cellulitis in left
+lower extremity, right elbow abrasion.
+Neuro: AOx3, strength 5/5, sensation is intact.  No asterixis
+Skin: no jaundice, multiple skin tears
+
+Discharge Exam:
+Patient deceased
+
+Pertinent Results:
+[**2189-1-20**] 09:35PM   PT-28.5* PTT-46.0* INR(PT)-2.9*
+[**2189-1-20**] 09:35PM   PLT COUNT-228
+[**2189-1-20**] 09:35PM   NEUTS-82* BANDS-3 LYMPHS-7* MONOS-8 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2189-1-20**] 09:35PM   WBC-17.5* RBC-2.86* HGB-10.2* HCT-31.5*
+MCV-110* MCH-35.5* MCHC-32.2 RDW-18.8*
+[**2189-1-20**] 09:35PM   ALBUMIN-3.6 CALCIUM-10.2 PHOSPHATE-6.0*#
+MAGNESIUM-2.3
+[**2189-1-20**] 09:35PM   ALT(SGPT)-221* AST(SGOT)-1452* LD(LDH)-1412*
+ALK PHOS-337* TOT BILI-2.5*
+[**2189-1-20**] 09:35PM   estGFR-Using this
+[**2189-1-20**] 09:35PM   GLUCOSE-57* UREA N-72* CREAT-5.2*# SODIUM-138
+POTASSIUM-6.9* CHLORIDE-102 TOTAL CO2-19* ANION GAP-24*
+[**2189-1-22**] 02:07AM BLOOD WBC-14.0* RBC-2.50* Hgb-8.9* Hct-26.8*
+MCV-107* MCH-35.7* MCHC-33.3 RDW-19.0* Plt Ct-139*
+[**2189-1-22**] 02:07AM BLOOD PT-33.6* PTT-56.8* INR(PT)-3.5*
+[**2189-1-22**] 02:07AM BLOOD Plt Smr-LOW Plt Ct-139*
+[**2189-1-22**] 02:07AM BLOOD Glucose-128* UreaN-82* Creat-5.8* Na-141
+K-4.2 Cl-103 HCO3-21* AnGap-21*
+[**2189-1-20**] 09:35PM BLOOD ALT-221* AST-1452* LD(LDH)-1412*
+AlkPhos-337* TotBili-2.5*
+[**2189-1-21**] 06:58AM BLOOD ALT-177* AST-1137* LD(LDH)-827*
+AlkPhos-230* TotBili-1.9*
+[**2189-1-22**] 02:07AM BLOOD ALT-107* AST-358* LD(LDH)-270* CK(CPK)-38
+AlkPhos-222* TotBili-1.7*
+[**2189-1-22**] 02:07AM BLOOD Albumin-3.8 Calcium-9.7 Phos-5.6* Mg-2.2
+.
+[**2189-1-21**] 3:41 pm PERITONEAL FLUID
+
+   GRAM STAIN (Final [**2189-1-21**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Preliminary):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Preliminary):
+.
+[**2189-1-21**] 4:29 pm URINE      Source: CVS.
+
+                            **FINAL REPORT [**2189-1-22**]**
+
+   URINE CULTURE (Final [**2189-1-22**]):
+      YEAST.    >100,000 ORGANISMS/ML..
+.
+[**2189-1-21**] 4:29 pm URINE      Source: CVS.
+
+                            **FINAL REPORT [**2189-1-22**]**
+
+   Legionella Urinary Antigen  (Final [**2189-1-22**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+           (Reference Range-Negative).
+      Performed by Immunochromogenic assay.
+      A negative result does not rule out infection due to other
+L.
+      pneumophila serogroups or other Legionella species.
+Furthermore, in
+      infected patients the excretion of antigen in urine may
+vary.
+
+.
+[**1-20**] CXR: PORTABLE AP CHEST RADIOGRAPH: New right mid lung
+perihilar consolidation. Oblique sharp margin seen in the left
+lower chest is frequently assigned to collapse of left lower
+lobe. However, no heart border can be identified, the appearance
+is similar in prior studies, and there is no displacement of the
+heart. Therefore, we would like to think that this sharp margin
+probably does not represent lung collapse.
+.
+[**1-21**] Liver US
+FINDINGS: As before, the liver is diffusely nodular and
+heterogeneous in
+architecture, in keeping with cirrhosis. There is a large amount
+of ascites. Incidental note is also made of a left pleural
+effusion. The spleen measures 10.6 cm in length. There is no
+intra- or extrahepatic biliary dilatation. The common bile duct
+measures 4 mm, unchanged.
+Main portal vein, left portal vein, and right portal vein are
+all patent, and demonstrate normal waveform and flow direction.
+Left, middle, and right
+hepatic veins are patent and demonstrate normal flow direction.
+IVC is
+unremarkable. Hepatic arteries are patent and demonstrate normal
+waveforms. Splenic vein is patent.
+IMPRESSION:
+1. Patent and normal-appearing hepatic vessels.
+2. Cirrhosis with large amount of ascites.
+3. Left pleural effusion
+.
+[**1-21**] Renal US:
+FINDINGS: Comparison made to [**2189-1-8**]. Right kidney measures
+11.3 cm, left kidney measures 10.5 cm. Cyst in the upper pole of
+the left kidney measuring 2.1 x 1.5 x 1.4 cm is not
+significantly changed. There is no solid mass, stone, or
+hydronephrosis in either kidney. There is a large amount of
+ascites throughout the abdomen.
+Color Doppler evaluation of both kidneys shows normal color flow
+and arterial waveforms.
+IMPRESSION:
+1. No hydronephrosis. No evidence of renal artery stenosis.
+2. Large volume ascites.
+.
+[**1-22**] CXR: In comparison with study of [**1-20**], the moderate left
+pleural
+effusion persists. Right upper lobe consolidation is similar in
+appearance to the previous study. Left basilar atelectasis is
+unchanged.
+.
+[**1-26**] CT Abd, Chest: 1. Multiple tiny hepatic non-enhancing
+hypodensities are consistent with cirrhosis although small
+hepatic abscesses can not be excluded (in the absence of prior
+studies to suggest stability).
+2. Right upper lobe opacification with consolidation worse
+posteriorly
+suggests pneumonitis from aspiration or infection.
+3. Persistent multifocal ground-glass opacification in the right
+lower lobe; the etiology can be infectious or inflammatory.
+4. Large left pleural effusion with associated relaxation
+atelectasis.
+5. Persistent significant ascites, cirrhosis.
+6. Engorgement of mesenteric vess

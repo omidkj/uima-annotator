@@ -1,0 +1,230 @@
+Admission Date:  [**2183-10-6**]              Discharge Date:   [**2183-10-21**]
+
+Date of Birth:  [**2130-6-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+Weakness, diarrhea
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+this is a 53 yo male with MS presenting from home complaining of
+weakness, diarrhea and hematuria.  On presentation from the ED,
+patient found to be septic with tachycardia to 125, rectal temp
+to 102.5 F, a leukocytosis to 35K, and hemoconcentrated with a
+HCT of 50.5K.  Transferred to the ICU for further management.
+In the ICU, he was empirically started on cefepime and
+vancomycin for a known history of P.Aeuriginosa UTIs as well as
+Vancomycin senstiive entercoccus infections in the past.  The
+patient was fluid resuscitated with approximately 9 L of IVF
+with improvement in his hemodynamics and WBC count.  Regarding
+diarrhea, noted to be C.Diff negative. Transferred to the floor
+for further management as sepsis had improved.  Upon transfer to
+the floors, BP was 119/69, HR of 81, RR 16, O2 sat 97% on RA.
+LOS fluid balance is 8.2 L positive.
+
+Of note, this is Mr. [**Known lastname 107332**] 5th admission in past 6 months for
+UTI.  ID was consulted in the ICU regarding ppx of UTIs,
+although formal evaluation is still pending at time of transfer.
+ Appears patient was on methenamine for urine acidifcation to
+prevent UTIs previously.  Additionally, urology was emailed
+regarding possible benefit for suprapubic catheter and the
+medical team is awaiting a reply.
+
+ROS: per HPI.  Has been having frequent diarrhea at home prior
+to presentation with hematuria as well.  Diarrhea has been
+improving since hospitalization.  Otherwise denies vision
+changes, rhinorrhea, congestion, sore throat, cough, shortness
+of breath, chest pain, abdominal pain, nausea,
+vomiting,constipation, BRBPR, melena, hematochezia.
+
+Past Medical History:
+- Multiple sclerosis (clinically definite since [**2167**]; secondary
+progressive type with gait disorder, limited mobility to
+wheelchair)
+- Neurogenic bladder and chronic indwelling Foley
+catheterization
+- Multiple urinary tract infections (Pseudomonas, E.coli,
+Enterococcus, Klebsiella); followed by Dr. [**First Name (STitle) **] [**Name (STitle) **] (Urology)
+- History of depression ([**2164**] to [**2166**], currently
+well-controlled)
+- History of alcoholism (last drink was greater than 10-years
+ago)
+- Hyperlipidemia
+- Greater trochanteric ulcers
+- Status-post ADCF C5-7 ([**9-/2171**])
+
+Social History:
+- Lives alone, previously had home health aide 36 hours/week.
+Uses wheelchair.
+- Tobacco: 1 ppd x 30 years.
+- Alcohol:  Denies.
+- Illicits:  Occasional marijuana.
+
+
+Family History:
+- No family history of MS.
+- No history of MI, CVA
+- Father and mother with alcohol abuse, father with diabetes,
+cousin with [**Name (NI) **] disease.
+
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Tmax: 37 ??????C (98.6 ??????F)
+Tcurrent: 37 ??????C (98.6 ??????F)
+HR: 122 (122 - 123) bpm
+BP: 120/77(86) {120/77(86) - 120/77(86)} mmHg
+RR: 32 (32 - 41) insp/min
+Heart rhythm: ST (Sinus Tachycardia)
+General:  Emaciated middle aged man is somewhat agitated but in
+no acute distress.
+HEENT:  EOMI, PERRLA, mucous membranes dry, patient asking for
+water, moderate dentition.
+Neck: No JVD, erythema present on neck.  No goiter.
+CV: Tachycardic.  Regular rhythm.  No M/R/G.
+Lungs: Clear in all lung fields.
+Abdomen: Nontender, nondistended.  Hyperactive bowel sounds.
+Mass present in LLQ patient reports is a baclofen pump.  No
+other masses or organomegaly appreciated.
+GU: Foley in place, no erythema, blood, or discharge apparent.
+Foley draining dark urine.
+Ext:  Nonedematous.  Warm, well perfused.
+Neuro: Alert and oriented x 3.  CN II-[**Doctor First Name 81**] grossly intact.
+Strength 3/5 and equal in bilateral handgrip, UE flexion &
+extension, shoulder shrug.  LE strength 2/5 in RLE and [**12-12**] in
+LLE.  Patient refuses finger-nose-finger, other cerebellar
+tests.
+
+On discharge:
+VS:  T 98.2, BP 127/86 (112-135), HR 103 (76-110), RR 18, O2 sat
+94% on RA   I/O: 23L/3.7L in 24h
+General: Emaciated middle aged man, in no acute distress.
+Appears more alert and interactive.
+CV: Regular rate, rhythm. No M/R/G.
+Lungs: diminished breath sounds to RLL, but no crackles,
+wheezes, rhonchi.
+Abdomen: Nontender, ND, soft, normal bowel sounds. Solid, round
+structure present right under skin in LLQ - patient reports is a
+baclofen pump. No other masses or organomegaly appreciated.
+GU: Foley in place, no erythema, blood, or discharge apparent.
+Foley draining yellow/clear urine.
+Ext: Warm, well perfused. Muscle atrophy noted in both LE, 2+
+pedal edema b/l.
+Neuro: Alert and oriented x 3. CN II-[**Doctor First Name 81**] grossly intact.
+
+Pertinent Results:
+ADMISSION LABS:
+
+[**2183-10-6**] 01:15PM   GLUCOSE-165* UREA N-27* CREAT-1.2 SODIUM-142
+POTASSIUM-4.8 CHLORIDE-101 TOTAL CO2-24 ANION GAP-22*
+[**2183-10-6**] 05:08PM   LACTATE-3.1*
+[**2183-10-6**] 01:15PM   ALT(SGPT)-17 AST(SGOT)-20 LD(LDH)-238 ALK
+PHOS-66 TOT BILI-0.6
+[**2183-10-6**] 01:15PM   ALBUMIN-4.3 CALCIUM-9.4 PHOSPHATE-5.3*#
+MAGNESIUM-2.6
+[**2183-10-6**] 01:15PM   LACTATE-4.6*
+[**2183-10-6**] 01:15PM   WBC-35.1*# RBC-5.39# HGB-16.5# HCT-50.5#
+MCV-94 MCH-30.5 MCHC-32.6 RDW-13.1
+[**2183-10-6**] 01:15PM   NEUTS-94.5* LYMPHS-1.5* MONOS-3.6 EOS-0.1
+BASOS-0.2
+[**2183-10-6**] 12:30PM URINE  COLOR-DkAmb APPEAR-Cloudy SP [**Last Name (un) 155**]-1.024
+[**2183-10-6**] 12:30PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM  UROBILNGN-8* PH-5.0 LEUK-LG
+[**2183-10-6**] 12:30PM URINE  RBC-79* WBC->182* BACTERIA-FEW
+YEAST-NONE EPI-0
+[**2183-10-6**] 12:30PM URINE  HYALINE-33*
+
+IMAGING:
+[**2183-10-15**] CTA
+IMPRESSION:
+1.  No evidence of pulmonary embolism, cavitary lesion or septic
+emboli.
+2.  Moderate slightly asymmetric (left greater than right)
+pulmonary edema and
+small bilateral pleural effusions consistent with hypervolemia.
+3.  Slightly distended colon, nonspecific and similar compared
+[**2183-10-9**].
+
+[**2183-10-14**] KUB
+Final Report
+HISTORY:  53-year-old man with history of multiple sclerosis,
+neurogenic
+bladder, lower GI bleed presents with worsening abdominal
+distention and
+nausea.
+
+COMPARISON:  CT abdomen and pelvis, [**2183-10-11**]; CT abdomen
+and pelvis, [**2183-10-9**].
+
+FINDINGS:
+
+Again seen are diffusely dilated loops of large bowel with air
+fluid levels
+with a maximal diameter of 8.5 cm. There is no clear evidence of
+
+pneumoperitoneum or pneumatosis.  Multiple surgical clips are
+seen in the left
+lower quadrant.
+
+IMPRESSION:
+
+Multiple severely dilated loops of large bowel with air-fluid
+levels unchanged
+from prior examination.
+
+[**2183-10-11**] CT Abdomen
+IMPRESSION:
+
+1.  Fluid-filled diffusely distended colon, unchanged from prior
+examination.
+
+
+2.  No active extravasation of contrast in the bowel lumen to
+suggest source
+for new brisk lower GI bleed.
+
+3.  Ground-glass opacities in the bilateral lung bases have
+increased on the
+left.  Though non-specific in appearance, findings could be
+related to
+pneumonia in the appropriate clinical setting.
+
+
+[**10-10**] Cystogram
+FINDINGS:  Intravenous contrast fills the bladder without
+evidence of leak.
+No contrast is seen within the rectum.  Contrast is seen in the
+right seminal
+vesicle, possibly secondary to retrograde flow.  The fat plane
+between the
+bladder and rectum is obscured.  A Foley catheter is seen within
+the bladder.
+The bladder wall is trabeculated, likely secondary to neurogenic
+bladder.  Air
+layering anteriorly within the bladder is likely due to
+instrumentation.
+Residual enteric contrast is seen within the cecum.  Visualized
+portion of the
+colon is distended with air, as seen yesterday.  Evaluation of
+intrapelvic
+organs is limited in the absence of intravenous contrast.
+
+IMPRESSION:  No definitive colovesicular fistula detected on
+this study.
+Contrast seen in the right seminal vesicle, of indeterminate
+etiology,
+possibly secondary to retrograde flow.
+
+
+[**2183-10-9**] CT abdomen
+FINDINGS:  There is an enlarging right-sided pleural effusion as
+well as a small left pleural effusion.  The righ

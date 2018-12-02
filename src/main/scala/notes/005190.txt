@@ -1,0 +1,209 @@
+Admission Date:  [**2128-5-3**]              Discharge Date:   [**2128-5-7**]
+
+Date of Birth:  [**2059-11-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 68 year old man with a complicated past
+medical history including congenital heart disease, chronic AF
+s/p AV ablation, on coumadin and worsening systolic and
+diastolic heart failure who presents with shortness of breath,
+fever and chills. For the past week at home he has had cold
+symptoms including nasal congestion and cough. Today he had
+worsening dyspnea, new fever and malaise, so he called his PCP
+who referred him to the ER for further evaluation.
+.
+In the ED, initial vs were: 100.4, 84, 114/68, 24, 89% on RA. He
+initially required a NRB with improvement in his oxygen
+saturation so that he was able to be weaned to 5LNC with sats in
+the high 90's. He was febrile in the ER to 101. A CXR was done
+that showed mild pulmonary vascular congestion, with a small RLL
+consolidation that was read as atelectasis vs. pneumonia. EKG
+was v-paced that was reportedly unchanged from prior. Labs were
+notable for a white count of 11.2 with 88.6% neutrophils, a BNP
+of [**Numeric Identifier **], which was up from 5487 on [**2128-4-22**], a Cr of 2.2 (near
+baseline) and a lactate of 3.0. He was given ceftriaxone,
+levofloxacin and 2L NS (given his elevated lactate) and admitted
+to the ICU for further management. VS on transfer were: 98.8,
+79, 101/63, 26, 100% on 5LNC.
+.
+On the floor initially his VS were: 99, 84, 101/65, 19 and 95%
+on RA. Also of note his current weight is 237lbs, which is up
+from his dry weight of 221lbs. He says that he feels like he
+started gaining some fluid a few days when he was starting to
+feel sick. Although currently denies any orthopnea/PND.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+or changes in bowel habits. Denies dysuria, frequency, or
+urgency. Denies arthralgias or myalgias. Denies rashes or skin
+changes.
+
+
+Past Medical History:
+1. Congenital heart disease: Primum ASD with cleft mitral
+valve, ASD repair in [**2099**], MVR in [**2118**] with porcine valve.
+2. Chronic atrial fibrillation, AV ablation, failed amiodarone,
+
+on warfarin.
+3. BiV ICD.
+4. Systolic and diastolic heart failure with LVEF of 45-50%.
+5. Worsening right ventricular dilatation and hypokinesis with
+moderate-to-severe tricuspid regurgitation.
+6. PEA/V-fib arrest in the past secondary to enterococcal
+bacteremia, endocarditis.
+7. Hyperthyroidism, amiodarone induced.
+8. Gout.
+9. Chronic kidney disease.
+10. Osteoporosis.
+11. Past hypertension.
+
+
+Social History:
+no current tobacco, quit [**2082**]. 3+ drinks daily vs. weekly. Lives
+with wife, has daughter, son and 3 grandchildren. He is a
+businessman who liquidates retail stores
+
+
+Family History:
+His mother died of coronary artery disease. His
+grandmother died of some cancer at the age of 98. His father
+died of colon cancer at the age of 68.
+
+
+Physical Exam:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+.
+PE on discharge:
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP at earlobe.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, slight crackles
+at bases, no wheezing, egophony at right base
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2.
+
+Pertinent Results:
+[**2128-5-3**] 08:30PM   GLUCOSE-199* UREA N-61* CREAT-2.2* SODIUM-137
+POTASSIUM-4.4 CHLORIDE-98 TOTAL CO2-25 ANION GAP-18
+[**2128-5-3**] 08:30PM   CK(CPK)-103
+[**2128-5-3**] 08:30PM   cTropnT-0.02*
+[**2128-5-3**] 08:30PM   CK-MB-3 proBNP-[**Numeric Identifier **]*
+[**2128-5-3**] 08:30PM   CALCIUM-8.8 PHOSPHATE-4.6* MAGNESIUM-2.2
+[**2128-5-3**] 08:30PM   WBC-11.2*# RBC-4.14* HGB-13.3* HCT-39.8*
+MCV-96 MCH-32.2* MCHC-33.5 RDW-16.2*
+[**2128-5-3**] 08:30PM   NEUTS-88.6* LYMPHS-5.9* MONOS-4.0 EOS-0.9
+BASOS-0.6
+[**2128-5-3**] 08:30PM   PLT COUNT-245
+[**2128-5-3**] 08:30PM   PT-23.8* PTT-26.0 INR(PT)-2.2*
+Lactate 3.0
+.
+Urine:
+[**2128-5-3**] 09:14PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.009
+[**2128-5-3**] 09:14PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5
+LEUK-NEG
+[**2128-5-3**] 09:14PM URINE  RBC-1 WBC-<1 BACTERIA-FEW YEAST-NONE
+EPI-0
+[**2128-5-3**] 09:14PM URINE  HYALINE-29*
+Urine culture pending
+.
+Blood cultures 5/16 pending
+Sputum: Gram stain and culture - contaminated, multiple mixed
+flora
+.
+Rapid viral swab - not enough epithelial cells
+.
+CXR on admission:
+Single AP upright portable view of the chest was obtained. The
+patient is
+status post median sternotomy. A left-sided AICD is again seen
+with leads
+extending to the expected positions of the right ventricle and
+coronary sinus.
+Abandoned pacer lead again noted on the right. Mild pulmonary
+vascular
+congestion is seen. Subtle right base opacity is seen, which may
+relate to
+atelectasis, although early pneumonia is not entirely excluded.
+There is
+marked enlargement of the cardiac silhouette, given differences
+in technique in inspiration, likely similar to the prior study.
+.
+.
+ECHO
+The left atrium is markedly dilated. There is mild symmetric
+left ventricular hypertrophy. Overall left ventricular ejection
+fraction is mildly depressed (LVEF= 45 %) due primarily to right
+ventricular predominance and interventricular dependence
+resulting in dyssynergic interventricular septal displacement,
+rather than actual contractile dysfunction of the left
+ventricular myocardium. The right ventricular cavity is markedly
+dilated with severe global free wall hypokinesis. There is
+abnormal septal motion/position consistent with right
+ventricular pressure/volume overload. The aortic root is mildly
+dilated at the sinus level. The ascending aorta is mildly
+dilated. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. A bioprosthetic mitral valve
+prosthesis is present. The mitral prosthesis appears well
+seated, with normal leaflet motion and transvalvular gradients.
+The tricuspid valve leaflets are mildly thickened. The
+supporting structures of the tricuspid valve are
+thickened/fibrotic. Moderate to severe [3+] tricuspid
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. [In the setting of at least moderate to
+severe tricuspid regurgitation, the estimated pulmonary artery
+systolic pressure may be underestimated due to a very high right
+atrial pressure.] There is no pericardial effusion.
+
+.
+.
+.
+Labs at discharge:
+
+
+Brief Hospital Course:
+68 y/o M with a complicated cardiac past medical history who
+presents with dyspnea, rigors and chills after a week of cold
+symptoms, found to have a possible RLL PNA on CXR.
+.
+#) Hypoxia: CXR with possible RLL infiltrate, patient has
+clinical symptoms of pneumonia including cough and fever so w

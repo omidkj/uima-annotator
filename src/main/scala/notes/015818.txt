@@ -1,0 +1,206 @@
+Admission Date:  [**2118-7-7**]              Discharge Date:   [**2118-7-12**]
+
+Date of Birth:  [**2051-2-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Levaquin / Bactrim / Flexeril / Codeine
+
+Attending:[**First Name3 (LF) 4232**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+BIPAP
+
+History of Present Illness:
+The patient is a 67 year old female with a history of
+CREST/scleroderma, COPD (known to Dr. [**First Name4 (NamePattern1) 4648**] [**Last Name (NamePattern1) **], FEV1% 62%),
+mild PAH (echo [**5-29**] PAH 27 mm Hg), no known CAD, bilateral
+diffuse peripheral vascular disease who presented to the ED from
+her PCP's office on [**2118-7-7**] the chief complaint of worsening
+shortness of breath.
+.
+The patient has a long history of exertional dyspnea with mild
+PAH and says she is short of breath with exertion at baseline
+but is able to walk 2 blocks without difficulty at baseline.
+However, over the past 1-2 weeks, the patient notes that she has
+had progressive increasing shortness of breath that manifested
+on the Sunday prior to admission when she was walking to her car
+(approximately 600 feet) and felt increased shortness of breath,
+diaphoresis, no chest pain or radiating pain to her
+jaw/back/arms. She experiences bilateral calf pain with a
+history of bilateral PVD with exertion and thought she was
+anxious because of the pain.
+.
+Of note, she recently returned from [**Country 4754**] [**6-14**] to [**2118-6-21**]. Her
+symptoms began shortly thereafter.
+.
+The patient has noticed increasing orthopnea requiring 2 pillows
+over the past week (she sleeps without a pillow at baseline).
+Her weight she thinks has been stable. She admits to paroxysmal
+nocturnal dyspnea which she says is new after prolonged coughing
+spells (sparse white sputum) with lying flat. She denies any
+chest pain or radiating symptoms. She admits to a salty diet and
+drinks at least 60 oz. of fluid a day. She states her baseline
+weight is 153 pounds.
+.
+She saw her NP at [**Hospital3 4262**] Group on Monday. She was given 2
+nebulizer treatments and sent home with albuterol and atrovent
+for presumed COPD exacerbation. She has never been intubated
+before and does not have a peak flow meter at home. Her symptoms
+did improve with nebulizers.
+.
+She was re-evaluated on Wednesday by her NP who then treated her
+again with 2 albuterol/atrovent nebulizer treatments and gave
+her azithromycin 500 mg for which she took 2 doses.
+.
+She was to follow up on [**2118-7-7**] in clinic but called early given
+increasing shortness of breath. She was evaluated in the clinic
+and referred to the ED for further management. Labs from her
+PCP's office on [**7-6**] revealed a sodium of 127, HCO3 22. Hct 35.
+.
+In the ED, she was given 125 mg IV solumedrol for ? COPD
+exacerbation. Her CXR was negative for acute disease/CHF. Her
+EKG had no ischemic changes. However, her CK was 296, MB 27, MBI
+9.1, trop 0.1 (new). BNP 3698 ( up from 98 in [**May 2117**]). Her Na
+was 119 (she has reported history of hyponatremia). She was
+given ASA 325 mg and albuterol nebulizer. Initially, she was
+breathing on  2 liters O2 sat'ing in the mid 90s and was 92% on
+RA. She underwent a a CT-A to rule out PE and upon her return,
+she became acutely diaphoretic, tachypneic to the 40s and her
+SBP peaked to the 220s -> she was placed on CPAP+ PS TV FiO2
+100%, TV 911, rate 27, PEEP 5, PSV 5, sat'ing 96% and a nitro
+gtt.
+.
+Her EKG showed sinus rhythm at 98 bpm, NL axis, intervals.
+Delayed R wave progression. Flattened T waves I, AVL, V1-V2. No
+STE/depression. Compared to baseline [**5-29**], no change.
+.
+A gas during this time showed on BIPAP:
+.
+7.17/54/369/21
+.
+Cardiology was consulted in the ED given her elevated cardiac
+enzymes but felt her presentation was noncardiac and not
+ischemic in origin. She was started on a heparin gtt in the ED.
+.
+In the ED, the patient had a CT-A on [**2118-7-7**] which showed no PE.
+A CXR showed no CHF.
+.
+On arrival to the MICU, the patient was 93% on RA and 97% on 4
+liters O2, breathing comfortably off of CPAP which she stated
+she had been on for 45 minutes.
+.
+ECHO [**2117-6-7**]:
+.
+Conclusions:
+EF >55%, diastolic dysfunction. Mild PAH, 27 mm Hg.
+.
+The patient had a similar presentation in [**5-29**] at which time she
+ruled out for an MI, found to not have a PE, and her symptoms
+were felt to be secondary to a URI.
+.
+ROS:
+.
+Positive for claudication. No fevers/chills. Positive for cough
+worse with lying flat. Recent constipation relieved with
+laxatives.
+.
+
+
+Past Medical History:
+* Carotid artery disease, 40-59% right carotid stenosis. Less
+than 40% left
+* COPD, followed by Dr. [**First Name4 (NamePattern1) 4648**] [**Last Name (NamePattern1) **]: FEV1 62% of predicted with
+a FEV1/FVC ratio of 71% of predicted; consistent with mild to
+moderate obstruction felt due to prior smoking history.
+* HTN
+* Osteoporosis
+* PVD, diffuse bilateral on pletal - followed by Dr. [**Last Name (STitle) **]
+* Barrett's esophagus, GERD
+* CREST - sees rheum at [**Hospital1 2177**], [**Hospital1 18**]
+* History of hyponatremia
+* Colonic adenoma - [**8-27**], Dr. [**Last Name (STitle) 2987**]
+* Endometriosis
+.
+Past Surgical History:
+.
+Hysterectomy
+
+Social History:
+Currently lives alone.  Previously worked as administrator at
+[**Company 25186**], now on disability. Tob: 0.5ppd x 45years but quit in
+[**2115-10-25**]. Previous exposure to asbestos in past. EtOH:
+occasional.
+
+Family History:
+Mother:  Scleroderma, deceased from CHF at 67
+Father: no medical problems, deceased at 98
+Sister: [**Name (NI) 25670**] with scleroderma, deceased at age of 25 from
+congenital heart disease
+Brother: deceased from MI at 53
+Brother: colon cancer
+
+Physical Exam:
+Tc = 96  P = 96 BP = 147/73 RR= 17 O2 sat= 97% on 4 liters NC
+Wt. 73 kg
+.
+Gen - NAD, breathing comfortably, no accessory respiratory
+muscle use
+HEENT - PERLA, EOMI, anicteric, atraumatic, up to 11 cm JVD with
+expiration
+Heart - RRR, no M/R/G
+Lungs - CTAB, no wheezes/crackles
+Abdomen - Soft, NT, ND, + BS, no hepatosplenomegaly
+Ext - trace bilateral lower extremity edema, L mildly > R, +1
+d.pedis bilaterally, +1 p.t. RLE, BUE wrist, PIP swollen
+erythematous, thickened skin, radial deviation at MCP joints
+Skin - Hypermelanotic 1 mm symmetric mole on RLE medial calf
+Neuro - CN II-XII grossly intact
+.
+
+Pertinent Results:
+LABS ON ADMISSION:
+
+[**2118-7-7**] 12:35PM   WBC-9.0 RBC-3.91* HGB-13.4 HCT-36.2 MCV-93
+MCH-34.2* MCHC-36.9* RDW-13.7
+[**2118-7-7**] 12:35PM   NEUTS-78.4* LYMPHS-14.2* MONOS-4.1 EOS-3.0
+BASOS-0.3
+[**2118-7-7**] 12:35PM   PLT COUNT-327
+[**2118-7-7**] 12:35PM   PT-12.2 PTT-26.4 INR(PT)-1.0
+[**2118-7-7**] 12:35PM   cTropnT-0.10*
+[**2118-7-7**] 12:35PM   CK-MB-27* MB INDX-9.1* proBNP-3698*
+[**2118-7-7**] 12:35PM   GLUCOSE-98 UREA N-10 CREAT-0.6 SODIUM-119*
+POTASSIUM-4.7 CHLORIDE-86* TOTAL CO2-20* ANION GAP-18
+[**2118-7-7**] 12:54PM   LACTATE-1.0
+[**2118-7-7**] 04:02PM   TYPE-ART PO2-369* PCO2-54* PH-7.17* TOTAL
+CO2-21 BASE XS--9
+[**2118-7-7**] 05:22PM   cTropnT-0.10*
+[**2118-7-7**] 05:22PM   CK-MB-32* MB INDX-10.4*
+[**2118-7-7**] 05:22PM   CK(CPK)-308*
+[**2118-7-7**] 08:44PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.050*
+[**2118-7-7**] 08:44PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2118-7-7**] 08:44PM URINE  RBC-[**3-28**]* WBC-0-2 BACTERIA-OCC YEAST-NONE
+EPI-0
+
+EKG [**2118-7-7**]: sinus rhythm at 98 bpm, NL axis, intervals. Delayed
+R wave progression. Flattened T waves I, AVL, V1-V2. No
+STE/depression. Compared to baseline [**5-29**], no change.
+
+CXR [**2118-7-7**]: no CHF.
+
+CT-A [**2118-7-7**]: No PE.
+FINDINGS: No filling defect is identified within the pulmonary
+arteries. No focal consolidation or pleural effusion is
+identified. The heart is normal in size. The proximal coronary
+arteries are patent. The pericardium is unremarkable. Again
+noted are bullous changes, more prominent at the apices,
+consistent with emphysema, unchanged. Previously described small
+non- calcified nodules in the right middle lobe (series 2, image
+36), right upper lobe (series 2, image 19) and left upper lobe
+(series 2, image 10) are unchanged. Pleural plaques are present
+which

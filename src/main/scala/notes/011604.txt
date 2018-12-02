@@ -1,0 +1,214 @@
+Admission Date:  [**2163-3-15**]              Discharge Date:   [**2163-3-25**]
+
+Date of Birth:  [**2086-5-28**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Keflex
+
+Attending:[**First Name3 (LF) 158**]
+Chief Complaint:
+Sigmoid diverticulitis, Ovarian cyst
+
+
+Major Surgical or Invasive Procedure:
+[**2163-3-15**]: Laparoscopic converted to open sigmoid colectomy with
+mobilization of splenic flexure and right salpingo-oophorectomy,
+lysis of adhesions, isolation of the ureter.
+
+
+History of Present Illness:
+The patient is a 76-year-old woman with at least two episodes of
+severe diverticulitis with prolonged course requiring long
+courses of antibiotics. Intraoperatively, an adnexal mass was
+identified on the right side. This mass was attached to the
+mesentery of the rectosigmoid. It required resection in
+order to proceed safely with the rectosigmoid resection.
+
+
+Past Medical History:
+Hypertension, Anemia requiring blood transfusions, Rheumatoid
+arthritis on prednisone x 6 months, Irritable bowel syndrome,
+GERD, gallstones, now s/p cholecystectomy, s/p tubal ligation,
+Atrial fibrillation, chronic kidney disease
+
+Social History:
+Patient denies smoking, alcohol or IV drug use. She moved here
+from [**Country 3587**] 50 years ago and worked mostly factory jobs
+while here. She has been retired for 7 years and currently lives
+with her son and boyfriend, who takes care of her.
+
+
+Family History:
+Father died of leukemia, mother had DM and CAD, no h/o thoracic
+aneurysm, brother died of MI at age 69, niece with breast cancer
+
+
+Physical Exam:
+PHYISCAL EXAM (upon discharge):
+
+VITALS:  T  98.6    HR 69     BP 116/52      RR 20   O2sat 95%RA
+HEENT: Normocephalic, atraumatic. EOMI. PERRL. Nares clear.
+Mucous membranes moist. Neck supple without lymphadenopathy.
+CVS: Regular rate and rhythm, without murmurs, rubs or gallops.
+S1 and S2.
+RESP: Clear to auscultation bilaterally without adventitious
+sounds, but minimally decreased breath sounds anteriorly. No
+wheezing, rhonchi or crackles.
+ABD: obese-appearing, soft, non-tender, non-distended, with
+normoactive bowel sounds. No masses or peritoneal signs.
+Abdominal binder in place.
+EXTR: 2+ peripheral pulses, without cyanosis, clubbing or edema.
+
+INCISION/WOUND: clean, dry and intact with no erythema or
+drainage
+
+
+
+
+Pertinent Results:
+[**2163-3-21**] 12:00AM BLOOD WBC-9.0 RBC-3.40* Hgb-9.4* Hct-29.1*
+MCV-85 MCH-27.8 MCHC-32.5 RDW-14.6 Plt Ct-330
+
+[**2163-3-18**] 03:53AM BLOOD PT-13.9* PTT-30.1 INR(PT)-1.2*
+
+[**2163-3-23**] 03:25PM BLOOD Glucose-103* UreaN-12 Creat-1.3* Na-137
+K-4.1 Cl-105 HCO3-24 AnGap-12
+
+[**2163-3-21**] 06:30AM BLOOD CK-MB-2 cTropnT-<0.01
+
+[**2163-3-23**] 03:25PM BLOOD Calcium-8.4 Phos-3.4 Mg-2.1
+
+[**2163-3-15**] 03:04PM BLOOD TSH-2.8
+
+[**2163-3-16**] 03:38AM BLOOD Type-ART Temp-36.8 Rates-/15 Tidal V-502
+PEEP-5 FiO2-40 pO2-89 pCO2-42 pH-7.37 calTCO2-25 Base XS-0
+Intubat-INTUBATED Vent-SPONTANEOU Comment-PS = 5
+
+[**2163-3-15**] 08:43PM BLOOD Lactate-1.1
+
+[**2163-3-15**] PORTABLE CXR: Persistently widened mediastinum with
+interval shift of the trachea from the right to the midline,
+concerning for ascending aortic pathology.
+
+[**2163-3-20**] ADOMEN SUPINE & ERECT X-RAY: Three frontal views of the
+supine abdomen and two of the left decubitus abdomen demonstrate
+moderate, proportionate dilatation of large and small bowel with
+fluid levels indicating stasis, probably due to a paralytic
+ileus. There is no free intraperitoneal gas.
+
+[**2163-3-17**] 12:32 am URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2163-3-20**]**
+
+   URINE CULTURE (Final [**2163-3-20**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+         AZTREONAM REQUESTED BY G.SATYANARAYANA ([**Numeric Identifier 38654**]).
+         AZTREONAM SENSITIVE sensitivity testing performed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMIKACIN--------------   <=2 S
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+[**2163-3-23**] 5:18 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool.
+
+                            **FINAL REPORT [**2163-3-24**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2163-3-24**]):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+
+[**2163-3-20**] 8:51 am SWAB      Source: abdominal wound.  ABSCESS.
+
+                            **FINAL REPORT [**2163-3-24**]**
+
+   GRAM STAIN (Final [**2163-3-20**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   WOUND CULTURE (Final [**2163-3-24**]):
+      Due to mixed bacterial types (>=3) an abbreviated workup
+is
+      performed; P.aeruginosa, S.aureus and beta strep. are
+reported if
+      present. Susceptibility will be performed on P.aeruginosa
+and
+      S.aureus if sparse growth or greater..
+
+   ANAEROBIC CULTURE (Final [**2163-3-24**]):
+      UNABLE TO R/O OTHER PATHOGENS DUE TO OVERGROWTH OF
+SWARMING PROTEUS
+      SPP..
+
+
+Brief Hospital Course:
+The patient was transferred to the intensive care unit in the
+[**Hospital Ward Name 332**] building following her operative case give some
+hypotension issues. During her case, she developed a junctional
+arrhythmia with hypotension and decreased urine output, and 4
+liters of crystalloid were given, 1 unit of packed red cells
+were given and the EBL was 300 during the case. The patient had
+100 mL of urine output during the case as well. A transthoracic
+echo was performed intra-op which showed decreased ventricular
+filling.
+
+NEURO/PAIN: The patient was maintained on IV pain medication in
+the immediate post-operative period while in the ICU and
+transitioned to PO narcotic medication with adequate pain
+control on POD#8. The patient remained neurologically intact and
+without change from baseline. The patient remained alert and
+oriented to person, location and place.
+
+CARDIOVASCULAR: As mentioned above, the patient had developed
+intra-op hypotension requiring pressor support during the
+immediate post-op period, but this was quickly weaned in the
+unit POD#1. The patient was volume resuscitated with ample
+crystalloids, albumen and packed red cells with good effect. She
+received a total of one unit of packed red cells in the post-op
+period. She had cardiac enzymes were negative in the ICU.
+Cardiology was consulted and gave recommendations regarding her
+rhythm and hypotension which included cardiac enzyme evaluation,
+serial EKG's which were stable and blood pressure medication
+recommendations. Once transferred from the ICU, hypertension
+became the issue. At times she escalated to pressures of
+200/100s and required multiple doses of Hydralazine and IV
+Lopressor for control. By HOD#[**7-22**] she was transitioned to PO
+blood pressure medication, including her home Carvedilol and
+Norvasc (which she had taken in the past according to oupatient
+cardiology notes) with good effect. This had stabilized on
+discharge. Vitals signs were closely monitored via telemetry.
+Cardiology was involved with medical decision making related to
+blood pressure medications.
+
+** Of note, the patient had a known thoracic aortic aneurysm
+which was noted on previous admissions and CXR on this admission
+confirmed mediastinal widening given this history. She was
+encouraged to follow-up with cardiothoracic surgery with Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 914**] clinic she will need a CTA of the Torso prior to
+this appointment ***
+
+RESPIRATORY: The patient was extubated in the immediate post-op
+period successfully. The patient had no episodes of

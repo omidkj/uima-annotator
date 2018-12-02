@@ -1,0 +1,237 @@
+Admission Date:  [**2200-2-24**]              Discharge Date:   [**2200-3-12**]
+
+Date of Birth:  [**2129-12-18**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 99**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+Endotracheal Intubation
+
+History of Present Illness:
+70 [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 12660**] [**Last Name (NamePattern1) **] resident with COPD on home O2 frequent
+exacerbations, lung CA s/p resection [**2198**] recently admitted [**1-13**]
+for SOB.  Had just completed steroid taper 60mg prednisone.
+However, today had fever to 103.  SpO2 was intermittently 87%.
+Demanded that she be transferred to [**Hospital1 18**] and was throwing her
+self on the floor.  Refusing all nebs.  WBC 5 without any
+bandemia.
+
+In ED received steroids and continuous nebs for 30 minutes
+without improvment.  Given IV levoquin x1. Sats mid-80's.  Brief
+trial of BIPAP but couldn't tolerate.  Intubated electively with
+succinycholine and etomidate.  Intubation complicated by tongue
+lac
+
+Past Medical History:
+OSA; bipap 12/8 (noncompliant)
+COPD on home O2 2L n/c
+Lung cancer
+  moderately differentiated adenocarcinoma
+  s/p thorascopic wedge resection [**2199-4-15**] (given underlying poor
+lung fxn)
+Restrictive lung disease, fev1/fvc 128% pred
+Heart failure with preserved EF
+Morbid obesity
+HTN
+R total knee replacement
+hiatal hernia s/p surgical repair
+depression/anxiety
+"personality disorder"
+s/p abdominal hysterectomy
+
+Social History:
+Lives at [**Location 12660**] house.  Has personality disorder.  Considers
+her stuffed animals part of her family. ? ongoing smoker. no
+IVDU.
+
+Family History:
+mother with CAD
+
+
+Physical Exam:
+vs: 98.9, BP 111/30, map 57, hr 124
+Admit wt 115kg
+Vent: AC/500/5/12/100%; observed Vt 500-600, rr 16, SpO2 98-100%
+I/O: concentrated urine
+gtt: propofol 20mcg/kg/min
+gen: sedated, intubated
+neuro: pupils 2mm symmtric reactive. sedated on propofol
+heent: thick neck, neck veins not visible
+lungs: diffuse exp wheeze, fair air movement, some coarse
+rhonchi right lung zone. No fine inspiratory basilar crackles.
+cv: s1/s2 tachycardic, regular, no m/r/g
+abd: obese, soft, no grimace with palpation, nabs
+ext: trace pitting edema
+skin: no rash
+
+
+Pertinent Results:
+Remote Pertinent Data:
+======================
+Spirometry ([**3-/2198**]):
+      Actual Pred %Pred Actual %Pred %chg
+FVC   1.09   2.18     50
+FEV1   0.97  1.52     64
+MMF    0.99  1.98     50
+FEV1/FVC   89 70 128
+.
+Impression: Results are consistent with a restrictive
+ventilatory defect.   Since [**2198-2-3**], the FVC has increased 370cc
+(51%), and the FEV1 has increased 260cc (37%).
+.
+Tranthoracic echo ([**2200-2-10**]):
+Left Atrium - Long Axis Dimension: *5.1 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *6.2 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: 4.6 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.4 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 4.8 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 2.4 cm
+Left Ventricle - Fractional Shortening: 0.50 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: 80% (nl >=55%)
+Aorta - Valve Level: 3.0 cm (nl <= 3.6 cm)
+Aorta - Ascending: 3.1 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: 1.7 m/sec (nl <= 2.0 m/sec)
+Mitral Valve - E Wave: 1.5 m/sec
+Mitral Valve - A Wave: 1.5 m/sec
+Mitral Valve - E/A Ratio: 1.00
+Mitral Valve - E Wave Deceleration Time: 260 msec
+TR Gradient (+ RA = PASP): *30 mm Hg (nl <= 25 mm Hg)
+.
+Conclusions:
+The left atrium is moderately dilated. There is mild symmetric
+left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Left  ventricular systolic function is hyperdynamic (EF
+80%). No masses or thrombi  are seen in the left ventricle. The
+right ventricular cavity is dilated. Right ventricular systolic
+function is normal. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. The left
+ventricular inflow pattern suggests impaired relaxation. There
+is mild pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+.
+Compared with the findings of the prior report (images
+unavailable for review)of [**2197-2-1**], the right ventricle
+now appears somewhat dilated.
+.
+Admission Labs [**2200-2-24**]:
+=======================
+WBC-6.0 Hgb-11.6* Hct-34.7* Plt Ct-145*
+Neuts-92.3* Lymphs-4.2* Monos-3.1 Eos-0.4 Baso-0
+PT-13.2* PTT-24.7 INR(PT)-1.1
+Glucose-148* UreaN-13 Creat-1.1 Na-142 K-5.4* Cl-107 HCO3-26
+AnGap-14
+ALT-39 AST-26 LD(LDH)-269* CK(CPK)-72 TotBili-0.5
+Lactate 1.4
+.
+Cardiac Enzymes:
+===============
+[**2200-2-24**] 02:45PM BLOOD cTropnT-0.01
+[**2200-2-24**] 09:45PM BLOOD CK-MB-NotDone cTropnT-0.05*
+[**2200-2-25**] 05:04AM BLOOD CK-MB-NotDone cTropnT-0.08*
+[**2200-2-25**] 02:25PM BLOOD CK-MB-4 cTropnT-0.05*
+[**2200-2-24**] 09:45PM CK(CPK)-72
+[**2200-2-25**] 05:04AM BLOOD CK(CPK)-91
+[**2200-2-25**] 02:25PM BLOOD CK(CPK)-177
+.
+Radiologic Studies:
+==================
+[**2200-2-25**] CXR: Somewhat limited study. Overall unchanged
+appearance of the chest with small lung volumes, right hilar
+fullness. No definite new consolidation.
+.
+[**2200-2-26**] CXR: IMPRESSION: Improved CHF. Low lung volumes. ET and
+NG tubes in good position
+.
+Micro:
+======
+[**2200-2-25**] 11:03 am SPUTUM      Source: Endotracheal.
+
+   GRAM STAIN (Final [**2200-2-25**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI IN
+PAIRS.
+
+   RESPIRATORY CULTURE (Preliminary):    NO GROWTH.
+.
+
+[**2200-3-4**] 3:00 am BLOOD CULTURE
+
+   AEROBIC BOTTLE (Final [**2200-3-9**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    FINAL
+SENSITIVITIES.
+         VANCOMYCIN Sensitivity testing performed by Sensititre.
+
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------     2 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN--------------  =>32 R
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     2 S
+
+
+Brief Hospital Course:
+70 F with COPD on home O2, morbid obesity with restrictive lung
+physiology, OSA presented with pneumonia and respiratory failure
+requring intubation for mechanical ventilation.
+.
+Respiratory failure: Secondary to pneumonia and COPD
+exacerbation with poor underlying pulmonary reserve from morbid
+obesity, untreated OSA, COPD, and diastolic heart failure.
+Intubated for acute respiratory failure and treated with a
+course of IV solumedrol for COPD exacerbation and broad
+antibiotics (vanco and cipro) empirically for suspected
+pneumonia, pending culture data. However sputum culture returned
+negative for growth. Therefore antibiotics weaned to complete
+course of ciprofloxacin. Component of respiratory failure also
+felt secondary to diastolic heart failure and she was diuresed
+without significant improvement in her ventilatory dependence.
+.
+She was difficult to wean from the ventilator, limited by
+persistent rapid shallow breathing. In addition she was noted to
+have high levels of anxiety and agitation when weaned off
+sedation. Given ongoing high fevers on the vent, she was started
+empirically for VAP with Ceftaz for an 8 day course. In
+addition, she was noted to have methicillin resistant staph epi
+in two separate blood culture sets. A-line was removed as a
+potential source, and the tip was also noted to culture out
+MRSE. Therefore she was treated with a 2 week course of
+vancomycin.
+.
+After discussion with the health-care proxy, the plan was made
+to optimize medical management and extubate on Monday [**3-10**]
+without re-intubation under any circumstances. Goals of care
+changed to DNR/DNI, with management directed towards comfort
+measures.
+.
+
+
+
+
+Medications on Admission:
+milk of mag prn
+bisacodyl 10mg prn
+fleet enema prn
+tylen

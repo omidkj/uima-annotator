@@ -1,0 +1,219 @@
+Admission Date:  [**2167-3-28**]              Discharge Date:   [**2167-4-10**]
+
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents / Lipitor
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+sepsis
+
+Major Surgical or Invasive Procedure:
+R IJ central line placement
+
+History of Present Illness:
+81 F presents from [**Hospital1 **] with fever, hypotension, and altered
+mental status.  Pt s/p CABG [**5-29**] c/b bowel ischemia s/p
+resection with ileostomy with high level of output resulting in
+intermittent dehydration.  Pt had PICC placed recently for TPN
+to improve nutritional status before closure of ileostomy
+shceduled for [**4-13**].  On admission, pt c/o nonproductive cough.
+Denied dysuria, abdominal pain, nausea/vomiting, diarrhea, chest
+pain, back pain, or SOB.
+
+In the [**Name (NI) **], pt was given vancomycin 1g x1, levofloxacin 500mg IV
+x1; a Foley was placed, Ucx and BlCx sent.  Pt was given 2L NS.
+BP was 93/28 on arrival, decreased to 82/39.  Code sepsis was
+called, and pt was transferred to [**Hospital Unit Name 153**].
+
+
+Past Medical History:
+- 3V CABG [**5-29**]
+- Mesenteric ischemia s/p resection and temportary ileostomy
+- Short gut syndrome
+- HIT
+- Depression
+
+Social History:
+Denied ETOH, tobacco, IVDA. Currently lives at [**Hospital **] rehab in
+preparation for ileostomy reversal. Family actively involved in
+care
+
+Family History:
+NC
+
+Physical Exam:
+Gen: awake, alert, mild respiratory distress
+HEENT: PERRL, EOMI, MM dry
+Neck: JVP flat, no cervical LAD
+CV: irregular, nl S1/S2, no m/r/g
+Pulm: diffusely wheezy, no crackles
+Abd: soft, NT/ND, ostomy patent, draining brown liquid stool
+Ext: warm, no edema
+Skin: no rashes
+
+Pertinent Results:
+Admission labs:
+
+electrolytes:  GLUCOSE-102 UREA N-28* CREAT-1.3* SODIUM-140
+POTASSIUM-4.5 CHLORIDE-105 TOTAL CO2-26 ANION GAP-14
+CALCIUM-8.0* PHOSPHATE-3.1 MAGNESIUM-2.1
+
+LFTs: ALT(SGPT)-16 AST(SGOT)-30 AMYLASE-44  LIPASE-14
+
+CBC: WBC-7.6 RBC-3.40* HGB-10.0* HCT-28.8* MCV-85 MCH-29.6
+MCHC-34.8 RDW-14.7 PLT COUNT-185
+NEUTS-83.5* BANDS-0 LYMPHS-10.7* MONOS-4.0 EOS-1.7 BASOS-0.1
+
+LACTATE-1.6
+
+Imaging:
+[**3-27**] CXR: No acute cardiopulmonary abnormality identified.
+
+[**3-30**] CXR: There is new bilateral lower lobe infiltrates and
+effusions with volume loss in the left lower lobe as well. There
+is hazy bilateral vasculature with vascular redistribution. It
+is unclear how much of this process due to CHF or if there is an
+underlying infectious infiltrate. Dual-lead pacemaker is
+unchanged. Right subclavian line tip is in the superior vena
+cava.
+IMPRESSION: New bilateral lower lobe infiltrates and effusion.
+
+Micro:
+[**3-27**] Blood Cx: 4/4 bottles with coag neg Staph:
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------     2 S
+
+[**3-28**] PICC tip with coag negative Staph, same sensitivities as
+above
+
+[**3-28**] UCx: Enterococcus:
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+LEVOFLOXACIN----------   =>8 R
+NITROFURANTOIN--------  <=16 S
+VANCOMYCIN------------   <=1 S
+
+[**3-28**], [**3-31**] blood cultures NGTD
+.
+CXR [**4-5**]: Interval resolution of previously seen congestive
+heart failure. Small, persistent, bilateral effusions.
+.
+Tunneled Cath placement [**4-6**]: Successful placement of a
+10-French double-lumen tunneled central venous catheter by way
+of the right internal jugular vein with tip in the superior vena
+cava. The catheter can be used immediately.
+
+
+Brief Hospital Course:
+1.  Sepsis - Pt was admitted to the [**Hospital Unit Name 153**] and was administered
+approximately 5L IV fluid for hypotension.  Pt required levophed
+support for 24 hours and was subsequently weaned off pressors.
+Cortisol stimulation test was normal.  CXR was without
+infiltrate; UCx grew Enterococcus and [**4-28**] blood cultures grew
+coag negative Staph with same sensitivity profile as coag neg
+Staph from PICC tip.  Pt was initially treated broadly with
+Zosyn and Vanco; once sensitivities returned from blood cultures
+and PICC tip, antibiotics were reduced to Vancomycin alone, to
+continue for 14 days total (last dose [**2167-4-11**]). Patient remained
+hemodynamically stable and afebrile on the floor.
+.
+2. Congestive heart failure - Patient was fluid overloaded on
+exam after aggressive resuscitation in the setting of sepsis.
+Pt autodiuresed well and lung exam improved through hospital
+course. Patient was weaned off supplemental oxygen on the floor,
+and continued to oxgenate well on room air.
+.
+3. s/p bowel resection with ostomy, short-gut syndrome - PICC
+line had initially been placed for nutritional optimization
+prior to reversal of ostomy planned for later this month at [**Hospital1 2025**].
+Ileostomy had high-ouput drainage; in discussion with patient's
+PCP at [**Name9 (PRE) 2025**], numerous medical interventions had been tried
+without success. Patient was continued on Ranitidine [**Hospital1 **], and
+Lansoprazole added to regimen for GERD-type symptoms with good
+effect. Once access was obtained (R IJ tunneled cath), TPN was
+cycled, first over 24 hours, now 12 hours overnight.
+.
+4. Coronary artery disease s/p CABG - Given high output from
+ileostomy, patient was not on ACE or BB as she was prone to
+dehydration and BPs ran asymptomatically low at baseline. Pt was
+continued on aspirin.  Patient with statin allergy -
+rhabdomyloysis on prior administration. Patient without coronary
+issues on this admission.
+.
+5. Depression - continued on outpatient Amitriptyline 15
+.
+6. Access - A right subclavian was placed while in ICU which was
+subsequently dc'd after hemodynamically stable. PICC was removed
+shortly after admission as it was the etiology of sepsis. After
+surveillance cultures were negative x72 hours, PICC replacement
+was attempted but unsuccessful due to subclavian stenosis on
+right, and left was not engaged due to presence of pacemaker.
+Cardiology was curbsided and they recommended against PICC
+placement on left. Patient then received double-lumen tunneled R
+IJ via Interventional Radiology on [**2167-4-6**].
+.
+7. PPX
+Patient with history of Heparin-induced thrombocytopenia, NO
+heparin products were administered. Patient was given
+Fondaparinux for DVT prophylaxis.
+.
+8. CODE: FULL
+
+Medications on Admission:
+ASA 81 mg po qd, elavil 12.5 mg po qhs, Alphagan gtt, Citracel+D
+1 tab po tid, folate 1 mg po qd, arixtra 2.5 mg SC qhs, MVI 1
+tab po qd, zantac 150 mg po qd, loperamide 2mg po q8h prn
+
+Discharge Medications:
+1. Amitriptyline 25 mg Tablet Sig: 0.5 Tablet PO HS (at
+bedtime).
+2. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic  Q8H
+(every 8 hours).
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed.
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+8. Albuterol Sulfate 0.083 % Solution Sig: One (1) inhalation
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+or wheezing.
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+or wheezing.
+10. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day) for 5 days.
+11. Fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1) injection
+Subcutaneous DAILY (Daily).
+12. Ferrous Sulfate 300 mg/5 mL Liquid Sig: Five (5) mL PO DAILY
+(Daily).
+13. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+14. Vancomycin 500 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous  Q 24H (Every 24 Hours) for 1 days. Recon Soln(s)
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Principal:
+1. Methicillin Sensitive Coagulase Negative Staph Line Sepsis.
+2. Enteroccocus Ur

@@ -1,0 +1,142 @@
+Admission Date:  [**2120-3-7**]              Discharge Date:   [**2120-3-12**]
+
+Date of Birth:  [**2057-8-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1850**]
+Chief Complaint:
+Fever
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+62 yo male with MDS, pancytopenia who presented from clinic with
+fever in setting of platelet transfusion and hypotension. He
+only complained of productive cough, no dysuria, no headache,
+neck stiffness. In ED received 3 L NS, gvien cefepime, vanco,
+gentamicin and flagyl for febile neutropenia. Code sepsis
+called.
+
+Past Medical History:
+1.  Myelodysplastic anemia diagnosed eight years; treated
+with monthly blood transfusions.
+2.  Hypertension.
+3.  perinephric hematoma
+4.  h/o RLE cellulitis
+
+Social History:
+The patient lives his brother and son-in-[**Name2 (NI) 108895**] home and works in
+maintenance at [**University/College 5130**] [**Location (un) **].The patient reports
+social alcohol use of one to two drinksper week.  The patient
+denies tobacco use.
+
+
+Family History:
+NC
+
+Physical Exam:
+101.1, 102, 85/44, 30, 97%RA
+GENL: NAD
+HEENT: pupils 1- 2 mm, reactive, anicteric, OP clear, dry MM,
+supple neck
+CV: tachy, 3/6 systolic murmur
+Lungs: dry crackles at bases
+Abd: soft, nt, nd, +bx
+Ext: 2+ pedal pulses
+Skin: numerous erythematous plaques with scale over torso
+
+Pertinent Results:
+[**2120-3-12**] 05:00AM BLOOD WBC-1.1*# RBC-3.84* Hgb-11.0* Hct-30.0*
+MCV-78* MCH-28.6 MCHC-36.6* RDW-17.0* Plt Ct-14*
+[**2120-3-7**] 10:17AM BLOOD WBC-0.5* RBC-2.97* Hgb-8.3* Hct-24.9*
+MCV-84 MCH-28.1 MCHC-33.5 RDW-14.1 Plt Ct-14*#
+[**2120-3-7**] 12:50PM BLOOD Neuts-50 Bands-14* Lymphs-22 Monos-4
+Eos-0 Baso-0 Atyps-10* Metas-0 Myelos-0
+[**2120-3-12**] 05:00AM BLOOD Plt Ct-14*
+[**2120-3-9**] 05:21AM BLOOD PT-16.2* PTT-43.7* INR(PT)-1.6
+[**2120-3-7**] 10:17AM BLOOD Plt Ct-14*#
+[**2120-3-7**] 02:19PM BLOOD PT-14.4* PTT-46.8* INR(PT)-1.3
+[**2120-3-8**] 10:13PM BLOOD Fibrino-296
+[**2120-3-8**] 10:31AM BLOOD Fibrino-332 D-Dimer->[**Numeric Identifier 961**]*
+[**2120-3-8**] 12:46AM BLOOD Fibrino-346
+[**2120-3-12**] 05:00AM BLOOD Gran Ct-790*
+[**2120-3-7**] 10:17AM BLOOD Gran Ct-320*
+[**2120-3-12**] 05:00AM BLOOD Glucose-137* UreaN-113* Creat-3.1* Na-139
+K-3.8 Cl-100 HCO3-22 AnGap-21*
+[**2120-3-7**] 12:50PM BLOOD Glucose-132* UreaN-28* Creat-1.3* Na-134
+K-4.3 Cl-101 HCO3-25 AnGap-12
+[**2120-3-8**] 09:19PM BLOOD ALT-58* AST-318* LD(LDH)-1708*
+AlkPhos-203* TotBili-0.5
+[**2120-3-7**] 12:50PM BLOOD ALT-31 AST-128* LD(LDH)-1153*
+AlkPhos-203* Amylase-42 TotBili-0.2
+[**2120-3-7**] 12:50PM BLOOD Lipase-13
+[**2120-3-8**] 05:50AM BLOOD CK-MB-3 cTropnT-0.10*
+[**2120-3-7**] 07:24PM BLOOD CK-MB-NotDone cTropnT-0.07*
+[**2120-3-12**] 05:00AM BLOOD Calcium-8.9 Phos-7.4* Mg-2.2
+[**2120-3-7**] 12:50PM BLOOD Albumin-2.1* Calcium-7.6* Phos-2.7
+Mg-1.5*
+[**2120-3-8**] 12:46AM BLOOD Hapto-215*
+[**2120-3-11**] 04:01AM BLOOD Triglyc-111
+[**2120-3-7**] 07:24PM BLOOD Cortsol-31.8*
+[**2120-3-7**] 07:23PM BLOOD Cortsol-31.5*
+[**2120-3-7**] 07:23PM BLOOD Cortsol-29.5*
+
+Brief Hospital Course:
+The patient was admitted to the [**Hospital Unit Name 153**] with sepsis of unclear
+etiology.
+
+1. Sepsis: Placed on MUST protocol. He was given cefepime,
+vancomycin and flagyl and gentamicin. He was started on levophed
+for BP support and then switched to dopamine. Blood cultures
+grew MRSA. He was started on linezolid and vancomycin
+discontinued on [**2120-3-9**]. Cefepime, flagyl and azithromycin were
+discontinued on [**3-10**] after blood cultures return positive for
+MRSA. He has a port for transfusions that could have been the
+source which was removed by surgery. He was also given
+hydrocortisone and fludricort for adrenal insufficiency.
+
+2. Heme/MDS: He was given DDAVP for uremic platelets. Transfused
+red cells and FFP and platelets given oozing from CVL site.
+Filagrastim was started for neutropenia.
+
+3. ARF: His urine output fell. Dopamine was started to try to
+improve renal perfusion, with little success. He was tried on
+natrecor but had MAT on tele and it had to be decreased. UO did
+respond to the natrecor.
+
+4. Resp status: He required BIPAP on HD 2 for respiratory
+support. he was DNR/DNI from admission.
+
+5. Goals of care: His mental status began to deteriorate on HD
+4. His prognosis remained poor given pnacytopenia, sepsis and
+acute renal failure. Discussions with the family were had and
+their goal was comfort care. Pt expired on [**2120-3-12**].
+
+Medications on Admission:
+None
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+n/a
+
+Discharge Condition:
+n/a
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+                             [**First Name8 (NamePattern2) 1176**] [**Name8 (MD) 1177**] MD [**MD Number(2) 1851**]
+

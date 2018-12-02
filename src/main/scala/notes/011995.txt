@@ -1,0 +1,138 @@
+Admission Date:  [**2148-11-25**]              Discharge Date:   [**2148-11-29**]
+
+Date of Birth:  [**2098-3-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3326**]
+Chief Complaint:
+Dypnea
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+
+History of Present Illness:
+50yo woman with breast cancer metastatic to bone and lung
+presenting with shortness of breath that started 1-2 weeks prior
+to admission.  The patient reports feeling "lousy" for several
+days with nonproductive cough and fever to 101.8.  Primary care
+physisician diagnosed her with viral URI one week prior to
+admission.  Symptoms continued to progress.  She was evaluated
+by her oncologist on the day of admission and was found to have
+oxygen saturation 68% on room air, increasing to 93% on 4L, then
+worsening again to the low 90s and requiring NRB.  She was
+treated with 1 dose iv Bactrim after CXR appeared consistent
+with PCP, [**Name10 (NameIs) **] transferred to ED.  In the ED she received a dose
+of CTX/Azithro, and was transferred to the ICU.
+
+Past Medical History:
+Breast cancer, diagnosed [**2143**] s/p masectomy with reconstruction,
+mets ot lung and vertebrae, on weekly Gemzar chemotherapy
+
+Social History:
+lives alone, brother in [**Name (NI) **]
+no tob
+[**12-29**] glasses wine/day
+no illicits
+
+Family History:
+mother d. cancer of unknown etiology
+
+Physical Exam:
+T 98.7  HR  95  BP 112/57  RR 27  92%NRB
+Gen:  pleasant, speaking in full sentences, NRB
+HEENT:  PERRL, anicteric, MMM, OP clear
+Neck:  supple, no LAD, no JVP
+CV:  RRR, no m/r/g, nml s1s2
+Pulm:  rales bilaterally, good air movement
+Abd:  +BS, soft, NT, ND, well healed scar
+Ext:  no c/c/e, 2+ DP pulses B
+
+Pertinent Results:
+[**2148-11-25**] 09:00PM   GLUCOSE-101
+[**2148-11-25**] 09:00PM   CALCIUM-8.3* PHOSPHATE-3.5 MAGNESIUM-2.0
+[**2148-11-25**] 09:00PM   WBC-13.5* RBC-3.14* HGB-9.8* HCT-30.7* MCV-98
+MCH-31.1 MCHC-31.8 RDW-21.4*
+[**2148-11-25**] 09:00PM   NEUTS-72.9* LYMPHS-15.7* MONOS-8.4 EOS-2.0
+BASOS-1.0
+[**2148-11-25**] 09:00PM   HYPOCHROM-3+ ANISOCYT-2+ POIKILOCY-1+
+MACROCYT-3+ MICROCYT-1+
+[**2148-11-25**] 09:00PM   PLT COUNT-714*
+[**2148-11-25**] 09:00PM   PT-12.6 PTT-23.3 INR(PT)-1.0
+[**2148-11-25**] 07:46PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.006
+[**2148-11-25**] 07:46PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-NEG
+[**2148-11-25**] 12:30PM   UREA N-10 CREAT-0.7 SODIUM-138 POTASSIUM-4.5
+CHLORIDE-103 TOTAL CO2-26 ANION GAP-14
+[**2148-11-25**] 12:30PM   LD(LDH)-750*
+[**2148-11-25**] 12:30PM   WBC-14.5*# RBC-3.35* HGB-10.6* HCT-33.3*
+MCV-99* MCH-31.6 MCHC-31.8 RDW-21.3*
+[**2148-11-25**] 12:30PM   HYPOCHROM-2+ ANISOCYT-1+ POIKILOCY-OCCASIONAL
+MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-OCCASIONAL
+OVALOCYT-OCCASIONAL BITE-OCCASIONAL FRAGMENT-OCCASIONAL
+[**2148-11-25**] 12:30PM   PLT SMR-VERY HIGH PLT COUNT-710*#
+[**2148-11-25**] 12:30PM   GRAN CT-[**Numeric Identifier 15098**]*
+
+CXR:  new marked bilateral diffuse interstitial opacities
+Chest CT:  diffuse interstitial ground glass opacities,
+mediastinal lymphadenopathy
+
+Brief Hospital Course:
+50yo woman with metastatic breast cancer presenting with
+dyspnea, fevers, nonproductive cough, and hypoxia.  The patient
+was treated empirically with Bactrim for PCP given her
+presentation and CT findings, and CTX/Azithromycin for community
+acquired pneumonia.  The differential diagnosis included PCP
+pneumonia, atypical or viral pneumonia, or pneumonitis caused by
+her chemotherapy.  As induced sputum exam was unsuccessful, she
+underwent bronchoscopy and bronchoalveolar lavage.  Bronchoscopy
+showed normal mucosa and no lesions.  BAL showed no PCP
+infection, and sputum stain was nondiagnostic.  Supplemental
+oxygen was weaned until the patient was saturating well on nasal
+canula.  She was discharged to home on home oxygen, with
+instructions to follow-up with your primary care physician in
+the next week to wean the oxygen.  Dr. [**Last Name (STitle) 2036**], her Oncologist,
+continued to follow the patient in house.  She was discharged to
+home with instructions to complete a 14 day course of
+antibiotics.  The ceftriaxone and azithromycin were changed to
+po levofloxacin prior to discharge.  She is a full code.
+
+Medications on Admission:
+Gemzar- weekly
+Zometra
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Pneumonia
+
+
+Discharge Condition:
+good - sats 90% on RA at rest w/ desaturations into the low 80s
+w/ minimal exertion
+
+Discharge Instructions:
+If you develop worsening shortness of breath, recurrent fevers
+>101.2, or productive cough, please see your primary care
+physician or return to the emergency department.
+
+Make sure to take your prescribed antibiotic for the next 9 days
+and to keep yourself well-hydrated.
+
+Followup Instructions:
+Please follow up with your primary care physician and oncologist
+within two weeks.
+
+You will need to be evaluated by your primary care physician to
+determine if the supplemental oxygen can be weaned off.
+
+
+

@@ -1,0 +1,215 @@
+Admission Date:  [**2162-12-6**]              Discharge Date:   [**2162-12-10**]
+
+Date of Birth:  [**2086-5-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Iodine-Iodine Containing
+
+Attending:[**First Name3 (LF) 1145**]
+Chief Complaint:
+Multiple falls and right shoulder injury
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+This 76-yr-old patient of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with history of
+remote CABG at NEDH (approx 15 years ago), cardiomyopathy with
+EF last measured at 15%, and mild memory impairment who
+presented to the [**Hospital3 **] ER last night after multiple falls
+in a 24-hour period of time. Patient was walking from his bed to
+the bathroom when he collapsed onto the sink. The patient hit
+his right shoulder on the sink on the way down. X ray at OSH was
+of poor quality but showed possible greater trochanter fracture.
+Has had long history of multiple falls with vague work-up.
+Possible diagnosis of B12 deficieny. His C spine was negative.
+Per the OSH transfer, he had clinical signs of CHF in the ED and
+a BNP of 1273. He was found to have a Trop of 1.43, CK 695, MB
+7.4. His most recent vitals prior to transfer are 131/77, o2 sat
+97% on 2lnc and 90's to 116 NSR/LBBB.
+.
+He is referred for further cardiac management, including
+possible cath, EP consult for possible ICD, and orthopedics
+consult.
+.
+
+
+Past Medical History:
+Diabetes
+Dyslipidemia
+Hypertension
+CABG: 6 vessel CABG in [**2145**]
+CHF [**3-16**] ischemic cardiomyopathy last EF of 15% on most recent
+Echo [**10/2162**]
+GERD
+COPD
+Peripheral neuropathy
+Vitamin B12 deficiency
+Chronic kidney disease
+Dementia
+Recurrent falls
+
+Social History:
+Tobacco history: Former smoker, quit in [**2145**]
+
+Family History:
+Mother with kidney problems
+Father with liver cirrhosis
+
+Physical Exam:
+Admission PE:
+VS: T=99.2 BP=118/59 HR=88 RR=17 O2 sat= 94 on 3L NC (unclear
+baseline O2)
+GENERAL: WDWN. Oriented x1. Drowsy but arousable.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with JVP of 11 cm. No carotid bruits.
+CARDIAC: Faint Heart sounds. RR, normal S1, S2. No m/r/g. No
+thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Obese soft NT. No HSM or tenderness. +BS
+EXTREMITIES: Several abrasions on LLE. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+Admission labs:
+[**2162-12-6**] 07:56PM   WBC-13.1* RBC-4.40* HGB-13.8* HCT-41.1 MCV-93
+MCH-31.3 MCHC-33.5 RDW-14.4
+[**2162-12-6**] 07:56PM   CALCIUM-9.4 PHOSPHATE-2.5* MAGNESIUM-2.3
+[**2162-12-6**] 07:56PM   CK-MB-10 MB INDX-0.8 cTropnT-0.13*
+[**2162-12-6**] 07:56PM   CK(CPK)-1211*
+[**2162-12-6**] 07:56PM   GLUCOSE-178* UREA N-28* CREAT-2.1* SODIUM-140
+POTASSIUM-4.8 CHLORIDE-102 TOTAL CO2-27 ANION GAP-16
+[**2162-12-6**] 10:45PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-75
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-NEG PH-5.0 LEUK-SM
+.
+Imaging:
+X-ray
+Three views of the right shoulder are slightly limited by this
+patient's large size. There is an essentially undisplaced
+fracture of the right neck of the humerus, probably extending
+into the greater tuberosity. No other fractures and no
+dislocation. Visualized left lung clear.
+
+[**12-7**] EKG:
+
+Sinus rhythm. Borderline P-R interval prolongation. Left atrial
+abnormality.
+Left bundle-branch block. Consider inferior myocardial
+infarction. No previous
+tracing available for comparison. Clinical correlation is
+suggested.
+
+
+Labs at Discharge:
+
+[**2162-12-10**] 07:30AM BLOOD WBC-9.2 RBC-3.90* Hgb-12.1* Hct-36.1*
+MCV-93 MCH-31.1 MCHC-33.6 RDW-14.9 Plt Ct-176
+[**2162-12-10**] 07:30AM BLOOD Glucose-76 UreaN-42* Creat-1.4* Na-144
+K-3.7 Cl-103 HCO3-34* AnGap-11
+[**2162-12-10**] 07:30AM BLOOD Calcium-8.6 Phos-2.8 Mg-2.3
+[**2162-12-7**] 04:11AM BLOOD VitB12-336
+[**2162-12-7**] 04:11AM BLOOD %HbA1c-6.7* eAG-146*
+
+Brief Hospital Course:
+# NSTEMI: Pt presented with Trop 0.13 with peak at 0.17 and CK
+1,211. Given his long standing history of CAD + EKG with Q waves
+with elevated enzymes in a diabetic pt, there was initial
+concern for possible MI. However, the elevated CK was attributed
+to MSK injury and the troponin elevation was secondary to demand
+ischemia in setting of renal insufficiecny. CK trended down to
+178 by day of discharge and trop dropped to 0.14.
+Catheterization deferred. Pt had no chest pain symptoms. Patient
+continued on ASA, atorvastatin, and carvedilol.
+.
+# Systolic CHF:  History of CHF with most recent EF of 15% in
+[**Month (only) **]. Pt did not appear fluid overloaded. Chest X-ray on
+[**12-7**] demonstrated no evidence of pulmonary congestion. Although
+pt qualified for ICD, pt and family wished to decline at this
+time. Continued Losartan and Carvedilol.
+.
+# Leukocytosis: No obvious signs of infection. Urine culture
+with 10-100K gram negative rods, ID and sensitivities pending.
+Pt was started on Cipro for 7 day course. WBC trended down
+during hospitaliztion, 9.2 at discharge.
+.
+#  Shoulder fracture: Pt had right humeral neck non-displaced
+fracture from fall. Orthopedics recommended a sling for comfort.
+The patient's pain was treated symptomatically with a lidoderm
+patch, prn tylenol and ice packs. Ortho reccomended he follow up
+with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in a few weeks for repeat x-rays of his
+right shoulder on arrival.  If the x-rays look okay, he can
+start passive ROM of his
+shoulder for 4 weeks followed by active ROM after repeat x-rays.
+.
+# Acute on chronic kidney injury: Unclear baseline Cr but was
+1.5 in [**Month (only) 462**] and  2.1 on admission. Pre-renal by lytes.
+Patient was given small bolus of 250 mL on [**12-8**] after
+creatinine had risen to 2.4, it then trended down to 1.2 by day
+of discharge.
+.
+# Dementia: Pt was near baseline per wife. [**Name (NI) **] has mild
+impairment in short term memory.
+.
+# DM2: Home insulin regimen was given. Metformin was held in
+setting of acute kidney injury. A1c=6.7.
+.
+# HTN: Normotensive on admission. Home antihypertensive meds
+were continued.
+.
+# History of falls: Unclear etiology. History was not consistent
+with syncope or seizure. Worked up for both in past at OSH.
+Falls likely secondary to his peripheral neuropathy. RPR was
+negative. Pt takes monthly B12 injections. Geriatrics was
+consulted. They started pt on Vit D and recc he continue
+gabapentin and hold his percocet. He has not received any
+percocet in the last 72 hours and has had no pain. B12 levels
+were checked and WNL, 366. Vitamin D level was checked and is
+pending at this time. It was strongly recommended to the patient
+that he should go to rehabilitation after discharge but he
+refused, stating "I will be careful at home". Family was unable
+to dissuade him. He was observed walking with rolling [**Name6 (MD) **] by
+RN and CCU team, is mostly steady and shows good exercise
+tolerance. He will go home by ambulance and get maximum services
+at home including [**Hospital 37739**] home health aide and nursing.
+.
+# Hyperlidipdemia: Continued statin therapy.
+.
+# Gout: Allopurinol therapy continued.
+.
+# COPD: Continued oxygen and prn Combivent.
+.
+# Peripheral Neuropathy: Continued gabapentin. Did not require
+narcotics for foot pain while on the step down unit.
+
+Vitamin D level sent, will need to be followed up after
+discharge.
+Final urine culture results should be followed up after
+discharge.
+
+Medications on Admission:
+Combivent 2 puffs q4 as needed for wheezing
+Allopurinol 100mg daily
+Felodipine 5mg daily
+ASA 81 mg daily
+Carvedilol 25mg twice a day
+Lasix 40mg daily
+Gabapentin 100mg every morning and 200mg every evening
+Novolog 70/30 36u SC each morning and 22U SC in the evening
+Cozaar 50mg twice a day
+Percocet 5/325 twice a day as needed for pain
+Zocor 80 mg every evening
+Clonazepam 0.5mg twice a day as needed for anxiety
+Omeprazole 40mg daily
+Metformin 500mg Daily
+B12 Monthly
+
+Discharge Medications:
+1. ipratropium-albuterol 18

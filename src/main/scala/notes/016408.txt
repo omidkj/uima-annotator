@@ -1,0 +1,226 @@
+Admission Date:  [**2186-12-28**]              Discharge Date:   [**2187-1-10**]
+
+Date of Birth:  [**2117-12-9**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+chest pain and dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+AVR(#23 CE Magna
+pericardial)CABGx3(LIMA-LAD,SVG-OM,SVG-RCA)[**12-28**]
+
+
+History of Present Illness:
+68 yo M with known CAD s/p PTCA in [**2173**], also with known AS.
+Abnormal stress test led to cath which showed 3vd and AS.
+Referred for surgery.
+
+Past Medical History:
+CAD(PTCA), HTN, ^chol, AS, Tonsillectomy, Gout, Asbestos
+exposure
+
+Social History:
+works at golf course
+quit tobacco 40 years ago
+2-6 beers/day
+
+Family History:
+NC
+
+Physical Exam:
+HR 68 RR 20 BP 157/72
+NAD flat after cath
+Lungs CTAB ant/lat
+Heart RRR 3/6 SEM at LSB
+Abdomen benign
+Extrem warm, no edema
+1 varicose vein on left calf.
+Carotids with transmitted murmur v. bruit.
+
+Pertinent Results:
+[**2187-1-10**] 05:15AM BLOOD WBC-9.0 RBC-3.02* Hgb-9.3* Hct-27.3*
+MCV-90 MCH-30.8 MCHC-34.1 RDW-15.7* Plt Ct-297
+[**2187-1-9**] 06:00AM BLOOD WBC-11.8* RBC-3.29* Hgb-10.4* Hct-30.5*
+MCV-93 MCH-31.5 MCHC-34.0 RDW-15.6* Plt Ct-324
+[**2187-1-10**] 05:15AM BLOOD Plt Ct-297
+[**2187-1-10**] 05:15AM BLOOD PT-35.3* INR(PT)-3.7*
+[**2187-1-9**] 06:00AM BLOOD PT-37.6* INR(PT)-4.0*
+[**2187-1-8**] 05:28AM BLOOD PT-37.3* INR(PT)-4.0*
+[**2187-1-7**] 05:48AM BLOOD PT-38.6* INR(PT)-4.2*
+[**2187-1-6**] 06:08AM BLOOD PT-47.5* PTT-48.3* INR(PT)-5.4*
+[**2187-1-5**] 06:13AM BLOOD PT-46.2* PTT-42.5* INR(PT)-5.2*
+[**2187-1-4**] 04:55PM BLOOD PT-56.4* PTT-39.5* INR(PT)-6.6*
+[**2187-1-4**] 02:27PM BLOOD PT-62.5* PTT-150* INR(PT)-7.5*
+[**2187-1-4**] 04:13AM BLOOD PT-37.2* PTT-87.0* INR(PT)-4.0*
+[**2187-1-3**] 04:16AM BLOOD PT-18.3* PTT-55.2* INR(PT)-1.7*
+
+CHEST (PA & LAT)  [**2187-1-7**] 1:02 PM
+
+CHEST (PA & LAT)
+
+Reason: ? effusion
+
+[**Hospital 93**] MEDICAL CONDITION:
+69 year old man s/p avr CABG
+REASON FOR THIS EXAMINATION:
+? effusion
+Comparison to [**2187-1-3**]. Minimal increase of the
+right-sided pleural effusion. All other radiographic findings
+are unchanged as to the previous examination.
+
+CHEST (PORTABLE AP)  [**2187-1-3**] 7:29 AM
+
+CHEST (PORTABLE AP)
+
+Reason: s/p AVR/CABG w/PE on heparin w/dropping HCT-r/o effusion
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+69 year old man with
+REASON FOR THIS EXAMINATION:
+s/p AVR/CABG w/PE on heparin w/dropping HCT-r/o effusion
+HISTORY: CABG with dropping hematocrit on heparin.
+
+FINDINGS: In comparison with the study of [**1-2**], there is little
+change. No definite pneumothorax with the right chest tube still
+in place. Indeed, there is no change in the appearance of the
+heart and lungs.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 41414**]Portable TTE
+(Complete) Done [**2187-1-2**] at 10:15:00 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2117-12-9**]
+Age (years): 69 M  Hgt (in): 69
+BP (mm Hg): 108/66  Wgt (lb): 216
+HR (bpm): 74  BSA (m2): 2.14 m2
+Indication: Left ventricular function. Aortic valve replacement.
+CABG.
+ICD-9 Codes: 410.92, 402.90, 423.9, V42.2, 424.0
+Test Information
+Date/Time: [**2187-1-2**] at 10:15    Interpret MD: [**First Name8 (NamePattern2) **] [**Name8 (MD) **],
+MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4587**],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Adequate
+Tape #: 2007W043-0:20 Machine: Vivid [**8-6**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  3.8 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.9 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.3 m/s
+Left Atrium - Peak Pulm Vein D:  0.2 m/s
+Right Atrium - Four Chamber Length:  *6.9 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.8 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30% to 35%  >= 55%
+Left Ventricle - Lateral Peak E':  *0.05 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.04 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *20  < 15
+Aorta - Sinus Level:  2.7 cm  <= 3.6 cm
+Aorta - Ascending:  *3.8 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *2.1 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  17 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  9 mm Hg
+Mitral Valve - E Wave:  0.9 m/sec
+Mitral Valve - A Wave:  0.9 m/sec
+Mitral Valve - E/A ratio:  1.00
+Mitral Valve - E Wave deceleration time:  201 ms  140-250 ms
+TR Gradient (+ RA = PASP):  22 mm Hg  <= 25 mm Hg
+Pulmonic Valve - Peak Velocity:  0.9 m/sec  <= 1.5 m/sec
+Pericardium - Effusion Size:  1.3 cm
+
+Findings
+LEFT ATRIUM: Elongated LA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA.
+
+LEFT VENTRICLE: Mild symmetric LVH. Mildly dilated LV cavity.
+Suboptimal technical quality, a focal LV wall motion abnormality
+cannot be fully excluded. Moderately depressed LVEF. TDI E/e'
+>15, suggesting PCWP>18mmHg. No resting LVOT gradient.
+
+RIGHT VENTRICLE: RV not well seen. Paradoxic septal motion
+consistent with prior cardiac surgery.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Mildly dilated ascending aorta.
+Focal calcifications in ascending aorta.
+
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR).
+Normal AVR gradient.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Physiologic
+TR. Normal PA systolic pressure.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: Small to moderate pericardial effusion. No
+echocardiographic signs of tamponade.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Suboptimal image quality - bandages, defibrillator pads or
+electrodes.
+Conclusions
+The left atrium is elongated. The right atrium is moderately
+dilated. There is mild symmetric left ventricular hypertrophy.
+The left ventricular cavity is mildly dilated. Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Overall left ventricular systolic function is
+difficult to assess given limited images but appears to be
+moderately depressed (LVEF= 30-35 %). Tissue Doppler imaging
+suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). Interventricular septal motion is normal. The
+ascending aorta is mildly dilated. A bioprosthetic aortic valve
+prosthesis is present. The aortic valve prosthesis appears well
+seated, with normal ltransvalvular gradients. Leaflet motion not
+adequately visualized. The mitral valve leaflets are mildly
+thickened. No mitral regurgitation is seen. The estimated
+pulmonary artery systolic pressure is normal. There is a small
+to moderate sized pericardial effusion. There are no
+echocardiographic signs of tamponade.
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left
+ventricular hypertrophy with mildly dilated cavity and probably
+moderately depressed left ventricular systolic function.
+Elevated LV filling pressure. Bioprosthetic AVR with normal
+gradients and no visualized aortic regurgitation. Small
+pericardial effusion.
+
+CTA CHEST W&W/O C&RECONS, NON-CORONARY  [**2187-1-1**] 10:56 PM
+
+CTA CHEST W&W/O C&RECONS, NON-
+
+Reason: r/o pe
+Field of view: 40 Contrast: OPTIRAY
+
+[**Hospital 93**] MEDICAL CONDITION:
+69 year old man s/p cabgg/avr now ^dyspnea/hypoxia
+REASON FOR THIS EXAMINATION:
+r/o pe
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+CTA CHEST ON [**1-1**]
+
+CLINICAL HISTORY: Recent CABG/AVR, now hypoxic. Question PE.
+
+TECHNIQUE: Helical acquisition of CT images performed through
+the thorax during dynamic infusion of approximately 80 cc of
+intravenous nonionic contrast following departmental CTA
+protocol. Comparison mad

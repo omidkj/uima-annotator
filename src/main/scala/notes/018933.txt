@@ -1,0 +1,148 @@
+Admission Date:  [**2173-3-12**]     Discharge Date:  [**2173-3-18**]
+
+Date of Birth:   [**2140-8-18**]     Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  Hypoxia and acute respiratory failure.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 32 year old
+male with a history of asthma who presents with acute
+respiratory distress.  The patient has had symptoms of upper
+respiratory infection/bronchitis for approximately two weeks
+prior to admission and was reportedly using escalating doses
+of bronchodilators.  The patient then presented to the
+Emergency Department and was found to be "blue" and was
+emergently intubated.  After intubation, gas was 7.13, 76,
+246.  In the Emergency Department, the patient had received
+Ketamine, Morphine, Versed, Magnesium, and bronchodilators.
+The patient was difficult to ventilate requiring very high
+driving pressures and was therefore paralyzed with much
+improvement.  Vent was set at SIMV tidal volume 600,
+respiratory rate 10, PEEP 5, and 60% FIO2 on admission to the
+Fennard Intensive Care Unit.
+
+PAST MEDICAL HISTORY:  Asthma.  The patient has been
+hospitalized in the past but history is unknown.  Outpatient
+regimen is unclear.
+
+MEDICATIONS ON ADMISSION:  Albuterol MDI.
+
+ALLERGIES:  Unknown.
+
+FAMILY HISTORY:  Unknown.
+
+SOCIAL HISTORY:  Primary language is Portuguese. No immediate
+family in the U.S.  The patient's family all lives in [**Location 4194**].
+The patient immigrated from [**Country 4194**] one month prior to
+admission.
+
+PHYSICAL EXAMINATION:  Vital signs revealed blood pressure
+111/54, heart rate 95, oxygen saturation 98% on 60% FIO2,
+temperature 97.2 rectally.  In general, the patient is
+intubated and sedated.  The heart is slightly tachycardic,
+normal S1 and S2.  Lungs - diffuse high pitched inspiratory
+and expiratory wheezes bilaterally.  Prolonged I:E ratio.
+The abdomen is soft, nontender, decreased bowel sounds.
+Extremities - no cyanosis, clubbing or edema.
+Neurologically, moving all four extremities and is sedated.
+
+LABORATORY DATA:  White blood cell count 29.0, hematocrit
+49.0, platelets 470,000, 24% polys, 47% lymphocytes, 0 bands,
+6% monocytes, 21% eosinophilia.  Chem7 was within normal
+limits.  Serum toxicology was negative.  Urine toxicology was
+nasogastric.  Arterial blood gases after intubation 7.13, 71
+and 246.
+
+Chest x-ray - no infiltrates and no effusions.  Endotracheal
+tube five centimeters above the carina.
+
+HOSPITAL COURSE:  The patient is a 32 year old Portuguese
+speaking male with a history of asthma who presents with
+hypercapnic respiratory arrest.
+
+1.  Pulmonary - asthma - Complicated by hypercapnic
+respiratory arrest.  The patient was placed on maximum
+sedation with Propofol which was eventually changed to
+Fentanyl and Ativan.  The patient no longer needed to be
+paralyzed after adequate sedation was given.
+
+The patient was started on Albuterol MDI two to ten puffs
+q15minutes p.r.n. and was started on Solu-Medrol 80 mg
+intravenously q8hours.  The patient was also empirically
+started on Levaquin 500 mg p.o. q.d. with a history of upper
+respiratory infection, bronchitis type symptoms.  A sputum
+sample was sent which was positive for Hemophilus influenzae.
+
+The patient still required intubation several days into
+admission.  Therefore, Aminophylline drip was started.
+Serevent, Combivent and Flovent were added to the patient's
+regimen.  On [**2173-3-15**], the patient's Aminophylline drip was
+discontinued.  Serevent, Flovent and Combivent were
+discontinued and the patient was maintained on Albuterol MDI
+and steroids.  The steroids were tapered.
+
+The patient extubated himself on [**2173-3-17**], and A line was
+discontinued.  The patient required q4hour meter dose
+inhalers on [**2173-3-17**].  The patient was transitioned to
+Albuterol, Flovent and Serevent meter dose inhalers and was
+started on p.o. Prednisone at 40 mg p.o. q.d.  The patient
+was continued on Levaquin for Hemophilus bronchitis.
+
+The patient had a blood culture that was positive for gram
+positive cocci, two out of two blood cultures.  The patient's
+A line was discontinued and surveillance cultures were sent
+which were negative.  Blood cultures from [**2173-3-15**], finally
+grew out coagulase negative Staphylococcus which was thought
+to be a contaminant.  No antibiotics were started for this at
+this time.
+
+2.  Constipation - The patient had constipation secondary to
+Fentanyl drip.  The patient was started on a bowel regimen
+and Lactulose.
+
+3.  Communication -  The patient is Portuguese speaking only
+and the patient's past medical history was unclear.  However,
+after speaking to the patient through a translator, it
+appears that he is allergic to "narcotics" although it was
+unclear what this meant.  The patient denies any other
+allergies.
+
+After extubation, the patient was directly discharged from
+the Fennard Intensive Care Unit after he was monitored for
+one day.  The patient's breathing and asthma symptoms
+improved with treatment.
+
+DISCHARGE DIAGNOSES:
+1.  Status asthmaticus.
+2.  Bronchitis.
+3.  Positive blood cultures most likely secondary to
+contamination.
+
+MEDICATIONS ON DISCHARGE:
+1.  Albuterol MDI.
+2.  Flovent MDI.  The patient was given Flovent inhaler,
+however, was prescribed Azmacort since this is what is
+available at free care pharmacy.
+3.  Serevent inhaler.
+4.  Prednisone taper.
+5.  Levaquin to complete a ten day course.
+
+CONDITION ON DISCHARGE:  Stable to home.
+
+FOLLOW-UP:  The patient will follow-up with Dr. [**First Name (STitle) 40643**] [**Name (STitle) **]
+one week after discharge and then will follow-up with Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] a month after discharge.
+
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 968**]
+
+Dictated By:[**Last Name (NamePattern1) 218**]
+
+MEDQUIST36
+
+D:  [**2173-5-9**]  16:07
+T:  [**2173-5-10**]  20:33
+JOB#:  [**Job Number 40644**]

@@ -1,0 +1,239 @@
+Admission Date:  [**2119-5-26**]              Discharge Date:   [**2119-6-5**]
+
+Date of Birth:  [**2036-7-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4309**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+Intubation
+PICC line placement
+
+
+History of Present Illness:
+82f with HTN, DM2, cva from bleeding aneurysm x 2 s/p clipping,
+COPD on 2L home o2, and a recent admit at [**Hospital1 112**] for what sounds
+like urosepsis presented to the ED with bloating and dyspnea.
+After her admit, she's been at [**Hospital1 599**] NH, where for the past few
+days she's had worsening dyspnea and has felt bloated.  Her
+daughter is concerned they weren't keeping up with her
+medication regimen, and this is why she became overloaded.
+.
+In the ED, she required 4L to keep o2 in mid-90's.  She was felt
+to be significantly overloaded, with plans to admit to the
+medical floor for diuresis, but while in the ED, she became
+increasingly lethargic, demonstrated poor respiratory effort;
+ABG returned 7.13/151, and she was intubated.  There was
+question of post-intubation seizure activity, but her daughter
+(who was with her for the majority of the time and is intimately
+familiar with her health history) does not feel that she had a
+seizure.
+.
+She's had some intermittent fevers since her admit to [**Hospital1 112**].
+Cough and phlegm for about two weeks.  No other major sx,
+without c/s, chest pain, abd pain, n/v/d/c, dysuria, hematuria,
+rash.
+
+
+Past Medical History:
+-HTN
+-DM2
+-CVA: bleeding aneurysm x 2, s/p clipping
+-CHF: diastolic ([**Hospital1 112**]: ef 75%)
+-COPD: FEV1 0.46, 27%; FVC 0.48, 20%
+-seizure d/o (further details unknown)
+-AS
+
+
+Social History:
+Lives with daughter. Smoked 1ppd x 30-40 years, quit [**2105**].
+
+Family History:
+NC
+
+Physical Exam:
+per MICU team
+97.5, 132/93, 80, 22, 98%
+A/C 360/22/8/80%, PIP 30, minute ventl 7.6
+Intubated, sedated
+Regular
+Fair air movement, decreased at bases
+Soft abd
+1+ leg edema
+Responds to nox stimuli; left pupil > right (daughter says has
+been so, doesn't see well out of left eye)
+
+
+Pertinent Results:
+[**2119-5-26**] 04:15PM   BNP-1835*
+.
+Admission [**2119-5-26**] CXR:
+Cardiomegaly, bilateral pleural effusions, and pulmonary
+vascular congestion are consistent with congestive heart
+failure. The bony thorax is unremarkable.
+IMPRESSION: Findings consistent with congestive heart failure
+.
+admission ABG: 7.13/151/99
+Admit labs:
+Glu:114
+Lactate:0.7
+Trop-T: <0.01
+146  100  22
+----------------< 115
+6.2  47  0.7
+K: Hemolysis Falsely Elevates K
+CK: 32  MB: Notdone
+Ca: 8.4 Mg: 2.5 P: 3.9
+Phenytoin: 1.2
+.
+WBC: 6.6
+HCT: 28
+PLT: 317
+.
+PT: 11.7  PTT: 23.8  INR: 1.0
+.
+Trends:
+HCT: 20 on [**5-26**] on [**6-2**] on [**6-5**]
+Dispo Lytes:
+Gluc 167, BUN 15, Cr 0.9
+.
+MICRO:
+Sputum: MRSA
+.
+Urine: ESBL E Coli:
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------       R
+CEFTRIAXONE-----------  =>64 R
+CEFUROXIME------------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN---------- =>128 R
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----   <=1 S
+
+
+Brief Hospital Course:
+82 woman with AS, htn, dm2, diastolic chf, cva x 2, seizure d/o,
+severe copd here with hypercarbic resp failure in setting of
+volume overload.  Hosp course by problem:
+.
+# Hypercarbic respiratory failure: Patient is with known COPD
+and chronically elevated bicarb suggestive of CO2 retention,
+however acute precipitant of decompensation in the ED not
+entirely clear (preintubation gas 7.13/151/53).  CXR revealed
+volume overload. Sounds as if has been progressively overloaded
+and this may have been primary insult, though atypical for
+overload to cause a primary hypercarbia.  Perhaps overload
+caused increased work of breathing and she tired.  She was
+intubated in the ED and treated in the MICU.  Treatment included
+abx for PNA, steroids and nebs for COPD, and lasix gtt for dCHF
+exacerbation.  See below for details.  Respiratory status
+improved with treatment of COPD exacerbation, fluid overload and
+MRSA pneumonia.  She was extubated on [**5-31**] without issue and
+transferred to floor in stable condition on [**6-1**].
+.
+# MRSA pneumonia: Growing MRSA from sputum culture. Treated with
+8 day course  of vancomycin.  This was completed prior to
+discharge.  No infiltrate grew on CXR so not entirely clear that
+this was primary issue.
+.
+# COPD exacerbation. Chronic C02 retention. Baseline CO2 around
+80. Treated with prednisone taper, nebs, home inhalers with
+improvement. On room air at time of discharge.  Please continue
+atrovent, albuterol, and steroid taper as per med list.
+.
+# Congestive heart failure: Diastolic etiology. Treated with
+lasix gtt followed by boluses for preload reduction. Discharged
+on lasix 20mg PO daily. ON ACE-I for afterload reduction and
+betablocker. Euvolemic at time of d/c.  Please recheck lytes in
+[**2-15**] days and adjust ACE-i and lasix as needed.
+.
+# Anemia: Normocytic with normal RDW. Baseline low 30's at [**Hospital1 112**].
+Stable but profoundly below baseline. Brown, guaiac + stools.
+EGD/[**Last Name (un) **] [**2114**] at [**Hospital1 112**] showed non-errosive gastritis with negative
+antral biopsy, colonic polyp: hyperplastic adenoma. Treated with
+IV PPI [**Hospital1 **] initially. HCT nadir at 20 so received 1u in MICU.
+HCT stable therafter.  We gave an additional 2u on day prior to
+discharge and her hct was 31. Switched to PO PPI daily, iron
+supplements and will likely need outpatient colonoscopy.
+Consider repeat HCT in [**2-15**] days to ensure stability.
+.
+# Decreased mental status: In part hypercarbia and in part
+phenoytoin load and lorazepam in ED. Improving with decreased
+sedating meds. Likely component of delirium as well given
+infection and hospital stay.  Delirium improved and patient was
+without sitter for >24h prior to d/c.
+.
+# ? seizure activity: Possible seizure after intubation.
+Unclear if actually was a seizure. She has some seizure history
+per [**Hospital1 112**] records but unclear details, may have been placed on
+phenytoin for prophylaxis given prior intracerebral hemorrhage.
+Level on arrival low but s/p load in ED. No clear seizure
+activity during her stay. Treated with phenytoin per home dose.
+.
+# UTI: ESBL E. coli. Initially treated with bactrim but ESBL.
+Patient's foley removed and repeat UA/urine culture checked.
+Pending upon discharge.  Completed 3 day course of bactrim.  Not
+clear that she had a UTI.  Instead may just be colonized with
+ESBL.
+.
+# Lung nodule: Per [**2119-5-29**] CXR read: "Left mid lung nodule,
+which remains indeterminate, however, may contain calcified
+component. Repeat chest radiograph recommended in three months
+for further evaluation."
+- will need repeat imaging to follow as outpatient.
+.
+# Diabetes melitus, type 2: BG moderately controlled with RISS,
+uses NPH at home: 6u qam, 12u qpm; Started back on home reigmen
+adn couvered with sliding scale.
+.
+# Hypernatremia: Improved with 500cc D5W. Sodium subsequently
+normalized.
+.
+# Access: PICC placed and remained at discharge.  Since abx
+finished, we pulled PICC prior to transport.
+.
+# Full code.
+.
+# Communication: Daughter [**Name (NI) 59413**] [**Name2 (NI) **] [**Telephone/Fax (3) 59414**]
+.
+# OUTPATIENT FOLLOW UP APPT:  [**6-29**] @ 10am, [**Hospital1 112**] Center for
+Chest Diseases, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6754**]
+
+
+Medications on Admission:
+-Metoprolol XL 100mg daily
+-CA/VitD 600/200
+-Omeprazole 20mg daily
+-Phenytoin 100mg tid
+-Pravastatin 40mg daily
+-Salmeterol 50mcg daily
+-Tiotropium 18mcg daily
+-Trazadone 25mg daily
+-Fe 325mg daily
+-Ipratropium 4x/day
+-Lisinopril 10mg daily
+-Metformin 500mg [**Hospital1 **]
+-NPH 6 units AM, 12 units PM
+-RISS
+-lidoderm patch R knee
+
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+3. Meto

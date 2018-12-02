@@ -1,0 +1,203 @@
+Admission Date:  [**2147-6-28**]              Discharge Date:   [**2147-7-14**]
+
+Date of Birth:  [**2068-2-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ambien
+
+Attending:[**First Name3 (LF) 2698**]
+Chief Complaint:
+Acute renal failure
+
+Major Surgical or Invasive Procedure:
+Angiography of lower limbs
+
+
+History of Present Illness:
+Mr. [**Known lastname 28624**] is a 79 year old male with past medical history of
+congestive heart failure, coronary artery disease, COPD, and
+diabetes mellitus who was transferred to [**Hospital1 18**] for further
+management after being found to have hyperkalemia, worsening
+renal function, and hypotension.
+.
+He presented to [**Hospital6 17032**] today after being
+referred there when routine laboratory draw revealed
+abnormalities. His potassium was found to be 6.1, and creatinine
+4.7. Blood pressure there was noted to be 83/42. He was given an
+albuterol nebulizer, 1 amp of calcium gluconate, 10 units of
+regular insulin, 1 amp of D50, and 30 mg of kayexalate, as well
+as 500 cc of normal saline.
+.
+In the ED here at [**Hospital1 18**], initial vital signs were: blood
+pressure of 91/54, heart rate of 76, respiratory rate of 22, and
+oxygen saturation of 90%. A right femoral central line was
+placed for initiation of pressors, and he was started on neo. He
+was given 1 gram of vancomycin and 4.5 grams of zosyn for
+possible urinary tract infection. He received 1 gram of calcium
+gluconate, 1 amp of D5, and 10 units of regular insulin as well
+for hyperkalemia. Renal and cardiology were consulted.
+.
+On the floor, he reports he has to move his bowels, but
+otherwise denies any shortness of breath or other complaints. Of
+note, has highly variable BP readings depending on position,
+alternating in rapid sequence from 70-110's systolic.
+.
+Of note, he was recently admitted to [**Hospital1 18**] cardiology service
+from [**2147-6-10**] until [**2147-6-16**] after being transferred from
+[**Hospital6 27369**]. At that time, he had acute on chronic
+renal insufficiency, as well as hypotension. He was diuresed
+with a lasix drip, which was switched to torsemide. EP also
+followed the patient, and his ICD was re-programmed to allow for
+native conduction, with consideration of up-grade to
+[**Hospital1 **]-ventricular pacer in future, as this was deferred given
+improvement in his symptoms with diuresis. His blood pressure
+was noted to be 70-100 systolic during that admission with
+normal mentation. Elevated creatinine was felt to be secondary
+to poor forward flow, and LFT elevations secondary to
+congestion.
+.
+He states that since his admission, he has been at
+rehabilitation. He reports he gained about 10 pounds since
+discharge, though he's not sure how. On [**2147-6-28**] he presented
+to [**Hospital6 17032**] for hyperkalemia, worsening
+renal function, and hypotension.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS:
+ -Coronary Artery Disease (s/p MI x2)
+ -Diabetes (Type 2 insulin-dependant)
+ -Dyslipidemia
+ -Hypertension
+2. CARDIAC HISTORY:
+-CABG:
+  -s/p CABG in [**2139**] (LIMA->diag, SVG->OM1, SVG->LAD)
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+  -s/p prior LAD stent and PTCA of diag
+  -s/p  [**Year (4 digits) **] to RCA in [**2146**]
+-PPM/ICD:
+  - Ischemic cardiomyopathy, s/p ICD implantation [**2141-7-14**]
+  - PPM (unclear when placed)
+-OTHER CARDIAC HISTORY:
+  - Paroxysmal atrial fibrillation
+  - Nonsustained ventricular tachycardia
+  - Chronic systolic CHF [**2-14**] ischemic cardiomyopathy(last EF
+20%)
+  - Mitral regurgitation
+  - Pulmonary Hypertension
+3. OTHER PAST MEDICAL HISTORY:
+-Chronic Obstructive Pulmonary Disease on 3L home O2 since [**2146**]
+-Chronic Renal Insufficiency (baseline creatinine 1.5-1.8)
+-s/p right renal artery stent
+-Severe Peripheral Vascular Disease, s/p left fem-[**Doctor Last Name **] bypass
+[**2137**]
+-Obstructive sleep apnea intolerant to CPAP
+-GERD
+-Anxiety
+-Depression
+-Post Traumatic Stress Disorder
+
+Social History:
+Married and lives with his wife.  Retired from
+Army.  Most recently worked as a cook at the [**Hospital **] [**Hospital6 28623**].  He used to drink alcohol heavily, but has had none in
+40
+years.  40+ pack year h/o smoking, quit 40 years ago.
+
+
+Family History:
+Father died of an MI at age 48.  Brother died of
+an MI at age 64.
+
+
+Physical Exam:
+Afebrile, BP 116/53, HR 91, RR 28, Oxygen saturation 98% on 3L
+General: Male resting in bed, intermittently trying to sit up,
+then asleep, appearing mildly distressed
+HEENT: NC/AT, PERRL, EOMI, slightly dry MM
+Neck: Supple, JVP elevated to ear
+Lungs: Decreased BS over bases, right > left, no wheezes or
+rales
+Cardiac: Irregularly irregular, though regular at times
+Abd: Soft, NT, ND, +BS
+Extr: Pitting edema bilaterally, improved from prior, eschar
+over right heel and right lateral foot below metatarsal.
+Skin: Fragile skin tears
+Neuro: Awake, though unable to assess if oriented to
+place--oriented to self, speech slightly dysarthritic at times,
+poor attention
+Able to follow some commands. Occasional myoclonic shaking when
+awakening.
+Psych: Agitated.
+
+Pertinent Results:
+Admission Labs:
+[**2147-6-28**] 03:30PM BLOOD WBC-10.4 RBC-4.28* Hgb-13.0* Hct-40.8
+MCV-95 MCH-30.3 MCHC-31.7 RDW-17.2* Plt Ct-244
+[**2147-6-28**] 03:30PM BLOOD Neuts-79.3* Lymphs-9.6* Monos-9.4 Eos-1.2
+Baso-0.5
+[**2147-6-28**] 05:18PM BLOOD PT-25.7* PTT-33.0 INR(PT)-2.5*
+[**2147-6-28**] 03:30PM BLOOD Glucose-204* UreaN-77* Creat-4.4*#
+Na-130* K-5.9* Cl-92* HCO3-21* AnGap-23*
+[**2147-6-28**] 09:00PM BLOOD ALT-120* AST-250* LD(LDH)-353*
+CK(CPK)-127 AlkPhos-58 TotBili-1.1
+[**2147-6-28**] 09:00PM BLOOD Albumin-3.6 Calcium-8.6 Phos-7.0*#
+Mg-2.8*
+
+Cardiac Biomarkers:
+[**2147-6-28**] 03:30PM BLOOD cTropnT-0.07*
+[**2147-6-28**] 09:00PM BLOOD CK-MB-9 cTropnT-0.08*
+[**2147-6-29**] 04:12AM BLOOD CK-MB-8 cTropnT-0.09*
+[**2147-7-5**] 03:14AM BLOOD CK-MB-4 cTropnT-0.05*
+[**2147-6-28**] 03:30PM BLOOD proBNP-7763*
+
+U/A
+[**2147-6-28**] 03:48PM URINE Color-Amber Appear-Hazy Sp [**Last Name (un) **]-1.016
+[**2147-6-28**] 03:48PM URINE Blood-LG Nitrite-NEG Protein-75
+Glucose-NEG Ketone-TR Bilirub-SM Urobiln-4* pH-6.5 Leuks-SM
+[**2147-6-28**] 03:48PM URINE RBC-[**12-2**]* WBC-21-50* Bacteri-MOD
+Yeast-NONE Epi-0
+[**2147-6-28**] 03:48PM URINE CastGr-0-2 CastHy-[**6-22**]*
+
+BCx negati x 2
+
+Recent Labs prior to discharge:
+[**2147-7-10**] 02:16PM BLOOD WBC-8.9 RBC-4.37* Hgb-12.9* Hct-39.1*
+MCV-90 MCH-29.5 MCHC-32.9 RDW-16.1* Plt Ct-263
+[**2147-7-11**] 06:14AM BLOOD WBC-9.6 RBC-4.37* Hgb-12.4* Hct-38.4*
+MCV-88 MCH-28.5 MCHC-32.4 RDW-16.3* Plt Ct-264
+[**2147-7-12**] 05:48AM BLOOD WBC-10.1 RBC-4.30* Hgb-12.5* Hct-37.8*
+MCV-88 MCH-29.0 MCHC-33.0 RDW-16.1* Plt Ct-246
+[**2147-7-13**] 09:21AM BLOOD WBC-9.5 RBC-4.53* Hgb-12.8* Hct-39.5*
+MCV-87 MCH-28.3 MCHC-32.4 RDW-16.3* Plt Ct-263
+[**2147-7-13**] 02:43PM BLOOD WBC-9.5 RBC-4.56* Hgb-13.3* Hct-40.0
+MCV-88 MCH-29.1 MCHC-33.2 RDW-16.0* Plt Ct-231
+[**2147-7-14**] 05:43AM BLOOD WBC-10.2 RBC-4.48* Hgb-13.2* Hct-39.5*
+MCV-88 MCH-29.3 MCHC-33.3 RDW-16.2* Plt Ct-242
+
+[**2147-7-5**] 03:14AM BLOOD Neuts-74.0* Lymphs-13.7* Monos-10.1
+Eos-1.9 Baso-0.3
+[**2147-7-12**] 05:48AM BLOOD Neuts-77.3* Lymphs-11.0* Monos-9.4
+Eos-1.7 Baso-0.7
+[**2147-7-13**] 09:21AM BLOOD PT-26.5* PTT-33.6 INR(PT)-2.6*
+[**2147-7-13**] 09:21AM BLOOD Plt Ct-263
+[**2147-7-13**] 02:43PM BLOOD PT-25.3* PTT-31.0 INR(PT)-2.4*
+[**2147-7-13**] 02:43PM BLOOD Plt Ct-231
+[**2147-7-14**] 05:43AM BLOOD PT-27.3* PTT-31.4 INR(PT)-2.7*
+[**2147-7-14**] 05:43AM BLOOD Plt Ct-242
+
+[**2147-7-8**] 02:34PM BLOOD Glucose-196* UreaN-36* Creat-1.7* Na-136
+K-4.3 Cl-97 HCO3-29 AnGap-14
+[**2147-7-9**] 05:52AM BLOOD Glucose-101* UreaN-35* Creat-1.7* Na-137
+K-3.9 Cl-98 HCO3-31 AnGap-12
+[**2147-7-9**] 02:58PM BLOOD Glucose-246* UreaN-35* Creat-1.7* Na-137
+K-4.0 Cl-97 HCO3-29 AnGap-15
+[**2147-7-10**] 02:45AM BLOOD Glucose-142* UreaN-34* Creat-1.8* Na-138
+K-3.7 Cl-98 HCO3-32 AnGap-12
+[**2147-7-10**] 02:16PM BLOOD Glucose-171* UreaN-32* Creat-1.6* Na-135
+K-4.7 Cl-96 HCO3-33* AnGap-11
+[**2147-7-11**] 06:14AM BLOOD Glucose-150* UreaN-31* Creat-1.8* Na-136
+K-3.8 Cl-94* HCO3-34* AnGap-12
+[**2147-7-12**] 05:48AM BLOOD Glucose-103* UreaN-29* Creat-1.9* Na-137
+K-4.0 Cl-93* HCO3-33* AnGap-15
+[**2147-7-12**] 02:44PM BLOOD Glucose-250* UreaN-33* Creat-

@@ -1,0 +1,198 @@
+Admission Date:  [**2197-12-11**]              Discharge Date:   [**2197-12-15**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1711**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+s/p cardiac cath with PCI stenting to LAD
+
+History of Present Illness:
+87 yo female with PMH of HTN, breast ca presented to OSH with 2
+day history of SOB. Pt states that 2 days prior to admission,
+she experienced SOB while watching TV lasting for ~30 minutes
+associated with chest tightness which resolved spontaneously.
+She denies any N/V/palpitations/diaphoresis. On day of
+presentation to OSH woke up feeling bad and had another episode
+of SOB which increased on walking. At OSH, ECG showed anterior Q
+waves (new from [**2195**]), RBBB. CK peak of 150, CKMB 5.3, index
+3.5, Tn 0.04. BNP 1420. BUN/Cr 35/1.5. Hct 34.
+.
+At the OSH, pt was sent to the CCU where she was ruled out for
+MI, treated for CHF with diuresis. Given the new Q waves on ECG
+and negative cardiac enzymes, pt likely had an MI sometime in
+the weeks preceding admission. Pt was found to have intermittent
+episodes of bradycardia secondary to Mobitz type 2. She had one
+episode of diaphoresis, hypotension, bradycardia, likely
+secondary to heart block and was transiently on dopamine. An
+echo was performed which showed EF 25-30%; anterior, septal,
+apical akinesis; mild-mod MR. [**First Name (Titles) **] [**Last Name (Titles) 29817**] was
+performed which found LAD stenosis of 90-95%, RCA lesion 80-85%,
+LVEDF 20-28mmHg. Temporary pacing wire placed. Pt transfered to
+[**Hospital1 18**] for interventional cath.
+.
+
+Past Medical History:
+HTN
+breast cancer (s/p lumpectomy and XRT 6 years ago)
+back pain
+no DM, hyperlipidemia, previously diagnosed CAD
+
+Social History:
+lives at home by herself, elderly living
+quit tobacco 20 years ago; smoked 1 ppd x 15 years
+Drinks 3 drinks/week
+Denies drugs
+
+Family History:
+no CAD
+
+Physical Exam:
+VS: p76, 121/43, rr31, 97%
+Gen: lying in bed, NAD
+HEENT: PERRL, EOMI, dry MM, clear OP, 2+ carotids, L bruit
+CVS: RRR, nl s1 s2, no m/g/r
+Pulm: scattered anterolateral crackles
+Abdomen: soft, NT, ND, +BS
+Extremity: no edema bilaterally, 2+ DP, right femoral groin line
+in place with temporary pacing wire
+
+Pertinent Results:
+[**2197-12-11**] 10:39PM   WBC-5.3 RBC-2.86* HGB-9.4* HCT-27.9* MCV-98
+MCH-32.8* MCHC-33.7 RDW-13.6
+[**2197-12-11**] 10:39PM   PLT COUNT-237
+[**2197-12-11**] 10:39PM   PT-14.1* PTT-36.8* INR(PT)-1.3
+.
+[**2197-12-11**] 10:39PM   GLUCOSE-100 UREA N-30* CREAT-1.4* SODIUM-140
+POTASSIUM-3.6 CHLORIDE-106 TOTAL CO2-25 ANION GAP-13
+[**2197-12-11**] 10:39PM   CALCIUM-8.2* PHOSPHATE-4.1 MAGNESIUM-2.3
+.
+[**2197-12-11**] 10:39PM   CK(CPK)-103
+[**2197-12-11**] 10:39PM   CK-MB-6 cTropnT-0.10*
+.
+[**2197-12-11**] EKG
+Sinus rhythm @56 with intermittent AV block and demand
+ventricular pacing
+Conduction defect of RBBB type
+Probable septal infarct
+.
+[**2197-12-12**] CXR portable:
+AP PORTABLE CHEST RADIOGRAPH: There is a temporay pacer wire,
+whose distal marker is in the right ventricle. There is a
+proximal radiopaque marker in the region of the tricuspid valve.
+
+The heart size is within normal limits. The mediastinal and
+hilar contours are unremarkable. There are calcifications seen
+at the aortic arch. There is a small right-sided pleural
+effusion, and redistribution of the pulmonary vasculature
+consistent with mild CHF. In the left upper lung zone, there is
+an ill-defined opacity, for which a follow up PA and lateral
+chest radiograph is recommended when the patient is stable for
+further evaluation of this finding.
+.
+IMPRESSION: 1) Temporary pacer wire tip in the right ventricle,
+although there is a more proximal marker in the region of the
+tricuspid valve.
+2) Mild CHF.
+3) Ill-defined opacity in the left upper lobe for which a PA and
+lateral chest radiograph study is recommended prior to patient
+discharge.
+.
+[**2197-12-12**] CXR PA/Lat:
+FINDINGS: The patient is status post DDD pacemaker placement,
+with two leads, one terminating in the right atrium, and the
+other terminating in the right ventricle. No evidence of
+pneumothorax is noted. The heart is normal in size. The
+medistinal and hilar contours are unchanged compared to the
+previous study. Again, note is made of slightly increased
+pulmonary vasculature, with pleural effusion, representing CHF.
+The effusion is slightly increased compared to the previous
+study. Again, note is made of left upper lobe nodular opacity,
+as mentioned on the previous study, as well as possible small
+nodular opacities in the right lower lobe. This may represent
+calcified granulomas in this patient with calcified right
+paratracheal nodes. However, comparison with more distant prior
+studies, as well as clinical correlation is recommended to
+exclude other etiology.
+.
+IMPRESSION: Satisfactory positioning of the DDD pacemaker leads;
+no evidence of pneumothorax. Mild CHF with increased effusion.
+Continued bilateral nodular opacities, most prominent in the
+left upper lobe, with calcified lymph nodes, which may represent
+calcified granulomas. However, comparison with more distant
+prior studies, as well as clinical correlation and follow up are
+recommended to exclude other etiology.
+.
+
+Brief Hospital Course:
+1. CAD: Pt was admitted from outside hospital s/p recent
+completed anterior MI. Taken to cath on HD1. Selective left
+circulation angiography with limited views demonstrated a 99%
+proximal LAD lesion which was successfully stented with a cypher
+stent. Pt was started on Plavix and continued on ASA and ACE.
+Beta blocker was held in setting of conduction abnormality.
+After pacer placement, beta blocker was restarted. Pt was
+medically managed with titration of BB and ACE. Pt remained
+chest pain free and hemodynamically stable throughout
+hospitalization.
+.
+2. Rhythm: Pt was admitted with a temporary pacing wire in
+place. On evening of HD1, pt had several episodes of 2:1 AV node
+block secondary to Mobitz type 2 second degree block with stable
+vital and no symptoms. Pt became confused overnight and pulled
+out her temporary pacing wire. External pacing pad was placed
+and pacing machine was kept at bedside, but did not have to be
+utilized. On HD2, dual chamber pacemaker was placed by EP.
+Implantation of AICD in this pt with CAD and EF<30% was
+considered. However, since VT was not induced with EP study, it
+was decided not to place and AICD. Pt was given vancomycin x
+48hours. She was kept on bedrest with an arm sling. CXR was
+performed after the procedure, which showed the pacer leads in
+place.
+.
+3. Pump: Pt has EF of 25-30%. On admission, pt appeared to be
+breathing comfortably. CXR post-pacer placement showed mild CHF
+with increased effusion. On HD2, gentle diuresis with IV lasix
+was given. On HD3, IV lasix dosing was increased to [**Hospital1 **] dosing
+and further diuresis was obtained. Pt did not have any
+respiratory symptoms and maintained good O2 saturation
+throughout hospitalization.
+.
+4. HTN: During hospitalization, BP was well-controlled on ACE
+and BB with BP range of 104-150 systolic.
+.
+5. Anemia: Hct on admission was 27.9 decreased from 34 at
+outside hospital. There was no obvious source of bleed. Pt's hct
+remained stable around 28-29. She did not receive any blood
+transfusions.
+.
+6.Prophylaxis: PPI, heparin sc
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily) for 300 days.
+Disp:*30 Tablet(s)* Refills:*8*
+3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+4. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig:
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+7. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*30 Tablet(s)* Refills:*2*
+8. Femara  Oral
+9. Outpatient Lab Work
+Ch

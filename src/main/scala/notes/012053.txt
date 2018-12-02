@@ -1,0 +1,212 @@
+Admission Date:  [**2148-1-25**]              Discharge Date:   [**2148-2-6**]
+
+Date of Birth:  [**2068-6-17**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+increasing shortness of breath
+
+Major Surgical or Invasive Procedure:
+Mitral valve replacement with a 25-mm St. [**Hospital 923**] Medical Epic
+tissue valve through a right thoracotomy (3rd time cardiac
+surgery) [**2148-1-31**]
+
+
+History of Present Illness:
+79 year old male s/p coronary artery bypass graft x4 [**2126**], s/p
+redo coroanry artery bypass graft x1 (SVG to LAD)/ Aortic valve
+replacement(pericardial) [**2142**].  He presented to PCP 1 week ago
+with complaint of shortness of breath x
+3 weeks. He had an upper respiratory tract infection which was
+treated and symptoms improved somewhat. He became acutely short
+of breath and went to MWMC ER on [**2148-1-23**]. An ECHO was done that
+showed progression from mild Mitral regurgitation to wide open
+severe Mitral regurgitation this week with possible torn chords.
+
+
+Past Medical History:
+Coronary artery disease - s/p CABG x 4 [**2126**]
+s/p AVR and CABG [**2142**]
+Right cataract surgery
+Hypertension
+elevated cholesterol
+Insulin dependent diabetes mellitus
+neuropathy
+TIA with moderate bilateral internal carotid artery stenoses
+Ventricular tactycardia
+colon polyps
+GERD
+
+Social History:
+Retired engineer
+lives with wife
+100 pack-year history to smoking, quit 40 years ago
+ETOH denies
+
+
+Family History:
+Father died of MI
+
+Physical Exam:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x] Full upper and lower dentures. Right
+hearing aid in place.
+Neck:  Supple [x] Full ROM x[]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR S3   Murmur III/VI
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema
+ Varicosities: None [x]  **********left leg SVG incision scar
+from groin to ankle
+Right groin w/ mynx cloasure device- no hematoma
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: minyx closure  Left:+2
+DP           Right: +2  Left:+2
+PT           [**Name (NI) 167**]: +2  Left:+2
+Radial       Right: +2  Left:+2
+
+Carotid Bruit - bruit bilat - vs radiating murmur
+   Right: +2   Left:+2
+
+
+Pertinent Results:
+[**2148-2-6**] 05:45AM BLOOD WBC-10.2 RBC-3.52* Hgb-9.5* Hct-29.6*
+MCV-84 MCH-27.1 MCHC-32.2 RDW-14.4 Plt Ct-160
+[**2148-1-25**] 06:58PM BLOOD WBC-8.5 RBC-4.49*# Hgb-12.2* Hct-37.4*
+MCV-83 MCH-27.1 MCHC-32.5 RDW-14.1 Plt Ct-151
+[**2148-2-6**] 05:45AM BLOOD Plt Ct-160
+[**2148-1-25**] 06:58PM BLOOD Plt Ct-151
+[**2148-1-25**] 06:58PM BLOOD PT-14.3* PTT-28.4 INR(PT)-1.2*
+[**2148-1-31**] 05:20PM BLOOD Fibrino-208
+[**2148-2-6**] 05:45AM BLOOD Glucose-81 UreaN-31* Creat-1.2 Na-137
+K-4.8 Cl-101 HCO3-29 AnGap-12
+[**2148-1-25**] 06:58PM BLOOD Glucose-129* UreaN-26* Creat-1.1 Na-138
+K-4.8 Cl-101 HCO3-31 AnGap-11
+[**2148-2-6**] 05:45AM BLOOD Mg-2.1
+[**2148-1-27**] 07:50AM BLOOD Calcium-9.0 Phos-3.7 Mg-1.8
+[**2148-1-25**] 06:58PM BLOOD Albumin-3.6 Mg-2.0
+[**2148-1-25**] 06:58PM BLOOD %HbA1c-6.7*
+[**2148-2-2**] 01:39PM BLOOD HEPARIN DEPENDENT ANTIBODIES- negative
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 64204**] (Complete)
+Done [**2148-1-31**] at 2:10:48 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2068-6-17**]
+Age (years): 79 M  Hgt (in): 58
+BP (mm Hg): /  Wgt (lb): 196
+HR (bpm):  BSA (m2): 1.81 m2
+Indication: Intraop MVR evaluate valves, aorta, ventricular
+function. Right Thoracotomy approach (h/o 2 previous
+sternotomies)
+ICD-9 Codes: 424.0
+Test Information
+Date/Time: [**2148-1-31**] at 14:10    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6507**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW1-: Machine: aw 5
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.0 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.0 m/s
+Left Atrium - Peak Pulm Vein D:  1.0 m/s
+Left Atrium - Peak Pulm Vein A:  *0.4 m/s  < 0.4 m/s
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Left Ventricle - Stroke Volume:  156 ml/beat
+Left Ventricle - Peak Resting LVOT gradient:  0 mm Hg  <= 10 mm
+Hg
+Aorta - Arch:  2.5 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *2.8 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.5 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  9 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  4 mm Hg
+Aortic Valve - LVOT VTI:  45
+Aortic Valve - LVOT diam:  2.1 cm
+Mitral Valve - Peak Velocity:  1.2 m/sec
+Mitral Valve - Mean Gradient:  2 mm Hg
+Mitral Valve - E Wave:  0.8 m/sec
+Mitral Valve - A Wave:  0.7 m/sec
+Mitral Valve - E/A ratio:  1.14
+Mitral Valve - E Wave deceleration time:  141 ms  140-250 ms
+
+Findings
+LEFT ATRIUM: Marked LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. PFO is
+present.
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Normal RV systolic
+function.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Focal calcifications in ascending
+aorta. Normal aortic arch diameter. Complex (>4mm) atheroma in
+the aortic arch. Mildly dilated descending aorta. Complex (>4mm)
+atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: AVR well seated, normal leaflet/disc motion and
+transvalvular gradients. No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. No MS. Eccentric MR jet. Effective
+regurgitant orifice is >=0.40cm2. Severe (4+) MR.
+Uninterpretable LV inflow pattern due to MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Normal
+tricuspid valve supporting structures. No TS. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+No PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications.
+Conclusions
+Pre Bypass: The left atrium is markedly dilated. A patent
+foramen ovale is present. Left ventricular wall thicknesses are
+normal. The left ventricular cavity size is normal. The right
+ventricular cavity is mildly dilated with normal free wall
+contractility. There are complex (>4mm) atheroma in the aortic
+arch. The descending thoracic aorta is mildly dilated. There are
+complex (>4mm) atheroma in the descending thoracic aorta. The
+aortic valve prosthesis appears well seated, with normal
+leaflet/disc motion and transvalvular gradients. There is no
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. An eccentric,
+anteriorly directed jet of The effective regurgitant orifice is
+>=0.40cm2 Severe (4+) mitral regurgitation is seen. There
+appears to be p2 flail with a torn chordae.
+
+Post Bypass: Patient is on Phenylepherine and Epinepherine
+infusions, intermittently V paced. A bioprosthetic valve ([**First Name8 (NamePattern2) **]
+[**Male First Name (un) 1525**] #25 tissue valve per surgeons) is insitu and appears well
+seated. Peak gradient 8, mean 4 mm Hg, no perivalvular leaks.
+Aortic bioprosthesis appears unchanged with no perivavluar
+leaks, AI or change in gradients. TR remains mild. Aortic
+contours intact. Remaining exam is unchanged. All findings
+discussed with srugeons at the time of the exam.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**21

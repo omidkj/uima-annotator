@@ -1,0 +1,219 @@
+Admission Date:  [**2141-7-6**]              Discharge Date:   [**2141-7-12**]
+
+Date of Birth:  [**2087-11-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Unresponsiveness
+
+Major Surgical or Invasive Procedure:
+Femoral CVL.
+PICC line.
+
+
+History of Present Illness:
+Mr. [**Known lastname 40503**] is a 53 year old M with PMH of chronic vent/trach
+recent admission for VAP, severe COPD, prior L CVA with residual
+R-sided weakness, seizure disorder, depression and schizophrenia
+who presents from rehab after being found unresponsive
+overnight.  According to notes the patient was checked on at 430
+and found unresponsive in his bed.  He did not respond to
+sternal rub.  He was taken off of the ventilator and bagged with
+improvement in mental status.  He was then found unresponsive
+again at 7am and brought to [**Hospital1 18**] for further evaluation.
+
+Mr. [**Known lastname 40503**] was discharged from MICU [**Location (un) **] on [**7-3**].  He was
+admitted hypotensive and hypoxic and found to have ventilator
+associated PNA.  Sputum and BAL cultures grew Pseudomonas and
+Stenotrophomonas.  He was treated with cefepime, tobramycin, and
+high dose Bactrim all of which he was still taking at time of
+presentation.  He was also noted to have frequent mucus plugging
+requiring suctioning.  He was also hypotensive with SBPs in the
+70s related to sepsis vs. adrenal insufficiency.  Of note he was
+also followed by psychiatry during his hospitalization for
+concern of suicidal ideation.  He was noted to have right sided
+pleural effusion with collapse improved after IR guided
+thoracentesis.
+
+In the ED the patient's vital signs were T 98.8, BP 86/53 , HR
+98, RR 16 , O2 sat 97-100% on AC 500/12/.[**5-15**].  On arrival he was
+alert and oriented x 2, interactive.  Respiratory was called and
+he was placed on the ventilator.  He was noted to be hypotensive
+to the systolic 70s-80s.  He initially refused a line and IVF
+was given through PICC.  Labs notable for elevated WBC count to
+19.5 with 91% neutrophils.  Lactate 1.9, first set of cardiac
+enzymes negative.  UA negative.  CXR showed alight proximal
+migration of right-sided PICC line with tip now terminating
+within the mid subclavian vein, persistent right middle and
+lower lobe collapse, increased patchy airspace opacities at the
+left lung base which could represent pneumonia or aspiration.
+Given persistent hypotension, patient acquiesced to central
+access and a femoral line was placed.  He received 2L IVF with
+improvement in systolic BPs to 100s.  He was also given a dose
+of Vancomycin and Dexamethasone 10mg IV x1 in the ED.  He then
+became diaphopretic with a fixed gaze, minimally responsive BP
+188/84 R18, 99 % per report he desatted to the 80s but this was
+not reported.  He was 2 mg ativan IV x1 given history of
+seizures.  he then became AAOx3 and did not recall the event. No
+urinary or fecal incontinence or tonic clonic activity noted.
+He is being admitted to ICU for mechanical ventilation and
+hypotension.
+
+Of note, patient has been on a ventilator since [**Month (only) 359**] for
+respiratory failure secondary to severe COPD. He was found to
+have a RML and RLL collapse and paratracaheal LAD as well as
+chronic right pleural effusions at that time.
+
+Past Medical History:
+Past Medical History:
+- Chronic vent/trach/PEG for hypercarbic respiratory failure at
+the beginning of [**2140-10-10**], ?reportedly due to COPD
+exacerbation
+- Severe COPD, home O2 dependent in the past
+- Per rehab admission note, questionable old granulomatous lung
+disease with calcified hilar LAD
+- Remote L CVA with residual right sided weakness
+- New onset generalized TC seizures on [**2140-11-5**] per rehab neuro
+note, thought to be [**2-11**] post-CVA and metabolic abnormalities (on
+transfer from rehab on Keppra, Depakote)
+- Diabetes mellitus, on 16U Lantus at rehab and RISS
+- Depression
+- Schizophrenia, on effexor and risperdal
+- Past h/o EtOH abuse
+- GERD
+- Afib/sinus tach
+- Pseudomonas PNA resistant to cephalosporins and quinolones
+[**1-17**]
+- [**2140-12-19**] TTE: LVEF 50-60% w/dilated right ventricular cavity
+and depressed right ventricular systolic function
+- h/o diverticulitis
+- h/o questionable old granulomatous lung disease with calcified
+hilar LAD.
+
+
+Social History:
+Divorced. Former smoking. h/o etoh abuse. Was living at a rehab
+facility prior to admission.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+General Appearance: No acute distress, Overweight / Obese, trach
+in place
+Eyes / Conjunctiva: PERRL
+Head, Ears, Nose, Throat: Normocephalic, Poor dentition, trach
+in place
+Cardiovascular: Distant heart sounds
+Peripheral Vascular: (Right radial pulse: Not assessed), (Left
+radial pulse: Not assessed), (Right DP pulse: Present), (Left DP
+pulse: Present)
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Rhonchorous: )
+Abdominal: Soft, Non-tender, Bowel sounds present, Obese, G tube
+c/d/i
+Extremities: Right: Absent, Left: Absent
+Musculoskeletal: Muscle wasting
+Skin:  Not assessed, No(t) Rash:
+Neurologic: Attentive, Follows simple commands, Responds to: Not
+assessed, Oriented (to): person, place, month, Movement:
+Purposeful, Tone: Not assessed
+
+Pertinent Results:
+Trop-T: 0.03  -> <0.01
+143  105  11
+-------------< 180
+4.6  33  0.5
+CK: 12  -> flat
+Ca: 8.9 Mg: 1.8 P: 3.6
+.
+WBC: 19.5
+HCT: 32
+PLT: 433
+N:91.3 L:4.1 M:3.9 E:0.5 Bas:0.3
+.
+PT: 13.5  PTT: 23.3  INR: 1.2
+.
+Trends:
+WBC down to 4.7
+HCT stable
+Creatinine stable
+.
+Lactate 1.9
+.
+[**7-6**] Sputum:
+   GRAM STAIN (Final [**2141-7-7**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      3+  (5-10 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      2+   (1-5 per 1000X FIELD):   BUDDING YEAST.
+
+   RESPIRATORY CULTURE (Preliminary):
+      MODERATE GROWTH OROPHARYNGEAL FLORA.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.  2ND
+MORPHOLOGY.
+      GRAM NEGATIVE ROD #3.    MODERATE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+AMIKACIN--------------    16 S
+CEFEPIME--------------     8 S        4 S
+CEFTAZIDIME-----------     4 S        8 S
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------  =>16 R      <=1 S
+MEROPENEM-------------     8 I        2 S
+PIPERACILLIN----------     8 S       32 S
+PIPERACILLIN/TAZO-----     8 S       16 S
+TOBRAMYCIN------------  =>16 R      <=1 S
+.
+[**2141-7-6**] 9:18 pm CATHETER TIP-IV      Source: PICC.
+                            **FINAL REPORT [**2141-7-9**]**
+   WOUND CULTURE (Final [**2141-7-9**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    >15 colonies.
+         COAG NEG STAPH does NOT require contact precautions,
+regardless of
+         resistance.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------  =>16 R
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN G---------- =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------     2 S
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 40503**] is a 53 year old male with PMH of chronic vent/trach,
+severe COPD, prior L CVA with residual R-sided weakness, and
+recent admission for VAP who presents from rehab after being
+found unresponsive.
+
+1)Unresponsiveness - Unclear etiology, initially suspicous for
+infection and he was treated with vancomycin aft

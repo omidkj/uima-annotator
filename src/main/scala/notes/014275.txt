@@ -1,0 +1,237 @@
+Admission Date:  [**2150-8-25**]              Discharge Date:   [**2150-9-9**]
+
+Date of Birth:  [**2075-6-14**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+coronary artery bypass grafts x2 (LIMA-LAD,SVG-OM), Mitral
+annulplasty
+(25mm CE ring) [**2150-8-27**]
+
+
+History of Present Illness:
+75 year old female complaints of recent exertional shortness of
+breath, increased over past month. Noted to have new murmur by
+Dr [**Last Name (STitle) **]. Sent to Dr [**First Name (STitle) 7756**] for echo which revealed wall motion
+abnomality and mild LV dysfunction  related to an infarct. Echo
+LFEF is 45%. ETT Nuclear showed reduced LVEF 22% with lateral
+ischemia and inferoposterior hypokinesis. She was referred for a
+cardiac catheterization and was found to have mitral valve
+regurgitation and coronary artery disease. She is now referred
+to cardiac surgery for mitral valve
+replacement and revascularization.
+
+
+Past Medical History:
+Hypertension
+Dyslipidemia
+silent MI
+Anxiety
+Diverticulosis-pt denies
+squamous Lesion removed from back of head
+Gout
+Depression
+s/p Cataract surgery bilateral
+
+
+Social History:
+Lives with:Husband
+Occupation:retired
+Cigarettes: Smoked no [] yes [x] last cigarette 35yo_ Hx:
+Other Tobacco use:
+ETOH: < 1 drink/week [x]  [**3-16**] drinks/week [] >8 drinks/week
+
+Family History:
+CAD
+
+Physical Exam:
+Pulse: Resp:  O2 sat:
+B/P  Right:    Left:
+Height:   5'1"  Weight:154Lbs
+General:A&Ox3, pleasant
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema [] _____
+Varicosities:(B)superficial varicosities
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:   Left:
+DP           Right:1+   Left:1+
+PT           [**Name (NI) 167**]:   Left:
+Radial       Right:   Left:
+
+Carotid Bruit none, pulses  Right:2+    Left:2+
+
+
+Pertinent Results:
+[**2150-9-8**] 06:32AM BLOOD WBC-9.8 RBC-3.62* Hgb-11.2* Hct-33.6*
+MCV-93 MCH-30.8 MCHC-33.2 RDW-16.0* Plt Ct-285
+[**2150-9-7**] 04:22AM BLOOD PT-11.7 PTT-35.4* INR(PT)-1.0
+[**2150-9-8**] 06:32AM BLOOD Glucose-85 UreaN-31* Creat-1.2* Na-137
+K-3.9 Cl-105 HCO3-22 AnGap-14
+[**2150-9-8**] 06:32AM BLOOD Phenyto-6.2*
+[**Known lastname **],[**Known firstname **] M [**Medical Record Number 88769**] F  75  [**2075-6-14**]
+
+Neurophysiology Report EEG Study Date of [**2150-9-7**]
+
+
+
+OBJECT: ROE, LTM WITH VIDEO, EKG, [**Date range (1) 9844**]/11
+
+
+REFERRING DOCTOR: DR. [**First Name (STitle) **] R. [**Doctor Last Name **]
+
+
+FINDINGS:
+BACKGROUND: There was technical difficulty with continuous FP1
+electrode
+artifact. The background alternated between 2 patterns. There
+were
+frequent fairly widespread, frontally predominant, often
+synchronous but
+on occasions more on the right, medium-voltage, brief runs of
+1.5-2 Hz
+sharp and slow wave discharges. This alternated with mixed
+frequency
+alpha (8 Hz) and theta ([**7-14**] Hz) waveforms. There were also
+infrequent
+bifrontal bursts of low amplitude 1 Hz delta which were
+superimposed
+with beta activity.
+PUSHBUTTON ACTIVATIONS: There were no pushbutton activations.
+SPIKE DETECTION PROGRAMS: There were 3 entries in this file, all
+due to
+electrode artifact.
+SEIZURE DETECTION PROGRAMS: There was no entry in this file.
+SLEEP: No sleep morphologies were noted.
+CARDIAC MONITOR: Showed a generally regular rhythm with an
+average rate
+of 80-85 bpm.
+IMPRESSION: This is an abnormal continuous ICU monitoring study
+due to
+frequent fairly widespread, frontally predominant runs of sharp
+and slow
+wave discharges that are often synchronous but on occasions more
+on the
+right. This finding is indicative of an increased tendency for
+seizures.
+The background in between these epileptiform waves demonstrates
+mixed
+alpha and theta activity, indicative of a mild diffuse cerebral
+dysfunction with a nonspecific etiology. There were no
+electrographic
+seizures. This EEG showed no change compared to previous day.
+
+
+INTERPRETED BY: [**Last Name (LF) **],[**First Name3 (LF) **] L.
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 88770**] (Complete) Done
+[**2150-8-27**] at 10:45:49 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2075-6-14**]
+Age (years): 75 F  Hgt (in): 61
+BP (mm Hg): /  Wgt (lb): 154
+HR (bpm):  BSA (m2): 1.69 m2
+Indication: CAB\G, MR?
+ICD-9 Codes: 424.0
+Test Information
+Date/Time: [**2150-8-27**] at 10:45    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2011AW02-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.5 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.2 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.8 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.6 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  25% to 35%  >= 55%
+
+Findings
+LEFT ATRIUM: Dilated LA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Moderate regional LV systolic dysfunction. Moderately depressed
+LVEF. Severely depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Complex (>4mm) atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mitral
+leaflets fail to fully coapt. Eccentric MR jet. Moderate to
+severe (3+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+
+
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. No atrial septal defect is seen by
+2D or color Doppler. Left ventricular wall thicknesses are
+normal. The left ventricular cavity size is normal.
+There is moderate regional left ventricular systolic dysfunction
+with focalities in the inferolateral wall, basal inferior wall.
+Overall left ventricular systolic function is moderately
+depressed (LVEF= 30-35 %).
+Right ventricular chamber size and free wall motion are normal.
+There are complex (>4mm) atheroma in the descending thoracic
+aorta.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. The mitral valve
+leaflets do not fully coapt. An eccentric, posteriorly directed
+jet of Moderate to severe (3+) mitral regurgitation is seen.
+There is no pericardial effusion.
+Dr.[**Last Name (STitle) 55823**] was notified in person of the results before surgical
+incision.
+
+POST-BYPASS:
+Normal RV systolic function.
+Overall LVEF 25%. There is a global moderate dysfunction with
+focalities in the lateral and basal inferior walls.
+Thoracic aorta is intact.
+There is a ring seen in the 

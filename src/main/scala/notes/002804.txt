@@ -1,0 +1,145 @@
+Admission Date:  [**2121-8-18**]              Discharge Date:   [**2121-8-29**]
+
+Date of Birth:  [**2062-1-10**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Morphine
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+DOE
+
+Major Surgical or Invasive Procedure:
+[**2121-8-18**] #29 [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] Mechanical MVR, CABG x 1(SVG->RCA)
+
+
+History of Present Illness:
+59 year old with history of CAD s/p MI in the past with PTCA and
+stents to her LAD and RCA. She did relatively well until she
+developed DOE and [**Male First Name (un) 1902**] at which time her MR was discovered.
+
+Past Medical History:
+lipids
+[**Male First Name (un) **]
+Skin Ca
+[**Male First Name (un) 1902**]
+MI [**2109**]
+MR
+tobacco abuse
+s/p T&A
+s/p tubal ligation
+s/p stenting x [**Numeric Identifier 4719**] following MI
+PTCA of RCA [**2109**]
+
+Social History:
+lives alone
+.5 ppd x 40 years
+occasioal Etoh
+
+Family History:
+Father deceased at age 68 of MI
+
+Physical Exam:
+WDWN in NAD
+warm dry, no rashes
+NCAT PERRL Anicteric OP benign teeth in good repair
+no jvd
+Lungs CTAB
+3/6 systolic murmur RRR normal s1, split s2
+Abdomen benign
+superficial spider varicosities
+Neuro grossly intact
+
+Pertinent Results:
+[**2121-8-28**] 07:15AM BLOOD WBC-8.3 RBC-3.61* Hgb-11.3* Hct-32.8*
+MCV-91 MCH-31.3 MCHC-34.4 RDW-15.2 Plt Ct-358
+[**2121-8-28**] 07:15AM BLOOD Plt Ct-358
+[**2121-8-28**] 07:15AM BLOOD PT-22.6* INR(PT)-3.7
+[**2121-8-27**] 05:34AM BLOOD PT-22.5* PTT-37.1* INR(PT)-3.7
+[**2121-8-26**] 02:25AM BLOOD PT-19.9* PTT-83.2* INR(PT)-2.8
+[**2121-8-25**] 03:17AM BLOOD PT-16.8* PTT-65.9* INR(PT)-1.9
+[**2121-8-24**] 02:56AM BLOOD PT-14.3* PTT-71.2* INR(PT)-1.4
+[**2121-8-23**] 02:17AM BLOOD PT-13.4* PTT-26.7 INR(PT)-1.2
+[**2121-8-28**] 07:15AM BLOOD Glucose-91 UreaN-18 Creat-1.0 Na-137
+K-4.1 Cl-96 HCO3-31 AnGap-14
+[**2121-8-28**] 07:15AM BLOOD Mg-2.1
+[**2121-8-29**] 03:23PM BLOOD PT-21.6* INR(PT)-3.4
+
+Brief Hospital Course:
+Post operatively she was transferred to the ICU in critical but
+stable condition on milrinone, epinephrine and levophed. On POD
+1 she was noted to be moving her left leg less than her right.
+She was seen in consultation by the stroke team who recommended
+CT, she was unable to get a CT scan and her LLE weakness
+improved. She also had atrial fibbrilation for which she was
+started on amiodarone. She was ready for discharge on POD 10.
+
+Medications on Admission:
+lipitor 10'5, lasix 80'', lopressor 50', lisinopril 20', asa
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*0 Tablet(s)* Refills:*0*
+2. Furosemide 80 mg Tablet Sig: One (1) Tablet PO twice a day.
+3. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+4. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR
+Transdermal DAILY (Daily).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID
+(4 times a day) as needed.
+9. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+10. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+11. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day.
+12. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily): for 1 weeks, then 200 mg QD.
+13. Warfarin 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 6981**] Nursing Home
+
+Discharge Diagnosis:
+CAD, MR
+MI s/p stents [**2111**]
+lipids
+tobacco abuse
+MR
+[**First Name (Titles) **]
+[**Last Name (Titles) 1902**]
+Skin Ca
+s/p T&A
+s/p Tubal ligation
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Shower daily, wash incision with soap and water and paty dry. No
+lotions, creams or powders.
+No lifting more than 10 pounds or driving.
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] 4 weeks
+Dr. [**Last Name (STitle) 23097**] 2 weeks
+
+
+
+Completed by:[**2121-8-29**]

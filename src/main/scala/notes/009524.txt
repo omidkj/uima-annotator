@@ -1,0 +1,210 @@
+Admission Date:  [**2110-6-9**]              Discharge Date:   [**2110-6-18**]
+
+Date of Birth:  [**2058-4-20**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Asymptomatic
+
+Major Surgical or Invasive Procedure:
+-Mitral Valve Repair (30mm [**Last Name (un) 3843**]-[**Doctor Last Name **] Ring) [**2110-6-9**]
+-Redo sternotomy, Mitral Valve Replacement (#27mm St.[**Male First Name (un) 923**]
+Mechanical)[**2110-6-13**]
+
+History of Present Illness:
+51 year old male who has a history of a heart murmur for his
+entire life. Has had echocardiograms the last couple of years
+after increasing intensity of his mitral regurgitation murmur
+was
+noted. Recent echocardiograms have shown severe mirtral
+regurgitation with a flail P2 and torn chordae. He is currently
+asymptomatic but given state of his regurgitation along with
+dilated left atrium he was referred to Dr. [**Last Name (STitle) **] for
+evaluation
+in [**2110-1-19**]. He returns now for preadmission testing for
+surgery on [**2110-6-9**].
+
+
+Past Medical History:
+Mitral Regurgitation
+Hypertension
+Hypercholesterolemia
+Past Surgical History
+s/p Left ACL surgery
+
+Social History:
+Lives with: Wife
+Contact: Wife              Phone #
+Occupation: Firefighter
+Cigarettes: Smoked no [X] yes [] last cigarette _____ Hx:
+Other Tobacco use: Denies
+ETOH: < 1 drink/week [] [**2-25**] drinks/week [X] >8 drinks/week []
+Illicit drug use: Denies
+
+
+Family History:
++Premature coronary artery disease
+Father MI < 55 []       Mother < 65 [X] CABG in 50's
+Father with CABG in 60's. Uncles with CABGs.
+
+
+Physical Exam:
+Admission Physical Exam
+Pulse: 80 Resp: 18  O2 sat: 99%
+B/P  Right: 144/77   Left: 150/82
+Height: 5'[**09**]"  Weight: 185 lbs
+
+General: Well-developed male in no acute distress
+Skin: Dry [X] intact [X]
+HEENT: PERRLA [X] EOMI [X]
+Neck: Supple [X] Full ROM [X]
+Chest: Lungs clear bilaterally [X]
+Heart: RRR, III/VI systolic murmur best heard at apex
+Abdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds
++
+[X]
+Extremities: Warm [X], well-perfused [X] No Edema
+Varicosities: None
+Neuro: Grossly intact [X]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) 167**]: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit   Right: -    Left: -
+
+
+Pertinent Results:
+[**2110-6-9**] Intra-op TEE:
+PRE-BYPASS: No spontaneous echo contrast is seen in the body of
+the left atrium or left atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is mildly
+dilated. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic stenosis or aortic
+regurgitation. The mitral valve leaflets are myxomatous. There
+is moderate/severe P2 leaflet mitral valve prolapse. There is
+partial P3 mitral leaflet flail. An eccentric, anteriorly
+directed jet of severe (4+) mitral regurgitation is seen. There
+is no pericardial effusion. Dr. [**Last Name (STitle) **] was notified in person
+of the results at time of surgery.
+
+POST-BYPASS:
+Biventricular systolic function remains normal. There is a ring
+prosthesis in the mitral position. With initial post bypass
+loading conditions there was significant [**Male First Name (un) **] with LVOT
+velocities >3 m/sec. With volume and increase of SBP from 80 to
+110 the [**Male First Name (un) **] decreased, with LVOT gradient ~15 mm Hg. No early
+closure of the AV, LVOT patent on 3D images. Trace residual MR.
+The study is otherwise unchanged from prebypass
+  I [**Male First Name (un) 91932**] that I was present for this procedure in compliance
+with HCFA regulations.
+
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 91933**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 91934**]
+(Complete) Done [**2110-6-13**] at 9:16:45 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2058-4-20**]
+Age (years): 52 M  Hgt (in): 70
+BP (mm Hg): /  Wgt (lb): 187
+HR (bpm):  BSA (m2): 2.03 m2
+Indication: H/O cardiac surgery. Left ventricular function.
+Mitral valve disease. Preoperative assessment. Shortness of
+breath.
+ICD-9 Codes: 424.0
+Test Information
+Date/Time: [**2110-6-13**] at 09:16    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16164**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6507**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2012AW-:1 Machine: us6
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Diastolic Dimension:  *5.9 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55% to 60%  >= 55%
+Left Ventricle - Stroke Volume:  330 ml/beat
+Left Ventricle - Peak Resting LVOT gradient:  *43 mm Hg  <= 10
+mm Hg
+Aorta - Annulus:  2.6 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.9 cm  <= 3.0 cm
+Aorta - Ascending:  2.5 cm  <= 3.4 cm
+Aorta - Arch:  2.8 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  1.9 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *4.0 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *64 mm Hg  < 20 mm Hg
+Aortic Valve - LVOT pk vel:  3.37 m/sec
+Aortic Valve - LVOT VTI:  73
+Aortic Valve - LVOT diam:  2.4 cm
+Mitral Valve - Peak Velocity:  1.7 m/sec
+Mitral Valve - Mean Gradient:  6 mm Hg
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast in the body of the [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) **] LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Mildly dilated LV
+cavity. Normal regional LV systolic function. Overall normal
+LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. No atheroma in ascending aorta. Normal
+aortic arch diameter. No atheroma in aortic arch. Normal
+descending aorta diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AR.
+
+MITRAL VALVE: Mitral valve annuloplasty ring. [**Male First Name (un) **] of mitral
+valve leaflets. No MS. [**Name13 (STitle) 650**] (4+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: Written informed consent was obtained from the
+patient. The patient was under general anesthesia throughout the
+procedure. No TEE related complications. The patient appears to
+be in sinus rhythm. Results were personally reviewed with the MD
+caring for the patient. See Conclusions for post-bypass data
+Conclusions
+PRE-BYPASS: No spontaneous echo contrast is seen in the body of
+the left atrium or left atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is mildly
+dilated. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion. The mean LVOT gradient is 16 mmHg. No
+aortic regurgitation is seen. A mitral valve annuloplasty ring
+is present. There is systolic anterior motion of the mitral
+valve leaflets. Severe (4+) mitral regurgitation is seen at a
+systolic blood pressure of 100 to 120 mmHg.. Mitral
+regurgitation is mild (1+) at a blood pressure of 174/84
+achieved by phenylephrine with continued systolic anterior
+motion of the 

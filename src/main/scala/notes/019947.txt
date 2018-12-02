@@ -1,0 +1,192 @@
+Admission Date:  [**2104-8-3**]              Discharge Date:   [**2104-8-12**]
+
+Date of Birth:  [**2056-7-2**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Sulfa (Sulfonamides) / Azithromycin / Codeine / Latex / Haldol
+
+Attending:[**First Name3 (LF) 5644**]
+Chief Complaint:
+anaphylaxis and hyperallergic pneumonitis
+
+Major Surgical or Invasive Procedure:
+intubation
+
+
+History of Present Illness:
+The patient is a 48 year old female with past medical history
+significant for asthma (intubation x 4), severe allergies,
+remote seizure (s/p head injury), sickle cell trait, and
+thrombophilia (with DVT and PE) who presented to the [**Hospital1 18**] ICU
+having been transferred from [**Hospital 1562**] Hospital.  The patient was
+apparently in her usual state of good health and attending a
+conference on HIV (she is an infection disease physician) until
+she returned to her hotel room, smelled a noxious cleaning
+[**Doctor Last Name 360**], and suddenly experienced neck swelling, shortness of
+breath, a cough, and collapsed shortly after calling for help.
+She does report having injected herself with her epinephrine pen
+which she carries always given her allergy history.  At the
+outside hospital, the patient had high res CT images taken which
+showed a bilaterally diffuse infiltrative process.  There was
+also a question of ground glass opacities.  Chest xray revealed
+bilaterally diffuse infiltrates as well.  Bronchoalveolar lavage
+was performed whose results are pending at the time of this
+summary.  The patient was subsequently transferred to the [**Hospital1 18**]
+ICU for further evaluation.
+
+Past Medical History:
+* asthma with intubation x 4
+* severe allergies with history of intubations x > 4
+* remote seizure secondary to head trauma
+* sickle cell trait
+* thrombophilia, decreased protein C and increased homocysteine
+(with recurrent DVTs and pulmonary embolisms)
+* ventricular tachycardia secondary to albuterol
+
+Social History:
+former physician of infectious disease.  in relationship with
+partner ([**Doctor First Name **]). no tobacco.  occasional ethanol.
+
+Family History:
+unknown
+
+Physical Exam:
+On admission to the ICU,
+VITALS: 99.8  119/57  93  AC 550/12  PEEP 5  FIO2 .50 98%
+GEN: intubated, sedated, lying in bed, no acute distress,
+appearing stated age
+HEENT: EOMI, MM slightly dry, OP clear, PERRL
+COR: RRR, no m/r/g, no carotid bruits, no abd bruit, no femoral
+bruits
+[**Last Name (un) **]: bilaterally coarse breath sounds, inspiratory and
+expiratory wheezes
+ABD: soft, nontender, non distended, bowel sounds present
+EXT: no edema lower extremities
+NEURO: limited by sedation: 2+ reflexes throughout, doll's
+bilaterally, corneal reflex bilaterally, downgoing toes,
+withdrawal to pain
+
+Pertinent Results:
+[**2104-8-5**] 03:55AM BLOOD WBC-8.8 RBC-3.62* Hgb-9.6* Hct-28.6*
+MCV-79* MCH-26.5* MCHC-33.7 RDW-16.0* Plt Ct-219
+[**2104-8-3**] 09:00PM BLOOD Neuts-92.3* Lymphs-4.4* Monos-2.4 Eos-0.9
+Baso-0
+[**2104-8-5**] 03:55AM BLOOD Plt Ct-219
+[**2104-8-5**] 03:55AM BLOOD PT-15.1* PTT-89.7* INR(PT)-1.4
+[**2104-8-4**] 09:05AM BLOOD PTT-69.3*
+[**2104-8-4**] 04:13AM BLOOD Plt Ct-184
+[**2104-8-4**] 04:13AM BLOOD PT-14.6* PTT-64.7* INR(PT)-1.4
+[**2104-8-5**] 03:55AM BLOOD Glucose-130* UreaN-13 Creat-0.6 Na-144
+K-4.0 Cl-107 HCO3-29 AnGap-12
+[**2104-8-4**] 04:13AM BLOOD Glucose-132* UreaN-11 Creat-0.7 Na-142
+K-4.0 Cl-102 HCO3-31* AnGap-13
+[**2104-8-5**] 03:55AM BLOOD Calcium-8.2* Phos-3.7 Mg-2.8*
+[**2104-8-4**] 04:13AM BLOOD Calcium-8.6 Phos-3.9 Mg-2.3
+[**2104-8-3**] 09:00PM BLOOD calTIBC-241* Ferritn-30 TRF-185*
+
+Brief Hospital Course:
+1) PULMONARY: Etiology of the patient's acute shortness of
+breath was attributed to a combination of hyperallergenic
+pneumonitis, status asthmaticus, and anaphylaxis.  High
+resolution CT images were reviewed by radiology and it was felt
+that the bilaterally diffuse infiltrates were consistent with
+the above although a maligant process could not be ruled out.
+The patient was intubated at presentation, and she was extubated
+on [**8-5**] after it was shown that her throat edema had decreased
+(cuff leak present).  Between intubation and extubation, she was
+treated with high dose steroids, histamine blockers,
+levofloxacin, and nebulizers.  She maintained oxygen saturations
+well throughout her hospital course, always maintaining
+saturations in the upper 90%.  Infectious etiologies were also
+considered, but the patient was negative for legionella and
+cryptococcus.  Repeat chest xrays showed clearing of the
+infiltrative process.  She was on high dose steroids (> 100
+mg/day of prednisone or equivalent) for 7 day, then began a 5
+day steroid taper to off.  She did not have flaring of her
+pulmonary process during the taper.
+
+2) HEMATOLOGY: The patient has been in a hypercoagulable state
+due to the genetic disorder described above.  She was kept on
+anticoagulation throughout her hospital stay.  She informed the
+staff that she was recently seen by her primary care physician
+who performed dopplers of her lower extremities where it was
+found that she had no occlusions.  As such, she was sent on her
+regular dose of 100 mg daily. The patient was found to be anemic
+on presentation with a Hct of 25.0.  Iron studies were
+suggestive of chronic disease.  Hct increased to 28.6 at
+discharge without intervention.
+
+3) LINE INFECTION: At the outside hospital a femoral central
+catheter was placed.  Multiple blood cultures drawn in the ICU
+were positive for coagulase negative staph (oxacillin
+resistant).  The femoral line was pulled and the tip culture
+also grew this organism.  The patient received an 8 day course
+of Vancomycin IV.  She remained afebrile with normal blood
+pressure throughout her hospital stay.  TTE [**2104-8-12**] negative for
+vegetation.
+
+4) PSYCHOTIC EPISODE: Patient developed a strange affect while
+in the intensive care unit.  She remained oriented x 3 the
+entire time, but did not make complete sense.  She was started
+on Zyprexa daily.  Upon transfer to the floor, she became
+agitated and was observed to be pinching herself and banging on
+the walls.  A single dose of IV Haldol was given to which the
+patient had a dystonic reaction (jaw clenching, drooling, and
+arm stiffness).  Benadryl was immediately given with relief
+within 5 minutes or so.  Patient slept most of the day.  There
+was some question of seizure vs. dystonia, as patient has a
+remote h/o seizures in the past.  EEG was done the following
+morning - results still pending.  Psychiatry was consulted and
+they felt this was likely delirium/psychosis and confirmed
+history of steroid-induced psychosis with patient's outside
+psychiatrist.  After 2 days of steroid taper, patient's mental
+status began to clear and she was baseline by the time of
+discharge.  Patient reports that she feels depressed but denies
+suicidal ideation.  She will discuss starting an SSRI with her
+PCP.
+
+
+5) DIARRHEA: Developed after being on Vanco IV x 4 or 5 days.
+C. difficile toxin was negative x 1, however started empiric
+treatment of Flagyl 500 mg po tid.  Will continue to complete a
+10 day course.  Diarrhea has resolved by the time of discharge.
+
+
+Medications on Admission:
+Medications as listed by outside hospital
+* fluticasone nasal twice daily
+* budesonide 0.5 mg twice daily
+* monteleukast 10 mg daily
+* ceftirizine 10 mg daily
+* protonix 40 mg daily
+* folate 1 mg daily
+* mvi 1 tab daily
+* levofloxacin 500 mg daily
+* zonaflex 20 mg every night
+* methylprenisolone 40 mg iv daily
+* benadryl 20 mg iv daily
+* enoxaparin 60 mg twice daily
+* albuterol as needed
+
+Home medications:
+1. Advair [**Hospital1 **]
+2. Lovenox 100 mg SC qd
+3. Xopenex 0.63% or 1.25% prn
+4. Zyolaire 225 mg SC q2weeks (only had 1 dose so far)
+
+
+Discharge Medications:
+1. Enoxaparin Sodium 100 mg/mL Syringe Sig: One Hundred (100) mg
+Subcutaneous Q24H (every 24 hours).
+2. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO QD (once a day).
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*0*
+4. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 7 days.
+Disp:*21 Tablet(s)* Refills:*0*
+5. Advair Diskus 250-50

@@ -1,0 +1,152 @@
+Admission Date:  [**2199-4-30**]              Discharge Date:   [**2199-5-4**]
+
+
+Service: SURGERY
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 4111**]
+Chief Complaint:
+Presents for elective cholecystectomy
+
+Major Surgical or Invasive Procedure:
+s/p lap chole [**2199-4-30**]
+
+
+History of Present Illness:
+85 year old female with history of colon cancer status post [**Month (only) **]
+with history of RUQ pain, transiently elevated LFTS that have
+now normalized. Patient denies any pain or nausea.
+
+Past Medical History:
+prior cerebrovascular accident
+hypertension
+coronary artery disease
+peripheral vascular disease
+elevated cholesterol
+degenerative joint disease
+depression
+colon cancer
+mild dementia
+
+Social History:
+Resides at [**Hospital 100**] Rehab; son is health care proxy.
+
+Family History:
+noncontributory
+
+Physical Exam:
+VS: 95.9  56  186/42 18 96% RA
+GENERAL: ALERT, NAD
+HEENT: NCAT, EOMI,
+CV: RRR
+CHEST: CTA BILAT, NO WHEEZES
+ABD: SOFT/NTND; NO RUQ PAIN . WELL HEALED LOW MIDLINE SCAR
+EXT: NO EDEMA
+
+Pertinent Results:
+[**2199-5-1**] 08:00PM BLOOD WBC-9.1 RBC-3.92* Hgb-11.5* Hct-33.6*
+MCV-86 MCH-29.4 MCHC-34.3 RDW-14.6 Plt Ct-181
+[**2199-5-1**] 03:58AM BLOOD Glucose-97 UreaN-16 Creat-0.8 Na-140
+K-3.8 Cl-107 HCO3-27 AnGap-10
+[**2199-4-30**] 12:10PM BLOOD K-4.1
+[**2199-4-30**] 11:00AM BLOOD Glucose-161* UreaN-22* Creat-0.8 Na-136
+K-5.3* Cl-104 HCO3-22 AnGap-15
+[**2199-5-1**] 03:58AM BLOOD CK(CPK)-168*
+[**2199-4-30**] 07:14PM BLOOD CK(CPK)-123
+[**2199-4-30**] 12:10PM BLOOD CK(CPK)-54
+[**2199-5-1**] 03:58AM BLOOD CK-MB-4 cTropnT-<0.01
+[**2199-4-30**] 07:14PM BLOOD CK-MB-4 cTropnT-<0.01
+[**2199-4-30**] 12:10PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2199-5-1**] 03:58AM BLOOD Calcium-8.9 Phos-3.8 Mg-2.1
+[**2199-4-30**] 11:00AM BLOOD Calcium-8.7 Phos-4.6*# Mg-1.5*
+[**2199-5-2**] 08:00AM BLOOD Type-ART pO2-99 pCO2-44 pH-7.47*
+calHCO3-33* Base XS-7
+[**2199-4-30**] 09:01AM BLOOD Type-ART pO2-87 pCO2-42 pH-7.33*
+calHCO3-23 Base XS--3
+
+Brief Hospital Course:
+This pleasant 85 year old female was admitted posteroperatively
+to the BLUE surgical service under the care of Dr. [**Last Name (STitle) 957**]. She
+underwent a laparascopic cholecysectomy with intraoperative
+cholangiogram and direct laryngoscopy (because of reports of
+voice changes after [**Month (only) **] according to her son) on [**2199-4-30**]. Please
+see operative report for futher details on the procedure and
+intra-op findings. A few hours after the surgery, she had two
+episodes of emesis, but was otherwise stable. She had her
+electrolytes repleted. She did however remain in the PACU
+overnight because of her labile blood pressure.  She tolerated
+her clear liquid diet and was advanced to a low fat diet on the
+morning of postoperative day two. She did have some confusion
+after being transferred to the floor and required a sitter
+overnight. Her narcotic pain medication was discontinued and the
+patient did not require any further pain medication. She was
+discharged to [**Hospital3 **] Facility on [**2199-5-4**],
+postoperative day 4 with a Foley catheter in place due to her
+ongoing diuresis.
+
+Medications on Admission:
+tylenol prn
+asa 325 mg po qd
+calcium carbonate 650 mg PO TID
+captopril 50 mg po bid
+estrogen 0.625 mg po qd
+levothyroxine Sodium 100 mcg PO DAILY
+simvastatin 40 mg PO DAILY
+metoprolol 75 mg PO BID
+
+Discharge Medications:
+1. Sorbitol 70 % Solution Sig: One (1) ML Miscell.  QOD ().
+2. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+4. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig:
+Thirty (30) ML PO TID (3 times a day) as needed.
+5. Guaifenesin 100 mg/5 mL Syrup Sig: Five (5) ML PO Q6H (every
+6 hours) as needed.
+6. Hydrocortisone Acetate 25 mg Suppository Sig: One (1)
+Suppository Rectal [**Hospital1 **] (2 times a day).
+7. Captopril 25 mg Tablet Sig: Two (2) Tablet PO TID (3 times a
+day).
+8. Conjugated Estrogens 0.625 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+9. Levothyroxine Sodium 100 mcg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+10. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO
+BID (2 times a day).
+11. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+
+12. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - LTC
+
+Discharge Diagnosis:
+status post laparoscopic cholecystectomy, intraoperative
+cholangiogram
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Keep the incisions clean and dry. Please call Dr.[**Name (NI) 6275**]
+office if you have nausea, vomiting, redness/drainage about the
+wounds or fever >101. Please call if you have any other
+questions or concerns.  Foley catheter is to be left in place
+upon discharge to [**Hospital 100**] Rehab as the patient is continuing to
+diurese fairly large amounts of fluids.  This can be discharged
+at the facility in the next few days.
+
+Followup Instructions:
+Patient to follow up with Dr. [**Last Name (STitle) 957**] in [**3-14**] weeks.
+
+
+

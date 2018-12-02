@@ -1,0 +1,219 @@
+Admission Date:  [**2185-1-4**]              Discharge Date:   [**2185-1-24**]
+
+Date of Birth:  [**2116-8-2**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Dilaudid / Morphine
+
+Attending:[**First Name3 (LF) 4111**]
+Chief Complaint:
+Bright red blood per rectum.
+
+Major Surgical or Invasive Procedure:
+1) [**2185-1-5**] Proctosigmoidoscopy, fulguration of rectal bleeding
+point at 13 cm, injection of epinephrine and irrigation with
+epinephrine.
+2) [**2185-1-5**]: Right IJ central venous line placement
+3) [**2185-1-12**] Flexible sigmoidoscopy to 50 cm (no bleeding seen)
+4) [**2185-1-15**] Flexible sigmoidoscopy with [**Hospital1 **]-CAP Electrocautery
+applied for hemostasis successfully at 10cm
+
+History of Present Illness:
+68 year-old female known to Dr. [**Last Name (STitle) 957**] presented to [**Hospital1 5109**] today with bright red blood per rectum.  This morning
+she experienced lower abdominal pain and had copious blood per
+rectum in the toilet.  She no longer has pain.  She has had two
+subsequent bloody bowel movements today.  She was well until
+this morning.  She denies nausea and/or vomiting.  She has no
+fever, chills, no weight loss or change in appetite.
+
+Past Medical History:
+CHF (ECHO [**9-3**]: EF 55%)
+Hypertension
+Mild carotid stenosis
+Hyperlipidemia
+Sigmoid diverticulitis
+Enterocutaneous fistula
+Thyroid nodules
+Peripheral vascular disease (lower extremities) followed by Dr
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+.
+PSH:
+[**9-4**] s/p Left renal stent
+[**7-4**] s/p L fem-AK [**Doctor Last Name **], left profunda- patch angioplasty
+[**9-2**] s/p cholecycectomy
+[**5-1**] incisional hernia repair, s/p Chole, s/p appendectomy, s/p
+sigmoid colectomy, Resection of a pilonidal cyst, T&A
+[**4-29**] Aortobifemoral bypass graft c/b a splenic laceration
+requiring splenectomy, ischemic proctitis, an infarcted left
+colon, s/p left colectomy and transverse colostomy (since
+reversed), Enterocutaneous fistula, subphrenic abscess
+
+Social History:
+She is a widow and lives alone.  She admits to occasional ETOH
+and tobacco use.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+PE: Afebrile, HR 70, BP 160/80
+GEN: no acute distress, alert and oriented x 3, appears
+comfortable
+HEENT: no scleral icterus or jaundice, neck supple
+CARDIAC: regular rate and rhythm
+LUNG: clear to ausculation bilaterally
+ABD: soft, non tender, non distended, guaiac positive
+Rectal: no hemorrhoids, no obvious source of bleeding, no masses
+Ext: symmetrical pulses bilaterally
+
+
+Pertinent Results:
+Admission Labs:[**2185-1-4**] 06:55PM
+---------------
+GLUCOSE-101 UREA N-11 CREAT-0.7 SODIUM-141 POTASSIUM-4.3
+CHLORIDE-106 TOTAL CO2-24 ANION GAP-15 CALCIUM-8.8 PHOSPHATE-3.3
+MAGNESIUM-2.0
+WBC-10.1 RBC-4.33 HGB-13.3 HCT-38.3 MCV-88 MCH-30.8 MCHC-34.9
+RDW-17.1* NEUTS-58.2 LYMPHS-33.2 MONOS-6.9 EOS-1.6 BASOS-0.2 PLT
+COUNT-289 PT-12.8 PTT-21.0* INR(PT)-1.1
+.
+Serial hematocrits:
+[**1-19**]: 29.8
+[**1-20**]: 29.8
+[**1-21**]: 28.0
+[**1-22**]: 28.2
+[**1-23**]: 29.1
+[**1-24**]: 28.4
+.
+Nutrition Labs:
+---------------
+Date---Fe---TIBC---TRF---[**Last Name (un) **]---Alb---TG
+[**1-5**]----109--333----256---31-----3.9---..
+[**1-11**]---31---289----222---43-----3.4---137
+[**1-16**]---22---283----218---28-----3.3---338
+.
+Radiology
+---------
+[**2185-1-4**] ~ GI BLEEDING STUDY(Tag RBC Scan)
+IMPRESSION: Increase blood flow in the region of the descending
+colon. No
+evidence of active GI bleed during the time of the study.
+.
+[**2185-1-5**] ~ GI BLEEDING STUDY (Tag RBC Scan)
+Bleeding was first noticed at 6-8 minutes.
+IMPRESSION: Evidence of bleeding in the pelvic bowel loops
+notable within first 10 minutes. Further angiographic/surgical
+correlation to determine the vscular site of origing is
+recommended.
+.
+Cultures:
+[**Date range (1) 43171**] C.diff: Negative
+[**1-9**] C.diff toxin B (send out): Negative
+[**1-20**] C.diff: Negative
+
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is known to Dr.[**Name (NI) 6275**] [**Name (STitle) 4869**] and presented with
+bright red blood per rectum.
+
+GI:  She was admitted to the ICU for recusitation.  She was kept
+NPO, central venous access was obtained, and a PPI was started
+prophylactically.  3 units of PRBCs were transfused after her
+HCT dropped from 42-> 38-> 33.  She was started on Cipro and
+Flagyl empirically and a Pitressin drip.  A tagged RBC scan on
+[**2185-1-4**] did not indicate an active bleed.  A CT scan revealed no
+extravasation of contrast, but there was new wall thickening of
+the 7-8cm segment of distal colon just proximal to the distal
+surgical anastomosis.  GI Service was consulted for further
+evaluation of her bleed.  Patient continued to pass large
+amounts of fresh bloody stool.  A gastric lavage was bilious
+without evidence of blood.  A second ([**2185-1-5**]) tagged RBC scan
+revealed bleeding in the rectosigmoid area, probably right
+around the sacral and coccygeal hollow.  This was the area where
+the right colon was connected to the rectum.  She was taken to
+the operating room for a proctosigmoidoscopy and had
+fulguration of a rectal bleeding point at 13 cm, injection of
+epinephrine and irrigation with epinephrine.  She was monitored
+in the ICU and passed maroon to green stool with presence of
+clots.  C. Diff cultures x3 were all negative and C. Diff toxin
+B negative.  Her HCTs were stable and she remained on a
+vasopressin drip that was titrated down daily.  On Hospital Day
+8 she experienced maroon stool with clots, her HCT dropped to 24
+from 28 so she was transfused 2units of PRBCs.  She had a
+flexible sigmoidoscopy to 50cm that showed no bleeding.  She
+remained in the ICU for monitoring.  She continued to have
+maroon stools on Hospital Day 11.  The GI service performed
+another flexible sigmoidoscopy that revealed 2 bleeding ulcers
+at 20cm, the distal ulcer was injected with epinephrine.  Her
+hematocrits subsequently remained stable at 29-30.  She was
+transferred out of the ICU and had no more melenic stools.  She
+did have a high amount of liquid diarrhea and was empirically
+started on PO Vanc.  A repeat C.diff was negative, but it was
+decided to finsih a 7 day course of the Vancomycin.  Her diet
+was slowly advanced from sips to a regular house diet.  At the
+time of discharge she was having regular formed bowel movements
+and had no melena for 4 days.
+.
+GU (Urinary tract Infection):  A urine culture from the ED grew
+Klebsiella pneumoniae.  She was treated with a course of
+Ciprofloxacin.
+.
+Anemia (Blood Loss and Iron Deficiency):  On arrival to the
+hospital she her Fe was 109 and her HCT was 38.  Her iron levels
+dropped to 31 ([**1-11**]) and 22 ([**1-16**]).  She received a total of 5
+units PRBC while in the ICU for the GI bleed.  She was started
+on Iron 325mg orally.  At the time of discharge, she was advised
+to continue with the iron supplements.  Her hematocrit was
+stable at 29-30.
+.
+Nutritional:  Due to her prolonged NPO status, on HD9 TPN was
+started to deliver 25kcal/kg and 1.5g protein/kg for an IBW of
+64kg.  TPN was cycled for 12hours overnight on HD15 and
+discontinued on HD17.  Once stablized on the floor, she was
+started on a clear liquid diet and slowly advanced to a low
+residue diet.
+.
+Hypertension:  Patient was managed with Lopressor 5mg every
+6hours to maintain SBP <140 and HR 60-80.  She has had no acute
+cardiovascular events during this admission and was resumed on
+her home regimen.
+
+Medications on Admission:
+Aspirin 325mg daily
+Atenolol 25mg daily
+Fish oil
+Zocor 10mg daily
+MVI
+HCTZ 12.5mg daily
+
+Discharge Medications:
+1. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+3. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Vancomycin 250 mg Capsule Sig: One (1) Capsule PO every six
+(6) hours for 3 days.
+Disp:*12 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Lower GI Bleed - requiring 5 units of PRBCs
+Acute blood loss/Iron Deficiency Anemia
+Urinary Tract Infection - treated with Bactrim DS
+H/O CHF (EF 55% on ECHO in [**2182**])
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please call Dr. [**Last Name (STitle) 957

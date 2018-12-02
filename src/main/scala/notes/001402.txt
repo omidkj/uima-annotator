@@ -1,0 +1,214 @@
+Admission Date:  [**2197-5-26**]              Discharge Date:   [**2197-6-12**]
+
+Date of Birth:  [**2137-10-6**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+pulmonary edema
+
+Major Surgical or Invasive Procedure:
+ERCP on [**5-31**]
+AVR (23 mm CE tissue) on [**2197-6-2**]
+
+
+History of Present Illness:
+multiple CHF admissions, flash pulm. edema, adm. to [**Hospital1 **], diuresed and transferred to [**Hospital1 18**] for surgical eval.
+
+Past Medical History:
+- Schizophrenia
+- Anxiety
+Denies any other PMHx, including any cardiac history.
+
+
+Social History:
+Social history is significant for the current tobacco use, about
+1 PPD, which he has used for about 44 years. There is no history
+of alcohol abuse. He denies any intravenous drug abuse, but
+states he has abused "motion sickness" medications in the past.
+.
+Patient lives independently in an assisted facility with a
+roommate. He has no guardian, and makes all of his own
+day-to-day decisions. The housing facility is supported by the
+Department of Health. He has no known family in the area. At
+baseline he walks about one flight of stairs or one block before
+getting short of breath (until recently).
+
+
+Family History:
+He denies any family history of premature coronary artery
+disease or sudden death.
+
+
+
+Physical Exam:
+labored breathing
+dissuse skin rash
+bilat crackles
+3/6 systolic murmur
+
+otherwise, unremarkable physical exam on admission
+
+Pertinent Results:
+[**2197-6-8**] 05:15AM BLOOD WBC-6.4 RBC-3.09* Hgb-8.9* Hct-26.7*
+MCV-86 MCH-28.6 MCHC-33.2 RDW-14.9 Plt Ct-474*
+[**2197-6-4**] 01:47AM BLOOD PT-14.8* PTT-32.9 INR(PT)-1.3*
+[**2197-6-9**] 05:25AM BLOOD Glucose-90 UreaN-35* Creat-1.6* Na-140
+K-4.2 Cl-110* HCO3-21* AnGap-13
+[**2197-6-8**] 05:15AM BLOOD Glucose-90 UreaN-36* Creat-2.0* Na-139
+K-4.1 Cl-109* HCO3-20* AnGap-14
+[**2197-6-7**] 05:10AM BLOOD Glucose-87 UreaN-34* Creat-2.3* Na-137
+K-4.1 Cl-107 HCO3-20* AnGap-14
+[**2197-5-26**] 09:40PM BLOOD Glucose-111* UreaN-26* Creat-1.0 Na-144
+K-4.2 Cl-111* HCO3-24 AnGap-13
+
+CHEST (PA & LAT)  [**2197-6-8**] 8:44 AM
+
+CHEST (PA & LAT)
+
+Reason: eval for pleural effusions
+
+[**Hospital 93**] MEDICAL CONDITION:
+59 year old man s/p AVR
+REASON FOR THIS EXAMINATION:
+eval for pleural effusions
+INDICATION: 59-year-old male status post AVR. Please evaluate
+for pleural effusions.
+
+FINDINGS: PA and lateral chest radiographs reviewed and compared
+to [**2197-6-6**]. Post-operative cardiac silhouette is stable. Right
+IJ central venous catheter has been removed. Pulmonary
+vascularity is normal. Mild blunting at the left costophrenic
+sulcus is now noted, and there is slightly worsening left
+basilar atelectasis. Lungs are otherwise clear. There is no
+pneumothorax.
+
+IMPRESSION: Increasing left basilar atelectasis, and likely
+small left pleural effusion.
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 77286**] (Complete)
+Done [**2197-6-2**] at 11:16:26 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2137-10-6**]
+Age (years): 59 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Intraoperative TEE for AVR
+ICD-9 Codes: 402.90, 440.0, 424.1
+Test Information
+Date/Time: [**2197-6-2**] at 11:16    Interpret MD: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Name Initial (MD) **] [**Name8 (MD) 4901**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW4-: Machine: 1
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Diastolic Dimension:  *6.6 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Aorta - Ascending:  *3.6 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  *2.6 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *4.5 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *82 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  49 mm Hg
+Aortic Valve - LVOT diam:  2.2 cm
+Aortic Valve - Valve Area:  *0.9 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast in the body of the [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) **] LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Mild symmetric LVH. Moderately dilated
+LV cavity. Mild-moderate global left ventricular hypokinesis.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Mildly dilated ascending aorta. Focal calcifications in
+ascending aorta. Simple atheroma in aortic arch. Mildly dilated
+descending aorta. Complex (>4mm) atheroma in the descending
+thoracic aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Moderate-severe AS
+(area 0.8-1.0cm2). Moderate (2+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Physiologic MR (within normal
+limits).
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+No PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. Left pleural effusion.
+Conclusions
+PRE CPB No spontaneous echo contrast is seen in the body of the
+left atrium or left atrial appendage. No atrial septal defect is
+seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is
+moderately dilated. There is mild to moderate global left
+ventricular systolic dysfunction. Right ventricular chamber size
+and free wall motion are normal. The ascending aorta is mildly
+dilated. There are simple atheroma in the aortic arch. The
+descending thoracic aorta is mildly dilated. There are complex
+(>4mm) atheroma in the descending thoracic aorta. There are
+three aortic valve leaflets. The aortic valve leaflets are
+severely thickened/deformed, particularly the left and right
+coronary cusps. There is moderate to severe aortic valve
+stenosis (area 0.8-1.0cm2). Moderate (2+) aortic regurgitation
+is seen. The mitral valve leaflets are mildly thickened.
+Physiologic mitral regurgitation is seen (within normal limits).
+There is a trivial/physiologic pericardial effusion. Dr. [**Last Name (STitle) **]
+was notified in person of the results in the operating room at
+the time of the study.
+
+POST CPB Normal right ventricular systolic function. Left
+ventricle with continued mild to moderate global sytolic
+dysfunction. A bioprosthesis is located in the aortic position.
+It is well seated and displays normal leaflet function. There is
+trace valvular aortic regurgitation. The maximum gradient across
+the aortic valve is 54 mm Hg with a mean gradient of 36 mm Hg at
+a cardiac output of 7.5 l/m. The effective orifice area of the
+valve is 1.6 cm2. The thoracic aorta is intact. No other changes
+from pre bypass study..
+
+ERCP BILIARY&PANCREAS BY GI UNIT  [**2197-5-30**] 2:40 PM
+
+ERCP BILIARY&PANCREAS BY GI UN
+
+Reason: Please review ERCP images done [**5-30**]
+
+[**Hospital 93**] MEDICAL CONDITION:
+Suspected bile ducts stone
+REASON FOR THIS EXAMINATION:
+Please review ERCP images done [**5-30**]
+ERCP BY GI UNIT
+
+INDICATION: 59-year-old man with suspicion for bile duct stone.
+
+COMPARISON: MRCP from [**2197-5-29**].
+
+FINDINGS: Six fluoroscopic images are submitted for evaluation
+after ERCP by the Gastroenterologist. The radiologist was not
+present at the time of study. There is

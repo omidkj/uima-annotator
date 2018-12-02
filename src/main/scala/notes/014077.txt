@@ -1,0 +1,195 @@
+Admission Date:  [**2107-10-10**]              Discharge Date:   [**2107-10-15**]
+
+Date of Birth:  [**2043-9-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5893**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+Endoscopic retrograde cholangiopancreatography
+Endotracheal intubation
+Peripherally inserted central catheter placement on [**10-14**]
+
+
+History of Present Illness:
+Ms. [**Known lastname 9449**] is a 64yo F with history of atrial fibrillation on
+warfarin, mild mental retardation and history of CVA with left
+sided paralysis who was transferred to [**Hospital1 18**] for urgent [**Hospital1 **] in
+setting of elevated liver enzymes and concern for cholangitis.
+Patient was tachypneic to 20-30s while awaiting [**Hospital1 **] and
+intubated to protect her airway for the procedure.  She became
+hypoxic to 70s% during induction and remained intubated after
+the procedure.
+
+Per records, patient presented to [**Hospital3 6592**] on [**10-5**] with
+epigastric pain.  She was found to have elevated LFTs (initially
+only mildly elevated, see below for details) and had an
+abdominal ultrasound and CT which showed possible stones in the
+gallbladder without common bile duct dilation.  She also was
+diagnosed with a UTI but had a negative urine culture.  While at
+the OSH, she had a CXR on [**10-8**] that showed cardiomegaly without
+pulmonary edema and questionable left lower lung atelectasis.
+She also had a nuclear medicine cardiology scan with EF noted to
+be 90% and "technically it was not ideal" but no evidence of
+ischemia.  There is also an echo report that comments on normal
+EF, moderately dilated LA, evidence of ASD repair although "not
+clear if patch is still intact or not", moderate MR, moderate TR
+and RVSP is 51mmHg.  Patient received two doses of 5mg vitamin K
+the day prior to transfer to [**Hospital1 18**]. She was transferred to [**Hospital1 18**]
+for [**Hospital1 **] before a possible cholcystectomy.
+
+At [**Hospital1 18**], she underwent [**Hospital1 **] with biliary stenting (no
+sphincteromy given INR 2.0) that was unremarkable without
+evidence of cholangitis or biliary obstruction.  She received
+ceftriaxone 1g IV and ampicillin 2g IV during [**Hospital1 **].  Patient
+remained intubated after the procedure and was transferred to
+the [**Hospital Unit Name 153**] for further management.  In the [**Hospital Unit Name 153**], she is intubated
+and sedated.  She squeezes right hand to command but does not
+squeeze on left.  She does not open eyes to command.
+
+Past Medical History:
+Mental retardation
+History of embolic CVA, now with left hemiplegia
+Hypertension
+Depression
+Chronic CHF of unknown etiology
+h/o alcohol abuse, sober since [**2091**]
+s/p ASD repair
+
+Social History:
+She lives in a nursing home.  Patient quit smoking years ago and
+quit drinking alcohol in [**2091**].  No illicit drug use.  She is
+wheelchair bound at home.
+
+Family History:
+Unable to obtain.
+
+Physical Exam:
+ADMISSION:
+VS: 99.2 65 105/55 16 94%PSV FiO2 0.4
+General: Intubated and sedated
+HEENT: Sclera anicteric, MMM, ET in mouth
+Neck: supple, JVP elevated to angle of mandible, no LAD
+Lungs: Clear to auscultation bilaterally anteriorly with coarse
+vent sounds, no wheezes, rales, rhonchi appreciated
+CV: Irregularly irregular, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, no grimace to palpation, non-distended, bowel
+sounds present, no rebound tenderness or guarding, no
+organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: Squeezes hand on right to command, not on left; will not
+open eyes or follow other commands
+
+DISCHARGE:
+VS: Tmax 98.1, Tcurrent 97.9, BP 154/97, HR 63, RR 25, O2 sat
+94% RA
+GEN: A+Ox3
+HEENT: Sclerae anicteric, PERRL, EOMI
+NECK: supple, JVD not appreciated no LAD
+LUNGS: Bibasilar rales, no wheezes or rhonchi
+CV: Irregularly irregular, normal S1 + S2, no murmurs, rubs,
+gallops
+ABD: soft, non-tender, non-distended, bowel sounds present
+EXT: warm, well perfused, 2+ pulses, no clubbing, cyanosis.
+Trace peripheral edema
+NEURO: limited by cognitive impairment (mild MR), moving BLE,
+LUE contracted (stable), moving RUE, face symmetric, CN II-XII
+w/o focal deficit
+
+Pertinent Results:
+ADMISSION LABS:
+[**2107-10-10**] 01:12PM BLOOD WBC-7.0 RBC-3.68* Hgb-11.6* Hct-34.1*
+MCV-93 MCH-31.6 MCHC-34.0 RDW-14.2 Plt Ct-185
+[**2107-10-11**] 04:15AM BLOOD PT-18.1* PTT-29.6 INR(PT)-1.6*
+[**2107-10-10**] 01:12PM BLOOD Glucose-140* UreaN-17 Creat-0.8 Na-143
+K-3.3 Cl-104 HCO3-26
+[**2107-10-10**] 01:12PM BLOOD ALT-165* AST-85* AlkPhos-222* Amylase-49
+TotBili-1.9*
+[**2107-10-10**] 01:12PM BLOOD Lipase-40
+[**2107-10-10**] 01:12PM BLOOD proBNP-3344*
+[**2107-10-10**] 01:12PM BLOOD Calcium-8.9 Phos-2.9 Mg-1.7
+[**2107-10-10**] 12:43PM BLOOD Type-ART pO2-158* pCO2-43 pH-7.39
+calTCO2-27 Base XS-1
+[**2107-10-10**] 12:43PM BLOOD Lactate-1.2
+[**2107-10-10**] 11:06PM BLOOD O2 Sat-99
+
+DISCHARGE LABS:
+[**2107-10-15**] 04:02AM BLOOD WBC-5.4 RBC-3.60* Hgb-11.2* Hct-33.9*
+MCV-94 MCH-31.2 MCHC-33.1 RDW-14.2 Plt Ct-179
+[**2107-10-15**] 04:02AM BLOOD PT-16.4* PTT-29.1 INR(PT)-1.5*
+[**2107-10-15**] 04:02AM BLOOD Glucose-142* UreaN-11 Creat-0.7 Na-139
+K-3.5 Cl-103 HCO3-31 AnGap-9
+[**2107-10-15**] 04:02AM BLOOD Calcium-9.0 Phos-2.5* Mg-2.0
+
+
+MICROBIOLOGY:
+[**2107-10-11**] 4:16 am SPUTUM  (Source: Endotracheal)
+GRAM STAIN (Final [**2107-10-11**]): >25 PMNs and <10 epithelial
+cells/100X field. NO MICROORGANISMS SEEN.
+RESPIRATORY CULTURE (Final [**2107-10-13**]): NO GROWTH.
+
+[**2107-10-11**] 4:15 am URINE  (Source: Catheter)
+URINE CULTURE (Final [**2107-10-12**]): NO GROWTH.
+
+[**2107-10-11**] 4:16 am BLOOD CULTURE  (Source: Venipuncture)
+Blood Culture, Routine (Pending):
+
+[**2107-10-10**] 1:12 pm MRSA SCREEN  (Source: Nasal swab)
+MRSA SCREEN (Final [**2107-10-12**]): No MRSA isolated.
+
+IMAGING:
+[**10-11**] Transthoracic Echocardiogram (TTE)
+IMPRESSION: Surgical repair of a probable ostium secundum ASD
+with residual left-to-right interatrial shunting. Dilated right
+ventricle with preserved systolic function and mild pulmonary
+hypertension. Normal left ventricular systolic function.
+
+Recommend a cardiac MRI for more precise definition of
+congenital anatomic abnormalities and quantification of
+intracardiac shunting. Findings discussed with Dr. [**Last Name (STitle) **] at
+1410 hours on the day of the study.
+
+[**10-10**] [**Month/Year (2) **] Images
+IMPRESSION: Placement of common bile duct stent. Normal
+appearing bile ducts.
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 9449**] is a 64yo F with history of mental retardation,
+atrial fibrillation and CVA with left hemiplegia who was
+transferred to [**Hospital1 18**] for [**Hospital1 **] and intubated for respiratory
+distress likely secondary to volume overload & pneumonia;
+successfully extubated on [**10-13**].
+
+# Respiratory distress: Patient was tachypneic to 20-30s while
+awaiting [**Month/Year (2) **] and intubated to protect her airway for the
+procedure. She became hypoxic to 70s% during induction and
+remained intubated after the procedure. Respiratory distress
+likely caused by CHF exacerbation secondary to volume overload,
+in addition to healthcare-associated pneumonia (BNP 3344). CXR
+was concerning for infiltrate or pulmonary edema. Echo with EF
+>55% with mild pulmonary hypertension. Treated with vancomycin
+and cefepime for HCAP with a planned 8-day course (D1=[**10-10**],
+last day [**10-17**]). She was treated with IV lasix for her volume
+overload.  Lasix was held on [**10-14**] due to agressive diuresis,
+but redosed on the morning of discharge based on exam and repeat
+chest x-ray.  She should resume her usual home dose of oral
+lasix on [**10-16**].
+
+# LFT abnormalities: Her [**Month/Year (2) **] was unremarkable and did not show
+any frank pus from the biliary system s/p stent placement. Will
+need repeat [**Month/Year (2) **] for stent removal in 2 months (appointment has
+already been scheduled). LFTs trended down during admission.
+
+# Atrial fibrillation and h/o CVA: Coumadin was restarted when
+it was clear that the patient would not be undergoing any other
+procedure during thi

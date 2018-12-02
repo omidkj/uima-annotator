@@ -1,0 +1,231 @@
+Admission Date:  [**2161-11-29**]              Discharge Date:   [**2161-12-2**]
+
+Date of Birth:  [**2087-11-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+SOB, HYPOXIA,
+
+Major Surgical or Invasive Procedure:
+Pt was intubated
+
+History of Present Illness:
+.
+History of Present Illness: 74F with DM, chronic bronchiectasis
+c/b recurrent pseudomonal PNA, COPD on home O2, lung abscess s/p
+L lower lobectomy admitted to [**Hospital1 **]-[**Location (un) 620**] [**11-14**] with 2 days of
+fever, dyspnea, and chest heaviness. Noted to be hypoxic to 55%
+per transfer summary. CXR showed R-sided PNA. Initially managed
+on the floor and treated with zosyn and steroids. Zosyn switched
+to tobramycin & imipenem [**11-22**] when sputum Cx returned MDR
+pseudomonas. Eventually transferred to ICU for Afib with RVR,
+treated with diltiazem and digoxin. Bronch/BAL [**11-23**] also grew 2
+strains of MDR pseudomonas and [**Female First Name (un) **]. Intubated [**11-24**] with 7.5
+ETT for hypercapnic resp failure, at which time ABG
+7.34/89/82/48. She remained hemodynamically stable. However,
+WBC# rose from 14.3 on [**11-27**] to 28.1 today. ABG this AM
+7.50/52/144/41 on 400/12/5/0.4. Transferred to [**Hospital1 18**] for further
+evaluation and treatment.
+.
+On the floor, patient denies pain or difficulty breathing.
+.
+
+Past Medical History:
+DM
+Chronic bronchiectasis c/b recurrent pseudomonal PNA
+COPD on home O2
+Lung abscess s/p L lower lobectomy
++PPD with remote TB exposure
+Diverticulitis
+Osteoporosis
+
+Social History:
+Social History (per med records): Lives at home. Independent.
+Drinks [**1-24**] glasses of wine per day. Former smoker, quit smoking
+~50 years ago.
+
+Family History:
+Family History: Not assessed.
+
+Physical Exam:
+Vitals: T 98.4 BP 116/56 P 84 RR 17 O2sat 95% on 400/12/5/0.35
+General: Awake, opens eyes, appears comfortable, no access
+muscle use
+Neck: No JVD
+Lungs: diffuse rhonchi bilat no wheeze/rales
+CV: reg rate nl S1S2 no m/r/g
+Abdomen: soft NTND hypoactive BS
+Ext: warm, dry +PP 1+ pitting edema of all distal ext
+
+Pertinent Results:
+[**2161-11-29**] 02:25PM BLOOD WBC-29.2*# RBC-3.56* Hgb-10.8* Hct-34.0*
+MCV-95 MCH-30.4 MCHC-31.8 RDW-12.1 Plt Ct-262
+[**2161-11-30**] 04:06AM BLOOD WBC-27.7* RBC-3.46* Hgb-11.0* Hct-33.6*
+MCV-97 MCH-31.8 MCHC-32.8 RDW-12.5 Plt Ct-279
+[**2161-12-1**] 05:35AM BLOOD WBC-30.0* RBC-2.56*# Hgb-8.1*# Hct-24.9*
+MCV-97 MCH-31.4 MCHC-32.4 RDW-12.8 Plt Ct-279
+[**2161-11-29**] 02:25PM BLOOD Neuts-94.6* Lymphs-1.8* Monos-3.4 Eos-0.1
+Baso-0.1
+[**2161-11-30**] 04:06AM BLOOD Neuts-95.4* Lymphs-1.5* Monos-2.5 Eos-0.5
+Baso-0.1
+[**2161-12-1**] 05:35AM BLOOD PT-13.9* PTT-150* INR(PT)-1.2*
+[**2161-11-29**] 02:25PM BLOOD Glucose-263* UreaN-61* Creat-0.3* Na-150*
+K-4.3 Cl-110* HCO3-36* AnGap-8
+[**2161-12-1**] 05:35AM BLOOD Glucose-286* UreaN-76* Creat-0.4 Na-140
+K-5.0 Cl-102 HCO3-35* AnGap-8
+[**2161-11-29**] 02:25PM BLOOD ALT-20 AST-16 LD(LDH)-197 AlkPhos-52
+TotBili-0.2
+[**2161-11-29**] 02:25PM BLOOD Albumin-2.3* Calcium-7.4* Phos-3.0
+Mg-2.7*
+[**2161-11-30**] 04:06AM BLOOD Calcium-7.8* Phos-3.6 Mg-2.5
+[**2161-11-30**] 04:06AM BLOOD TSH-2.1
+[**2161-11-29**] 02:25PM BLOOD Tobra-2.0*
+[**2161-11-30**] 05:30PM BLOOD Tobra-1.0*
+[**2161-11-29**] 02:44PM BLOOD Type-ART Temp-36.9 Rates-[**12-26**] Tidal V-420
+PEEP-5 FiO2-35 pO2-113* pCO2-52* pH-7.48* calTCO2-40* Base XS-13
+-ASSIST/CON Intubat-INTUBATED
+[**2161-11-30**] 06:20AM BLOOD Type-ART pO2-128* pCO2-60* pH-7.42
+calTCO2-40* Base XS-12
+[**2161-12-1**] 05:48AM BLOOD Type-ART pO2-129* pCO2-63* pH-7.40
+calTCO2-40* Base XS-11
+[**2161-11-29**] 02:44PM BLOOD Lactate-1.6
+[**2161-11-30**] 03:49PM BLOOD Lactate-1.2
+[**2161-12-1**] 05:48AM BLOOD Lactate-1.3
+[**2161-12-1**] 05:48AM BLOOD freeCa-1.09*
+[**2161-11-29**] 03:30PM BLOOD B-GLUCAN-Test
+[**2161-11-29**] 03:30PM BLOOD ASPERGILLUS GALACTOMANNAN ANTIGEN-Test
+
+
+IMAGING :
+
+[**2161-12-1**]
+ABDOMINAL ULTRASOUND:
+
+The liver is diffusely heterogeneous in echotexture, but without
+focal
+lesions. There is no intrahepatic biliary ductal dilation.
+Common bile duct
+appears mildly dilated in the suprapancreatic portion, measuring
+9-10 mm. The
+pancreatic duct tapers entering the pancreas but is not well
+seen distally
+There is normal antegrade flow in the main portal vein.
+
+The gallbladder is not distended, though there is marked
+gallbladder wall
+edema, which may reflect underlying liver disease or other
+causes of third
+spacing. There is no cholelithiasis identified.
+
+The spleen is normal in size, measuring 7 cm. Small amount of
+free fluid is
+identified in the left upper quadrant.
+
+The kidneys are symmetric in size, measuring 10.4 cm on the
+right and 10.9 cm
+on the left. There is no renal mass lesion, and no
+nephrolithiasis or
+hydronephrosis.
+
+The midline structures including the aorta, IVC, and pancreas,
+are obscured by
+overlying bowel gas.
+
+IMPRESSION:
+
+1. Heterogeneous, coarse liver echotexture suggesting liver
+disease such as
+hepatitis or fibrosis. No focal liver lesions are identified. If
+further
+evaluation is desired, MRI could be considered when clinically
+feasible.
+
+2. Mild dilation of suprapancreatic common bile duct, measuring
+9-10 mm,
+without intrahepatic biliary ductal dilation. This is of dubious
+significance.
+MRCP could be performed if there is further concern.
+
+3. Gallbladder wall edema, without associated distention or
+cholelithiasis to
+suggest acute cholecystitis. This may reflect third spacing,
+secondary to a
+number of causes, or may be from underlying liver disease.
+
+4. Small amount of free fluid in the left upper quadrant
+adjacent to the
+spleen.
+
+5. Obscuration of midline structures including the pancreas,
+aorta and IVC by
+overlying bowel gas.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+
+Brief Hospital Course:
+Assessment and Plan: 74F with DM, chronic bronchiectasis c/b
+recurrent pseudomonal PNA, COPD on home O2, lung abscess s/p L
+lower lobectomy transferred for further management of
+hypercapnic respiratory failure due to MDR pseudomonal PNA.
+.
+#Hypercapnic respiratory failure/Pneumonia - pt respiratory
+status detiorated after presentation to the ED and she was
+intubated.  Pt was diagnosed with MDR pseudomonal PNA and was
+being treated with Abx.  She had an acute episode on a-fib with
+RVR and was medically managed.  Ultimately it was planned for
+her to have DC cardioversion and so she was placed on Heparin
+drip in preparation for TEE and cardioversion.  The morning
+after starting the drip, it was noticed that the patient had a
+large melenic stool and an acute drop in her hemoglobin and
+hematocrit.  GI was consulted and an EGD showed bleeding around
+the ampulla.  It was unclear whether the bleeding was coming
+from around the ampulla or within the ampulla.  A RUQ U/S was
+done to rule out hemobilia or hemorrhagic mass.  The family was
+contact[**Name (NI) **] at this time as goals of care have been a constant
+discussion.  In addition, the patient was intubated, but clear
+and alert and she was aslo actively involved in the discussion
+of her care.  The RUQ U/S was negative and IR and Surgery were
+notified for possible angiogram and intervention.  As these
+events were developing, the family and pt were in active
+discussion with the medical team.  The patient and family
+decided not to go ahead with the angiogram.  The patient decided
+she wanted to be made CMO and be extubated.  The patient was
+terminally extubated on [**2161-10-31**].  The patient died on [**2161-12-2**].
+
+Medications on Admission:
+Vitals: T 98.4 BP 116/56 P 84 RR 17 O2sat 95% on 400/12/5/0.35
+General: Awake, opens eyes, appears comfortable, no access
+muscle use
+Neck: No JVD
+Lungs: diffuse rhonchi bilat no wheeze/rales
+CV: reg rate nl S1S2 no m/r/g
+Abdomen: soft NTND hypoactive BS
+Ext: warm, dry +PP 1+ pitting edema of all distal ext
+
+Discharge Medications:
+N/A
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+N/A
+
+Discharge Condition:
+N/A
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

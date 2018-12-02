@@ -1,0 +1,163 @@
+Admission Date:  [**2153-8-27**]              Discharge Date:   [**2153-9-6**]
+
+
+Service: MED
+
+Allergies:
+Tylenol
+
+Attending:[**First Name3 (LF) 898**]
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+intubation, right internal jugular central triple-lumen venous
+line placement, left radial arterial line placement
+
+History of Present Illness:
+HPI: 87yo F with h/o AAA, smoking, ?COPD rx'd in early [**8-1**] for
+PNA with ceftin. Returned to OSH [**Date range (1) 25885**] with UTI (e coli),
+Ciff colitis. Rx'd with levo/flagyl. Hosp course c/b hypoxia of
+unclear etiology. D/c'd home on O2. During week PTA, noted to be
+weak, fatigued, and diff. concentrating. On night of admission,
+noted acute onset SOB. Taken to [**Location (un) **] ED. ABG 7.2/109/180.
+Trial of bipap failed. Intubated and sent to [**Hospital1 18**] as no ICU
+beds at [**Location (un) **].
+
+Past Medical History:
+PMH:
+1) ?COPD: no PFTs. prn nebs in past
+2) PNA: [**8-1**]. ?RUL
+3) AAA: infrarenal. >5 cm. declined surgery
+4) HTN: not taking prescribed b blocker at home
+5) LVH on EKG
+
+
+Brief Hospital Course:
+She was intubated on admission for hypercarbic respiratory
+failure.  Systemic steroid was started for COPD exacerbation.
+She was successfully extubated on hospital day 3.  Echocardigram
+obtained on admission showed new systolic heart failure with
+LVEF of 15 to 20% and global hypokinesis. Also developed new
+atrial fibrillation with rapid ventricular rate shortly after
+extubation, controlled with PO medications.
+
+# Pulm: previous hypercarbic resp failure was likely COPD flare
+(unclear precipitant, perhaps C diff) & also some component of
+CHF. Extubated [**8-30**], currently stable on NC. Was on solumedrol
+IV, now on prednisone taper & stable. Continued on albut,
+ipratrop ATC, salmeterol, fluticasone
+
+# Rhythm: new Afib w/RVR on [**8-31**], was on metop 100 tid & dilt 60
+qid. Pt refusing DCCV and likely wouldn't stay in NSR anyway
+given dilated heart. Continue beta blocker, diltiazem. Started
+digoxin on [**9-4**] w/good effect. Also started coumadin (for Afib &
+poor EF) on [**9-3**], now INR therapeutic. Will need further
+titration as outpatient with INR checks.
+
+# CHF: new LV systolic dysfxn (severe LV HK) seen on Echo. EF
+15-20%, down from 54% in ??????01. 2+ MR/2+ TR. Likely ischemic given
+wall motion abn (global but AK in inf/lat). For dilated CM w/u,
+TSH/FT4 WNL, iron studies WNL. Clinically euvolemic currently.
+- strict I&O, low-Na+ diet
+- restarted low-dose captopril as will help w/remodeling,
+titrating up; plan to switch to lisinopril at d/c
+- would be candidate for AICD given EF but pt declines any
+invasive procedures
+
+# CAD: was likely ischemia causing poor EF, but not ongoing as
+cardiac enzymes WNL; Pt/family refusing cath or even stress test
+so cont med management for presumed CAD. Cont ASA, Bblocker,
+Lipitor.
+
+# ID: C diff dx at OSH; atelec vs PNA vs aspiration on CXR [**8-31**];
+WBC WNL, afebrile, no S/Sx infection so will defer Abx for now.
+Monitor. Flagyl course ended on [**9-2**].
+
+# AAA: stable, pt defered [**Doctor First Name **] for this yrs ago; cont BP control
+# FEN: tolerated POs well
+# PPX: hep sc, H2 blocker
+# Code: full, confirmed w/family
+# Communic: daughter - [**Name (NI) **] [**Name (NI) 10743**] (cell [**Telephone/Fax (1) 25886**],
+[**Telephone/Fax (1) 25887**] home), son-in-law [**Name (NI) **] [**Name (NI) 10743**] (cell [**Telephone/Fax (1) 25888**])
+
+Medications on Admission:
+Flagyl
+
+Discharge Medications:
+1. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device
+Sig: One (1) inhalation Inhalation once a day: if not available,
+use ipratropium MDI 2 puffs qid.
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO QD (once a day).
+3. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+4. Salmeterol Xinafoate 50 mcg/Dose Disk with Device Sig: One
+(1) Disk with Device Inhalation Q12H (every 12 hours).
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+6. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation [**Hospital1 **] (2 times a day).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)
+injection Injection TID (3 times a day): continue until
+ambulating regularly.
+9. Albuterol Sulfate 90 mcg/Actuation Aerosol Sig: 1-2 puffs
+Inhalation q3-4h as needed for shortness of breath or wheezing.
+
+10. Prednisone 20 mg Tablet Sig: One (1) Tablet PO qd () for 3
+doses: prednisone taper.
+11. Prednisone 10 mg Tablet Sig: One (1) Tablet PO qd () for 3
+doses: for 3 days after 3 days of 20 mg.
+12. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO QD (once a day).
+13. Digoxin 125 mcg Tablet Sig: 0.5 Tablet PO QD (once a day).
+14. Warfarin Sodium 2 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+15. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation Q6H (every 6 hours).
+16. Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO once a day.
+17. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+18. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.)
+Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24
+hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 5481**] TCU
+
+Discharge Diagnosis:
+Primary Diagnosis:  COPD exacerbation
+Seconary Diagnoses:
+Congestive Heart Failure
+C. difficile colitis
+HTN
+h/o AAA
+
+
+Discharge Condition:
+- stable for acute rehabilitation and pulmonary rehabilitation
+
+Discharge Instructions:
+- Take medications as directed (especially your Prednisone
+taper).
+- Follow up with your doctors [**First Name (Titles) 3**] [**Last Name (Titles) 1988**].
+- [**Name8 (MD) **] MD or go to emergency room for shortness of breath, chest
+pain, cough, fevers, chills, or other concerning symptoms.
+- Have blood test to check warfarin effect (INR) within 1 week
+
+Followup Instructions:
+- Follow up with your primary care physician 1-2 weeks.
+- Recommend pulmonary rehabilitation.
+
+Provider: [**Name10 (NameIs) 20009**],[**Name11 (NameIs) 5557**] ([**First Name9 (NamePattern2) **] [**Location (un) **]) [**Location (un) **] INTERNAL MEDICINE
+Where: [**Location (un) **] INTERNAL MEDICINE Date/Time:[**2153-9-17**] 9:15
+
+
+
+Completed by:[**2153-9-6**]

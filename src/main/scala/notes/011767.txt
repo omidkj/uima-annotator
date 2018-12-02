@@ -1,0 +1,220 @@
+Admission Date:  [**2161-9-20**]              Discharge Date:   [**2161-9-24**]
+
+Date of Birth:  [**2083-1-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1171**]
+Chief Complaint:
+Respiratory failure
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization [**2161-9-23**]
+Intubation
+
+
+History of Present Illness:
+This is a 78 yo male with CAD and HTN who presented from home to
+OSH with respiratory failure requiring intubation, likely
+secondary to foreign body aspiration, noted to have positive
+cardac enzymes, LBBB on EKG and ST depressions in V4-V6 and
+transferred to [**Hospital1 18**], where was admitted to the ICU. In the ICU,
+pt's LBBB was determined to be old after d/w pt's outpatient
+cardiologist. Pt had an echo done that showed ant-lat
+hypokinesis w/ EF 30-35% c/w LAD disease, and repeat EKG showed
+that ST depressions had resolved. Cardiology felt that this was
+likely rate related ischemia. Pt's troponin peaked at 0.11, and
+therefore pt was being considered for cath when he was
+transferred to the floor. However, pt then became febrile while
+on the floor, and CXR showed likely PNA.  With pt's recent
+aspiration hx, we assumed aspiration PNA.
+
+Past Medical History:
+HTN
+anxiety
+depression
+Has had neg stress in past- unclear how long ago, no cath
+
+
+Social History:
+previous smoker- could not give details, no etoh, id use,
+retired
+works on farm and very mobile at baseline w/out limitation on
+activity
+
+
+Family History:
+N/C
+
+Physical Exam:
+Admission Physical
+Vitals: T: 98.4 degrees Farenheit, BP: 136/53 mmHg supine, HR
+90bpm, RR 18 bpm, O2: 97 % on 40%fi02- nonrebreather.
+Gen: mildly altered, pleasant, nad
+HEENT: No conjunctival pallor. No icterus. MMM. OP clear.
+NECK: Supple, nl JVP
+CV: rrr no mrg
+LUNGS: coarse b/s ant w/ basilar crackles
+ABD: NABS. Soft, NT, ND. No HSM.
+EXT: wound vac on R thigh ([**1-20**] tractor accident) R femoral TLC.
+SKIN: No rashes/lesions, ecchymoses.
+NEURO: grossly intact
+
+Discharge Physical
+VS:Tc+Tm 101.1, BP 176/71 (155-176/64-71), 96 (96-105), 20
+(16-20), 96% 2L (96-97%2L)
+Tele: sinus tachycardia to the low 100's, BBB, freq. PVCs with
+trigeminy.
+PE: General: Alert, orientedx 3, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD, RIJ in place
+Lungs: Crackles at bases bilaterally
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: AOx3, 5/5 strength in all 4 extremities
+
+
+Pertinent Results:
+[**2161-9-20**] 03:10AM BLOOD WBC-13.1* RBC-5.39 Hgb-15.6 Hct-47.1
+MCV-87 MCH-28.8 MCHC-33.0 RDW-15.2 Plt Ct-142*
+[**2161-9-24**] 07:55AM BLOOD WBC-7.6 RBC-4.12* Hgb-12.1* Hct-35.9*
+MCV-87 MCH-29.3 MCHC-33.6 RDW-14.6 Plt Ct-113*
+[**2161-9-20**] 03:10AM BLOOD Neuts-88* Bands-2 Lymphs-6* Monos-2 Eos-1
+Baso-0 Atyps-1* Metas-0 Myelos-0
+[**2161-9-22**] 09:20AM BLOOD Neuts-81.2* Lymphs-10.8* Monos-5.2
+Eos-2.4 Baso-0.4
+[**2161-9-20**] 03:10AM BLOOD PT-12.2 PTT-23.1 INR(PT)-1.0
+[**2161-9-24**] 07:55AM BLOOD PT-13.3 PTT-28.0 INR(PT)-1.1
+[**2161-9-20**] 03:10AM BLOOD Glucose-145* UreaN-21* Creat-1.0 Na-142
+K-4.4 Cl-106 HCO3-23 AnGap-17
+[**2161-9-24**] 07:55AM BLOOD Glucose-116* UreaN-19 Creat-0.6 Na-139
+K-3.5 Cl-104 HCO3-27 AnGap-12
+[**2161-9-20**] 03:10AM BLOOD cTropnT-0.11*
+[**2161-9-20**] 12:12PM BLOOD CK-MB-4 cTropnT-0.06*
+[**2161-9-20**] 06:09PM BLOOD cTropnT-0.04*
+[**2161-9-20**] 06:09PM BLOOD CK(CPK)-105
+[**2161-9-21**] 04:08AM BLOOD Calcium-8.4 Phos-2.4* Mg-1.7
+[**2161-9-24**] 07:55AM BLOOD Calcium-9.0 Phos-3.0 Mg-1.8
+[**2161-9-20**] 08:40AM BLOOD Type-ART PEEP-5 FiO2-90 pO2-70* pCO2-44
+pH-7.35 calTCO2-25 Base XS--1 AADO2-548 REQ O2-88
+Intubat-INTUBATED
+[**2161-9-20**] 03:23AM BLOOD Lactate-1.5
+
+Brief Hospital Course:
+# CAD/Systolic Dysfunction: It is still unclear what provoked
+patient's respiratory arrest. Given his presenting symptom prior
+to the arrest was HA and nausea/vomiting this could have been
+suggestive of an MI, however, pt's cath was clean, and pt did
+not endorse CP prior to passing out. Unlikely that this was
+related to cardiac causes. Troponin elevation likely from chest
+compressions gotten at OSH. We continued pt's ASA and statin.
+We did a repeat echo which showed somewhat improved ventricular
+function.  We continued BB and ACE-I.
+.
+# Thrombocytopenia: Plt count dropped from 180 ([**9-19**]) to 77
+([**9-21**]), improved back to 122. Too soon to be Type II HIT and plt
+count too low to be Type I HIT. Possible this is related to drug
+exposure (vancomycin, levaquin and cefepime given in ED).  Plt
+count continued to improve on levofloxacin and flagyl, so
+continued these medications and continued to monitor.
+.
+# Aspiration PNA: Pt with fever and new R-sided opacity on CXR,
+with hx of beef stew seen in throat, very suggestive of
+aspiration PNA. We started pt on IV levo and flagyl, and then
+switched them to PO for dispo. Pt had no fevers while on levo
+and flagyl.  Still unclear what caused initial event of passing
+out.
+.
+# HTN: BP mildly elevated. D/C'd felodipine and started
+metoprolol 25mg [**Hospital1 **] and lisinopril 5mg QD, both of which we then
+titrated up to 50mg metoprolol [**Hospital1 **] and 20mg lisinopril QD, as
+pt's SBP's had been 160's.
+.
+# Anxiety/Depression: Mood stable. We continued outpatien
+regimen of sertraline and clonazepam
+
+Medications on Admission:
+1. Felopdipine 2.5mg QD
+2. clonazepam 1mg QD
+3. sertraline 50mg QD
+4. ASA 81mg QD
+5. simvastatin 20mg QD
+
+Discharge Medications:
+1. clonazepam 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+2. sertraline 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+3. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+4. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+5. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. metoprolol succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+7. levofloxacin 250 mg Tablet Sig: Three (3) Tablet PO Q24H
+(every 24 hours) for 7 days: Please finish last dose on [**10-1**], and then stop.
+Disp:*21 Tablet(s)* Refills:*0*
+8. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every
+8 hours) for 7 days: Please finish last dose on evening of [**10-1**]
+then stop.
+Disp:*22 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] Nursing Services
+
+Discharge Diagnosis:
+Primary
+Aspiration Pneumonia
+Respiratory Failure
+
+Secondary
+Hypertension
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were seen in the hospital for respiratory failure in the
+setting of aspiration pneumonia.  We treated your pneumonia with
+antibiotics and you went for a cardiac catheteriaztion on [**9-23**]
+which showed no coronary artery disease and no intervention was
+done. You did not have a heart attack.  We sent you home on oral
+antiobiotics with PCP [**Last Name (NamePattern4) 702**].
+
+We made the following changes to your medications:
+1) We STARTED you on METOPROLOL XL 100mg once a day to help
+control your blood pressure and heart rate.
+2) We STARTED you on LISINOPRIL 20mg once a day to help control
+your blood pressure
+3) We STARTED you on LEVOFLOXACIN 750mg once a day in the
+morning to help treat your pneumonia.  You should take the last
+dose of this on the morning of [**10-1**], then stop.
+4) We STARTED you on METRONIDAZOLE 500mg every 8 hours to help
+treat your pneumonia.  You should take the last dose of this in
+the evenin on [**10-1**], then stop.
+5) We STOPPED your FELODIPINE.  Do not continue to take this
+medication.
+
+Please keep all of your follow-up appointments and take your
+medications exactly as prescribed.
+
+If you experience and of the below listed Danger Signs, please
+call your doctor or go to the nearest emergency room.
+
+It w

@@ -1,0 +1,224 @@
+Admission Date:  [**2150-9-9**]              Discharge Date:   [**2150-9-10**]
+
+Date of Birth:  [**2075-1-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+evaluation of tracheostomy
+
+Major Surgical or Invasive Procedure:
+bronchoscopy
+
+History of Present Illness:
+75y/o M with a PMH of ESRD on HD, CAD, ischemic cardiomyopathy,
+PAF, morbid obesity, COPD, OSA, and chronic tracheostomy
+transferred to [**Hospital1 18**] for evaluation of tracheostomy. Per [**Hospital1 **]
+reports there is concern for malfunctional tracheostomy as the
+patient's peak pressures have been rising on ventilator. Per
+respiratory therapy notes from [**Hospital1 **], prior to [**2150-9-9**] was on
+AC 14/650/+5/50%, peak pressures rising over past week to mid
+30s and 40s. RT has been unable to pass the inline catheter due
+to resistance. Pt taken off vent to swith to 14 fr however
+unable to pass airway. He was switched to SIMV 650/12/50%/ PEEP
+5 with increased comfort.
+
+The patient underwent a recent R BKA on [**2150-8-27**]. He had episodes
+of hypoxia related to mucous plugging and sputum grew MRSA and
+was started on a short course of vancomycin. He has chronic
+decubitous ulcers. He received a short course of linezolid,
+aztreonam and flagyl during his post-op BKA course, all
+discontinued on [**9-1**]. He is on dialysis for ESRD.
+
+Past Medical History:
+# DM2
+# CRI (baseline 2.5)- recently started on HD
+# CHF - EF 50-55% [**3-24**]
+# Trached and vent dependent [**1-17**] PNA in [**12-23**]
+# PNA [**4-23**] with BAL growing stenotrophomonas (Bactrim sensitive)
+
+and acenitobacter ([**Last Name (un) 36**] to Unasyn, Gent and Tobra, resistant to
+FQ, ceftaz, cefepime)
+# ESBL Klebsiella UTI [**3-24**]
+# Morbid obesity
+# Afib on Coumadin
+# Hypercholesterolemia
+# Known coccyx ulcers
+
+Allergies: Penicillin and sulfonamides
+
+Social History:
+Used to live with wife, who is HCP. Now at [**Hospital1 **].
+
+Family History:
+noncontributory
+
+Physical Exam:
+99.7   97.9   96/44   77   15   99% on vent
+Alert and oriented with appropriate affect.
+Trach in place.
+Heart regular with no murmur.
+Lungs with good air entry b/l and scattered crackles.
+s/p right BKA, +1 edema in LE.
+Obese with soft abdomen and bowel sounds present.
+No rash, no asterixis.
+
+Pertinent Results:
+[**2150-9-9**] 08:49PM BLOOD WBC-7.5 RBC-2.90* Hgb-7.4* Hct-26.0*
+MCV-90 MCH-25.6* MCHC-28.4* RDW-17.8* Plt Ct-202
+[**2150-9-10**] 05:38AM BLOOD WBC-6.5 RBC-3.00* Hgb-7.6* Hct-25.8*
+MCV-86 MCH-25.4* MCHC-29.5* RDW-19.3* Plt Ct-216
+[**2150-9-9**] 08:49PM BLOOD PT-37.6* PTT-53.2* [**Month/Day/Year 263**](PT)-4.0*
+[**2150-9-9**] 08:49PM BLOOD Glucose-149* UreaN-32* Creat-3.8* Na-140
+K-3.8 Cl-104 HCO3-29 AnGap-11
+[**2150-9-10**] 05:38AM BLOOD Glucose-109* UreaN-34* Creat-4.2* Na-139
+K-3.7 Cl-103 HCO3-29 AnGap-11
+[**2150-9-10**] 05:38AM BLOOD Albumin-2.4* Calcium-7.8* Phos-1.9*
+Mg-2.7*
+
+Micro:
+[**2150-9-9**] 11:34 pm SPUTUM      Source: Endotracheal.
+
+   GRAM STAIN (Final [**2150-9-10**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+
+   RESPIRATORY CULTURE (Preliminary):
+
+BAL [**9-10**]:
+      BRONCHIAL LAVAGE RIGHT MIDDLE LOBE.
+
+   GRAM STAIN (Pending):
+
+   RESPIRATORY CULTURE (Pending):
+
+   FUNGAL CULTURE (Pending):
+
+CXR [**2150-9-9**]:
+In comparison with study of [**6-27**], there is little change in the
+appearance of the tracheostomy tube. Dobbhoff tube is in place,
+though the image ends above the diaphragm so the tip cannot be
+seen. Central catheter tip similarly is difficult to evaluate
+and appears to be in the right atrium.
+Prominence of interstitial markings persists and there are
+probable bilateral pleural effusions.
+
+Brief Hospital Course:
+75 y/o with chronic tracheostomy, HD-dependent ESRD, sacral/LE
+ulcers, R [**Hospital 6024**] transferred to the MICU for evaluation of his
+tracheostomy.
+
+# Respiratory failure:
+Mr. [**Known lastname 77792**] has a history of hypercarbic/hypoxic respiratory
+failure and is s/p trachostomy earlier in [**2149**].  He was noted to
+have increasing peak pressures with difficulty in passing a
+catheter due to resistance and was transferred for further
+evaluation of his trach.  IP was consulted and performed
+bronchoscopy on [**9-10**].  He was found to have diffuse airway edema
+consistent with volume overload.  There were no significant
+secretions and a full survey of the airways reveals all airways
+were patent without any endobronchial lesions.  His trach was
+felt to be in appropriate position without any obstruction.
+There was no tracheobronchomalacia.
+
+He should be continued on vancomycin for treatment of MRSA
+pneumonia.
+
+Please note that the findings of the sputum culture and BAL were
+pending at the time of discharge.
+
+# ESRD:
+Related to diabetic nephropathy.  Patient did not receive HD at
+[**Hospital1 18**] as he will be receiving it upon return to [**Hospital1 **].
+Continued renagel.
+
+# Atrial Fibrillation:
+Continued metoprolol.  Coumadin was held for supratherapeutic
+[**Hospital1 263**] of 4.  Please dose coumadin as needed to maintain [**Hospital1 263**] of
+[**1-18**].
+
+Please note that coumadin is not on the current medication list
+as it should be held given that his [**Month/Day (3) 263**] is elevated. This is
+most likely due to the interaction of coumadin with his current
+antibiotics (levofloxacin and fluconazole). Please restart
+coumadin cautiously once his [**Month/Day (3) 263**] is < 2.5 to maintain an [**Month/Day (3) 263**]
+between 2 and 3.
+
+Also note that subcutaneous heparin was stopped during your
+hospital stay.
+
+# Type II DM: continued sliding scale insulin and Lantus.
+
+# R BKA with Sacral and leg ulcers:
+Continued current wound care, no signs of active infection
+
+# Plasma cell dyscrasia:
+Found to have IgA kappa on serum electrophoresis with an
+imbalance in the free kappa:lambda light chain ratio. BM biopsy
+showed 5-10% plasma cells.  During his work up the hematology
+team felt he likely had MGUS and ordered a retroperitoneal
+biopsy of a mass that was noted on his abd CT scan. His FNA was
+non-diagnostic and a needle core biopsy showed fragments of
+lymphoid tissue with quiescent appearing germinal centers.
+Continued outpatient follow up
+
+# Nutrition: NPO; tube feeds continued.
+
+# Access - mid-line
+
+# Code- full
+
+Medications on Admission:
+Fluconazole 100mg/50ml daily to end [**9-14**]
+Levofloxacin 500mg IV Q24 (stop date [**9-14**])
+Vancomycin 1gm IV
+Epogen 20,000units QHD
+Lispro SS
+Heparin 5000U TID
+Simvastatin 10mg daily
+Docusate 100mg [**Hospital1 **]
+Senna 2 tab [**Hospital1 **]
+Famotidine 20mg daily
+Warfarin 2mg daily
+Renagel 800mg TID w/ meals
+Tylenol 650mg Q6
+Percocet 2 tab po Q4
+Zofran 4mg IV Q6
+Dulcolax 10mg po PRN constipation
+Coumadin 2.5mg po daily
+Metoprolol 12.5mg [**Hospital1 **]
+
+Discharge Medications:
+1. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg
+PO BID (2 times a day).
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+4. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24
+hours).
+5. Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain: hold if sedated.
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+8. Fluconazole 10 mg/mL Suspension for Reconstitution Sig: One
+Hundred (100) mg PO once a day for 4 days: Last dose 9/29.
+9. Levofloxacin 25 mg/mL Solution Sig: Five Hundred (500) mg
+Intravenous once a day for 4 days: last day = [**9-14**].
+10. Vancomycin 1,000 mg Recon Soln Sig: One (1) g Intravenous
+with dialysis for as directed days: per treatment course as
+directed by physicians at [**Hospital1 **].
+11. Epogen 20,000 unit/mL Solution Sig: 20,000 units Injection
+with dialysis.
+12. Insulin
+Please continue insulin according to the regimen you were on
+prior to transfer to [**Hospital1 18**].
+13. Zofran

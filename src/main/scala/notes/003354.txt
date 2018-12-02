@@ -1,0 +1,219 @@
+Admission Date:  [**2157-9-22**]              Discharge Date:   [**2157-9-24**]
+
+Date of Birth:  [**2082-10-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+Cervical lymph node biopsy in OR
+
+History of Present Illness:
+.
+Mr [**Known lastname 66103**] is a 74yo morbidly obese male with hx significant
+for HTN, stroke, cor pulmonale [**3-17**] COPD, DM, and stroke,
+transfered from OSH with LLE DVT, PE, and lympadenopathy on CT.
+.
+Course at OSH: In brief, patient was admitted to [**Hospital3 18201**] on [**2157-9-12**], with productive cough, SOB, increased
+O2 requirement(2->4L) and treated for a COPD flare with
+levaquin, solumedrol IV, and advair. He showed improvement in
+his leukocytosis and respiratory status. After a few days,
+however, there was a gradual rise in WBC up to 19, and he began
+to deteriorate again. His CXR was negative for new infiltrates
+and his Ucx was clear, but his blood grew MRSA and he was placed
+on IV vancomycin. He showed an elevated d-dimer, and was
+subsequently found to have R popliteal DVT on LE Dopplers. His
+respiratory status continued to worsen, but his VQ scan showed
+low probability for pulmonary embolism. Given patient's obesity
+and immobility, he was placed on lovenox and warfarin. His Chest
+CT at the time demonstrated extensive LAD in his cervical and
+supraclavicular nodes bilaterally with extension down into the
+anterior mediastium and to the level of the AP window. Previous
+CT on [**2157-6-27**], had in fact commented on chest mass/infiltrate.
+Significant LAD was not noted in the abdomen, and the liver and
+spleen to be uninvolved. Because of the rapid progression of the
+LAD, patient was transferred to [**Hospital1 **] for further evaluation,
+tissue biopsy, and treatment.
+.
+On presentation to the Medicine Service at [**Hospital1 **], patient
+complains of having pain and discomfort in his shoulder and neck
+for many months. He describes feeling so weak at one point that
+he was unable to remain standing long enough to take a shower.
+He believes that his respiratory status has declined and that he
+has had trouble breathing for the last few weeks. It became
+worse around the time he was diagnosed with a DVT at the OSH
+hospital. He denies chest pain with inspiration or pain in his
+legs.
+.
+He denies any recent travel, chills, or sick contacts. [**Name (NI) **] denies
+CP and palpitations. Patient admits to SOB on lying down. He
+admits to abdomenal discomfort, bloating and diarrhea for the
+last few weeks, perhaps for months. Denies blood per rectum or
+melena. No dysuria, hematuria.  He also denies denies pain in
+his leg. He admits to sweats and weight loss >10lbs in last 6 mo
+but no fevers. Past exposures include [**Doctor Last Name 360**] [**Location (un) 2452**] when he was
+stationed in [**Country 10181**]. His brother died of an aucte leukemea at age
+74.
+.
+
+Past Medical History:
+COPD-requires supplemental O2: Pulmonologist Dr. [**Last Name (STitle) 28583**].
+Sleep apnea?
+Stroke-lacunar infarct
+Meniere's disease: Right ear deafness. +Vertigo
+GERD
+Sick sinus syndrome s/p Permanent pacemaker
+Diabetes
+Hypertension
+Morbid Obesity
+Chronic renal insufficiency with baseline creatinine of 1.6-1.8
+Cor pulmonale: EF50%, per cardiologist
+
+Social History:
+No history of smoking
+
+Family History:
+Brother died at age 74 of leukemia
+
+Physical Exam:
+.
+T96.9 BP140/72 HR72 RR28 O2sat94%on2L
+Gen: obese male. NAD, uncomfortable. Unable to finish full
+sentences.
+HEENT:PERRL, EOMI, tongue/buccal mucosa/pharyx with ulcers.
+Neck: bilateral supracalvicular and cervical LAD- nontender,
+mobile
+Pulm: distant breath sounds, inspiratory wheeze, no crackles
+Cor: Regular, nls1s2 no gallops, no murmurs appreciated
+abdomen: +BS, distended, mildly tender diffusely, most tender in
+epigastric area,
+Skin: Large ecchymoses on left thigh (~20cmx8cm), lower
+back(~15cmx6cm). Nontender, nonpulsating.
+Ext: Mild tenderness to palpation of popliteal fossa. No edema
+in extremity. Assymetry in LE not notable
+Neuro: AxOx3, CNII-XII intact. Sensation intact in UE to light
+touch.
+
+
+
+
+Pertinent Results:
+OSH:
+CXR [**2157-9-16**]: no acute infilatrates or effusions. No cardiomegaly.
+
+.
+CT  [**2157-6-27**]: Infiltrate/mass on chest CT, recommended follow-up
+.
+U/S [**2157-9-16**]: DVT R LE
+.
+VQ: Low probablity for PE
+.
+UA:yellow, clear, Glucose negative, bili negative, ketone
+negative, SG1.015, blood moderat, pH 5.0, proetin, negative,
+urobili neg, nitrite neg, leuko esterase neg.
+.
+Bld cx [**2157-9-13**]: MRSA
+.
+Stool [**9-16**]: neg for C-diff stool Toxin A, WBC, salmonella,
+shigella, campylobacter and ecoli 0157:H7.
+.
+141  106  77 / 92    AGap=13
+3.5  26  1.9 \
+Ca: 8.3 Mg: 3.0 P: 4.4
+ALT: 51 AP: 100 Tbili: 0.6 Alb: 3.4
+AST: 44 LDH: 644 Dbili:  TProt:
+[**Doctor First Name **]:  Lip:
+UricA:12.5
+.
+             85
+15.9 \ 12.3 / 159
+     / 35.3 \
+ N:90 Band:2 L:2 M:3 E:1 Bas:0 Metas: 2
+Anisocy: 1+ Microcy: 1+
+Plt-Est: Normal
+.
+
+PT: 30.0  PTT: 31.1  INR: 3.2
+
+
+Brief Hospital Course:
+Assessment and Plan:
+.
+Mr [**Known lastname 66103**] is a 74yo morbidly obese male with hx significant
+for HTN, stroke, cor pulmonale [**3-17**] COPD, CRI, DM, and stroke,
+transfered from OSH with LLE DVT, PE, and lympadenopathy on CT.
+.
+#Enlarged lymph nodes on CT:
+Patients clinical presentation was most concerning for lymphoma,
+especially given his family history of leukemia and exposure to
+[**Doctor Last Name 360**] [**Location (un) 2452**]. The nontender superficial, LAD located in the
+cervical, supraclavicular, and mediastinal areas is typical of
+Hodgkin's disease. This orderly, anatomic spread to adjacent
+nodes, is most c/w the contigous spread of HD. However,
+sensation of abdominal fullness and bone pain, reported as pain
+in his back and neck, may be indicative of the nontender diffuse
+LAD of NHL. Patient has remained febrile, even during infection
+with MRSA per records; however, he has had the other
+constitutional or B symptoms of weight loss and sweats. The
+rapid progression of his LAD may suggest an aggressive lymphoma
+such as mantle cell. However, it appears a past CT in [**6-18**]
+commented on the mediastinal infiltrate/mass, which could be
+referring to the earlier stage of this condition. If this is HD
+lymphoma, this patient clearly has greater than a single LN
+region affected, making this [**Hospital1 69333**] stage II or higher. We
+need abdomenal and pelvic imaging for further staging. HD
+Limited disease has 80% long-term survival, whereas advanced
+disease has a considerably less survial time. If this is HD, it
+is most beneficial to treat it early. Patient's recent
+respiratory decline may be [**3-17**] mediastinal mass obstructing the
+airway. SVC syndrome is another complication. It is also
+important to rule out infectious causes of enlarged lymph nodes:
+CMV, EBV, TB.
+-surgery was consulted to identify best surgical procedure for
+excisional lymph node biopsy
+.
+CRI: Patient has a history of chronic renal insufficiency. He
+currently has a BUN77 and Cr1.9, which is in the range he has
+remained in the last week. It is important to realize that renal
+involvement with lymphoma is seen in 2 to 14 percent of all
+patients, and an elevated serum creatinine is reported in 26 to
+56 percent. Patient is euvolemic on exam.
+-determine baseline bun/creatinine levels from PCP
+[**Name10 (NameIs) 15282**] to hold lasix
+-no contrast during imaging
+.
+cor pulmonale/COPD:
+-supplemental oxygen
+-nebs
+-advair
+-spiriva
+-continue steroid taper
+.
+GERD: denies any current symptoms
+-protonix
+.
+HTN: appears to be well-controlled
+-Beta blocker
+.
+CAD:
+-cont plavix, aspirin
+-d/c nitropatch
+.
+Diabetes
+-insulin sliding scale
+.
+MICU Course:
+-Patient was transferred to the MICU for desaturations.  He was
+fiberoptically intubated and stabilized on pressors.  Biopsy was
+performed in the OR after INR correction with FFP.  Preliminary
+pathology results showed poorly-differentiated large cell
+carcinoma with focal glandular and focal clear cell features.
+After diagnosis was made, it was discussed with the family the
+few options for therapy and the generally poor prognosis.  He
+was 

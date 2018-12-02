@@ -1,0 +1,231 @@
+Admission Date:  [**2198-6-28**]              Discharge Date:   [**2198-7-20**]
+
+Date of Birth:  [**2181-4-19**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5880**]
+Chief Complaint:
+s/p Motor vehicle crash vs. tree
+
+Major Surgical or Invasive Procedure:
+Occiput-C4 fusion [**6-29**] (Dr. [**Last Name (STitle) 739**], neurosurgery)
+Ex-fix R femur [**6-29**] (Dr. [**Last Name (STitle) **], orthopedics)
+Tracheostomy/PEG [**7-2**] (Dr. [**Last Name (STitle) **], trauma surgery)
+IM rod R femur [**7-4**] (Dr. [**Last Name (STitle) **], orthopedics)
+R PICC [**7-4**] (Dr. [**Last Name (STitle) 19420**], interventional radiology)
+IVC filter placement [**7-9**] (Dr. [**Last Name (STitle) **], vascular surgery)
+
+
+History of Present Illness:
+Ms. [**Known lastname 67614**] is a 17-year-old female who was an unrestrained back
+seat passenger in a motor vehicle crash versus a tree.  She was
+unresponsive at the scene and had respiratory and cardiac arrest
+requiring CPR.  She was intubated and transported to an outside
+hospital from which she was subsequently transferred to [**Hospital1 18**].
+She was found to have a C1 vertebral fracture, and spinal cord
+hemorrhage and edema from C2-C4.
+
+Past Medical History:
+None
+
+Family History:
+Noncontributory
+
+Physical Exam:
+VS upon admission to trauma bay:
+BP 90/palp HR 76  GCS 3
+Gen: Intubated
+HEENT: 5cm head laceration; lip abrasion
+Neck: cervical collar in place
+Chest: equal breath sounds, no crepitus
+Back/Spine: no stepoffs
+Abd: FAST negative
+Pelvis: stable
+Rectum: +rectal tone, guaiac negative
+Extr: RLE deformity with abrasion over shin region
+
+Current exam:
+T 99  HR 95 Sinus  BP 103/53  RR 12 vented
+Assist Control Ventilation   FiO2: 40%   TV: 500   RR: 12
+PEEP: 5
+Alert & oriented, answers questions, moves everything above the
+neck
+Course breath sounds bilaterally, moving air well.  Tracheostomy
+site clean.
+Regular rate & rhythm, normal S1 & S2
+Abdomen soft, non-tender, non-distended.  G-tube in place, site
+clean.
+Mild peripheral edema, 2+ DP pulses bilaterally
+
+Pertinent Results:
+Labs upon admission:
+
+[**2198-6-28**] 08:35PM   LACTATE-1.0
+[**2198-6-28**] 08:22PM   GLUCOSE-150* UREA N-11 CREAT-0.6 SODIUM-142
+POTASSIUM-4.0 CHLORIDE-109* TOTAL CO2-24 ANION GAP-13
+[**2198-6-28**] 08:22PM   WBC-18.5* RBC-3.20* HGB-10.0* HCT-28.1*
+MCV-88 MCH-31.3 MCHC-35.6* RDW-12.3
+[**2198-6-28**] 08:22PM   WBC-18.5* RBC-3.20* HGB-10.0* HCT-28.1*
+MCV-88 MCH-31.3 MCHC-35.6* RDW-12.3
+[**2198-6-28**] 08:22PM   PLT COUNT-226
+[**2198-6-28**] 04:43AM   GLUCOSE-133* LACTATE-5.7* NA+-142 K+-3.2*
+CL--111 TCO2-15*
+[**2198-6-28**] 04:40AM   UREA N-11 CREAT-0.7
+
+MR CERVICAL SPINE
+
+Reason: eval for cord/ligament injury
+
+[**Hospital 93**] MEDICAL CONDITION:
+17 year old woman with known C1 & C2 fx
+REASON FOR THIS EXAMINATION:
+eval for cord/ligament injury
+INDICATION: 17-year-old unrestrained back seat passenger in a
+motor vehicle accident with known C1 and C2 fracture. Assess for
+spinal cord/ligamentous injury.
+
+TECHNIQUE: Multiplanar T1- and T2-weighted images of the
+cervical spine without IV contrast.
+
+Comparison is made to CT of the cervical spine performed seven
+hours earlier.
+
+FINDINGS: The images are slightly limited in quality due to
+motion artifact. Again seen is the transverse fracture through
+the dens, better appreciated on the prior CT scan.
+
+Increased T2 and STIR signal intensity is seen in the spinal
+cord extending from the level of the tip of the dens to the
+superior endplate of the C4 vertebral body. There is mild
+expansion of the cord at the level of the body of C2. Axial
+gradient echo images demonstrate susceptibility artifact
+centrally in the cord at the level of C2.
+
+At the C2-3 and C3-4 levels, there is mild left paracentral disc
+bulging with mild narrowing of the left neural foramina at these
+levels. There is no central canal stenosis. Vertebral body and
+intervertebral disc signal elsewhere in the cervical spine is
+normal. Mild edema is seen in the prevertebral soft tissues. The
+patient is intubated, however. Increased T2 and STIR signal
+intensity is also seen in the interspinous area posterior to C2.
+
+IMPRESSION:
+1. Signal abnormalities in the spinal cord indicate focal areas
+of hemorrhage in the central cord posterior to C2, and cord
+edema from C2-C4 as described above. There is also mild
+expansion of the cord at the C2 level.
+
+2. Probable ligamentous injury of the interspinous ligaments at
+the level of C2-3.
+
+3. Mild left paracentral disc bulges at C2-3 and C3-4 with mild
+left neural foraminal narrowing.
+
+Findings were discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at the completion
+of the examination.
+
+FEMUR (AP & LAT) SOFT TISSUE R
+
+Reason: eval fx
+
+[**Hospital 93**] MEDICAL CONDITION:
+17 year old woman with MVC and likely R femur fx
+REASON FOR THIS EXAMINATION:
+eval fx
+HISTORY: Fracture.
+
+Two radiographs of the right femur demonstrate a displaced
+fracture through the mid diaphysis of the right femur. Limited
+assessment of the knee and hip joints is unremarkable. Ionated
+contrast is present within urinary bladder as is a Foley
+catheter balloon.
+
+IMPRESSION:
+
+Displaced right femoral diaphyseal fracture.
+
+These findings were reported to the ED dashboard at the time of
+image interpretation.
+
+MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST
+
+Reason: Eval. for vertebral artery dissection
+Contrast: MAGNEVIST
+
+[**Hospital 93**] MEDICAL CONDITION:
+17 year old woman s/p C2-C4 cord contusion and C1 fx, now
+paraplegic with fevers and new onset vertical nystagmus
+concerning for new brainstem lesion.
+REASON FOR THIS EXAMINATION:
+Eval. for vertebral artery dissection
+MRI/MRA OF THE BRAIN
+
+HISTORY: 17-year-old female status post C2 through C4 cord
+contusion with C1 and C2 fractures, now with fevers.
+
+MRI BRAIN:
+
+TECHNIQUE: Multiplanar, multisequence MR images of the brain
+with triplanar post-gadolinium images were obtained.
+
+FINDINGS: There are areas of susceptibility artifact of the
+posterior upper neck and skull base consistent with artifacts
+from surgical fusion. The upper spinal cord and the adjacent
+medulla are expanded and have increased T2 signal. There are
+also areas of enhancement, both within and at the periphery of
+these regions. There are no signal changes indicative of blood
+within the spinal cord or medulla. No epidural fluid collections
+or abscesses are seen, although evaluation is somewhat limited
+by adjacent artifact. The above findings may represent changes
+of cord and brainstem contusion vs. infection, with no evidence
+of abscess formation.
+
+A type 2 dens fracture is present.
+
+No extra-axial fluid collections are seen. The [**Doctor Last Name 352**]/white matter
+differentiation is maintained. There is no shift of the normally
+midline structures. The ventricles, sulci, and basal cisterns
+are normal.
+
+The orbits and paranasal sinuses are normal. Soft tissue changes
+of the mastoid air cells bilaterally are seen.
+
+MRA:
+
+TECHNIQUE: 3D TOF of the intracranial arteries and 2D TOF of the
+cervical arteries were obtained with MIP reconstructions.
+Post-gadolinium coronal FAME of the cervical and intracranial
+vessels were also obtained. Axial T1 fat sat images of the neck
+were also obtained.
+
+FINDINGS: The V4 segment of the right vertebral artery is
+hypoplastic but patent. No occlusions, dissections, or aneurysms
+are seen.
+
+IMPRESSION: No vertebral artery dissections.
+
+Enhancement, expansion, and T2 hyperintensity involving the
+upper cervical cord and medulla which likely represents changes
+of contusion Vs. infection without abscess formation. Posterior
+cervical spinal fusion with a type 2 dens fracture still
+visible.
+
+MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST
+
+Reason: Eval. for vertebral artery dissection
+Contrast: MAGNEVIST
+
+[**Hospital 93**] MEDICAL CONDITION:
+17 year old woman s/p C2-C4 cord contusion and C1 fx, now
+paraplegic with fevers and new onset vertical nystagmus
+concerning for new brainstem lesion.
+REASON FOR THIS EXAMINATION:
+Eval. for vertebral artery dissection
+MRI/MRA OF THE BRAIN
+
+HISTORY: 17-year-old female status post C2 through C4 cord
+contusion with C1 and C2 fractures

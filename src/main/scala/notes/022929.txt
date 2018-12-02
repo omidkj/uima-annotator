@@ -1,0 +1,253 @@
+Admission Date:  [**2196-9-2**]              Discharge Date:   [**2196-9-5**]
+
+Date of Birth:  [**2112-2-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Aspirin
+
+Attending:[**First Name8 (NamePattern2) 812**]
+Chief Complaint:
+PCP:  [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+.
+CHIEF COMPLAINT:  BRBPR
+REASON FOR MICU ADMISSION: Acute GI Bleeding
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+84 y/o female with a couple of weeks of maroon colored stools,
+mid-epigastric pain of similar duration, that prompted visit to
+her PCP today, who referred her to the ED.
+
+She has noticed that she maroonish/red blood during bowel
+movements, but sometimes can feel sensation of blood when
+walking, not on the toilet. She has not had diarrhea, but has
+had an increase in bowel movement frequency up to 3 a day
+sometimes. There is no description of dripping blood.
+
+In the ED, initial VS:  15:55 7 97.4 73 149/53 18 97
+Her hematocrit was found to be 20 here, down from near 30 at
+last check in [**2196-2-7**]. By report, she has been
+hemodynamically stable. She endorses some SOB but this is not
+acute, and she has not experienced any chest pain.
+
+She had a NG Lavage in the ED that was negative, though bile was
+not returned. There was maroon stool on digital rectal exam. She
+was given pantoprazole 40mg IV x1, 2L of normal saline. The case
+was discussed with GI on call, with plan for scope in the
+morning given her hemodynamic stability.
+
+She is accompanied by her son.
+
+Currently in the ICU, she is pain free.
+.
+ROS: + weight loss 128lbs->114 over 3 years.
+Denies fever, chills, night sweats, , congestion, sore throat,
+cough, acutely worsened shortness of breath, chest pain, nausea,
+vomiting, diarrhea, constipation
+
+
+Past Medical History:
+Coronary Artery Disease, baseline LBBB
+- MIBI [**1-/2196**] 1. No definite perfusion defect
+              2. Increased left ventricular cavity size
+                 global hypokinesis.
+              3. LVEF of 45%.
+
+Hypertension
+AFIB not on coumadin
+COPD  [**2194**] FEV1 89% Ratio 93%
+Colon CA S/P L Colectomy in [**2166**]
+S/P L THR (Secondary to OA) [**2187**]
+GERD
+Rectocele
+Achalasia [**4-13**] on esophageal motility study
+Shingles
+L femoral neck fx, s/p L hip arthroplasty [**12-11**]
+R hip OA
+L knee OA
+s/p fall in [**2-11**] with L femur periprosthetic fx, now healed
+T11, T12 compression fractures, now healed
+L3 compression fracture s/p vertebroplasty [**2196-2-2**]
+
+MOST RECENT COLONOSCOPY: [**4-/2191**]
+Polyp at 18 cm in the rectosigmoid (biopsy, polypectomy)
+Grade 2 internal hemorrhoids
+Otherwise normal Colonoscopy to cecum. There was melanosisoli
+involvement of the whole colon.; A small percentage of polyps or
+other lesions might be missed
+
+
+Social History:
+Lives alone in senior citizens building in [**Location (un) 583**], 2 children
+(one in [**Location (un) 4628**], one in [**State 4565**]).  Husband died 20 yr ago.
+Auschwitz Holocaust-survivor. Former factory worker. No history
+of smoking, EtOH or illegal drugs. Has a homemaker who visits
+1x/week. Has another person help her shower 3x/week and do her
+shopping. Comes from [**Location (un) 98105**].
+
+Family History:
+non-contributory
+
+Physical Exam:
+GENERAL:  Well appearing, hemodynamically stable
+HEENT:  Moint MM, no LAD in supraclavicular chains.
+CARDIAC:  Regular, no m/r/g
+LUNG:  clear
+ABDOMEN:  protuberant, soft, mild epigastric tenderness but no
+clear focus of tenderness
+EXT:  3+ b/l edema
+NEURO: PERRL, facial symmetry, preserved strength
+
+Pertinent Results:
+Trop-T: <0.01  MB: 5
+138  100  39  103   AGap=14
+4.2  28  1.2
+
+          80 &#8710;
+7.4 \ 6.6 &#8710;  / 199
+    / 20.6 &#8710; \
+ N:66.5 L:24.7 M:7.0 E:1.7 Bas:0.2
+PT: 12.5  PTT: 25.5  INR: 1.1
+
+.
+MICROBIOLOGY:  none
+.
+STUDIES:
+EKG:  old LBBB, HR 80.
+.
+CXR:  none
+
+ABDOMINAL CT SCAN:[**2196-9-2**]
+1. Segment of distal and terminal ileal wall thickening and
+enhancement,
+suggests enteritis; infectious vs inflammatory vs ischemic
+etiology.
+2. Bilateral breast calcifications again seen, for which
+correlation with
+mammography recommended.
+
+Hct at discharge was stable at 32.9.
+
+Brief Hospital Course:
+MICU COURSE:
+
+1. GI Bleeding: Likely lower GI bleed given maroon colored
+stools from either divercula or AVM and less likely upper GI
+bleed given negative NG lavage.  However, cannot rule this
+etiology out.  Surgery and GI were consulted in the ED.  Pt was
+placed on IV PPI [**Hospital1 **], made NPO except medications for possible
+EGD/colonoscopy by GI, and serial Hcts were followed.
+Abdominal CT showed some ? of colitis; thus GI recommended
+starting pt on ciprofloxacin and flagyl. The patient was
+transfused 2 pRBCs with appropriate response in his hematocrit.
+During MICU stay, pt remained hemodynamically stable.  Pt
+transferred to medicine service on [**9-3**].  GI to dictate whether
+study to be done as inpatient vs. outpatient.  Also sent
+yersinia and stool cultures.
+
+2. Acute Blood Loss Anemia: Transfused 2 pRBCs with appropriate
+bump in hematocrit.
+
+3. Acute Kidney Injury: Likely secondary to hypovolemia.
+Improved overnight after fluid resucitation.
+
+4. Atrial fibrillation: In NSR on admission to ICU. Not on
+warfarin.
+
+5. CAD: Most echo with EF of 60%, though prior MIBI estimated
+45%. Monitored for signs of volume overload with blood
+transfusions.
+
+6. GERD: IV PPI [**Hospital1 **] while ? UGI bleed.
+
+7. Depression  offer support; no acute inpatient management.
+
+8. Hypothyroidism: Checked TSH given amiodarone. Pt not on
+levothyroxine. TSH elevated and FT4 low.  Likely will need
+replacement.
+
+PPX: PPI, Pneumoboots, bowel regimen
+ACCESS: PIV  18g x2
+CODE:  DNR/DNI
+
+Ms. [**Name14 (STitle) 98106**] was subsequently transferred to the regular floor
+on [**9-3**].  At time of transfer, she was pain-free, had no acute
+complaints, was hemodynamically stable with HRs in the 60s, BP
+of 108/39, 94% RA.
+She was started on Ciprofloxacin/Flagyll for empiric coverage
+given her CT findings and GI suggested colonoscopy/endoscopy as
+outpatient.  The patient had an uncomplicated floor course with
+refusal of multiple medications including antibiotics and
+laxatives.  At the time of d/c she had not yet stooled, however,
+she had no rectal bleeding and her abdomen was not
+uncomfortable.
+It was thoughts that many of her sxs were due to hypothyroidism
+and she was discharged on Levothyroxine.
+Her Cr improved to baseline.
+
+Medications on Admission:
+warfarin 4mg po daily
+vitamin d 1000 units po daily
+alpha lipoic acid
+isordil 20 [**Hospital1 **]
+calc carbonate 1-2tabs q4-6h
+iron 325 qam
+lasix 80mg po daily
+lipitor 20mg po daily
+mvi po daily
+prilosec 40mg po daily
+aldactone 25mg po daily
+Insulin 70/30 30 units sc qam; 10 units qHS
+calcitriol 0.5mcg po thurs sat tues
+celexa 40mg po daily
+digoxin 0.125 po daily
+
+Discharge Medications:
+1. Amiodarone 200 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+2. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours).
+Disp:*14 Tablet(s)* Refills:*0*
+3. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every
+8 hours).
+Disp:*21 Tablet(s)* Refills:*0*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+5. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Senna 8.6 mg Capsule Sig: One (1) Capsule PO once a day.
+Disp:*30 Capsule(s)* Refills:*2*
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO once a
+day as needed for constipation.
+Disp:*30 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 **] Family & [**Hospital1 1926**] Services
+
+Discharge Diagnosis:
+1.  Gastrointestinal bleed
+2.  Ileitis (by CT scan)
+3.  Hypothyroidism, potentially induced by amiodarone
+
+
+Discharge Condition:
+Stable for home.  Ambulating on room air.  No acute complaints.
+
+
+
+Discharge Instructions:
+You were admitted with a diagnosis of blood in your stool.
+While in the hospital, we gave you some blood transfusions to
+bring your blood counts back up to normal.  They stayed within
+the normal range after that.  We aren't sure exactly where the
+bleeding was coming from - one possibility is that because you
+we

@@ -1,0 +1,205 @@
+Admission Date:  [**2128-4-10**]              Discharge Date:   [**2128-4-11**]
+
+Date of Birth:  [**2060-5-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3561**]
+Chief Complaint:
+liver failure`
+
+Major Surgical or Invasive Procedure:
+[**Last Name (LF) 14938**], [**First Name3 (LF) **], EGD
+
+History of Present Illness:
+Mr. [**Known lastname 46014**] s a 67 y/o male with a PMH significant for
+longstanding but "mild" EtOH abuse and depression who presented
+to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Hospital on [**4-9**] with SOB x 1 week, black
+stools, and weakness.  He admitted to recent worsening
+depression ever since being arrested for DUI and having his
+license taken away. He increased his EtOH use and has been in a
+"downward spiral" per his wife. [**Name (NI) **] was reportedly drinking vodka
+from morning until nightime, [**3-25**] drinks/day, with each "drink"
+being 3 shots at a time. He has had worsening peripheral
+neuropathy and falls in the past week and has been too weak to
+walk. He had SOB with exertion and several dark black stools
+without abdominal pain. No reported fevers.
+.
+He presented to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Hospital ER, where he was found to
+be hypotensive, in ARF (to 2.2), with multiple hepatic
+abnormalities including elevated INR of 1.8,  AST 1500, ALT 300,
+platelets 114. Was also acidotic to 7.18. He was admitted to
+their ICU and covered broadly with vancomycin and zosyn, and was
+started on a bicarb gtt to correct his acidosis. Viral hepatitis
+serologies and a tylenol level were sent. Overnight he was
+hypotensive to the 70's, with altered mental status. A head CT
+was negative.
+.
+This AM, he was more jaundiced and confused. His CBC has
+developed a 42% bandemia (WBC count of 2.6). AST was acutely
+elevated to 13,100, ALT 1686. INR elevated to 3.5, plts dropped
+to 62, and Cr up to 2.8. Additionally, blood cx from admission
+grew GNR 2/2 bottles. Repeat ABG pending but reportedly was
+maintaining O2 and airway, did not need intubation. He was
+started on phelyephrine periperhally and transfer was requested
+to [**Hospital1 18**] for liver transplant eval. [**Location (un) 7622**] was called.
+.
+On arrival to [**Hospital1 18**], he is alert and oriented x 3 and
+interactive. He denies ingestion of tylenol or any other
+medication. He does state that he had "hepatitis from well
+water" in the distant past.
+
+
+Past Medical History:
+# EtOH abuse as per HPI
+# COPD
+# h/o R nephrectomy for RCC in [**2118**]
+# s/p ventral hernia repair
+# h/o rib fractures c/b flail chest and splenic hematoma
+
+
+Social History:
+- Tobacco: smokes [**11-24**] ppd, has cut down from 1ppd x many years
+- Alcohol: as per HPI
+- Illicits: denies any h/o IVDU
+
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: 96.5 BP: 81/66 P: 112 R: 27 O2: 96% 4L NC
+General: jaundiced, tremulous, but A+O x 3
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: scattered anterior wheezes, bibasilar inspiratory
+crackles
+CV: regular tachycardia, no murmurs, rubs, gallops
+Abdomen:  non-tender, distended, + ascites with fluid wave
+Rectal: dark black stool strongly guaiac positive
+Neuro: marked asterixis
+Ext: warm, well perfused, 2+ pulses
+Skin: no spider angiomata. Many scattered ecchymoses, on RLE, R
+shoudler, sacrum, R hip, from prior falls
+
+
+Pertinent Results:
+OSH:
+AST/ALT 13,[**Telephone/Fax (1) 85464**]
+tbili/dbili 10.7/6.7
+albumin 3.2
+amylase/lipase 133/956
+TSH WNL
+3 negative troponins
+HCT 29.5
+INR 3.5
+Plts 35
+Cr 2.8
+lactate 15.5
+tylenol level PND
+.
+Micro:
+OSH:
+BCx growing GNRs
+UCx PND
+viral hepatitis panel PND.
+.
+Images:
+OSH:
+[**4-9**] Head CT: unremarkable
+[**4-9**] Abd CT: ascites, fatty liver, s/p right nephrectomy.
+.
+EKG:
+sinus tachycardia, L axis, normal intervals, no diagnostic Q
+waves, no ST depressions/elevations
+.
+
+[**2128-4-10**] 04:24PM ASCITES  TOT PROT-1.0 ALBUMIN-<1.0
+[**2128-4-10**] 04:24PM ASCITES  WBC-[**Numeric Identifier **]* RBC-4000* POLYS-93*
+LYMPHS-1* MONOS-6*
+[**2128-4-10**] 04:00PM   TYPE-[**Last Name (un) **] PO2-51* PCO2-43 PH-7.20* TOTAL
+CO2-18* BASE XS--10 COMMENTS-GREEN TOP
+[**2128-4-10**] 04:00PM   LACTATE-11.2*
+[**2128-4-10**] 04:00PM   O2 SAT-74
+[**2128-4-10**] 03:52PM   GLUCOSE-87 UREA N-41* CREAT-2.7* SODIUM-134
+POTASSIUM-3.9 CHLORIDE-86* TOTAL CO2-17* ANION GAP-35*
+[**2128-4-10**] 03:52PM   ALT(SGPT)-1624* AST(SGOT)-[**Numeric Identifier **]*
+LD(LDH)-7800* ALK PHOS-248* AMYLASE-296* TOT BILI-13.1*
+[**2128-4-10**] 03:52PM   LIPASE-[**2098**]*
+[**2128-4-10**] 03:52PM   ALBUMIN-3.9 CALCIUM-7.4* PHOSPHATE-3.1
+MAGNESIUM-1.4* IRON-221*
+[**2128-4-10**] 03:52PM   calTIBC-203* FERRITIN-GREATER TH TRF-156*
+[**2128-4-10**] 03:52PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2128-4-10**] 03:52PM   WBC-7.2 RBC-3.46* HGB-10.3* HCT-32.6* MCV-94
+MCH-29.8 MCHC-31.6 RDW-19.7*
+[**2128-4-10**] 03:52PM   NEUTS-24* BANDS-40* LYMPHS-15* MONOS-8 EOS-0
+BASOS-0 ATYPS-0 METAS-12* MYELOS-1* NUC RBCS-6*
+[**2128-4-10**] 03:52PM   HYPOCHROM-2+ ANISOCYT-2+ POIKILOCY-1+
+MACROCYT-2+ MICROCYT-1+ POLYCHROM-NORMAL OVALOCYT-OCCASIONAL
+STIPPLED-2+ HOW-JOL-1+ PAPPENHEI-2+
+[**2128-4-10**] 03:52PM   PLT SMR-LOW PLT COUNT-84*
+[**2128-4-10**] 03:52PM   PT-23.1* PTT-38.7* INR(PT)-2.2*
+.
+ABD U/S:
+1. Liver cirrhosis and intra-abdominal ascites.
+2. Patent main portal vein with normal color and Doppler flow.
+The portal
+vein branches are not seen. Patent main, right and left hepatic
+arteries.
+3. Splenomegaly.
+4. Common bile duct and gallbladder are not well seen.
+.
+CXR: FINDINGS: The trachea is deviated to the right as it enters
+the chest. The endotracheal tube is adjacent to the right
+lateral wall of the trachea. The tip is 4.4 cm above the carina.
+There is bilateral lower lobe volume loss with bilateral pleural
+effusions. The right IJ line tip is in the right atrium. The
+etiology of the tracheal deviation would best be assessed by CT
+scan.
+
+
+Brief Hospital Course:
+Patient was admitted to the MICU with acute liver failure. He
+underwent paracentesis that revealed SBP and was treated with
+broad spectrum abx (Vanc/zosyn/cipro). He required intubation
+for respiratory distress. He had a [**Month/Day/Year 14938**] and a line placed. He was
+persistently hypotensive and required 3 pressors (vasopressin,
+levophed, neo). He then had a large hct drop to 18. GI was
+consulted and EGD showed profuse bleeding in the stomach. GI was
+unable to pass [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 10045**] tube into the stomach. At this point
+the family confirmed that the patient would not want heroic
+measures and he was transitioned to comfort measures only. He
+died shortly thereafter at 3:05 pm.
+
+Medications on Admission:
+Transfer Medications:
+Zosyn 2.25g IV q6h ([**4-9**] - )
+Vancomycin (1g dose given in ED on [**4-9**] at 7PM)
+Duonebs q4h prn SOB
+zofran IV 4mg q8h prn
+ativan 0.5 - 1mg po IV prn withdrawal or anxiety
+
+Discharge Medications:
+Deceased
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Deceased
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+Deceased
+
+Followup Instructions:
+Deceased
+
+
+Completed by:[**2128-4-11**]

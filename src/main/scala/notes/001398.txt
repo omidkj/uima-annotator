@@ -1,0 +1,201 @@
+Admission Date:  [**2156-8-1**]              Discharge Date:   [**2156-8-12**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 358**]
+Chief Complaint:
+epigastric/chest pain
+
+Major Surgical or Invasive Procedure:
+ERCP with stent placement, no sphincterotomy seconary to
+supratheraputic INR
+
+History of Present Illness:
+HPI: 87yo man with h/o CAD s/p CABG [**2141**], mult PCI since,
+ischemic CMY with LVEF 35%, Afib on coumadin, possible AS and/or
+MR, diet controlled DM2, ?CRI, gout, who presented to [**Hospital **]
+Hospital at 4am on [**2156-8-1**] with pain in his epigastrium and
+chest, and was transferred here out of concern for cholangitis.
+The patient reports intermittent discomfort in his chest and
+epigastrium which began 1-2 weeks ago, with no precipitating
+factors such as exertion or food. He describes it as a cramping
+pain, with radiation to his R shoulder, but not to his back or
+arms. He did say that it felt worse at night while lying down.
+The pain felt different than his prior angina, and he treated it
+with Tylenol with some relief. However, on the night PTA, the
+pain recurred and he was unable to get back to sleep. His wife
+called EMS, and he was [**Name (NI) 4045**] to [**Hospital **] Hospital. ROS is notable
+for: chronic DOE, prehaps with some increase over baseline;
+increase in his RLE swelling (has chronic L>R edema from prior
+surgeries; denies F/C/V, diarrhea, constipation, changes in
+stool or urine color or frequency. He does have some erythema
+and swelling of his left 5th digit, which started 3 weeks ago,
+and which he thinks may have been from a bug bite.
+
+At [**Hospital **] Hospital, he was found to have EKG without change and
+normal cardiac enzymes. CXR showed bilateral pleural effusions,
+L>R. He was felt to be in CHF on exam, given Lasix for diuresis.
+His labs came back with WBC 12.4 with 88% PMNs, 8% bands, and
+abnl LFTs (AST 122, ALT 54, AP 307, TBili 3.3, DBili 2.5, TProt
+7.3, Alb 3.5). His lipase was elevated at 2214, and his BUN and
+Cr were elevated at 36/1.4, unclear if chronic or acute. An abd
+u/s revealed several small gallstones in the gallbladder,
+without thickening of his GB walls, and with no biliary
+dilatation. He received Levaquin + CTX, vomited once and
+received Zofran. His INR was 2.8, and he was given 5mg Vit K sq
+once (no FFP). After discussion with the ERCP fellow at [**Hospital1 18**],
+the patient was transferred here for further care and plan for
+ERCP.
+
+Past Medical History:
+CAD s/p CABG [**2141**], mult PCI since
+ischemic cardiomyopathy with LVEF 35%
+cardiac murmur consistent with MR
+Afib on coumadin
+DM2, diet controlled
+CKD (?)
+gout
+
+
+Social History:
+SH: lives at home with his wife on the [**Location (un) 1121**]; previously
+smoked pipes and cigars, quit several years ago and then
+restarted, quit again 2 weeks ago. Rare etoh use. No illicits.
+Worked as a Master Craftsman for GTE until 21y ago, since
+retired. Still crafts things for enjoyment. Does not have a
+garden or work outside often.
+.
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+Afebrile, mild hypertension to 140/100, sats >90% on room air
+Gen -- pleasant, cooperative
+HEENT -- poor dentition, op clear, anicteric sclera, conjunctiva
+nonerythematous, neck supple, no carotid bruit.
+Heart -- regular, holosystolic murmur at apex not radiating to
+carotids
+Lungs -- clear bilaterally
+Abd -- soft, nontender, mildly distended, appropriate bowel
+sounds
+Ext -- no edema, rash or lesion
+Gait -- unsteady
+
+Pertinent Results:
+[**2156-8-1**] 07:20PM   GLUCOSE-69* UREA N-36* CREAT-1.6* SODIUM-139
+POTASSIUM-3.6 CHLORIDE-101 TOTAL CO2-28 ANION GAP-14
+[**2156-8-1**] 07:20PM   ALT(SGPT)-64* AST(SGOT)-141* ALK PHOS-309*
+AMYLASE-901*
+[**2156-8-1**] 07:20PM   DIGOXIN-0.8*
+[**2156-8-1**] 07:20PM   WBC-16.6* RBC-3.54* HGB-13.0* HCT-38.9*
+MCV-110* MCH-36.6* MCHC-33.4 RDW-15.4
+[**2156-8-1**] 07:20PM   NEUTS-74* BANDS-20* LYMPHS-2* MONOS-2 EOS-0
+BASOS-0 ATYPS-0 METAS-1* MYELOS-1* NUC RBCS-1*
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is an 87 year old male admitted [**2156-8-4**] as a trasfer
+from [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 4046**] to the [**Hospital Unit Name 153**] for sepsis/pancreatitis.
+
+1. pancreatitis/E.coli septicemia -- ERCP revealed obstructive
+gallstone, and a stent was placed.  Outside blood cultures
+positive for pan sensitive E. coli.  He received antibiotics,
+including initially rocephin at outside hospital, ampicillin on
+transfer, then ciprofloxacin since [**8-5**], with a stop date
+planned for [**2156-8-16**].  A follow up appointment as an outpatient
+for repeat ERCP and stent removal should be planned for [**4-12**]
+weeks post discharge (initial ERCP date [**2156-8-4**]).  He improved
+dramatically after ERCP, with no abdominal pain and tolerating a
+full diet on discharge.
+
+2. acute renal failure -- improved to baseline with Lasix and
+supportive care of sepsis.  ACE inhibitor and digoxin held.
+
+3. CAD/ischemic cardiomyopathy -- some question of ACS on
+admission, however no ECG changes and symptoms consistent with
+pancreatitis.  His antiplatelet medications were held due to
+interventions, and should be held 10 days post ERCP.  His beta
+blocker was restarted when he improved from his inital
+presentation.  A statin was added during his hospitalization as
+well, and should be followed up with liver enzymes and lipid
+profile in 5 weeks after discharge.  His home dose Lasix was
+restarted as well, three days prior to discharge.
+
+4. atrial fibrillation/coumadin -- Mr. [**Known lastname **] received FFP on
+presentation in order to perform ERCP.  After the procedure, it
+was restarted at his home dose of 4 mg po qhs.  However, his INR
+was affected by the simulateous administration of ciprofloxacin,
+and was supratheraputic to 3.6 on [**2155-8-12**].  It was held the night
+prior to discharge, with instructions for the rehab facility to
+follow INR closely, and adjust coumadin appropriately.  He was
+rate controlled appropriately throughout his hospitalization,
+although his digoxin was held secondary to renal insufficiency.
+It can be restarted at the discretion of his primary physician.
+
+5. hypertension -- mildly elevated blood pressures in the latter
+part of his hospitalization, controlled with Lasix and
+metoprolol.  ACE inhibitor held initially because of renal
+insufficiency.  Restarted day prior to discharge.  He should
+have Crt/potassium checked one week after restarting ace
+(instructions given to rehab facility).
+
+
+Medications on Admission:
+unknown
+
+Discharge Medications:
+1. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24
+hours).
+2. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+5. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 5 days.
+6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. lisinopril 5 mg po qday
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 4047**] Nursing & Rehabilitation Center - [**Location (un) 4047**]
+
+Discharge Diagnosis:
+1. gallstone pancreatitis s/p ERCP with stent placement
+2. E.coli sepsis, resolved
+3. acute renal failure, resolved
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were hospitalized with gallstone pancreatitis in the ICU.
+You had acute renal failure, which recovered to your normal
+kidney function.  You will be discharged to a rehabilitation
+facility in order to gain strength and continue to receive help
+with your medications.
+
+Followup Instructions:
+Follow up with Dr. [**Last Name (STitle) 3278**] in one week.  You should be evaluated
+as an outpatient for obstructive sleep apnea.
+The gastroenterology outpatient clinic will call you with a
+follow up appointment for ERCP and common bile duct stent
+removal.
+
+

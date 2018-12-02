@@ -1,0 +1,218 @@
+Admission Date:  [**2124-10-24**]              Discharge Date:   [**2124-10-30**]
+
+Date of Birth:  [**2044-1-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 905**]
+Chief Complaint:
+PCP: [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]
+.
+cc: fatigue and SOB
+
+Major Surgical or Invasive Procedure:
+right IJ central line
+
+History of Present Illness:
+History obtained from patient, wife and family.
+.
+80 yo male w/ recent hospitalizfation for diverticular bleed,
+h/o stroke, h/o CAD and MI, CRI who p/w few days of malaise and
+SOB.  Pt was feeling reasonably well since his last admission
+when his wife brought him to [**Name (NI) 2025**] for increasing SOB over last
+few days.  Per pt and family, he has been having progressive
+fatigue over last months with decrreased interest in activity.
+He has been feeling lethargic and wife reports increased
+somnolence.  He reports an increase in his thirst but denies
+polyuria or polydypsia and has no h/o diabetes.  He has been
+feeling light headed and his appetite as been low over past few
+days.  Pt endorses some increase in LE swelling, +orthopnea and
+occasional PND.  He denies chest pain or palipations. He denies
+any fevers or chills, weight loss or weight gain, abdominal
+pain, dysuria or hematuria.  He has chronic black stools and is
+on iron but denies any BRBPR.  He uses a walker to get around
+[**1-21**] residual right-sided weakness after sroke.  Pt is not on
+home oxygen and has 25-30 pack year smoking hx, quit 20 years
+ago.  He takes tiotropium daily but denies h/o asthma or COPD.
+Pt had nml Echo [**2122**] w/ EF >55%. He denies any changes in his
+medications and denies any new weakness.  Wife does report
+increase in slurred speech over past few weeks.
+.
+Pt was transferred from [**Hospital1 2025**] ED where he was noted to be in
+a-flutter. He received lasix 20mg IV, Metop 25mg PO, atrovent
+nebs.  Head Ct was ordered but results not reported.
+
+Past Medical History:
+- h/o GI bleed, diverticulitis and recent hospitalization
+- C. Diff colitis
+- h/o stroke 12 years ago w/ right-sided weakness
+- h/o nephrolithiasis w/ stent and nephrostomy tube
+- CAD s/p MI
+- sleep apnea
+- h/o supplemental oxygen
+- thrombocytopenia
+- h/o klebsiella urosepsis
+- CRI BL Cr 1.2-1.7, 2.5 last admission w/ GI bleed
+- sleep apnea
+- depression
+.
+MEDS:
+metoprolol 25mg [**Hospital1 **]
+Iron 325mg TID
+Tiotropium 18mcg daily
+
+Social History:
+Lives with wife [**Name (NI) **], h/o smoking [**12-21**] PPD for 50 years, quit
+20 years ago, does not drink alcohol, no drugs.
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: 96.3  112/68  68 24 97% on 2L
+Gen'l: obese, sleepy, NAD
+HEENT: NC/AT, EOMI, MMM, OP clear
+NECK: IJ in place, site c/d/i, unable to assess JVD
+CVS: NR/RR, +s1/s2 but distant heart sounds, no murmur
+appreciated
+PUL: ([**Last Name (un) **]) ronchorous breathing, difficult to assess, pt too
+lethargic to sit up
+[**Last Name (un) **]: obese, +BS, soft, NT/ND, no masses
+Extrems: no c/c/e
+Pulses: 2+ radial, 2+ DP
+Neuro/Psyche: oriented to name, place, year, season, current
+events; unable to recite days of week backwards
+
+Pertinent Results:
+12:45pm: Trop-T: 0.04
+CK: 33  MB: Notdone
+.
+u/a:
+mod leuks, large bld, neg nit, tr prot, neg glu, neg ket, >50
+RBCs, 21-50 WBC, mod bacteria
+.
+03:55am
+.
+140  106  113
+--------------< 110
+4.6  18  4.3
+.
+CK: 36  MB: Notdone  Trop-T: 0.05
+.
+ALT: 34 AP: 194 Tbili: 0.4
+AST: 20 LDH: 182
+[**Doctor First Name **]: 59
+proBNP: 9866
+.
+T4: 7.5
+.
+Lactate:1.0
+.
+9.0  > 29.5 <  330 D
+N:85.3 Band:0 L:11.8 M:1.7 E:0.9 Bas:0.2
+.
+PT: 15.1  PTT: 28.3  INR: 1.4
+.
+RENAL U/S:
+The study is limited by body habitus. The kidneys demonstrate a
+homogenous echotexture, although are slightly hyperechoic to the
+liver which may indicate underlying medical renal disease. There
+is no evidence of hydronephrosis, mass or stone. No definite
+stent is seen. IMPRESSION: No evidence of hydronephrosis.
+.
+CXR:
+IMPRESSION: Right IJ terminates at the cavoatrial junction. No
+acute cardiopulmonary disease is identified. Stable
+cardiomegaly, suggestive of possible cardiomyopathy.
+.
+EKG: 4:1<-->2:1 flutter; EKG#2 4:1 flutter w/ LAD and LAFB, no
+ST segment changes; flutter not noted on prior EKGs
+.
+ECHO [**2123-6-16**]
+The left atrium is mildly dilated. The left ventricular cavity
+size is normal. Due to suboptimal technical quality, a focal
+wall motion abnormality cannot be fully excluded. Overall left
+ventricular systolic function is normal (LVEF>55%). The right
+ventricle may be mildly dilated. Right ventricular systolic
+function is normal. The aortic valve leaflets (3) are mildly
+thickened. There is no aortic valve stenosis. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. The tricuspid valve leaflets are mildly thickened.
+There is no pericardial effusion. Compared with the prior study
+(images reviewed) of [**2122-3-24**], estimated pulmonary artery
+systolic pressure is now higher.
+.
+p-mibi [**2121**] negative
+
+
+Brief Hospital Course:
+80 yo male w/ h/o diastolic CHF, CAD s/p MI, chronic renal
+insufficiency (Cr 1.3-1.7), h/o lower GI bleed, diverticulosis,
+CVA, C.diff, urosepsis who presents to the ED at [**Hospital1 18**] with
+several days of shortness of breath, gradually worseing fatigue,
+acute on chronic renal failure and newly diagnosed atrial
+flutter.
+.
+1. Dyspnea
+The most likely etiology was CHF exacerbation secondary to new
+atrial flutter. BNP was elevated to 9866 on admission. Chest
+x-ray on admission showed possible pleural effusion on left side
+and stable cardiomegaly. EKG showed new atrial flutter with no
+evidence of acute myocardial ischemia. Cardiac enzymes x 3 were
+negative. The patient received Lasix 20 mg IV x 2. He had good
+urine output and denied any dyspnea during his hospital stay. He
+was on oxygen 2L nc which was d/c'd on HOD3.
+.
+2. Fatigue
+His fatigue had started 1-2 months PTA and was most likely
+secondary to his CHF and recent lower GI bleed/anemia. Other
+contributing causes were uremia (BUN 113) and atrial flutter.
+His Hct on admission was 29.3. His Hct in the past have been
+between 26-35. His guaiac tests were all negative. Another
+contributing was an UTI and bacteremia. His urine culture and
+blood culture were positive for E.coli.
+On HOD3 he felt much better and was not exhausted any mor.
+.
+3. Atrial flutter
+Possible etilogy was the UTI and bacteremia and CHF
+exacerbation. Thyrotoxicosis was unlikely as T4 was normal.
+Electrophysiology was consulted and did not change his
+metoprolol. He was started on aspirin but no anticoagulation due
+to his risk for GI bleed. He got an ECHO which showed LVEF >
+55%, and minor changes from last ECHO.
+.
+4. Acute renal failure
+The patient's Cr was 4.3 on admission with baseline Cr 1.3-1.7.
+The most likely cause was pre-renal, cardiogenic acute renal
+failure resulting from hypoperfusion of kidneys secondary to CHF
+and decreased stroke volume. Post-renal cause was unlikely since
+renal US was negative for any hydronephrosis. Renal cause was
+unlikely since there are no urine casts, no RBC, no protein.
+His Cr improved daily and he had good urine output.
+.
+5. UTI
+Patient had positive UA with urine cx E.coli, sensitive to
+ceftriaxone and ciprofloxacin.  He had no c/o dysuria, hematuria
+while in the hospital. He was treated with Ceftriaxone 1 grm IV
+q24h while in the hospital and he will be discharged on cipro to
+complete a 14 day course.
+.
+6. Bacteremia
+Blood culture was positive for E.coli, sensitive to ceftriaxone
+and ciprofloxacin. He had no signs of sepsis. No tachycardia, no
+fever or hypothermia. WBC decreasing. He was treated with
+Ceftriaxone 1 grm IV q24h while in the hospital and he will be
+discharged on cipro to complete a 14 day course.
+.
+7. Hyperkalemia
+The patient's potassium increased to 5.2 on [**10-26**]. This was most
+likely related to acute renal insufficiency. EKG showed no
+peaked T waves. He received Kayexalate and his potssium
+decreased to 4.7. He was placed on a renal/low K diet.
+.
+8. Gastrointestinal bleed:
+Patient has  history of recurrent bleeds in the past. During
+this admission, he was noted to have several large bloody bowe

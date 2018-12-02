@@ -1,0 +1,225 @@
+Admission Date:  [**2165-8-20**]              Discharge Date:   [**2165-8-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+Lomefloxacin
+
+Attending:[**First Name3 (LF) 106**]
+Chief Complaint:
+VT storm
+
+Major Surgical or Invasive Procedure:
+Ventricular tachycardia ablation
+
+
+History of Present Illness:
+85 year old man with chronic AF on coumadin, hypertension,
+non-ischemic cardiomyopathy with LVEF 30%, s/p BiV ICD, hx of VT
+with recent admission to CCH [**2165-7-28**] with VT storm s/p amio load
+presented to OSH on [**2165-8-12**] after his telemed monitor noted a HR
+of 130. At the OSH he converted spontaneously to a paced rhythm.
+He was continued on Amio as he had intermittent bursts of VT -
+always asymptomatic and hemodynamically stable while in VT. Seen
+by Dr. [**Last Name (STitle) 19911**] on that admission and ICD was reprogrammed with
+antitachycardia pacing at 115-150bpm without shock, 150-200 low
+dose shock, and thereafter high dose shock. He had an episode of
+acute systolic heart failure treated successfully with diuresis
+on this admission as well. He was then discharged home. Over the
+weekend he remained asymptomatic and then on [**2165-8-20**] he felt
+light-headed and felt his ICD fire X 2. He called EMS who
+recorded initially Vtach with a pulse although intermittently
+was paced as well. He denied chest pain, palpitations, syncope,
+SOB. He received valium for anxiety and was transferred to CCH.
+In the ER at CCH, he was having runs of NSVT from 15-20 beats
+per minute. He was seen by cardiology who recommended transfer
+to [**Hospital1 18**] for VT ablation.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia (+) Hypertension (+)
+2. CARDIAC HISTORY:
+-CABG:
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+-PACING/ICD: Non-ischemic CM with [**Company 1543**] ICD on [**2-17**] with
+upgrade to A-lead on [**9-19**] with upgrade to [**Hospital1 **]-V ICD in [**10-23**].
+Generator change [**2162**]. Trial of amio for recurrent VT with
+shocks [**8-20**]. Stopped Amio in [**2159**].
+3. OTHER PAST MEDICAL HISTORY:
+Chronic AFib
+Non-ischemic CM with EF 30%
+Hypothyroidism after Amio use in the past
+Left total hip replacement
+Diverticulosis
+Gout
+
+
+Social History:
+ Married. lives with his wife. Non-[**Name2 (NI) 1818**], non-drinker.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: T=97.8 BP=96/56 HR= 130s->70s RR=16O2 sat= 97% 3L NC
+GENERAL: WDWN M in NAD. Sleeping but arousable.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with no elevation of JVP
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g.
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, no
+crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. Groin site bandaged without evidence of
+oozing
+PULSES:
+Right: DP 1+ PT 1+
+Left: DP 1+ PT 1+
+
+
+Pertinent Results:
+Labs on admission:
+[**2165-8-20**] 11:15PM BLOOD WBC-10.1 RBC-3.61* Hgb-11.2* Hct-35.9*
+MCV-99* MCH-31.1 MCHC-31.3 RDW-15.3 Plt Ct-161
+[**2165-8-21**] 05:07AM BLOOD PT-17.0* PTT-29.8 INR(PT)-1.5*
+[**2165-8-20**] 11:15PM BLOOD Glucose-124* UreaN-64* Creat-2.0* Na-139
+K-5.2* Cl-109* HCO3-21* AnGap-14
+[**2165-8-20**] 11:15PM BLOOD Calcium-8.9 Phos-3.0 Mg-2.6
+.
+Labs on discharge:
+[**2165-8-23**] 07:30AM BLOOD WBC-9.6 RBC-3.42* Hgb-10.7* Hct-34.4*
+MCV-100* MCH-31.2 MCHC-31.1 RDW-15.9* Plt Ct-175
+[**2165-8-23**] 07:30AM BLOOD Neuts-77.5* Lymphs-12.1* Monos-6.1
+Eos-3.7 Baso-0.5
+[**2165-8-23**] 07:30AM BLOOD Plt Ct-175
+[**2165-8-23**] 07:30AM BLOOD Glucose-113* UreaN-67* Creat-2.1* Na-137
+K-5.0 Cl-104 HCO3-25 AnGap-13
+[**2165-8-23**] 07:30AM BLOOD Calcium-9.1 Phos-2.7 Mg-2.4
+[**2165-8-22**] 04:07AM BLOOD TSH-7.2*
+[**2165-8-23**] 08:19AM BLOOD QUINIDINE-PND
+.
+
+
+Brief Hospital Course:
+85 year old man with history of non-ischemic cardiomyopathy with
+EF 30% and recurrent VT despite Amiodarone treatment in past
+admitted post-VT ablation to CMI service now transferred to CCU
+with sustained VT and hypotension.
+.
+# RHYTHM: Patient with VT s/p ablation procedure, who
+experienced VT of different morphology post-ablation. Per EP,
+the patient's original VT was likely ablated, unmasking another
+focus of VT.  Prior to transfer to CCU patient was in sustained
+VT not responsive to anti-tachycardia pacing from his ICD X 6
+trials. In the CCU, he was successfully V-paced and initially
+treated with amiodarone.  Quinidine gluconate was added with
+good rhythm control, and serial ECGs showed no signifant
+prolongation of QTc.  In addition, his coreg was switched to
+metoprolol and he was continued on his home dose of coumadin
+with close monitoring of INRs.
+.
+# HYPOTENSION: Initially felt to be medication induced as the
+patient had received multiple blood pressure medications along
+with lasix prior to CCU transfer.  Hypotension initially
+persisted after the patient was converted to a paced rhythm.  BP
+medications and lasix were intially held, and the hypotension
+resolved.  The patient remained asymptomatic throughout with no
+orthostasis, dizziness, or chest pain.
+.
+# CORONARIES: The patient has no known history of CAD. Troponins
+were negative X 1 at OSH ED.  He was continued on home dose of
+enalapril, and coreg changed to metoprolol as above.
+.
+# PUMP: The patient has a history of non-ischemic cardiomyopathy
+and systolic heart failure with TTE showing an LVEF of 30%.  He
+was continued on home dose of enalapril and lasix, coreg changed
+to metoprolol as above.
+.
+#. Chronic Renal insufficiency: Cr 1.9-2.1, which is his
+baseline per OSH records. All medications were renally dosed and
+his creatinine was monitored daily while inpatient.
+.
+# Hypothyroidism: Continued on home dose synthroid.
+.
+# Gout: Continued on home dose allopurinol.
+.
+# FEN/GI: Low sodium / Heart healthy, Diabetic/Consistent
+Carbohydrate Diet.  Bowel regimen with senna and colace.
+.
+# CODE: Full Code.
+
+
+Medications on Admission:
+Amiodarone 400mg [**Hospital1 **]
+Coreg 12.5mg [**Hospital1 **]
+Enalapril 10mg daily
+Lasix 40mg daily
+MVI
+Magnate
+Synthroid 100mg Daily
+Warfarin
+Allopurinol 100mg daily
+
+
+Discharge Medications:
+1. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM: Take one full tablet 2 times per week and [**12-21**] tablet 5 times
+per week. .
+Disp:*30 Tablet(s)* Refills:*2*
+3. Enalapril Maleate 10 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Quinidine Gluconate 324 mg Tablet Sustained Release Sig: One
+(1) Tablet Sustained Release PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release(s)* Refills:*2*
+9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Outpatient Lab Work
+Check PT/INR on [**First Name8 (NamePattern2) 1017**] [**8-25**] and call results to Dr. [**Last Name (STitle) 14890**]
+at [**Telephone/Fax (1) 84818**]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA Assoc. of [**Hospital3 **]
+
+Discharge Diagnosis:
+Ventricular tachycardia
+Acute on chronic Systolic congestive Heart Failure
+Non-ischemic Cardiomyopathy
+
+
+Discharge Condition:
+Stable. Quinidine level pnd. INR 2.4.
+
+
+Discharge Instructions:
+You were transferred for a procedure called ventricular
+tachycardia ablation. Two new medicines were started to control
+the ventricular tachycardia.
+Activity restrictions as per discharge instructions. Please
+watch your groin areas for any signs of bleeding, swelling or
+redness.
+.
+Contact Dr [**Last Name (STitle) 14890**] if you have symptoms of cheat pain, shortness
+of breath, if you receive a shock, dizziness, nausea or concerns
+about healing at the groin site.
+Coumadin has been restarted. Please have a coumadin level (INR)
+done on [**First Name8 (NamePattern2) 1017**] [**8-25**] with results to Dr. [**Last Name (STitle) 14890**].
+A Qunidine level was se

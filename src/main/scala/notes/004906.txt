@@ -1,0 +1,217 @@
+Admission Date:  [**2181-7-13**]              Discharge Date:   [**2181-7-24**]
+
+Date of Birth:  [**2102-3-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 8104**]
+Chief Complaint:
+LE edema and SOA
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname 2727**] is a 79 yo man who has had right LE swelling over the
+last two days in addition to SOB.  He initially presented to
+[**Hospital **] hospital where CTA showed multiple PE's and a thoracic
+aorta mural thrombus.  He was give lovenox 90 mg and then sent
+to [**Hospital1 18**] for further tx and evaluation.  Vascular surgery saw
+the patient in the ED and did not want to do any surgery at this
+point.  Pt was admitted to the [**Hospital Unit Name 153**] to monitor mental status and
+to initiate anticoagulation therapy.
+
+Past Medical History:
+Prostate CA s/p radiation
+Hypercholesterolemia
+COPD
+Daughter denied history of CHF, CAD, stroke, DM, CKD and GIB
+
+Social History:
+Positive for alcohol and tobacco use: 6beers and 2 shots/day,
+60pack year hx. Lives with his son.
+
+Physical Exam:
+Per Dr. [**First Name8 (NamePattern2) 402**] [**Last Name (NamePattern1) **]
+VS on transfer from [**Location (un) **]: T 95.3, P 74, BP 112/60, RR 16,
+93-99% 4L
+General: NAD, appears comfortable in bed
+Lungs: crackles at bases b/l, wheezing diffusely
+Heart: muffled heart sounds
+Abd: + BS, soft/obese, NTND
+Extremities: R >> L LE swelling, right 3+ pitting edema;
+diminished pulses on palpation but dopplerable.
+Neuro: AA, Ox3, CN II - XII in tact
+
+
+Pertinent Results:
+Labs ([**2181-7-13**]) 04:27
+
+134  100  17          AGap=13
+-------------< 97
+4.7  26  0.9
+
+Ca: 8.4 Mg: 2.2 P: 3.8
+ALT: 16 AP: 68 Tbili: 1.4 Alb: 3.5
+AST: 28 LDH: 358
+PSA: 0.01
+     14.2
+7.7 >-----< 192
+      44.0
+
+N:69.2 L:17.2 M:6.6 E:6.6 Bas:0.4
+
+OSH Imaging:
+Duplex US: right LE DVT from the common femoral vein to the
+popliteal vein.
+.
+CT Head: no ICH or mass effect, perventricular small vessel
+ischemia 9left parietal lobe)
+.
+CTA Chest:
+1. extensive mural thrombus through the thoracic aorta involving
+the arch and descending aorta as well as abdominal aorta.
+2. pulmonary emboli at the junction of the R upper and middle
+lobe arteries. Other emboli in RML, RLL, and LLL arteries.
+3. 2x1 cm left adrenal mass
+
+
+Brief Hospital Course:
+79 yo man remote hx prostate cancer, presenting to OSH with RLE
+swelling and found to have multiple regions of thromboses
+including DVT, PE, aortic mural thrombosis
+
+1) Multiple thromboses, both arterial and venous:
+a) RLE DVT
+b) Extensive mural thrombus of aortic arch and descending
+abdominal aorta
+c) PE: junction right upper and right middle lob artery; also PE
+of RML, RLL, LLL distal vessel
+
+Vascular surgery was consulted on arrival to ED and felt pt did
+not have clinical need for surgical intervention/thrombectomy at
+this time.  He remained hemodynamically stable but was admitted
+to ICU for close observation due to his significant clot burden.
+ On admission pt was placed on heparin drip and started on
+coumadin. Etiology of clots are unknown; denies hx of prior
+clots or FH of hypercoagulable state. Patient has a distant
+history of prostate cancer (previously seen by a radiation
+oncologist) but PSA ([**2181-7-13**]) was found to be 0.1.  Given an
+adrenal nodule of undetermined significance on OSH CT, an
+adrenal protocol CT scan was done that showed adrenal
+hyperplasia but no evidence of malignancy. Retroperitoneal and
+periportal lymph nodes were found to be enlarged but not meeting
+pathologic criteria. LDH, Cr, CBC, and Ca were normal. He will
+need outpt age-appropriate cancer screening as well as f/u in
+with hematology (Dr. [**Last Name (STitle) **] for evaluation of
+hypercoagulablity. He has also been instructed to initiate care
+with a new PCP.  [**Name10 (NameIs) **] was initiated on coumadin, and will have his
+INR followed at rehab. After that he will need to have his INR
+monitored by his new PCP, [**Name10 (NameIs) **] perhaps the [**Hospital3 **]
+in [**Location (un) 620**].
+
+2) COPD:  Pt was placed on 4L NC on admission, given nebs for
+mild sx of dyspnea.  Sx likely related to PE; no evidence of
+COPD flare. He also had small bilateral effusions with
+associated compressive atelectasis, likely related to his
+systolic heart failure. His O2 requirement decreased slightly
+with gentle diuresis.
+
+3) Alcohol abuse: Pt has a history of alcohol abuse and seemed
+to be confabulating at times.  Pt was started on folate,
+thiamine, and electrolytes were monitored.  Due to alcohol use
+pt was thought to be at high risk for gastritis and was started
+on PPI prophylaxis.  Pt was given valium for withdrawal
+prophylaxis in ICU.  After discussion with patient's family, it
+was felt that patient was at his baseline mental status.
+
+4) Eosinophilia of unclear significance: developed in-house. As
+the absolute eosinophil count was less than 1000 and he had no
+signs or symptoms of allergic drug reaction or end-organ damage.
+ He will need to have this monitored in the outpatient setting.
+
+5) Systolic heart failure: the patient was found to have an EF
+of 35% by TTE. Calls to his current and prior PCP produced no
+evidence of having had prior echos. His heart failure is of
+unknown chronicity or etiology. He denies a history of CAD,
+although he has dyslipidemia. He was started on low-dose beta
+blocker and ACEI which he tolerated, and he was diuresed gently
+as above. He was made an appointment to follow up with an
+outpatient cardiologist.
+
+6) Aortic stenosis: He was found to have moderate to severe
+aortic stenosis of TTE. This is of unknown chronicity but the
+patient has been asymptomatic with no history of chest pain or
+syncope. Lasix was dosed cautiously given this finding, and he
+will follow up with an outpatient cardiologist.
+
+Medications on Admission:
+albuterol
+lipitor
+
+Discharge Medications:
+1. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+2. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation every six (6) hours as
+needed for SOB, wheezing.
+3. Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+4. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**1-10**] Sprays Nasal
+QID (4 times a day) as needed.
+8. Warfarin 2.5 mg Tablet Sig: Three (3) Tablet PO Once Daily at
+4 PM.
+9. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+10. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day:
+***This has been on  hold for the last 2 days of
+hospitalization****.
+11. Outpatient Lab Work
+Please check INR/PT on Thurs [**7-26**] and adjust coumadin as needed
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 582**] Of [**Location (un) 620**]
+
+Discharge Diagnosis:
+1) Multiple thromboses, both arterial and venous:
+a) RLE DVT
+b) Extensive mural thrombus of aortic arch and descending
+abdominal aorta
+c) PE: junction right upper and right middle lob artery; also PE
+of RML, RLL, LLL distal vessels
+d) aortic stenosis
+e) congestive heart failure
+f) mild eosinophia
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+You were admitted with multiple pulmonary emboli, a deep vein
+clot, and clots in your aorta.  You also have aortic stenosis
+(tight valve) and congestive heart failure. You were started on
+a medication that thins your blood.
+
+Please return to the emergency room should you develop shortness
+of breath, chest pain, lightheadness, or leg swelling. You
+should also return to the emergency room should you develop dark
+stools, blood in your stool, or abdominal pain.
+
+Followup Instructions:
+1) Cardiology: Friday [**8-10**] at 10:45am with Dr. [**First Name (STitle) **]
+[**Name (STitle) 50213**]. [**Hospital1 18**] [**Location (un) 620**]: [**Street Address(2) 3001**], [**Location (un) 620**], [**Numeric Identifier 3002**]
+Phone: [**Telephone/Fax (1) 79101**]
+
+2) Hematology/Oncology: Dr. [**First

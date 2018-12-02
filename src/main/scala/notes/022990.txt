@@ -1,0 +1,218 @@
+Admission Date:  [**2132-10-28**]              Discharge Date:   [**2132-11-6**]
+
+Date of Birth:  [**2066-2-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Cardiomyopathy and heart failure
+
+Major Surgical or Invasive Procedure:
+[**2132-10-28**]-Pacer/defibrillator generator change, attempted lead
+placement
+[**2132-10-29**] - Mini Left Thoracotomy with LV epicardial lead
+placement.
+
+
+History of Present Illness:
+This 66 year old black male with significant non-ischemic
+cardiomyopathy who underwent ICD implant in [**2128**].  He has NYHA
+Class II congestive heart failure
+with an EF of 30%. The patient was hospitalized in [**2132-9-11**]
+for a CHF
+exacerbation treated with intravenous diuretics.  The patient
+reports a moderate limitation with physical activity and a low
+energy level.  The patient reports shortness of breath with mild
+exertion relieved with rest.  The patient denies
+lightheadedness, palpitations, pre syncope, syncope or chest
+pain.  The patient denies rest symptoms. recent interrogation of
+his device revealed that he had episodes of non sustained VT, no
+episodes of sustained VT and no therapies were delivered.  The
+optiVol index was noted to be high implying ongoing heart
+failure. It was decided to proceed with upgrading his current
+device to a BIV/ICD.
+
+Past Medical History:
+Non ischemic cardionyopathy
+s/p gastric bypass
+hypertension
+gout
+obstructive sleep apnea
+
+Social History:
+Married and retired police officer. He denies tobacco or illicit
+drug use. Upon questioning, the patient has an extensive h/o
+alcohol use. He admits to being a heavy social drinker.
+
+
+Family History:
+Grandmother with CAD but no premature CAD in family. Mother with
+cancer, sister with DM.
+
+Physical Exam:
+Admission:
+Pulse: 67  Resp:20   O2 sat: not recorded -on room air
+B/P  138/87
+Height:  5 feet 8 inches
+Wt: 240 lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None []
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:   Left:
+DP           Right:2+   Left:2+
+PT           [**Name (NI) 167**]:   Left:
+Radial       Right:   Left:
+
+Carotid Bruit-none     Right: 2+   Left:2+
+
+
+Pertinent Results:
+[**2132-11-2**] 05:23AM BLOOD WBC-6.2 RBC-3.66* Hgb-11.1* Hct-32.0*
+MCV-88 MCH-30.5 MCHC-34.8 RDW-13.5 Plt Ct-171
+[**2132-11-1**] 02:58AM BLOOD WBC-7.9 RBC-3.56* Hgb-10.3* Hct-32.3*
+MCV-91 MCH-28.8 MCHC-31.8 RDW-14.0 Plt Ct-118*
+[**2132-11-3**] 06:03AM BLOOD UreaN-24* Creat-1.6* Na-140 K-4.2
+[**2132-11-2**] 05:23AM BLOOD Glucose-136* UreaN-21* Creat-1.5* Na-141
+K-3.8 Cl-103 HCO3-29 AnGap-13
+[**2132-11-1**] 02:58AM BLOOD Glucose-127* UreaN-25* Creat-1.6* Na-143
+K-4.2 Cl-109* HCO3-27 AnGap-11
+[**2132-10-31**] 12:51AM BLOOD Glucose-109* UreaN-30* Creat-2.3* Na-142
+K-4.8 Cl-111* HCO3-22 AnGap-14
+[**2132-10-30**] 03:13PM BLOOD Glucose-108* UreaN-29* Creat-2.7* Na-140
+K-5.0 Cl-108 HCO3-24 AnGap-13
+[**2132-10-30**] 02:37AM BLOOD UreaN-25* Creat-2.2* Na-141 K-4.3 Cl-107
+HCO3-23 AnGap-15
+[**2132-11-3**] 06:03AM BLOOD ALT-26 AST-31 LD(LDH)-262* AlkPhos-93
+Amylase-143* TotBili-1.2
+[**2132-11-1**] 02:58AM BLOOD Lipase-28
+[**2132-11-3**] 06:03AM BLOOD Albumin-3.4
+[**2132-10-29**] 07:15AM BLOOD %HbA1c-6.8*
+[**2132-10-31**] 09:28AM BLOOD Type-ART Temp-38.0 pO2-112* pCO2-54*
+pH-7.24* calTCO2-24 Base XS--4
+
+ECHO
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 275**]       [**Hospital1 18**] [**Numeric Identifier 109737**]TTE
+(Complete) Done [**2132-10-30**] at 12:12:19 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**Known firstname 275**] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 18**] Cardiac Electrophysiology
+[**Street Address(2) 8667**], [**Hospital Ward Name **] 4
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2066-2-16**]
+Age (years): 66 M  Hgt (in): 68
+BP (mm Hg): 108/57  Wgt (lb): 240
+HR (bpm): 101  BSA (m2): 2.21 m2
+Indication: Coronary artery disease. Left ventricular function.
+Right ventricular function. Shortness of breath.
+ICD-9 Codes: 786.05, 423.3, 424.0
+Test Information
+Date/Time: [**2132-10-30**] at 12:12    Interpret MD: [**First Name11 (Name Pattern1) 553**] [**Last Name (NamePattern4) 4133**],
+MD
+Test Type: TTE (Complete) Son[**Name (NI) 930**]: [**Name2 (NI) 8154**] Bzymek, RDCS
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2009W000-0:00 Machine: Other
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.5 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.4 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.5 cm  <= 5.0 cm
+Left Ventricle - Stroke Volume:  44 ml/beat
+Left Ventricle - Cardiac Output:  4.44 L/min
+Left Ventricle - Cardiac Index:  2.01  >= 2.0 L/min/M2
+Left Ventricle - Lateral Peak E':  0.18 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  4  < 15
+Aortic Valve - Peak Velocity:  0.9 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  3 mm Hg  < 20 mm Hg
+Aortic Valve - LVOT VTI:  14
+Aortic Valve - LVOT diam:  2.0 cm
+Aortic Valve - Valve Area:  *2.8 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  0.8 m/sec
+Mitral Valve - E Wave deceleration time:  201 ms  140-250 ms
+Tricuspid Valve - Peak Velocity:  0.0 m/sec
+TR Gradient (+ RA = PASP):  *30 mm Hg  <= 25 mm Hg
+Pulmonic Valve - Peak Velocity:  *2.4 m/sec  <= 1.5 m/sec
+
+Findings
+This study was compared to the prior study of [**2131-5-18**].
+LEFT ATRIUM: Dilated LA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. A catheter
+or pacing wire is seen in the RA.
+
+LEFT VENTRICLE: Normal LV wall thickness. Dilated LV cavity.
+Suboptimal technical quality, a focal LV wall motion abnormality
+cannot be fully excluded. Depressed LVEF.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Cannot assess
+regional RV systolic function.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Mild thickening of mitral valve
+chordae. Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Borderline PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion. No
+echocardiographic signs of tamponade.
+
+GENERAL COMMENTS: Suboptimal image quality - poor subcostal
+views. Suboptimal image quality - body habitus. The rhythm
+appears to be A-V paced.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+The left atrium is dilated. Left ventricular wall thicknesses
+are normal. The left ventricular cavity is dilated. Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. LV systolic function appears depressed
+(?30%) but images are suboptimal for assessment of wall motion.
+The right ventricular cavity is mildly dilated with grossly
+preserved contractility but views are suboptimal. The aortic
+valve leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve leaflets
+are mildly thickened. Trivial mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion. There are
+no echocardiographic signs of tamponade.
+
+Compared with the prior study (images reviewed) of [**2131-5-18**],
+left ventricular systolic function appears more vigorous in the
+setting of tachycardia.
+  Electronically signed by [**First Name11 (Name Pattern1) 553**] [**Last Name (NamePattern4) 4133**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2132-10-30**] 14:57
+
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 37160**] was admitt

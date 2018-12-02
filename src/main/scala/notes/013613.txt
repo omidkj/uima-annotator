@@ -1,0 +1,204 @@
+Admission Date:  [**2110-2-21**]              Discharge Date:   [**2110-3-13**]
+
+Date of Birth:  [**2033-5-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Aspirin
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+
+History of Present Illness:
+This 76yo with history of AF, DM2, moderate MR, severe TR and EF
+of 25-30% was transferred to [**Hospital1 **] for evaluation of NSVT.
+.
+  He had initially to his PCP [**2-20**] with difficulty focusing,
+shaking, and weakness, was found to be in CHF (BNP [**Numeric Identifier 41960**]).  He
+was transferred to Law Mem ED [**2-20**] in CHF and was diuresed with
+Bumex 2mg x3 overnight. This morning at OSH he had 25-30 beats
+of NSVT and was asymptomatic.  He was referred to [**Hospital1 18**] for EP
+consult and possible ICD vs BiV ICD.  Of note he was recently at
+OSH for treatment of pneumonia.
+
+
+Past Medical History:
+1. Prostate CA w/ rad in [**2097**]
+2. bowel lymphoma
+3. DM2
+4. depression
+5. MI w/ CABG [**2109**]
+6. CHF w/ EF 25-30% based upon Echo done here [**2110-2-22**]
+7. COPD
+8. s/p feet operations for hammer toes and fallen arch
+9. Aortic aneurism repair
+10. Colon cancer s/p resection
+
+
+Social History:
+Long history of smoking but quit 35 years ago, at peak 3 packs
+per day.  no drinking, worked as custodian.  Very involved
+family
+
+Family History:
+NC
+
+Physical Exam:
+Admission PE:
+VS: Temp 100.9, BP 91/57, P 58, RR 22, 99% on 6LNC
+Gen: thin older male, NAD
+HEENT: NC, AT, PERRLA, EOMI, JVP at 5 cm above clavicle
+Resp: barrel chested, decreased BS with crackles at the bases
+bilaterally
+CV: nml S1, S2, RRR. [**2-17**] SM@RUSB, 2/6 SEM at apex.
+ABD: large midline hernia, multiple scars. +BS. Soft, NT, ND
+Ext: 1+ LE edema. palpable pulses bilat.
+Neuro: A&Ox3
+
+Pertinent Results:
+GLUCOSE-56* UREA N-25* CREAT-1.0 SODIUM-140 POTASSIUM-3.7
+CHLORIDE-99 TOTAL CO2-32  CALCIUM-8.4 PHOSPHATE-3.5
+MAGNESIUM-1.7
+[**2110-2-21**] 07:10PM
+WBC-6.5 RBC-3.55* HGB-11.6* HCT-33.5* MCV-94 MCH-32.8* MCHC-34.8
+RDW-17.1* PLT COUNT-187
+PT-13.8* PTT-23.1 INR(PT)-1.2*
+
+EKG:  NSR, IVCD, wavy baseline so unclear intervals.
+.
+ECHO [**2110-3-4**]: Overall left ventricular systolic function is
+severely depressed. [Intrinsic left ventricular systolic
+function is likely more depressed given the severity of valvular
+regurgitation.] Resting regional wall motion abnormalities
+include inferior akinesis/hypokinesis and adjoining
+inferolateral hypokinesis. The aortic valve leaflets are mildly
+thickened. There is no aortic valve stenosis. Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Moderate (2+) mitral regurgitation is seen. Moderate
+[2+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension.  Compared to the prior
+study of [**2110-2-22**] (images reviewed) mitral regurgitation is now
+similar to slightly more prominent.
+.
+pMIBI: [**2-27**]:
+1. Large, severe, mildly reversible inferior wall perfusion
+defect and large,moderate, predominantly fixed anterior and
+apical perfusion abnormalities.  2. Left ventricular dilatation
+and global hypokinesis with an ejection fraction of 28%. 3. No
+anginal symptoms or EKG changes.
+.
+Cardiac catheterization [**3-4**]:
+1. Native three vessel coronary artery disease.
+2. Patent SVG-Ramus, SVG-D1, and SVG-PDA. External, functional
+systolic
+compression of SVG-PDA.
+3. Patent LIMA-LAD.
+4. Successful placement of a drug-eluting stent in the LAD.
+5. Successful placement of a drug-eluting stent in the LMCA.
+
+[**2110-3-3**] CXR:  Status post CABG. There is slight cardiomegaly
+with mild upper zone redistribution and small bilateral pleural
+effusions consistent with CHF. No pulmonary consolidation.
+Minimal atelectasis, left lung base.
+IMPRESSION: CHF. No overt pulmonary edema or pneumonia.
+
+[**3-11**] CXR: Progression of CHF with increasing amount of pleural
+effusions.
+
+[**3-8**] colonoscopy: Extensive diverticulosis of the throughout
+colon
+Irregular vasculature , friability and erythema in the rectum
+and sigmoid colon compatible with radiation proctitis. Internal
+hemorrhoids with stigmata of recent bleeding. Bleeding possibly
+from radiation proctitis vs. hemorrhoids
+
+[**3-7**] LE U/S:  No DVT in either the right or left lower
+extremity.
+.
+DFA for influenza, Legionella antigen both negative.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 76 yo m transferred from OSH for evaluation of
+cardiac disease. He was undergoing workup for ICD vs. BiV ICD at
+an OSH.  However he began spiking temperatures and his planned
+p-MIBI was delayed.  He was treated with Levofloxacin for
+pneumonia (? of LLL Pna on CXR from OSH).  He continued to spike
+temperatures to 102.6 on [**2-24**].  The evening of [**2-24**] he had an
+episode of hypotension with SBP in the 70s which resolved with
+IV fluids.  PT worked with him and afterwards he had hypotension
+with sytolic BPs in the 80s and increased O2 requirement.  He
+got 3 250cc boluses with little effect, was placed on 6L FM.
+Given concern over his severe CHF there was hesitancy to
+continue giving too much IV fluid.  The MICU team was called to
+evaluate him and he was transferred to MICU.
+
+In the MICU, the patient was not given additional hydration
+given poor heart function and normalization of BP. Because his
+blood pressure stabilized, he did not require the addition of
+pressors overnight.  Blood pressure medications were held. He
+remained afebrile during his time there and antibiotics were
+discontinued.  DFA was DFA was negative for influenza. Pt has a
+h/o lymphoma, so low grade fevers and neight sweats could be
+explained by the recurrence of his disease.  Patient should
+follow up with his oncologist if these symptmoms persist.
+
+Stress mibi showed global hypokinesis and LV dilatation, an EF
+of 28% and a large, severe, mildly reversible inferior wall
+perfusion defect and large, moderate, predominantly fixed
+anterior and apical perfusion abnormalities. Cardiac
+catheterization showed three vessel disease and a stent was
+placed in the 90% occluded LCA.  He also had dynamic obstruction
+of one branch of his twin LAD likely [**2-13**] obstruction from a
+sternal wire or bone spur. We did not re-stent this obstruction
+and cardiac surgery did not believe that replacing the sternal
+wire was indicated.  The patient was placed on ASA and plavix,
+which should continue for 9 months.  He is also discharged on a
+beta blocker and ACE inhibitorHe had a complication of GI bleed,
+but colonoscopy was negative except for large hemorrhoids. He
+was started on a steroid suppository for hemorrhoid treatment
+and GIbleeding decreased. His hematocrit remained stable for
+several days prior to discharge.
+
+The patient has ischemic CM with EF of 25-30%.  Cath
+hemodynamics revealed elevated filling pressures.  He was
+diuresed during his stay. He required 2LNC oxygen for O2 sats
+abovve 95% and it is unclear what extent this is secondary to
+CHF versus COPD.  He ambulated without O2 on the day of
+discharge and felt mildly short of breath. He is discharged with
+BB, ACE inhibitor, and lasix.
+
+The patient continued to have many runs of assymptomatic NSVT
+throughout his stay. He was evaluated by the electrophysiology
+team, however, due to his recent stent placement ICd cannot be
+placed at this time, as fibrillating the heard to test an ICD
+would be contraindicated. He should follow up with Dr. [**Last Name (STitle) **]
+as an outpatient in [**Month (only) 958**] to discuss ICD placement in the
+future. He should be kept on telemetry at rehab.
+
+During his stay the patient was kept on a diabetic diet and
+followed with an insulin slide scale. He was also kept on his
+usual inhalers and prn nebs for COPD.
+
+He is discharged to a rehab facility, where he should have his
+blood pressure monitored (goal as low as tolerated, sbp 80s-90s
+acceptable), work with PT and weaned off his O2. He will follow
+up as an outpatient with Dr. [**Last Name (STitle) **], and with his usual
+cardiologist.
+
+Medications on Admission:
+tiotropium 1cap qd
+lipitor 10mg qd
+plavix 75mg qd
+advair 250/50mcg [**Hospital1 **]
+heparin sc
+ativan 0.5-1mg po qhs prn
+paroxetine 20mg qd
+ssinsulin
+pantopra

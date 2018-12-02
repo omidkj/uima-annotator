@@ -1,0 +1,234 @@
+Admission Date:  [**2153-7-26**]              Discharge Date:   [**2153-8-1**]
+
+Date of Birth:  [**2073-7-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+CHEST PAIN
+
+Major Surgical or Invasive Procedure:
+CABG x5 (Lima->Lad, SVG->OM1&2/RCA/PLV)
+
+
+History of Present Illness:
+80yo M with history of DMII now with exertional CP and positive
+stress test referred for outpt. stress test.
+
+Past Medical History:
+HTN
+Hyperlipidemia
+DMII
+h/o increased LFTs
+HOH
+
+Social History:
+quit tobacco 30-40yo
+ETOH:2-3 beers/day
+retired [**Hospital1 **] carpenter
+
+Family History:
+denies CAD
+
+Physical Exam:
+ADMISSION PE:
+VSS: 5'7", 183Lbs, RR-18,P-78,142/80
+General: NAD
+HEENT: WNL
+Lungs: CTA (B)
+CVS: RRR
+ABD: soft/NT/ND + BS
+EXT: warm, N0 C/C/E
+
+Pertinent Results:
+[**2153-7-31**] 06:35AM BLOOD WBC-8.6 RBC-3.25* Hgb-10.4* Hct-29.4*
+MCV-90 MCH-31.9 MCHC-35.2* RDW-15.1 Plt Ct-190#
+[**2153-7-26**] 12:30PM BLOOD WBC-4.1 RBC-3.32* Hgb-10.8* Hct-30.4*
+MCV-92 MCH-32.4* MCHC-35.4* RDW-14.8 Plt Ct-137*
+[**2153-7-28**] 03:40AM BLOOD PT-15.4* PTT-36.9* INR(PT)-1.4*
+[**2153-7-26**] 12:30PM BLOOD PT-15.1* PTT-34.7 INR(PT)-1.3*
+[**2153-7-31**] 06:35AM BLOOD Glucose-110* UreaN-18 Creat-0.7 Na-140
+K-3.5 Cl-103 HCO3-28 AnGap-13
+[**2153-7-26**] 12:30PM BLOOD Glucose-136* UreaN-17 Creat-0.6 Na-139
+K-4.0 Cl-107 HCO3-23 AnGap-13
+[**2153-7-26**] 12:30PM BLOOD ALT-38 AST-49* CK(CPK)-59 AlkPhos-131*
+Amylase-11 TotBili-0.9 DirBili-0.3 IndBili-0.6
+    [**Known lastname **] [**Known lastname 108702**],[**Known firstname **] [**Medical Record Number 108703**] M  80  [**2073-7-16**]
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2153-7-29**]
+10:14 AM
+
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] CSRU [**2153-7-29**] SCHED
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 108704**]
+Reason: s/p ct d/c
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   80 year old man with
+REASON FOR THIS EXAMINATION:
+   s/p ct d/c
+
+
+
+Final Report
+HISTORY: Status post DC of chest tube.
+
+CHEST, SINGLE AP VIEW.
+
+Compared with [**2153-7-27**], multiple lines and tubes have been
+removed, including a
+left-sided chest tube. Still seen is a right IJ sheath tip over
+proximal SVC.
+The patient is status post sternotomy, with enlarged
+cardiomediastinal
+silhouette, which is stable. There is patchy opacity in the left
+perihilar
+region and left base, improved compared with [**2153-7-27**]. Minimal
+atelectasis or
+scarring is present at the right base.
+
+No pneumothorax is identified. However, subtle pneumothorax
+might be obscured
+on this view due to the overlying first rib.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 4343**]
+Approved: SUN [**2153-7-29**] 2:41 PM
+
+  Imaging Lab
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **] [**Known lastname 108702**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 108705**] (Complete)
+Done [**2153-7-27**] at 11:22:32 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2073-7-16**]
+Age (years): 80 M  Hgt (in): 67
+BP (mm Hg): 130/70  Wgt (lb): 180
+HR (bpm): 60  BSA (m2): 1.94 m2
+Indication: Coronary artery bypass grafting
+ICD-9 Codes: 440.0, 424.1
+Test Information
+Date/Time: [**2153-7-27**] at 11:22    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW01-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.6 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.7 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.5 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.5 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.7 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30%  >= 55%
+Aorta - Sinus Level:  *3.9 cm  <= 3.6 cm
+Aorta - Ascending:  *3.6 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec
+
+Findings
+Poor Transgastric windows
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size.
+No LV aneurysm. Moderate regional LV systolic dysfunction. No LV
+mass/thrombus. Moderately depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Mildly dilated aortic sinus. Focal calcifications in
+aortic root. Normal ascending aorta diameter. Focal
+calcifications in ascending aorta. Normal aortic arch diameter.
+Complex (>4mm) atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild (1+) AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Moderate mitral annular calcification. No MS. Physiologic MR
+(within normal limits).
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+There is moderate symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. No left ventricular
+aneurysm is seen. There is moderate regional left ventricular
+systolic dysfunction with moderate hypokinesis mid and distal
+segments of anteriior, anteroseptal and lateral walls.. No
+masses or thrombi are seen in the left ventricle. Overall left
+ventricular systolic function is moderately depressed (LVEF=30
+%).
+Right ventricular chamber size and free wall motion are normal.
+The aortic root is mildly dilated at the sinus level. There are
+complex (>4mm) atheroma in the descending thoracic aorta. The
+aortic valve leaflets (3) are mildly thickened. There is no
+aortic valve stenosis.
+Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are moderately thickened. Physiologic mitral
+regurgitation is seen (within normal limits).
+There is no pericardial effusion. Dr. [**Last Name (STitle) 914**] was notified in
+person of the results on [**Known firstname 449**] [**Last Name (NamePattern1) 108706**] at 8:30AM.
+
+Post-Bypass:
+Normal RV systolic function.
+Overall LVEF 45%.
+Thoracic aortic contour is intact.
+Mild AI.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Interpretation assigned to [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician
+
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] [**Known lastname **] is an 80yo M taken to the Operating room on
+[**2153-7-27**] with Dr.[**Last Name (STitle) 914**] and underwent a CABGx 5 with Lima
+grafted to the LAD, SVG to the Diag1/2, OM, and PLV. BPT=116
+min, XCT=96min. Please refer to Dr[**Last Name (STitle) 5305**] Operative report
+for further details. He was transferred to the CVICU intubated,
+requiring low dose levophed. Otolaryngology was consulted
+postoperatively for bleeding from the oropharynx.
+Reccommendations were followed/appreciated, and

@@ -1,0 +1,198 @@
+Admission Date:  [**2122-5-12**]              Discharge Date:   [**2122-5-15**]
+
+Date of Birth:  [**2061-4-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Doctor First Name 1402**]
+Chief Complaint:
+admitted for VT ablation
+
+Major Surgical or Invasive Procedure:
+1. VT ablation
+2. Endotracheal intubation
+
+
+History of Present Illness:
+59 y/o man with hx. AMI in [**2094**] with resulatant apical aneurysm
+and VT, EF 17%, s/p amio, ICD with ATP pacing, VT ablation [**2119**],
+admitted for repeat VT ablation [**3-13**] recurrent shocks on [**2122-4-22**]
+who had only non-clinical VT inducible in the EP lab today, and
+this was poorly tolerated hemodynamically. He underwent multiple
+shocks to get out of this rhythm and was hypotensive, beleived
+[**3-13**] myocardial "stunning" of multiple shocks. He was started on
+neosynephrine for BP support, and left intubated, admitted to
+the CCU for monitoring overnight. Plan is to start ASA, Warfarin
+s/p ablation attempt and given apical aneurysm. Device was
+reprogrammed to previous settings.
+
+Past Medical History:
+AMI [**2094**], as above
+DM
+
+Social History:
+Social history is significant for the absence of current tobacco
+use. There is no history of alcohol abuse. The patient resides
+in [**Country 2451**], but works in [**State 2690**] part of the year. He stays with his
+brother, [**Name (NI) **] [**Name (NI) 54432**] in [**State 2690**].
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.
+
+Physical Exam:
+Blood pressure was 105/59 mm Hg while seated. Pulse was 83
+beats/min and regular, respiratory rate was 12 breaths/min.
+Intubated, sedated.
+.
+There was no xanthalesma and conjunctiva were pink with no
+pallor or cyanosis of the oral mucosa. The neck was supple with
+JVP of 7 cm. The carotid waveform was normal. There was no
+thyromegaly. The were no chest wall deformities, scoliosis or
+kyphosis. The respirations were not labored and there were no
+use of accessory muscles. The lungs were clear to ascultation
+bilaterally with normal breath sounds and no adventitial sounds
+or rubs.
+.
+Palpation of the heart revealed the PMI to be located in the 5th
+intercostal space, mid clavicular line. There were no thrills,
+lifts or palpable S3 or S4. The heart sounds revealed a normal
+S1 and the S2 was normal. There were no rubs, murmurs, clicks or
+gallops.
+.
+The abdominal aorta was not enlarged by palpation. There was no
+hepatosplenomegaly or tenderness. The abdomen was soft nontender
+and nondistended. The extremities had no pallor, cyanosis,
+clubbing or edema. There were no abdominal, femoral or carotid
+bruits. Inspection and/or palpation of skin and subcutaneous
+tissue showed no stasis dermatitis, ulcers, scars, or xanthomas.
+
+.
+Pulses:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+[**2122-5-12**] 07:20PM   PLT COUNT-254
+[**2122-5-12**] 07:20PM   WBC-11.9* RBC-4.95 HGB-15.4 HCT-44.5 MCV-90
+MCH-31.0 MCHC-34.5 RDW-13.2
+[**2122-5-12**] 07:20PM   CALCIUM-8.6 PHOSPHATE-3.7 MAGNESIUM-2.0
+[**2122-5-12**] 07:20PM   estGFR-Using this
+[**2122-5-12**] 07:20PM   GLUCOSE-159* UREA N-16 CREAT-0.8 SODIUM-133
+POTASSIUM-3.5 CHLORIDE-101 TOTAL CO2-23 ANION GAP-13
+[**2122-5-12**] 10:17PM   LACTATE-1.1
+[**2122-5-12**] 10:17PM   TYPE-ART PO2-118* PCO2-36 PH-7.40 TOTAL
+CO2-23 BASE XS--1 INTUBATED-INTUBATED
+.
+IMAGING/STUDIES:
+[**2122-5-12**] FOCUSED TRANS-THROACIC ECHOCARDIOGRAM: The left
+ventricular cavity is severely dilated. Overall left ventricular
+systolic function is severely depressed. There is no pericardial
+effusion.
+.
+[**2122-5-14**] CARDIAC CATHETERIZATION: COMMENTS:
+1.  Coronary angiography of this right dominant system
+demonstrated 2 vessel coronary artery disease.  The LMCA had no
+angiographically apparent flow-limiting disease.  The LAD was
+occluded in the proximal segment.  The LCx had no angiographic
+evidence of flow-limiting disease. The RCA had an 80% stenosis
+in the mid, small posterolateral branch. 2.  Resting
+hemodynamics revealed elevated right and left sided filling
+pressure with a RVEDP of 17 mmHg and a mean PCWP of 30 mmHg.
+There was moderate pulmonary arterial hypertension with PA
+pressure of 56/33 mmHg. Systemic arterial pressure was normal at
+130/84 mmHg.  There was no transaortic valve gradient on
+pullback of the catheter from the LV to the aorta. FINAL
+DIAGNOSIS: 1. Two vessel coronary artery disease. 2. Marked
+elevation of filling pressures. 3. Moderate pulmonary arterial
+hypertension.
+
+Brief Hospital Course:
+Mr. [**Known lastname 54433**] is a 59 year old male with a past medical history of
+acute myocardial infarct approximately 30 years ago with an EF
+of 10 %, VT with ICD and ATP who was transferred to the CCU
+after attempted VT ablation. In the VT lab, patient required
+multiple shocks, became hypotensive post-procedure, was admitted
+to the CCU for monitoring.
+.
+1. VENTRICULAR TACHYCARDIA: The patient has had multiple
+episodes of V-TACH. He underwent VT ablation, but his VT was not
+induced. He did develop unstable VT in the EP lab requiring
+multiple shocks. He became hypotensive after the procedure
+requiring pressor support and fluid resuscitation. He was
+quickly weaned off of pressors upon arrival to the CCU. He
+remained intubated until the day after his procedure. He
+continued to have intermittent episodes of VT recorded on
+telemetry. However, he did not require further defibrillation by
+his ICD. He was started on anti-coagulation therapy for known
+apical aneurysm and post-VT ablation and this should be
+continued for 2 months. He is returning to [**Location (un) 36413**] for 2 weeks
+where Dr. [**First Name (STitle) 9723**] will follow his INR. He will then return to [**Country 2451**]
+where his PCP will monitor his INR.
+.
+2. CHF: The patient has poor cardiac ejection fraction at
+baseline. He did experience moderate symptoms of volume overload
+after being volume resuscitated for hypotension. He responded
+well to diuresis and tolerated self-extubation well. His home
+medication regimen was re-started when the patient was deemed
+hemodynamically stable.
+.
+3. CAD: The patient underwent cardiac catheterization during
+this admission to evaluate for a potential ischemic source of
+his VT. Cardiac catheterization demonstrated 80% lesion in the
+RCA and total occlusion of the proximal LAD. No intervention was
+performed. He was continued on ASA and beta-blocker. The patient
+would likely benefit from monitoring of his lipid profile and
+the addition of a statin product to his medical regimen. It is
+unclear whether he has received lipid lowering therapy in the
+past.
+.
+4. DM II: The patient was managed with sliding scale insulin. He
+was instructed to restart his home dose of Glyburide upon
+discharge.
+
+Medications on Admission:
+Carvedilol, Captopril, Lasix, Spirinolactone, Digoxin, ASA,
+Glyburide
+
+Discharge Medications:
+1. Warfarin 2 mg Tablet Sig: As directed Tablet PO at bedtime.
+Disp:*60 Tablet(s)* Refills:*2*
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+Disp:*90 Tablet(s)* Refills:*0*
+4. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO twice a day
+for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+5. Carvedilol 25 mg Tablet Sig: One (1) Tablet PO twice a day:
+Please start taking this medication in 7 days after discharge
+(Saturday [**2122-5-23**]).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) syringe
+Subcutaneous [**Hospital1 **] (2 times a day) for 3 days.
+Disp:*6 syringe* Refills:*0*
+8. Furosemide 40 mg Tablet Sig: One (1) Tablet PO EVERY OTHER
+DAY (Every Other Day).
+Disp:*15 Tablet(s)* Refills:*0*
+9. Diabetes medication - Glyburide
+Please resume your pre-hospitalization glyburide dose.
+10. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary
+1. Ventricular tachycardia
+2. CHF
+.

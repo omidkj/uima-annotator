@@ -1,0 +1,195 @@
+Admission Date:  [**2139-12-5**]              [**Month/Day/Year **] Date:   [**2139-12-5**]
+
+Date of Birth:  [**2057-5-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Aspirin / Bactrim / Nsaids
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Altered mental status
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This is an 82 yo female w/ bronchiectasis, CHF and COPD who
+presents with an acute change in mental status (became
+nonverbal). On EMS arrival to her home, she was found to be
+cyanotic and in respiratory distress. Was placed on NRB with
+sats to 90s. Family states she had a sore throat yesterday, but
+no cough or SOB that they noted. Also mention in records of ear
+pain and odynophagia last night, as well as chills.
+
+In the ED, initial VS: T 98.7 75/39 79 20 80s RA -> high 90s
+NRB. Placed on BiPAP, satting 100%. Patient told EMS she did not
+want to be intubated. ED paged her pulmonologist [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+re: intubation, and he said patient would not want to be
+intubated; family also agrees. Her PCO2 on BiPAP was 110 with pH
+7.05 so settings were increased from [**9-22**] to 15/8 with better Vt
+(repeat ABG/lactate pending). Family unsure re: central lines,
+DNR status. CXR with increased RUL infiltrate and ?dilated
+bowel, also ?UTI, so given levofloxacin, metronidazole,
+vancomycin, cefepime to include Pseudomonas given
+bronchiectasis. She received 1.5 L of NS. Head, abdominal CT
+performed to look for other sources of infection. Noncon CT head
+and abd unremarkable. Current VS: 80/paced 98/60 28 96%BiPAP. On
+2nd L IVF, on norepi 0.08 peripherally. Mental status improving.
+She was given 1 L NS on the floor.
+
+Note that remaining parts of hx (PMHx, Meds, SHx, FHX) are per
+records given acuity of patient's presentation and treatment.
+
+Past Medical History:
+#CAD - Cath ([**3-/2134**]) - LMCA and LCx, no disease; LAD: proximal
+and mid vessel 30% stenoses; RCA - mild luminal irregularities
+Pacemaker/ICD ([**Company 1543**] Sigma SDR303 B pacemaker), in [**1-/2132**]
+#Atrial fibrillation, status post AVJ ablation and DDD pacer
+#Congestive heart failure (EF 30% in [**2135**])
+#MV repair and TVR ([**4-/2132**])
+#Bronchiectasis with presumed pseudomonal colonization ([**Month (only) 404**]
+[**2135**] and treated with ceftazidime and azithromycin): Previously
+suffered exacerbations in [**Month (only) **] and [**2135-8-19**] that were
+treated with meropenem/ciprofloxacin and ceftazidime as
+outpatient
+#Depression
+#Hyperparathyroidism
+#Pan-sensitive E.coli UTI
+#DJD
+
+Social History:
+Lives in [**Location (un) 55**]. She worked as a lecturer on Egyptology
+at the MFA in [**Location (un) 86**]. Husband is deceased. She lives with her
+son and has an aid most days of the week. Has three sons, [**Name (NI) **],
+[**Name (NI) **] and [**Name (NI) **]. Quit smoking 30 years ago, had a 5 pack year
+history. Previously, she drank one drink/day but no ETOH now for
+many years.
+
+Family History:
+Her father and mother are both deceased. Her father had HTN. Her
+mother had [**Name (NI) 19917**] disease and died as an elderly woman. There
+is a negative family history of colon cancer, breast cancer,
+diabetes, and premature coronary artery disease. She has three
+natural children who are alive and well and one brother who is
+alive and well. She also has a 17 year old granddaughter
+recently diagnosed with melanoma.
+
+Physical Exam:
+VS: 96.9  93  103/47  20  100% on BPAP 15/8, FiO2 50%
+Gen: in severe respiratory distress on BPAP, unable to speak
+HEENT: EOMI, bruise on left maxilla [**1-20**] to recent MOHS
+Neck: No JVD, no thyromegaly, no LAD
+CVS: RRR, no MRG
+Pulm: diffuse coarse rhonchi, + retractions, labored breathing
+Abd: +BS, NTND, No HSM
+Extrem: no c/c/e
+Skin: no rashes
+Neuro: Aox3, appropriate
+
+Pertinent Results:
+[**2139-12-5**] 02:00PM BLOOD Type-ART pO2-140* pCO2-110* pH-7.05*
+calTCO2-33* Base XS--3 Intubat-NOT INTUBA
+[**2139-12-5**] 03:45PM BLOOD pO2-70* pCO2-71* pH-7.19* calTCO2-28 Base
+XS--2
+[**2139-12-5**] 06:19PM BLOOD Type-[**Last Name (un) **] pO2-21* pCO2-105* pH-7.07*
+calTCO2-32* Base XS--5
+[**2139-12-5**] 12:11PM BLOOD Glucose-93 Lactate-4.8* Na-140 K-7.6*
+Cl-97* calHCO3-30
+[**2139-12-5**] 12:35PM BLOOD Lactate-5.7* K-4.9
+[**2139-12-5**] 03:45PM BLOOD Lactate-1.7
+
+CXR [**2139-12-5**]: Stable appearance of the lungs since [**2139-4-4**].
+
+CT head [**2139-12-5**]: No acute intracranial pathological process, or
+overt change from prior study. MRI scanning is more sensitive
+than CT imaging in detecting acute brain ischemia.
+
+CT abd/pelvis [**2139-12-5**]:
+1. Limited exam without oral or IV contrast, but no evidence of
+intraabdominal catastrophe.
+2. Moderate bibasilar bronchiectasis.
+3. Significant vascular calcifications.
+4. Left renal hypodense lesion, likely a simple renal cyst.
+
+Brief Hospital Course:
+Patient presented with an acute change in mental status with
+hypercapnic respiratory distress. Appeared to be in setting of
+septic shock with potential sources being PNA and UTI. She was
+initially admitted on BPAP with pressure settings of 15/8.
+Initially, ABG showed improved ventilation and acidemia,
+although repeat ABG in the ICU showed worsening CO2 retention
+and acidemia despite high levels of pressure support (20/8). She
+was continued on broad antibiotics with
+vanco/cefepime/levofloxacin/ metronidazole and received 125mg IV
+methylprednisolone. She had arrived on peripheral
+norepinephrine, but was transitioned to IVF boluses when the PIV
+infusing norepinephrine was lost. Family meeting was held with
+her 3 sons and they wished to observe for improvement in the
+next few hours before deciding on how aggressive to treat her,
+but agreed to DNR/DNI, no CVC and no Aline at that time. Her BP
+continued to trend down to SBP in 70s with minimal UOP, and IVF
+were stopped given O2 sat 90% on 100% FiO2. Her RR was in
+40s-60s initially, and she received a dose of 1mg IV morphine
+for symptom control. After about 4 hrs from admission, her RR
+trended down to 10-12 suggesting she was unable to maintain
+appropriate ventilation. Her family then agreed that comfort was
+the priority and prn morphine was ordered; the patient expired
+shortly after and autopsy was declined.
+
+Medications on Admission:
+ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler - 2
+(Two) puffs by mouth every four (4)  to six (6) hours as needed
+for cough/wheezing
+ALENDRONATE [FOSAMAX] - 70 mg Tablet - 1 Tablet(s) by mouth q
+week
+CITALOPRAM [CELEXA] - 20 mg Tablet - 3 Tablet(s) by mouth once a
+day
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 250 mcg-50 mcg/Dose
+Disk
+with Device - 1 puff inhaled twice a day rinse after use
+FUROSEMIDE [LASIX] - 20 mg Tablet - 0.5 (One half) Tablet(s) by
+mouth once a day and increase as directed by Dr [**Last Name (STitle) **]
+LISINOPRIL - 5 mg Tablet - [**12-20**] Tablet(s) by mouth once a day
+LORAZEPAM - 0.5 mg Tablet - [**12-20**] Tablet(s) by mouth qhs  as
+needed
+for sleep
+SIMVASTATIN - 20 mg Tablet - 1 Tablet(s) by mouth once a day
+SPIRONOLACTONE - 25 mg Tablet - [**12-20**] Tablet(s) by mouth once a
+day
+TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg Capsule,
+w/Inhalation Device - 1 capsule inhaled once a day
+WARFARIN [COUMADIN] - 1 mg Tablet - Take up to 3 tablets by
+mouth
+once a day or as directed by [**Company 191**] Anti-Coag
+CALCIUM CITRATE-VITAMIN D3 -  (OTC) - 315 mg-200 unit Tablet - 3
+Tablet(s) by mouth once a day
+GUAIFENESIN [MUCINEX] -  (OTC) - 600 mg Tablet Sustained Release
+- 2 Tablet(s) by mouth twice a day prn
+MULTIVITAMIN -  (Prescribed by Other Provider; OTC) -   Tablet -
+1 Tablet(s) by mouth once a day
+
+[**Company **] Medications:
+Expired
+
+[**Company **] Disposition:
+Expired
+
+[**Company **] Diagnosis:
+Septic shock
+Hypercapnic respiratory failure
+Bronchiectasis
+
+[**Company **] Condition:
+Expired
+
+[**Company **] Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+
+Completed by:[**2139-12-7**]

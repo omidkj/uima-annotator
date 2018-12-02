@@ -1,0 +1,196 @@
+Admission Date:  [**2148-12-26**]              Discharge Date:   [**2148-12-29**]
+
+Date of Birth:  [**2063-2-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Tolectin / Dilantin Kapseal / Codeine / Cipro Cystitis / Ceftin
+/ Zithromax / Bactrim DS / Clindamycin / Influenza Virus Vaccine
+/ Doxycycline / Dicloxacillin / Vancomycin / Percocet
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+ Ms. [**Known lastname 98925**] is an 85-year-old female with a history of
+inflammatory polyarthritis, HTN, HL, s/p bowel resection for
+SBO, OA, MS, restrictive lung disease, c.diff, and recent
+admission for high grade SBO who presents from rehab with
+hypoxia, shortness of breath, and altered mental status.
+.
+From limited history available during initial evaluation, it
+appears as though patient was hypoxic into the 70s at [**First Name8 (NamePattern2) 3075**]
+[**Last Name (NamePattern1) **] rehab in [**Location (un) **], and was started on PNA treatment with
+doxycycline on [**2147-12-26**].  Labs obtained on the same day also
+showed a WBC of 15 and a bicarb of 40.  Patient was initially
+resistant to coming into the ED, but eventually acquiesced.
+.
+In the ED, initial vitals were: 98.4 76 168/60 24 98% 4L nasal
+Cannula.  Patient was given linazolid (allergy to vancomycin)
+and levofloxacin for presumed HAP.  She was also given a stress
+dose of steroids as she is on prednisone at baseline.  Pressures
+dropped into the 70s and RIJ was placed.  A fluid bolus was
+given and pressures came up; no pressors were started.  Labs
+were significant for a wbc of 11, a BUN of 40 and creatinine of
+1.2 (baseline of 0.6).  Troponin was elevated though only
+non-specific changes on EKG and patient was given ASA 81.
+Patient was confirmed DNR/DNI.  Vitals on admission were: HR of
+86, BP: 113/39, RR 29, 95% on 4L.
+
+Past Medical History:
+-Inflammatory polyarthritis
+-HTN
+-Hyperlipidemia
+-S/p bowel resection for small bowel obstruction
+-Osteoarthritis
+-S/p Left shoulder fracture
+-Multiple Sclerosis
+-Restrictive lung disease after episode of ARDS
+-Interstitial lung disease
+-Mild pulmonary hypertension
+-Iron deficiency anemia
+-Recurrent UTIs (K pneumo r to NFT; VRE)
+-Multiple lumbar compression fractures
+-Recurrent C.diff
+-recurrent PNAs
+
+Social History:
+She currently lives in nursing home after most recent admission.
+ Son and daughter live nearby and are involved.  She has been
+using a wheelchair most of the time, can walk with walker.
+
+
+Family History:
+No family history of pulmonary issues
+
+Physical Exam:
+Admission exam
+VS: 97.2, 82, 119/54, 95% 5L
+GENERAL:  Elderly woman, tachypneic, ucomfortable appearing
+HEENT:  Mucous membranes dry
+CHEST:  Diffusely rhonchorous with crackles bilaterally, coughs
+throughout exam
+CARDIAC: RRR, no MRG
+ABDOMEN: +BS, distended, non-tender
+EXTREMITIES:  No edema bilaterally
+
+Discharge exam
+Patient passed early morning of [**2148-12-29**]
+
+Pertinent Results:
+Admission labs
+[**2148-12-26**] 10:20PM BLOOD WBC-10.9 RBC-3.66* Hgb-8.7* Hct-29.4*
+MCV-80* MCH-23.8* MCHC-29.6* RDW-19.9* Plt Ct-363
+[**2148-12-26**] 10:20PM BLOOD Neuts-84.4* Lymphs-10.7* Monos-4.4
+Eos-0.4 Baso-0.2
+[**2148-12-26**] 10:20PM BLOOD PT-12.9* PTT-30.9 INR(PT)-1.2*
+[**2148-12-26**] 10:20PM BLOOD Glucose-128* UreaN-40* Creat-1.2* Na-143
+K-3.5 Cl-95* HCO3-42* AnGap-10
+[**2148-12-26**] 10:20PM BLOOD ALT-41* AST-35 CK(CPK)-71 AlkPhos-70
+[**2148-12-26**] 10:20PM BLOOD Lipase-23
+[**2148-12-26**] 10:20PM BLOOD CK-MB-4 proBNP-9323*
+[**2148-12-26**] 10:20PM BLOOD cTropnT-0.21*
+[**2148-12-26**] 10:20PM BLOOD Calcium-10.1 Phos-3.9 Mg-2.1
+[**2148-12-26**] 10:33PM BLOOD Lactate-1.0
+
+Discharge labs
+##########################
+Patient passed
+
+Studies
+CXR [**2147-12-27**]
+A new central venous catheter has been placed via right internal
+jugular venous approach. The tip terminates in the right atrium.
+A
+right-sided PICC line has been removed. The cardiac, mediastinal
+and hilar
+contours appear unchanged. There is a new patchy left basilar
+opacity
+suggesting pneumonia. Otherwise background opacities show no
+definitive
+change, although there may be additional developing right
+basilar opacity.
+Bony deformities are similar. IMPRESSION: New line terminating
+in the right atrium. No evidence for pneumothorax, although a
+flexed chin does obscure the medial right lung apex. Findings
+suggesting pneumonia, particularly in the left lower lung.
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 98925**] is an 85-year-old woman with a pmhx. significant for
+inflammatory polyarthritis on prednisone, HTN, HL, SBOs, recent
+c.diff colitis, and recent PNA who resides in a nursing home and
+presented with shortness of breath and elevated white count.
+.
+#. Pneumonia: The patient was noted to be hypoxic into the 70s
+at [**First Name8 (NamePattern2) 3075**] [**Last Name (NamePattern1) **] rehab in [**Location (un) **]. She was started on PNA
+treatment there with doxycycline on [**2147-12-26**].  Labs obtained on
+the same day showed a WBC of 15 and a bicarb of 40. ED visit was
+suggested but the patient was initially resistant. At the urging
+of her family, the patient was brought to the ED on [**2148-12-26**].
+In the ED the patient was initially HD stable. Given linezolid
+and levofloxacin for presumed HAP. Also given stress dose
+steroids. While in the ED the patient's SBP dropped into the 70s
+and RIJ was placed. A fluid bolus was given and pressures came
+up; no pressors were started. Transferred to the MICU. In the
+MICU the patient was placed on linezolid and cefepime initially.
+The cefepime was changed to levofloxacin. The patient remained
+afebrile and BPs remained stable. She refused a PICC line. Her
+respiratory status was tenuous and she was confirmed DNR/DNI.
+Intermittently desaturated to the 60-70% range on nasal cannula
+but refused face-tent or NRB. Family was consulted who did not
+want to force the patient to accept NRB/face-tent against her
+wishes. PICC line was also refused. On [**2148-12-28**] the patient
+continued to maintain adequate BPs and was transferred to the
+medical floor for further management.
+.
+#. GOALS OF CARE: The patient is DNR/DNI. Her son is her health
+care proxy. On admission here the paitent was refusing multiple
+interventions including mask ventilation and PICC line
+placement. Discussion was initiated with the patient's son and
+daughter who confirmed DNR/DNI but were not prepared to accept
+comfort focused care. Would like the patient to continue
+recieving antibiotic therapy. Palliative care was consulted who
+met with the patient and her family. On the floor patient was
+made comfortable and passed a few hours after transfer to the
+floor.
+.
+#. ELEVATED TROPONINS: Troponin was elevated to 0.21 on
+admission without worrisome EKG changes. CKMB was reassuring.
+Likely strain in the setting of acute infection.  Little concern
+for plaque rupture given absence of ST changes on EKG, chest
+pain, or other classic signs/symptoms of MI. Continued ASA and
+statin.
+.
+#. ACUTE RENAL FAILURE:  Patient with creatinine of 1.2 up from
+a baseline of 0.6.  Likely dehydration or could represent poor
+forward flow from CHF exacerbation. Resolved with fluid
+administration.
+.
+#. ILD:  Continued home inhalers and pulmonary toilet
+.
+#. HYPERLIPIDEMIA:  Continued statin
+
+
+Medications on Admission:
+1. sodium phosphates 19-7 gram/118 mL Enema Sig: One (1) enema
+Rectal DAILY (Daily) as needed for constipation.
+2. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+3. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+4. polyethylene glycol 3350 17 gram/dose Powder Sig: Seventeen
+(17) grams PO DAILY (Daily) as needed for constipation.
+5. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO DAILY
+(Daily) as needed for constipation.
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+7. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+
+note that prior dose was 40 [**Hospital1 6089**] and 20 [**Hospital

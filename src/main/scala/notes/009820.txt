@@ -1,0 +1,228 @@
+Admission Date:  [**2136-5-4**]              Discharge Date:   [**2136-5-15**]
+
+Date of Birth:  [**2058-7-7**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Amiodarone
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+recent vfib arrest
+
+Major Surgical or Invasive Procedure:
+redo sternotomy, AVR(21mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] Porcine)CABGx2(SVG>Ramus>OM),
+IABP placement [**5-7**]
+
+
+History of Present Illness:
+77 yo M s/p MI x 2 and CABG x 4 in [**2122**]. Did well until [**2136-2-10**]
+when he had a VF arrest and had cardiac cath with LCx and RCA
+stents at [**Last Name (un) 1724**]. He was also found to have [**1-24**]+ MR and was
+referred for surgery.He wears an external defib life vest.
+
+Past Medical History:
+chronic systolic heart failure, CAD s/p CABG x4 95, MI [**01**], 95,
+MR, B/L varicosities, HTN, NIDDM, BPH, hyperchol, Afib, COPD,
+CRI, external defibrillator, b/l hernia repairs
+
+Social History:
+retired engineer
+denies tobacco, etoh
+lives with wife
+
+Family History:
+NC
+
+Physical Exam:
+HR 72 RR 18 BP 142/78
+Elderly M in NAD
+Well healed median sternotomy
+Lungs CTAB
+Heart Irregular rhythm, +murmur
+Abdomen benign
+Extrem warm, no edema, 2+ pp
+
+71"  66.6 kg
+
+Pertinent Results:
+[**2136-5-14**] 06:45AM BLOOD WBC-10.3 RBC-3.37* Hgb-9.7* Hct-29.5*
+MCV-88 MCH-28.9 MCHC-32.9 RDW-16.2* Plt Ct-234
+[**2136-5-15**] 05:55AM BLOOD PT-14.1* INR(PT)-1.2*
+[**2136-5-14**] 06:45AM BLOOD Glucose-147* UreaN-32* Creat-0.9 Na-133
+K-4.8 Cl-94* HCO3-27 AnGap-17
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2136-5-14**] 2:56
+PM
+
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) 1112**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] FA6A [**2136-5-14**] SCHED
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 12606**]
+Reason: ptx s/p ct removal
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   77 year old man s/p CABG
+REASON FOR THIS EXAMINATION:
+   ptx s/p ct removal
+
+
+
+Final Report
+CLINICAL HISTORY: 77-year-old male status post CABG. Evaluate
+for
+pneumothorax status post chest tube removal.
+
+AP chest radiograph compared to [**2136-5-14**] at 10:32 a.m. shows
+removal of a
+left apical chest tube with subsequent small apical
+pneumothorax. The
+remainder of the exam is unchanged. The heart size remains
+moderately
+enlarged. Post surgical changes related to a median sternotomy
+and CABG are
+redemonstrated. No consolidation is identified. Small bilateral
+pleural
+effusions persist.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 12607**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 12608**]Portable TTE
+(Complete) Done [**2136-5-10**] at 3:05:36 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2058-7-7**]
+Age (years): 77 M  Hgt (in): 70
+BP (mm Hg): 110/49  Wgt (lb): 171
+HR (bpm): 110  BSA (m2): 1.95 m2
+Indication: s/p CABG, AVR
+ICD-9 Codes: V42.2, 414.8, 424.0
+Test Information
+Date/Time: [**2136-5-10**] at 15:05    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**Name2 (NI) **] F.
+[**Doctor Last Name **], RDCS
+Doppler: Full Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008W032-1:15 Machine: Vivid [**5-28**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.5 cm  <= 4.0 cm
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.9 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  5.1 cm
+Left Ventricle - Fractional Shortening:  *0.14  >= 0.29
+Left Ventricle - Ejection Fraction:  20% to 25%  >= 55%
+Aorta - Sinus Level:  3.0 cm  <= 3.6 cm
+Aortic Valve - Peak Velocity:  *2.1 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  18 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  10 mm Hg
+Mitral Valve - E Wave:  1.1 m/sec
+Mitral Valve - E Wave deceleration time:  *138 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *29 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: RA not well visualized.
+
+LEFT VENTRICLE: Mild symmetric LVH. Mildly dilated LV cavity.
+Severe regional LV systolic dysfunction. No LV mass/thrombus. No
+resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level.
+
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR). AVR
+well seated, normal leaflet/disc motion and transvalvular
+gradients.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. No
+MVP. Mild mitral annular calcification. Mild thickening of
+mitral valve chordae. Moderate to severe (3+) MR. LV inflow
+pattern c/w restrictive filling abnormality, with elevated LA
+pressure.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to
+moderate [[**11-23**]+] TR. Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is mildly
+dilated. There is severe regional left ventricular systolic
+dysfunction with anterior, anteroseptal and apical akinesis.
+There is moderate hypokinesis of the remaining segments (LVEF =
+20-25%). Right ventricular chamber size and free wall motion are
+normal. A bioprosthetic aortic valve prosthesis is present. The
+aortic valve prosthesis appears well seated, with normal leaflet
+motion and transvalvular gradients. No aortic regurgitation is
+seen. The mitral valve leaflets are moderately thickened. There
+is no mitral valve prolapse. Moderate to severe (3+) mitral
+regurgitation is seen. The left ventricular inflow pattern
+suggests a restrictive filling abnormality, with elevated left
+atrial pressure. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Dilated left ventricle with severe regional
+dysfunction, c/w multivessel CAD. Normally-functioning aortic
+valve bioprosthesis. Moderate to severe mitral regurgitation.
+Mild pulmonary hypertension.
+
+
+
+
+Brief Hospital Course:
+He was admitted to cardiac surgery preoperatively for IV heparin
+and preoperative testing. He was taken to the operating room on
+[**5-7**] where he underwent redo sternotomy, AVR and CABG x 2 and
+IABP placement, please see operative note for details.It was
+determined that his AS was more severe than anticipated, with
+some MR still present.  He was transferred to the ICU in stable
+condition on epinephrine and levophed. Chest tube was placed
+postoperatively for pneumothorax. IABP was dc'd and He was
+extubated on POD #1. He was seen by electrophysiology for ICD
+consideration but will continue to wear his life vest for 3
+months postop. He was transferred to the floor on POD #3.
+Mediastinal tubes removed and left pleural tube remained. Pacing
+wires removed without incident. Coumadin restarted for chronic A
+Fib.  Left chest tube removed with residual small left apical
+pneumothorax. He was ready for discharge home on POD #8.
+Coumadin to be followed by [**Hospital1 2025**] coumadin clinic as prior to
+surgery.
+
+Medications on Admission:
+plavix 75, lisinopril 10, lopressor ER 100, metformin 1000",
+zetia 10, lipitor 80, flomax 0.4, ASA 162, coumadin MWF 5, TThSS
+7.5
+
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 2 weeks.
+Disp:*60 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Dela

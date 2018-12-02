@@ -1,0 +1,201 @@
+Admission Date:  [**2160-8-2**]              Discharge Date:   [**2160-8-2**]
+
+
+Service: MEDICINE
+
+Allergies:
+Amoxicillin
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Atrial fibrillation with [**Last Name (NamePattern4) 5509**]
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname 66590**] is a [**Age over 90 **] yo M with multiple medical problems including
+autoimmune hemolytic anemia, previous AF with [**Age over 90 5509**], s/p
+mechanical AVR, CAD, CHF EF 45%, h/o GIB, s/p listeria
+endocarditis and CKD who presents from nursing home with low Hct
+and low BP.  Patient was in his USOH until today when at HRC he
+was found to have low BP to 102/60 and Hct to be 22.7.  Of note,
+he had received 4 units of PRBC's several days ago at HRC per
+schedule.  Due to this he was taken to the [**Hospital1 18**] ED for further
+evaluation.  He denies fever, chills, rhinorrhea or congestion.
+He denied cough, shortness of breath, chest pain, chest
+pressure, palpitations, nausea, vomiting, diarrhea,
+constipation, abdominal pain, changes in bowel habits,
+arthralgias or myalgias.
+
+In the ED, his VS were T 98 HR 60 BP 80/57 RR 18 Sat 97% RA.  He
+was feeling well and had no complaints.  The repeat Hct was 26.6
+which is his baseline.  His CXR showed some vascular congestion.
+ His SBP increased to 130 without intervention.  Subsequently,
+he went into AF with [**Hospital1 5509**] up to the 120's and his SBP remained in
+the 80-90's.  He was given 10 mg IV diltiazem after which his HR
+decreased to the 90's and his SBP improved to 90-100's.  He
+remained with a low BP so an A-line was placed and he was given
+levofloxacin and vancomycin empirically. He received 500 mL NS.
+On the MICU, he is feeling well and is asymptomatic.
+
+Past Medical History:
+# Anemia, multifactorial as below, baseline HCT 28
+# Autoimmune hemolytic anemia (Coomb's +, warm autoantibody),
+on prednisone 10mg Po daily
+# Listeria Endocarditis s/p AVR, suppressive amoxicillin stopped
+due to hemolytic anemia
+# Aortic mechanical valve, recently Coumadin resistant so
+intermittently on Lovenox bridge, followed by Dr. [**Last Name (STitle) **]
+# hx recent GI bleeds: colonoscopy [**1-10**]: noted normal colon
+with melanotic stool in terminal ileum
+# GERD: EGD [**12/2159**] Polyp in the area of the papilla; found on
+the wall opposite the ampulla. Small hiatal hernia. Otherwise
+normal EGD to third part of the duodenum.
+# H/o presyncope
+# CKD Cr 1.6-2.0  Stage III
+# CAD s/p NSTEMI [**7-10**]
+# Chronic CHF, likely diastolic, ([**9-9**] EF=50%)
+# Hyperlipidemia
+# Hypertension
+# Depression vs adjustment disorder after death of brother
+# Prostate cancer- s/p radiation
+# Bladder/bowel incontinence
+# Right lateral malleolus stage 1 pressure ulcer
+# Dementia
+# Hypothyroidism
+
+
+Social History:
+Never smoked, no EtOH or other drugs.  Currently living at
+[**Hospital 100**] Rehab.  Uses wheelchair typically.  Requires a
+significant degree of assistance in all his ADLs and IADLs. Has
+2 sons and 4 grandchildren.
+
+
+Family History:
+No bleeding diatheses or heart disease.  Father had stomach
+cancer.  No other cancers including colon.
+
+Physical Exam:
+General: Alert, oriented x3, no acute distress
+HEENT: Sclera anicteric, DMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Irregular, normal S1, mechanical S2, II/VI SEM rads to
+axila, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+Labs:
+[**2160-8-2**] 12:27PM BLOOD Hct-23.5*
+[**2160-8-1**] 10:45PM BLOOD WBC-7.5 RBC-2.63* Hgb-9.0* Hct-26.6*
+MCV-101* MCH-34.3* MCHC-33.9 RDW-21.8* Plt Ct-150
+[**2160-8-1**] 10:45PM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+
+Macrocy-1+ Microcy-OCCASIONAL Polychr-NORMAL Stipple-OCCASIONAL
+Tear Dr[**Last Name (STitle) 833**]
+[**2160-8-1**] 10:45PM BLOOD PT-27.1* PTT-28.6 INR(PT)-2.6*
+[**2160-8-2**] 04:04AM BLOOD Glucose-156* UreaN-42* Creat-1.2 Na-139
+K-4.0 Cl-111* HCO3-22 AnGap-10
+[**2160-8-2**] 12:27PM BLOOD CK-MB-4 cTropnT-0.07*
+[**2160-8-2**] 04:04AM BLOOD CK-MB-3 cTropnT-0.04*
+[**2160-8-1**] 10:45PM BLOOD cTropnT-0.02*
+[**2160-8-2**] 04:04AM BLOOD Calcium-7.3* Phos-2.7 Mg-2.0
+[**2160-8-2**] 04:04AM BLOOD TSH-1.7
+
+Images:
+[**2160-8-1**] CXR: IMPRESSION: Cardiomegaly with interval increase in
+central vascular congestion with interstitial edema, concerning
+for cardiac decompensation.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 66590**] is a [**Age over 90 **] yo M with multiple medical problems including
+autoimmune hemolytic anemia, previous AF with [**Age over 90 5509**], s/p
+mechanical AVR, s/p listeria endocarditis, CAD, dCHF and CKD who
+presented for low BP and subsequently developed AF with [**Age over 90 5509**].
+
+#. AF with [**Age over 90 5509**]:  Patient has a history of AF in the setting of a
+GIB, and the AF was controlled with metoprolol. It is currently
+unclear why he developed AF with [**Name (NI) 5509**], as his Hct is at baseline.
+His CXR suggested vascular congestion but this could have been
+caused by the AF. ACS is unlikely as he has no CP or EKG changes
+consistent with ischemia and his trop 0.02 in the setting of Cr
+of 1.4. Infection is unlikely as he is afebrile, has normal WBC
+and no suggestive signs/symptoms. He had transient HR control
+with diltiazem in ED. In the MICU he was continued on IV
+metoprolol for rate control. He was ruled out for MI and was
+monitored for signs of infection. His TSH came back normal as
+well at 1.7.
+
+#. Hypotension:  The patient presented with SBP 80's that
+increased to the 130's transiently in the ED without
+intervention and decreased after he went into AF with [**Name (NI) 5509**].  In
+the MICU his SBP was in the 100's, likely due to poor forward
+flow in the setting of a low EF and insufficient LV filling time
+due to rapid HR.  Infection is unlikely as described above. His
+hypotension was controlled via HR control as above, and a UA was
+sent to r/o UTI.
+
+#. CHF: He has an EF 45% and his CXR shows signs of mild fluid
+overload, likely due to his AF with [**Name (NI) 5509**]. However, his Sats were
+96-100% on RA. Diuresis was deferred for now given his low BP,
+and carvedilol was held while controlling his AF with
+metoprolol.  He was discharged back on his carvedilol.
+
+#. AI hemolytic anemia: His admission hct was 26.6, which is at
+his baseline but hematocrit dropped to 22.  He received 2 units
+of packed red cells prior to discharge.  His prednisone 10 mg
+daily was continued, and his stool guaiac was negative.
+
+#. CKD: Currently his Cr 1.4 which is at his baseline. We will
+continue to monitor his daily BUN/Cr.
+
+#. Mechanical AVR:  Currently his INR is therapeutic at 2.6. His
+home dose of warfarin was continued.
+
+Medications on Admission:
+Warfarin 3 mg PO daily
+Carvedilol 3.125 mg PO BID
+Bactrim SS 1 tab PO daily
+Levothyroxine 75 mcg PO daily
+Prednisone 10 mg PO daily
+Omeprazole 40 mg PO BID
+Pravastatin 80 mg PO daily
+Cyanocobalamin [**2149**] mcg PO daily
+Folic acid 4 mg PO daily
+Acetaminophen 325 mg PO Q6h PRN pain
+Sucralfate 1 gram PO QID
+Oxycodone 2.5 mg TID PRN
+Bisacodyl 10 mg QOD
+Docusate 100 mg [**Hospital1 **]
+Senna 2 tabs QHS
+Zinc oxide 40% topical
+
+Discharge Medications:
+1. carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+2. warfarin 2 mg Tablet Sig: 1.5 Tablets PO Once Daily at 4 PM.
+
+3. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+4. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+7. pravastatin 20 mg Tablet Sig: Four (4) Tablet PO DAILY
+(Daily).
+8. cyanocobalamin (vitamin B-12) 500 mcg Tablet Sig: Four (4)
+Tablet PO DAILY (Daily).
+9. folic acid 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+
+10. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+11. sucralfate 1 gram Tablet Sig: One (1) 

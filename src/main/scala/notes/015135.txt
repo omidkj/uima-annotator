@@ -1,0 +1,214 @@
+Admission Date:  [**2156-2-27**]              Discharge Date:   [**2156-3-3**]
+
+
+Service: MEDICINE
+
+Allergies:
+A.C.E Inhibitors
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+dyspnea.
+
+Major Surgical or Invasive Procedure:
+endotracheal intubation [**2-27**], extubation [**2-28**].
+
+History of Present Illness:
+A [**Age over 90 **]yo Russian-speaking F presented from [**Hospital 100**] Rehab on [**2-27**]
+with worsening dyspnea x 1 day, found to have BNP=[**Numeric Identifier 56841**],
+crackles and rales on exam, hypertension, and a CXR consistent
+with volume overload.  Unclear trigger of CHF exacerbation, ?
+med or diet non-compliance, but daughter reports that she had
+visited Pt. earlier in the evening of admission, and that she
+was asymptomatic.  Upon arrival in [**Name (NI) **], Pt. was found to be in
+acute respiratory distress. ABG in ED: 7.12/67/83/23.  Pt. was
+given IV lasix and a nitro gtt was started.  ABG following
+intubation was 7.35/39/219/22 (on A/C 550x14, 100% FiO2 + 5
+PEEP).  In MICU, Pt. had episode of hypotension while on nitro
+gtt, this was stopped and bp quickly recovered.  Pt. was
+diuresed with IV lasix boluses, now on 20mg PO QD. Extubated on
+[**2-28**], currently on 2LNC; Pt. is not on home O2.
+
+
+Past Medical History:
+1. CAD: 3VD s/p multiple MIs and PCIs
+2. Diastolic CHF (EF=45%)
+3. A-V pacer placed in [**2145-10-20**] for sick sinus syndrome
+
+4. h/o atrial fibrillation
+5. HTN
+6. hypercholesterolemia
+7. GERD
+8. CRI: Pt's baseline creatinine is 2.2.
+9. anemia secondary to chronic kidney disease
+10. constipation
+11. hypothyroidism
+12. gout
+13. h/o colon adenocarcinoma s/p resection
+14. h/o C.diff colitis diagnosed on last admission in [**Month (only) 404**]
+[**2155**]
+
+Social History:
+The patient previously lived alone but has been at [**Hospital1 100**] Senior
+Life for 1yr.  Her daughter is involved with her care. Denies
+EtOH, tobacco, and drugs.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+PE: VS: 98.3 | 135/64 | 80 | 28 | 97% on 2L O2NC
+gen: alert, pleasant, elderly female in NAD, oriented x 3
+[**Hospital1 4459**]: NC/AT, PERRL and A, EOM intact, OP clear, MMM.
+neck: supple, no LAD, no thyromegaly, no LAD, no JVD.
+CV: regular, nl. s1s2, no M/R/G.
+chest: crackles at bases b/l, no wheezes.
+abd: +bs, soft, nt/nd, no rebound, no guarding, no organomegaly.
+
+extr: no LE edema, no cyanosis, 2+ dp pulses b/l.
+neuro: awake, alert; cn ii-xii intact, RLE 4/5 strength,
+otherwise 5/5 strength; sensory, coordination, and language
+grossly normal.
+
+Pertinent Results:
+[**2156-2-27**] 08:50AM BLOOD WBC-16.8*# RBC-3.84* Hgb-12.1 Hct-38.3
+MCV-100*# MCH-31.6 MCHC-31.7 RDW-18.9* Plt Ct-347
+[**2156-2-27**] 08:50AM BLOOD Neuts-49.9* Lymphs-43.6* Monos-2.7
+Eos-2.8 Baso-1.1
+[**2156-2-27**] 08:50AM BLOOD PT-16.8* PTT-24.0 INR(PT)-1.6*
+[**2156-2-27**] 08:50AM BLOOD Plt Ct-347
+[**2156-2-27**] 08:50AM BLOOD Glucose-322* UreaN-26* Creat-1.9* Na-143
+K-3.7 Cl-109* HCO3-18* AnGap-20
+[**2156-2-27**] 08:50AM BLOOD CK(CPK)-35, 40, 37, 31
+[**2156-2-27**] 08:50AM BLOOD CK-MB-NotDone
+[**2156-2-27**] 08:50AM BLOOD cTropnT-0.03, 0.06, 0.06, 0.05
+[**2156-2-27**] 08:50AM BLOOD Calcium-9.0 Phos-5.7*# Mg-2.2
+[**2156-2-27**] 11:01AM BLOOD Lactate-1.9
+[**2156-2-27**] 08:50AM BLOOD proBNP-[**Numeric Identifier 56841**]*
+.
+ECG: AV-paced.
+.
+CXR [**2156-2-28**]: Persistent congestive heart failure with
+redistributing, possibly decreasing pulmonary edema, and new
+bilateral pleural effusions.
+.
+TTE [**2156-3-2**]: LVEF=25-30%. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is severely
+depressed. Resting regional wall motion abnormalities include
+inferior/inferolateral akinesis, apical akinesis/dyskinesis and
+septal akinesis/hypokinesis. Right ventricular chamber size and
+free wall motion are normal. The aortic valve leaflets are
+mildly thickened. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. There is no pericardial
+effusion.
+.
+TTE [**9-23**]: LVEF=45%. Left ventricular cavity size is normal.
+Overall left ventricular systolic function is mildly depressed.
+Resting regional wall motion abnormalities include inferior
+akinesis, inferoseptal akinesis/hypokinesis, and inferolateral
+hypokinesis. The apical lateral and apical septal segments also
+appear hypokinetic. The right ventricular cavity may be mildly
+dilated; free wall motion is not fully visualized. The aortic
+valve is not well seen; leaflets appear mildly to moderately
+thickened (gradient not assessed). No aortic regurgitation is
+seen in focused views. The mitral valve leaflets are moderately
+thickened. Mild (1+) mitral regurgitation is seen in focused
+views. There is no pericardial effusion.
+.
+Cath [**9-23**]: 1. 3VD. 2. Elevated systemic pressures. 3.
+Successful stenting of the acutely occluded RCA.
+
+Brief Hospital Course:
+[**Age over 90 **]yoF with 3VD and CHF, Afib, SSS with AV-PM, p/w 1d dyspnea
+likely [**1-22**] CHF exacerbation, s/p intubation.
+.
+# CHF: CXR consistent with volume overload and BNP very
+elevated, likely [**1-22**] diastolic dysfunction (EF 25-30%) and
+possible med/diet non-compliance. TTE results indicate diffuse
+myocardial dysfuction, possibly secondary to LAD closure leading
+to anterior/apical akinesis/dyskinesis.  Pt. is already on
+coumadin. Treatment options were discussed with family
+(including intervention for revascularization), and decision was
+made for medical management.  Therefore, toprol XL dose and
+lasix dose were increased, and spironolactone was initiated to
+optimize cardiac function. Her [**Last Name (un) **] was also continued, and the
+dose of this can be increased in the future, if her bp will
+tolerate.
+.
+# CAD: was ruled out for MI upon admission, but TTE consistent
+with ? new WMAs (akinesis/dyskinesis).  Continued on ASA,
+plavix, statin, BB, [**Last Name (un) **].
+.
+# Afib: AV-paced, on BB and amiodarone, and coumadin (goal
+INR>2.0), currently in NSR.
+.
+# CRI: baseline Cr elevation (high 1s - low 2s), currently at
+baseline.  urine output and Is/Os were monitored.
+Low-Na/cardiac diet was encouraged.
+.
+# anemia: [**1-22**] renal dx, tends to run in low 30s. will monitor
+and tranfuse (with extra diuresis given CHF) for goal Hct>30
+given CAD.  Hct stable.  Pt. on epogen at home, will resume at
+ECF.
+.
+# hypothyroidism: continue synthroid.
+.
+# ID: blood cx NGTD. u/a negative.
+.
+# FEN: low-Na diet, monitor and replete electrolytes, MVI.
+.
+# Ppx: PPI, coumadin for Afib, heparin SC, bowel reg.
+.
+# Comm: with Pt. and daughter (Home [**Telephone/Fax (1) 110810**]; Work
+[**Telephone/Fax (1) 110811**]; Cell [**Telephone/Fax (1) 110812**]).
+.
+# Code: Full code.
+
+Medications on Admission:
+amiodarone 200 mg QD
+ASA EC 325 mg QD
+plavix 75mg QD
+epogen 40 mcg Qweek
+colace 100 mg [**Hospital1 **]
+senna 2 tabs QHS
+dulcolax 5 mg PRN
+lasix 20 mg QOD
+levothyroxine 25 mcg QD
+toprol XL 25 mg QD
+MVI QD
+protonix 40 mg QD
+zocor 80 mg QD
+trazodone 25 mg QHS
+coumadin 1 mg QHS
+tylenol PRN
+albuterol/atrovent nebs PRN
+ativan 0.5 mg PRN anxiety
+milk of mag 30 mL PRN
+nitrostat 0.4 mg PRN chest pain
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+9. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+10. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+11. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TI

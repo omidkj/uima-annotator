@@ -1,0 +1,193 @@
+Admission Date:  [**2107-11-15**]              Discharge Date:   [**2107-11-24**]
+
+Date of Birth:  [**2045-4-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril / Kefzol / Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+transfer for GI bleed
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization [**2107-11-16**]
+
+
+History of Present Illness:
+Pt is a 62 year-old W with PMH of hypertension, hyperlipidemia,
+atrial fibrillation, diastolic dysfunction, tricuspid
+regurgitation/ mitral regurgitation, pulmonary hypertension, and
+alcohol abuse, transferred from [**Hospital1 **] [**Location (un) 620**] with dyspnea on
+exertion.
+.
+At [**Location (un) 620**], patient was diuresed with IV Lasix and Aldactone.
+She was diagnosed with acute renal failure, her electrolytes
+were abnormal, the aldactone and lasix discontinued, and she was
+given Kayexalate and Magnesium. She was transferred to [**Hospital1 18**] for
+further management.
+.
+During admission, patient developed hematemesis. NG tube was
+placed. Red blood was lavaged. GI was consulted and patient was
+transferred to CCU for urgent scope. In the CCU, urgent scope
+revealed large ulceration in the duodenal bulb with adherent
+clot. GI injected epinephrine and cauterized visible vessel.
+.
+Pt's VS were stable throughout procedure and stat HCT on arrival
+to CCU was unchanged.
+
+Past Medical History:
+Cardiac Risk Factors: Dyslipidemia, Hypertension
+.
+Other Past History:
+- Atrial fibrillation on aspirin
+- Ulcerative Colitis
+- Alcohol induced liver disease
+- Alcohol abuse
+- Ventral hernia repair
+- Back surgery?
+- History of GI bleed
+- Hypokalemia
+- Hyponatermia
+
+Social History:
+No smoking history. Positive alcohol which she claims to be
+rare, but has been documented as daily use and is a barrier to
+her anticoagulation for afib. She is a retired teacher, lives
+with her husband.
+
+Family History:
+Father with MI at age 68. Mother with breast cancer at 52.
+
+Physical Exam:
+VITALS - BP 100/45, HR 77, RR 12, 100% on 2L.
+Gen: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+CV: irregular, normal S1, S2. No m/r/g. No thrills, lifts.
+Chest: No chest wall deformities, resp were unlabored, no
+accessory muscle use. CTAB, no crackles, wheezes or rhonchi.
+Abd: Soft/NT/ND
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Pertinent Results:
+[**2107-11-16**] 06:40AM BLOOD WBC-4.5 RBC-3.88* Hgb-13.4 Hct-37.4
+MCV-96 MCH-34.4* MCHC-35.7*# RDW-14.6 Plt Ct-211
+[**2107-11-16**] 06:40AM BLOOD PT-13.7* PTT-30.1 INR(PT)-1.2*
+[**2107-11-15**] 06:50PM BLOOD Glucose-98 UreaN-35* Creat-1.7* Na-128*
+K-4.7 Cl-93* HCO3-24 AnGap-16
+[**2107-11-16**] 06:40AM BLOOD ALT-9 AST-31 LD(LDH)-214 AlkPhos-289*
+TotBili-1.0
+[**2107-11-16**] 06:40AM BLOOD Triglyc-53 HDL-71 CHOL/HD-2.0 LDLcalc-63
+[**2107-11-15**] 06:50PM BLOOD TSH-5.6*
+[**2107-11-16**] 06:40AM BLOOD T4-7.1 Free T4-1.4
+.
+[**2107-11-18**] H. Pylori Ab: negative
+.
+[**2107-11-15**] ECG: atrial fibrillation, rate 73, nl axis, nl
+intervals, right-bundle morphology with no significant change
+compared with prior dated
+.
+[**2107-11-16**] Cardiac Catheterization: 1. Coronary arteries are
+normal.
+2. Elevated left and right sided filling pressures with near
+equalization consistent with possible constriction. Though due
+to
+underlying atrial fibrillation restriction cannot be excluded.
+Additionally, possibility for pseudoconstriction due to volume
+overload.
+3. Mild pulmonary hypertension
+.
+[**2107-11-16**] TTE: The left atrium is elongated. No atrial septal
+defect is seen by 2D or color Doppler. The estimated right
+atrial pressure is 10-20mmHg. Left ventricular wall thickness,
+cavity size and regional/global systolic function are normal
+(LVEF >55%). The right ventricular cavity is moderately dilated
+with mild global free wall hypokinesis. Intrinsic function is
+likely more depressed given the severity of tricuspid
+regurgitation. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve leaflets are structurally normal. Mild (1+)
+mitral regurgitation is seen. The tricuspid valve leaflets are
+mildly thickened. Moderate to severe [3+] tricuspid
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2106-8-30**],
+the right ventricular is more dilated, the severity of tricuspid
+regurgitation is slightly increased, and the estimated pulmonary
+artery systolic pressure is higher. The severity of mitral
+regurgitation appears reduced.
+.
+[**2107-11-18**] CXR: No active disease in the chest. Mild cardiomegaly.
+.
+[**2107-11-18**] EGD: Medium hiatal hernia
+Blood in the stomach
+Ulcer in the first part of the duodenum (injection, thermal
+therapy)
+Otherwise normal EGD to second part of the duodenum
+
+Brief Hospital Course:
+62 year old woman with PMH of atrial fibrillation, hypertension,
+hyperlipidemia, diastolic heart failure, moderate 3+ TR, severe
+right sided failure admitted for diuresis and course complicated
+by upper GI bleed from duodenal ulcer.
+
+# GASTROINTESTINAL BLEED/Anemia.
+The patient was admitted for congestive heart failure but course
+was complicated by GI bleed for which she was transferred from
+[**Hospital1 **] [**Location (un) 620**].  She had an NG tube placed and lavage showed bright
+red blood.  She underwent an EGD on [**2107-11-18**] which showed a
+duodenal bleed which was injected and cauterized.  The patient
+was followed by serial HCTs.  She continued to have melanotic
+stools.  She was transferred out of the CCU on [**2107-11-19**] and then
+transferred back in on the same day for dropping HCT and
+melanotic stools.  On [**2107-11-20**] she stopped having blood in her
+bowel movements.  Her HCT dropped to 25.8.  She refused to have
+blood transfusions.  She was given Pantoprazole gtt.  H. Pylori
+Ab was negative.  Her blood pressures stayed in the 100s
+systolic with HR in the 100s in atrial fibrillation. A
+colonoscopy in [**2105-6-20**] showed decrease in vascularity of the
+whole colon but was otherwise wnl to the
+cecum. She was otherwise asymptomatic without lightheadedness or
+chest pain.  Her hematocrits remained stable between 22 and 26
+for the remainder of her hospital stay.  At the time of
+discharge, her HCT was 23.4.  She denied chest pain or angina.
+She was discharged on Prilosec 20mg PO BID, Fe PO and GI
+outpatient follow up.
+.
+# RIGHT SIDED HEART FAILURE.
+This was deemed likely secondary to severe TR.  She was
+initially started on lasix gtt for mild hypervolemia in setting
+of low BPs, but this was discontinued due to GIB on [**11-19**]. Echo
+showed elevated RAP, LVEF >55% w/ nl thickness, RV moderately
+dilated with mild global free wall hypokinesis, severe TR and
+moderate PAH.  Pt. recveived IVF for GIB.  She was euvolemic on
+exam for the remainder of hospital stay.  She had no dyspnea.
+Her Metoprolol was held [**1-22**] GIB (see above) and was restarted on
+[**11-22**] and was continued through the remainder of hospitalization
+without episodes of hypotension.  She was started on lasix 20mg
+PO BID on day prior to discharge.
+.
+#. CAD: Patient had no evidence of CAD on cath which showed
+elevated left and right sided filling pressures w/
+pseudoconstriction due to volume overload and mild PAH.
+Her ASA was held due to GIB.  ASA status will be restarted as OP
+based on further GI evaluation.
+.
+#. Atrial Fibrillation  Patient was rate controlled. CHADS score
+= 2 considering diastolic disfunction and hypertension, however
+patient is not currently anticoagulated, given concern for her
+alcohol abuse.  ASA was held [**1-22**] GIB.
+Her BBk was restarted prior to discharge, please see above.
+.
+#. History of Alcohol abuse.  Patient did not have evidence of
+withdrawal. CIWA scores were 0.  She received Folic acid,
+thiamine and MVI during hospitalization and discharged home with
+this regimen.
+.
+#. UC.  This was inactive during hospitalization.  She was
+continued on Mesalamine per home regimen.
+.
+#. PPx.  Patient was

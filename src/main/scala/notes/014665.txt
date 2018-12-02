@@ -1,0 +1,184 @@
+Admission Date:  [**2195-11-13**]              Discharge Date:   [**2195-11-20**]
+
+
+Service: MEDICINE
+
+Allergies:
+Erythromycin Base / Benzodiazepines
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+VTach storm
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+Electrophysiology Study
+
+History of Present Illness:
+84 year-old male with history of CAD s/p CABG in [**2186**], VT with
+ICD in [**2186**], systolic dysfunction with EF 30% who is transferred
+from OSH for recurrent VT.  He was brought in to OSH by EMS
+[**11-12**] after repeated runs of VT with ICD discharges.  He had an
+ICD placed in [**2186**] for history of VT and had been stable on
+sotalol.  However, in late [**Month (only) 216**] his ICD fired, with resultant
+increase in sotalol dose.  On [**2195-11-9**] he had another episode of
+310 ms [**First Name (Titles) **] [**Last Name (Titles) **]; he was switched to amiodarone.  When he woke up
+yesterday morning, he had multiple shocks and fell, due to
+partial unresponsiveness.  EMS started lidocaine gtt at 2 mg/min
+after a 100 mg bolus.  Interrogation of his device in the OSH ED
+suggests 25-27 discharges.  His primary cardiologist switched
+him to amiodarone gtt with 300 mg bolus.  He was admitted to
+their ICU.
+.
+Yesterday, at 5 pm, the patient's amiodarone gtt was weaned with
+recurrent VT and ICD fired additional 9 times.  Patient was
+awake and alert.  Amiodarone bolus of 150 mg given.  He was
+transferred to [**Hospital1 **] for EP eval.
+.
+Of note, per the patient he had an episode of emesis yesterday,
+which his daughters report appeared to be coffee-grounds.  He
+has had no further episodes.  He denies abdominal pain, black
+stools, or red stools.  His last BM was yesterday.
+.
+On review of symptoms, he denies any cough, or hemoptysis.  He
+denies recent fevers, chills or rigors.  All of the other review
+of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, or syncope.  He has been having
+lightheadedness for the past 2 days.
+
+Past Medical History:
+CAD s/p CABG x 4v in [**2183**], h/o MI in [**2170**]
+CHF with EF 30%, global hypokinesis
+h/o VT s/p [**Company 1543**] ICD placement in [**2186**]
+HTN
+Dyslipidemia
+Aortic Stenosis - mild
+s/p endovascular AAA repair in [**2195-2-26**]
+h/o bowel obstruction with cecum perforation s/p resection [**2186**]
+
+Social History:
+Social history is significant for the absence of current tobacco
+use.  He quit smoking 20 years ago; 32 pack-year history.  There
+is no history of alcohol abuse.
+
+Family History:
+There is a family history of sudden death in his brother at age
+40.
+
+Physical Exam:
+VS: T 98.6, BP 150/85, HR 76, RR 17, O2 98% on 2LNC
+Gen: WDWN elderly male in NAD, resp or otherwise. Oriented x3.
+Mood, affect appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa.
+Neck: Supple with JVP of 7 cm.
+CV: RRR, 2/6 systolic crescendo/decrescendo murmur with
+radiation to carotids. No S4, no S3.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. bibasilar crackles [**1-1**]
+of posterior lung fields, no wheeze, or rhonchi.
+Abd: Obese, slightly distended, with right sided ventral hernia-
+reducible. mild tenderness in RUQ/RLQ No HSM. normal bowel
+sounds. No abdominial bruits.
+Ext: No c/c/e.
+Skin: BLE venous stasis changes with large superficial veins.
+Pulses:
+Right: Carotid 2+ with bruit; Femoral 2+; 2+ DP
+Left: Carotid 2+ with bruit; Femoral 2+; 2+ DP
+
+Pertinent Results:
+LABS ON ADMISSION
+[**2195-11-13**] 05:28PM   WBC-8.1 RBC-3.49* HGB-11.8* HCT-35.6*
+MCV-102*# MCH-33.9*# MCHC-33.3 RDW-15.1
+[**2195-11-13**] 05:28PM   PLT COUNT-222
+[**2195-11-13**] 05:28PM   VIT B12-131* FOLATE-GREATER TH
+[**2195-11-13**] 05:28PM   TSH-1.1
+[**2195-11-13**] 05:28PM   CALCIUM-9.0 PHOSPHATE-2.8 MAGNESIUM-2.4
+[**2195-11-13**] 05:28PM   ALT(SGPT)-18 AST(SGOT)-29 CK(CPK)-380*
+[**2195-11-13**] 05:28PM   GLUCOSE-127* UREA N-25* CREAT-1.5* SODIUM-141
+POTASSIUM-4.1 CHLORIDE-106 TOTAL CO2-23 ANION GAP-16
+[**2195-11-13**] 06:07PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.017
+[**2195-11-13**] 06:07PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2195-11-13**] 06:07PM URINE  RBC-0-2 WBC-0-2 BACTERIA-OCC YEAST-NONE
+EPI-0-2
+
+TTE [**11-14**]: The left atrium is moderately dilated. The right
+atrium is moderately dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is small.
+Overall left ventricular systolic function is low normal (LVEF
+50%). There is no ventricular septal defect. The right
+ventricular cavity is markedly dilated. There is severe global
+right ventricular free wall hypokinesis. The aortic arch is
+mildly dilated. There are focal calcifications in the aortic
+arch. There are three aortic valve leaflets. The aortic valve
+leaflets are moderately thickened. There is at least mild aortic
+valve stenosis. The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse. Mild (1+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. The supporting structures of the tricuspid valve are
+thickened/fibrotic. Moderate to severe [3+] tricuspid
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+
+Cardiac Cath [**11-16**]:
+1. Coronary angiography in this right dominant system
+demonstrated an LMCA without angiographically significant
+disease. The LAD was proximally occluded after D1; the D2 had a
+90% lesion at its origin, but was a small vessel. The LCX was a
+nondominant vessel that was proximally occluded. The RCA was
+proximally occluded.
+2. Graft angiography demonstrated a patent sequential SVG to OM1
+and OM3. The OM1 was without critical lesions, the OM3 was
+widely patent; the inferior pole of OM2 had a 90% lesion at the
+origin. The SVG to RCA was widely patent. The LIMA to LAD was
+patent.
+3. Limited resting hemodynamics revealed very mild systemic
+arterial hypertension.
+4. Selective angiography showed a tortuous left subclavian
+artery, but there were no critical lesions or pressure gradient.
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Patent LIMA-LAD and patent SVGs.
+3. Tortuous left subclavian without critical lesions or pressure
+gradient.
+
+CXR [**11-19**]:   Two views of the chest are compared to the prior
+examination dated [**2195-11-18**].  Allowing for differences in
+technique there is no significant interval change.  Small
+bilateral pleural effusions are noted.  There is a stable left
+retrocardiac opacity likely reflects underlying atelectasis
+and/or consolidation.  No pneumothorax is seen.  There is a
+pacer device that projects over the left hemithorax with two
+leads terminating within the expected region of the right
+ventricle and one appears to be terminating within the right
+atrium.  Cardiac silhouette remains enlarged.
+
+LABS ON DISCHARGE:
+WBC 8.5  Hct 31.6  Plts 251
+Na 142  K 3.7  Cl 105  HCO3 28  BUN 24  Cr 1.7  Glu  123
+PT 13.5  PTT 33.4  INR 1.2
+
+
+Brief Hospital Course:
+1) Cardiac
+Rhythm: The patient was transferred to the [**Hospital1 827**] on [**2195-11-13**] with VT storm.  He was loaded with an
+IV amiodarone drip which was switched to 400 mg amiodarone po
+bid after 24 hours. On [**2195-11-16**], he underwent cardiac
+catheterization.  To determine if the patient's VT was secondary
+to ischemia, he had a cardiac catherization. This demonstrated
+severe native vessel disease but with patent bypass grafts.
+Specifically, he had a patent sequential SVG to OM1 and OM3.
+The OM1 and OM3 were widely patent without critical lesions.  In
+the inferior pole of OM2, he had a 90% lesion at the origin.
+The SVG to RCA was patent as was the LIMA to LAD. On [**2195-11-17**],
+he underwent diagnostic electrophysiology study.  This
+demonstrated inducible monomorphic ventricular tachycardia in
+the RV outflow tract and apex which was ablated. In addition,
+the decision was made to upgrade his pacemaker with an atrial
+lead to a dual chambe

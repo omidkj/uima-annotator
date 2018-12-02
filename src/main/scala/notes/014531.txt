@@ -1,0 +1,213 @@
+Admission Date:  [**2193-12-12**]              Discharge Date:   [**2193-12-18**]
+
+Date of Birth:  [**2155-8-31**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Prednisone
+
+Attending:[**First Name3 (LF) 1253**]
+Chief Complaint:
+Hypoxia, fever
+
+Major Surgical or Invasive Procedure:
+PICC placement
+IVC filter placement (note: 2 filters placed due to duplicated
+IVC)
+
+
+History of Present Illness:
+This a 38 year old female with recent intracranial bleed,
+trach/peg who is transfered from Caritas for managment of PNA.
+The patient was recently discharged from [**Hospital1 18**] on [**2193-12-10**] after
+a large right intracranial bleeding. During that hospital
+course, the patient had been intubated and was unable to wean of
+the ventilator; received a trach/PEG and was discharged to rehab
+at [**Hospital3 7665**]. She had been placed on dilantin for seizure
+prophylaxis.
+.
+At rehab, she developed a fever and hypxoxia was O2sat 70's. She
+was transfered to an OSH and found to have a PNA and UTI. She
+was given Ceftriaxone and Azithromycin. Per family request, the
+patient was transfered to [**Hospital1 18**].
+.
+In the ED, the patient arrived on a trach mask, was found to be
+febrile, tachypnic and hypoxic with SaO2 88% on trach mask. She
+was placed on BiPAP to improve oxygenation. CXR showed a RLL
+PNA. The patient was given Vancomycin in addition to the
+Ceftriaxone and Azithromycin at OSH. An attempt was made to wean
+back to trach mask, but an ABG showed hypoxia with ph
+7.49/44/44. She was placed back on BiPAP and had Sat's 100% on
+60% Fi02 PEEP 10 PS 5. Vital signs were: temp Hr 115, BP 120/75
+RR 20, 100% on 60% Fi02.
+
+
+Past Medical History:
+Migraine
+hypertension
+dental abcesses
+uterine CA with Hysterectomy
+
+
+Social History:
+No tobacco EtOh or drugs per husband.
+
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS Tm99.8  Tc98.4  134/80  p92  R22  96% 10L TC
+GEN: Obese female, appears comfortable, no acute distress.
+HEENT: Trach collar in place
+RESP: CTA B. Fair AE.
+CV:  RRR. No mrg.
+Abd: +BS. Soft, nt/nd. PEG in place.
+EXT: No Cee. Bilateral groin access sites for IVC filter
+placement CDI, no hematomas, eccymosis, or thrills.
+Neuro: L hemiparesis. L plantar upgoing.
+Psych: flat affect.
+Access: PICC - Placed 1/5/009
+
+
+Pertinent Results:
+IMAGING:
+[**2192-12-11**] Admission CXR:
+Single AP chest radiograph compared to [**2193-12-9**], show
+persistent low lung volumes with new consolidation in the right
+mid lung. There is no
+pleural effusion or pneumothorax. The cardiomediastinal contour
+is stable. A tracheostomy is present. The distal end of the
+right PICC line is coiled and terminates at the confluence of
+the brachiocephalic vein.
+.
+LE Doppler study:
+IMPRESSION: Limited exam. Acute-appearing deep vein thrombosis
+extending
+from the proximal left superficial vein to the popliteal vein.
+.
+IVC filter placement:
+Preliminary Report !! PFI !!
+PFI: IVC venogram demonstrated duplicated IVC, and one G2 IVC
+filter was
+placed at the right side infrarenally and one OptEase filter was
+placed at the left side infrarenally.
+
+Admission:
+
+[**2193-12-12**] 01:42AM BLOOD WBC-14.4*# RBC-3.90* Hgb-11.7* Hct-32.9*
+MCV-84 MCH-29.9 MCHC-35.4* RDW-14.2 Plt Ct-265
+[**2193-12-12**] 01:42AM BLOOD Neuts-84.4* Lymphs-11.2* Monos-4.0
+Eos-0.2 Baso-0.2
+.
+Discharge Labs:
+
+[**2193-12-18**] 04:23AM BLOOD WBC-6.5 RBC-3.42* Hgb-9.9* Hct-28.9*
+MCV-85 MCH-29.1 MCHC-34.4 RDW-14.3 Plt Ct-294
+[**2193-12-18**] 04:23AM BLOOD PT-13.6* PTT-22.6 INR(PT)-1.2*
+[**2193-12-17**] 06:06AM BLOOD Glucose-134* UreaN-10 Creat-0.3* Na-142
+K-3.5 Cl-101 HCO3-36* AnGap-9
+[**2193-12-16**] 05:02AM BLOOD Calcium-8.5 Phos-3.6 Mg-1.9
+[**2193-12-14**] 04:30AM BLOOD Phenyto-15.3
+[**2193-12-15**] 06:07AM BLOOD Phenyto-11.3
+[**2193-12-16**] 05:02AM BLOOD Phenyto-9.6*
+.
+MICRO:
+Sputum -
+                             ACINETOBACTER BAUMANNII COMPLEX
+                             |          STAPH AUREUS COAG +
+                             |          |
+AMPICILLIN/SULBACTAM--     4 S
+CEFEPIME--------------    32 R
+CEFTAZIDIME-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+CLINDAMYCIN-----------           <=0.25 S
+ERYTHROMYCIN----------           <=0.25 S
+GENTAMICIN------------  =>16 R    <=0.5 S
+IMIPENEM--------------     4 S
+LEVOFLOXACIN----------             0.25 S
+OXACILLIN-------------           <=0.25 S
+PENICILLIN G----------             0.25 R
+TOBRAMYCIN------------     2 S
+TRIMETHOPRIM/SULFA----   <=1 S    <=0.5 S
+.
+.
+   Legionella Urinary Antigen  (Final [**2193-12-12**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+.
+[**2193-12-12**] Blood culture x 2 - negative
+[**2193-12-12**] Urine culture - negative
+[**2193-12-13**] blood culture - results pending
+
+Brief Hospital Course:
+38 year old female with recent admission for spontaneous
+intracrainial bleed with residual L hemiparesis, trachestomy and
+PEG tube who presented from rehab 2 days after discharge from
+BIMC with hypoxia and fever. Found to have right middle lobe
+infiltrate. Was treated for hospital aquired PNA with vanocmycin
+and zosyn, initially and then narrowed to Bactrim. ID consulted
+[**12-16**] with resulting change to IV Unasyn x 14 days.
+.
+# Hypoxia: Likely secondary to right middle lobe PNA seen on
+admission chest x-ray.
+- hypoxia improved with antibiotics
+.
+# Pneumonia: On admission, fevers, leukocytosis and right middle
+lobe infiltrate consisent with PNA. Patient given Ceftriaxone
+and Azithromycin at OSH; however, the patient was recently
+hospitalized, then at rehab and has a trach, putting her at risk
+for HAP, MSRA and Pseudomonas so she was treated with vancomycin
+and zosyn. Urine leigonella was negative.  Sputum later showed
+Acinetobacter and MSSA, therefore ID was consulted.  Bactrim was
+subsequently d/c'd and patient was started on Unasyn x 2 weeks
+(day 1 = [**2193-12-17**]).
+.
+# Intracranial hemorrhage: Patient sustained a spontaneous
+sub-arachnoid hemorrhage and was admitted here for treatment and
+discharged on [**2193-12-10**] to rehab. Daily dilantin levels were
+checked.
+- Currently subtherapeutic; likely partially due to PEG route,
+need larger doses.
+- goal level 15-30. Increased dilantin from 300 mg TID to 400 mg
+PGT TID on [**2193-12-16**].
+- Please follow dilantin levels and titrate doses accordingly.
+.
+# LE swelling. Patient was also noted to have LLE swelling, and
+had a LENI which showed an acute DVT. She was started on heparin
+gtt with bridge to coumadin, however with further discussion
+with patient's Neurosurgeon (Dr. [**First Name (STitle) **], decision was made to
+d/c anticoagulation and have a temporary IVC filter placed due
+to the risks associated with anticoagulation in the setting of
+recent ICH. A temporary IVC filter was placed on [**2193-12-17**].
+Please follow patient's DVT's and have her IVC filters removed
+when no longer clinically indicated.
+.
+# Constipation. She was markedly constipated, and received
+manual disimpaction and an aggressive bowel regimen with relief
+of her symptoms.
+- continue bowel regimen
+.
+# FEN: Continued tube feeds via PEG. Patient is able to eat as
+per S+S recs, however she still is not taking sufficient oral
+nutrition/hydration. Wean tube feeds as po nutrition improves.
+# Access: PICC line.
+# Code: Full CODE
+# Communication [**Name (NI) **] [**Name (NI) 47331**] (husband) [**Telephone/Fax (1) 81743**]
+# Dispo: to [**Hospital **] rehab today
+
+
+Medications on Admission:
+Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol [**Hospital **]: [**12-13**]
+Puffs Inhalation Q4H (every 4 hours) as needed for wheeze.
+Heparin (Porcine) 5,000 unit/mL Solution [**Month/Day (2) **]: One (1) ml
+Injection TID (3 times a day).
+Famotidine 20 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID
+Docusate Sodium 50 mg/5 mL Liquid [**Month/Day (2) **]: Ten (10) ml PO BID
+Senna 8.6 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID
+Metoprolol Tartrate 25 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO TID
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.) [**Month/Day (2) **]: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Dilantin 100 mg Capsule [**Month/Day (2) **]: Three Capsule PO
+three times a day. (but discharged on four tablets TID)
+Oxycodone-Acetaminophen 5-325 mg Tablet [**Month/Day (2) **]: 1-2 T

@@ -1,0 +1,186 @@
+Admission Date:  [**2129-12-17**]              Discharge Date:   [**2129-12-19**]
+
+Date of Birth:  [**2083-2-23**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Morphine / Iodine Containing Agents Classifier
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+46F with ^DOE and intermittent CP for 2 days.
+
+Major Surgical or Invasive Procedure:
+CABGx3(SVG->LAD, Diag, OM) [**2129-12-18**]
+
+
+History of Present Illness:
+46F with a h/o IDDM, HTN, ^chol., CHF, who had progressive DOE
+and intermittent CP for 2 days.  She presented to [**Hospital1 2519**] and had Q waves in V1-V2 and [**Street Address(2) 5366**]^ in V1-V2 with a
+CK of 607 and an MB of 59(10%), troponin was 11.9 and she was
+transferred to [**Hospital1 18**] for further treatment.
+
+Past Medical History:
+IDDM since age 9
+HTN
+^chol.
+Neuropathy
+Retinopathy
+s/p C section
+
+Social History:
+Lives with husband and 3 children, works in childcare
+Cigs: minimal, quit 22 yrs ago
+ETOH: none
+
+Family History:
++ DM
+
+Physical Exam:
+Gen: WDWN WF in NAD
+Temp: 100.3 HR:95 RR: 20 96% on 2 liters NC  BP: 93/61
+HEENT: NC/AT, PERRLA, EOMI, oropharynx benign
+Neck: supple, FROM, no lymphadenopathy or thyromegaly, carotids
+2+=bilat. without bruits.
+Lungs: Bibasilar rales
+CV: RRR without R/G/M, nl S1, S2
+Abd: +BS, soft, nontender, without masses or hepatosplenomegaly
+Ext: without C/C/E, pulses 2+=bilat. throughout
+Neuro: nonfocal
+
+Pertinent Results:
+[**2129-12-19**] 08:20AM BLOOD WBC-11.6* RBC-3.66* Hgb-12.0 Hct-32.6*
+MCV-89 MCH-32.8* MCHC-36.8* RDW-15.4 Plt Ct-141*
+[**2129-12-19**] 08:20AM BLOOD PT-13.9* PTT-33.7 INR(PT)-1.3
+[**2129-12-19**] 03:14AM BLOOD Glucose-193* UreaN-28* Creat-1.4* Na-139
+K-4.7 Cl-105 HCO3-24 AnGap-15
+[**2129-12-19**] 08:20AM BLOOD ALT-92* AST-413* LD(LDH)-PND AlkPhos-54
+Amylase-23 TotBili-3.6*
+[**2129-12-19**] 08:20AM BLOOD Lipase-10
+[**2129-12-18**] 02:25AM BLOOD CK-MB-34* MB Indx-7.6* cTropnT-1.64*
+[**2129-12-19**] 08:20AM BLOOD Albumin-3.1*
+[**2129-12-17**] 09:14PM BLOOD Triglyc-54 HDL-58 CHOL/HD-2.3 LDLcalc-65
+[**2129-12-19**] 08:27AM BLOOD Type-ART pO2-82* pCO2-39 pH-7.45
+calHCO3-28 Base XS-2
+[**2129-12-19**] 08:27AM BLOOD Glucose-117* Lactate-3.5* Na-138 K-4.4
+Cl-104CHEST (PORTABLE AP)  [**2129-12-19**] 5:03 AM
+
+CHEST (PORTABLE AP)
+
+Reason: please eval lungs, patient s/p emergent CABG POD 1,
+previous
+
+[**Hospital 93**] MEDICAL CONDITION:
+46 year old woman s/p emergency cabg x3 with IABP
+REASON FOR THIS EXAMINATION:
+please eval lungs, patient s/p emergent CABG POD 1, previously
+manifested ARDS pulmonary picture high PIPs and plateau pressure
+with PaO2/FiO2<200
+AP CHEST COMPARED TO [**12-18**]:
+
+Severe pulmonary edema has changed in distribution but not in
+severity. Right lung is now more consolidated than the left.
+This raises the possibility of pulmonary hemorrhage or
+pneumonia, but could be explained entirely by shift in edema.
+Heart is normal size and mediastinal vasculature is not
+particularly engorged. Tip of the intra-aortic balloon pump is
+approximately a centimeter below the level of the left main
+bronchus, approximately 6 cm from the apex of the aortic knob.
+
+Small left pleural effusion is stable. No right pleural effusion
+is demonstrated and there is no pneumothorax.
+
+Tip of the Swan-Ganz catheter projects over the right pulmonary
+artery, ET tube is in standard placement, midline and right
+pleural drains are in place. Nasogastric tube passes to the
+distal stomach. Mediastinum midline.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**]
+
+
+
+
+
+Brief Hospital Course:
+The patient was admitted and evaluated by cardiology and had CP
+with hypotension during the night of admission.  She underwent
+emergency cardiac catheterization which revealed: 90%LMCA
+stenosis, diffusely diseased tight ostial LAD 60% lesion, 80%
+ostial, diffusely diseased, 80% diseased RCA, elevated filling
+pressures and 20%EF. An IAPB was placed and she went for
+emergency CABGx3(SVG->LAD, Diag, OM)on [**2129-12-18**].
+She was transferred to the CSRU on Levophed, Milrinone, Epi,
+Vasopressin, Insulin, and Propofol.  She had persistent
+hypotension and the propofol was d/c'd and she was placed on
+Cisatricurium, Fentanyl, and Midaz.  She desaturated and
+required bronchoscopy and had copius mucous plugging.  She
+improved following this, but had persistent tachycardia in the
+130-150 range and had a good cardiac output and urine output
+throughout.  Dr. [**Last Name (STitle) 40858**] at [**Hospital1 2025**] was consulted and she was
+transferred for the possibility of a Heartmate insertion.
+
+Medications on Admission:
+Humalog SS
+Lantus 9U SC BID
+Lisinopril 2.5 mg PO daily
+
+Allergies: MSO4
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for temperature >38.0.
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 3 months.
+3. Ranitidine HCl 15 mg/mL Syrup Sig: One [**Age over 90 1230**]y (150) mg
+PO BID (2 times a day).
+4. Epinephrine 1 mg/mL Solution Sig: .03 mg/kg/min Injection
+INFUSION (continuous infusion).
+5. Vasopressin 20 unit/mL Solution Sig: 1.5 mg/kg/min Injection
+TITRATE TO (titrate to desired clinical effect (please
+specify)).
+6. Norepinephrine Bitartrate 1 mg/mL Solution Sig: 0.2 mg/kg/min
+Intravenous  INFUSION (continuous infusion).
+7. Fentanyl Citrate (PF) 0.05 mg/mL Solution Sig: One Hundred
+Fifty (150) mg/kg/min Injection INFUSION (continuous infusion).
+
+8. Midazolam 5 mg/mL Solution Sig: 1.5 mg/kg/min Injection
+INFUSION (continuous infusion).
+9. Furosemide 10 mg/mL Solution Sig: Ten (10) mg/kg/min
+Injection INFUSION (continuous infusion).
+10. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) [**Hospital1 **]
+Intravenous  Q12H (every 12 hours) for 6 doses.
+11. Milrinone 1 mg/mL Solution Sig: 0.5 mcg/kg/min Intravenous
+infusion.
+12. Cisatracurium 10 mg/mL Solution Sig: 0.15 mg/kg/min
+Intravenous  INFUSION (continuous infusion).
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+CAD
+IDDM
+HTN
+MI
+^chol.
+CHF
+Neuropathy
+Retinopathy
+
+
+Discharge Condition:
+Critical
+
+
+Discharge Instructions:
+Continue intensive care.
+Being transferred to [**Hospital1 2025**]
+
+Followup Instructions:
+Tx->Dr. [**Last Name (STitle) **]
+
+
+
+Completed by:[**2129-12-19**]

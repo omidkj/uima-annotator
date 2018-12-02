@@ -1,0 +1,191 @@
+Admission Date:  [**2147-12-18**]              Discharge Date:   [**2148-1-3**]
+
+Date of Birth:  [**2096-10-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3151**]
+Chief Complaint:
+hypotension
+
+Major Surgical or Invasive Procedure:
+intubation, CVL
+
+History of Present Illness:
+51 yo F paraplegic with multiple prior admissions for PNA and
+UTI complicated by sepsis presented to the ED with three days of
+worsening lethargy and difficulty breathing. Her husband states
+that the pt started noticing foul smelling urine and lethargy on
+friday (3 days PTA). She called her PCP's Office and had a
+UA/UCx done at an outside clinic--she did not start any Abx at
+that time. She had no symptoms of UTI as she straight caths q4h
+and has no sensation in the area at baseline. Lethargy and
+productive cough worsened over the weekend until late last night
+when the patient produced dark sputum and had O2 sat of 82% at
+home.
+.
+Since her MVA in [**2143**], she has been hospitalized 15 times,
+almost all of these admissions have been for UTI/PNA and many of
+them have involved MICU stays. She was most recently discharged
+from [**Hospital1 18**] in [**2147-10-3**]; she was admitted for PNA and UTI,
+underwent a prolonged intubation & tracheostomy & had a PEA
+arrest.
+.
+In the ED, initial VS: 98.1, HR=102, 84/49, 16, 80% room air.
+She was placed on non-rebreather and given 2L NS with little
+effect on her BP. RIJ CVL was placed in the ED and pt was
+started on levophed. Pt was noted to be increasingly lethargic,
+blood gas notable for hypercapnea & acidosis (7.14/84/151). She
+was intubated in the ED. In total, she received, 7L normal
+saline, levophed, nebs, zosyn, vanco, fentanyl/versed prior to
+transfer to the MICU.
+.
+On arrival to the MICU, BP=150/90 on a-line with HR in 80s-90s.
+Levophed was weaned quickly. Initial CVP was [**11-13**] & CXR was
+notable for pulmonary vascular congestion with possible focal
+areas of infiltrate in the LUL and RML.
+.
+Review of prior Micro data revealed that during her most recent
+hospitalization in [**Month (only) **] [**Numeric Identifier 66979**], her sputum grew pan-sensitive
+kleb and MRSA. In [**2147-6-2**], her urine had grown [**Year (4 digits) 40097**] Kleb. UA
+and UCx were obtained from the outside clinic where she had sent
+urine on friday, this showed Citrobacter freundii resistant to
+cefazolin and flouroquinolones, and senitive to Imipenem but
+with only MIC<=4.
+.
+ROS: Pt unable to answer, but per her husband, she had
+experienced some shoulder and neck aching, no subjective fevers
+at home, no focal weakness. Had not c/o photophobia. No recent
+sick contacts---they screen visitors given pt's frail health,
+but she had been out in public recently and had been to MD
+office visits.
+
+
+Past Medical History:
+1. T1-T2 paraplegia following MVC [**1-5**]
+2. Recurrent UTIs: [**Month/Year (2) 40097**] klebsiella
+3. HCV, viral load suppressed
+4. H/o recurrent PNAs: MRSA, pan-sensitive Kleb
+5. Anxiety
+6. DVT in [**2142**] -IVC filter placed in [**2142**]
+7. Pulmonary nodules
+8. Hypothyroidism
+9. Chronic pain
+10. Chronic gastritis
+11. H/o obstructive lung disease
+12. Anemia of chronic disease
+13. S/p PEA arrest during last hospitalization in [**2147-10-3**]
+
+
+Social History:
+The patient currently lives at home wiht her husband and 2
+children, ages 15 and 22. Former 35 packyear smoker. Denies
+current tobacco or alcohol use.
+
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Vitals - afebrile, BP 95/60, HR 70s
+GENERAL: Sitting up in bed in no apparent distress
+CARDIAC: normal S1/S2, no murmurs appreciable
+LUNG: clear bilaterally, no rales noted
+ABDOMEN: soft and nontender
+EXT: no lower extremity edema
+NEURO: alert and oriented X3
+
+
+Pertinent Results:
+[**2147-12-18**] 11:05AM BLOOD WBC-6.2 RBC-3.96*# Hgb-11.0*# Hct-34.3*#
+MCV-87 MCH-27.8 MCHC-32.1 RDW-15.8* Plt Ct-202
+[**2147-12-18**] 11:05AM BLOOD Neuts-86* Bands-1 Lymphs-7* Monos-5 Eos-1
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2147-12-19**] 05:33AM BLOOD PT-18.1* PTT-35.5* INR(PT)-1.6*
+[**2147-12-19**] 05:33AM BLOOD Fibrino-525*#
+[**2147-12-18**] 11:05AM BLOOD Glucose-124* UreaN-10 Creat-0.5 Na-137
+K-4.9 Cl-99 HCO3-32 AnGap-11
+[**2147-12-18**] 03:08PM BLOOD Glucose-227* UreaN-7 Creat-0.3* Na-146*
+K-3.5 Cl-114* HCO3-26 AnGap-10
+[**2147-12-18**] 11:05AM BLOOD Calcium-9.0 Phos-3.9 Mg-1.8
+[**2147-12-19**] 05:33AM BLOOD Hapto-208*
+[**2147-12-18**] 12:19PM BLOOD Type-ART FiO2-100 pO2-151* pCO2-84*
+pH-7.14* calTCO2-30 Base XS--2 AADO2-494 REQ O2-81 Intubat-NOT
+INTUBA Comment-FM
+[**2147-12-18**] 04:17PM BLOOD Type-ART pO2-112* pCO2-47* pH-7.25*
+calTCO2-22 Base XS--6
+[**2147-12-18**] 11:18AM BLOOD Glucose-125* Lactate-1.8 Na-139 K-4.5
+Cl-92*
+[**2147-12-18**] 04:17PM BLOOD Lactate-2.4*
+[**2147-12-18**] 10:14PM BLOOD Lactate-1.5
+.
+Imaging:
+Echo:
+The left atrium is dilated. Left ventricular wall thickness,
+cavity size and regional/global systolic function are normal
+(LVEF >55%). There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+number of aortic valve leaflets cannot be determined. There is
+no aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve appears structurally normal with trivial mitral
+regurgitation. There is no mitral valve prolapse. There is
+borderline pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion. There are no
+echocardiographic signs of tamponade.
+.
+MRI Head:
+FINDINGS: There are bilateral confluent areas of
+hyperintensities seen in the parietooccipital lobes and a small
+focus of hyperintensity is seen in the left thalamus consistent
+with posterior reversible encephalopathy. No evidence of
+restricted diffusion seen in these regions. There is no midline
+shift or hydrocephalus. Mild-to-moderate brain atrophy is seen.
+Suprasellar and craniocervical regions are normal on the
+sagittal images. The vascular flow voids are maintained. Small
+amount of fluid is seen in the left mastoid air cells.
+IMPRESSION: Bilateral parietooccipital white matter
+hyperintensities also
+involving [**Doctor Last Name 352**] matter consistent with posterior reversible
+encephalopathy. No evidence of restricted diffusion seen.
+
+
+
+Brief Hospital Course:
+51 yo F paraplegic with a hx of recurrent UTIs, PNAs, sepsis,
+presenting with 3 days of UTI (with + urine culture) and
+worsening productive cough/hypoxia likely representing PNA, who
+developed PRES in ICU setting.
+.
+# PNA: Patient presented in hypoxic & hypercapneic respiratory
+failure, requiring intubation in ED. CXR was notable for
+pulmonary vascular congestion with possible focal areas of
+infiltrate in the LUL and RML. Patient received empiric
+vanco/zosyn. She briefly required levophed, which was weaned at
+arrival to the MICU. Given recent hospitalization in [**Month (only) **] and
+MRSA in sputum, she was treated for healthcare associated PNA,
+as well as for UTI, with vancomycin, meropenema and gentamycin.
+She completed a 7 day course of vanco and gent, and 14 d of
+meropenem.
+On [**12-25**], she was extubated, but given her sedation and
+incresed work of breathing, she was reintubated.  The
+possibility of a tracheostomy was raised but apparently the
+patient refused.
+The patient was educated about good airway clearance. She
+received chest PT and was able to provide good coughing on her
+own. 02 sat was 94-95% on room air at discharge.
+.
+#PRES:  Patient became hypertensive to the 180s in the MICU
+setting and was started on IV hydralazine. On [**12-29**], she
+developed a severe headache with binocular blindness and
+decreased facial sensation in the setting of high blood
+pressures; CT and MRI were consistent with diagnosis of PRES
+syndrome.  Neurology was consulted who recommended a blood
+pressure between 120 and 140.  Chlorthalidone was started and BP
+remained largely within goal range, with some blood pressure in
+90-100s. Headache and vision greatly improved by discharge.
+Neurology recommended follow-up MRI in 2 weeks and neuro clinic,
+as well as [**Hospital 2081**] clinic appointments. The patient was instructed
+to continue chlorthalidone and check BP at home twice daily. Dr

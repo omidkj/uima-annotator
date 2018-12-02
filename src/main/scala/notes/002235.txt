@@ -1,0 +1,134 @@
+Admission Date:  [**2113-11-16**]              Discharge Date:   [**2113-11-19**]
+
+Date of Birth:  [**2058-7-24**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+Chest pain. Descending aortic dissection
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+55 year-old with PMHx only remarkable for HTN presents as
+transfer from OSH with reports of descending aortic dissection.
+The patient describes that he woke up this morning with mid-back
+pain that wrapped around his to his chest. He had extreme chest
+tightness and pain - he never had an episode like this before.
+The patient went to the ED at a local hospital where his BP was
+found to be 220s/110s. The patient's pressure was brought down
+with beta-blockers. A CTA of his torso was obtained and showed [**Initials (NamePattern4) **]
+[**Last Name (NamePattern4) 11916**] Type B aortic dissection. The patient was started on a
+labetalol gtt and transferred to [**Hospital1 18**]. On arrival, the patient
+reports no headaches, no nausea, no vomiting.  He reports that
+the pain in his chest and back resolved after some dilaudid and
+once his blood pressure came down.  He reports no abdominal pain
+and no leg pain.
+
+
+Past Medical History:
+HTN, COPD
+
+Social History:
+positive for tobacco and ETOH use
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: 97.4 BP R arm 121/73 BP L arm 113/70 HR 66 RR 16 96%2L
+GEN: NAD, A&Ox3
+HEENT: No scleral icterus
+NECK: Supple, no bruits
+CV: RRR, nl S1 and S2, no m/r/g
+LUNGS: Clear B/L
+ABD: soft, NT, ND, no hernias, no masses
+EXT: no c/c/e of LE
+VASC:
+     Radial     Fem     [**Doctor Last Name **]     DP     PT
+R      2+        2+      2+     D      2+
+L      2+        2+      2+     D      2+
+
+
+Pertinent Results:
+[**2113-11-16**] 07:45PM   GLUCOSE-192* UREA N-18 CREAT-1.1 SODIUM-138
+POTASSIUM-4.0 CHLORIDE-101 TOTAL CO2-26 ANION GAP-15
+[**2113-11-16**] 07:45PM   cTropnT-<0.01
+[**2113-11-16**] 07:45PM   WBC-11.5* RBC-4.63 HGB-15.9 HCT-44.8 MCV-97
+MCH-34.4* MCHC-35.5* RDW-13.6
+[**2113-11-16**] 07:45PM   PLT COUNT-184
+
+Brief Hospital Course:
+The patient was admitted under Dr.[**Name (NI) 1720**] service on [**2113-11-16**].
+He was observed overnight in the ICU and kept on a labetalol gtt
+to keep SBP between 100 and 130.
+
+On [**2113-11-17**] (HD2), the patient was evaluated by Dr. [**Last Name (STitle) 914**]
+from CT surgery.  He also recommended that the patient's
+dissection to be controlled with BP medications (conservative
+treatment) and that no surgical intervention was needed. The
+patient was then started on an oral beta-blocker regimen and
+transferred to the VICU.
+
+On HD3, a repeat CTA was obtained that showed no progression of
+the dissection.
+
+On HD4, the patient maintained an SBP less than 140 on his po
+regimen of labetalol. He denied any more chest pain.  He was
+given instructions on how to stop smoking and to make sure that
+he get his blood pressure checked on a regular basis, as he does
+not have a regular PCP.  [**Name10 (NameIs) **] was instructed to get his blood
+pressure checked 4-5 times a week at a local drug
+store/pharmacy. He agreed to these conditions and he was deemed
+stable for discharge home.
+
+Medications on Admission:
+None
+
+Discharge Medications:
+Nicotine patch 14 mg TD q day
+Labetalol 200 mg po bid
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Type B aortic dissection
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Until you have established a PCP, [**Name10 (NameIs) **] get your blood pressure
+checked 4 to 5 times a week at a local drug store/pharmacy. If
+your systolic blood pressure is above 140, go to a local
+Emergency Department to have your blood pressure brought down.
+Please explain to them your condition (aortic dissection)
+beforehand.
+
+Please go to an Emergency Department as soon as possible if you
+experience chest pain, severe headaches, nausea, vomiting, or
+profuse sweating.
+
+Followup Instructions:
+Call Dr.[**Name (NI) 1720**] office on [**2113-11-20**] to schedule follow-up CTA
+(to be done in one months time) and follow-up appointment with
+Dr. [**Last Name (STitle) **].  His office number is ([**Telephone/Fax (1) 2867**].
+
+Please set-up a PCP to keep [**Name Initial (PRE) **] close eye on your blood pressure.
+
+
+Until you have established a PCP, [**Name10 (NameIs) **] get your blood pressure
+checked 4 to 5 times a week at a local drug store/pharmacy. If
+your systolic blood pressure is above 140, go to a local
+Emergency Department to have your blood pressure brought down.
+Please explain to them your condition (aortic dissection)
+beforehand.
+
+
+

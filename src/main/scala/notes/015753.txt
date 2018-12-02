@@ -1,0 +1,226 @@
+Admission Date:  [**2129-10-12**]              Discharge Date:   [**2129-12-7**]
+
+Date of Birth:  [**2081-5-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 99**]
+Chief Complaint:
+OSH transfer for pulmonary eval
+
+Major Surgical or Invasive Procedure:
+Endotracheal Intubation
+Central Venous Line
+
+History of Present Illness:
+48 year-old woman with history of chronic interstitial lung
+disease/pulmonary fibrosis, paroxysmal atrial fibrillation on
+[**6-12**] liters oxygen at home who presented to [**Hospital 67742**] Medical
+Center (NH) on [**2129-10-8**] with c/o SOB.  She was found to have O2
+saturations in the mid-80's (baseline is low 90's) and was
+tachypneic.  Her saturations improved on Bi-PAP of 16 and 7 with
+100% FiO2.  While still in the ER, she went into atrial flutter
+which resolved with Metoprolol 5 mg x 3. The patient was moved
+to the [**Location (un) 67742**] MICU. On [**10-9**] she was emergently intubated. She
+had a R IJ central line and a left radial a-line placed. The OSH
+records are spare, but it appears that the pt was on abx,
+possibly bactrim, zithromax, and/or zosyn, and solumedrol though
+more information is unavailable. The pt was transferred to [**Hospital1 18**]
+for further pulmonary w/u.
+.
+Upon arrival to the MICU the pt was already intubated but was
+breathing uncomfortably and was in A fib with rapid RVR. The pt
+was given lopressor 5 mg IV X3 with no effect on her heart rate.
+The pt was placed on a dilt gtt for planned improved rate
+control.
+
+
+Past Medical History:
+Chronic interstitial lung disease/pulmonary fibrosis
+Paroxysmal atrial fibrillation (on coumadin) and ablation (/06)
+Atherosclerotic cardiovascular disease
+HTN
+Hyperlipidemia
+Obesity
+Uncontrolled blood sugars (prednisone-induced)
+
+
+Social History:
+She has a history of tobacco abuse but currently does not smoke.
+ No EtOH or drug abuse
+
+Family History:
+Significant for mother dying of heart disease at age 47 after MI
+at age 43.
+
+Physical Exam:
+T: 98.7 BP: 126/70 P: 122 RR: 22 sat: 97% vent
+AC 550X15 FiO2 100%
+General: intubated, sedated
+HEENT: mm dry
+Resp: coarse ronchi and crackles throughout
+Card: atrial fibrillation with rate
+Abd: obese, + BS, NT/ND, soft
+Ext: trace edema b/l
+Neuro: moving all four extremities
+
+
+Pertinent Results:
+Admission Labs:
+==============
+[**2129-10-12**] 11:33PM   PT-14.7* PTT-27.3 INR(PT)-1.3*
+[**2129-10-12**] 11:33PM   WBC-16.9* RBC-3.54* HGB-11.5* HCT-34.5*
+MCV-97
+[**2129-10-12**] 11:33PM   NEUTS-87.7* LYMPHS-8.6* MONOS-3.5 EOS-0.1
+BASOS-0.1
+[**2129-10-12**] 11:33PM   ALBUMIN-3.7 CALCIUM-8.7 PHOSPHATE-5.4*
+MAGNESIUM-2.9*
+[**2129-10-12**] 11:33PM   CK-MB-NotDone cTropnT-<0.01
+[**2129-10-12**] 11:33PM   ALT(SGPT)-206* AST(SGOT)-246* LD(LDH)-1269*
+CK(CPK)-50 ALK PHOS-199* AMYLASE-52 TOT BILI-1.5
+[**2129-10-12**] 11:33PM   GLUCOSE-226* UREA N-26* CREAT-0.9 SODIUM-141
+POTASSIUM-4.5 CHLORIDE-100 TOTAL CO2-31 ANION GAP-15
+.
+RADIOLOGY:
+==========
+CTA [**2129-10-15**]
+IMPRESSION:
+1. Ill-defined ground-glass opacities in a peripheral and
+basilar distribution. Findings are compatible with patient's
+provided history of interstitial lung disease.
+2. Linear calcification at the left lung base with anterior rib
+fractures visualized along the seventh and eight ribs; likely
+post-traumatic
+.
+CT ABD/PELV:
+===========
+IMPRESSION:
+1. Significantly limited study due to attenuation by the
+patient's large body habitus.
+2. No significant change in diffuse ground-glass opacity of the
+visualized lungs. This could represent chronic interstitial lung
+disease; however, underlying infection cannot be excluded.
+3. Prominence of the extrahepatic biliary duct at 12 mm. No
+intrahepatic biliary ductal dilatation. Possible tiny gallstones
+but there is no evidence of acute cholecystitis.
+4. No intra-abdominal fluid collection or abscess identified
+.
+ECHO [**2129-10-13**]:
+===========
+Conclusions:
+1. The left atrium is mildly dilated.
+2. The left ventricular cavity size is normal. Overall left
+ventricular
+systolic function is difficult to assess but may be normal
+(LVEF>55%).
+3. The aortic valve leaflets (3) are mildly thickened.
+4. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral
+regurgitation is seen.
+.
+[**12-2**] blood cultures: [**2-9**] coag negative staph
+[**11-27**] blood cultures negative
+[**12-2**] Urine CX: [**2129-11-27**] 8:26 am URINE
+
+                            **FINAL REPORT [**2129-11-30**]**
+
+   URINE CULTURE (Final [**2129-11-30**]):
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..
+         Trimethoprim/Sulfa sensitivity testing confirmed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+         WARNING! This isolate is an extended-spectrum
+beta-lactamase
+         (ESBL) producer and should be considered resistant to
+all
+         penicillins, cephalosporins, and aztreonam. Consider
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------       R
+CEFUROXIME------------       R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------   128 R
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+.
+Sputum culture [**11-26**]:
+ SPARSE GROWTH OROPHARYNGEAL FLORA.
+      KLEBSIELLA PNEUMONIAE.    MODERATE GROWTH.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+         WARNING! This isolate is an extended-spectrum
+beta-lactamase
+         (ESBL) producer and should be considered resistant to
+all
+         penicillins, cephalosporins, and aztreonam. Consider
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------       R
+CEFUROXIME------------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------  =>16 R
+.
+[**Date range (1) 51721**] and 1022-10/25- Stool cx negative for c diff x 3
+(twice)
+[**11-10**], [**11-26**] sputum + for Klebsiella multidrug resistant
+
+[**11-23**]: CTA IMPRESSION:
+1. Very limited study secondary to ventilation state of patient
+and arm positioning. No evidence of pulmonary embolism in the
+main pulmonary artery, right pulmonary artery and left pulmonary
+artery. Distal vessels not fully assessed secondary to technical
+difficulties.
+2. Slight improvement of the left apex and anterior aspect of
+the right and left lower lobes in terms of ground-glass
+opacities. Worsening/progression of opacities at the bases. This
+could represent intraparenchymal hemorrhage.
+3. Extensive mediastinal/hilar lymphadenopathy essentially
+unchanged in appearance compared to the previous study.
+.
+[**12-3**] KUB :One portable supine view of the abdomen. Comparison
+with [**2129-11-30**]. A Dobbhoff feeding tube is in place. This
+terminates in the region of the distal end of the gastric antrum
+or duodenal bulb. The bowel gas pattern is not remarkable.
+IMPRESSION: Feeding tube in place.
+
+Brief Hospital Course:
+48 year-old woman with history of chronic interstitial lung
+disease/pulmonary fibrosis, paroxysmal atrial fibrillation on
+[**6-12**] liters oxygen at home who presented to [**Hospital 67742**] Medical
+Center (NH) on [**2129-10-8**] with [**Hospital **] transfered to [**Hospital1 1

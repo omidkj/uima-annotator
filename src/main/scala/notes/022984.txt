@@ -1,0 +1,209 @@
+Admission Date:  [**2122-8-16**]              Discharge Date:   [**2122-8-27**]
+
+Date of Birth:  [**2057-1-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Erythromycin Base
+
+Attending:[**First Name3 (LF) 1257**]
+Chief Complaint:
+Weakness
+
+Major Surgical or Invasive Procedure:
+Plasmapheresis cathether placement
+Plasmapheresis
+
+
+History of Present Illness:
+65 year old female with past medical history of abdominal aortic
+aneurysm status post endovascular repair, hypertension,
+cerebrovascular accident, atrial fibrillation, small cell lung
+cancer and myasthenia [**Last Name (un) 2902**] who presented to the ER today with
+weakness and hypoxia. Of note, she presented to her neurologist
+complaining of weakness on [**8-6**] and he was concerned for steroid
+myopathy. He decreased her dose of prednisone to 40mg daily,
+started Imuran and stopped cellcept. Patient has felt weak for
+the past few weeks with generalized exhaustion without any known
+causative events. Patient has fallen a few times this week with
+one fall sustaining head impact last night. No loss of
+consciousness. Over the past couple of days, patient has also
+had some dysuria as well as vomiting without nausea, fever, or
+chills.
+.
+In the ED, initial vs were: T 98.2 P 92 BP 150/97 R 22 O2 sats
+of 88% on RA. CXR and CT head were negative for acute processes.
+Patient was given Ceftriaxone 1gram for a positive urinalysis
+and Mestinon 60mg for her myasthenia. Neurology was consulted
+and felt this was unlikely consistent a myasthenia crisis but
+recommended following NIFs. Patient was found to have elevated
+lactate at 4 and transferred to the ICU for respiratory
+monitoring after gentle hydration.
+.
+On arrival to the ICU, patient was denying chest pain, shortness
+of breath, abdominal pain, nausea, joint pain. She complains of
+generalized exhaustion. No sick contacts.
+.
+Review of systems:
+(+) Per HPI, reports good appetite with 20 pound weight gain,
+chronic cough occasionally productive of yellow sputum
+(-) Denies fever, chills, night sweats. Denies headache, sinus
+tenderness, rhinorrhea or congestion. Denied shortness of
+breath. Denied chest pain or tightness, palpitations. Denied
+nausea, diarrhea, constipation or abdominal pain. No recent
+change in bowel or bladder habits. Denied arthralgias or
+myalgias.
+
+
+Past Medical History:
+1. Myasthenia [**Last Name (un) 2902**] Dx in [**2121**]: primary neurologist in
+[**Location (un) 38**], mild crisis in past marked by visual changes
+(diplopia) nd generalized weakness, treated with mestinon 60mg
+TID, prednisone and cellcept. At baseline, uses wheelchair for
+any extended travel and walks around the home with a walker,
+ADLs with support by her husband- primary caretaker
+2. Stroke, [**2121**]- residual weakness in BLLE
+3. History of lung CA in [**2116**], s/p chemoradiation, treated by
+Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 4223**] in [**Hospital1 392**], ? small cell lung cancer.
+4. Atrial fibrillation on dig/coumadin
+5. Hypertension
+6. Hypercholesterolemia
+7. OSA
+8. GERD
+9. Chronic low back pain
+10. Spine surgery, [**2120**]
+11. Bilateral knee arthroscopy
+12. Degenerative arthritis
+13. Cholescystecomy
+
+
+Social History:
+Lives with husband. She is a former heavy smoker up to a pack
+and a half of cigarettes per day and stopped smoking in [**Month (only) 958**].
+Denies alcohol or drug use.
+
+Family History:
+Denies any known neurological familial history.
+
+Physical Exam:
+On admission:
+Vitals: T: 98.8 BP: 184/94 P: 81 R: 19 O2: 97% on 4L NC
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM dry, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Irregularly irregular rate and rhythm, normal S1 + S2, no
+murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema, [**5-12**] muscle strength in all extremities, sensation intact
+all four extremities, mild dysarthria and bilateral lid lag.
+
+
+Pertinent Results:
+On admission:
+WBC-13.9* RBC-4.37 Hgb-14.3 Hct-43.1# MCV-99* MCH-32.8*
+MCHC-33.2 RDW-15.5 Plt Ct-162
+Neuts-83.2* Lymphs-10.1* Monos-6.0 Eos-0.3 Baso-0.4
+PT-23.3* PTT-21.0* INR(PT)-2.2*
+Glucose-142* UreaN-27* Creat-1.5* Na-131* K-4.0 Cl-84* HCO3-34*
+AnGap-17
+Albumin-4.3 Calcium-15.9* Phos-5.8*# Mg-1.7 UricAcd-9.6* PTH-16
+freeCa-1.65*
+
+Calcium trends:
+([**8-16**]) 15.9 -> ([**8-17**]) 13.5 -> 12.4 -> 11.8 -> ([**8-18**]) 9.9 -> 9.3
+-> ([**8-19**]) 9.3
+
+URINE CULTURE (Final [**2122-8-18**]):
+      PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMIKACIN--------------     4 S
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------     2 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN---------- =>128 R
+PIPERACILLIN/TAZO-----    16 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+[**8-16**] EKG: Atrial fibrillation. Incomplete right bundle-branch
+block. Extensive ST-T wave changes may b e due to myocardial
+infarction. Also, consider digitalis effect.
+
+[**8-16**] CXR: No acute intrathoracic process. Stable appearance of
+enlargement
+of the main pulmonary arteries compatible with pulmonary
+hypertension.
+
+[**8-16**] CT Head: 1. No evidence of acute intracranial abnormalities.
+
+2. Moderate chronic small vessel ischemic changes.
+
+[**8-16**] Abdominal films: 1. Gastric distention. No evidence of small
+bowel dilatation or free air.
+2. Stool and air are seen throughout the colon.
+
+[**8-19**] CT chest: 1. Left upper lobe nodular density with adjacent
+bronchial dilatation is most likely infectious or inflammatory
+in etiology. 2. Persistent right infrahilar nodular density with
+adjacent infrahilar lymphadenopathy for which FDG PET is
+recommended to exclude neoplasm. Because PET may be false
+positive in the setting of infection, consider postponing the
+PET until after antibiotic treatment for the potentially
+infectious lesion in the left apex to avoid a false positive
+finding in this location. 3. New Scleotic lesion of the T8.
+Although compression fracture is most likely, pathological
+fracture can not be excluded. This may also be assessed at the
+time of PET.
+
+[**2122-8-25**] ECHO: Dilated right ventricle with normal systolic
+function. Mild symmetric left ventricular hypertrophy with
+preserved systolic function. Moderate tricuspid regurgitation.
+Moderate pulmonary hypertension with signs of RV volume
+overload.
+
+
+Brief Hospital Course:
+Weakness: Likely due to myasthenia crisis or hypercalcemia.
+Patient's home dose of pyridostigmine and prednisone 40mg were
+continued and azathioprine  started. Patient received five
+plasmapheresis sessions. At discharge, patient was saturating in
+the high 90s on room air and denied shortness of breath at rest.
+Negative Intrathoracic Force ranged from 30-50 and vital
+capactities were between 0.8-1.3L.
+.
+Hypercalcemia: Calcium on admission was 15.9 but was down around
+8 after receiving calcitonin and bisphophonate. Parathyroid
+hormone, parathyroid related hormone, and vitamin D levels were
+normal. Given history of small cell cancer, there is a concern
+for an osteolytic process secondary to metastasis. Chest CT
+showed lesion in T8. Would recommend PET imaging for further
+evaluation.
+.
+Hypertension: Patient's anti-hypertensive regimen was altered
+during admission. Hydrochlorothiazide was discontinued due to
+hypercalcemia and hydralazine discontinued due to peripheral
+edema. Patient was switched from 25mg metoprolol three times
+daily to atenolol 100mg daily and lisinopril 40mg po twice
+daily.
+.
+Atrial fibrillation: Coumadin was held during plasmapheresis.
+Heparin drip was started. Coumadin was restarted on [**2122-8-26**]
+after completion of plasmapharesis. INR at discharge was 1.1.
+Digoxin was held because of

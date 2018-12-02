@@ -1,0 +1,202 @@
+Admission Date:  [**2131-5-23**]              Discharge Date:   [**2131-6-28**]
+
+Date of Birth:  [**2064-7-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Levofloxacin / Cefazolin / Coreg / Dopamine
+
+Attending:[**First Name3 (LF) 1881**]
+Chief Complaint:
+foot infection, sepsis
+
+Major Surgical or Invasive Procedure:
+L toe ulcer debridement
+thoracentesis
+
+History of Present Illness:
+Mr. [**Known firstname **] is a 66 y/o male patient of Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) **] with
+diabetes c/b peripheral neuropathy, ulcers, and amputation, a
+history of a pro-coaguable disorder requiring chronic
+prophylaxis with enoxaparin and a neuropathic heel ulcer
+presents with a week of fever, malaise, nausea/vomiting, and
+change in mental status.
+
+According to the family the patient was in his usual state of
+health until one week PTA, when he had an episode of emesis. The
+following day he went to [**Hospital3 **] but again had nausea
+and emesis.
+
+Two nights PTA the patient began to have worsening of his great
+toe ulcer with redness and drainage. In addition he developed a
+low grade temperature and increase malaise. In the emergency
+room he was given ceftazidime and vancomycin. A code sepsis was
+called and a central line was placed. Dopamine was started for
+pressure support. The patient was sent to the ICU for further
+management.
+
+Upon arrival to the floor the patient was slightly lethargic but
+alert & oriented x 3. An arterial line was placed, and the
+patient was noted to have monomorphic ventricular tachycardia on
+an EKG, during which the patient dropped his blood pressures. He
+was changed from dopamine to neosynephrine and an EP consult was
+obtained. The patient received a total of 1250cc of NS. Once on
+neosynephrine his ventricular tachycardia resolved.
+
+Vascular surgery came to evaluate the patient and incised his
+toe wound. They isolated three pockets of pus and cultures were
+sent.
+
+
+Past Medical History:
+DMII
+CAD, ischemic cardiomyopathy EF 20%
+Afib s/p ablation, pacemaker
+SMA thrombosis with small bowel and large bowel infarcts status
+  post small bowel and large bowel resection and resulting short
+
+  gut syndrome
+Bacterial peritonitis
+PVD s/p R BKA
+Hypercoagulable state, DVTs
+Peripheral neuropathy
+Plantar fasciitis
+CVA
+PV
+Nonhealing anal fissure
+
+
+Social History:
+Mr. [**Known lastname 21212**] is a retired systems programmer for a management
+consulting
+firm. He is married with no children.
+He denies alcohol, tobacco or drug use.  Prior 3 yrs of tobb
+abuse.
+
+
+Family History:
+Family history is negative for hypercoagulable state, PVD
+
+Physical Exam:
+PE: HR 75, ABP 102/61, O2 97%
+Gen: Lying in bed in mild distress.
+HEENT: NCAT, MMM.  RIJ in place.
+CV: RRR
+Chest: CTA bilaterally on anterior exam other than slight
+crackles at right lower base.
+Abd: Scaphoid, benign.
+Ext: Patient with BKA on left foot.  Right toe is ulcerated and
+erythematous with streaking cellulitis 2/3 up shin to knee.
+Neuro: Complaining, arousable, A&O x 3.
+
+
+Pertinent Results:
+[**2131-5-23**] 08:33AM BLOOD WBC-18.6* RBC-5.43# Hgb-14.6# Hct-44.5#
+MCV-82# MCH-26.9*# MCHC-32.8 RDW-20.2* Plt Ct-287
+[**2131-5-23**] 08:33AM BLOOD Neuts-91.7* Bands-0 Lymphs-5.7*
+Monos-1.8* Eos-0.6 Baso-0.2
+[**2131-5-23**] 02:34PM BLOOD WBC-24.1* RBC-5.68 Hgb-15.5 Hct-47.1
+MCV-83 MCH-27.4 MCHC-33.0 RDW-20.3* Plt Ct-350
+[**2131-5-24**] 04:13AM BLOOD WBC-20.1* RBC-5.05 Hgb-14.0 Hct-41.2
+MCV-82 MCH-27.7 MCHC-33.9 RDW-20.6* Plt Ct-384
+[**2131-5-25**] 04:36AM BLOOD WBC-14.6* RBC-4.76 Hgb-12.6* Hct-39.0*
+MCV-82 MCH-26.6* MCHC-32.4 RDW-20.5* Plt Ct-335
+[**2131-5-24**] 04:13AM BLOOD PT-21.8* PTT-39.1* INR(PT)-2.1*
+[**2131-5-25**] 04:36AM BLOOD PT-18.2* PTT-78.8* INR(PT)-1.7*
+[**2131-5-25**] 11:15AM BLOOD PT-17.6* PTT-44.1* INR(PT)-1.6*
+[**2131-5-23**] 08:40AM BLOOD Glucose-222* UreaN-60* Creat-1.8* Na-133
+K-4.5 Cl-103 HCO3-15* AnGap-20
+[**2131-5-23**] 02:34PM BLOOD Glucose-149* UreaN-60* Creat-1.9* Na-133
+K-4.3 Cl-101 HCO3-17* AnGap-19
+[**2131-5-25**] 04:36AM BLOOD Glucose-118* UreaN-47* Creat-1.7* Na-136
+K-4.4 Cl-111* HCO3-15* AnGap-14
+[**2131-5-23**] 08:40AM BLOOD ALT-25 AST-18 LD(LDH)-423* CK(CPK)-116
+AlkPhos-84 TotBili-0.9
+[**2131-5-24**] 04:13AM BLOOD ALT-22 AST-13 LD(LDH)-335* AlkPhos-76
+TotBili-0.6
+[**2131-5-23**] 08:40AM BLOOD CK-MB-6 cTropnT-0.07* proBNP-[**Numeric Identifier 23738**]*
+[**2131-5-23**] 08:40AM BLOOD Lipase-27
+[**2131-5-23**] 08:40AM BLOOD Calcium-8.1* Phos-3.4 Mg-1.6
+[**2131-5-23**] 02:34PM BLOOD Calcium-8.1* Phos-3.8 Mg-1.8
+[**2131-5-24**] 04:13AM BLOOD Albumin-3.4 Calcium-7.9* Phos-5.3*
+Mg-2.9*
+[**2131-5-23**] 08:40AM BLOOD Cortsol-29.9*
+[**2131-5-23**] 08:40AM BLOOD CRP-85.4*
+[**2131-5-24**] 03:58PM BLOOD Vanco-19.2
+[**2131-5-23**] 02:34PM BLOOD Digoxin-0.8*
+[**2131-5-23**] 03:02PM BLOOD Type-ART Temp-35.7 Rates-/14 O2 Flow-6
+pO2-84* pCO2-35 pH-7.26* calTCO2-16* Base XS--10 Intubat-NOT
+INTUBA Comment-NASAL [**Last Name (un) 154**]
+[**2131-5-24**] 04:29PM BLOOD Lactate-1.4
+[**2131-5-23**] 03:02PM BLOOD Lactate-0.9
+[**2131-5-23**] 08:49AM BLOOD Lactate-1.6
+
+FOOT 2 VIEWS LEFT  [**2131-5-23**] 8:51 AM
+FINDINGS: Bedside AP and lateral views (the former, degraded by
+motion- blurring) are compared with the study dated [**2130-11-28**].
+There is now a small soft tissue defect at the tibial (medial)
+aspect of the plantar soft tissues, overlying the base of the
+1st distal phalanx. However, this does not appear to reach bone
+on either view, with no subjacent subcutaneous emphysema or
+retained radiopaque foreign body. There is no evidence of
+periosteal reaction, cortical erosion or medullary lucency in
+subjacent bone to specifically suggest osteomyelitis, and the
+appearance of the remainder of the foot is unchanged, including
+vascular calcification and prominent dorsal calcaneal
+enthesophyte.
+
+IMPRESSION: Known ulcer in the plantar soft tissues of the 1st
+digit does not reach bone, with no radiographic sign of
+osteomyelitis.
+.
+CHEST (PORTABLE AP)  [**2131-5-23**] 8:51 AM
+SINGLE PORTABLE SEMI-UPRIGHT VIEW OF THE CHEST: A dual-lead
+pacing device remains in unchanged position. Moderate
+cardiomegaly, reaccumulation of an asymmetric large right
+pleural effusion, and associated right perihilar hazy opacity
+are suggestive of asymmetric pulmonary edema, and represent
+decompensated mitral valve regurgitation. The left lung is
+relatively clear. No discrete focal airspace consolidation is
+identified. The bony thorax again demonstrates an S-shaped
+scoliosis of the thoracic spine.
+IMPRESSION: Asymmetric right-sided largely parahilar airspace
+disease and re- accumulated large pleural effusion, as on
+previous episodes. This may represent "atypcial" edema related
+to decompensation of known mitral regurgitation; alternatively,
+a pneumonic process cannot be completely excluded.
+
+CHEST (PORTABLE AP)  [**2131-5-24**] 3:36 AM
+Allowing the difference in position of the patient, large right
+pleural effusion. There has been interval increase in moderate
+left pleural effusion. Mild asymmetric pulmonary edema, greater
+on the right side, is stable. Right IJ catheter tip is in the
+upper to mid SVC. Cardiomegaly is unchanged. Left transvenous
+pacemaker leads remain in standard positions.
+
+CHEST (PORTABLE AP)  [**2131-5-25**] 3:36 AM
+In the interim, there is severe worsening of a right extensive
+pleural effusion with adjacent atelectasis and airspace disease
+in the collapsed right lung. There is also worsening of
+perihilar airspace disease in the left lung. Small left pleural
+effusion is also new. The heart size is mild-to-moderately
+enlarged, but stable. The left-sided subclavian pacemaker leads
+are stable.
+IMPRESSION:
+1. Severe worsening of right pleural effusion with almost
+collapse of the right lung.
+2. Bilateral airspace disease in both lungs, worsening on the
+left lung, likely edema.
+3. Mild-to-moderate cardiomegaly.
+
+
+Brief Hospital Course:
+66 y/o male with diabetes, cardiomyopathy, foot ulcer presenting
+with toe infection, septic physiology, and ventricular
+tachycardia.
+
+Hospital course by problem:
+
+# Sepsis/Toe Wound: Patient's exam was consistent with infected
+L 1st toe ulcer and leg cellulitis and he was hypotensive. He
+was admitted to the medical intensive care unit, 

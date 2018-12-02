@@ -1,0 +1,216 @@
+Admission Date:  [**2183-2-3**]              Discharge Date:   [**2183-2-20**]
+
+Date of Birth:  [**2119-2-2**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Aspirin / Toradol / Neurontin
+
+Attending:[**Last Name (NamePattern1) 1561**]
+Chief Complaint:
+Tracheal stenosis
+
+Major Surgical or Invasive Procedure:
+[**2183-2-5**] Rigid bronchoscopy, flexible bronchoscopy, balloon
+dilatation x2.
+[**2183-2-7**] Cervical tracheal resection and reconstruction,
+suprahyoid release.
+[**2183-2-14**] Flexible bronchoscopy
+
+
+History of Present Illness:
+The patient is a 63 y/o male who is transferred from OSH for
+treatment of tracheal stenosis revealed on CT scan.  The patient
+was originally admitted to the OSH in [**2182-9-27**] with
+obesity hypoventilation syndrome.  During that admission, he had
+a tracheostomy secondary to ventilator dependence.  He was
+discharged to rehab where he was weaned off the vent and was
+eventually decannulated and discharged to home shortly prior to
+[**2183-1-20**].  Over the previous week, he has had increasing
+shortness of breath and has been complaining of saliva getting
+stuck in his upper airway.  He represented to the OSH where he
+was started on steroids with improvement of his symptoms.  The
+patient has had cough productive of clear sputum.  The patient
+otherwise denies fever, chills, nausea/vomiting, chest pain, or
+hemoptysis.
+
+Past Medical History:
+1. Obesity
+2. IDDM
+3. HTN
+4. Obstructive sleep apnea
+5. restrictive lung disease
+6. chronic venous stasis
+7. rectal abscess
+8. nasal polyposis
+9. elevated R hemidiaphragm due to MVA
+10. PFO
+
+
+Social History:
+The patient is married, lives with his wife.  [**Name (NI) **] has two
+children.  He owns five restaurants.  He is half Greek half
+Albanian.  He smoked for several years and admittedly denies
+alcohol use.  He quit smoking in [**2182-8-27**].
+
+Family History:
+Father had a pacemaker and irregular heart rate and question of
+diabetes, mother history of kidney cancer and had one kidney
+removed.  There is no history of premature coronary artery
+disease in the family.
+
+
+Physical Exam:
+T 98.2  P 118  BP 148/90  R 24  SaO2 91% RA
+Gen - alert and oriented x3, no acute distress, pupils equal
+round and reactive to light, extraocular muscles intact
+Heent - neck supple, no cervical lymphadenopathy, no carotid
+bruits
+Lungs - diminished breath sounds bilaterally, no wheezes
+Heart - regular rate and rhythm, I/VI systolic ejection murmur
+Abd - obese, soft, nontender, nondistended, bowel sounds
+auscultated
+Extrem - chronic venous stasis with hyperpigmentation in
+bilateral lower extremities
+
+
+Pertinent Results:
+[**2183-2-3**] 09:20PM BLOOD WBC-18.9* RBC-4.73 Hgb-13.9* Hct-42.3
+MCV-89 MCH-29.3 MCHC-32.8 RDW-16.0* Plt Ct-225
+[**2183-2-3**] 09:20PM BLOOD PT-11.6 PTT-20.5* INR(PT)-1.0
+[**2183-2-3**] 09:20PM BLOOD Glucose-419* UreaN-35* Creat-1.2 Na-137
+K-5.2* Cl-96 HCO3-30 AnGap-16
+[**2183-2-3**] 09:20PM BLOOD Phos-3.9 Mg-2.0
+
+[**2183-2-3**] 09:03PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-1000 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**2183-2-3**] 09:03PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.026
+
+[**2183-2-10**] 8:19 pm SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal.
+
+                            **FINAL REPORT [**2183-2-15**]**
+
+   GRAM STAIN (Final [**2183-2-10**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2183-2-15**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      ESCHERICHIA COLI.    MODERATE GROWTH.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+         WARNING! This isolate is an extended-spectrum
+beta-lactamase
+         (ESBL) producer and should be considered resistant to
+all
+         penicillins, cephalosporins, and aztreonam. Consider
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species.
+      SERRATIA MARCESCENS.    MODERATE GROWTH.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+         Trimethoprim/Sulfa sensitivity testing available on
+request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          SERRATIA MARCESCENS
+                             |          |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R      <=1 S
+CEFTAZIDIME-----------  =>64 R      <=1 S
+CEFTRIAXONE-----------       R      <=1 S
+CEFUROXIME------------       R
+CIPROFLOXACIN---------   =>4 R   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+IMIPENEM--------------   <=1 S      <=1 S
+LEVOFLOXACIN----------   =>8 R   <=0.25 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN----------       R      <=4 S
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S        4 S
+
+Brief Hospital Course:
+The patient was admitted and had an airway CT which showed
+high-grade focal tracheal stenosis at level of the
+cervicothoracic junction, corresponding to a site of prior
+tracheostomy tube insertion. Coronal narrowing to 6 mm at end
+inspiration, with component of airway malacia at end expiration,
+with further narrowing to 3 mm.  The patient was continued on
+steroids because it had helped with his respiratory distress.
+The patient also had an echocardiogram which was negative for
+patent foramen ovale or atrial septal defect and showed
+preserved left ventricular systolic function.
+
+The patient went to the OR [**2183-2-5**] for a rigid bronchoscopy and
+balloon dilatation, however the stenosis was unable to be
+dilated.  The patient went to the OR [**2183-2-7**] for trachel
+reconstruction which he tolerated well.  The patient was kept
+sedated and intubated to allow the tracheal reconstruction to
+heal.  Broad spectrum antibiotics were started for empiric
+therapy.  A dobhoff tube was placed for tube feeds.  Lovenox was
+started because the patient was considered high risk for DVT.
+The patient also developed brief runs of atrial fibrillation
+which was well rate controlled with beta blockers.  The patient
+had bilateral patchy infiltrates on chest x-ray, grew E. coli
+and Serratia from his sputum cultures, and received a
+bronchoscopy for therapeutic aspiration on [**2183-2-12**] and [**2183-2-14**].
+
+
+The patient was able to be extubated on [**2183-2-14**].  The patient
+self d/c'd his dobhoff tube and was started on TPN.
+Fortunately, he was able to pass his swallow evaluation and his
+diet was gradually advanced.  The patient was transferred to the
+floor on [**2183-2-18**].  Physical therapy was consulted to assist the
+patient with his ambulation.  At discharge, the patient was able
+to tolerate a regular diet and his pain was well controlled.  He
+will continue with a steroid taper.  From a respiratory
+standpoint, the patient had good oxygen saturations with
+supplemental oxygen via 4 liters nasal canula.
+
+
+
+
+Medications on Admission:
+1. Prednisone 30''
+2. ativan
+3. trazadone
+4. lisinopril
+5. combivent
+6. flonase
+7. metoprolol 25''
+8. protonix 40
+9. tamsulosin 0.4
+10.lantus 35U [**Hospital1 **]
+11. pregabalin 50'''
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+2. Furosemide 20 mg IV BID
+3. Prednisone 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+4. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**1-28**]
+Puffs Inhalation Q4H (every 4 hours) as needed.
+5. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Bisacodyl 10 mg Suppository Sig: One (1) Su

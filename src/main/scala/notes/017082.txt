@@ -1,0 +1,223 @@
+Admission Date:  [**2199-3-12**]              Discharge Date:   [**2199-3-20**]
+
+Date of Birth:  [**2127-11-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Zosyn
+
+Attending:[**First Name3 (LF) 1162**]
+Chief Complaint:
+cough, sob.
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+71 M h/o mental retardation, OSA, asthma on 2L home O2, CVA,
+parkinsonism, living in group hospice, who is referred to [**Hospital1 18**]
+for 5d cough, SOB.
+.
+Pt is somewhat poor historian, but per discussion with group
+home staff ([**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 36884**]), pt notes ~5d productive cough
+(yellow) and SOB.  His PCP was called on [**3-8**] and started pt on
+augmentin over the phone, without subsequent improvement.  Pt
+was brought back to PCP [**Last Name (NamePattern4) **] [**3-12**] for persistent cough, SOB,
+malaise, and new diarrhea (x2/day per group home staff).
+.
+Per PCP visit note, pt with RR 33, O2 Sat 69% on O2 HR 113,
+"pale, dyspneic, O2 sat up to 91% with rest, lungs coarse,"
+concern for COPD flare, thus pt was sent to [**Hospital1 18**], though he was
+to remain DNR/DNI.
+.
+Upon arrival to ED, VS=99.3  113  159/80  25 85% on 5L.  CXR
+with ?RLL effusion (?chronic right elevated hemidiaphragm).  Pt
+treated with solumedrol 80 x 1, levaquin 750 x 1, azithro 500 x
+1, combivent nebs, with initial improvement to 97%4L RR 36, then
+down to 90% so started NRB with sats 94%->88% RR 25->29, so
+received 10mg iv lasix, and started on BiPaP with sats 98% RR
+25.
+
+Past Medical History:
+-DM2
+-Hypercholesterolemia
+-CVA with residual left-sided weakness
+-Mental retardation
+-Parkinsonism
+-Mood disorder
+-OSA on home CPAP
+-Asthma, on 2L home O2 at rest, 4L with activity
+-s/p right lobectomy for empyema at young age
+-OA - knee pain
+
+Social History:
+Lives in group home in [**Hospital1 3494**], dependent on aides for ADLs.
+Per [**Hospital1 **], lifetime non-smoker, no h/o heavy etoh use.
+
+Family History:
+Family history of Parkinson's, SL, RA, heart attacks
+
+Physical Exam:
+VS: T 98.5  111   147/88  18  99%BiPaP
+GEN: Pleasant male, breathing comfortably, sitting in bed in NAD
+
+[**Hospital1 4459**]: PERRL, EOMI, MMM, JVP <8cm @ 90 degrees.
+CV: rrr, s1s2, no m/r/g
+PULM: No acc muscle use, roncherous breath sounds bilaterally,
+R>L, faint expiratory wheezing. good airmovement throughout, no
+egophany, no dullness to percussion.
+ABD: NABS, soft, nt, nd
+EXTR: No c/c, wwp, trace-1+ b LE edema.
+NEURO: A&O x 1 (first name only, not to place, date).
+
+Pertinent Results:
+STUDIES:
+[**2199-3-12**] EKG: showed nsr, nl axis, nl intervals, no ste/std, twi,
+poor baseline in v2.
+.
+[**2199-3-12**] CXR:
+Persistent elevation of the right hemidiaphragm with right-sided
+
+pleural thickening, unchanged from [**2194**].  No definite focal
+consolidation.
+.
+[**2199-3-15**] CXR:FINDINGS: In comparison with study of [**3-14**], the
+patient has taken a poor inspiration. Persistent elevation of
+the right hemidiaphragmatic contour with some enlargement of the
+cardiac silhouette and evidence of increased pulmonary venous
+pressure.
+.
+IMPRESSION: Little change.
+.
+[**2199-3-12**] 07:02PM BLOOD WBC-10.7# RBC-3.73* Hgb-11.1* Hct-34.3*
+MCV-92 MCH-29.7 MCHC-32.3 RDW-13.1 Plt Ct-246
+[**2199-3-13**] 04:58AM BLOOD WBC-7.7 RBC-3.57* Hgb-10.9* Hct-33.2*
+MCV-93 MCH-30.4 MCHC-32.8 RDW-12.6 Plt Ct-240
+[**2199-3-12**] 05:31PM BLOOD Glucose-147* UreaN-17 Creat-0.8 Na-137
+K-7.0* Cl-98 HCO3-33* AnGap-13
+[**2199-3-13**] 04:58AM BLOOD Calcium-8.3* Phos-3.3 Mg-1.7
+[**2199-3-13**] 04:58AM BLOOD %HbA1c-6.3*
+[**2199-3-12**] 06:15PM BLOOD Type-ART Rates-/38 O2 Flow-5 pO2-68*
+pCO2-73* pH-7.33* calTCO2-40* Base XS-8 Intubat-NOT INTUBA
+Comment-NASAL [**Last Name (un) 154**]
+[**2199-3-13**] 01:09AM BLOOD Type-ART pO2-71* pCO2-72* pH-7.37
+calTCO2-43* Base XS-12 Intubat-NOT INTUBA
+[**2199-3-13**] 03:13PM BLOOD Type-ART pO2-58* pCO2-69* pH-7.39
+calTCO2-43* Base XS-12
+[**2199-3-15**] 05:34AM BLOOD WBC-10.8 RBC-3.91* Hgb-11.5* Hct-35.7*
+MCV-91 MCH-29.4 MCHC-32.2 RDW-12.3 Plt Ct-325
+[**2199-3-15**] 05:34AM BLOOD Glucose-248* UreaN-22* Creat-0.9 Na-141
+K-4.6 Cl-98 HCO3-37* AnGap-11
+
+Brief Hospital Course:
+71 M with PMHx of asthma, multiple recurrent bronchitis & PNA
+over past year, now admitted with 5days of cough & SOB.
+.
+# HYPOXIA: Pt with h/o asthma/COPD, chronic CO2 retention (PCO2
+baseline 60s, HCO3 30s-40s), s/p right lobectomy for empyema.
+Patient admitted to ICU on [**3-12**].  6L oxygen requiremnt, bipap at
+night.  Started on iv solumedrol, levoquin, received q4 nebs,
+advair, flovent.  Influenza/Legionella returned negative.
+Gradually improved.  To floor on night of 2/29.  Continued to
+improve on floor with steroids, levoquin, q4 nebs.  Oxygen
+requirement gradually decreased to baseline of 2 liters.
+Patient to continue on steroid taper per discharge medication
+list.
+
+.
+# Diarrhea ?????? Pt presented c/o new diarrhea in setting of recent
+Augmentin. However, no further diarrhea in house.
+.
+# OSA - Pt continued to have significant apneic episodes
+overnight despite home biPAP settings, likely c/w baseline.
+BIPAP continued as possible.
+
+.
+# CVA - residual left-sided weakness
+- continued home regimen of aspirin daily
+.
+# Parkinsonism - continued home regimen of Benztropine.
+.
+# Mood disorder/Psychosis - continued home Paxil & Risperidone.
+.
+# OA - prn motrin for knee pain.
+.
+# DM2- held oral hypoglycemics in house
+- coverage with ISS and BS QIDACHS
+- Hgb A1c 6.3
+
+# h/o PE - Bilateral PEs diagnosed in 05. Per review of [**Name (NI) **], pt
+not managed on Coumadin due to h/o falls.  No CTA on this admit
+given improvement of resp status with treatment of
+asthma/COPD/pneumonia.
+
+DNR/DNI throughout
+
+Medications on Admission:
+augmentin 875-125 1 tablet po bid [**Date range (1) 36885**]/08
+loperamide 204mg qid prn (start [**3-11**])
+duoneb q6hr
+multivitamin qdaily
+pantoprazole 40mg po qdaily
+metformin 1000mg po bid
+aveeno cream prn
+aspirin 325mg po qdaily
+paxil 30mg po qdaily
+finasteride 5mg po qdaily
+advair 250/50 1puff [**Hospital1 **]
+MOM 30ml 2x week (mon, thurs)
+benztropine 0.5mg po qdaily
+senna 2 tabs qhs
+ibuprofen 400mg po bid (for knee pain)
+colace 100mg [**Hospital1 **]
+risperdone 2mg po qhs
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Paroxetine HCl 30 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Benztropine 0.5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for knee pain.
+6. Risperidone 2 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+7. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+8. Colloidal Oatmeal 100 % Packet Sig: One (1) Packet Topical
+[**Hospital1 **] (2 times a day) as needed.
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+10. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*60 Disk with Device(s)* Refills:*2*
+11. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+Disp:*30 [**Hospital1 4319**]* Refills:*3*
+12. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig:
+One (1)  Inhalation Q4H (every 4 hours) as needed.
+Disp:*30 [**Hospital1 4319**]* Refills:*3*
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+14. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+Disp:*1 inhaler* Refills:*2*
+15. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)
+for 7 days: Then 20mg po daily for 7 days, then one-half tablet
+daily for 7 days.
+Disp:*28 Tablet(s)* Refills:*0*
+16. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+Disp:*60 Tablet(s)* Refills:*2*
+17. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig:
+One (1)  Inhalation every six (6) hours: Okay to let sleep.
+Disp:*qs for one month qs* Refills:*2*
+18. Regular Insulin Sliding Scale
+Please resume RISS with FS four times daily.  Sliding scale
+attached.
+19. oxygen
+supplem

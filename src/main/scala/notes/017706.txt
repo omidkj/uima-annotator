@@ -1,0 +1,209 @@
+Admission Date:  [**2140-4-16**]              Discharge Date:   [**2140-5-12**]
+
+Date of Birth:  [**2074-2-1**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Ceftriaxone / Strawberry / Bleach
+
+Attending:[**First Name3 (LF) 2777**]
+Chief Complaint:
+66 year old female presents to the ER on [**2140-4-16**] with bleeding
+from a recent right groin abscess that had been incised and
+drained.
+
+Major Surgical or Invasive Procedure:
+[**2140-4-26**]:Right groin exploration with take down of right
+common femoral and right profunda artery arteriovenous
+fistulas.
+
+
+History of Present Illness:
+Ms [**Known lastname **] was at dialysis when her groin wound spontaneously
+started oozing blood on [**2140-4-16**]. She was sent to the emergency
+department, where her hematocrit was 30, from a baseline of 36,
+and she was hypotensive into the 80s. The bleeding was
+successfully stopped with lidocaine with epi and surgifoam. Her
+INR was 3.0 at the time.  Her wound was examined by ACS who
+repacked the wound and recommended admission for further
+evaluation.
+
+
+Past Medical History:
+- h/o bilateral lower extremity DVT's
+- atrial tachycardia: seen by Dr. [**Last Name (STitle) **] in [**10-24**] and felt to
+
+be atrial tachy [**2-18**] illness, no indication for ablation
+- hemorrhagic pericardial effusion
+- Bilateral internal jugular thromboses, restarted on coumadin
+[**8-24**]
+- ESRD on HD T, Th, Sat  [**Doctor First Name 12074**] Dialysis [**Telephone/Fax (5) 23864**] [**Numeric Identifier 23865**]
+- IDDM
+- Diastolic heart failure
+- Pulmonary hypertension
+- Hypercholesterolemia
+- OSA, noncompliant with CPAP as outpatient (on 2L home O2)
+- OA
+- h/o C. Diff
+- GERD
+- Depression
+- Morbid obesity
+- Fibroid uterus; vaginal bleeding
+- h/o Osteomyelitis at the T9 Vertebrae [**5-24**]; tx with Vanc
+- h/o Multiple line infections
+
+Social History:
+Patient denies tobacco, alcohol or illicit drug use. She lives
+in a nursing home ([**Hospital3 2558**]) since the last 10 years. She
+is separated from her husband. She has 5 children in [**Location (un) 86**]
+[**Doctor Last Name **] area. Uses electric wheelchair.
+
+
+Family History:
+Two children with asthma. Strong family hx of cancer (many
+uncles/aunts with lung cancer, father had prostate cancer,
+mother has HCC [**2-18**] alcoholic hepatitis)
+
+
+Physical Exam:
+Alert and oriented x 3
+VS:BP 108/40    HR 68
+Resp: Lungs clear
+Abd: Soft, non tender
+Right groin wound: wound bed partially granulated, 50% slough.
+Scant serosang drainage. Measures 6cm long x 9 cm wide x 4 cm
+deep.
+
+Pertinent Results:
+CTA pelvis [**2140-4-18**]:
+1. Bilateral common femoral DVT's. Atretic left SFA indicating
+prior
+thrombosis.
+2. Right AV fistula. No evidence of pseudoaneurysm.
+3. Fibroid uterus.
+4. New discrete enhancing rounded hyperdensity within the right
+labia
+adjacent to the skin defect site. This could represent a small
+hematoma or lesion. Clinical correlation is recommended.
+
+[**2140-5-12**] 06:35AM BLOOD WBC-6.5 RBC-3.02* Hgb-9.2* Hct-30.3*
+MCV-100* MCH-30.4 MCHC-30.4* [**Month/Day/Year 23866**]-17.2* Plt Ct-356
+[**2140-5-12**] 06:35AM BLOOD PT-17.6* PTT-36.1 INR(PT)-1.7*
+[**2140-5-12**] 06:35AM BLOOD Glucose-117* UreaN-45* Creat-5.7*# Na-134
+K-5.2* Cl-96 HCO3-29 AnGap-14
+[**2140-5-12**] 06:35AM BLOOD Calcium-9.7 Phos-4.3 Mg-2.3
+[**2140-5-9**] 06:00AM BLOOD PTH-491*
+
+[**2140-5-2**]: Right groin culture
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |          KLEBSIELLA PNEUMONIAE
+                             |          |
+AMIKACIN--------------              <=2 S
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R     =>32 R
+CEFAZOLIN-------------     8 R     =>64 R
+CEFEPIME--------------   <=1 S        2 S
+CEFTAZIDIME-----------   <=1 S     =>64 R
+CEFTRIAXONE-----------   <=1 S       16 R
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------     8 I        8 I
+MEROPENEM-------------<=0.25 S   <=0.25 S
+TOBRAMYCIN------------     4 S        8 I
+TRIMETHOPRIM/SULFA----  =>16 R     =>16 R
+
+
+Brief Hospital Course:
+Ms [**Known lastname **] is a 66 year old woman who was recented hospitalized
+for an abscess incision and drainage in the right groin from
+[**Date range (3) 23867**].  On [**2140-4-16**], she
+was at dialysis when her groin wound spontaneously started
+oozing blood. She was sent to the emergency department, where
+her hematocrit was 30 from a baseline of 36 and she was
+hypotensive into the 80s systolic.  The bleeding was
+successfully stopped with lidocaine with epi and surgifoam. Her
+INR was 3.0 at the time.  Her wound was examined by ACS who
+repacked the wound and recommended admission for further
+evaluation.  A duplex ultrasound demonstrated a small 1.4 x 1.2
+cm pseudoaneurysm likely originating from an epigastric arterial
+branch.
+
+Over the course of the  next week, she developed recurrent
+bleeding into her right thigh with associated anemia and
+hypotension.  A CT was performed confirming  a the fistula
+emanating from the femoral profunda and possibly from branches
+off the common femoral with distended femoral vein and multiple
+dilated venous branches extending into her pannus and into her
+vulvar region consistent with her presentation of bleeding
+episodes from her groin wounds.  She therefore underwent
+a right groin exploration with take down of right common femoral
+and right profunda artery arteriovenous fistulas on [**2140-4-26**].
+The procedure was without complications although she did have a
+4500cc blood loss requiring 6 liters crystalloid, 6 units packed
+red blood cells, 2 units FFP, 1150 cc Cell [**Doctor Last Name **].
+
+She was closely monitored in the ICU and then was ready for
+transfer to the floor on POD 1. On POD 6, she developed erythema
+and drainage from her groin incision.  She was started on
+vancomycin, cipro and flagyl. The incision was opened and packed
+with NS w>d.  The wound culture eventually grew klebsiella and
+proteus.  Her antibiotic was changed to IV  meopeneum.  The
+wound was assessed daily and debided as needed.  A wound VAC was
+placed on [**2140-5-6**].  As she no longer needs debridement, and the
+wound has started to granulate, she is ready for discharge. She
+is now on her regular Tuesday, Thursday and Saturday dialysis
+schedule. Her blood sugars have consistently been less well
+controlled. Her coumadin has been restarted.  She is tolerating
+a regular diet.  She has remained hemodynamically stable since
+surgery.  Follow-up has been arranged with Dr. [**Last Name (STitle) **] in
+2 weeks.
+
+
+Medications on Admission:
+Vanc with HD x 1 more day (End [**4-17**])
+fleet enema 19g - 7g / 118 mL daily prn constipation
+glucagon 1 mg IM for FSBS < 60
+cepacol 4.5 mg lozenge 1 tab PO q4h prn sorethroat
+calcium 600 with vitamin D3 1 tab PO BID
+senna 8.6 mg tab PO daily
+NPH insulin 10 units sc qAM
+duoneb 0.5mg-2.5mg/3ml neb solution IH q6h prn dyspnea
+Sevalemer 1600 TID with [**Month/Day (4) 16429**]
+Neprocaps 1 tab PO daily
+bactrim DS 800 mg - 160 mg 1 tab PO before hemodialysis, 1 tab
+PO
+after hemodialysis
+acetaminophen 500 mg PO q6h PRN pain or fever
+ex-lax milk of magnesia 400mg/5ml 5 ml PO q6h prn constipation
+albuterol sulfate 2.5 mg / 3 ml IH q6h prn dyspnea
+simvastatin 10 mg PO daily
+omeprazole 40 mg PO daily
+amiodarone 200 mg PO daily
+paroxetine 20 mg PO daily
+docusate 100 mg PO BID
+bisacodyl 10 mg PR daily
+warfarin 5 mg PO daily
+vitamin B-100 complex 1 tab PO daily
+folic acid 1 mg PO daily
+
+
+Discharge Medications:
+1. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for wheezing.
+2. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for wheezing.
+3. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. paroxetine HCl 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+5. warfarin 1 mg Tablet Sig: as directed Tablet PO DAILY
+(Daily).
+6. cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. meropenem 500 mg Recon Soln Sig: One (1)  Intravenous once a
+day for 14 days days.
+8. B complex vitamins     Capsule Sig: One (1) Cap PO DAILY
+(Daily).
+9. pantoprazole 40 mg Tablet, D

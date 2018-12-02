@@ -1,0 +1,213 @@
+Admission Date:  [**2119-11-23**]              Discharge Date:   [**2119-11-29**]
+
+Date of Birth:  [**2047-6-25**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+CABGx4(LIMA-LAD,SVG-Ramus,SVG-OM,SVG-RPL),MVR(28CE band)[**11-24**]
+
+
+History of Present Illness:
+72 yo M with intermittent chest pain over the last 2 weeks with
+increased dyspnea on exertion over the past 2-3 days. Ruled in
+for MI at OSH, cath eith 3VD, transferred for CABG.
+
+Past Medical History:
+CHF, DM2, hyperlipidemia, HTN, obesity, non-ST MI
+
+Social History:
+retired
+quit tobacco 20 years ago, 80 pack year history
+rare etoh
+
+Family History:
+NC
+
+Physical Exam:
+HR 68 RR 22 BP 108/54
+NAD
+Lungs CTAB
+Heart RRR, 2/6 SEM at LSB
+Abdomen soft/NT/ND
+Extrem warm, 1+LE edema
+Neuro grossly intact
+No carotid bruits
+
+
+Pertinent Results:
+[**2119-11-29**] 09:45AM BLOOD WBC-10.6 RBC-2.94* Hgb-9.7* Hct-28.3*
+MCV-96 MCH-33.0* MCHC-34.3 RDW-14.4 Plt Ct-426#
+[**2119-11-29**] 09:45AM BLOOD Plt Ct-426#
+[**2119-11-26**] 03:02AM BLOOD PT-14.0* PTT-30.5 INR(PT)-1.2*
+[**2119-11-29**] 09:45AM BLOOD Glucose-72 UreaN-15 Creat-0.9 Na-134
+K-4.4 Cl-94* HCO3-29 AnGap-15
+[**2119-11-23**] 10:30PM BLOOD ALT-19 AST-28 LD(LDH)-228 AlkPhos-80
+Amylase-58 TotBili-0.9
+
+CHEST (PORTABLE AP)  [**2119-11-26**] 1:30 PM
+
+CHEST (PORTABLE AP)
+
+Reason: r/o ptx s/p ct's removed
+
+[**Hospital 93**] MEDICAL CONDITION:
+72 year old man with
+REASON FOR THIS EXAMINATION:
+r/o ptx s/p ct's removed
+AP CHEST 2:15 P.M. ON [**11-26**]
+
+HISTORY: Chest tubes removed. Rule out pneumothorax.
+
+IMPRESSION: AP chest compared to [**11-23**] and 9:
+
+Endotracheal and pleural tubes. Swan-Ganz catheter and
+nasogastric tubes have been removed. Lung volumes are lower but
+left lower lobe atelectasis has improved. Chest tube artifact
+noted in the left lower lung. Small right pleural effusion
+persists. Relative interval widening of the mediastinum,
+probably a function of lower lung volumes, but volume overloaded
+is likely.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 1569**]       [**Hospital1 18**] [**Numeric Identifier 48138**] (Complete)
+Done [**2119-11-24**] at 10:19:00 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2047-6-25**]
+Age (years): 72 M  Hgt (in): 69
+BP (mm Hg): 130/72  Wgt (lb): 280
+HR (bpm): 56  BSA (m2): 2.39 m2
+Indication: Intraop CABG. Evaluate Aorta, Valves, Ventricular
+function
+ICD-9 Codes: 440.0, 424.0
+Test Information
+Date/Time: [**2119-11-24**] at 10:19    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW1-: Machine: siemens
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.0 cm  <= 4.0 cm
+Left Atrium - Peak Pulm Vein S:  0.7 m/s
+Left Atrium - Peak Pulm Vein D:  0.6 m/s
+Left Atrium - Peak Pulm Vein A:  0.2 m/s  < 0.4 m/s
+Left Ventricle - Inferolateral Thickness:  *1.5 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.2 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.4 cm
+Left Ventricle - Fractional Shortening:  0.54  >= 0.29
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Aorta - Annulus:  2.2 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.6 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  *3.2 cm  <= 3.0 cm
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Aorta - Arch:  3.0 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *3.3 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  0.9 m/sec  <= 2.0 m/sec
+Aortic Valve - Valve Area:  3.6 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. No mass/thrombus in the [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) **] LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.
+
+LEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size.
+Mild regional LV systolic dysfunction. Low normal LVEF.
+[Intrinsic LV systolic function likely depressed given the
+severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Indeterminate RV wall thickness. Moderately
+dilated RV cavity. Borderline normal RV systolic function.
+
+AORTA: Normal aortic diameter at the sinus level. Mildly dilated
+ascending aorta. Normal aortic arch diameter. Complex (>4mm)
+atheroma in the aortic arch. Mildly dilated descending aorta.
+Complex (>4mm) atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Partial mitral leaflet flail. No MS. Eccentric MR
+jet. MR vena contracta is >=0.7cm Severe (4+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+
+Conclusions
+Pre bypass: The left atrium is markedly dilated. No
+mass/thrombus is seen in the left atrium or left atrial
+appendage. There is moderate symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. There
+is mild regional left ventricular systolic dysfunction with mild
+inferior basal hypokinesis. Overall left ventricular systolic
+function is low normal (LVEF 50-55%). [Intrinsic left
+ventricular systolic function is likely more depressed given the
+severity of valvular regurgitation.] The right ventricular
+cavity is moderately dilated. Right ventricular systolic
+function is borderline normal. The ascending aorta is mildly
+dilated. There are complex (>4mm) atheroma in the aortic arch.
+The descending thoracic aorta is mildly dilated. There are
+complex (>4mm) atheroma in the descending thoracic aorta. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion. There is no aortic valve stenosis. No aortic
+regurgitation is seen. There is partial mitral leaflet flail. An
+eccentric, anteriorly directed jet which is severe and wraps up
+to the top of the left atrium. There is pulmonary systolic vein
+flow reversal. The mitral regurgitation vena contracta is
+>=0.7cm. Severe (4+) mitral regurgitation is seen.
+
+Post Bypass: Patient is a paced, on phenylepherine, milranone,
+and epi infusions. Biventricular function appears normal with a
+hyperdynamic aspect post cpb on ionotropes. There is a mitral
+annular prosthesis in situ s/p mitral valve repair. The ring
+appears well seated without regurgitation or perivalvular leak.
+Peak gradients range from [**7-24**], mean gradients range from 6-8 mm
+Hg with a cardiac out put of [**6-23**] Lpm. Aortic contours remain
+intact. Remaining exam is unchanged. All findings discussed with
+surgeons at the time of the exam.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 131**] was transferred from [**Hospital6 2910**] and
+CABG was planned for the next morning. He was taken to the
+operating room on [**11-24**] where he underwent a CABG x 4 and MV
+Repair. He was extubated the morning of post op day 1. His
+milrinone was weaned to off by POD #1. He was transfused 1 unit
+for HCT 24. He was transferred to the floor on POD #2. He did
+well postoperatively and was ready for discharge home on POD #5.
+
+Medications on Admission:
+Glyburide 10', Diovan 160', ASA 81', Aleve-prn
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) 

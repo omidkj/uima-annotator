@@ -1,0 +1,222 @@
+Admission Date:  [**2120-5-3**]              Discharge Date:   [**2120-5-9**]
+
+
+Service: NEUROLOGY
+
+Allergies:
+Lasix / Motrin
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+aphasia, R. hemiparesis
+
+Major Surgical or Invasive Procedure:
+IV TPA infusion
+
+History of Present Illness:
+The patient is an 86 year old right handed Albanian speaking
+woman with a history of CHF, paroxysmal atrial fibrillation not
+on Coumadin, and kidney cyst s/p removal who presents with acute
+onset aphasia and right sided weakness for whom neurology was
+called for a CODE STROKE. The history is taken initially from
+the patient's daughter-in-law, [**Name (NI) **].
+
+At 3:30 pm today, the patient went to take a nap, but prior to
+that was [**Location (un) 1131**] the newspaper and crocheting without
+difficulty.  She woke up from the nap at 4:00-4:10 pm, as her
+daughter was calling her on the phone. She grabbed the phone
+with her left hand, but was unable to speak at all. Her
+daughter-in-law also noted that she had increased work of
+breathing, and her face was white/yellow. She did not notice any
+unilateral weakness or facial asymmetry, but the patient could
+not walked. EMS was called, and FSBG in the field was 180. She
+was taken to [**Hospital1 18**] for further evaluation.
+
+At [**Hospital1 18**], a CODE STROKE was called at 17:19, and neurology was
+at the bedside at 17:22. She was found to be in atrial
+fibrillation with RVR. NIHSS 14. Head CT showed a hyperdense
+left MCA and early loss of the left insular ribbon. IV tPA was
+given at 18:21, at which time her bp was 136/96.
+
+Of note, at 7:00 pm (when the rest of the patient's family
+arrived), they mention that the patient had similar symptoms 5
+years ago, but the symptoms were not as intense. (It should be
+noted that on initial history, her daughter-in-law did not say
+that she had ever had symptoms like this before). She had
+aphasia x30-45 minutes and generalized weakness (not unilateral)
+for which she was evaluated at [**Hospital1 2177**] with CT head and MRI head.
+Per her family, she was given antibiotics for a lung infection
+at that time. She was started on Coumadin at that time, and took
+it for 2 months but then refused further doses. At 7:00 pm, her
+sister also reported that the patient may have been complaining
+of right
+leg weakness vs. pain since 1:00 pm today; however, other family
+members think she was complaining of generalized weakness.
+
+Otherwise, she has complained of generalized weakness x1 week,
+pain in her right leg x1 week, and has been having trouble
+breathing. She has not had fevers/chills or cough/colds.
+
+Past Medical History:
+CHF
+Paroxysmal atrial fibrillation not on Coumadin
+Kidney cyst s/p removal
+s/p cholecystectomy 2-3 years ago
+Diverticulitis
+
+She has no history of stroke, seizure, CAD, hypertension,
+hyperlipidemia. She reportedly had elevated blood glucose a few
+years ago for which she was treated with medications, but they
+were since discontinued after she developed hypoglycemia.
+
+She gets most of her care at [**Hospital1 112**] and [**Location (un) 20026**] Hospital.
+
+Social History:
+The patient is originally from [**Country 38213**], and came to the US 10
+years ago. She is a former director of a high school in [**Country 38213**].
+She is independent at baseline. She lives at home with her son,
+daughter-in-law [**Doctor First Name **], and their children.  Her HCP is her
+daughter [**Name (NI) 15139**]. She denies cigarette, EtOH, or illicit drug use.
+
+
+
+Family History:
+Her brother died of a stroke in his 70s.
+
+Physical Exam:
+VS: temp 97.5, HR 106, bp 143/99, RR 22, SaO2 100% on NRB
+Gen: Awake, alert, audible crackles
+HEENT: Sclerae anicteric, no conjunctival injection
+CV: Tachycardic, irregularly irregular heart rate, Nl S1, S2, no
+murmurs, rubs, or gallops
+Chest: Bibasilar crackles, no wheezes or rhonchi
+Abd: Quiet BS, soft, ND abdomen
+
+Neurologic examination:
+Mental status: Awake and alert, follows commands to squeeze left
+hand but does not follow command to close eyes. Does not say her
+name, the month, or her age. Occasionally makes a grunting
+sound, but no word production.
+
+Cranial Nerves: Pupils equally round and reactive to light, 4 to
+3 mm bilaterally. No gaze preference. Does not reliably blink to
+threat bilaterally or follow commands for EOM. Initial had minor
+flattening of the right NLF (but would not follow command to
+smile), 30 minutes later had a right UMN facial droop. Tongue
+midline.
+
+Motor: Normal tone bilaterally in UE and LE. No observed
+myoclonus or tremor. Keeps left arm briefly off the bed, and
+keeps left leg off the bed x5 seconds. Keeps right forearm
+lifted against gravity, but does not lift the deltoid. Only has
+a flicker of contraction of the right leg, but does withdraw the
+right leg to nailbed pressure.
+
+Sensation: Does not cooperate with pinprick testing.
+
+Reflexes: Trace and symmetric in triceps. 0 and symmetric in
+biceps, brachio-radialis, knees, and ankles. Toe upgoing on the
+right and downgoing on the left.
+
+Coordination: Unable to test
+
+NIHSS Score:
+1a. LOC: 0
+1b. LOC Questions: 2
+1c. Commands: 1 (squeezes hand on the left, does not close eyes)
+2. Best Gaze: 0
+3. Visual Fields: X (inconsistently blinks to threat)
+4. Facial Palsy: 1 (initially 1 on the right, but later into the
+exam became a 2 for a right UMN facial paralysis)
+5. Motor Arm: 2 on the right
+6. Motor Leg: 3 on the right
+7. Limb Ataxia: X
+8. Sensory: X (pinprick tested, but she is not able to say if
+she feels it)
+9. Best Language: 3
+10. Dysarthria: 2
+11. Extinction/Neglect: X
+NIHSS Score Total: 14
+
+Pertinent Results:
+Admit Labs:
+143  104  58  169
+-------------<
+4.4  28  1.9
+
+CK: 73  MB: Not done   Trop-T: <0.01
+
+Ca: 9.2 Mg: 2.3 P: 3.3
+Serum ASA, EtOH, Acetmnphn, Benzo, Barb, Tricyc Negative
+
+      13.9    83
+7.7>---------<336
+      42.8
+
+PT: 11.8  PTT: 23.2  INR: 1.0
+
+IMAGING:
+CT Head (our read): Possible hyperdense left MCA, early loss of
+the left insular ribbon
+
+CXR (PRELIM): prominent right paratracheal opacity could be due
+to enlarged thyroid, although other mediastinal mass is not
+excluded. recommend comparison with any prior studies if
+available, o/w nonemergent u/s or chest CT. bilat pleural eff
+with overlying atelect/consol.
+
+Brief Hospital Course:
+Attending A/P: Acute L-MCA infarction, likely cardioembolic in
+setting of AF, s/p iv tPA. Repeat exam shows minimal
+improvement. Repeat head CT shows a large evolving left
+hemispheric infarction but no significant bleeding. Continue ICU
+monitoring for now. Will hold off on CTA because of renal
+failure. Check carotid dopplers. Hold
+off on antipaletelst, anticoagulants for now. D/C iv pressors.
+Monitor I/O closely. Swallow eval. Family counseled about
+patient's condition at bedside; questions answered.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - -Hospital Course:
+
+Mrs. [**Known lastname 86555**] had no improvement following tPA.  She continued with
+full aphasia, as judged by her family members (speaks only
+Albanian).  Her attention and interaction improved somewhat over
+the first four days of her hospitalization, but she never
+displayed clear attempt to communicate or evidence of
+understanding.
+
+On [**2120-5-8**], a family meeting was held, with the patient's two
+daughters ([**Name (NI) 15139**], the HCP, was present), the attending physician
+(Dr. [**First Name (STitle) **], and the resident physician (Dr. [**Last Name (STitle) **] in
+attenance.  The daughters stated that Mrs. [**Known lastname 86555**] had explicitly
+stated on multiple occasions that she would not want to survive
+by artificial support.  She stated that she would not want
+further surgeries and would not want to be intubated.  We weaned
+her to comfort measures only, withdrawing medications and tube
+feeds.  She expired the following evening.
+
+
+Medications on Admission:
+Medications:
+Verapamil 240 mg SA daily
+Gabapentin 100 mg qhs
+Edecrin 25 mg [**Hospital1 **] (loop diuretic)
+ASA 81 mg daily
+
+She does not take Coumadin currently.
+
+Allergies: Lasix-> ? reaction, Motrin->stomach
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+L. middle cerebral artery embolic stroke
+
+
+Discharge Condition:
+Ex

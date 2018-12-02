@@ -1,0 +1,187 @@
+Admission Date:  [**2176-12-31**]              Discharge Date:   [**2177-1-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Erythromycin Base / Diltiazem / Lipitor / Propofol
+
+Attending:[**First Name3 (LF) 2880**]
+Chief Complaint:
+increasing SOB
+
+Major Surgical or Invasive Procedure:
+CArdiac catheterization
+EGD
+
+
+History of Present Illness:
+Mrs. [**Known lastname 105258**] is an 85 yo female with h/o HTN, CHF(EF>55%), and
+Afib (on coumadin) who presents to ED with progressive SOB.  She
+notes that over the past 1-2 weeks she has inc SOB at rest and
+on exertion. +edema of LE much worse. +orthopnea/PND. She is
+followed closely by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] and has been adjust dose of
+diuretics over past two months. Her PCP is [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] who notes
+that she has not had overt CHF on recent evaluations by him. Pt
+seems to be compliant with medication.  She lives with her
+daughter who also notes inc SOB at night. Pt denies any
+CP/palpitations/dizziness. NO abd pain. Does c/o continued R
+shoulder swelling.
+persantine MIBI [**11-23**]:
+Normal myocardial perfusion.  Normal left ventricular cavity
+size
+and function.
+Echo [**8-24**]:
+The left atrium is mildly dilated. The left atrium is elongated.
+The right atrium is markedly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild to moderate ([**12-22**]+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is
+seen. There is mild pulmonary artery systolic hypertension.
+There is mild PR. There is a trivial/physiologic pericardial
+effusion
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1.  Atrial fibrillation, status post AV node ablation in
+[**2167**].
+2.  Hypertension.
+3.  Hypercholesterolemia, not on Lipitor secondary to
+increased liver function tests.
+4.  Chronic obstructive pulmonary disease with a FVC of 1.72
+and FEV1 of 1.15 on [**4-20**].
+5.  Syncope, status post pacer placement in [**4-20**].
+6.  Negative Persantine MIBI [**8-21**].
+7.  Cerebrovascular accident in [**2167**],
+8.  CHF
+9.  [**Doctor Last Name 933**] disease status post partial thyroidectomy.
+
+
+Social History:
+no smoking or etoh use, former microbiology physician in [**Country 532**]
+
+Family History:
+non-contributory
+
+Physical Exam:
+PE:
+BP 204/74-->167/68  P 60  R16  Sat 84%Ra--> 99%2L
+GEN aao, nad
+HEENT PERRL, MMM, clear OP
+NECK JVP to jaw
+CHEST poor air mvmt bilaterally crackles and wheezes halfway up
+CV RRR no murmurs
+ABD soft NT/ND, +BS
+EXT 3+pitting edema bilaterally
+*
+
+
+Pertinent Results:
+[**2176-12-31**] 11:53PM   CK(CPK)-56
+[**2176-12-31**] 11:53PM   CK-MB-NotDone cTropnT-<0.01
+[**2176-12-31**] 03:10PM   TYPE-[**Last Name (un) **] COMMENTS-NOT SPECIF
+[**2176-12-31**] 03:10PM   K+-4.0
+[**2176-12-31**] 01:30PM   GLUCOSE-98 UREA N-20 CREAT-1.7* SODIUM-136
+POTASSIUM-7.9* CHLORIDE-101 TOTAL CO2-27 ANION GAP-16
+[**2176-12-31**] 01:30PM   CK(CPK)-149*
+[**2176-12-31**] 01:30PM   CALCIUM-8.9 PHOSPHATE-3.8 MAGNESIUM-1.9
+[**2176-12-31**] 01:30PM   CK-MB-4 cTropnT-<0.01
+[**2176-12-31**] 01:30PM   WBC-7.0# RBC-4.08* HGB-11.9* HCT-37.7 MCV-92
+MCH-29.2 MCHC-31.6 RDW-16.6*
+[**2176-12-31**] 01:30PM   NEUTS-80.7* LYMPHS-13.2* MONOS-5.5 EOS-0.4
+BASOS-0.1
+[**2176-12-31**] 01:30PM   HYPOCHROM-1+ ANISOCYT-1+ MACROCYT-1+
+[**2176-12-31**] 01:30PM   PLT COUNT-237
+[**2176-12-31**] 10:00AM   PT-23.1* INR(PT)-3.4
+*
+CXR with upper zones redistribution, pulm edema and small
+bilateral effusions and DJD
+*
+CATH: 1. One vessel coronary artery disease. 2. Normal left
+sided filling pressures. 3. Successful placement of overlapping
+bare metal stents in the distal LCX.
+*
+EGD: Ulcer in the middle third of the esophagus and lower third
+of the esophagus (cytology). Erythema in the stomach compatible
+with gastritis.
+
+
+Brief Hospital Course:
+A/P: 85 yo female with h/o CHF, HTN and AFib who presents with
+CHF exacerbation.
+1. CHF: Pt with echo in [**8-24**] with EF>55%. Likely diastolic
+component of HF. Dose of diuretics recently adjusted by PCP as
+thought she was overdiuresed and now has had increased fluid
+overload.  Started with iv lasix at 40mg IV bid with minimal
+response however good response with 80mg iv bid.  Discussed mgmt
+with daily weights and adjust lasix dose based on this and may
+have to decrease ace/BB dose to tolerate excess diuresis.  Also
+as vague left sided chest pain with clinical heart failure out
+of proportion to echo, re-reviewed nuclear stress in [**11-23**] with
+attending and findings concerning for reversible defect of
+anterior wall and taken to catheterization to evaluate for
+ischemia contributing to worsening episodesof heart failure. Was
+continued on atenolol and lisinopril while in house, but
+following catheterization while on integrillin patient developed
+hematemesis and was transferred to ccu.  She was also
+hypotensive after further diuresis in cath lab.  She was
+monitored in the ccu and her blood pressures improved as
+diuresis was held.  Her hematocrits remained stable and was
+transferred back to floor.  Her diurretics were held with goal
+to keep her euvolemic. Then as blood pressure improved, she was
+restarted on low dose ace and changed to coreg from atenolol for
+heart failure.  She was continued on asprin for life and plavix
+for 9months for recently placed stent.  At time of discharge she
+was euvolemic with a weight of 81.3kgs.  She will monitor her
+weights at rehab.  She was started on 80mg lasix qd with goal to
+keep her weight stable within 1-2kg of 81.3kg.  Her blood
+pressures should be monitored closely with adjustments in her
+lasix regemin.  She was continued on oxygen and this can be
+continued to followed and titrated off as tolerated.  Her CXRs
+confirmed cardiomegaly and bilateral pleural effusions.  Her
+dyspnea was stable with ambulation, but will require continued
+physical therapy.  If her weight increased by more than 2kg her
+lasix should be increased to twice a day and if she loses more
+than 2kg then her lasix dose should be halved.
+*
+2. CAD: stable no previously known heart disease but after
+re-review of nuclear stress, pt went to cardiac cath as above
+and had a stent to her distal left circumflex.  For which she
+will continue asprin for life and plavix for 9months at least.
+*
+3. Afib: stable as she is s/p ablation with pacer and maintained
+on amiodarone, temporarily bridged with heparin during her stay
+and then restarted on her wafarin with good result.  Her goal
+INR [**1-23**], but came in supratherapeutic INR and coumadin was held
+intiitally and for her catheterization.  She is also continued
+on her beta-blocker with good rate control.
+*
+3. HTN: stable after episode of hypotension after overdiuresis
+on floor and during catheterization.  Slowly as her volume
+status improved, she was started on low dose lisinopril instead
+of enalapril and coreg instead of atenolol because of her heart
+failue.  Even as she was re-started on lasix her blood pressure
+remained stable.
+*
+4. Acute on chronic renal failure: her creatinine was 1.5 at
+baseline, the source of her chronic renal failure was unclear
+and she had bilateral renal ultrasounds with dopplers to assess
+for flow across renal arteries as she has a pacer and an MRA is
+not possible.  Renal ultrasound was inconclusive for
+hypertensive nephropathy vs renal artery stenosis.  During her
+catheterization, unfortunately her renal arteries were not
+assessed.   Following catheterization she did have a slight
+creatinine bump which may have been secondary to contrast
+nephropathy, exacerbated by overdiuresis or ATN secondary to
+transient hypotension.  However, by time of discharge her
+creatinine was 1.2 and stable even on ace and lasix.
+*
+5. Hematemesis: patient developed hematemesis and melanotic
+stools following integrillin infusion post-stent.  She was
+transfused and her hematocrit remained stable and she was
+eventually taken for EGD and colonoscopy with results as above.
+She was started on

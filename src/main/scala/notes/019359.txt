@@ -1,0 +1,216 @@
+Admission Date:  [**2141-10-12**]              Discharge Date:   [**2141-10-18**]
+
+Date of Birth:  [**2063-5-12**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Pletal / Demerol / Codeine
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2141-10-12**] Coronary artery bypass grafting times four (LIMA to LAD,
+SVG to Diag and OM, SVG to RCA), aortic valve replacement (19mm
+[**Doctor Last Name 41833**] pericardial valve)
+
+
+History of Present Illness:
+Ms. [**Known lastname 12412**] is a 78 year-old woman with known coronary disease
+who presents with worsening fatigue and exertional shortness of
+breath over the last year or so. She denies chest discomfort or
+pain but experiences positional dizziness quite frequently. A
+recent echocardiogram showed severe aortic stenosis and she was
+subsequently been referred for aortic valve replacement surgery.
+She was admitted status-post cardiac cath, which showed 3 vessel
+disease: 60% LM, CX, LAD. She was admitted for plavix washout
+for an aortic valve replacement and coronary artery bypass
+grafting with Dr. [**First Name (STitle) **].
+
+
+Past Medical History:
+- Coronary Artery Disease, s/p PCI/Cypher Stent to LAD [**2138**]
+- Diabetes Mellitus Type II
+- Hyperlipidemia
+- ?Chronic obstructive pulmonary disease, prior history of home
+oxygen dependence - no longer requires home oxygen
+- Carotid Disease, s/p right carotid endarterectomy
+- Obesity
+- Chronic Low Back Pain
+- Hypothyroidism
+- Gout
+- Anemia, Erosive Gastritis - require PRBC in past
+- Mediastinal adenopathy
+- Cataract Surgery, bilateral
+- History of LE Ulcers ?erythema nodosum
+- Left Wrist Fracture/Left Should Injury from fall
+
+
+Social History:
+Occupation: retired from [**Company 2892**]
+Lives: alone
+Tobacco: 25 pack year history, quit 30 years ago
+
+ETOH: occasional
+
+
+Family History:
+Mother died of heart failure in her 70's
+
+
+Physical Exam:
+Pulse: 80 Resp: 18 O2 sat: 98% RA
+B/P  Right:  120/50  Left:
+
+General: Elderly female, obese, in no acute distress
+Skin: fungal rashes noted under breasts and groin
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur 3/6 systolic ejection
+murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema - trace
+Varicosities: None [x]
+Neuro: Grossly intact, left upper extremity decreased ROM and
+some weakness appreciated
+Pulses:
+DP           Right: dopller Left: doppler
+PT           [**Name (NI) 167**]:  doppler Left: doppler
+Radial       Right: 2  Left: 2
+
+Carotid Bruit        Right: ++   Left: ++  (versus trans murmur)
+
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 41834**] (Complete)
+Done [**2141-10-12**] at 11:55:12 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+[**Street Address(2) 15115**]
+[**Location (un) 15116**], [**Numeric Identifier 15117**]  Status: Inpatient DOB: [**2063-5-12**]
+Age (years): 78 F  Hgt (in): 61
+BP (mm Hg): 130/70  Wgt (lb): 170
+HR (bpm): 55  BSA (m2): 1.76 m2
+Indication: coronary artery disease, aortic valve disease
+ICD-9 Codes: 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2141-10-12**] at 11:55    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW04-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  4.0 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Left Ventricle - Stroke Volume:  43 ml/beat
+Left Ventricle - Cardiac Output:  2.38 L/min
+Left Ventricle - Cardiac Index:  *1.35  >= 2.0 L/min/M2
+Aorta - Ascending:  2.7 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *3.6 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *53 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  31 mm Hg
+Aortic Valve - LVOT VTI:  17
+Aortic Valve - LVOT diam:  1.8 cm
+Aortic Valve - Valve Area:  *0.5 cm2  >= 3.0 cm2
+Mitral Valve - Pressure Half Time:  80 ms
+Mitral Valve - MVA (P [**2-3**] T):  2.8 cm2
+
+Findings
+A careful OG suction was done prior to the easy TEE insertion
+LEFT ATRIUM: Normal LA size. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+global systolic function (LVEF>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Focal calcifications in ascending
+aorta. No atheroma in ascending aorta. Normal aortic arch
+diameter. Complex (>4mm) atheroma in the descending thoracic
+aorta. Focal calcifications in descending aorta.
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Critical AS (area <0.8cm2). Mild (1+) AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. No
+MVP. Moderate mitral annular calcification. No MS. Mild (1+) MR.
+
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+The post-bypass study was performed while the patient was
+receiving vasoactive infusions (see Conclusions for listing of
+medications).
+Conclusions
+PRE-BYPASS:
+
+The left atrium is normal in size. No spontaneous echo contrast
+or thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler.
+
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size and global systolic function (LVEF>55%).
+
+Right ventricular chamber size and free wall motion are normal.
+
+There are complex (>4mm) atheroma in the descending thoracic
+aorta.
+
+The aortic valve leaflets are severely thickened/deformed. There
+is critical aortic valve stenosis (valve area <0.8cm2). Mild
+(1+) aortic regurgitation is seen.
+
+The mitral valve leaflets are moderately thickened. There is no
+mitral valve prolapse. Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion. Dr. [**First Name (STitle) **] was notified in
+person of the results on Ms[**Known lastname 12412**] before surgicial incision..
+
+
+
+Brief Hospital Course:
+On [**2141-10-12**] Ms. [**Known lastname 12412**] [**Last Name (Titles) 1834**] a coronary artery bypass
+grafting times four (LIMA to LAD, SVG to Diag and OM, SVG to
+RCA) and aortic valve replacement (19mm [**Doctor Last Name 41833**] pericardial
+valve), performed by Dr. [**Last Name (STitle) **].  Please see the
+operative note for details.  She tolerated this procedure well
+and was tranferred in critical but stable condition to the
+surgical intensive care unit.  She was extubated and weaned from
+her pressors.  Her chest tubes were removed and pacing wires
+were removed per cardiac surgery protocol.  She was transferred
+to the step down floor.  She was aggressively diuresed and her
+lopressor was uptitrated as tolerated.  She failed to void with
+foley initally removed.  Her foley was reinserted, flomax was
+started and she voided after foley was removed again.  Flomax
+was discontined with a good void

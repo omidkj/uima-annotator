@@ -1,0 +1,274 @@
+Admission Date:  [**2147-10-12**]              Discharge Date:   [**2147-11-3**]
+
+Date of Birth:  [**2087-6-26**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 78**]
+Chief Complaint:
+CC:[**CC Contact Info **]
+Major Surgical or Invasive Procedure:
+[**2147-10-12**] EVD placement
+[**2147-10-15**] EVD catheter exchange
+[**2147-10-13**] Cerebral Angiogram with coiling
+
+
+History of Present Illness:
+HPI: 60 yo F who presented to an outside hospital with the worst
+headache of her life.  Upon arrival there she was talking, but
+had a rapid decline with respiratory distress.  She was
+intubated, and a CTH revealed diffuse SAH with IVH.  She was
+transferred for definitive care.  Upon arrival she was intubated
+and sedated.
+
+Past Medical History:
+migraines
+
+Social History:
+Social Hx: per OSH denies smoking
+
+Family History:
+unknown
+
+Physical Exam:
+On admission:
+
+PHYSICAL EXAM:
+O: T: 98 BP: 146/93         HR: 61   R 14      O2Sats 100%
+Gen: intubated, sedated
+HEENT: Pupils: 2mm nonreactive
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Intubated, sedated
+No eye opening.
+Pupils 2mm nonreactive bilaterally.
++ Corneal reflex bilat
++ gag
++ oculocephalic reflex
+localizes RUE
+no movement LUE
+no movement BLE
+
+Discharge Exam:
+Awake, Alert, mouths words, follows commands on the right more
+frequently than the left.
+
+Pertinent Results:
+[**2147-10-12**] CT Head:
+Diffuse basal SAH with IVH and interhemispheric SAH
+
+[**2147-10-12**] CTA Head:
+IMPRESSION:
+1. Extensive multicompartmental intracranial hemorrhage as
+described above
+with mild diffuse cerebral edema, low lying cerebellar tonsils
+and mass effect and mild obsturctive hydrocephalus, that needs
+to be focussed on close followup. Details regarding interval
+change as above. Slightly increased attenuation in the CSF in
+the thecal sac at the level of C2, which may relate to
+redistribution of the hemorrhage.
+
+2. Multilobulated saccular aneurysm, from the anterior
+communicating artery measuring 1.8x.15 cm, with a narrow neck of
+approximately 3 mm.
+
+CTA Head [**2147-10-13**]:
+IMPRESSION:
+1. Interval coiling of the anterior communicating artery
+aneurysm with blood visualized in the ventricles, and a right
+frontal ventricular drain is seen.  The ventricular size remains
+slightly enlarged but decreased from the previous CT of
+[**2147-10-12**].
+
+2. CTA of the head demonstrates slightly diminished density of
+the flow in
+the right A2 segment distal to the coiling which may be due to
+diminished
+flow. No definite defect identified in the distribution of right
+anterior
+cerebral artery.
+
+[**Known lastname 88196**],[**Known firstname **] [**Last Name (NamePattern1) 26**] [**Medical Record Number 88197**] F  60  [**2087-6-26**]
+
+Neurophysiology Report EEG Study Date of [**2147-10-16**]
+
+
+
+OBJECT: R/O SZ,INPT Bedside LTM w/Video,EKG,[**Date range (1) 88198**].
+
+
+
+REFERRING DOCTOR: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+
+
+FINDINGS:
+CONTINUOUS EEG: The background was slow reaching a maximum 4 Hz
+frequency. There were generalized bursts of right more than left
+delta
+slowing seen. There were also rare sharp discharges noted most
+often
+phase reversing at the F4 electrode. There were no clear
+organized
+discharges or electrographic seizures noted.
+SPIKE DETECTION PROGRAMS: There were many entries in these
+files.
+These represented mostly electrical and muscle artifact;
+however, there
+were very rare sharp discharges noted phase reversing at the F4
+electrode.
+SEIZURE DETECTION PROGRAMS: There were no entries in these
+files.
+PUSHBUTTON ACTIVATIONS: There were no entries in these files.
+SLEEP: There was no clear sleep architecture noted throughout
+the
+record.
+CARDIAC MONITOR: Showed a generally regular rhythm with an
+average rate
+of 90 bpm.
+IMPRESSION: This is an abnormal video EEG telemetry due to the
+presence
+of a slow background and bursts of generalized slowing, which
+indicate a
+moderate to severe encephalopathy such as seen in diffuse
+ischemia,
+toxic/metablic processes, or infectious etiologies, among
+others. The
+presence of rare sharp discharges in the right frontal region
+suggests
+that cortex there may be epileptogenic, but there were no
+electrographic
+seizures noted.
+
+[**Known lastname 88196**],[**Known firstname **] [**Last Name (NamePattern1) 26**] [**Medical Record Number 88197**] F  60  [**2087-6-26**]
+
+Radiology Report BILAT LOWER EXT VEINS Study Date of [**2147-10-19**]
+10:35 AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-B [**2147-10-19**] 10:35 AM
+BILAT LOWER EXT VEINS   Clip # [**Clip Number (Radiology) 88199**]
+Reason: r/o dvt
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   60 year old woman with sah
+REASON FOR THIS EXAMINATION:
+   r/o dvt
+
+
+
+Final Report
+INDICATION: 60-year-old female with SAH, rule out DVT.
+
+COMPARISON: No previous exam for comparison.
+
+FINDINGS: Grayscale, color and Doppler images were obtained of
+bilateral
+common femoral, superficial femoral, popliteal and tibial veins.
+There is
+normal flow, compression and augmentation seen in all the
+vessels.
+
+IMPRESSION: No evidence of deep vein thrombosis in either leg.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+ [**Known lastname 88196**],[**Known firstname **] [**Last Name (NamePattern1) 26**] [**Medical Record Number 88197**] F  60  [**2087-6-26**]
+
+Radiology Report UNILAT UP EXT VEINS US LEFT Study Date of
+[**2147-10-19**] 10:56 AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-B [**2147-10-19**] 10:56 AM
+UNILAT UP EXT VEINS US LEFT; -59 DISTINCT PROCEDURAL SERVIC
+Clip # [**Clip Number (Radiology) 88200**]
+Reason: left UE ultrasound r/o dvt
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   60 year old woman with sah
+REASON FOR THIS EXAMINATION:
+   left UE ultrasound r/o dvt
+
+
+
+Final Report
+INDICATION: 60-year-old female with SAH, evaluate left arm for
+DVT.
+
+COMPARISON: No previous exam for comparison.
+
+FINDINGS: Grayscale, color and Doppler images of the left IJ,
+subclavian,
+axillary, brachial, basilic, and cephalic veins were obtained.
+The left
+basilic vein which is a superficial vein does not compress and
+does not
+demonstrate vascular flow on color Doppler imaging.
+
+Normal flow, compression, and augmentation is seen in the
+remainder of the
+veins of the left arm.
+
+IMPRESSION: No evidence of deep vein thrombosis in the left arm.
+Occlusive
+thrombus is seen within the left basilic vein (which is a
+superficial vein).
+
+The study and the report were reviewed by the staff radiologist.
+
+
+
+[**Known lastname 88196**],[**Known firstname **] [**Last Name (NamePattern1) 26**] [**Medical Record Number 88197**] F  60  [**2087-6-26**]
+
+Neurophysiology Report EEG Study Date of [**2147-10-20**]
+
+
+
+OBJECT: ROE, LTM WITH VIDEO, EKG, [**Date range (1) 88201**].
+
+
+REFERRING DOCTOR: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+
+
+FINDINGS:
+ROUTINE TIME SAMPLES OF CONTINUOUS EEG: Showed a slow,
+disorganized
+background that was of mixed frequencies, usually in the theta
+and delta
+frequency ranges, reaching a maximum of about 6 Hz at times.
+There was
+more prominent superimposed bifrontal delta slowing, nearly
+continuous
+at times, usually more prominent in the right frontal region.
+SPIKE DETECTION PROGRAMS: No true interictal epileptiform
+discharges
+were seen.
+SEIZURE DETECTION PROGRAMS: There were four entries in these
+files.
+None represented true electrographic seizures. All were
+artifactual in
+nature.
+PUSHBUTTON ACTIVATIONS: There were none.
+SLEEP: No clear state changes were seen.
+CARDIAC MONITOR: Showed a generally regular rhythm.
+IMPRESSION: This video EEG telemetry captured no pushbutton
+activations. No electrographic seizures or interictal
+epileptiform
+discharges were seen. The background was slow and disorganized
+throughout the recording suggestive of a moderate encephalopathy
+such as
+can be seen in diffuse ischemia, toxic/metabolic processes, or
+medication effect, among other causes. More prominent and, at
+times,
+nearly continuous focal slowing in the bifrontal re

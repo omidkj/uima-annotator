@@ -1,0 +1,217 @@
+Admission Date:  [**2147-1-11**]              Discharge Date:   [**2147-1-19**]
+
+Date of Birth:  [**2086-10-7**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Levaquin / Midazolam
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+60 year old with 3VDs and aortic stenosis.
+
+Major Surgical or Invasive Procedure:
+[**1-13**] AVR (25mm porcine) CABGX3 (LIMA-LAD, SVG-OM, SVG-PDA)
+
+
+History of Present Illness:
+60 y.o. male with AS and 3VDs now s/p AVR(25mm Porcine)/CABGX3
+(LIMA-LAD, SVG-OM, SVG-PDA.
+
+Past Medical History:
+PMH: CAD, S/P MI w/ RCA stenting (BMS) [**4-/2142**], AS, Reactive
+Airway Disease, Hodgkin's lymphoma, S/P Rads/Chemo '[**12**],
+Hypothyr, RIH [**10-20**]
+
+Social History:
+Works as a pastor and lives at home wife his wife.
+Denies ETOH and recreational drug use.
+
+Family History:
+Mother, alive 86y.o. s/p MVR, hemorragic CVA
+Father alive 89 y.o. no cardiac history
+Two brother alive with no cardiac history
+
+Physical Exam:
+Admission physical exam [**1-12**]
+Pulse: 87 Resp: 18 B/P right 173/82 left 155/72 Ht: 5'7" Wgt
+81.6kg
+General: NAD
+Skin: Unremarkable well healed biopsy site L clavicle
+HEENT: Unremarkable
+Neck: Supple, Full ROM
+Chest: Slight decreased air at L base
+Heart: RRR IV-VI systolic murmur radiating to carotids
+Abdomen: Benign
+Extremities: Warm, well-perfused, no edema
+Varicosities: None
+Neuro: Intact
+Pulses: Femoral, DP, PT, radial, equal bilaterally 2+
+Carotid Bruit: right and left radiating murmur
+
+
+Pertinent Results:
+[**2147-1-11**] 09:58PM   PT-13.5* PTT-25.0 INR(PT)-1.2*
+[**2147-1-11**] 07:13PM   HGB-13.8* calcHCT-41 O2 SAT-97
+[**2147-1-11**] 06:30PM   GLUCOSE-144* UREA N-14 CREAT-0.8 SODIUM-139
+POTASSIUM-3.7 CHLORIDE-103 TOTAL CO2-25 ANION GAP-15
+[**2147-1-11**] 06:30PM   ALT(SGPT)-8 AST(SGOT)-20 CK(CPK)-124 ALK
+PHOS-68 AMYLASE-38 TOT BILI-0.5
+[**2147-1-11**] 06:30PM   cTropnT-<0.01
+[**2147-1-11**] 06:30PM   ALBUMIN-3.8
+[**2147-1-11**] 06:30PM   %HbA1c-5.9
+[**2147-1-11**] 06:30PM   WBC-7.0 RBC-4.43* HGB-13.2* HCT-37.7* MCV-85
+MCH-29.7 MCHC-34.9 RDW-13.9
+[**2147-1-11**] 06:30PM   PLT COUNT-214
+[**2147-1-17**] 07:00AM BLOOD WBC-10.1 RBC-3.35* Hgb-10.3* Hct-28.7*
+MCV-86 MCH-30.7 MCHC-35.8* RDW-15.0 Plt Ct-163
+[**2147-1-17**] 07:00AM BLOOD Glucose-133* UreaN-13 Creat-0.7 Na-132*
+K-3.6 Cl-96 HCO3-27 AnGap-13
+[**2147-1-17**] 07:00AM BLOOD Calcium-7.6* Phos-1.3*# Mg-2.2
+
+   RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  [**2147-1-17**] 3:49 PM
+
+CHEST (PA & LAT)
+
+Reason: s/p ct d/c
+
+[**Hospital 93**] MEDICAL CONDITION:
+60 year old man with
+REASON FOR THIS EXAMINATION:
+s/p ct d/c
+HISTORY: Status post removal of chest tube.
+
+FINDINGS: In comparison with the study of [**1-13**], there has been
+removal of the endotracheal tube, nasogastric tube, mediastinal
+drains, and Swan-Ganz catheter. The left chest tube has been
+removed and there is no evidence of pneumothorax. Elevation of
+the left hemidiaphragm persists as does some atelectatic change
+at the left base.
+
+Sternal sutures remain in place and without fracture.
+
+DR. [**First Name8 (NamePattern2) 1569**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11006**]
+Approved: WED [**2147-1-18**] 10:14 AM
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 48783**] (Complete) Done
+[**2147-1-13**] at 3:41:13 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2086-10-7**]
+Age (years): 60 M  Hgt (in): 67
+BP (mm Hg): 119/73  Wgt (lb): 180
+HR (bpm): 64  BSA (m2): 1.94 m2
+Indication: Intraoperative TEE for CABG/AVR
+ICD-9 Codes: 786.05, 786.51, 440.0, 424.1
+Test Information
+Date/Time: [**2147-1-13**] at 15:41    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5740**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW3-: Machine: 3
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  60% to 65%  >= 55%
+Aorta - Annulus:  2.3 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.1 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.4 cm  <= 3.0 cm
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.2 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *2.7 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *28 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  15 mm Hg
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  0.9 m/sec
+Mitral Valve - A Wave:  0.4 m/sec
+Mitral Valve - E/A ratio:  2.25
+Mitral Valve - E Wave deceleration time:  210 ms  140-250 ms
+
+Findings
+LEFT ATRIUM: Good (>20 cm/s) LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum. No
+ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Moderately dilated LV
+cavity. Overall normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal aortic arch diameter. Simple
+atheroma in aortic arch. Normal descending aorta diameter.
+Complex (>4mm) atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Severe AS (AoVA
+<0.8cm2). Moderate (2+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+PRE-BYPASS:
+1. No atrial septal defect is seen by 2D or color Doppler.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity is moderately dilated. Overall left
+ventricular systolic function is normal (LVEF>55%) with noted
+inferior wall hypokinesis from the mid-papillary level to apex.
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are simple atheroma in the aortic arch. There are
+complex (>4mm) atheroma in the descending thoracic aorta.
+5. There are three aortic valve leaflets. The aortic valve
+leaflets are severely thickened/deformed. There is severe aortic
+valve stenosis (area <0.8cm2). Moderate (2+) aortic
+regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. Trivial
+mitral regurgitation is seen.
+
+POST-BYPASS:
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2147-1-15**] 11:33
+
+
+
+
+
+
+Brief Hospital Course:
+Mr [**Known lastname **] is a 60 y.o male who was transferred from [**Hospital1 **] on [**1-11**] for cardiac catheterization and an echo that
+revealed an EF of 55%, LM: 60-70%, LAD 30%, LCX:50% RCA:30%, [**Location (un) 109**]
+0.77 with peak 50. He was then referred for cardiac surgery. On
+[**1-13**] he was brought to the operating room and underwent AVR
+(25mm Porcine) and CABGX3 (LIMA-LAD, SVG-OM, SVG-PDA). He
+received 48 hours of perioperative Vancomycin because he was
+inpatient prior to his surgery. He was brought to the intensive
+care unit in stable condition for recovery. He did well during
+the immediate post-operative period. His anesthesia was reversed
+and he remained on precedex for his ventilatory wean until POD1
+when he was extubated. On POD 1 he had a self limited epi

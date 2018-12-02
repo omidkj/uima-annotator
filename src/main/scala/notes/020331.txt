@@ -1,0 +1,219 @@
+Admission Date:  [**2122-8-15**]              Discharge Date:   [**2122-8-20**]
+
+Date of Birth:  [**2042-1-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 800**]
+Chief Complaint:
+clogged G tube
+
+Major Surgical or Invasive Procedure:
+Endotracheal Intubation
+Arterial line placement
+
+
+History of Present Illness:
+80-year-old man with PMHx of CAD, COPD, dementia and seizure
+disorder who was transferred from [**Hospital1 **] for complaint of
+clogged G-tube. Per [**Hospital1 **] records, pt was at baseline but
+wasn't able to receive po meds due to clogged G-tube and was
+sent in for evaluation. On arrival to [**Hospital1 18**], pt was
+uncomfortable with increasing oxygen requirement.
+.
+In the ED, initial vitals were: T 100.0 P 60 BP 188/85 R 24 O2
+sat 98% on NRB and RA sat in the 80s%. Pt was notably tachypneic
+and in mild respiratory distress. ABG revealed acute on chronic
+respiratory acidosis 7.41/74/67. Portable CXR was concerning for
+right sided PNA and he received vanc/pip-tazo for empiric
+coverage of HAP. He did not tolerate BiPAP trial due to beard
+and discomfort. It was felt that the hypercarbia was not acute
+given his alert and agitated mental status with intermittent
+yelling.
+.
+On arrival to the ICU, pt was yelling intermittently but denying
+any pain when questionned. He reports shortness of breath which
+began approximately 3 days ago and occaisional cough that is
+non-productive. He denies fevers, chills, nausea, vomiting or
+chest pain. He reports feeling hungry and thirsty, though
+further review of symptoms difficult to obtain due to MS.
+
+Past Medical History:
+CAD (h/o of IMI)
+COPD (baseline O2 requirement of 1-2L NC)
+B/L hip fx s/p R hip replacement
+BPH with obstructive uropathy
+Mood d/o
+PVD
+Osteoporosis
+HTN
+GERD
+Anemia
+Mild dementia
+Hyperthyroid
+Persistent R pleural effusion
+
+Social History:
+(+) tobacco, 5 cigarettes per day x 60 years, quit 1 yr ago.
+Social EtOH. No drugs. Formerly in Marines. Now lives at [**Location **].
+
+Family History:
+noncontributory
+
+Physical Exam:
+PHYSICAL EXAM AT ADMISSION:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+.
+Physical Exam at discharge:
+Vitals: 98 97 120/62 72 18 93%CPAP
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly. G tube
+intact without drainage, erythema, or tenderness.
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+LABS ON ADMISSION:
+Lactate:1.2
+.
+Trop-T: <0.01
+CK: 20 MB: Notdone
+.
+135 89 23 BS 125 AGap=8
+-------------
+4.6 43 0.7
+.
+WBC 11.9 Hgb 11.2 Hct 35.2 Plts 189
+N:91.1 L:3.7 M:4.8 E:0.1 Bas:0.3
+.
+PT: 13.1 PTT: 31.4 INR: 1.1
+.
+LABS at discharge:
+[**2122-8-20**] 05:45AM BLOOD WBC-3.8* RBC-3.02* Hgb-9.2* Hct-29.9*
+MCV-99* MCH-30.5 MCHC-30.8* RDW-14.9 Plt Ct-177
+[**2122-8-20**] 05:45AM BLOOD Glucose-110* UreaN-20 Creat-0.6 Na-140
+K-3.5 Cl-99 HCO3-36* AnGap-9
+[**2122-8-20**] 05:45AM BLOOD Calcium-8.4 Phos-2.2* Mg-2.1
+.
+Micro:
+Blood Cx sent x 2 on [**8-15**]: No growth
+.
+GRAM STAIN (Final [**2122-8-16**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2122-8-19**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      ESCHERICHIA COLI.    MODERATE GROWTH.
+      PROTEUS MIRABILIS.    QUANTITATION NOT AVAILABLE.
+         PRESUMPTIVE IDENTIFICATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          PROTEUS MIRABILIS
+                             |          |
+AMPICILLIN------------  =>32 R     =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R       16 I
+CEFAZOLIN-------------     8 S      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CEFUROXIME------------     4 S      <=1 S
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------  =>16 R        4 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN---------- =>128 R       16 S
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------     4 S        2 S
+TRIMETHOPRIM/SULFA----   <=1 S     =>16 R
+.
+Images:
+CXR [**2122-8-15**]: IMPRESSION: Diffusely increased pulmonary opacity,
+particularly on the right. Bilateral pleural effusions.
+.
+CXR [**2122-8-16**]: Findings are consistent with right lung multifocal
+opacities that might be worrisome for infectious process
+accompanied by bilateral pleural effusion. The percutaneous
+gastrostomy tube is noted.
+.
+CXR [**2122-8-17**]: IMPRESSION: Improved right upper/lower lung
+opacities; bilateral pleural effusions, right greater than left,
+show no change.
+.
+CXR [**2122-8-18**]: (extubated) Lower lung volumes post-extubation with
+no interval change, stable moderate right pleural effusion and
+left lower lobe atelectasis.
+.
+Echo [**2122-7-23**]: IMPRESSION: Regional left ventricular systolic
+dysfunction consistent with coronary artery disease. Moderate
+aortic stenosis. Mild to moderate aortic regurgitation. Moderate
+eccentric mitral regurgitation.
+.
+EKG [**2122-8-15**]: NSR with HR of 79, peaked T waves essentially
+unchanged from prior tracings, no other acute ST-T wave changes
+
+.
+EKG [**2122-8-18**]: Atrial fibrillation with rapid ventricular
+response. Left ventricular hypertrophy with ST-T wave changes.
+Compared to the previous tracing of [**2122-8-17**] atrial fibrillation
+with rapid ventricular response and lateral ST-T wave changes
+have appeared and marked increase in rate. Clinical correlation
+is suggested.
+.
+
+Brief Hospital Course:
+80-year-old man with PMHx of CAD, COPD, dysphagia and seizure
+disorder who was transferred from [**Hospital1 **] for clogged G-tube
+but found to be in respiratory distress with pneumonia.
+.
+# Pneumonia: Pt was found to be in repiratory distress in the ED
+and was admitted to the MICU for possible pneumonia with
+pulmonary edema seen on CXR. Empiric vancomycin and
+piperacillin-tazobactam were started. When he got to the MICU he
+was yelling intermittently but denying any pain when questioned.
+At one point on his first night in the ICU, he became very quiet
+with O2 saturation dropping; he then stopped breathing and
+became apneic. He was emergently intubated, with post-intubation
+hypotension requiring pressors briefly. Furosemide was given
+intermittently with good urine output and improvement of
+respiratory status. Acetezolamide was given to waste bicarb and
+stimulate respiratory drive. Neurology was consulted and thought
+that the episode was not a seizure. Neurology was convinced that
+he may have had a stroke in the past and this is the reason for
+his swallowing difficulty. The patient was extubated within 30
+hours. The patient's antibiotic regimen was changed to cefepime
+and ciprofloxacin, but after the sputum culture grew out E. coli
+and Proteus sensitive to cephalosporins and resistant to
+ciprofloxacin, the regimen was changed to ceftriaxone. The
+14-day course of antibiotics will end on [**2122-8-26**].
+.
+# History of CAD: has been followed by cardiology. Echo in
+[**2122-7-4**] showed focal wall motion abnormality, LVEF 40%. He
+had no chest pain. CE negative and EKGs at baseline. Suspected
+acute on chronic pleural effusions [**1-5**] heart failure. He was
+started on aspirin 81mg daily (as per PCP, [**Name10 (NameIs) **] contraindication
+to starting). He was continued on simvastati

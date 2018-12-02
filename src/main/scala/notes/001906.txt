@@ -1,0 +1,218 @@
+Admission Date:  [**2110-12-18**]              Discharge Date:   [**2110-12-21**]
+
+Date of Birth:  [**2045-3-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Doctor First Name 1402**]
+Chief Complaint:
+Ventricular tachycardia
+
+Major Surgical or Invasive Procedure:
+elective VT ablation
+
+History of Present Illness:
+a 65M with a history of inferior posterior MI s/p three vessel
+CABG in [**2094**] with a large residual scar and recurrent VT who
+underwent a VT ablation today. He had an initial event of VT
+within a year of his MI and had an ICD placed at that time. He
+did well until this past summer when his ICD fired twice, once
+for Afib and once for VT. Today he underwent an extensive
+ablation of his scar. At the end of the procedure he developed a
+slow VT which was broken with lidocaine 150 mg IV x1. He was
+started on mexilitine and transfered to the CCU for further
+management. EKG NSR 82bpm RSR' c/w right intravenricular
+conduction delay TWI V4-V6 when compared with [**2110-10-31**] EKG, no
+significant changes are noted.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: - Diabetes, + Dyslipidemia, +
+Hypertension
+2. CARDIAC HISTORY:
+-CABG: CAD, inferior lateral posterior MI treated with
+thrombolytics in [**2094-3-9**] complicated by ventricular
+tachycardia, subsequent three-vessel CABG in [**2094-3-9**] at
+[**Hospital1 18**]. Anatomy unclear.
+-PERCUTANEOUS CORONARY INTERVENTIONS:  None
+-PACING/ICD:  AICD implantation for ventricular tachycardia in
+[**2094-6-9**] at [**Hospital1 18**], generator placement in [**2098**] upgraded device
+due to battery depletion in [**2106-6-10**] with [**Company 1543**] AICD and
+new RV lead
+placement.
+3. OTHER PAST MEDICAL HISTORY:
+- Paroxysmal atrial fibrillation with evidence of inappropriate
+firing of defibrillator.
+- Hypertension.
+- Hypercholesterolemia.
+- Cardiomyopathy, EF 30% seen on echocardiogram in [**2107-5-10**].
+- Moderate mitral regurgitation.
+- Mild obesity.
+- Obstructive sleep apnea treated with CPAP.
+
+
+Social History:
+- Married. He has two children from his first marriage. He is
+self employed as a computer analyst
+- Tobacco: Denies
+- ETOH: One glass of wine twice a week
+
+
+Family History:
+- No family history of early MI, arrhythmia, cardiomyopathies,
+or sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+Admission:
+GENERAL: Middle aged male intubated and sedated.
+HEENT:non injected sclera. no lymphadenopathy.
+NECK: JVP not appreciated due to body habitus
+CARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+CHEST: Well healed midline sternotomy and left pacer scars
+LUNGS: CTAB in anterior fields, no rales, wheezes or rhonchi.
+ABDOMEN: overweight, soft nondistended, liver border smooth,
+normoactive bowelsounds.
+EXTREMITIES: Right sheath in place, no drainage, no erythemia.
+1+ pretibial edema to mid calf BL, no venous stasis changes.
+SKIN: no rash
+PULSES:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+
+
+Pertinent Results:
+EKG
+[**2110-12-19**] Normal sinus rhythm. Leftward axis at minus 25
+degrees. Q waves in  leads III, aVF and in leads V1-V2.
+Non-specific ST-T wave changes in
+leads I, II, aVL and V5-V6. Compared to the previous tracing of
+[**2110-12-15**] no
+diagnostic interval change.
+.
+Admission labs
+[**2110-12-18**] 04:50PM BLOOD Hct-43.8
+[**2110-12-18**] 07:00PM BLOOD Hct-43.4
+[**2110-12-19**] 04:45AM BLOOD WBC-8.6 RBC-4.54* Hgb-15.1 Hct-42.3
+MCV-93 MCH-33.2* MCHC-35.7* RDW-13.5 Plt Ct-167
+[**2110-12-19**] 04:45AM BLOOD PT-13.2 PTT-22.3 INR(PT)-1.1
+[**2110-12-18**] 07:00PM BLOOD Glucose-83 UreaN-15 Creat-0.6 Na-140
+K-3.3 Cl-107 HCO3-27 AnGap-9
+[**2110-12-19**] 04:45AM BLOOD Glucose-115* UreaN-14 Creat-0.7 Na-140
+K-4.4 Cl-108 HCO3-24 AnGap-12
+[**2110-12-19**] 04:45AM BLOOD Calcium-8.2* Phos-3.8 Mg-2.1 Cholest-155
+[**2110-12-19**] 04:45AM BLOOD Triglyc-307* HDL-40 CHOL/HD-3.9
+LDLcalc-54
+.
+Discharge Labs
+[**2110-12-21**] 06:10AM BLOOD WBC-7.2 RBC-4.54* Hgb-14.0 Hct-41.6
+MCV-92 MCH-30.9 MCHC-33.8 RDW-13.6 Plt Ct-152
+[**2110-12-20**] 05:40AM BLOOD PT-13.1 PTT-23.5 INR(PT)-1.1
+[**2110-12-21**] 06:10AM BLOOD Glucose-95 UreaN-14 Creat-0.7 Na-144
+K-4.2 Cl-107 HCO3-28 AnGap-13
+[**2110-12-21**] 06:10AM BLOOD Calcium-8.9 Phos-3.3 Mg-1.9
+
+Brief Hospital Course:
+65M with CAD s/p MI and CABG, CHF, HTN, HLD, VT s/p ablation
+with recurrent VT admitted to the CCU after repeat ablpation and
+intubation for airway protection.
+.
+# RHYTHM: Patient admitted for a repeat ablation of focus of
+ventricular tachycardia. On the day of admission, patient went
+to the cath lab and a focus was identified and ablated.
+Immediatetly after ablation, patient entered a slow VT and was
+intubated for airway protection. VT converted to sinus rhythm
+with a lidocaine bolus and he was extubated without complication
+on HD2. He remained in sinus rhythm for the remainder of his
+hospitalization. He was started on mexilitine 150mg TID and
+sotalol was increased to 120mg [**Hospital1 **]. Metoprolol XL 50mg PO Daily
+was continued. Given risk of thromboembolism post VT ablation,
+he was started on coumadin with a lovenox bridge. He will follow
+up with [**Hospital1 **] anticoagulation and his PCP [**Last Name (NamePattern4) **]. [**First Name (STitle) 7325**]
+for INR monitoring. He was started on lovenox with  and he was
+discharged with plan to follow up with Dr. [**Last Name (STitle) **] in EP
+within 1 month.
+.
+# CORONARIES: CAD s/p MI and CABG x3 in [**2094**]. He was continued
+on aspirin 325mg PO daily, simvastatin 80 daily, as well as
+metoprolol as above.
+.
+# PUMP: CHF with EF 30%. Euvolemic on exam on admission to CCU.
+He was continued on lisinopril 5mg PO Daily and metoprolol.
+.
+# Hypertension: Continued home metoprolol and lisinopril.
+
+COMM: [**Name (NI) **] [**Name (NI) 1355**] (wife): [**Telephone/Fax (1) 7326**]
+
+Medications on Admission:
+- LISINOPRIL 5 mg PO daily
+- METOPROLOL SUCCINATE 50 mg PO daily
+- SIMVASTATIN 80 mg PO daily
+- SOTALOL 80 mg PO BID
+- ASPIRIN 325 mg PO daily
+- ERGOCALCIFEROL (VITAMIN D2) 1,000 unit PO daily
+
+Discharge Medications:
+1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*90 Tablet(s)* Refills:*3*
+3. metoprolol succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*90 Tablet Sustained Release 24 hr(s)* Refills:*3*
+4. simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+5. mexiletine 150 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours): 90 day Rx.
+Disp:*270 Capsule(s)* Refills:*3*
+6. sotalol 120 mg Tablet Sig: One (1) Tablet PO twice a day: 90
+day Rx.
+Disp:*180 Tablet(s)* Refills:*3*
+7. Lovenox 100 mg/mL Syringe Sig: One (1)  Subcutaneous twice a
+day for 14 days: until INR > 2 for two consecutive days.
+Disp:*28 syringes* Refills:*0*
+8. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Outpatient Lab Work
+Please have INR checked on Monday [**12-22**]
+10. Outpatient Lab Work
+INR Checks per protocol. Goal INR [**2-12**]. Bridge with Lovenox 100
+mg [**Hospital1 **]. Indication: Afib, VT ablation. Contact:
+[**Name (NI) 7327**],[**First Name3 (LF) **] R. Phone: [**Telephone/Fax (1) 7328**] Fax: [**Telephone/Fax (1) 7329**]
+
+11. mexiletine 150 mg Capsule Sig: One (1) Capsule PO three
+times a day: 30 day Rx.
+Disp:*90 Capsule(s)* Refills:*2*
+12. sotalol 120 mg Tablet Sig: One (1) Tablet PO twice a day: 30
+day Rx.
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Recurrent ventricular tachycardia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You presented for VT ablation for management of recurrent
+ventricular tachycardia and admitted to the CCU afterwards for
+monitoring.  You were continued on sotalol at a higher dose, and
+you were started on mexilitine.  Please have your INR checked on
+Monday.
+
+Medication changes:
+Sotalol INCREASED to 120mg twice a day.
+Mexilitine STARTED at 150mg three times a day.
+START Lovenox until INR > 2 for two consecutive days
+START Coumadin 5mg daily
+
+P

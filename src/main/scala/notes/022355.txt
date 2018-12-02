@@ -1,0 +1,149 @@
+Admission Date:  [**2173-3-11**]       Discharge Date:  [**2173-3-25**]
+
+Date of Birth:   [**2103-5-5**]       Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  The patient is a 69-year-old male referred
+by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] for an outpatient cardiac catheterization
+secondary to a positive stress test.
+
+HISTORY OF THE PRESENT ILLNESS:  Mr. [**Known lastname 27060**] was referred for
+a stress test after having abnormal preoperative EKGs prior
+to this workup for rotator cuff surgery.  The patient did not
+have chest pain or shortness of breath at that time.  The
+stress test was done on [**2173-3-10**].  During that time, the
+patient did have chest pain and the test was stopped due to
+fatigue.  Nuclear imaging revealed moderate to severe
+anteroapical ischemia with an ejection fraction of 54%.
+
+The patient had a catheterization on [**2173-3-11**] at the
+[**Hospital6 256**].  The final assessment
+was occlusive LAD disease with left circumflex and right
+coronary artery disease.  At that time, Cardiothoracic
+Surgery was consulted.
+
+PAST MEDICAL HISTORY:
+1.  COPD.
+2.  Diet-controlled diabetes mellitus.
+3.  Hypercholesterolemia.
+4.  Pericarditis.
+5.  Carpal tunnel surgery in [**2163**].
+6.  Back surgery in [**2140**].
+7.  TURP in [**2164**].
+8.  Hypertension.
+
+PREOPERATIVE MEDICATIONS:
+1.  Aspirin.
+2.  Lopressor 25 mg p.o. b.i.d.
+3.  Lisinopril 40 mg p.o. q.d.
+4.  Atorvostatin 20 mg p.o. q.d.
+5.  Zantac 150 mg p.o. q.d.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Lungs:  Clear to
+auscultation bilaterally.  Cardiac:  Regular rate and rhythm.
+No murmurs detected.  Abdomen:  Soft, nontender,
+nondistended.  Positive bowel sounds.  Extremities:  Cool
+feet.  Positive DP and PT bilaterally.  No edema.  No
+varicosities.
+
+HOSPITAL COURSE:  The patient was admitted with the
+preoperative diagnosis of coronary artery disease.  The
+patient was brought to the Operating Room on [**2173-3-12**] and had
+a CABG times three.  The patient had a LIMA to the LAD, and a
+saphenous vein graft to the OM and then to the PDA.  Surgery
+was performed by Dr. [**Last Name (STitle) 70**] and Dr. [**Last Name (STitle) 7625**].  The patient
+was transported to the CSRU in stable condition.
+
+On postoperative day number one, the patient complained of
+increased pain which was treated with morphine, Toradol, and
+Dilaudid.  The patient had his Swan discontinued and was out
+of bed and walking.
+
+On postoperative day number two and three, the patient
+continued to do well, although had several bouts of rapid
+atrial fibrillation which responded to Amiodarone boluses and
+Lopressor.  At that time, beta blockers and Lasix were
+initiated.
+
+On postoperative day number four, the patient's hematocrit
+was 24.6 and was transfused 1 unit of packed red blood cells.
+On postoperative day number five, the patient was transferred
+to the cardiac floor.
+
+On the floor, this patient continued to do well.  The
+patient's physical therapy level quickly returned to a level
+V.  The patient had numerous bouts of rapid atrial
+fibrillation into the 150 and 180 range.  Electrophysiology
+was consulted and recommended gentle diuresis and treatment
+with Amiodarone in combination with beta blockers.
+
+Throughout the patient's hospitalization stay, his atrial
+fibrillation continued to be rapid in the 150-180 range
+intermittently.  Electrophysiology concluded that the patient
+was not a candidate for nodal ablation or pacemaker.  At this
+time, it was decided that we would maximize medical therapy.
+The Amiodarone and Lopressor doses were increased
+appropriately.
+
+On [**2173-3-25**], the patient was well enough to be discharged to
+home in stable condition.
+
+DISCHARGE PHYSICAL EXAMINATION:  Vital signs:  Temperature
+maximum 98, temperature current 98, heart rate 60 and sinus
+with intermittent atrial fibrillation, BP 156/76, respiratory
+rate 20, 02 saturation 96% on room air.  The patient was at
+his preoperative weight.
+
+Predischarge x-ray showed small bilateral effusions.
+
+DISCHARGE DIAGNOSIS:
+1.  Status post coronary artery bypass grafting times three
+with left internal mammary artery to the left anterior
+descending artery, saphenous vein graft to the obtuse
+marginal and posterior descending artery.
+2.  Chronic obstructive pulmonary disease.
+3.  Diet-controlled diabetes mellitus.
+4.  Hypercholesterolemia.
+5.  Pericarditis.
+6.  Status post transurethral resection of the prostate in
+[**2164**].
+7.  Status post carpal tunnel surgery.
+8.  Status post vascular surgery in [**2140**].
+
+DISCHARGE MEDICATIONS:
+1.  Lopressor 75 mg p.o. b.i.d.
+2.  Diltiazem 120 mg p.o. q.d.
+3.  Amiodarone 400 mg p.o. q.d.
+4.  Ativan 0.5 mg t.i.d.
+5.  Coumadin 2 mg p.o. q.o.d., 1 mg p.o. q.o.d.
+6.  Percocet 5/325 one to two tablets p.o. q. four to six
+hours.
+7.  Atorvostatin 20 mg p.o. q.d.
+8.  Zantac 150 mg p.o. b.i.d.
+9.  Aspirin 325 mg p.o. q.d.
+10. Colace 100 mg p.o. b.i.d.
+
+DISPOSITION:  The patient will be discharged home in good
+stable condition with VNA.
+
+FOLLOW-UP:  The patient will follow-up with Dr. [**Last Name (STitle) 70**] in
+six weeks.  The patient will also follow-up with his primary
+care physician, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 49683**], in one week.  The
+patient's Coumadin will be drawn by the visiting nurse and
+called into the primary care office once a day.  Prior to
+discharge, Dr. [**Last Name (STitle) 49683**] was contact[**Name (NI) **] by the Cardiothoracic
+Service and agreed to monitor the patient's Coumadin during
+the postoperative period.  The patient will call Dr.[**Name (NI) 45666**] office with any questions or concerns.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 75**]
+
+Dictated By:[**Last Name (NamePattern4) 959**]
+MEDQUIST36
+
+D:  [**2173-3-29**]  08:42
+T:  [**2173-3-29**]  20:56
+JOB#:  [**Job Number 49684**]

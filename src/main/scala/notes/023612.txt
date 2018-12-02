@@ -1,0 +1,209 @@
+Admission Date:  [**2150-7-14**]              Discharge Date:   [**2150-7-24**]
+
+Date of Birth:  [**2079-7-3**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+intermittent chest pain
+
+Major Surgical or Invasive Procedure:
+[**2150-7-15**] [**Month/Day/Year **] artery bypass times one (SVG to OM), mitral
+valve repair
+
+
+History of Present Illness:
+Ms. [**Known lastname 60333**] reports having had a myocardial infarction in [**5-14**]
+in [**Country 13622**] republic. She has had intermittent chest pain
+since. She was taken to [**Hospital3 **] ED on [**6-15**] where she ruled
+in for MI with troponin 0.27. Further cardiac workup was done
+and the cardiac Cath revealed 4+MR [**First Name (Titles) **] [**Last Name (Titles) **] disease. She was
+transferred to [**Hospital1 18**] for consultation with Dr.[**Last Name (STitle) **] for cariac
+surgery.
+
+Past Medical History:
+hypertension
+status post anterior myocardial infarction [**5-14**], and [**2150-6-15**]
+anxiety
+hypercholesterolemia
+non-insulin dependent diabetes mellitus
+renal calculi
+*chronic urinary tract infection
+status post tubal ligation
+
+Social History:
+Lives with son and does not smoke or drink alcohol.
+
+
+Family History:
+Unremarkable
+
+Physical Exam:
+Pulse: Resp:16  O2 sat:
+B/P  Right: 112/66   Left:112/66
+Height:152cm     Weight:79.4kg
+
+General:WDWN in NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur: none
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:2   Left:2
+DP           Right:2   Left:2
+PT           [**Name (NI) 167**]:2   Left:2
+Radial       Right:2   Left:2
+
+Carotid Bruit        Right:n    Left:n
+
+
+Pertinent Results:
+[**2150-7-21**] 02:12AM BLOOD WBC-14.3* RBC-3.54* Hgb-10.7* Hct-29.9*
+MCV-84 MCH-30.1 MCHC-35.7* RDW-14.1 Plt Ct-295
+[**2150-7-14**] 07:15PM BLOOD WBC-8.3# RBC-4.33 Hgb-12.2 Hct-36.4
+MCV-84 MCH-28.1 MCHC-33.5 RDW-12.5 Plt Ct-281
+[**2150-7-19**] 01:43PM BLOOD PT-15.7* PTT-34.3 INR(PT)-1.4*
+[**2150-7-14**] 07:15PM BLOOD PT-13.6* PTT-26.4 INR(PT)-1.2*
+[**2150-7-21**] 02:12AM BLOOD Glucose-88 UreaN-58* Creat-1.4* Na-133
+K-3.8 Cl-93* HCO3-30 AnGap-14
+[**2150-7-14**] 07:15PM BLOOD Glucose-163* UreaN-33* Creat-1.1 Na-135
+K-4.4 Cl-95* HCO3-29 AnGap-15
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 82124**]       [**Hospital1 18**] [**Numeric Identifier 82125**]Portable TTE
+(Focused views) Done [**2150-7-19**] at 11:47:00 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2079-7-3**]
+Age (years): 71 F  Hgt (in): 61
+BP (mm Hg): 97/51  Wgt (lb): 185
+HR (bpm): 64  BSA (m2): 1.83 m2
+Indication: H/O cardiac surgery. Left ventricular function.
+Right ventricular function. Tamponade. Valvular heart disease.
+ICD-9 Codes: 423.3, 424.0, 424.2
+Test Information
+Date/Time: [**2150-7-19**] at 11:47    Interpret MD: [**Name6 (MD) **] [**Name8 (MD) 4082**], MD
+Test Type: Portable TTE (Focused views) Son[**Name (NI) 930**]:
+Doppler: Limited Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2009W017-0:00 Machine: Vivid [**8-10**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  3.8 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.9 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.2 cm  <= 5.0 cm
+Left Ventricle - Diastolic Dimension:  3.5 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  35% to 40%  >= 55%
+Aorta - Sinus Level:  2.7 cm  <= 3.6 cm
+Aortic Valve - LVOT diam:  1.8 cm
+Mitral Valve - Mean Gradient:  1 mm Hg
+Mitral Valve - Pressure Half Time:  46 ms
+Mitral Valve - E Wave:  1.1 m/sec
+Mitral Valve - A Wave:  0.7 m/sec
+Mitral Valve - E/A ratio:  1.57
+Mitral Valve - E Wave deceleration time:  164 ms  140-250 ms
+TR Gradient (+ RA = PASP):  <= 20 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the prior study of [**2150-6-18**].
+LEFT ATRIUM: Elongated LA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size.
+Suboptimal technical quality, a focal LV wall motion abnormality
+cannot be fully excluded. [Intrinsic LV systolic function likely
+depressed given the severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+Paradoxic septal motion consistent with prior cardiac surgery.
+
+AORTA: Normal aortic diameter at the sinus level.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (?#). Mild
+(1+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mitral
+valve annuloplasty ring. Calcified tips of papillary muscles.
+Moderate (2+) MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Moderate [2+] TR. Normal PA systolic pressure.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: There is an anterior space which most likely
+represents a fat pad, though a loculated anterior pericardial
+effusion cannot be excluded.
+
+GENERAL COMMENTS: Suboptimal image quality - poor subcostal
+views. Suboptimal image quality - bandages, defibrillator pads
+or electrodes. Suboptimal image quality as the patient was
+difficult to position. Emergency study performed by the
+cardiology fellow on call. Left pleural effusion.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+The left atrium is elongated. Left ventricular wall thicknesses
+and cavity size are normal. Overall systolic function is good
+(LVEF = 35-40%) with inferior and inferolateral hypokinesis. Due
+to suboptimal technical quality, other focal wall motion
+abnormalities cannot be fully excluded. [Intrinsic left
+ventricular systolic function is likely more depressed given the
+severity of valvular regurgitation.] Right ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+are mildly thickened. Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. A well-seated
+mitral valve annuloplasty ring is present with normal gradient.
+Moderate (2+) mitral regurgitation is seen.The tricuspid valve
+leaflets are mildly thickened. Moderate [2+] tricuspid
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. There is an anterior space which most likely
+represents a fat pad.
+
+Compared with the prior study (images reviewed) of [**2150-6-18**],
+the left ventricular cavity is smaller, a mitral annuloplasty
+ring is identified, and the estimated pulmonary artery systolic
+pressure is lower. The severity of mitral regurgitation is
+reduced, but remains moderate. Global LVEF is slightly
+reduced/similar. A left pleural effusion is now seen.
+  Electronically signed by [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4083**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2150-7-20**] 09:34
+
+
+?????? [**2144**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+ On [**2150-7-15**] Ms. [**Known lastname 60333**] [**Last Name (Titles) 1834**] a [**Last Name (Titles) **] artery bypass
+grafting times one (SVG to OM) and a mitral repair (#26mm
+[**Company 1543**] annuloplasty ring).  Please refer to Dr. [**Last Name (STitle) **]
+operative note for further details.  She tolerated the procedure
+well and was transferred in critical but stable condition to the
+surgical intensive care unit. POD#1 she was extubated and weaned
+from her pressors.  Lines and drains were discontinued in a
+timely fashion. POD#2 she was transferred to the step down floor
+for further monitoring and progression. Physical therapy
+consulted and evaluation was performed. Her rhythm went into
+atrial fibrillation and Beta-blocker was increase

@@ -1,0 +1,208 @@
+Admission Date:  [**2161-5-28**]              Discharge Date:   [**2161-5-29**]
+
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Shortness of breath
+
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is an 88 year old male with a medical history of a-fib on
+coumadin, HTN, who presents from heb reb with shortness of
+breath.  Patient was just discharged from [**Hospital1 18**] for a prolonged
+hospital course for pneumonia ans sepsis.  During that
+hospitalization he grew VRE from his blood and required
+intubation.  He was intubated likely for a mix of volume
+overload and pneumonia.  After a large diuresis he was able to
+be extubated.  He was discharged from the hosptial with
+intermittent 2L O2 requirement.
+.
+At [**Hospital **] rehab he was doing well until [**5-28**] in the am.  He was
+noted to have increasing tachypnea and low O2 on room air.  He
+did not have any complaints but given his recent pneumonia,
+tachypnea, hypoxia and tachycardia he was sent to [**Hospital1 18**] ED for
+evaluation.
+
+78 on room air in ED.
+
+In the ED his initial vitals were: 99.6 118 135/68 36 95% 2L
+(78% on ra per verbal sign out).  Exam was notable for right
+sided rales.  Labs were notable for WBC of 9.9, hct of 39, BNP
+of 679, lactate of 2.9.  A chest X-ray was grossly volume
+overloaded with concern for a right sided infiltrate.  He was
+given Linezolid and cefepime in the ED alond with alb/ipra nebs.
+ His blood pressure dipped into high 90s but responded with
+500cc bolus.  On transfer 98% on 5L.  HR: 105, SBP 120s, 20-30.
+One PIV for access.  Given the concern for recurrent pneumonia
+and hypoxia to 5L he was admited to the ICU.
+
+Past Medical History:
+- COPD (unclear history, always a nonsmoker)
+- HTN (active)
+- AF on coumadin (active)
+- colon cancer [**2152**] (inactive)
+- dementia (AO x 1 at baseline)
+- history of TB, found to have 10mm PPD in [**2153**], had a negative
+CXR so treated in [**2153**] for 9 months for latent TB. CXR repeat in
+
+[**2156**] looked increased density at the bases
+- BPH (active)
+- GERD (active)
+
+Social History:
+lives at [**Hospital 100**] Rehab
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+On Admission:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: rales at bases b/l, no wheezes, good air entry
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+.
+On Discharge:
+T: 98.4, BP 126/76, HR 112, 96% on 2L nasal cannula
+General: AOx1, not in respiratory distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: good air movement, faint rales bibasilarly
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+Admission labs:
+===============
+[**2161-5-28**] 03:10PM BLOOD WBC-9.9 RBC-4.96 Hgb-12.7* Hct-39.2*
+MCV-79* MCH-25.6* MCHC-32.3 RDW-16.9* Plt Ct-426
+[**2161-5-28**] 03:10PM BLOOD Neuts-88.8* Lymphs-7.4* Monos-2.3 Eos-1.2
+Baso-0.2
+[**2161-5-28**] 03:10PM BLOOD Glucose-143* UreaN-17 Creat-1.1 Na-140
+K-4.2 Cl-107 HCO3-25 AnGap-12
+[**2161-5-28**] 03:10PM BLOOD cTropnT-<0.01
+[**2161-5-28**] 03:10PM BLOOD proBNP-679
+[**2161-5-28**] 03:10PM BLOOD Calcium-9.0 Phos-2.3* Mg-2.2
+[**2161-5-28**] 03:15PM BLOOD Glucose-135* Lactate-2.9* K-4.3
+.
+Discharge labs:
+===============
+[**2161-5-29**] 03:00AM BLOOD WBC-8.0 RBC-4.35* Hgb-10.7* Hct-34.0*
+MCV-78* MCH-24.7* MCHC-31.6 RDW-16.8* Plt Ct-347
+[**2161-5-29**] 03:00AM BLOOD PT-18.1* PTT-32.5 INR(PT)-1.6*
+[**2161-5-28**] 03:10PM BLOOD proBNP-679
+[**2161-5-28**] 03:10PM BLOOD cTropnT-<0.01
+[**2161-5-29**] 03:00AM BLOOD Albumin-3.0* Calcium-8.5 Phos-2.6* Mg-2.0
+[**2161-5-28**] 03:15PM BLOOD Glucose-135* Lactate-2.9* K-4.3
+[**2161-5-29**] 03:08AM BLOOD Lactate-2.1*
+[**2161-5-29**] 11:35AM BLOOD CK-MB-5 cTropnT-0.02*
+.
+Imaging:
+========
+Chest X-Ray:
+IMPRESSION:
+1. Bilateral pleural effusions and bibasilar opacities which may
+be due to
+infection and/or aspiration.
+.
+
+Brief Hospital Course:
+88 year-old Russian-speaking M with Dementia, suspected COPD,
+AFib on Coumadin, HTN who presented with hypoxia and tachypnea.
+.
+# Hypoxia/tachypnea: likely in setting of volume overload given
+worsening pulmonary edema and effusions on CXR though aspiration
+may also be a component. Precipitant for volume overload is not
+clear though includes accumulation of fluid over past few days,
+possibly tachycardia or hypertension causing flash pulmonary
+edema, or aspiration causing tachycardia and fluid retention. He
+was initially requiring 5L nasal cannula and was diuresed with
+IV lasix, improving to 2L and room air the following day. He is
+currently being treated with linezolid for HCAP from recent
+admission (last day of antibiotic on [**2161-6-3**]). Recent TTE showed
+normal systolic ejection fraction though likely has some
+diastolic dysfunction. Low suspicion for PE given improvement
+with diuresis and tachycardia likely in setting of hypoxemia.
+Patient does have chronic aspiration and speech/swallow
+recommended a diet of pureed solids and honey thickened liquids.
+Patient was discharged on lasix 20mg PO daily and should have
+his weights and electrolytes monitored frequently at rehab and
+lasix dose adjusted appropriately. Discharged on 2L nasal
+cannula for supplemental oxygen which can be weaned down as
+tolerated. Can continue on albuterol nebulizers as needed for
+dyspnea.
+.
+# Atrial fibrillation: patient is anticoagulated on coumadin and
+takes aspirin 325mg daily. INR on this admission was 1.6 and he
+was continued on coumadin 3mg daily. On this admission he was in
+sinus rhythm with first degree AV block with no a fib. He was
+slightly tachycardic as above, which is likely in the setting of
+hypoxemia. He should have his INR monitored frequently for a
+goal of [**2-5**].
+.
+# BPH/Urinary Obstruction: continued tamsulosin at home dose.
+.
+# Creatinine: elevated to 1.1 from baseline of 0.7.  Recently
+with [**Last Name (un) **] during last hospitalization. 1-1.[**5-3**] be new baseline.
+He is being discharged on lasix 20mg daily for diuresis and
+should have his Cr checked twice weekly in order to adjust lasix
+dose if it continues to rise. His diet is also being modified to
+honey thickened liquids which may decrease PO intake, so PO
+fluid intake should be encouraged.
+.
+# Suspected COPD: albuterol nebulizer as needed
+.
+
+Medications on Admission:
+1. aspirin 325 mg DAILY
+2. tamsulosin 0.4 mg PO HS
+3. senna 8.8 mg/5 mL [**Hospital1 **]
+4. docusate sodium 50 mg/5 mL PO BID
+5. acetaminophen 650 mg/20.3 mL PO Q6H prn pain
+6. albuterol sulfate nebulizer Inhalation Q4H prn
+7. linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 11 days: last day [**2161-6-3**].
+
+Discharge Medications:
+1. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime).
+2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain.
+5. linezolid 600 mg Tablet Sig: One (1) Tablet PO twice a day
+for 6 days: last day = [**2161-6-3**].
+6. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day: measure
+weights every other day and electrolyte panel twice weekly,
+adjust dosing as necessary.
+7. aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+8. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for SOB.
+9. zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed for insomnia.
+10. Coumadin 3 mg Tablet Sig: One (1) Tablet PO once a day:
+measure INR for goal [**2-5**] and

@@ -1,0 +1,203 @@
+Admission Date:  [**2151-3-6**]              Discharge Date:   [**2151-3-17**]
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Dicloxacillin
+
+Attending:[**First Name3 (LF) 1990**]
+Chief Complaint:
+Transfer from assited living with worsening SOB
+
+
+Major Surgical or Invasive Procedure:
+central line placement
+
+History of Present Illness:
+This is a  86 y/o F with h/o atrial fibrillation off warfarin,
+Diastolic CHF EF 70%, CAD, HTN, [**First Name3 (LF) **] sinus syndrom s/p PPm,
+severe AS who presents with about 1 day of SOB.
+.
+Patient reports that she felt more SOB about 1 day ago. Denied
+fevers, chills, chest pain. She reports being compliant with her
+medications. No weight changes
+.
+In the Ed, VS 102 T Rectally, HR 104, BP 119/68, RR 37 Sats 97%
+on NRB. chest x ray pulmonary edema. PRoBNP [**Numeric Identifier **]. She received
+125 Iv solumedrol, 40 lasix, cefepime, Levofloxacine. She was
+place CPAP initially tolerated it, then BP droped into the 60's
+SBP, dopamine was started  and a central line was placed.
+.
+ROS: Denied fever, chills, SOB, cough, chest pain, abdominal
+pain, blood in stools, weight gain or weight loss
+
+
+Past Medical History:
+- Atrial fibrillation: off coumadin secondary to epistaxis
+- [**Numeric Identifier **] sinus syndrome: temporary pacer placed during [**11-20**]
+admission, was to return for permanent [**Month/Year (2) 4448**] placement,
+which was again deferred during [**1-21**] admission secondary to
+medical illness
+- hx of VT with torsades morphology in [**3-22**], was on amiodarone,
+recently stopped for hypothyroidism
+- Aortic stenosis-> echo [**8-22**] showing peak gradient 76 mm Hg.
+- CAD s/p NSTEMI in [**1-21**] and [**2-19**] s/p ballooning of LAD
+- diasolic CHF (EF 70%)
+- HTN
+- Hyperlipidemia
+- Chronic venous stasis
+- Squamous cell carcinoma: right medial calf, s/p excision
+[**11-20**], positive margins on 1st and 2nd excision attempts, needs
+XRT to area 6 weeks after the wound heals.
+- UTI
+- rectal ulcers: possibly from constipation and straining
+- History of C diff colitis
+- Anemia: from blood loss after GI bleed
+- Urge incontinence
+- Depression
+- Colon adenoma in [**2141**]: last colonoscopy in [**2143**], no polyps
+- s/p hysterectomy
+- Hypothyroidism
+
+
+Social History:
+Currently living in Chestnut park [**Doctor Last Name **]. No tobacco  use.  no
+history of alcohol abuse. Her husband is deceased. She has a
+social worker [**Name (NI) **] [**Name (NI) 33578**] at [**Telephone/Fax (1) 101940**] who follows her
+closely.
+
+
+Family History:
+non contributory
+
+Physical Exam:
+Vitals: T: 96.6  P:95  R:25  BP: 131/66  SaO2: 95% NRB
+General:
+HEENT: NC/AT, PERRL, EOMI without nystagmus, no scleral icterus
+noted, MMM, no lesions noted in OP
+Neck: JVD 15
+Pulmonary: Lungs crackles bilaterally
+Cardiac: RRR, nl s1-s2. RUSB eyection murmur
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: 1+ edema. + R tibial ulcer.
+Neurologic: alert, oriented, x3, non focal.
+
+Pertinent Results:
+Admit Labs:
+-----------
+[**2151-3-6**] 03:10PM   WBC-6.1 RBC-4.10* HGB-12.6 HCT-38.7 MCV-94
+MCH-30.7 MCHC-32.6 RDW-15.2
+[**2151-3-6**] 03:10PM   NEUTS-78.7* LYMPHS-12.5* MONOS-8.0 EOS-0.6
+BASOS-0.3
+[**2151-3-6**] 03:10PM   GLUCOSE-145* UREA N-23* CREAT-1.2* SODIUM-136
+POTASSIUM-5.4* CHLORIDE-103 TOTAL CO2-22 ANION GAP-16
+[**2151-3-6**] 03:10PM   CK(CPK)-86
+[**2151-3-6**] 03:10PM   cTropnT-<0.01
+[**2151-3-6**] 03:30PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.013
+[**2151-3-6**] 03:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2151-3-6**] 09:22PM   TYPE-ART TEMP-37.0 RATES-/18 O2-100 O2
+FLOW-10 PO2-73* PCO2-40 PH-7.41 TOTAL CO2-26 BASE XS-0 AADO2-613
+REQ O2-98 INTUBATED-NOT INTUBA
+[**2151-3-6**] 11:18PM   TSH-4.5*
+[**2151-3-6**] 11:18PM   CK-MB-5 cTropnT-0.08*
+[**2151-3-6**] 11:18PM   CK(CPK)-62
+.
+Other Labs/Studies:
+-------------------
+
+[**2151-3-9**] 03:59AM BLOOD WBC-3.3* RBC-3.52* Hgb-11.2* Hct-33.7*
+MCV-96 MCH-31.9 MCHC-33.3 RDW-14.5 Plt Ct-105*
+[**2151-3-12**] 07:00AM BLOOD WBC-3.5* RBC-3.53* Hgb-11.2* Hct-33.2*
+MCV-94 MCH-31.7 MCHC-33.6 RDW-14.2 Plt Ct-110*
+[**2151-3-6**] 03:10PM BLOOD CK-MB-NotDone proBNP-[**Numeric Identifier **]*
+[**2151-3-11**] 08:00AM BLOOD T4-6.6 calcTBG-1.00 TUptake-1.00
+T4Index-6.6 Free T4-1.0
+[**2151-3-11**] 08:00AM BLOOD TSH-14*
+[**2151-3-7**] 5:59 am URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2151-3-8**]**
+
+   Legionella Urinary Antigen  (Final [**2151-3-8**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+
+[**2151-3-7**] 5:30 am Influenza A/B by DFA
+      Source: Nasopharyngeal aspirate.
+
+                            **FINAL REPORT [**2151-3-7**]**
+
+   DIRECT INFLUENZA A ANTIGEN TEST (Final [**2151-3-7**]):
+      Negative for Influenza A viral antigen.
+
+   DIRECT INFLUENZA B ANTIGEN TEST (Final [**2151-3-7**]):
+      POSITIVE FOR INFLUENZA B VIRAL ANTIGEN.
+.
+TTE ([**3-12**]):
+The left atrium is markedly dilated. There is moderate symmetric
+left ventricular hypertrophy. There is severe regional left
+ventricular systolic dysfunction with global hypokinesis,
+akinesis of the mid and distal anterior wall and apex. Tissue
+Doppler imaging suggests an increased left ventricular filling
+pressure (PCWP>18mmHg). Right ventricular chamber size is
+normal. with mild global free wall hypokinesis. The ascending
+aorta is moderately dilated. The aortic valve leaflets are
+severely thickened/deformed. Significant aortic stenosis is
+present (not quantified). No aortic regurgitation is seen. The
+mitral valve leaflets are moderately thickened. There is
+moderate thickening of the mitral valve chordae. Mild to
+moderate ([**12-16**]+) mitral regurgitation is seen. There is no
+pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2151-3-8**]
+.
+CHEST (PA & LAT)  [**2151-3-12**] 9:30 AM
+There has been marked improvement in pulmonary edema, still
+there is mild interstitial pulmonary edema. Left lower lobe
+retrocardiac atelectasis has decreased. There is a small left
+pleural effusion. There is no pneumothorax. Moderate
+cardiomegaly is stable as are enlarged central pulmonary
+arteries very suggestive of pulmonary hypertension. Left
+transvenous [**Month/Day/Year 4448**] leads terminate in standard position in
+the right atrium and right ventricle. There is also a small
+right pleural effusion, lesser in amount than in the left side.
+
+IMPRESSION: Improved pulmonary edema.
+.
+TTE ([**3-8**]):
+The left atrium is markedly dilated. The right atrium is
+markedly dilated. The estimated right atrial pressure is
+10-15mmHg. There is moderate symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. There
+is severe global left ventricular hypokinesis (LVEF = 20-25 %)
+(basal lateral wall has preserved systolic function). No masses
+or thrombi are seen in the left ventricle. Tissue Doppler
+imaging suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). There is no ventricular septal defect. with
+depressed free wall contractility. The ascending aorta is
+moderately dilated. The aortic valve leaflets are severely
+thickened/deformed. There is severe aortic valve stenosis (area
+<0.8cm2). Trace aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Moderate (2+) mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+The left ventricular inflow pattern suggests a restrictive
+filling abnormality, with elevated left atrial pressure. The
+tricuspid valve leaflets are mildly thickened. There is moderate
+to severe pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2150-8-28**],
+the LVEF is now severely depressed
+.
+BILAT LOWER EXT VEINS  [**2151-3-8**] 11:18 AM
+BILATERAL LOWER EXTREMITY ULTRASOUND: Grayscale and Doppler
+son[**Name (NI) 1417**] of bilateral common femoral, superficial femoral, and
+popliteal veins were performed which demonstrate normal
+compressibility, flow, and augmentation.
+
+IMPRESSION: No evidence of DVT.
+.
+US ABD LIMIT, SINGLE ORGAN PORT  [**2151-3-7**

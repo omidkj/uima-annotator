@@ -1,0 +1,194 @@
+Admission Date:  [**2168-1-12**]              Discharge Date:   [**2168-1-16**]
+
+Date of Birth:  [**2087-5-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 7539**]
+Chief Complaint:
+Shortness of breath
+CHF
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Patient is an 80 yo male with no known significant CAD but
+history of HTN, CKD, COPD, restrictive lung disease by PFTs,
+severe emphysema radiographically, hx of active TB (treated in
+[**2154**]), and diastolic dysfunction documented on previous
+echocardiogram who presents with 4 day history of increasing
+dyspnea on exertion, lower extremity edema, and PND. Patient was
+recently an inpatient at [**Hospital1 18**] for left iliac artery aneurysm
+coiling. This hospital course was complicated by respiratory
+arrest and hypotension of unclear etiology, although per [**Name (NI) **]
+thought to be likely secondary to hypercarbic resp failure
+(although no ABGs demonstrate this). In the setting of this
+event the patient developed a RBBB which resolved over a short
+interval. Cardiology was consulted with reported recs of ASA,
+statin, Beta blocker and heparin drip. Per the patient's report,
+after discharge from the hospital his respiratory symptoms were
+relatively improved from his baseline, although he had developed
+bilateral lower extremity edema which was new. This past friday,
+the patient was seen by a VNA nurse who heard crackles on lung
+exam and doubled his home lasix from 20mg PO qd to 40mg PO.
+Despite this intervention, the following day the patient
+developed symptoms of PND. Over the course of a few days the
+patient has been having worsening respiratory symptoms,
+ultimately necessitating a visit to the E.D. today. He denies
+any recent URI symptoms, chest pain, diaphoresis, N/V,
+increasing sputum production, or F/C. The patient reports he has
+been compliant with his medications and denies any significant
+change in his diet.
+.
+In the ED the patient was assessed and thought to be in
+decompensated CHF. The patient was given 80mg Lasix x1, 40mg x 1
+and nitro gtt for BP control. The patient was placed on BIPAP
+([**9-15**]), 50% Fi02. The patient diuresed 1800cc in 12 hours in the
+ED. The patient was temporarily weaned from BIPAP but had
+subsequent desat to low 80's, requiring replacement of mask. CCU
+transfer was requested by ED attending at this point.
+.
+Allergies: NKDA
+
+Past Medical History:
+- S/p Coil embolization of 2 outflow vessels from left internal
+iliac artery aneurysm + Endovascular repair of left hypogastric
+artery aneurysm with coverage stent graft. Hospital course
+complicated by respiratory arrest. ([**2167-12-27**])
+- COPD(Emphysema)/Interstitial Lung Disease, on home O2 ([**1-15**]
+liter/min)
+- CAP in [**2160**], [**2165**]
+- Hypertension
+- TB in [**2154**], treated for active DZ
+- thrombocytopenia
+- BPH
+- CKD, Baseline Cr (1.4-2.4)
+
+Social History:
+Patient previously was employed as a taxi cab driver and
+additionally worked on the rairoad, reportedly in a grain
+elevator. The patient with 50 pack-year history of tobacco, but
+quit 40 years prior. The patient denies any significant ETOH or
+illicit drug use
+
+Family History:
+Patient's daughter with DM, denies history of CAD, cardiac
+problems
+
+Physical Exam:
+Physical Exam:
+Vitals: BP: 123/82  HR: 72  RR: 12  O2 99% on BIPAP
+.
+Gen: Patient is sitting at 30 degrees with BIPAP mask in place,
+appears to be in mild respiratory ditress, no accessory muscle
+use.
+HEENT: NCAT, EOMI. BIPAP mask in place
+Neck: JVD difficult to assess [**1-14**] mask, JVP appears 7-8cm
+Chest: Anterior: Relatively CTA. Post: crackles bilaterally to
+mid lung fields, R > L
+Cor: RRR, no M/R/G
+Abd: Soft, NT, ND
+Ext: No cyanosis. + Mild clubbing. 3+ pedal edema
+Pulses: 2+ DP, 2+ femoral, 1+ PT bilaterally
+
+Pertinent Results:
+Admission Labs:
+.
+[**2168-1-12**] 12:00PM   PT-13.2* PTT-25.1 INR(PT)-1.2*
+[**2168-1-12**] 12:00PM   PLT COUNT-201
+[**2168-1-12**] 12:00PM   HYPOCHROM-1+ ANISOCYT-1+ MACROCYT-2+
+[**2168-1-12**] 12:00PM   NEUTS-62.6 LYMPHS-25.0 MONOS-8.0 EOS-2.7
+BASOS-1.7
+[**2168-1-12**] 12:00PM   WBC-4.3 RBC-3.62* HGB-11.5* HCT-34.9*# MCV-97
+MCH-31.8 MCHC-33.0 RDW-16.6*
+[**2168-1-12**] 12:00PM   CK-MB-NotDone cTropnT-0.02* proBNP-[**Numeric Identifier 7540**]*
+[**2168-1-12**] 12:00PM   CK(CPK)-74
+[**2168-1-12**] 12:00PM   GLUCOSE-89 UREA N-14 CREAT-1.4* SODIUM-141
+POTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-28 ANION GAP-14
+[**2168-1-12**] 06:30PM   CK-MB-NotDone cTropnT-<0.01
+[**2168-1-12**] 06:30PM   CK(CPK)-63
+[**2168-1-12**] 07:43PM   O2 SAT-85
+[**2168-1-12**] 07:43PM   TYPE-ART PO2-51* PCO2-45 PH-7.45 TOTAL
+CO2-32* BASE XS-6 INTUBATED-NOT INTUBA
+[**2168-1-12**] 07:43PM   CALCIUM-8.2* PHOSPHATE-3.6
+[**2168-1-12**] 07:43PM   GLUCOSE-98 UREA N-14 CREAT-1.5* SODIUM-139
+POTASSIUM-4.5 CHLORIDE-102 TOTAL CO2-30 ANION GAP-12
+Additional Labs/Studies:
+BNP: 10,207 ([**2168-1-12**])
+Troponon: .02 -> .01 -> .02
+ABG:
+7.45/45/51/32/ O2 Sat 85%
+Cr: 1.4 ([**2168-1-12**]) -> 1.8 ([**2168-1-16**]) ; baseline 1.4 - 2.0
+HgA1C: 5.9%
+Lipid Panel (1-31-0): TC-136   Tri-67  HDL-42  LDL-81
+.
+ECG: Rate 65, NSR, Nml Axis. Normal intervals. TWI V1 + III
+.
+[**2168-1-12**]: Portable Chest: Advanced CHF with pulmonary edema
+pattern. These findings existed already on the previous
+examinations, [**12-18**] and [**2167-12-15**].
+.
+[**2168-1-13**]: Echocardiogram:
+1.The left atrium is mildly dilated.
+2.There is mild symmetric left ventricular hypertrophy. There is
+mild
+(non-obstructive) focal hypertrophy of the basal septum. The
+left ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). Left ventricular
+dysnchrony is present.
+3.Right ventricular chamber size is normal. Right ventricular
+systolic
+function is normal.
+4.The ascending aorta is mildly dilated. The descending thoracic
+aorta is
+mildly dilated.
+5. The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion. Mild (1+) aortic regurgitation is seen.
+
+6.The mitral valve leaflets are structurally normal. No mitral
+regurgitation is seen.
+7.The estimated pulmonary artery systolic pressure is normal.
+8.The main pulmonary artery is dilated.
+9.There is a trivial/physiologic pericardial effusion.
+.
+[**2168-1-14**]: Portable Chest - Chest CT and radiographs in [**Month (only) **]
+[**2166**] showed severe emphysema, and probable mild interstitial
+lung disease with surprisingly low lung volumes. Interstitial
+abnormality was more pronounced on [**12-18**] and had progressed
+by [**1-12**], may indicate pulmonary edema or progression of
+interstitial lung disease.  Slight improvement since [**1-12**] suggests at least a component of pulmonary edema.  Heart is
+normal size.  No appreciable pleural effusion.
+Discharge Labs:
+.
+[**2168-1-16**] 05:20AM BLOOD WBC-4.2 RBC-3.32* Hgb-9.9* Hct-30.7*
+MCV-93 MCH-29.9 MCHC-32.3 RDW-15.9* Plt Ct-199
+[**2168-1-16**] 05:20AM BLOOD Glucose-90 UreaN-21* Creat-1.8* Na-141
+K-3.7 Cl-98 HCO3-35* AnGap-12
+[**2168-1-16**] 05:20AM BLOOD Calcium-8.5 Phos-3.6 Mg-1.7
+
+Brief Hospital Course:
+Patient is an 80 year old male with PMHx significant for HTN,
+CKD, COPD, interstitial lung disease, TB infection s/p
+treatment, and diastolic dysfunction who presents to ED with 3
+to 4 days of worsening respiratory symptoms and CHF
+exacerbation.
+.
+Cardiology
+#. PUMP: The patient presented to the ED with evidence of
+decompensated CHF given pulmonary exam with crackles and
+significant peripheral edema. However, the patient additionally
+has a history of significant pulmonary disease including severe
+emphysema as well as interstitial restrictive disease, making
+the patient's hypoxia and respiratory symptoms likely
+multifactorial. The patient had a prior echo in [**2167-10-13**]
+which demonstrated preserved systolic function, EF > 55%, but
+evidence of impaired ventricular relaxation. There was no clear
+precipitant for the patient's decompensation on admission,
+although he has had prior admissions for uncontrolled
+hypertension. He ruled out for an acute ischemic event x 3 and
+denied any medical non-compliance or change in his diet. On
+admission he was placed on a nitro

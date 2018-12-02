@@ -1,0 +1,236 @@
+Admission Date:  [**2137-6-8**]              Discharge Date:   [**2137-6-18**]
+
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 5810**]
+Chief Complaint:
+Right hip pain s/p fall
+
+Major Surgical or Invasive Procedure:
+Nasogastric tube insertion
+
+History of Present Illness:
+Ms. [**Known lastname 69629**] is an 89 year-old woman with a past history of total
+hip replacement, osteoporosis, hypothyroidism and Zencker's
+diverticulum that initially presented to the ED after a fall in
+the grocery store on [**6-7**]. In the ED she denied loss of
+consciousness, head strike and other neurological deficits
+(headache, seizures). She complained of headache and R hip pain.
+Exam showed normal VS, limited ROM R hip, multiple ecchymoses
+and chipped teeth. Negative head CT. Initial x-rays of R hip and
+knee showed no evidence of fracture. Urinalysis was positive for
+white cells; given 1 dose of ciprofloxacin. She was admitted to
+medicine for workup of mechanical fall vs. possible syncope.
+
+Past Medical History:
+1. GERD
+2. Hypothyroidism
+3. [**Doctor Last Name 933**] disease
+4. Incontinence
+5. Osteoporosis
+6. Spinal stenosis
+7. Carpal tunnel syndrome
+8. R hip replacement
+9. Previous episodes of small bowel obstruction
+10. Zencker's diverticulum
+
+Social History:
+Lives alone, retired; used to work in medical records department
+at [**Hospital1 18**].
+Denies ETOH, Tobacco, or recreational drug use.
+She walks with a cane at baseline and lives at home and is
+fairly independent.
+
+
+Family History:
+Son is handicapped and lives in a group home. No known family
+history of heart disease or malignancy.
+
+Physical Exam:
+Admission Exam:
+Vitals: T=96.7, BP=136/66, HR=80, RR=21, O2sat=93% on nasal CPAP
+General: Alert, oriented, no acute distress on nasal CPAP. The
+patient had several bruises on her face (over right eye and
+right side of chin) and damaged teeth (post-fall) on the left
+side.
+HEENT: Sclera anicteric, dry mucous membranes, oropharynx clear
+
+Neck: supple, JVP not elevated, no LAD
+Lungs: Bibasilar crackles posteriorly R>L, with no wheezes,
+rales, ronchi. No use of accessory muscles.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops. Capillary refill was normal.
+Abdomen: Distended, soft, non-tender with little to no bowel
+sounds present, no rebound tenderness or guarding, no
+organomegaly
+GU: Foley's catheter not inserted
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+.
+ICU-->Floor Transfer Exam:
+Vitals: T 97.2, BP 102/47, HR 73, RR 15, O2sat=96%/4L x nasal
+cannula
+General: Alert, oriented, no acute distress. ecchymoses over
+right eye and chin, chipped teeth. NGT in place.
+HEENT: Sclera anicteric, dry mucous membranes, oropharynx clear.
+
+Neck: supple, JVP not elevated, no LAD
+Lungs: Bibasilar crackles posteriorly R>L and bronchial breath
+sounds heard mostly in the posterior left lower lung. No
+wheezes, rales, ronchi. No use of accessory muscles.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops. Capillary refill was normal.
+Abdomen: Distended (decreased from admission), soft, non-tender
+with some bowel sounds present, no rebound tenderness or
+guarding, no organomegaly
+GU: Foley catheter inserted
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2137-6-14**] 05:10    7.6 4.06* 12.9 37.7 93 31.7 34.1 12.6 185
+[**2137-6-13**] 04:19    8.2 3.95* 12.8 36.3 92 32.3* 35.2* 12.9 216
+[**2137-6-12**] 04:55    10.7 4.80 15.4 44.0 92 32.0 34.9 12.8 253
+[**2137-6-11**] 05:45    8.0 4.55 14.4 41.2 91 31.7 35.1* 12.9 239
+[**2137-6-9**] 06:30    6.3 4.32 13.9 39.3 91 32.3* 35.5* 12.8 189
+[**2137-6-7**] 23:50    9.6 4.94 15.4 44.51 90 31.2 34.6 13.5 228
+DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+[**2137-6-7**] 23:50    77.4*   17.2* 3.7 1.0 0.6
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2137-6-14**] 05:10        185
+[**2137-6-13**] 04:19        216
+[**2137-6-12**] 13:00      52.3*
+heparin dose: 650
+[**2137-6-12**] 04:55        253
+[**2137-6-12**] 04:55    13.0 23.7   1.1
+[**2137-6-11**] 05:45        239
+[**2137-6-9**] 06:30        189
+[**2137-6-7**] 23:50        228
+  LAB USE ONLY
+[**2137-6-14**] 05:10
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2137-6-15**] 07:05    120*1 9 0.4 137 3.6 103 23 15
+[**2137-6-14**] 05:10    981 12 0.5 138 3.6 103 29 10
+[**2137-6-13**] 04:19    113*1 31* 0.7 136 4.2 104 28 8
+[**2137-6-12**] 04:55    166*1 35* 0.8 137 4.5 100 26 16
+[**2137-6-11**] 05:45    158*1 21* 0.7 139 4.0 99 29 15
+[**2137-6-9**] 06:30    101*1 20 0.8 139 4.2 105 28 10
+[**2137-6-8**] 01:10    114*1 18 0.7 139 3.4 103 29 10
+
+IF FASTING, 70-100 NORMAL, >125 PROVISIONAL DIABETES
+
+  ESTIMATED GFR (MDRD CALCULATION) estGFR
+[**2137-6-15**] 07:05    Using this1
+Using this patient's age, gender, and serum creatinine value of
+0.4,
+Estimated GFR = >75 if non African-American (mL/min/1.73 m2)
+Estimated GFR = >75 if African-American (mL/min/1.73 m2)
+For comparison, mean GFR for age group 70+ is 75 (mL/min/1.73
+m2)
+GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure
+
+  ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+[**2137-6-13**] 04:19    14 15   20*1 35   0.5
+[**2137-6-12**] 07:29    16 17   361 47   0.7
+[**2137-6-11**] 18:13          421
+[**2137-6-11**] 05:45    14 16   561 47   0.4
+
+NEW REFERENCE INTERVAL AS OF [**2135-11-28**];UPPER LIMIT (97.5TH %ILE)
+VARIES WITH ANCESTRY AND GENDER (MALE/FEMALE);WHITES 322/201
+BLACKS 801/414 ASIANS 641/313
+
+  OTHER ENZYMES & BILIRUBINS Lipase
+[**2137-6-12**] 07:29    19
+[**2137-6-11**] 05:45    20
+  CPK ISOENZYMES CK-MB cTropnT
+[**2137-6-13**] 04:19    2 <0.011
+[**2137-6-12**] 07:29    3 <0.011
+[**2137-6-11**] 18:13    3 <0.011
+[**2137-6-11**] 05:45    3 <0.011
+
+<0.01
+CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI
+
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+
+[**2137-6-15**] 07:05            1.7* 2.1
+  LAB USE ONLY LtGrnHD GreenHd HoldBLu
+[**2137-6-7**] 23:50        HOLD1
+[**2137-6-7**] 23:50    HOLD
+[**2137-6-7**] 23:50      HOLD2
+HOLD
+DISCARD GREATER THAN 24 HRS OLD
+HOLD
+DISCARD GREATER THAN 4 HOURS OLD
+
+Blood Gas
+BLOOD GASES Type Temp Rates Tidal V PEEP FiO2 O2 Flow pO2 pCO2
+pH calTCO2 Base XS Intubat
+[**2137-6-12**] 06:43    ART             65* 42 7.43 29 2 NOT INTUBA1
+
+NOT INTUBATE
+
+  WHOLE BLOOD, MISCELLANEOUS CHEMISTRY Lactate
+[**2137-6-13**] 11:35    1.1
+.
+Micro
+- URINE CULTURE (Final [**2137-6-10**]): MIXED BACTERIAL FLORA ( >= 3
+COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL
+CONTAMINATION.
+.
+Imaging:
+[**6-7**] - CT Head: IMPRESSION:
+1. No acute intracranial traumatic injury. No acute intracranial
+hemorrhage.
+2. Minimal fluid in the right mastoid air cells.
+.
+[**6-7**] - Knee/Hip X-ray: IMPRESSION:
+1. Status post total hip arthroplasty, without periprosthetic
+fracture or
+other evidence of traumatic sequelae.
+2. Degenerative changes at the lumbosacral junction and right
+knee
+.
+[**6-10**] - CT Pelvis:IMPRESSION:
+1. Nondisplaced periprosthetic fracture of the right femur
+extending from the
+intertrochanteric to the subtrochanteric region.
+2. Right trochanteric bursitis.
+.
+[**6-11**] - Abdomen X-ray:IMPRESSION:
+1. No evidence of free air.
+2. Small and large bowel dilation which could be consistent with
+obstruction
+or ileus.
+.
+[**6-12**] - CT Chest:IMPRESSION:
+1. No CT evidence of simple pulmonary embolism
+2. Collapsed bilateral lower lobes with dilated bronchi having
+irregular walls - suggestive of bronchiectasis with chronicity
+3. Zenker's diverticulum
+4. Diffuse wall thickening of the cervical and mid thoracic
+esophagus
+5. Grossly distended and fluid filled stomach
+.
+[**6-12**] - Chest X-ray:IMPRESSION:
+- Severe bibasilar atelectasis and low lung volumes persist.
+There is no
+pneumoperitoneum. The degree of gastric distension cannot be
+assessed. The
+large Zenker's diverticulum shown on the chest CTA is not
+evident on
+conventional radiographs. No pneumothorax.
+.
+[**6-12**]
+IMPRESSION:
+1. Interval worsening of bibasilar atelectasis.
+2. No evidence of acute cardiac decompensation.
+3. Severely distended stomac

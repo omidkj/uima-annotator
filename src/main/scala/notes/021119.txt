@@ -1,0 +1,171 @@
+Admission Date:  [**2111-8-4**]              Discharge Date:   [**2111-8-5**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+worsening cough, sob x1 day
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+This is a 84 year-old female with a PMHx history of moderate
+COPD, CAD, cardiomyopathy, atrial fibrillation, who presents
+with worsening cough and shortness of breath x1 day. Patient
+denies subjective fevers at home. Denies any chest pain, denies
+pleuritic chest pain. Denies abdominal pain. Denies any dysuria.
+Of note, patient recently released from [**Hospital 100**] Rehab. Prior to
+[**Hospital 100**] rehab patient was previously at [**Hospital3 **] treated with
+RLL pneumonia with vancomycin and levoquin in the setting of
+MRSA in the sputum.
+.
+In the ED, with concern for pneumonia patient given ceftriaxone
+1 gram IV, Vanco 1 g IV q12, azithromycin 500 mg PO IV, 10 mg
+decadron IV x1. Patient was noted to be febrile to 102,
+tachycardic to 122 with BP of 92/54 O2 sats 87% on 2L.
+.
+ROS: The patient denies any fevers, chills, weight change,
+nausea, vomiting, abdominal pain, diarrhea, constipation,
+melena, hematochezia, chest pain, shortness of breath,
+orthopnea, PND, lower extremity oedema, cough, urinary
+frequency, urgency, dysuria, lightheadedness, gait unsteadiness,
+focal weakness, vision changes, headache, rash or skin changes.
+
+
+
+Past Medical History:
+1. Emphysema previously followed by Dr. [**First Name (STitle) 9464**] at [**Hospital1 3372**], now seen by Dr. [**Last Name (STitle) 575**]
+2. Coronary artery disease status post MI [**22**] years ago. EF
+30-35%
+3. History of polio.
+4. History of falls.
+5. Hyperlipidemia.
+6. Osteoporosis.
+7. Ischemic cardiomyopathy (EF 40% in [**3-10**])
+
+Social History:
+The patient does not smoke now, but smoked significantly quit 20
+years ago.  Today she said she smoked 3 pks/day for 20+ years.
+Denies etoh or illicits. Lives in [**Location **], originally from
+South [**Country 480**].
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vitals: T: 97.9 BP: 100/56 HR: 94 RR: 24 O2Sat: 97% on 2L
+GEN: elderly female, tachypeic, mild and appropriate distress,
+coughing louding
+HEENT: EOMI, sclera anicteric, no epistaxis or rhinorrhea, MMM,
+OP Clear
+NECK: no cervical lymphadenopathy appreciated
+COR: RRR, no M/G/R, normal S1 S2, radial pulses +2, cardiac exam
+limited secondary to loud lung sounds
+PULM: diffusely rhonchi bilaterally, anterior auscultation only,
+greater on left on the right
+ABD: Soft, NT, ND, +BS, no HSM, no masses
+EXT: No C/C/E, no palpable cords
+NEURO: alert, oriented to person, place, and time. CN II ?????? XII
+grossly intact. Moves all 4 extremities.
+SKIN: No jaundice, cyanosis, or gross dermatitis. scatterred
+ecchymoses.
+
+
+Pertinent Results:
+[**2111-8-4**] 03:10PM BLOOD WBC-33.4*# RBC-3.82* Hgb-11.5* Hct-34.3*
+MCV-90 MCH-30.1 MCHC-33.4 RDW-14.2 Plt Ct-415#
+[**2111-8-4**] 03:10PM BLOOD Neuts-95.4* Bands-0 Lymphs-1.9* Monos-2.6
+Eos-0.1 Baso-0.1
+[**2111-8-4**] 03:10PM BLOOD Plt Smr-VERY LOW Plt Ct-415#
+[**2111-8-4**] 03:10PM BLOOD Glucose-151* UreaN-20 Creat-0.6 Na-133
+K-5.4* Cl-97 HCO3-27 AnGap-14
+[**2111-8-4**] 03:10PM BLOOD CK(CPK)-72
+[**2111-8-4**] 03:45PM BLOOD Type-ART pO2-59* pCO2-35 pH-7.51*
+calTCO2-29 Base XS-4 Comment-O2 DELIVER
+[**2111-8-4**] 03:59PM BLOOD Lactate-2.0
+[**2111-8-4**] 10:08PM BLOOD Lactate-1.0
+[**2111-8-4**] 10:08PM BLOOD freeCa-1.12
+
+chest x-ray - Left lower lobe collapse with small left shift of
+the mediastinum. Increased opacity at left upper lung likely
+reflects consolidation due to infectious etiology. There may
+also be a left pleural effusion. A left-sided [**Location (un) 21851**]
+resulting in collapse and post-obstructive consolidation cannot
+be ruled out. Right lung well aerated.
+
+
+Brief Hospital Course:
+84 year-old female with a history of moderate COPD, atrial
+fibrillation, CAD who presents with fever, leukocytosis, and
+chest x-ray consistent with new LUL consolidation consistent
+with healthcare associated pneumonia.
+.
+# Pneumonia Patient presented with fever, worsening cough,
+hypotension, decreasing oxygen saturating likely with SIRS
+symptoms with evidence of new infiltrate on chest x-ray
+concerning for healthcare associated pneumonia with a previous
+history of MRSA in the sputum.  Confirmed code status with
+patient on admission to be DNR/DNI. Patient was very clear on
+her goals of care. Patient had previously seen Dr. [**First Name4 (NamePattern1) 8513**] [**Last Name (NamePattern1) **] in
+pulmonary clinic and code status was confirmed at that time as
+well. Patient did not want central lines placed or any invasive
+procedures done. Placed patient on nasal cannula with escalating
+O2 doses, and then eventually CPAP and started broad spectrum
+antibiotics with Levoquin 750 mg PO q 24, Vancomycin 1 g q 12
+hrs, Ceftriaxone 1 g q24 hours to cover for possible MRSA
+previously seen in sputum, also for strep pneumo and good gram
+negative coverage. Urine legionella was sent and was pending at
+the time.  Patient had a small troponin of 0.23 with flat CKs
+and CK-MBs with some New T wave inversion in the lateral leads
+likely secondary to demand ischemia in the setting of
+significant ischemic cardiomyopathy and in the setting of
+respiratory compromise.  Patient was chest pain free. Patient
+became apneic and desaturated first to the 80s, and then became
+bradycardic very quickly - likely thought to be due to acute
+mucus plugging. Patient did not respond to CPAP and expired very
+quickly. The family was called immediately on patient's initial
+decompensation, however patient expired quickly afterwards, so
+family was not at the bedside.
+
+
+
+
+Medications on Admission:
+Flovent 220 mcg 2 puffs [**Hospital1 **]
+Acapella device
+mucormyst q 6 hrs INH
+coumadin 10 mg PO daily
+albuterol nebs q 6
+digoxin 125 mcg daily
+citalopram 20 mg po daily
+lisinopril 10 mg daily
+omeprazole 40 mg po bid
+simvastatin 20 mg daily
+
+
+Discharge Medications:
+NA
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+pneumonia, lung collapse
+
+Discharge Condition:
+death
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+
+Completed by:[**2111-8-13**]

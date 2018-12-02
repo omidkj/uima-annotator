@@ -1,0 +1,178 @@
+Admission Date:  [**2172-4-12**]              Discharge Date:   [**2172-4-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5644**]
+Chief Complaint:
+sepsis
+
+Major Surgical or Invasive Procedure:
+Central line placement
+ERCP
+
+History of Present Illness:
+89yo F with COPD/emphysema, chronic back pain who presented with
+sepsis. Patient's daughter called EMS on the day of admission
+after she found her mother by the bed with mental status
+changes. Upon EMS arrival, she was tachypneaic to 40,
+tachycardic to 170s , disoriented, and hypertensive to 200s.  In
+EW, code sepsis called, RIJ placed. She was given
+levo/flagyl(for fever and luekocytosis). Her intial vitals were
+T103, P133 BP176/50 RR23. Her initial lactate was 6.5 which
+decreased to 1.6 with hydration.
+
+
+Past Medical History:
+emphysema/COPD
+Hypertension
+hyperlipidemia
+Chronic low back pain
+osteoarthritis
+cholecystectomy [**96**] years ago
+s/p TAH
+
+
+Social History:
+Widowed with one daughter.
+Denied [**Name2 (NI) **]
+Denied alcohol use
+
+Family History:
+NC
+
+Physical Exam:
+VS: T 103, 154/65 111, 22, 100% RA
+Gen: frail
+HEENT: EOMI, PERRL, poor dentition
+Neck: s/p IJ placement
+Chest: dimished effort, rhonchorous
+CV: hyperdynamic PMI, distant S1 s2, no mrg
+Abd: obese tender diffusey, no rebound
+Ext: no edema
+Neuro: oriented to person and place
+
+Pertinent Results:
+Admission labs significant for WBC of 18, AST 58, ALT 46 AP 118,
+lactate 6.8.
+
+CT abdomen: CBD dilitation
+
+ERCP: difficult cannulation prequiring precut sphincterotomy for
+CBD acces. Biliary dilation with distal CBD stricture suggestive
+of neoplasm. Cytology obtained.
+
+EKG: on third day of admission showed lateral EKG changes and
+cardiac enzymes revealed NSTEMI. Troponin I peaked at 0.37. At
+the time of discharge had returned to baseline.
+
+CTA abdomen: no mass in the pancreas, but pt does have L kidney
+mass and L renal vein thrombus
+
+Brief Hospital Course:
+89yo F with COPD/emphysema, chronic back pain who presented s/p
+fall with altered mental status found to have cholangitis and
+NSTEMI.  While hospitalized CTA of abdomen revealed L kidney
+mass suspicious for renal cancer.
+#ID: Cholangitis: patient underwent ERCP and sphincterotomy and
+stent placement in CBD. She will complete a 21 day course of
+antibiotics. At the time of discharge she has 10 additional days
+of antibiotics (levofloxacin and flagyl) left.
+#Renal mass: CT scan to evaluate possible pancreatic mass found
+on ERCP found that pt did not have pancreatic mass, but was
+found to have L renal mass and renal vein thrombus.  Pt was
+started on low dose coumadin.  She should have her INR checked
+on [**4-26**] with results faxed to her primary care physcian.
+She has an appointment for an MRI of the kidneys [**5-6**] at
+[**Hospital3 **].  She was evaluated by urology and will be seen by
+them in followup.  The implications of this mass was discussed
+with the patient and her daughter.
+#CAD: NSTEMI: Pt ruled in for MI, enzyme peak at 0.37, EKG
+diffuse lateral ST depression, cardiac enzymes have trended down
+to baseline.  Pt was started on aspirin and had 48 hours of
+heparin.  Echocardiogram showed EF 60%, mild-mod TR, mod PA HTN.
+Pt will need outpatient p-MIBI for risk stratification,
+especially if she decides to pursue treatment of renal mass.
+#COPD/emphysema: Pt received stress dose steroids while in the
+ICU, she was then tapered down to home dose of prednisone and
+remains on her regular inhalers.
+#HTN-
+- Continue metoprolol and captopril
+#chronic low back pain
+- tylenol, morphine prn with aggressive bowel regimen
+
+
+Medications on Admission:
+Dolansetron
+Tylenol
+Albuterol
+Prednisone
+Atrovent
+
+Discharge Medications:
+1. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+2. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+5. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day) as needed.
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+8. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+9. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+10. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Captopril 25 mg Tablet Sig: Two (2) Tablet PO TID (3 times a
+day).
+12. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+13. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 10 days.
+14. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 10 days.
+15. Warfarin Sodium 2 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+16. Citalopram Hydrobromide 20 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) **] - [**Location (un) 620**]
+
+Discharge Diagnosis:
+Cholangitis
+NSTEMI
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Return to the emergency room or call your primary care physician
+if you have fevers, abdominal pain, chest pain, or shortness of
+breath or any other symptom that bothers you.
+
+Followup Instructions:
+Please call your primary care physician [**Last Name (NamePattern4) **] [**Telephone/Fax (1) 17753**] to make
+an appointment within the next 2 weeks.
+
+Please return to the [**Hospital Ward Name 23**] building Wednesday [**5-6**] at
+1:45p [**Location (un) **]. Please do not eat or drink anything 4 hours
+before the MRI.
+
+
+

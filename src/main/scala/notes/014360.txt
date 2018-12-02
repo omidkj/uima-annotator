@@ -1,0 +1,241 @@
+Admission Date:  [**2127-12-1**]              Discharge Date:   [**2127-12-9**]
+
+Date of Birth:  [**2048-7-22**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+Chest pain.
+
+Major Surgical or Invasive Procedure:
+s/p redo CABGx3(SVG->OM, Ramus, and PDA) [**2127-12-4**]
+
+
+History of Present Illness:
+This 79 year old white male has a long history of CAD and has
+had exertional chest pain.  He underwent cardiac catheterization
+on [**2127-12-1**] which revealed a LVEF of 40%, 1+MR, and occlusions of
+his RCA, diag, and OM grafts.  He is now admitted for elective
+redo CABG.
+
+Past Medical History:
+CAD
+ '[**15**] CABG (LIMA-LAD, SVG-Diag, SCG-OM, SVG-RCA)
+ '[**07**],'[**14**] PCI-RCA
+HTN
+hyperlipidemia
+type 2 DM
+obesity
+Gout
+L2 steroid injection
+
+Social History:
+Married, lives with wife in [**Name (NI) 19707**].  Worked as executive, then
+for 10 years as a pet groomer.  No smoking, no EtOH/IVDU.
+
+
+Family History:
+Maternal Uncle died at 46 of MI. Paternal Uncle diet at 64 of
+MI.  Mother died at 76 of MI.  3 brothers with diabetes,
+youngest died of MI at age 65.
+
+Physical Exam:
+Pulse:72      Resp:16       O2 sat:98%
+B/P  Right:126/63    Left:1330/70
+Height:5'8"     Weight:190lbs
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Sternotomy incson Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x] LLE incison - vein harvest site for previous CABG
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: +2   Left: +2
+DP           Right: +1   Left: +1
+PT           [**Name (NI) 167**]: +1   Left: +1
+Radial       Right: +2   Left: +2
+
+Carotid Bruit        Right:  0  Left: 0
+
+
+Pertinent Results:
+[**2127-12-8**] 12:19AM BLOOD WBC-7.9 RBC-2.78* Hgb-9.0* Hct-25.4*
+MCV-92 MCH-32.3* MCHC-35.3* RDW-15.3 Plt Ct-152
+[**2127-12-4**] 03:07PM BLOOD PT-14.1* PTT-39.2* INR(PT)-1.2*
+[**2127-12-8**] 12:19AM BLOOD Glucose-131* UreaN-17 Creat-0.8 Na-135
+K-3.7 Cl-98 HCO3-30 AnGap-11
+[**Known lastname **],[**Known firstname 275**] [**Medical Record Number 40005**] M  79  [**2048-7-22**]
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2127-12-7**] 3:25
+PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] CSURG CSRU [**2127-12-7**] 3:25 PM
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 40006**]
+Reason: eval for ptx
+[**Hospital 93**] MEDICAL CONDITION:
+   79 year old man s/p CT pull
+REASON FOR THIS EXAMINATION:
+   eval for ptx
+
+
+Final Report
+CHEST X-RAY
+
+HISTORY: Evaluate for pneumothorax after chest tube removal.
+
+One portable AP view. Comparison with the previous study done
+[**2127-12-6**]. Lung
+volumes are low. There is streaky density at the lung bases
+consistent with
+subsegmental atelectasis as before. A small right effusion
+persists. No
+pneumothorax is identified. The patient is status post median
+sternotomy and
+mediastinal structures are unchanged. A right internal jugular
+sheath remains
+in place. There is no significant change.
+
+IMPRESSION:
+No significant change.
+
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4392**]
+Approved: MON [**2127-12-8**] 7:43 AM
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 275**]       [**Hospital1 18**] [**Numeric Identifier 40007**] (Complete)
+Done [**2127-12-4**] at 12:22:40 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+[**Street Address(2) 15115**]
+[**Location (un) 15116**], [**Numeric Identifier 15117**]  Status: Inpatient DOB: [**2048-7-22**]
+Age (years): 79 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Re-do CABG
+ICD-9 Codes: 786.05, 786.51, 424.1, 424.0
+Test Information
+Date/Time: [**2127-12-4**] at 12:22    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW1-: Machine: aw5
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  45% to 50%  >= 55%
+Aorta - Ascending:  *3.9 cm  <= 3.4 cm
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum.
+
+LEFT VENTRICLE: Mildly depressed LVEF.
+
+RIGHT VENTRICLE: Mild global RV free wall hypokinesis.
+
+AORTA: Mildly dilated ascending aorta. Complex (>4mm) atheroma
+in the descending thoracic aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Trace
+AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+(2+) MR.
+
+TRICUSPID VALVE: Moderate [2+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications.
+Conclusions
+Pre-CPB:
+No spontaneous echo contrast is seen in the left atrial
+appendage.
+Overall left ventricular systolic function is mildly depressed
+(LVEF= 45 - 50 %), with mild global free wall hypokinesis.
+The ascending aorta is mildly dilated. There are complex (>4mm)
+atheroma in the descending thoracic aorta. The aortic valve
+leaflets are mildly thickened. Trace aortic regurgitation is
+seen.
+The mitral valve leaflets are mildly thickened. Moderate (2+)
+mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen.
+There is no pericardial effusion.
+
+Post-CPB:
+The patient is AV-Paced, on NTG.
+Good biventricular systolic fxn. !+ TR, 1+ MR. [**First Name (Titles) **] [**Last Name (Titles) **]. Aorta
+intact.
+Other parameters as pre-bypass.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2127-12-5**] 09:57
+
+
+
+
+
+Brief Hospital Course:
+The patient was admitted on [**2127-12-1**] and underwent cardiac
+catheterization.  He also had vein mapping and on [**2127-12-4**] he had
+a redo CABGx3(SVG->OM, Ramus, an PDA).  The cross clamp time was
+102 mins. and total bypass time was 176 mins.  He tolerated the
+procedure well and was transferred to the CVICU in stable
+condition.  He was extubated on his operative night and required
+aggressive respiratory therapy post operatively.  He was
+diuresed and was transferred to the floor on POD#4.  His chest
+tubes were discontinued on POD#2 and his epicardial pacing wires
+were discontinued on POD#3.  He was transferred to rehab in
+stable condition on POD#5 by Dr. [**Last Name (STitle) **].  All
+post-operative appointments were advised.
+
+Medications on Admission:
+Allopurinol 300mg po daily
+Amlodipine 5mg po daily
+Plavix 75mg po daily
+Glyburide 5mg po daily
+Metformin 850mg po BID
+Metoprolol succinate 25mg po daily
+NTG 0.4mg SL PRN
+Pravastatin 40mg po daily
+ASA 81mg po daily
+
+
+Discharge Medications:
+1. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours)
+for 7 days.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+6. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain.
+8. Glyburide 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. Ferrous Sulf

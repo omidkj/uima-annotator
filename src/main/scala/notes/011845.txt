@@ -1,0 +1,198 @@
+Admission Date:  [**2133-1-7**]              Discharge Date:   [**2133-1-11**]
+
+Date of Birth:  [**2078-12-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2160**]
+Chief Complaint:
+Hyperglycemia
+.
+PCP: [**First Name8 (NamePattern2) 58216**] [**Name11 (NameIs) 7537**]
+[**Name12 (NameIs) **]: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+
+
+Major Surgical or Invasive Procedure:
+femoral central venous line
+
+History of Present Illness:
+54 yo F with history of type 1 DM, severe gastroparesis, HTN,
+Grave's Ds and Hep C, presents with DKA for second time in 3
+weeks. Patient was admitted at the end of [**Month (only) **] with
+hyperglycemia and an anion gap acidosis in the setting of a
+cough and fevers. She was discharged to home and in the last
+several days noticed her blood sugars running high, this time
+unaccompanied by fevers/coughing. She admits to +n/v and
+abdominal pain. Before her electrolytes came back, she was
+treated in the ED with three doses of Humalog. Once it was
+evident that she had a gap acidosis, an insulin gtt was
+initiated. Vitals in the ED were T 98.8, HR 125, BP 130/66, RR
+16, Sats 100% RA.
+Although she had no obvious focus of infection, blood cultures
+and UA were sent and CXR ordered.
+She was sent to the MICU for further management of DKA while on
+an insulin gtt.
+.
+In the MICU, the patient is currently [**Month (only) **] non-bloody
+bilious emesis, requiring a dose of zofran IV. She denies
+SOB/CP, cough, dysuria, f/c's. No diarrhea. She admits to
+abdominal pain, similar to her chronic gastroparesis pain, but
+more severe. Patient claims she was taking all of her insulin as
+directed.
+
+
+Past Medical History:
+1. DM Type 1: Years w/ DM: 5 Age of Diag: 48 Year Diag: [**2127**]
+Several episodes of DKA (last one in [**2129**]), managed on 36U
+Lantus plus HISS
+2. Diabetic polyneuropathy
+3. Hypertension
+4. Grave's disease s/p RAI [**2129**]
+5. Reactive airway disease
+6. Seronegative arthritis, followed in rheumatology
+7. Hepatitis C, genotype 1A, biopsy with grade 1 inflammation,
+never been on antiviral therapy, acquired via blood transfusion
+during surgery in [**2110**]
+8. GERD
+9. Migraines
+10.Bilateral knee arthroscopy in [**5-23**]
+11.s/p TAH and pelvic floor surgery with bladder lift
+12.Depression
+13. Obesity
+14. Bone spurs in feet
+
+
+Social History:
+No smoking/EtOH/drugs. Lives at home with 2 daughters. [**Name (NI) **] lives
+
+downstairs
+
+
+Family History:
+Mother: died of colon cancer
+Long h/o DM-2
+
+
+Physical Exam:
+VS: Temp: 98.3 BP: 174/91 HR: 120 RR: 18 O2sat 100% RA
+GEN: pleasant, fatigued but NAD
+[**Name (NI) 4459**]: [**Name (NI) 2994**], EOMI, anicteric, dry MM, op without lesions
+NECK: Flat jvd, supple
+RESP: CTA b/l with good air movement throughout
+CV: Tachy but regular, S1 and S2 wnl, no m/r/g
+ABD: nd, +b/s, soft, diffusely tender but no rebound or
+guarding, no masses. Neg [**Doctor Last Name 515**].
+EXT: no c/c/e, warm, good pulses
+SKIN: no rashes/no jaundice
+NEURO: AAOx3. Moves all extremities.
+
+
+Pertinent Results:
+[**2133-1-7**] 09:21PM   GLUCOSE-83 UREA N-12 CREAT-1.1 SODIUM-133
+POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-23 ANION GAP-9
+[**2133-1-7**] 09:21PM   CALCIUM-9.4 PHOSPHATE-1.3* MAGNESIUM-2.3
+[**2133-1-7**] 01:10PM   GLUCOSE-265* UREA N-11 CREAT-0.8 SODIUM-136
+POTASSIUM-3.6 CHLORIDE-103 TOTAL CO2-22 ANION GAP-15
+[**2133-1-7**] 01:10PM   CALCIUM-9.5 PHOSPHATE-1.8* MAGNESIUM-1.5*
+[**2133-1-7**] 08:03AM   GLUCOSE-296* UREA N-15 CREAT-0.8 SODIUM-134
+POTASSIUM-4.8 CHLORIDE-102 TOTAL CO2-21* ANION GAP-16
+[**2133-1-7**] 08:03AM   ALT(SGPT)-16 AST(SGOT)-17 LD(LDH)-149 ALK
+PHOS-97 AMYLASE-49 TOT BILI-0.5
+[**2133-1-7**] 08:03AM   LIPASE-39
+[**2133-1-7**] 08:03AM   ALBUMIN-4.2 CALCIUM-10.0 PHOSPHATE-2.6*#
+MAGNESIUM-1.7
+[**2133-1-7**] 08:03AM   TSH-LESS THAN
+[**2133-1-7**] 03:49AM   TYPE-ART PO2-109* PCO2-32* PH-7.31* TOTAL
+CO2-17* BASE XS--9 INTUBATED-NOT INTUBA
+[**2133-1-7**] 03:49AM   LACTATE-2.1*
+[**2133-1-7**] 03:38AM URINE  HOURS-RANDOM
+[**2133-1-7**] 03:38AM URINE  UHOLD-HOLD
+[**2133-1-7**] 03:38AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-1000 KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2133-1-7**] 01:09AM   GLUCOSE-608* UREA N-19 CREAT-1.4* SODIUM-134
+POTASSIUM-4.8 CHLORIDE-95* TOTAL CO2-10* ANION GAP-34*
+[**2133-1-7**] 01:09AM   estGFR-Using this
+[**2133-1-7**] 01:09AM   CALCIUM-10.8* PHOSPHATE-4.2 MAGNESIUM-2.1
+[**2133-1-7**] 01:09AM   ACETONE-LARGE
+[**2133-1-7**] 01:09AM   WBC-5.4 RBC-4.43# HGB-13.1# HCT-40.2# MCV-91
+MCH-29.6 MCHC-32.7 RDW-13.7
+[**2133-1-7**] 01:09AM   NEUTS-79.0* LYMPHS-19.2 MONOS-1.5* EOS-0.1
+BASOS-0.1
+[**2133-1-7**] 01:09AM   PLT COUNT-381
+.
+CXR: IMPRESSION: No acute cardiopulmonary abnormality.
+
+Brief Hospital Course:
+54 yo woman h/o type 1 DM w/ gastroparesis and neuropathy, HTN,
+Hep C presents with DKA (initial Glc 777, AG 33) and fevers,
+nausea, [**Month/Day/Year **] (nonbloody), worsening gastroparesis pain and
+nonproductive cough.  In the MICU, patient was placed on insulin
+drip.  She was restarted on lower dose lantus and placed on her
+outpatient sliding scale.  She was tolerating meals well and her
+abdominal pain was improved.
+.
+1. Diabetes Melitus: On admission she was in DKA based on AG of
+29, ketones in urine and Glc of 608 in ED. She reported
+compliance w/ home insulin. ECG was unchanged from previous. She
+had no f/c or leukocytosis. Alternatively worsened gastroparesis
+with nausea, vomitting and abdominal pain also possible. Initial
+UA and blood cultures were negative. Initial urine culture grew
+gardnerella vaginalis. Subsequent UA equivocal with < [**2125**] GNR's
+on culture. Final UA also equivocal but culture grew >100,000
+e.coli (pan-sensitive) which developed with catheter in place so
+treated with 1 week of ciprofloxacin. CXR unremarkable. One set
+of blood cultures grew coag neg staph but subsequent cultures
+were negative at the time of discharge so this was thought to be
+a contaminant. Last A1c in [**3-26**] was 6.0, markedly elevated on
+last admission to 10. In the MICU she was treated with an
+insulin drip and electrolyte repletion. She was stabilized on
+this, gap was closed, she was transferred to the floor, and
+initially started on less than normal dose lantus with sliding
+scale. She had fair glycemic control and was tolerating food.
+She was discharged to resume her home dose of insulin (20 units
+glargine twice daily, with humalog sliding scale. [**Last Name (un) **]
+followed her in house and she will follow-up with them as an
+outpatient. She was continued on reglan for gastroparesis.
+
+2 Gastroparesis: She had nausea, [**Last Name (un) **] and abdominal pain on
+presentation thought secondary to her diabetic gastroparesis
+with no clear infectious process presenting itself. This was
+controlled and she resumed home reglan.
+
+3 Urinary tract infection: Noted after foley catheter placed in
+MICU. She was started on cipro for pan-sensitive e.coli for a 7
+day course, started [**1-9**]. She should have a repeat UA and
+culture once she has completed the antibiotics.
+
+4 Coag negative staph in blood cultures: Not present on initial
+cultures or subquent surveillance cultures. Thought to be a
+contaminant given lack of signs or symptoms of infection.
+
+5 Acute Renal Failure: Normal On arrival creatinine was elevated
+to 1.4. This improved to 0.9 with hydration so was thought to be
+prerenal given dehydration. This did not recur during her
+hospital course.
+
+6 Headache: She has a history of migraine headaches and
+developed unilateral pain typical of her usual migraine pain in
+house. This was treated with morphine and tylenol in house and
+resolved.
+
+7 Leukopenia: She develped mild leukopenia, with a WBC count of
+3.7 on discharge. She has had leukopenia to this level in the
+past and will need follow-up with her PCP to have this repeated
+and further evaluated as an outpatient.
+
+8 Hypertension: She was noted to develop hypertension in the
+MICU so was restarted on her losartan with excellent hemodynamic
+control by the time of discharge.
+
+9 History of Anemia: Baseline high 20's, normocytic, iron
+studies suggestive of AOCD. At baseline on discharge.
+
+10 Asthma: She was continuted on inhalers in house but no
+ev

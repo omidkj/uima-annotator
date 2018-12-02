@@ -1,0 +1,205 @@
+Admission Date:  [**2199-11-3**]              Discharge Date:   [**2199-12-18**]
+
+Date of Birth:  [**2149-3-13**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Bactrim
+
+Attending:[**First Name3 (LF) 5569**]
+Chief Complaint:
+abdominal pain
+
+Major Surgical or Invasive Procedure:
+Previous admission: Transplant; [**2199-10-17**]: Exploratory
+laparotomy, orthotopic liver transplant, renal transplant.
+[**2199-10-18**]: Abdominal washout and closure
+Admission Starting [**2199-11-3**];
+[**2199-11-3**]: Exploratory laparotomy with abdominal washout, biliary
+diversion, small bowel resection and liver biopsy
+[**2199-11-10**]: Exploratory laparotomy, Resection distal common bile
+duct,  Resection debridement segments 4 and 5, Jejunal tube.
+[**2199-11-25**]: IR drainage of hepatic abscess
+
+
+History of Present Illness:
+50 yo M s/p liver and kidney transplant. ESLD secondary to
+hepatitis C and ESRD likely secondary to HTN, DM and hepatorenal
+syndrome who was on dialysis for short time prior to transplant.
+On [**2199-10-17**] he underwent OLT and cadaveric renal transplant
+abdomen packed and left open given intraoperative oozing and
+second look on POD# 1 for packing removal, hepaticojejunostomy
+for bile leak and abdominal closure. He was discharged three
+days prior to his current admission and initially did well at
+home,tolerating a diet, ambulating with regular non-bloody bowel
+movements. He returned 2 days ago with increasing right upper
+quadrant and peri-umbilical abdominal pain.
+
+Past Medical History:
+hepatitis C ([**2184**]) c/b cirrhosis, salmonella gastroenteritis
+with acute renal failure, chronic kidney disease with renal
+stones s/p lithotripsy ([**2192**]), DM (dx [**2188**], off medications,
+diet-controlled), HTN ([**2196**], well-controlled, off medications),
+ITP s/p splenectomy ([**2173**]), asthma
+
+PSH: splenectomy [**2173**], lithotripsy [**2192**], Combined liver/kidney
+transplant [**2199-10-17**]
+
+
+Social History:
+SH: Lives with sister, has two children.  Prior heroin user,
+sober for two years, on methadone program.
+
+
+Family History:
+FH: His family history is significant for an aunt and uncle with
+diabetes.
+
+
+Physical Exam:
+Vitals: 98.0 158 129/95 24 99 RA
+GEN: A&O, non-toxic appearing
+HEENT: No scleral icterus, mucus membranes dry
+CV: sinus tachycardic, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, nondistended, tender to palpation in RUQ and
+peri-umbilical region, no rebound or guarding. Operative
+incisions well-healed, staples in place.  No discharge or
+erythema.
+DRE: normal tone, no gross or occult blood
+Ext: No LE edema, LE warm and well perfused
+
+
+Pertinent Results:
+On Admission: [**2199-11-3**]
+WBC-25.4* RBC-4.81 Hgb-14.7 Hct-45.5 MCV-95 MCH-30.6 MCHC-32.3
+RDW-14.9 Plt Ct-355#
+PT-15.3* PTT-21.6* INR(PT)-1.3*
+Glucose-233* UreaN-32* Creat-1.3* Na-137 K-5.1 Cl-101 HCO3-23
+AnGap-18
+ALT-76* AST-85* LD(LDH)-530* AlkPhos-176* TotBili-2.0*
+Lipase-10
+Albumin-2.7* Calcium-8.5 Phos-2.8 Mg-1.3*
+[**2199-11-3**] FACTOR V LEIDEN-Not Detected
+
+.
+[**2199-12-9**] TSH-3.3
+.
+At Discharge:
+[**2199-12-16**] WBC-10.5 RBC-2.81* Hgb-8.7* Hct-26.8* MCV-96 MCH-30.8
+MCHC-32.2 RDW-18.4* Plt Ct-482*
+PT-15.6* PTT-29.3 INR(PT)-1.5*
+Glucose-68* UreaN-34* Creat-0.8 Na-133 K-5.0 Cl-104 HCO3-23
+AnGap-11
+ALT-43* AST-41* CK(CPK)-22* AlkPhos-560* TotBili-0.7
+Calcium-8.4 Phos-3.9 Mg-1.4*
+tacroFK-8.9
+.
+Culture Data:
+[**2199-11-10**] 8:35 am FLUID,OTHER
+      HEMATOMA (BEHIND THE LIVER AREA BLOOD CLOT).
+      GRAM STAIN (Final [**2199-11-10**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND SINGLY.
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST.
+
+      ENTEROCOCCUS SP..    MODERATE GROWTH.
+      KLEBSIELLA OXYTOCA.    SPARSE GROWTH.
+         Cefazolin interpretative criteria are based on a dosage
+regimen of
+         2g every 8h.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+      YEAST, PRESUMPTIVELY NOT C. ALBICANS.    SPARSE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |          KLEBSIELLA OXYTOCA
+                             |          |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--                8 S
+CEFAZOLIN-------------                8 R
+CEFEPIME--------------              <=1 S
+CEFTAZIDIME-----------              <=1 S
+CEFTRIAXONE-----------              <=1 S
+CIPROFLOXACIN---------                1 S
+GENTAMICIN------------              <=1 S
+MEROPENEM-------------           <=0.25 S
+PENICILLIN G----------    32 R
+PIPERACILLIN/TAZO-----                  S
+TOBRAMYCIN------------              <=1 S
+TRIMETHOPRIM/SULFA----              <=1 S
+VANCOMYCIN------------     1 S
+
+[**2199-11-25**] 6:05 am BLOOD CULTURE
+
+                            **FINAL REPORT [**2199-11-28**]**
+
+   Blood Culture, Routine (Final [**2199-11-28**]):
+      ENTEROCOCCUS FAECIUM.    FINAL SENSITIVITIES.
+
+_________________________________________________________
+                             ENTEROCOCCUS FAECIUM
+                             |
+AMPICILLIN------------  =>32 R
+DAPTOMYCIN------------       S
+LINEZOLID-------------     2 S
+PENICILLIN G----------  =>64 R
+VANCOMYCIN------------  =>32 R
+
+[**2199-11-27**] - [**2199-12-10**]: Blood Cultures: No growth
+
+Brief Hospital Course:
+The patient is a 50-year-old man who is 17 days out from a
+deceased donor liver and kidney transplant who has had a
+complication of hepatic artery thrombosis, based upon physical
+findings of tachycardia and he eventually developed peritoneal
+signs. A CT was done on admission showing free air and fluid
+near the hepaticojejunostomy. Dr [**Last Name (STitle) **] took him to the OR on
+day of admission due to concern for disruption of the
+anastomosis. He underwent Exploratory laparotomy with abdominal
+washout,
+biliary diversion, small bowel resection and liver biopsy for
+Hepatic artery thrombosis and peritonitis with bile leak. The
+bile duct at this time was in discontinuity, with a drain to the
+outside.
+Following the initial surgery with Dr [**Last Name (STitle) **], the patient spent
+4 days in the ICU. Blood cultures and the peritoneal fluid
+sample taken in the OR both grew Bacteroides fragilis. He had
+been started on Vanco and Zosyn. After the brief ICU stay, he
+was transferred out to the regular surgical transplant floor.
+LFTs and Bilirubin  were improving.
+On [**11-10**], the patient was taken back to the OR again,
+this time because of the bile duct discontinuity. He was not
+eligible for additional MELD points or Status 1 due to the time
+frame of the original surgery. He underwent exploratory
+laparotomy with resection of the distal common bile duct,
+resection debridement of liver segments 4 and 5, and also had a
+Jejunal feeding tube placed.
+He was again placed in the ICU. At the time of surgery a
+hematoma was evacuated from behind the liver. This was sent for
+culture, and was found to be growing VRE, Klebsiella and yeast.
+He had been started on Micafungin and meropenem immediately
+after the surgery on the 13th, however once the culture data was
+finalized, the [**Last Name (un) 2830**] was stopped and cefepime was started, which
+he received for 3 weeks.
+AST and ALT have normalized since the time of the surgery on the
+13th. Bilirubin has remained stable around 0.6, however the Alk
+Phos has slowly risen over the course of his hospital stay.
+On [**11-18**], the patient had a Roux tube cholangiogram, findings
+include that the contrast rapidly opacifies the jejunal Roux
+limb. Trace biliary reflux is inadequate to evaluate the biliary
+tree. No evidence of anastomotic leak is evident. The Roux drain
+was left uncapped with minimal output until  the day it was
+capped on [**12-2**].
+The remaining JP drains in the surgical bed have decreased to
+around 10 cc daily, however, they absolutely will not be taken
+out until the patient receives a new transplant liver.
+Since the time of the first positive blood cultu

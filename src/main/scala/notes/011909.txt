@@ -1,0 +1,233 @@
+Admission Date:  [**2191-11-12**]              Discharge Date:   [**2191-12-1**]
+
+
+Service: MEDICINE
+
+Allergies:
+Aspirin / Warfarin / Vancomycin
+
+Attending:[**First Name3 (LF) 330**]
+Chief Complaint:
+Patient being transferred with mediastinal mass
+
+Major Surgical or Invasive Procedure:
+FNA of mediastinal mass
+Bronchoscopy
+Intubation with mechanical ventilation
+Tracheostomy
+surgical biospy of mediastinal mass
+
+History of Present Illness:
+89F italian speaking woman with COPD, HTN, DM who presented to
+outside hospital on [**2191-11-3**] with increasing shortness of breath
+cough and wheezing. As per outside records, she had a cough
+productive of yellow sputum associated with shortness of breath
+for approximately 2 months.
+.
+On CT Chest she was found to have a large mediastinal mass
+deviating the trachea to the right, heterogeneous in nature
+suggestive of goiter with left hilar LAD and left lower
+consolidation with air bronchograms suggestive of post
+obstructive pneumonia. Patient was initially started on IV
+steroids, CTX and Flagyl and subsequently transitioned to
+Levo/flagyl.
+.
+Course was complicated by afib requiring transient Dilt gtt and
+ARF with elevation fo Cr to 4.0 on [**2191-11-9**]. Patient had a renal
+US without evidence of renal stones and renal lytes suggestive
+of a pre-renal etiology.
+.
+Patient did not require intubation and was transferred to [**Hospital1 18**]
+for further evaluation
+
+
+Past Medical History:
+NIDDM
+COPD
+HTN
+Dyslipidemia
+Bronchitis
+Gout
+
+
+Social History:
+Nonsmoker, occassional EtOH
+
+Family History:
+NC
+
+Physical Exam:
+Vitals - T:96.6 BP:92/39 HR:101 RR:24 02 sat:
+VENT Setting: AC 24x400 Fio2 1.0 PEEP 5
+GENERAL: intubated and sedated
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+HEENT: AT/NC, supple neck, no LAD, no JVD
+CARDIAC: irregularly irregular, S1/S2, no mrg
+LUNG: wheezes in all lung fields, poor air movement.
+ABDOMEN: nondistended, +BS, slight tenderness LUQ, no
+rebound/guarding, no hepatosplenomegaly
+M/S: 2+ pitting edema bilaterally
+PULSES: 1+ DP pulses bilaterally
+NEURO: intubated and sedated
+
+
+Pertinent Results:
+Admission labs:
+136  104  97
+---------------< 215
+4.1  17  2.8
+Ca: 7.4 Mg: 2.2 P: 3.9
+LDH: 368
+TSH:0.58
+Free-T4:0.93
+.
+WBC: 31.7
+Hct: 32.1
+Plt: 269
+.
+PT: 12.9  PTT: 31.3  INR: 1.1
+.
+Discharge labs:
+WBC: 4.1
+HCT 28.1
+Plt 389
+.
+PT: 16.2, PTT 77.9, INR: 1.5
+BUN 18
+Creatinine 1.2
+Glucose 155
+Na 141
+Potassium 4
+Chloride 105
+HCO3 18
+.
+Imaging:
+Thyroid US:
+IMPRESSION:
+1. Ultrasound-guided fine needle aspiration of a large vascular
+left thyroid nodule without immediate complication.
+2. No right thyroid lobe. Correlation with patient history is
+recommended.
+.
+.
+CXR admission:
+IMPRESSION:
+Improving left lower lobe atelectasis. Followup chest
+radiographs are
+recommended to document complete resolution.
+Standard position of the ET tube and NG tube
+.
+CT Torso admission
+IMPRESSION:
+1. Incompletely imaged heterogenous soft tissue mass containing
+
+calcifications extending along the left thoracic inlet and upper
+retrosternal region causing compression and rightward deviation
+of the trachea. The mass does not appear to invade mediastinal
+structures. Diagnostic considerations include a large thyroid
+mass or multinodular goiter with retrosternal component, much
+less likely a thymic lesion.
+2. Low position of the endotracheal tube with its tip just above
+the carina.
+3. Peribronchiolar nodular opacities and ground-glass
+attenuation in the posterior right upper lobe may represent
+evolving infectious etiology or aspiration.
+4. Left lower lobe collapse with opacification of the left lower
+lobe bronchus. Further evaluation with bronchoscopy is advised
+to exclude an endobronchial lesion or extrinsic compression at
+the left hilum.
+5. 2.0 cm ill-defined low attenuation in the upper pole of the
+right kidney, which is incompletely characterized on this
+non-contrast study. If indicated, further assessment could be
+performed with a dedicated renal ultrasound.
+6. Generalized anasarca.
+.
+Head CT [**11-13**]:
+1. No intracranial hemorrhage or mass effect. Evaluation for
+metastatic disease limited due to lack of intravenous contrast.
+If there is high clinical concern, further characterization with
+contrast enhanced MRI or CT is recommended.
+2. Moderate cerebral atrophy and chronic microvascular ischemic
+change.
+.
+Left upper ex U/S [**11-18**]:
+DVT involving both brachial veins and the basilic vein along the
+catheter.
+.
+Thyroid biopsy [**11-25**]: Left thyroid, biopsy:
+Papillary carcinoma, follicular variant
+.
+Right upper ex U/S [**11-30**]:
+Deep venous thrombosis of the right upper extremity isolated to
+the right internal jugular vein surrounding the patient's
+central venous catheter.
+.
+Discharge CXR: There is overall increase in perihilar haziness
+and vascular engorgement suggesting volume overload/pulmonary
+edema. No change in the bilateral pleural effusions and
+bibasilar atelectasis noted. The tracheostomy, the right
+internal jugular line and the Dobbhoff tube are in unchanged
+positions including the proximal position of the Dobbhoff tube.
+
+
+Brief Hospital Course:
+89F with COPD, HTN, DM, with mediatinal mass s/p intubation on
+arrival for airway protection and s/p extubation on [**2191-11-22**] and
+reintubation for excessive secretions on [**2191-11-24**]. Now with trach
+for vent weaning.  She has large mediastinal mass with is c/w
+papillary thyroid ca follicular type.  Hospital course by
+problem:
+.
+# Mediastinal Mass: Head/Torso CT negative for possible
+metastatic disease, although done without contrast. Endocrine
+was consulted and felt this was likely a goiter.  She had FNA
+which was indeterminant.  Then, during trach placement, had
+biopsy which showed papillary thyroid cancer, follicular type.
+Patient with normal TFTs, Thyroglobulin 1170.  She and her
+family were notified of the results.  She was seen by endocrine
+and thoracics surgery.  Followup appointments were scheduled in
+near future to discuss plan of care: surgical resection vs.
+observation.
+.
+# Respiratory Failure: Initially intubated for airway protection
+given stridor. She developed a MRSA pneumonia and had tracheitis
+with [**Female First Name (un) **]. She was treated with 8 days of vanc and 5 days of
+fluconazole. She was also on a prednisone taper for COPD (last
+dose 11/8). She was extubated on [**2191-11-22**] and but was unable to
+clear her secretions and was reintubated. She was not passing
+the SBT and was trached in the OR by CT surgery for weening off
+the vent.  She intermittently tolerated trach collar but was
+largely vent dependent with PS 10/5 FiO2 0.50 especially when
+lying flat.
+- please pull sutures out from trach on [**12-7**] per thoracics
+recommendations.
+.
+# DVT from LUEx PICC and right CVL IJ: treated with heparin gtt
+until platelets fell. Then changed to argatroban given concerns
+of HIT.  HIT ab neg x2.  We restarted heparin gtt and coumadin
+on [**11-28**].  Coumadin: [**11-28**] 2.5mg, [**11-29**] held, [**11-30**] 5mg.  INR 1.5 on
+[**12-1**].  Plan: bridge with heparin and continue with coumadin
+until INR [**2-26**].  Goal: anticoagulate for at least 1 month after
+[**11-30**].  [**Month (only) 116**] need further anticoagulation for her afib.
+- She has documented allx to coumadin.  We could not confirm
+etiology but thought it was likely bleeding.  We monitored her
+for several days after coumadin given and saw no allx reaction.
+Monitor INR closely
+- Please pull right IJ CVL when heparin gtt no longer needed
+since it has a clot alongside it.  If you still need access,
+consider new line.
+.
+# Thrombocytopenia: in the setting of heparin and vanc, and
+improving since Vanc has been discontinued. Does not appear to
+be hemolyzing. Patient started on Argatroban empirically,
+although HIT Ab returned negative; resend HIT was also negative.
+Last day of vanc was [**11-23**] and platelets have already rebounded.
+
+.
+# Pneumonia: She presented from the OSH with a diagnosis of
+post-obstructive pneumonia and in the midst of a 14 day course
+of levo/flagyl.  Also received fluconazole for tracheitis and
+vanco for MRSA PNA (8d).  Then had recurrent sputum pos for MRSA
+PNA so started on linezolid on [**11-27**].  Needs to continue this
+until [**1

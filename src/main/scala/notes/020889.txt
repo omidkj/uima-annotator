@@ -1,0 +1,184 @@
+Admission Date:  [**2153-11-5**]              Discharge Date:   [**2153-11-24**]
+
+Date of Birth:  [**2077-7-30**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Tape
+
+Attending:[**Last Name (NamePattern1) 1561**]
+Chief Complaint:
+tracheal stent removal, tracheoplasty
+
+Major Surgical or Invasive Procedure:
+[**2153-11-5**] Rigid Bronchoscopy with Stent removal
+[**2153-11-12**] Tracheobronchoplasty
+[**2153-11-13**] Flexible Bronchoscopy
+[**2153-11-16**] Flexible Bronchoscopy
+[**2153-11-18**] Flexible Bronchoscopy
+[**2153-11-23**] Flexible Bronchoscopy
+
+
+History of Present Illness:
+71 year old male with past medical history significant for
+quadruple CABG in [**2129**], tracheomalacia [**2139**] (stent placement in
+[**2152**]), frequent pneumonias (on chronic antibiotics) who presents
+for stent removal by rigid bronchoscopy.  The patient complains
+of progressive DOE over the last few years where he can only
+exert himself over 5 minutes.  He denies chest pain and reports
+that dyspnea is secondary to mucous plugging and a feeling that
+"it's getting all clogged up".  The patient was planned to go
+home after his procedure but in the PACU, he required CPAP 10
+and was persistently coughing.  These symptoms resolved with
+frequent nebulizer treatments and is admitted for close
+monitoring in light of likely tracheoplasty.
+
+Past Medical History:
+* s/p CABGx4 [**2129**]
+* tracheomalacia [**2139**]
+* trach placed [**2149**], reversed [**2152**] with stent placed [**2152**]
+* frequent pneumonias, on chronic antibiotics
+* s/p ccy
+* s/p hernia repair
+* s/p bilateraly hip replacement
+
+Social History:
+no smoking, rare ethanol, lives with wife in [**Name (NI) 9012**], works
+part-time as CPA
+
+Family History:
+noncontributory
+
+Physical Exam:
+VS: 98.4  121/65  85  18  94%CPAP 10
+GEN: pleasant, NAD, comfortable appearing 71 year-old man
+appearing his stated age, well-nourished
+HEENT: PERLLA, EOMI, sclera anicteric, no conjuctival injection,
+mucous membranes slightly dry, no lymphadenopathy, no thryroid
+nodules or masses, no supraclavicular lymph nodes, no posterior
+lymphadenopathy, neck supple, full ROM, neg JVD, no carotid
+bruits
+[**Last Name (un) **]: coarse breath sounds bilaterally but otherwise clear
+COR: RR, S 1 and S2 wnl, no murmur, rubs or gallops
+ABD: non-distended with positive bowel sounds, non-tender,no
+guarding,rebound or masses
+BACK: neg CVA tenderness
+EXT: no cyanosis, clubbing, edema
+NEURO: Alert and oriented x3.  No focal deficits.  CNII-XII are
+intact, and patient with 5/5 strength throughout, normal
+sensation throughout.  No pronator drift.
+
+Pertinent Results:
+MICROBIOLOGY:
+[**2153-11-7**] Bronchoscopy washings culture: SERRATIA MARCESCENS,
+YEAST, GRAM NEGATIVE ROD(S)
+
+BRONCHOSCOPY:
+[**2153-11-5**]: Stent loose in trachea, copious purulent secretions
+[**2153-11-7**]: Diffuse and severe tracheobronchomalacea with 100%
+collapse and copious secretions
+[**2153-11-13**]: Medium secretions, generalized airway swelling
+[**2153-11-16**]: mild bronchomalacea, copious secretions
+[**2153-11-18**]: mild malacia, mild secretions
+[**2153-11-23**]: Patent airways, mild secretions
+
+SEROLOGIES:
+
+[**2153-11-5**] 10:20AM BLOOD WBC-8.8 RBC-4.70 Hgb-13.3* Hct-41.3
+MCV-88 MCH-28.4 MCHC-32.3 RDW-15.5 Plt Ct-382
+[**2153-11-7**] 07:35AM BLOOD WBC-9.5 RBC-4.54* Hgb-13.2* Hct-38.8*
+MCV-86 MCH-29.1 MCHC-34.1 RDW-15.2 Plt Ct-275
+[**2153-11-11**] 06:10AM BLOOD WBC-11.6* RBC-4.02* Hgb-11.6* Hct-34.1*
+MCV-85 MCH-28.9 MCHC-34.0 RDW-15.3 Plt Ct-267
+[**2153-11-13**] 03:22AM BLOOD WBC-24.5* RBC-3.50* Hgb-10.0* Hct-29.9*
+MCV-85 MCH-28.7 MCHC-33.6 RDW-15.3 Plt Ct-338
+[**2153-11-17**] 03:07PM BLOOD WBC-12.0* RBC-3.58* Hgb-10.4* Hct-29.9*
+MCV-84 MCH-29.2 MCHC-34.9 RDW-14.7 Plt Ct-364
+[**2153-11-19**] 03:00AM BLOOD WBC-11.3* RBC-4.04* Hgb-11.9* Hct-34.2*
+MCV-85 MCH-29.4 MCHC-34.7 RDW-14.5 Plt Ct-474*
+[**2153-11-23**] 06:35AM BLOOD WBC-13.2* RBC-3.94* Hgb-11.4* Hct-34.2*
+MCV-87 MCH-28.9 MCHC-33.3 RDW-15.3 Plt Ct-513*
+[**2153-11-22**] 07:23AM BLOOD Neuts-76.4* Lymphs-10.3* Monos-3.6
+Eos-9.3* Baso-0.4
+
+[**2153-11-20**] 03:35AM BLOOD PT-12.8 PTT-29.1 INR(PT)-1.0
+
+[**2153-11-5**] 04:54PM BLOOD Glucose-84 UreaN-20 Creat-1.1 Na-141
+K-4.2 Cl-105 HCO3-27 AnGap-13
+[**2153-11-11**] 06:10AM BLOOD Glucose-109* UreaN-14 Creat-0.9 Na-139
+K-3.4 Cl-100 HCO3-30* AnGap-12
+[**2153-11-12**] 07:15AM BLOOD Glucose-127* UreaN-12 Creat-1.0 Na-139
+K-4.0 Cl-101 HCO3-33* AnGap-9
+[**2153-11-12**] 08:29PM BLOOD Glucose-166* UreaN-14 Creat-1.4* Na-137
+K-4.9 Cl-105 HCO3-25 AnGap-12
+[**2153-11-14**] 03:09AM BLOOD Glucose-130* UreaN-24* Creat-2.8* Na-140
+K-4.4 Cl-105 HCO3-26 AnGap-13
+[**2153-11-14**] 01:49PM BLOOD Glucose-154* UreaN-29* Creat-3.0* Na-136
+K-4.3 Cl-102 HCO3-26 AnGap-12
+[**2153-11-16**] 03:10AM BLOOD Glucose-135* UreaN-43* Creat-3.6* Na-138
+K-4.0 Cl-99 HCO3-30* AnGap-13
+[**2153-11-18**] 04:12AM BLOOD Glucose-92 UreaN-47* Creat-3.1* Na-139
+K-3.4 Cl-98 HCO3-28 AnGap-16
+[**2153-11-21**] 11:35AM BLOOD Glucose-124* UreaN-52* Creat-3.4* Na-137
+K-4.5 Cl-98 HCO3-30* AnGap-14
+[**2153-11-22**] 07:23AM BLOOD Glucose-116* UreaN-50* Creat-3.4* Na-137
+K-4.0 Cl-98 HCO3-30* AnGap-13
+[**2153-11-23**] 06:35AM BLOOD Glucose-106* UreaN-51* Creat-3.7* Na-138
+K-4.5 Cl-98 HCO3-29 AnGap-16
+
+URINE STUDIES
+
+[**2153-11-14**] 01:49PM URINE Hours-RANDOM Creat-34 Na-103 K-23
+Phos-18.4 Mg-5.7
+[**2153-11-14**] 01:49PM URINE Osmolal-305
+[**2153-11-11**] 07:28PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+
+Brief Hospital Course:
+1) Tracheomalacia: The patient has a history of tracheomalacia,
+which according to the patient is unknown in etiology but likely
+related to bypass surgery [**73**] years ago.  Since the diagnosis of
+tracheomalacia in [**2139**], the patient has had recurrent antibiotic
+resistent bacterial pneumonias.  The patient lives in [**Location 9012**]
+but came to the [**Hospital1 18**] to have stent removal performed via rigid
+bronchoscopy.  This procedure was successfully performed on
+hospital day #1, but post procedure, the patient experienced
+severe coughing secondary to mucous secretions and as such, he
+had to be admitted for further evaluation.  On the floor, the
+patient did not experience any further episodes of persistent
+coughing.  He was switching from outpatient linezolid to
+vancomycin without consequence.  The patient was maintained on
+CPAP with a pressure of 10 to assist in keeping his airway open
+in the setting of significant mucous secretions and tracheal
+collapse.  Repeat bronchoscopy was performed on hospital day #2,
+at which point it was found that tracheomalacia was quite
+severe, wherein the trachea collapsed nearly 100%, even on
+expiration.  At this point, it was arranged that the patient be
+sent for tracheoplasty.  He underwent a tracheobronchoplasty on
+[**2153-11-12**] without complication. Post-operatively he was admitted
+to the intensive care unit for close monitoring. He was
+extubated on post-operative day 2. Bronchoscopy on [**2153-11-13**] and
+[**2153-11-16**] showed significant airway secretions which were
+aspirated, and generalized airway edema. He remained in the
+intensive care unit until post-operative day 8. His respiratory
+status improved on the floor and physical therapy assisted with
+ambulation; the patient noted some shortness of breath initially
+while ambulating but these symptoms markedly improved after a
+few days. He was able to tolerate a regular diet by
+post-operative day 3 and his pain was well-controlled throughout
+his hospital stay. He had a bronchoscopy on [**2153-11-23**] which
+showed patent airways bilaterally with minimal secretions. Upon
+discharge, he had planned follow-up with thoracic surgery in [**1-5**]
+weeks.
+
+2) h/o CHF: The patient's outpatient regimen of lasix was
+continue.  There were no acute cardiac issues during the
+patient's admission.  Because of the risk of thoracic surgery,
+the cardiology service was consulted for a pre-op evaluation.
+It was suggested that
+
+3) Acute Renal Failure: The patient was noted to have elevated
+creatinine post-operatively to a range close to 3.5. This was
+above his baseline around 1.0. After extensive renal work-up, it
+was felt that this increase was due to acute 

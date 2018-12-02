@@ -1,0 +1,184 @@
+Admission Date:  [**2144-3-14**]              Discharge Date:   [**2144-3-19**]
+
+Date of Birth:  [**2081-1-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Cefepime
+
+Attending:[**Last Name (NamePattern1) 495**]
+Chief Complaint:
+Fever, tachycardia
+
+Major Surgical or Invasive Procedure:
+Central venous line
+Swan-Ganz catheter
+Arterial Line
+Endotracheal Intubation
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 63 year-old gentleman with recently
+diagnosed anaplastic T-cell lymphoma status post 1 cycle of CVP
+with radiographic improvement, also with a history of DM type 2
+and CAD status post CABG in [**2129**] and recent NSTEMI, who presents
+from rehab with fever. He was recently discharged from [**Hospital1 18**]
+following a prolonged hospitalization during which the diagnosis
+of anaplastic T-cell lymphoma was made in the setting of
+clinical B symptoms and periportal lymphadenopathy, confirmed on
+lymph node biopsy. His hospital course was further complicated
+by a troponin leak consistent with probable NSTEMI with new WMA
+on echo and systolic dysfunction. He had persistent fevers which
+improved following chemotherapy, presumed secondary to lymphoma.
+Other events of note included spontaneous bilateral
+retroperitoneal bleeds (while on anticoagulation) with a
+requirement for transfusional support (required about 17U PRBC).
+He was discharged on [**2144-3-3**], and seen in follow-up on [**2144-3-10**]
+with plan to pursue [**Hospital1 **] next week. A CT scan showed
+radiographic response.
+.
+He now returns with fever and hypoxia at [**Hospital1 **] (88% RA,
+T-102.5). Workup in the ED showed bilateral pna (was given
+vanc/levo/flagyl), and he was febrile to as high as 103.9. In
+this setting, he had a troponin leak to 1.04 (with no ischemic
+EKG changes, no symptoms). Cardiology was consulted and felt
+that this was likely demand in the setting of pna; they did not
+recommend anticoagulation with heparin given recent RP bleed
+(recommended ASA +/- Plavix). He was given some IVF (2.5 L), but
+was intermittently tachycardic with fevers so was admitted to
+the ICU for closer monitoring. SBP remained stable (90-100s)
+throughout.
+.
+Currently, he denies any symptoms, stating that he feels fine.
+Specifically, he has no dyspnea, no cough, no chest pain, no
+palpitations, no dysuria, no hematuria, no nausea/vomiting, no
+diarrhea
+
+Past Medical History:
+ONCOLOGIC HISTORY: As noted above, Mr. [**Known lastname **] was
+diagnosed with anaplastic large cell lymphoma in [**1-/2144**] after
+he presented with B symptoms and periportal lymphadenopathy.
+Immunophenotyping on a lymph node biopsy specimen was consistent
+with anaplastic T-cell lymphoma. He is status post 1 cycle of
+CVP with radiographic response, and awaiting probable initiation
+of [**Hospital1 **] chemotherapy.
+.
+PAST MEDICAL HISTORY:
+1. Anaplastic T-cell lymphoma as detailed above.
+2. Type 2 diabetes (HgbA1c 8.2 in [**2142-8-6**]) complicated by
+retinopathy and neuropathy, as well as autonomic dysfunction. He
+was previously on fludrocortisone and midodrine.
+3. CAD status post 4-vessel CABG in [**2129**], recent NSTEMI
+4. CHF: Systolic dysfunction, presumed ischemic cardiomyopathy
+with EF 40-45% on last echo [**2144-2-21**], regional WMA. Persantine
+MIBI in [**1-/2144**] with no ischemic EKG changes or anginal
+symptoms, new mild fixed inferior perfusion defect.
+5. Ulcerative colitis times 15 years. Last C-scope [**5-/2143**]
+normal.
+6. GERD
+7. Status post Nissen fundoplication for hiatal hernia [**2136**].
+8. Cataract status post left phacoemulsification with posterior
+
+chamber lens implant.
+9. RP bleed s/p fall [**2-12**] in setting of anticoagulation;
+required 17 U PRBC
+
+Social History:
+Recently retired from work running autobody shop, following
+multiple knee surgeries.  Lives in [**Location (un) **] with his wife.
+Adult son lives on [**Name (NI) 1456**].  Approximate 30 pack year smoking
+history, but quit in [**2121**].  Denies current alcohol or IVDU.
+Monogomous with wife of 37 years.  No known blood transfusions.
+
+
+
+Family History:
+Notable for diabetes.  [**Name (NI) **] mother had coronary artery
+disease and sister has [**Name (NI) 4522**] disease.
+
+Physical Exam:
+VITALS: 97.6F 91 93/57 17 97% 4L NC
+GEN: NAD. AAOx3.
+HEENT: EOMI. PERRL. dry MM. Healing abrasion on forehead.
+Neck: No JVD. Supple, no meningismus.
+Lungs: Crackles over R mid-field and R base.
+CV: RRR no m/r/g
+Abd: Soft NTND. BS normoactive.
+Extr: 1+ edema. 2+ DP. Extensive bilateral flank hematomas
+Neuro: Moves all extremities.
+
+
+Pertinent Results:
+Hematology:[**2144-3-14**] 12:15PM BLOOD WBC-17.4*# RBC-3.37* Hgb-10.6*
+Hct-30.8* MCV-91 MCH-31.4 MCHC-34.4 RDW-16.3* Plt Ct-307
+[**2144-3-19**] 04:13AM BLOOD WBC-44.2* RBC-3.79* Hgb-11.5* Hct-35.2*
+MCV-93 MCH-30.4 MCHC-32.8 RDW-17.2* Plt Ct-53*
+[**2144-3-14**] 12:15PM BLOOD Neuts-93.2* Lymphs-2.6* Monos-3.9 Eos-0.2
+Baso-0.2
+[**2144-3-18**] 05:03AM BLOOD Neuts-86* Bands-12* Lymphs-0 Monos-0
+Eos-0 Baso-0 Atyps-0 Metas-2* Myelos-0
+[**2144-3-19**] 04:13AM BLOOD Neuts-100* Bands-0 Lymphs-0 Monos-0 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2144-3-14**] 12:15PM BLOOD PT-15.0* PTT-31.9 INR(PT)-1.3*
+[**2144-3-19**] 04:13AM BLOOD PT-18.3* PTT-38.6* INR(PT)-1.7*
+.
+Chemistry:
+[**2144-3-14**] 12:15PM BLOOD Glucose-85 UreaN-15 Creat-0.9 Na-125*
+K-4.4 Cl-90* HCO3-24 AnGap-15
+[**2144-3-19**] 04:13AM BLOOD Glucose-299* UreaN-72* Creat-2.6* Na-128*
+K-5.6* Cl-89* HCO3-12* AnGap-33*
+[**2144-3-14**] 12:15PM BLOOD ALT-45* AST-44* LD(LDH)-653* CK(CPK)-94
+AlkPhos-289* Amylase-14 TotBili-2.6*
+[**2144-3-18**] 05:03AM BLOOD ALT-90* AST-266* LD(LDH)-764* CK(CPK)-49
+AlkPhos-261* TotBili-8.9* DirBili-7.3* IndBili-1.6
+[**2144-3-19**] 04:13AM BLOOD ALT-119* AST-252* LD(LDH)-803*
+AlkPhos-278* TotBili-10.6*
+[**2144-3-14**] 12:15PM BLOOD Lipase-14
+[**2144-3-14**] 12:15PM BLOOD CK-MB-NotDone cTropnT-1.04*
+[**2144-3-14**] 07:00PM BLOOD CK-MB-NotDone cTropnT-0.77*
+[**2144-3-15**] 05:19AM BLOOD CK-MB-NotDone cTropnT-0.71*
+[**2144-3-15**] 05:00PM BLOOD CK-MB-3
+[**2144-3-16**] 03:55AM BLOOD CK-MB-2 proBNP-[**Numeric Identifier 19972**]*
+[**2144-3-17**] 03:47AM BLOOD CK-MB-2 cTropnT-1.15*
+[**2144-3-18**] 05:03AM BLOOD CK-MB-7 cTropnT-1.96*
+[**2144-3-14**] 12:15PM BLOOD Albumin-2.5* Calcium-8.1* Phos-3.1 Mg-2.0
+[**2144-3-19**] 04:13AM BLOOD Calcium-7.5* Phos-5.8* Mg-2.4
+[**2144-3-17**] 11:46PM BLOOD Cortsol-53.7*
+[**2144-3-16**] 03:55AM BLOOD Osmolal-260*
+[**2144-3-16**] 04:43PM BLOOD HCV Ab-NEGATIVE
+[**2144-3-16**] 12:13PM BLOOD Type-ART Temp-40.4 pO2-152* pCO2-33*
+pH-7.41 calTCO2-22 Base XS--2 Intubat-NOT INTUBA
+[**2144-3-19**] 05:52AM BLOOD Temp-39.8 Rates-36/ Tidal V-650 PEEP-17
+FiO2-60 pO2-201* pCO2-27* pH-7.22* calTCO2-12* Base XS--15
+Intubat-INTUBATED Vent-CONTROLLED
+[**2144-3-14**] 12:18PM BLOOD Lactate-1.9 K-4.1
+[**2144-3-17**] 03:26AM BLOOD Lactate-4.0*
+[**2144-3-18**] 03:00PM BLOOD Lactate-8.7*
+[**2144-3-19**] 05:52AM BLOOD Lactate-12.6*
+.
+RELEVANT IMAGING DATA:
+[**2144-3-14**] CXR: Ill-defined bibasilar opacities are seen, more
+severe on the left, suggestive of pneumonia. No large pleural
+effusion. The mediastinum and hila are unremarkable. Mild stable
+cardiomegaly.
+.
+[**2144-3-12**] CT [**Last Name (un) **] W/ CONTRAST: 1. Interval improvement in
+abdominal and pelvic [**Doctor First Name **] consistent with response to treatment.
+2. Persistent inflammatory infiltration of the RP fat
+surrounding the pancreas and RP vascular structures. 3. Interval
+increase in size of left pelvic retroperitoneal hematoma without
+evidence of active bleeding. No significant change in bilateral
+psoas hematomas. 4. Cholelithiasis.
+5. Patchy atelectasis and minimal left pleural effusion at the
+lung bases. 6. Fat containing left inguinal hernia.
+.
+[**2144-3-17**] CT CHEST/ABDOMEN/PELVIS:
+1.  Study is limited for evaluation of potential abscess or
+lymphadenopathy given lack of IV contrast administration.  That
+said, there are no definite intra-abdominal abscesses
+identified.  The bilateral retroperitonal hematomas have
+slightly decreased in size since previous study.
+2.  Diffuse bilateral patchy airspace opacity consistent with
+pneumonia.
+Bilateral small pleural effusions, more prominent on the left.
+3.  No definite liver lesions ide

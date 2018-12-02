@@ -1,0 +1,237 @@
+Admission Date:  [**2103-1-2**]              Discharge Date:   [**2103-1-7**]
+
+Date of Birth:  [**2046-10-5**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+fatigue
+
+Major Surgical or Invasive Procedure:
+aortic valve replacement
+
+
+History of Present Illness:
+The patient is a 56 year old white male who presented to his
+primary care with fatigue in [**Month (only) 1096**].  Workup revealed blood
+cultures positive for streptococcus sanguinis.  Echo revealed
+mod-severe aortic insufficiency with a vegetation on the left
+coronary cusp of the aortic valve.  He was treated with 4 weeks
+of antibiotics and sent for cardiac surgery evaluation.
+
+Past Medical History:
+aortic insufficiency
+endocarditis (streptococcus sanguinis)
+mild acute diastolic heart failure
+s/p cervical fusion at 19 yrs. old s/p MVA
+
+Social History:
+lives with [**Doctor First Name 31480**]
+tobacco: denies
+EtOH: none for months, however previously 2-4 per month
+works as senior vice president for a software firm
+
+Family History:
+mom- hypertension- died in her 70s
+dad- died in his 70s from complications of a CVA
+
+Physical Exam:
+on admission:
+VS: Afebrile, hr: 85, bp:
+Gen: NAD, WG, WN, white male
+HEENT: unremarkable
+Lungs: CTAB
+CV: RRR, no murmur or rub
+Abd: +BS, soft, non-tender, non-distended
+Ext: warm, well-perfused, no edema
+Small [**Last Name (un) 1003**] lesion noted on the palmar surface of right hand
+Neuro: grossly intact
+
+Pertinent Results:
+[**2103-1-6**] 08:10AM BLOOD WBC-7.5 RBC-2.95* Hgb-8.8* Hct-25.0*
+MCV-85 MCH-29.9 MCHC-35.3* RDW-15.0 Plt Ct-232
+[**2103-1-6**] 08:10AM BLOOD Glucose-88 UreaN-13 Creat-0.9 Na-133
+K-4.4 Cl-97 HCO3-27 AnGap-13
+[**2103-1-6**] 08:10AM BLOOD Mg-1.9
+
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 81569**] (Complete)
+Done [**2103-1-3**] at 11:58:54 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2046-10-5**]
+Age (years): 56 M  Hgt (in): 71
+BP (mm Hg): 120/40  Wgt (lb): 93
+HR (bpm): 65  BSA (m2): 1.52 m2
+Indication: Aortiv valve vegetation
+ICD-9 Codes: 424.1, 424.0
+Test Information
+Date/Time: [**2103-1-3**] at 11:58    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW03-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Ascending:  *3.6 cm  <= 3.4 cm
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast or thrombus in the
+LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. PFO is present.
+Left-to-right shunt across the interatrial septum at rest.
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size and
+regional/global systolic function (LVEF >55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Focal calcifications in ascending
+aorta. Normal aortic arch diameter. Simple atheroma in aortic
+arch. Normal descending aorta diameter. Simple atheroma in
+descending aorta.
+
+AORTIC VALVE: Moderate-sized vegetation on aortic valve. No AS.
+Moderate to severe (3+) AR.
+
+MITRAL VALVE: No MVP. Mild (1+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+PRE-BYPASS:
+No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage
+A patent foramen ovale is present. A left-to-right shunt across
+the interatrial septum is seen at rest.
+Left ventricular wall thickness, cavity size and regional/global
+systolic function are normal (LVEF >55%).
+Right ventricular chamber size and free wall motion are normal.
+There are simple atheroma in the aortic arch. There are simple
+atheroma in the descending thoracic aorta. There is a
+moderate-sized vegetation of 0.6 to 1.5 cm on the aortic valve
+(left and extending onto the non-coronary cusp. There is no
+aortic valve stenosis. Moderate to severe (3+) aortic
+regurgitation is seen.
+There is no mitral valve prolapse. Mild (1+) mitral
+regurgitation is seen.
+There is no pericardial effusion.
+Dr.[**Last Name (STitle) **] was notified in person of the results on [**Known firstname 17661**]
+[**Known lastname 33733**] at 10AM before incision.
+
+Post-Bypass:
+Normal biventricular systolic function.
+Intact interatrial septum post repair with no flows across with
+color doppler.
+Thre is a bioprosthetic valve at the native aortic position with
+normal function and stability, with a residual peak and mean of
+20 and 10mm of Hg.
+Thoracic aortic contour is intact.
+Mild MR.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2103-1-3**] 12:54
+
+
+?????? [**2096**] CareGroup IS. All rights reserved.
+    [**Known lastname **],[**Known firstname **] [**Age over 90 81570**] M  56  [**2046-10-5**]
+
+Radiology Report CT CHEST W/CONTRAST Study Date of [**2103-1-5**] 7:04
+PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG FA6A [**2103-1-5**] SCHED
+CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+  Clip # [**Clip Number (Radiology) 81571**]
+Reason: septic emboli **w/o contrast
+Field of view: 39 Contrast: OPTIRAY
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   56 year old man s/p endocarditis,AVR
+REASON FOR THIS EXAMINATION:
+   septic emboli **w/o contrast
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Provisional Findings Impression: CXWc [**First Name9 (NamePattern2) **] [**2103-1-5**] 10:20 PM
+Focal splenic defect consistent with infarct, although acuity
+unknown, this
+could be due to septic embolus. No acute vascular abnormalities
+identified on
+this exam. No other end organ damage. Post-surgical changes into
+
+mediastinum, without fluid collection or pericardial effusion.
+Atelectasis at
+the lung bases.
+
+
+Final Report
+INDICATION: 56-year-old man status post endocarditis and aortic
+valve
+replacement. Evaluate for septic emboli.
+
+COMPARISON: [**2103-1-2**] coronary CTA.
+
+TECHNIQUE: MDCT-acquired axial images were obtained through the
+chest,
+abdomen and pelvis following administration of intravenous
+contrast material.
+Multiplanar reformatted images were generated.
+
+CT CHEST WITH IV CONTRAST: The patient is status post aortic
+valve
+replacement, and post-surgical changes are seen throughout the
+mediastinum,
+consisting of a small amount of pneumomediastinum, soft tissue
+stranding and
+edema, although without focal fluid collection. Transcutaneous
+pacing wires
+are present. Median sternotomy closure wires are intact. The
+heart remains
+slightly enlarged, but there is no pericardial effusion. There
+is no hilar or
+mediastinal lymphadenopathy. Great vessels are within normal
+limits.
+
+Lungs demonstrate a small amount of dependent atelectasis,
+greater at the lung
+bases. There is a small right pleural effusion. There is no
+consolidation or
+pneumothorax. The tracheobronchial tree is patent to
+subsegm

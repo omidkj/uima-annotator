@@ -1,0 +1,228 @@
+Admission Date:  [**2170-12-19**]              Discharge Date:   [**2170-12-24**]
+
+Date of Birth:  [**2095-1-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Bactrim / Vancomycin / Ambien / Augmentin / Cephalexin / IV Dye,
+Iodine Containing
+
+Attending:[**First Name3 (LF) 898**]
+Chief Complaint:
+Dyspnea
+
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+75yo male with complicated medical history including
+hypertension, hyperlipidemia, afib, and systolic CHF (EF of 30%)
+who is being admitted with dyspnea and altered mental status.
+The patient was his NH and he was seen alert and talking at 2pm.
+He was found at 3:30 extremely somulent with vomit in mouth.
+Initially responsive only to uncomfortable stimuli. With
+aggressive stimuli, later able to give [**12-29**] word answers. Initial
+vitals at NH were SBP 110/70, pulse 85, sat 85% RA, 100% on O2,
+BS 179. He was transferred to [**Hospital1 18**] ER for further eval. Of note
+the patient has had many previous admissions recently. Most
+recently for multilobar pneumonia, CHF, and mild anemia, last
+discharged on [**12-14**].
+.
+In the ED, initial VS:84 97.6 120/61 16 100% on NRB . An ABG
+showed mild hypercarbia and acidosis. Given his somnolence,
+hypercarbia, and DNR/DNI status, he was placed on BiPAP. CXR was
+concerning for worsening CHF but could not exclude an infectious
+process. He received Narcan with no effect. He received
+azithromycin, levofloxacin and 500cc of fluid. Vitals prior to
+transfer were 127/72, 70, rr 17
+.
+Currently, the patient is lying in bed with BIPAP in place. No
+longer using accessory muscles to breathe. Sleepy but arousable
+and fully oriented, answering questions in complete sentences.
+Pt. feels that his breathing has been worse over the last
+several days. Denies fevers, or chills and notes chronic
+unchanged non-productive cough. Denies chest pain.
+
+
+Past Medical History:
+-Hypertension
+-Hyperlipidemia
+-Dilated cardiomyopathy. EF 30% per echo [**2170-11-30**]
+-Atrial fibrillation s/p DCCV x 2 w/ reccurence and
+ablation [**2169-10-13**]
+-Chronic Systolic CHF, dry weight 196 lbs
+-h/o Pulmonary embolism
+-Rectal adenocarcinoma s/p transanal excision [**2166**]
+-s/p umbilical hernia repair with mesh
+-LLE insufficiency s/p ablation of L greater saphenous vein, c/b
+
+ulcer formation.
+-Adrenal insufficiency
+-Osteoarthritis s/p knee surgery
+-Spinal stenosis s/p back surgery
+-Allergic rhinitis
+-s/p nasal surgery
+-rosacea
+-actinic keratosis
+-h/o psychogenic polydipsia.
+-h/o SIADH
+-Subclavian artery stenosis causing chronic low L-arm BPs
+
+
+Social History:
+Home: usually lives at [**Hospital1 1501**], recently discharged to rehab after
+complicated admission
+Tobacco: 40 PPY smoking history but quit 34 years ago
+EtOH: 2-3 beers, [**1-30**] x per week
+Drugs: Denies
+Occupation: retired firefighter
+
+
+Family History:
+Brother deceased in 70's. No family history of early cardiac
+disease.
+
+Physical Exam:
+Vitals - T: 96.1, 137/64, 70, 100% on Bipap 12/5 RR 17
+GENERAL: BiPAP in place. Sleepy but arousable, NAD. Answering
+questions.
+HEENT: NCAT. Unable to assess further given BIPAP mask. No LAD.
+Neck supple. Unable to assess JVP given Bipap mask.
+CARDIAC: RRR. No murmurs.
+LUNG: Coarse rhonchi bilaterally at bases. Intermittent wheezes.
+No crackles.
+ABDOMEN: Soft, NT, ND. No masses. No rebound or guarding.
+EXT: WWP. No LE edema. 1+ upper extremity edema.
+NEURO: A+Ox3. Moving all extremities. Non focal.
+DERM: Multiple ecchymoses.
+
+
+Pertinent Results:
+Admission Labs:
+WBC-8.7 RBC-3.55* HGB-9.6* HCT-30.6* MCV-86 MCH-27.1 MCHC-31.4
+RDW-16.3*
+NEUTS-85.4* LYMPHS-9.3* MONOS-3.6 EOS-1.3 BASOS-0.3
+PLT COUNT-293
+GLUCOSE-125* UREA N-21* CREAT-1.8* SODIUM-135 POTASSIUM-4.7
+CHLORIDE-97 TOTAL CO2-30 ANION GAP-13
+LACTATE-0.7
+DIGOXIN-1.7
+CK-MB-3 proBNP-[**Numeric Identifier 98272**]*
+cTropnT-0.03*
+PT-19.3* PTT-42.0* INR(PT)-1.8*
+ABG - PO2-62* PCO2-63* PH-7.34* TOTAL CO2-35* on COMMENTS-NASAL
+[**Last Name (un) 154**]
+URINE  EOS-NEGATIVE   RBC-0 WBC-[**6-6**]* BACTERIA-OCC YEAST-NONE
+EPI-0-2  BLOOD-NEG NITRITE-NEG PROTEIN-25 GLUCOSE-NEG KETONE-NEG
+BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-SM HOURS-RANDOM UREA
+N-239 CREAT-48 SODIUM-96
+
+MICROBIOLOGY:
+[**10-31**] Sputum culture
+GRAM STAIN (Final [**2170-10-31**]):
+>25 PMNs and <10 epithelial cells/100X field.
+NO MICROORGANISMS SEEN.
+RESPIRATORY CULTURE (Final [**2170-11-9**]):
+Commensal Respiratory Flora Absent.
+YEAST. SPARSE GROWTH.
+KLEBSIELLA PNEUMONIAE. SPARSE GROWTH.
+WARNING! This isolate is an extended-spectrum beta-lactamase
+(ESBL) producer and should be considered resistant to all
+penicillins, cephalosporins, and aztreonam. Consider Infectious
+
+Disease consultation for serious infections caused by
+ESBL-producing species.
+KLEBSIELLA PNEUMONIAE
+|
+AMIKACIN-------------- <=2 S
+AMPICILLIN/SULBACTAM-- =>32 R
+CEFAZOLIN------------- =>64 R
+CEFEPIME-------------- R
+CEFTAZIDIME----------- R
+CEFTRIAXONE----------- R
+CEFUROXIME------------ R
+CIPROFLOXACIN--------- =>4 R
+GENTAMICIN------------ =>16 R
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO----- =>128 R
+TOBRAMYCIN------------ =>16 R
+TRIMETHOPRIM/SULFA---- =>16 R
+LEGIONELLA CULTURE (Final [**2170-11-7**]): NO LEGIONELLA ISOLATED.
+FUNGAL CULTURE (Preliminary):
+YEAST. OF TWO COLONIAL MORPHOLOGIES.
+.
+[**12-20**] Urine Culture - negative
+.
+[**2170-12-20**] 9:09 am SPUTUM     Site: EXPECTORATED
+      Source: Expectorated.
+
+   GRAM STAIN (Final [**2170-12-20**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CHAINS.
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST WITH
+PSEUDOHYPHAE.
+.
+[**2170-12-19**] 11:27 pm URINE        **FINAL REPORT [**2170-12-20**]**
+
+   Legionella Urinary Antigen  (Final [**2170-12-20**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+
+.
+STUDIES:
+EKG: v-Paced, no obvious ischemic changes
+.
+[**12-19**] CXR IMPRESSION:
+1. Persistent cardiomegaly, increased pulmonary edema and
+bilateral pleural effusions with bibasilar atelectasis, as
+above. Superimposed infectious process/pneumonia cannot be
+excluded and should be considered as clinically appropriate
+.
+.
+[**12-19**] CT Head IMPRESSION:
+1. No acute intracranial process.
+2. Chronic small vessel ischemic disease.
+.
+[**12-20**] ECHO
+The left atrium is markedly dilated. The right atrium is
+moderately dilated. Left ventricular wall thicknesses are
+normal. The left ventricular cavity is moderately dilated. There
+is moderate regional left ventricular systolic dysfunction with
+severe hypokinesis of the inferior and inferolateral walls, as
+well as distal septum (most consistent with multivessel CAD).
+There is mild hypokinesis of the remaining segments (LVEF =
+35%). The right ventricular cavity is mildly dilated with
+borderline normal free wall function. The aortic valve leaflets
+are moderately thickened. There is no aortic valve stenosis.
+Trace aortic regurgitation is seen. The mitral valve leaflets
+are moderately thickened. Moderate (2+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened. The
+supporting structures of the tricuspid valve are
+thickened/fibrotic. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Dilated left ventricle with moderate regional and
+global systolic dysfunction. Borderline right ventricular
+systolic dysfunction. Moderate mitral regurgitation. Moderate
+pulmonary hypertension.
+
+Compared with the prior study (images reviewed) of [**2170-11-30**],
+regional variation in LV dysfunction is now more apparent. LV
+cavity is marginally smaller and the systolic function is
+slightly more vigorous.
+
+
+Brief Hospital Course:
+75 yo M with a history of HTN, HL, Afib, with many recent
+admissions for multilobar pneumonia and CHF exacerbations who
+presents with respiratory distress.
+.
+# Respiratory distress: Current acute onset most consistent with
+an aspiration event, especially given vomit found in mouth.
+However, CXR and clinical exam was also concerning for volume
+overload. Acute new infection was felt to be less likely in the
+absence of fever, elevated WBC, or lactate.  He received
+noninvasive ventilation in the medical ICU, 

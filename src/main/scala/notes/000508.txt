@@ -1,0 +1,202 @@
+Admission Date:  [**2131-3-22**]              Discharge Date:   [**2131-4-20**]
+
+Date of Birth:  [**2064-6-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Abnormal labs; weakness, altered mental status
+
+Major Surgical or Invasive Procedure:
+Intubation
+Central venous line placement
+Arterial line placement
+Trach/Peg
+
+History of Present Illness:
+Mr. [**Known lastname 916**] is a 66 year old man with CKD (baseline Cr 1.7-2), CAD,
+chronic back pain and recent hospitalization after a fall with
+altered mental status and acute on chronic renal failure who
+presents from home with weakness. Patient was discharged from
+rehab two weeks ago. Was initially doing well at home, but
+started having difficulty getting up and being active for a
+week. Per report, increased confusion, waxing and [**Doctor Last Name 688**] in
+nature, over the last couple of days. VNA came to his home
+yesterday and drew labs which were notable for a elevated
+creatinine of 3.59 and hyperkalemia. He was brought to the ED
+for further evaluation and management.
+.
+In the ED, initial vs were: T 97.3 HR78 BP113/55 RR16 O2 sat95%
+RA. Initial ED labs were otherwise notable for K of 7.4,
+creatinine of 6.4 and BUN of 106. EKG with peaked T waves.
+Patient received kayexelate, calcium gluconate, bicarb, 10 units
+of insulin and 1 amp D50 with minimal improvement of K to 4.9
+(after an interval increase to 8.8). Renal was consulted and
+recommended renal u/s, more D50 with bicarb, and placement of an
+HD line for emergent dialysis. Three hours into his ED visit an
+EKG was done, which was remarkable for ST elevations in the
+inferior leads, II, III, aVF. Initial cardiac markers were
+notable for troponin 3.70, CK 3965 and MB 82. Repeat troponin 3
+hours later was 4.03. He was given aspirin 81, but given guaic
+positive stool heparin and plavix was held. Cardiology was
+notified and deferred catheterization secondary to time elapsed
+and his multiple other co-morbidities. Other notable labs from
+the ED included an initial WBC was 15 with 93% neutrophils. UA
+was notably dirty with >50 WBCs and a lactate of 2.2. Patient
+had a pH of 7.23 with an anion gap of 18. Patient's blood
+pressures dropped to 80s/50s, he received 3 liters of fluid in
+boluses and he was started on dopamine and neo. Pressures
+improved to 110s. Patient's sat's started to drop and he was
+showing signs of increased WOB. He was subsequently intubated
+with rocuronium and etomidate. LIJ HD catheter was placed. He
+was given a dose of Vancomycin and CTX for presumed urosepsis.
+.
+VS prior to transfer were afebrile, HR129 BP113/74 O2 sat 100%
+on vent. In the MICU, patient was intubated. Patient underwent
+beside echo with akinesis of inferior wall, EF of about 40%.
+.
+Review of systems: Unable to obtain given to patient's altered
+mental status.
+
+Past Medical History:
+Coronary Artery Disease
+Macular Degeneration
+Chronic back/leg pain secondary to DJD
+Tremor
+Peripheral Neuropathy
+Abdominal bruit
+Chronic Renal Failure believed secondary to vascular disease
+([**12-7**], Cr: 2.6 and BUN 49, K: 5.9)
+GERD
+Anemia ([**12-7**]: Hct: 33.5)
+Bilateral CEA
+Depression
+Hyperlipidemia
+Colonic polyps???
+COPD???, in record, however patient denies
+Left and Right Total hip replacements
+PVD: mild-moderate aorto-[**Hospital1 **]-ilac disease as noted in [**2119**]
+
+Social History:
+Denies current tobacco use (h/o 20+ pack year, quit 15-20 years
+ago) Admits to approximately 2+ beers most nights of the week.
+Denies h/o illicit drug use. Lives with wife.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+ON ADMISSION:
+Vitals: T 97.5 BP: 124/107 P: 118 R: 22 O2: 100% (on AC FIO2
+100%, PEEP 10, TV .500)
+General: Alert, intubated; follows simple commands
+HEENT: endotracheal tube in place; MMM, R eye with ptosis; PERRL
+Neck: supple, no JVD, LIJ HD catheter in place
+Lungs: Clear to auscultation in R field anteriorly; coarse BS in
+left anterior lung field;, no wheezes, rales
+CV: Tachycardic, normal S1 + S2, no murmurs, rubs, gallops
+Abdomen: soft, non-tender, mildly distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+GU: Foley in place
+Ext: cool to touch, diminished DP and PT pulses, intact radial
+pulses; non-blanching violaceous ischemic appearing macules on
+toes b/l; heel ulceration with deep necrosis R>L; no exudates or
+purulence visible; 1+ pedal edema
+Back: unstageable sacral decubitus ulcer with necrotic
+appearance
+.
+ON DISCHARGE:
+General Appearance: awake, alert, following commands, NAD
+HEENT: EOMI, sclera anicteric, mucus membranes moist
+Neck: trach collar in place, site clean and dry
+Cardiovascular: regular but slightly tachycardic, no r/m/g
+appreciated
+Respiratory / Chest: coarse BS bilaterally with decreased BS at
+bases, no wheezes or rales
+Abdomen: soft, NT/ND, bowel sounds present
+Extremities: right foot cooler than the left, warmer on exam
+today compared to yesterday
+Neurologic: alert, CNs grossly intact, sensation intact, still
+somewhat delirious, oriented to person, year, season
+
+Pertinent Results:
+ADMISSION LABS:
+WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+15.0* 3.40* 10.6* 32.2* 95 31.3 33.0 13.9 352
+Glucose UreaN Creat Na K Cl HCO3 AnGap
+131*1 106* 6.4* [**Numeric Identifier 28961**] 7.4*11 99 13*12 30*
+.
+PERTINENT LABS:
+[**2131-3-23**] 07:42  CK-MB MB Indx cTropnT
+                  157* 3.0 5.37*1
+[**2131-3-23**] 20:44  79* 2.3 4.95*1
+calTIBC VitB12 Folate Ferritn TRF
+ 233* 724 7.8 342 179*
+[**2131-4-18**] 15:45
+FiO2 O2 Flow pO2 pCO2 pH calTCO2 Base XS AADO2 REQ O2   Intubat
+Vent  12/     409* 44 7.46* 32* 7     ASSIST/CON1 INTUBATED
+.
+DISCHARGE LABS:
+WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+8.2 2.46* 8.0* 23.1* 94 32.6* 34.8 17.7* 62*
+Glucose UreaN Creat Na K Cl HCO3 AnGap
+143*1 56* 1.7* 145 4.0 105 28 16
+ALT AST AlkPhos TotBili
+44*2 229*3 65   0.2
+................................................................
+MICRO:
+[**2131-3-22**], [**2131-3-23**], [**2131-3-27**] Urine Cx: Enterococcus
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------     2 S
+.
+[**2131-3-29**] Blood Cx: Enterococcus
+AMPICILLIN------------  =>32 R
+DAPTOMYCIN------------       S
+LINEZOLID-------------     2 S
+PENICILLIN G----------  =>64 R
+VANCOMYCIN------------  =>32 R
+................................................................
+STUDIES:
+[**2131-3-22**] EKG: Sinus rhythm. Inferior ST elevation myocardial
+infarction. Compared to the previous tracing of [**2131-1-31**]
+myocardial infarction pattern is new.
+.
+[**2131-3-22**] CXR: Mild cardiomegaly, but no acute intrathoracic
+process.
+.
+[**2131-3-23**] TTE (Bedside): Left ventricular wall thicknesses are
+normal. The left ventricular cavity size is top
+normal/borderline dilated. LV systolic function appears
+depressed (ejection fraction 30%) secondary to severe
+hypokinesis/akinesis of the inferior and posterior walls. The
+right ventricular cavity is dilated with depressed free wall
+contractility. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion. The mitral valve leaflets
+are mildly thickened. There is no mitral valve prolapse. There
+is no pericardial effusion.
+Impression: inferior posterior infarction; right ventricular
+infarction
+.
+[**2131-3-23**] EKG: Sinus tachycardia. Inferior ST segment elevations
+with rare reciprocal precordial depressions are suggestive of
+inferoposterior myocardial infarction. Compared to the previous
+tracing ST-T wave changes are more extensive.
+.
+[**2131-3-23**] Renal U/S: Atrophy of the right kidney is unchanged. The
+left kidney is normal. No hydronephrosis or mass noted.
+.
+[**2131-3-24**] TTE: The left atrium is mildly dilated. Left ventricular
+wall thicknesses and cavity size are normal. There is moderate
+regional left ventricular systolic dysfunction with
+inferior/inferolateral akinesis and hypokinesis of the inferior
+septum. Doppler parameters are indeterminate for left
+ventricular diastolic function. The right ventricular cavity is
+mildly dilated with moderate global free wall hypokinesis. The
+ascending aorta is mildly dilated. The aortic valve leaflets (3)
+are mil

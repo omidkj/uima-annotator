@@ -1,0 +1,226 @@
+Admission Date:  [**2169-8-28**]              Discharge Date:   [**2169-9-18**]
+
+Date of Birth:  [**2107-1-12**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Paregoric / Heparin Agents
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+dizziness w/without activity
+
+Major Surgical or Invasive Procedure:
+Aortic Valve Replacement(23 St. [**Male First Name (un) 923**] Epic), CABGx2 (LIMA-LAD,
+SVG-OM)
+on [**8-29**] with Dr.[**Last Name (STitle) **]
+
+History of Present Illness:
+62 yo M found to have on routine PE with his PCP, [**Name Initial (NameIs) **] new murmur.
+On further work up echo revealed AS with [**Location (un) 109**] 0.7cm'2. Pt having
+symptoms of dizziness, fatigue, and SOB for nearly 1 year.
+Dr.[**Last Name (STitle) **] consulted for AVR.
+
+Past Medical History:
+s/p AVR (#23mm St.[**Male First Name (un) 923**] epic porcine)/CABG
+x2(LIMA->LAD/SVG->OM)[**8-29**] c/w HIT +
+
+AS
+ATN
+Raynaud's Syndrome
+Lumbar Stenosis
+Nasal polyps
+Ulnar nerve release
+L5-S1 Fusion'[**59**]
+L4-L5 Fusion '[**68**]
+(L)knee surgery
+torn bicep tendon
+open Appy
+
+
+Social History:
+married with 5 children
+current 1PPD (20py hx)
+lives with wife
+drinks [**1-7**] ETOH daily
+
+Family History:
+nc
+
+Physical Exam:
+a/o x 3
+nad
+cta
+rrr
+abd beingn
+eschar on fingertips
+palp radial and ulanar pulses
+sternal incision min. serous drainage and LLE mild erythema
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 33936**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 33937**]Portable TEE
+(Complete) Done [**2169-8-31**] at 9:16:58 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 1112**] W.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2107-1-12**]
+Age (years): 62 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: s/p AVR/CABG with poor hemodynamics in ICU.
+ICD-9 Codes: 799.02, 440.0, V43.3
+Test Information
+Date/Time: [**2169-8-31**] at 09:16    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD
+
+Test Type: Portable TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West SICU/CTIC/VICU
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine: aw2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+
+Findings
+
+Conclusions
+This was a directed, limited study to investigate this patient
+with poor hemodynamics in ICU.
+The patient had just begun a dobutamine infusion. HR is sinus at
+110.
+
+The RV is large and hypokinetic. TR is mild-moderate.
+The LV is dynamic and underfilled.
+There is no MR.
+[**First Name (Titles) **] [**Last Name (Titles) 33938**] aortic valve is well-seated with no leak and no
+AI.
+There is no pericardial collection.
+There is no LAA contrast.
+There is no clot or dissection of the aorta.
+There is no clot seen in the PA. The tip of the SGC is in the
+proximal right PA.
+
+[**2169-9-15**] 05:30AM BLOOD
+
+WBC-8.5 RBC-3.09* Hgb-10.5* Hct-32.0* MCV-104* MCH-33.9*
+MCHC-32.7 RDW-14.6 Plt Ct-217
+
+[**2169-9-8**] 05:05PM BLOOD
+
+Neuts-75.4* Lymphs-16.2* Monos-6.4 Eos-1.3 Baso-0.7
+
+[**2169-9-17**] 06:35AM BLOOD
+
+UreaN-14 Creat-0.9 K-4.3
+
+[**2169-9-11**] 06:15AM BLOOD
+
+Mg-1.9
+
+[**2169-9-10**] 06:30AM BLOOD
+
+ALT-340* AST-118* LD(LDH)-302* AlkPhos-176* TotBili-2.2*
+[**2169-9-18**] 05:43AM BLOOD WBC-8.4 RBC-3.37* Hgb-11.3* Hct-34.9*
+MCV-104* MCH-33.5* MCHC-32.4 RDW-14.7 Plt Ct-260
+[**2169-8-28**] 12:30PM BLOOD WBC-5.0# RBC-3.43* Hgb-12.6* Hct-35.9*
+MCV-105* MCH-36.6*# MCHC-35.1* RDW-13.6 Plt Ct-214
+[**2169-9-18**] 08:55AM BLOOD PT-36.0* PTT-49.4* INR(PT)-3.8*
+[**2169-8-28**] 12:30PM BLOOD PT-12.8 PTT-29.8 INR(PT)-1.1
+[**2169-9-18**] 05:43AM BLOOD Glucose-95 UreaN-14 Creat-1.0 Na-137
+K-4.5 Cl-105 HCO3-24 AnGap-13
+[**2169-9-18**] 05:43AM BLOOD ALT-154* AST-109* LD(LDH)-236
+AlkPhos-185* Amylase-136* TotBili-0.8
+[**2169-8-31**] 03:02AM BLOOD ALT-2815* AST-4685* LD(LDH)-3502*
+AlkPhos-68 Amylase-23 TotBili-1.6*
+    [**Known lastname 33936**],[**Known firstname **] [**Medical Record Number 33939**] M  62  [**2107-1-12**]
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2169-9-16**] 9:57 AM
+
+
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) 1112**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] FA6A [**2169-9-16**] SCHED
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 33940**]
+Reason: ? Pneumothorax, assess sternum s/p avr and cabg
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   62 year old man s/p avr and cabg
+REASON FOR THIS EXAMINATION:
+   ? Pneumothorax, assess sternum s/p avr and cabg
+
+
+
+Final Report
+CHEST PA AND LATERAL
+
+REASON FOR EXAM: 62-year-old man status post AVR and CABG.
+Assess sternum
+pneumothorax, status post AVR and CABG.
+
+Since [**2169-9-5**], bilateral pleural effusion decreased.
+Tiny residual
+left pleural effusion persists. There is no overload. Lungs are
+otherwise
+clear. The cardiomediastinal silhouette and hilar contours are
+normal. There
+is no pneumothorax.
+
+Wires of prior sternotomy are intact. Right PICC ends in the
+subclavian.
+Right internal jugular catheter sheath was removed. Old right
+rib fractures
+are unchanged.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**First Name8 (NamePattern2) 4078**] [**Name (STitle) 4079**]
+DR. [**First Name11 (Name Pattern1) 3993**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3994**]
+Approved: SAT [**2169-9-16**] 1:08 PM
+
+  Imaging Lab
+
+
+
+Brief Hospital Course:
+[**2169-8-29**] Mr.[**Known lastname **] [**Last Name (Titles) 1834**] AVR(#23mm St.[**Male First Name (un) 923**] Epic Supra
+Porcine Valve)/CABG x2 (lima->Lad/SVG->OM). Please refer to
+Dr[**Doctor Last Name **] operative note for further details.
+XCT:84min,CPB:107minutes. He was intubated, sedated, requiring
+Epi and Neo to optimize his BP and CO. Upon arrival to the
+CVICU, his SVO2 dropped with associated hypotension and
+elevated PA pressures. CXR revealed a right upperlobe collapse.
+He was bronched at the bedside to assist reexpansion. During the
+postoperative night Precedex was initiated due to Mr.[**Known lastname 33941**]
+severe agitation and hemodynamic instability with waking. EPI
+and neo were weaned to off with the initiation of Dobutamine.
+Folate, Thiamine, and Ativan were used to treat his current ETOH
+abuse hx. He remained in the ICU for 6 days postop to recover
+from hemodynamic instability, weaning from the ventilator, and
+shock liver with recovering LFTs. All lines and drains were
+discontinued while in the CVICU. On POD#7 After PICC line
+insertion for access was completed, Mr.[**Known lastname **] was doing well
+and transferred to the SDU for further telemetry monitoring and
+increased activity/ambulation with PT. mr. [**Known lastname **] was noted to
+be thrombocytopenic and the hematology service was consulted. An
+initial HIT assay was negative from [**2169-8-31**]. A PF4 antibody was
+obtained and was strongly positive. Argatroban was started and
+all heparin products and aspirin were discontinued. Coumadin was
+started when his platelets were greater then 100,000. Argatroban
+was overlapped with coumadin until his INR had been therapeutic
+for three days. He did have some purpura and discomfort in his
+fingertips, wound care Rn was consulted for reccommendations.
+NTG topical was started, placed on necrotic fingertips. Some
+recovery noted and vascular was consulted.Mr.[**Known lastname **] continued
+to progress while waiting for his INR to become therapeutic. On
+POD# 20 he was ready for discharge to home with VNA. His PCP,
+[**Last Name (NamePattern4) **].[**Last Name (STitle) 6707**] has agreed to follow his INR and Coumadin dosing. An
+appointment for follow up was scheduled for [**2169-9-19**]. As
+discussed with Hematology, Coumadin is to be continued for 3
+months with an INR goal [**2-5**]. A course of keflex was initiated
+for an erythematous left lower leg EVH site,which is not
+draining, and approximately 1cm opening on the mid sternotomy
+incision, with minimal serous drainage. . Per Dr.[**Last Name (STitle) *

@@ -1,0 +1,192 @@
+Admission Date:  [**2187-5-12**]              Discharge Date:   [**2187-5-22**]
+
+Date of Birth:  [**2102-5-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+The patient is an 85-year-old female with a h/o CAD, CHF 20-25%
+with apical hypokinesis, who presented with a 5 day history of
+shortness of breath. She went to [**Hospital1 **] [**Location (un) 620**] and was noted to be
+in acute heart failure. She was also found to have a troponin of
+0.05 with an abnormal EKG and was ASA 325mg, NG, Lasix, and
+started on a heparin drip. She never endorsed chest pain. En
+route she pulled out both IVs and tried to bite EMS.
+.
+In the ED, initial VS: 97.6 64 110/36 22. Her symptoms were
+almost resolved. EKG was noted to have STE v1-v4 with TWI in I
+and aVL, but were similar comapared to priors on [**4-9**] and
+11/[**2185**]. CXR and EKG showed no change compared to that from OSH.
+However patient now recognized to be delirious and agitated and
+received haldol 2.5IV X2. She was placed in soft restraints.
+Cardiology was consulted to review the case, recommended
+continuation of heparin. She was initally admitted to [**Hospital1 1516**] for
+heart failure and possible ACS. However, patient then
+decompensated with possible flash pulmonary edema, was started
+on nitro gtt, 40mg lasix with over 400ml out then continued to
+put out. She was delerious requiring restraints. She was placed
+on bipap for about one hour, now on NRB and weaning.
+.
+Of note, she was quite agitated and she received haldol 2.5mg IV
+x3 and ativan 0.5 x1 over the night. She had a baseline
+dementia, still altered and confused. Baseline mental status was
+unclear and her records are in [**Name (NI) 620**]. She also recieved
+Morphine 1mg x1 this am, is currently on heparin, nitro gtt.
+.
+On the floor, patient was on a non-rebreather and denied any
+acute complaints.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Diabetes, +Dyslipidemia, -Hypertension
+2. CARDIAC HISTORY:
+- CHF EF 20-25% followed by Dr. [**Last Name (STitle) **]
+- CAD status post MI
+- LV aneurysm with thrombus on echo in [**11-8**]
+- CABG: None
+- PERCUTANEOUS CORONARY INTERVENTIONS: Unknown
+- PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY:
+- Chronic kidney disease- stage III (creatinine 1.4 at [**Hospital1 18**]
+[**Location (un) 620**] in [**11-8**])
+- Restless leg syndrome
+- Dementia
+- Hypothyroidism
+
+Social History:
+She lives at home with 24-hour care. She is dependent for ADLs.
+She does not drink alcohol or smoke.
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+On Admission:
+VS: T=99.8 BP=170/47mmHg HR=91 RR=22 O2 sat=99%
+GENERAL: Non-rebreather in place, restraints on; patient
+agitated, trying to remove restraints; oriented to person,
+hospital ([**Hospital1 112**]), and [**Month (only) 116**].
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP to the earlobe at 45 degrees.
+CARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4 appreciated.
+LUNGS: Crackles b/l, no wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e.
+SKIN: No stasis dermatitis. Small scabs on her b/l pre-tibial
+areas.
+PULSES:  [**Name (NI) **] PTs and DPs b/l.
+.
+On Discharge:
+
+Pertinent Results:
+[**2187-5-12**] 12:10AM   WBC-7.2 RBC-4.57 HGB-12.6 HCT-37.6 MCV-82
+MCH-27.7 MCHC-33.6 RDW-14.8
+[**2187-5-12**] 12:10AM   NEUTS-69.5 LYMPHS-21.9 MONOS-5.5 EOS-2.4
+BASOS-0.7
+[**2187-5-12**] 12:10AM   PLT COUNT-188
+[**2187-5-12**] 12:10AM   PT-13.6* PTT-43.3* INR(PT)-1.2*
+.
+[**2187-5-12**] 12:10AM   GLUCOSE-229* UREA N-40* CREAT-1.4* SODIUM-141
+POTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-28 ANION GAP-18
+[**2187-5-15**] 04:44AM BLOOD Glucose-232* UreaN-58* Creat-1.6* Na-140
+K-4.2 Cl-100 HCO3-27 AnGap-17
+.
+[**2187-5-12**] 11:56AM   TSH-58*
+[**2187-5-13**] 05:23AM BLOOD T4-3.2*
+[**2187-5-14**] 05:52AM BLOOD Free T4-0.40*
+.
+[**2187-5-12**] 12:10AM BLOOD CK(CPK)-877*
+[**2187-5-12**] 11:56AM BLOOD CK(CPK)-1486*
+[**2187-5-12**] 06:29PM BLOOD CK(CPK)-2396*
+[**2187-5-13**] 05:23AM BLOOD CK(CPK)-2877*
+[**2187-5-14**] 05:52AM BLOOD CK(CPK)-1789*
+[**2187-5-12**] 12:10AM BLOOD cTropnT-0.08*
+[**2187-5-12**] 06:00AM BLOOD cTropnT-0.16*
+[**2187-5-12**] 11:56AM BLOOD CK-MB-17* MB Indx-1.1 cTropnT-0.25*
+[**2187-5-12**] 06:29PM BLOOD CK-MB-21* MB Indx-0.9 cTropnT-0.21*
+[**2187-5-14**] 05:52AM BLOOD CK-MB-16* MB Indx-0.9 cTropnT-0.18*
+.
+ECG ([**2187-5-12**] 12:10:38 AM)
+Artifact is present. Sinus rhythm. Left axis deviation. Left
+ventricular hypertrophy with associated ST-T wave changes. There
+are Q waves in the anterior leads with ST segment elevation in
+the anterior and anterolateral leads with terminal T wave
+inversion consistent with acute or evolving infarction. Clinical
+correlation is suggested.
+TRACING #1
+.
+ECG ([**2187-5-12**] 5:36:38 AM)
+Artifact is present. Sinus tachycardia. Left axis deviation.
+There are Q waves in the anterior leads with ST segment
+elevation in the anterior and nterolateral leads consistent with
+acute or evolving infarction. Left ventricular hypertrophy with
+associated ST-T wave changes. Compared to the previous tracing
+of the same date the rate is faster.
+TRACING #2
+.
+ECG ([**2187-5-13**]  10:12:04 AM)
+Sinus rhythm. Left axis deviation. Left ventricular hypertrophy
+with associated ST-T wave changes. There are Q waves in the
+anterior leads with ST segment elevation in the anterior and
+anterolateral leads with terminal T wave inversion consistent
+with acute or evolving infarction. Compared to he previous
+tracing of [**2187-5-12**] the rate is slower.
+TRACING #3
+.
+CHEST (PORTABLE AP) ([**2187-5-12**] 12:00 AM)
+IMPRESSION: Mild cardiomegaly. Diffusely increased interstitial
+markings, likely represent CHF in this setting.
+.
+CHEST (PORTABLE AP) ([**2187-5-15**] 1:26 PM)
+FINDINGS: In comparison with the study of [**4-12**], there is little
+overall change. Low lung volumes may contribute to the
+prominence of the transverse diameter of the heart. Diffuse
+prominence of pulmonary markings bilaterally may be slightly
+improved, relating to the diuresis. Although this may represent
+elevated pulmonary venous pressure, the possibility of severe
+underlying chronic pulmonary disease must be considered.
+
+Brief Hospital Course:
+85 year old woman with h/o CHF (EF 20-25% in [**11-8**]), CAD s/p MI,
+DM, hypothyroidism, and dementia transferred from [**Hospital1 18**] [**Location (un) 620**]
+with acute shortness of breath consistent with acute CHF
+exacerbation, in house found to be profoundly hypothyroid.
+
+# CHF Exacerbation: Admitted with hypoxemia, requiring
+non-rebreather and CXR suggestive of florid pulmonary edema.
+Known EF 20-25% and LV thrombus on echo in [**11-8**]. Unclear reason
+for decompensation - medication non-compliance vs. ischemia vs.
+dietary non-compliance. TSH 58 and hypothyroidism (FT4 0.4) can
+lead to worsened diastolic dysfunction so this could be
+contributing. Was actively diuresed at first successfully, over
+past 24h reacted less to lasix and developed othro-hypo,
+Diuresis held [**5-15**] with even goal, [**5-16**] +300cc for 24h, lungs
+sound more congested this morning but clinically stable and not
+hypoxic. Her metoprolol 12.5mg [**Hospital1 **] was continued. As her blood
+pressures and creatinine were stable, home lisinopril 5mg was
+started [**5-15**]. She was also put on a cardiac healthy, low Na diet
+and her I/Os were targeted to be even. She was gradually weaned
+down from 2L delivered via nasal cannulae to O2 sats of the
+low-90s on room air. Patient remained euvolemic with no need for
+diuresis in house on days preceding discharge. Decision made to
+hold diuresis at time of discharge.
+.
+OUTPATIENT ISSUES:
+- Continue metoprolol XL
+- Consider performing echocardiography to reassess functional
+status and ejection fraction
+- Follow-up with new cardiologist at [**Location (un) 620**]

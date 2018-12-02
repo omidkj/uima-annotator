@@ -1,0 +1,242 @@
+Admission Date:  [**2164-5-11**]              Discharge Date:   [**2164-5-14**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3556**]
+Chief Complaint:
+CC: fever, abd pain, vomiting
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+HPI: [**Age over 90 **] yo M recent UTI on cipro p/w 7 hours fever, abd pain and
+vomiting, chronic nonprod cough. In the ED, the patient was
+found to have a new RLL infiltrate concerning for PNA (not seen
+on CXR [**5-2**] done at NEBH), received ceftriaxone/flagyl for
+community-acquired. He was tachycardic and borderline
+hypotensive, unclear if SBP dropped below 90 mmHg at any point,
+lactate 2.9 on presentation down to 1.9 with IVF. A RIJ central
+line was placed. He received aggressive fluid resuscitation with
+5L NS. RLL process appeared worse on his second CXR (after fluid
+resuscitation). EKG was without concerning features (no
+comparison available). Though his MS was near baseline per
+family on admission, after becoming hypotensive his MS
+deteriorated and he was given Haldol.
+.
+Labs notable for: low nl WBC count with 16% bands; Hct drop from
+42% by CBC to 35% by VBG after IVF; BUN 24/Cr 1.2, likely some
+renal insufficiency given his age and weight; AP 434, [**Doctor First Name **] 104;
+TnT 0.03, other enzymes pending; urine concentrated, acidic,
+otherwise clear. APACHE II score around 14, with subsequent
+mortality estimate around 18%.
+.
+After receiving 5L NS in the ED, he was found to have worsening
+hypoxemia, currently only 90% on 100%NRB face mask. The ED staff
+discussed with the family regarding intubation, and they
+ultimately agreed. Advised the ED to consider MRSA and resistant
+GNRs, and to think about changing his abx to include Vanc and
+either Ceftaz, Cefipime, Zosyn. Pt to be intubated shortly. ED
+staff to re-examine pt and check repeat (3rd) CXR to look for
+new pulm edema in setting of aggressive volume repletion, and to
+give Lasix if evidence of new CHF.
+.
+ROS: unable to obtain as pt noncommnunicative
+
+
+Past Medical History:
+PMH:
+-s/p CCY
+-urinary spasm? (on Detrol)
+-recent UTI (on Cipro recently)
+*** apparently has not seen a doctor in years ***
+.
+Meds at home:
+-Detrol
+-Ativan
+-Mucinex
+-recent Cipro
+
+
+Social History:
+SH: lives at home with his wife; daughter is HCP; no known etoh
+or drugs.
+
+Family History:
+
+FH: non contributory
+
+
+Physical Exam:
+PE
+Vitals: T 103.4 , HR 107 , BP 100/60 , Vent settings : A/C TV
+500cc ,RR 12 , PEEP 5, FiO2 100% SpO2 99 %
+Gen: elderly man, lying in bed, sedated and minimally
+interactive, no apparent distress
+HEENT: NCAT, EOMI (tracking movements), MMM
+Neck: supple
+CV: distant, RRR, no M/R/G
+Chest: + bronchial sounds, mild diffuse wheeze
+Abd: soft, +abdominal muscle recruitment in exhalation
+Ext: 1+ LE edema
+
+
+Pertinent Results:
+[**2164-5-11**] 06:19PM   WBC-11.6* RBC-3.54* HGB-10.6* HCT-32.2*
+MCV-91 MCH-29.9 MCHC-32.9 RDW-15.0
+[**2164-5-11**] 03:40PM   GLUCOSE-83 UREA N-21* CREAT-0.8 SODIUM-144
+POTASSIUM-4.0 CHLORIDE-119* TOTAL CO2-16* ANION GAP-13
+[**2164-5-11**] 06:19PM   PT-18.6* PTT-43.2* INR(PT)-1.8*
+[**2164-5-11**] 11:28AM   TYPE-ART TEMP-39.4 RATES-[**11-3**] TIDAL VOL-500
+PEEP-5 O2-100 PO2-261* PCO2-38 PH-7.31* TOTAL CO2-20* BASE XS--6
+AADO2-411 REQ O2-72 INTUBATED-INTUBATED VENT-CONTROLLED
+[**2164-5-10**] 10:35PM   ALBUMIN-3.6 CALCIUM-9.0 PHOSPHATE-2.5*
+MAGNESIUM-2.3
+[**2164-5-10**] 10:35PM   cTropnT-0.03*
+
+    Cardiology Report ECHO Study Date of [**2164-5-11**]
+
+
+
+PATIENT/TEST INFORMATION:
+Indication: Congestive heart failure. Endocarditis.
+Height: (in) 69
+Weight (lb): 146
+BSA (m2): 1.81 m2
+BP (mm Hg): 132/47
+HR (bpm): 105
+Status: Inpatient
+Date/Time: [**2164-5-11**] at 10:19
+Test: Portable TTE (Focused views)
+Doppler: Limited Doppler and color Doppler
+Contrast: None
+Tape Number: 2007E033-1:00
+Test Location: East MICU
+Technical Quality: Suboptimal
+
+
+
+
+REFERRING DOCTOR: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+
+MEASUREMENTS:
+Left Ventricle - Ejection Fraction: 55% to 65% (nl >=55%)
+Aorta - Valve Level: 3.5 cm (nl <= 3.6 cm)
+Aorta - Arch: *4.9 cm (nl <= 3.0 cm)
+
+INTERPRETATION:
+
+Findings:
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+systolic function
+(LVEF>55%). Suboptimal technical quality, a focal LV wall motion
+abnormality
+cannot be fully excluded.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Resting
+tachycardia (HR>100bpm).
+
+Conclusions:
+Left ventricular wall thickness, cavity size, and systolic
+function are normal
+(LVEF>55%). Due to suboptimal technical quality, a focal wall
+motion
+abnormality cannot be fully excluded. Right ventricular chamber
+size and free
+wall motion are normal. There is no pericardial effusion.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD on [**2164-5-11**] 17:21.
+
+[**Location (un) **] PHYSICIAN: [**Name10 (NameIs) **],[**First Name3 (LF) **]
+
+
+    RADIOLOGY  Final Report
+
+CT ABDOMEN W/CONTRAST  [**2164-5-11**] 9:05 PM
+
+CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+
+Reason: assess for abscess
+Field of view: 36
+
+[**Hospital 93**] MEDICAL CONDITION:
+[**Age over 90 **] year old man with fever and bandemia.
+REASON FOR THIS EXAMINATION:
+assess for abscess
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+CLINICAL HISTORY: [**Age over 90 **]-year-old male with fever and bandemia.
+Evaluate for abscess.
+
+COMPARISON: None.
+
+TECHNIQUE: Contrast-enhanced MDCT acquired axial images of the
+abdomen and pelvis from the lung bases to the pubic symphysis.
+Multiplanar reformatted images were obtained.
+
+CT OF THE ABDOMEN: The lung bases demonstrate patchy areas of
+opacity, likely inflammatory. Basilar atelectasis and small
+bilateral pleural effusions are identified.
+
+No focal liver lesion is identified. The gallbladder is not
+visualized. The spleen and adrenal glands are unremarkable. The
+kidneys enhance and excrete contrast symmetrically. Multiple low
+density lesions are seen within bilateral kidneys, the right is
+more complex with septation. The pancreas demonstrates diffuse
+calcification, which may represent chronic pancreatitis. A
+hiatal hernia is present. Second portion of the duodenum is
+somewhat dilated, the remainder of the small bowel is normal in
+caliber, without evidence of obstruction. Large bowel is
+unremarkable. The aorta is densely calcified. However, proximal
+celiac, SMA, [**Female First Name (un) 899**] are opacified. There is small aneurysms of
+bilateral renal arteries. No intra- abdominal free fluid, free
+air is identified. No retroperitoneal or mesenteric
+lymphadenopathy is appreciated.
+
+CT OF THE PELVIS WITH INTRAVENOUS CONTRAST: The rectum is fecal
+loaded. The sigmoid colon is unremarkable. A Foley catheter is
+seen within a decompressed bladder. The prostate is
+unremarkable. No free fluid or lymphadenopathy is appreciated.
+
+BONE WINDOWS: There is diffuse demineralization of the bones.
+Multilevel degenerative changes are seen throughout the
+thoracolumbar spine. Compression fracture of T12 is identified,
+of undetermined chronicity. Mutiple Tarloff cysts are present.
+THere is pagetoid change within both femurs and iliac bones.
+
+IMPRESSION:
+
+1. Small bilateral pleural effusions and adjacent compressive
+atelectasis.
+
+2. Diffuse calcifications throughout the pancreas likely
+representing chronic pancreatitis.
+
+3. Multiple low-density lesions within bilateral kidneys,
+incompletely characterized.
+
+4. Diffuse atherosclerotic calcifications throughout the aorta
+and branch vessels.
+
+5. Multilevel degenerative changes throughout the thoracolumbar
+spine with compression deformity of T12 of undetermined
+chronicity. There is diffuse demineralization of the bones.
+
+6. No evidence of obstruction or intra-abdominal abscess.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name8 (NamePattern2) **] [**Name (STitle) 7410**]
+DR. [**First Name11 (Name Pattern1) 8711**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+Approved: SAT [**2164-5-12**] 8:55 PM
+
+    RADIOLOGY  Final Report

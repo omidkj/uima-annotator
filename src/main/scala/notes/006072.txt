@@ -1,0 +1,214 @@
+Admission Date:  [**2168-2-20**]              Discharge Date:   [**2168-3-2**]
+
+Date of Birth:  [**2109-12-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Captopril / Vancomycin
+
+Attending:[**First Name3 (LF) 5037**]
+Chief Complaint:
+N/V, abdominal pain ,shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Pt is a 58 yo woman s/p pancreas/kidney transplant ([**2159**]), CAD,
+hypercholesterolemia, HOCOM p/w chest and abd pain. Patient
+reports that 2 weeks ago she developed an upper respiratory
+infection with a cough, runny nose and shortness of breath.
+Cough was production with one episode of blood tinged sputum.
+She noted increasing shortness of breath 4 days ago. Two days
+ago she developed N/V (4 episodes of vomiting at home), as well
+as abd pain and intermittent sub sternal chest pain. The chest
+pain is poorly characterized, sometimes worse with eating and
+deep inspiration, non-radiating. She also notes that she has had
+dysuria x 1 week, and ? of urinary frequency.
+.
+In [**Name (NI) **], pt [**Name (NI) 20851**]. Labs notable for elevated [**Doctor First Name **] 190, elevated lip
+374, bicarb 6, AG 16 (gap and non-gap acidosis), BUN/Cr 54/1.7
+(baseline cr 1.0-1.1), K 5.5, WBC 10 (baseline 5), Hct elevated
+at 41.9 (baseline 28-32). Lactate nl. CXR fairly unchanged.
+Transplant surgery consulted in ED -> no current surgical
+issues. Renal fellow notified -> recommended IV bicarb and will
+see in AM. In [**Name (NI) **], pt given 2500cc NS, SL nitro x 1 (no relief of
+CP), lopressor 5mg IV x 1, morphine 2mg IV x 1, maalox 30mL x 1,
+kayexalate 15mg x 1.
+.
+On arrival to floor vitals were as follows: T 97.4, BP 106/54,
+HR 85, RR 28, O2 98% 4L NC. Admitting resident noted that
+patient was increasingly tachypneic. Her repeat labs again
+demonstrated a bicarb of 7. No bicarb had been given in the ED.
+An ABG on the floor was: 7.20/19/156. Given her increased
+respiratory rate and concern for her metabolic derangements, she
+was transferred to the unit for further monitoring.
+.
+At present, she feels that her shortness of breath is slightly
+improved. She is denying chest pain, abdominal pain, pain over
+renal or pancreatic graft or nausea. She denies diarrhea - has
+not moved her bowels in several days. No BRBPR.
+
+
+Past Medical History:
+- DM1 - s/p pancreas/kidney transplant in [**2159**]
+- CAD - cath [**5-21**] - LAD - distal 60% stenosis distally before
+the apex, LCx - 50% stenosis in one branch, RCA - dominant
+vessel with mild diffuse disease, PDA - 70% mid-vessel stenosis
+
+- ECHO [**11-22**] LVEF > 55%, PFO present
+- history of obstructive cardiomyopathy (LV outflow tract with a
+41 mm Hg gradient at rest)
+- HTN
+- Hypercholesterolemia
+- SCCA vulva s/p vulvectomy
+- Anemia
+- Vit D deficiency
+- hx of spetic knee in [**10-22**] - asp grew strep viridans
+- chronic UTIs - hx of MRSA UTI, on supressive therapy
+
+
+Social History:
+Pt was a pediatrician in Russian, came to US many years ago.
+Lives alone in [**Location (un) **]; she has a male partner. She has never
+smoked and does not drink.
+
+Family History:
+non-contributory
+
+Physical Exam:
+Vitals on arrival to MICU
+T 95.5 HR 71 BP 123/54 RR 22 sat 100% ra
+Gen - NAD, chronically ill appearing
+HEENT - asymmetric pupils, dry MM
+CVS - RRR, nl S1, S2, no m/r/g
+Lungs - CTA b/l
+Abd - soft, NT/ND, no tenders over pancreatic or renal grafts
+Ext - warm, DP 2+ b/l, no LE edema b/l
+Neuro - aao x 3
+
+
+Pertinent Results:
+Admission labs:
+[**2168-2-20**] 09:38PM   K+-5.4*
+[**2168-2-20**] 08:20PM   ALT(SGPT)-11 AST(SGOT)-15 AMYLASE-190* TOT
+BILI-0.2
+[**2168-2-20**] 08:20PM   LIPASE-374*
+[**2168-2-20**] 08:20PM   WBC-10.4# RBC-4.61# HGB-14.1# HCT-41.9#
+MCV-91 MCH-30.6 MCHC-33.7 RDW-14.1
+[**2168-2-20**] 08:20PM   PLT COUNT-237
+[**2168-2-20**] 08:20PM   PT-12.3 PTT-34.1 INR(PT)-1.1
+[**2168-2-20**] 07:13PM   GLUCOSE-120* UREA N-54* CREAT-1.7* SODIUM-134
+POTASSIUM-5.5* CHLORIDE-112* TOTAL CO2-6* ANION GAP-22*
+[**2168-2-20**] 07:13PM   estGFR-Using this
+[**2168-2-20**] 07:13PM   CK(CPK)-33
+[**2168-2-20**] 07:13PM   CK-MB-NotDone cTropnT-<0.01
+.
+MICRO:
+[**2168-2-21**] 7:33 am URINE     Site: CLEAN CATCH
+
+                            **FINAL REPORT [**2168-2-23**]**
+
+   URINE CULTURE (Final [**2168-2-23**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Trimethoprim/Sulfa sensitivity testing confirmed by
+[**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------     4 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+.
+Blood culture NGTD
+.
+Imaging:
+RUQ Ultrasound:
+IMPRESSION:
+1. Normal gallbladder and no biliary ductal dilatation.
+2. Small subcentimeter hepatic parenchymal calcification is of
+doubtful significance and may represent a calcified granuloma or
+other remote insult.
+.
+Renal Transplant US:
+IMPRESSION: Doppler flow demonstrated within the transplanted
+pancreas and kidneys, with mildly elevated resistive indices as
+described. No evidence of abnormal fluid collections adjacent to
+the transplanted organs. No evidence of hydronephrosis within
+the transplanted kidney. Transplanted pancreas appears of
+homogeneous echotexture.
+.
+Head CT:
+IMPRESSION:
+1. No evidence of acute intracranial hemorrhage.
+2. Diffuse sinus disease.
+.
+ECHO:
+Conclusions:
+The left atrium is normal in size. A left-to-right shunt across
+the
+interatrial septum is seen at rest. A secundum type atrial
+septal defect is present. There is mild symmetric left
+ventricular hypertrophy. Overall left ventricular systolic
+function is normal (LVEF 70%). There is no ventricular septal
+defect. Right ventricular chamber size and free wall motion are
+normal. There are focal calcifications in the aortic arch. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Moderate (2+)
+mitral regurgitation is seen. [Due to acoustic shadowing, the
+severity of mitral regurgitation may be significantly
+UNDERestimated.] The tricuspid valve leaflets are mildly
+thickened. Moderate [2+] tricuspid regurgitation is seen. There
+is mild pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+Impression: secundum atrial septal defect; no resting outflow
+tract gradient is present at this time
+.
+CT Abd/Pelvis:
+CT OF ABDOMEN WITHOUT IV CONTRAST: The liver is diffusely
+hypodense consistent with fatty infiltration. The spleen
+contains areas of calcifications. This is of indeterminate
+significance. The adrenal glands are unremarkable. Both kidneys
+are atrophic. Loops of small and large bowel are unremarkable.
+Fatty replacement of the patient native pancreas is noted. The
+gallbladder has normal appearance with no stones. Extensive
+vascular calcification is noted within the aorta and its major
+branches. Shotty mesenteric and retroperitoneal lymph nodes are
+noted. No free air or fluid is seen within the abdomen.
+
+CT OF PELVIS WITHOUT IV CONTRAST: The transplanted kidney is
+visualized in left lower quadrant. Few small areas of low
+attenuation are visualized in the transplanted kidney likely
+representing simple cysts. Transplanted pancreas is visualized
+in the right lower quadrant. No fatty stranding is seen
+surrounding the transplanted pancreas to suggest pancreatitis.
+The urinary bladder, distal ureters, and pelvic loops of small
+and large bowel are unremarkable. Vascular calcification is
+noted.
+
+BONE WINDOWS: No concerning lytic or sclerotic lesions are seen.
+
+IMPRESSION:
+1. No evidence of pancreatiti

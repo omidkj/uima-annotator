@@ -1,0 +1,290 @@
+Admission Date:  [**2174-11-7**]              Discharge Date:   [**2174-11-16**]
+
+
+Service: SURGERY
+
+Allergies:
+Sulfonamides / Mevacor / Dicloxacillin
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+Failed graft
+
+Major Surgical or Invasive Procedure:
+Pelvic angiography with left lower extremity run off. This
+corresponds with CPT [**Numeric Identifier 7534**], [**Numeric Identifier 4238**], and [**Numeric Identifier 8881**].
+
+PROCEDURES:
+
+1. Thrombectomy of left femoral-to-popliteal bypass graft.
+2. Resection of left vein graft aneurysm.
+3. Left femoral-to-peroneal bypass graft with arm vein.
+4. Harvest of left arm basilic vein.
+5. Angioscopy, vein inspection and valve lysis.
+
+
+History of Present Illness:
+The patient is a [**Age over 90 **]-year-old female with a history of bilateral
+bypass grafts. The one on her index leg has been patent since
+[**2161**]. She presented somewhat acutely with a cold, blue foot. She
+was heparinized and taken to the
+angio suite which showed, as expected, occlusion of whole bypass
+graft and, unfortunately, only reconstitution was a peroneal
+artery that was not in continuity with the ankle.
+
+There was a collateral that then fed into the anterior tibial
+artery. There was no percutaneous treatment that could be
+performed. Lysis or an AngioJet of the vein graft was not
+realistic given the size of the graft and the size of the
+clot as well as the age of the patient. The patient underwent
+vein mapping and, unfortunately, only had one segment of basilic
+vein. The decision was made to try to thrombectomize the graft
+and do a revision down to the peroneal artery as
+the only chance. The family and the patient were told that the
+likelihood of success was moderate at best and if it did not
+work that there would be no further treatment possible.
+
+
+Past Medical History:
+Peripheral vascular disease s/p multiple bypass surgeries.
+CAD s/p MI in [**2163**] (last echo in [**7-12**]. Trace AR, MR, TR,
+significant pulmonary regurgitation)
+Atrial fibrillation status post pacemaker placement.
+GERD.
+Dysphagia with food impaction
+Osteoarthritis.
+Osteoporosis.
+Diverticulitis.
+Hypothyroidism.
+Depression.
+Lower extremity ulcers with positive MRSA in the past.
+
+
+Social History:
+Pt presents from home, where she has close care. No tobacco, no
+alcohol, no drugs. The patient was an exercise instructor. She
+is widowed. She has no children.
+
+
+Family History:
+NC
+
+Physical Exam:
+PE:
+
+AFVSS
+
+NEURO:
+
+PERRL / EOMI
+
+MAE equally
+
+Answers simple commands
+
+Neg pronator drift
+
+Sensation intact to ST
+
+2 plus DTR
+
+Neg Babinski
+
+HEENT:
+
+NCAT
+
+Neg lesions nares, oral pharnyx, auditory
+
+Supple / FAROM
+
+neg lyphandopathy, supra clavicular nodes
+
+LUNGS: CTA b/l
+
+CARDIAC: RRR without murmers
+
+ABDOMEN: Soft, NTTP, ND, pos BS, neg CVA tenderness
+
+EXT:
+
+rle - palp fem, [**Doctor Last Name **], pt, dp
+
+lle - palp fem, [**Doctor Last Name **], pt, dp
+
+
+Pertinent Results:
+[**2174-11-16**]
+
+WBC-12.0* RBC-3.49* Hgb-11.4* Hct-32.4* MCV-93 MCH-32.5*
+MCHC-35.1* RDW-14.1 Plt Ct-301
+
+[**2174-11-16**]
+
+PT-18.8* PTT-39.9* INR(PT)-2.5
+
+[**2174-11-16**]
+
+Glucose-103 UreaN-9 Creat-0.3* Na-132* K-3.9 Cl-97 HCO3-26
+AnGap-13
+
+[**2174-11-16**]
+
+Calcium-8.2* Phos-2.2* Mg-1.7
+
+[**2174-11-9**]
+
+freeCa-1.13
+
+[**2174-11-7**]
+
+URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.014
+URINE Blood-SM Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG
+Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+URINE RBC-0-2 WBC-<1 Bacteri-NONE Yeast-NONE Epi-<1
+URINE Hours-RANDOM Creat-54 Na-70
+
+[**2174-11-11**]
+
+EKG
+
+Sinus rhythm. Atrial sensing and ventricular pacing. Compared to
+the previous tracing no significant change.
+
+Intervals Axes
+Rate PR QRS QT/QTc     P QRS T
+84   0  128 366/[**Telephone/Fax (2) 107428**]
+
+
+ECHO Study Date of [**2174-11-9**]
+
+
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *4.4 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: 4.9 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: 4.9 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 4.2 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 2.3 cm
+Left Ventricle - Fractional Shortening: 0.45 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: 60% to 65% (nl >=55%)
+Aorta - Valve Level: 3.2 cm (nl <= 3.6 cm)
+Aorta - Ascending: *4.1 cm (nl <= 3.4 cm)
+Aorta - Arch: 2.9 cm (nl <= 3.0 cm)
+Aortic Valve - Peak Velocity: *2.1 m/sec (nl <= 2.0 m/sec)
+Aortic Valve - Peak Gradient: 17 mm Hg
+Aortic Valve - Mean Gradient: 9 mm Hg
+Aortic Valve - LVOT Peak Vel: 1.00 m/sec
+Mitral Valve - E Wave: 0.9 m/sec
+Mitral Valve - A Wave: 1.1 m/sec
+Mitral Valve - E/A Ratio: 0.82
+Mitral Valve - E Wave Deceleration Time: 175 msec
+TR Gradient (+ RA = PASP): *40 mm Hg (nl <= 25 mm Hg)
+
+INTERPRETATION:
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA and extending into the RV.
+
+LEFT VENTRICLE: Mild (non-obstructive) focal hypertrophy of the
+basal septum.  Normal LV cavity size. Normal regional LV
+systolic function. Overall normal  LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTIC VALVE: Moderately thickened aortic valve leaflets.
+Minimally increased gradient c/w minimal AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular
+calcification. Mild thickening of mitral valve chordae. Mild
+(1+) MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild
+to moderate  [[**12-12**]+] TR. Moderate PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with
+physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+Conclusions:
+
+There is mild (non-obstructive) focal hypertrophy of the basal
+septum. The  left ventricular cavity size is normal. Regional
+left ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%).  Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets are moderately thickened. There is a minimally
+increased  gradient consistent with minimal aortic valve
+stenosis. No aortic  regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened. There
+is moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+Compared with the report of the prior study (tape unavailable
+for review) of  [**2169-7-17**], the degree of pulmonary hypertension
+detected has increased.  Otherwise, no change.
+
+[**2174-11-9**] 9:38 PM
+
+CHEST (PORTABLE AP)
+
+INDICATION: Ischemic foot, central line attempted, eval for
+pneumothorax.
+
+There is moderate/severe new onset congestive heart failure with
+new bilateral pleural effusions, right greater than left.
+Pneumothorax is present, no central line is present. The cardiac
+silhouette and mediastinal contours are stable. There is some
+perihilar haze. Dual leads of pacemaker overlie their projected
+path. Skin staples identified at the left axilla extending down
+the left extremity. The thoracic aorta is calcified.
+Degenerative disease of the spine.
+
+IMPRESSION: New moderate CHF with new bilateral pleural
+effusions. No pneumothorax.
+
+
+
+
+Brief Hospital Course:
+Pt admitted [**2174-11-7**]
+
+[**2174-11-8**]
+
+Pt underwent a angiogram. She tolerated the procedure well there
+were no complications. No intervention could be done. The sheath
+was pulled in the usual fashion. There were no complications.
+
+Pt had vein mapping. Conduit inadequate to do BPG.
+
+It was decided to undergo thrombectomies of her graft site.
+
+Pt pre-oped oin the usual fashion.
+
+Pt cleared for surgery.
+
+[**2174-11-8**]
+
+Pt underwent a:
+
+1.  Thrombectomy of left femoral-to-popliteal bypass graft.
+2.  Resection of left vein graft aneurysm.
+3.  Left femoral-to-peroneal bypass graft with arm vein.
+4.  Harvest of left arm basilic vein.
+5.  Angioscopy, vein inspection and valve lysis.
+
+She tolerated the procedure well. There were no complications.
+Pt transfered to the PACU in stable condition.
+
+[**2174-11-10**] - [**2174-11-12**]
+
+Pt recieves PRBC's.
+
+Failed graft / pt started on heparin IV / res

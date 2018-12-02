@@ -1,0 +1,230 @@
+Admission Date:  [**2199-8-24**]              Discharge Date:   [**2199-9-13**]
+
+Date of Birth:  [**2127-2-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril / Atenolol / Provera / Inderal La / Latex / Norvasc /
+Levaquin / Diovan / Ambrisentan
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+GI bleed, decompensated pulmonary hypertension
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+72 yo F with idiopathic pulmonary hypertenstion (PA pressured
+90-100) on 5L O2 nc, remodulin pump and sildenafil, h/o PE in
+[**2194**] on coumadin. She presented to [**Hospital3 **] yesterday
+with nausea and hematemesis. She had hct drop from baseline of
+45--->29. She developed hypoxia to 74% in the setting of
+hematemesis and was intubated. Her INR was reversed. She
+received a total of 5u RBC. She underwent endoscopy in the ICU
+at OSH that showed a large gastric ulcer that was not actively
+bleeding. She was placed on a PPI ggt. She was transferred to
+[**Hospital1 18**] as she receives her out patient care here and the OSH did
+not know how to administer remodulin.
+
+Past Medical History:
+- Pulmonary embolism in [**2194**], on anticoagulation
+- Severe pulmonary hypertension, O2 dependent
+- COPD
+- Supraventricular tachycardia
+- Hypertension
+- s/p Right leg vein stripping
+- Arthritis
+
+
+Social History:
+Patient is widowed and lives alone. She has three sons. She has
+a 50 pack year history and quit less than 1 year ago.
+
+
+Family History:
+Father had a stroke in his 80??????s. Sister had a stroke in her mid
+40??????s.
+
+Physical Exam:
+98    79   115/54
+
+Sedated, NAD
+
+HEENT: PERRL, EOMI, Right IJ trauma line, +JVD
+
+Lungs CTA bil
+
+CV: irreg irreg
+
+Abd: soft hypoactive bs, nt
+
+Ext: 2+ DP pulses, no peripheral edema, +boots
+
+
+Pertinent Results:
+[**2199-8-24**] 02:42AM   WBC-11.1*# RBC-3.64* HGB-11.1*# HCT-33.0*#
+MCV-91 MCH-30.4 MCHC-33.6 RDW-16.0*
+[**2199-8-24**] 02:42AM   PLT COUNT-196
+[**2199-8-24**] 02:42AM   PT-16.2* PTT-24.2 INR(PT)-1.4*
+[**2199-8-24**] 02:42AM   GLUCOSE-112* UREA N-41* CREAT-1.0 SODIUM-150*
+POTASSIUM-3.5 CHLORIDE-115* TOTAL CO2-26 ANION GAP-13
+[**2199-8-24**] 02:42AM   ALT(SGPT)-11 AST(SGOT)-12 LD(LDH)-184
+CK(CPK)-48 ALK PHOS-44 TOT BILI-0.7
+[**2199-8-24**] 02:42AM   ALBUMIN-3.3* CALCIUM-8.2* PHOSPHATE-3.1
+MAGNESIUM-1.9
+[**2199-8-24**] 02:42AM   cTropnT-LESS THAN
+[**2199-8-24**] 03:40AM   LACTATE-1.0
+[**2199-8-24**] 03:40AM   TYPE-ART PO2-96 PCO2-51* PH-7.32* TOTAL
+CO2-27 BASE XS-0 -ASSIST/CON INTUBATED-INTUBATED
+..
+[**2199-9-12**] 05:50AM BLOOD WBC-8.0 RBC-3.62* Hgb-10.9* Hct-33.2*
+MCV-92 MCH-30.1 MCHC-32.8 RDW-16.0* Plt Ct-326
+[**2199-9-9**] 06:08AM BLOOD Neuts-80.6* Lymphs-7.2* Monos-3.4
+Eos-8.7* Baso-0.1
+[**2199-9-12**] 05:50AM BLOOD PT-18.5* PTT-25.1 INR(PT)-1.7*
+[**2199-9-12**] 05:50AM BLOOD Plt Ct-326
+[**2199-9-12**] 05:50AM BLOOD Glucose-80 UreaN-32* Creat-1.0 Na-141
+K-3.4 Cl-99 HCO3-34* AnGap-11
+[**2199-9-10**] 03:27AM BLOOD Digoxin-0.9
+..
+Blood Cultures from [**2199-9-7**]: Pending
+..
+Imaging:
+CXR [**8-24**]: An endotracheal tube tip lies 5.7 cm above the carina.
+Nasogastric tube appears appropriately positioned. The patient
+is rotated. The cardiomediastinal silhouette is obscured by a
+prominent retrocardiac opacity with air bronchograms. The
+central vessels are enlarged consistent with known pulmonary
+hypertension. There is also a right basilar opacity.
+.
+
+
+
+Brief Hospital Course:
+72 y/o F with hx of pulm HTN on Remodulin, PE and CHF who
+presented to an OSH on [**8-23**] with hematemesis and hct form
+45-->29. She clinically deteriorated from a respiratory
+standpoint, sats in 70s while vomiting, and was urgently
+intubated. Her INR was reversed with FFP and she received a
+total of 5 u PRBCs. She then had an endoscopy showing a
+non-bleeding gastric ulcer. She was transferred to [**Hospital1 18**] for
+Remodulin therapy given the OSH pharmacy did not carry the
+medicine.
+.
+On arrival here, she was intubated and sedated. She had a stable
+hct. Her SBP was moderately low and levophed was started. Her BP
+was thought to be secondary to sedation. GI was consulted and
+did not feel a need to rescope her given her stable hct.
+Pharmacy was consulted and converted her remodulin to an IV pump
+form.
+.
+# UGIB: OSH report with photos of large gastric ulcer, no longer
+bleeding. Her anticoagulation was held, her hct remained stable,
+and she was placed on a PPI.  GI was consulted and saw no
+indication for further endoscopy.
+.
+# Hypotension: Occurred in setting of sedation for vent/line and
+with increase in PEEP. She required levophed transiently, and
+was weaned successfully.
+.
+# Hypoxic respiratory failure: In setting of UGIB likely [**3-12**]
+aspiration. Has underlying hypoxia at baseline from Pulmonary
+Hypertension (on baseline 5L nc). No pneumonitis or infiltate
+seen on CXR but given underlying lung disease was treated
+empirically until cultures returned negative.  For her severe
+pulmonary hypertension she was continued on remodulin and
+sildenafil, and the remodulin was discontinued successfully
+prior to discharge.  She was successfully weaned from the
+ventilator.
+.
+# SVT: Intermittently tachy to 130s with a known h/o SVT.  Here
+she intermittently converted in to Afib/flutter.  She was kept
+on telemetry, resuscitated with blood, and treated with AV nodal
+blocking agents, including diltiazem and digoxin.
+.
+# Pulmonary Embolus: On admission the patient was anticoagulated
+for a recent PE.  Her INR was reversed given GIB. Her
+anticoagulation was held for a period and then restarted to in
+light of need to minimize right heart strain in pt with severe
+pulmonary hypertension.
+.
+# The patient is DNR/DNI.
+
+
+
+Medications on Admission:
+Amlodipine 5 mg Tablet
+Warfarin 2 mg (held and INR reversed yesterday)
+Furosemide 60mg qd
+Sildenafil 80 mg TID
+Gabapentin 300 mg qhs
+Triamcinolone Acetonide Topical
+Remodulin 16.25 ng/kg/min
+
+Discharge Medications:
+1. Acetylcysteine 20 % (200 mg/mL) Solution Sig: 6-10 MLs
+Miscellaneous Q6H (every 6 hours) as needed for wheeze.
+2. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for itching.
+3. Potassium Chloride 20 mEq Packet Sig: Two (2) packets PO
+twice a day: Please take with lasix dose.
+4. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for sleep.
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+6. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY
+(Every Other Day).
+7. Sildenafil 20 mg Tablet Sig: Four (4) Tablet PO TID (3 times
+a day).
+8. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3
+times a day).
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Warfarin 2 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. Furosemide 80 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+12. Morphine Sulfate 2-4 mg IV Q2H:PRN pain, shortness of breath
+
+hold if sedated
+13. Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+Gastrointestinal Bleed with Gastric Ulcer
+Decompensated Pulmonary Hypertension
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted to the hospital with a bleed from an ulcer and
+trouble breathing due to pulmonary hypertension.  You were
+intubated because you were having troulbe breathing.  You were
+taken off the ventilator successfully.  Your blood thinner was
+held briefly and then restarted.  Your pulmonary hypertension
+medication, remodulin, was causing you pain.  It was stopped
+successully.
+..
+The following changes were made to your medications:
+You were STARTED on diltiazem, morphine, trazodone, sarna
+lotion, potassium, docusate (colace), and pantoprazole.
+Your furosemide (lasix) dose and gabapentin dose were INCREASED.
+Your triamcinolone cream was STOPPED.
+
+Followup Instructions:
+GI [**Hospital **] Clinic 4 weeks post GI Bleed
+Provider: [**Initials (NamePattern4) **] [

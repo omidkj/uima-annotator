@@ -1,0 +1,240 @@
+Admission Date:  [**2168-10-31**]              Discharge Date:   [**2168-11-3**]
+
+Date of Birth:  [**2094-3-23**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lorazepam / Morphine / Penicillins / Zosyn
+
+Attending:[**First Name3 (LF) 1850**]
+Chief Complaint:
+fever
+
+Major Surgical or Invasive Procedure:
+PICC line placement
+
+
+History of Present Illness:
+74 yr old female with hx of afib/flutter, tachy-brady syndrome
+s/p [**First Name3 (LF) 4448**] in [**10/2168**], CHF (EF 20%), COPD s/p trach in [**8-/2168**]
+who was sent to ED for evaluation of pacemker. In ED, EP
+interrogated pacer and found that the pacer was functioning
+properly. However, she was also found to have a fever to 101.4.
+The pt was asymptomatic and is currently being treated with a
+7-day course of augmentin for presumed sinusitis (given chronic
+NGT) and UTI.
+.
+Also in [**Name (NI) **], pt was found to have different BP in each arm. A CT
+of the chest was done to assess for subclavian vein stenosis but
+it could not be assessed given the artifact from her pacer
+wires.
+.
+On arrival to the ICU, pt's only complaint was a sore throat and
+mild nausea. She denies chest pain, sob, vomiting, diarrhea, abd
+pain, headache, dysuria, fevers or chills. She did not some
+increased sputum from her trach tube.
+
+
+Past Medical History:
+* recent hx of enterococcal UTI and sinusitis, treated with
+Augmentin
+* Afib/Aflutter
+* Tachy-brady syndrome s/p dual chamber [**Name (NI) 4448**] in [**10-12**]
+* CHF (Echo [**2168-8-18**]: LV EF < 20%. Global hypokinesis. 3+ MR, 2+
+TR
+* HTN
+* COPD/asthma s/p trach in [**8-/2168**]
+* s/p bowel perforation in [**8-/2168**]
+* remote hx of seizure
+* h/o lower GI Bleed in [**8-/2168**]
+
+
+Social History:
+
+.
+SH: lives at [**Hospital1 700**]; daughter is HCP
+former [**Name2 (NI) 1818**], no EtOH/drug use
+
+
+Family History:
+noncontributory; no known hx of heart/lung dz
+
+Physical Exam:
+temp 99.3, BO 117/43, HR 103, R 12, O2 100%
+Vent: AC 500x12x5x40%
+Gen: NAD, awake and alert, answ questions
+HEENT: trach collar in place with some purulent drainage; mild
+tenderness over maxillary sinuses; oropharynx clear, no erythema
+
+CV: RRR, no murmurs heard
+Chest: diffuse exp wheezes, rhonci more pronounced in right
+chest anteriorly
+Abd: +BS, obese, soft, nontender, nondistended
+Ext: no edema, 2+ DP; pain on palpation of distal feet
+bilaterally
+Neuro: CN 2-12 intact, moves all extremities
+
+
+Pertinent Results:
+admit labs:
+.
+ABG: PO2-126* PCO2-70* PH-7.39 TOTAL CO2-44*
+.
+Chem: GLUCOSE-122* UREA N-42* CREAT-0.6 SODIUM-143 POTASSIUM-4.1
+CHLORIDE-96 TOTAL CO2-40* ANION GAP-11 LD(LDH)-240
+.
+CBC: WBC-16.8* RBC-3.29* HGB-10.4* HCT-31.4* MCV-95 PLT
+COUNT-305
+NEUTS-83.7* LYMPHS-7.2* MONOS-6.1 EOS-2.8 BASOS-0.2
+.
+COAGS: PT-12.6 PTT-24.6 INR(PT)-1.1
+.
+Urine:
+[**2168-10-31**] 07:20AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+.
+CT Chest:
+1. No evidence of central upper extremity vascular stenosis in
+this limited study.
+2. Multifocal air space opacities within the right and left
+upper lobes, consistent with pneumonia. Mediastinal
+lymphadenopathy is likely reactive.
+3. Six millimeter nodular density within the right upper lobe.
+3-month followup CT of the chest is recommended to ensure
+stability and/or resolution.
+4. Enlarged central pulmonary arteries, consistent with
+underlying pulmonary arterial hypertension.
+.
+CT Sinus: Probable retention cysts with incompletely imaged
+maxillary sinuses.
+.
+** Micro:
+sputum:
+PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------     2 I
+GENTAMICIN------------     4 S
+IMIPENEM--------------     2 S
+MEROPENEM-------------   0.5 S
+PIPERACILLIN----------     8 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+.
+Urine cx neg
+.
+Blood cx neg
+.
+
+
+Brief Hospital Course:
+A/P: 74 yr old female with hx of afib/flutter, tachy-brady
+syndrome s/p PCM, CHF, COPD s/p trach presents to [**Hospital Unit Name 153**] with
+fever, diagnosed with psuedomonas pneumonia
+.
+1. Fever: CT of the chest and CXR showed RUL opacity and sputum
+from admission grew out pseudomonas, pan-sensitive, except for
+ciprofloxacin.  Pt was given a dose of zosyn but developed hives
+over her back and thighs so Zosyn was discontinued and she was
+started on Aztreonam.  Urine, blood ans stol cultures were all
+negative.  Given her chronic NGT a CT of the sinuses was done
+and showed no signs of chronic sinusitis.  On day of discharge,
+pt had been afebrile x 48 hours.  A PICC line was placed in
+interventional radiology and pt should received 2 weeks of
+Aztreonam for her pseudomonas pneumonia.
+.
+2. CHF: Pt has an EF of 20% on recent echo.  Due to some
+episodes of hypotension, her BP meds were held and she required
+fluid boluses.  Therefore, the pt remained positive during her
+short hospital stay.  On day of discharge, pt was hypertensive
+and was tolerating her BP meds.  She was started on
+spironolactone and her hydralazine was stopped.  Her dose of
+Lasix may need to be decreased due to the addition of
+Spironolactone.  She was continued on metoprolol, lasix, ACE-I
+and digoxin.  Her digoxin level was therapeutic.
+.
+3. Tachy-brady syndrome s/p PCM: EP interrogated pacer on
+admission and found that her [**Hospital Unit Name 4448**] was working properly.
+Her device clinic appointment was cancelled as EP has already
+since the patient.
+.
+4. COPD: Pt on chronic vent support.  During her hospital stay,
+pt was weaned and tolerated a pressure support trial of [**10-12**],
+oxygenating well.  Her flovent and combivent were continued.
+.
+5. BP difference: Per family, this is old. Cannot assess
+subclavian stenosis on CT due to pacer wires.
+.
+6. Lung Nodule: On chest CT, pt was found to have a 6mm nodular
+density within the right upper lobe that will need to be
+followed with another CT in 3 months.
+.
+7. Anxiety: Pt's seroquel was continued and she was started on
+prn seroquel.
+.
+8. FEN: Speech and swallow evaluated the patient and she passed
+the bedside swallow exam.  However, to further evaluate for
+aspiration risk pt should have a video swallow.
+.
+8. Access: IR-placed PICC
+.
+9. Code: full
+.
+10. Ppx: SQ heparin.
+
+
+Medications on Admission:
+1. Augmentin 500mg po q8 x 7days (last dose on [**11-4**])
+2. Bisacodyl 5mg prn
+3. Digoxin 125 mcg qd
+4. Dolasetron Mesylate 12.5 mg IV Q8H:PRN
+5. Acetaminophen 500mg q6 prn
+6. Hydralazine 10 mg qid
+7. Albuterol-Ipratropium 1-2 puffs q6
+8. Furosemide 80mg [**Hospital1 **]
+9. Metoprolol Tartrate 50 mg [**Hospital1 **]
+10. Fluticasone 2puffs [**Hospital1 **]
+11. Liquid Colace
+12. Miconazole prn
+13. Quetiapine 25 mg qhs
+14. Lansoprazole 30 mg [**Hospital1 **]
+15. Aspirin 81 mg qd
+16. Lisinopril 20 mg qd
+17. Heparin (Porcine) 5,000 tid
+18. Phenol-Phenolate Sodium 1.4 % Mouthwash q4hrs prn
+19. MgOx
+
+
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+2. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+3. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+5. Furosemide 80 mg Tablet Sig: One (1) Tablet PO at bedtime.
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+7. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+8. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+9. Quetiapine 25 mg Tablet Sig: one-half Tablet PO twice a day
+as needed for anxiety.
+10. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+11. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+12. Phenol-Phenolate Sodium 1.4 % Mouthwash Sig: One (1) Spray
+Mucous membrane  Q4H (every 4 hours) as needed.
+13. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: One
+(1)  PO BID (2 times a day).
+14. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**1-10**]
+Puffs Inhalation Q6H (every 6 hours) as needed.
+15. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): Hold for SBP<110 

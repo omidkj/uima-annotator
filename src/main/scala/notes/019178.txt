@@ -1,0 +1,166 @@
+Admission Date:  [**2117-10-10**]              Discharge Date:   [**2117-10-15**]
+
+Date of Birth:  [**2062-7-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 338**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+The patient is a 55 yo M with h/o ESRD on HD, IDDM, and h/o
+femoral fracture at rehab since [**2117-2-6**] who presented to
+his rehab MD [**First Name (Titles) 151**] [**Last Name (Titles) **] and was found to be hypoxemic with
+oxygen 85%. He did not improve with nebs and empiric levaquin
+and was transferred to ED. [**Name8 (MD) **] RN at rehab, he denied complaints
+other than [**Name8 (MD) **] and at baseline is alert and oriented. On
+arrival to the ED, he had sats in low 80s and multifocal PNA on
+CXR. He was intubated and antibiotics broadened to vanc/zosyn
+and transferred to ICU.
+
+
+Past Medical History:
+ESRD on HD qTTS (on HD since [**1-13**])
+DM2
+HTN
+History of C. diff infection
+Hepatitic C
+Cognitive deficit
+s/p hip fracture & ORIF; s/p fight
+Pleural effusions and lymphadenopathy documented on prior
+imaging studies
+
+
+Social History:
+Smokes, many years
+ETOH - used to be heavier, then cut back
+Drugs - in the past, cocaine & marajuana, denies IVDU
+Lives with brother & brother's wife
+Uses [**Name2 (NI) **]
+
+
+Family History:
+none relevant to this hospitalization
+
+Physical Exam:
+General: Intubated, sedated
+HEENT: Sclera anicteric
+Neck: supple, JVP not elevated, no LAD
+Lungs:  ronchi  bilaterally
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley draining clear urine
+.
+
+
+Pertinent Results:
+[**2117-10-10**] 09:40PM BLOOD WBC-15.8* RBC-4.08* Hgb-13.2* Hct-38.3*
+MCV-94 MCH-32.3* MCHC-34.5 RDW-14.2 Plt Ct-348
+[**2117-10-11**] 03:20AM BLOOD WBC-17.2* RBC-3.42* Hgb-10.8* Hct-31.7*
+MCV-93 MCH-31.7 MCHC-34.1 RDW-14.1 Plt Ct-271
+[**2117-10-14**] 03:28AM BLOOD WBC-13.9* RBC-3.39* Hgb-10.4* Hct-32.2*
+MCV-95 MCH-30.8 MCHC-32.5 RDW-14.6 Plt Ct-281
+[**2117-10-11**] 03:20AM BLOOD Neuts-93* Bands-1 Lymphs-3* Monos-2 Eos-0
+Baso-1 Atyps-0 Metas-0 Myelos-0
+[**2117-10-12**] 02:08AM BLOOD Neuts-86* Bands-3 Lymphs-4* Monos-7 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2117-10-14**] 03:28AM BLOOD Plt Ct-281
+[**2117-10-13**] 03:33AM BLOOD Plt Ct-257
+[**2117-10-10**] 09:40PM BLOOD Plt Ct-348
+[**2117-10-10**] 09:40PM BLOOD Fibrino-428*
+[**2117-10-11**] 03:20AM BLOOD Glucose-238* UreaN-34* Creat-4.1* Na-134
+K-4.1 Cl-98 HCO3-20* AnGap-20
+[**2117-10-12**] 02:08AM BLOOD Glucose-160* UreaN-44* Creat-4.8* Na-135
+K-4.6 Cl-100 HCO3-18* AnGap-22*
+[**2117-10-13**] 03:33AM BLOOD Glucose-68* UreaN-29* Creat-3.4*# Na-138
+K-3.7 Cl-98 HCO3-24 AnGap-20
+[**2117-10-11**] 03:20AM BLOOD ALT-24 AST-32 LD(LDH)-177 AlkPhos-172*
+TotBili-0.5
+[**2117-10-14**] 10:19AM BLOOD CK-MB-3 cTropnT-0.32*
+[**2117-10-11**] 03:20AM BLOOD Albumin-2.7* Calcium-7.5* Phos-6.3*
+Mg-1.8
+[**2117-10-14**] 08:35AM BLOOD Type-ART Temp-37.3 Rates-0/24 Tidal V-493
+PEEP-10 FiO2-50 pO2-92 pCO2-36 pH-7.25* calTCO2-17* Base XS--10
+Intubat-INTUBATED Vent-SPONTANEOU
+[**2117-10-10**] 09:46PM BLOOD pH-7.26* Comment-GREEN TOP
+.
+CXR:
+IMPRESSION:
+1. Left greater than right pulmonary opacification could reflect
+diffuse
+pneumonia, massive aspiration or, less likely, hemorrhage.
+2. Bilateral small pleural effusions.
+ .
+CT CHEST:
+IMPRESSION:
+1. Multifocal peribronchovascular airspace tree-and-[**Male First Name (un) 239**]
+opacities with
+bronchiolar wall thickening, and possibly tiny foci of
+cavitation. The
+differential diagnosis includes atypical infection and/or
+vasculitis.
+2. Dense consolidation of the lung bases might be atelectasis
+though
+aspiration/infection is not excluded.
+
+
+
+Brief Hospital Course:
+55 yo M with h/o ESRD on HD presenting from rehab with sepsis
+and hypoxemic respiratory failure secondary to pneumonia.
+.
+#Hypoxic respiratory failure: The patient was found to have
+pneumonia on chest imaging. He was started intubated, started on
+broad spectrum antibiotics (vanc/zosyn/levo) and admitted to the
+ICU. He underwent bronchoscopy on [**2117-10-14**].  After discussion with
+the brother, who is the HCP, the decision was made to focus care
+on comfort and extubate the patient. He expired soon after.
+.
+# ESRD: He was continued on hemodialysis and followed by the
+renal consult service during the hospitalization.
+.
+
+
+Medications on Admission:
+gabapentin 300 tid
+hep subcut 5000 tid
+hydralazine 50 qid
+senna 8.6 qhs
+lantus 5units qpm
+metoprolol 75mg [**Hospital1 **]
+clonidine 0.3 qhs and 0.2 qam
+amlodipine 10mg daily
+lisinopril 40mg daily
+docusate 100mg [**Hospital1 **]
+renagel 3tabs tid with meals
+humalog 5units tid with meals and ss
+
+
+Discharge Medications:
+Deceased
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Deceased
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+Deceased
+
+Followup Instructions:
+Deceased
+
+

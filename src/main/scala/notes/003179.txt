@@ -1,0 +1,204 @@
+Admission Date:  [**2146-12-19**]              Discharge Date:   [**2146-12-29**]
+
+Date of Birth:  [**2093-6-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2745**]
+Chief Complaint:
+transfer from OSH for respiratory failure
+
+Major Surgical or Invasive Procedure:
+Intubated by EMS
+
+History of Present Illness:
+Mr. [**Known lastname 5395**] is a 53 yo man with obesity, glucose intolerance and
+borderline hypertension who was initially taken to an OSH after
+being found at home by his son nearly unresponsive with vomitus
+on his shirt.
+.
+He was intubated in the field and taken to [**Hospital3 **]. On
+admission, he was febrile to 103, tachycardic to the 140s,
+tachypneic to the high 30s and sating in the 80s on high FiO2
+initially. He underwent LP, CT head and CXR, which revealed
+bilateral patchy pulmonary infiltrates and evidence of
+mastoiditis. His initial WBC count was 4.7 and initial BUN/Cr
+was 28/3.8. A d-dimer was positive, but given the renal failure,
+he only underwent LENIs that did not demonstrate evidence of
+thrombosis. He was initially broadly covered with antibx for
+PNA, both CAP and aspiration, and bacterial meningitis and HSV
+encephalitis with acyclovir, ceftriaxone, ampicillin,
+azithromycin, vancomycin, clindamycin. The LP was not suggestive
+of meningitis or encephalitis. Sputum gram stain demonstrated 4+
+GPCs in pairs, chains and clusters, and sputum and blood
+cultures are pending. His inital CK was ~2400 and rose to
+~20,000. Urine was apparently positive for Strep pneumoniae
+antigen.
+.
+On further history from the pt's wife, he had been in his usual
+state of health until the night prior to admission to [**Hospital1 5979**]. At that time, he was c/o ear fullness, but he did not
+mention fever or cough. The next day, the pt's son tried to
+awaken him in the middle of the day, but he was apprently taking
+a nap and did not want to be disturbed. Later that evening, the
+pt's son returned home, and the pt could not be awakened, so EMS
+was called.
+.
+ROS was otherwise unobtainable.
+.
+
+
+Past Medical History:
+Obesity
+? DM2
+? HTN
+
+
+Social History:
+No tobacco, social EtOH, no illicits
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: 98.8 BP: 153/103 P: 101 R: 35 SaO2: 99%
+General: opens eyes to voice, squeezes hands to command, wiggles
+toes to command, intubated
+HEENT: PERRL, anicteric, no conjunctival injection, bull neck,
+no LAD
+Pulmonary: Lungs with bilateral ronchi anteriorly, no wheeze or
+rales
+Cardiac: RR, distant S1 S2, no murmurs, rubs or gallops
+appreciated
+Abdomen: obese, soft, NT, ND, normoactive bowel sounds
+Extremities: No edema, 2+ radial, DP pulses b/l
+Neurologic: Opens eyes to voice, squeezes hands on command,
+wiggles toes on command
+
+
+Pertinent Results:
+[**2146-12-19**] 10:21PM   WBC-17.2* RBC-4.21 HGB-11.8* HCT-34.2*
+MCV-81* MCH-27.9 MCHC-34.4 RDW-13.7
+[**2146-12-19**] 10:21PM   NEUTS-82* BANDS-10* LYMPHS-7* MONOS-1* EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2146-12-19**] 10:21PM   PLT COUNT-216
+[**2146-12-19**] 10:21PM   PT-13.4 PTT-28.1 INR(PT)-1.2*
+[**2146-12-19**] 09:53PM   GLUCOSE-144* UREA N-36* CREAT-1.5* SODIUM-142
+POTASSIUM-4.1 CHLORIDE-105 TOTAL CO2-30 ANION GAP-11
+[**2146-12-19**] 09:53PM   CK(CPK)-[**Numeric Identifier 77019**]*
+[**2146-12-19**] 09:53PM   CALCIUM-8.1* PHOSPHATE-2.0* MAGNESIUM-2.3
+.
+[**2146-12-20**] Chest CT: 1) Bilateral, multifocal consolidation; CT
+appearance in correlation with laboratory/clinical history
+suggestive of multifocal pneumonia, however improvement on
+subsequent chest radiograph is somewhat atypical. Findings and
+distribution not typical for aspiration or noncardiogenic
+pulmonary edema.
+2) Fatty liver.
+.
+[**2146-12-20**] Head Ct: 1. Hypodense globus pallidi which may represent
+carbon monoxide or other toxin exposure. Consider MRI for
+further evaluation.
+2. Fluid-filled mastoid air cells and middle ear cavities.
+3. Periodontal disease and/or current or old infection around
+the roots of multiple teeth.
+4. No acute hemorrhage, masses, or mass effect.
+.
+[**2146-12-21**] MRI/MRA Head - T2 hyperintensities and slow diffusion
+involving the globus pallidi as well as small foci of slow
+diffusion involving the deep watershed distribution bilaterally
+and the right anterior watershed distribution. These findings
+may represent carbon monoxide poisoning or other toxin exposure
+versus global hypoxia/anoxia.
+.
+[**2146-12-23**] MRI Head - 1) T2 hyperintensities and slow diffusion
+involving the globus pallidi as well as the subcortical white
+matter are unchanged since [**2146-12-21**] and may represent global
+hypoxia/hypoperfusion event or carbon monoxide poisoning.
+2) Bilateral mastoiditis.
+
+
+Brief Hospital Course:
+A/P: 53 yo man intially found lying on his couch unresponsive
+covered in vomitus transferred from OSH with multilobar
+pneumonia, ARDS, acute renal failure and bilateral globus
+pallidus hypodensity on head CT, doing well since extubated
+yesterday, some right deltoid weakness on exam.
+.
+# PNA/ARDS: possibly [**1-21**] Strep pneumo (suspected given urine
+positive for S.pneumo antigen at OSH) complicated by aspiration
+and ARDS.  Also possibly aspiration pneumonia [**1-21**] vomiting and
+decreased mental status from unknown precipitant.  He was
+intubated in the field by EMS and transferred to [**Hospital1 **].  Nasopharyngeal aspirate at OSH with Strep pneumo and
+Hemophilus influenza.  He was transferred here on [**12-20**] due to
+incrasing ventillatory requirements and ARDS.  He was maintained
+on low pressure mechanical ventillation.  In addition,
+antibiotic coverage was broadened to vancomycin, zosyn and
+ciprofloxacin per ID recommendations to cover for ventillator
+associated pneumonia given his persistant fevers up to 103.  He
+continued to improve daily and was extubated [**2146-12-25**] without
+difficulty.  Ciprofloxacin was weaned off on day 7.  Vancomycin
+and Zosyn were continued to complete a 14 day course.
+.
+#Bilateral Globus Pallidus Infarct/Unresponsive on Admission -
+very concerning for anoxic brain insult vs toxic metabolic
+process. Also classically seen in CO poisoning, although no
+evidence of other family members affected so less likely. MRI
+confirmed this finding also with decreased signal in watershed
+areas of the brain also seen with anoxic insult. Repeat MRI did
+not show progression.  CSF at [**Hospital3 **] without growth on
+culture. Patient had right deltoid weakness which per neurology
+was likely to right brachial plexus injury from his time down on
+his right side.  This clinically improved during his admission.
+Otherwise no focal neuro deficits.
+   Patient scheduled to f/u with behavioral neurology.
+
+.
+#Diarrhea - Patient with profuse diarrhea on admission and
+throughout most of ICU stay.  Stool studies negative for C.diff
+x5.  He was treated with brief course of oral flagyl, however
+this was stopped early as the diarrhea resolved and stool
+studies were negative.
+.
+#Bilateral opacification of middle ear and mastoid air cells-
+seen on head ct at OSH, pt also had been reporting ear fullness.
+Currently denies ear pain but state that ears don't feel normal.
+Seen by ENT, felt that radiographic and clinical signs not c/w
+mastoiditis.
+-if necessary pt can f/u with Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 77020**]
+.
+#ARF: Likely combination of volume depletion and mild degree of
+rhabdomyolysis [**1-21**] being down vs possible seizure.  Resolved.
+.
+# Rhabdomyolysis:  He had elevated CPK up to 20,000 at OSH
+possibly due to seizure, but no evidence of seizure activity on
+EEG at OSH, also possibly from being down for prolonged time.
+CK's trended down with IVF.
+.
+# Prophylaxis: Heparin SC 5000 tid
+.
+#Access - PICC
+.
+# Code status: FULL CODE
+
+
+Medications on Admission:
+Home medications:
+Methylphenidate
+.
+Medications on transfer:
+Ceftriaxone 2 grams q12hrs
+Esomeprazole
+Heparin SC tid
+Methylprednisolone 20 daily
+Vancomycin 1 g [**Hospital1 **]
+
+
+Discharge Medications:
+1. Piperacillin-Tazobactam-Dextrs 4.5 gram/100 mL Piggyback Sig:
+One (1) bag Intravenous Q8H (every 8 hours): Give Until [**2147-1-2**].
+
+2. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1)
+bag Intravenous Q 8H

@@ -1,0 +1,202 @@
+Admission Date:  [**2159-7-27**]              Discharge Date:   [**2159-8-7**]
+
+Date of Birth:  [**2092-2-16**]             Sex:   F
+
+Service: OBSTETRICS/GYNECOLOGY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 6743**]
+Chief Complaint:
+Advanced ovarian cancer
+
+ICU admission #1: hypotension, intubation, require intense
+monitoring immediately post-operation.
+
+ICU readmission #2: desaturation secondary to flash pulmonary
+edema.
+
+Major Surgical or Invasive Procedure:
+-exploratory laparotomy, radical resection of tumor,
+infragastric omentectomy, left hemicolectomy, end colostomy, BSO
+for advanced ovarian cancer
+
+-intubation
+
+History of Present Illness:
+Ms [**Known lastname 66172**] is a 67 year old with a history of ER/PR positive
+breast cancer who presented with a recent CT scan revealing a
+large right adnexal mass, ascites as well as peritoneal
+irregularities suggestive of metastatic disease.  This scan was
+obtained after a fall caused significant low back and abdominal
+pain.  She also notes having had abdominal distention, lack of
+appetite, fatigue and diarrhea.  She denies nausea, vomiting,
+and vaginal bleeding. CT scan at an OSH revealed a 9.4 x 7.1 x
+12.0 cm right adnexal mass, cystic with areas of nodularity.
+There was abdominal ascites noted.  There were several areas of
+nodularity within the omentum, measuring up to 6.0x3.0 cm, as
+well as small bilateral pleural effusions.  CA-125 was elevated
+at 989.
+
+
+Past Medical History:
+PMH:  Asthma, HTN, depression, panic attacks, ER/PR positive
+DCIS
+of the right breast.  Denies h/o DM, thromboembolic disorder.
+
+PSH:  Vaginal hysterectomy secondary to prolapse [**2132**], left
+breast biopsy [**2141**], right breast biopsy [**2156**], right breast
+lumpectomy [**2156**].
+
+OB:   G1P1, NVD x1
+
+GYN:  Menarche age 12, regular.  LMP [**2132**] s/p vag hyst.  Denies
+h/o fibroids, ovarian cysts, STI/PID, and abnormal pap smear.
+
+
+Social History:
+Never smoker, denies ETOH, denies illicit drugs
+
+
+Family History:
+Mother had breast cancer in her 70s.  MGF had DMII.  PGF had HTN
+and CAD.
+
+
+Physical Exam:
+Admission exam to the ICU after the surgery:
+General: Intubated, sedated, no acute distress
+HEENT: Sclera anicteric, oropharynx clear, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-distended, bowel sounds hypoactive, no
+tenderness to palpation, no rebound or guarding, JP drain in
+place, ostomy in periumbilical region
+GU: Foley catheter in place
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema, left arm cooler than right, but intact pulses
+Neuro: withdraws to pain
+
+
+Pertinent Results:
+Admission Labs:
+[**2159-7-27**] 03:23PM BLOOD WBC-3.3*# RBC-4.46 Hgb-12.8 Hct-37.7
+MCV-84 MCH-28.6 MCHC-33.9 RDW-15.3 Plt Ct-437
+[**2159-7-27**] 03:23PM BLOOD Neuts-79* Bands-1 Lymphs-14* Monos-5
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-1*
+[**2159-7-27**] 03:23PM BLOOD PT-15.0* PTT-27.5 INR(PT)-1.4*
+[**2159-7-27**] 03:23PM BLOOD Fibrino-158*
+[**2159-7-28**] 09:00PM BLOOD Ret Aut-1.6
+[**2159-7-27**] 03:23PM BLOOD Glucose-217* UreaN-12 Creat-0.6 Na-141
+K-3.8 Cl-111* HCO3-22 AnGap-12
+[**2159-7-27**] 11:06PM BLOOD CK(CPK)-236*
+[**2159-7-27**] 11:06PM BLOOD CK-MB-2 cTropnT-<0.01
+[**2159-7-27**] 03:23PM BLOOD Calcium-7.7* Phos-4.4 Mg-1.3*
+[**2159-7-27**] 12:40PM BLOOD Type-ART Temp-36.4 pO2-234* pCO2-41
+pH-7.33* calTCO2-23 Base XS--4
+[**2159-7-27**] 11:02AM BLOOD Glucose-162* Lactate-2.4* Na-133 K-3.9
+Cl-108 calHCO3-22
+[**2159-7-27**] 12:40PM BLOOD freeCa-1.02*
+
+Discharge labs:
+[**2159-8-6**] 06:15AM BLOOD WBC-15.8* RBC-4.85 Hgb-13.2 Hct-41.4
+MCV-86 MCH-27.3 MCHC-32.0 RDW-15.5 Plt Ct-615*
+[**2159-8-7**] 06:20AM BLOOD Glucose-124* UreaN-14 Creat-0.7 Na-139
+K-4.1 Cl-101 HCO3-26 AnGap-16
+[**2159-8-7**] 06:20AM BLOOD LDLmeas-87
+[**2159-8-7**] 06:20AM BLOOD TSH-4.3*
+[**2159-8-7**] 06:20AM BLOOD HIV Ab-PND
+
+[**8-2**] urine culture:  PSEUDOMONAS AERUGINOSA.    10,000-100,000
+ORGANISMS/ML.GRAM NEGATIVE ROD(S).    ~1000/ML.
+Sensitivites:
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------       S
+TOBRAMYCIN------------   <=1 S
+
+[**7-27**] CXR: NG tube tip has been inserted and its tip is in the
+stomach.  ET tube tip is 4.5 cm above the carina.  Mediastinal
+drain is in place.  Heart size is top normal.  The assessment of
+the mediastinum demonstrates bulging of the aortopulmonic window
+that might be due to pericardial effusion or hematoma, attention
+to this area is recommended.  Patient has mild pulmonary edema.
+Left retrocardiac opacity is new and might reflect atelectasis,
+although aspiration cannot be excluded.
+
+[**7-28**] CXR: As compared to the prior study, there is interval
+improvement of the mediastinal appearance, most likely
+consistent with resolution of atelectasis. Bilateral pleural
+effusions have slightly increased as well as bibasal
+atelectasis.  No pneumothorax is present.
+
+[**8-2**] CTA: No evidence of pulmonary embolus. Bilateral pleural
+effusions, increased in size since [**7-19**], with overlying
+atelectasis; however, infectious process cannot be excluded,
+particularly in the right lower lobe. Mild pulmonary edema.
+Slightly enlarged mediastinal lymph nodes since [**7-19**].
+Calcified thyroid nodule in the right lobe.
+
+[**8-3**] CXR: Heart size and mediastinal contours remain within
+normal limits
+allowing for technique.  There is marked interval improvement in
+bilateral
+upper zone pulmonary vascular re-distribution and patchy
+consolidation
+consistent with improvement in pulmonary edema.  Bilateral
+infrahilar and
+bibasilar opacities persist.  Probable small left pleural
+effusion.  No
+evidence of pneumothorax.
+
+[**8-6**] ECHO: Very poor image quality. Overall left ventricular
+systolic function is probably moderately depressed (LVEF= 30-35
+%). No masses or thrombi are seen in the left ventricle. There
+is no ventricular septal defect. with normal free wall
+contractility. There is no pericardial effusion. Compared to the
+prior study dated [**2159-8-2**], no clear change (LVEF was probably
+overestimated on prior).
+
+
+Brief Hospital Course:
+67 yo female with history of ER/PR positive breast DCIS s/p ex
+lap, resection of tumor, infragastric omentectomy, left
+hemicolectomy, end colostomy, BSO for advanced ovarian cancer,
+who was admitted to the ICU for post-procedure extubation and
+hypotension and another ICU admission for flash pulmonary edema.
+
+#ICU admission #1 for hypotension, intubation, require intense
+monitoring immediately post-operation: 2 liters of ascitic fluid
+was drained upon opening of her abdomen, estimated blood loss
+for the surgery was 1 liter. During the surgery, patient
+transiently dropped her blood pressure during the procedure to
+50s/30s, she was initiated on phenylephrine gtt through
+peripheral IV. She received 10 liters NS IVF during her
+procedure, ~2 liters NS while in PACU, 2 units PRBCs, 2 units
+FFP. Serial labs were obtained for monitoring.  Pt was gradually
+weaned off the phenylephrine gtt. HCT were monitored and there
+was a slow decrease in her HCT but no evidence of active
+bleeding, she was given 2 additional units of PRBC. Once pt's
+condition improved, she was extubated and transferred out of the
+ICU.
+
+# ICU admission #2/desaturation secondary to flash pulmonary
+edema: [**2159-8-2**] she had respiratory distress after CTA of the
+chest was performed for tachypnea and persistent tachycardia in
+the 100's. CTA was negative for pulmonary embolism but showed
+worsening bilateral pleural effusion with pulmonary edema. She
+did not improve with non-rebreather mask and was transferred to
+the ICU for the 2nd time during her hospital stay. Her Lung exam
+was significant for extensive inspiratory crackles, CXR
+consistent with worsening pulmonary edema. EKG showed left
+bundle branch block that is unchanged compared to EKG on
+[**2159-7-23**]. She was placed on BiPAP. Nebulizers were given with
+minimal improvement. IV Lasix was administered with good urine
+output during her 2nd ICU stay. A s

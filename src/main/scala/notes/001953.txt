@@ -1,0 +1,192 @@
+Admission Date:  [**2123-6-25**]              Discharge Date:   [**2123-7-2**]
+
+Date of Birth:  [**2043-12-20**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+Central venous line placement
+Esophagogastroduodenoscopy (EGD)
+
+
+History of Present Illness:
+79-year-old woman who is being admitted for abdominal pain and
+hypotension. She was noted in the ED to have temperature to 104.
+Cultures were taken, pressures dropped to SBP 80s. Femoral line
+was placed and patient was started on norepinephrine. CXR was
+reportedly clear (?retrocardiac opacity). UA was negative. Labs
+remarkable for white count of 13.3 and creatinine of 1.5, up
+from baseline 1.0. Patient was given 1g vancomycin (?hand
+cellulitis) and meropenem. Vitals at time of transfer were T
+99.8, HR 102, BP 140/54, 99% on 4L, RR 18.
+
+Of note, patient was recently admitted to the general medicine
+service ([**Date range (1) 21715**]) for neck pain. She was treated
+conservatively with ibuprofen and tylenol prn, with negative
+head CT and negative CT c-spine. She was also treated for
+urinary tract infection during that admission with a Levaquin. A
+foley catheter was left in place due to concern of urinary
+retention.
+
+Past Medical History:
+- Churg-[**Doctor Last Name 3532**] vasculitis, Positive p-ANCA
+- Vascular dementia
+- Chronic leg edema
+- Osteoporosis
+- Asthma
+- History of GI bleed
+- Right hip replacement due to AVN ([**2121-7-13**])
+- Hypertension
+- Chronic renal insufficiency (baseline Cr 1.0-1.5)
+- Recent hospitalization for multiple left-side rib fractures
+- Cholelithiasis s/p CCY
+- GERD
+- CAD (unclear details)
+- Anemia (Hct in [**6-20**] 33.7)
+- G3P3, all vaginal deliveries
+- Recent ?zoster infection in left lateral chest wall
+- Per patient, h/o heart murmur
+
+Social History:
+She currently lives at [**Location (un) 5481**] for short term rehab. She's
+a widow. She was prior living independently at [**Hospital1 **] Village a
+few weeks ago. She has good family support [**First Name8 (NamePattern2) **] [**Hospital1 **] dc
+summary. Has 3 sons and 7 grandchildren (only 1 grandchild is a
+girl). No tobacco, alcohol, or illicit drug use. Denies smoking,
+occasional alcohol, none recently.
+
+Family History:
+Had niece with some type of cancer ("maybe lung cancer but also
+in stomach" per son).  Unclear how parents died.
+
+Physical Exam:
+Admission Exam
+General: sleeping but rousable.
+HEENT: non-icteric sclera, pupils equal and reactive
+Heart: RRR, normal s1/s2
+[**Last Name (un) **]: soft, non-distended, mild diffuse tenderness without
+rebound or guarding
+Extremities: warm and well-perfused
+
+
+Pertinent Results:
+On admission:
+[**2123-6-24**] 07:20PM BLOOD WBC-13.3* RBC-3.69* Hgb-10.2* Hct-30.9*
+MCV-84 MCH-27.5 MCHC-32.9 RDW-16.9* Plt Ct-232
+[**2123-6-24**] 07:20PM BLOOD Neuts-80* Bands-0 Lymphs-16* Monos-2
+Eos-1 Baso-0 Atyps-0 Metas-1* Myelos-0
+[**2123-6-24**] 07:20PM BLOOD Plt Smr-NORMAL Plt Ct-232
+[**2123-6-24**] 07:20PM BLOOD Glucose-108* UreaN-13 Creat-1.5* Na-141
+K-3.9 Cl-102 HCO3-26 AnGap-17
+[**2123-6-24**] 07:20PM BLOOD ALT-13 AST-23 AlkPhos-76 TotBili-0.9
+[**2123-6-24**] 07:20PM BLOOD Albumin-3.3*
+[**2123-6-25**] 05:49AM BLOOD Albumin-2.9* Calcium-7.4* Phos-3.1
+Mg-0.9*
+[**2123-6-25**] 05:49AM BLOOD TSH-3.1
+[**2123-6-25**] 05:49AM BLOOD Cortsol-6.1
+[**2123-6-26**] 05:38PM BLOOD ANCA-NEGATIVE B
+[**2123-6-26**] 05:38PM BLOOD CRP-168.9*
+.
+On discharge:
+[**2123-7-1**] 07:50AM BLOOD WBC-10.2 RBC-4.15* Hgb-11.2* Hct-35.3*
+MCV-85 MCH-27.0 MCHC-31.8 RDW-16.7* Plt Ct-378
+[**2123-7-1**] 07:50AM BLOOD Plt Ct-378
+[**2123-7-1**] 07:50AM BLOOD PT-12.5 PTT-22.4 INR(PT)-1.1
+[**2123-7-1**] 07:50AM BLOOD Glucose-97 UreaN-5* Creat-0.8 Na-141
+K-3.6 Cl-101 HCO3-32 AnGap-12
+[**2123-6-26**] 03:59AM BLOOD ALT-12 AST-20 LD(LDH)-184 CK(CPK)-49
+AlkPhos-72 TotBili-0.4
+[**2123-6-26**] 03:59AM BLOOD CK-MB-NotDone cTropnT-0.01
+[**2123-6-26**] 03:59AM BLOOD Lipase-51
+[**2123-7-1**] 07:50AM BLOOD Calcium-9.3 Phos-3.0 Mg-1.6
+.
+LUE ultrasound:
+IMPRESSION: No DVT in the left upper extremity.
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is a very pleasant 79 yo woman who presented to the
+[**Hospital1 18**] ED with initial symptom of abdominal pain, and was
+admitted to the ICU with fevers and hypotension without obvious
+source. She was called out to the general medicine service on
+[**2123-6-27**], and was discharged from the hospital on [**2123-7-1**] in good
+condition, ambulatory, with stable vital signs. Her brief
+hospital course was notable for:
+.
+# Fever/Hypotension: At the time of admission septic shock was
+the largest concern.  There was no obvious infection despite
+broad infectious work-up.  Only clear source of infection was
+left hand cellulitis which rapidly improved on Vancomycin. TSH
+and cortisol both normal, ruling out endocrine sources of
+hypotension.  During admission she did have evidence of melena
+with a GI hemorrhage, but had minimal drop in Hct.  She was
+treated with Vancomycin for 7-day course for possible hand
+cellulitis (Day 1 = [**6-24**]).  Was also treated with Flagyl
+empirically for C. Diff.  This was stopped with culture came
+back negative. By the time the Pt was called out to the floor
+fevers and hypotension resolved and the Pt remained afebrile and
+normotensive or hypertensive while on the floor. The Pt
+completed a 7 day course of vancomycin for presumed L hand
+cellulitis. The exact cause of the patient's fever and
+hypotension remains unclear. She has had recent admissions to
+outside hospitals for fevers which have reportedly been
+unrevealing. This will require further outpatient workup, but at
+the time of discharge the Pt did not have active medical issues
+to prohibit her discharge.
+.
+# Melena:  Hematocrit downtrended slowly. Received one unit
+PRBCs on [**6-27**]. H.pylori serology negative. GI was consulted and
+recommended EGD. EGD was performed on [**2123-6-29**] which demonstrated
+gastritis and esophagitis, but no active bleeding. Two biopsies
+were obtained. Pt was started on sucralfate 1 mg QID and given
+prescription to continue this as outpatient. Pt's dose of
+pantoprozole was increased from 40 mg qD to 40 mg [**Hospital1 **]. Diet
+recommendations were made including avoiding caffeine, onions,
+alcohol, chocolate, and peppermint. Pt's aspirin 81 mg daily was
+stopped. Pt did not have any further episodes of melena or Hct
+drop while in the hospital.
+.
+# Vasculitis.  Initially started on IV steroids given concern
+for possible adrenal insufficiency as source of hypotension.
+Cortisol was normal.  She was then rapidly tapered to on day to
+Prednisone 5 mg [**Hospital1 **].  Home prednisone dosing was confirmed and
+she was transitioned to 5 mg prednisone daily. At the time of
+discharge she was maintained on her admission dose of 2.5 mg qD
+and 5 mg qHS.
+.
+# Hypoxic episodes: Patient intermittently with oxygen
+saturation below 90%.  This was in the setting of Ativan and
+associated somnolence.  Also appeared to have a positional, OSA
+component. At the time of discharge the Pt had been maintaining
+O2 sats over 90% on RA for over 24 hours.  Should have
+outpatient sleep evaluation.
+.
+# Dementia: Patient was continued on Namenda.
+.
+# GERD: Patient was continued on Protonix.  This was increased
+to [**Hospital1 **] once she developed guaiac positive stools.
+.
+# Neck pain: Contined on lidocaine patch.
+.
+# Depression: Continued on Citalopram.
+.
+# Hypertension: Pt was noted to be hypertensive to 180s systolic
+on the day prior to discharge. Her Metoprolol dose was increased
+on the day of discharge from 12.5 mg [**Hospital1 **] to 25 mg [**Hospital1 **].
+Optimization of her outpatient medication should be done as an
+outpatient, including addition of a thiazide diuretic and/or ACE
+inhibitor.
+.
+# Left hand swelling: Pt had left hand swelling and was treated
+with a 7 day course of Vancomycin for cellulitis. After the
+treatment, on two different days the Pt experienced left hand
+swelling, without pain, erythema, warmth vascular compromise, or
+limitation in range of motion, which resolved spontaneously. The
+etiology of this swelling is unclear. The Pt had negative
+ultrasound studies of the upper

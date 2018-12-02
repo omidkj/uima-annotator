@@ -1,0 +1,200 @@
+Admission Date:  [**2147-5-25**]              Discharge Date:   [**2147-6-5**]
+
+Date of Birth:  [**2070-2-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Cetacaine / Tetracycline / Ativan
+
+Attending:[**First Name3 (LF) 3705**]
+Chief Complaint:
+Chest Pain
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+77 year old female with a history of MVR on coumadin and
+thoracic aortic aneurysm, AF and O2-dependent COPD presenting
+[**2147-5-25**] to an OSH with acute onset right chest pain radiating
+around to the back. She went to an OSH and had a CT which
+demonstrated a 4.8 X 4.8 cm fusiform descending aortic aneurysm
+with question of periaortic hematoma. The patient was
+transferred to [**Hospital1 18**] for CT surgery evaluation. CT with contrast
+at [**Hospital1 18**] did not demonstrate dissection and the patient was
+transferred to the general surgery team for concern about
+biliary issues. MRCP demonstrated resolving pneumobilia without
+acute process.
+
+MICU Admission H/P:
+Ms. [**Known lastname 83274**] is a 77 y.o. F with history of MVR on coumadin and
+TAA, atrial fibrillation, and COPD on home O2, initially
+admitted to general surgery on [**5-25**] from [**Hospital 8125**] hospital concerned
+for aortic dissection on OSH CTA.  She was admitted to Cardiac
+Surgery and a repeat CTA was negative; however pneumobilia was
+noted. She had an MRCP and was transferred to General Surgery.
+On [**5-26**], she had a fever, leukocytosis, and RLL infiltrate was
+noted on CXR.  She was started on levofloxacin, but continued to
+have an increased oxygen requirment and fevers.  She was found
+to have a multifocal pneumonia and coverage was broadened to
+vanco/levo/flagyl.  She was transferred to medicine service on
+[**5-28**] for multiple medical issues. She was noted to have ARF which
+resolved with fluids.
+
+Since being on the medical service, she continues to complain of
+abdominal pain. KUB showed constipation/ileus and bowel regimen
+has been aggressive.  Surgery was consulted on day of transfer
+to ICU for possible obstruction. CT scan of chest/abd/pelvis did
+not show obstruction, but did show diffuse distension of the
+large bowel loops, large hematoma of the L flank area with foci
+of active extravasaion, and multifocal pneumonia. IR, general
+surgery and vascular surgery consults are following the patient.
+Hct today was 26.5 to 24.4 prior to transfer. Due to abdominal
+wall hematoma, the patient is being transferred to the ICU for
+closer monitoring, including serial Hcts.
+
+Review of systems:
+(+) Per HPI  (constipation, nausea, abdominal pain, L flank
+pain)
+(-) Denies fever, chills, night sweats. Denies shortness of
+breath. Denied chest pain or tightness. Denied diarrhea. Denied
+BRBPR or melena.
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+COPD-O2 dependent
+Hypothyroidism
+Lung ca- s/p RLL resection 5 years ago
+Chronic atrial fibrillation
+
+PAST SURGICAL HISTORY:
+s/p tissue MVR [**2114**]
+s/p redo MVR with mechanical valve [**2126**]
+s/p choley
+s/p bilat corneal implants
+
+Social History:
+Occupation: retired from office work.
+Lives with: self, daughter in area
+Tobacco: 2PPD for 57 years, quit 5 years ago
+ETOH: none
+
+Family History:
+NC
+
+Physical Exam:
+On Transfer to MICU:
+VITAL SIGNS: T 97.3 HR 127 BP 116/62 RR 23 O2 sat 94% on 2 L NC
+
+GEN: pleasant, elderly female in NAD, comfortable with NC on
+HEENT: anicteric, MM dry, no cervical LAD
+CHEST: decreased BS at LLL, crackles at LLL and RLL
+CV: irreg irreg, no m/r/g
+ABD: distended, high pitched BS, tymphanic
+EXT: no c/c/e
+NEURO: A&O x 3
+DERM: L flank with 8 x 10 cm hematoma, NT to palpation
+
+Discharge:
+VITAL SIGNS: T 98.2  HR 84  BP 116/54  RR 20  O2 sat 96% on 2 L
+NC
+GEN: pleasant, elderly female in NAD, comfortable with NC on
+HEENT: anicteric, MM dry, no cervical LAD
+CHEST: decreased BS at LLL, slight crackles at LLL and RLL
+CV: irreg irreg, no m/r/g
+ABD: slightly distended, BS present, soft
+EXT: no c/c/e
+NEURO: A&O x 3
+DERM: L flank with large hematoma, mildly tender to palpation
+
+Pertinent Results:
+         Hct:  WBC:  INR:  creatinine: Na:
+[**2147-5-25**]: 32.5  9.3   1.5     0.8       134
+[**2147-5-27**]:                     1.4       134
+[**2147-5-31**]: 24.4  26.6  2.5     0.7       127
+[**2147-6-1**]: 28.5  27.6  2.8     0.6
+[**2147-6-2**]: 27.5  23.7  2.9               129
+[**2147-6-3**]: 28.1  21.1                    134
+[**2147-6-4**]: 27.5  19.7  3.2     0.5
+[**2147-6-5**]: 26.6  16.5  2.9     0.5       134
+
+[**2147-5-25**] 03:05AM   DIGOXIN-0.8*
+[**2147-5-25**] 12:41PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2147-5-25**] 12:41PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]->1.035
+[**2147-5-25**] 12:41PM URINE  RBC-[**2-23**]* WBC-0 BACTERIA-RARE YEAST-NONE
+EPI-0-2
+
+1. [**2147-5-25**] CTA C/A/P: Atherosclerotic thoracic aorta with
+aneurysmal dilatation of the descending thoracic aorta. Tiny
+nodular intraortic hypodensity at the hiatus is felt most likely
+to repesent mural thrombus. No evidence for dissection. Left
+renal hypodensity cannot be classified as a cyst and, therefore,
+ultrasound is recommended on a non-rugent basis to further
+evaluate. Moderate to severe emphysema. Right basilar
+consolidations may represent atelectasis vs aspiration
+
+2. [**2147-5-26**] MRCP: No evidence of cholangitis. Pneumobilia still
+present though improved since CT examination from [**2147-5-25**].
+Conventional anatomy status post cholecystectomy.  Geographic
+region of inflammation/edema within the posterior aspect of the
+right hepatic lobe. Likely simple hepatic cyst adjacent to
+cholecystectomy clips. Benign 7-mm left adrenal adenoma.
+Incompletely imaged thoracic aortic aneurysm and right basilar
+lung
+parenchymal consolidation for which more complete
+characterization is
+performed on CTA of the chest, abdomen and pelvis from [**2147-5-25**],
+and please
+refer to report from this time for further details and
+recommendations.
+
+3. [**2147-5-29**] Echo: The left atrium is dilated. Left ventricular
+wall thickness, cavity size and regional/global systolic
+function are normal (LVEF >55%). Diastolic function could not be
+assessed. The right ventricular cavity is mildly dilated with
+mild global free wall hypokinesis. The diameters of aorta at the
+sinus, ascending and arch levels are normal. The aortic valve
+leaflets (3) are mildly thickened. There is mild aortic valve
+stenosis (valve area 1.2-1.9cm2). No aortic regurgitation is
+seen. A bioprosthetic mitral valve prosthesis is present. The
+prosthetic mitral valve leaflets are thickened. The transmitral
+gradient is normal for this prosthesis. Trivial mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+The tricuspid valve leaflets are mildly thickened. There is
+moderate pulmonary artery systolic hypertension. There is no
+pericardial effusion. IMPRESSION: Mitral prosthesis with
+high-normal gradients and trivial mitral regurgitation. Mildly
+dilated and hypokinetic right ventricle. Mild calficic aortic
+stenosis.
+
+4. CT c/a/p ([**5-31**]): Diffuse distention of the large bowel loops
+with no obstruction. Large hematoma of the left flank area with
+foci of active extravasation. Multifocal pneumonia.
+Pathologically enlarged mediastinal nodes which are most likely
+reactive in origin. Aneurysm of the distal thoracic aorta.
+Multiple bilateral non-obstructing kidney stones. Pneumobilia.
+
+4B: CXR ([**5-31**]): IMPRESSION: AP chest compared to [**5-26**] through
+[**5-27**]:
+Pulmonary edema has cleared from the left lung, improved on the
+right, but
+right basal consolidation persists and may represent a focus of
+pneumonia,
+accompanied by a small right pleural effusion. Moderate
+cardiomegaly is
+stable. The array of the upper lobe vasculature in the right
+lung suggests
+substantial emphysema, which could explain the asymmetric
+appearance of
+pulmonary edema.
+
+5. KUB ([**2147-6-1**])IMPRESSION: Multiple air-filled loops of large
+bowel consistent with colonic ileus with no evidence of
+obstruction or perforation. NG tube terminating in the stomach
+with the side hole below the diaphragm. Stable pneumobilia.
+Multifocal 

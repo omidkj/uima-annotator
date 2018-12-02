@@ -1,0 +1,199 @@
+Admission Date:  [**2184-3-18**]              Discharge Date:   [**2184-5-13**]
+
+Date of Birth:  [**2131-3-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Benadryl Allergy / Ambisome / Flomax
+
+Attending:[**Last Name (NamePattern1) 4377**]
+Chief Complaint:
+Respiratory Distress
+
+Major Surgical or Invasive Procedure:
+Intubation
+Bronchoscopy x 2
+
+History of Present Illness:
+Mr. [**Known lastname 39623**] is a 52-year-old male with a history of AML who
+is now day +120 status post a myeloablative sequential unrelated
+double cord blood transplant.  He developed shortness of breath
+at 5 a.m. with paroxysmal coughing spasms.  His wife states that
+he was awake for most of the night with unrelenting dry,
+non-productive cough that had been worsening over the past 3
+days.  He suddenly became unresponsive and per his wife fell
+forward and turned blue.  His wife immediately called EMS and
+gave rescue breaths in the few minutes before their arrival.
+Per her report, he had not had any fevers, chills, diarrhea, or
+productive cough.  She had noted some shakes in the middle of
+the night but states that he did not feel cool or warm to the
+touch.  Patient had reported increased lower extremity edema the
+prior day.  His recent abdominal pain and nausea had improved
+over the previous days since he had been switched from
+Tacrolimus to Cyclosporine.
+.
+In the ambulance, he received nitroglycerin x 2 and Lasix 40 mg.
+ On arrival BP 200/90, RR 30, SpO2 78% on RA.  ABG 7.4/39/49.
+He denied chest pain.  SpO2 improved to 80% on 15L NRB.  He was
+intubated and was treated with ASA 325 mg, levofloxacin 750 mg,
+rocephin 1 gram.   It was felt that he went flashed with fluid
+resuscitation, and he was started on a nitroglycerin drip.  He
+was sedated and paralyzed with succinyl choline and propofol.
+BP's 132-179/76-100 with HR 118-124.   He was transfered to the
+[**Hospital1 18**] ED.
+.
+On arrival to our ED, Tm 102.2, BP 104/55, HR 96, SpO2 100% on
+ACC with TV 550 x 22, FiO2 100%, PEEP 5.  ABG 7.27/50/87.
+Nitroglycerine gtt was discontinued.  He received Tylenol 1000
+mg PR, 2 mg IV dexamethasone, Vanc 1 gram, and Zosyn 2.25 gram.
+Repeat ABG was 7.23/53/127. Blood culture x 1 was drawn.
+
+Past Medical History:
+1) AML, M5b diagnosed 07/[**2182**].
+- Received induction chemotherapy with 7 + 3(ARA-C and
+idarubicin)-[**2182-7-23**] until [**2182-8-22**]. The patient achieved a
+CR after this therapy.
+- High-dose ARA-C x 2 cycles from [**2182-8-28**] until [**2182-9-27**].
+- Pt found to have relapsing dz and reinduced with Mitoxantrone
+and Ara-C [**Date range (1) 39624**]. Pt was found to have relapsing dz on
+bone marrow bx [**2183-9-2**] with 16% blasts, then was admitted
+between [**Date range (1) 39625**] for Mitoxantrone, Etopiside and Cytarabine.
+- s/p myeloablative sequential unrelated double cord blood
+transplant, now D+120.  Day 100 bone marrow biopsy showed no
+diagnostic morphologic features of involvement by acute
+leukemia, with cytogenetics revealing karyotype 46XX, consistent
+with that of female donor.
+2) hepatic insufficiency due to secondary hemochromatosis and
+steatosis
+3) Aspergillosis of the sinus/nares initially maintained on
+anidulafungin after being on posaconazole for several months in
+an effort to "rest" his liver.  This was switched to
+voriconazole
+when he developed epistaxis and sinus tenderness in the side of
+prior disease.  He has remained on voriconazole.
+4) Bacillary angiomatosis
+5) Acute appendicitis deep into his nadir during transplant that
+was successfully treated with daptomycin, meropenem, levofloxain
+and metronidazole
+6) Incidental HHV6 IgG-positive, without disease
+7) Cardiomyopathy of unclear etiology. The patient underwent a
+cardiac MRI in [**7-/2182**] prior to chemotherapy and was noted to
+have an ejection fraction of 45%-50%.  Most recent TTE [**6-19**]
+with preserved systolic function EF>55%.
+8) Sarcoid - diagnosed in [**2172**], received intermittent steroids
+9) GERD
+10) HTN
+11) Hypercholesterolemia
+12) s/p cholecystectomy in [**6-/2180**] complicated by sinus
+tract to the abdominal wall
+13) Hepatic and splenic microabscesses ([**8-/2182**])
+
+Social History:
+The patient is married and lives with his wife [**Name (NI) 2048**] in
+[**Location (un) 620**], [**State 350**]. He has 4 children. He previously worked
+as a mechanic until [**2173**], and then he worked at a car
+dealership. The patient has a history of tobacco use and notes
+that he smoked one-half pack per day x30 years.  He uses alcohol
+
+occasionally; however, is not drinking at this time. He denies
+use of illicit drugs.
+
+Family History:
+The patient's parents are alive. His father has hypertension, a
+h/o CAD status post three-vessel CABG, and sarcoidosis. He notes
+that his mother is in good health. He has one brother and two
+sisters who are all alive and well. He notes that his
+grandmother was diagnosed with a type of cancer. He denies any
+family history of bleeding disorders.
+
+Physical Exam:
+Vital Signs
+Tmax: 37.1 ??????C (98.8 ??????F)
+Tcurrent: 37.1 ??????C (98.8 ??????F)
+HR: 89 (88 - 91) bpm
+BP: 120/64(82) {120/64(82) - 125/68(353)} mmHg
+RR: 24 (22 - 25) insp/min
+SpO2: 100%
+Heart rhythm: SR (Sinus Rhythm)
+
+
+
+Ventilator mode: CMV/ASSIST
+Vt (Set): 550 (550 - 550) mL
+RR (Set): 22
+PEEP: 15 cmH2O
+FiO2: 100%
+
+Physical Examination
+General Appearance: Well nourished, Overweight / Obese
+Eyes / Conjunctiva: PERRL
+Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, NG
+tube
+Lymphatic: Cervical WNL, Supraclavicular WNL, thick neck
+Cardiovascular: (S1: Normal), (S2: Normal), unable to assess JVP
+due to thickness of neck
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Present), (Left DP pulse:
+Present)
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Crackles : at bases bilaterally, Rhonchorous: scattered, in all
+fields)
+Abdominal: Soft, Non-tender, quiet bowel sounds
+Extremities: Right: 1+, Left: 1+ edema
+Skin:  Warm, well-perfused
+Neurologic: Responds to: Not assessed, Movement: Not assessed,
+Sedated, Tone: Not assessed
+
+
+
+Pertinent Results:
+ADMISSION LABS
+[**2184-3-18**] 09:45AM BLOOD WBC-6.0 RBC-3.03* Hgb-10.1* Hct-31.2*
+MCV-103* MCH-33.3* MCHC-32.4 RDW-14.7 Plt Ct-52*
+[**2184-3-18**] 09:45AM BLOOD Neuts-78.6* Lymphs-12.8* Monos-7.2
+Eos-1.1 Baso-0.3
+[**2184-3-18**] 04:32PM BLOOD PT-15.6* PTT-34.8 INR(PT)-1.4*
+[**2184-3-18**] 09:45AM BLOOD Glucose-164* UreaN-32* Creat-1.8* Na-133
+K-5.0 Cl-104 HCO3-21* AnGap-13
+[**2184-3-22**] 04:48AM BLOOD Glucose-140* UreaN-75* Creat-3.0* Na-142
+K-5.3* Cl-107 HCO3-21* AnGap-19
+[**2184-3-18**] 09:45AM BLOOD ALT-11 AST-22 LD(LDH)-244 CK(CPK)-32*
+AlkPhos-127* TotBili-0.8
+[**2184-3-18**] 09:45AM BLOOD CK-MB-NotDone cTropnT-0.02* proBNP-6884*
+[**2184-3-22**] 07:12AM BLOOD VitB12-311 Folate-2.6
+[**2184-3-29**] 04:40AM BLOOD Hapto-161
+[**2184-3-18**] 08:31PM BLOOD Cortsol-8.0
+
+DISCHARGE LABS
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2184-5-13**] 12:10AM    5.2 3.05* 10.5* 33.6* 110* 34.2* 31.1
+18.7* 52*1
+DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso
+[**2184-5-13**] 12:10AM    72.4*   19.6 5.7 2.0 0.3
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2184-5-13**] 12:10AM    289* 32* 0.9 137 4.6 103 25 14
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos  TotBili
+[**2184-5-12**] 12:00AM    32 15 232   115   0.3
+
+PROTEIN AND IMMUNOELECTROPHORESIS PEP IgG IgA IgM IFE
+[**2184-4-25**] 12:00AM    HYPOGAMMAG1 376* 59* 124 NO MONOCLO2
+
+MICROBIOLOGY
+galactomannan and B-glucan were negative on 4 separate dates
+
+[**2184-5-11**] Immunology (CMV) CMV Viral Load-NEG
+[**2184-5-7**] BLOOD CULTURE Blood Culture, Routine-NEG
+[**2184-5-3**] Immunology (CMV) CMV Viral Load-FINAL NEG
+[**2184-4-28**] BLOOD CULTURE Blood Culture, Routine-NEG
+[**2184-4-28**] BLOOD CULTURE Blood Culture, Routine-NEG
+[**2184-4-26**] Immunology (CMV) CMV Viral Load-NEG
+[**2184-4-20**] Immunology (CMV) CMV Viral Load-NEG
+[**2184-4-19**] URINE URINE CULTURE-NEG
+[**2184-4-18**] STOOL OVA + PARASITES-NEG
+[**2184-4-17**] STOOL OVA + PARASITES-NEG
+[**2184-4-17**] STOOL OVA + PARASITES-NEG
+[**2184-4-17**] URINE URINE CULTURE-NEG
+[**2184-4-16**] STOOL OVA + PARASITES-NEG
+[**2184-4-14**] 8:55 pm URINE
+    

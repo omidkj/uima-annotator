@@ -1,0 +1,212 @@
+Admission Date:  [**2127-3-9**]              Discharge Date:   [**2127-3-14**]
+
+Date of Birth:  [**2054-11-23**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Altered Mental Status, hypotension
+
+Major Surgical or Invasive Procedure:
+CVL placement
+
+History of Present Illness:
+Ms. [**Known lastname 5320**] is a 72 y/o female with a history of HCV, metastatic
+HCC that is not amenable to treatment, who initially presented
+to the ER with altered mental status since last night. Her
+daughters say that starting yesterday she was much more sleepy,
+not wanting to get up, they also said that she had been coughing
+and having nasal congestion. She was not eating or drinking
+much, only a few small sips of water. This morning she was not
+really waking up much, so they called 911. A BLS ambulance
+arrived and her fingerstick was 27, they attempted to give her
+oral glucose while awaiting an ACLS ambulance, after the oral
+glucose her repeat blood sugar was 17. After the ACLS ambulance
+arrived, she was given 1 amp of D50 and brought her into the
+[**Hospital1 18**] ER.
+In the ED, initial VS were: 97, 83/41, 22. She was given 2LNS,
+but remained hypotensive so a right IJ was placed and she was
+started on levophed. A bedside ultrasound was done that showed a
+small amount of ascites, a paracentesis was attempted twice but
+failed, a CXR was concerning for possible pneumonia so she was
+given vancomycin, ceftriaxone and flagyl. Labs were notable for
+a WBC of 2.1 with 25bands, lactate of 6.7, INR of 2.6, U/A with
+19 white cells, Cr of 2.5 from a baseline of 1.0. VS on
+transfer: 124/97 on 0.03 of levo, 77, 22, 95-100% on RA.
+.
+On arrival to the MICU, her initial VS: 98.8, 118, 124/64, 20,
+94% on 3LNC. Using her daughters to translate, she denied any
+pain, chest pain, shortness of breath, nausea/vomiting or
+abdominal pain.
+.
+Review of systems:
+(+) Per HPI
+
+
+Past Medical History:
+Hepatitis C
+Hepatocellular Carcinoma metastatic to lungs
+COPD
+Hypertension
+GERD
+Neuropathy
+Headaches
+Constipation
+Weakness
+
+Social History:
+Smoking: quit 4-5 years ago
+Alcohol use: none
+Illicit drug use: none
+She is currently living with her daughter. There are alot of
+children and relatives in the [**Name (NI) 86**] area.
+
+Family History:
+no history of liver disease
+
+Physical Exam:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred, finger-to-nose intact
+
+Pertinent Results:
+[**2127-3-9**] 01:05PM BLOOD WBC-2.1* RBC-2.64* Hgb-9.2* Hct-30.7*
+MCV-116* MCH-34.9* MCHC-30.0* RDW-17.1* Plt Ct-58*
+[**2127-3-9**] 01:05PM BLOOD Neuts-67 Bands-25* Lymphs-2* Monos-6
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 NRBC-2*
+[**2127-3-9**] 01:05PM BLOOD PT-26.8* PTT-44.8* INR(PT)-2.6*
+[**2127-3-9**] 01:05PM BLOOD Glucose-101* UreaN-27* Creat-2.5*#
+Na-130* K-4.5 Cl-100 HCO3-18* AnGap-17
+[**2127-3-9**] 01:05PM BLOOD ALT-71* AST-203* AlkPhos-122*
+TotBili-4.0*
+[**2127-3-9**] 01:15PM BLOOD Lactate-6.7*
+
+CT head:
+ No acute intracranial process.  No large mass or significant
+edema to suggest metastatic disease, but MRI is more sensitive.
+
+CXR:
+1.  Moderate pulmonary edema.
+2.  Possible lung metastases for which further evaluation is
+recommended with chest CT.
+
+CT abd/pelvis:
+1.  Multiple pulmonary nodules with ill-defined, incompletely
+imaged,
+consolidation in the right middle and left lower lung lobe as
+also some
+atelectasis in the right lower lung lobe.  Trace bilateral
+pleural effusions.
+2.  Cirrhotic liver with portal hypertension, numerous
+ill-defined hypodense
+liver masses consistent with the patient's multifocal HCC.  Mild
+amount of
+ascites.
+3.  Diffuse anasarca.
+
+Blood culture [**2127-3-9**]:
+Blood Culture, Routine (Final [**2127-3-12**]):
+      KLEBSIELLA PNEUMONIAE.    FINAL SENSITIVITIES.
+         Cefazolin interpretative criteria are based on a dosage
+regimen of
+         2g every 8h.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----       S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+Brief Hospital Course:
+Ms. [**Known lastname 5320**] is a 72 y/o female with metastatic HCC, who
+presented to the hospital with altered mental status, found to
+be hypoglycemic and hypotensive, found to have Klebsiella
+bacteriemia thought to be from an abdominal source.
+
+Patient was initially treated with IVF for resuscitation for
+hypotension, lactic acidosis and low urine output. However given
+lack of response to IVF she was additionally treated with
+crystalloid and eventually requiring levophed for pressor
+support.  She was empirically treated with ceftriaxone and
+levofloxacin given lack of initial source of infection.  Lactic
+acidosis and blood sugars were followed closely.  Concern for
+lack of clearance given underlying hepatic dysfunction.  Patient
+did require IV glucose to maintain sugars in the normal range.
+
+Family meeting took place early in her hospitalization to
+discuss status and poor prognosis.  Family decided to continue
+single pressor with no further escalation of care. Over the
+following days urine output continued to be poor, despite
+maintaining adequate blood pressures.  Ultimately patient became
+anuric on [**3-12**].
+
+Palliative care was consulted to assist the family in end of
+life discussion and for assistance with pain control as there
+were qualms from patients family about the use of narcotic
+medication for pain control.  Patient was given very low doses
+of oxycodone in addition to tylenol for pain control.  As
+patient clinically worsened, and respiratory status
+decompensated as a result of volume overload, use of prn
+morphine for comfort was addressed.  Family was in the process
+of discussing goals and discontinuation of pressors.  However
+prior to any intervention, patient was noted to become
+bradycardic and go into PEA arrest.  No intervention was made
+per goals of care.
+
+Patient passed away peacefully with daughters at bedside.
+Autopsy was declined.
+
+
+Medications on Admission:
+asix 120 mg a day
+Spironolactone 300 mg a day
+Lactulose 30mg daily
+Nadolol 40mg daily
+Ranitidine 300mg daily
+
+Discharge Medications:
+na
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+metastatic hepatocellular carcinoma
+
+Discharge Condition:
+deceased
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+
+Completed by:[**2127-5-1**]

@@ -1,0 +1,199 @@
+Admission Date:  [**2204-2-29**]              Discharge Date:   [**2204-3-7**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization, cardioversion
+
+
+History of Present Illness:
+Dr. [**Known firstname 26693**] [**Known lastname **] is an 87yo retired male cardiothoracic
+surgeon with h/o CAD with inoperable multivessel dz, 2 prior
+anterolateral and inferior MI s/p BMS to pLAD in [**11/2195**], DES to
+D1 in [**2-/2200**] c/b GIB in setting of anticoag, ICM with EF
+30-40%, HTN, hyperlipidemia, colon and prostate CA, presenting
+with increased anginal pain. The reports intermittent pain
+throughout day of admission with relief of his symptoms with
+nitro. He then developed crushing SSCP after taking a long walk
+which did not respond to NTG. His pain is associated with
+nausea, but denies dyspnea, cough, or diaphoresis. He denies
+orthopnea and PND, but has had increased LE edema.
+.
+In the ED, Initial vitals 99.6, 90, 132/62, 16, 98% 2L. By the
+time he arrived in the ED he was chest pain free. EKG showed
+ST-E in III and aVF and ST-D in the lateral leads. His initial
+TnT was 0.12. He was given ASA 325mg, Plavix 300mg, and started
+on a heparin drip. His CXR showed possible opacity in left so he
+was given IV levaquin 750mg x 1. He was guaiac. He was
+transfered to [**Hospital1 1516**] for further management.
+.
+On the floor he was evaluated and taken to cath which showed
+known proximal LCx and RCA occlusions, patent pLAD and D1 stents
+with known occlusion of the LAD after D1, and filling via L-L
+collaterals to the distal LAD and LCx. He developed CHF and new
+Afib with RVR to the 120a post cath and was transfered to the
+CCU for further management. His O2 requirement increased post
+procedure and required diuresis with furosemide 20mg IV x 3 to
+which he diuresed 3 litres. He continues to require 2 litres
+supplemental oxygen. Regarding his new Afib with RVR, he
+received 10mg IV metoprolol followed by 12.5mg PO metoprolol. He
+was anticoagulated with heparin and started on warfarin and
+underwent unsuccessful cardioversion. He was then loaded with
+amiodarone and converted into sinus. Of note, the Pt reports
+that he has had prior episodes of atrial fibrillation in [**2185**],
+[**2190**], and [**2195**] which were asymptomatic except for a pulse in the
+120s. At those times it resolved spontaneously. His Afib was
+asymptomatic this admission as well, but given his CAD he was
+unlikely to tolerate it for very long.
+.
+On transfer to the floor he is in sinus and stable on 2L O2. He
+is CP free, able to lie flat, and feeling the best he has since
+admission.
+
+
+Past Medical History:
+CARDIAC RISK FACTORS:: (-)Diabetes, (+)Dyslipidemia,
+(+)Hypertension
+-CABG: None
+-PERCUTANEOUS CORONARY INTERVENTIONS: 2 prior anterolateral and
+inferior MI s/p BMS to pLAD in [**11/2195**], DES to D1 in [**2-/2200**]
+- Coronary artery disease: He has known multivessel disease
+which is inoperable in [**2176**]. He underwent angioplasty and
+stenting of a proximal LAD lesion in [**2195-11-1**] and then
+had a repeat PCI of an LAD diagonal branch lesion in [**Month (only) 404**] of
+[**2200**]. He is status post both anterolateral and inferior
+infarctions, complicating an episode of profound GI bleeding,
+respiratory insufficiency, and rapid atrial
+fibrillation.
+- Hyperlipidemia, on statin therapy.
+- History of hypertension, on pharmacologic therapy.
+- History of PAF, previously not on Coumadin [**3-5**] prior h/o GIB
+- History of GI bleeding and chronic anemia
+- Prostate cancer, status post XRT
+- Radiation proctitis.
+- Colon cancer status post sigmoidectomy in [**2175**].
+- Pulmonary tuberculosis diagnosed in [**2143**].
+
+
+Social History:
+Denies alcohol, tobacco, and IVDU. Pt is a retired
+cardiothoracic surgeon. He lives in [**Location (un) 26694**] in [**Location 1268**]
+
+Family History:
+No family history of early MI, otherwise non-contributory
+
+Physical Exam:
+VS: 98.6, 114/64, 84, 16, 93% on 2L
+GENERAL: Pleasant elderly man in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 12 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: Bibasilar crackles to [**2-4**] lungs, mod air movement. No
+chest wall deformities, scoliosis or kyphosis. Resp were
+unlabored, no accessory muscle use.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: 2+ pitting edema to knees bilaterally, LLE slightly
+more than RLE. +2 tender hematomas on medial aspect of left knee
+with ecchymoses and tracking down to ankles. No
+edema/erythema/pain at left knee. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+admission labs-
+
+[**2204-2-29**] 09:09PM BLOOD WBC-13.6*# RBC-3.28* Hgb-11.0* Hct-30.6*
+MCV-93 MCH-33.5* MCHC-35.9* RDW-14.0 Plt Ct-174
+[**2204-2-29**] 09:09PM BLOOD Neuts-94.9* Lymphs-2.2* Monos-2.6 Eos-0.1
+Baso-0.2
+[**2204-2-29**] 09:09PM BLOOD PT-13.7* PTT-29.1 INR(PT)-1.2*
+[**2204-2-29**] 09:09PM BLOOD Glucose-150* UreaN-31* Creat-1.4* Na-145
+K-3.9 Cl-111* HCO3-24 AnGap-14
+[**2204-2-29**] 09:09PM BLOOD CK(CPK)-90
+[**2204-2-29**] 09:09PM BLOOD cTropnT-0.12*
+
+Reports
+COMMENTS:
+1. Selective coronary angiography of this right dominant system
+revealed
+severe three vessel disease that was not significantly changed
+from his
+last cardiac catheterization.  The LMCA had a 50% distal
+stenosis.  The
+LAD was occluded in the mid-vessel but had widely patent stents
+proximally and in the D1 branch.  The LCx was occluded
+proximally and
+the OMs filled via left-left collaterals.  The RCA was not
+engaged as it
+was known to be occluded.
+2. Central aortic pressure was 134/69/97mmHg.
+3. Left ventriculography was deferred.
+
+FINAL DIAGNOSIS:
+1. Severe three vessel coronary artery disease.
+2. Widely patent stents in the proximal LAD and D1 branch.
+
+LE doppler
+IMPRESSION: No evidence of deep vein thrombosis in the left leg.
+
+[**2204-3-1**] C Cath
+COMMENTS:
+1. Selective coronary angiography of this right dominant system
+revealed
+severe three vessel disease that was not significantly changed
+from his
+last cardiac catheterization.  The LMCA had a 50% distal
+stenosis.  The
+LAD was occluded in the mid-vessel but had widely patent stents
+proximally and in the D1 branch.  The LCx was occluded
+proximally and
+the OMs filled via left-left collaterals.  The RCA was not
+engaged as it
+was known to be occluded.
+2. Central aortic pressure was 134/69/97mmHg.
+3. Left ventriculography was deferred.
+
+FINAL DIAGNOSIS:
+1. Severe three vessel coronary artery disease.
+2. Widely patent stents in the proximal LAD and D1 branch.
+
+[**3-5**] Echo
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thicknesses and cavity size are normal. There
+is moderate regional left ventricular systolic dysfunction with
+near akinesis of the distal half of the septum and anterior
+walls, and distal inferolateral walls. The apex is dyskinetic
+and aneurysmal. The remaining walls contract well (LVEF 30-35%).
+No masses or thrombi are seen in the left ventricle. Right
+ventricular chamber size and free wall motion are normal.
+Complex (>4mm, non-mobile) plaque is seen in the abdominal aorta
+(clip [**Clip Number (Radiology) **]). The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis. No aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. There is
+no mitral valve prolapse. Trivial mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+
+Compared with the prior report (images unavailable for review)
+of [**2200-4-25**], the findings are similar.
+
+
+Brief Hospital Course:
+On the floor he was evaluated and taken to cath which showed

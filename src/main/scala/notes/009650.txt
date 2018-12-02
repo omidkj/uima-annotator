@@ -1,0 +1,229 @@
+Admission Date:  [**2129-9-27**]              Discharge Date:   [**2129-10-1**]
+
+Date of Birth:  [**2060-9-29**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Progressive dyspnea
+
+
+Major Surgical or Invasive Procedure:
+ Aortic valve replacement, 23-mm St.[**Hospital 923**] Medical Epic tissue
+valve on [**9-27**]
+
+
+History of Present Illness:
+This is a 68 year old gentleman with
+known aortic insufficiency and bicuspid aortic valve who has
+been followed by serial echocardiograms. He has had dyspnea on
+exertion for quite sometime however it has worsened recently
+over the last six months. He also admits to palpitations, [**3-2**]
+pillow orthopnea, occasional dizziness and worsening fatigue.
+His last echocardiogram in [**2128-11-28**] showed 3+ aortic
+insufficiency. A cardiac catheterization this spring revealed
+normal coronaries with 2-3+ aortic insufficiency. He now has
+been referred for cardiac surgical evaluation.
+
+
+Past Medical History:
+Aortic Insufficiency, Bicuspid aortic valve
+Hypertension
+Hyperlipidemia
+Chronic Obstructive Pulmonary Disease
+BPH, Prostatism
+History of Alcohol abuse
+Esophageal spasm and gastritis
+Left rotator cuff tear
+Diverticulosis, History of Perforation
+Past Surgical History:
+- Minithoracotomy for Empyema
+- Appendectomy
+- Right Upper Extremity Nerve Transplant, s/p Injury/Trauma
+- Partial Colectomy with Pouch, s/p Reversal of Colostomy
+
+Social History:
+Race: Caucasian
+Lives with: Wife
+Occupation: Retired from [**Location (un) 4223**] Window
+Tobacco: Occasional cigarette still, quit [**2128-11-28**], admits to
+approximately 50 PYH
+ETOH: Alcoholic, None in 1 year
+
+
+Family History:
+Brother with MI at age 42
+
+
+Physical Exam:
+Admission Physical Exam
+
+Vitals: Pulse: 80 Resp: 16  O2 sat: 98%
+BP Right: 135/74   Left: 129/64
+
+General: WDWN male in no acute distress
+Skin: Dry [x] intact [x]
+HEENT: NCAT [x] PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x] JVD - none
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur - [**4-2**] diastolic murmur best
+heard right upper sternal border
+Abd: Soft [x] non-distended [x] nontender [x]  bowelsounds + [x]
+Extremities: Warm [x], well-perfused [x]  Edema - trace
+Varicosities: None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2  Left: 2
+DP           Right: 2  Left: 2
+PT           [**Name (NI) 167**]: 2  Left: 2
+Radial       Right: 2  Left: 2
+
+Carotid Bruit: none bilaterally
+
+
+Pertinent Results:
+[**2129-9-30**] 04:45AM BLOOD WBC-9.2 RBC-3.57* Hgb-10.3* Hct-31.0*
+MCV-87 MCH-28.9 MCHC-33.3 RDW-13.9 Plt Ct-190
+[**2129-9-27**] 10:32AM BLOOD WBC-6.8 RBC-3.10*# Hgb-9.4*# Hct-26.8*#
+MCV-87 MCH-30.3 MCHC-35.0 RDW-13.7 Plt Ct-161
+[**2129-9-27**] 11:39AM BLOOD PT-14.5* PTT-31.5 INR(PT)-1.3*
+[**2129-9-27**] 10:32AM BLOOD PT-14.9* PTT-31.1 INR(PT)-1.3*
+[**2129-9-30**] 04:45AM BLOOD Glucose-82 UreaN-14 Creat-1.0 Na-136
+K-4.0 Cl-99 HCO3-24 AnGap-17
+[**2129-9-27**] 11:39AM BLOOD UreaN-15 Creat-0.9 Na-141 K-4.1 Cl-111*
+HCO3-23 AnGap-11
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 85684**], [**Known firstname 1569**]       [**Hospital1 18**] [**Numeric Identifier 85685**]
+(Congenital) Done [**2129-9-27**] at 9:41:47 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2060-9-29**]
+Age (years): 68 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Aortic valve disease. Shortness of breath. Valvular
+heart disease. Congenital heart disease.
+ICD-9 Codes: 786.05, 424.1, 746.4
+Test Information
+Date/Time: [**2129-9-27**] at 09:41    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Congenital) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW1-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.1 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.8 cm  <= 5.2 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Annulus:  2.2 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.6 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.8 cm  <= 3.0 cm
+Aorta - Ascending:  *3.8 cm  <= 3.4 cm
+Aorta - Arch:  2.4 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *3.0 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  2.0 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  16 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  9 mm Hg
+Aortic Valve - LVOT diam:  2.2 cm
+Aortic Valve - Valve Area:  *2.0 cm2  >= 3.0 cm2
+Aortic Valve - Pressure Half Time:  616 ms
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. Elongated LA. No spontaneous
+echo contrast in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA. Good (>20 cm/s) LAA
+ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum. No
+ASD by 2D or color Doppler. Prominent Eustachian valve (normal
+variant).
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Overall normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size. Normal RV systolic
+function.
+
+AORTA: Normal aortic diameter at the sinus level. Mildly dilated
+ascending aorta. Normal aortic arch diameter. Mildly dilated
+descending aorta. Focal calcifications in descending aorta.
+
+AORTIC VALVE: Bicuspid aortic valve. Minimal AS. Moderate to
+severe (3+) AR.
+
+MITRAL VALVE: Normal mitral valve leaflets. Mild (1+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+PREBYPASS
+The left atrium is markedly dilated. The left atrium is
+elongated. No spontaneous echo contrast is seen in the body of
+the left atrium or left atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF>55%).
+Right ventricular chamber size is normal with normal free wall
+contractility.
+The ascending aorta is mildly dilated. The descending thoracic
+aorta is mildly dilated.
+The aortic valve is bicuspid. There is no aortic valve stenosis.
+Moderate to severe (3+) aortic regurgitation is seen.
+The mitral valve leaflets are structurally normal. Mild (1+)
+mitral regurgitation is seen.
+There is no pericardial effusion.
+
+Post_Bypass:
+Intact thoracic aorta.
+Normal RV systolic function. Overall LV systolic function is
+55%.
+The aortic bioprosthesis is in situ well placed, stable with a
+residual mean gradient of 20mm of Hg with a cardiac output of
+7.0L/min.
+
+Minimal MR.
+
+Dr. [**Last Name (STitle) **] was notified in person of the results at the time of
+the study.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2129-9-27**] 11:34
+
+
+?????? [**2122**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+[**2129-9-27**] Mr. [**Known lastname **] was taken to the operating room and
+underwent Aortic Valve Replacement with #23 mm Porcine tissue
+valve with Dr.[**Last Name (STitle) **]. Please refer to the operative report for
+further details. He tolerated the procedure well and was
+transferred to the CVICU intubated and sedat

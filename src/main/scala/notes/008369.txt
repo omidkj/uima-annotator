@@ -1,0 +1,224 @@
+Admission Date:  [**2137-10-30**]              Discharge Date:   [**2137-11-11**]
+
+Date of Birth:  [**2068-9-19**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Aricept / Influenza Virus Vaccine /
+Hydrochlorothiazide / Zyprexa
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+DOE with minimal exertion
+
+Major Surgical or Invasive Procedure:
+[**11-4**] MV repair(26mm CE Physio ring)/CABGx1(LIMA->LAD)/PFO
+closure
+
+
+History of Present Illness:
+69 yo F with 5 yr history of increasing SOB and MR followed by
+echo. Transferred to the CCU last evening after presented to
+[**Location (un) **] ED with SOB.
+
+Past Medical History:
+AF, HTN, Dementia, Parkinson's like syndrome, Schizoaffective
+d/o, CHF, gout, CVA [**2130**], COPD, lacunar infarcts, anemia, s/p
+PPM.
+
+Social History:
+retired
+80 pack year smoking history, quit 10 yrs ago
+no etoh
+
+Family History:
+father deceased from MI at age 52
+
+Physical Exam:
+Admission:
+NAD, mild SOB sitting in bed. 70 VP RR 26 BP 133/85
+Chest Lungs CTAB x crackles right base
+Heart RRR 1/6 SEM
+Abdomen Obese, benign
+Extrem warm, no edema
+
+Discahrge
+VS 96.9  HR 69SR  BP 118/58  RR 18  O2sat 93%/2LNP
+Gen: NAD
+Pulm: diminished L base
+CV: RRR, sternum stable incision CDI
+Abdm: soft, NT/+BS
+Ext: warm, well perfused, no edema
+
+
+Pertinent Results:
+[**2137-10-30**] 05:42PM   GLUCOSE-103 UREA N-31* CREAT-1.4* SODIUM-140
+POTASSIUM-4.4 CHLORIDE-106 TOTAL CO2-23 ANION GAP-15
+[**2137-10-30**] 05:42PM   WBC-4.7 RBC-3.24* HGB-9.4* HCT-27.8* MCV-86
+MCH-28.9 MCHC-33.6 RDW-19.0*
+[**2137-10-30**] 05:42PM   PLT COUNT-284#
+[**2137-10-30**] 05:42PM   PT-42.3* PTT-34.0 INR(PT)-4.7*
+[**2137-11-10**] 10:42AM BLOOD WBC-6.7 RBC-3.16* Hgb-9.0* Hct-26.5*
+MCV-84 MCH-28.4 MCHC-33.9 RDW-17.3* Plt Ct-209#
+[**2137-11-11**] 06:00AM BLOOD PT-19.5* INR(PT)-1.8*
+[**2137-11-10**] 10:42AM BLOOD Glucose-120* UreaN-35* Creat-1.3* Na-134
+K-4.3 Cl-96 HCO3-27 AnGap-15
+
+RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  [**2137-11-10**] 8:43 AM
+
+CHEST (PA & LAT)
+
+Reason: eval for effusions
+
+[**Hospital 93**] MEDICAL CONDITION:
+69 year old woman s/p MV repair/CABGx1
+REASON FOR THIS EXAMINATION:
+eval for effusions
+STUDY: PA and lateral chest [**2137-11-10**].
+
+HISTORY: Evaluate for pleural effusion.
+
+FINDINGS: Comparison is made to previous study from [**2137-11-5**].
+
+The single lead pacemaker and median sternotomy wires are
+unchanged. There is unchanged cardiomegaly. There is improvement
+of the left-sided pleural effusion since the previous study.
+There remains some atelectasis at both lung bases.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 72445**], [**Known firstname 420**]       [**Hospital1 18**] [**Numeric Identifier 72446**] (Complete)
+Done [**2137-11-4**] at 11:43:42 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2068-9-19**]
+Age (years): 69 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Coronary artery disease. Left ventricular function.
+Mitral valve disease. Preoperative assessment.
+ICD-9 Codes: 745.5, 440.0, 424.0
+Test Information
+Date/Time: [**2137-11-4**] at 11:43    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 168**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW2-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.5 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.6 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *6.0 cm  <= 5.0 cm
+Left Ventricle - Diastolic Dimension:  4.7 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  45% to 50%  >= 55%
+Aorta - Annulus:  1.7 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.9 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.1 cm  <= 3.0 cm
+Aorta - Ascending:  2.7 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.1 cm  <= 2.5 cm
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. No mass/thrombus in the [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) **] LAA. Good (>20 cm/s) LAA ejection velocity. No thrombus in
+the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. PFO is
+present. Left-to-right shunt across the interatrial septum at
+rest.
+
+LEFT VENTRICLE: Normal LV cavity size. Mild regional LV systolic
+dysfunction.
+
+LV WALL MOTION: Regional left ventricular wall motion findings
+as shown below; remaining LV segments contract normally.
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Normal RV systolic
+function.
+
+AORTA: Normal ascending aorta diameter. Normal descending aorta
+diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AR.
+
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification. Mild thickening of mitral valve
+chordae. Mild to moderate ([**12-18**]+) MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild
+to moderate [[**12-18**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE BYPASS
+The left atrium is markedly dilated. No mass/thrombus is seen in
+the left atrium or left atrial appendage. The right atrium is
+moderately dilated. A patent foramen ovale is present. A
+left-to-right shunt across the interatrial septum is seen at
+rest. The left ventricular cavity size is normal. There is mild
+regional left ventricular systolic dysfunction with mild
+inferior waqll hypokinesis. The remaining left ventricular
+segments contract normally. The right ventricular cavity is
+mildly dilated. Right ventricular systolic function is normal.
+There are simple atheroma in the descending thoracic aorta. The
+aortic valve leaflets (3) are mildly thickened. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild to moderate ([**12-18**]+) mitral regurgitation is seen
+with a systolic BP of 100mm Hg. SBP was raised to 160mmHg with
+phenylephrine and Trendelenberg position. This resulted in
+moderate to severe (3+) MR with a posteriorly directed MR jet..
+The tricuspid valve leaflets are mildly thickened.
+
+POST BYPASS
+Biventricular function remains unchanged from prebypass. There
+is a ring prosthesis in the mitral position. NoMR is visualized.
+Peak and mean gradient across MV is 7 and 3 mm Hg respectively.
+Flow by Color Doppler is still visualized across the patent
+foramen ovale.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2137-11-4**] 12:46
+
+
+Brief Hospital Course:
+She was admitted to the CCU and diuresed. Her comadin was held,
+and she awaited normalization of her INR, and was started on
+cipro for a UTI. She was taken to the operating room on [**11-4**]
+where she underwent a MV repair and CABG x 1. She was
+transferred to the ICU in critical but stable condition. She did
+well in the immediate postop period and was extubated that
+evening. On POD 1 her chest tubes were removed. On POD2 her PPM
+was interegated and she was transferred to the step down floors
+for continuing care. Over the next several days her Beta
+blockade was adjusted, she was actively diuresed and her
+coumadin was adjusted to a target INR of [**1-18**].5. On POD7 it was
+decided she was stable and ready for discharge to rehab at [**Hospital **]
+
+Medications on Admission:
+at home:
+toprol XL 50 mg daily
+coumadin 5 mg

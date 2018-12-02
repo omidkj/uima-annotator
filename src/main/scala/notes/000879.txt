@@ -1,0 +1,235 @@
+Admission Date:  [**2180-1-20**]              Discharge Date:   [**2180-1-25**]
+
+Date of Birth:  [**2113-4-30**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+OPCABx3(LIMA->LAD, SVG->Diag, PDA) [**1-21**]
+
+
+History of Present Illness:
+66 yo with recent symptoms while shoveling, EKG at well visit
+with changes, cath with 3VD referred for surgery.
+
+Past Medical History:
+CAD s/p RCA stent [**2171**], HTN, lipids, DM, cataracts, T&A
+
+Social History:
+wine buyer
+denies tobacco, etoh
+
+Family History:
+sister with heart problems in 70s
+mother deceased from MI at 72
+
+Physical Exam:
+Admission exam unremarkable with the exception of bilateral
+groin cath sites C/D/I.
+
+Pertinent Results:
+[**2180-1-24**] 08:00AM BLOOD WBC-7.7 RBC-2.60* Hgb-8.4* Hct-25.0*
+MCV-96 MCH-32.5* MCHC-33.7 RDW-13.1 Plt Ct-212
+[**2180-1-23**] 02:28AM BLOOD WBC-8.8 RBC-2.67* Hgb-8.7* Hct-25.1*
+MCV-94 MCH-32.5* MCHC-34.7 RDW-13.0 Plt Ct-162
+[**2180-1-24**] 08:00AM BLOOD Plt Ct-212
+[**2180-1-21**] 11:49AM BLOOD PT-13.8* PTT-26.3 INR(PT)-1.2*
+[**2180-1-24**] 08:00AM BLOOD Glucose-273* UreaN-20 Creat-1.1 Na-137
+K-3.8 Cl-99 HCO3-30 AnGap-12
+
+CHEST (PA & LAT)  [**2180-1-25**] 10:05 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate effusion
+
+[**Hospital 93**] MEDICAL CONDITION:
+66 year old man with s/p cabg
+REASON FOR THIS EXAMINATION:
+evaluate effusion
+HISTORY: Status post CABG.
+
+FINDINGS: In comparison with the study of [**1-22**], the patient has
+taken a better inspiration. Residual atelectatic changes persist
+at the left base with blunting of the costophrenic angle.
+
+No evidence of acute pneumonia.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 29375**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 29376**] (Complete)
+Done [**2180-1-21**] at 8:57:54 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2113-4-30**]
+Age (years): 66 M  Hgt (in): 69
+BP (mm Hg): 134/78  Wgt (lb): 169
+HR (bpm): 72  BSA (m2): 1.92 m2
+Indication: Intraoperative TEE for CABG procedure
+ICD-9 Codes: 786.51, 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2180-1-21**] at 08:57    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1510**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW2-: Machine: [**Pager number 29377**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  45%  >= 55%
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.1 m/sec  <= 2.0 m/sec
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. Small secundum ASD.
+
+LEFT VENTRICLE: Normal regional LV systolic function. Mild
+global LV hypokinesis. Mildly depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal descending aorta diameter.
+Simple atheroma in descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+Off pump CABG
+
+1. A small secundum atrial septal defect is present.
+
+2.Regional left ventricular wall motion is normal. There is mild
+global left ventricular hypokinesis (LVEF = 45 %). Overall left
+ventricular systolic function is mildly depressed (LVEF= 45 %).
+
+3.Right ventricular chamber size and free wall motion are
+normal.
+
+4.There are simple atheroma in the descending thoracic aorta.
+
+5.The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. Trace aortic regurgitation is seen.
+
+6.The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen.
+
+7. Post revascularization inferior wall is moderately
+hypokinetic. EF 40%
+
+
+Brief Hospital Course:
+He was transferred to cardiac surgery. On [**1-21**] he was taken to
+the operating room on where he underwent an off pump CABG x 3.
+He was transferred to the ICU in stable condition. He was
+extubated later that same day. He was transferred to the floor
+on POD#2. He did well postoperatively and was ready for
+discharge home on POD #4.
+
+Medications on Admission:
+atenolol 100', norvac 2.5', benicar-hct 40-25, glipizide er 10',
+lantus 25/25, byetta [**5-8**], metformin 1500/500, crestor 20, asa,
+MVI, fish oil
+
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+6. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+7. Ferrous Gluconate 300 mg (35 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+9. Metformin 500 mg Tablet Sig: Two (2) Tablet PO QAM (once a
+day (in the morning)).
+Disp:*60 Tablet(s)* Refills:*0*
+10. Metformin 500 mg Tablet Sig: Three (3) Tablet PO QPM (once a
+day (in the evening)).
+Disp:*90 Tablet(s)* Refills:*0*
+11. Crestor 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+12. Glipizide 10 mg Tab,Sust Rel Osmotic Push 24hr Sig: One (1)
+Tab,Sust Rel Osmotic Push 24hr PO once a day.
+Disp:*30 Tab,Sust Rel Osmotic Push 24hr(s)* Refills:*0*
+13. Lantus 100 unit/mL Solution Sig: Twenty Five (25) units
+Subcutaneous twice a day.
+Disp:*qs 1 month* Refills:*0*
+14. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+15. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO BID (2 times a
+day) for 5 days.
+Disp:*10 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 1519**]
+
+Discharge Diagnosis:
+CAD now s/p CABG
+Chronic systolic heart failure
+CAD s/p RCA stent [**2171**], HTN, lipids, DM, cataracts, T&A
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No lifting more than 10 pounds or driving until follow up with
+surgeon.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 29378**] 2 weeks
+Dr. [**First Name (STitle) **] 4 weeks
+Dr. [**Last Name (STitle) 5874**] 2 weeks
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]
+
+Completed by:[**2180-1-25**]

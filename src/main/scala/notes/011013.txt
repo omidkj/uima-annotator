@@ -1,0 +1,205 @@
+Admission Date:  [**2159-7-31**]              Discharge Date:   [**2159-8-11**]
+
+Date of Birth:  [**2108-6-12**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Penicillins / Lisinopril / Morphine / oxycodone-acetaminophen /
+Shellfish Derived
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+transfer from OSH with right putamen intracranial hemorrhage
+
+Major Surgical or Invasive Procedure:
+[**Last Name (NamePattern1) 282**] tube placement [**2159-8-8**]
+
+
+History of Present Illness:
+The pt is a 51 year-old woman with PMHx of HTN, ESRD, uterine
+malignancy, history of L periventricular white matter infarct
+and DM2 who presented from [**Hospital3 4107**] for an ICH that is
+likely hypertensive in etiology. Per [**Hospital3 4107**] records,
+the patient was at her baseline earlier on [**7-30**], then went to
+dialysis in the afternoon.  When she returned home, she had a
+rightward gaze and "wasn't acting right", so her family called
+EMS (arond 8pm).  She was brought to [**Hospital3 4107**] where a
+NCHCT was completed that showed a 4.1cm R lentiform ICH w/ 4mm
+of midline shift.  Her BP at [**Hospital1 **] was initially in the 230's,
+and she was given IV labetalol 20mg x2 with good effect.  She
+was then transferred to [**Hospital1 18**] for further evaluation.  In the
+ED, she was seen by neurosurgery who felt that there was no
+intervention to be done (per Dr. [**First Name (STitle) **], and recommended
+admission to the neurology service.
+
+Unable to complete ROS as pt is intubated and sedated.  However,
+[**First Name8 (NamePattern2) **] [**Hospital1 **] records the patient had been c/o a headache when she
+returned home from dialysis.
+
+
+
+Past Medical History:
+- ESRD due to Hypertension, diabetes, HD since [**2152**] MWF, left AV
+fistula
+- infarct of unknown timing in left periventricular white matter
+- Hemochromatosis with grade 1 varices and cirrhosis.
+- Diabetes type 2, on insulin.
+- Osteoporosis.
+- C. diff infection.
+- Cardiomyopathy, followed by Dr. [**Last Name (STitle) 171**].
+- Drop attacks and falls.
+
+Social History:
+Works as a secretary at the IRS. She lives with her husband and
+friend. [**Name (NI) **] tobacco, alcohol, or drug use.
+
+
+Family History:
+DM - in mother and 1 sisters. 2 sisters and mom passed away
+young.
+
+Physical Exam:
+Physical Exam on Admission:
+Vitals: T: 98.6  P: 66 R: 16  BP: 129/63  SaO2: 99% on RA
+General: intubated, sedated (even off propofol, midazolam given
+recently)
+HEENT: NC/AT, no scleral icterus noted, MMM
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: patient intubated and sedated.  Not following
+commands.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 1.5 to 1mm and brisk.  Funduscopic exam difficult due
+to small size of pupils, but what was visualized revealed no
+papilledema, exudates, or hemorrhages.
+III, IV, VI: unable to test.
+V: unable to test
+VII: ETT in place, unable to test
+VIII: unable to test
+IX, X: gag intact.
+[**Doctor First Name 81**]: unable to test
+XII: ETT in place, unable to test
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+No adventitious movements, such as tremor, noted.  Withdraws the
+RUE and RLE briskly to noxious.  Does not withdraw the LUE or
+LLE to noxious but does localize (grimaces and moves the
+R-side).
+
+-Sensory: withdraws to noxious as above
+
+-DTRs:
+  [**Name2 (NI) **] Tri [**Last Name (un) 1035**] Pat Ach
+L  1  1    1    1   0
+R  1  1    1    1   0
+Plantar response was mute bilaterally.
+
+-Coordination: Unable to test
+
+-Gait: Deferred
+
+Physical Exam on Discharge:
+
+Pertinent Results:
+Labs on Admission:
+[**2159-7-31**] 01:05AM   WBC-9.4 RBC-4.75 HGB-12.3 HCT-39.2 MCV-82
+MCH-25.8* MCHC-31.3 RDW-17.0*
+[**2159-7-31**] 01:05AM   PT-12.1 PTT-29.8 INR(PT)-1.1
+[**2159-7-31**] 01:05AM   FIBRINOGE-434*
+[**2159-7-31**] 01:05AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2159-7-31**] 01:05AM   TSH-4.9*
+[**2159-7-31**] 01:05AM   OSMOLAL-301
+[**2159-7-31**] 01:05AM   TRIGLYCER-211* HDL CHOL-27 CHOL/HDL-6.1
+LDL(CALC)-97
+[**2159-7-31**] 01:05AM   ALBUMIN-4.3 CALCIUM-8.1* PHOSPHATE-5.3*
+MAGNESIUM-2.1 CHOLEST-166
+[**2159-7-31**] 01:05AM   CK-MB-4 cTropnT-0.09*
+[**2159-7-31**] 01:05AM   LIPASE-79*
+[**2159-7-31**] 01:05AM   ALT(SGPT)-18 AST(SGOT)-29 LD(LDH)-292*
+CK(CPK)-213* ALK PHOS-100 TOT BILI-0.4
+[**2159-7-31**] 01:05AM   UREA N-25* CREAT-4.4*
+[**2159-7-31**] 01:16AM   GLUCOSE-341* NA+-136 K+-3.6 CL--93* TCO2-30
+[**2159-7-31**] 11:14AM   CK-MB-4 cTropnT-0.08*
+
+Imaging:
+
+NCHCT [**2159-7-31**]
+FINDINGS:  There is a parenchymal hematoma centered in the right
+external
+capsule, displacting the right lentiform nucleus medially, and
+extending into the corona radiata, which measures 3.9 x 1.7 cm
+(2:18), not significantly changed in size.  The extent of
+surrounding edema is also unchanged.  There is no new
+intracranial hemorrhage.  There is mild effacement of the
+frontal [**Doctor Last Name 534**] and body of the right ventricle, and a minimal
+leftward shift of the septum pellucidum, also unchanged. There
+is no herniation.  The basal cisterns are not compressed.  Sulci
+are more prominent than would be expected for the patient's age,
+indicating cerebral atrophy.
+Bilateral mastoid air cells and visualized paranasal sinuses are
+clear.  There is evidence of right cataract surgery. The bones
+are unremarkable.
+
+IMPRESSION:
+Parenchymal hemorrhage centered in the right external capsule
+and corona
+radiata, displacing the lentiform nucleus medially, with mild
+associated mass effect, unchanged compared to approximately 4
+hours earlier.  While this could represent a hypertensive
+hemorrhage, a vascular malformation or a mass could also be
+considered.  The latter possibilities could be investigated by
+MRI/MRA, if clinically warranted.
+
+Chest x-ray [**2159-8-1**]
+There is moderate cardiomegaly.  The mediastinum is widened.
+There is mild pulmonary edema.  If any, there are small
+bilateral pleural effusions.  NG tube tip is in the stomach.
+
+Labs on Discharge:
+
+Brief Hospital Course:
+Ms. [**Known lastname 284**] is a 51 year-old woman with PMHx of HTN, ESRD,
+uterine malignancy, history of L periventricular white matter
+infarct and DM2 who presented from [**Hospital3 4107**] with left
+sided weakness, aphasia and was found to have an ICH that is
+likely hypertensive in etiology.
+
+# NEURO: Patient was eating dinner when suddently her left and
+and face "felt funny."  Per her friend who was present, she was
+unable to speak and could not stand up from her chair.  Friend
+called 911.  SBP at OSH was in the 230s on arrival.  Head CT was
+obtained and showed a right putaminal hemorrhage.  The bleed was
+most likely in the setting of hypertension (Of note, a recent
+discharge summary from [**2159-5-31**] stated that her home labetalol
+dose was 300mg PO BID; however on admission her home dose was
+reportedly 100mg PO BID). Other possibilities would be a
+hemorrhagic conversion of a stroke (although this is a less
+likely location for that) or bleeding into a malignancy, but
+again this is less likely than hypertensive hemorrhage given the
+location and elevated BP on arrival to the OSH.  Her
+neurological exam on admission was notable for minimal movement
+of her L-side to noxious stimuli, which would fit with her R ICH
+location.  She was admitted to the neuro ICU for further
+evaluation and workup.  Aspirin/Simvastatin were held in the
+setting of a bleed.  Shortly after arrival in the ICU, she was
+successfully extubated.  Her blood pressure was initially quite
+well controlled on labetalol 100mg PO BID. On HD #5 she became
+persistently hypertensive to SBP 170s so amlodipine 5mg PO daily
+was added to her antihypertensive regimen. In addition, due to
+increased lethargy and possible ?eye opening apraxia during
+hospitalization, she was started on modafinil to increase her
+alertness -- this seemed to be helpful. On discharge, her neuro
+exam was notable for dense

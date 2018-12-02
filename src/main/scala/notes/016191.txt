@@ -1,0 +1,219 @@
+Admission Date:  [**2101-6-6**]              Discharge Date:   [**2101-6-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 783**]
+Chief Complaint:
+Fever and hypoxia
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. [**Known lastname 13162**] is a [**Age over 90 **] yo woman with COPD & hypertension with recent
+ex-lap and omental patch for perforated duodenal ulcer
+([**2101-5-19**]), percutaneous drainage of perihepatic abscess and
+recent C diff colitis. She was referred to the ED from rehab for
+fevers x 4 days and hypoxia. She was first noted to have fever
+to 102 on [**6-2**], she was begun on vancomycin. Levofloxacin was
+added on [**6-5**] for persistent fever & bilateral infiltrates on
+CXR. Today her T was noted to be 100.2 and she was hypoxic to
+80% on 2L n/c, improved with repositioning.
+.
+In the ED she was hypotensive to 77/59, febrile to 102.8, and
+had atrial fibrillation in 110's. She had numerous failed
+attempts at a L-IJ CVL; eventually received a L femoral line.
+She received 3L NS, vancomycin & piperacillin/tazobactam. EKG
+showed rapid a fib w/o ischemic changes & CE's positive. She
+received aspirin, but no BB or CCB for her tachycardia. She was
+started on levophed shortly before transfer for hypotension to
+80's systolic.
+.
+On transfer to the ICU Ms. [**Known lastname 13162**] complains of feeing fatigued.
+She also endorses chest pressure & mild dsypnea. She denies
+light-headedness, syncope, or recent falls. She is unaware of
+cough, abdominal pain, or diarrhea. She is unsure why she was
+sent to the hospital, although she is oriented to name, place,
+and general time.
+
+Past Medical History:
+-COPD/RAD, with prior admissions for Prednisone
+-Hypertension
+-Palpitations secondary to frequent APBs
+-Dysthymia/depression, followed by Dr. [**First Name4 (NamePattern1) 122**] [**Last Name (NamePattern1) 40989**],
+psychiatry, in [**Location (un) 10059**], MA (on escitalopram)
+-Vertigo
+-Hearing impairment with R hearing aid
+-Urge urinary incontinence
+-PUD
+-s/p LIH [**5-29**]
+-s/p exploratory laparotomy, oversew and patch of duodenal
+perforation [**2101-5-12**]
+-s/p cataract surgery B eyes
+
+
+Social History:
+- rare social alcohol use, denies T/D
+- lives in [**Location **] in senior housing
+- currently at [**Hospital **] Rehab
+- former psychologist. retired recently
+
+
+Family History:
+- non-contributory
+
+
+Physical Exam:
+T 98.7 BP 96/58 HR 120-150 RR 25 SaO2 96% on 4L n/c
+General: fatigued, non-toxic. appears much younger than stated
+age.
+HEENT: NCAT, PERRL, EOMI
+Cardiac: tachycardic, irregular rate. No murmurs appreciated
+Pulmonary: decreased breath sounds at B bases. No wheezing
+Abdomen: surgical incision healing. soft, non-distended,
+non-tender
+Extremity: 2+ BLE edema
+Skin: LE with venous stasis changes. NO rashes
+Neuro: A&O x 3. non-focal.
+
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**2101-6-6**] 12:36PM BLOOD WBC-6.5 RBC-3.60* Hgb-9.9* Hct-30.0*
+MCV-83 MCH-27.5 MCHC-33.1 RDW-16.3* Plt Ct-279
+[**2101-6-6**] 12:36PM BLOOD Neuts-94.2* Lymphs-3.8* Monos-1.5*
+Eos-0.3 Baso-0.2
+[**2101-6-6**] 12:36PM BLOOD PT-13.4 PTT-27.3 INR(PT)-1.1
+[**2101-6-6**] 12:36PM BLOOD Glucose-104 UreaN-14 Creat-0.6 Na-131*
+K-4.0 Cl-95* HCO3-27 AnGap-13
+[**2101-6-6**] 12:36PM BLOOD Calcium-7.6*
+[**2101-6-6**] 12:36PM BLOOD ALT-12 AST-39 AlkPhos-113 TotBili-0.5
+[**2101-6-6**] 12:46PM BLOOD Lactate-2.3*
+[**2101-6-6**] 12:36PM BLOOD CK(CPK)-24* CK-MB-NotDone cTropnT-0.10*
+TSH
+.
+.
+PERTINENT LABS/STUDIES:
+.
+Hct: 30.0 -> 26.0 -> 24.2 -> 23.8 -> 23.7 -> 25.0
+Troponin: 0.10 -> 0.12 -> 0.11 -> 0.10
+Phos: 3.1 -> 2.1 -> 1.8 -> 2.2
+Iron: 18
+TIBC: 120
+Feritin: 293
+TRF: 92
+Hapto: 258
+Lactate: 2.3 -> 1.5
+.
+Blood Cultures ([**6-6**]): 4/4 bottles
+      STAPH AUREUS COAG +.
+         Consultations with ID are recommended for all blood
+cultures
+         positive for Staphylococcus aureus and [**Female First Name (un) 564**] species.
+
+         FINAL SENSITIVITIES.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations
+Rifampin
+         should not be used alone for therapy.
+         Please contact the Microbiology Laboratory ([**6-/2398**])
+immediately if
+         sensitivity to clindamycin is required on this
+patient's isolate.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+.
+Urine Culture ([**6-6**]):
+      ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..
+         LINEZOLID sensitivity testing performed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------  =>32 R
+LINEZOLID-------------       S
+NITROFURANTOIN--------   256 R
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------  =>32 R
+.
+Influenza Swab ([**6-9**]):
+   DIRECT INFLUENZA A ANTIGEN TEST (Final [**2101-6-9**]):
+      Negative for Influenza A viral antigen.
+
+   DIRECT INFLUENZA B ANTIGEN TEST (Final [**2101-6-9**]):
+      NEGATIVE FOR INFLUENZA B VIRAL ANTIGEN.
+.
+CTA chest/abd/pelvis ([**6-6**]): Moderate hiatal hernia. Bilateral
+pleural effusions. No PE to subsegmental level. Intraabdominal
+ascites. Nondistended gallbladder, though with pericholecystic
+fluid, likely third spacing, though correlate with RUQ pain.
+Moderate hiatal hernia. Bilateral pleural effusions. No PE to
+subsegmental level. Intraabdominal ascites. Nondistended
+gallbladder, though with pericholecystic fluid, likely third
+spacing, though correlate with RUQ pain.
+.
+CXR ([**6-6**]): Multiple airspace opacities in the left upper lobe
+and
+right lower are new since [**2101-5-25**]. Loss of the right
+diaphragmatic contour
+suggests effusion/atelectasis/consolidation. The right upper
+lung is grossly clear. Large left diaphragm hernia is unchanged
+since [**2101-5-25**]. The
+cardiomediastinal silhouette is stable.  IMPRESSION: Increasing
+bilateral airspace opacities are concerning for aspiration
+pneumonia.
+.
+ECHOCARDIOGRAM ([**2101-6-7**]): The left atrium is elongated. The
+right atrium is moderately dilated. The estimated right atrial
+pressure is 0-10mmHg. Left ventricular wall thickness, cavity
+size, and global systolic function are normal (LVEF>55%).
+Regional left ventricular wall motion is normal. The right
+ventricular cavity is mildly dilated with normal free wall
+contractility. [Intrinsic right ventricular systolic function is
+likely more depressed given the severity of tricuspid
+regurgitation.] The aortic valve leaflets are moderately
+thickened. There is mild aortic valve stenosis (valve area
+1.2-1.9cm2). No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Moderate (2+) mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] The tricuspid valve leaflets are
+mildly thickened. Tricuspid valve prolapse is present. Moderate
+to severe [3+] tricuspid regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+IMPRESSION: Normal systolic function (EF 65%). Moderate-severe
+tricuspid regurgitation. Mild aortic stenosis. Moderate mitral
+regurgitation. Moderate pulmonary hypertension.
+.
+L-Spine MRI ([**6-8**]): 1. No evidence of spondylodiscitis or
+abscess within the lumbosacral spine.  2. Significant
+spondylosis with severe canal narrowing, predominantly at L4-L5.
+The remainder of the lumbar spine as varying degrees of canal or
+foraminal narrowing as described above.
+3. Fl

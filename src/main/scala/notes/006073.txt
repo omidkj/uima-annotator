@@ -1,0 +1,207 @@
+Admission Date:  [**2150-10-30**]              Discharge Date:   [**2150-11-1**]
+
+Date of Birth:  [**2131-9-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Haldol / Morphine / Percocet / Dilaudid / Demerol
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+Respiratory failure due to asthma exacerbation
+
+Major Surgical or Invasive Procedure:
+Intbated [**2150-10-29**]
+
+History of Present Illness:
+19F with four year history of asthma (prior intubation one year
+ago per patient) presenting with a two day history of increased
+SOB, cough and increased use of home nebulizer treaments. The
+patient was recently seen at [**Company 191**] [**2150-10-28**] for asthma
+exacerbation and was given a prescription for a short prednisone
+taper. The patient did not improve and noted decreased peak
+flows in 200s from baseline 450. The patient spoke with her
+allergist and took prednisone 60 mg the day of admission. The
+patient presented in moderate respiratory distress with stridor,
+use of accessory muscles, and increased work of breathing.
+Within 10 minutes of being seen, the patient started to
+decompensate with increasing stridor and intermittent coughing.
+Oxygen saturation was noted to be mid-90s% on RA. Patient was
+given ativan, magnesium, epinephrine SC 0.03 mg, solumedrol 125
+mg IV, racemic epinephrine nebs, albuterol nebs and atrovent
+nebs. Patient's breathing appeared to improve, but within 20
+minutes the patient began to decompensate with RR 30-40 and
+stridorous breathing. A CXR was taken at this time which showed
+a LLL infiltrate consistent with pneumonia. The patient received
+etomadate, ativan, succinylcholine and was intubated. Initial
+CXR showed right mainstem intubation and the ETT was withdrawn.
+She was started on levofloxacin for her pneumonia.
+
+At the time of admission, the patient was intubated and sedated
+and unable to provide further history. Her mother was present
+and provided the patient's home medications.
+
+Past Medical History:
+1. Asthma: Asthma since age 15, has worsened over the past year
+with frequent need for prednisone and [**3-21**] hospitalizations for
+asthma, one requiring intubation
+2. Question tracheomalacia: Unclear why patient has this
+diagnosis; no prior imaging evidence in our system
+3. Depression: On lamictal, followed by her psychiatrist Dr.
+[**First Name8 (NamePattern2) **] [**Name (STitle) **] from [**Hospital1 2025**]
+4. Conversion disorder: Per previous records, a psychiatrist
+from [**Hospital1 2025**], Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1693**], stated the patient has conversion
+disorder with factitious symptoms that include asthma,
+hyperventilation causing loss of consciousness, pseudoseizures,
+and self induced cellulitis
+
+
+Social History:
+Patient is at [**Doctor Last Name **] in the nursing program. Denies past or
+present tobacco use. Denies EtOH
+
+Family History:
+Brother: Seasonal allergies
+
+Physical Exam:
+VS: 97.6 94 125/58 20 100% intubated
+AC: Tv500 RR 16 FiO2 0.5 PEEP 8 PIP 22 Plateau 16
+Gen: Intubated, sedated
+HEENT: Sclera anicteric, PERRL
+Neck: No stridor
+Heart: RRR, [**4-21**] early peaking systolic murmur without radiation
+
+Lungs: Good air movement, CTA anteriorly
+Abd: NABS, soft, NTND, no HSM
+Ext: No CCE
+Skin: Warm, no rashes
+Neuro: Follows some commands
+.
+
+
+Pertinent Results:
+[**2150-10-29**] 10:57PM   PLT COUNT-389
+[**2150-10-29**] 10:57PM   NEUTS-84.9* LYMPHS-13.7* MONOS-0.9* EOS-0.3
+BASOS-0.1
+[**2150-10-29**] 10:57PM   WBC-17.2* RBC-5.36 HGB-14.2 HCT-40.1 MCV-75*
+MCH-26.6* MCHC-35.5* RDW-16.4*
+[**2150-10-29**] 10:57PM   estGFR-Using this
+[**2150-10-29**] 10:57PM   GLUCOSE-157* UREA N-11 CREAT-1.1 SODIUM-142
+POTASSIUM-4.2 CHLORIDE-105 TOTAL CO2-23 ANION GAP-18
+[**2150-10-30**] 03:10AM   PLT SMR-NORMAL PLT COUNT-267
+[**2150-10-30**] 03:10AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL
+MACROCYT-NORMAL MICROCYT-2+ POLYCHROM-NORMAL
+[**2150-10-30**] 03:10AM   NEUTS-96.2* BANDS-0 LYMPHS-3.1* MONOS-0.6*
+EOS-0.1 BASOS-0
+[**2150-10-30**] 03:10AM   WBC-19.3* RBC-4.56 HGB-11.9* HCT-34.9*
+MCV-77* MCH-26.1* MCHC-34.1 RDW-16.3*
+[**2150-10-30**] 03:10AM   MAGNESIUM-2.8*
+[**2150-10-30**] 03:10AM   GLUCOSE-220* UREA N-11 CREAT-0.9 SODIUM-139
+POTASSIUM-3.9 CHLORIDE-106 TOTAL CO2-21* ANION GAP-16
+[**2150-10-30**] 04:10AM   O2 SAT-99
+[**2150-10-30**] 04:10AM   TYPE-ART RATES-16/23 TIDAL VOL-500 PEEP-18
+O2-50 PO2-243* PCO2-37 PH-7.40 TOTAL CO2-24 BASE XS-0
+-ASSIST/CON INTUBATED-INTUBATED
+
+Brief Hospital Course:
+   Ms [**Known lastname 3501**] was admitted with respiratory failure originally
+thought to be due to asthma exacerbation in the setting of LLL
+PNA.  Pt was initially treated in the ED with nebulizers and
+steroids, followed by intubation. Pt was extubated 8 hours later
+once in the ICU.  She was treated for her pneumonia with
+Azithromycin x5 day course and continued on her nebulizers and
+home inhalers. Pt was also treated with heliox. Pt was evaluated
+by ENT who felt she has Paradoxical Vocal Fold Dysfunction,
+which is not a new diagnosis for the patient. Treatment includes
+speech and behavior therapy.  She was also started on Protonix
+40mg [**Hospital1 **] to prevent laryngopharyngeal reflux which could
+exacerbate her symptoms as well as guifenasin to prevent cough.
+Upon discharge, pt sent home on Prednisone taper x 4 days,
+Azithromycin and told to follow up with psychiatry and speech
+therapy for further management.
+
+
+Medications on Admission:
+Flovent 220 mcg Aerosol 2 puffs twice daily
+Advair 500 mcg-50 mcg twice daily
+Zyflo 600 mg Tablet four times daily
+[**Doctor First Name **]-D 240 mg-180 mg SR daily
+Singulair 10 mg daily
+Atrovent 17 mcg/Actuation two INH prior to exercise
+Albuterol PRN
+Lamictal 100 mg daily
+
+
+Discharge Medications:
+1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed for shortness of breath or
+wheezing.
+2. Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+3. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. [**Doctor First Name **]-D 24 Hour 180-240 mg Tablet Sustained Release 24 hr
+Sig: One (1) Cap PO DAILY (Daily).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Azithromycin 250 mg Capsule Sig: One (1) Capsule PO Q24H
+(every 24 hours) for 2 days.
+Disp:*2 Capsule(s)* Refills:*0*
+7. Guaifenesin 100 mg/5 mL Liquid Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed for cough for 7 days.
+Disp:*QS ML(s)* Refills:*0*
+8. PredniSONE 10 mg Tablet Sig: Per taper as below Tablet PO QD
+() for 4 doses: Take 40 mg (4 tablets) [**2150-11-2**], 30 mg (3
+tablets) [**2150-11-3**], 20 mg (2 tablets) [**2150-11-4**], 10 mg (1 tablet)
+[**2150-11-5**], then discontinue.
+Disp:*10 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+1. Paradoxical vocal cord dysfunction
+2. Pneumonia
+.
+Secondary
+1. Asthma
+2. Depression
+3. Conversion disorder
+
+
+Discharge Condition:
+Afebrile, vital signs stable.
+
+
+Discharge Instructions:
+You were admitted to the hospital with respiratory distress from
+pneumonia and vocal cord dysfunction.  You should continue
+azithromycin, an antibiotic, and your prednisone taper.  It is
+very important that you follow-up with psychiatry, speech and
+swallow, ear/nose/throat, and your allergist regarding these
+issues.
+.
+Please contact a physician if you experience fevers, chills,
+chest pain, shortness of breath, or any other concerning
+symptoms.
+.
+Please take your medications as prescribed.
+- You should continue protonix twice daily indefinitely for
+reflux.
+- You should continue azithromycin, an antibiotic, for 2 more
+days for pneumonia.
+- You should continue your prednisone taper for 4 more days.
+- You can take guaifenesin as needed for cough for one week.
+- You should discuss your asthma regimen with your allergist or
+pulmonologist.
+.
+Please keep your follow-up appointments as below.  Please
+schedule follow-up appointments as below.
+
+Followup Instructions:
+Previously scheduled appointments:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePatter

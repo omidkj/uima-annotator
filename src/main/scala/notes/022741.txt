@@ -1,0 +1,193 @@
+Admission Date:  [**2137-9-15**]              Discharge Date:   [**2137-10-11**]
+
+Date of Birth:  [**2077-8-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Heparin Agents
+
+Attending:[**Last Name (NamePattern1) 2499**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+#. Tracheotomy
+#. Flexible Bronchoscopy
+#. Thoracostomy with placement of chest tube
+#. Left VATs with pericardial window
+#. Pleural Biopsy
+#. Pericardiocentesis
+
+
+History of Present Illness:
+Patient is a 60F with ER negative, Her-2/neu positive breast
+cancer with mets to lymph node, pericardium, spleen, and bone
+who was recently receiving chemoradiation at which time she
+became short of breath and was found to have laryngeal edema and
+vocal cord paralysis. She was admitted to the ICU where she had
+a trach placed, a chest tube placed for a large Left pleural
+efusion and a pericardial window for malignant pericardial
+effusion with a pulsus paradoxus of 15 to 20 prior to
+pericardiocentesis and window. After resolution of these
+problems (see hospital course) , due to the progressive nature
+of her disease despite recent therapy with radiation to her left
+brachial plexus and xeloda and herceptin, she was transferred to
+the oncology service for additional chemotherapy with Adriamycin
+and Cytoxan. On arrival to the floor, the patient had a pulsus
+of 10.
+.
+Allergies:
+PCN - ? hives
+HIT positive, heparin listed as allergy
+
+Past Medical History:
+1. Initially diagnosed as a stage I (T1b, No, M0) infiltrating
+ductal, ER negative breast cancer of the upper outer quadrant of
+the right breast in [**2120**] treated with lumpectomy and axillary
+lymph node dissection. Now s/p several chemotherapy regimens and
+radiation to left brachial plexus. Patient now with known Stage
+IV metastatic to nodes, spleen, bone. On chemo/XRT.
+- Zeloda treatment began [**9-13**] but the patient has been treated
+with Herceptin, Navilbine in past.
+- s/p sinus surgery [**2127**].
+
+Social History:
+Patient is single, but has been married two times in the past
+for a short period of time. She has no children. She lives in
+[**Location 32775**] and works part time at a bank in the [**Location (un) 5110**] area. She
+reports smoking half a pack of cigarettes a day for 40 years
+without any other known toxic exposures. She reports her family
+is small, both parents deceased and has one brother. She has a
+cousin she is close with in the [**Name (NI) 5110**] area ([**Telephone/Fax (1) 100452**])
+
+Family History:
+No family history breast cancer. [**Name (NI) **] mother was diagnosed
+with ovarian cancer at the age of 67 and died the following
+year. Patient's paternal aunt was diagnosed with ovarian cancer,
+age unclear. [**Name2 (NI) **] father was diagnosed with colon cancer at age
+77. [**Name (NI) **] brother had asthma and died of cardiac arrest in
+his 40's. Patient has not undergone genetic testing for BRCA 1
+or BRCA 2, but has met with genetic counselors.
+
+Physical Exam:
+GEN: NAD, appearing older than stated age
+HEENT: PERRLA, EOMI, supraclavicular LAD, anterior cervical,
+submental LAD.
+PULM: CTAB anteriorly, diffuses rhonchi posteriorly; crackles
+half way up
+CV: RRR, S1/S2, no murmurs/rubs/gallops; pulsus paradoxes 20
+ABD: +BS, NTND
+EXT: WWP, no edema
+Neuro: A&O x 3; follow commands
+
+Pertinent Results:
+Admission Labs:
+[**2137-9-15**] 12:46PM PLEURAL  TOT PROT-2.3 GLUCOSE-188 LD(LDH)-1218
+[**2137-9-15**] 12:46PM PLEURAL  WBC-2900* RBC-[**Numeric Identifier 100453**]* POLYS-72*
+BANDS-1* LYMPHS-27* MONOS-0
+[**2137-9-15**] 08:20AM   PT-13.2 PTT-24.7 INR(PT)-1.2
+[**2137-9-15**] 07:50AM URINE  HOURS-RANDOM
+[**2137-9-15**] 07:50AM URINE  GR HOLD-HOLD
+[**2137-9-15**] 07:50AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.030
+[**2137-9-15**] 07:50AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2137-9-15**] 07:50AM URINE  RBC-0 WBC-0 BACTERIA-RARE YEAST-RARE
+EPI-0
+[**2137-9-15**] 07:50AM URINE  MUCOUS-MOD
+[**2137-9-15**] 06:00AM   GLUCOSE-134* UREA N-15 CREAT-0.6 SODIUM-136
+POTASSIUM-4.6 CHLORIDE-101 TOTAL CO2-21* ANION GAP-19
+[**2137-9-15**] 06:00AM   LD(LDH)-814*
+[**2137-9-15**] 06:00AM   TOT PROT-6.3*
+[**2137-9-15**] 06:00AM   WBC-16.4*# RBC-4.29 HGB-13.2 HCT-39.9 MCV-93
+MCH-30.9 MCHC-33.2 RDW-13.8
+[**2137-9-15**] 06:00AM   NEUTS-91* BANDS-0 LYMPHS-4* MONOS-4 EOS-1
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2137-9-15**] 06:00AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-1+
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL
+OVALOCYT-OCCASIONAL BURR-OCCASIONAL
+[**2137-9-15**] 06:00AM   PLT SMR-NORMAL PLT COUNT-316
+Other pertinent labs/studies:
+[**2137-10-1**]: UA - WNL, no blood
+.
+Trending:
+CA 27.29: 34 -> 37 -> 68 -> 129 -> 95 ([**2137-9-30**])
+[**2137-9-30**]: CEA: 52
+.
+[**2137-9-22**]: HIT Ab - positive
+[**2137-10-3**]: HIT Ab - positive
+.
+Pleural Fluid: [**2137-9-15**]
+WBC-2900 RBC-[**Numeric Identifier 100453**] Polys-72 Bands-1 Lymphs-27 Monos-0
+Total Prot-2.3 Glu-188 LDH-1218
+.
+Pericardial Fluid: [**2137-9-16**]
+WBC-201   RBC-6556    Polys-0    Lymphs-10   Monos-0  Other-90
+Tot Prot-4.9  Glucose-0 LD(LDH)-2130  Amylase-51  Albumin-3.1
+.
+Microbiology:
+[**2137-9-15**]: Pleural Fluid - No growth, No PMNs
+[**2137-9-16**]: Pericardial Fluid - No growth, 2+ PMNs
+.
+[**9-17**], [**9-19**], [**9-24**]: Sputum cx: rare growth OP Flora
+[**2137-10-3**]: Sputum cx: ACINETOBACTER BAUMANNII sensitive to
+Gentamycin and Tobramycin
+[**2137-10-4**]: Sputum cx: ACINETOBACTER BAUMANNII sensitive to
+Gentamycin and Tobramycin
+.
+[**9-24**] ; [**9-25**] ; [**10-3**]: Stool cx - C. Diff Negative, cultures
+negative
+[**2137-10-9**]: Stool cx - C. Diff, cultures pending
+.
+[**2137-9-26**]: Urine cx: No growth
+.
+No Blood cultures drawn during admission
+Cytology:
+[**2137-9-16**] - Pericardial Fluid - POSITIVE FOR MALIGNANT CELLS
+consistent with metastatic adenocarcinoma.
+.
+[**2137-9-15**] - Pleural Fluid - Highly atypical cells present -
+cannot exclude carcinoma.
+Radiology:
+[**2137-10-9**]: CT Chest - 1. Improvement to prior multifocal ground
+glass opacity and consolidation, but new right perihilar
+consolidations.  Temporal context and behavior of these findings
+are most suggestive of drug reaction, atypical edema, or
+pulmonary hemorrhage. Infectious process is felt to be unlikely.
+2.  Early development of fibrotic changes in the upper lobes,
+supportive of drug toxicity scenario. 3.  Small pericardial
+effusion, increased from prior exam.
+.
+[**2137-10-3**]: CT Chest - 1.  Acute pulmonary embolism in the right
+lower lobe pulmonary artery extending into the segmental and
+subsegmental branches. There is mild compression of the right
+lower lobe pulmonary artery superior to the filling defect
+secondary to right hilar lymphadenopathy. As the size of the
+filling defect is larger than the narrowed lumen of the artery
+proximally, an element of thrombus is also likely present.
+Subsegmental pulmonary emboli are also demonstrated within the
+right upper lobe and right middle lobe pulmonary arterial
+branches.
+2.  Stable appearance of the lungs with multiple areas of ground
+glass opacity and consolidation predominantly in the peripheral
+and peribronchial distribution.  No new areas of consolidation
+are demonstrated. 3.  Stable bilateral axillary, hilar, and
+mediastinal lymphadenopathy. 4.  Unchanged appearance of low
+density lesion in the right love of the liver. 5. Stable
+appearance of loculated, moderate in size left pleural effusion.
+
+.
+[**2137-10-2**]: LE US - IMPRESSION:  Bilateral lower extremity deep
+vein thromboses, right greater than left, age indeterminate.
+.
+[**2137-10-1**]: CT Chest without contast: 1)  Multifocal areas of
+ground glass and consolidation in peripheral and peribronchial
+distribution.  Rapid progression and development of these
+findings favors an inflammatory or infectious etiology such as
+cryptogenic organizing pneumonia, eosinophilic pneumonia, or
+fungal infection.  Less likely considerations include vasculitis
+or drug reaction. Rapid progression argues against a neoplastic
+process. 2)  New porta hepatis and celiac axis lymph nodes, and
+mild enlargement of right axillary and mediastinal lymph nodes.
+3) Moderate loculated lef

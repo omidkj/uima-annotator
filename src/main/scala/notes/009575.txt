@@ -1,0 +1,217 @@
+Admission Date:  [**2121-11-17**]              Discharge Date:   [**2121-11-26**]
+
+Date of Birth:  [**2062-11-8**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 458**]
+Chief Complaint:
+Sustained VT
+
+Major Surgical or Invasive Procedure:
+ICD generator changed
+Ventricular Tachycardia Ablation
+
+
+History of Present Illness:
+59 y/o F with history of COPD, CAD s/p angioplasty in '[**08**], AFib,
+VT s/p ICD placement in '[**12**], admitted to [**Hospital1 1516**] on [**11-17**] because
+of recurrent VT and ICD firing, now admitted to the CCU for
+recurrent sustained VT and multiple ICD firing.
+Pt was in USOH until the night PTA, when she was woken from
+sleep by several ICD firings. Her ICD fired 3x at home with
+shocks preceded by lightheadedness but no other sx.
+When EP evaluated the pt in the ED, she was in NSR with PVCs and
+interrogation revealed appropriate ICD firings for VT. Pt was
+admitted to the floor, Toprol was increased to 50mg po and a
+Lidocaine drip was started for recurrent sustained VT. On the
+floor, the pt continued to have ICD firings for VT. At 3pm the
+pt was noted to be in AFib with RVR that progressed to VT at
+240bpm and a code was called. The pt was sedated and intubated
+because of multiple ICD firings (17 in total) and was then
+bolused with Amiodarone and started on amiodarone drip at
+1mg/min with cessation of VTach. The pt's BP remained stable
+throughout and on arrival in the CCU, the pt's vitals were
+stable and EKG was in NSR with PVCs.
+Of note, in advance of umbilical hernia repair, pt dc'd ASA on
+[**11-8**] and coumadin on [**11-14**].
+
+
+Past Medical History:
+Cardiac:
+- Coronary artery disease status post IMI [**2108**] + angioplasty
+[**2108**] percutaneoustransluminal coronary angioplasty as above.
+- s/p Defibrillator implantation [**4-/2113**] for susteined VT. EF at
+that time 50% EPS with multiple inducible VT's not ablated.
+[**Company 1543**] Gem ICD placed.
+- A flutter [**2119**]
+2. Gastroesophageal reflux disease.
+3. Chronic obstructive pulmonary disease.
+4. Claudication.
+5. Depression.
+6.Status post cesarean section.
+7. Status post tonsillectomy.
+8. Carpal tunnel syndrome.
+
+
+Social History:
+Married, one children. Lives on her own. 60 pack year smoking
+history (quit in [**9-8**]).  No alcohol or IVDU.
+
+Family History:
+Mother died 9/199 v [**Name (NI) **]
+Father Died [**2106**] [**Name2 (NI) 3730**]
+Brother died [**2111**] V tachy
+
+
+Physical Exam:
+Vitals: T-98.8    HR-64    BP-114/55   RR-18    O2-98%RA
+
+Gen: Obese middle aged woman.
+
+Neck: JVP not appreciated due to large neck
+
+CV: PMI not palpable. RRR, Nl S1, S2. no Murmurs, quiet HS
+
+Chest: CTAB, no resp distress.
+
+Abd: Obese, Soft, NTND.
+
+Ext: warm, 2+ DPs, no edema
+
+Skin: No stasis dermatitis, ulcers.
+
+Neuro: Alert and oriented x 3, moving all extremities, answers
+questions and follows directions appropriately.
+
+
+Pertinent Results:
+[**2121-11-25**] 05:20AM BLOOD WBC-13.4* RBC-4.24 Hgb-13.3 Hct-38.2
+MCV-90 MCH-31.2 MCHC-34.7 RDW-15.0 Plt Ct-297
+[**2121-11-17**] 07:00AM BLOOD WBC-7.7 RBC-4.56 Hgb-14.3 Hct-41.1 MCV-90
+MCH-31.4 MCHC-34.9 RDW-15.1 Plt Ct-270
+[**2121-11-25**] 05:20AM BLOOD Neuts-76.2* Lymphs-15.3* Monos-6.0
+Eos-1.9 Baso-0.7
+[**2121-11-25**] 05:20AM BLOOD PT-23.8* PTT-44.2* INR(PT)-2.3*
+[**2121-11-25**] 05:20AM BLOOD Glucose-90 UreaN-21* Creat-0.8 Na-138
+K-4.2 Cl-98 HCO3-30 AnGap-14
+[**2121-11-17**] 07:00AM BLOOD ALT-25 AST-18 CK(CPK)-139 AlkPhos-91
+TotBili-0.3
+[**2121-11-17**] 07:00AM BLOOD CK-MB-4
+[**2121-11-17**] 07:00AM BLOOD cTropnT-<0.01
+[**2121-11-23**] 05:38AM BLOOD Calcium-9.1 Phos-3.9 Mg-1.8
+[**2121-11-18**] 05:15AM BLOOD TSH-0.67
+[**2121-11-19**] 02:48PM BLOOD Lactate-0.8
+
+[**2121-11-18**] 02:07AM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.015
+[**2121-11-18**] 02:07AM URINE Blood-NEG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-LG
+[**2121-11-18**] 02:07AM URINE RBC-3* WBC-54* Bacteri-MANY Yeast-NONE
+Epi-1
+
+Urine culture [**11-21**]: ESCHERICHIA COLI. >100,000 ORGANISMS/ML.
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------    16 I
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+BCx [**11-19**]: NGTD
+
+Cardiac Cath [**11-18**]:
+1. One vessel coronary artery disease.
+2. Severe LV diastolic dysfunction.
+
+ECHO [**11-18**]:
+Suboptimal image quality. Mild symmetric left ventricular
+hypertrophy with dilated left ventricle and focal regional
+systolic dysfunction consistent with coronary artery disease.
+Mildly dilated right ventricle with mild hypokinesis.
+
+
+Brief Hospital Course:
+59 yo woman with COPD, CAD s/p angioplasty, VT s/p ICD, admitted
+to CCU for sustained VTach.
+
+#. Rhythm: On presentation to CCU, pt was in normal sinus rhythm
+on PO Amiodarone and Lopressor with improving PVCs. Pt had pacer
+pads placed as ICD battery had been used up by the multiple
+firings, but did not require any external shocking. Pt underwent
+cardiac cath and echo (see results below) and then ablation of
+left ventricular source. Following ablation, no arrythmias were
+inducible. Pt underwent ICD change without complications,
+however after had a recurrent run of ventricular tachycardia
+afterwards. She was shocked by her ICD and restarted on
+Amiodarone drip (in addition to PO) as well as started on
+Mexilitine. Prior to discharge she was free of VT for several
+days and was transitioned to PO Amiodarone and Mexilitine. She
+is to have one more week of Amiodarone [**Hospital1 **] then to transition to
+once daily. Pt had normal TFTs and LFTs, but will need PFTs done
+as an outpt for baseline on Amiodarone. Will require twice
+annual tfts and lfts, and an annual chest xray, pfts, and eye
+exam.  Reviewed in detail potential amiodarone toxicities and
+importance of f/u testing.  Pt understands.  These tests will be
+deferred to pt's PCP and primary cardiologist.
+
+#. CAD: Pt was continued on Lopressor, ASA, Pravastatin,
+Lisinopril, Isosorbide Mononitrate and Lasix. She did not have
+any EKG changes or cardiac enzyme elevations throughout her
+hospitalization. ECHO showed "Suboptimal image quality. Mild
+symmetric left ventricular hypertrophy with dilated left
+ventricle and focal regional systolic dysfunction consistent
+with coronary artery disease. Mildly dilated right ventricle
+with mild hypokinesis." Cardiac Cath on [**11-18**] showed one vessel
+coronary artery disease (not stented) and severe LV diastolic
+dysfunction.
+
+# ID: Pt developed an E Coli UTI, initially treated with Bactrim
+DS. She was found to be resistent to Bactrim and switched to
+Keflex to cover both the UTI and the ICD prophylaxis. On day of
+discharge pt had developed some superficial cellulitis at sites
+of blood draw and had an increasing WBC. She was restarted on
+Bactrim to cover for possible MRSA (although earlier MRSA screen
+was negative). At time of discharge pt was on day 6 of 7 of
+Keflex and on day 2 of 10 of Bactrim. Blood cultures were neg on
+[**11-19**] and were resent on [**11-25**] and were pending at time of
+discharge.
+
+# Respiratory: Pt was initially intubated due to multiple ICD
+firings. She was extubated without complications. Given history
+of COPD and copious secretions likely due to airway irritation,
+pt was continued on Atrovent and Albuterol as needed and O2 was
+weened to room air.
+
+
+Medications on Admission:
+METOPROLOL SUCCINATE 25mg daily
+DILTIAZEM HCL 360 mg daily
+WARFARIN - recently held
+ASPIRIN 325 mg daily- recently held
+LISINOPRIL 10mg daily
+FUROSEMIDE 20 mg daily
+ISOSORBIDE MONONITRATE 30 mg daily
+NITROGLYCERIN 0.4mg PRN
+PRAVASTATIN 40 mg daily
+RANITIDINE HCL 300 mg daily
+ALBUTEROL 90 mcg Aerosol
+FLUTICASONE-SALMETEROL 1 puff daily
+TIOTROPIUM BROMIDE 18 mcg Capsule, w/Inhalation Device daily
+PREDNISONE 10mg daily, prn
+MVI daily
+OMEGA-3 FATTY ACIDS 1,000 mg Capsule [**Hospital1 **]
+
+
+Discharge Medi

@@ -1,0 +1,228 @@
+Admission Date:  [**2175-3-29**]              Discharge Date:   [**2175-4-20**]
+
+Date of Birth:  [**2113-1-16**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Keflex / Aciphex / Protonix / Bacitracin / Talwin / Adhesive /
+Metoprolol / Plaquenil / Femara / Levaquin / Cytotec / Aspirin /
+Ibuprofen / Bactrim
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+dyspnea on exertion
+
+
+Major Surgical or Invasive Procedure:
+Off pump Coronary artery bypass grafting x 2; left internal
+mammary artery to very proximal diagonal artery close to the
+left anterior descending artery and saphenous vein graft obtuse
+marginal artery.
+
+
+History of Present Illness:
+62 year old female with recurrent extertional dyspnea, chest
+aches, and neck aches.  She underwent MIBI which showed anterior
+lateral and inferior apical reversal defects with LVEF 57%.  She
+was referred for cardiac catheterization that revealed coronary
+artery disease.Dr.[**First Name (STitle) **] consulted for coronary
+revascularization.
+
+
+Past Medical History:
+Cholelithiasis
+Fibromyalgia
+Hypothyroid
+Coronary artery disease s/p Stent [**12-10**]
+Cerebral vascular accident [**2165**] - residual weakness
+Chronic lung disease - asthma
+Breast cancer - metastatic to Bone
+Hypertension
+Diabetes mellitus type 2
+Dyslipidemia
+lupus
+myopathy
+SVT
+arthralgias
+Esophagitis
+Seizure disorder - last one a few years ago
+Gall stones
+Thrombocytopenia
+Depression with verbaized history of suicidal ideation
+Muscle weakness
+Ankylosing Spondylitis
+Irritable bowel syndrome
+Lumpectomy
+
+
+Social History:
+Race: Caucasian
+Last Dental Exam: dentures upper and lower
+Lives alone
+Occupation: disabled
+Tobacco: denies
+ETOH:denies
+
+
+Family History:
+Family History: mother deceased MI [**14**], father CAD deceased at 52
+from aneurysm, Brother cabg Diabetes deceased 50, Sister with
+lupus deceased at 50
+
+
+Physical Exam:
+Pulse: Resp:  O2 sat:
+B/P  Right:    Left:
+Height:   62"  Weight: 102.1 kg (pre-op)
+
+General: no acute distress, well nourished, obese
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur - none
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x] no palpable masses
+Extremities: Warm [x], well-perfused [x]  Edema none
+Varicosities: None [x]
+Neuro: Gait steady, alert and oriented x3 right = left strength
+
+Pulses:
+Femoral      Right: +1  Left: +1
+DP           Right: +1  Left: +1
+PT           [**Name (NI) 167**]: +1  Left: +1
+Radial       Right: +1  Left: +1
+
+Carotid Bruit        Right: no bruit    Left: no bruit
+
+Pertinent Results:
+[**2175-4-10**] 04:45AM BLOOD WBC-6.3 RBC-2.91* Hgb-7.7* Hct-25.0*
+MCV-86 MCH-26.6* MCHC-30.9* RDW-14.8 Plt Ct-291
+[**2175-3-29**] 05:10PM BLOOD WBC-5.1 RBC-4.03* Hgb-10.9* Hct-35.0*
+MCV-87 MCH-27.1 MCHC-31.3 RDW-14.3 Plt Ct-187
+[**2175-4-3**] 05:36PM BLOOD PT-13.8* PTT-30.1 INR(PT)-1.2*
+[**2175-3-29**] 05:10PM BLOOD PT-13.7* PTT-28.1 INR(PT)-1.2*
+[**2175-4-10**] 04:45AM BLOOD UreaN-26* Creat-1.3* K-4.6
+[**2175-3-29**] 05:10PM BLOOD Glucose-124* UreaN-14 Creat-1.1 Na-141
+K-4.8 Cl-105 HCO3-25 AnGap-16
+[**2175-4-4**] 09:05PM BLOOD ALT-16 AST-41* LD(LDH)-270* AlkPhos-33*
+Amylase-53 TotBili-1.5
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 81481**] (Complete) Done
+[**2175-4-3**] at 1:36:21 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2113-1-16**]
+Age (years): 62 F  Hgt (in): 62
+BP (mm Hg): 117/62  Wgt (lb): 226
+HR (bpm): 63  BSA (m2): 2.02 m2
+Indication: Coronary artery disease. Left ventricular function.
+
+ICD-9 Codes: 786.05, 786.51
+Test Information
+Date/Time: [**2175-4-3**] at 13:36    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 168**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW001-0:00 Machine: ie33
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.9 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  45%  >= 55%
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Mild regional LV
+systolic dysfunction. Mildly depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal descending aorta diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Mild (1+) MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+No atrial septal defect is seen by 2D or color Doppler. Left
+ventricular wall thicknesses are normal. There is mild regional
+left ventricular systolic dysfunction with XXX. Overall left
+ventricular systolic function is mildly depressed (LVEF= 45%).
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic regurgitation. Mild (1+)
+mitral regurgitation is seen. There is no pericardial effusion.
+Dr. [**Last Name (STitle) **] was notified in person of the results on
+[**2175-4-3**] at 1400.
+
+Post revascularization
+LV function globally depressed- LVEF= 35%. RV function mildly
+depressed. 2+ mitral regurgitation present. LVEF improved with
+time. LVEF= 45% at the time of chest closure.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2175-4-10**] 14:13
+
+
+?????? [**2167**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+The patient was admitted to the hospital and brought to the
+operating room on [**2175-4-3**] where the patient underwent an off-pump
+coronary artery bypass graft x2; left internal mammary artery to
+very proximal diagonal artery close to the left anterior
+descending artery and saphenous vein graft obtuse marginal
+artery and endoscopic harvesting of the long saphenous vein.
+See operative note for full details. She was treated with
+Macrodantin for a UTI preoperatively. Overall the patient
+tolerated the procedure well and post-operatively was
+transferred to the CVICU in stable condition for recovery and
+invasive monitoring.  Vancomycin was used for surgical
+antibiotic prophylaxis.  POD 1 found the patient extubated,
+alert and oriented and breathing comfortably.  The patient was
+neurologically intact and hemodynamically stable on no inotropic
+or vasopressor support.  Beta blocker was initiated and the
+patient was gently diuresed toward the preoperative weight.  The
+patient was transferred to the telemetry floor for further
+recovery.  Chest tubes and pacing wires were discontinued
+without complication.  The patient was evaluated by the physical
+therapy service for assistance with strength and mobility.  She
+did develop copius serosanginous sternal drainage at lower
+sternal pole which grew out Pseudomonas on wound culture. A PICC
+line was inserted a

@@ -1,0 +1,192 @@
+Admission Date:  [**2110-8-19**]              Discharge Date:   [**2110-8-30**]
+
+Date of Birth:  [**2035-3-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin
+
+Attending:[**First Name3 (LF) 2387**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+Continuous [**Last Name (un) **]-Venous Hemofiltration
+Intubation
+Placement of left sided IJ central venous line
+
+History of Present Illness:
+This is a 75 y.o. man with history of diabetes mellitus,
+hyperlipidemia, hyperlipidemia, coronary artery disease,
+systolic CHF (EF 25%), and moderate aortic stenosis who
+presented to an outside hospital with dyspnea.  He was seen in
+clinic on [**2110-8-11**] and then admitted to the outside institution
+for a probable CHF exacerbation.  At the outside hospital he had
+diuresis initiated with IV bumetanide, but despite initially
+encouraging results he continued to be in a severe CHF
+exacerbation.  A transthoracic echo was obtained that showed a
+left ventricular ejection fraction of 15%, which was worse than
+prior results.  This was thought due to in-stent thrombosis of
+his previous interventions and cardiac catheterization was
+planned for [**8-18**] but was unable to be performed secondary to
+patient's volume overload from pre-cath hydration.  He finally
+had this catheterization at the outside hospital on the day of
+admission, which showed significant in-stent thrombosis of the
+LAD.  As only diagnostic catheterizations could be performed at
+the outside hospital he was transferred to [**Hospital1 18**] for definitive
+management.
+.
+After arrival at [**Hospital1 18**] the patient had a second therapeutic
+catheterization, which showed the same lesions identified at the
+outside hospital.  He had two DES placed to reopen his stenosed
+LAD and received 80 mg IV furosemide in the cath lab secondary
+to his complaints of dyspnea.  Given his O2 saturation was 94%
+on 100% non-rebreather he was admitted to the CCU for further
+management.
+
+Past Medical History:
+-Hypertension
+-Hyperlipidemia
+-Chronic Kidney Disease with baseline creatinine of 3
+-Prostate Cancer status post brachytherapy
+-Radiation enteritis status post laser ablation
+-Radiation proctitis
+-Gastroesophageal reflux disease
+-Status post cervical spine intervertebral disc surgery
+-Diabetes mellitus, poorly controlled
+-History of gastrointestinal bleeding secondary to hemorrhoids
+-Status post right knee arthroscopy
+
+Social History:
+He is a retired police officer who was recently widowed.  He
+currently lives with his daughter.  [**Name (NI) 1139**] history is
+significant for cigar smoking for 20 years but none for the last
+20 years.  He doesn't currently drink but has a history of
+consuming a six-pack a day for approximately 20 years in the
+past.  He denies any history of illicit drug use.
+
+Family History:
+Notable for CAD in his father who had an MI at age 61.  His
+mother had throat cancer.
+
+Physical Exam:
+On Admission:
+---------------
+GEN: A/0X3, joking w/ staff, breathing comfortably on NRB
+HEENT: Sclerae anicteric, PERRL, oropharynx benign
+Heart: RRR, III/VI systolic murmur, II/VI diastolic murmur, JVD
+difficult to appreciate due to habitus
+Lungs: decreased breath sounds posteriorly especially in bases,
+crackles 2/3 up lung bilaterally.
+Abd: Soft, ND, BS+, only tender in area of previous shingles on
+R flank w/ small slightly pigmented zoster scars.
+Ext: Small amount of blood at cath site, tender to palpation, no
+hematoma. Feet warm/ WP, DP pulses 1+ Bilaterally. 3+ pitting
+edema of lower extremities.
+.
+Discharge exam is notably changed as patient is breathing
+comfortably on room air.  VS: T 98.9, BP 127/72, HR 90, RR 20,
+O2 Sat 93% on RA.  Lungs stil have crackles in bases but not as
+far up as on admission.  Extremities to trace pitting edema.
+Exam otherwise not significantly changed.
+
+
+Pertinent Results:
+<b><u>Lab Results</b></u>
+On Admission:
+WBC-7.1 RBC-3.61* Hgb-8.7* Hct-27.9* MCV-77* Plt Ct-176
+--Neuts-76.4* Lymphs-13.8* Monos-8.6 Eos-0.7 Baso-0.5
+PT-13.8* PTT-36.3* INR(PT)-1.2*
+Glucose-171* UreaN-98* Creat-2.8* Na-140 K-4.4 Cl-94* HCO3-36*
+AnGap-14
+proBNP-[**Numeric Identifier 37366**]*
+Calcium-9.0 Phos-5.7* Mg-2.0
+ABG on Admission: pO2-233* pCO2-78* pH-7.30* calTCO2-40* Base
+XS-9
+.
+On Discharge:
+WBC-8.7 RBC-3.43* Hgb-8.4* Hct-28.2* MCV-82 Plt Ct-336
+PT-12.3 PTT-30.3 INR(PT)-1.0
+Glucose-171* UreaN-47* Creat-1.8* Na-142 K-4.4 Cl-102 HCO3-31
+AnGap-13
+Calcium-8.8 Phos-1.7* Mg-1.9
+ABG [**2110-8-26**]: pO2-96 pCO2-45 pH-7.39 calTCO2-28 Base XS-1
+.
+<b><u>Other Studies</b></u>
+[**2110-8-19**] Left sided CATH
+COMMENTS:
+1. Severe instent restenosis of proximal LAD
+2. Successful PCI/stent to proximal LAD with a 2.5x15mmm Xience
+stent
+and 3.0x8mm Xience stent (overlap). Excellent result with normal
+flow
+down vessel and no residual stenosis.
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Severe instent restenosis of proximal LAD.
+3. Successful PTCA/stent to proximal LAD with 2 drug eluting
+stents.
+
+[**2110-8-21**] TTE
+The left atrium is mildly dilated. The right atrium is
+moderately dilated. There is mild symmetric left ventricular
+hypertrophy with normal cavity size. There is mild to moderate
+regional left ventricular systolic dysfunction with hypokinesis
+of the inferior, inferoseptal walls, mid- to distal anterior
+septum, and the apex (multivessel CAD). The remaining segments
+contract normally (LVEF = 40%). Right ventricular chamber size
+is normal with focal hypokinesis of the apical free wall (CAD
+pattern). There are three moderately thickened aortic valve
+leaflets. There is moderate aortic valve stenosis (area 1.1
+cm2). The mitral valve leaflets are mildly thickened. There is
+no mitral valve prolapse. Moderate (2+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened.
+Moderate [2+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+[**2110-8-22**] Renal U/S
+Normal renal ultrasound with no evidence of hydronephrosis
+
+
+Brief Hospital Course:
+Patient is a 75 y/o M with hx of DM, HTN, hyperlipidemia and
+known CAD who presents to [**Hospital1 18**] from outside hospital for
+intervention/ catheterization for in-stent thrombosis of a stent
+in his LAD.  Patient had previously presented to OSH with
+dyspnea and found to be in CHF exaccerbation.
+
+# CAD - The patient underwent placement of drug-eluting stents
+x2 to the LAD for in-stent thrombosis and was maintainaed on ASA
+and plavix along with his home dose of statin. ACE inhibitor was
+held as a result of his elevated creatinine. He had no further
+chest pain at our institution and showed no EKG changes. Because
+of his renal dysfucntion the plan is to restart his ACE around
+[**9-1**] after 1 wk improvement in renal function.
+
+# Pump - His OSH TTE showed an EF of 15-20% with significant
+focal akinesis and hypokinesis along with moderate aortic
+stenosis.  BNP on arrival to our institution was 52K. Initially,
+we attempted to continue diuresis with furosemide without
+response so we proceeded to attempt diuresis with bumetanide and
+chlorathiazide.   Furthermore, he was loaded on digoxin in hopes
+of inotropic benefit.  Unfortunately, these interventions were
+not effective and we informed the patient he would need dialysis
+to remove volume.  Given hypotension CVVH was considered the
+preferred modality for HD .  The patient initially refused this
+given his previous poor health and the thought that his ejection
+fraction was quite poor.  After having his LAD reopened a repeat
+TTE showed an EF of 40%.  This led him to reconsider his options
+and with the support of his family he accepted CVVH.
+Unfortunately, before this could be initiated he went into
+hypercarbic respiratory failure and was unable to lay flat for
+the placement of a dialysis CVL.  Therefore, he was
+semi-electively intubated for placement of a line for dialysis.
+He underwent CVVH over 3 days with greater than four liters
+removed and improvement in his bilateral effusions and oxygen
+requirement. CVVH was stopped, he was extubated, and he
+continued to auto-diurese w/improvement in pulmonary function,
+decreased edema and decreased need of inspired oxygen. His home
+furosemid

@@ -1,0 +1,207 @@
+Admission Date:  [**2147-9-7**]              Discharge Date:   [**2147-9-27**]
+
+Date of Birth:  [**2083-2-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Ativan / Metformin
+
+Attending:[**First Name3 (LF) 4963**]
+Chief Complaint:
+Mental Status Changes
+
+Major Surgical or Invasive Procedure:
+- intubation
+- central line placement
+- a-line placement
+
+History of Present Illness:
+64 year old women with history of mental retardation, MRSA
+pneumonia, bipolar disorder and CHF presenting with a five day
+history weakness, tremors and altered mental status. She feels
+her symptoms began three weeks ago when she was started on
+metformin and glipizide for DM control. She was taken off these
+medications three days prior to admission. She describes tremors
+and a fear of falling which have left her bed bound for the last
+five days. She feels generally weak and has been having diarrhea
+and polyuria. Her po intake has also decreased over the last
+week. Per her and her caregivers, she has been increasingly
+confused and agitated as well. Her PCP recommended coming to the
+ED for evaluation.
+.
+In the ED, vitals were 98.1, BP 101/57, HR 74, R 18, 96% RA. FS
+was 118. Labs demonstrated Lithium level 2.2, hyperkalemia,
+hyponatremia and acute renal failure. She was given kayexelate,
+insulin and glucose for her hyperkalemia with slight improvement
+to 6.0. She had a transient hypotensive episode to SBP 89/33 and
+received a 500 cc bolus and 8 mg IV Decadron for presumed
+adrenal insufficiency. She responded and did not require any
+further BP support. She received levofloxacin, flagyl and
+vancomycin given leukocytosis and relative hypotension and was
+transferred to the MICU for furhter monitoring.
+
+
+Past Medical History:
+1) Asthma
+- PFTs [**6-22**] FEV1 0.54 (27%), FVC 0.57 (21%), FEV1/FVC 130% c/w
+restrictive defect
+2) Mental retardation
+3) ?temporal lobe epilepsy: this diagnosis has been questioned
+in the past
+4) h/o MRSA PNA requiring intubation [**6-22**]: Pt was found down in
+respiratory failure; etiology was unclear, but possible
+contributors included OSA-associated hypercapnia, aspiration,
+and congestive heart failure
+- [**8-23**] CTA (technically limited): No central/lobar PE.
+Improvement in previously-noted opacities in right lung.
+5) Obstructive sleep apnea:
+- [**9-22**] sleep study with titration of CPAP to 19 cm with 4L O2.
+6) Bipolar disorder: currently on lithium and Seroquel
+7) Hypertension
+8) [**Location (un) 3484**] disease: diagnosis is unclear
+9) Osteoarthritis
+10) GERD
+11) h/o CHF:
+- EF [**5-23**] (limited): [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 100312**] dilated, RA moderately dilated,
+asc aorta mildly dilated, 1+ MR, mod pulm artery systolic HTN.
+12) Morbid obesity
+
+Social History:
+Lives in [**Hospital3 **] in Brookeline with visiting services.
+Ambulates with a walker. No tobacco, alcohol, or other drug use
+
+
+Family History:
+cancer NOS in mom and dad
+no HTN
+no DM
+
+Physical Exam:
+vitals: 147/72, 76, 20, 93% 2L
+General: pleasant female, MR, a+o X 3, no distress
+HEENT: RERRL, OP clear, EOMI
+Neck: obese, nontender, FROM
+Car: RRR no murmur
+Resp: [**Month (only) **] BS bilat--ant/lat exam
+Abd: obese, soft, nontender +BS
+Ext: no edema, erythematous rash on left shin
+Neuro: MAE, A+OX3, does not cooperate with exam
+
+
+Pertinent Results:
+[**2147-9-7**] 11:40PM   POTASSIUM-6.0*
+[**2147-9-7**] 11:30PM   GLUCOSE-104 UREA N-57* CREAT-2.1* SODIUM-129*
+POTASSIUM-6.4* CHLORIDE-96 TOTAL CO2-27 ANION GAP-12
+[**2147-9-7**] 09:56PM   COMMENTS-GREEN TOP
+[**2147-9-7**] 09:56PM   LACTATE-1.0
+[**2147-9-7**] 09:40PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.014
+[**2147-9-7**] 09:40PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2147-9-7**] 09:40PM URINE  RBC-0 WBC-0-2 BACTERIA-OCC YEAST-NONE
+EPI-0-2
+[**2147-9-7**] 09:40PM URINE  HYALINE-[**2-20**]*
+[**2147-9-7**] 07:30PM   GLUCOSE-100 UREA N-60* CREAT-2.3* SODIUM-126*
+POTASSIUM-6.2* CHLORIDE-93* TOTAL CO2-28 ANION GAP-11
+[**2147-9-7**] 07:30PM   estGFR-Using this
+[**2147-9-7**] 07:30PM   LITHIUM-2.2*#
+[**2147-9-7**] 07:30PM   WBC-11.2*# RBC-4.10* HGB-12.4 HCT-36.7 MCV-90
+MCH-30.2 MCHC-33.7 RDW-17.0*
+[**2147-9-7**] 07:30PM   NEUTS-85.2* LYMPHS-11.5* MONOS-1.9* EOS-1.2
+BASOS-0.1
+[**2147-9-7**] 07:30PM   PLT COUNT-299
+
+Brief Hospital Course:
+A/P: 64F h/o bipolar on lithium, MR, CHF, DM2, admitted with
+ARF, hyperkalemia, hyponatremia, elevated lithium level, now
+attempting to wean off vent.
+.
+# Hypercarbic respiratory failure: Pt with chronic respiratory
+acidosis likely [**1-20**] OSA/pulmonary HTN, asthma. In setting of ARF
+[**1-20**] diarrhea, poor PO, likely triggered inability to eliminate
+H+ and related worsening uncompensated respiratory acidosis.
+Goal pCO2 = 65, as pt is likely obligate rapid shallow breather
+at baseline given obesity. Attempt wean to PS 8/PEEP 8, with
+diuresis to improve respiratory mechanics.
+- First few days of ICU admission pt. was maintained on home
+regimen of CPAP while sleeping and nasal cannula / room air
+while awake
+- [**Hospital **] hospital day 4 pt. with increasing somnolence and
+increased positive fluid balance as renal function worsened and
+thus increased biPAP requirement -> pCO2 continued to climb and
+pt. intubated. Pt. underwent slow wean over the next 2 weeks ->
+coupled with return of renal function, subsequent diuresis, and
+treatment of MSSA pneumonia -> pt. completed 14 day course of
+Vancomycin as she has pcn allergy
+- [**9-19**] extubated in am and doing well -> tolerating CPAP
+overnight and NC during the day.
+Pt reports being complaint at home with her nebulizer, CPAP as
+well as O2 nasal canula. During the day she uses her O2 by NC
+most of the time.
+.
+# Acute renal failure: Cr 1.3, with baseline 0.8-1.0.
+- Cr elevated on admission and 18-24 hours later pt. stopped
+making urine.  Renal was consulted and initially pt did not
+respond to lasix.  During this time pt. given some fluids and
+kidneys slowly recovered on their own.  Pt. had Cr. back to
+normal level and we started lasix -> now Cr stable at 1.3, pt.
+making adequate amounts of urine and processing meds
+appropriately
+-Initially held further diuresis as overall fluid balance per
+physical exam seemed to be even. Diuresis started with 20 mg
+lasix PO on medical floor again as pt's renal function o
+baseline. Pt need weekly check of her renal function as long as
+Lithium treatment continues.
+.
+# Intermittent low - grade temps: vancomycin as above [**1-20**] sputum
+MSSA. Completed full 5 day azithromycin course. pt. had central
+venous line placed which was removed once 14 day course of vanco
+was complete. She remained afebrile after above.
+.
+# Bipolar d/o: Titrated lithium per ARF, now at lithium 150mg
+QHS, with quetiapine 100mg PO TID, quetiapine 350mg PO HS.
+Lithium level was elevated on arrival - 2.0 and psych / renal
+advised that HD was not needed for lithium. We held lithium
+until level was <1.0 with return of renal function. Restarted
+lithium and following daily levels. Pt. will need to follow-up
+with primary psychiatrist for further medication alterations. Pt
+needs 2-3 times weekly Lithium levels check until stabilized on
+this regiment for 3-4 weeks,.
+.
+# CHF: continued with lasix 20 mg daily as above
+.
+# DM2: Continued on humalog insulin SS q6h.  Pt. with history of
+reaction to oral hypoglycemics. Pt refused taking oral
+antidiabetic but is now agreeing to take glipizide 2.5 mg [**Hospital1 **].
+Will need follow-up with PCP and further dose adjustment.
+Uncertain about capacity to learn how to use insulin.
+.
+# Asthma: Continued on home regimen of albuterol and
+ipratropium.
+.
+# Decubitus ulcer -> on air mattress for much of her icu stay.
+sacral decub dressed daily - stage I.
+.
+# FEN: [**Doctor First Name **] diet
+.
+# Full code
+
+
+Medications on Admission:
+Metformin 500mg [**Hospital1 **]--stopped X 3 days
+Glipizide 2.5mg [**Hospital1 **]--stopped X 3 days
+Prilosec 20mg daily
+Loperamide 4mg 4 times daily PRN
+Seroquel 300mg TID + 350mg qHS
+Lithium 150mg TID
+Ibuprofen 600mg 4 times daily
+Furosemide 20mg daily
+Lisinopril 2.5mg daily
+Folic Acid 1mg daily
+Singular 10mg daily
+Atrovent Neb 4 times daily
+Pulmicort
+
+
+Dis

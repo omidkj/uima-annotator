@@ -1,0 +1,230 @@
+Admission Date:  [**2163-9-14**]              Discharge Date:   [**2163-9-22**]
+
+Date of Birth:  [**2082-12-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+penicillin G
+
+Attending:[**First Name3 (LF) 3565**]
+Chief Complaint:
+Painless jaundice
+
+Major Surgical or Invasive Procedure:
+ERCP with brush biopsy and bilary stenting with metal stent.
+Angio procedure with clipping of gastroduodenal artery
+
+
+History of Present Illness:
+_
+________________________________________________________________
+
+PCP: [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 51036**].
+
+_
+________________________________________________________________
+
+Cardiologist:  Dr. [**Last Name (STitle) **] - [**Hospital3 **] Hospital
+HPI:
+80 yo male with 80 yo with painless jaundice and weight loss.
+PMHx: CAD-EF 20%, A.fib, defibrilator, HTN,
+Hypercholesterolemia,
+Spinal stenosis, DM, RA and pancreatic head mass  identified on
+[**9-1**], has since developed progressive  painless jaundice
+and Tbili now >7 along with 15 lb weight loss over 2 months.
+Presented to [**Hospital3 **]  Hospital for ERCP but they were unable to
+perform. Our ERCP service requests transfer tonight so
+Anesthesia can assess prior to ERCP with metal stenting given
+his multiple significant comorbidities. Despite medical issues,
+pt currently appears to
+be hemodynamically stable. Upon arrival to the floor he had a
+few runs of asymptomptomatic NSVtach without AICD firing. His BP
+was systolics to the 90s on arrival though he was asymptomatic.
+.
+PAIN SCALE: 0/10
+________________________________________________________________
+
+REVIEW OF SYSTEMS: 10 or 2 with "all otherwise negative"
+CONSTITUTIONAL: [] All Normal
+[ +] Fever [- ] Chills [ ] Sweats [ ] Fatigue [ +] Malaise [+
+]Anorexia [ ]Night sweats
+[+ ] __15___ lbs. weight loss over __2___ months
+
+Eyes
+[] All Normal  [X]
+[ ] Blurred vision [ ] Loss of vision [] Diplopia [ ]
+Photophobia
+
+ENT  [X]WNL
+[ ] Dry mouth [ ] Oral ulcers [ ] Bleeding gums [ ] Sore throat
+[] Sinus pain [ ] Epistaxis [ ] Tinnitus
+[ ] Decreased hearing [ ] Other:
+RESPIRATORY: [X] All Normal
+[ ] Shortness of breath [ ] Dyspnea on exertion [ ] Can't walk 2
+flights [ ] Cough [ ] Wheeze [ ] Purulent sputum [ ] Hemoptysis
+[ ]Pleuritic pain
+[ ] Other:
+CARDIAC: [X] All Normal
+[ ] Palpitations [ ] Edema [ ] PND [ ] Orthopnea [ ] Chest Pain
+[ ] Dyspnea on exertion [ ] Other:
+GI: [] All Normal
+[ -] Nausea [+] Vomiting- in the middle of a meal he suddenly
+throws up the meal which occurs 1/month in the past 3 months [+]
+mild occasional [**5-10**] LLQ abd pain/irritaion which occurs in the
+morning without clear exacerbating or ameliorating factors []
+Abdominal swelling [ ] Diarrhea [ ] Constipation [ ] Hematemesis
+
+[ -] Blood in stool [ ] Melena [ ] Dysphagia: [ ] Solids [ ]
+Liquids [ ]
+[+] light colored stool [-]Odynophagia [+ ] Anorexia [ ] Reflux
+
+[ ] Other:
+GU: [] All Normal
+[ ] Dysuria [ +] retention- he straight caths 2/week [ ]
+Frequency [ ] Hematuria []Discharge []Menorrhagia
+SKIN: [] All Normal
+[ ] Rash [ -] Pruritus [+]jaundice
+MS: [X] All Normal
+[ ] Joint pain [ ] Jt swelling [ ] Back pain [ ] Bony pain
+NEURO: [] All Normal
+[ ] Headache [ ] Visual changes [ ] Sensory change [ ]Confusion
+[ ]Numbness of extremities
+[ ] Seizures [ ] Weakness [+] Dizziness/Lightheaded [ ]Vertigo [
+] Headache
+ENDOCRINE: [] All Normal
+[ ] Skin changes [ ] Hair changes [ ] Heat or cold intolerance [
+] loss of energy
+HEME/LYMPH: [X] All Normal
+[ ] Easy bruising [ ] Easy bleeding [ ] Adenopathy
+PSYCH: [X] All Normal
+[ ] Mood change []Suicidal Ideation [ ] Other:
+
+ALLERGY:
+[ +]Medication allergies- PCN leads to boils  [ ] Seasonal
+allergies
+[X]all other systems negative except as noted above
+
+
+Past Medical History:
+Syncope - [**2163-8-18**] - he passed out and he thinks the
+defibrillator "brought him back".  He learned it fired again in
+[**Month (only) 216**], though he was not aware of this.
+DM since [**2152**] and [**2153**]- last HgbA1C < 7
+CAD s/p CABG with EF = 20% - it is suspected that he had a
+silent MI
+admisson in [**2163-5-31**] when he presented with UTI/epididymitis and
+bronchitis
+Atrial fibrillaton on coumadin and dofetilide
+Gout
+Hyperlipidemia
+GERD
+Spinal stenosis
+PVD with claudication
+RA
+Renal insufficiency
+Renal stones
+HTN
+Bronchitis
+Osteoporosis
+MVR
+H/o decreased range of motion in R arm secondary to shoulder
+surgery.
+
+Social History:
+He lives with his wife of 56 years. He has two dtrs one who
+lives in [**Location **] and one in [**State 8842**].  Lifelong non- smoker. He
+used to have 2 martinis daily but he has not had any the past
+few months.  He drank heavily in college but not since then. He
+was a buyer in retail business but he has been retired for 20
+years. He is independent of ADLs and still drives locally.  He
+walks with a cane occasionally.  His last fall was 6 months ago
+when he was watering the garden. No clear
+trigger/tripping/cp/prodromal sx. It may have been associated
+with LH. It is not clearly associated with going from laying to
+standing.  + glasses. No dentures.
+
+Family History:
+His mother died of natural causes at 84. His father died of an
+MI at age 62.  His dtr has type I DM and is treated at [**Last Name (un) **].
+
+Physical Exam:
+PHYSICAL EXAM: I3 - PE >8
+VITAL SIGNS:
+GLUCOSE:
+PAIN SCORE
+During admisson in [**2163-5-31**] when he presented with
+UTI/epididymitis and bronchitis SBP ranged from 104-125
+1. VS T = 97.4 P = 60 BP = 93/50 RR = 18 O2Sat on _100___ liters
+O2
+GENERAL: Deeply jaundiced elderly thin male.
+Nourishment: greatly at risk
+Grooming: good
+Mentation: alert, speaks in full sentences
+2. Eyes: [] WNL
+EOMI without nystagmus, Conjunctiva: + icterus
+
+3. ENT [] WNL
+[] Moist [] Endentulous [] Ulcers [] Erythema [] JVD ____ cm
+[X] Dry [] Poor dentition [] Thrush [] Swelling [] Exudate
+4. Cardiovascular [] WNL
+[] Regular [] Tachy [X] S1 [X] S2 [+] Systolic Murmur [**3-7**],
+Location:  LUSB
+[X] Irregular []Brady []S3 [] S4 [] Diastolic Murmur /6,
+Location:
+[X] Edema RLE None [] Bruit(s), Location:
+[X] Edema LLE None [] PMI
+[] Vascular access [x] Peripheral [] Central site:
+5. Respiratory [ ]
+[X] CTA bilaterally [ ] Rales [ ] Diminshed
+[] Comfortable [ ] Rhonchi [ ] Dullness
+[ ] Percussion WNL [ ] Wheeze [] Egophony
+6. Gastrointestinal [x ] WNL
+[X] Soft [-] Rebound [] No hepatomegaly [x] Non-tender [-]
+Tender [] No splenomegaly
+[X] Non distended [] distended [] bowel sounds Yes/No [] guiac:
+positive/negative
+7. Musculoskeletal-Extremities [] WNL
+[ ] Tone WNL [X ]Upper extremity strength 5/5 and symmetrical [
+]Other:
+[ ] Bulk WNL [X] Lower extremity strength 5/5 and symmetrica [ ]
+Other:
+[] Normal gait []No cyanosis [ ] No clubbing [] No joint
+swelling
+8. Neurological [X] WNL
+He knew all of his pills and the doses.
+[x ] Alert and Oriented x 3 [ ] Romberg: Positive/Negative [ ]
+CN II-XII intact [ X] Normal attention [ ] FNF/HTS WNL []
+Sensation WNL [ ] Delirious/confused [ ] Asterixis
+Present/Absent [ ] Position sense WNL
+[ ] Demented [ ] No pronator drift [] Fluent speech
+9. Integument [] WNL
+[X] Warm [X] Dry [] Cyanotic [] Rash:
+none/diffuse/face/trunk/back/limbs
+[ ] Cool [] Moist [] Mottled [] Ulcer:
+None/decubitus/sacral/heel: Right/Left
+10. Psychiatric [X] WNL
+[X] Appropriate [] Flat affect [] Anxious [] Manic []
+Intoxicated [] Pleasant [] Depressed [] Agitated [] Psychotic
+[] Combative
+TRACH: []present [X]none
+PEG:[]present [X]none [ ]site C/D/I
+COLOSTOMY: :[]present [X]none [ ]site C/D/I
+
+
+Pertinent Results:
+Abdominal CT:[**2163-9-1**]
+Large 4.9 x 3.8 heterogeneous lesion within the pancreatic head
+neck junction extending into the ucinate process with resultant
+atrophy of the distal pancreas and marked intrahepatic and
+extrahepatic bile duct dilatation. CBD = 1.6 mm.
+
+[**2163-9-15**] 12:50AM BLOOD WBC-4.5 RBC-3.49* Hgb-11.4* Hct-34.4*
+MCV-99* MCH-32.7* MCHC-33.1 RDW-15.7* Plt Ct-120*
+[**2163-9-15**] 12:50AM BLOOD Neuts-75.7* Lymphs-16.0* Monos-6.3
+Eos-1.7 Baso-0.3
+[**2163-9-15**] 12:50AM BLOOD Plt Ct-120*
+[**2163-9-15**] 12:50AM BLOOD PT-16.1* PTT-32.9 INR(PT)-1.5*
+[**2163-9-15**] 12:50AM BLOOD Glucose-168* UreaN-25* Creat-0.8 Na-135
+K-4.1 Cl-107 HCO3-19* AnGap-13
+[**2163-9-15**] 12:50AM BLOOD ALT-172* AST-203* CK(CPK)-2

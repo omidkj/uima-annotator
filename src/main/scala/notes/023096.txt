@@ -1,0 +1,190 @@
+Admission Date:  [**2185-1-3**]              Discharge Date:   [**2185-2-5**]
+
+Date of Birth:  [**2113-2-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Sulfa (Sulfonamides)
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+CC:[**CC Contact Info 31168**]
+Major Surgical or Invasive Procedure:
+endoscopy with variceal banding x2
+
+History of Present Illness:
+HPI: Mr. [**Name14 (STitle) 31169**] is a 71 y/o man with PMH notable for PSC
+complicated by cirrhosis with known gastric varices who
+presented to the [**Location (un) 620**] ED earlier this evening with diarrhea
+and maroon stools after taking a laxative earlier today. He also
+reported vomiting "cranberry juice" earlier today as well. He
+reported no chest pain, difficulty breathing, or abdominal pain.
+Of note, recent EGD (last admission, done [**12-28**]) demonstrated
+esophageal varices and amotility of the esophagus.
+.
+In the [**Location (un) 620**] ED, vitals were HR 60, BP 70/40, RR 12. He
+received 4 L NS. He was found to have a hct down to 29.1 (35.1
+on [**12-31**]). His INR is 2.1. He also had a potassium of 6 (not
+hemolyzed) which was treated with calcium gluconate, kayexalate.
+He received 40 mg omeprazole IV X 1. He was transfused with 1 U
+PRBCs prior to transfer. Repeat BP prior transfer not
+documented. In the ambulance, the patient's blood pressure is
+documented as 77/46 and then up to 160/133 (?). His FSBS was
+110.
+.
+On arrival to the ICU, the patient is without complaint. He
+denies any nausea, vomiting, hematemesis, or abdominal pain. He
+denies any dizziness or lightheadedness. He had a frankly
+melenotic stool on arrival to the ICU and BPs down to the 70s.
+Attempted to place arterial line but unsucessful. Contact[**Name (NI) **]
+Liver team to evaluate for EGD tonight given likelihood of
+variceal bleeding.
+
+
+Past Medical History:
+PMH:
+# Cirrhosis due to PSC:
+- dx [**2178**] (s/p multiple ERCPs; atypical cytology in [**2178**], repeat
+neg for atypical cells in [**2180**] and [**2181**])
+- portal htn, portal gastropathy, ascites
+- no EGDs, but multiple ERCPs with limited views of normal
+esophagus
+# CAD s/p MI with PTCA in [**2167**] and CABG in [**2176**]
+# Chronic systolic heart failure, EF 36%
+# Ulcerative colitis x 10-15 years
+# Recurrent mild intermittent cholangitis
+# GERD
+# h/o Lyme disease [**8-24**]
+# Hypercholesterolemia
+# Hypertension
+# Raynaud's disease s/p multiple finger and toe amputations
+# OSA
+# Esophageal stricture
+# Depression
+# ADHD
+
+
+Social History:
+SH: (from OMR) He is a retired carpenter. He is married and has
+three grown children. He has no tobacco history. He drank 3 oz
+EtOH daily
+for 50 yrs, until appx [**2183**]. Denies illicit drug use. Lives with
+wife, 1 son.
+
+
+Family History:
+Mother died of peritonitis. His father died from complications
+of heart disease.
+
+Physical Exam:
+PE: T: 95.6 ax BP: 74/45 HR: 65 RR: 11 O2 100% RA
+Gen: Pleasant, chronically illappearing male in no distress,
+able to talk in full sentences
+HEENT: + scleral icterus, MM slightly dry
+NECK: supple, no elevation in JVP
+CV: bradycardic, regular, no appreciable murmur
+LUNGS: clear bilaterally
+ABD: distended, + fluid wave, nontender to palpation, RUQ with
+biliary drain with oozing around drain
+EXT: dp pulses 2+ bilaterally
+SKIN: + jaundice
+NEURO: alert, interactive, face symmetric, moving all
+extremities
+
+
+Pertinent Results:
+Labs on Admission:
+[**2185-1-3**] 09:07PM   PT-19.7* PTT-42.0* INR(PT)-1.8*
+[**2185-1-3**] 09:07PM   PLT COUNT-266
+[**2185-1-3**] 09:07PM   NEUTS-91.6* LYMPHS-4.1* MONOS-4.1 EOS-0.1
+BASOS-0.1
+[**2185-1-3**] 09:07PM   WBC-20.0*# RBC-2.66*# HGB-9.5*# HCT-26.7*
+MCV-100* MCH-35.5* MCHC-35.4* RDW-15.9*
+[**2185-1-3**] 09:07PM   ALT(SGPT)-36 AST(SGOT)-67* LD(LDH)-151 ALK
+PHOS-87 TOT BILI-4.4*
+[**2185-1-3**] 09:07PM   GLUCOSE-246* UREA N-36* CREAT-1.0 SODIUM-134
+POTASSIUM-4.8 CHLORIDE-99 TOTAL CO2-20* ANION GAP-20
+.
+Studies:
+Echo: [**1-4**] The left atrium is moderately dilated. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity size is normal. LV systolic function appears depressed
+(ejection fraction 40 percent) secondary to hypokinesis (and
+dyssynchrony) of the interventricular septum. The right
+ventricular cavity is small (extrinsic compression cannot be
+ruled out). The aortic valve leaflets (3) are mildly thickened
+but aortic stenosis is not present. The mitral valve leaflets
+are mildly thickened. There is no mitral valve prolapse. Trivial
+mitral regurgitation is seen. Tricuspid regurgitation is present
+but cannot be quantified. There is no pericardial effusion.
+.
+US abd: Moderate ascites.
+.
+CXR: Lungs low in volume, aside from small region of atelectasis
+at the left base, clear. Probable small pleural effusions. Upper
+lungs clear.
+Cardiomediastinal silhouette unremarkable. Right upper quadrant
+drains noted. No pneumothorax.
+.
+Para US guided: PFI: Uneventful ultrasound-guided paracentesis.
+Approximately 3 liters were removed. Samples were sent for
+laboratory analysis as ordered by the referring team.
+.
+
+
+Brief Hospital Course:
+71 y/o man with PSC complicated by cirrhosis with known
+esophageal varices and multiple epidoses of UGIB and banding
+this admission, polymicrobial SBP, now with recurrent UGIB.
+.
+# GI bleed: During his initial presentation, he had a large
+amount of melena and vomitted "cranberry juice" EGD performed on
+arrival to the ICU demonstrated cherry red spots (stigmata of
+recent bleeding). Two varices were banded during EGD. Bleeding
+could have also been secondary to recent biopsy. Treated with
+octreotide and IV protonix. Transfused 1 U PTA, 2 U pRBC, 2 U
+FFP. No evidence of bleeding after banding. Covered with Cipro
+for SBP in setting of GI bleed. Biliary drain in place PTA,
+significant drainage of ascites from around drain. Culture of
+fluid from biliary drain grew polymicrobials but no polys making
+infection less likely. Given uptrending WBC GI wants para to r/o
+SBP. Given unclear [**Name2 (NI) 4394**] pockets of US to be done by IR this
+afternoon. To check bili on ascites as well to check for leak
+from biliary tree. IR evaluated billiary drain, said ok.
+Continued to leak large amount of ascites from around the site.
+Per GI and IR no other intervention for leak.  The patient was
+transferred to the floor, but ultimately returned to the ICU
+after a subsequent episode of UGIB.  At that time, it was
+determined to reverse his DNR/DNI status and pursue endoscopy
+which required intubation.  He was transfused an additional 3
+units PRBC and 2 units FFP.  The patient was continued on PPI
+and octreotide gtt.  It was apparent that the patient had
+aspirated blood given it was suctioned from the ET tube after
+intubation.  The family was contact[**Name (NI) **] and the decision was made
+to make the patient DNR again, with comfort being the goal.
+Mechanical ventilation was discontinued.
+.
+# Hypotension: Related to blood loss as above. Received a total
+of 6 L NS (4 l at [**Location (un) 620**] and 2 L here on arrival) in addition
+to total of 3 U prbcs. Arterial line placed by Liver team prior
+to endoscopy with SBPs ~ [**11-8**] points higher than cuff
+pressures.  The patient was maintained on pressor support on
+transfer back to the MICU.  After discussion with the family,
+and the patient was made comfort measures only, the pressors
+were discontinued.
+.
+# SBP/Leukocytosis: Diagnosed [**2185-1-5**], patient was on Cipro ppx
+as outpatient and recently increased dose due to variceal bleed.
+Placed on Aztreonam [**2176**] mg IV Q8H 5 days (Day 1 [**2185-1-5**] -
+[**2185-1-10**]) due to Cipro resistance and pt's allergies. WBC count
+kept rising, leading to repeat tap - SBP w GNR. Started on
+Vanc/[**Last Name (un) **] [**1-11**].  No other evidence of infection causing
+leukocytosis, Cdiff negative, blood and urine cultures negative,
+no PNA seen on CXR.  The patient was continued on vanco/[**Last Name (un) 2830**] to
+cover for aspiration pna and peritonitis as well as caspofungin
+for esophagitis and peritonitis with [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 563**].
+.
+# Hypernatremia:  Consistent with poor PO intake.  Improved with
+fluid challenge therefore most likely hypovolemic hyponatremia.
+No flu

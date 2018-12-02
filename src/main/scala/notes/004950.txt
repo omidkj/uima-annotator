@@ -1,0 +1,198 @@
+Admission Date:  [**2134-1-22**]              Discharge Date:   [**2134-1-29**]
+
+Date of Birth:  [**2056-2-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**Last Name (NamePattern1) 29226**]
+Chief Complaint:
+weakness, shortness of breath
+
+
+Major Surgical or Invasive Procedure:
+[**2134-1-23**] - Left radial A-line placement
+
+History of Present Illness:
+Patient is a 77yo male with COPD, morbid opesity, OSA, DM2 who
+has a recent diagnosis of Stage IIIB T2bN3Mx lung adenocarcinoma
+(last dose of chemo on [**1-21**]) who presents with shortness of
+breath, hypoxia, and hypotension.
+.
+The patient was in his usual state of health until yesterday
+after chemotherapy.  He received his carboplatin and taxol and
+went home where he developed watery diarrhea, weakness, and, per
+his wife, some element of confusion.  He went to bed and awoke
+this morning with increasing frequency of diarrhea, leg weakness
+and an overall feeling of malaise with nausea.  Given this, EMS
+was called and he was brought to the ED for further evaluation.
+EMS found the patient to be hypoxic to the 70s on RA.
+.
+On arrival to the ED, inital vitals were T- 97.6, HR- 150, BP-
+111/75, RR- 42, SaO2- 99% 15L Non-Rebreather.  He then became
+hypotensive to the 70s so he was given IV fluids (2L NS total)
+and started on phenylephrine gtt.  He denied chest pain,
+abdominal pain, or leg pain.  Denies hematuria and was guaiac
+negative.  EKG showed sinus tachycardia, S1Q3T3 (stable from EKG
+in 1/[**2133**]).  Labs were notable for Cr 3.0 (baseline 1.3), BNP
+[**Numeric Identifier 25298**], trop 1.59, D-dimer [**Numeric Identifier 43132**], and lactate 4.3.  CXR
+demonstrated known RLL consolidation, mild pulmonary vascular
+congestion and small right-sided pleural effusion.  CT head w/o
+contrast did not demonstrate any acute process.  He was started
+on vancomycin and cefepime in the ED.  Given elevated troponin
+and concern for PE, he was started on a heparin gtt.  ECHO in
+the ED did not demonstrate any new LV wall motion abnormality
+but showed focal RV apical hypokinesis with preserved EF.  On
+transfer, vital signs were HR- 108, RR- 25, SaO2 100% NRB, BP-
+85/45 on neo 1.5mcg/kg/hr.
+.
+On arrival to the ICU, vital signs were HR- 104, BP- 110/63, RR-
+25, SaO2- 99% on 5L NC.  The patient was without any acute
+complaints.  He denies chest pain, dizziness, LH, syncope.
+Reports some shortness of breath and diarrhea.
+
+Past Medical History:
+Past Medical History:
+COPD
+morbid obesity
+OSA
+lung cancer (adenocarcinoma, stage IIIB T2bN3Mx)
+HTN
+L Inguinal hernia
+Osteoarthritis
+Encephalitis as a child
+?Non-filarial elephantiasis
+hyperlipidemia
+.
+Oncologic History:
+-presented with 35-pound weight loss, RLL PNA [**2133-10-8**],
+persistent on CXR [**2133-11-3**], with CT [**2133-11-6**] showing mass-like
+RLL consolidation with hilar and mediastinal lymphadenopathy
+-bronchoscopy [**2133-11-25**]: bronchial brushings and EBUS-TBNA of
+stations 4L, 7, 4R and 11R all positive for adenocarcinoma, with
+Tbbx of RLL negative.
+-PET [**2133-12-1**]:
+1. FDG-avid mass-like consolidation throughout the right lower
+lobe and FDG-avid right supraclavicular, hilar and subcarinal
+lymphadenopathy.
+2. Markedly increased FDG-avidity in the region of the dorsum
+sellae without anatomic correlate, though only partially
+assessed, MRI is recommended for further evaluation.
+3. Large fat-containing left inguinal hernia.
+-carboplatin/taxol started [**2133-12-31**], on concurrent XRT
+
+Social History:
+Lives in [**Location 4310**] with his wife. Retired from running freight
+company out of [**Location (un) 6692**]. Asbestos exposure when in warehouse. Plays
+[**Doctor Last Name **]. Served in the army. Smoked [**12-25**] ppd x 20 years, quit
+[**2114-11-23**]. Drinks a whiskey a month, h/o prior heavy use.
+
+Family History:
+Mother died of stomach cancer at age 72.
+
+Physical Exam:
+ADMISSION EXAM:
+.
+Vitals: HR- 104, BP- 110/63, RR- 25, SaO2- 99% on 5L NC
+General: No acute distress, obese
+HEENT: Sclera anicteric, MMM, oropharynx clear, NC in place
+Neck: supple, no LAD, difficult to assess JVD
+Lungs: Diffuse wheezes throughout, bibasilar crackles, good
+respiratory effort.
+CV: Distant heart sounds, no murmurs, tachycardic, regular
+rhythm.
+Abdomen: obese, soft, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding
+GU: no foley
+Ext: b/l erythema, swelling, hyperkeratosis, 2+ pulses in upper
+extremities
+.
+DISCHARGE EXAM:
+Vitals - 96.7, 100s, 110s-120s/60s, 20, 92% RA, wt decreased by
+4 lbs day prior
+GENERAL: NAD
+SKIN: warm and well perfused, erythematous lower extremitites
+c/w chronic venous stasis.
+HEENT: AT/NC, EOMI, PERRLA, anicteric sclera, pink conjunctiva,
+patent nares, MMM, difficult to aprpeciate JVD due to body
+habitus
+CARDIAC: RRR, S1/S2, no mrg, no right heart heave
+LUNG: decreased BS at bases, wheeze improved
+ABDOMEN: obese, +BS, nontender in all quadrants, no
+rebound/guarding
+M/S: moving all extremities well, no cyanosis, + lymphedema with
+superimposed 1+ pitting edema, chronic venous stasis changes in
+bases
+PULSES: 2+ DP pulses bilaterally
+NEURO: CN II-XII intact, moving all extremities
+
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**2134-1-22**] 09:52AM BLOOD WBC-5.2 RBC-3.54* Hgb-11.0* Hct-32.3*
+MCV-91 MCH-30.9 MCHC-33.9 RDW-15.6* Plt Ct-149*
+[**2134-1-22**] 09:52AM BLOOD PT-12.0 PTT-28.2 INR(PT)-1.1
+[**2134-1-22**] 09:52AM BLOOD Glucose-167* UreaN-37* Creat-3.0*# Na-139
+K-4.4 Cl-99 HCO3-26 AnGap-18
+[**2134-1-22**] 09:52AM BLOOD CK(CPK)-[**2081**]*
+[**2134-1-23**] 03:18AM BLOOD ALT-47* AST-144* LD(LDH)-438*
+CK(CPK)-2302* AlkPhos-79 TotBili-0.3
+[**2134-1-22**] 09:52AM BLOOD CK-MB-23* MB Indx-1.2 proBNP-[**Numeric Identifier 25298**]*
+[**2134-1-22**] 05:36PM BLOOD Calcium-7.0* Phos-4.2 Mg-1.6
+[**2134-1-22**] 09:52AM BLOOD D-Dimer-[**Numeric Identifier 43132**]*
+[**2134-1-23**] 11:31AM BLOOD TSH-0.34
+[**2134-1-22**] 05:45PM BLOOD Type-MIX pO2-40* pCO2-65* pH-7.29*
+calTCO2-33* Base XS-2
+[**2134-1-22**] 09:58AM BLOOD Lactate-4.3*
+[**2134-1-23**] 09:42AM BLOOD freeCa-0.96*
+.
+PERTINENT LABS:
+.
+[**2134-1-22**] 05:36PM BLOOD CK-MB-30* MB Indx-2.5 cTropnT-1.49*
+[**2134-1-23**] 03:18AM BLOOD CK-MB-20* MB Indx-0.9 cTropnT-1.25*
+[**2134-1-23**] 11:31AM BLOOD CK-MB-13* MB Indx-0.6 cTropnT-1.22*
+[**2134-1-23**] 10:45PM BLOOD Type-ART O2 Flow-4 pO2-69* pCO2-60*
+pH-7.30* calTCO2-31* Base XS-1
+[**2134-1-24**] 04:12AM BLOOD Type-ART Temp-37.6 O2 Flow-4 pO2-76*
+pCO2-66* pH-7.27* calTCO2-32* Base XS-0 Intubat-NOT INTUBA
+[**2134-1-24**] 10:26PM BLOOD Type-ART Temp-35.6 Rates-/28 pO2-83*
+pCO2-55* pH-7.31* calTCO2-29 Base XS-0
+[**2134-1-24**] 10:26PM BLOOD Lactate-1.8
+[**2134-1-24**] 10:26PM BLOOD freeCa-1.16
+.
+DISCHARGE LABS:
+.
+IMAGING STUDIES:
+.
+[**2134-1-22**] 2D-ECHO - The left atrium is mildly dilated. There is
+mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF 60%). The right ventricular
+cavity is dilated with focal hypokinesis of the apical free
+wall. The aortic root is mildly dilated at the sinus level. The
+ascending aorta is mildly dilated. The aortic arch is mildly
+dilated. There are focal calcifications in the aortic arch. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. There is mild pulmonary artery systolic
+hypertension. The main pulmonary artery is dilated. There is
+stenosis of the main pulmonary artery. There is no pericardial
+effusion.
+.
+[**2134-1-22**] CT HEAD W/O CONTRAST - No evidence of mass or mass effect
+in the brain, however, evaluation of the mass is limited due to
+lack of IV contrast. Evidence of old ischemic injury in the
+right frontal and left parietal lobes. Bilateral basal ganglia
+lacunes.
+.
+[**2134-1-22**] VENOUS B/L LOWER EXTREMITY DUPLEX ?????? No evidence of DVT,
+although neither left peroneal vein and only one right peroneal
+vein were imaged. Note that DVT is found in only 5-15% of
+patients with documented PE. Hence a negative DVT study in no
+way excludes a PE in this patient.
+.
+[**2134-1-23**] CXR - The cardiomediastinal silhouet

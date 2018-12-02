@@ -1,0 +1,189 @@
+Admission Date:  [**2128-9-24**]              Discharge Date:   [**2128-10-3**]
+
+Date of Birth:  [**2055-12-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Oyster Shell / Cardizem
+
+Attending:[**Last Name (NamePattern1) 1572**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization x 2
+
+History of Present Illness:
+72 yo M c history of CAD s/p mid LAD [**Last Name (LF) **], [**First Name3 (LF) **] 20%, DM2, CRI
+baseline cr 2.1, cardiogenic shock.
+found to have ST depressions V4-V6, taken to emergent cath.
+Found to have 3v-d, wutg
+developed pulmonary edema, intubated, became hypotensive after
+propofol, transferred to CCU, started dopa gtt
+Pt had a resp acidosis 7.0/79/61
+.
+Echo [**2128-1-7**]:
+LV EF 20% mod dilated LV, global dysfxn. E:A 0.92
+TR gradient 40 RV nl size/fxn
+3+MR, trace AR, [**1-4**]+TR.
+.
+Cath [**2128-9-24**]:
+R dominant system
+LMCA: 70% diffuse
+LAD: diffuse dz patent [**Month/Day/Year **]. 80% diag.
+LCX: total occlusion ostial, R-->L collaterals
+
+
+Past Medical History:
+1. CAD status post multiple interventions. [**2124**]-RCA [**Year (4 digits) **]. [**5-4**]
+Cypher [**Month/Year (2) **] to prox. LAD. [**1-6**] NSTEMI s/p PTCA of LAD ISR.
+2. CHF, EF 20% 1/04
+3. Diabetes mellitus.
+4. Status post ICD placement secondary to syncope and V-tach
+in setting of an MI.
+5. Hypertension.
+6. Gallstones.
+7. Gout.
+8. Chronic renal insufficiency with a baseline creatinine of
+1.5-2.4.
+
+Social History:
+SOCIAL HISTORY: He is an ex-smoker, quit 30-35 years ago,
+and before then had a 2-pack per day history x 15-20 years.
+Occasional alcohol, approximately 1 drink a day. Lives with
+wife.
+
+
+Family History:
+Both parents died of CAD.
+.
+ALLERGIES:
+Cardizem rash
+Oyster
+
+Brief Hospital Course:
+.
+72 yo M c history of CAD s/p mid LAD [**Last Name (LF) **], [**First Name3 (LF) **] 20%, DM2, CRI
+baseline cr 2.1, presented to ED with unstable angina, found to
+have ST depressions V4-V6, taken to emergent cath without
+intervention, developed pulmonary edema, intubated, became
+hypotensive after propofol, transferred to CCU, still with
+pressor requirements.
+.
+Echo [**2128-1-7**]:
+LV EF 20% mod dilated LV, global dysfxn. E:A 0.92
+TR gradient 40 RV nl size/fxn
+3+MR, trace AR, [**1-4**]+TR.
+.
+Cath [**2128-9-24**]:
+R dominant system
+LMCA: 70% diffuse
+LAD: diffuse dz patent [**Month/Day/Year **]. 80% diag.
+LCX: total occlusion ostial, R-->L collaterals
+.
+. Cardiovascular
+PUMP: Cardiogenic Shock.CHF. Initially low CI and high SVR out
+of cath [**Month/Day/Year **], Alternately on milrinone +/- dobuta but SVR low,
+continued VT, weaned off [**9-30**] PM for SVR in 500s w/ CI [**3-5**]. ?
+Numbers today looked worse with increasing SVR and lower C0/CI
+(1.35).  Sepsis vs med effect, holding MAPs 50s-60s now on
+levophed alone. Levophed was attempted to wean, thought
+contributory to ar's, started vasopressin. Still on lidocaine.
+MAPs still low, sometimes down to 40s, levophed turned back up,
+now at 0.183. Last TTE EF 20%, mod-severe MR. [**Name13 (STitle) **] family, LVAD
+is no longer an option.  IABP is not an option either.  CVVHD
+currenlty on, patient is still net positive due to all the IV
+drips.  CO/CI was dropping overnight prior to withdrawal of
+care--discussed starting another pressor/ionotrope. During the
+last 2 days before withdrawal of care, the MAPs and CI/CO were
+dropping despite the max doses of levophed and continious CVVHD
+removing fluid every day.  Patient's family and HCP decided that
+he is not going to be going for LVAD and decided to withdraw
+care in agreement with Dr. [**Last Name (STitle) **], patient's cardiologist.
+.
+ISCHEMIA: s/p NSTEMI, 3v-d on cath. Not a candiadate for CABG as
+he has poor targets. Cath [**9-30**] for mid RCA x 3 BMS, LMCA x
+Cypher DES . Pt's CKs leveling off depsite the continued shocks
+that he is receiving. However, persistent v-fib may be still
+related to ischemia.  Ultimately, the multiple shocks were
+thought to be due to multiple scar foci within the heart, the
+territory that was not possible to re-vascularize with multiple
+coronary interventions.
+.
+RHYTHM: Persistent VT/VF while ischemic, and post-cath
+reperfusion VT/VF vs ongoing ischemia/demand. EP switched DDI =>
+DDD, but PMTs induced => back to DDI. VT controlled with amio
+gtt (increased for 1200 mg/d); lido loaded, now, on maintenance
+drip. On milrinone right after cath [**Month/Year (2) **], but that was
+subsequently stopped since it was thought to be more ar-genic.
+2 days prior to CMO, had a series of at least 20 shocks for
+going into v-fib. Was re-bolused with amio and lidocaine.  Upon
+withdrawal of care was on amio and lidocaine drips.  Some
+ectopy, no runs of vfib/vtack overnight prior to CMO.
+.
+2. Pulm: Hypoxia. day 7 of intubation, on levo/flagyl for HAP in
+RML. gr stain grew out psedomonas, sensies pending. Hemoptysis
+from ETT [**10-1**] AM, resolved now, likely high PA pressures/CHF in
+setting of suctioning; differential includes PE, evolving
+PNA/tracheobronchitis.  Patient dropping sats with bloody
+suctioning from ETT, PEEP and FiO2 increased, latest gas shows
+good oxygenation, satting 97%. During the day continued to
+desat, PaO2 75, PEEP and FiO2 increased.  Oxygenation
+dramatically improved, and CO went up to 4 with higher PEEP.
+Since then, PEEP and FiO2 decreased to 10/0.4--however CO/CI has
+decreased with the PEEP decreasing. Patient was oxygenating well
+when care was withdrawn.
+.
+3. Renal/FEN: AoCRF on CVVHD. Cr up, UOP down. Likely
+maintenance ATN. CVVH now via R fem line. ? CHF vs dye
+nephropathy, Cr currenlty dropping with CVVHD.  Unable to keep
+negative every hour, some hours negative, patient is off CVVHD
+with more insult due to recent dye load for cath. decreasing
+urine output. goal neg 1-2L/day.  There is an issue with CVVH
+line clotting/ started on heparin drip to keep line open.
+heparin--HIT ab negative. Patient was on CVVHD when care was
+removed.
+.
+4. ID: Hosp aquired PNA (post-intubation aspiration), on
+Vanc/Zosyn x 2 days, was on Levo/Flagyl (day 3 on [**10-1**] x 10 day
+course). WBC falling, afebrile. Only + U/Cx on [**9-24**] w/ levo-S
+enterococcus. Sputum/Cx with PsA, + PMNs. On Zosyn, afebrile [**Doctor First Name **]
+care was removed.
+
+.
+13. Communication: with wife and family.  Care was withdrawn on
+Friday, [**2128-10-1**]. Family decline an autopsy.
+
+
+Medications on Admission:
+Meds:
+Metoprolol Tartrate 50 mg daily
+Isosorbide Dinitrate 20 mg [**Hospital1 **]
+Aspirin 325 mg daily
+Clopidogrel 75 mg daily
+Simvastatin 60mg daily???
+Insulin
+Furosemide 40 mg QAM
+Furosemide 20 mg QPM
+Digoxin 125 mcg??? half tab???
+Allopurinol 300 mg daily
+Folic Acid 1 mg daily
+Lisinopril 5 mg daily
+SL nitro prn
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+cardiopulmonary arrest
+
+Discharge Condition:
+expired
+
+
+Completed by:[**2128-10-5**]

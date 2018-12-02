@@ -1,0 +1,223 @@
+Admission Date:  [**2165-3-7**]              Discharge Date:   [**2165-3-14**]
+
+Date of Birth:  [**2087-1-30**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Latex / Iodine / Formaldehyde / Quaternium 15
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+DOE/Fatigue
+
+Major Surgical or Invasive Procedure:
+s/p AVR(19mm pericardial)/MV repair(26mm valvuloplasty band)
+[**2165-3-8**]
+
+
+History of Present Illness:
+This 78WF has a longstanding history of AS.  She has recently
+had more DOE and an echo revealed [**First Name8 (NamePattern2) **] [**Location (un) 109**] of 0.75. 60% LVEF, and
+1+MR.  She had a cardiac cath which showed clean coronaries,
+[**2-17**]+MR, and AS.  She is now admitted for AVR/MV repair.
+
+Past Medical History:
+Aortic stenosis
+Hyperlipidemia
+HTN
+PAF
+osteoporosis
+mil CRI
+s/p appy
+s/p cataract surgery
+s/p ovarian cyst removal
+s/p cardioversion x2
+s/p R wrist fx
+
+Social History:
+Pt. is retired and lives alone.  She has never smoked and drinks
+4 drinks/month.
+
+Family History:
+Unremarkable.
+
+Physical Exam:
+WDWNWF in NAD
+HEENT: NC/AT, PERLA, upper dentures, poor dentition
+Neck: supple, FROM, no lymphadenopathy or thyromegaly, carotids
+2+ w/ radiating murmurs
+Lungs: Clear to A+P
+CV: RRR, 3/6 SEM
+Abd: +BS, soft, nontender, without masses or hepatospenomegaly
+Ext: 1+ bil. LE edema, superficial varicosities
+Neuro: nonfocal
+
+
+Pertinent Results:
+[**2165-3-14**] 06:35AM BLOOD WBC-7.8 RBC-3.21* Hgb-10.0* Hct-29.1*
+MCV-90 MCH-31.0 MCHC-34.3 RDW-14.7 Plt Ct-172#
+[**2165-3-14**] 06:35AM BLOOD Plt Ct-172#
+[**2165-3-14**] 06:35AM BLOOD PT-16.0* PTT-27.8 INR(PT)-1.4*
+[**2165-3-13**] 06:50AM BLOOD PT-14.2* INR(PT)-1.2*
+[**2165-3-12**] 11:24AM BLOOD PT-12.8 PTT-25.2 INR(PT)-1.1
+[**2165-3-14**] 06:35AM BLOOD Glucose-93 UreaN-30* Creat-1.4* Na-143
+K-4.0 Cl-102 HCO3-33* AnGap-12
+[**2165-3-13**] 06:50AM BLOOD UreaN-31* Creat-1.3* K-4.0
+[**2165-3-7**] 04:49PM BLOOD Glucose-96 UreaN-37* Creat-1.4* Na-142
+K-4.6 Cl-105 HCO3-27 AnGap-15
+
+RADIOLOGY   Preliminary Report
+
+CHEST (PA & LAT)  [**2165-3-13**] 10:37 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate effusion
+
+[**Hospital 93**] MEDICAL CONDITION:
+78 year old woman with s/p avr, mvrepair
+REASON FOR THIS EXAMINATION:
+evaluate effusion
+REASON FOR EXAMINATION: Follow up of a patient after aortic and
+mitral valve repair.
+
+PA and lateral upright chest radiograph was compared to [**3-10**], [**2165**] and [**2165-3-9**].
+
+The patient was extubated in the meantime interval with removal
+of the Swan-Ganz catheter, NG tube, and mediastinal drains. The
+moderate cardiomegaly is stable. The post-sternotomy wires are
+unremarkable. The replaced aortic valve appears in the expected
+location. Bilateral pleural effusions are present, left more
+than right, moderate on the right with no evidence of
+pneumothorax. The upper lungs are clear with no evidence of
+failure. The lungs are generally hyperinflated, findings
+consistent with small airway disease such as COPD.
+
+IMPRESSION: No pneumothorax. No pulmonary edema. Bilateral
+pleural effusions and atelectasis, improved since the previous
+study. Expected appearance of the post-sternotomy wires and
+replaced aortic valve.
+
+Lung hyperinflation.
+
+DR. [**First Name4 (NamePattern1) 2618**] [**Last Name (NamePattern1) 2619**]
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 76742**] (Complete)
+Done [**2165-3-8**] at 10:09:00 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2087-1-30**]
+Age (years): 78 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: avr/?mvr
+ICD-9 Codes: 786.05, 786.51, 799.02, 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2165-3-8**] at 10:09    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine: [**Pager number **]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  4.8 cm  <= 5.2 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.5 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  45% to 50%  >= 55%
+Aorta - Ascending:  2.9 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.4 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *3.1 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak [**Pager number 21888**]:  *38 mm Hg  < 20 mm Hg
+Aortic Valve - LVOT diam:  1.6 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum.
+
+LEFT VENTRICLE: Mildly depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending aorta diameter. Simple atheroma in
+descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Severe AS (AoVA
+<0.8cm2).
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. Mild
+mitral annular calcification. Moderate to severe (3+) MR.
+
+TRICUSPID VALVE: Moderate [2+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications.
+Conclusions
+Pre-CPB: No spontaneous echo contrast is seen in the left atrial
+appendage. Overall left ventricular systolic function is mildly
+depressed (LVEF= 45 - 50%). Right ventricular chamber size and
+free wall motion are normal. There are simple atheroma in the
+descending thoracic aorta. The number of aortic valve leaflets
+cannot be determined. The aortic valve leaflets are severely
+thickened/deformed. There is severe aortic valve stenosis (area
+<0.8cm2). The mitral valve leaflets are moderately thickened.
+Moderate to severe (3+) mitral regurgitation is seen. Moderate
+[2+] tricuspid regurgitation is seen. There is no pericardial
+effusion.
+
+Post-CPB: Patient is AV-Paced, on low dose Neo.
+A well-seated and functioning prosthetic aortic valve is seen.
+No leak. No AI. [**Pager number 76743**] PG=16, mean =7.
+A mitral ring is seen. No MR. [**First Name (Titles) 76743**] [**Last Name (Titles) **]=4.
+2+ TR remains.
+Good biventricular systolic fxn. Aorta intact.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2165-3-8**] 12:33
+
+
+
+Brief Hospital Course:
+The patient was admitted on [**3-7**] for heparinization and on
+[**2165-3-8**] she underwent an AVR(19mm pericardial)/MV repair(26mm
+annuloplasty band).  The cross clamp time was 91 mins and total
+bypass tiem was 110 mins.  She tolerated the procedure well and
+was transferred to the CVICU on Neo and Propofol in stable
+condition.  She was extubated on POD#2 and had her chest tubes
+d/c'd.  She had a fib and was started on Amio and cardioverted
+into SR. She improved and was transferred to the floor on POD#3.
+Her amio was dc'd and she was restarted on her home sotatol. Her
+wires were d/c'd on POD#4. She was ready for discharge home on
+POD #6.
+
+Medications on Admission:
+coumadin 4, vytorin 10/40, sotatol 120", ocuvite, SL NG,
+Nifedical XL 30, fosamax, diovan 160/12.5, ASA 81
+
+Discharge Medications:
+1. Sotalol 120 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0*
+2. Vytorin 10-40 10-40 mg Tablet Sig: One (1) Tablet PO at
+bedtime.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Aspirin

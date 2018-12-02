@@ -1,0 +1,220 @@
+Admission Date:  [**2187-12-28**]              Discharge Date:   [**2187-12-30**]
+
+Date of Birth:  [**2116-10-30**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Proxy[**Name (NI) 67216**] / Caffeine / Butalbital / Barbiturates / Xanthines
+
+Attending:[**First Name3 (LF) 3561**]
+Chief Complaint:
+Displaced tunnelled HD catheter
+
+Major Surgical or Invasive Procedure:
+Replacement of tunnelled HD catheter
+
+History of Present Illness:
+71F ventilator-dependent h/o COPD, ESRD on HD, HTN, and CHF
+(unknown EF) presented after her tunneled HD catheter was found
+displaced [**3-9**] pt's scratching the site.  HD catheter was noted
+to be displaced at HD, and pt was sent to ED for evaluation.
+.
+ED course:
+# Meds: Ceftriaxone x1 dose, azithromycin x1 dose, IVF 500cc.
+# Studies:
+--CXR: Mild volume overload, displaced HD catheter.
+# Clinical course: IR-guided catheter replacement; admitted to
+MICU for further management.
+
+Past Medical History:
+--CV
+# PVD, s/p R CEA, s/p B iliac stents, B toe gangrene
+autoamputating
+# HTN
+# CHF no previous echo here, so unclear [**Name2 (NI) **]
+# Paroxysmal AF
+# Anemia
+# s/p multiple embolic CVA
+# h/o Cholesterol emboli syndrome
+--GU
+# ESRD on HD of unclear etiology. ? d/t chronic pyelo and
+uncontrolled HTN.  Outpatient nephrologist: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1366**]
+--Pulmonary
+# Respiratory failure s/p trach in [**2-11**], vent-dependent with
+chronic PS at rehab, currently undergoing trach collar trials.
+# COPD
+# Recurrent aspiration PNA
+--GI
+# h/o GI bleeding
+# Adenocarcinoma of the colon s/p resection in [**2186**]
+# s/p PEG
+--Endocrine
+# Hypothyroidism
+--Neuro
+# Dementia
+--ID
+# h/o MRSA colonization
+# h/o VRE infection
+# h/o C.diff colitis
+
+Social History:
+# Personal: Lives at [**Hospital 100**] Rehab.  Divorced.  Three adult
+children.
+# Tobacco: Former smoker.  3 packs per day x 13 years.
+# Alcohol: Occasional past use.
+
+Family History:
+# Siblings: MI in 60s. Schizophrenia.
+
+Physical Exam:
+VS: T afebrile, BP 98/38, HR 64, RR 10, O2Sat 100% on current
+vent settings
+Vent Settings: SIMV+PS, PS 10, PEEP 5, TV 450, FiO2 50%
+Gen: NAD
+Heart: RRR, S1/S2, no m/r/g.
+Lungs: Rales throughout anterior lung fields.
+Abd: Soft, NTND, BS+.
+Ext: WWP
+
+Pertinent Results:
+Admission labs:
+[**2187-12-28**] 11:40AM   WBC-9.7 RBC-3.12* HGB-10.6* HCT-31.3*
+MCV-100* MCH-33.8* MCHC-33.8 RDW-18.2*
+[**2187-12-28**] 11:40AM   NEUTS-67 BANDS-0 LYMPHS-20 MONOS-4 EOS-6*
+BASOS-1 ATYPS-2* METAS-0 MYELOS-0
+[**2187-12-28**] 11:40AM   GLUCOSE-92 UREA N-88* CREAT-5.0*# SODIUM-136
+POTASSIUM-4.9 CHLORIDE-93* TOTAL CO2-28 ANION GAP-20
+[**2187-12-28**] 12:39PM   LACTATE-1.6
+[**2187-12-28**] 11:40AM   PLT COUNT-371
+[**2187-12-28**] 11:40AM   PT-13.3 PTT-31.7 INR(PT)-1.1
+.
+# CHEST (PORTABLE AP)  [**2187-12-28**] 11:33 AM
+Evidence of fluid overload with malpositioned right-sided
+hemodialysis catheter.
+
+Brief Hospital Course:
+71F vent-dependent, h/o ESRD on HD, h/o refractory C. diff
+infection, admitted for HD catheter replacement.
+.
+# ESRD on HD of unclear etiology:  Upon admission, pt's tunneled
+catheter was removed and then replaced with a 15.5 French
+double-lumen hemodialysis catheter with 23 cm tip-to-cuff length
+via the left internal jugular vein with the tip in the right
+atrium.  Pt underwent hemodialysis on [**12-29**] with approximately
+1.6L removed, and tolerated hemodialysis without a BP drop.
+Calcium acetate was started TID with meals.
+.
+# Query line infection: Line site was found to be erythematous
+and tender to palpation, mildly indurated, but without
+purulence.  Blood cultures drawn [**12-28**] with no growth at time of
+discharge.  Pt was started on vancomycin 1 gm IV per HD protocol
+to cover skin flora in institutionalized pt, and discharge with
+plan to continue vancomycin for a total 7 day course, ending
+[**1-3**].
+.
+# Possible PNA: Pt had copious green secretions upon admission;
+CXR revealed retrocardiac opacity and pneumonia could not be
+excluded. Pt was broadly covered for nosocomial and nursing
+home-acquired PNA with vancomycin as above, as well as
+piperacillin-tazobactam for a total of a 7 day course.  Pt was
+therefore discharged with plan to continue
+piperacillin-tazobactam until [**1-3**].
+.
+# Diarrhea possibly [**3-9**] C.Diff: Pt had h/o refractory C. diff,
+and had >10 episodes of diarrhea on day of admission.  WBC was
+within normal limits and no abdominal tenderness was evident on
+clinical exam.  C. diff A and B toxins were pending at time of
+discharge.  She was continued on vancomycin 125 mg PO Q6H and
+metronidazole 500 mg PO TID, with plan to continue both for one
+week after discontinuing vancomycin IV and
+piperacillin-tazobactam IV (end [**2188-1-12**]).
+.
+# Chronic vent-dependent respiratory failure, s/p trach:  Pt
+continued on pressure support per [**Hospital 100**] Rehab regimen.
+.
+# DNR
+
+Medications on Admission:
+Digoxin 0.125mg PO daily
+Aspirin 81mg daily
+Levothyroxine 125 mcg PO daily
+Vancomycin PO 125mg QID
+Diphenhydramine 25mg PO Q8H:PRN
+Omeprazole
+Lactobacillus
+Respiratory regimen: Tiotropium, ipratropium, albuterol
+Pain regimen: Lidocaine 5% patch daily, oxycodone 2.5mg PO
+Q6H:PRN, hydromorphone 0.75mg PO Q2H:PRN, acetaminophen PRN
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable [**Hospital **]: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Levothyroxine 125 mcg Tablet [**Hospital **]: One (1) Tablet PO DAILY
+(Daily).
+3. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated [**Hospital **]:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily): 12
+hours on, then 12 hours off.
+4. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+5. Acetaminophen 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO Q6H (every 6
+hours) as needed.
+6. Diphenhydramine HCl 25 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO Q8H
+(every 8 hours) as needed.
+7. Oxycodone 5 mg Tablet [**Last Name (STitle) **]: 0.5 Tablet PO Q6H (every 6 hours)
+as needed.
+8. Heparin (Porcine) 5,000 unit/mL Solution [**Last Name (STitle) **]: One (1)
+injection Injection TID (3 times a day).
+9. Albuterol 90 mcg/Actuation Aerosol [**Last Name (STitle) **]: 1-2 Puffs Inhalation
+Q2H (every 2 hours) as needed for wheezing.
+10. Ipratropium Bromide 17 mcg/Actuation Aerosol [**Last Name (STitle) **]: Two (2)
+Puff Inhalation Q6H (every 6 hours).
+11. Metronidazole 500 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO TID (3
+times a day) for 14 days.
+Disp:*42 Tablet(s)* Refills:*0*
+12. Chlorhexidine Gluconate 0.12 % Mouthwash [**Last Name (STitle) **]: Fifteen (15)
+ML Mucous membrane [**Hospital1 **] (2 times a day).
+13. Digoxin 125 mcg Tablet [**Hospital1 **]: One (1) Tablet PO EVERY OTHER
+DAY (Every Other Day).
+14. Hydromorphone 2 mg Tablet [**Hospital1 **]: 0.5 Tablet PO Q2H (every 2
+hours) as needed.
+15. Calcium Acetate 667 mg Capsule [**Hospital1 **]: Two (2) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+16. Vancomycin 1,000 mg Recon Soln [**Hospital1 **]: One (1) injection
+Intravenous once a day for 7 days.
+Disp:*7 g* Refills:*0*
+17. Piperacillin-Tazobactam 2.25 gram Recon Soln [**Hospital1 **]: One (1)
+injection Intravenous Q12H (every 12 hours) for 7 days: Please
+dispense 31.5 g (2.25 g per injection, for 14 injections).
+Disp:*QS g* Refills:*0*
+18. Vancomycin 125 mg Capsule [**Hospital1 **]: One (1) Capsule PO once a day
+for 14 days: Please use vancomycin 125mg PO liquid.
+Disp:*14 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - MACU
+
+Discharge Diagnosis:
+Primary diagnosis:
+# Tunnelled hemodialysis catheter removal and replacement
+# Possible tunnelled catheter infection
+# Possible C. Difficile colitis
+# Hospital acquired PNA
+.
+Secondary diagnosis:
+# End stage renal disease on hemodialysis
+
+Discharge Condition:
+Afebrile, stable BP and HR
+
+
+Discharge Instructions:
+You were admitted to the hospital to replace your dialysis
+catheter.  You were treated for a possible HD catheter infection
+with IV Vancomycin, which you should continue for 7 more days
+(you started this antibiotic on [**12-28**]).  You also had increased
+discolored mucus and poten

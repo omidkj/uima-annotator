@@ -1,0 +1,220 @@
+Admission Date:  [**2132-4-2**]              Discharge Date:   [**2132-4-9**]
+
+Date of Birth:  [**2050-9-26**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 32612**]
+Chief Complaint:
+Ampullary mass
+
+Major Surgical or Invasive Procedure:
+[**2132-4-2**]:
+1. Diagnostic laparoscopy.
+2. Exploratory laparotomy.
+3. Lysis of adhesions.
+4. Pylorus-preserving pancreaticoduodenectomy with harvest of
+pedicled omental flap for protection of pancreatic and duodenal
+anastomoses.
+5. Placement of gold fiducials for possible postoperative
+CyberKnife therapy.
+
+
+History of Present Illness:
+Mr. [**Known lastname 449**] is a very nice 81-year-old gentleman with newly
+diagnosed ampullary adenocarcinoma. Mr. [**Known lastname 449**] presented
+approximately a year ago with right-sided abdominal pain. He was
+referred for endoscopy and found to have adenomatous polyps.
+Most of these were resected endoscopically.  On [**2132-3-6**],
+he underwent a repeat upper endoscopy.  This demonstrated
+recurrent adenomas.  Biopsy this time showed poorly
+differentiated adenocarcinoma. He continues to have persistent
+abdominal pain and anorexia.  He states he has lost 35 pounds
+over the last year.  He did have a CT scan done today which
+demonstrated large mass lesion in the second portion of the
+duodenum. The patient was evaluated by Dr. [**Last Name (STitle) **] in her
+[**Hospital 79163**] clinic and after discussion with the patient,
+he was scheduled for elective Whipple resection on [**2132-4-2**].
+
+Past Medical History:
+TIA
+Afib
+BPH
+CHF
+.
+PSH
+CCY
+
+
+Social History:
+smokes 1 ppd, 60 PY hx, occa etoh, no drugs, worked as engineer
+w/ GE, lives w/ 44 yo son
+
+
+Family History:
+non contributory
+
+Physical Exam:
+On Discharge:
+VS: 98.1, 60, 110/56, 14, 98% RA
+GEN: Very thin man in no acute distress
+CV: Irregularly irregular rate and rhythm
+PULM: CTAB
+ABD: Midline abdominal incision opent to air and c/d/i, old RLQ
+JP site with occlusive dressing and c/d/i.
+EXTR: Warm, no c/c/e
+
+Pertinent Results:
+[**2132-4-6**] 07:38AM BLOOD WBC-8.9 RBC-3.54* Hgb-10.9* Hct-30.6*
+MCV-87 MCH-30.9 MCHC-35.7* RDW-14.0 Plt Ct-201
+[**2132-4-8**] 01:00PM BLOOD PT-11.3 INR(PT)-1.0
+[**2132-4-6**] 07:38AM BLOOD Glucose-87 UreaN-12 Creat-0.9 Na-140
+K-3.6 Cl-104 HCO3-32 AnGap-8
+[**2132-4-6**] 07:38AM BLOOD Calcium-7.9* Phos-2.6* Mg-1.6
+
+                   Pathology Examination
+
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 79164**],[**Known firstname 1569**]       [**2050-9-26**]    81 Male      [**Numeric Identifier 79165**] [**Numeric Identifier 79166**]
+Report to:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]
+Gross Description by:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/mtd
+
+SPECIMEN SUBMITTED: WHIPPLE SPECIMEN.
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2132-4-2**] [**2132-4-2**] [**2132-4-7**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/mn????????????
+Previous biopsies:    [**Numeric Identifier 79167**]  GI BX'S (2 JARS)
+  [**-1/3358**]  GI BX'S (2 JARS)
+
+DIAGNOSIS:
+Whipple resection, pylorus-sparing pancreaticoduodenectomy
+(A-AC):
+1.  Invasive adenocarcinoma of the periampullary duodenum,
+poorly differentiated, arising from an adenomatous precursor
+lesion with high grade dysplasia, with invasion into subserosal
+adipose tissue (pT3); lymphovascular and perineural invasion is
+present; see synoptic report.
+2.  Seven of thirteen lymph nodes with involvement by
+adenocarcinoma ([**8-8**]- pN2).
+3.  Extrahepatic bile duct segment and ampulla, within normal
+limits.
+4.  Pancreatic parenchyma with focal changes of low grade
+intraepithelial neoplasia (PanIn-1), focal dilation of
+pancreatic ducts, and squamatization of duct epithelium.
+
+Small Intestine: Segmental Resection, Pancreaticoduodenectomy
+(Whipple Resection) Synopsis
+AJCC/UICC TNM, 7th edition
+Protocol web posting date: [**2129-10-27**]
+
+MACROSCOPIC
+Specimen Type:  Duodenum.
+
+Other organs Received:  Head of pancreas, Ampulla, Common bile
+duct.
+
+Tumor Site:  Duodenum.
+
+Tumor configuration:  Infiltrative.
+
+Tumor Size: Greatest dimension:  4.2 cm.
+
+MICROSCOPIC
+
+Macroscopic Tumor Perforation:  Not identified.
+
+Histologic Type:  Adenocarcinoma (not otherwise characterized).
+
+Histologic Grade:  G3:  Poorly differentiated.
+
+EXTENT OF INVASION
+Primary Tumor (pT):  pT3: Tumor invades through the muscularis
+propria into the subserosa or into the nonperitonealized
+perimuscular tissue (mesentery or retroperitoneum) with
+extension 2 cm or less.
+
+Regional Lymph Nodes (pN):  pN2: Metastasis in 4 or more
+regional lymph nodes.
+
+Lymph Nodes
+    Number examined:  13.
+    Number involved:  7.
+
+Distant metastasis:  pMX:  Cannot be assessed.
+
+MARGINS
+Segmental Resection or Pancreaticoduodenectomy (Whipple)
+    Proximal Margin:  Uninvolved by invasive carcinoma.
+    Distal Margin:  Uninvolved by invasive carcinoma.
+    Circumferential (Radial) or Mesenteric Margin :  Uninvolved
+by invasive carcinoma (tumor present 1 mm from margin; see Slide
+N).
+
+Pancreaticoduodenectomy (Whipple)
+    Bile Duct Margin:  Margin uninvolved by invasive carcinoma.
+    Pancreatic Margin:  Margin uninvolved by invasive carcinoma.
+
+
+
+Lymphovascular Invasion: Present
+
+
+
+Perineural Invasion: Present
+
+ Additional Pathologic Findings:
+        Adenoma(s).
+
+Comments:  Adenomatous precursor of the duodenum is present in
+multiple sections, but is shown best on Slide K. No dysplastic
+precursor is found within the ampullary region itself, arguing
+against the tumor origin from this site.
+
+Clinical:   Ampullary mass.
+
+[**2132-4-9**] 06:20AM BLOOD PT-13.9* INR(PT)-1.3*
+
+Brief Hospital Course:
+The patient with ampullary mass was admitted to the Surgical
+Oncology Service on [**2132-4-2**] for elective Whipple procedure. On
+[**2132-4-2**] , the patient underwent pylorus-preserving
+pancreaticoduodenectomy and placement of gold fiducials for
+possible postoperative CyberKnife therapy, which went well
+without complication (reader referred to the Operative Note for
+details). Inraoperatively patient was transfused with 2 units of
+RBC for low HCT, he was extubated post operatively and
+transferred in ICU for observation. The patient was
+hemodynamically stable. In ICU patient was hypotensive with low
+urine output, which was treated with fluid boluses. On POD # 2,
+patient was transferred on the floor in stable condition.
+The [**Hospital 228**] hospital course was uneventful and followed the
+Whipple Clinical Pathway without deviation.  Post-operative pain
+was initially well controlled with epidural catheter and
+Dilaudid PCA, which was converted to oral pain medication when
+tolerating clear liquids. The NG tube was discontinued on POD#2,
+and the foley catheter discontinued at midnight of POD# 3. The
+patient subsequently voided without problem. The patient was
+started on sips of clears on POD# 3, which was progressively
+advanced as tolerated to a regular diet by POD# 5.  JP amylase
+was sent in the evening of  POD# 5; the JP was discontinued on
+POD#7 as the amylase level were low and output continue to
+decrease. Patient was started on home dose of Coumadin on POD #
+6, and he was bridged with SC Lovenox prior discharge as his INR
+was subtherapeutic. Patient will continue on SC Lovenox and
+Coumadin until his INR reach therapeutic level, INR will be
+motinored by [**Hospital **] Hospital [**Hospital 197**] Clinic as outpatient.
+During this hospitalization, the patient ambulated early and
+frequently, was adherent with respiratory toilet and incentive
+spirrometry, and actively participated in the plan of care. The
+patient received subcutaneous heparin and venodyne boots were
+used during this stay. The patient's blood sugar was monitored
+regularly throughout the stay; sliding scale  insulin was
+administered when indicated.
+At the time of discharge on [**2132-4-9**], the patient was doing well,
+afebrile with stable vital signs.  The patient was tolerating a
+regular diet, ambulating, voiding without assistance, and pain
+was well controlled. The patient was discharged home without
+services. The patient received discharge teaching and follow-up
+in

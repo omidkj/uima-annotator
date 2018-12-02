@@ -1,0 +1,206 @@
+Admission Date:  [**2120-12-20**]              Discharge Date:   [**2120-12-25**]
+
+Date of Birth:  [**2057-2-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Dilantin
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+dyspnea on exertion, chest pain
+
+Major Surgical or Invasive Procedure:
+[**12-20**] Mitral valve repair (30 mm CG future ring)
+
+
+History of Present Illness:
+The patient is a 63 year old gentleman with multiple medical
+issues, including mitral regurgitation with worsening dyspnea on
+exertion.  Echo reveals ejection fraction of 60%, severe mitral
+regurgitation with flail posterior leaflet and significantly
+dilated left atrium and left ventricle.
+
+Past Medical History:
+severe mitral regurgitation with flail posterior leaflet
+upper GI bleed
+esophagitis
+Barrett's esophagus with esophageal stricture
+CVA with left arm weakness (4 strokes [**2111**])
+hypertension
+hyperlipidemia
+coronary artery disease
+v-fib arrest [**2111**]
+s/p percutaneous coronary intervention
+hiatal hernia
+seizure disorder
+h/o alcohol abuse
+s/p right knee surgery
+s/p neck surgery for degenerative joint disease
+
+Social History:
+lives with wife
+tobacco- denies
+[**Name (NI) **] stopped 10 yrs ago (h/o abuse)
+medically disabled
+
+Family History:
+mother is living with history of MI and valvular disease
+
+Physical Exam:
+Discharge:
+Awkae a nd alert. Neurologically as preoperatively.
+Lungs- clear.
+Cor; RR at 90. Junctional by telemetry. 98/68. Crisp heart
+sounds.
+Extremeties: warm and dry. Trace edema.
+wounds: sternum clean and healing. Stable.
+
+Pertinent Results:
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname 28**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 79738**] (Complete)
+Done [**2120-12-20**] at 10:15:12 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2057-2-16**]
+Age (years): 63 M  Hgt (in): 64
+BP (mm Hg): 100/60  Wgt (lb): 130
+HR (bpm): 67  BSA (m2): 1.63 m2
+Indication: MV repair. Limited mid-esophageal TEE view due to
+Barrett's
+ICD-9 Codes: 424.0
+Test Information
+Date/Time: [**2120-12-20**] at 10:15    Interpret MD: [**Name6 (MD) 3892**]
+[**Name8 (MD) 3893**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Limited Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW03-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.2 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  5.0 cm  <= 5.2 cm
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Ascending:  3.1 cm  <= 3.4 cm
+ Findings:
+Patient hasa history of Barrett's esophagus. He is under regular
+GI follow-up in [**Hospital1 1474**]. He is asymtpomatic. No known history
+of dilation used. Talked to Dr.[**Last Name (STitle) **] and Dr.[**Last Name (STitle) 4901**] and decided
+to do limited mid-esophageal TEE views only. The TEE probe met
+some resistance at 35cms from lips.
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Focal calcifications in ascending aorta. Normal aortic arch
+diameter. Normal descending aorta diameter.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Trace AR.
+MITRAL VALVE: Partial mitral leaflet flail. Severe (4+) MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. The patient appears to be in sinus rhythm. See
+Conclusions for post-bypass data The post-bypass study was
+performed while the patient was receiving vasoactive infusions
+(see Conclusions for listing of medications).
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage.
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. Trace aortic regurgitation is seen.
+There is partial mitral leaflet flail of the P2 with severe
+mitrall regurgitation is seen. There is no pericardial effusion.
+
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including epinephrine 0.02
+mcg/kg/min and phenylephrine 0.5 mcg/kg/min. A well-seated
+mitral annuloplasty ring is seen with normal leaflet motion and
+gradients (mean gradient = 3 mmHg). There is no valvular
+systolic anterior motion ([**Male First Name (un) **]). Trivial (normal for prosthesis)
+mitral regurgitation is seen.
+Intact thoracic aorta.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2120-12-20**] 10:30
+
+
+?????? [**2115**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+The patient was admitted for surgical management of his mitral
+regurgitation.  He was brought to the operating room on
+[**2120-12-20**] where he underwent mitral valve repair including
+resection of the P2 segment of the posterior leaflet, as well as
+30 mm annuloplasty ring.  For further details, please see
+operative report.  Overall the patient tolerated the procedure
+well and post-operatively was transferred to the CVICU in stable
+condition for further invasive monitoring and recovery.  By POD
+1 the patient was extubated, alert and oriented and breathing
+comfortably. He required neosynephrine for BP support
+transiently.
+
+He was hemodynamically stable on no inotropic or vasopressor
+support.  He was noted to alternate his rhythm between MobitzII
+block and then an accelerated junctional rhythm.  The high
+degree AV block quickly resolved and he remained in a junctional
+rhythm. This was well tolerated.  He was transferred to the step
+down unit on POD 2.
+
+Chest tubes and pacing wires were discontinued in the usual
+fashion, without complication.  The physical therapy service was
+consulted for assistance with post-operative strength and
+mobility.  The patient was gently diuresed toward his
+preoperative weight.  He had episodic low blood pressure and was
+volume repleted with normal saline as well as albumin with good
+response.  Diuretics were discontinued.  A TTE was done on [**12-23**]
+(POD#3) which demonstrated no evidence of tamponade or
+pericardial effusion.  He felt well throughout this. His
+mobility is severely limited due to his previous strokes. He is
+able to walk, albeit slowly, with a walker/cane.  He has been
+stable on stairs here with the PT staff, and will be able to
+negotiate the stairs at home using railings and going slowly
+between floors.
+
+Discharge medications, instructions and followup were discussed
+with the patient and his wife prior to discharge.
+
+
+Medications on Admission:
+aspirin 325 daily
+carbamazepine 200qam, 200mg noon, 100qpm
+baclofen 15mg TID
+prilosec 20mg daily
+simvastatin 80mg daily
+atenolol 100mg daily
+lisinopril 20mg [**Hospital1 **]
+calcium 600mg daily
+fiber-laxative two tabs daily
+MVI plus iron daily
+dulcolax qid
+
+Discharge Medications:
+1. Influen Tr-Split [**2120**] Vac (PF) 45 mcg/0.5 mL Syringe Sig: One
+(1) ML Intramuscular ASDIR (AS DIRECTED).
+2. Psyllium     Packet Sig: One (1) Packet PO DAILY (D

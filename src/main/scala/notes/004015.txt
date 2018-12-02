@@ -1,0 +1,247 @@
+Admission Date:  [**2170-1-6**]              Discharge Date:   [**2170-1-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+Aspirin / Percocet / Codeine / Nutren Pulmonary / Zosyn
+
+Attending:[**First Name3 (LF) 96598**]
+Chief Complaint:
+hypoxia
+
+Major Surgical or Invasive Procedure:
+BiPAP
+
+History of Present Illness:
+89 yo F with COPD, HTN, PVD, PEG tube, presents dyspnic from Heb
+Reb. Recently finished steroid taper at end of [**Month (only) **] for prior
+COPD exacerbation. The patient recently had a UTI which was
+treated with abx (? levoflox). She has been having decreased
+MS/po intake over past few days.
+.
+In the ED, initial vitals were T 103.8 rectal, P 100 BP 128/49 R
+40 O2 79% on NRB. Changed to BiPAP with good effect and O2 sat
+increased to 100%. ABG on BiPAP 7.38/48/303/29. Received vanc
+1g, Ceftaz 2g for consolidation on CXR in the setting of a
+nursing home and h/o MRSA. Also received nebs and 10mg dexameth
+for COPD exacerbation.
+.
+On arrival to the unit the patient had decreased responsiveness.
+Satting well on BiPAP. (However needed to be on NRB for the
+trip). New gas on bipap 7.39/40/159. BP's in the 80's came up to
+90's with gentle bolus. Spoke to family who want full code and
+invasive measures if necessary.
+.
+
+
+Past Medical History:
+1. Steroid induced hyperglycemia with history of
+hypoglycemia.
+2. Asthma with greater than 5 hospitalizations with history
+of intubation complicated by MRSA pneumonia.
+3. Hypertension.
+4. Peripheral vascular disease, status post left femoral
+peroneal bypass in [**2162**].
+5. COPD with 51% predicted FEV1.
+6. MAT.
+7. History of multiple aspirations, status post PEG.
+8. Left hilar mass. Workup pending.
+9. History of GI bleed, declined endoscopy.
+10. Diastolic CHF with preserved EF.
+11. Anemia of chronic disease, baseline hematocrit 26.
+12. Chronic renal insufficiency, last creatinine 1.2.
+13. bell's palsy
+
+
+Social History:
+Daughter involved in the patient's care.
+Widowed with 3 children. Denies tobacco use. Previous alcohol
+3 times per week. None recently. States significant second
+hand exposure from her father until age 21.
+
+
+Family History:
+NC
+
+Physical Exam:
+per Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 9570**]
+VS: 98.8 105/60 HR 97 RR 22 99% on 50% BiPAP
+GEN - repsponsive only to sternal rub
+HEENT - BiPAP on, PERRL
+NECK - supple, no LAD
+COR - tachy , regular
+CHEST - diffuse ronchi, worse in R base
+ABD - soft, +BS
+EXT - no edema
+Skin - decub ulcer on sacrum, stasis changes on legs
+
+
+Pertinent Results:
+Admission CXR - Findings concerning for right pneumonia. Left
+retrocardiac opacity, consistent with atelectasis, effusion, or
+consolidation.
+.
+Admission EKG - RBBB tachy 109, no change from prior
+.
+Admission labs:
+ABG: 7.39/40/151
+U/A: small leuks, small blood, neg nitr, many bacteria
+.
+136  104  83
+--------------< 192
+4.4  26  1.6
+Ca: 10.5 Mg: 2.5 P: 4.4
+ALT: 55
+Tbili: 0.2
+AST: 50
+[**Doctor First Name **]: 47 Lip: 20
+Lactate:1.1
+.
+     7.7
+9.9 >----<  279
+     22.6
+N:92.6 Band:0 L:4.0 M:2.9 E:0.4 Bas:0.1
+PT: 12.8  PTT: 27.4  INR: 1.1
+.
+Trends:
+CK: 20 - 16
+CKMB: 3 - 3
+Tropo: 0.18 - 0.10
+Iron 17, TIBC 205, B12 982, Folate okay, Ferritin 561
+.
+Micro:
+[**2170-1-7**] 10:06 am SPUTUM      Source: Expectorated.
+GRAM STAIN (Final [**2170-1-7**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI IN
+PAIRS.
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+RESPIRATORY CULTURE (Preliminary):    RESULTS PENDING. .
+.
+[**2170-1-6**] 8:00 am URINE     Site: CATHETER
+URINE CULTURE (Preliminary):
+KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..
+Trimethoprim/Sulfa sensitivity testing confirmed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+
+2ND ISOLATE.    <10,000 organisms/ml.
+SENSITIVITIES: MIC expressed in MCG/ML
+KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       PND
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------       PND
+CEFUROXIME------------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+IMIPENEM--------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------   256 R
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+
+Brief Hospital Course:
+89 yo woman with severe COPD presents with dyspnea from nursing
+home.  Hospital course by problem:
+.
+# Respiratory distress - This was thought likely secondary to
+pneumonia +/- COPD exacerbation. Patient with history of ESBL
+and MRSA so she was initially covered with meropenem and vanco.
+Her sputum grew out 3+ gram positive rods, 2+ gram positive
+cocci, and 1+ gram negative rods (with good sample).  Further
+identification pending upon discharge.  We also monitored her in
+the ICU and treated her with a BiPAP.  She was treated with
+standing nebs, chest PT, singulair, advair and [**Doctor First Name 130**].  Her
+respiratory status significantly improved with these measures.
+We also treated with steroids for a COPD exacerbation (initially
+with IV solumedrol on [**1-8**] with transition to prednisone 60mg PO
+daily by [**1-9**]). She will need to complete a 10 day course of
+vancomycin starting on [**1-6**]. Her troughs were therapeutic.
+.
+# UTI - Patient with gram negative rods in urine culture from
+[**1-6**].  Sensitivites indicate that she has largely resistent
+klebsiella which is sensitive to meropenem.  We started this on
+[**1-6**] and suggest treating for a 10 day course.
+.
+# Altered mental status: On evening of [**1-8**], the patient
+developed altered mental status and garbled speech.  This came
+on suddenly and improved within 15 minutes.  A neuro exam at the
+time indicated a right facial droop (which has been previously
+documented).  She also was alert and oriented to person, place,
+date, month, time, and situation (10 min after the change in
+mental status was first appreciated).  An ABG at the time showed
+good oxygenation and no evidence of hypercarbia.  Blood glucose
+was 400.  A head CT preliminarily read as no hemorrhage or
+territorial lesion.  Her ms improved.
+.
+# Anemia - below baseline but stable at 22.  We transfused her
+one unit of pRBC prior to discharge.
+.
+# ARF - labs were initially c/w dehydration.  500cc boluses were
+given for hypotension and poor urine output.  This resulted in
+improvement in her UOP and stabilization of her blood pressure.
+.
+# MAT - EKG appears regular.  We were cautious with the
+verapamil initially given her hypotension but added it back on.
+Her HR was well controlled in the 100-110 range. She was placed
+on her home verapamil and had good control of her heart rates.
+.
+# Steroid Induced DM - Continued a RISS but also added glargine
+6u qhs.  This may be titrated in the future as needed.
+.
+# HTN - continued verapamil as above.
+.
+# Diastolic CHF - continued HR and BP control
+.
+# Hilar Mass - work up once stable as outpt
+.
+# Decubitus and stasis ulcer - wound care per routine
+.
+# h/o post herpetic neuralgia - we held her neurontin while
+decreased MS [**First Name (Titles) **] [**Last Name (Titles) **].  This was then restarted prior to
+dispo.
+.
+# PPx - hep SC, PPI, bowel reg
+.
+# FEN - Tube feeds
+.
+# Code Status - Full code
+.
+# Contacts - Daughter [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2916**] [**Telephone/Fax (1) 96596**]
+
+
+Medications on Admission:
+MEDS:
+TF through PEG, flush 200 cc free water q6h
+Chronic indwelling foley
+Multivitamin
+Zantac 150mg po/ng qdaily
+Levothyroxine 200mcg po qdaily
+Vitamin B12 100mcg po daily
+Vitamin C 500mg daily
+Neurontin 200mg po tid
+Buspar 10mg po daily
+Hep SQ 5000 U TID
+Lipitor 10mg po daily
+Metoprolol tartate 25mg po daily
+Humulin sliding scale
+Dulcolax 10mg pr prn constipation
+Albuterol nebs prn wheezing
+Atrovent nebs prn wheezing
+Ativan 1mg prn anxiety
+Tylenol 650mg po q4-6h prn
+Ultram 50mg po q6h prn pain
+.
+ALLERGIES: Penicillins
+
+
+Discharge Medications:
+1. Gabapentin 300 mg Capsule [**Telephone/Fax (1) **]: One (1) Capsule PO HS (at
+bedtime).
+2. Heparin (Porcine) 5,000 unit/mL Solution [**Telephone/Fax (1) **]: One (1)
+Injection TID (3 times a d

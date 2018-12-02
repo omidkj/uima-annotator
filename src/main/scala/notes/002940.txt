@@ -1,0 +1,206 @@
+Admission Date:  [**2181-2-28**]              Discharge Date:   [**2181-3-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Nsaids / Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 2387**]
+Chief Complaint:
+Hypotension in Clinic
+
+Major Surgical or Invasive Procedure:
+Dialysis
+
+History of Present Illness:
+Mr [**Name13 (STitle) 21658**] is an 85 year old man, recently discharged from the
+intensive care unit, with history of prior DVT (now s/p IVC
+filter), HTN, CKD on HD, right lower extremity dry gangrene,
+presenting from his PCP/cardiologist's office where the pt had a
+chief complaint of worsening SOB and cough. Per ED notes
+(patient is poor historian) the pt has "not looked great" for
+the past few days. The pt is currently living at [**Hospital1 **],
+denies nausea, vomiting. Has been regularly attending dialysis.
+
+
+Mr [**Name13 (STitle) 21658**] has been residing at nursing home since his
+discharge, and has been feeling more weak and short of breath
+than usual in the last few days. Hemodyalisis has been limited
+secondary to hypotension.
+
+In the emergency department the pt's vital signs were: 98.5,
+P90, NP 70/48, RR22 and O2sat 96% on 3L. In the ED the pt
+received 2 or 3 liters IVF (although only 1L documented in ED
+papers), and had a chest x-ray that showed a new left-sided PNA
+and he got Vanc and Zosyn with improvement in SBP's to in low
+100's.
+
+Past Medical History:
+HTN
+thoracic and abdominal aortic aneurysm
+h/o transitional cell bladder cancer
+CKD
+h/o lumbar laminectomy
+tertiary hyperparathyroidism
+BPH
+DVT in the past, s/p IVC filter placement
+bilateral cataracts s/p removal
+glaucoma
+s/p L TKR
+?[**Name (NI) **] unclear per records
+PVD ? Fem/[**Doctor Last Name **] bipass
+
+Social History:
+Formerly worked in family business, now retired. Was living
+independently until [**12/2180**] hospitalization. More recently lived
+in [**Hospital1 **].
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+GENERAL: Elderly man, decorticate posturing, but moving upper
+extremities
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. No
+scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No
+LAD, No Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+
+no rebound tenderness or guarding, no organomegaly
+Ext: cool feet bilaterally w/ right foot gangrene, LLE swelling
+w/ +2 edema, not able to palpate pedal pulses; doplerable LLE
+dp/pt and R dp.
+
+Pertinent Results:
+Admission labs:
+[**2181-2-28**] 01:00PM BLOOD WBC-14.7*# RBC-2.79* Hgb-8.5* Hct-25.8*
+MCV-92 MCH-30.3 MCHC-32.8 RDW-17.6* Plt Ct-303
+[**2181-2-28**] 01:00PM BLOOD Neuts-66.8 Lymphs-13.5* Monos-5.4
+Eos-14.1* Baso-0.2
+[**2181-2-28**] 01:00PM BLOOD Glucose-103 UreaN-77* Creat-3.4* Na-130*
+K-4.7 Cl-92* HCO3-27 AnGap-16
+[**2181-2-28**] 01:10PM BLOOD Lactate-1.5
+[**2181-2-28**] 01:00PM BLOOD CK-MB-3 cTropnT-0.24*
+[**2181-3-1**] 12:57AM BLOOD CK-MB-4 cTropnT-0.24*
+[**2181-2-28**] 01:00PM BLOOD CK(CPK)-48
+[**2181-3-1**] 12:57AM BLOOD CK(CPK)-65
+
+Micro:
+Blood cx: 3 neg, 4 NGTD
+Blood cx ([**2-28**]): STAPHYLOCOCCUS, COAGULASE NEGATIVE, FROM ONE
+SET ONLY.
+Stool O+P: neg x2
+Urine cx ([**3-9**]): ENTEROCOCCUS SP. >100,000 ORGANISMS/ML.
+C diff: pending
+
+Imaging:
+CXR [**2181-2-28**]: Indistinctness of the left heart border which may
+be related to overlying soft tissue, but infection is not
+excluded.
+
+CXR [**2181-3-4**]: Portable chest radiograph demonstrates a large-bore
+catheter on the right extending into the cavoatrial junction.
+The left IJ catheter has been removed. The left costophrenic
+angle has been omitted from the study. There is a probable small
+left pleural effusion. There is patchy atelectasis at the left
+lung base. There is also mild patchy airspace opacity in both
+lungs which could represent a combination of atelectasis or
+aspiration, possibly infiltrate. There is mild congestive
+failure. Heart is top normal in size.
+
+LUE U/S [**2181-3-6**]: No evidence of deep vein thrombosis in the left
+arm.
+
+CXR [**2181-3-9**]: Since [**2181-3-6**], lung volumes are lower,
+increasing bibasilar dependant atelectasis. Note that the right
+costophrenic angle was excluded. Small left pleural effusion is
+likely unchanged. Mild volume overload persists. A right PICC, a
+right central venous line, and a gastrostomy tube are still in
+place. There is no other change.
+.
+[**2181-3-9**] 11:13 am URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2181-3-11**]**
+
+   URINE CULTURE (Final [**2181-3-11**]):
+      ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------  =>32 R
+LINEZOLID-------------     2 S
+NITROFURANTOIN--------   256 R
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------  =>32 R
+
+
+Brief Hospital Course:
+1. Hypotension: The cause of the patient's hypotension was
+unclear, since although he had a leukocytosis on admission,
+there was no convincing infiltrate on chest x-ray, and the pt's
+HD line appeared non-erythematous. The pt does have extensive
+right lower extremity gangrene with ulceration of the right
+ankle, which may be a potential nidus of infection. Microbiology
+failed to grow out organisms other than Coagulase Negative
+Staph, which may have been a contaminant. Given the pt's tenuous
+status on admission the pt was treated initially with broad
+spectrum antibiotics (Vanc and Zosyn) which were then tapered to
+just Vanc to treat a presumed line infection for a 14-day
+course. During the first few days of this admission the pt's
+blood pressure was supported with peripheral vasopressin, which
+was stopped successfully on [**3-3**] and [**3-5**], but on both days was
+added back on during dialysis sessions during which the pt's
+blood pressure would fall to the 70s systolic. On transfer to
+the CCU the pt was no longer requiring vasopressin, although did
+have SBP 60s with HD once, treated with 500cc IV fluid. Other
+sessions of HD were associated with asymptomatic hypotension to
+SBPs 80s, which improved without intervention with SBPs
+typically in 90s. He remained afebrile, although cultures were
+sent [**3-9**] for an elevated temp of 100.0. Urine cultures were
+positive for VRE and patient was started on linezolid as
+described below.
+
+2. Tachycardia: During the pt's HD session on [**3-5**] the pt
+developed a rapid heart rate in the 160s. Carotid massage was
+attempted several times with no alteration in the rhythm. Then
+adenosine 6mg was administered with no effect. Then adenosine
+12mg was administered with a temporary drop in heart rate to the
+40s, but then a return to the 160s. Then amiodarone was loaded
+and the pt's heart rate improved to the 100s, and blood pressure
+was initially low, but then systolics returned to the 100s.
+During the episode of tachycardia, there were morphologies
+suggesting AVNRT and afib. After initial amio dosing, heart rate
+was subsequently normal and rhythm was sinus and he required no
+more antiarrhythmics. Amiodarone was stopped.
+
+3. PVD: Vascular saw the pt on admission in the ED and felt that
+the gangrene was not the cause of the pt's symptoms. The patient
+will be seen as an outpatient by Vascular surgery to determine a
+date for outpatient right AKA.
+.
+4. Elevation in troponin: On admission the pt's Troponin T was
+at recent baseline (0.26-0.37). Chronically elevated troponins
+likely secondary to chronic renal failure. No chest pain, no
+change on EKG.
+
+5. End stage renal disease: During this admission nephrology saw
+the pt and continued dialysis. Dialysis was limited at time by
+hypotension and chest pain. Last HD was on [**2181-3-12**] and was
+finished with no complications.
+
+6. CAD: At rehab the pt was on ASA, statin and verapamil. ASA
+and statin were continued, but verapamil was held in the setting
+of hypotension.
+
+7. Pain control: Patient vague regarding chronic pain, but may
+be due to gangrenous right foot. Controlled with fentanyl patch
+25mcg and oxycod

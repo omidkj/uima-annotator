@@ -1,0 +1,197 @@
+Admission Date:  [**2123-7-8**]              Discharge Date:   [**2123-7-23**]
+
+
+Service: MED
+
+Allergies:
+Oxycodone
+
+Attending:[**First Name3 (LF) 3513**]
+Chief Complaint:
+CHANGE IN MENTAL STATUS, UTI, SEPTIC SHOULDER
+
+Major Surgical or Invasive Procedure:
+PROCEDURE: Attempted closed reduction, left glenohumeral
+joint. Irrigation and debridement, open, of left glenohumeral
+joint
+Open anterior reconstruction, left shoulder (modified Bankart
+procedure).
+
+
+History of Present Illness:
+86 y.o. female.  Admission in mid [**Month (only) **] for septic left
+shoulder(MRSA), discharged to rehab on Vanco via PICC and now
+presents (after an initial work-up at [**Hospital6 **]) with
+change in mental status, dislocated left shoulder, and decreased
+urinary output.  She was transferred at the request of her
+daughter given that she receives most of her care at [**Hospital1 18**].  She
+was A/Ox3 at home. She was found to have +UTI, 6 of 6 bottles of
+gram negative rods, Negative Head CT. Vancomycin was continued
+dosed by level and levofloxacin given empirically.  Her shoulder
+pain responded well to low dose morphine.  On [**7-13**] went to
+surgery for shoulder debridement, irrigation and placement.  On
+[**7-14**]  transferred to MICU overnight for hypotension, GI bleed
+(had guaiac + black stool), refused c-scope, now Guaiac
+negative. Gram negative rods determined to be Enterobacter, [**7-15**]
+meropenem started.  Pt's mental status markely improved
+throughout the course of the Abx and post-surgical intervention.
+ She will needed extended Abx tx as an outpt and significant PT
+follow-up for her shoulder.  To be placed in Rehab.
+
+Past Medical History:
+CAD (MIBI reversible defect ant/apical not intervened)
+CHF (EF 55% with diastolic failure from HTN)
+Afib (now in sinus on amio)
+CRI (BLC 1.7)
+Venous stasis, DVT (s/p IVC filter)
+LGIB, diverticulosis
+Left Hip replacement
+Right TKR
+pacer
+
+Social History:
+Lives in [**Location **].  Family very involved in her care.  No ETOH, Tob,
+drugs.  Enjoys gospel music and church.
+
+Family History:
+unsure of parent's cause of death
+
+Physical Exam:
+T97.3, BP106/72, P80, R18, O2sat100%RA
+HEENT:  left eye cataract, EOMI, right eye PERRL, poor
+dentition, No OP erythema, no LAD
+CHEST:  CTAB anteriorly
+HEART:  RRR, NL S1/S2
+ABD:  obese, BS+, NT, ND
+EXT:  1+ pitting edema b/l, left anterior shoulder dislocation,
+warm, pulses 2+ (radial,DP)
+NEURO:  AxOx1, 5+ strength throughout(except left upper
+extremity could not be examined secondary to pain), reflexes 2+
+throughout (except left upper extremity could not be examined
+secondary to pain).  Difficult to assess Pt's sensation given MS
+change.
+
+Pertinent Results:
+[**2123-7-8**] 12:24AM   LACTATE-1.9
+[**2123-7-8**] 11:11AM   SED RATE-125*
+[**2123-7-8**] 11:11AM   PT-13.9* PTT-29.9 INR(PT)-1.3
+[**2123-7-8**] 11:11AM   PLT COUNT-373
+[**2123-7-8**] 11:11AM   WBC-9.0 RBC-3.10* HGB-9.1* HCT-29.3* MCV-95
+MCH-29.2 MCHC-30.9* RDW-14.2
+[**2123-7-8**] 11:11AM   VANCO-24.0*
+[**2123-7-8**] 11:11AM   CRP-24.01*
+[**2123-7-8**] 11:11AM   ALBUMIN-2.3* CALCIUM-8.7 PHOSPHATE-4.0
+MAGNESIUM-1.8
+[**2123-7-8**] 11:11AM   GLUCOSE-79 UREA N-56* CREAT-2.2*# SODIUM-135
+POTASSIUM-4.0 CHLORIDE-99 TOTAL CO2-21* ANION GAP-19
+[**2123-7-8**] 11:55AM URINE  RBC->1000* WBC-0 BACTERIA-NONE
+YEAST-MANY EPI-0
+[**2123-7-8**] 11:55AM URINE  BLOOD-LGE NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-SM
+[**2123-7-8**] 11:55AM URINE  COLOR-BROWN APPEAR-Cloudy SP [**Last Name (un) 155**]-1.020
+
+[**2123-7-8**] Blood Cx:  ENTEROBACTER CLOACAE 1 of 1 bottles
+[**2123-7-9**] Blood Cx:  ENTEROBACTER CLOACAE 2 of 2 bottles
+[**2123-7-10**] Blood Cx:  no growth
+[**2123-7-17**] Blood Cx:  pending
+
+Sensitivities             set1      set2        set3
+CEFEPIME--------------    16 I      <=1 S        2 S
+CEFTAZIDIME-----------    32 R      =>2 S        4 S
+CEFTRIAXONE-----------  =>64 R     =>64 R     =>64 R
+CIPROFLOXACIN---------                2 I      =>4 R
+GENTAMICIN------------   <=1 S        4 S     =>16 R
+LEVOFLOXACIN----------     1 S        4 I        4 I
+MEROPENEM-------------   0.5 S   <=0.25 S   <=0.25 S
+PIPERACILLIN---------- =>128 R    =>128 R    =>128 R
+TOBRAMYCIN------------     8 I        8 I     =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R     =>16 R     =>16 R
+
+[**2123-7-9**] Shoulder Joint Cx:  ENTEROBACTER CLOACAE
+
+SENSITIVITIES: MIC expressed in MCG/ML
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------     4 S
+CEFTRIAXONE-----------    32 I
+CIPROFLOXACIN---------     2 I
+GENTAMICIN------------     8 I
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN---------- =>128 R
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+[**2123-7-8**] URINE CULTURE (Final [**2123-7-9**]): YEAST.
+10,000-100,000 ORGANISMS/ML
+[**2123-7-9**] URINE CULTURE (Final [**2123-7-10**]): YEAST.
+10,000-100,000 ORGANISMS/ML
+LT. SHOULDER MRSA PT WAS ON VANCO,MEREPENIM,& KEFZOL.
+
+[**2123-7-13**] Shoulder swab:  GRAM STAIN (Final [**2123-7-13**]): 2+ ([**1-11**]
+per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES. NO
+MICROORGANISMS SEEN. WOUND CULTURE (Final [**2123-7-15**]): NO GROWTH.
+ANAEROBIC CULTURE (Preliminary): NO GROWTH
+
+
+
+Brief Hospital Course:
+This is an 86 year-old female recently admitted in mid [**Month (only) **] with
+septic L shoulder (coag + staph) on vanco via Picc, s/p left
+shoulder washout and TEE negative for endocarditis.  Admitted
+from [**Hospital1 756**] after found to have UTI and altered MS and
+transferred here at request of daughter and found to have L
+shoulder dislocation, reduced 1 at [**Hospital1 112**] and 2 at [**Hospital1 18**] ED.  At
+nursing facility patient also found to have altered mental
+status, decreased urine output, and azotemia.
+
+Mental status change/ID: Subsequently, patient found to have
+Enterobacter bacteremia with sensitivity only to meropenam.
+Patient's mental status improved significantly with IV
+antibiotics with some baseline waxing and [**Doctor Last Name 688**].  Recently Mrs.
+[**Known lastname 101651**], in addition to her medical issues, suffered the loss of
+her husband.  This grieving and possible depression has lead to
+some withdrawal.  Would recommend appetitite stimulants,
+possible anti-depressants at discretion of physicians at
+[**Hospital1 **] to help with mentation.
+ **Most importantly, patient will need continued vanco for MRSA
+until [**2123-7-29**] and meropenem Enterobacter Cloace until [**2123-8-24**].
+She has been blood culture surveillance negative since initial
+cultures and has been afebrile with declining WBC.
+
+Shoulder dislocation: s/p debridement, open anterior
+reconstruction, and aspiration
+of her left shoulder joint now in sling.  Patient's course has
+been very complicated, with multiple dislocations, now a chronic
+dislocation and severe pain.  Ortho at [**Hospital1 18**] feels that
+continued surgical options are limited and recommend sling, with
+good pain control.  Patient will need further evaluation, most
+likely at [**Hospital6 **] for further options of
+management.
+
+CHF with EF 55% with diastolic dysfunction:  Patient with
+respiratory distress during this admission.  Gentle diuresis of
+Lasix 20 mg PO every other day has kept her in good fluid
+balance.  Currently her blood pressure has dropped to 80's/40/s
+with good response to fluid but she has maintained hemodynamic
+stability after her GI bleed (see below)
+
+GI bleed with anemia: patient hemodynamcially stable, with
+stable crits after a brief lower Gi bleed, likely secondary to
+diverticulosis -guaiac +, black stool, but patient did not want
+colonoscopy.  Her goal crit is >30.
+
+Atrial fibrillation: Has been in sinus on amio. Not on coumadin
+secondary to Gi bleed.
+
+CAD: h/o abnormal pMIBI in [**2120**]. Had intermittent Chest pain on
+[**7-12**] with ECG demonstrating t-wave inversions in anterior leads.
+Per cards fellow, patient was not ruled out, ASA held due to
+bleed.  Beta-blocker maintained, with occasional holding for low
+BP's. will not rule out. holding ASA secondary to bleed.  Now
+stable, without chest pain or associated symptoms.
+
+Pain: pain is now well controlled on current regimen.  Would
+recommend continuation.
+
+Nutrition: Patient with decreased PO intake over past 2 days
+prior to disch

@@ -1,0 +1,25 @@
+Admission Date:  [**2112-1-19**]       Discharge Date:  [**2112-2-3**]
+
+Date of Birth:   [**2050-3-12**]       Sex:  M
+
+Service:  MEDICINE
+
+ADDENDUM:
+
+1.  Attending of record is Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+2.  The patient should also follow up with his outside
+primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 20670**].
+3.  After discharge, the patient was discharged to
+rehabilitation, [**Hospital **] Rehabilitation, in [**Location (un) 538**], MA.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 312**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 313**], M.D.  [**MD Number(1) 314**]
+
+Dictated By:[**Doctor Last Name 109918**]
+MEDQUIST36
+
+D:  [**2112-2-4**]  11:06
+T:  [**2112-2-4**]  11:14
+JOB#:  [**Job Number **]

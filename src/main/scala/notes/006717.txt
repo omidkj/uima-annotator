@@ -1,0 +1,222 @@
+Admission Date:  [**2134-8-15**]              Discharge Date:   [**2134-8-17**]
+
+Date of Birth:  [**2057-2-23**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics) / Tylenol
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+77F oxygen-dependent severe COPD on 3L at baseline, CHF (EF 25%)
+with cor pulmonale, HTN, CAD, HLD presents with 2-month history
+of shortness of breath that has worsened compared to the past 5
+years. Course with no acute changes. She complains of SOB at
+rest relieved with home oxygen and exacerbated by exertion,
+which are her usual symptoms. Reason for presentation is VNA
+concern for no prescriptions - she ran out of prescription with
+no refill for tomorrow. She also has not been taking advair for
+> 7 days and will run out of all medications tomorrow. She has
+no increased home O2 requirement (3 L continuous). She denied
+any signs/symptoms of CHF, COPD exacerbation, or pneumonia. She
+otherwise denied any other complaints or concerns.
+
+.
+
+In the ED, initial VS: 15:26 0 98.7 66 153/120 18 100% 10L
+Non-Rebreather. ED staff uncertain why she was initially on
+non-rebreather. Patient was cleaned in ED with reddened area to
+buttocks. Labs significant for UA with leuk Lg, WBC 18, Bacteria
+few. Chem showing K 5.3, HCO3 35, BUN 72, Cr 1.4 (baseline
+0.6-0.7). BNP [**Numeric Identifier 84775**] (last prior in [**Month (only) 116**] ~ 12,000), initial
+troponin 0.1 (baseline 0.04 - 0.06 with normal Cr). CXR was
+performed showing small bilateral pleural effusions, mild CHF,
+severe emphysema. She was given combivent neb - improved from
+prior interstitial markings. She was given 1 L NS. She was given
+ciprofloxacin 500 mg PO qD for urinary tract infection. EKG
+similar to prior.
+
+.
+
+The patient was reportedly doing well on the floor on night of
+admission, at her home 3L O2 requirement, when she was noted to
+be hypoxic to the 60s-70s, tachypneic, and diaphoretic. She was
+placed on a NRB with improvement in SpO2 to 100%. BP was noted
+to be 200 systolic and she was given hydralazine 25mg IV x1 with
+improvement to the low 100s systolic. She was given nebs,
+morphine 1mg and furosemide 40mg IV total with minimal output
+(though unclear how furosemide-naive she is) with concern for
+flash pulmonary edema. CXR showed some increased cephalization
+but no new infiltrates or white-out. ABG was 7.41/58/395. A
+foley was placed. She continued to be tachypneic and the
+decision was made to transfer to the MICU for NIPPV.
+
+
+Past Medical History:
+1) COPD with significant smoking history, was on home O2 in past
+
+2) Unclear prior history of DM2
+3) Glaucoma
+4) Ventral hernia
+5) HTN
+6) Prior LV strain on EKG [**11/2132**]
+7) CKD II (baseline 0.9)
+8) CHF EF 25%
+
+
+Social History:
+Divorced from husband x decades, lives alone. Ambulatory at
+baseline without a walker. Hoarding issues. Smoked 1-2 packs per
+day x 50 years, quit in [**2128**], no illicit drug use, has not had
+EtOH since [**2123**].
+
+
+Family History:
+Mother - osteoporosis and glaucoma. otherwise unknown
+
+Physical Exam:
+On admission:
+Vitals: T: 97.6 BP: 134/61 P: 104 R: 24 O2: 92% 50% BiPAP
+General: Alert, oriented, pursed lips, in mild respiratory
+distress
+HEENT: Sclera anicteric, MM slightly dry
+Neck: supple, JVP not visualized
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Fast but regular, normal S1 + S2, no murmurs, rubs, gallops
+
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+On discharge:
+
+T 36.3 ??????C (97.4 ??????F)HR: 68 bpm BP: 114/45(62)mmHg RR: 15 SpO2:
+93%
+General: Alert, oriented sitting comfortably in bed with NC in
+nares
+HEENT: Sclera anicteric, MM slightly dry
+Neck:  no JVD no LAD
+Lungs: Distant lungs sounds bilaterally, no wheezes, rales,
+ronchi
+CV: regular, normal S1 + S2, no murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+Labs on admission:
+
+WBC-9.8# RBC-3.69* HGB-11.5* HCT-34.7* PLT COUNT-392#
+NEUTS-61.4 LYMPHS-21.6 MONOS-5.1 EOS-10.8* BASOS-1.1
+CALCIUM-9.2 PHOSPHATE-4.0# MAGNESIUM-2.1
+proBNP-[**Numeric Identifier 84775**]*
+cTropnT-0.10*
+GLUCOSE-126* UREA N-72* CREAT-1.4* SODIUM-142 POTASSIUM-5.3*
+CHLORIDE-97 TOTAL CO2-35* ANION GAP-15
+URINE  HYALINE-11* RBC-1 WBC-18* BACTERIA-FEW YEAST-NONE EPI-1
+URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG
+BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-LG
+URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.007
+1 cTropnT-0.09*
+2 cTropnT-0.09*
+3 cTropnT-0.09*
+
+CXR on admission IMPRESSION: Small bilateral pleural effusions,
+mild congestive heart failure. Severe emphysema.
+
+On discharge:
+WBC-7.0 RBC-3.23* Hgb-9.7* Hct-29.5* Plt Ct-273
+Glucose-96 UreaN-82* Creat-1.7* Na-140 K-4.4 Cl-96 HCO3-38*
+AnGap-10
+
+Micro:
+   URINE CULTURE (Preliminary):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------     4 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+
+Brief Hospital Course:
+77F with severe COPD, CHF with EF 25%, CAD who presented with
+worsening dyspnea for the last 2 months and respiratory distress
+necessitating MICU transfer.
+
+# Respiratory distress: Patient has baseline severe emphysema
+with very little reserve. Due to her CHF patient may have
+developed a component of flash pulmonary edema, as evidenced on
+CXR.  She was initiated on NIPPV to support her work of
+breathing and treated with albuterol and ipratropium nebs. She
+was given furosemide and put on a 4 day course of steroids given
+her severe COPD which will end on [**8-19**].  She was weaned down to
+NC 4L with saturations in the low 90s. She has occasional
+desaturations to 70s with increased activity, but would return
+to low 90s with rest.
+
+# Congestive Heart Failure: EF=25% CXR seemed consistent with
+pulmonary edema. she was diuresed with furosemide. She was
+continued on metoprolol. Her lisinopril was held due to her [**Last Name (un) **],
+but will be resumed upon discharge at her rehab facility
+according to creatinine improvement.
+
+# CAD: EKG showed worsening ST depressions in lateral precordial
+leads upon admission to MICU. However troponins were trending
+down, possibly elevation was due to demand ischemia and [**Doctor First Name 48**].
+She ruled out for acute coronary syndrome.
+
+# [**Last Name (un) **]: Pt was found to have an elevated creatine of 1.4 compared
+to the baseline 0.6-0.7. We held her lisinopril and renally
+dosed her medications.
+
+#We had a discussion with the patient who stated her desire to
+be DNR/DNI.
+
+Medications on Admission:
+1. Albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours).
+2. Ipratropium bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours).
+3. Ergocalciferol (vitamin D2) 50,000 unit Capsule Sig: One (1)
+
+Capsule PO 1X/WEEK (TU).
+4. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+8. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily

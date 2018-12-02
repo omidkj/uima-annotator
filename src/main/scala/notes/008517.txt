@@ -1,0 +1,193 @@
+Admission Date:  [**2139-1-12**]              Discharge Date:   [**2139-2-10**]
+
+Date of Birth:  [**2074-8-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Reason for ICU Transfer: Initiation of XRT for NSCLC, Hypoxemic
+Respiratory Failure
+
+Major Surgical or Invasive Procedure:
+XRT
+Bronchoscopy & Biopsy
+
+History of Present Illness:
+Please refer to prior admit note from [**2139-1-12**], pulmonary consult
+note on [**2139-1-14**], MICU Green Note [**1-17**] for full details.
+.
+Briefly, 64M with h/o lung ca s/p left pneumonectomy ([**2125**],
+unknown CA), more recently had w/u of recurrent R lung mass
+(unrevealing medisastinoscopy and paraceliac LN biopsy ([**7-17**]) at
+[**Hospital1 112**].
+.
+[**2138-1-12**] [Floor]: Pt presented ED on [**2139-1-12**] for with productive
+cough, low grade temps, worsening dyspnea, and tachypnea.
+Treated with Levo/Clinda for post-obstructive RLL PNA>
+.
+[**Date range (1) 23890**] [Floor, ICU, Floor, Bronch, ICU]: CT scan revealed
+R hilar cavitating mass with evidence of tree and [**Male First Name (un) 239**] opacities
+of the right lung. Pt subsequently tachypnea to 30s and
+transfered to MICU Green. Clinda/Levo was changed to PCN to
+treat for actinomyces. Pt subsequently called back out to floor
+and underwent Bronch that showed near occlusion of the RUL
+bronchus by  mass and endobronchial bx and transbronchial FNA
+performed. Pt desatted to 80% and remained intubated, transfered
+back to the MICU.
+.
+[**Date range (1) 23891**]: [ICU] Pt placed on Levophed. On [**1-18**] underwent
+repeat Chest CT and started on Vanc/Cefepime/Cipro. Pt given
+increasing doses of IV Lasix and later placed on Dobutamine to
+assist with diuresis. ([**1-19**]) Micafungin, Flaygl added as PCN and
+Cipro d/c'd. ([**1-20**]) Vanc d/c'd as the pt underwent a rigid/flex
+bronch that revealed poorly differentiated NSCLC. Today the
+patient was consulted by Heme-Onc where numerous options were
+presented to the patient (XRT, chemo). The pt initially decided
+against XRT, but later reversed his decision and is now being
+transfered to the [**Hospital Ward Name 516**] to undergo XRT. Prior to transfer
+the pt was hypotensive, started back on Levophed and given IV
+Bolus.
+.
+ROS: congestion, sore throat, chest pain, abdominal pain,
+nausea, vomiting, diarrhea, constipation, BRBPR, melena,
+hematochezia, dysuria, hematuria.
+
+
+Past Medical History:
+PAST MEDICAL & SURGICAL HISTORY: (per admit note)
+# Lung Ca s/p Left Pneumonectomy - first dx [**2125**] s/p radiation
+therapy (no tissue diagnosis known) followed by thoracics (Dr
+[**Last Name (STitle) 17041**] at [**Hospital1 112**] - being evaluated for new right hilar mass s/p
+mediastinoscopy with biopsy without evidence of malignancy of
+note; sputum culture [**7-17**] with actinomyces
+# HTN
+# NIDDM2
+# HL
+# Pituitary Microadenoma
+# Testicular Hypofunction
+# Obesity
+# Angioedema after a dental procedure with negative RAST for l
+
+Social History:
+The patient quit smoking ten years ago but has a 25 pack [**Female First Name (un) **]
+history. He drinks rarely. He is a retired cook. No known
+asbestos exposures or occupational exposures. He lives alone. No
+illicit drug use.
+
+Family History:
+Mother died at age 38 secondary to ovarian carcinoma. Father
+died at age 84 secondary to "heart trouble." He had hypertension
+as well. The patient reports a positive history of malignancy in
+other family members of unknown types. The patient has four
+siblings, all of whom are in reasonably good health.
+
+Physical Exam:
+on Arrival to [**Hospital Unit Name 153**]
+Vitals - T: 99.4 125/94 BP: HR: RR: 02 sat:
+Gen: Intubated, NAD, responding to questions appropriately,
+follows commands
+CV: RRR
+Lungs:  Scattered rhonci on right
+Abd: Soft, normal BS. Nontender
+Ext: 1+ edema
+Neuro: A/O x 3; intubated, responding to voice
+.
+LABS: See below.
+
+
+Pertinent Results:
+[**2139-1-12**] 08:20PM   PLT COUNT-338
+[**2139-1-12**] 08:20PM   NEUTS-69.9 LYMPHS-21.3 MONOS-5.9 EOS-2.5
+BASOS-0.5
+[**2139-1-12**] 08:20PM   WBC-6.3 RBC-4.26* HGB-12.3* HCT-38.2* MCV-90
+MCH-28.9 MCHC-32.2 RDW-14.2
+[**2139-1-12**] 08:20PM   CALCIUM-9.0 PHOSPHATE-3.6 MAGNESIUM-1.7
+[**2139-1-12**] 08:20PM   CK-MB-NotDone
+[**2139-1-12**] 08:20PM   cTropnT-<0.01
+[**2139-1-12**] 08:20PM   CK(CPK)-77
+[**2139-1-12**] 08:20PM   estGFR-Using this
+[**2139-1-12**] 08:20PM   GLUCOSE-70 UREA N-13 CREAT-1.1 SODIUM-140
+POTASSIUM-3.8 CHLORIDE-98 TOTAL CO2-33* ANION GAP-13
+[**2139-1-12**] 08:35PM   PT-14.0* PTT-33.7 INR(PT)-1.2*
+
+CT chest:  [**2139-1-13**]
+1. Right lower lobe cavitary mass, with associated right hilar
+bulky
+lymphadenopathy, highly concerning for recurrent bronchogenic
+malignancy.
+Either the right lower lobe mass, or multiple stations of
+lymphadenopathy in the mediastinum would be amenable to
+bronchoscopic biopsy.
+  2. Extensive peribronchiolar tree-in-[**Male First Name (un) 239**] opacities, small
+nodular and
+ground-glass opacities throughout the right upper lobe, and to a
+lesser degree in the right middle and lower lobes. Findings
+suggest a superimposed infectious process. Infection involving
+the cavitary mass in the right lower lobe superior segment could
+also be considered, along with superinfection of a preexisting
+cavitary mass.
+  3. Subtle thickening of interlobular septae in portions of the
+right upper lobe and superior segment right lower lobe,
+worrisome for lymphangitic carcinomatosis.
+  4. Necrotic-appearing 3 cm left adrenal nodule and enlarged
+1.6 cm left
+paraaortic node worrisome for metastatic disease.
+  5. Secretions and debris in the left mainstem bronchial stump
+may be acting as a nidus for infection.
+
+Cytology:
+Right main stem mass, transbronchial needle aspirate: ATYPICAL.
+Clusters of atypical stripped nuclei and focal necrosis in a
+background of reactive bronchial epithelial cells, (see note.)
+    Note: The atypical nuclei are stripped of their cytoplasm
+and display regular nuclear contours, vesicular chromatin and
+large prominent nucleoli. Please also refer to the concurrent
+endobronchial biopsy S10-964.
+Right mainstem bronchus, endobronchial biopsy: Poorly
+differentiated carcinoma
+
+TTE:
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thickness, cavity size and regional/global
+systolic function are normal (LVEF >55%). The right ventricular
+cavity is moderately dilated with depressed free wall
+contractility. There is abnormal systolic septal motion/position
+consistent with right ventricular pressure overload. The aortic
+root is mildly dilated at the sinus level. The aortic valve
+leaflets are moderately thickened. There is mild aortic valve
+stenosis (valve area 1.2-1.9cm2). No aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen. There is severe pulmonary artery
+systolic hypertension. There is no pericardial effusion
+
+[**2139-1-18**]:
+  1. No evidence of endoluminal filling defects to indicate
+pulmonary embolus.  However, multiple areas of progressive
+narrowing and at least one occlusion of pulmonary arterial
+branches by the infiltrative right hilar mass likely contribute
+to the described symptoms of pulmonary arterial hypertension.
+  2.Interval development of multiple foci of consolidation and
+peribronchiolar opacities in the right middle and upper lobe
+concerning for progressive multifocal pneumonia. Findings were
+called to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+  3. Mild-to-moderate right pleural effusion.
+  4. Diffuse adenopathy and infiltrative mass involving the
+right middle and upper lobe with progressive obstruction of the
+bronchi and pulmonary
+vasculature.
+  5. Changes of left pneumonectomy.
+  6. Enhancing nodule with central hypodensity adjacent to or
+within the left adrenal gland is consistent with either
+metastatic involvement of lymph node or adrenal gland.
+
+[**2139-1-20**] Pathology:
+Right bronchus intermedius mass (for frozen section),
+endobronchial biopsy (A): Poorly differentiated carcinoma.
+Right bronchus intermedius mass, endobronchial biopsy (B):
+Poorly differentiated carcinoma.
+
+[**2139-2-5

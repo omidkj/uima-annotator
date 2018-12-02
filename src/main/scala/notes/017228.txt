@@ -1,0 +1,237 @@
+Admission Date:  [**2124-6-5**]              Discharge Date:   [**2124-6-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+1. Mental status change
+2. Bright red blood per rectum
+3. Hypotension
+
+Major Surgical or Invasive Procedure:
+1. EGD [**2124-6-6**]
+2. EGD [**2124-6-8**]
+
+
+History of Present Illness:
+HPI - This is an 87 y/o female with dementia, HTN, who resides
+at [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] and was found to be hypotensive to BP 73/40,
+"gasping for air" with SaO2 79%/RA. Patient was placed on
+supplemental O2. VS at that time T 97.6, BP 78/43, HR 70, RR 16,
+SaO2 90-95%/oxygen (not documented how much O2), FS 214. Per [**Name (NI) **],
+pt also had BRBPR in diaper with few clots. She was sent to the
+ED for further evaluation.
+
+In the ED, initial VS T 97, BP 104/33, HR 68, RR 24, SaO2 97%/2L
+NC. Exam significant for black, guiac positive stool. Labs
+significant for a Hct of 17.9, WBC 14.2, Cr 2.5. NGL lavage
+negative with 250 cc irrigation. CXR read as RLL infiltrate,
+patient given 750 mg IV levaquin and 1 U PRBCs. Patient also
+pan-cultured. 2 18-guage PIV's were placed. Per ED, GI was made
+aware of patient and will see patient in AM. Patient was then
+transferred to the MICU for further management.
+
+At this time, patient only c/o slight lower abdominal pain, no
+n/v/diarrhea. No CP, SOB, cough, f/c/s. No dysuria. Patient not
+aware of where she is.
+
+
+Past Medical History:
+1. Dementia
+2. NIDDM
+3. Renal insufficiency  (bl Cr 2.0)
+4. Vitamin D deficiency
+5. HTN
+6. ? UC
+7. Iron deficiency anemia
+
+
+Social History:
+Lives at [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] recently, unknown tobacco or EtOH
+history. Reportedly per daughter was at [**Hospital1 2177**] recently although
+unclear why.
+
+Family History:
+NC
+
+Physical Exam:
+VS: Tc 97.0, BP 154/68, HR 81, RR 15, SaO2 100%/2L NC
+General: Pleasant AAF in NAD, AO x 1
+HEENT: NC/AT, b/l cataracts. MM dry, poor dentition
+Neck: supple, no LAD
+Chest: CTA-B, no w/r/r
+CV: RRR s1 s2 normal, [**2-1**] SM throughout (?flow murmur)
+Abd: soft, NT/ND, NABS; rectal with black stool, guiac positive
+
+Ext: no c/c/e, wwp
+Neuro: AO x 1 (person only). Non-focal exam otherwise.
+
+
+Pertinent Results:
+Admit Labs:  [**2124-6-5**]
+
+WBC-14.2* RBC-2.08* Hgb-5.6* Hct-17.9* MCV-86 MCH-26.9*
+MCHC-31.3 RDW-19.4* Plt Ct-426
+
+PT-10.8 PTT-23.6 INR(PT)-0.9
+
+Glucose-258* UreaN-62* Creat-2.5* Na-146* K-4.2 Cl-109* HCO3-25
+AnGap-16
+Calcium-8.1* Phos-5.5* Mg-2.3
+
+calTIBC-200* VitB12-657 Folate-17.4 Ferritn-534* TRF-154*
+TSH-3.8
+
+Discharge Labs:  [**2124-6-12**]
+
+WBC-7.3 RBC-2.86* Hgb-8.4* Hct-25.3* MCV-88 MCH-29.3 MCHC-33.2
+RDW-17.1* Plt Ct-247
+
+Glucose-204* UreaN-84* Creat-2.8* Na-143 K-4.4 Cl-113* HCO3-21*
+AnGap-13
+
+CT HEAD ([**2124-6-4**]): Right cerebral hemispheric chronic subdural
+hematoma or hygroma. No evidence of acute intracranial
+pathology.
+
+CXR ([**2124-6-4**]): Right lower lobe pneumonia and probable left
+lower lobe pneumonia. Background mild pulmonary edema.
+
+ABD ([**2124-6-5**]): No evidence of obstruction.
+
+RUE US ([**2124-6-7**]): No evidence of deep venous thrombosis
+involving the right upper extremity.
+
+EKG ([**2124-6-4**]): Sinus rhythm. Diffuse non-specific ST-T wave
+flattening. Delayed precordial R wave progression. No previous
+tracing available for comparison.
+
+
+Brief Hospital Course:
+1. GIB:
+GI was consulted and took the patient for EGD which showed 2
+duodenal ulcers.   She received 4 units pRBC in first 24 hours
+with appropriate increase in her hct from 17 --> 26.  Iron
+studies were consistent with AOCD despite her history of iron
+deficiency anemia.  She was placed on a PPI due to her EGD.  An
+h.pylori antibody was sent which was positive; eradication
+therapy was begun on [**6-11**].
+
+She had an additional drop in her hematocrit 1 day after her
+EGD, and she was transfused an additional 2u pRBC.  She was
+taken for another EGD on [**6-8**] which showed stable non-bleeding
+duodenal ulcer.  Thereafter her hematocrit was stable with a
+discharge value of 25.3%
+
+2. Pneumonia:
+Initially presented with leukocytosis.  CXR revealed RLL
+infiltrate which was suspicious for a pneumonia.  She was
+treated with 1 week of levofloxacin 250mg; the course was
+completed on [**6-12**].
+
+3. Demential/Delerium:
+Prior discharge summary from [**Hospital1 2177**] documented known dementia.  She
+appeared to have fairly advanced dementia and was not oriented
+to her surroundings or to time.  A head CT showed a chronic SDH
+vs. hygroma with no active issue.  She was started on standing
+haldol with olanzapine PRN; a sitter was used in the ICU but was
+not needed towards the end of the patient's floor stay.
+
+4. Renal failure:
+Cr baseline in the 2s per a discharge summary from [**Hospital1 2177**].  SCr
+fluctuated during the stay.  Urine output remained >600cc/day,
+but the patient needed reminders to continue taking PO.  She
+will likey need outpatient renal follow-up for EPO therapy,
+vitamin D, calcium and phos monitoring and for possible
+discussions of dialysis given that she has stage V CKD.
+
+Medications on Admission:
+1. Lantus 6 U qhs, Novalog SS
+2. ASA 81 mg daily
+3. Labetolol 400 mg [**Hospital1 **]
+4. Hydralazine 50 mg qid
+5. Nifedipine XL 90 mg daily
+6. Clonidine 0.3 mg patch - 2 patches qWed
+7. Ranitidine 150 mg daily
+8. Mirtazipine 15 mg qhs
+9. Bisacodyl 10 mg prn daily prn
+10. MOM prn
+11. [**Name2 (NI) **] 100 mg [**Hospital1 **]
+12. Tylenol prn
+13. Fe Sulfate 325 mg daily
+14. MVI daily
+
+
+Discharge Medications:
+1. Mirtazapine 15 mg Tablet [**Hospital1 **]: One (1) Tablet PO HS (at
+bedtime).
+2. Hydralazine 50 mg Tablet [**Hospital1 **]: One (1) Tablet PO Q6H (every 6
+hours).
+3. Labetalol 200 mg Tablet [**Hospital1 **]: Two (2) Tablet PO BID (2 times a
+day).
+4. Docusate Sodium 100 mg Capsule [**Hospital1 **]: One (1) Capsule PO BID (2
+times a day).
+5. Senna 8.6 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a
+day).
+6. Ferrous Sulfate 325 (65) mg Tablet [**Hospital1 **]: One (1) Tablet PO
+once a day.
+7. Multi-Vitamin     Tablet [**Hospital1 **]: One (1) Tablet PO once a day.
+8. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR PO BID (2 times a day).
+9. Haloperidol 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q6PM ().
+10. Nifedipine 90 mg Tablet Sustained Release [**Last Name (STitle) **]: One (1)
+Tablet Sustained Release PO DAILY (Daily).
+11. Acetaminophen 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+12. Insulin Regular Human 300 unit/3 mL Insulin Pen [**Last Name (STitle) **]: as per
+attached sliding scale units Subcutaneous three times a day.
+13. Amoxicillin 250 mg Capsule [**Last Name (STitle) **]: Two (2) Capsule PO Q24H
+(every 24 hours) for 11 days.
+14. Olanzapine 5 mg Tablet, Rapid Dissolve [**Last Name (STitle) **]: One (1) Tablet,
+Rapid Dissolve PO QHS (once a day (at bedtime)) as needed for
+Agitation.
+15. Clarithromycin 250 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q12H
+(every 12 hours) for 12 days: 11 days plus PM dose on [**6-13**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1186**] - [**Location (un) 538**]
+
+Discharge Diagnosis:
+Primary:
+1. Upper gastrointestinal bleed, likey from duodenal ulcer
+2. Anemia, acute blood loss
+3. Helicobacter pylori postive
+4. Pneumonia, community acquired
+5. Delirium
+
+Secondary:
+1. Right cerebral hemispheric chronic subdural hematoma
+2. Chronic Kidney Disease Stage V
+3. Diabetes Mellitus Type II
+4. Hypertension
+
+
+Discharge Condition:
+Hemodynamically stable with stable hematocrit.
+
+
+Discharge Instructions:
+You were admitted with gastrointestinal bleeding from a duodenal
+ulcer and pneumonia.  Please continue to take lansoprazole twice
+daily until told to stop by a doctor.  Please avoid taking
+anti-inflammatory medications (Aleve, Advil, Ibuprofen, Motrin)
+as this may exacerbate your ulcer.
+
+The most likely cause of your ulcer was infection with h.pylori.
+ Given this, you are to be treated with antibiotics for a total
+of 2 weeks.  Please be sure to take this, as prescribed.
+
+I

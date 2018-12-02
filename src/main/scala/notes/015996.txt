@@ -1,0 +1,218 @@
+Admission Date:  [**2122-12-8**]              Discharge Date:   [**2122-12-16**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1162**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+86 yo w/ pmh of h/o breast ca, htn, w/ increasing confusion over
+few days noted by neighbors. Also c/o abdominal pain. Brought by
+EMS to [**Hospital1 18**] ED. Initially alert but non-verbal and unable to
+answer questions in ED. Initial vitals in the ED: 93.8, 76,
+110/68, 16, 98RA, lactate of 4.7. Code sepsis called and early
+goal directed therapy was intiated. A RIJ placed with CVP of 8
+(per ED resident). Given 2L IVF. Due to elevated lactate and
+question of mesenteric ischemia with exam finding of a diffusely
+tender abdomen she was evaluated by surgery. They felt pt. did
+not have an acute abdomen and that there was no indication for
+abd CT. Repeat lactate improved to 2.4 then 2.0. Per [**Name (NI) **], pts.
+mental status improved with fluids. UA shows >50 WBC, mod leuks,
+many bacteria. Pt. started on cipro/flagyl. Notable labs: WBC of
+17.5, bun/crt of 51/2.8, AP 884, lipase 151. Prior to arrival in
+the [**Name (NI) 153**], pt. had pulled her RIJ.
+
+Past Medical History:
+breast ca
+HTN
+hyperlypidemia
+?depression/anxiety
+
+
+Social History:
+lives independently. does her own [**Name (NI) 5669**],  son is next of [**Doctor First Name **].
+
+Family History:
+nc
+
+Physical Exam:
+Admission exam:
+Vitals: 96.6, 100/68, 77, 20, 100RA
+gen: awake alert, but not oriented. NAD
+heent: very dry mucous membranes
+cvs: III/VI mid-peaking SEM at RUSB, III/VI SEM at LLSB
+pulm: expiratory wheezes anteriorly, decreased BS bilaterally at
+the bases, otherwise clear to auscultation.
+abd: diffusely mildly tender throughout, ? more tender RUQ.
+soft. normoactive bowel sounds. mildly distended.
+back: ? L CVA tenderness.
+GU: foley in place.
+ext: thin, non-adematous.
+neuro: AA0 x 0, moves all extremities.
+
+
+Pertinent Results:
+Admit labs
+[**2122-12-8**] 07:40PM BLOOD WBC-17.1*# RBC-4.96 Hgb-14.8 Hct-44.3
+MCV-89 MCH-29.8 MCHC-33.4 RDW-13.7 Plt Ct-265#
+[**2122-12-8**] 07:40PM BLOOD PT-15.3* PTT-24.4 INR(PT)-1.4*
+[**2122-12-8**] 07:40PM BLOOD Glucose-186* UreaN-51* Creat-2.8*# Na-135
+K-4.1 Cl-94* HCO3-22 AnGap-23*
+[**2122-12-8**] 07:40PM BLOOD ALT-9 AST-17 CK(CPK)-21* AlkPhos-884*
+Amylase-97 TotBili-0.6
+[**2122-12-8**] 07:40PM BLOOD Lipase-151*
+[**2122-12-8**] 07:40PM BLOOD cTropnT-<0.01
+[**2122-12-8**] 07:40PM BLOOD Albumin-3.9 Calcium-8.7 Phos-3.9 Mg-2.1
+[**2122-12-8**] 09:13PM BLOOD Lactate-4.7*
+
+CT OF THE HEAD WITHOUT CONTRAST
+[**2122-12-8**]
+TECHNIQUE: Non-contrast head CT.
+FINDINGS: Examination of the brain is somewhat limited by
+massively thickened calvarium. The visualized portions of the
+brain appear unremarkable. No acute hemorrhage is identified.
+The density values of the brain parenchyma appear maintained.
+There is no shift of normally midline structures or
+hydrocephalus.
+The entire cranial vault, skull base, and visualized facial
+bones are markedly thickened and irregular with areas of small
+lucency. Normal trabeculae are not identified. No destructive
+bony lesions are seen.
+The visualized portions of C1 and C2 vertebral bodies are
+unremarkable. The mastoid air cells are aerated. The right
+maxillary sinus is clear. The left maxillary sinus is partially
+opacified. Similarly, there is partial opacification of the
+ethmoid air cells. There is complete opacification and
+obliteration of the sphenoid sinus.
+IMPRESSION:
+1. No definite acute intracranial hemorrhage.
+2. Massive thickening of the skull. This likely represent
+Paget's disease.
+
+ECHO [**2122-12-10**]
+Conclusions
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses and cavity size are normal. Left ventricular
+systolic function is hyperdynamic (EF>75%). Tissue Doppler
+imaging suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). There is a mild resting left ventricular outflow
+tract obstruction. Right ventricular chamber size and free wall
+motion are normal. The number of aortic valve leaflets cannot be
+determined. The aortic valve leaflets (3) are mildly thickened.
+There is mild aortic valve stenosis (area 1.2-1.9cm2). No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. No mitral
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. There is no pericardial effusion.
+IMPRESSION: Suboptimal images (no short axis images).
+Hyperdynamic LV function with mild resting LVOT gradient and
+mild aortic stenosis. Probable diastolic dysfunction.
+
+URINE CULTURE (Final [**2122-12-10**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+
+Brief Hospital Course:
+1. E. coli UTI/urosepsis -- Initially admitted to the [**Hospital Unit Name 153**],
+treated with ciprofloxacin and flagyl.  She responded well and
+was transferred to the medical floor for further care.  IV
+ciprofloxacin was continued secondary to poor po intake related
+to mental status changes.  She will continue a 10 day course of
+cipro IV with the last dose to be given on [**2122-12-19**].  A repeat
+urine cx was obtained on the above antibiotic regimen which was
+negative.  She had a foley placed during her initial ICU stay
+that was subsequently removed. She has remained afebrile without
+leukocytosis for the last 5 days of admission.
+
+2. Altered mental status -- Independed of all ADLs prior to
+arrival.  Very hard of hearing, thought to contribute to her
+difficulty communicating.  She slowly improved during the course
+of the admission.  On the day prior to discharge a family
+meeting was held and the patient's son felt that she was about
+back to her baseline.  He remarked that communication with her
+is difficult and sometimes she needs to have things written down
+due to her poor hearing.  It is unclear if the patient is
+stubborn and doesn't want to respond to the staff because when
+her son appeared she was responsive to his questions.
+
+4. Paget's disease--patient was treated with tylenol for pain
+
+5. HTN--patient's bp meds were initially held on admission and
+lopressor was added back at 25mg po bid for adequate control.
+The patient has been intermittently refusing meds and or
+cheeking them so it is important that the nurses monitor her
+swallowing the pills.
+
+6.  Breast ca--patient was continued on her tamoxifen.
+
+
+Medications on Admission:
+atenolol, lipitor, tamoxifen
+
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day).
+
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Tamoxifen 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+4. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Mirtazapine 15 mg Tablet Sig: 0.5 Tablet PO QHS (once a day
+(at bedtime)) as needed for insomnia.
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+7. Ciprofloxacin 400 mg/40 mL Solution Sig: One (1)  Intravenous
+Q24H (every 24 hours) for 3 days.
+8. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+Inhalation Q6H (every 6 hours) as needed.
+9. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1186**] - [**Location (un) 538**]
+
+Discharge Diagnosis:
+urosepsis
+altered mental status
+breast cancer
+COPD
+
+
+Discharge Condition:

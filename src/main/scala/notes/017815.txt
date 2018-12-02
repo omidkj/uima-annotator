@@ -1,0 +1,205 @@
+Admission Date:  [**2197-5-17**]              Discharge Date:   [**2197-5-25**]
+
+Date of Birth:  [**2125-10-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics) / Tetracycline Analogues /
+Tussionex
+
+Attending:[**First Name3 (LF) 4095**]
+Chief Complaint:
+Worsening dyspnea and atrial fibrillation
+
+Major Surgical or Invasive Procedure:
+BiPap
+
+History of Present Illness:
+71M h/o COPD, afib on A/C, CAD, HTN, hypercholesterolemia,
+pericarditis in [**2192**] presenting with 2 week history of worsening
+SOB, increased cough, and increased sputum production. The
+patient says his exercise tolerance has decreased significantly:
+he was previously able to walk a few blocks, but in the past 2
+weeks became SOB just walking to the bathroom. He said he had
+some R sided chest pain at the end of his cough, no cp on
+exertion. He also noted increasing edema in his legs
+bilaterally. He also said he had a "pressure" feeling in his
+head, which he associates with a fib. Denies fever/chills/night
+sweats, no n/v/d. He saw his PCP on [**Name9 (PRE) 766**] [**5-15**] and was started
+on steroids and lasix. No significant improvement since that
+time, so he came into the ED. Found to be in afib or MFPAC.
+Recieved 20mg dilt and 1 combivent neb PTA by EMS. Triggered for
+HR on arrival at 145, no chest pain but SOB. Neb and BIPAP for
+RR40 now 15 . HR 110, 02 sats have been 96% throughout. Chest
+x-ray bilateral pna lower lobes, bedside ultrasound, no
+pericardial effusion, troponin negative.
+
+In the ED, initial VS were:
+ HR 145 BP 120/98 RR 40 POx 98% on RA
+
+Past Medical History:
+- COPD, predominantly emphysema with 80-pack year smoking
+history and current tobacco use
+ - diagnosed with pericarditis [**1-/2193**] at [**Hospital1 112**]. He had multiple
+episodes of paroxysmal atrial fibrillation around that time. He
+reports these did not return after his pericarditis resolved and
+
+he has been off anticoagulation since [**2193**]
+- osteoperosis: s/p vertebral fracture in [**2196-8-20**], and
+subsequent rib fracture after that. Was in rehab for several
+months, discharged in [**Month (only) **]/[**2197-1-19**].
+ - Depression
+ - Restless leg syndrome
+ - Chronic venous insufficiency
+ - Diverticulosis
+ - Previous subarachnoid hemorrhage with clipping of cerebral
+aneurysm in [**2178**]
+ - Melanoma removed from his back
+ - Basal cell carcinoma
+ - Hyperlipidemia
+ - Inguinal hernia repair [**2193**]
+
+Social History:
+He lives alone in [**Location (un) 3146**]. He is currently trying to quit
+smoking, is down 5 cigarrettes per week now. A couple years ago
+he was smoking 2 packs per day. Occasional alcohol. No illicit
+drugs.
+
+
+Family History:
+No family history of COPD.
+
+Physical Exam:
+On admission [**2197-5-17**]
+General: Alert, oriented, on BIPAP mask, able to talk but coughs
+frequently (dry cough).
+HEENT: Sclera anicteric, MMM, EOMI, PERRL
+Neck: supple, JVP elevated to 15 cm
+CV: irreguarly irregular rate, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: diffusely wheezy, B/l basilar crackles, R > L
+Abdomen: soft, non-distended, bowel sounds present, no
+organomegaly, no tenderness to palpation, no rebound or guarding
+
+GU: no foley
+Ext: Warm, well perfused, 2+ pulses, 2+ edema in legs
+Neuro: CNII-XII intact.
+.
+Discharge Exam:
+Afebrile. HR 60-90s at rest, low 100s with exertion. 16 98%2L
+Occasional pursed lips otherwise NAD, short sentences no
+accessory muscle use
+Lungs: Much improved airmovement with very scant wheezes, no
+rales or rhonchi.
+Ext: 1+ pedal edema.
+
+
+Pertinent Results:
+ADMISSION LABS
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2197-5-24**] 07:15    11.4* 4.05* 11.8* 37.0* 92 29.1 31.8 14.3
+424
+[**2197-5-23**] 07:20    11.9* 3.96* 11.5* 36.6* 93 29.1 31.4 14.3
+420
+[**2197-5-22**] 00:00    12.6* 3.85* 11.3* 35.2* 91 29.4 32.1 14.9
+412
+[**2197-5-20**] 07:58    12.9* 4.13* 12.0* 38.3* 93 29.0 31.3 14.1
+427
+[**2197-5-19**] 05:11    9.4 3.49* 10.5* 32.1* 92 30.1 32.7 14.2 318
+[**2197-5-17**] 23:47    8.5 4.19* 12.3* 38.1* 91 29.3 32.2 14.8 331
+[**2197-5-17**] 16:25    7.4 3.90* 11.8* 36.0* 92 30.3 32.8 14.4 306
+.
+ BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2197-5-24**] 07:15        424
+[**2197-5-24**] 07:15    18.0*     1.7*
+[**2197-5-23**] 07:20        420
+[**2197-5-23**] 07:20    20.9*     2.0*
+[**2197-5-22**] 00:00        412
+[**2197-5-20**] 07:58        427
+[**2197-5-20**] 07:58    46.2* 44.9*   4.6*
+[**2197-5-19**] 16:55    45.5* 41.6*   4.5*
+[**2197-5-19**] 05:11        318
+[**2197-5-18**] 12:49    41.2* 41.6*   4.0*
+.
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2197-5-24**] 07:15    851 29* 0.9 139 4.6 101 29 14
+[**2197-5-23**] 07:20    881 29* 0.9 141 4.1 101 32 12
+[**2197-5-22**] 00:00    941 26* 0.8 141 4.3 103 30 12
+[**2197-5-20**] 07:58    981 25* 0.8 141 4.8 104 26 16
+[**2197-5-19**] 05:11    128*1 26* 0.8 139 4.2 105 26 12
+[**2197-5-18**] 12:49          140 4.0 106
+[**2197-5-17**] 23:47    135*1 22* 1.0 143 3.6 105 24 18
+ADDED
+[**2197-5-17**] 16:25    147*1 20 0.8 140 4.0 105 22 17
+.
+CPK ISOENZYMES CK-MB cTropnT proBNP
+[**2197-5-17**] 23:47    3 <0.011
+ADDED
+[**2197-5-17**] 16:25      <0.011
+LIGHT GREEN TUBE
+[**2197-5-17**] 16:25        3580*2
+.
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+[**2197-5-20**] 07:58          8.5 2.6* 2.3
+[**2197-5-19**] 05:11          7.6* 2.2* 2.4
+[**2197-5-17**] 23:47      3.7   7.6* 2.2* 1.9
+.
+HISTORY:  Rib deformities, assess possible fracture.
+
+TECHNIQUE:  Multidetector helical scanning of the chest was
+performed without intravenous contrast [**Doctor Last Name 360**], reconstructed as
+contiguous 5- and 1.25-mm thick axial and 5-mm thick coronal and
+parasagittal images compared to chest CTA, [**2195-10-23**],
+read in conjunction with conventional chest radiograph earlier
+on [**5-17**].
+
+FINDINGS:
+Several right rib fractures are chronic, generally healed, aside
+from what may be a solitary pseudoarthrosis, which is sometimes
+a source of pain.  There is no suggestion that these are
+pathologic fractures and there is no associated abnormality in
+either the chest wall or adjacent pleura. The patient has had an
+interim vertebral body cementoplasty in the lower thoracic
+spine.
+Emphysema is mild-to-moderate in the lung apices, less severe
+elsewhere.
+Bronchiolar nodulation is widespread, sparing only the lung
+apices.  A small discrete region of consolidation in the
+lingula, 3:31, a second region in the right middle lobe, 3:43,
+and a paraspinal component low in the rightr hemithorax are
+probably pneumonia, but should be followed, using conventional
+radiographs, until substantially cleared.  Subcentimeter lung
+nodules, slightly larger than what one would expect for
+bronchiolar inflammation should be monitored with repeat chest
+CT in six months, for example, in the right middle lobe, 4:124,
+and a nearly 6-mm wide nodule in the left lower lobe, 4:161.
+Bronchial wall thickening is extensive, mild ectasia of
+peripheral small bronchioles is scattered.  Numerous central
+lymph nodes are top normal mildly enlarged, have grown, for
+example, an 7 x 17 mm left upper paratracheal node was 8 x 11 mm
+in [**2195-10-21**] and a 13 x 17 mm right hilar node, 2:25, was
+previously 9 x 14 mm.  Mild enlargement of the main and
+intrapericardial right pulmonary arteries, 34 and 28 mm wide
+respectively is stable.  There is no pericardial or pleural
+abnormality.  Small hiatus hernia is stable. The esophagus is
+air filled and not particularly dilated, throughout, also
+unchanged.
+IMPRESSION:
+1.  Widespread bronchiolitis and probable multifocal pneumonia
+may be related to aspiration, given the presence of a hiatus
+hernia and a patulous esophagus.
+2.  Worsened, mild central adenopathy, probably reactive.
+3.  At least two subcentimeter lung nodules should be evaluated
+with repeat chest CT scanning in six months, but multifocal
+pneumonia should be reevaluated with conventional chest
+radiograph in six weeks in order to document substantial
+clearing.
+4.  Multiple right rib fractures are chronic, and largely
+healed.
+
+CXR [**2197-5-17**]
+CLINICAL HISTORY:  COPD with short of breath.  Assess for
+pneumonia.
+FINDINGS:  AP upright portable chest radiograph is obtained.
+There are

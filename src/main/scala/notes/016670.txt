@@ -1,0 +1,188 @@
+Admission Date:  [**2166-11-13**]              Discharge Date:   [**2166-11-20**]
+
+
+Service: MEDICINE
+
+Allergies:
+Coumadin / Aspirin / Nsaids
+
+Attending:[**First Name3 (LF) 800**]
+Chief Complaint:
+Altered Mental Status
+
+Major Surgical or Invasive Procedure:
+Intubation [**2166-11-13**]
+Extubation [**2166-11-15**]
+
+History of Present Illness:
+Patient is an 86 year old male with past medical history of
+atrial fibrillation, not on anticoagulation, coronary artery
+disease, COPD, chronic renal insufficiency, and recent resection
+of transitional cell carcinoma who was found to be less
+responsive today at his nursing home. Per report from the
+emergency room, at baseline, patient has been confused at times
+confused but conversant. Today patient was only responsive to
+some commands and noxious stimuli.
+.
+Upon arrival to the [**Hospital1 18**] emergency room, his presenting vital
+signs were 98.2, HR 76, BP 117/71, RR 18, and 100% on NRB. Per
+discussion with emergency room staff, his mental status was so
+poor there was considerable concern for airway protection, so he
+was intubated. An ABG was completed after intubation on 100%
+FiO2, which was 7.34 pCO2
+54 pO2 440 HCO 30. A chest x-ray was completed, which was
+concerning for possible RLL infiltrate. He received vancomycin
+and zosyn. He also received a total of 2 liters of normal
+saline. A head CT was completed which was negative for any acute
+pathology. A CT of the abdomen and pelvis was also completed as
+noted below. Blood and urine cultures were obtained. Per ED
+notes, patient had transient hypotension after intubation,
+resolved with IVFs. Bedside echocardiogram done without good
+visualization, but no pericardial fluid visualized.
+.
+Upon arrival to the floor, patient was noted to be moving
+extremities in response to tactile stimuli and calling of name.
+.
+History is obtained from ED, chart review, discussion with son,
+and nursing home attending physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) 24202**], as
+patient is unable to provide any history.
+
+
+Past Medical History:
+- Bladder cancer with metastatasis, recent cystoscopy.
+- Chronic renal disease
+- Chronic obstructive pulmonary disease
+- History of asbestosis with intermittent oxygen use
+- Atrial fibrillation not on anticoagulation due to GI bleeding
+- Congestive heart failure with systolic ejection fraction of
+50-55% in [**9-/2166**]
+- Hypertension
+- Hyperlipidemia
+- GERD
+- Prostatitis
+- Anemia, on Procrit
+
+
+Social History:
+Patient has been [**Street Address(1) 61496**] Place for the last month, being
+transitioned there with support from his son. [**Name (NI) 3003**] to that,
+according to his son, he had been living at home. By report, he
+does not smoke or drink alcohol. He is a retired [**Location (un) 86**] police
+officer.
+
+Family History:
+Per chart notes, remarkable for coronary artery disease.
+
+Physical Exam:
+On Admission:
+Temperature 96.7, Heart rate 73, Blood pressure 129/69,
+Respiratory rate 16, 94% on FiO2 40%
+General: Intubated, sedated, moving arms and legs spontaneously
+at times.
+HEENT: NC/AT. Slightly dry mucous membranes. PERRL. No scleral
+icterus or conjunctival pallor.
+Neck: Supple, difficult to assess JVP in setting of ventilator,
+but appears flat.
+CV: Irregularly irregular, distant heart sounds, no clear m/g/r
+Lungs: Transmitted upper airway noises, occasional rhonchi, no
+wheezes
+Abdomen: Soft, ND, +BS, no HSM appreciated
+Extr: Warm, excoriations over both lower extremities. Trace
+edema of feet. No clubbing or cyanosis.
+Neuro: Moves all extremities spontaneously. PERRL. Moves when
+name is called, withdrawals all extremities to noxious stimuli.
+Skin: Excoriations over lower extremities as noted, over left
+shoulder.
+
+
+Pertinent Results:
+[**2166-11-13**] 11:55PM   TYPE-ART PO2-103 PCO2-47* PH-7.38 TOTAL
+CO2-29 BASE XS-1
+[**2166-11-13**] 09:34PM   TYPE-ART PO2-109* PCO2-44 PH-7.41 TOTAL
+CO2-29 BASE XS-2
+[**2166-11-13**] 09:34PM   GLUCOSE-93 LACTATE-0.3* NA+-142 K+-3.8
+CL--108
+[**2166-11-13**] 09:34PM   HGB-10.3* calcHCT-31 O2 SAT-99 CARBOXYHB-1
+MET HGB-0
+[**2166-11-13**] 09:34PM   freeCa-1.17
+[**2166-11-13**] 07:50PM   CK(CPK)-35*
+[**2166-11-13**] 07:50PM   CK-MB-NotDone cTropnT-0.08* proBNP-6213*
+[**2166-11-13**] 07:50PM   DIGOXIN-<0.2*
+[**2166-11-13**] 07:50PM   DIGOXIN-<0.2*
+[**2166-11-13**] 07:50PM URINE  HOURS-RANDOM
+[**2166-11-13**] 07:50PM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2166-11-13**] 03:15PM   GLUCOSE-111* UREA N-35* CREAT-1.6* SODIUM-145
+POTASSIUM-4.7 CHLORIDE-109* TOTAL CO2-30 ANION GAP-11
+[**2166-11-13**] 03:15PM   ALT(SGPT)-10 AST(SGOT)-16 ALK PHOS-100 TOT
+BILI-0.7
+[**2166-11-13**] 03:15PM   TOT PROT-5.1* CALCIUM-9.3 PHOSPHATE-3.7
+MAGNESIUM-2.0
+[**2166-11-13**] 03:15PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2166-11-13**] 03:15PM   TYPE-ART PO2-440* PCO2-54* PH-7.34* TOTAL
+CO2-30 BASE XS-2
+[**2166-11-13**] 03:08PM   GLUCOSE-107* NA+-143 K+-4.7 CL--104 TCO2-28
+[**2166-11-13**] 02:33PM   LACTATE-1.5
+[**2166-11-13**] 02:25PM   GLUCOSE-100 UREA N-34* CREAT-1.7* SODIUM-145
+POTASSIUM-5.1 CHLORIDE-109* TOTAL CO2-29 ANION GAP-12
+[**2166-11-13**] 02:25PM   estGFR-Using this
+[**2166-11-13**] 02:25PM   CK(CPK)-69
+[**2166-11-13**] 02:25PM   cTropnT-0.10*
+[**2166-11-13**] 02:25PM   CK-MB-NotDone
+[**2166-11-13**] 02:25PM   WBC-4.7 RBC-3.43* HGB-10.7* HCT-32.2* MCV-94
+MCH-31.1 MCHC-33.2 RDW-15.4
+[**2166-11-13**] 02:25PM   NEUTS-64.5 LYMPHS-23.0 MONOS-4.8 EOS-7.2*
+BASOS-0.5
+[**2166-11-13**] 02:25PM   PLT COUNT-171
+[**2166-11-13**] 02:25PM   PT-14.0* PTT-24.0 INR(PT)-1.2*
+
+
+Brief Hospital Course:
+Patient is an 86 year old male with past medical history of
+coronary artery disease status post bypass, atrial fibrillation,
+chronic renal insufficiency, COPD, and bladder cancer who
+presents from a nursing home with altered mental status,
+intubated in the ED for airway protection.
+
+#) Transitional cell carcinoma/ hematuria: Patient had recent
+surgery for removal of transitional cell carcinoma. Per
+discussion with son and [**Name2 (NI) 80283**] at the nursing home, patient
+had had hematuria requiring re-admission. At time of admission,
+patient was making good urine, however was noted to have dark
+maroon colored urine with significant hematuria. Urology was
+consulted the morning after admission, and in light of his
+recent carcinoma resection, continuous bladder irrigation was
+recommended and initiated. Pt continued to have CBI even while
+on the floor. This was continued until his urine was no longer
+bloody grossly on appearance, and was then discontinued upon
+urology recommendations. His foley was also discontinued, and
+the patient continued to have dark red urine. Urology said this
+is expected with foley removal from dislodging clots. Pt was
+watched overnight. The next morning the patient still had
+hematuria, and Urology saw the patient. They were not concerned
+and thought he should continue to improve since the clots have
+become very infrequent. The foley was replaced so that these
+final clots can be irrigatated and the patient is expected to
+get better over the next week.
+It is expected that the patient will continue to have hematuria
+at time of discharge.
+- foley should be kept in for at least 3 days, if the patients
+urine returns to completely yellow it can be taken out at that
+time, but the foley may be kept in place if pt continues to have
+hematuria.
+- please irrigate foley any time patient has blood clots or
+urinary obstruction in the foley
+- only if the clots become so severe that the urinary retention
+does not improve from flushing the foley, or the urine becomes
+very thick like tomatoe paste, only then should he return to the
+hospital, and to call the patient's primary Urologist
+
+#) Altered mental status: It was unclear what prompted the
+patient's acute mental status change. Based on his initial
+arterial blood gas post-intubation, it was supsected that there
+was some degree of carbon dioxide retention secondary to his
+COPD, which may have contributed in the setting of an infection.
+Potential sources of infection included pulmonary given that his
+CT appeared possibly consistent with an aspiration event,
+urinary given his recent 

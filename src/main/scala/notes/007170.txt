@@ -1,0 +1,206 @@
+Admission Date:  [**2117-8-20**]              Discharge Date:   [**2117-8-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 832**]
+Chief Complaint:
+fever and chills
+
+Major Surgical or Invasive Procedure:
+central venous line placement
+
+
+History of Present Illness:
+This is an 86 year old male with a history of multiple urethral
+strictures secondary to childhood bladder infections with recent
+Foley placement presenting with fevers and rigors. Mr [**Known lastname 97883**]
+was most recently seen on [**8-10**] by urology for nocturia
+and decreased force of urine stream. This was thought to be
+secondary to an old residual urethral stricture from TURP for
+BPH performed nearly 30 years ago. He has required dilations of
+his urethra periodically over the past several decades but had
+not had any dilations in the past five years. Cystoscopy in the
+urology clinic for evaluation of his nocturia and decreased
+urine stream on [**8-12**] revealed an impassable stricture which was
+dilated and subsequently a Foley was placed. He was initiated on
+finasteride in addition to his usual Hytrin dose. He was
+instructed to remove his Foley on [**8-13**] following the procedure
+however he failed to deflate the balloon, resulting in
+hematuria, with clots, penile pain, and difficulty with
+urination. He was seen in the ED for the above; urology was
+consulted who replaced a foley with improvement in bleeding - he
+was discharged home with Foley in place. He was seen in urology
+clinic 1 day prior to admission (on [**8-19**]) when Foley was removed
+without incident. On afternoon of admission, patient complained
+of fevers and chills with dysuria and blood noted in urine. He
+presented to the ED with these complaints. Vitals in the ED
+showed Tmax of 103, HR of 110, BP 80/40. Two 18 gauge IVs were
+placed and 3 Ls of fluids were given with BP remaining in 80s.
+He was started on peripheral norepinephrine for pressor support.
+A right-sided IJ was placed. Initial chest x-ray revealed that
+central line was too high in position. Urine analysis revealed
+pyuria with urine cultures pending. He received vancomycin and
+zosyn. He also received an abdominal CT to look for source of
+infection. Given his hypotension, he was transferred to the MICU
+for observation. In the ICU he was noted to have BPs in the 90s
+systolic on norepinehrine, with heart rates in the 60s, and was
+afebrile. He had no complaints.
+
+
+Past Medical History:
+HTN
+Bradycardia - with primary AV block s/p AICD and pacer placement
+
+Recurrent urethral strictures [**12-29**] childhood infection
+Mild systolic dysfunction - EF of 40-45% on Echo in [**2110**]
+
+
+Social History:
+Denies smoking, alcohol use, recreational drug use. Lives at
+home with wife.
+
+Family History:
+Father died of CVA; sister has [**Name (NI) 4278**].
+
+Physical Exam:
+BP 93/49, HR 70, afebrile, RR 12, SpO2 98% RA
+Gen: Caucasian male, pleasant, in no apparent distress
+HEENT: Anicteric, EOMI, PERRL, oropharynx clear
+Cardiac: Nl s1/s2, RRR
+Pulm: lungs clear bilaterally, no wheezes or rales appreciated
+Abd: soft, nontender, no suprapubic tenderness
+Ext: no edema noted
+Prostate exam: per ED - nontender
+
+
+Pertinent Results:
+Admission Labs:
+[**2117-8-20**] 02:00PM BLOOD WBC-6.4 RBC-3.56* Hgb-11.8* Hct-33.8*
+MCV-95 MCH-33.2* MCHC-34.9 RDW-13.6 Plt Ct-161
+[**2117-8-20**] 02:00PM BLOOD Neuts-91.8* Lymphs-5.4* Monos-0.5*
+Eos-1.9 Baso-0.4
+[**2117-8-20**] 02:00PM BLOOD Glucose-97 UreaN-28* Creat-1.5* Na-138
+K-4.4 Cl-102 HCO3-23 AnGap-17
+[**2117-8-20**] 02:00PM BLOOD ALT-23 AST-38 AlkPhos-50 TotBili-0.5
+[**2117-8-20**] 02:00PM BLOOD Lipase-43
+[**2117-8-20**] 09:04PM BLOOD Phos-2.2* Mg-2.0
+[**2117-8-20**] 09:23PM BLOOD Type-CENTRAL VE pH-7.34*
+Comment-GREEN-TOP
+[**2117-8-20**] 02:44PM BLOOD Lactate-1.2
+.
+Micro:
+[**2117-8-20**] 02:00PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.008
+[**2117-8-20**] 02:00PM URINE Blood-LG Nitrite-NEG Protein-25
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-MOD
+[**2117-8-20**] 02:00PM URINE RBC->50 WBC-[**10-16**]* Bacteri-FEW Yeast-NONE
+Epi-[**1-29**]
+.
+   URINE CULTURE (Final [**2117-8-24**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    >100,000
+ORGANISMS/ML..
+      ESCHERICHIA COLI.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------             =>32 R
+AMPICILLIN/SULBACTAM--                4 S
+CEFAZOLIN-------------              <=4 S
+CEFEPIME--------------              <=1 S
+CEFTAZIDIME-----------              <=1 S
+CEFTRIAXONE-----------              <=1 S
+CIPROFLOXACIN---------              =>4 R
+GENTAMICIN------------ <=0.5 S      <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------           <=0.25 S
+NITROFURANTOIN--------    32 S     <=16 S
+OXACILLIN-------------<=0.25 S
+PIPERACILLIN/TAZO-----              <=4 S
+TETRACYCLINE----------   <=1 S
+TOBRAMYCIN------------              <=1 S
+TRIMETHOPRIM/SULFA----              <=1 S
+VANCOMYCIN------------     1 S
+.
+Discharge Labs:
+[**2117-8-26**] 07:15AM BLOOD WBC-9.5 RBC-3.40* Hgb-11.5* Hct-33.6*
+MCV-99* MCH-33.7* MCHC-34.1 RDW-13.7 Plt Ct-232
+[**2117-8-26**] 07:15AM BLOOD Glucose-100 UreaN-12 Creat-1.0 Na-137
+K-4.1 Cl-104 HCO3-25 AnGap-12
+[**2117-8-26**] 07:15AM BLOOD Calcium-9.4 Phos-2.9 Mg-2.0
+
+Brief Hospital Course:
+86yo M with urethral stricture and urinary retention presented
+to the ED [**2117-8-20**] with sepsis secondary to UTI, requiring
+pressors for 2 days in the MICU. When off pressors and
+hemodynamically stable, transferred to general medical floor.
+.
+# Hypotension: Resolved. Patient recieved a total of 7-8L IVF
+during MICU stay. He had been off pressors for over 24 hours
+before being transfered to the floor. When he arrived on the
+general medicine floor, his pressures were 140s systolic. His
+home terasozina and anti-hypertensives were re-started one at a
+time as tolerated. His Lasix was not re-inititaed this
+admission. Pt did not show any signs of volume overload. Volume
+status should be re-evaluated, and Lasix can be re-started at
+the discression of PCP.
+.
+#UTI: Urine growing E. Coli and CoNS. Abx initially narrowed to
+vancomycin and ceftriaxone. Sensativities showed E. coli
+sensative to TMP/SMX and amoxacillin-clavulonate. CoNS were
+sensative to oxacillin and tetracyclines. He was transitioned to
+a po regimen of doxycycline and TMP/SMX on day 4 of admission.
+Will treat for a total of 14 days for complicated UTI.
+.
+# Hypoxia ?????? Patient initially presented with new O2 requirement
+in setting of sepsis and atelectasis on CXR, now resolved. Pt
+encouraged to use incentive spirometry and sit upright, OOB to
+chair. Albuterol PRN was needed rarely. Pt saturating well
+(mid-90s) on room air at the time of discharge.
+.
+# Acute renal failure - Resolved after agressive hydration.
+Likely [**12-29**] sepsis, prerenal disease, or a combination of these 2
+factors given poor PO intake at home. Pt taking good po at the
+time of discharge.
+.
+# Recurrent urethral strictures - Per Urology, keep foley in
+place for at least 2 weeks to allow bladder time to heal. Pt
+will f/u with Dr. [**Last Name (STitle) **] as outpatient.
+.
+# Anemia: Baseline Hgb appears to be 12s. Likely [**12-29**]
+hematuria/urethral trauma. H/H has been stable throughout
+hospital course.
+.
+# History of bradycardia/primary AV block: Has AICD/pacer in
+place. No bradycardia observed during hospital course.
+.
+# Hyperlipidemia - Home Crestor was restarted on transfer to
+medicine floor.
+
+
+Medications on Admission:
+1. Furosemide 40 mg daily
+2. Hytrin 5 mg qpm
+3. lisinopril 10 mg qAM
+4. Toprol XL 25 mg daily
+5. Nasonex 50 mcg spray
+6. KCL 20 mEq Tab daily
+7. Crestor 40 mg daily
+8. Sildenafil 50 mg PRN
+9. terazosin 5 mg daily
+10. tramadol 50 mg daily PRN
+11. tramadol - acetaminophen 37.5 mg-325 mg Tablet [**Hospital1 **] PRN
+12. aspirin 81 mg daily
+13. multivitamin daily
+14. naproxen 440 mg qPM
+
+
+Discharge Medications:
+1. Aspirin 81 mg Ta

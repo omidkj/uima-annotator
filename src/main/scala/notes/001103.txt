@@ -1,0 +1,222 @@
+Admission Date:  [**2167-12-11**]              Discharge Date:   [**2167-12-27**]
+
+Date of Birth:  [**2087-5-5**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+Left Internal Iliac artery aneursym
+
+Major Surgical or Invasive Procedure:
+-Selective angiography of left internal
+iliac artery, coil embolization of 2 outflow vessels from the
+internal iliac artery aneurysm. This corresponds to CPT code
+[**Numeric Identifier 7534**], [**Numeric Identifier 7535**], [**Numeric Identifier 7536**], and [**Numeric Identifier 7536**].
+-Endovascular repair of left hypogastric artery
+aneurysm with coverage stent graft.
+
+
+History of Present Illness:
+80 M presents to ED c/o constant LLQ pain for 3 days.  Pt has
+had anorexia over this period of time.  Denies fever, chills,
+nausea, vomiting, chest pain, SOB, or similar pain in the past.
+Last BM was day of admission and was normal.
+
+Past Medical History:
+COPD, requiring home O2 (1 liter/min)
+CAP in [**2160**], [**2165**]
+hypertension
+TB in [**2154**], treated for active DZ
+thrombocytopenia, mild noted on prior admission
+BPH
+PCP is [**Last Name (NamePattern4) **]. [**Last Name (STitle) 7537**] [**Telephone/Fax (1) 7538**]
+CRI, unknown etiology
+
+Social History:
+denies tobacco and EtOH
+
+Family History:
+non-contributory
+
+Physical Exam:
+On discharge
+99.5   74   114/72   16   94% 3Liters NC
+NAD, A&Ox3
+RRR
+CTAB
+soft, NT/ND
+Bilateral groin incisions- c/d/i w/o hematoma
+No LE CCE
+2+ pulses throughout
+
+
+Pertinent Results:
+[**2167-12-27**] 05:30AM BLOOD WBC-6.3 RBC-2.95* Hgb-9.6* Hct-27.8*
+MCV-94 MCH-32.4* MCHC-34.4 RDW-14.2 Plt Ct-217
+[**2167-12-26**] 03:10AM BLOOD WBC-5.3 RBC-2.97* Hgb-9.4* Hct-27.1*
+MCV-92 MCH-31.5 MCHC-34.5 RDW-14.1 Plt Ct-203
+[**2167-12-25**] 02:31AM BLOOD WBC-7.3 RBC-3.00* Hgb-9.8* Hct-28.1*
+MCV-94 MCH-32.6* MCHC-34.7 RDW-14.4 Plt Ct-218
+[**2167-12-27**] 05:30AM BLOOD Plt Ct-217
+[**2167-12-27**] 05:30AM BLOOD PT-13.2 PTT-27.6 INR(PT)-1.2
+[**2167-12-26**] 03:10AM BLOOD Plt Ct-203
+[**2167-12-26**] 03:10AM BLOOD PT-13.5* PTT-30.1 INR(PT)-1.2
+[**2167-12-25**] 02:31AM BLOOD Plt Ct-218
+[**2167-12-14**] 05:39AM BLOOD D-Dimer-3164*
+[**2167-12-27**] 05:30AM BLOOD Glucose-104 UreaN-17 Creat-1.5* Na-140
+K-4.5 Cl-104 HCO3-30 AnGap-11
+[**2167-12-26**] 03:10AM BLOOD Glucose-99 UreaN-18 Creat-1.4* Na-139
+K-4.4 Cl-105 HCO3-29 AnGap-9
+[**2167-12-25**] 02:31AM BLOOD Glucose-93 UreaN-21* Creat-1.6* Na-140
+K-4.5 Cl-107 HCO3-28 AnGap-10
+[**2167-12-24**] 06:35AM BLOOD Glucose-119* UreaN-20 Creat-1.7* Na-143
+K-4.5 Cl-109* HCO3-27 AnGap-12
+[**2167-12-25**] 10:30AM BLOOD CK(CPK)-132
+[**2167-12-25**] 02:31AM BLOOD CK(CPK)-110
+[**2167-12-24**] 07:10PM BLOOD CK(CPK)-119
+[**2167-12-25**] 10:30AM BLOOD CK-MB-2
+[**2167-12-25**] 02:31AM BLOOD CK-MB-2
+[**2167-12-24**] 07:10PM BLOOD CK-MB-2 cTropnT-0.02*
+[**2167-12-14**] 05:39AM BLOOD CK-MB-7 cTropnT-0.14* proBNP-8388*
+[**2167-12-27**] 05:30AM BLOOD Calcium-7.7* Phos-2.9 Mg-2.2
+[**2167-12-26**] 03:10AM BLOOD Calcium-7.9* Phos-3.8 Mg-1.9
+[**2167-12-25**] 02:31AM BLOOD Calcium-8.0* Phos-3.2 Mg-2.2
+[**2167-12-13**] 06:19PM BLOOD TSH-1.4
+[**2167-12-15**] 01:50AM BLOOD Type-ART pO2-61* pCO2-44 pH-7.36
+calHCO3-26 Base XS-0 Intubat-NOT INTUBA Comment-NASAL [**Last Name (un) 154**]
+[**2167-12-14**] 04:03PM BLOOD Type-ART pO2-110* pCO2-43 pH-7.35
+calHCO3-25 Base XS--1
+[**2167-12-14**] 02:25PM BLOOD Type-ART pO2-116* pCO2-42 pH-7.35
+calHCO3-24 Base XS--2
+
+Brief Hospital Course:
+Pt admitted to Vascular surgery after CT shows:
+1. 8-cm left pelvic mass arising from the left internal iliac
+artery. Appearances are consistent within an iliac artery
+aneurysm. This has a well-demarcated border, and there is no
+imaging evidence of continuing extravasation. However, although
+varying densities within this mass suggest at least some
+components to be chronic, the fact acuity cannot be assessed,
+and in this single examination we cannot determine whether this
+is an expanding lesion.
+2. Mild left hydroureter and hydronephrosis. This is presumably
+due to compressive effect from the left pelvic mass.
+3. Pulmonary artery hypertension.
+4. Emphysema.
+
+Urology was c/s to assess Acute on Chronic renal insufficiency.
+It was felt a ureteral stent was not needed, and hydration would
+be helpful.
+.
+HD3 pt had difficulty breathing, like "asmtha attack".  Pt
+became tachypnic/tachycardic.  @ 1755 Code Blue was called for
+respiratory distress, w/ BP to 60/30.  Pt was intubated,
+transferred to  SICU on pressors, CVL was placed.  EKG shows
+RBBB which resolved over a short interval.  Cardiology was
+consulted; ASA, statin, Beta blocker and heparin drip were
+started.  Work up was initiated to elucidate the cause of
+respiratory failure.  Ultimately no definitive cause was found,
+though thought to be hypercarbic respiratory arrest.
+
+Echo ([**12-14**]):
+Limited views. Overall left ventricular systolic function
+appears normal (~60%)
+without apparent focal wall motion abnormality. No aortic
+regurgitation is
+seen. Trivial mitral regurgitation is seen. There is no
+pericardial effusion.
+.
+HD5 pt was extubated, all pressors were off.  HD6 pt was
+transferred to the floor and CTA to eval anuersym:  1. Large
+left internal iliac artery aneurysm as described above which
+appears to have increased slightly in size compared to exam of
+seven days earlier.
+
+HD8 CVL was removed, pt was diuresed.  HD10 pt was started on
+mucomyst for renal protection prior to angio study.  IV
+bicarbonate was also given on call to angio.  Pt was consented
+for procedure.  On HD11 pt taken to angio for coiling of outflow
+vessels.  Procedure: Selective angiography of left internal
+iliac artery, coil embolization of 2 outflow vessels from the
+internal iliac artery aneurysm.  Pt tolerated well and was
+transferred to the floor in stable condition following the
+porcedure.  HD15 pt taken to OR for second stage of aneurysm
+repair.  Again mucomyst/bicarb was given prior.  Pt and family
+wish to proceed.  Procedure: Endovascular repair of left
+hypogastric artery aneurysm with coverage stent graft.  Pt
+tolerated procedure well and was taken to the floor in good
+condition following the procedure.
+.
+On HD 17 pt was seen by PT and was cleared for home.  The pt.
+required 3 Liters O2 by nasal canula to maintain O2 sats above
+91%.  Pt was sent home on 3 liters O2 and instructed to follow
+up with PCP to manage oxygen.  Pt was discharged in good
+condition.  Prior to d/c pt had both groins ultrasounded and was
+found to have no evidence of pseudoaneurysm or AV fistula.  Pt
+remained afebrile throughout stay.
+
+
+Medications on Admission:
+Protonix
+Albuterol
+Lisinopril
+Atenolol
+Lasix
+Colchicine
+Indocin
+
+Discharge Medications:
+1. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID
+(2 times a day).
+4. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. Nitroglycerin 2 % Ointment Sig: One (1)  Transdermal Q6H
+(every 6 hours) as needed for dbp>90.
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Left hypogastric artery aneurysm
+COPD, requiring home O2 (1 liter/min)
+Respitory failure
+chronic renal insufficiency
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please resume taking your regular medications. Take all new
+medications as directed.  Do not drive while taking narcotic
+pain medications.
+
+You may resume your regular activities.  No heavy lifting (>20
+lbs) for 3-4 weeks. You may shower, keep the wound covered, and
+pat dry. Do not soak the wound for 2 weeks.
+
+Please call your physician or return to the hospital if you
+experience:
+- Increasing pain or swelling at the wound
+- Fever (>101.5 F)
+- Inability to eat or persistent vomiting
+- Foul discharge from the wound.
+- Other sy

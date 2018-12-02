@@ -1,0 +1,200 @@
+Admission Date:  [**2174-5-6**]              Discharge Date:   [**2174-5-18**]
+
+Date of Birth:  [**2112-8-24**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Known firstname 1406**]
+Chief Complaint:
+Dyspnea, orthopnea, and lower extremity edema
+
+Major Surgical or Invasive Procedure:
+[**2174-5-10**]
+PROCEDURES:
+1. Aortic valve replacement with a 21-mm St. [**First Name5 (NamePattern1) 923**] [**Last Name (NamePattern1) 4041**]
+    tissue valve, Ref # TF-21A, SN # [**Numeric Identifier 111846**]
+2. Mitral valve replacement with a 31-mm St. [**Male First Name (un) 923**] epic
+    tissue valve, Ref # E100-31M-00, SN # [**Numeric Identifier 111847**]
+3. Pericardial patch closure of a perimembranous
+    ventricular septal defect.
+4. Exploration of tricuspid valve.
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 61 year-old male admitted with fevers 102.6,
+leukocytosis and Congestive Heart failure SOB and weakness.  An
+echocardiogram revealed endocarditis with vegetation seen on the
+mitral leaflet. His blood cultures x2 with gram postive cocci in
+pairs and chains. OSH urine culture Enterococcus.Cardiac surgery
+consulted for surgical correction.
+
+Past Medical History:
+Endocarditis
+mental disability: paramnesia (used to hear voices)
+Myopic
+Past Surgical History: none
+
+
+Social History:
+Lives alone in "complete isolation." Estranged from his two
+sisters and both his parents are deceased. He is unemployed and
+disabled from prior mental illness "paramenesia" and used to
+have auditory hallucinations. He spends his days working on his
+"project" which is [**Location (un) 1131**] philosophers such as [**Location (un) **] and [**Location (un) 5936**]
+and taking notes and making analyses. No longer has
+hallucinations. Quit smoking 15-20 years ago, was smoking [**12-20**]
+pack of non-filters daily for 3 years. Drinks 12 beers in 24
+hours once every 2 weeks. History of cocaine use "to investigate
+the side effects of a friend who was using it". No illicit drugs
+currently.
+
+Family History:
+father died of [**Name (NI) 6988**] disease age 47, mother died of a
+cardiac arrythmia. health of sisters is unknown.
+
+Physical Exam:
+Admission Exam:
+General: Alert, oriented, flat affect, cachetic with temporal
+wasting
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP mildly elevated, no LAD
+CV: Irregular tachycardia, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Crackles at bases bilaterally, no wheeze
+Abdomen: soft, RUQ with fullness and mild tenderness,
+non-distended, bowel sounds present, no organomegaly
+GU: foley
+Rectal: external hemorrhoids, firm enlarged prostate, guaiac
+negative brown stool
+Ext: warm, well perfused, 2+ pulses, [**1-21**]+ pitting edema up to
+knees bilaterally, no rashes
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally,
+finger-to-nose intact
+
+
+Pertinent Results:
+CT of Chest/Abd/Pelvis ([**2174-5-7**]):
+IMPRESSION:
+1.  Pulmonary edema. Please note that superimposed infection
+cannot be
+excluded. Follow-up after diuresis is recommended. No evidence
+of pulmonary embolism.
+2.  No CT evidence of malignancy in the torso.
+
+Head MRI ([**2174-5-10**]):
+IMPRESSION:
+1.  Small area of acute infarct in the left parietal lobe.
+Additional small areas of T2 shine-through in the right temporal
+region with associated blood products and a subtle area of
+enhancement.  These findings indicate a combination of acute
+infarcts and subacute infarcts with blood products.  There is no
+abscess identified or abnormal meningeal enhancement seen.
+2.  Diffuse decreased signal in the visualized bony structures
+could be due to marrow hyperplasia or infiltration and clinical
+correlation is recommended.
+3.  No evidence of mass effect or hydrocephalus.
+
+Spine MRI ([**2174-5-10**]):
+IMPRESSION:
+1.  No evidence of discitis or definite evidence of
+osteomyelitis seen.
+2.  Foci of signal abnormality within the T4 and L4 vertebral
+bodies are
+likely due to hemangiomas which have atypical appearance
+secondary to diffuse bony abnormality secondary to marrow
+hyperplasia or infiltration.  This foci are less likely
+secondary to metastasis or foci of osteomyelitis given the
+appearances on the post-gadolinium images.  However, a followup
+study can confirm this suspicion.
+3.  Diffuse low signal in the bony structures due to marrow
+hyperplasia or
+infiltration.
+4.  No evidence of epidural abscess or spinal cord compression.
+5.  Diffuse high signal on T2 images within the soft tissues
+likely secondary to soft tissue edema.  Other findings as above.
+
+.
+Intra-op TEE [**2174-5-10**]
+PREBYPASS: The left atrium is moderately dilated. There is mild
+symmetric left ventricular hypertrophy. The left ventricular
+cavity is mildly dilated. Regional left ventricular wall motion
+is normal. Overall left ventricular systolic function is normal
+(LVEF>55%) with mild LV dilation. The ascending, transverse and
+descending thoracic aorta are normal in diameter and free of
+atherosclerotic plaque. There is a large vegetation on the
+aortic valve. Severe (4+) aortic regurgitation is seen. There is
+a large vegetation on the mitral valve. Severe (4+) mitral
+regurgitation is seen. There is a large vegetation on the
+tricuspid valve attached to the TV subvalvular apparatus. There
+is no significant pulmonic regurg and NO veg on the PV. Normal
+PV leaflets. There is a very small pericardial effusion. There
+is a large right pleural effusion. The interatrial septum is
+intact. There is no clot in the LAA. The coronary sinus appears
+normal.
+
+POSTBYPASS: Normally functioning AV, MV bioprosthesis. Mild TR.
+No sig valvular stenosis or regurgitation. Mildly decreased LV
+systolic function with LVEF = 40-45%. Otherwise unchanged.
+.
+
+[**2174-5-17**] WBC-11.2* RBC-3.54* Hgb-10.3* Hct-34.1* MCV-96 MCH-29.0
+MCHC-30.1* RDW-22.1* Plt Ct-207
+[**2174-5-6**] WBC-19.8* RBC-3.33* Hgb-9.2* Hct-27.6* MCV-83 MCH-27.6
+MCHC-33.3 RDW-15.7* Plt Ct-334
+[**2174-5-17**] Glucose-75 UreaN-23* Creat-0.6 Na-137 K-4.5 Cl-104
+HCO3-29
+[**2174-5-10**] UreaN-52* Creat-1.6* Na-138 K-4.5 Cl-105 HCO3-20*
+[**2174-5-10**] Glucose-105* UreaN-56* Creat-1.8* Na-137 K-4.3 Cl-99
+HCO3-25
+[**2174-5-6**] Glucose-95 UreaN-18 Creat-0.8 Na-126* K-4.8 Cl-93*
+HCO3-24
+[**2174-5-15**] ALT-87* AST-88* LD(LDH)-363* Amylase-35 TotBili-0.4
+
+Cultures:
+[**2174-5-6**] Blood Culture x2, Routine (Final [**2174-5-9**]):
+      ENTEROCOCCUS FAECALIS.
+      Anaerobic Bottle Gram Stain (Final [**2174-5-7**]):
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+   Aerobic Bottle Gram Stain (Final [**2174-5-7**]):
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+ SENSITIVITIES: MIC expressed in MCG/ML
+ _________________________________________________________
+                             ENTEROCOCCUS FAECALIS
+                             |
+AMPICILLIN------------   <=2 S
+DAPTOMYCIN------------       S
+PENICILLIN G----------     2 S
+VANCOMYCIN------------     1 S
+
+[**Date range (3) 111848**] Blood cultures x 6 No Growth
+
+[**2174-5-6**] URINE CULTURE (Final [**2174-5-8**]): ENTEROCOCCUS SP
+
+[**2174-5-10**]: tissue Aortic Valve & Tricuspid Valve; GRAM STAIN
+(Final [**2174-5-10**]): 3+  (5-10 per 1000X FIELD):
+POLYMORPHONUCLEAR LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+   TISSUE (Final [**2174-5-14**]): ENTEROCOCCUS SP..    SPARSE GROWTH.
+         SENSITIVITIES PERFORMED ON CULTURE # 347-3295H [**2174-5-10**].
+
+      ENTEROCOCCUS SP..    SPARSE GROWTH.  SECOND MORPHOLOGY.
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+PENICILLIN G----------     4 S
+VANCOMYCIN------------ <=0.5 S
+
+[**2174-5-18**] 05:57AM BLOOD WBC-11.6* RBC-3.32* Hgb-10.1* Hct-32.2*
+MCV-97 MCH-30.4 MCHC-31.3 RDW-22.8* Plt Ct-257
+[**2174-5-6**] 04:35PM BLOOD WBC-19.8* RBC-3.33* Hgb-9.2* Hct-27.6*
+MCV-83 MCH-27.6 MCHC-33.3 RDW-15.7* Plt Ct-334
+[**2174-5-8**] 04:12AM BLOOD Neuts-86.2* Lymphs-11.5* Monos-2.2
+Eos-0.1 Baso-0.1
+[**2174-5-11**] 04:42AM BLOOD PT-18.7* PTT-38.7* INR(PT)-1.8*
+[**2174-5-6**] 04:35PM BLOOD PT-17.6* PTT-28.5 INR(PT)-1.7*
+[**2174-5-18**] 05:57AM B

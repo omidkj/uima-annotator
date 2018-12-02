@@ -1,0 +1,186 @@
+Admission Date:  [**2170-2-17**]              Discharge Date:   [**2170-2-24**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 613**]
+Chief Complaint:
+Shortness of breath.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+This history is taken from patient and her home aide, Dodi.
+.
+This is an 88 yo woman not followed at [**Hospital1 18**] with history of CHF
+who started having dyspnea 2-3 days ago. She says she was
+diagnosed with CHF less than one year ago, and is followed by
+Dr. [**Last Name (STitle) 121**] in cardiology at [**Hospital3 1196**]. Says that
+her symptoms have been progressive over the last couple days and
+include DOE, fatigue, orthopnea, and lower extremity swelling.
+She says she has also gained weight, but when asked to quantify
+the amount says that her weight has only increased [**5-6**] pounds
+over the last six months.
+.
+On ROS, she denies fever, cough or sputum production. No sick
+contacts. She lives in [**Hospital3 **] in [**Location (un) 55**]. No
+history of recent prolonged travel or immobilization. No history
+of asymmetric leg swelling, redness or tenderness. Denies recent
+history of chest pain, syncope or lightheadness, or
+palpitations. As above, she endorses symptoms of orthopnea
+(sleeps on [**3-6**] pillows), bilateral leg swelling, abdominal
+fullness, and generalized fatigue/malaise.
+.
+At baseline, she can walk several hundred feet before becoming
+dyspneic. She seldom uses stairs anymore. She is not on home
+oxygen. She takes care of most ADLs, but has health aide and
+[**Hospital3 **] to help with IADLs.
+.
+In the emergency department she was satting 93% on 2L. CXR
+showed pulmonary edema. BNP was 4281. First set of enzymes
+showed TropT of 0.03 with CK 98 and creatinine 1.1. Cards was
+consulted and did not feel this was ACS; they recommended
+against starting heparin drip. She was given 10 mg IV Lasix x1
+after which she had good urine output and was admitted to
+medicine for further management.
+
+Past Medical History:
+History of remote TB exposure
+Hypothyroidism
+Hypertension
+Mitral valve prolapse
+Cataracts/macular degeneration
+Congestive heart failure with LVEF 65%
+History of Crohn's Dz for which she took prednisone, sxs
+resolved
+Severe obstructive pulmonary disease (FEV1 55% expected--[**12-8**])
+Echo ([**2169-11-29**]): LA enlargement, severe MV prolapse
+
+Social History:
+Lives at [**Location (un) 55**] [**Hospital3 400**] ("Boyleston").  Competent
+in ADLs. Has home health aide. Remote smoking history of 20
+pk-yrs.
+
+Family History:
+NC.
+
+Physical Exam:
+VITAL SIGNS: 98.9, 122/50 (pulsus was <8 mmHg), 82, 24, 95% on
+2L
+WEIGHT: 66.5 kg
+GENERAL: well-appearing elderly woman, in mild respiratory
+distress with labored breathing; able to speak in full sentences
+HEENT: EOMI, PERRLA, no conjuntival pallor, MMM
+NECK: JVD to angle of mandible
+CARDIAC: RRR, normal s1/s2. 3/6 systolic murmur radiating to
+carotids bilaterally, also radiating to axilla.
+LUNGS: bibasilar crackles to 1/3 up posterior lung fields;
+scattered faint expiratory wheezes
+ABDOMEN: distended; normal bowel sounds; non-tender
+EXTREMITIES: no pitting edema, 1+ DP pulses bilaterally
+NEURO: AAOx3. Moving all extremities. Sensation grossly intact.
+
+Pertinent Results:
+Labs at Admission:
+[**2170-2-17**] 09:50AM BLOOD WBC-9.8 RBC-4.30 Hgb-11.5* Hct-33.8*
+MCV-79*# MCH-26.8*# MCHC-34.1 RDW-18.1* Plt Ct-217
+[**2170-2-17**] 09:50AM BLOOD Neuts-84.6* Lymphs-8.5* Monos-4.0 Eos-2.6
+Baso-0.4
+[**2170-2-17**] 09:50AM BLOOD Glucose-198* UreaN-25* Creat-1.1 Na-133
+K-4.8 Cl-97 HCO3-26 AnGap-15
+[**2170-2-17**] 09:50AM BLOOD Calcium-9.2 Phos-3.6 Mg-2.2
+[**2170-2-18**] 01:30AM BLOOD Type-ART Temp-36.4 FiO2-97 O2 Flow-4
+pO2-82* pCO2-49* pH-7.39 calTCO2-31* Base XS-3 AADO2-590 REQ
+O2-93 Intubat-NOT INTUBA Comment-NASAL [**Last Name (un) 154**]
+.
+Cardiac Enzymes:
+[**2170-2-17**] 09:50AM BLOOD CK(CPK)-98
+[**2170-2-17**] 06:55PM BLOOD CK(CPK)-83
+[**2170-2-18**] 02:09AM BLOOD CK(CPK)-70
+[**2170-2-17**] 09:50AM BLOOD CK-MB-NotDone proBNP-4281*
+[**2170-2-17**] 09:50AM BLOOD cTropnT-0.03*
+[**2170-2-17**] 06:55PM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2170-2-18**] 02:09AM BLOOD CK-MB-NotDone cTropnT-0.03*
+.
+CXR ([**2170-2-17**]): Enlarged cardiac silhouette with prominence of
+interstitial markings suggestion of airspace opacities in the
+lower lung field, which may all represent pulmonary edema,
+although the chronicity of this process is unclear. Correlation
+with presentation and other comparison to outside priors for
+continued radiographic followup is recommended. It is difficult
+to exclude an infectious process in the lower lung fields.
+.
+CXR ([**2170-2-18**]): Although respiratory motion slightly limits the
+assessment, there has been apparent interval worsening of
+perihilar and basilar opacities attributed to pulmonary edema in
+the setting of cardiomegaly and vascular engorgement. Small
+right pleural effusion is unchanged, but there is apparent new
+small left pleural effusion.
+.
+TTE (from [**Hospital **] Hosp): [**11/2169**]: normal LV size and
+wall thickness, without obvious regional wall motion
+abnormalities.  Overall left ventricular systolic function is
+normal. The estimated LVEF is 65%. Mild left atrial enlargement.
+Mitral valve is myxomatous and the mitral valve is moderately
+diffusely thickened. Degree of prolapse is severe. Aortic valve
+is tricuspid and sclerotic. There is mild aortic regurgitation.
+Mild-moderate tricuspid regurgiation is present. Estimated right
+ventricular systolic pressure is 60 mmHg with an RA pressure 5
+mmHg.
+.
+echo [**2170-2-20**]
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>65%). [Intrinsic left
+ventricular systolic function is likely more depressed given the
+severity of valvular regurgitation.] Right ventricular chamber
+size is normal with mild global free wall hypokinesis. The
+diameters of aorta at the sinus, ascending and arch levels are
+normal. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened with
+moderate/severe systolic prolapse/partial posterior leaflet
+flail. Torn mitral chordae are present. An eccentric, anteriorly
+directed jet of at least moderate (2+) mitral regurgitation is
+seen. The tricuspid regurgitation jet is eccentric and may be
+underestimated. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Mitral valve prolapse/partial flail with at least
+moderate mitral regurgitation. Pulmonary artery systolic
+hypertension. Right ventricular free wall hypokinesis. Mild
+symmetric left ventricular hypertrophy with preserved global and
+regional systolic function.
+
+
+Brief Hospital Course:
+An 88 yo woman with h/o diastolic CHF and severe mitral valve
+prolapse presenting with progressive shortness of breath,
+fatigue, now with new oxygen requirements.
+.
+Her symptoms at admission were most consistent with a CHF
+exacerbation, especially given her elevated BNP and CXR showing
+pulmonary edema. Slight elevation of TropT (with flat CK) also
+supported diagnosis of CHF exacerbation. Also considered in ddx
+were acute worsening of mitral regurgitation, pericardial
+effusion, ACS, pulmonary process (PE seemed less likely given
+history of progressively worsening symptoms, no signs/symptoms
+of DVT).
+.
+Cardiac enzymes were cycled x3. CK was flat and TropT remained
+elevated but stable at 0.03 to 0.04. She was diuresed overnight
+with IV boluses of Lasix, for total of 60 mg. She had good urine
+output and symptoms improved on first hospital day, but there
+was concern about persistent oxygen requirement and crackles on
+exam. She was started on metoprolol for slowing of heart rate in
+setting of diastolic dysfunction and need for increased
+diastolic filling time. She was then transferred to cardiology
+service for initiation of Lasix gtt.
+.
+On the medicine floor, received a cummulative total of 80mg of
+IV lasix and total net output was 950cc. A dose of 40 resulted
+in a BP drop to 92/40, she had previously been

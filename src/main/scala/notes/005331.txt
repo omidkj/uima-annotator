@@ -1,0 +1,235 @@
+Admission Date:  [**2107-5-8**]              Discharge Date:   [**2107-5-13**]
+
+Date of Birth:  [**2038-1-6**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Lisinopril
+
+Attending:[**First Name3 (LF) 1835**]
+Chief Complaint:
+increasing lethargy s/p fall down several stairs
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+69 y/o [**Location 7972**] Female Tx from [**Hospital1 **] s/p fall last
+night down ~4 stairs at home with ~15 sec LOC
+
+Past Medical History:
+MR, [**Hospital1 19293**], [**Hospital1 **], Pulm [**Hospital1 **], hypothyroidism, CRI (1.7), mild CHF
+
+Social History:
+lives with family
+
+
+Family History:
+NC
+
+Physical Exam:
+On Admission:
+PHYSICAL EXAM:
+Gen: intubated,sedated.
+HEENT: Pupils: 2mm minimally reactive,equally round ,
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: intubated,sedated
+Propioception intact:UNABLE TO TEST
+Toes downgoing bilaterally
+
+On dishcharge: Pt more awake, focused, attentive, oriented to
+self and "hospital" - unaware of city orname of facility as well
+as yr.
+follows most commands. No facial, tongue is ML, no drift, all
+extremeties antigravity (has difficulty following commands [**1-8**]
+language barrier).
+Tolerating pureed po intake. Foley in place.
+
+Pertinent Results:
+CT Head([**5-8**]):IMPRESSION:
+1. Multiple foci of hemorrhagic contusion not significantly
+changed. Minimal leftward subfalcine herniation is stable.
+2. Small subdural hematoma overlying the frontal convexities
+with small amount of subarachnoid hemorrhage. Small subdural
+hematoma along the right posterior cerebral convexity.
+3. Nondisplaced occipital bone fracture, with associated small
+posterior fossa subdural hematoma.
+4. Left maxillary mucosal thickening, will a small hyperdense
+focus. No discrete fracture is seen. However, if there is
+clinical suspicion for a facial fracture, facial CT may be
+obtained.
+
+CT Head([**5-9**]):IMPRESSION:
+1. Multiple foci of hemorrhagic contusion with intraparenchymal
+hemorrhage, associated subarachnoid hemorrhage, and subdural
+hematomas, all relatively unchanged. Minimal leftward subfalcine
+herniation unchanged. No new intraventricular hemorrhage seen.
+2. Nondisplaced occipital bone fracture, unchanged.
+3. Left maxillary mucosal thickening with small hyperdense focus
+unchanged.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname 74752**]       [**Hospital1 18**] [**Numeric Identifier 74753**]TTE (Complete)
+Done [**2107-5-10**] at 3:48:02 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] M.
+[**Hospital1 **] C
+[**Hospital Unit Name 18400**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2038-1-6**]
+Age (years): 69 F  Hgt (in): 66
+BP (mm Hg): 150/50  Wgt (lb): 170
+HR (bpm): 46  BSA (m2): 1.87 m2
+Indication: Left ventricular function.
+ICD-9 Codes: 424.0, 424.2
+Test Information
+Date/Time: [**2107-5-10**] at 15:48    Interpret MD: [**First Name11 (Name Pattern1) 553**] [**Last Name (NamePattern4) 4133**], MD
+Test Type: TTE (Complete) Son[**Name (NI) 930**]: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **], RDCS
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2008W034-1:29 Machine: Vivid [**6-13**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.5 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.7 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.3 m/s
+Left Atrium - Peak Pulm Vein D:  0.7 m/s
+Right Atrium - Four Chamber Length:  *5.6 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.3 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.6 cm
+Left Ventricle - Fractional Shortening:  0.40  >= 0.29
+Left Ventricle - Ejection Fraction:  >= 60%  >= 55%
+Aorta - Sinus Level:  2.7 cm  <= 3.6 cm
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.7 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  1.6 m/sec
+Mitral Valve - A Wave:  0.9 m/sec
+Mitral Valve - E/A ratio:  1.78
+Mitral Valve - E Wave deceleration time:  *322 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *45 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Overall normal LVEF (>55%). [Intrinsic LV systolic function
+likely depressed given the severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+Abnormal septal motion/position consistent with RV
+pressure/volume overload.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mitral
+valve annuloplasty ring. Moderate (2+) MR. [Due to acoustic
+shadowing, the severity of MR may be significantly
+UNDERestimated.]
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Moderate [2+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+Conclusions
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. There is abnormal septal motion/position consistent
+with right ventricular pressure/volume overload. The aortic
+valve leaflets (3) are mildly thickened. There is no aortic
+valve stenosis. No aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. A mitral valve annuloplasty
+ring is present. Moderate (2+) mitral regurgitation is seen.
+[Due to acoustic shadowing, the severity of mitral regurgitation
+may be significantly UNDERestimated.] The tricuspid valve
+leaflets are mildly thickened. Moderate [2+] tricuspid
+regurgitation is seen. There is moderate to severe pulmonary
+artery systolic hypertension.
+  Electronically signed by [**First Name11 (Name Pattern1) 553**] [**Last Name (NamePattern4) 4133**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2107-5-10**] 16:37
+Cardiology Report ECG Study Date of [**2107-5-8**]  3:55:44 PM
+
+
+Sinus rhythm. The P-R interval is 160 milliseconds. Left
+bundle-branch block.
+Compared to the previous tracing there is no significant change.
+
+
+
+Read by: [**Last Name (LF) 2194**],[**First Name3 (LF) **] H.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+41 160 138 536/502 0 60 -85
+
+
+([**-7/3029**])
+
+Test Name Value Units Reference Range
+[**2107-5-10**] 06:55AM
+COMPLETE BLOOD COUNT
+White Blood Cells 6.2 K/uL 4.0 - 11.0
+  PERFORMED AT WEST STAT LAB
+Red Blood Cells 3.20* m/uL 4.2 - 5.4
+  PERFORMED AT WEST STAT LAB
+Hemoglobin 10.2* g/dL 12.0 - 16.0
+  PERFORMED AT WEST STAT LAB
+Hematocrit 30.9* % 36 - 48
+  PERFORMED AT WEST STAT LAB
+MCV 97 fL 82 - 98
+  PERFORMED AT WEST STAT LAB
+MCH 31.8 pg 27 - 32
+  PERFORMED AT WEST STAT LAB
+MCHC 32.9 % 31 - 35
+  PERFORMED AT WEST STAT LAB
+RDW 15.0 % 10.5 - 15.5
+BASIC COAGULATION (PT, PTT, PLT, INR)
+Platelet Count 193 K/uL 150 - 440
+  PERFORMED AT WEST STAT LAB
+
+Test Name Value Units Reference Range
+[**2107-5-10**] 06:55AM
+RENAL & GLUCOSE
+Glucose 131* mg/dL 70 - 105
+  PERFORMED AT WEST STAT LAB
+Urea Nitrogen 23* mg/dL 6 - 20
+  PERFORMED AT WEST STAT LAB
+Creatinine 1.5* mg/dL 0.4 - 1.1
+  PERFORMED AT WEST STAT LAB
+Sodium 141 mEq/L 133 - 145
+  PERFORMED AT WEST STAT LAB
+Potassium 4.0 mEq/L 3.3 - 5.1
+  PERFORMED AT WEST STAT LAB
+Chloride 108 mEq/L 96 - 108
+  PERFORMED AT WEST STAT LAB
+Bicarbonate 25 mEq/L 22 - 32
+  PERFORMED AT WEST STAT LAB
+Anion Gap 12 mEq/L 8 - 20
+CHEMISTRY
+Calcium, Total 8.0* mg/dL 8.4 - 10.2
+  PERFORMED AT WEST STAT LAB
+Phosphate 4.4 mg/dL 2.7 - 4.5
+  PERFORMED AT WEST STAT LAB
+Magnesium 2.0 mg/dL 1.6 - 2.6
+  PERFORMED AT WEST STAT LAB
+NEUROPSYCHIATRIC
+Phenytoin 12.5 ug/mL 10.0 - 20.0
+  PERFORMED AT

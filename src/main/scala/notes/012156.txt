@@ -1,0 +1,235 @@
+Admission Date:  [**2129-12-7**]              Discharge Date:   [**2129-12-18**]
+
+
+Service: MEDICINE
+
+Allergies:
+Hydrochlorothiazide
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Hypoxia
+
+Major Surgical or Invasive Procedure:
+PICC line placement
+
+
+History of Present Illness:
+86 yo female with a history of vascular dementia, HTN, HLD,
+recurrent UTIs presents from home with altered mental status and
+hypoxia.  The patient was found by her VNA today to be more
+confused than normal.  Per her daughter, she can get confused
+easily with UTIs.  VNA found her to be hypoxic to the 80s thus
+called EMS.
+
+.
+
+In the ED, initial vs were 99.2 84 118/74 40 97% 15.  On exam,
+the patient was confused, combative, crackles bilaterally, old
+healing superficial lacerations around ankle (concerning for
+elder abuse) guaiac positive with vesicles on her rectum.  She
+was placed on a non-rebreather with improvement of O2 sat to
+96-97% (Pa02 89).  CXR revealed bilateral infiltrates concerning
+for pulmonary edema vs. multifocal pneumonia.  Initially the
+patient was treated for pulmonary edema with nitroglycerin drip
+and lasix 80mg IV.  Her blood pressures dropped to the 90s
+systolic.  Labs then returned with non-elevated BNP (although no
+prior) so she was treated empirically for hospital associated
+pneumonia with vanco/levofloxacin/zosyn.  Her labs were
+significant for leukocytosis (with a left shift), hemolyzed
+specimen, hyponatremia, normal lactate, normal pH, negative UA,
+blood and urine cultures were sent.  Her mental status improved
+and oxygen saturation stabilized so the decision was made not to
+intubate her at this time.  She received a total of 2L NS.  On
+transfer VS 77 116/90 22 99% on NRB.  She is a full code
+confirmed by the patient's daughter in the [**Name (NI) **].
+
+.
+
+On the floor,  patient did not complain of any pain. She denied
+SOB. She did not want her daughters to leave.
+
+.
+
+Review of systems:  Obtained via daughters who denied sick
+contacts although patient spends days at adult day care so could
+have been exposed, denies fevers. + for cough over the last
+week.
+
+
+Past Medical History:
+HTN
+hypercholesterolemia
+arthritis
+glaucoma
+h/o colon polyps
+h/o pulmonary nodule
+GERD
+h/o pancreatitis
+osteopenia
+anxiety
+
+Social History:
+Lives in [**Hospital3 **]; attends elderly day care. Son and
+daughter nearby and help with shopping. No tobacco, occ EtOH.
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+Vitals:
+
+Tmax: 35.1 ??????C (95.1 ??????F)
+
+Tcurrent: 35 ??????C (95 ??????F)
+
+HR: 81 (80 - 99) bpm
+
+BP: 108/64(76) {93/52(66) - 108/80(83)} mmHg
+
+RR: 28 (16 - 32) insp/min
+
+SpO2: 93%
+
+Heart rhythm: SR (Sinus Rhythm)
+
+
+General: Alert, oriented, no acute distress but upset when her
+daughters try to leave
+[**Name (NI) 4459**]: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Diminished BS bilaterally with crackles on right side.
+UInable to auscultate posteriorly.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops but difficult exam because patient yelling for daughters
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+I. Microbiology
+[**2129-12-11**] 	STOOL 	CLOSTRIDIUM DIFFICILE TOXIN A & B
+TEST-FINAL 	INPATIENT
+[**2129-12-10**] 	STOOL 	CLOSTRIDIUM DIFFICILE TOXIN A & B
+TEST-FINAL 	INPATIENT
+[**2129-12-9**] 	STOOL 	CLOSTRIDIUM DIFFICILE TOXIN A & B
+TEST-FINAL 	INPATIENT
+[**2129-12-8**] 	Influenza A/B by DFA 	DIRECT INFLUENZA A
+ANTIGEN TEST-FINAL; DIRECT INFLUENZA B ANTIGEN TEST-FINAL
+	INPATIENT
+[**2129-12-7**] 	URINE 	Legionella Urinary Antigen -FINAL
+	INPATIENT
+[**2129-12-7**] 	BLOOD CULTURE 	Blood Culture,
+Routine-FINAL 	EMERGENCY [**Hospital1 **]
+[**2129-12-7**] 	URINE 	URINE CULTURE-FINAL {KLEBSIELLA
+PNEUMONIAE} 	EMERGENCY [**Hospital1 **]
+[**2129-2-7**] 7:50 pm URINE     Site: CATHETER
+
+                            **FINAL REPORT [**2129-12-9**]**
+
+   URINE CULTURE (Final [**2129-12-9**]):
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------     1 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    64 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+[**2129-12-7**] 	BLOOD CULTURE 	Blood Culture,
+Routine-FINAL 	EMERGENCY [**Hospital1 **]
+
+II. Radiology
+
+A. CT Chest
+IMPRESSION: Central extensive symmetric consolidation with
+associated
+traction bronchiectasis and volume loss. The appearance is
+suggestive of
+cryptogenic organizing pneumonia or chronic eosinophilic
+pneumonia, an
+infectious etiology is less likely.
+
+B. CXR ([**2129-12-12**])
+FINDINGS: In comparison with the study of [**12-11**], there is
+persistent diffuse
+bilateral pulmonary opacifications consistent with the CT
+appearance of
+widespread symmetric consolidations. Moderate enlargement of the
+cardiac
+silhouette and small left effusion persist.
+
+III. Labs
+
+A. Admission
+
+[**2129-12-7**] 07:45PM BLOOD WBC-17.8*# RBC-5.34# Hgb-14.8 Hct-43.9
+MCV-82# MCH-27.8 MCHC-33.8 RDW-14.3 Plt Ct-441*#
+[**2129-12-7**] 07:45PM BLOOD Neuts-76.2* Lymphs-14.8* Monos-4.3
+Eos-4.1* Baso-0.7
+[**2129-12-7**] 07:45PM BLOOD PT-14.7* PTT-33.0 INR(PT)-1.3*
+[**2129-12-7**] 07:45PM BLOOD Glucose-96 UreaN-30* Creat-1.3* Na-126*
+K-7.3* Cl-91* HCO3-25 AnGap-17
+[**2129-12-8**] 04:28AM BLOOD ALT-16 AST-25 AlkPhos-46 TotBili-0.8
+[**2129-12-7**] 07:45PM BLOOD cTropnT-<0.01 proBNP-555
+[**2129-12-8**] 04:28AM BLOOD Albumin-3.4* Calcium-8.4 Phos-3.8 Mg-1.8
+[**2129-12-7**] 09:09PM BLOOD Type-ART pO2-89 pCO2-35 pH-7.46*
+calTCO2-26 Base XS-1
+[**2129-12-7**] 07:55PM BLOOD Lactate-1.5 K-5.7*
+
+Brief Hospital Course:
+Hospital course: 86-year-old female with history of vascular
+dementia, hypertension, hyperlipidemia, recurrent UTIs that
+presented with altered mental status and hypoxia with imaging
+suggesting non-infectious pneumonia with extensive symmetric
+consolidation. Hospital course complicated by agitation likely
+secondary to hypoxemia with respiratory distress and delirium in
+setting of underlying dementia.
+.
+#Hypoxemic respiratory distress:
+Patient had likely multifocal pneumonia on chest CT suggestive
+of cryptogenic organizing pneumonia or chronic eosinophilic
+pneumonia. Of note, the patient has no home oxygen requirement
+and no prior pulmonary issues with prior imaging reviewed with
+no apparent pathology related to current episode. She was
+treated empirically with a brief course of vancomycin, zosyn
+with negative infectious work-up for pulmonary process. She was
+also placed on high-dose steroids for ? pulmonary fibrosis
+(?cryptogenic organizing pneumonia or chronic eosinophilic
+pneumonia) with poor response. In early morning of [**12-12**],
+patient agitated with desaturations to low 80s despite maximal
+oxygen therapy. Patient eventually became less agitated with
+morphine and zydis but may have had component of aspiration and
+flash pulmonary edema worsening already poor respiratory status.
+After ongoing discussions with family, it was decided to start
+her on a morphine drip and focus on comfort. She expired on the
+morning of [**2129-12-18**].
+.
+# Agitation: Patient at baseline with moaning as primary
+communication in setting of dementia. Patient had issues with
+agitation throughout hospitalization likely given elderly,
+dementia at baseline, Russian-speaking, and in unfamiliar
+environment with likely some contribution from hypoxemia. She
+was continued on aricept and sertraline. In addition to medical
+therapy with ativan, zydis, and morphine, attempts made to
+frequently re-orient and family visitations.
+.
+# Goals of care
+Given patient's comorbidities and poor response to steroids for
+inflammatory pneumonia, family decided to change patient's code
+st

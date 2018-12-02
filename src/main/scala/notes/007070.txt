@@ -1,0 +1,189 @@
+Admission Date:  [**2137-5-25**]              Discharge Date:   [**2137-6-2**]
+
+Date of Birth:  [**2054-11-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1515**]
+Chief Complaint:
+Dizziness and epigastric pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization through the right radial artery
+
+
+History of Present Illness:
+Pt is 82 y/o man with PMH significant for HTN, dyslipidemia,
+DMII, atrial fibrillation on coumadin and s/p PPM 1 month prior
+who was transferred from [**Hospital3 26615**] Hospital s/p STEMI and v
+fib to [**Hospital1 18**] where he received cardiac cath and RCA bare metal
+stent placement for RCA occlusion.
+.
+Pt was en route to [**State 1727**] and stopped to eat at a restaurant with
+his family. During dinner he began to complain of feeling "hot
+and sweaty", dizzy, and light-headed. He aslo c/o stomach pains
+that radiated from his LLQ to the mid sternum. Additionally, he
+had pain radiating up the right side of his head. No CP or SOB.
+EMS was called and pt was taken to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. On arrival to
+[**Name (NI) **], pt was cool and diaphoretic, threw up white phlegm, and
+complained of pain/pressure in abdomen radiating to chest. His
+BP was 112/70, HR 71, RR 18, T 98.7 An ECG demonstrated
+ventricular pacing with ST elevations most pronounced in the
+inferior leads. He was given morphine 2.5mg IV, zofran 4g IV,
+ativan 0.5mg IV, heparin IV drip w/bolus. During phlebotomy he
+went into v fib arrest. He was defibrillated twice and had
+return of sponatneous circulation. Pt was then transferred via
+[**Location (un) **] to [**Hospital1 18**].
+.
+On admission to [**Hospital1 **] pt had BP 125/61, HR 70s, RR 20, 98% on 2L
+NC. Cath was done through R radial-artery access due to pt's INR
+of 2.5. RCA occlusion crossed and export thrombectomy. During
+cath pt had hypotension to the SBP 60s and responded to dopa.
+LVEDP was 25-30. During procedure, pt was given IV heparin, NTG,
+bivallirudin, dopamine, nicardipine, diltiazem.
+.
+Per family, pt was in his usual state of health prior to this
+episode. He has not complained of chest pain or SOB. He has a
+history of DOE, which was improved after pacer placement 2
+months ago. He has a history of angina.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+S/he denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+palpitations, syncope or presyncope.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes Type II, Dyslipidemia,
+Hypertension
+2. CARDIAC HISTORY:
+- PACING/ICD:  pacer placed 2 months ago ([**2137-2-21**]) for ?a fib
+or bradycardia
+- atrial fibrillation, on Coumadin
+- angina
+3. OTHER PAST MEDICAL HISTORY:
+COPD
+prostate ca s/p prostatectomy
+DVT/PE s/p rotator cuff repair
+
+Social History:
+-Tobacco history: ex-smoker, quit 32 yrs ago
+-ETOH:  moderate (1 rum and coke per day)
+-Illicit drugs:  none
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+General Appearance: Well nourished, No acute distress
+Eyes / Conjunctiva: PERRL
+Cardiovascular: (S1: Normal), (S2: Normal)
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Absent), (Left DP pulse:
+Absent)
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Clear : )
+Abdominal: Soft, Non-tender, Bowel sounds present
+Extremities: Right lower extremity edema: Absent, Left lower
+extremity edema: Absent, No(t) Cyanosis
+Skin:  Not assessed
+Neurologic: Responds to: Not assessed, Movement: Not assessed,
+Tone: Not assessed
+
+
+Pertinent Results:
+ADMISSION LABS
+[**2137-5-26**] 01:04AM BLOOD WBC-13.6* RBC-4.33* Hgb-13.3* Hct-39.9*
+MCV-92 MCH-30.8 MCHC-33.4 RDW-16.2* Plt Ct-184
+[**2137-5-26**] 01:04AM BLOOD Neuts-90.8* Lymphs-5.6* Monos-3.1 Eos-0.3
+Baso-0.3
+[**2137-5-26**] 01:04AM BLOOD PT-74.0* PTT-104.8* INR(PT)-8.7*
+[**2137-5-26**] 01:04AM BLOOD Plt Ct-184
+[**2137-5-26**] 01:04AM BLOOD Glucose-243* UreaN-29* Creat-1.5* Na-138
+K-4.3 Cl-102 HCO3-23 AnGap-17
+[**2137-5-26**] 01:04AM BLOOD CK(CPK)-1629*
+[**2137-5-26**] 01:04AM BLOOD CK-MB-171* MB Indx-10.5* cTropnT-6.00*
+[**2137-5-26**] 01:04AM BLOOD Calcium-8.6 Phos-3.6 Mg-2.0
+[**2137-5-26**] 01:04AM BLOOD Ethanol-NEG Bnzodzp-NEG Barbitr-NEG
+[**2137-5-25**] 11:35PM BLOOD Type-ART O2 Flow-15 pO2-100 pCO2-45
+pH-7.31* calTCO2-24 Base XS--3 Intubat-NOT INTUBA
+[**2137-5-25**] 11:35PM BLOOD Glucose-199* Lactate-1.5 Na-133* K-4.0
+Cl-95*
+[**2137-5-25**] 11:35PM BLOOD Hgb-12.7* calcHCT-38 O2 Sat-97
+
+CT SCAN OF CHEST [**2137-5-29**]
+0. No suspicious retrocardiac mass.
+1. Bilateral small pleural effusions. No focal air-space
+consolidtation to suggest PNA.
+2. Mild-to-moderate centrilobular emphysema with upper lobe
+predominance. Mild paraseptal emphysema.
+3. Non-specific minimal septal thickening, in the dependent
+portion of all lobes of the lungs, likely represent mild
+pulmonary edema.
+4. Calcified pleural plaques bilaterally, R > L, compatible with
+prior exposure for asbestos.
+5. Small pulmonary nodules. Recommend f/u given the history of
+likely
+asbestos exposure.
+6. Varicarious excretion of IV contrast in the gallbladder,
+likely from the recent cath procedure.
+7. Trace oral contrast in the stomach.
+8. Incidental findings of unusually lateral displacement of the
+left kidney, incompletely assessed.
+
+ECHOCARDIOGRAM [**2137-5-28**]
+The left atrium is dilated. There is mild to moderate regional
+left ventricular systolic dysfunction with
+inferior/inferolateral akinesis. LVEF 40-45%. Right ventricular
+chamber size is normal. with focal basal free wall hypokinesis.
+The aortic root is moderately dilated at the sinus level. The
+ascending aorta is moderately dilated. The aortic arch is mildly
+dilated. Trace aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Moderate (2+) mitral
+regurgitation is seen. The left ventricular inflow pattern
+suggests a restrictive filling abnormality, with elevated left
+atrial pressure. There is mild pulmonary artery systolic
+hypertension. There is a very small pericardial effusion.
+Compared with the prior study (images reviewed) of [**2137-5-26**],
+mitral regurigtation may be slihgtly more prominent.
+
+DISCHARGE LABS:
+[**2137-6-2**] 07:00AM BLOOD WBC-7.9 RBC-3.70* Hgb-11.2* Hct-33.2*
+MCV-90 MCH-30.2 MCHC-33.6 RDW-16.2* Plt Ct-211
+[**2137-6-2**] 07:00AM BLOOD PT-20.3* PTT-33.3 INR(PT)-1.9*
+[**2137-6-2**] 07:00AM BLOOD Plt Ct-211
+[**2137-6-2**] 07:00AM BLOOD Glucose-162* UreaN-37* Creat-1.5* Na-137
+K-3.9 Cl-96 HCO3-32 AnGap-13
+[**2137-6-2**] 07:00AM BLOOD Calcium-8.9 Phos-3.5 Mg-2.1
+
+Brief Hospital Course:
+Pt is an 82 y/o man with PMH of a fib, DM II, COPD, angina, HTN,
+and hypercholesterolemia who was transferred from [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+s/p inferior STEMI and v fib arrest [**12-25**] RCA occlusion. He is s/p
+
+.
+# STEMI/V fib arrest: pt had STEMI and v fib s/p defib x 2,
+found to have RCA occlusion s/p right sided radial-access PCI
+thrombectomy and bare metal stent to RCA. V fib may be [**12-25**] STEMI
+or underlying other arrhythmia as pt has pacer. ASA 325mg and
+plavix 75mg were started during this admission. His home crestor
+was changed to high-dose Lipitor. Home Lasix and other preload
+reducing agents were [**Last Name (un) 25359**] in the in setting of possible RV
+infarction or RV dysfunction given the location of his MI. Echo
+showed EF 40-45% and focal basal hypokinesis of RV free wall.
+Patient was started on metoprolol, but then began to have
+shortness of breath and a high O2 requirement. ECG was unchanged
+and cardiac enzymes did not bump. It was thought that
+particularly given the Hx of COPD, the BBlocker may have
+contributed to bronchospasm, and therefore BBlocker were held
+for the rest of the admission.

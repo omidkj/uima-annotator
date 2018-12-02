@@ -1,0 +1,187 @@
+Admission Date:  [**2167-9-11**]              Discharge Date:   [**2167-10-16**]
+
+Date of Birth:  [**2090-8-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents
+
+Attending:[**First Name3 (LF) 99**]
+Chief Complaint:
+V-fib arrest
+
+Major Surgical or Invasive Procedure:
+spinal fixation
+
+History of Present Illness:
+74 yo male w/ hx of a fib (not on coumadin), COPD who was with
+his wife at an appt in the [**Name (NI) 23**] building who had a witnessed
+v fib arrest. Per PCP [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2450**] - patient abruptly lost
+consciousness and stopped breathing and (?) seized while sitting
+in a chair. Code was called and chest compressions performed
+until defibrillator available. Noted to be in VF and was shocked
+(200 Joules) with rhythm return. He was intubated in the clinic
+and transferred to the ED.
+.
+In the ED, vitals were t 98.6, hr 71, bp 129/59, rr 16, sat
+100%. Soon began to move all 4 extremities and required bolus
+sedation. EKG was obtained with a fib and new RBBB. Cards was
+consulted and felt that his VF arrest was secondary to his
+underlying pulmonary issues and recommended CTA to r/o PE and
+echo in the am.
+.
+On arrival to the ICU, patient is intubated and sedated.
+Minimally responsive to commands.
+
+Past Medical History:
+- Severe COPD - on home O2, FEV1 50%
+- diastolic dysfunction with preserved left ventricular systolic
+function and normal ejection fraction
+- chronic leg edema -presumed to [**1-9**] R heart failure, on
+torsemide
+- chronic atrial fibrillation - not on anticoagulation by his
+choice - hypertension
+- Lung cancer - s/p RUL resection in [**2161**]
+- prostate cancer - tx w/ Casodex and XRT at [**Company 2860**]
+- 100-pack-year history of cigarette smoking
+- Severe osteoarthritis involving both of his hips, s/p hip
+surgery
+
+
+Social History:
+ Patient lives with his wife. [**Name (NI) **] a 100 pack year smoking
+history. No EtOH or illicits. Per recent CHF note, patient
+severe SOB with
+minimal exertion (ie walking 20-50 feet, bathing and dressing in
+the morning). He continues to sleep in a recliner chair.
+
+
+Family History:
+NC
+
+Physical Exam:
+On admission:
+Vitals: t 96.3 ax, bp 148/66, hr 71, rr 18, sat 100%
+AC 16/breathing 18 TV 600 PEEP 5 FiO2 1.0
+Gen: intubated
+HEENT: pupils reactive bilat, cataracts bilat
+Resp: bibasilar crackles, no wheeze
+Card: regular, no murmurs appreciated
+Abd: + bs, soft, non-distended, no hsm
+Ext: [**1-11**] lower ext edema, w/ erythema over lower ext consistent
+with venous stasis changes, mild warmth, DP pulses [**12-9**]+
+Neuro: sedated, moving all four extrmities
+
+Pertinent Results:
+EKG: hr 72, a fib, LAD, new RBBB, ST seg depression V4-V6
+relatively unchanged from prior
+.
+Imaging:
+CXR - [**2167-9-11**]: Cardiac silhouette is enlarged. There are
+increased interstitial opacities with prominence and of the
+pulmonary vasculature, consistent with interstitial edema. The
+ET tube is in place, terminating 1 cm above the carina.
+Defibrillator pad is in place on the right, partially obscuring
+evaluation of the right lung. There is right lung volume loss
+and post- surgical changes from right upper lobectomy,
+unchanged.
+.
+Head CT - [**2167-9-11**]: (wet read)
+no ICH, no mass effect, + loss of [**Doctor Last Name 352**]/white matter
+differentiation in the L front/parietal area consistent w/
+encephalomalacia
+.
+ECHO - [**4-12**]: Study is severely technically limited.
+Biventricular systolic function appears grossly preserved in
+suboptimal views. Regional wall motion could not be adequately
+assessed. Mild aortic regurgitation is detected. The valves are
+not well seen. Mitral and tricuspid regurgitation could not be
+adequately assessed.
+
+
+Brief Hospital Course:
+Patient is a 77 year old male h/o COPD s/p R lung resection,
+presumed diastolic heart failure, HTN, obesity, and likely
+diabetes mellitus type 2, now status post cardiopulmonary
+resuscitation given VF arrest, reintubated for worsening
+respiratory status twice, [**1-9**] to mucus plugging, s/p spinal
+fixation. Extubated two days ago, with increasing respiratory
+distress.  Pt refuses reintubation.
+
+# Respiratory failure: Pt with previous pulmonary history of
+COPD and prior lung resection, was intubated s/p V fib arrest
+and had multiple failed extubations.  He had previous been
+extubated and reintubated twice for worsening acidemia and
+hypercarbia, likely due to poor MS and possibly too much O2 use
+causing CO2 retention. Pt has completed 2 steroid tapers for
+possible COPD component, and has been diursed for many days. Pt
+with Serratioa marrascens initially treated with unasyn and
+changed to meropenem on [**9-26**] due to concern for
+thrombocytopenia. Repeat sputum on [**9-12**] demonstrated
+serratia as well, finished 8 day course of Meropenem on [**10-8**].
+Further cultures continued to grow serratia. Patient was
+extubated [**10-14**], and overnight felt fatigued at times, with some
+difficulty clearing secretions.  Levofloxacin was started to
+attempt to clear any remaining serratia.  Pt respiration assited
+with bipap, diuresis, nebs, and chest PT.  Despite attempts, pt
+continued to be unable to clear secretions, and retained CO2.
+Multiple extensive discussions with patient and family, and in
+end, pt refused re-intubation and was made CMO.  Pt died
+approximatedly 1.5 days after third extubation.
+.
+# Code Status: Extensive discussions [**10-14**] and again [**10-15**].
+Patient initially desired not to be re-intubated, however after
+discussions with family, stated he would want to be intubated if
+needed. After further discussions, pt again refused intubation
+despite conversations with family, ICU staff and PCP.  [**Name10 (NameIs) **] was
+not intubated, and eventually made CMO.
+.
+# S/p VF arrest: Contrast echo did not demonstrate any focal
+wall motion abnormalities given suboptimal study. Per study, it
+appears that systolic function is intact. Were planning for ICD
+after stabilization, in consultation with EP.
+.
+# Thrombocytopenia- Dropped from 184 to 143 to 64 [**9-26**] am.
+Extensive workup for variety of diagnosies including HIT, TTP,
+ITP, sequestration etc including consultation of heme/onc.  Pt
+continued to have plt < 20 and often < 10 despite transfusion
+and removal of all thrombocytopenic drugs (including Diamox,
+lasix, zosyn).  Heparin dependent Ab positive, serotonin release
+assay negative so HIT very unlikely.  Pt was removed from all
+heparin, and line was replaced with heparin free pic with no
+resolution. Pt was treated with steroids and IVIG in event that
+thrombocytopenia was immune mediated - no response.  U/S
+revealed mildly enlarged spleen, no liver lesions making
+sequestration unlikley.  DIC and hemoysis labs were negative as
+well as fact that Upper and lower extremity ultrasounds negative
+for DVT, and there were no schistocytes on smear. Patient
+underwent BM biopsy which showed normal megakaryocytes. At this
+time felt to be multifactorial, from medication effects, chronic
+illness. In general, pt transfused 1 u of plt at at ime to keep
+plt count above 10.  Plt count would initially bump, and then
+return to low level.  No HLA antibodies, so that was not a
+source of destroying plt.
+.
+# Atrial fibrillation: Patient frequently in atrial
+fibrillation.  Rate was controlled with labetalol 50 mg PO TID.
+(Atrial fibrillation is chronic, and patient had not been
+previously anticoagulated; metoprolol had been stopped
+previously as a home medication given patient's fatigue on
+metoprolol as well as patient's COPD). Held any anticoagulation
+given ongoing thrombocytopenia, anemia, bleeding difficulties.
+Rate control at goal presently.
+.
+# Anemia: Previously anemic, now stable. Possible sources;
+Stools guaiac positive, some serosangeous secretions, hematuria,
+and general coagulopathy from decreased platlets.  Pt transfused
+to maintain hct > 21
+.
+# Hypernatremia: Treated with free water boluses as needed
+.
+# Oral Thrush: Nystatin S&S.
+.
+# Hypertension: Had labile blood pressure ranging from
+130s-170s, which responded well to labetaolol. Captopril was
+added, and then transitioned to lisinopril 40 mg, with good
+effect.  Hydralazine 10 mg was used prn for additional co

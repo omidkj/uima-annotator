@@ -1,0 +1,202 @@
+Admission Date:  [**2149-10-20**]              Discharge Date:   [**2149-10-25**]
+
+Date of Birth:  [**2086-3-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 1171**]
+Chief Complaint:
+SOB, LE edema, decreased urine ouput
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+History of Present Illness:
+Mr. [**Known lastname 57523**] is a 63 y.o. Male w/ DM, ESRD on PD, CABG (15yrs
+ago), A. fib on Coumadin, CLL who initially presented to [**First Name4 (NamePattern1) 8125**] [**Last Name (NamePattern1) **]
+w/ 2 weeks of progressive shortness of breath and LE edema.
+.
+Pt states that 2 days ago he had some lapses in his diet and
+consumed very salty soup in the 2 days prior to admission. The
+evening prior to admission, he noted some SOB as well as lower
+extremity edema and decided to come to the ED. Although this
+represents an acute issue he does notice over the past 2 weeks a
+mild progression of DOE and lower extremity edema. He has also
+noted a decrease in his urinary output, he usually urinates
+700cc a day approximately, however over the past 2 weeks he has
+been putting out 250cc. He denies any changes in his PD regimen,
+he usually runs PD over 7 hours, output ranges 1600-2000cc.
+After feeling SOB he went to [**Hospital1 **] ED.
+.
+In [**Hospital1 **] ED his initial VS were noted to be HR 97, BP 140/77,
+Sat 88% on RA. His labs there were notable for a Cr 12.1, BUN
+104, INR 6.8. Per the pt they attempted to used the PD catheter
+but werent able to access it. He was then transferred to [**Hospital1 18**].
+
+.
+In the ED here, initial vitals were T98.4, HR 84, BP 155/100,
+Sat 4% on 4l. His labwork was notable for a BNP of [**Numeric Identifier **],
+troponin of 0.49, CK-MB of 19, CK-MBI of 9.3. His BUn/Cr were
+also markedly elevated at 106 and 12.1. He was also noted to
+have an anion gap of 19. CBC showed a mild leukocytosis of 11.8,
+that was neutrophillic (86.3%). An EKG showed atrial
+fibrillation with no acute ST changes. CXR showed fluid overload
+state. In the ED they were able to infuse 2L using the PD
+catheter and removed 2.5L for a net -500cc.  On the floor, he
+developed worsening dyspnea and was placed on a non-rebreather
+mask with O2 saturations in the high 90s.  ABG revealed a gas of
+7.28, 50, 99 on non-rebreather.  He received an 80 mg dose of IV
+lasix followed by a 120 mg dose of IV lasix with no significant
+improvement.  He received a single SL nitro and was then started
+on a nitro drip with subjective improvement in his dyspnea.
+Given his acute worsening of dyspnea, he was transferred to the
+MICU.
+.
+Upon arrival in the MICU, he continued to saturate well on
+non-rebreather and felt subjectively improved with nitro drip.
+He received a repeat CXR which showed bilateral pulmonary
+infiltrates that radiology felt was consistent with ARDS.
+Received 2 mg IV morphine and was seen by renal consultation
+service who are planning on ultrafiltration through peritoneal
+dialysis with higher osmotic draw.
+
+
+Past Medical History:
+CKD on PD started [**11-21**]
+DMII
+HTN
+CAD, S/P CABG [**2136**]
+S/P CCY
+S/P L knee arthroscopy
+S/P L ankle fx
+S/P 5th L toe amputation for osteomyelitis
+H/O "fluid in lungs"
+Neuropathy
+Retinopathy
+
+
+Social History:
+Married, has grown children, smokes cigars occassionally, rare
+glass of wine, no drugs
+
+
+Family History:
+[**Name (NI) 59483**], Father CAD
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS: T=98.8 BP=162/103 HR=92 RR=16 O2 sat=92% on 2L
+GENERAL: Caucasian Male laying down in bed in NARD
+HEENT: Sclera anicteric. EOMI.
+CARDIAC: Irregularly irregular S1, S2, no m/g/r, RRR
+LUNGS: Crackles noted mid thorax down b/l
+ABDOMEN: Soft, NT, ND. Site of PD catheter examinated, no
+discharge noted
+BACK: Some bruising noted rt lateral lumbar region
+EXTREMITIES: 2+ edema to the mid calf in the LLE, 2+ ankle edema
+in the RLE
+
+
+Pertinent Results:
+ADMISSION LABS
+
+[**2149-10-20**] 01:00AM BLOOD WBC-11.8* RBC-3.74* Hgb-11.0* Hct-32.3*
+MCV-86 MCH-29.5 MCHC-34.2 RDW-14.6 Plt Ct-127*
+[**2149-10-20**] 01:00AM BLOOD Neuts-86.3* Lymphs-8.7* Monos-4.2 Eos-0.4
+Baso-0.4
+[**2149-10-20**] 01:00AM BLOOD Plt Ct-127*
+[**2149-10-20**] 06:00AM BLOOD PT-53.4* PTT-33.5 INR(PT)-5.9*
+[**2149-10-20**] 01:00AM BLOOD Glucose-155* UreaN-106* Creat-12.1*
+Na-140 K-4.0 Cl-99 HCO3-22 AnGap-23*
+[**2149-10-20**] 01:00AM BLOOD CK(CPK)-204
+[**2149-10-20**] 06:00AM BLOOD CK(CPK)-193
+[**2149-10-20**] 01:21PM BLOOD CK(CPK)-331*
+[**2149-10-20**] 11:52PM BLOOD CK(CPK)-327*
+[**2149-10-20**] 01:00AM BLOOD CK-MB-19* MB Indx-9.3* proBNP-[**Numeric Identifier **]*
+[**2149-10-20**] 01:00AM BLOOD cTropnT-0.49*
+[**2149-10-20**] 06:00AM BLOOD CK-MB-19* MB Indx-9.8* cTropnT-0.83*
+proBNP-[**Numeric Identifier 59484**]*
+[**2149-10-20**] 01:21PM BLOOD CK-MB-46* MB Indx-13.9* cTropnT-1.82*
+[**2149-10-20**] 11:52PM BLOOD CK-MB-41* MB Indx-12.5* cTropnT-3.50*
+[**2149-10-20**] 06:00AM BLOOD Albumin-3.8 Calcium-9.0 Phos-7.2*# Mg-2.6
+[**2149-10-20**] 08:23AM BLOOD Type-ART pO2-99 pCO2-50* pH-7.28*
+calTCO2-24 Base XS--3
+[**2149-10-20**] 08:23AM BLOOD Lactate-1.6
+
+CARDIAC CATH
+1. Selective coronary angiorgraphy in this right dominant system
+
+demonstrated native three vessel coronary artery disease.  The
+LMCA had
+moderate diffuse disease.  The LAD and LCX were totally occluded
+
+proximally.  The RCA was totally occluded in the mid-vessel.
+There were
+both right to right and left to right collaterals (from the
+LIMA-LAD)
+supplying the RCA.
+2. Conduit angiography revealed the SVG to PDA to be stump
+occluded.
+The SVG to OMB was patent.  The LIMA was patent to the LAD.
+3. Limited resting hemodynamics revealed moderate systemic
+arterial
+systolic hypertension SBP 164 mmHg.
+
+FINAL DIAGNOSIS:
+1. Native three vessel coronary artery disease.
+2. Patent LIMA to LAD.
+3. Patent SVG to OM LCx.
+4. RCA is supplied by the native vessel with right to right
+collaterals
+and via left to right collaterals from the LIMA.
+
+ECHOCARDIOGRAM
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with normal cavity size. Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. The basal inferolateral wall appears
+to be relatively thin and hypokinetic. The remaining segments
+are grossly normal (LVEF ?50%). Right ventricular chamber size
+and free wall motion are normal. The aortic root is mildly
+dilated at the sinus level. The ascending aorta is mildly
+dilated. The ascending aorta is mildly dilated. The aortic valve
+leaflets (3) are mildly thickened. No aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen. The pulmonary artery systolic
+pressure could not be determined. There is no pericardial
+effusion.
+
+Compared with the prior study (images reviewed) of [**2148-11-9**],
+the findings are similar (technical quality was superior for the
+prior study).
+
+CHEST X RAY
+IMPRESSION: No acute intrathoracic abnormality or significant
+change from
+prior.
+
+
+Brief Hospital Course:
+63 y.o. Male with ESRD on PD [**2-18**] diabetic nephropathy, CAD s/p
+distant CABG, DM II presenting with hypervolemia in the setting
+of high sodium intake, with worsening lower extremity edema,
+worsening short of breath, and reduced urine output.
+
+##. Dyspnea/Volume Overload: Patient presented in acute
+respiratory distress and required a MICU transfer requiring
+non-invasive ventilation. Respiratory distress appeared [**2-18**]
+fluid overlead. Initial diuresis plan included Lasix 200mg IV,
+IV morphine, and nitro gtt. Given poor response of UOP to lasix,
+Renal was consulted to increase PD cycles with concentrated
+dialysate. Additionally, Lasix 80mg IV was given [**Hospital1 **].
+Approximately 3L were taken off the patient. With diuresis,
+patient's respiratory status improved. It was unclear whether
+worsening renal function or cardiac decompensation caused
+respiratory distress. Cardiac enzymes trended upwards, and a
+cardiology c/s was called with cardiac cath. Resp status became
+stable and the pt was able to be transferred to cardiology (see
+below for more details about cardiac cath and cardiac work up).
+LOS fluid balance is -4L. 

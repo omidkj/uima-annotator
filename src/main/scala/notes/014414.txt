@@ -1,0 +1,194 @@
+Admission Date:  [**2143-9-14**]              Discharge Date:   [**2143-9-18**]
+
+Date of Birth:  [**2103-4-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1943**]
+Chief Complaint:
+Headache, Neck Stiffness
+
+Major Surgical or Invasive Procedure:
+Lumbar Puncture
+
+History of Present Illness:
+40 yo patient with no PMH, presents today with HA "similar to
+prior meningitis" neck stiffness, dry cough, nausea,
+photosensitivity, fever to 101 at home, diffuse body pains.
+She denies any recent sick contacts, travel, hiking, camping,
+tick exposure.  She denies any N, V or diarrhea preceding the
+illness but reports that she vomited once here.
+
+In the ED, initial vitals were 100.2 106 115/ 99% RA.  She was
+seen by ID and started on vancomycin, cipro, chloramphenocol,
+acyclovir, decadron.  Cephlosporin was held given history of PCN
+allergy.  CT head was unremarkable.  She was admitted to the ICU
+for desensitization given PCN allergy.  Vitals on transfer were
+100.2 106 115/ 99% RA.
+
+On the floor, pt states that she is overall feeling improved
+however continues to compliain of nausea and mild headache.
+Mild pain at site of LP.
+
+Past Medical History:
+Prior history of meningitis (patient thinks it was bacterial) in
+[**2127**], treated at [**Hospital 21242**] Hospital in [**Location (un) 2251**]
+Asthma
+
+Social History:
+- Tobacco: 20 PY hx
+- Alcohol: occ
+- Illicits: none
+
+Family History:
+Family History:  mother with hx of cardiac disease, blood clots,
+MI, HTN, sister died of meningitis at age 2
+
+Physical Exam:
+Vitals: T:97.1 BP:95/54 P:64 R:14 O2:96% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, faint exp wheezes,
+rales, ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNS [**3-22**], 5/5 strength throughout, sensation intact
+throughout, 2+ reflexes throughout.
+
+Pertinent Results:
+[**2143-9-14**] 04:10PM CEREBROSPINAL FLUID (CSF)  PROTEIN-195*
+GLUCOSE-52
+[**2143-9-14**] 04:10PM CEREBROSPINAL FLUID (CSF)  WBC-775 RBC-70*
+POLYS-2 LYMPHS-89 MONOS-8 EOS-1
+[**2143-9-14**] 04:10PM CEREBROSPINAL FLUID (CSF)  WBC-855 RBC-370*
+POLYS-0 LYMPHS-88 MONOS-12
+[**2143-9-14**] 01:51PM   LACTATE-0.8
+[**2143-9-14**] 01:40PM   GLUCOSE-84 UREA N-12 CREAT-0.8 SODIUM-140
+POTASSIUM-4.0 CHLORIDE-104 TOTAL CO2-27 ANION GAP-13
+[**2143-9-14**] 01:40PM   estGFR-Using this
+[**2143-9-14**] 01:40PM URINE  HOURS-RANDOM
+[**2143-9-14**] 01:40PM URINE  UCG-NEGATIVE
+[**2143-9-14**] 01:40PM   WBC-9.9 RBC-4.63 HGB-13.7 HCT-40.4 MCV-87
+MCH-29.7 MCHC-34.0 RDW-13.1
+[**2143-9-14**] 01:40PM   NEUTS-82.4* LYMPHS-14.2* MONOS-3.1 EOS-0.1
+BASOS-0.2
+[**2143-9-14**] 01:40PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+
+[**2143-9-14**] 04:15PM CEREBROSPINAL FLUID (CSF) HERPES SIMPLEX TYPE
+II DNA DETECTED
+
+[**2143-9-14**] 4:10 pm CSF;SPINAL FLUID      TUBE 3.
+   GRAM STAIN (Final [**2143-9-14**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+   FLUID CULTURE (Preliminary):    NO GROWTH.
+
+CT HEAD [**2143-9-14**]:
+FINDINGS: There is no evidence of hemorrhage, edema, mass
+effect. The
+[**Doctor Last Name 352**]-white matter differentiation is preserved. The ventricles
+and sulci are normal in size and configuration. Note is made of
+bilateral basal ganglia calcification. The visualized portions
+of the paranasal sinuses and mastoid air cells are well aerated.
+There is no acute fracture.
+IMPRESSION: No evidence of an acute intracranial abnormality.
+
+LEFT LOWER EXTREMITY ULTRASOUND [**2143-9-16**]: No left lower extremity
+DVT
+
+Brief Hospital Course:
+40 year-old woman presents with fever, headache,
+photosensitivity, and neck stiffness.  LP performed revealing
+elevated WBC in CSF consistent with meningitis viral more likely
+than bacterial.  Vancomycin and Chrlorampenicol started to cover
+bacterial meningitis (PCN allergy) and Acyclovir to cover HSV
+meningitis.  The patient underwent desensitization to
+cephlasporins and was transitioned to Cefepime.  Dexamethasone
+was also started for meningitis, but only given for one day.
+Vancomycin and Cefepime were discontinued after CSF cultures
+were no growth for 48 hours.  HSV PCR was positive and treatment
+plan determined for meningitis--Acyclovir IV for 3 week course.
+All of the patient's initial symptoms improved over he hospital
+course.
+
+OTHER PROBLEMS:
+# Asthma, chronic, stable
+
+# DVT prophylaxis: Subcutaneous heparin
+
+# Code: Full (discussed with patient)
+
+Medications on Admission:
+Albuterol prn
+Loratidine prn
+Ibuprofen prn
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q6H (every 6 hours) as needed for pain: Not to exceed 4000mg
+Acetaminophen daily.
+Disp:*8 Tablet(s)* Refills:*0*
+2. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q6H (every 6 hours) as needed for SOB,
+wheezing.
+3. Zofran 4 mg Tablet Sig: 1-2 Tablets PO every eight (8) hours
+as needed for nausea.
+Disp:*10 Tablet(s)* Refills:*0*
+4. Acyclovir Sodium 500 mg Recon Soln Sig: Six [**Age over 90 1230**]y
+(650) mg Intravenous Q8H (every 8 hours) for 18 days: 3 week
+course ([**9-15**] - [**10-5**]).
+Disp:*53 doses* Refills:*0*
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Last Name (un) 6438**]
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+- Meningitis, herpes simplex virus
+
+SECONDARY DIAGNOSIS:
+- Asthma, chronic
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You presented for evaluation of fever and headache.  Your
+diagnosis is HSV Meningitis, an infection in the fluid around
+the brain and spinal cord.  The recommended treatment is
+Acyclovir for 3 weeks total ([**9-15**] through [**10-5**]).
+Weekly lab tests will be obtained for monitoring of your
+condition. You will follow up in our Infectious Disease clinic
+for this condition.
+
+Followup Instructions:
+Name: [**Last Name (LF) **],[**First Name3 (LF) **] M
+Location: [**Location **]
+Address: [**Last Name (un) 6949**], [**Location (un) **],[**Numeric Identifier 6950**]
+Phone: [**Telephone/Fax (1) 18099**]
+Appointment: Thursday, [**9-26**] at 2:00PM
+
+Department: INFECTIOUS DISEASE
+When: MONDAY [**2143-9-30**] at 9:00 AM
+With: [**First Name4 (NamePattern1) 2482**] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 457**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Hospital 1422**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+

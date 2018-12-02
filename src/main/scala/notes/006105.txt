@@ -1,0 +1,224 @@
+Admission Date:  [**2149-5-1**]              Discharge Date:   [**2149-5-5**]
+
+Date of Birth:  [**2091-7-25**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+occasional DOE, ankle edema
+
+Major Surgical or Invasive Procedure:
+Minimally Invasive mitral valve repair [**5-1**]
+
+
+History of Present Illness:
+57 yo M referred for echo after PCP heard murmur. Echo showed
+severe MR, patient referred for surgery.
+
+Past Medical History:
+MR, ^chol, HTN, Rosacea, Asthma, Rt hernia repair
+
+Social History:
+works as Compiance officer, denies tobacco use, formerly several
+glasses of wine each night, none since 2 months.
+
+Family History:
+NC
+
+Physical Exam:
+VS: HR=84, RR=20,BP= 130/80
+General: NAD
+Lungs: CTA(B)
+CVS:RRR, holosystolic murmur
+ABD:benign
+EXT: 0 C/C/E
+no varicosities, no carotid bruits
+
+
+Pertinent Results:
+[**2149-5-5**] 07:55AM BLOOD WBC-7.1 RBC-2.90* Hgb-9.5* Hct-26.5*
+MCV-92 MCH-32.7* MCHC-35.7* RDW-13.8 Plt Ct-232#
+[**2149-5-1**] 08:26PM BLOOD PT-14.7* PTT-30.2 INR(PT)-1.3*
+[**2149-5-5**] 07:55AM BLOOD Glucose-117* UreaN-13 Creat-1.0 Na-141
+K-3.9 Cl-104 HCO3-31 AnGap-10
+   RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  [**2149-5-5**] 11:02 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate rll s/p min inv mvr
+
+[**Hospital 93**] MEDICAL CONDITION:
+57 year old man with s/p min inv mvr
+REASON FOR THIS EXAMINATION:
+evaluate rll s/p min inv mvr
+HISTORY: Mitral valve replacement.
+
+Three radiographs of the chest again demonstrate a tiny
+right-sided pneumothorax. Linear lung markings involving the
+bilateral mid and lower lungs represent persistent atelectasis.
+There is a persistent right-sided effusion. Trachea is midline.
+Cardiomediastinal contours are unchanged.
+
+IMPRESSION:
+
+Persistent bilateral atelectasis and right-sided pleural
+effusion.
+
+Tiny right-sided pneumothorax.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 77269**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 77270**] (Complete)
+Done [**2149-5-1**] at 5:23:53 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2091-7-25**]
+Age (years): 57 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Mitral valve prolapse.
+ICD-9 Codes: 424.0
+Test Information
+Date/Time: [**2149-5-1**] at 17:23    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.3 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec
+
+Findings
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+regional/global systolic function (LVEF>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending, transverse and descending thoracic
+aorta with no atherosclerotic plaque.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Partial
+mitral leaflet flail. Moderate to severe (3+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler. There is mild symmetric left ventricular hypertrophy
+with normal cavity size and regional/global systolic function
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. The ascending, transverse and descending thoracic
+aorta are normal in diameter and free of atherosclerotic plaque
+to 35 cm from the incisors. The aortic valve leaflets (3) are
+mildly thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is partial mitral leaflet flail. There is an
+eccentric mitral regurgitant with a P2 flail segment of mitral
+valve c/w Moderate to severe (3+) mitral regurgitation is seen.
+There is no pericardial effusion. Dr. [**Last Name (STitle) 914**] was notified in
+person of the results on [**Known firstname **] [**Known lastname **] at 2pm.
+
+Post_Bypass:
+Preserved biventricular [**Last Name (un) **] stolic function. LVEF 55%.
+Thoracic aortic contour is intact.
+There is a prosthesis in the mitral annular position and is
+stable and functioning well. There is no residual MR>
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2149-5-2**] 07:56
+
+
+
+Brief Hospital Course:
+On [**2149-5-1**] he was taken to the operating room where he
+underwent minimally invasive mitral repair. Please refer to
+operative note for further details. XCT=80 minutes,CPB=107
+minutes. Patient was transferred to ICU in stable condition.
+Mr.[**Known lastname **] was extubated on POD #1, prolonged due to a
+respiratory acidosis. He was transferred to the floor on POD#1.
+Hospital course complicated by Atrial Fibrillation which was
+treated with an increase in Beta Blocker and started on
+Amiodarone.Rhythm converted to normal sinus and amio changed to
+po dosing. CXR post chest tube removal revealed a tiny right
+sided, stable pneumothorax. He was reday for discharge home on
+POD #4.
+
+Medications on Admission:
+Lopressor 25", Lipitor 80', ASA 81', Albuterol, MVI, Ginko
+balboa, Acidophilus, Saw [**Location (un) **]
+
+Discharge Medications:
+1. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for 2 weeks.
+Disp:*90 Tablet(s)* Refills:*0*
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day for
+2 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+5. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+Two (2) Tab Sust.Rel. Particle/Crystal PO once a day for 2
+weeks.
+Disp:*28 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+6. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+10. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+11. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation
+every four (4) hours

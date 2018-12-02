@@ -1,0 +1,212 @@
+Admission Date:  [**2129-1-17**]              Discharge Date:   [**2129-1-27**]
+
+Date of Birth:  [**2052-2-13**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics) / Shellfish
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Aortic stenosis
+
+Major Surgical or Invasive Procedure:
+[**2129-1-19**] - Core Valve Placement Percutaneous aortic valve
+replacement with a 26-mm [**Company 1543**] CoreValve device, model
+#MCS-P3-640, serial
+    #[**Serial Number 71148**].
+Balloon aortic valvuloplasty.
+
+
+History of Present Illness:
+This 76 year old white female with known critical aortic stensis
+was referred for Corevalve placement as she was deemed a high
+risk operative candidate due to heavy calcification of the
+aortic annulus.
+
+Core valve data:
+EXTREME risk cohort
+STS score 5. % (morbid/mortality 27.7 %)
+Euroscore 17.6 %
+Creat 1.3. CrCl 40
+
+
+
+Past Medical History:
+critical aortic stenosis
+s/p coronary artery bypass
+s/p aortic valvuloplasty
+Hypertension
+Autoimmune Hepatitis with cirrhosis (Child's Class A)
+Anemia
+subclavian steal phenomenon
+Peripheral Vascular Disease
+Seizure in [**5-5**] 8.  L sided subclavian steal
+h/o paroxysmal atrial fibrillation
+s/p appendectomy
+
+
+Social History:
+She is retired, married and lives with her husband and 2 adult
+children.
+She formerly worked at [**Company 2892**] as a telephone operator for 20
+years.
+She denies tobacco, illicit drug, or ETOH use.
+
+Family History:
+There is a strong family history of CAD.  Five brothers and
+sisters who are currently in their 60s all with CAD. Many of
+them
+have required CABG.
+
+Physical Exam:
+admission:
+
+VS:   T 97.2 BP 171/66 P 74 RR 16 O2 100 RA
+Weight 149.3 lbs (prior weight 141 lbs)
+HEENT:  PERRL.  No JVD. Carotid bruit vs. radiation of murmur
+bilaterally
+Neck:  The mucous membranes were moist.
+Lungs:  Clear to auscultation
+Cardiovascular:   There was no jugular venous distension.  S1
+was
+normal and S2 was diminished.  There was a II/VI late peaking
+systolic murmur at the left sternal border.
+Abdomen:  Soft without hepatosplenomegaly
+Neurologic Examination:  Alert and Oriented x 3
+Skin:  No CCE.  There were no petechia or purpura.  There was
+no edema.
+Pulse: Left radial pulse 1+, right radial pulse 2+, DP/PT 1+
+bilat
+
+Pertinent Results:
+[**2129-1-25**] 04:14AM BLOOD WBC-6.1 RBC-3.82* Hgb-11.5* Hct-34.6*
+MCV-91 MCH-30.0 MCHC-33.1 RDW-15.9* Plt Ct-158
+[**2129-1-20**] 04:24AM BLOOD WBC-8.8# RBC-2.69* Hgb-8.6* Hct-25.4*
+MCV-94 MCH-31.9 MCHC-33.8 RDW-13.9 Plt Ct-139*
+[**2129-1-17**] 06:00PM BLOOD WBC-5.3 RBC-3.23* Hgb-10.7* Hct-30.7*
+MCV-95 MCH-33.2* MCHC-35.0 RDW-13.7 Plt Ct-162
+[**2129-1-26**] 03:24AM BLOOD PT-25.6* INR(PT)-2.5*
+[**2129-1-25**] 04:14AM BLOOD PT-22.0* INR(PT)-2.1*
+[**2129-1-24**] 03:58AM BLOOD PT-21.7* PTT-96.6* INR(PT)-2.0*
+[**2129-1-23**] 05:58AM BLOOD PT-19.2* PTT-71.9* INR(PT)-1.7*
+[**2129-1-22**] 01:48PM BLOOD PT-16.9* PTT-63.2* INR(PT)-1.5*
+[**2129-1-22**] 05:09AM BLOOD PT-15.2* PTT-32.0 INR(PT)-1.3*
+[**2129-1-26**] 03:24AM BLOOD Glucose-96 UreaN-69* Creat-2.4* Na-131*
+K-4.4 Cl-95* HCO3-26 AnGap-14
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known lastname **], [**Known firstname 2671**]       [**Hospital1 18**] [**Numeric Identifier 71149**]Portable
+TTE (Complete) Done [**2129-1-26**] at 12:07:13 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**] C.
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2052-2-13**]
+Age (years): 76 F  Hgt (in): 61
+BP (mm Hg): 96/61  Wgt (lb): 145
+HR (bpm): 59  BSA (m2): 1.65 m2
+Indication: Aortic valve disease. Left ventricular function.
+ICD-9 Codes: 424.1, 424.0, 424.3, 424.2
+Test Information
+Date/Time: [**2129-1-26**] at 12:07    Interpret MD: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+[**Last Name (NamePattern1) **], MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name4 (NamePattern1) 1022**] [**Last Name (NamePattern1) **],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: [**Location 13333**]/[**Hospital Ward Name 121**] 6
+Contrast: None Tech Quality: Adequate
+Tape #: 2011W000-0:00 Machine: Vivid q-2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.2 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.3 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.3 m/s
+Left Atrium - Peak Pulm Vein D:  0.7 m/s
+Right Atrium - Four Chamber Length:  4.8 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.5 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  3.4 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.2 cm
+Left Ventricle - Fractional Shortening:  0.35  >= 0.29
+Left Ventricle - Ejection Fraction:  60% to 65%  >= 55%
+Left Ventricle - Lateral Peak E':  *0.07 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.05 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *22  < 15
+Aorta - Sinus Level:  2.2 cm  <= 3.6 cm
+Aorta - Ascending:  3.1 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *2.3 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *20 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  8 mm Hg
+Mitral Valve - E Wave:  1.3 m/sec
+Mitral Valve - A Wave:  1.0 m/sec
+Mitral Valve - E/A ratio:  1.30
+Mitral Valve - E Wave deceleration time:  164 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *>= 36 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the prior study of [**2129-1-20**].
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+
+LEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size.
+Normal regional LV systolic function. Overall normal LVEF
+(>55%). No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter.
+
+AORTIC VALVE: Aortic CoreValve. Normal AVR gradient. Mild (1+)
+AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Mild to moderate ([**11-28**]+) MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Moderate [2+] TR. Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+Conclusions
+The left atrium is mildly dilated. There is moderate symmetric
+left ventricular hypertrophy. The left ventricular cavity size
+is normal. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+An aortic CoreValve prosthesis is present. The transaortic
+gradient is normal for this prosthesis. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild to moderate ([**11-28**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened. There is mild
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+Compared with the prior study (images reviewed) of [**2129-1-20**],
+the left ventricular cavity size is now normal. Function is
+normal rather than hyperdynamic. CoreValve prosthesis is in the
+appopriate position with normal gradients and mild
+per-prosthetic regurgitation. Degrees of mitral regurgitation
+and pulmonary hypertension are similar.
+  Electronically signed by [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2129-1-26**] 16:28
+
+
+?????? [**2120**] CareGroup IS. All rights reserved.
+    [**Known lastname **],[**Known firstname 2671**] R [**Medical Record Number 71150**] F  76  [**2052-2-13**]
+
+Radiology Report MR HEAD W/O CONTRAST Study Date of [**2129-1-24**]
+3:14 PM
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG CSRU [**2129-1-24**] 3:14 PM
+MR HEAD W/O CONTRAST   Clip # [**Clip Number (Radiology) 71151**]
+Reason: ? stroke post [**Hospital **]
+ [**Hospital **] MEDICAL CONDITION:
+   76 year old woman with s/p corevalve
+REASON FOR THIS EXAMINATION:
+   ? stroke post corevalve
+CONTRAIND

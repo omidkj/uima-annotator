@@ -1,0 +1,204 @@
+Admission Date:  [**2147-8-21**]              Discharge Date:   [**2147-8-29**]
+
+
+Service: MEDICINE
+
+Allergies:
+Morphine / Mirtazapine
+
+Attending:[**First Name3 (LF) 2901**]
+Chief Complaint:
+ICD firing for VTach
+
+Major Surgical or Invasive Procedure:
+Your ICD was interrogated on [**2147-8-21**], and you were shocked for
+Ventricular Tachycardia by your AICD once during this admission.
+
+
+History of Present Illness:
+The patient is a 86 yo man with h/o CAD s/p MI and CABG in [**2136**],
+chronic AFib with V-pacing, chronic systolic CHF with EF 20%,
+who presents with recurrent ICD firing in the setting of
+sustained VTach.  The patient states that he was in his normal
+state of health until this afternoon, when he was "shocked" at
+his nursing home.  Per the nursing home, the patient was shocked
+by his ICD at approximately 3 PM.  He then had [**6-21**] subsequent
+episodes of ICD firing.  He became unresponsive for 5-10 seconds
+during these episodes but regained consciousness with ICD
+firing.  The patient denies recent lower extremity swelling,
+shortness of breath, orthopnea, PND.  He does endorse a feeling
+of chest fullness after the repeated shocks.  The patient was
+brought to the ED for further evaluation.
+
+In the ED, the patient's VS were T 98.1, P 74, BP 118/80, R 16,
+O2 96% on RA.  EP was consulted and the patient's pacemaker was
+interrogated.  The patient's programmed anti-tachycardia pacing
+settings were decreased, and the number of Joules for firing was
+increased from 20 to 35.  He was thought to be fluid overloaded,
+so he was given Lasix 80 mg IV x1.  He was then given a
+Lidocaine bolus of 100 mg IV and started on Lidocaine 2 mg gtt.
+
+
+On arrival to the floor, the patient had another episode of VT,
+for which he was shocked after approximately 15 seconds.  The
+patient was unresponsive during this episode but regained
+consciousness when his ICD fired.
+
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He does endorse recent constipation for the past two days.  All
+of the other review of systems were negative.
+
+Cardiac review of systems is notable for absence of dyspnea on
+exertion (though poor exercise capacity), paroxysmal nocturnal
+dyspnea, orthopnea, ankle edema, palpitations.
+
+Past Medical History:
+ MI X2 (inferior and anteroseptal)
+- CABG: LIMA to LAD, SVG to OM/PDA ([**Hospital1 112**] [**2136**])
+- Afib w/o anticoag (fall risk)
+- Sustained VTach in [**2146**] s/p admission
+- PACING/ICD: BiV ICD ([**2122**]?).  ICD generator changed to
+[**Company 1543**] Concerto in [**2145**].
+3. OTHER PAST MEDICAL HISTORY:
+- legally blind secondary to glaucoma
+- Hiatal hernia
+- Hepatic cysts/hemangioma and lipoma in hepatic flexure
+- s/p Lt BKA (WWII trauma [**2078**])
+- BPH s/p suprapubic prostatectomy ([**2131**])
+- s/p cholecystectomy ([**2110**])
+- Chronic low back pain
+- Osteoarthritis
+- Positive PPD in past
+- Depression and anxiety
+
+
+Social History:
+The patient immigrated from [**Country 532**] 20 years ago; lives at [**Hospital1 100**]
+Senior Center w/ wife. Former oncology surgeon w/ one daughter
+and grandaughter in [**Name (NI) 86**]
+-Tobacco history: None currently
+-ETOH:  None
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+VS: T 97.9, P 80, BP 123/72, R 16, O2 97% on RA
+GENERAL: Elderly man, blind, pleasant and anxious, in NAD.
+HEENT: Decreased visual acuity bilaterally. Sclera anicteric.
+PERRL, No pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple with JVP of 9 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Bronchial breath sounds
+in right middle lobe.  No crackles appreciated.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.  RUQ scar
+EXTREMITIES: s/p Left leg BKA.  1+ edema in RLE.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+
+Pertinent Results:
+[**2147-8-21**] 06:15PM
+139 | 105 | 20 / 130
+3.7 | 23  | 1.1\
+CALCIUM-9.0 PHOSPHATE-3.2 MAGNESIUM-2.1
+
+COAGs: PT-14.1* INR(PT)-1.2*
+
+    13.0
+9.9 >---< 247
+    39.8
+
+[**2147-8-21**] 06:15PM  cTropnT-0.02, CK(CPK)-42
+[**2147-8-22**] 01:57AM    Trop 0.03 CK 46
+
+[**2147-8-21**] 10:18PM   DIGOXIN-0.2*
+
+TSH:0.30 Free-T4:1.3
+
+U/A: Small bili, trace protein, few bacteria, no leuk esterase,
+[**7-26**] hyaline casts
+
+========================================
+DISCHARGE LABS:
+
+[**2147-8-29**] 06:30AM BLOOD WBC-12.0* RBC-4.50* Hgb-12.3* Hct-39.1*
+MCV-87 MCH-27.4 MCHC-31.5 RDW-15.3 Plt Ct-264
+
+[**2147-8-29**] 06:30AM BLOOD Glucose-148* UreaN-29* Creat-1.0 Na-137
+K-3.6 Cl-99 HCO3-26 AnGap-16
+
+[**2147-8-26**] 04:15AM BLOOD ALT-33 AST-25 LD(LDH)-260* AlkPhos-80
+TotBili-3.1*
+
+[**2147-8-25**] 04:04AM BLOOD %HbA1c-6.1*
+
+========================================
+RELEVANT STUDIES:
+
+CXR ([**2147-8-21**]):  Wet read: low lung volumes result in
+bronchovascular crowding, likely account for right infrahilar
+opacity. vascular congestion, new retrocardiac opacity.
+
+CXR ([**2147-8-25**]): Interval worsening of the left basal
+consolidation that might represent infectious process versus
+atelectasis.
+
+EKG ([**2146-8-24**]):  Ventricularly paced at rate of 79 bpm.  Left
+axis deviation.  RBBB with LAFB.  Q waves in II, III, AVF.
+
+2D-ECHOCARDIOGRAM ([**2146-8-22**]): Left atrium is markedly dilated.
+Left ventricular wall thicknesses are normal. Left ventricular
+cavity is moderately dilated. Severe regional left ventricular
+systolic dysfunction with severe hypokinesis of nearly all
+segments. Estimated cardiac index is depressed (<2.0L/min/m2).
+Tissue Doppler imaging suggests an increased left ventricular
+filling pressure (PCWP>18mmHg). Right ventricular cavity is
+moderately dilated with moderate global free wall hypokinesis.
+Aortic root is moderately dilated at the sinus level. The
+ascending aorta is mildly dilated. Aortic valve leaflets (3)
+mildly thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. Mitral valve leaflets are mildly
+thickened. Moderate (2+) mitral regurgitation is seen. Tricuspid
+valve leaflets are mildly thickened. The pulmonary artery
+systolic pressure could not be quantified. There is no
+pericardial effusion. IMPRESSION: Moderate left ventricular
+cavity enlargement with extensive regional systolic dysfunction
+and depressed cardiac index c/w multivessel CAD or other diffuse
+process. Right ventricular cavity enlargement with free wall
+hypokinesis. Moderate mitral regurgitation. Dilated thoracic
+aorta.
+
+Brief Hospital Course:
+# Ventricular Tachycardia:  The patient had approximately 8
+episodes of VTach the day of admission, for which his ICD fired.
+ He became unresponsive for approximately 5-10 seconds during
+these episodes and regained consciousness with ICD firing.  It
+appears that the patient was not taking Amiodarone at [**Hospital 100**]
+Rehab. On discussion with staff and Dr. [**Last Name (STitle) 73**], it seemed
+that Amiodarone was discontinued since patient had not had VT or
+ICD firing from [**Month (only) **] to [**2147-6-16**], and it was felt pt would be
+stable off Amiodarone. Interrogation of his pacemaker on
+admission showed over 20 shocks delivered for VT in the past few
+weeks. The most likely etiology for these recurrence episodes is
+lack of effective medication and electrolyte disturbances were
+thought to have played a secondary role.
+
+Patient was treated with Lidocaine and amiodarone drip in the
+CCU and transitioned to Amiodarone PO after a 10 gram load. He
+is currently on Amiodarone 400 mg daily. He has had many
+episodes of Slow VT (rates 120's) in which the BP has been
+stable and pt has been asymptomatic. His ICD was adjusted so
+that a shock is delivered only for VF or VT at a very high rate.
+ It is also set to pace him out of faster rhythms as a primary
+r

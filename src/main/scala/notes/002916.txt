@@ -1,0 +1,234 @@
+Admission Date:  [**2191-8-9**]              Discharge Date:   [**2191-8-17**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5827**]
+Chief Complaint:
+CHF exacerbation
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+89 yo male with a PMHx of CHF, HTN, chronic lymphedema/venous
+stasis was admitted to [**Hospital1 18**] with worsening SOB "for a long
+time." Over the last day, his SOB at NH increased. A CXR had CHF
+findings and the patient got 140 po lasix (via 3 doses) with
+good urine output. Despite this, he continued to be SOB. O2 sat
+by ems was 74 on 4L; this increased to 96% on NRB. He was given
+40 iv lasix and 3 sl nitro by ems with slight improvement and
+transferred to [**Hospital1 18**]. No cp/f/c/n/v. Per patient, + for
+orthopnea and increasing SOB
+
+Past Medical History:
+-CHF
+-multiple falls
+-HTN
+-BPH
+-Chronic Lymphedema
+-Venous stasis (w/ LLE stasis ulcer)
+-PEripheral Neuropathy
+
+
+Social History:
+Txferred from [**Hospital3 2558**].
+
+Family History:
+NA
+
+Physical Exam:
+On admission:
+T:97.6 BP:113/82 P: 94 RR: 15 O2 sats:98% NRB
+Gen: Pleasant elderly gentleman slightly SOB with speaking
+HEENT: JVD not visible.
+CV: +s1+s2 +diastolic murmur along L sternal border
+Resp: Crackles at bases bilaterally. No wheezing
+Abd: +BS Soft NT ND
+Ext: L>R leg with lymphedema. Non pitting edema.
+
+
+Pertinent Results:
+Labs on Admission:
+[**2191-8-9**] 08:07PM BLOOD WBC-9.2 RBC-4.65 Hgb-15.0 Hct-43.5 MCV-94
+MCH-32.2* MCHC-34.5 RDW-16.6* Plt Ct-237
+[**2191-8-9**] 08:07PM BLOOD Neuts-77.4* Lymphs-16.6* Monos-4.3
+Eos-1.5 Baso-0.2
+[**2191-8-9**] 08:07PM BLOOD Plt Ct-237
+[**2191-8-9**] 08:07PM BLOOD Glucose-154* UreaN-24* Creat-2.0* Na-139
+K-6.4* Cl-102 HCO3-27 AnGap-16
+[**2191-8-9**] 08:07PM BLOOD CK(CPK)-195*
+[**2191-8-9**] 08:07PM BLOOD CK-MB-2
+[**2191-8-9**] 08:07PM BLOOD cTropnT-0.05*
+[**2191-8-10**] 04:06AM BLOOD CK(CPK)-140
+[**2191-8-10**] 04:06AM BLOOD CK-MB-3 cTropnT-0.07*
+[**2191-8-9**] 08:07PM BLOOD Calcium-9.3 Phos-3.9 Mg-2.3
+[**2191-8-10**] 02:45AM BLOOD Type-ART pO2-82* pCO2-48* pH-7.40
+calTCO2-31* Base XS-3
+[**2191-8-9**] 10:26PM BLOOD Lactate-1.8
+*
+Studies:
+CHEST (PORTABLE AP)  [**2191-8-9**] 9:43 PM
+FRONTAL CHEST RADIOGRAPH: Study is slightly limited by motion
+artifact. Cardiac and mediastinal contours appear grossly
+unremarkable allowing for portable technique. Increased
+interstital opacities are noted, consistent with
+mild-to-moderate CHF. No focal consolidations are seen. No
+definite pleural effusions identified.
+
+IMPRESSION: Slightly limited by motion artifact.
+Mild-to-moderate CHF.
+*
+BILAT LOWER EXT VEINS  [**2191-8-10**] 12:42 PM
+FINDINGS: Grayscale and color Doppler imaging of the common
+femoral, superficial femoral, and popliteal veins were performed
+bilaterally. The right common femoral vein only partially
+compresses and likely has non- occlusive thrombus within. The
+superficial femoral vein does not compress and no demonstrable
+flow is seen within. The right popliteal vein compresses and
+demonstrates normal flow.
+
+Likely non-occlusive thrombus is also identified within the left
+common femoral vein though normal compressibility and flow is
+seen within the left superficial femoral and popliteal veins.
+
+IMPRESSION: Non-occlusive thrombus within the common femoral
+vein bilaterally. Occlusive thrombus likely within the right
+superficial femoral vein.
+*
+ECHO [**2191-8-10**]
+Conclusions:
+The left atrium is mildly dilated. The right atrium is
+moderately dilated. No atrial septal defect is seen by 2D or
+color Doppler. The estimated right atrial pressure is 11-15mmHg.
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size and regional/global systolic function (LVEF>55%).
+There is no ventricular septal defect. The right ventricular
+cavity is moderately dilated. Right ventricular systolic
+function is borderline normal. Interventricular septal motion is
+normal. The ascending aorta is mildly dilated. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild to moderate ([**11-23**]+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened.  Moderate [2+] tricuspid regurgitation is seen. There
+is moderate pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+
+IMPRESSION: Normal LVEF. Dilated RV with borderline normal
+systolic function.  Moderate to severe pulmonary hypertension.
+These findings suggest chronic pulmonary hypertension. No
+findings of acute, massive pulmonary embolism are suggested.
+*
+
+Brief Hospital Course:
+*
+A/P: 89 yo male with hx of CHF, HTN and venous stasis/lymphedema
+with CHF exacerbation
+.
+# CHF Exacerbation/Hypoxia: now resolved thought to be due to
+CHF exacerbation. PT had CTA which was negative for PE. Pt
+started on Levofloxacin for question of pneumonia. Pt received
+Lasix daily with good result.
+.
+#. [**Name (NI) 61151**] Pt had bilateral superficial femoral thrombosis. Pt was
+started on a heparin gtt with bridge to coumadin with goal INR
+2.5 - 3.0. Currently at goal on discharge.
+.
+# Fever: Pt had one upon admission, thought to be [**12-24**] pneumonia,
+treated with 5 day course of Levofloxacin.  [**8-9**] blood culture
+pending, [**8-9**] urine culture contaminated but negative for
+Legionella Ag.  [**8-12**]- sputum cultures 4+ GP cocci in
+pairs/chains, 2+ GN rods, 2+ GP rods
+.
+
+
+Medications on Admission:
+-lasix 80mg daily
+-prilosec 40mg daily
+-aspirin 325mg daily
+-diltiazem SA 120mg daily
+- fluticasone nasal spray 50mcg
+-KCl 40mEq daily
+-Therapeutic-N one tab daily
+-Spiriva 18mcg daily
+-colchicine 0.6mg daily
+-mirtazapine 15mg daily
+-acular ls 0.4% each eye [**Hospital1 **]
+-labetalol 100mg [**Hospital1 **]
+-artificial tears
+-tylenol PRN
+-MOM PRN
+-NTG PRN
+-duonebs PRN
+
+
+Discharge Medications:
+1. Fluticasone 50 mcg/Actuation Aerosol, Spray Sig: One (1)
+Spray Nasal DAILY (Daily).
+2. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+3. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+4. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed.
+5. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+Inhalation Q6H (every 6 hours) as needed.
+6. Erythromycin 5 mg/g Ointment Sig: One (1)  Ophthalmic QID (4
+times a day).
+7. Labetalol 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+8. Ketorolac Tromethamine 0.5 % Drops Sig: One (1) Drop
+Ophthalmic [**Hospital1 **] (2 times a day).
+9. Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day).
+10. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+11. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+12. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+13. Furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+14. Warfarin 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+15. Outpatient Lab Work
+Please check INR [**8-18**], [**8-22**], [**8-25**]
+If INR>3.0 will need coumadin dose adjusted and pt should follow
+up with his PCP [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 335**] [**Last Name (NamePattern1) 5351**].
+Pt will need help with administration of nebulizers and other
+medicaitons.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 2558**] - [**Location (un) **]
+
+Discharge Diagnosis:
+CHF exacerbation
+
+
+Discharge Condition:
+Improved
+
+
+Discharge Instructions:
+You were admitted to the hospital for a CHF exacerbation. You
+were initially treated with some supplemental oxygen and Lasix
+to imrove your urine output. In addition, a study showed that
+you clots in your veins in the legs and you were started on
+heparin and than transitioned to Coumadin.
+
+You will need to get routine checks of your INR which will help
+monitor your coumadin level. You will need to be checked in 2
+days and then every 3 days thereafter.
+
+If you are feeling short of breath or having any chest pain,
+please return to the ED for further management
+
+Followup Instructions:
+You will see

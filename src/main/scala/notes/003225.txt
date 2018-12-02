@@ -1,0 +1,222 @@
+Admission Date:  [**2152-2-12**]              Discharge Date:   [**2152-3-21**]
+
+Date of Birth:  [**2110-11-20**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 759**]
+Chief Complaint:
+Respiratory failure, hepatitis
+
+
+Major Surgical or Invasive Procedure:
+Central Venous Line Placement
+Arterial Line Placement
+Intubation
+Mechanical Ventilation
+
+History of Present Illness:
+Patient intubated & unable to answer questions. History obtained
+from medical chart and patient's mother, [**Name (NI) 1258**] [**Name (NI) 5261**].
+
+Ms. [**Known lastname 30949**] is a 41 y/o F with PMH of hepatitis C and IVDU who
+presented to OSH with several days of abdominal pain, N/V, and
+jaundice. She described the pain as constant and diffuse. She
+reported subjective fevers with cough. Denied urinary symptoms
+or change in stool color. Per the patient's mother, Ms.
+[**Known lastname 30949**] was seen by her stepfather four days ago and he
+noticed that she "looked ill and yellow." Reportedly took 4
+tylenol tables (unknown strength yesterday morning). At the OSH,
+she received 3 mg IV dilaudid, 12.5 mg phenergan, and 1 L NS.
+Blood pressure reported at 106/59 at OSH with tachycardia to
+101. Reported CXR no infiltrates (?). Blood cultures were sent
+and she was found to have transaminases AST > [**Numeric Identifier 3301**], ALT > 8000
+and transferred to [**Hospital1 18**] for treatment of liver failure. Of
+note, in OSH ED, patient reported prolonged sobriety but recent
+use of opiates and alcohol but stopping 4 days prior to
+presentation; reported not being able to keep down POs since
+that time.
+
+Initial vitals in [**Hospital1 18**] ED: T 96.8, HR 122, BP 84/32 --> 58/18,
+O2 98%. She was noted to be lethargic and was given Narcan. She
+was intubated with succinylcholine, etomidate, vecuronium; she
+received a repeat dose of etomidate at 0345. She received a
+total of 5 L NS and code sepsis was initiated. Right IJ was
+placed. She received vancomycin 1 g IV X 1, levofloxacin 750 mg
+IV X 1, flagyl 500 mg IV X 1, zofran 4 mg, and zosyn 4.5 mg IV X
+1. She was on levophed gtt but this was weaned to off at 0430
+due to hypertension (160s systolic).
+
+ROS (obtained at OSH): + subjective fever, no chills. no chest
+pain, diaphoresis, DOE, orthopnea, edema. + cough but
+nonproductive. + nausea/diarrhea, jaundice, vomiting, anorexia.
+Denies hematemesis, hematochezia, melena. + dizziness. + cold
+intolerance. + easy bruising/bleeding. Denied suicidal ideation.
+
+Past Medical History:
+hepatitis C
+h/o hepatitis B (per records from OSH)
+h/o pancreatitis
+h/o IVDU
+depression/anxiety
+h/o kidney stones per mother
+
+Social History:
+Recently in prison for DUI/reckless driving and drug
+convictions. Then let out of prison to rehab in [**Location (un) 86**] and
+returned to home about one week ago. No permanent housing at
+present. Living at a shelter or with a male friend per mother. +
+alcohol use this week, though until last week was at a
+rehab/shelter in [**Location (un) 86**] and presumably was not drinking. +
+heroin use (within last 24-96 hours by report). + tobacco, 1
+ppd.
+
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+T: 95.9 BP: 128/51 HR: 127 RR: O2 100% on A/C FiO2 80, Tv 500,
+RR 20, PEEP 5
+Gen: intubated, sedated
+HEENT: + scleral icterus & conjunctival edema. tongue dry, op
+clear, poor dentition
+NECK: supple, no palpable lymphadenopathy, R IJ catheter in
+place
+CV: tachycardic, regular, no appreciable murmur
+LUNGS: no wheeze, crackles R > L
+ABD: slightly distended, hyperactive bowel sounds
+EXT: feet & hands cool, good cap refill, no peripheral edema
+SKIN: no rash
+NEURO: sedated. able to move all four extremities. pupils small
+but reactive bilaterally. eyes remain toward ceiling when head
+moved side to side (+ doll's eyes), withdraws to pain
+
+
+Pertinent Results:
+OSH LABS:
+=========
+WBC 8.9 (87%N, 6% lymphs, 5% bands), Hct 38, Plt 129
+lipase 145
+amylase 48
+glucose 77
+Na 138, K 3.6, Cl 100, CO2 26, BUN 9, Cr 0.8
+protein 7.3, albumin 3.7
+Bili 3.2
+Ca 9.1
+AST [**Numeric Identifier 30950**]
+ALT 8040
+Alk phos 141
+serum pregnancy negative
+INR reportedly 3
+
+ADMISSION LABS:
+===============
+
+[**2152-2-12**] 01:00AM BLOOD WBC-16.3* RBC-4.24 Hgb-13.5 Hct-38.1
+MCV-90 MCH-31.9 MCHC-35.4* RDW-12.4 Plt Ct-131*
+[**2152-2-12**] 06:00AM BLOOD WBC-23.6* RBC-3.54* Hgb-10.7* Hct-33.6*
+MCV-95 MCH-30.2 MCHC-31.9 RDW-12.4 Plt Ct-120*
+[**2152-2-12**] 01:00AM BLOOD Glucose-23* UreaN-16 Creat-1.2* Na-143
+K-3.2* Cl-103 HCO3-20* AnGap-23
+[**2152-2-12**] 06:00AM BLOOD Glucose-94 UreaN-13 Creat-0.8 Na-144
+K-3.3 Cl-115* HCO3-14* AnGap-18
+[**2152-2-12**] 01:00AM BLOOD ALT-6760* AST-[**Numeric Identifier **]* AlkPhos-142*
+TotBili-3.5*
+[**2152-2-12**] 12:12PM BLOOD ALT-4216* AST-7188* LD(LDH)-3595*
+AlkPhos-84 TotBili-3.9*
+[**2152-2-12**] 01:00AM BLOOD Albumin-3.6 Calcium-9.0 Phos-2.9 Mg-1.6
+
+MICROBIOLOGY:
+=============
+
+[**2152-2-17**] BLOOD CULTURE Blood Culture, Routine-FINAL {[**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) 30951**], [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 30951**]}; Aerobic Bottle Gram
+Stain-FINAL INPATIENT
+[**2152-2-12**] BLOOD CULTURE Blood Culture, Routine-FINAL
+{STREPTOCOCCUS PNEUMONIAE}; Anaerobic Bottle Gram Stain-FINAL;
+Aerobic Bottle Gram Stain-FINAL EMERGENCY [**Hospital1 **]
+[**2152-2-12**] BLOOD CULTURE Blood Culture, Routine-FINAL
+{STREPTOCOCCUS PNEUMONIAE}; Anaerobic Bottle Gram Stain-FINAL
+[**2152-3-13**] BLOOD CULTURE Blood Culture, Routine-PRELIMINARY
+{STAPHYLOCOCCUS, COAGULASE NEGATIVE, STAPHYLOCOCCUS, COAGULASE
+NEGATIVE}; Anaerobic Bottle Gram Stain-FINAL; Aerobic Bottle
+Gram Stain-FINAL
+
+STUDIES:
+========
+CT Abd / Pelvis [**2152-2-12**]
+1. Dense bilateral large consolidations with small associated
+pleural effusion, worrisome for pneumonia.
+
+2. Abdominal fluid, periportal edema and pericholecystic fluid,
+consistent with volume overload.
+
+3. Left renal cortical defect probably indicative of remote
+pyelonephritis.
+
+4. Heterogenous liver consistent with hepatitis.
+
+5. Retroperitoneal edema.
+
+.
+
+[**2-13**] RUQ US
+RUQ focused ultrasound: There is a small amount of perihepatic
+ascites. The right, left, and middle hepatic veins demonstrate
+appropriate flow, although waveforms are not triphasic. The
+portal vein demonstrates normal hepatopetal flow.
+
+IMPRESSION: The hepatic veins demonstrates normal flow but
+non-triphasic waveforms that may be due to decrease complicance
+secondary to diffuse hepatic disease.
+.
+CTA ABD / PELVIS
+[**2-15**]
+IMPRESSION:
+1. Interval improvement in bibasilar pulmonary consolidations
+suggests an interval improvement in the underlying pneumonia.
+
+2. Interval development of the anasarca, bilateral pleural
+effusion, and progression of the ascitic fluid suggests volume
+overload status.
+
+3. Mild thickening of sigmoid and descending colon. This most
+likely reflects colitis-probably C Diff. . No evidence of bowel
+ischemia is noted.
+
+4. Stable left renal cortical defect probably indicative of
+remote pyelonephritis.
+.
+tte [**2-18**]
+The left atrium is normal in size. Left ventricular wall
+thickness, cavity size, and global systolic function are normal
+(LVEF 60-70%). There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic regurgitation. No masses or
+vegetations are seen on the aortic valve. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse. No mass or vegetation is seen
+on the mitral valve. The estimated pulmonary artery systolic
+pressure is normal. No vegetation/mass is seen on the pulmonic
+valve. There is no pericardial effusion.
+
+IMPRESSION: no obvious vegetations seen on this technically
+suboptimal study
+.
+CT ABD /PELVIS 3.21
+1. Interval improvement in both bilateral consolidations and
+pleural effusions.
+2. Anasarca with no significant change in ascites and pelvic
+free fluid.
+3. Cortical thinning at the site of likely old infection in the
+left kidney.
+
+.
+TTE [**2-25**]
+No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium/

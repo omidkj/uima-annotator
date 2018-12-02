@@ -1,0 +1,192 @@
+Admission Date:  [**2133-2-3**]              Discharge Date:   [**2133-2-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Streptokinase / Avandia / Amiodarone / Phenergan / Morphine /
+Percocet
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+chronic cholecystitis with cholelithiasis
+
+Major Surgical or Invasive Procedure:
+laparoscopic cholecystectomy
+
+History of Present Illness:
+This 86-year-old gentleman recently presented with a bad flareup
+of acute cholecystitis which put him in the hospital at [**Hospital1 3343**] for a number of days back in [**Month (only) 359**].  He admits to
+having a 20-year history of abdominal pain with known
+gallstones.  He is a diabetic. He also has a cardiac history
+including coronary artery bypass graft with anticoagulation for
+atrial fibrillation.
+
+Dr. [**Last Name (STitle) **] met Mr. [**Known lastname **] and his family in my office and
+discussed the fact that he has recurrent problems and symptoms
+from known gallstones.  He has not yet had an ERCP although an
+EUS showed that he has no evidence of stones in his bile duct.
+Dr. [**Last Name (STitle) **] indicated that a laparoscopic cholecystectomy would
+be indicated for his [**Last Name **] problem in that this has become quite
+symptomatic for him.  I did tell him that this would be a bit
+risky due to his age as well as his cardiac comorbidities and
+the fact that he is on anticoagulation.  The risks and benefits
+were discussed. He understood these risks and wished to proceed,
+and provided informed consent to that effect.
+
+Past Medical History:
+- Diverticulosis
+- s/p lower GI bleed with recent admission as noted above
+- Ischemic cardiomyopathy, NYHA Class III
+- Coronary artery disease s/p CABGx2 ([**2109**] and redo [**2118**])
+- Chronic systolic congestive heart failure with severely
+depressed ventricular function, last LVEF 25%
+- Biventricular pacemaker and [**Year (4 digits) 3941**], s/p AVJ ablation [**2125**]
+- Diabetes Mellitus
+- Chronic a-fib
+- s/p MVA [**6-15**] injuring back, chest & hit head
+- Chronic renal insufficiency, stage 3
+- Cholelithiasis
+- Pancreatic cysts
+- Hyperlipidemia
+- Gunshot wounds to left lower extremity with decreased
+sensation
+- Low back pain
+- Cataracts
+
+Social History:
+Social history is significant for the absence of current tobacco
+use. There is no history of alcohol abuse.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+On physical exam, his abdomen is soft, nontender and
+nondistended
+with positive bowel sounds.  He has no evidence of a [**Doctor Last Name 515**]
+sign.  His CABG incision goes down into the epigastrium.  There
+is no evidence of any hernias in either his abdomen or inguinal
+region.  A rectal exam was deferred today.  The rest of his
+physical exam is normal.  His cardiac exam shows an irregular
+rhythm.
+
+Pertinent Results:
+EKG: Afib with ventricular pacing at 69bpm, wide QRS in RBBB
+pattern.
+.
+TELEMETRY: Ventricular pacing.
+.
+Gall Bladder pathology:
+Gallbladder:
+    Chronic cholecystitis
+    Cholelithiasis, cholesterol-type.
+.
+Admission labs:
+[**2133-2-3**] 10:31AM   TYPE-ART PO2-222* PCO2-113* PH-7.02* TOTAL
+CO2-31* BASE XS--5 INTUBATED-NOT INTUBA COMMENTS-AMBUED
+[**2133-2-3**] 10:31AM   O2 SAT-98
+[**2133-2-3**] 10:54AM   WBC-10.2# RBC-4.07* HGB-11.8* HCT-36.4*
+MCV-89 MCH-29.1 MCHC-32.6 RDW-14.5
+[**2133-2-3**] 10:54AM   PLT COUNT-172
+[**2133-2-3**] 10:54AM   GLUCOSE-336* UREA N-43* CREAT-1.6* SODIUM-135
+POTASSIUM-4.5 CHLORIDE-100 TOTAL CO2-25 ANION GAP-15
+[**2133-2-3**] 10:54AM   CALCIUM-8.0* PHOSPHATE-5.5*# MAGNESIUM-2.0
+[**2133-2-3**] 10:54AM   ACETONE-NEGATIVE
+.
+Discharge labs:
+[**2133-2-13**] 07:05AM BLOOD WBC-6.2 RBC-2.74* Hgb-8.1* Hct-24.0*
+MCV-88 MCH-29.8 MCHC-33.9 RDW-15.5 Plt Ct-263
+[**2133-2-13**] 07:05AM BLOOD Plt Ct-263
+[**2133-2-13**] 07:05AM BLOOD PT-27.2* PTT-41.4* INR(PT)-2.7*
+[**2133-2-13**] 07:05AM BLOOD Glucose-122* UreaN-46* Creat-1.4* Na-135
+K-3.8 Cl-97 HCO3-29 AnGap-13
+[**2133-2-13**] 07:05AM BLOOD Calcium-8.1* Phos-3.1 Mg-2.2
+
+Brief Hospital Course:
+Mr. [**Known lastname **] was admitted to Dr.[**Name (NI) 2829**] Pancreaticobiliary
+Surgery Service on [**2133-2-3**] and underwent laparoscopic
+cholecystectomy. He tolerated the procedure well, but his
+post-operative course was complicated by respiratory distress in
+the PACU requiring reintubation and admission to the Surgical
+ICU. After transfer to the ICU, he was weaned from the vent and
+then extubated and subsequently transferred to the floor. The
+rest of his post-operative course was uneventful, however, due
+to his age, comorbidities and the stress of the surgery, he
+required a number of days to recover. During that time, he was
+transitioned off of IV fluids and his diet was advanced. His
+pain was well controlled on oral medications. Due to his low
+ejection fraction and the fluid shifts of surgery, the patient's
+weight had increased from a baseline of the low 130s to the mid
+140 lb range.
+
+Thus, on POD 5, in consultation with his PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 665**], the
+patient was transferred to the Cardiology service for management
+of his fluid overload secondary to his congestive heart failure
+in the setting of a surgical intervention and the associated
+fluid shifts.
+
+On the cardiology service he was diuresed with 80mg IV lasix,
+followed by a lasix drip at 10mg/hr.  He tolerated diuresis
+well, with no signs of hemodynamic compromise.  He self-reported
+his dry weight to be 135 lbs.  On transfer he was at 68kgs
+(150lbs) with pitting posterior thigh and buttock edema.  His
+creatinine rose slightly to 1.6, but came down to 1.4 prior to
+discharge.  His weight was approximately 64kgs (140lbs) at the
+time of discharge.  He was returned to his previous home dose of
+80mg once a day, to be titrated as needed to maintain his
+weight.
+
+The patient had mild abdominal pain post-surgically, that
+worsened [**2133-2-12**].  He was found to have low pelvic pain.  He had
+been having small, frequent urination while being diuresed.  A
+foley catheter was placed, draining 800ccs of urine with
+resolution of his pain.  The foley catheter was left in place
+and he was started on Flomax (tamsulosin).  He will follow up
+with urology to do an outpatient voiding trial [**2133-2-25**] after his
+bladder has had time to recover.
+
+In the setting of his urinary retention, a UA and urine culture
+were checked.  The UA was equivocal (mildly elevated WBCs but no
+bacteria).  The culture grew >100,000 colonies of enterococcus
+and the patient later complained of slight burning with his
+foley catheter.  He was started on amoxicillin 875mg Q12 hours
+for a 14-day course.
+
+The patient has atrial fibrillation, s/p pacer placement and AV
+junction ablation.  He restarted coumadin post-op with a lovenox
+bridge.  Once his INR was stably over 2.0, his lovenox was
+stopped. Prior to discharge his INR was 2.7, and his goal INR
+has been 1.5-2.5 because of bleeding complications. He was
+discharged on a half dose of Coumadin (1.25mg daily) and will
+follow-up with the [**Hospital 18**] [**Hospital 197**] clinic.
+
+He will follow-up in Dr.[**Name (NI) 2829**] clinic in three weeks for a
+post-op check.  He had staples in his scalp from a fall prior to
+discharge.  The staples were removed and steri-strips placed.
+He was seen by physical therapy who felt he could walk well,
+even with a foley bag in place.
+
+Medications on Admission:
+lipitor 40', Carvedilol 6.25", digoxin 125mcg', enalapril 10",
+lovenox, eplerenone 25', Lasix 80', Isosorbide Monoitrate SR
+30', levothyroxine 150mcg', Nitrostat 0.4mg prn Chest pain,
+protonix 40", Miralax [**Hospital1 **], Coumadin (has been on hold x 1 week),
+ambien 5', ASA 81', Vitamin B12, Fish oil, Vitamin B6, Lantus 32
+qAM, Humalog SS
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+3. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Enalapril Maleate 10 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Eplerenone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Insulin Glargine 100 unit/mL Solution Sig: Thirty (30) units
+Subcutaneous QAM.
+7. Isosorbide Mononitrate 30 mg Tablet Susta

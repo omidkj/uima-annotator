@@ -1,0 +1,198 @@
+Admission Date:  [**2114-5-21**]              Discharge Date:   [**2114-5-30**]
+
+Date of Birth:  [**2037-2-12**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2114-5-21**] Aortic Valve Replacement (25mm St. [**Male First Name (un) 923**] Porcine Valve)
+
+History of Present Illness:
+Mr. [**Known lastname 27532**] is a 77-year-old male with worsening symptoms of
+heart failure and chest tightness and dyspnea on exertion
+related to critical symptomatic aortic
+stenosis with a bicuspid aortic valve.
+
+Past Medical History:
+Aortic Stenosis
+Hypertension
+Hyperlipidemia
+heart failure
+Arthritis
+Sleep Apnea
+Abdominal aortic aneurysm
+Skin cancer s/p removal
+s/p Cholecystectomy
+s/p Back surgery
+
+Social History:
+Quit smoking 30 years ago after 25 pack year history. Rare
+alcohol use. Lives alone.
+
+Family History:
+non-contributory
+
+Physical Exam:
+Physical examination in the office (preop [**2114-4-19**]) revealed a
+pulse of 74
+and regular, respirations of 18, and blood pressure of 160/80.
+In general, he was a well-developed and well-nourished elderly
+gentleman in no acute distress.  His skin was unremarkable.  His
+oropharynx was benign.  Neck was supple with full range of
+motion.  There was no JVD.  Lungs were clear to auscultation
+bilaterally.  Heart had a regular rate and rhythm, normal S1 and
+S2 with a III/VI systolic ejection murmur.  Abdomen was soft,
+nontender, and nondistended.  Extremities were warm and well
+perfused with 1+edema bilaterally.  His greater saphenous veins
+did not display varicosities.  Neurologically, he was alert and
+oriented x3.  Cranial nerves II through XII were grossly intact.
+He had 5/5 strength and no focal deficits were appreciated.  His
+distal pulses were 2+and no carotid or femoral bruits were
+appreciated.
+
+
+Pertinent Results:
+[**2114-5-28**] 05:35AM BLOOD WBC-6.1 RBC-3.39* Hgb-10.6* Hct-31.4*
+MCV-93 MCH-31.4 MCHC-33.9 RDW-14.1 Plt Ct-159
+[**2114-5-21**] 11:45AM BLOOD WBC-10.7# RBC-3.96* Hgb-12.2* Hct-35.1*
+MCV-89 MCH-30.7 MCHC-34.7 RDW-13.5 Plt Ct-141*
+[**2114-5-29**] 05:30AM BLOOD PT-21.6* INR(PT)-2.1*
+[**2114-5-21**] 11:45AM BLOOD PT-15.4* PTT-37.9* INR(PT)-1.4*
+[**2114-5-28**] 05:35AM BLOOD Glucose-109* UreaN-41* Creat-1.1 Na-141
+K-4.3 Cl-104 HCO3-29 AnGap-12
+[**2114-5-22**] 12:31AM BLOOD Glucose-113* UreaN-26* Creat-1.1 Na-138
+K-4.7 Cl-110* HCO3-23 AnGap-10
+[**2114-5-25**] 06:08AM BLOOD ALT-20 AST-50* LD(LDH)-253* AlkPhos-64
+Amylase-34 TotBili-1.0
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 63436**]Portable TTE
+(Complete) Done [**2114-4-11**] at 3:33:42 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 11063**] Cardiology
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Street Address(2) 8667**], [**Hospital Ward Name **] 4
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2037-2-12**]
+Age (years): 77 M  Hgt (in): 71
+BP (mm Hg): 150/75  Wgt (lb): 209
+HR (bpm): 86  BSA (m2): 2.15 m2
+Indication: Abnormal ECG. Aortic valve disease. S/P
+Catherization.
+ICD-9 Codes: 425.4, 427.89, 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2114-4-11**] at 15:33    Interpret MD: [**Name6 (MD) **] [**Name8 (MD) **], MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 18401**]
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Adequate
+Tape #: 2009W006-0:0 Machine: Vivid [**7-16**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  3.3 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  4.9 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.7 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  *2.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.6 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.2 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.4 cm
+Left Ventricle - Fractional Shortening:  0.54  >= 0.29
+Left Ventricle - Ejection Fraction:  >= 75%  >= 55%
+Left Ventricle - Stroke Volume:  83 ml/beat
+Left Ventricle - Cardiac Output:  7.15 L/min
+Left Ventricle - Cardiac Index:  3.33  >= 2.0 L/min/M2
+Left Ventricle - Lateral Peak E':  *0.03 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.02 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *24  < 15
+Aorta - Sinus Level:  *4.4 cm  <= 3.6 cm
+Aorta - Ascending:  *4.3 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *4.4 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *76 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  29 mm Hg
+Aortic Valve - LVOT pk vel:  1.16 m/sec
+Aortic Valve - LVOT VTI:  24
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *1.0 cm2  >= 3.0 cm2
+Mitral Valve - E Wave:  0.6 m/sec
+Mitral Valve - A Wave:  0.8 m/sec
+Mitral Valve - E/A ratio:  0.75
+Mitral Valve - E Wave deceleration time:  *136 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *24 to 27 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA.
+
+LEFT VENTRICLE: Severe symmetric LVH. Normal LV cavity size.
+Normal regional LV systolic function. Hyperdynamic LVEF >75%.
+Estimated cardiac index is normal (>=2.5L/min/m2). TDI E/e' >15,
+suggesting PCWP>18mmHg. No resting or Valsalva inducible LVOT
+gradient. Apical intracavitary gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Moderately dilated aortic sinus. Moderately dilated
+ascending aorta.
+
+AORTIC VALVE: Moderately thickened aortic valve leaflets.
+Moderate-severe AS (area 0.8-1.0cm2). Trace AR.
+
+MITRAL VALVE: Normal mitral valve leaflets. Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Borderline PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+Conclusions
+The left atrium is normal in size. There is severe symmetric
+left ventricular hypertrophy. The left ventricular cavity size
+is normal. Regional left ventricular wall motion is normal. Left
+ventricular systolic function is hyperdynamic (EF>75%). The
+estimated cardiac index is normal (>=2.5L/min/m2). Tissue
+Doppler imaging suggests an increased left ventricular filling
+pressure (PCWP>18mmHg). There is no left ventricular outflow
+obstruction at rest or with Valsalva. An apical intracavitary
+gradient is identified. Right ventricular chamber size and free
+wall motion are normal. The aortic root is moderately dilated at
+the sinus level. The ascending aorta is moderately dilated. The
+aortic valve leaflets are moderately thickened. There is
+moderate to severe aortic valve stenosis (area 1.0cm2). Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+structurally normal. Trivial mitral regurgitation is seen. There
+is borderline pulmonary artery systolic hypertension. There is
+no pericardial effusion.
+
+IMPRESSION: Severe left ventricular hypertrophy with
+hyperdynamic systolic function. Moderate to severe aortic
+stenosis. Moderately dilated ascending aorta and aortic root.
+  Electronically signed by [**Name6 (MD) **] [**Name8 (MD) **], MD, Interpreting physician
+[**Last Name (NamePattern4) **] [**2114-4-11**] 18:07
+
+
+?????? [**2108**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+Admitted and went to surgery for Aortic Valve Replacement (#25mm
+St.[**Male First Name (un) 923**] Porcine Valve). See operative report for further
+details. He was transferred to the CVICU for hemodynamic
+monitoring.  In first twenty four hours he was weaned from
+sedation, awoke neurologically intact and was extubated without
+complications. On postoperative day one he went into Atrial
+Fibrillation that was treated with amiodarone and lopressor.
+Overnight day 1 into day 2 he had pauses > 10 seconds and
+amiodarone was discontinued.  He had no further prolonged pau

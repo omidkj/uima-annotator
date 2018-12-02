@@ -1,0 +1,170 @@
+Admission Date:  [**2171-10-3**]              Discharge Date:   [**2171-10-10**]
+
+Date of Birth:  [**2098-11-2**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+back pain
+
+Major Surgical or Invasive Procedure:
+Endovascular AAA repair [**2171-10-3**]
+
+
+History of Present Illness:
+The patient is a 72 year-old female who
+presented to the B.I. [**Hospital1 **] emergency room, transferred
+from an outside hospital with a diagnosis of a ruptured
+leaking aneurysm. The patient remained hemodynamically stable
+and upon arrival underwent a CT angiogram of the abdomen and
+pelvis which confirmed the suitability of the aortic aneurysm
+for endovascular repair. Therefore, the patient was brought
+up to the Endo suite for immediate endovascular repair.
+
+
+Past Medical History:
+[**Last Name (un) 1724**]: lasix 40 [**Last Name (LF) **], [**First Name3 (LF) **] 81', advair, singulair, albuterol,
+protonix 40', isordil 30', cardia xt 180', simvastatin 20',
+klor-con
+
+Social History:
+not known
+
+Family History:
+not known
+
+Physical Exam:
+a/o
+nad
+cta
+rrr
+abd - benign
+DP palp bilat
+
+
+Pertinent Results:
+[**2171-10-10**] 08:18AM BLOOD
+
+WBC-9.4 RBC-3.46* Hgb-10.7* Hct-31.2* MCV-90 MCH-30.9 MCHC-34.4
+RDW-14.8 Plt Ct-151
+
+[**2171-10-9**] 05:07AM BLOOD
+
+Glucose-99 UreaN-58* Creat-2.4* Na-138 K-4.3 Cl-107 HCO3-21*
+AnGap-14
+
+[**2171-10-9**] 05:07AM BLOOD
+
+Calcium-8.4 Phos-2.3* Mg-2.6
+
+[**2171-10-4**] 04:13AM
+
+URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.016
+
+URINE Blood-SM Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG
+Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+
+URINE RBC-0-2 WBC-0-2 Bacteri-NONE Yeast-NONE Epi-0-2
+
+URINE Hours-RANDOM UreaN-99 Creat-30 Na-107
+
+Brief Hospital Course:
+Pt admitted urgently for AAA rupture
+
+Taken to the endosuite
+
+Endovascular repair of ruptured AAA. Zenith 32-96 right 16-54,
+left 14-71 Bilateral catheter in aorta Bilateral femoral artery
+exposure.
+
+Pt tolerated the procedure well
+
+Experienced acute renal failure post procedure due to mutiple
+dye loads
+
+Renal consulted
+
+creat improved 2.5 on dc. Originally 1.2. High 3.5
+
+f/u arranged as outpt
+
+pt consult
+
+pt cleared for home with PT
+
+Patient had a small Type I Proximal endoleak at the time of
+completion. F/U non-contrast CT showed no change in AAA size and
+decrease in periaortic hematoma. In addition she has ATN as well
+as partial covering of the right renal artery due to AAA neck.
+She will need f/u for both of those issues
+
+Medications on Admission:
+[**Last Name (un) 1724**]: lasix 40 [**Last Name (LF) **], [**First Name3 (LF) **] 81', advair, singulair, albuterol,
+protonix 40', isordil 30', cardia xt 180', simvastatin 20',
+klor-con
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Furosemide 40 mg Tablet Sig: One (1) Tablet PO [**First Name3 (LF) 6089**] ().
+3. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**12-11**]
+Puffs Inhalation Q6H (every 6 hours) as needed.
+4. Beclomethasone Dipropionate 80 mcg/Actuation Aerosol Sig: One
+(1)  Inhalation [**Hospital1 **] (2 times a day).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+7. Isosorbide Dinitrate 30 mg Tablet Sig: One (1) Tablet PO once
+a day.
+8. Cartia XT 180 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO once a day.
+9. Klor-Con 20 mEq Packet Sig: One (1)  PO every other day: with
+lasix.
+10. Singulair  Oral
+11. medications
+singular as ordered
+12. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q4H (every 4 hours) as needed.
+Disp:*20 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Last Name (LF) 486**], [**First Name3 (LF) 487**]
+
+Discharge Diagnosis:
+AAA repair
+ARF
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You will see Dr. [**Last Name (STitle) **] in his office on [**2171-10-22**] 12:30. You
+will also have an Ultrasound at your appointment. Please only
+eat a light breakfast prior to your ultrasound the morning of
+your appointment. Do not drink any coffee in the morning.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] LAB Phone:[**Telephone/Fax (1) 1237**] Date/Time:[**2171-10-22**]
+12:30
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1244**], MD Phone:[**Telephone/Fax (1) 1237**]
+Date/Time:[**2171-10-22**] 1:45
+Please only eat a light breakfast prior to your appointment. no
+coffee until after your Ultrasound.
+
+the above is in the [**Hospital Unit Name **], [**Location (un) 442**]. [**Doctor First Name **].
+
+You have an appointment with renal. Dr [**Last Name (STitle) 7473**]. Tuesday [**10-22**] 0900 hr. [**Hospital Ward Name 23**] Building [**Location (un) 436**]
+
+
+
+Completed by:[**2171-10-10**]

@@ -1,0 +1,231 @@
+Admission Date:  [**2199-10-3**]              Discharge Date:   [**2199-10-6**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Doctor First Name 3290**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+.
+
+
+History of Present Illness:
+This is a [**Age over 90 **] year old female with hypertension, diastolic CHF,
+DM, and CKD who was hospitalized two weeks ago with flash
+pulmonary edema in the setting of hypertension. Apparently, she
+did well for a week after hospitalization and then over the past
+week has developed worsening shortness of breath and weakness.
+She vomited once yesterday but had no associated nausea. Today,
+she presented to the ED with worsening shortness of breath and
+was notably dyspeneic with vitals of T 98.2, HR 85, BP 201/64,
+RR 22, O2 Sat 99% on 4L NC (86% on RA). CXR revealed volume
+overload and basilar density c/w more likely atelectasis less
+likely PNA. She received nitro paste and nitro SL before being
+put on a nitroglycerine drip. She received 60 mg IV furosemide,
+180 mg Nifedipine CR, 200 mg labetalol, and was tried on CPAP
+but had difficulty tolerating it. She also received IV
+ceftriaxone and azithromycin for the question of pneumonia on
+CXR. Of note she denied chest pain, fevers, or chills.
+On arrival to the ICU the patient was notably dyspneic and
+unable to speak in complete sentences. Audible gurgling.
+Crackles at bases to auscultation.
+REVIEW OF SYSTEMS: Unobtainable due to distress.
+
+
+Past Medical History:
+-Chronic Diastolic CHF
+-Diabetes type 2
+-Dyslipidemia
+-HTN
+-Stage IV CKD
+-recurrent right breast CA
+-glaucoma, blind
+-hypercholesterolemia
+
+
+Social History:
+Lives in [**Location 669**] with daughter.  17 stairs in house between
+bedroom and kitchen. Spends significant time in bed.  Denies hx
+of bedsores. Meds dispensed by daughter.
+[**Name (NI) 1139**]: remote hx
+Etoh: denies
+Drugs: denies
+
+
+Family History:
+Sister with Breast CA. +DM, unclear for the remainder.
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+
+Physical Exam:
+VS: T 96.2, P 86, BP 194/70, RR 22, O2 94% on 4L
+GEN: appears distressed, gurgling breath sounds
+HEENT: anicteric, bluish discoloration of lenses, MMM, op
+without lesions, JVD difficult to assess due to CPAP but JVP
+visible above the clavicle with patient at nearly 90 degrees
+suggesting JVD
+RESP: Loud crackles over both lung fields, pt unable to speak in
+complete sentences
+CV: RRR, S1 and S2 grossly normal (though difficult exam due to
+loud breath sounds)
+ABD: Soft, NT, ND, no organomegaly or masses
+EXT: no C/C/E; 1+ DP and PT pulses bilaterally
+SKIN: no rashes/no jaundice/no splinters
+NEURO: couldn't fully assess orientation but responding
+correctly if briefly given dyspnea, moving all extremities
+
+
+Pertinent Results:
+[**2199-10-3**] 09:36AM   WBC-8.1# RBC-2.82* HGB-7.7* HCT-24.9* MCV-88
+MCH-27.3 MCHC-30.9* RDW-17.0*
+[**2199-10-3**] 09:36AM   NEUTS-76.6* LYMPHS-16.1* MONOS-5.1 EOS-1.6
+BASOS-0.6
+[**2199-10-3**] 09:36AM   PLT COUNT-265
+[**2199-10-3**] 09:36AM   PT-11.8 PTT-21.9* INR(PT)-1.0
+[**2199-10-3**] 09:36AM   GLUCOSE-86 UREA N-80* CREAT-6.1*# SODIUM-141
+POTASSIUM-6.9* CHLORIDE-109* TOTAL CO2-17* ANION GAP-22*
+[**2199-10-3**] 10:00AM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.015
+[**2199-10-3**] 10:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-500
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2199-10-3**] 10:00AM URINE  RBC-0-2 WBC-0-2 BACTERIA-FEW YEAST-NONE
+EPI-[**5-23**]
+[**2199-10-3**] 10:00AM URINE  EOS-NEGATIVE
+[**2199-10-3**] 09:36AM   proBNP-[**Numeric Identifier 106527**]*
+[**2199-10-3**] 09:36AM   cTropnT-0.10*
+[**2199-10-3**] 05:27PM   CK-MB-4 cTropnT-0.17*
+[**2199-10-3**] 05:27PM   CK(CPK)-82
+
+Imaging:
+CXR: [**2199-10-3**]
+Moderate congestive heart failure, worse in the interval. Small
+bilateral pleural effusions. Opacities in both lung bases likely
+represent atelectasis but infection cannot be excluded.
+
+CXR: [**2199-10-4**]
+Subtotal interval resolution of pulmonary edema and interval
+improvement of right fissural pleural fluid.
+
+
+Brief Hospital Course:
+[**Age over 90 **] y.o. female with stage V CKD, Diastolic CHF, and diabetes
+mellitus type II presenting with pulmonary edema and worsening
+renal function.
+
+1. Diastolic CHF/ Pulmonary Edema: Presented with frank
+pulmonary edema in the context of hypertension and perhaps
+slight volume overload. Most likely inciting factor was
+hypertensive urgency given high pressures at presentation but
+daughters reports she has similar pressures in the morning at
+home and hasn't necessarily flashed in these circumstances.
+Initially required CPAP to decrease work of breathing and NTG
+drip for control of hypertension.  Transitioned to oral
+medications of nifedipine, labetalol, isosorbide at home doses.
+Although given large doses of lasix- 60mg and then 120mg, put
+out minimal urine, suggesting that chronic kidney disease may be
+progressing to oliguric ESRD.  Respiratory status improved and
+repeat chest x-ray showed almost complete resolution of
+pulmonary edema.  Weaned successfully to 3LNC prior to transfer
+to floor.
+
+2. HTN: Hypertensive with SBP in 200s at presentation and likely
+this increased afterload contributed to decreased forward flow
+and her flash pulmonary edema.  As above, patient was initially
+placed on a nifedipine drip with administration of home
+medications of nifedipine, labetolol and isosorbide.  BP
+normalized with SBP in 120s.
+
+3. CKD: Presented with Cr of 6.1, which was worse than baseline
+stage V CKD and significant electrolyte abnormalities including
+nonanion gap acidosis, hyperkalemia and hyperphosphatemia. No
+etiology for decompensation discovered with no urinary
+eosinophils, FeNa of 1.4 and FeUrea of 39.  Urine output
+remained minimal despite lasix 120mg IV.  Pt has refused HD in
+past.
+
+4. DM: Not on meds and glucose currently normal.  Check glucose
+daily
+
+5. Glaucoma: Continue drops
+
+6. Recurrent breast cancer: Continue home anastrazole
+
+FEN: Regular, low K diet
+Access: PIV
+PPx: SC heparin, no indication for GI
+Comm: Daughter [**Name2 (NI) 7346**] (number in [**Name (NI) **])
+Code: DNR, children OK with limited duration intubations
+DISPO: ICU
+
+
+Medications on Admission:
+1. furosemide 20 mg PO DAILY
+2. multivitamin PO DAILY
+3. dorzolamide-timolol 2-0.5 % one drop daily.
+4. Anastrozole 1 mg once a day.
+5. Isosorbide Mononitrate 60 mg QHS
+6. Nifedipine ER 180 mg PO daily
+7. Labetalol 200 mg PO twice a day
+
+
+Discharge Medications:
+1. labetalol 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+2. nifedipine 90 mg Tablet Sustained Release Sig: Two (2) Tablet
+Sustained Release PO DAILY (Daily).
+3. sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+4. dorzolamide-timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic DAILY  ().
+5. isosorbide mononitrate 60 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO QHS (once a day
+(at bedtime)).
+6. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+7. oxycodone 20 mg/mL Concentrate Sig: 1-20 mg PO Q1H:PRN as
+needed for pain, dyspnea : sublingual .
+Disp:*30 ml* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Hospice of the Good [**Doctor Last Name 9995**]
+
+Discharge Diagnosis:
+Primary:
+Acute congestive heart failure exacerbation
+.
+Secondary:
+Chronic Kidney Disease stage IV
+Chronic Diastolic Heart Failure (EF>75%)
+Diabetes type 2
+Dyslipidemia
+Hypertension
+glaucoma, blind
+hypercholesterolemia
+.
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+Discharged Home with Hospice.
+
+
+Discharge Instructions:
+Dear Ms. [**Known lastname **] [**Known lastname 106526**],
+  You were admitted to the hospital for acute shortness of
+breath.  This was due to sudden onset of pulmonary edema
+(accumulation of fluid in your lungs) from high blood pressure.
+You were treated with oxygen and taken to the intesnive care
+unit.  You were given anti-hypertensives (medications to bring
+your blood pressure down).  You we

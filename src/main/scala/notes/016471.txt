@@ -1,0 +1,256 @@
+Admission Date:  [**2194-10-3**]              Discharge Date:   [**2194-10-7**]
+
+
+Service: NEUROLOGY
+
+Allergies:
+Aspirin / Penicillins
+
+Attending:[**First Name3 (LF) 2569**]
+Chief Complaint:
+speech difficulties
+
+Major Surgical or Invasive Procedure:
+tPA administration
+
+History of Present Illness:
+89F RH woman with a PMH of AF off copumadin, prior strokes,
+short-term memory loss (MCI) presenting with acute onset aphasia
+and RIGHT-sided weakness.  She was participating in a social
+exercise in her assissted living facility when she  was found to
+be mute, not following commands (though alert and awake). Her
+RIGHT side was limp. It started at 16:30 as per Assisted
+facility
+nurse ([**Doctor First Name 391**] Place: [**Telephone/Fax (1) 95317**]).
+
+Taken to [**Hospital1 18**] ED.
+At [**Hospital1 18**] ED:  FSBS 109, SBP 158/86. She had an episode of emesis
+and received zofran. Discussed case with her son [**Name (NI) **] [**Name (NI) 95318**](
+HCP) who confirmed that she is DNR and DNI. However, he did
+agree
+with tpa once we explained the risk-benefit in this clinical
+situation.
+
+
+Past Medical History:
+Intermittent atrial fibrillation
+CHF
+Bilateral knee replacement
+s/p cholecystectomy
+h/o CVA, not on anticoagulation [**1-6**] h/o falls and elevated INR
+
+Social History:
+Lives at [**Hospital3 **], independent in ADLs. Unable to respond
+regarding habits.
+CONTACT: [**First Name4 (NamePattern1) **] [**Known lastname 95318**]( HCP) [**Telephone/Fax (1) 95319**], son.
+CODE: DNR/DNI
+
+
+Family History:
+NC
+
+Physical Exam:
+Exam on admission:
+
+BP: 158/86; HR: 88; RR:18  SaO2: 97% RA
+Gen: Alert. Sclerae anicteric. MMM.
+No meningismus.
+No carotid bruits auscultated.
+Lungs clear bilaterally.
+Heart regular in rate.
+Abd soft, nontender, nondistended.  Bowel sounds heard
+throughout.
+
+Neuro:
+
+MS??????Alert. Conpletely aphasic.
+
+CN??????Fundi not visualized. PERRL . LEFT gaze deviation. No ptosis.
+
+Mild RIGHT facial droop.
+
+Motor??????
+Sensory??????Ligwithdraws to noxious stimuli (LEFT side appropietly,
+right less briskly). Localizes pain.
+
+DTRs?????? Toe upgoing on her RIGHT. Patellas 1+.
+Coord/Gait??????unable to assess.
+
+1a LOC =2
+1b Orientation =1
+1c Commands =1
+2 Gaze =2
+3 Visual Fields =0
+4 Facial Paresis =  2
+5a Motor Function R UE = 3
+5b Motor Function L UE= 0
+6a Motor Function R LE= 3
+6b Motor Function L LE= 0
+7 Limb Ataxia =  0
+8 Sensory perception =  0
+9 Language = 3
+10 Dysarthria =  2
+11 Extinction/Inattention = 0
+
+TOTAL =  17
+
+Examination at time of discharge:
+
+98.4F BPs 150-160/80-96 HR 70-80s 98% RA, RR 18-20.
+
+Neurological examination:
+
+MS: Oriented to self.  Follows 2 step commands. Comprehension
+intact. Unable to repeat, name or read.  Expressive aphasia full
+of neologisms with occasional accurate word.
+
+CN: Right facial droop UMN, EOMI, 1.5mm b/l and minimally
+reactive, speech is dysarthric.
+
+Motor: Diffuse R > L weakness in UMN pattern of distribution (4+
+to 4 in delts, tri, FEs); LEs with R > L IP and hamstrings
+weakness, otherwise full.  Incraesed tone in LEs on right vs.
+left.
+
+Right pronator drift.  Right toe extensor.
+
+Pertinent Results:
+labs on admission and discharge:
+
+[**2194-10-3**] 05:00PM BLOOD WBC-10.2 RBC-4.72 Hgb-13.2 Hct-39.3
+MCV-83 MCH-28.0 MCHC-33.7 RDW-14.7 Plt Ct-310
+[**2194-10-6**] 05:50AM BLOOD WBC-10.0 RBC-5.05 Hgb-14.0 Hct-41.8
+MCV-83 MCH-27.6 MCHC-33.4 RDW-14.2 Plt Ct-274
+
+[**2194-10-3**] 05:00PM BLOOD PT-13.2 PTT-22.4 INR(PT)-1.1
+[**2194-10-6**] 05:50AM BLOOD PT-14.6* PTT-97.3* INR(PT)-1.3*
+[**2194-10-6**] 04:10PM BLOOD PTT-51.5*
+[**2194-10-7**] 12:55AM BLOOD PTT-67.1*
+
+[**2194-10-4**] 03:00AM BLOOD Glucose-116* UreaN-16 Creat-1.0 Na-141
+K-5.2* Cl-111* HCO3-25 AnGap-10
+[**2194-10-6**] 05:50AM BLOOD Glucose-86 UreaN-14 Creat-1.0 Na-141
+K-4.3 Cl-104 HCO3-28 AnGap-13
+
+[**2194-10-4**] 03:00AM BLOOD ALT-5 AST-19 LD(LDH)-219 CK(CPK)-50
+AlkPhos-59 TotBili-0.5
+
+[**2194-10-3**] 05:00PM BLOOD cTropnT-<0.01
+
+[**2194-10-4**] 03:00AM BLOOD CK-MB-NotDone cTropnT-<0.01
+
+[**2194-10-4**] 03:00AM BLOOD Albumin-3.5 Calcium-7.9* Phos-3.7 Mg-1.9
+Iron-36 Cholest-159
+
+[**2194-10-6**] 05:50AM BLOOD Calcium-8.7 Phos-2.7 Mg-2.0
+
+[**2194-10-4**] 03:00AM BLOOD calTIBC-285 TRF-219
+
+[**2194-10-4**] 03:00AM BLOOD %HbA1c-6.0*
+
+[**2194-10-4**] 03:00AM BLOOD Triglyc-75 HDL-50 CHOL/HD-3.2 LDLcalc-94
+[**2194-10-4**] 03:00AM BLOOD TSH-0.71
+
+[**2194-10-5**] 03:43PM URINE RBC-143* WBC-7* Bacteri-FEW Yeast-NONE
+Epi-14 TransE-<1
+[**2194-10-5**] 03:43PM URINE Blood-LG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+[**2194-10-5**] 03:43PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.008
+
+Imaging:
+
+CTA perfusion: [**10-3**]
+
+IMPRESSION:
+1. Findings indicative of dense left middle cerebral artery.
+Extensive small
+vessel disease identified with brain atrophy and chronic right
+periatrial watershed infarct.
+2. CT perfusion demonstrates a large area of increased mean
+transit time in
+the left MCA distribution with patchy small areas of low blood
+volume
+indicative of ischemia with areas of infarction.
+3. No occlusion or hemodynamically significant stenosis in the
+arteries of
+the neck.
+4. Findings indicative of occlusion at the bifurcation of left
+middle
+cerebral artery with diminished number of sylvian branches
+distally.
+
+CT head [**10-4**]:
+
+IMPRESSION:
+1. Interval development of hypodensity in the left
+frontoparietal region
+compatible with evolution of known large region of ischemia and
+infarction in the left MCA territory (as demonstrated on
+yesterday's CT- perfusion study).
+
+2. No significant associated mass effect or herniation, and no
+hemorrhage.
+
+3. Encephalomalacia involving the right parietal lobe compatible
+with chronic infarction in a watershed distribution.
+
+Brief Hospital Course:
+Ms. [**Known lastname 95318**] is a [**Age over 90 **]-year-old woman who has atrial fibrillation
+but was not anticoagulated due to concerns about prior falls, hx
+of prior strokes and MCI who was admitted to the [**Hospital1 18**] Neurology
+service with a left MCA territory stroke. On initial
+presentation, she had a global aphasia with dense right
+hemiplegia.
+
+CTA showed a dense left middle cerebral artery stroke with
+extensive small
+vessel disease and a chronic right periatrial watershed infarct.
+ No occlusion was noted in the neck arteries.  This event was
+felt to be cardioembolic in origin. Given no contraindications
+therfore IV-thrombolytics were administered at 1820 on [**10-3**].
+There was delay in obtaining initial imaging as patient became
+ill in CT scanner with vomiting.  She was admitted to ICU for
+post tpa management.  Her blood pressure was allowed to
+autoregulate, IVF were adminstered to maintain CPP.
+
+Modifiable risk factors were A1C of 6.0 and LDL of 97.  Statin
+was incrased to 40mg daily.  Her heart rate remained in 60-80s
+[**Hospital 95320**] hospital stay and should this increase, a metoprolol
+formulation may be used to control the heart rate, goal 60-70s.
+
+
+She remained neurologically stable and her CT head follow up
+showed expected evolution of her stroke.  She was started on
+heparin gtt (goal 60-80) and bridged with coumadin.  Her INR
+goal is [**1-7**]. She will require HCT monitoring and guiac of her
+stools.
+
+Due to intermittent agitation, she was given haldol IV 1mg,
+which lead to significant somnolence, resolved by HD3.  Seroquel
+may be used cautiously in its place.
+
+At time of discharge, her examination improved to the point of
+able to follow 2 step commands and improved comprehension.  She
+was unable to repeat, name or read.  Expressive aphasia full of
+neologisms with occasional accurate word. Please see discharge
+exam for details.
+
+She will require physical and occupational therapy.  She did not
+have a swallowing deficit, however PO intake has been poor over
+past 24 hours.  She was able to take PO medications in pudding.
+
+
+Follow up with neurology was arranged.  She will also require
+arrangement of follow up with PCP.
+
+Code status: DNR/I.
+
+Medications on Admission:
+Statin, unknown dose
+
+Discharge Medications:
+1. Acetaminophen 650 mg Suppository Sig: One (1) Suppository
+Rectal Q6H (every 6 hours) as needed for fever or pain.
+2. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+3. Quetiap

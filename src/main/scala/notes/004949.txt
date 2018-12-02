@@ -1,0 +1,208 @@
+Admission Date:  [**2194-3-31**]              Discharge Date:   [**2194-4-10**]
+
+Date of Birth:  [**2113-2-15**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Comtan / Shellfish Derived
+
+Attending:[**Last Name (un) 11974**]
+Chief Complaint:
+ventricular tachycardia
+
+Major Surgical or Invasive Procedure:
+VT ablation
+
+History of Present Illness:
+Mr. [**Known lastname **] is an 81y/o gentleman with Parkinson's Disease, CAD s/p
+CABG, sCHF (LVEF 25%), AFib on coumadin, and AICD who presented
+with hypotension, was found to be in VT, and is being
+transferred to the CCU due to recurrent VT after ablation today.
+.
+Of note, he was recently admitted [**Date range (1) 15037**] for pacer firing, and
+was started on Amiodarone 400mg daily.  Due to nausea and loose
+stools, his dose was decreased to 200mg daily on [**3-7**].
+.
+Per [**Hospital1 1516**] admission note, on this admission he initially
+presented from home yesterday ([**3-31**]) with a caregiver for low BP
+(80/60) and elevated HR (140-145).  He had felt fatigued for the
+past 1.5 days, with baseline level of dyspnea.  Somewhat
+decreased PO intake.  In the ED, initial vitals were T 96.8, HR
+144, BP 82/61, RR 18, and SpO2 100% on RA. He triggered for
+tachycardia and initial EKG was concerning for VT at 145 bpm.
+He was given NS 500 ml. CXR showed moderate cardiomegaly and
+pulmonary edema.  Labs were significant for Hct 33.9 near recent
+baseline, INR subtherapeutic at 1.6, Cr 1.2 near baseline,
+largely unremarkable electrolytes, Digoxin 0.5, and Troponin
+0.07 up from prior values 0.02-0.03.  EP was consulted and he
+was pace terminated with ramp.  He was admitted to the [**Hospital1 1516**] EP
+service for continued management.
+.
+In the EP lab, he was found to have various morphologies of VT
+and underwent ablation.  After the procedure, he was found to be
+unarousable even off sedation, with right-gaze.  Code Stroke was
+called and he underwent CTA head/CT brain which did not suggest
+acute process.
+.
+He had 4 episodes of VT after his ablation:
+1) In CT scanner. ATP did not pace him out-->externally
+defibrillated.
+2) Outside CC3 elevator. Received Amio 150 bolus.-->externally
+defibrillated again.
+[No bed was available in the CCU so he was taken to EP lab
+holding area in the meantime.]
+3) EP lab holding area. Lidocaine 100 bolus given.
+-->ATP-terminated.
+4) EP lab holding area. Lidocaine drip started.-->defibrillated
+with his device.
+.
+On arrival to the CCU, patient is intubated, sedated.  Is on a
+Lidocaine drip; had been on low-dose Phenylephrine while in the
+EP lab holding area but this was discontinued.
+
+In ICU, pt was extubated on [**2194-4-2**] without complications.  He
+weaned off of lidocaine and has remained out of vtach.  Since
+extubation, pt has been experiencing some hypokinesia, and
+confusion, likely secondary to parkinsons.  Neuro is following
+and recommended continuing with home parkinsons meds.
+
+Pt was also on heparin drip. restarted coumadin on [**2194-4-2**] and
+INR is now 3.2.  Pt was also diuresed with IV lasix in ICU and
+was net negative 1L during stay there.  This AM, his cr bumped
+from 1.1 to 1.8, likely from overdiuresis.  Pt also has bicarb
+of 17 this am with gap of 20.
+
+On transfer, pt's vitals are stable 98.3, 80, 148/72, 18, 97%
+2L.  Pt is oriented, but hypokinetic and hypophonic.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS:
+# Dyslipidemia
+# Hypertension
+2. CARDIAC HISTORY:
+# CAD -- MI in [**2163**]
+# CABG ([**2175**]) -- (LIMA-LAD, SVG-Diag, SVG-OM1, SVG-OM2,
+SVG-RPDA)
+# Cath ([**2184-9-28**])
+-- 1. Native 3 vessel coronary artery disease.
+-- 2. Severely depressed ventricular function.
+-- 3. Patent vein grafts to the D1, OM1, OM2.
+-- 4. Patent LIMA to LAD.
+-- 5. Focal stenosis of SVG graft to R-PDA.
+-- 6. Successful stenting of the SVG to PDA.
+# AICD: Implantation in [**9-/2184**] with generator change in [**2189**].
+# Chronic atrial fibrillation -- on Coumadin
+# Cardiomyopathy / Systolic CHF -- LVEF 25%
+# Sustained and nonsustained VT History
+# Dilated aortic root -- moderate AR and MR
+-- aortic sinus 4.0 cm by TTE in [**2190**]
+3. OTHER PAST MEDICAL HISTORY:
+# Parkinson's disease
+# Left femoral neck fracture ([**1-/2191**])
+-- s/p hemiarthroplasty c/b MRSA infx post-operatively
+-- s/p multiple washouts with retention of prosthetic joint
+material
+-- suppressive abx since [**2190**]
+# C diff History
+# Gonorrhea History
+
+Social History:
+# Home: Lives alone, has 24H HHA, uses wheelchair.
+# Work: Former stockbroker
+# Tobacco: None currently, smoked cigars 1-2 per day for 10
+years.
+# Alcohol: None currently, 2 drinks per day for 10 years.
+# Illicit: None
+
+
+Family History:
+All parents and siblings are deceased, many due to cancer and
+heart disease. Father had MI. Brother with cardiac problem. [**Name (NI) 21206**]
+was relatively healthy.
+
+
+Physical Exam:
+Admission
+VS: T= 97.9 BP= 139/92 HR= 63 RR=20 O2 sat= 100 2L
+GENERAL: cachectic man in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP to ear
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. systolic murmur [**1-28**] best heard over
+RUSB. No thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, slightly distended. No HSM or tenderness. Abd
+aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No pulses 1+, feet are cold to touch. No femoral
+bruits.
+NEURO: CN II-XII tested and intact, strength 5/5 throughout,
+sensation grossly normal. Gait not tested.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Physical Exam on Admission to CCU:
+VS:  BP=120/67  HR=80  RR=16  O2 sat=100%
+FiO2 100%, PEEP 5, RR 18, TV 500
+GENERAL: elderly gentleman, intubated and sedated
+HEENT: NCAT. Sclera anicteric. VOR intact. Pupils 3mm and
+reactive to light bilaterally.
+NECK: Supple, no JVD.
+CARDIAC: S1 and S2, systolic murmur [**1-28**] best heard over RUSB.
+LUNGS: CTA throughout all fields anteriorly.
+ABDOMEN: (+)bowel sounds; no masses; nontender.
+EXTREMITIES: No edema.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+1+ DP and PT pulses bbilaterally.
+
+Physical Exam on Discharge:
+vitals: 97.6, 106/68 60 20 100% RA
+wt = 85.4 kg
+HEENT: PEERLA, OP clear
+Neck no JVD
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. systolic murmur [**1-28**] best heard over
+RUSB, but can be heard throughout precordium. No thrills, lifts.
+No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, slightly distended. No HSM or tenderness. Abd
+aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: peripheral pulses 1+, feet are cold to touch. No
+femoral bruits.
+NEURO: CN II-XII intact.  no cogwheel rig.  AOx3, some
+hyperkinesis
+
+Pertinent Results:
+Labs on Admission:
+
+[**2194-3-31**] 03:40PM   WBC-5.6 RBC-3.81* HGB-10.0* HCT-33.9* MCV-89
+MCH-26.3* MCHC-29.6* RDW-17.6*
+[**2194-3-31**] 03:40PM   NEUTS-84.3* LYMPHS-10.8* MONOS-3.7 EOS-0.9
+BASOS-0.4
+[**2194-3-31**] 03:40PM   PT-16.7* PTT-36.8* INR(PT)-1.6*
+[**2194-3-31**] 03:40PM   DIGOXIN-0.5*
+[**2194-3-31**] 03:40PM   CALCIUM-9.3 PHOSPHATE-4.4 MAGNESIUM-2.2
+[**2194-3-31**] 03:40PM   GLUCOSE-114* UREA N-33* CREAT-1.2 SODIUM-139
+POTASSIUM-4.6 CHLORIDE-104 TOTAL CO2-22 ANION GAP-18
+[**2194-3-31**] 04:12PM   LACTATE-2.3*
+
+Relevant Imaging:
+
+TTE [**2191-7-22**]:
+Severely impaired left ventricular systolic function (25-30%)
+with akinesis of the inferior and inferolateral walls. Mild to
+moderate aortic regurgitation with mild aortic stenosis. Mild
+mitral regurgitation. Moderate tricuspid regurgitation. Moderate
+pulmonary artery systolic hypertension. No obvious evidence of
+endocarditis. If clinically indicated, a transesophageal echo
+may better characterize valves and implantable cardiac
+defibrillator leads for possible vegetations. Compared with the
+prior study (images reviewed) of [**2190-6-9**], mild aortic 

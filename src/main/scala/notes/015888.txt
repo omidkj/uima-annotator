@@ -1,0 +1,174 @@
+Admission Date:  [**2183-7-1**]              Discharge Date:   [**2183-8-8**]
+
+Date of Birth:  [**2124-12-30**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Feldene
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+Dizziness, shortness of breath and chest "tightness".
+
+Major Surgical or Invasive Procedure:
+EGD and colonoscopy on [**2183-7-10**].
+
+
+History of Present Illness:
+The pt. is a 58 year-old female with a history significant for
+CAD, anemia (secondary to iron deficiency and bone marrow
+"block") and aortic valve replacement in [**2183-3-15**] who
+presents with shortness of breath, dizziness, and chest
+"tightness."  Five days prior to admission, the pt. went to
+receive her weekly arenesp treatment when her HCT was noted to
+be 25.3.  She was transfused 2 units PRBCs at that time.  Since
+then, she has noted increasing dizziness, shortness of breath,
+and chest tightness.  She does not report any BRBPR,
+hematemesis, abdominal pain, nausea, vomiting, or fevers.  The
+pt. collapsed in [**Hospital Ward Name 23**] building lobby and was brought to the
+ED.  In the ED she was noted to have a hematocrit of 18 and
+guiaic positive, black charcoal-consistency stool. She was
+started on a protonix drip, given FFP and Vitamin K (to reverse
+her coumadin-induced therapeutic INR), and normal saline.
+Initially she had systolic blood pressure readings in the 90's
+that responded to fluid.  The GI service was consulted and NG
+lavage performed which revealed red blood specks in the lavage
+fluid.  The GI service felt that the lavage fluid was not
+grossly bloody.  Coumadin was discontinued and she was started
+on a heparin drip (necessary as the pt. has a mechanical AVR)
+and transferred to the intensive care unit.
+
+Past Medical History:
+1. Severe aortic stenosis
+2. History of endocarditis status post a dental visit.
+3. Congestive heart failure - EF 60% on [**2-16**] cardiac
+catheterization.
+4. Bilateral lower extremity peripheral neuropathy.
+5. Anemia (secondary to absent iron stores and inflammatory
+block), treated with darbopoeitin and iron therapy.
+6. Status post cholecystectomy.
+7. Status post C-section x four.
+8. Hypertension.
+9. Hypercholesterolemia.
+10. Non-insulin dependent-diabetes mellitus.
+11. AVR w. St. [**Male First Name (un) 1525**]  mechanical valve
+12. CAD - 3vessel CAD by cath [**2-16**] (no CABG or PTCA done)
+13. Pulmonary HTN
+
+
+Social History:
+She is originally from [**Country 1684**], emigrated in [**2145**]. The patient
+quit smoking tobacco in [**2172**].
+She rarely drinks alcohol.  She is married and has four
+children.  She does not nor has ever used illicit drugs.
+
+
+Family History:
+Mother is alive at 83 with anemia and congestive heart failure.
+Father died at 77 of an myocardial infarction.
+
+
+Physical Exam:
+Vitals: T: 99.7F BP: 130/87  P: 82-109  R: 18  SaO2: 98% on RA
+General: pt. lying in bed and is difficult to arouse
+HEENT: PERRL, EOMI, MMM
+Neck: supple
+Chest: lungs CTA bilaterally
+Cardiac: tachycardic, regular rhythm, S1S2, II/VI murmur at
+upper LSB with radiation to bilateral carotids.
+Abdomen: soft, NT/ND, active bowel sounds, no HSM
+Extremities: no c/c/e bilaterally
+Neuro: Difficult to arouse, but once aroused is oriented in all
+3 spheres.
+Skin: no rashes noted.
+
+
+Pertinent Results:
+[**2183-7-1**] 10:45PM URINE  HOURS-RANDOM
+[**2183-7-1**] 10:45PM URINE  GR HOLD-HOLD
+[**2183-7-1**] 09:33PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.014
+[**2183-7-1**] 09:33PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2183-7-1**] 06:24PM   GLUCOSE-106* UREA N-69* CREAT-1.3* SODIUM-135
+POTASSIUM-4.5 CHLORIDE-101 TOTAL CO2-26 ANION GAP-13
+[**2183-7-1**] 06:24PM   LD(LDH)-284* CK(CPK)-35 TOT BILI-0.5 DIR
+BILI-0.1 INDIR BIL-0.4
+[**2183-7-1**] 06:24PM   CK-MB-NotDone cTropnT-<0.01
+[**2183-7-1**] 06:24PM   HAPTOGLOB-<20*
+[**2183-7-1**] 06:24PM   WBC-8.5 RBC-2.24*# HGB-6.2*# HCT-18.3*#
+MCV-82 MCH-27.5 MCHC-33.7 RDW-19.6*
+[**2183-7-1**] 06:24PM   NEUTS-66.1 LYMPHS-26.6 MONOS-4.1 EOS-2.2
+BASOS-1.0
+[**2183-7-1**] 06:24PM   HYPOCHROM-2+ ANISOCYT-2+ POIKILOCY-1+
+MICROCYT-2+
+[**2183-7-1**] 06:24PM   PLT COUNT-241
+[**2183-7-1**] 06:24PM   PT-18.9* PTT-32.7 INR(PT)-2.3
+
+Brief Hospital Course:
+* Anemia: The pt. suffers from chronic anemia and is followed by
+Dr. [**First Name4 (NamePattern1) 449**] [**Last Name (NamePattern1) 410**].  As per her records, her anemia seems to be
+due to a combination of iron deficiency and bone marrow block.
+On arrival to the ED, the pt's. hematocrit was 18 and the pt.
+was noted to have guiaic positive stool and specks of blood in
+the NG lavage fluid, indicating a likely gastrointestinal bleed
+as the cause of her presentation.  An upper endoscopy and
+colonoscopy were tentatively planned while the patient was in
+the ICU, however, she happened to rule in for an MI on the basis
+of cardiac enzymes.  Therefore, the procedure was tentatively
+deferred pending cardiac evaulation in this patient with a
+previous history of three-vessel coronary disease.
+In the ED and ICU, she received a total of five units of PRBCs.
+Her hematocrit responded appropriately and trended up from 18 to
+21, 24, 29 and 31 over the course of the first and second
+hospital day.
+The pt. was noted to have a low haptoglobin and high LDH on
+laboratory studies, suggesting a possible hemolytic component to
+her anemia.  Unfortunately, a peripheral smear was not reviewed
+until after the pt. had received transfusions and was therefore
+unremarkable.  A Coombs test was performed and was negative. It
+is likely given her St. [**Male First Name (un) 923**] mechanical valve that there is some
+degree of blood cell shearing.  A hematology consult was
+obtained.  They recommended laboratory assessment to rule out
+paroxysmal nocturnal hemoglobinuria, including flow cytometry
+and C55 and 59 antibodies.  This workup proved to be negative.
+An EGD and colonoscopy were performed on [**2183-7-10**] which revealed
+areas of nodularity and erythema in the stomach suggestive of
+gastritis and a normal colonoscopy. No areas of active or recent
+bleeding were noted. Biopsies were taken from the erythematous
+areas in the stomach and duodenum and review by pathology
+determined that they were normal specimens.
+As the pt. did experience a drop in hematocrit (to 30-31) after
+warfarin was restarted and was noted to have guiaic positive
+stool, GI was reconsulted and a capsule endoscopy was performed
+on [**2183-7-23**].  This revealed bright red blood in the proximal small
+bowel.  A push enteroscopy was then scheduled once the pt's INR
+normalized. During the interval when the bleeding was discovered
+in the small bowel by capusle endoscopy and the push
+enteroscopy, the pt. required frequent transfusions of packed
+red blood cells for falling hematocrits (in the low 30's).  The
+pt. had the push enteroscopy performed on [**2183-7-30**] which showed
+locatlized granularity and erythema in the gastric fundus
+compatible with gastritis but an otherwise normal EGD to the
+jejunum.
+As the pt. did experience a drop in her hematocrit while on
+aspirin, plavix and coumadin, it was decided that the pt. should
+not take aspirin and plavix secondary to their propensity to
+cause gastrointestinal bleeding.  It is realized that she does
+need to be on life-long coumadin therapy because of her
+mechanical heart valve.  In addition, the pt. was maintained on
+high dose protonix (80mg [**Hospital1 **]) as it was noted that she did have
+significant gastritis on EGD despite therapy with protonix 40mg
+[**Hospital1 **].
+After the pt. had had stable hematocrit values and did not
+require transfusion for three consecutive days after the push
+enteroscopy, warfarin was re-started and she was discharged once
+her INR was greater than 2.0.  She was asked to follow-up with
+her primary care doctor after having a CBC, PT, PTT, INR drawn
+three days after discharge.
+The pt. has been scheduled for a follow-up appointment with her
+hematologist, Dr. [**First Name4 (NamePattern1) 449**] [**Last Name (NamePattern1) 410**] on [**2183-8-20**].
+
+* Aortic Stenosis: An echocardiogram performed on [**2183-7-2**]
+revealed an aortic paravalvular leak and normal EF with no w

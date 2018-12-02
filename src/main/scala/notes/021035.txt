@@ -1,0 +1,176 @@
+Admission Date:  [**2177-9-5**]              Discharge Date:   [**2177-9-8**]
+
+
+Service: MEDICINE
+
+Allergies:
+Influenza Virus Vaccine / Prednisone
+
+Attending:[**First Name3 (LF) 2736**]
+Chief Complaint:
+Transfer from [**Hospital3 4107**] emergency department with an
+inferior STEMI
+
+Major Surgical or Invasive Procedure:
+Cardiac cath
+
+History of Present Illness:
+Ms. [**Known lastname 76166**] is a [**Age over 90 **]F with a PMH s/f HTN, DM, chronic heart
+failure who was brought to the [**Hospital3 **] ED this morning
+by her daughter after "not looking right". She reports her mothe
+was having difficulty feeding herself, groaning, experiencing
+neck pain, mild nausea, and diaphoresis. In the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], the
+patient was hypotensive with a systolic BP in the 60s, tachypnic
+to 40s, and an EKG showed inferior ST elevations. She was
+managed with IV fluids, with improvement of her blood pressure,
+heparin, integrillin, 600mg clopidogrel load, 365mg aspirin,
+80mg atorvastatin, and transferred to the [**Hospital1 18**] cath lab.
+.
+In the cath lab, her code status was reversed from DNR/DNI to
+full coede for the procedure. Cardiac cath showed a completely
+occluded proximal RCA. Thrombectomy [**Last Name (un) 69330**] an export catheter was
+performed without success. After multiple inflations with the
+balloon, two bare metal stents were placed,, one 2.5x23mm
+minivision BMS was deployed into the distal vessel, and one
+3x23mm BMS was deployed proximally. The Sino-atrial branch
+became jailed, and the patient went into sinus arrest with an AV
+junctional rhythm. EP was called, and a coronary sinus pacing
+wire was placed. She was also in cardiogenic shock, for which a
+dobutamine drip was started.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension
+2. OTHER PAST MEDICAL HISTORY:
+-Type 2 Diabetes Mellitus
+-Dyslipidemia
+-HTN
+-Hypothyroidism
+-S/p cholecystectomy
+
+
+Social History:
+Unable to review, pt sedated
+
+Family History:
+Unable to review, pt sedated
+
+Physical Exam:
+VS: T=94...BP=113/77...HR=83...RR=18...O2 sat=100% 4L NC
+GENERAL: Overweight elderly female, breathing through pursed
+lips.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+Very dry mucous membranes.
+NECK: +JVD
+CARDIAC: Regular rhythm, normal rate. No audible murmurs, rubs
+or gallops.
+LUNGS: Patient lying flat with a sheath in, unable to listen
+posteriorly. Anteriorly, has clear breath sounds.
+ABDOMEN: Obese, soft, nontender to deep palpation in all four
+quadrants. NABS.
+EXTREMITIES: Cool LLE with 1+ dorsalis pedis pulse, warm RLE
+with 2+ dorsalis pedis pulse.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+.
+
+
+Pertinent Results:
+Cardiac Cath [**2177-9-11**]:
+1.  Acute inferior myocardial infarction of the proximal RCA.
+2.  Hemodynamics consistent with RV infarction and cardiogenic
+shock.
+3.  Successful placement of a temporary pacemaker in the
+coronary sinus
+for sinus node arrest.
+4. Successful stenting of the proximal and distal RCA.
+.
+ECHO [**2177-9-6**]: The left atrial volume is markedly increased
+(>32ml/m2). The right atrium is moderately dilated. There is
+mild symmetric left ventricular hypertrophy with normal cavity
+size. There is mild to moderate regional left ventricular
+systolic dysfunction with focal akinesis of the basal to mid
+inferolateral wall, and hypokinesis of the inferior wall and
+inferior septum. The remaining left ventricular segments
+contract normally. The right ventricular cavity is markedly
+dilated with severe global free wall hypokinesis. The number of
+aortic valve leaflets cannot be determined. The aortic valve
+leaflets are mildly thickened. There is no aortic valve
+stenosis. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Trivial mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened.
+Moderate [2+] tricuspid regurgitation is seen. The estimated
+pulmonary artery systolic pressure is normal. There is an
+anterior space which most likely represents a fat pad.
+.
+IMPRESSION: Suboptimal image quality. Regional left and right
+ventricular dysfunction consistent with inferior/inferolateral
+MI with right ventricular infarction. Moderate tricuspid
+regurgitation.
+.
+CXR [**2177-9-7**]: There is no overt CHF. ET tube is in the standard
+position. The cuff is slightly overinflated. Swan-Ganz catheter
+tip is in the main pulmonary artery. Cardiomegaly and widened
+mediastinum are stable. There is no pneumothorax or enlarging
+pleural effusions. There is left lower lobe atelectasis and
+right upper lobe medial atelectasis.
+
+
+
+Brief Hospital Course:
+Ms. [**Known firstname 108381**] is a [**Age over 90 **] F with a PMH s/f DM, HTN, dyslipidemia, and
+CHF who presented to the [**Hospital1 18**] with an inferior STEMI, s/p BMS
+to the RCA, complicated by a jailed sino-atrial artery with
+sinus arrest s/p insertion of a coronary sinus pacing wire and
+cardiogenic shock.
+.
+# SHOCK: Cardiogenic shock secondary to RV dysfunction. Family
+was not interested in ballon pump or dialysis. Patient's
+hemodynamics began to demonstrate septic picture with increased
+CO and decreased SVR. Borderline temp with leukocytosis, green
+sputum with gram +ve cocci, gram -ve rods, gram +ve rods.
+Started Vancomycin and Zosyn. Patient anuric. Patient's BP
+required increasing pressors and fluids for support. Hypotension
+worsened in setting of A flutter with rapid rate. MAP 40s.
+Patient passed away with family at bedside.
+.
+# CORONARIES: RV infarction, s/p two bare metal stents to the
+proximal and mid RCA for a totally occluded proximal RCA.
+Developed cardiogenic shock.
+.
+# RHYTHM: Cardiac catheterization was complicated by a jailed
+sinus artery, requiring a coronary sinus pacer. Patient atrial
+paced. Patient entered A Flutter with rapid rate.
+.
+#. Respiratory failure: Patient intubated. Increasing O2
+requirement.
+
+
+Medications on Admission:
+Glimepiride 4mg [**Hospital1 **]
+Metformin 500mg [**Hospital1 **]
+Avandia 4mg [**Hospital1 **]
+Levothyroxine 88mcg daily
+Theragram-M 1 tab daily
+Flexamin 1 tab daily
+Omeprazole 20mg daily
+Bumetanide 1mg daily
+Methocarbamol 500mg QID prn
+Propoxyphene 100mg q6H prn
+
+
+Discharge Medications:
+Expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Cardiogenic shock
+STEMI
+
+Discharge Condition:
+Expired
+
+
+Completed by:[**2177-9-17**]

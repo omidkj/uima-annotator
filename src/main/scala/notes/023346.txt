@@ -1,0 +1,212 @@
+Admission Date:  [**2192-4-20**]              Discharge Date:   [**2192-4-24**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Erythromycin / Aspirin
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Dyspnea on exertion, exertional chest pain, and decreased
+exercise tolerance.
+
+Major Surgical or Invasive Procedure:
+status post CABG x1/ AVR (#23 CE Magna) [**2192-4-20**]
+
+History of Present Illness:
+85 yo male with DOE, exertional CP, and decreased exercise
+tolerance, work up revealed AS and single vessel CAD.
+
+Past Medical History:
+AS/CAD
+COPD/asthma
+Anal fissure with stricture
+Prostate ca./BPH
+chronic constipation
+s/p melenoma removal [**12-13**]
+s/p rectal fissure repair
+s/p Appy. s/p T&A
+s/p TURP '[**86**]
+
+Social History:
+retired MD
+40 PY hx. quit "several years ago"
+
+Family History:
+nc
+
+Physical Exam:
+On admission
+vs:afebrile, p:115, 110/60
+general; A & Ox 3, NAD
+HEENT: unremarkable
+CVS:RRR, murmur noted
+Lungs:CTA
+ABD: benign
+EXT: no C/C/E
+
+
+Pertinent Results:
+[**2192-4-22**] 05:27AM BLOOD WBC-10.5 RBC-3.68* Hgb-9.7* Hct-30.5*
+MCV-83 MCH-26.4* MCHC-31.9 RDW-13.3 Plt Ct-179
+[**2192-4-22**] 05:27AM BLOOD Glucose-110* UreaN-26* Creat-1.4* Na-135
+K-4.7 Cl-99 HCO3-29 AnGap-12
+RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  [**2192-4-22**] 12:52 PM
+
+CHEST (PA & LAT)
+
+Reason: assess for pnuemo
+
+[**Hospital 93**] MEDICAL CONDITION:
+85 year old man with post CT removal post cabg
+REASON FOR THIS EXAMINATION:
+assess for pnuemo
+PA AND LATERAL CHEST, [**4-22**]
+
+HISTORY: Chest tube removed after CABG.
+
+IMPRESSION: AP chest compared to [**4-20**]:
+
+Patient has been extubated. Small bilateral pleural effusions
+are unchanged and there is no pneumothorax. Bilateral lower lobe
+collapse is unchanged. Postoperative cardiomediastinal
+silhouette is normal and unchanged.
+
+DR. [**Known firstname **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**]
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 77682**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 77683**] (Complete)
+Done [**2192-4-20**] at 1:35:15 PM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2107-2-8**]
+Age (years): 85 M  Hgt (in): 72
+BP (mm Hg): 142/90  Wgt (lb): 185
+HR (bpm): 74  BSA (m2): 2.06 m2
+Indication: Intraop CABG, AVR, evaluate vales, aortic contours,
+ventricular function
+ICD-9 Codes: 440.0, 424.1, 424.0
+Test Information
+Date/Time: [**2192-4-20**] at 13:35    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW4-: Machine: 4
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.0 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.4 m/s
+Left Atrium - Peak Pulm Vein D:  0.4 m/s
+Left Atrium - Peak Pulm Vein A:  0.2 m/s  < 0.4 m/s
+Left Ventricle - Inferolateral Thickness:  *1.6 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  2.9 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  1.8 cm
+Left Ventricle - Fractional Shortening:  0.38  >= 0.29
+Left Ventricle - Ejection Fraction:  55% to 65%  >= 55%
+Left Ventricle - Peak Resting LVOT gradient:  3 mm Hg  <= 10 mm
+Hg
+Aorta - Annulus:  2.3 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aorta - Arch:  2.3 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *3.1 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *2.5 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *25 mm Hg  < 20 mm Hg
+Aortic Valve - LVOT pk vel:  0.[**Age over 90 **] m/sec
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *1.2 cm2  >= 3.0 cm2
+Mitral Valve - Mean Gradient:  5 mm Hg
+Mitral Valve - Pressure Half Time:  77 ms
+Mitral Valve - MVA (P [**12-7**] T):  1.8 cm2
+
+Findings
+LEFT ATRIUM: Marked LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Lipomatous hypertrophy of the
+interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Moderate symmetric LVH. Normal LV cavity size.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Complex (>4mm) atheroma in the
+ascending aorta. Normal aortic arch diameter. Complex (>4mm)
+atheroma in the aortic arch. Mildly dilated descending aorta.
+Complex (>4mm) atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Moderate AS (AoVA 1.0-1.2cm2) No AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. Severe
+mitral annular calcification. Moderate thickening of mitral
+valve chordae. Torn mitral chordae. Mild valvular MS (MVA
+1.5-2.0cm2). Mild to moderate ([**12-7**]+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications. The patient appears
+to be in sinus rhythm.
+Conclusions
+Pre bypass: The left atrium is markedly dilated. No atrial
+septal defect is seen by 2D or color Doppler. There is moderate
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. Right ventricular chamber size and free
+wall motion are normal. The descending thoracic aorta is mildly
+dilated. There is complex atheroma of the ascending, arch and
+descending thoracic aorta. An epiaortic scan was conducted to
+deliniate areas of least plaque/calcifcation for aortic cross
+clamp and cannula prior to bypass. There is moderate aortic
+valve stenosis (area 1.0-1.2cm2). No aortic regurgitation is
+seen. The mitral valve leaflets are moderately thickened. There
+is severe mitral annular calcification. There is calcium
+extending onto a significant portion of the posterior mitral
+leaflet. There is moderate thickening of the mitral valve
+chordae. A torn mitral chord is present, originating from the
+posteromedial papillary muscle. There is borderline mild
+valvular mitral stenosis (area 1.8 cm2, 3.2 on recheck at higher
+blood pressure). Mild to moderate ([**12-7**]+) mitral regurgitation is
+seen, most prominent when blood pressure is in 170's systolic.
+Vena contracta <.5 cm consistently.
+
+Post byass: Preserved biventricular funciton. LVEF >55%. An
+aortic valve bioprosthesis is seen (#23 magna per surgeons).
+Peak gradient 12 mm Hg, Mean gradient 6 mm Hg post bypass. No
+AI, no perivalvular leaks on aortic valve. Peak MR remains [**12-7**]+.
+Aortic contours intact. Remaining exam is unchanged.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Interpretation assigned to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting ph
+
+
+Brief Hospital Course:
+[**2192-4-20**] Mr [**Known lastname **] was taken to the OR where he underwent
+CABG x1 (SVG->PLB) and AVR (#23mm CE Magna pericardial) with Dr
+[**Last Name (STitle) 914**]. Cross clamp time=104 minutes, CPB time=130 minutes.
+Please refer to Dr.[**Name (NI) 9379**] operative report for further
+details.Mr [**Known lastname **] was transferred to the CVICU in stable
+condition, requiring Neo and Propofol to optimize blood pressure
+while sedated.All drips were weaned in a timely fashion and the
+patient was extubated postop night. He was transferred to the
+SDU floor on POD#1.All lines and tubes were discontinued in a
+timely fashion. On POD#2 Mr[**Known lastname **]'s rhythm went into a rapid
+atrial fibrillation. He was beta blockaded and started on
+Amiodarone po dosing.Anticoagulation was initiated with
+Coumadin. Day #3 his rhythm converted to NSR in the 80s.On POD
+#4 Mr [**Known lastname **] was doing well and it was felt that he was ready
+for discharge to rehab for further strength and exercise

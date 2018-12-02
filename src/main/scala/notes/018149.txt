@@ -1,0 +1,208 @@
+Admission Date:  [**2141-4-12**]              Discharge Date:   [**2141-4-27**]
+
+Date of Birth:  [**2057-2-13**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Penicillins / Novocain
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+confusion, disorientation
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+HPI: Mr. [**Name14 (STitle) 78102**] is an 84-year-old right-handed man with a
+history of HTN, DM, HLD and previous left MCA stroke who
+presents
+to the ED after changes in his mental status. Patient was found
+this morning wandering, confused and disoriented. Patient was
+leaning on walls. EMS was called and took him to [**Hospital3 **],
+where a non-contrast head CT showed a new hypodensity in the
+right parietal lobe consistent with an acute infarct, along with
+changes suggestive of his old left MCA stroke. He was
+transported
+to [**Hospital1 18**] ED for further
+evaluation and management.
+
+I contact[**Name (NI) **] Mrs [**First Name8 (NamePattern2) 78103**] [**Name (NI) 27598**], his sister-in-law, who saw him in
+the
+[**Name (NI) **] around 12pm and she stated that he was confused and
+complaining of strong headache, no other details were given.
+
+ROS, Patient reports a mild bifrontal headache. No other
+inforamtion was available. Patient uses a cane at baseline.
+
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Diabetes mellitus type 2
+previous left MCA stroke
+
+
+Social History:
+Lives alone, his wife passed away 1 year-ago and she had
+dementia. Pateint does not have children. No siblings. The only
+family contact is Mrs [**First Name8 (NamePattern2) 78103**] [**Name (NI) 27598**] his wife's sister. [**Name (NI) **] is his
+health care proxy. Remote smoking history. No alcohol.
+
+
+Family History:
+From previous notes: Father died at 52 and Mother died at 90,
+doesn't know the cause of either.
+
+
+Physical Exam:
+Physical Exam:
+Vitals: T: 98 P: 76 R: 16 BP: 147/72 SaO2: 99%RA
+General: Awake, non-cooperative.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.
+Skin: hyperemia in both legs.
+
+Neurologic:
+-Mental Status: Awake, disoriented, mildly agitated. Unable to
+relate history. Following very simple commands. Naming is quite
+poor. Signs of perseveration. Fluent speech.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 2 brisk.  VF cut in right side not blinking to threat.
+.
+III, IV, VI: EOM gaze to the right side, impaired horizontal
+gaze. without nystagmus.
+V: Facial sensation intact to pinprick.
+VII: No Facial asymmetry.
+VIII: Hearing mildly impaired bilaterally.
+IX, X: Palate elevates symmetrically.
+[**Doctor First Name 81**]: 5/5 strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: moving all extremities antigravity.
+
+-Sensory: He responded to pinprick.
+
+-DTRs:
+  [**Name2 (NI) **] Tri [**Last Name (un) 1035**] Pat Ach
+L  2   2   2    1   0
+R  2   2   2    1   0
+
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. Mild low amplitude tremor
+was
+noted in the right hand.
+
+-Gait: Deferred.
+
+
+Pertinent Results:
+[**2141-4-12**] 06:15PM BLOOD WBC-8.5 RBC-4.44* Hgb-12.8* Hct-37.5*
+MCV-85 MCH-28.8 MCHC-34.1 RDW-14.0 Plt Ct-212
+[**2141-4-12**] 06:15PM BLOOD Plt Ct-212
+[**2141-4-12**] 06:15PM BLOOD PT-12.4 PTT-22.1 INR(PT)-1.0
+[**2141-4-12**] 06:15PM BLOOD Glucose-117* UreaN-18 Creat-0.8 Na-142
+K-4.5 Cl-105 HCO3-26 AnGap-16
+[**2141-4-13**] 03:21AM BLOOD ALT-25 AST-34 LD(LDH)-229 CK(CPK)-453*
+AlkPhos-85 TotBili-0.7
+[**2141-4-13**] 03:29PM BLOOD CK(CPK)-672*
+[**2141-4-14**] 01:45AM BLOOD CK(CPK)-632*
+[**2141-4-13**] 03:21AM BLOOD Calcium-8.4 Phos-3.4 Mg-1.9 Cholest-133
+[**2141-4-13**] 03:21AM BLOOD %HbA1c-5.6 eAG-114
+[**2141-4-13**] 03:21AM BLOOD Triglyc-97 HDL-40 CHOL/HD-3.3 LDLcalc-74
+[**2141-4-13**] 03:21AM BLOOD TSH-0.93
+[**2141-4-12**] 06:15PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2141-4-14**] 01:45AM BLOOD WBC-8.9 RBC-3.84* Hgb-11.1* Hct-33.1*
+MCV-86 MCH-28.9 MCHC-33.5 RDW-14.0 Plt Ct-185
+[**2141-4-15**] 04:20AM BLOOD WBC-9.4 RBC-4.01* Hgb-11.3* Hct-33.1*
+MCV-83 MCH-28.2 MCHC-34.2 RDW-13.8 Plt Ct-195
+[**2141-4-16**] 06:50AM BLOOD WBC-7.5 RBC-4.10* Hgb-11.9* Hct-35.1*
+MCV-86 MCH-29.2 MCHC-34.0 RDW-13.9 Plt Ct-211
+[**2141-4-18**] 05:31AM BLOOD WBC-7.5 RBC-3.87* Hgb-11.2* Hct-33.0*
+MCV-85 MCH-29.0 MCHC-34.0 RDW-14.0 Plt Ct-267
+[**2141-4-16**] 06:50AM BLOOD Neuts-69.7 Lymphs-16.4* Monos-9.3 Eos-3.3
+Baso-1.3
+[**2141-4-17**] 11:41AM BLOOD Neuts-64.2 Lymphs-19.9 Monos-9.4 Eos-5.7*
+Baso-0.8
+[**2141-4-18**] 05:31AM BLOOD Neuts-62.7 Lymphs-23.1 Monos-9.5 Eos-4.2*
+Baso-0.4
+[**2141-4-14**] 01:45AM BLOOD Plt Ct-185
+[**2141-4-15**] 04:20AM BLOOD Plt Ct-195
+[**2141-4-17**] 11:41AM BLOOD PT-11.8 PTT-22.8 INR(PT)-1.0
+[**2141-4-18**] 05:31AM BLOOD PT-12.5 PTT-23.1 INR(PT)-1.1
+[**2141-4-18**] 05:31AM BLOOD Plt Ct-267
+[**2141-4-14**] 01:45AM BLOOD Glucose-108* UreaN-13 Creat-0.6 Na-141
+K-3.7 Cl-106 HCO3-29 AnGap-10
+[**2141-4-15**] 04:20AM BLOOD Glucose-132* UreaN-11 Creat-0.6 Na-141
+K-3.6 Cl-103 HCO3-29 AnGap-13
+[**2141-4-16**] 06:50AM BLOOD Glucose-144* UreaN-13 Creat-0.6 Na-139
+K-3.7 Cl-104 HCO3-27 AnGap-12
+[**2141-4-17**] 11:41AM BLOOD Glucose-146* UreaN-16 Creat-0.7 Na-141
+K-3.6 Cl-103 HCO3-34* AnGap-8
+[**2141-4-18**] 05:31AM BLOOD Glucose-127* UreaN-15 Creat-0.7 Na-143
+K-3.5 Cl-104 HCO3-33* AnGap-10
+[**2141-4-14**] 01:45AM BLOOD CK(CPK)-632*
+[**2141-4-15**] 04:20AM BLOOD CK(CPK)-329*
+[**2141-4-17**] 11:41AM BLOOD ALT-26 AST-28 AlkPhos-66 TotBili-0.4
+[**2141-4-13**] 03:21AM BLOOD CK-MB-6 cTropnT-<0.01
+[**2141-4-14**] 01:45AM BLOOD Calcium-8.3* Phos-2.2* Mg-2.1
+[**2141-4-15**] 04:20AM BLOOD Calcium-8.3* Phos-1.9* Mg-1.8
+[**2141-4-16**] 06:50AM BLOOD Calcium-8.5 Phos-1.6* Mg-1.9
+[**2141-4-17**] 11:41AM BLOOD Calcium-8.5 Phos-3.0 Mg-2.1
+[**2141-4-18**] 05:31AM BLOOD Calcium-8.4 Phos-2.8 Mg-2.0
+[**2141-4-13**] 03:21AM BLOOD %HbA1c-5.6 eAG-114
+[**2141-4-13**] 03:21AM BLOOD Triglyc-97 HDL-40 CHOL/HD-3.3 LDLcalc-74
+[**2141-4-13**] 03:21AM BLOOD TSH-0.93
+[**2141-4-12**] 06:15PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2141-4-13**] 03:21AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2141-4-17**] 11:36AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.012
+[**2141-4-12**] 07:20PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.010
+[**2141-4-12**] 06:30PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.014
+[**2141-4-17**] 11:36AM URINE Blood-LG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-SM
+[**2141-4-12**] 07:20PM URINE Blood-TR Nitrite-POS Protein-NEG
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR
+[**2141-4-12**] 06:30PM URINE Blood-NEG Nitrite-POS Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-TR
+[**2141-4-17**] 11:36AM URINE RBC-21-50* WBC-[**7-13**]* Bacteri-MOD
+Yeast-NONE Epi-0-2 RenalEp-<1
+[**2141-4-12**] 07:20PM URINE RBC-0-2 WBC-[**12-23**]* Bacteri-FEW Yeast-NONE
+Epi-0-2
+[**2141-4-12**] 06:30PM URINE RBC-0-2 WBC-21-50* Bacteri-OCC Yeast-NONE
+Epi-0-2
+[**2141-4-17**] 11:36AM URINE AmorphX-FEW
+[**2141-4-12**] 06:30PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2141-4-27**] 05:15AM    9.0 4.19* 12.0* 36.1* 86 28.8 33.4 14.5
+411
+[**2141-4-26**] 05:20AM    9.1 3.97* 10.9* 33.4* 84 27.4 32.6 14.3
+368
+[**2141-4-24**] 05:00PM    7.4 4.07* 11.5* 34.8* 86 28.3 33.1 14.4
+406
+[**2141-4-22**] 06:55AM    8.1 4.04* 11.5* 35.0* 87 28.4 32.8 14.5
+336
+[**2141-4-20**] 04:29AM    7.6 3.96* 11.4* 34.0* 86 28.9 33.7 14.5
+297
+[**2141-4-19**] 07:49AM    7.5 4.02* 11.1* 33.4* 83 27.7 33.3 14.1
+264
+
+Chemistry
+                   Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2141-4-27**] 05:15AM    116*1 11 0.8 141 3.6 103 32 10
+[**2141-4-26**] 05:20AM    132*1 7 0.8 139 3.5 101 30 12
+[**2141-4-24**] 05:00PM    116*1 12 0.8 143 3.7 104 30 13
+[**2141-4-22**] 06:55AM    991 19 0.8 142 3.6 104 29 13
+[**2141-4-19**]

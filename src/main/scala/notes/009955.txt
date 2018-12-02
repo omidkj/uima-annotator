@@ -1,0 +1,214 @@
+Admission Date:  [**2102-5-1**]              Discharge Date:   [**2102-5-5**]
+
+Date of Birth:  [**2039-6-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2901**]
+Chief Complaint:
+STEMI
+
+Major Surgical or Invasive Procedure:
+Cardaic catherization
+
+
+History of Present Illness:
+This is a 62 year old woman with a history of hypertension and
+hyperlipidemia who presents with anterior STEMI.  She saw her
+PCP [**Last Name (NamePattern4) **] [**2102-5-1**] with ten days of back pain between her scapula
+and it was felt she had a radiculopathy.  She then presented to
+[**Hospital1 **] ED on [**2102-4-29**] for worsening back pain, shoulder and
+neck pain associated with vomiting.  EKG performed at that time
+showed ST elevations in leads I, avL, V2-V5. She was not cathed
+at that time as symptoms had been present for 10 days and were
+improving. CPK 1670, MB 99.2, RI 8.1, Trop 3.24.  She was cathed
+at the outside hospital on day of admission to [**Hospital1 18**] and found
+to have subtotally occluded LAD.  She was then transferred here
+for PCI. Sheath in RFA, pulses dopplerable.  She was given 600mg
+of plavix and aspirin 325mg on morning of admission along with
+20mg lasix for LVEDP of 35 mmHG. Echo revealed an LVEF of
+[**9-6**]%. Upon transfer to [**Hospital1 18**], she underwent cardiac
+catheterization with PCI of LAD.  She was started on
+integrillin.  Upon transfer to the CCU, she continued to endorse
+back pain however she feels it considerably improved.
+.
+Prior to this event, she has never had any overt anginal
+symptoms.  Her exercise tolerance is good, with no shortness of
+breath or anginal equivalents with exercise.  She used to swim
+frequently however in the past several months, following her
+husband's death in [**2101-9-18**], she has stopped exercising.
+Cardiac risk factors include hypertension and hyperlipidemia,
+and she has been on atenolol and simvastatin for these issues
+respectively.  She has never had any prior MIs, known coronary
+disease, stress tests, or cardiac catheterization.
+.
+Review of systems is negative for chest pressure/pain, shortness
+of breath, nausea/vomiting, abdominal pain, headache, blurry
+vision, dysuria, fevers, chills.
+
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Foot surgery (w/ metal rods in foot)
+Hysterectomy
+
+Social History:
+Lives in [**Location 47**], recent death of her husband (who was also
+in this CCU prior to his death) as well as recent death of her
+brother as noted above from CHF.
+
+Family History:
+Brother died of congestive heart failure, no history of coronary
+syndrome or sudden cardiac death in other relatives.
+
+Physical Exam:
+Cardiac: Nl s1/s2, RRR, no murmurs appreciable
+Pulm: lungs clear bilaterally
+Abd: soft, nontender, nondistended
+Ext: no edema noted
+Neuro: alert and oriented X 3
+
+Pertinent Results:
+Admission labs:
+[**2102-5-1**] 09:55PM BLOOD WBC-13.2* RBC-3.62* Hgb-11.3* Hct-32.5*
+MCV-90 MCH-31.1 MCHC-34.7 RDW-13.2 Plt Ct-304
+[**2102-5-1**] 02:45PM BLOOD Glucose-153* UreaN-11 Creat-0.6 Na-128*
+K-3.6 Cl-90* HCO3-26 AnGap-16
+[**2102-5-1**] 02:45PM BLOOD Albumin-3.0*
+[**2102-5-2**] 05:56AM BLOOD %HbA1c-5.6 eAG-114
+[**2102-5-2**] 05:56AM BLOOD Triglyc-106 HDL-48 CHOL/HD-2.6 LDLcalc-55
+[**2102-5-2**] 05:56AM BLOOD TSH-1.4
+[**2102-5-2**] 05:56AM BLOOD Free T4-1.4
+[**2102-5-2**] 05:56AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE HAV Ab-NEGATIVE
+[**2102-5-2**] 05:56AM BLOOD ALT-77* AST-142* LD(LDH)-685*
+CK(CPK)-416* AlkPhos-178* Amylase-14 TotBili-1.7* DirBili-0.8*
+IndBili-0.9
+[**2102-5-2**] 05:56AM BLOOD HCV Ab-NEGATIVE
+.
+Cardiac Enzymes:
+[**2102-5-1**] 02:45PM BLOOD CK-MB-25* MB Indx-5.5 cTropnT-2.16*
+[**2102-5-1**] 02:45PM BLOOD CK(CPK)-451* AlkPhos-95
+[**2102-5-1**] 09:55PM BLOOD CK-MB-23* MB Indx-4.3 cTropnT-3.95*
+[**2102-5-1**] 09:55PM BLOOD CK(CPK)-531*
+[**2102-5-2**] 05:56AM BLOOD CK-MB-15* MB Indx-3.6
+[**2102-5-2**] 05:56AM BLOOD CK(CPK)-416*
+[**2102-5-3**] 06:57PM BLOOD CK-MB-3 cTropnT-4.50*
+[**2102-5-3**] 06:57PM BLOOD CK(CPK)-103
+.
+Discharge labs:
+[**2102-5-5**] 07:05AM BLOOD WBC-9.2 RBC-3.49* Hgb-10.4* Hct-31.1*
+MCV-89 MCH-29.9 MCHC-33.5 RDW-13.2 Plt Ct-450*
+[**2102-5-5**] 07:05AM BLOOD PT-19.1* PTT-42.0* INR(PT)-1.7*
+[**2102-5-5**] 07:05AM BLOOD Glucose-92 UreaN-13 Creat-0.8 Na-134
+K-3.8 Cl-96 HCO3-25 AnGap-17
+[**2102-5-5**] 07:05AM BLOOD Calcium-8.7 Phos-3.4 Mg-1.9
+.
+[**2102-5-1**] EKG:
+Baseline artifact. Probable sinus or other supraventricular
+rhythm with
+somewhat atypical P wave. Marked left axis deviation.
+Intraventricular
+conduction delay of right bundle-branch block type with Q waves
+in leads V1-V2 with J point and ST segment elevation in leads I,
+aVL and V2-V6. Probable extensive anterior wall myocardial
+infarction in evolution. No previous tracing available for
+comparison. Clinical correlation is suggested.
+.
+[**2102-5-1**] Catherization:
+COMMENTS:
+1. Selective coronary angiography revealed patent LMCA, 100%
+proximal
+occlusion of the LAD with faint left to left collaterals, patent
+LCX.
+2. Resting hemodynamics were performed. The right sided filling
+pressures were elevated (mean RA pressure was 15mmHg and RVEDP
+was
+23mmHg). The pulmonary artery pressure was elevated measuring
+45/23mmHg.
+The left sided filling pressures were elevated (mean PCW
+pressure was
+34mmHg). The systemic arterial pressure was normal measuring
+109/69mmHg.
+The cardiac index was measured 2.0L/min/m2 using an assumed
+oxygen
+consumption index.
+3. Successful PTCA and stenting of the LAD with a 2.5x28mm
+Promus stent
+that was postdilated to 2.75mm. Final angiography revealed no
+residual
+stenosis, no angiographically apparent dissection and TIMI III
+flow (see
+PTCA comments).
+4. Successful deployment of angioseal closure device.
+
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Elevated left and right sided filling pressures.
+3. Borderline low cardiac index.
+4. Successful PCI of the LAD.
+5. Successful deployment of angioseal closure device.
+.
+
+[**2102-5-2**] Carotid U/S:
+Impression: Right ICA stenosis 0.
+Left ICA stenosis 0.
+.
+[**2102-5-2**] Abdominal U/S:
+Right pleural effusion and trace free fluid in Morison's pouch.
+
+Otherwise, unremarkable abdominal son[**Name (NI) **].
+.
+[**2102-5-2**] Cardiac MRI: Report pending
+Impression:
+1. Ischemic cardiomyopathy with mildly increased left
+ventricular cavity size, extensive akinesis/dyskinesis involving
+the proximal LAD territory and severely depressed global
+systolic function (LVEF 28%). Late gadolinium contrast-enhanced
+CMR images demonstrated transmural areas of fibrosis in the
+apex, anterior wall, mid-distal septum, and distal inferolateral
+walls. Low dose dobutamine images showed no improvement of these
+segments consistent with poor likelihood of functional recovery
+after mechanical revascularization. 2. Normal right ventricular
+cavity size with apical akinesis. The RVEF was moderately
+depressed at 30%.
+3. Mild aortic regurgitation. 4. The indexed diameters of the
+ascending and descending thoracic aorta were normal. The main
+pulmonary artery diameter index was normal. 5. Mild left atrial
+enlargement.
+.
+[**2102-5-2**] CXR:
+FINDINGS: Moderate cardiomegaly, minimal overhydration, mainly
+manifested by an increase in diameter of the perihilar vessels.
+In addition, small
+bilateral pleural effusions are visible on the lateral
+radiograph.
+No evidence of focal parenchymal opacity suggesting pneumonia.
+No lung
+nodules or masses. The mediastinal contours are unremarkable.
+.
+[**2102-5-1**] Cath:
+COMMENTS:
+1. Selective coronary angiography revealed patent LMCA, 100%
+proximal
+occlusion of the LAD with faint left to left collaterals, patent
+LCX.
+2. Resting hemodynamics were performed. The right sided filling
+pressures were elevated (mean RA pressure was 15mmHg and RVEDP
+was
+23mmHg). The pulmonary artery pressure was elevated measuring
+45/23mmHg.
+The left sided filling pressures were elevated (mean PCW
+pressure was
+34mmHg). The systemic arterial pressure was normal measuring
+109/69mmHg.
+The cardiac index was measured 2.0L/min/m2 using an assumed
+oxygen
+consumption index.
+3. Successful PTCA and stenting of the LAD with a 2.5x28mm
+Promus stent
+that was postdilated to 2.75

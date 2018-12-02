@@ -1,0 +1,196 @@
+Admission Date:  [**2133-10-17**]              Discharge Date:   [**2133-10-22**]
+
+Date of Birth:  [**2076-2-8**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics) / Visipaque
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+hemoptysis
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+Interventional radiology embolization of anterior right upper
+lobe feeding vessel.
+
+
+History of Present Illness:
+57F with metastatic clear cell renal carcinoma with pulmonary
+involvement, systolic CHF, aortic stenosis who presents with one
+day of frank hemoptysis. She reports that starting today she had
+three episodes of frank liquid hemoptysis at home, each
+approximately one tablespoon. She had two additional episodes of
+hemoptysis in the ED, the larger volume estimated to be two
+tablespoons. She denies purulent sputum production, fever,
+chills. She has no known sick contacts but says she is at the
+hospital constantly for appointments. She has chronic back pain
+which has not been worse recently. The patient has a
+longstanding history (years) of nonproductive coughing spells
+which lead to wheezing and dyspnea. This has not been worse
+recently and she denies increased SOB or CP. She denies
+orthopnea or PND. She has never been incarcerated, lived in a
+homeless shelter, or travelled outside the country. Her daughter
+urged her to go the [**Name (NI) **] and she presented to [**Hospital1 18**] ED.
+.
+In the ED, initial vs were: 98.2 61 158/78 20 96% RA. Labs were
+notable for INR elevated at 3.9, Hct 39.7. CXR showed increased
+nodularities consistent with increasing metastases, RLL
+ill-defined opacity and increased R pleural effusion. Intubation
+was discussed in setting of two additional episodes of
+hemoptysis but declined by patient. Interventional pulmonology
+was consulted and recommended MICU admission for bronchoscopy
+and airway monitoring after non-contrast chest CT given contrast
+allergy. Patient was given Vitamin K 5mg IV x1 and 2 units FFP.
+VS at transfer: 98.7 86 118/70 26 96%RA.
+.
+Upon arrival to the ICU, the patient feels well and denies
+hemoptysis since arriving from the ED or SOB.
+
+Past Medical History:
+Metastatic renal clear cell carcinoma with known mets to
+pleura/lungs s/p IL-2, Sunitinib and Bevacizumab, currently on
+protocol 11-154 a Phase II study of BMS-[**Numeric Identifier 93682**](MDX-1106), a PD-1
+Antibody
+Afib s/p cardioversion x 4
+Hypertension
+Reactive Airway Disease
+Systolic CHF (last EF 25% [**12/2132**])
+Grave's Disease s/p RAI with resultant hypothyroidism
+Aortic Stenosis s/p Valvuloplasty [**1-29**], [**1-2**]
+Malignant pleural effusion s/p R pleurex catheter [**9-30**]
+for 9 months
+
+
+Social History:
+Former smoker, 60-90pk yrs, quit [**2115**]. No EtOH or illicits.
+Works in an office. Divorced, one daughter in [**Name2 (NI) **]. Lives in
+[**Hospital1 1474**] alone with 1 cat. No recent travel.
+
+Family History:
+Mother-adenocarcinoma of unknown primary- mets to lung/brain
+Maternal grandfather- gastric ca
+Maternal grandmother- breast ca
+Maternal aunts- 2 had gastric ca and 2 had breast ca
+
+Physical Exam:
+Admission:
+Vitals: T: 96.5 BP: 131/79 P: 68 R: 19 O2: 93% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, Mallampati 3
+Neck: supple, JVP not elevated, no LAD
+Lungs: Moderate inspiratory effort, bibasilar inspiratory
+crackles, R>L, no wheezes
+CV: IIR, normal S1 + S2, III/VI systolic ejection murmur
+radiating to carotids
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema, no calf tenderness or swelling
+Neuro: A&Ox3, answering questions appropriately, sensation and
+strength grossly intact in all extremities
+
+Discharge:
+VS: T 98.7, P: 89, BP: 139/78, RR: 21, 94% on RA
+HEENT: JVP not elevated, no LAD
+Lungs: minimal bibasilar inspiratory crackles, otherwise CTAB
+without wheezes
+CV: irregular rhythm, regular rate, normal S1 + S2, III/VI
+systolic murmur radiating to carotids
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema, no calf tenderness or swelling
+Neuro: A&Ox3, answering questions appropriately, sensation and
+strength grossly intact in all extremities
+
+
+Pertinent Results:
+Admission labs:
+[**2133-10-17**] 07:25PM   GLUCOSE-137* UREA N-30* CREAT-1.0 SODIUM-137
+POTASSIUM-4.4 CHLORIDE-102 TOTAL CO2-24 ANION GAP-15
+[**2133-10-17**] 07:25PM   WBC-10.4 RBC-4.41 HGB-13.6 HCT-39.7 MCV-90
+MCH-30.9 MCHC-34.3 RDW-14.5
+[**2133-10-17**] 07:25PM   NEUTS-85.7* LYMPHS-6.1* MONOS-5.1 EOS-3.0
+BASOS-0.2
+[**2133-10-17**] 07:25PM   PLT COUNT-210
+[**2133-10-17**] 07:25PM   PT-38.3* PTT-30.3 INR(PT)-3.9*
+
+Discharge Labs:
+[**2133-10-21**] 04:40AM BLOOD WBC-12.7* RBC-4.09* Hgb-12.1 Hct-37.1
+MCV-91 MCH-29.6 MCHC-32.6 RDW-14.9 Plt Ct-205
+[**2133-10-21**] 04:40AM BLOOD PT-12.6* PTT-24.0* INR(PT)-1.2*
+[**2133-10-21**] 04:40AM BLOOD Glucose-135* UreaN-21* Creat-1.0 Na-141
+K-4.7 Cl-107 HCO3-26 AnGap-13
+[**2133-10-21**] 04:40AM BLOOD Calcium-9.1 Phos-3.5 Mg-1.9
+
+[**2133-10-17**] CT Chest w/o contrast:
+-New area of ground-glass attenuation in the anterior segment of
+the right upper lobe. Surrounding centrilobular nodules with a
+few tree-in-[**Male First Name (un) 239**] opacities. Findings may reflect superimposed
+infection or inflammation on diffuse metastatic disease.
+Atypical pathogens should be considered such as [**Doctor First Name **]. Areas of
+ground glass are non-specific and could be infectious or
+possibly related to hemorrhage - correlate clinically with the
+degree of hemoptysis.
+-New small right pleural effusion
+-Slight increase in the size of known mediastinal
+lymphadenopathy
+-Mild increase in size of multiple known pulmonary masses.
+.
+[**2133-10-17**] CXR: Interval increase in size of ill-defined nodular
+opacities in both lungs compatible with pulmonary metastases.
+Small right pleural effusion has increased when compared to the
+prior chest radiograph, with patchy ill-defined opacity in the
+right lung base which may reflect atelectasis though infection
+is not completely excluded. Mediastinal lymphadenopathy is
+re-demonstrated.
+.
+EKG: AF 76, LVH, ST changes c/w LVH, no change from prior
+
+Brief Hospital Course:
+57F with metastatic renal clear cell carcinoma with pulmonary
+involvement, AF on warfarin, symptomatic aortic stenosis who
+presents with one day of frank hemoptysis.
+
+# Hemoptysis: unclear etiology, differential diagnosis includes
+invasion of pulmonary vasculature by tumor, pneumonia, PE, TB,
+adverse effect of chemotherapy. Whatever the primary etiology,
+it has likely been exacerbated by her supratherapeutic INR.
+Initially IP tried an intervention, but due to excessive
+bleeding had to stop. Patient then went to IR to have the area
+of the posterior Right upper Lobe embolized. IP successfully
+embolized the feeding vessel and the radiologists were fairly
+confident that there are no collaterals feeding that area. The
+next day she had a repeat bronchoscopy with successful removal
+of the clot without incidental bleeding. She had no further
+episodes of hemoptysis. We held warfarin and per Cardiology, her
+anticoagulation strategy will need to be re-addressed as
+outpatient.
+
+# Atrial fibrillation: now rate controlled, INR supratherapeutic
+on presentation. CHADS2 score is 2. Held anticoagulation in
+house. Will need to re-address as outpatient. We slowly
+re-started her beta blockade prior to discharge. We changed her
+coumadin to aspirin 81 mg po daily on discharge.
+
+# Aortic stenosis: unknown valve area now, last TTE in 2/[**2132**].
+We continued ranolazine
+
+#Chronic Systolic CHF: She was continued on her home carvedilol.
+We held home furosemide while admitted and restarted on
+discharge.
+
+# Metastatic renal cell carcinoma: on experimental chemotherapy
+regimen.
+Primary oncology team is aware of this hospitalization. She will
+likely need an evaluation by radiation oncology to prevent
+hemoptysis in the future.
+
+# Hypothyroidism: stable. Continued home levothyroxine
+
+# Dyslipidemia: 

@@ -1,0 +1,200 @@
+Admission Date:  [**2130-1-29**]              Discharge Date:   [**2130-3-22**]
+
+Date of Birth:  [**2095-11-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3326**]
+Chief Complaint:
+Abdominal pain and fevers.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+Mr. [**Known lastname 56752**] presented from the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in NH where he presented
+for evaluation of subjective fever and mild abdominal
+discomfort.  He noted that he had been feeling nauseous for the
+past week, correlating with when he began taking his AZT.  This
+was discontinued but his sensation of nausea has persisted.  Two
+days PTA, he began feeling a mild discomfort in the
+periumbilical region which has persisted.  The pain is
+intermittent and mild, unchanged with eating or position.  He
+denied diarrhea, BRBPR, recent dietary changes, or other
+symptoms.  In the ED at the [**Hospital1 **], he was noted to have a
+temperature of 100.2F and was given a dose of ceftriaxone prior
+to transfer to the [**Hospital1 18**].  He completed a course of augmentin 4
+days PTA.
+
+Past Medical History:
+1. NK T cell lypmhoma of the nose (dx [**9-10**])
+- s/p CHOP x 3 with high-dose methotrexate with minimal response
+- started on anti-EBV treatment (valgancyclovir, AZT) in [**12-10**]
+- started XRT [**2130-1-11**]
+
+
+Social History:
+Pt. is married, lives is [**Location (un) 3844**] and works as a carpenter.
+He used to smoke but has recently quit. He drinks alcohol
+occasionally
+
+Family History:
+Mother with renal cell cancer. Grandparents with CAD. No hx of
+lymphoma or leukemia in family
+
+Physical Exam:
+T 100.5, HR 96, RR 18, BP 126/78, O2 Sat 98% RA
+Gen: comfortable, NAD, non-toxic appearing.
+HEENT: PERRL, EOMI, oropharynx unremarkable.
+Neck: Supple, no JVD.
+LN: enlarged LN fixed and mildly tender in the upper right
+anterior cervical distribution, shotty cervical LAD
+bilaterally,no other LAD in the axillary, supraclavicular, or
+inguinaldistributions.
+Heart: RRR, no M/R/G.
+Lungs: CTA bilaterally.
+Abd: Soft, minimally tender to the lower left of the umbilicus.
+No palpable masses, no rebound or guarding, normoactive
+bowelsounds, no HSM.
+Ext: no C/C/E
+Skin: no rash noted.
+
+
+Pertinent Results:
+Labs on admission:
+[**2130-1-30**] 06:35AM BLOOD WBC-1.3*# RBC-3.67* Hgb-9.9* Hct-30.0*
+MCV-82 MCH-26.9* MCHC-32.9 RDW-19.4* Plt Ct-200
+[**2130-1-31**] 07:00AM BLOOD Neuts-40* Bands-12* Lymphs-32 Monos-0
+Eos-0 Baso-8* Atyps-4* Metas-4* Myelos-0
+[**2130-1-30**] 06:35AM BLOOD Glucose-97 UreaN-9 Creat-0.9 Na-139 K-4.3
+Cl-103 HCO3-31* AnGap-9
+[**2130-1-30**] 06:35AM BLOOD AST-32 LD(LDH)-360* AlkPhos-63 Amylase-58
+TotBili-0.3
+[**2130-1-30**] 06:35AM BLOOD Calcium-8.8 Phos-4.2 Mg-2.2
+
+Final labs:
+[**2130-3-22**] 11:04AM BLOOD WBC-1.7* RBC-3.21* Hgb-9.4* Hct-26.7*
+MCV-83 MCH-29.2 MCHC-35.1* RDW-19.0* Plt Ct-37*
+[**2130-3-21**] 10:38AM BLOOD Neuts-74* Bands-14* Lymphs-2* Monos-6
+Eos-0 Baso-0 Atyps-2* Metas-2* Myelos-0
+[**2130-3-22**] 11:04AM BLOOD PT-12.0 PTT-65.9* INR(PT)-0.9
+[**2130-3-18**] 04:33PM BLOOD PT-16.3* PTT-150* INR(PT)-1.7
+[**2130-3-22**] 11:04AM BLOOD Fibrino-189
+[**2130-3-22**] 06:00AM BLOOD FDP-10-40
+[**2130-3-22**] 06:00AM BLOOD Fibrino-206 D-Dimer-5710*
+[**2130-3-22**] 06:00AM BLOOD Gran Ct-870*
+[**2130-3-17**] 04:33AM BLOOD Ret Aut-2.1
+[**2130-3-22**] 11:04AM BLOOD Glucose-111* UreaN-48* Creat-2.9* Na-139
+K-3.7 Cl-103 HCO3-24 AnGap-16
+(peak Cr): [**2130-3-18**] 04:54AM BLOOD Glucose-102 UreaN-172*
+Creat-8.8* Na-137 K-4.2 Cl-105 HCO3-14* AnGap-22*
+[**2130-3-22**] 06:00AM BLOOD ALT-28 AST-192* LD(LDH)-1104*
+AlkPhos-232* TotBili-14.2*
+[**2130-3-20**] 04:52AM BLOOD Lipase-98*
+[**2130-3-22**] 06:00AM BLOOD Albumin-2.5* Calcium-9.0 Phos-2.7 Mg-2.0
+[**2130-3-20**] 04:52AM BLOOD Hapto-<20*
+[**2130-3-12**] 04:54AM BLOOD Triglyc-971* LDLmeas-<50
+[**2130-3-19**] 04:14AM BLOOD Ammonia-66*
+[**2130-3-22**] 03:55PM BLOOD Lactate-3.5*
+
+Micro data:
+Over 90 cultures of various types were drawn.  Positives
+include:
+[**2-16**]  sinus aspirate Aspergillus [**Country 11730**]
+[**2-24**]  sinus aspirate Aspergillus [**Country 11730**] (subsequent culture
+negative)
+[**3-4**]  + VRE on screening rectal swab
+[**3-17**]  R neck wound swab positive for VRE
+
+Imaging:
+[**2130-1-30**]: CT Sinus: IMPRESSION:
+1) Left nasal cavity lesion with mixed attenuation, as described
+above. An MR is recommended for better evaluation of this
+lesion.
+2) Maxillary retention cyst and mild ethmoid sinus mucosal
+thickening.
+
+CT TORSO [**1-30**]: IMPRESSION:
+1) A 3-4 mm vague nodule in the right upper lobe, new since the
+previous exam. This is nonspecific and may represent infection
+or lymphoma. Attention to this can be paid on followup.
+2) Small hypodense focus within the left kidney, also
+nonspecific, which may represent lymphoma.
+3) No etiology for left upper quadrant pain or diarrhea
+identified.
+
+PET [**1-30**]: IMPRESSION:
+1) Unchanged size, but decreased maximum SUV levels of the nasal
+cavity mass.
+2) Increased FDG activity within the right submandibular node
+which appears new compared to the prior study.
+3) Three focal new hepatic areas of increased FDG uptake
+representing distant metastatic involvement.
+
+[**2130-2-13**] CT abdomen/pelvis:
+IMPRESSION:
+1. Multiple bilateral low-density lesions within the kidneys, in
+retrospect probably unchanged since [**2130-1-30**]. These have
+not progressed in the interval and are most likely related to
+lymphomatous involvement of the kidneys.
+2. Vague stable lung nodules, with a new small focal patchy
+density within the left lung, probably due to focal atelectasis.
+3. No clear explanation for the ongoing fevers identified.
+
+[**2130-2-15**] MRI abdomen:
+IMPRESSION: 1. Small subcapsular lesion within the posterior
+right lobe of the liver, with two prominent adjacent draining
+veins. This lesion may be related to prior biopsy or trauma.
+Please correlate with past medial history. Metastatic disease is
+not excluded, but the appearance would be most unusual for a
+metastatic lesion .
+2. Small delayed phase enhancing lesion within the dome of the
+liver, most consistent with a hemangioma, but too small to fully
+characterize.
+3. Multiple hypoenhancing lesions throughout both kidneys,
+consistent with lymphoma, and unchanged compared to CT [**2-13**], [**2130**].
+
+[**2-17**] MR head:
+IMPRESSION: Stable appearance of the brain, compared to the
+previous MRI of [**2129-12-17**]. No abnormal intracranial
+enhancement.
+Decreased size of the intranasal mass since the [**Month (only) 1096**] MRI.
+
+[**2-18**] CT torso:
+IMPRESSION:
+1) Diffuse bilateral increased thickness of the pulmonary
+interlobular septa, new compared to the prior study of [**2130-2-13**].
+This has the appearance of interstitial pulmonary edema.
+Lymphangitic spread of tumor or lymphoma is in the radiologic
+differential diagnosis. This appearance would be atypical for
+infection but in the presence of possible mild bronchial wall
+thickening, infectious process cannot be entirely excluded. No
+intra-abdominal abscess is identified.
+2) Vague right upper lobe nodule, stable.
+3) Stable bilateral rounded ill-defined hypodensities in the
+kidneys, stable compared to the prior study.
+4) Apparent left varicocele. If clinically indicated,
+correlation with ultrasound examination may be performed.
+
+[**3-5**] CT chest:
+IMPRESSION:
+1) Interval formation of bilateral dependent areas of
+consolidation in the lower lobes suggestive of aspiration with
+or without overlying pnuemonia.
+2) Persistent and increased interstitial and alveolar opacities
+bilaterally. Persistent thickening of the interlobular septa.
+The differential includes ARDS or less likely interstitial
+pulmonary edema or lymphatic spread of tumor or lymphoma.
+3) Stable appearance of rounded hypoattenuating areas within the
+kidneys. These have increased in the short interval ([**2130-1-30**])
+and may represent multifocal pyleonephritis, lymphoma or less
+likely infarcts.
+4) No evidence of pulmonary embolism.
+
+[**2130-3-9**] RUQ ultrasound with Doppler:
+IMPRESSION:
+1) Normal-appearing liver with patent portal and hepatic veins.
+2) Gallbladder contains s

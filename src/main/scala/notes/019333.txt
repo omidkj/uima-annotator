@@ -1,0 +1,202 @@
+Admission Date:  [**2126-4-11**]              Discharge Date:   [**2126-4-15**]
+
+Date of Birth:  [**2056-3-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 134**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+History of Present Illness:
+This is a 70 gentleman with history of CABG with LIMA-LAD in
+[**2125**], AVR([**First Name8 (NamePattern2) **] [**Male First Name (un) 923**]), severe mitral stenosis who was admitted to
+CCU for acute anterior MI and cardiogenic shock. He has been
+complaining of shortness of breath for the poast few weeks. This
+was thought to be related to mitral stenosis. On the night prior
+to admission, he had severe SOB in bed with no chest pain. He
+went to an OSH in congestive heart failure and hypoxic. He was
+also tachycardic to 200 and given adenosine with HR in 150s. He
+was then given ASA, heparin, IV NTG. Subsequently, he became
+hypotensive to 90/60 and dopamine was started. He was intubated
+for airway protection.
+On arrival to [**Hospital1 18**] ED, he remains intubated. Echocardiogram
+that was done at bedside demonstrated new anterior wall
+hypokinesis. However, his INR was found to be 6.5. He was
+transiently brought to the unit for reversal and then emergently
+to the cath lab.
+
+Past Medical History:
+1. LIMA-LAD in [**2125**]
+2. AVR(St. [**Male First Name (un) 923**])
+3. MS
+4. post-op AF
+5. hypercholesterolemia
+6. hypertension
+
+Pertinent Results:
+echo [**2126-4-11**]:
+The left atrium is normal in size. Overall left ventricular
+ejection fraction is severely depressed (20-30 percent); the
+anterior septum, anterior free wall, and apex are severely
+hypokinetic/akinetic. Right ventricular chamber size and free
+wall motion are normal. A bileaflet aortic valve prosthesis is
+present. The aortic prosthesis appears well seated, with normal
+leaflet/disc motion and transvalvular gradients. The mitral
+valve leaflets are severely thickened/deformed. There is no
+mitral valve prolapse. There is moderate thickening of the
+mitral valve chordae. There is moderate mitral stenosis, with
+markedly elevated mean pressure gradient across the mitral valve
+(heart rate is 132 beats per minute). Mitral regurgitation is
+present but cannot be quantified. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+cath result [**4-12**]:
+1. Selective angigraphy of the LIMA showed it to be widely
+patent with
+no angiographically apparent disease. Left subclavian
+angiography
+showed it to be widely patent without apparent disease.
+
+CXR [**2126-4-11**]:
+Single AP view of the chest dated [**2126-4-11**] at 10:12 a.m. is
+compared with a
+single AP view of the chest dated [**2126-4-11**] at 8:46 a.m. An
+endotracheal tube
+has been placed and terminates 3 cm above the carina. Previously
+identified
+congestive heart failure has slightly worsened in the last 1.5
+hours. No
+discrete infiltrates are identified. There is no pneumothorax.
+
+[**2126-4-11**] 06:04PM   TYPE-ART TEMP-37.8 PEEP-10 PO2-215* PCO2-43
+PH-7.39 TOTAL CO2-27 BASE XS-1 INTUBATED-INTUBATED
+[**2126-4-11**] 03:45PM   TYPE-ART TIDAL VOL-600 PEEP-10 O2-100 PO2-89
+PCO2-46* PH-7.32* TOTAL CO2-25 BASE XS--2 AADO2-579 REQ O2-95
+-ASSIST/CON INTUBATED-INTUBATED
+[**2126-4-11**] 03:45PM   HGB-12.2* calcHCT-37 O2 SAT-96
+[**2126-4-11**] 01:21PM   TYPE-ART RATES-12/ TIDAL VOL-600 PEEP-10
+O2-100 PO2-140* PCO2-40 PH-7.34* TOTAL CO2-23 BASE XS--3
+AADO2-534 REQ O2-89 -ASSIST/CON INTUBATED-INTUBATED
+COMMENTS-VENTED
+[**2126-4-11**] 01:21PM   GLUCOSE-134* LACTATE-1.2 K+-4.7
+[**2126-4-11**] 01:21PM   HGB-15.6 calcHCT-47 O2 SAT-98
+[**2126-4-11**] 08:50AM   GLUCOSE-210* UREA N-21* CREAT-1.4* SODIUM-143
+POTASSIUM-4.8 CHLORIDE-103 TOTAL CO2-16* ANION GAP-29*
+[**2126-4-11**] 08:50AM   CK(CPK)-218*
+[**2126-4-11**] 08:50AM   cTropnT-0.09*
+[**2126-4-11**] 08:50AM   CK-MB-21* MB INDX-9.6*
+[**2126-4-11**] 08:50AM   CALCIUM-9.7 PHOSPHATE-6.9*# MAGNESIUM-2.0
+[**2126-4-11**] 08:50AM   WBC-18.2*# RBC-5.71# HGB-17.1# HCT-49.2#
+MCV-86 MCH-29.9 MCHC-34.8 RDW-15.1
+[**2126-4-11**] 08:50AM   NEUTS-89.8* BANDS-0 LYMPHS-6.1* MONOS-3.1
+EOS-0.9 BASOS-0.2
+[**2126-4-11**] 08:50AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**2126-4-11**] 08:50AM   PLT SMR-NORMAL PLT COUNT-305
+[**2126-4-11**] 08:50AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.009
+[**2126-4-11**] 08:50AM URINE  BLOOD-SM NITRITE-NEG PROTEIN-500
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2126-4-11**] 08:50AM URINE  RBC-[**4-13**]* WBC-0-2 BACTERIA-FEW YEAST-NONE
+EPI-[**4-13**]
+[**2126-4-11**] 08:50AM URINE  AMORPH-FEW
+
+Brief Hospital Course:
+70 gentleman with history of CABG with LIMA-LAD in [**2125**], AVR([**First Name8 (NamePattern2) **]
+[**Male First Name (un) 923**]), severe mitral stenosis who was admitted to CCU for acute
+anterolateral MI and cardiogenic shock.Patient presented with
+pulmonary edema and hypotensive requiring intubation and
+dopamine drip. This is compatible with cardiogenic shock,
+differential being ischemia vs sudden decompensation of mitral
+stenosis. However, echocardiogram showed acute anterior wall HK,
+new decreased EF and unchanged MS, suggesting ischemia.Sepsis
+workup was negative. Cardiac catheterization [**2126-4-11**]: cypher to
+LMCA and prox LAD, kissing ballon to LAD and LCx. IABP not
+placed since iliac angiography showed diffusely small iliac and
+femoral vessels. He remained on pressors after the procedure and
+hemodynamics were monitored by swan. He was extubated and off
+pressors on the second day. He continued on integrillin for 18 h
+and plavix for 9 months. He was discharged on aspirin, lipitor,
+ACE and metoprolol. Coumadin was also continued for history of
+atrial fibrillation and mechanical valve.
+
+
+
+
+Medications on Admission:
+aspirin
+lopressor 75 TID
+lasix 40
+lescol
+coumadin
+
+Discharge Medications:
+1. Atorvastatin Calcium 40 mg Tablet Sig: Two (2) Tablet PO
+DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily) for 300 days.
+Disp:*30 Tablet(s)* Refills:*2*
+3. Warfarin Sodium 5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Furosemide 40 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO TID
+(3 times a day).
+Disp:*270 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1474**] VNA
+
+Discharge Diagnosis:
+acute coronary syndrome
+hypercholesterolemia
+hypertension
+atrial valve replacement
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Please return to the hospital or call your doctor if you
+experience chest pain/shortness of breath or if there are any
+concerns at all.
+
+Please take all your prescribed medication.
+
+Please do not resume your job until you have been evaluated by
+the Electrophysiology clinic.
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **] within one month after your
+discharge. Preferably, please keep your appointment this coming
+Friday.
+
+Please follow up with your PCP for INR check in the next week
+becuase you are on coumadin ([**Doctor Last Name **]-[**Last Name (LF) **],[**First Name3 (LF) **] Z. [**Telephone/Fax (1) 3183**]).
+
+Please follow up with the electrophysiology clinic. Dr.
+[**Last Name (STitle) 73**] [**4-22**] at 11:30 AM. [**Hospital1 1170**], Cardiac Services, [**Location (un) 830**], [**Hospital Ward Name 23**] 7,
+[**Location (un) 86**], [**Numeric Identifier 718**], Phone: [**Telephone/Fax (1) 902**].
+
+
+
+Completed by:[**2126-4-17**]

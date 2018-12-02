@@ -1,0 +1,209 @@
+Admission Date:  [**2184-1-1**]              Discharge Date:   [**2184-1-7**]
+
+Date of Birth:  [**2115-1-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 14037**]
+Chief Complaint:
+mental status changes
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 68 year old nursing home resident with a
+history of mulit-infarct dementia, alcohol abuse, pulmonary
+hypertension, and CAD who was admitted to the [**Hospital Unit Name 153**] on [**2184-1-2**] for
+acute mental status changes.  He has dementia but is very alert
+at baseline.  On the date of admission, he was unable to be
+aroused by RN. Head CT done in the emergency department was
+negative, LP was negative, but chest x-ray demonstrated
+bilateral pneumonia. CT/angiogram showed left lower lobe
+pneumonia, no pulmonary embolism, 1cm B hilar lymphnodes, as
+well as severe emphysema. Was seen by PCP with plans to return
+to [**Hospital1 1501**] on Abx, but he had progressive deterioration in his
+mental status.
+
+He was admitted to the [**Hospital Unit Name 153**] and required intubation for airway
+protection on [**1-2**].  With the patient stabilized, MRI was
+performed but did not demonstrate a new stroke.  The patient was
+extubated on [**1-5**], had improved mental status.
+The thought was that the patient's decline was due to his
+pneumonia.
+
+At baseline pt speaks, although sometimes has word finding
+problems, uses [**Name2 (NI) **], dresses and feeds himself.
+
+
+Past Medical History:
+Dementia (multi-infarct)
+s/p CVA - has residual L hemiparesis [**2180**]
+Pulm HTN
+EtOH abuse
+CAD
+h/o UTI's
+
+Social History:
+Resident of Provident NH since a CVA in [**2180**].  He has a history
+of alcohol abuse and unknown tobacco use history.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS:  T 98.9    BP 177/74  HR 86   RR 86  Sat 95% on cool neb
+GEN: Man in bed in NAD
+HEENT: PERRL, NC/AT, MMM,
+CV: RRR nl S1/S2, II/VI systolic murmur
+PUL: scant crackles at left base.
+ABD: NT, +BS, no rebound/guarding
+EXT: no LE edema, RP/DP 2+ b/l
+Neuro: A&Ox person, month, day, "hospital".
+CNII-XII intact, Motor [**4-1**] right.  [**4-1**] LUE,  4+/5 LLE.
+
+Pertinent Results:
+[**1-3**]:
+EKG: Sinus arrhythmia
+Borderline first degree AV block
+Right bundle branch block
+P-R interval 0.21
+Since previous tracing, sinus tachycardia absent and axis change
+seen
+
+MRI/MRA Head: No evidence of acute infarct. Chronic infarcts in
+the brain stem and posterior fossa with severe changes of small
+vessel disease in the periventricular white matter with multiple
+lacunes in the white matter. No midline shift or hydrocephalus.
+MRA: The head MRA demonstrated normal flow signal within the
+arteries of anterior and posterior circulation. No evidence of
+vascular occlusion or high grade stenosis is seen.
+
+Echo ([**1-2**]): Symmetric left ventricular hypertrophy with
+hyperdynamic systolic function and mild resting mid-cavity
+gradient. Moderate pulmonary artery systolic hypertension. No
+definite 2D or Doppler evidence for endocarditis identified
+(does not exclude if clinically suggested).
+
+CT head: No evidence of intracranial hemorrhage or cerebral
+edema. Note that MRI with diffusion weighted imaging is a more
+sensitive evaluation for detection of acute stroke.
+
+CT chest: 1) No pulmonary embolism.
+2) Left lower lobe infiltrate, likely pneumonia.
+3) Bilateral emphysematous changes.
+4) 1 cm nodular density along right major fissure. This could be
+infectious in etiology, but f/u chest CT recommended in 3
+months.
+5) Hilar and medistinal lymphadenopathy, which could be
+infectious in origin.
+6) Apparent tracheobronchial thickeening which could represent
+chronic bronchitis or mucous.
+
+[**2184-1-1**] 09:30PM   CK(CPK)-487*
+[**2184-1-1**] 09:30PM   CK-MB-7 cTropnT-<0.01
+[**2184-1-1**] 09:25PM   AMMONIA-27
+[**2184-1-1**] 05:33PM   LACTATE-3.3*
+[**2184-1-1**] 04:07PM   TYPE-ART PO2-40* PCO2-44 PH-7.38 TOTAL CO2-27
+BASE XS-0 INTUBATED-NOT INTUBA
+[**2184-1-1**] 04:07PM   O2 SAT-71
+[**2184-1-1**] 12:03PM   TYPE-ART PO2-65* PCO2-40 PH-7.40 TOTAL CO2-26
+BASE XS-0
+[**2184-1-1**] 12:03PM   LACTATE-3.1*
+[**2184-1-1**] 12:03PM   O2 SAT-92 CARBOXYHB-1.0 MET HGB-0.5
+[**2184-1-1**] 12:03PM   freeCa-1.26
+[**2184-1-1**] 11:32AM   TYPE-ART PO2-26* PCO2-56* PH-7.31* TOTAL
+CO2-30 BASE XS--1
+[**2184-1-1**] 11:32AM   LACTATE-4.3*
+[**2184-1-1**] 11:32AM   O2 SAT-34 CARBOXYHB-1.3 MET HGB-0.5
+[**2184-1-1**] 11:32AM   freeCa-1.34*
+[**2184-1-1**] 08:30AM CEREBROSPINAL FLUID (CSF)  PROTEIN-41
+GLUCOSE-72
+[**2184-1-1**] 08:30AM CEREBROSPINAL FLUID (CSF)  WBC-0 RBC-2* POLYS-4
+LYMPHS-96 MONOS-0
+[**2184-1-1**] 08:30AM CEREBROSPINAL FLUID (CSF)  WBC-0 RBC-2* POLYS-0
+LYMPHS-0 MONOS-0
+[**2184-1-1**] 05:30AM URINE  HOURS-RANDOM MAGNESIUM-10.2
+[**2184-1-1**] 05:30AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2184-1-1**] 05:30AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.016
+[**2184-1-1**] 05:30AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0
+LEUK-NEG
+[**2184-1-1**] 03:30AM   GLUCOSE-121* UREA N-19 CREAT-1.1 SODIUM-140
+POTASSIUM-4.2 CHLORIDE-102 TOTAL CO2-28 ANION GAP-14
+[**2184-1-1**] 03:30AM   ALT(SGPT)-24 AST(SGOT)-19 CK(CPK)-204* ALK
+PHOS-43 AMYLASE-80 TOT BILI-0.4
+[**2184-1-1**] 03:30AM   LIPASE-26
+[**2184-1-1**] 03:30AM   cTropnT-<0.01
+[**2184-1-1**] 03:30AM   CK-MB-3
+[**2184-1-1**] 03:30AM   VIT B12-541
+
+[**2184-1-5**] 04:11AM BLOOD WBC-8.2 RBC-4.00* Hgb-11.5* Hct-34.7*
+MCV-87 MCH-28.8 MCHC-33.2 RDW-14.0 Plt Ct-172
+[**2184-1-5**] 04:11AM BLOOD Plt Ct-172
+
+[**2184-1-5**] 04:11AM BLOOD Glucose-132* UreaN-11 Creat-0.8 Na-143
+K-3.6 Cl-109* HCO3-29 AnGap-9
+[**2184-1-5**] 04:11AM BLOOD Calcium-8.8 Phos-2.2* Mg-2.0
+
+[**2184-1-3**] 04:21AM BLOOD Cortsol-8.7
+[**2184-1-1**] 03:30AM BLOOD TSH-1.2
+
+ECG: nl axis at 72bpm, w/ RBBB vs ICD
+
+[**2184-1-5**] 04:11AM BLOOD WBC-8.2 RBC-4.00* Hgb-11.5* Hct-34.7*
+MCV-87 MCH-28.8 MCHC-33.2 RDW-14.0 Plt Ct-172
+[**2184-1-5**] 04:11AM BLOOD Plt Ct-172
+[**2184-1-5**] 04:11AM BLOOD Glucose-132* UreaN-11 Creat-0.8 Na-143
+K-3.6 Cl-109* HCO3-29 AnGap-9
+[**2184-1-5**] 04:11AM BLOOD Calcium-8.8 Phos-2.2* Mg-2.0
+[**2184-1-2**] 11:31PM BLOOD Lactate-1.6
+
+[**2184-1-1**]: UCx neg
+        BCx NGTD
+        Sputum O/P flora; Cx NGTD
+
+Brief Hospital Course:
+68 yo NH resident w/ h/o CVA and multi-infarct dementia who
+presents with MS changes in setting of pna.
+
+# MS changes: Etiology of altered MS was most likely secondary
+to his infection/ sepsis, as LP and initial head CT were
+negative and vit B12, RPR, TSH were nl.  Neurology was consulted
+and recommended MRI, which showed no evidence of stroke. Pt's
+neuro exam continued to improve with improvement of his PNA and
+oxygenation. He was talking and increasingly oriented and found
+stable for transfer to the floor.
+Aricept, thiamine, folate were continued and sedatives
+meds/narcotics were avoided.
+.
+# PNA with hypoxia: Pt was noted to be and hypoxic in the ED,
+CXR showed impressive bilat PNA and pt required intubation for
+airway protection. He was treated with ceftriaxone and azithro.
+His PNA improved, lactate decreased and he was extubated [**1-5**].
+Sputum revealed moderate growth of oropharyngeal flora; no
+pathogens were isolated. He received aggressive suctioning and
+chest PT. He will continue antibiotic treatment with levaquin,
+500mg PO x10days.
+.
+#COPD: Poor air movement on exam and O2 sats in the 89-92 range
+on 2L. Likely pt has severe emphysema at baseline. He was on
+supplemental O2 with goal sats 89-92% and received RTC nebs as
+well as 5 days of prednisone 50mg PO daily (day [**1-3**] on
+discharge), with no taper.
+.
+# CAD: Pt was noted to have ST depressions in lateral leads on
+EKG. Unfortunately, there was no prior EKG for comparison. Card
+mkrs were cycled and he ruled out for MI. ASA was continued and
+lopressor and captopril were added and titrated up to achieve
+goal SBP 120s-130s.
+.
+# DM: Likely steroid-induced. Pt was kept on reg insulin sliding
+scale while on prednisone. This may be discontinued in 3 days,
+once he is off prednisone.
+.
+# Abnormal CT finding: 1 cm nodu

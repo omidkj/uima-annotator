@@ -1,0 +1,193 @@
+Admission Date:  [**2103-1-15**]              Discharge Date:   [**2103-2-2**]
+
+Date of Birth:  [**2027-9-15**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Procaine
+
+Attending:[**First Name3 (LF) 1**]
+Chief Complaint:
+Emergent small bowel obstruction
+Bilateral pneumonia
+
+Major Surgical or Invasive Procedure:
+[**2103-1-17**]: Exploratory laparotomy, extensive lysis of adhesions
+and repair of ventral hernia by component separation technique.
+[**2103-1-30**]: Flexible bronchoscopy with therapeutic aspiration and
+functional study.
+
+
+History of Present Illness:
+This patient was transferred from her rehabilitation facility to
+the [**Hospital1 18**] ED as an emergency with a bowel obstruction and
+bilateral pneumonia.  She was a very heavy lady and had
+previously undergone at least 2 operations for bowel obstruction
+related to an incisional hernia. More than this we did not know
+owing to the emergent arrival of this patient at this hospital
+and her previous surgery had been performed elsewhere.
+
+
+Past Medical History:
+Type II DM
+obesity
+HTN
+GERD
+COPD
+Depression
+hx pna [**1-22**]
+anemia
+gout
+osteoarthritis
+hx renal stone
+s/p oophorectmy
+s/p trimalleolar fx right leg
+PPD neg [**2101-2-23**]
+
+
+Social History:
+NH resident at [**Hospital 100**] Rehab,
+son lives in [**Name (NI) 1727**], [**First Name8 (NamePattern2) **] [**Name (NI) 60308**]
+phone # [**Pager number **] (or [**Telephone/Fax (1) 60309**]
+distant hx smoking, pt reports <10 years of smoking < 1/2ppd
+-ETOH
+
+
+Family History:
+NC
+
+Pertinent Results:
+[**1-15**] Abd CT:
+1.  Bibasilar consolidation, which may represent aspiration
+pneumonia in the setting of small-bowel obstruction.
+2.  Right abdominal hernia containing loops of small bowel with
+evidence of small-bowel obstruction.  No bowel wall thickening,
+significant stranding or pneumatosis to suggest bowel
+infarction.
+3.  Enhancing left renal mass and adjacent complex cyst
+concerning for renal cell carcinoma.
+4.  Sigmoid diverticulosis without evidence of diverticulitis.
+5.  Thickened right adrenal gland, which can be better assessed
+with CT with adrenal protocol once patient's acute issues
+resolve.
+
+[**1-28**] Chest CT:
+1.  Severe tracheomalacia.  Bronchial tree is patent, but study
+is not
+designed for assessment of bronchomalacia.  Nevertheless, both
+lower lobes and the posterior segment of the right upper lobe
+are collapsed.
+2.  Possible mitral valve dysfunction due to heavy annulus
+calcification. Left atrial enlargement.
+
+[**1-30**] Flexible bronchoscopy:
+Dynamic maneuvers revealed no significant loss of airway patency
+in the trachea and less than 50% reduction patency of both
+main-stem bronchi on
+forced expiration. The bronchoscope was passed into the right
+and left airways were a therapeutic aspiration was performed of
+mild to moderate secretions, left greater than right. The
+airways were patent to the level of the 4th order bronchi.
+
+[**2103-1-15**] 03:07AM BLOOD WBC-21.9* RBC-4.58 Hgb-12.1 Hct-39.6
+MCV-86 MCH-26.4*# MCHC-30.6* RDW-16.6* Plt Ct-328
+[**2103-1-28**] 01:57AM BLOOD WBC-13.7* RBC-2.96* Hgb-8.1* Hct-24.8*
+MCV-84 MCH-27.4 MCHC-32.7 RDW-16.3* Plt Ct-358
+[**2103-1-29**] 04:04AM BLOOD WBC-10.8 RBC-2.80* Hgb-7.8* Hct-23.3*
+MCV-83 MCH-27.8 MCHC-33.3 RDW-16.3* Plt Ct-360
+[**2103-2-2**] 03:00AM BLOOD WBC-9.4 RBC-3.75* Hgb-10.2* Hct-30.8*
+MCV-82 MCH-27.2 MCHC-33.1 RDW-16.1* Plt Ct-447*
+[**2103-1-15**] 03:07AM BLOOD Glucose-233* UreaN-40* Creat-1.5* Na-139
+K-4.4 Cl-93* HCO3-33* AnGap-17
+[**2103-1-17**] 08:50PM BLOOD Glucose-78 UreaN-56* Creat-2.4* Na-132*
+K-4.0 Cl-99 HCO3-25 AnGap-12
+[**2103-1-18**] 02:37AM BLOOD Glucose-83 UreaN-56* Creat-2.4* Na-135
+K-4.0 Cl-101 HCO3-24 AnGap-14
+[**2103-1-19**] 03:31AM BLOOD Glucose-128* UreaN-52* Creat-2.0* Na-136
+K-4.0 Cl-101 HCO3-21* AnGap-18
+[**2103-2-2**] 03:00AM BLOOD Glucose-102 UreaN-39* Creat-1.0 Na-142
+K-4.4 Cl-102 HCO3-30 AnGap-14
+[**2103-1-15**] 08:24AM BLOOD CK-MB-NotDone cTropnT-0.03*
+[**2103-1-15**] 09:16PM BLOOD CK-MB-4 cTropnT-0.06*
+[**2103-1-16**] 02:29AM BLOOD CK-MB-7 cTropnT-0.05*
+[**2103-1-16**] 04:44PM BLOOD CK-MB-12* MB Indx-2.9 cTropnT-0.06*
+[**2103-1-17**] 01:17AM BLOOD CK-MB-10 MB Indx-2.7 cTropnT-0.05*
+[**2103-1-17**] 09:03AM BLOOD CK-MB-7 cTropnT-0.05*
+[**2103-1-16**] 10:30AM BLOOD Cortsol-25.9*
+[**2103-1-16**] 02:30PM BLOOD Cortsol-39.0*
+[**2103-1-16**] 03:07PM BLOOD Cortsol-44.4*
+[**2103-1-15**] 07:18AM BLOOD Type-ART Rates-20/10 Tidal V-400 PEEP-12
+FiO2-100 pO2-89 pCO2-70* pH-7.27* calTCO2-34* Base XS-2
+AADO2-571 REQ O2-92 -ASSIST/CON Intubat-INTUBATED
+[**2103-1-15**] 12:52PM BLOOD Type-ART pO2-171* pCO2-52* pH-7.31*
+calTCO2-27 Base XS-0 Intubat-INTUBATED
+[**2103-1-15**] 01:46PM BLOOD Type-ART pO2-78* pCO2-56* pH-7.30*
+calTCO2-29 Base XS-0 Intubat-INTUBATED Vent-CONTROLLED
+[**2103-1-15**] 02:52PM BLOOD Type-ART pO2-83* pCO2-68* pH-7.18*
+calTCO2-27 Base XS--4
+[**2103-1-16**] 12:46AM BLOOD Type-ART pO2-83* pCO2-51* pH-7.35
+calTCO2-29 Base XS-0
+[**2103-1-16**] 02:38AM BLOOD Type-ART pO2-79* pCO2-53* pH-7.35
+calTCO2-30 Base XS-1
+[**2103-1-30**] 02:52AM BLOOD Type-ART pO2-91 pCO2-61* pH-7.43
+calTCO2-42* Base XS-12
+[**2103-1-30**] 11:58AM BLOOD Type-ART pO2-151* pCO2-54* pH-7.42
+calTCO2-36* Base XS-9
+[**2103-1-30**] 02:59PM BLOOD Type-ART pO2-95 pCO2-57* pH-7.42
+calTCO2-38* Base XS-9
+[**2103-1-31**] 03:19AM BLOOD Type-ART pO2-100 pCO2-56* pH-7.41
+calTCO2-37* Base XS-8
+[**2103-1-31**] 10:05AM BLOOD Type-ART pO2-102 pCO2-50* pH-7.41
+calTCO2-33* Base XS-5
+[**2103-1-31**] 01:19PM BLOOD Type-ART pO2-103 pCO2-53* pH-7.40
+calTCO2-34* Base XS-5
+[**2103-2-1**] 04:16AM BLOOD Type-ART pO2-107* pCO2-43 pH-7.38
+calTCO2-26 Base XS-0
+[**2103-2-1**] 11:03PM BLOOD Type-ART pO2-82* pCO2-48* pH-7.44
+calTCO2-34* Base XS-6 Comment-O2 DELIVER
+
+Brief Hospital Course:
+Brief summary: 75-year-old woman admitted [**2103-1-15**] following
+emergent exploratory laparotomy for small bowel obstruction.  On
+admission patient was septic secondary to bilateral pneumonias.
+Her sepsis was successfully treated with 14-day course of IV
+antibiotics.  She was endotracheally intubated for the majority
+of her stay as she repeatedly refused tracheostomy and was
+extubated on [**2103-1-31**].  She was discharged to rehab facility on
+[**2103-2-2**] in stable condition requiring O2.
+
+Neuro: Immediately post-op, patient was sedated and pain control
+was adequate.  After sedation was discontinued, her pain was
+controlled with prn fentanyl. At discharge she had no pain
+medication requirements.  After sedation was discontinued,
+patient was alert and interactive throughout her stay; no focal
+neurologic deficits were seen throughout her stay.
+
+CV: Troponins were elevated on admission but ECG did not
+demonstrate acute ischemic changes.  [**1-16**] ECHO: Overall left
+ventricular systolic function is normal (LVEF>55%), tivial
+mitral regurgitation, mild pulmonary artery systolic
+hypertension. On [**1-24**] patient complained of bilateral calf pain;
+exam showed positive [**Last Name (un) 5813**] signs; BLE DVT scan was negative
+for DVT.  During her stay she was transfused 2units of PRBCs on
+[**1-18**] and [**1-31**] for hematocrits of 22 and Hct rose appropriately.
+At discharge patient was CV stable.
+
+Pulm: Patient presented with bilateral pneumonias; this was
+confirmed on admission CXR.  She was intubated and started on a
+14 day course of IV Zosyn, Vancomycin, and Flagyl.  She remained
+on endotracheal ventilation from admission on [**1-15**] until
+[**2103-1-31**].  Several discussions were held with the patient and her
+family regarding the therapeutic benefits of performing a
+tracheostomy; however, the patient firmly refused this procedure
+throughout her inpatient stay.  Intubational sedation was
+stopped on [**2103-1-17**].  She was followed with serial CXR that
+showed gradual improvement in her pneumonia.  On [**2103-1-19**] she
+developed increasing pressure requirement; CXR demonstrated a
+large right sided pneumothorax.  A chest tube was placed with
+improved ventilation and follow-up CXR showed no pneumothorax.
+This chest tube was removed on [**2103-1-25**] and serial follow-up CXR
+demonstrated no reaccumulation of pneumothorax.  The patient
+failed CPAP trials until [**2103-1-23**], following which her CPAP was
+graduall

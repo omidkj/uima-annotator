@@ -1,0 +1,202 @@
+Admission Date:  [**2206-5-30**]              Discharge Date:   [**2206-6-10**]
+
+Date of Birth:  [**2152-7-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ampicillin / Valium / Allopurinol
+
+Attending:[**First Name3 (LF) 2160**]
+Chief Complaint:
+PCP: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3029**]
+.
+CC:[**CC Contact Info 14653**]
+Major Surgical or Invasive Procedure:
+Hemodialysis
+
+
+History of Present Illness:
+Pt is a 53 yo female with HTN, ESRD on HD TThS, atrial
+fibrillation s/p DCCV, CHF with preserved EF, PVD s/p R fem-[**Doctor Last Name **],
+pulmunary HTN, and COPD who presented to the ED with increasing
+facial swelling over the course of one month and dizziness,
+particularly when lying down. Also, pt reports some difficulty
+swallowing due to sensation of swelling in her throat. She
+states it began after her last surgery to retrieve retained
+graft in left arm late in [**Month (only) 958**]. She states her diet and fluid
+status are unchanged. No major medication changes during the
+past 1-2 months except decreases in the dose of hypertension
+meds. Last dialysis was in the AM of [**2206-5-29**]. Pt also notes mild
+increasing abdominal distention.
+
+Of note pt had a infected graft which was removed [**2206-5-2**].
+
+In the ED, concern for SBPs 70-90s. The pt was initially going
+to be admitted to the floor but then became hypotensive and was
+sent for further evaluation and monitoring in the MICU. Pt
+arrived to the MICU hemodynamically stable with SBPs 120-140s so
+was called-out to the floor.
+
+ROS: + eye watering, + facial "tightness" with mild HA
+especially upon changing positon.  Also feels light-headed upon
+changing position.  No recent F/C. No N/V/D or abodminal pain.
+No SOB or CP. No urinary symptoms.
+
+
+Past Medical History:
+1. HTN
+2. ESRD ([**3-7**] HTN), on HD since [**5-/2205**]
+3. Atrial fibrillation s/p DCCV (dx 2 years ago)
+4. Diastolic CHF with preserved EF, PCWP 32 on cath [**2201**]
+(followed by Dr. [**First Name (STitle) 437**]
+5. PVD s/p B/L fem-[**Doctor Last Name **]
+6. Pulmunary HTN
+7. Small secundum type atrial septal defect
+8. COPD
+9. Gout
+10. Complicated left parapneumonic effusion s/p VATS drainage
+[**2205**]
+11. h/o Right-sided ovarian teratoma (s/p resection)
+12. h/o Splenic Infarct
+13. s/p BTL [**2179**]
+14. h/o PPD+ (per old discharge summary)
+15. h/o MRSA line infection
+16. s/p fibroid resection
+
+Line history:
+s/p RSC X 3
+s/p LSC X 2
+s/p resection of infected graft in L arm
+s/p fistula placement in L arm (still maturing)
+
+Social History:
+Works as a school bus monitor, lives with her husband in [**Name (NI) **],
+has 5 kids. 75 pack yr smoking hx, quit 7 yrs ago. [**2-4**] glasses
+of wine/day, no injection drugs.  H/o cocaine use in the 80s.
+
+
+Family History:
+Mother had MI at age 25, died at 26. Father died of renal
+disease [**3-7**] HTN.  Mother of 5.  One son was murdered. Another
+son in jail.  Her daughter (36) has depression.  Her son (32)
+and daughter (30) are healthy.
+
+Physical Exam:
+T 98 BP 129/68 HR 79 RR 21 100%RA
+General: Comfortable, NAD, sleeping.
+HEENT: NC/AT. PERRLA. EOMI. Sclera anicteric. MM dry. OP clear.
+Mild diffuse facial swelling.
+NECK: No bruits, normal pulses, no LAD, multiple scars from
+previous neck lines. Mild left-sided swelling.
+CV: S1, S2 with a Grade II/VII systolic murmur over RUSB. No
+r/g.
+Pulm: CTAB without wheezes or crackles.
+Abd: Lower abd vertical scar, mildly obese, soft, NT, ND with
+normoactive BS.
+Ext: No edema, weak DP pulses, warm ext. Scars over both lower
+extremities following venous pattern.
+NEURO: A & O x3. CNs II-XII grossly intact.
+
+
+Pertinent Results:
+[**2206-5-29**] 01:30PM BLOOD WBC-8.5 RBC-4.30 Hgb-12.3 Hct-37.9 MCV-88
+MCH-28.6 MCHC-32.4 RDW-16.9* Plt Ct-185
+[**2206-5-29**] 01:30PM BLOOD Neuts-74.3* Lymphs-15.6* Monos-6.1
+Eos-3.0 Baso-1.1
+[**2206-5-29**] 01:30PM BLOOD PT-15.6* PTT-62.8* INR(PT)-1.4*
+[**2206-5-29**] 01:30PM BLOOD Glucose-87 UreaN-23* Creat-5.4*# Na-141
+K-3.2* Cl-97 HCO3-32 AnGap-15
+[**2206-5-29**] 01:30PM BLOOD ALT-11 AST-24 CK(CPK)-61 AlkPhos-108
+Amylase-203* TotBili-0.4
+[**2206-5-29**] 01:30PM BLOOD CK-MB-NotDone proBNP-649*
+[**2206-5-29**] 07:30PM BLOOD CK-MB-NotDone cTropnT-0.03*
+[**2206-5-29**] 01:30PM BLOOD TotProt-8.5* Calcium-9.9 Phos-2.7# Mg-2.0
+.
+[**5-29**] Left upper ext ultrasound:
+FINDINGS:  [**Doctor Last Name **] scale, color and pulse Doppler son[**Name (NI) 867**] was
+performed of the subclavian, axillary, brachial, cephalic and
+basilic veins.  Normal flow, compression, augmentation and
+waveforms were demonstrated.  Of note, the left internal jugular
+vein was not well demonstrated on this study although an
+adjacent venous structure is identified with normal flow and
+compressibility.
+IMPRESSION:  No evidence of left upper extremity DVT.
+Of note, the left internal jugular vein was not well
+demonstrated although an adjacent venous structure was noted to
+be patent without clots.  This may represent an anatomic
+variant.
+
+[**2206-5-30**] CXR
+CHEST, PA AND LATERAL:  Cardiac, mediastinal, and hilar contours
+are stable. Pulmonary vasculature is unremarkable.  There is
+linear left lower lung atelectasis.  The lungs are otherwise
+clear.  There are no pleural effusions. Right IJ dialysis
+catheter tip is in the distal SVC.  Osseous and soft tissue
+structures are unremarkable.
+IMPRESSION:  Linear left lower lung atelectasis.  No evidence of
+pulmonary edema.
+
+[**2206-5-30**] CTA
+IMPRESSION:
+1.  Short segment occlusion of the SVC secondary to fibrin
+sheath or thrombus around the dialysis catheter.  Numerous large
+collateral veins in the upper chest and neck are observed and
+the SVC reconstitutes inferiorly through the azygos vein.
+2.  Discontinuity of flow through the right subclavian vein
+could be secondary to thrombosis or could be related to arm
+positioning.
+3.  No evidence of PE.
+.
+SVC gram 4/30/07-1.  Venogram confirms occlusive thrombus from
+the right brachiocephalic through mid SVC.
+2.  Catheter placed for overnight TPA infusion, per rate
+specified in post
+procedure orders (0.5 mg/hour).
+3.  Repeat venogram and potential balloon dilation planned for
+the following day.
+.
+CTA [**2206-6-7**]:
+1. No evidence of pulmonary embolus.
+2. New ground-glass opacities in the right upper lobe that could
+represent a combination of asymmetric pulmonary edema and
+infection.
+3. New small bilateral pleural effusions.
+4. Interval resolution of multiple collaterals in the right
+upper chest and neck suggesting that the previous SVC
+obstruction has resolved.
+.
+Head CT [**2206-6-9**]:
+FINDINGS: There is no acute intracranial hemorrhage, shift of
+normally midline structures, or major vascular territorial
+infarct. [**Doctor Last Name **]-white matter differentiation is preserved. There
+is no hydrocephalus. The visualized paranasal sinuses and
+mastoid air cells are clear. Osseous structures and soft tissues
+are unremarkable.
+
+
+Brief Hospital Course:
+A/P: 53 y/o female with ESRD on HD, HTN, and COPD who presents
+with left facial swelling x 1 month along with intermittent
+hypotension in the ED.
+
+#SVC syndrome: The patient had facial swelling/edema likely [**3-7**]
+SVC syndrome. She had a CTA revealing short segment occlusion of
+the SVC [**3-7**] to fibrin sheath or thrombus around the HD catheter.
+ Patient had an interventional [**Month/Day (2) **] evaluation by venogram.
+It confirmed occlusive thrombus from the right brachiocephalic
+through mid SVC. A catheter was placed in IR and TPA was
+administered overnight in addition to heparin gtt. Laboratory
+values including frequent platelet counts, coagulation, and
+fibrogren were checked and remained within normal values. The
+patient underwent thrombectomy and dilatation of the SVC the
+next day, which was HD 5. It preserved flow through the SVC,
+although some clot remains. The TPA was d/cd and heparin gtt was
+continued until she was therapeutic x24 hours on coumadin.
+
+# Intermittent hypotension- Initially a concern but then
+resolved. SBPs 120-140s upon arrival to MICU. Her carvedilol,
+amlodipine and lisinopril and were d/cd. Her BP normalized.
+After her HD session on day of discharge SBP was ~130. She was
+restarted on carvediolol at discharge. The rest may be added
+back on as blood pressure 

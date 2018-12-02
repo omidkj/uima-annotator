@@ -1,0 +1,243 @@
+Admission Date:  [**2112-2-11**]              Discharge Date:   [**2112-2-16**]
+
+Date of Birth:  [**2032-10-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril / Ace Inhibitors
+
+Attending:[**First Name3 (LF) 1042**]
+Chief Complaint:
+Angioedema.
+
+Major Surgical or Invasive Procedure:
+Already intubated upon transfer.
+Mechanical Ventilation.
+
+History of Present Illness:
+79 y.o. F with DM, HTN, and hypercholesterolemia, 2 prior
+episodes of angioedema without known etiology, transferred from
+OSH for management of 3rd episode of angioedema.  History was
+obtained from RN signout as well as her friend/caretaker.  [**Name (NI) **]
+friend, the patient was in her USOH and was eating a salad and a
+peice of ham yesterday when she called her friend and told him
+that her tongue was becomoing swollen.  He went to her house and
+took her to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ER.   She has had two prior episodes
+of angioedema per her friend, which occurred while visiting
+[**Country 3399**] in [**2111-9-24**] - [**2111-11-24**] when her tongue became
+very swollen.  She attributed it to some BBQ sauce that she ate
+abroad.  There is some vague report of tracheostomy that
+occurred in [**Country 3399**], but cannot be corroborated with the patient.
+
+At the OSH ER, her VS: 146/66  67  12  100% O2 (unknown if RA vs
+supplemental).  Insulin gtt was started at OSH for blood sugar
+of 300.  There, she received IV Benadryl 50 mg x 4, IV
+Solumedrol 120 mg x 4, epinephrine 1:1000 SQ x 2, and IV Zantac
+50 mg x 2.  She was also given 4 mg Versed and 3 mg morphine.
+The patient was initially taken to OSH OR for tracheostomy, but
+instead, the decision was made to intubate her fiberoptically.
+She was transferred to [**Hospital1 18**] via [**Location (un) 7622**].
+
+In the [**Hospital1 18**] ED: VS 96.4  101/47  16  100% on vent.  She was
+sedated with Fentanyl and remained on ventilator without any
+problems (FiO2 60, Vt 400, PEEP 5, BPM 12).  Insulin gtt stopped
+at [**Hospital1 18**].
+
+ROS: unable to obtained due to intubation
+
+
+Past Medical History:
+Hypertension
+Hypercholesterolemia
+COPD
+Spinal stenosis
+NIDDM c/b periopheral neuropathy
+
+Social History:
+Obtained from friend [**Name (NI) **]:
+Lives by herself.  Had a history of smoking, quit a "long time
+ago".  Drinks [**11-25**] glasses of wine per week.  Friend denies
+[**Name2 (NI) 55374**].  Denies drug use.  Has homemaker who cleans her
+house; friend does grocery shopping for her.  Pt usually stays
+at home in winter, but goes out in good weather.
+
+
+Family History:
+Obtained from friend [**Name (NI) **]:
+[**Name2 (NI) **] family.  Mother and father deceased of unknown causes.
+
+
+Physical Exam:
+Vitals - T: 97.3   BP: 142/65  HR: 85  RR: 23  02 sat: 100% on
+vent
+GENERAL: intubated, arousable, but sedated
+HEENT: thick, short neck, R>L swelling, unable to assess tongue
+due to intubation
+CARDIAC: RRR, nl S1, S2, no m/r/g appreciated
+LUNG: CTAB anteriorly, no w/r/r, good air movement
+ABDOMEN: NDNT, soft, NABS
+EXT: no c/c/e
+NEURO: sedated
+SKIN: left antecubital area with 2x2 cm round macular
+erythematous area, o/w no rashes and no urticaria noted
+
+
+Pertinent Results:
+OSH LABS:
+=========
+WBC 12.4
+H/H 13.5/41
+MCV 80
+Plt 198
+Neuts 85  Lymphs 14
+
+Na 140  Cl 105     BUN 29
+K 3.9   Bicarb 21  Cr 1.61
+Glucose 301
+Ca 9.3
+TP 6.7  Alb 4.1  Tbili 0.4  AST 28  ALT 19  Alk Phos 79
+
+OSH EKG: NSR 60 bpm, LAD, no ST changes, TWI.
+
+ADMISSION LABS:
+===============
+[**2112-2-11**] 11:21PM   TYPE-ART TEMP-36.3 RATES-12/ PEEP-5 O2-40
+PO2-127* PCO2-50* PH-7.38 TOTAL CO2-31* BASE XS-3 -ASSIST/CON
+INTUBATED-INTUBATED
+[**2112-2-11**] 11:05PM URINE  HOURS-RANDOM CREAT-86 SODIUM-45
+[**2112-2-11**] 01:30PM   GLUCOSE-277* UREA N-31* CREAT-1.5* SODIUM-141
+POTASSIUM-4.8 CHLORIDE-105 TOTAL CO2-26 ANION GAP-15
+[**2112-2-11**] 01:30PM   estGFR-Using this
+[**2112-2-11**] 01:30PM   CALCIUM-8.3* PHOSPHATE-2.6* MAGNESIUM-2.2
+[**2112-2-11**] 01:30PM URINE  HOURS-RANDOM
+[**2112-2-11**] 01:30PM URINE  UHOLD-HOLD
+[**2112-2-11**] 01:30PM   WBC-17.8* RBC-4.72 HGB-11.9* HCT-38.8 MCV-82
+MCH-25.3* MCHC-30.7* RDW-14.5
+[**2112-2-11**] 01:30PM   NEUTS-89.4* BANDS-0 LYMPHS-9.5* MONOS-0.7*
+EOS-0.4 BASOS-0
+[**2112-2-11**] 01:30PM   HYPOCHROM-3+ ANISOCYT-NORMAL POIKILOCY-NORMAL
+MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL
+[**2112-2-11**] 01:30PM   PLT SMR-NORMAL PLT COUNT-173
+[**2112-2-11**] 01:30PM   PT-11.9 PTT-19.8* INR(PT)-1.0
+[**2112-2-11**] 01:30PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.018
+[**2112-2-11**] 01:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+
+OTHER LABS OF SIGNIFICANCE:
+C4 19
+C1 esterase inhibitor pending
+serum 17-ketosteroids pending
+plasma metanephrines / catecholamines pending
+
+MICROBIOLOGY:
+=============
+
+STUDIES:
+========
+CXR [**2112-2-11**]:
+IMPRESSION:
+1)  Low-lying ET tube which should be partially withdrawn,
+several cm.
+2)  NG tube may be kinked at the gastric fundus.
+3)  Diffusely prominent interstitial markings, nonspecific;
+however, this may relate to the given history of "angioedema."
+There is bibasilar atelectasis.
+
+OSH [**2112-2-11**] NECK PLAIN FILMS:
+IMPRESSION: Subtle soft tissue features involving the adenoids,
+soft palate, and right floor of the mouth region.  Findings may
+represent infectious, inflammatory, or possibly neoplastic
+process.  Clinical correlation is needed.
+
+OSH [**2110-10-29**] ECHO: EF 59%
+
+-----
+CT-CHEST [**2112-2-12**]:
+The superior vena cava and other mediastinal veins are widely
+patent.  Lower
+in the chest, to the right of the esophagus is a sort tissue
+abnormality,
+either pleural thickening, a chain of borderline enlarged nodes
+or a
+redundant, patulous esophagus. There is no other mediastinal or
+hilar
+lymphadenopathy. Emphysema and interstitial edema are mild.
+Subsegmental
+atelectasis in both upper and lower lobes is moderately severe.
+
+Cardiomegaly and atherosclerotic calcification in the coronary
+arteries and
+aorta are mild. Endotracheal and nasogastric tubes are in
+standard placements.
+The thyroid gland is enlarged by many subcentimeter nodules.
+
+A 4 x 3.3 x 3 cm heterogeneously enhancing mass in the left
+adrenal gland has
+central necrosis and dystrophic calcification. The wall of a
+small gallbladder
+is thickened and hyperemic with two punctate calcifications.
+There are no bone
+lesions suspicious for malignancy. Degenerative changes are
+present in the
+thoracic spine.
+
+IMPRESSION:
+1.  No evidence of central venous obstruction. Mild pulmonary
+edema.
+2.  4-cm left adrenal mass, possible neuroendocrine tumor or
+adrenal cortical
+carcinoma.
+3.  Inflamed gallbladder wall, possible adenomyosis.  No
+intraluminal stones
+4.  Multiple small thyroid nodules.
+
+-----
+CT-NECK ([**2112-2-12**]):
+FINDINGS:  There is diffuse infiltration of the subcutaneous
+tissues.  There
+is no evidence for abscess.  There is a small focus of soft
+tissue swelling of
+the lower lip with potentially small skin defect.  The tongue is
+prominent,
+but there is no focal mass or fluid collection.  The patient is
+intubated and
+there is an NG tube.  There is mild mucosal thickening in the
+maxillary
+sinuses.  The mastoid air cells are clear.  The patient is
+status post
+cataract surgery.
+
+The lung apices demonstrate a prominent interstitial with
+underlying
+emphysema. There are multiple small thyroid nodules measuring up
+to 10 mm.
+
+IMPRESSION:
+1.  Soft tissue edema throughout the neck without focal abscess.
+
+2.  Multiple thyroid nodules measuring up to 10 mm.
+3.  Focal soft tissue swelling of the lower lip.  A skin defect
+and
+phlegmon/abscess cannot be excluded.
+
+..
+
+.
+.
+.
+.
+
+
+Brief Hospital Course:
+79 y.o. F with DM, HTN, and hypercholesterolemia, 2 prior
+episodes of angioedema without known etiology, transferred from
+OSH for management of 3rd episode of possible angioedema.
+.
+# Neck swelling: The patient was intubated at an OSH for airway
+swelling.  Unclear etiology after 3 episodes, but would consider
+allergic reaction, hypereosinophilic syndrome (although no
+eosinophilia on admit labs), C1 esterase deficiency (although
+occurs mostly in adolescents, but can occur later in adulthood),
+ACE-I use (in which angioedema occurs mostly wi

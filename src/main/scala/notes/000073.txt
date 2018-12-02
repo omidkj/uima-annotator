@@ -1,0 +1,183 @@
+Admission Date:  [**2147-10-3**]              Discharge Date:   [**2147-10-9**]
+
+Date of Birth:  [**2084-2-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Enoxaparin / Gammagard
+
+Attending:[**Last Name (NamePattern1) 9662**]
+Chief Complaint:
+Diarrhea, Dyspnea
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname 7168**] is a 63-year-old gentleman with stage IV small cell
+lung cancer w/ metastatic disease to brain and liver s/p last
+chemo [**9-19**] and radiation in [**2147-6-18**] presenting with profuse
+diarrhea and shortness of breath, and fluid responsive
+hypotension in the setting of large PE in right pulmonary artery
+extending into segmental branches.  He reports going to ED for
+profuse, "projectile" diarrhea.  Patient does have chronic
+intermittent diarrhea, usually worsened with courses of
+chemotherapy.  He does have occasional nausea and vomiting that
+is usually associated with po intake. Patient has not been
+tolerating po well for several weeks. He denies any dysphagia,
+chest pain, fevers, cough, abdominal pain. Patient has not
+noticed a significant change in his shortness of breath. He had
+a PE in [**2146-10-18**] treated with lovenox for 2 months and then
+developed high fevers associated with medication. Patient was
+then switched to a 6 month course of Arixtra.
+
+In the ED, initial VS were:  96.8 118 98/79 26 100% on 2L NC
+
+ED course:
+-Reportedly short of breath and speaking in short sentences.
+-Heparin bolus followed by drip
+-Hypotension to systolic of 90's was responsive to 2L NS.
+-Levofloxacin 500mg x1
+-pt on chronic steroids and hypotensive in triage: concern for
+adrenal insufficiency; gave 100mg hydrocortisone IVx1
+
+On arrival to the MICU: AF 116/75  HR 90  sat 99% on 2L NC
+He denies any pain or change in his dyspnea.
+
+Review of systems:  As per above
+
+Past Medical History:
+Past Medical History:
+1. Small cell lung cancer, metastatic to liver and brain.
+Followed by [**Year (4 digits) **] [**Year (4 digits) 40356**] with [**Hospital1 18**]. Last chemo was [**2147-9-19**]
+and last radiation was [**2147-6-18**].
+2. Dermatomyositis (paraneoplastic syndrome),
+3. Hx of bronchitis
+4. Hx L ankle fracture; other bone fractures
+5. BPH
+6. Pulmonary embolism [**10/2145**], cancer and IVIG related.
+7. right 5th toe fracture ~[**2146-6-20**].
+
+ONCOLOGIC HISTORY:
+[**2144-7-18**]: Presented with rash over forearms and torso.
+[**2144-8-18**]: Later developed muscle weakness. Saw dermatologist, Dr
+[**Last Name (STitle) 16077**] - biopsy positive for dermatomyositis. Started on
+prednisone 60 mg daily with good improvement of his rash and
+weakness. He was also referred to a rheumatologist and
+neurologist for further evaluation. Dysphagia symptoms also
+apparent, evaluated by a speech and swallow therapist at [**Hospital1 18**].
+
+[**2144-10-18**]: Radiographical workup - CT scanning showed a prominent
+right hilar node and a lesion in the liver. Liver lesion by MRI
+on [**2144-11-9**] at [**Hospital6 1109**] was equivocal.
+[**2144-11-23**]: PETCT scan performed at [**Hospital1 **] showed abnormal
+uptake in the right paratracheal lymph node, right hilum, liver
+nodule in the mid portion of the right lobe, also a region of
+the gallbladder.
+[**2144-11-17**]: [**2144-11-26**]- an ultrasound guided liver biopsy was
+performed at [**Hospital1 **]; lesion consistent with small cell lung
+cancer. Staining shows positivity for synaptophysin, TTF-1, with
+weak positivity for CK 7 and chromogranin (Pathologist Dr
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 83828**]). Dr [**Last Name (STitle) **] from neurology ordered anti-[**Doctor Last Name **]
+and anti-striate muscle antibody which are positive, done on
+[**2144-12-7**]. (Anti-[**Doctor Last Name **] positive by immunofluorescence, but was not
+positive by Western blot). A head MRI was performed on [**12-16**]
+and showed no evidence of intracranial malignancy.
+[**2144-12-18**]: Started chemotherapy
+[**2145-3-18**]: Complete chemotherapy
+[**2145-6-17**]: Dermatomyositis flare; subsequently given course of
+steroids, IVIG, methotrexate. Interval CT scans do not show
+obvious evidence of cancer progression.
+[**2145-10-18**]: Pulmonary Embolism [**2145-11-7**], started on Lovenox
+[**2145-11-17**]: hematochezia thought to be inflammatory colitis,
+resolved with rectal steroids
+[**2145-12-18**]: Dermatomyositis (DM) flare with fevers and ulcerative
+lesions; CT on [**2146-1-7**] shows no progression of cancer
+[**2146-2-15**]: Fevers, DM continue; lovenox implicated as one of
+causes of fevers; fondiparinux substituted for lovenox. Hi dose
+IV steroids used to control DM sx.
+[**2146-3-18**]: Fevers abated with use of fondiparinux. PETCT suggests
+inflammatory changes rather than overt SCLC recurrence.
+[**2146-5-18**]: Recurrent disease seen mainly in liver on PETCT
+[**2146-6-6**].
+
+TREATMENT HISTORY:
+FIRST LINE REGIMEN: carboplatin (5 AUC on day 1) and
+etoposide(80mg/m2 on days 1, 2, and 3) every 21 days per cycle.
+-Started [**2144-12-21**] and completed 6 cycles. Last chemo given on
+[**2145-4-9**].
+SECOND LINE REGIMEN: carboplatin (5 AUC on day 1) and etoposide
+(80mg/m2 on days 1, 2, and 3) every 21 days per cycle. Repeated
+regimen since was >1 year at time of recurrence. Had response.
+-Started [**2146-6-14**] C1 D1, and completed 6 cycles without
+complication, last chemo on [**2146-10-6**].
+[**2146-11-22**] - continues on chemotherapy break after good response on
+CT
+
+Social History:
+Unmarried, has one daughter- [**Name (NI) 40785**] ; girlfriend - [**Name (NI) 553**].
+Computer engineer; unemployed
+-Smoking Hx: quit ~[**2144**]; 45 pkyr hx, has used Chantix.
+-Alcohol Use: 2 drinks approximately 3-4 times per week.
+-Recreational Drug Use: None
+Worked as construction supervisor.
+
+
+Family History:
+Autoimmune disorders.  Sister has Grave's disease, mother had
+some sort of thyroid disease, 2 nephews have ulcerative colitis.
+
+Physical Exam:
+Admission:
+Vitals: AF 116/75  HR 90  sat 99% on 2L NC
+Gen: NAD, well-nourished
+Neck: no JVD or masses
+CV: NR, RR, no murmurs
+Pulm: CTAB
+Abd: soft, NT, ND
+Ext: no peripheral edema
+Neuro: A&O, no gross deficits, moving all extremities,
+Skin: no lesions noted
+
+Pertinent Results:
+[**2147-10-3**] 12:20PM BLOOD WBC-6.9# RBC-2.99* Hgb-9.5* Hct-28.5*
+MCV-95 MCH-31.7 MCHC-33.3 RDW-16.8* Plt Ct-256#
+[**2147-10-3**] 12:20PM BLOOD Neuts-65 Bands-0 Lymphs-13* Monos-14*
+Eos-2 Baso-0 Atyps-0 Metas-0 Myelos-2* Promyel-4*
+[**2147-10-3**] 12:20PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+
+Macrocy-1+ Microcy-NORMAL Polychr-NORMAL Tear Dr[**Last Name (STitle) **]1+
+[**2147-10-3**] 12:20PM BLOOD PT-13.7* PTT-30.7 INR(PT)-1.3*
+[**2147-10-4**] 04:31AM BLOOD Glucose-94 UreaN-21* Creat-0.9 Na-142
+K-3.1* Cl-107 HCO3-24 AnGap-14
+[**2147-10-3**] 12:20PM BLOOD Glucose-138* UreaN-25* Creat-1.9*# Na-140
+K-3.2* Cl-98 HCO3-27 AnGap-18
+[**2147-10-3**] 12:20PM BLOOD cTropnT-<0.01
+[**2147-10-3**] 09:21PM BLOOD cTropnT-<0.01
+[**2147-10-4**] 04:31AM BLOOD cTropnT-<0.01
+[**2147-10-3**] 12:34PM BLOOD Lactate-2.1*
+[**2147-10-3**] 12:20PM BLOOD Calcium-8.5 Phos-3.5 Mg-1.8
+
+CTA Pulmonary [**2147-10-3**]:  Acute pulmonary emboli to the right
+main, upper, middle and lower lobar pulmonary arteries.  Small
+focus of thrombus in the distal left main pulmonary artery.
+Focal consolidation in the right lower lobe may represent
+pulmonary infarct or pneumonia.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 7168**] is a 63-year-old gentleman with stage IV small cell
+lung cancer s/p carboplatin, etoposide, and irinotecan C4 with
+metastases to brain and liver, now presenting with complaint of
+profuse diarrhea, shortness of breath, and fluid-responsive
+hypotension in the setting of a newly diagnosed large pulmonary
+embolism and [**Last Name (un) **].
+
+#  PULMONARY EMBOLISM:  In setting of active malignancy.
+Patient was initially started on a heparin gtt then subsequently
+transitioned to fondaparinux and coumadin (allergy to lovenox).
+Discharged when INR was 2.1 (given fondaparinux on day of
+discharge so technically bridged for 24 hours).  Patient was
+written for coumadin 5mg QD but switched to 4mg QD on discharge
+given steep rise of INR.  Did not have oxygen requirement on
+discharg

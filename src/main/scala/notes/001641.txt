@@ -1,0 +1,229 @@
+Admission Date:  [**2148-3-16**]              Discharge Date:   [**2148-3-22**]
+
+Date of Birth:  [**2077-4-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 6029**]
+Chief Complaint:
+Hypoxia
+
+Major Surgical or Invasive Procedure:
+central line placement
+
+
+History of Present Illness:
+Pt presented to ED on [**2148-3-15**] with fever to 102.5 at [**Hospital 4382**] 2 days after vaporization of prostate by Dr. [**Last Name (STitle) 43569**] at
+[**Doctor Last Name 1263**].  Pt states that he has had mild dysuria, denies
+hematuria.  He was discharged from [**Doctor Last Name 1263**] with a foley and
+Bactrim.
+.
+Pt states that he had no significant symptoms other than the
+fever.  Did start feeling "woozy" the night prior to transfer,
+describes lightheadedness but no vertigo.  Has dull suprapubic
+abdominal pain, does not radiate.  Denies recent cough, denies
+SOB or CP/pressure.  Has had muscle aches.  No recent travel, no
+known sick contacts.  Denies recent diarrhea; had BM on AM of
+transfer, no blood.
+.
+On arrival to the ED, T was 102.7, satting 92% on RA, HR 102.
+Blood cultures sent, pt given 2L NS, levo, vanco, azithromycin,
+admitted to floor.  Urology has been following in hospital, feel
+that ABX for the PNA will cover UTI, feel no acute urological
+issues.  On the AM of transfer, pt became hypotesnive to 80s,
+responded to 2L IVF, BP up to 110s.  Pt was noted to be
+tachypneic but was not complaining of SOB.  ABG on RA was
+7.44/26/62 with lactate 2.4 (up from 1.9 earlier), ABG on 5L was
+7.46/26/55.  Pt was transferred to [**Hospital Unit Name 153**] for further management.
+
+Past Medical History:
+- h/o prostate Ca, s/p external beam RT years ago, now treated
+with Lupron
+- h/o urinary retention s/p laser vaporization of prostate 2d
+PTA
+- hypertension
+- anxiety
+- depression
+
+Social History:
+Lives in [**Hospital3 **] since the death of his mother.  [**Name (NI) 4084**]
+married, no children.  Has a cat.  Denies present or past
+tobacco, drinks 1 glass wine/week, no IVDU.  Used to work as a
+security guard and car salesperson.
+
+
+Family History:
+noncontributory; has one sister, poor relationship with her; no
+children or other siblings, both parents deceased
+
+Physical Exam:
+Admission exam:
+VS: Tm 102.2  Tc 102.2   112/71   102  30   93% 5L NC
+Gen: appears tachypneic
+HEENT:  MM dry, EOMI, PERRL
+Neck: JVP flat, no LAD
+CV: tachycardic, regular, nl S1/S2, no m/r/g
+Pulm: occasional end-expiratory wheezes, breathing shallowly,
+bibasilar crackles, E->A change at L base
+Abd: soft, suprapubic tenderness, no rebound or guarding, +BS
+Ext: well-healed scars over knees; 1+ pitting pretibial edema,
+2+ distal pulses
+Neuro: 5/5 strength bilaterally, CN II-XII intact
+
+Pertinent Results:
+Admission labs:
+
+[**2148-3-15**] 06:16PM BLOOD WBC-17.5* RBC-4.66 Hgb-13.0* Hct-38.9*
+MCV-83 MCH-27.8 MCHC-33.3 RDW-15.4 Plt Ct-299
+[**2148-3-19**] 03:48AM BLOOD PT-12.8 PTT-30.8 INR(PT)-1.1
+[**2148-3-15**] 06:16PM BLOOD Glucose-136* UreaN-22* Creat-1.5* Na-138
+K-3.8 Cl-105 HCO3-20* AnGap-17
+[**2148-3-15**] 06:16PM BLOOD Calcium-9.3 Phos-2.8 Mg-1.8
+[**2148-3-20**] 06:20AM BLOOD calTIBC-146* VitB12-446 Folate-10.6
+Ferritn-629* TRF-112*
+[**2148-3-16**] 04:45PM BLOOD Hapto-227*
+[**2148-3-16**] 03:59AM BLOOD Type-ART pO2-71* pCO2-27* pH-7.47*
+calHCO3-20* Base XS--1
+[**2148-3-15**] 06:15PM BLOOD Lactate-2.0
+[**2148-3-16**] 03:59AM BLOOD Lactate-1.9
+[**2148-3-16**] 11:54AM BLOOD Lactate-2.4*
+
+Discharge labs:
+
+Cultures:[**2148-3-15**] 6:16 pm BLOOD CULTURE
+
+                            **FINAL REPORT [**2148-3-18**]**
+
+   AEROBIC BOTTLE (Final [**2148-3-18**]):
+      PSEUDOMONAS AERUGINOSA.    FINAL SENSITIVITIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+IMIPENEM--------------     2 S
+MEROPENEM-------------     1 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+
+[**2148-3-15**] 7:30 pm URINE     Site: CATHETER
+
+                            **FINAL REPORT [**2148-3-18**]**
+
+   URINE CULTURE (Final [**2148-3-18**]):
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..
+         OF TWO COLONIAL MORPHOLOGIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------     2 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------     2 S
+MEROPENEM-------------     4 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------  =>16 R
+
+Radiology:
+CHEST, TWO VIEWS:  There are no comparisons.  The cardiac
+contour appears
+enlarged.  There are low lung volumes.  No definite pulmonary
+vascular
+congestion, pleural effusion, or pneumothorax.  On the lateral
+view, there
+appears to be an opacity posteriorly, most likely in the left
+lower lobe.
+
+IMPRESSION:  Findings likely represent a left lower lobe
+pneumonia
+
+INDICATION:  Left lower lobe pneumonia, hypoxic, tachypneic,
+tachycardic.
+Please evaluate pulmonary embolus.
+
+COMPARISONS:  None.
+
+MDCT acquired axial images of the chest were acquired with and
+without IV
+contrast.  CT PE protocol.
+
+CT OF THE CHEST WITH AND WITHOUT IV CONTRAST:  There is no
+evidence of
+pulmonary embolism.  Evaluation beyond second order vessels is
+limited by
+atelectasis.  Bilateral pleural effusions are seen, with
+associated
+atelectasis/consolidation, worse on the left.
+
+No pathologically enlarged mediastinal lymphadenopathy is
+identified.  There
+is evidence of atherosclerotic disease with calcification seen
+within the
+aorta as well as coronary vessels.
+
+BONE WINDOWS:  No suspicious lytic or blastic lesions are
+identified.
+Degenerative changes, including loose body, seen in the right
+shoulder.
+
+Multiplanar reformatted images confirm the axial findings.
+
+IMPRESSION:
+1.  No evidence of pulmonary embolism.
+2.  Lower lobe atelectasis and consolidation with effusions,
+worse on the left
+side.  Findings consistent with pneumonia.
+3.  Atherosclerotic disease with marked calcifications seen
+within the aorta
+and coronary vessels.
+
+.
+CT Abd/Pelvis [**2148-3-22**]:  per report by radiology, bilateral renal
+cysts; no evidence of renal abscess on CT scan.
+
+
+Brief Hospital Course:
+The patient was admitted for hypotension, hypoxia, and fevers.
+He was initialyl admitted to the floor but was then shortly
+transferred to the ICU for sepsis. He was found to have
+urosepsis with pseudomonoas and was treated with Zosyn. He was
+then transferred back to the floor and was gently diuresed.
+.
+#  Hypoxia: The patient was initially admitted with mild hypoxia
+which quickly worsened with from fluid boluses for his
+hypotension resulting in pulmonary edema. He was also thought to
+have an pneumonia, though this was later thought to be
+atlectasis. There was concern given his recent surgery and
+hypoxia that he could have a PE, therefore a CT angio was
+preformed which showed no evidence of PE. His flu DFA negative,
+Legionella neg. ABG showed worsening respiratory alakalosis. At
+his worst, he required 10 L NC to maintain his O2 Sats. He was
+gently diuresed and on discharge, was no longer hypoxic. He may
+need an echo as an outpaitent to evaluate for cardiomyopathy.
+
+# Sepsis: The patient had pseuodomonal urosepsis likely related
+to his recent prostate insturmentation. He was fluid recucxiteec
+in the [**Hospital Unit Name 153**] and responded well to antibiotics. He will continue
+a course of Zosyn for a total of 14 days ending on [**3-29**].
+
+# Continued fevers: The patient continued to have low grade
+temps after DC from the ICU. A fever workup ensued. He had
+diarrhea which was cdiff neg x2 witn the 3rd pending, though he
+was started on flagyl for emperic treatment. Ultrasound of his
+kidneys showed a cyst vs. abscess, therefore a CTU wa

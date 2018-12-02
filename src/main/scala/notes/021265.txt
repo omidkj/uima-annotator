@@ -1,0 +1,236 @@
+Admission Date:  [**2195-1-21**]              Discharge Date:   [**2195-1-26**]
+
+Date of Birth:  [**2131-9-5**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Morphine / Percocet
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catherization [**2195-1-21**]
+Off pump coronary artery bypass graft x1 (left internal mammary
+artery > left anterior descending) [**2195-1-22**]
+
+
+History of Present Illness:
+63 year old female with history of coronary artery disease,
+presented to cardiologist with angina and abnormal stress test.
+Referred for cardiac catherization.
+
+Past Medical History:
+Hyperlipidemia
+Diabetes type II, diet controlled
+CAD
+GERD
+Irritable bowel syndrome
+Depression
+Arthritis, s/p cervical cortisone injection this past year
+Remote h/o migraines
+Tonsillectomy
+
+
+Social History:
+She is married with two grown children.
+She works part time doing volunteer work.
+Tobacco denies
+ETOH rarely
+
+Family History:
+Father died of an MI at age 46. Her mother died of CHF at
+age 83. Older brother diagnosed with angina in his late 50??????s.
+[**Name (NI) **] brother has ??????rapid heart beat??????.
+
+
+Physical Exam:
+General no acute distress, pleasant
+Skin unremarkable
+HEENT PERRLA, EOMI
+Neck supple full rom
+Chest CTA bilat
+Heart RRR no M/R/G
+Abd soft ND, NT, +BS
+Ext warm well perfused no edema
+Varicosities bilaterally
+Neuro grossly [**Name (NI) 5235**]
+
+Pertinent Results:
+[**2195-1-25**] 09:35PM BLOOD Hct-27.9*
+[**2195-1-25**] 07:10AM BLOOD WBC-9.2 RBC-2.96* Hgb-9.0* Hct-26.3*
+MCV-89 MCH-30.5 MCHC-34.2 RDW-14.8 Plt Ct-269
+[**2195-1-21**] 11:15AM BLOOD WBC-7.4 RBC-4.05* Hgb-11.7* Hct-35.9*
+MCV-89 MCH-29.0 MCHC-32.6 RDW-14.4 Plt Ct-356
+[**2195-1-21**] 11:15AM BLOOD Neuts-67.3 Lymphs-25.3 Monos-3.2 Eos-3.5
+Baso-0.7
+[**2195-1-25**] 07:10AM BLOOD Plt Ct-269
+[**2195-1-22**] 11:15AM BLOOD PT-13.7* PTT-28.2 INR(PT)-1.2*
+[**2195-1-21**] 11:15AM BLOOD Plt Ct-356
+[**2195-1-21**] 11:15AM BLOOD PT-13.2 PTT-26.5 INR(PT)-1.1
+[**2195-1-25**] 07:10AM BLOOD Glucose-121* UreaN-18 Creat-0.6 Na-143
+K-4.3 Cl-109* HCO3-25 AnGap-13
+[**2195-1-21**] 11:15AM BLOOD Glucose-113* UreaN-14 Creat-0.6 Na-138
+K-4.5 Cl-103 HCO3-25 AnGap-15
+[**2195-1-21**] 11:15AM BLOOD ALT-19 AST-20 CK(CPK)-57 AlkPhos-69
+Amylase-32 TotBili-0.3 DirBili-0.1 IndBili-0.2
+[**2195-1-25**] 07:10AM BLOOD Mg-2.2
+[**2195-1-21**] 11:15AM BLOOD VitB12-289 Folate-11.9 Hapto-267*
+Ferritn-18
+[**2195-1-21**] 11:15AM BLOOD %HbA1c-6.7*
+
+Cardiology Report ECG Study Date of [**2195-1-22**]  3:06:06 PM
+
+
+Sinus rhythm. Normal traciang. Compared to the previous tracing
+
+the P-R interval is normal.
+
+
+Read by: [**Last Name (LF) 2194**],[**First Name3 (LF) **] H.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+85 184 94 396/439 52 0 40
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 72646**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 72647**] (Complete)
+Done [**2195-1-22**] at 10:14:13 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4081**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2131-9-5**]
+Age (years): 63 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: OP -CABG
+ICD-9 Codes: 786.05, 786.51, 799.02, 440.0, 424.0
+Test Information
+Date/Time: [**2195-1-22**] at 10:14    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW1-: Machine: [**Pager number 5741**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.2 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55% to 60%  >= 55%
+[**Pager number **] - Ascending:  3.0 cm  <= 3.4 cm
+[**Pager number **] - Descending Thoracic:  2.0 cm  <= 2.5 cm
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+
+LEFT VENTRICLE: Overall normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+[**Pager number **]: Normal ascending [**Pager number 5236**] diameter. Simple atheroma in
+descending [**Pager number 5236**].
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Physiologic MR (within normal limits).
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+Pre-CABG: No spontaneous echo contrast is seen in the left
+atrial appendage. Overall left ventricular systolic function is
+normal (LVEF>55%). Right ventricular chamber size and free wall
+motion are normal. There are simple atheroma in the descending
+thoracic [**Pager number 5236**]. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve leaflets are mildly thickened.
+Physiologic mitral regurgitation is seen (within normal limits).
+There is no pericardial effusion.
+
+Post OP-CABG x 1: Patient in SR, on no inotropes. Preserved
+biventricular systolic fx. No AI. Trace MR. [**First Name (Titles) **] [**Last Name (Titles) 5235**]. Other
+parameters as pre-CAB.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2195-1-22**] 10:19
+
+
+
+
+Brief Hospital Course:
+Underwent cardiac catherization that revealed coronary artery
+disease to left anterior descending artery with instent
+restenosis.  Referred to cardiac surgery and underwent
+preoperative work up.  On [**1-22**] she was taken to the operating
+room and underwent off pump coronary artery bypass graft
+surgery, see operative report for further details.  She was
+transferred to the ICU for hemodynamic monitoring.  In the first
+twenty four hours she was weaned from sedation, awoke
+neurologically [**Month/Year (2) 5235**], and was extubated without difficulty.  On
+POD 1 she was started on betablockers and transferred to the
+post op floor.  Physical therapy worked with her for strength
+and mobility.  She continued to progress with no complications
+and was ready for discharge home POD 4 with services.
+
+Medications on Admission:
+ASA 325mg daily
+Atenolol 25mg daily
+Crestor 10mg daily
+Fluoxetine 40mg daily
+Nexium 40mg daily
+Plavix 75mg daily
+NTG SL
+ICAPs
+Isosorbide
+Lenexa
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Crestor 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+5. Fluoxetine 40 mg Capsule Sig: One (1) Capsule PO once a day.
+Disp:*30 Capsule(s)* Refills:*0*
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+7. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a

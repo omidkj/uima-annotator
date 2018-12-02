@@ -1,0 +1,192 @@
+Admission Date:  [**2183-12-18**]              Discharge Date:   [**2183-12-22**]
+
+Date of Birth:  [**2108-10-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Latex / Diphenhydramine
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+CHIEF COMPLAINT: Chest Pain
+REASON FOR MICU ADMISSION: Hypotension
+
+
+Major Surgical or Invasive Procedure:
+Mechanical Ventilation
+
+History of Present Illness:
+The patient is a 75 year old male with a history of a prior MI,
+HTN, aortic anyeurism, HTN, asthma who presented with complaints
+of chest pain. Limited information due to intubation. Patient
+developed chest pain this morning the monring of presentation in
+the setting of diahrea for hte last 3 weeks. The patinet took 3
+SLNG to good effect, but presnted to an OSH ED. CKs found to be
+1600, and was started on dopamine for hypotension. While on
+dopamine, the patinet reportedly developed a narrow complex SVT
+of 180, and was given a dilt gtt and labatolol. This induced
+hypotension, withsystolic blood pressures in the 70s. Levophen
+was subsetquently added. The patient was given CTX due to a
+leukocytosis, and transfered to the [**Hospital1 18**] for further care.
+.
+For unclear reasons, the patient was intubated by EMS, although
+no evidence of altered mental status, respirator distress, or
+airway compromise. On arrival to the ED, HR 74, BP 64/47, 100%
+on the vent. A RIJ was placed without complication. Given
+unclear history of anortic aneyurism, hypotension, and chest
+pain, the patient had a pan-scan to r/o abdominal catastrophe or
+aortic dissection/anyeurism ruptrue. The CT revealed pan
+colitis, and general surgery was consulted, who felt no emergent
+surgical indication for likely c.diff colitis. In the ED, the
+patinet was given 11L of NS, IV vanc, IV levoflox, IV flagyl,
+and solumedrol. The patient was admitted to the MICU for further
+manegement.
+
+
+Past Medical History:
+History of COPD/emphysema
+Memory loss
+Recent antibiotic treatment for UTI
+MI 2 years ago
+Abdominal aneurysm 2 years ago (not surgically repaired)
+
+Social History:
+Lives alone in [**Location 18268**], former Smoker quit in [**2157**] (35 pack
+years), No alcohol or IVDU. Formerly worked as a hotel managed
+on [**Hospital3 **], police officer, and medical reviewer.
+
+Family History:
+Mom died of pneumonia (mother was adopted), [**Name (NI) **] died of thoracic
+aneurysm, Sister has DM and died of lung cancer
+
+Physical Exam:
+VS: Tc 96  Tm 96.7  BP 106/77  HR 75  96% 2 L NC
+GEN: pleasant, elderly male sitting in bed with neb treatment
+HEENT: EOMI, anicteric, MMM, OP - no exudate, no erythema, no
+cervical LAD
+CHEST: expiratory rhonchi scattered throughout lung fields, no
+wheezes, decreased breasth sounds bilaterally in bases
+CV: RRR, nl S1, S2, no m/r/g
+ABD: NDNT, soft, NABS, no organomegaly palpated
+EXT: 1+ ankle edema bilaterally, otherwise no c/c
+NEURO: grossly intact, A&O, able to converse with me and joking.
+
+Pertinent Results:
+LABS:
+=====
+[**2183-12-18**] 06:40PM   WBC-16.0* RBC-4.70 HGB-13.8* HCT-42.0 MCV-89
+MCH-29.4 MCHC-32.9 RDW-13.5
+[**2183-12-18**] 06:40PM   NEUTS-92.0* LYMPHS-4.3* MONOS-2.7 EOS-0.7
+BASOS-0.3
+[**2183-12-18**] 06:40PM   PLT COUNT-274
+[**2183-12-18**] 06:40PM   PT-15.0* PTT-20.8* INR(PT)-1.3*
+[**2183-12-18**] 06:40PM   FIBRINOGE-522*
+[**2183-12-18**] 06:40PM   CK-MB-8 cTropnT-0.01
+[**2183-12-18**] 06:40PM   GLUCOSE-165* UREA N-36* CREAT-1.5*
+SODIUM-130* POTASSIUM-4.4 CHLORIDE-100 TOTAL CO2-17* ANION
+GAP-17
+[**2183-12-18**] 06:40PM   ALT(SGPT)-38 AST(SGOT)-88* CK(CPK)-[**2151**]* ALK
+PHOS-72 TOT BILI-0.8
+[**2183-12-18**] 06:40PM   CALCIUM-7.9*
+[**2183-12-18**] 06:49PM   LACTATE-1.8
+[**2183-12-18**] 08:44PM   LACTATE-1.0
+[**2183-12-18**] 10:15PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.013
+[**2183-12-18**] 10:15PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2183-12-18**] 10:15PM URINE  RBC-[**2-27**]* WBC-0-2 BACTERIA-RARE
+YEAST-NONE EPI-0
+[**2183-12-18**] 10:15PM URINE  HYALINE-0-2
+[**2183-12-18**] 08:44PM   TYPE-ART RATES-16/ TIDAL VOL-600 PEEP-5
+O2-100 PO2-330* PCO2-39 PH-7.26* TOTAL CO2-18* BASE XS--8
+AADO2-344 REQ O2-62 -ASSIST/CON INTUBATED-INTUBATED
+
+MICROBIOLOGY:
+=============
+[**12-18**] Blood cultures x 2: pending
+[**12-18**] Urine culture: pending
+[**12-19**] MRSA screen: pending
+[**12-19**] Sputum culture:
+[**2183-12-19**] 3:29 am SPUTUM      Source: Endotracheal.
+   GRAM STAIN (Final [**2183-12-19**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+   RESPIRATORY CULTURE (Preliminary):
+      Further incubation required to determine the presence or
+absence of
+      commensal respiratory flora.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+      GRAM POSITIVE BACTERIA.    MODERATE GROWTH.
+         SUGGESTING STAPHYLOCOCCI.
+[**12-19**] Urinary legionella: negative
+[**12-19**] Influenzae A&B: negative
+.
+STUDIES:
+========
+[**12-18**] PORTABLE CXR:
+IMPRESSION: Endotracheal tube in standard position 4.3 cm above
+the level of the carina.  Nasogastric tube with side port in the
+distal esophagus. Recommend advancement so that it is well in
+the stomach.
+Tortuous nasogastric tube course, while could be due to a
+tortuous esophagus, other etiologies such as mediastinal
+hematoma or aneurysm are of concern. Please see subsequent chest
+CT. Bibasilar atelectasis with small size left pleural effusion,
+underlying consolidation not excluded.
+.
+[**12-19**] CTA CHEST, CT ABD/PELVIS WITH CONTRAST
+IMPRESSION:
+1. Findings compatible with pancolitis and proctitis, most
+likely infectious. This distribution is not typically seen in
+ischemia.
+2. Mild inflammatory changes of the appendix are likely related
+to adjacent colitis; however, appendicitis can not be entirely
+excluded.
+3. Thoracic and abdominal aortic aneurysm with extensive mural
+thrombus and at least two likely small penetrating ulcers in the
+descending aorta. Possible focal intramural hematoma of the
+descending thoracic aorta, as above, although adjacent
+atelectasis make assessment difficult.
+4. Partial collapse of bilateral lower lobes, left greater than
+right. Occlusion of the left lower lobe bronchus which may be
+due to mucous secretions, although endobronchial lesion can not
+be entirely excluded. Recommend follow-up to resolution to
+exclude an underlying endobronchial lesion.
+5. 5mm right middle lobe pulmonary nodule can be reevaluated
+with a follow-up chest CT in 6 months is patient has history of
+smoking or malignancy and 12 months otherwise.
+6. Cholelithiasis.
+7. Focal oval-shaped structure with air-fluid level in the head
+of the pancreas may represent duodenal diverticulum versus
+distended distal common bile duct containg air and fluid.
+Clinical correlation for any recent ERCP procedure is
+recommended. Findings can be further evaluated with CT with oral
+contrast.
+
+Brief Hospital Course:
+MICU COURSE ([**2183-12-18**] - [**2183-12-20**])
+==================================
+Hypotension: The patient was admitted to the MICU for persistent
+hypotension in the setting of pan-colitis. Likely sepsis from
+presumed c. difficile. The patient was aggressively volume
+resuscitated and weaned from vasopressor medications within 24
+hours. His presumed c.diff was treated with PO Vancomycin and IV
+Flagyl. Further chest imaging also revealed a possible LLL
+pneumonia and collapse. He was started on vancomycin IV and IV
+cefepime for a possible hospital acquired pneumonia. Sputum
+culture returned with Coag + Staph only so cefepime was stopped
+to avoid further worsening of possible c.diff. At the time of
+transfer out of the MICU, he had been off vasopressor
+medications for 12 hours and was otherwise hemodynamically
+stable
+
+Resp. failure: The patient was intubated by EMS prior to ED
+presentation for unclear reasons, possible altered mental
+status. He was extubated shortly after presentation to the MICU
+and by the time of transfer out of the MICU, he was oxygenating
+well on 2L nasal cannula. He was started on Advair for improved
+treatment of his COPD and continued on nebulizers.
+
+Thoracic/abdominal aneurysms: CTA imaging revealed both 

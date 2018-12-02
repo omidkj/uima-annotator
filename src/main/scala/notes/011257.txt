@@ -1,0 +1,238 @@
+Admission Date:  [**2161-4-3**]              Discharge Date:   [**2161-4-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+Morphine Sulfate
+
+Attending:[**First Name3 (LF) 2704**]
+Chief Complaint:
+TIA
+
+Major Surgical or Invasive Procedure:
+carotid stent
+
+History of Present Illness:
+82 y.o. pt of Dr.[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], admitted to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1281**] Hospital on
+[**4-1**] with TIA symptoms, U/S performed that day showed stenosis of
+the R carotid with an intimal flap concerning for dissection. Pt
+originally presented with multiple episodes of transient loss of
+vision in the right eye c/w amaurosis fugax.  Pt has had BL
+carotid endarterectomies performed at [**Hospital6 13185**]--R in [**2148**], L in [**2152**].  Pt transferred here for further
+workup. Pt c/o constipation and some abdominal distension.
+
+Past Medical History:
+1. HTN,
+2. Cerebrovascular dz s/p bilat carotid endardarectomy (as
+above)
+3. DM
+     4. CAD, s/p CABG [**2146**]--LIMA to LAD, SVG to PD, SVG to OM;
+multiple revascularizations afterwards with known total
+occlusion of LAD following LIMA anastomosis, as well as proximal
+RCA occlusion and PL occlusion.  SVG to OM was occluded and SVG
+to PDA showed stenosis of 40% by cardiac cath in 11/99.  Pt had
+an MI in [**2155**], with no change seen on cath.
+     5. CHF--likely [**2-25**] ischemic CM--EF 25-30% by Echo in [**10-27**].
+
+     6. Mod pulmonary hypertension
+     7. Mod MR [**First Name (Titles) **] [**Last Name (Titles) **]
+     8. Chronic anemia requiring epo administration
+     9. CRI--Cr 2.3 at OSH
+     10. Glaucoma
+     11. PVD
+     12. Afib--placed on amiodarone
+     13. GERD
+     14. Intractable hiccups
+     15. Thrombocytopenia--unexplained
+
+
+Social History:
+Pt is married and lives with his wife. [**Name (NI) 595**] speaking only.
+Nonsmoker.
+
+Family History:
+NC
+
+
+Physical Exam:
+Vitals: T 96.0  BP 154/84   HR 69   R 16   Sat 99% RA
+*
+PE: G: Pt is [**Name (NI) **] but [**Name (NI) 595**] speaking, does understand a little
+English.
+    HEENT: MMM, anicteric sclerae
+    Neck: Bruits auscultated BL. No JVD
+    Lungs: CTA BL BS, No W/R/C
+    CV: RRR, S1, Loud S2, 2/6 Systolic crescendo/decrescendo
+murmur loudest at RUSB
+    Abd: Soft, NT, BS+
+    Ext: No E/C/C, DP pulses faint but palpable
+    Nails: Absent lunulae, no [**Doctor First Name **] nails.
+    Neuro: CN 2-12 intact. 5/5 strength throughout. No clonus.
+
+Pertinent Results:
+cath report [**2160-4-7**]:
+
+RCCA normal, ICA serial 90% lesions in hte prior CEA site. The
+ICA fills the ipsilateral MCA/ACA without cross filling from the
+contralateral ICA. The LCCA and ICA are normal without lesions
+to the ipsilateral ACA and MCA.
+Stented RCCA.
+
+Admit Labs:
+
+[**2161-4-3**] 07:13PM BLOOD WBC-3.6* RBC-4.19*# Hgb-12.3*# Hct-38.3*#
+MCV-91 MCH-29.4 MCHC-32.2 RDW-17.6* Plt Ct-110*
+[**2161-4-3**] 07:13PM BLOOD Plt Ct-110*
+[**2161-4-3**] 07:13PM BLOOD PT-13.5 PTT-29.4 INR(PT)-1.1
+[**2161-4-3**] 07:13PM BLOOD Glucose-167* UreaN-78* Creat-2.1* Na-140
+K-4.5 Cl-109* HCO3-21* AnGap-15
+[**2161-4-3**] 07:13PM BLOOD ALT-18 AST-15 AlkPhos-69 TotBili-0.5
+[**2161-4-3**] 07:13PM BLOOD Albumin-3.5 Calcium-9.1 Phos-4.8*# Mg-2.1
+
+Discharge Labs:
+
+[**2161-4-9**] 06:30AM BLOOD WBC-3.3* RBC-3.86* Hgb-11.4* Hct-33.5*
+MCV-87 MCH-29.4 MCHC-34.0 RDW-16.5* Plt Ct-63*
+[**2161-4-8**] 04:48AM BLOOD Neuts-58.8 Lymphs-30.1 Monos-10.1 Eos-0.8
+Baso-0
+[**2161-4-8**] 04:48AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+
+Microcy-1+
+[**2161-4-9**] 06:30AM BLOOD Plt Ct-63*
+[**2161-4-9**] 06:30AM BLOOD Glucose-117* UreaN-61* Creat-2.2* Na-140
+K-4.0 Cl-107 HCO3-24 AnGap-13
+[**2161-4-8**] 04:48AM BLOOD CK(CPK)-27*
+[**2161-4-9**] 06:30AM BLOOD Calcium-9.1 Phos-3.5 Mg-2.0
+[**2161-4-8**] 04:48AM BLOOD Triglyc-77 HDL-59 CHOL/HD-2.3 LDLcalc-61
+
+Echo [**2161-4-6**]:
+1. The left atrium is mildly dilated. The left atrium is
+elongated.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity
+is mildly dilated. Overall left ventricular systolic function is
+severely
+depressed. Resting regional wall motion abnormalities include
+dyskinesis of
+the vbase of the inferior and inferolateral walls with akinesis
+of the septum,
+mid and apical inferior andmid and apical inferolateral walls.
+The lateral and
+anterior walls are not well seen but probably hypokinetic.
+3.Right ventricular chamber size is normal. Right ventricular
+systolic
+function is normal.
+4.The aortic root is moderately dilated. The ascending aorta is
+mildly
+dilated.
+5.The aortic valve leaflets are mildly thickened. Trace aortic
+regurgitation
+is seen.
+6. The mitral valve leaflets are mildly thickened. Mild to
+moderate ([**1-25**]+)
+mitral regurgitation is seen.
+7.The estimated pulmonary artery systolic pressure is normal.
+There is no
+pericardial effusion.
+
+Compared with the findings of the prior report (tape unavailable
+for review)
+of [**2160-9-30**], the inferior and inferolateral walls are now
+dyskinetic. The
+inferior and inferoalteral walls are akinetic almost right down
+to the very
+apex, involveing more terrritory ( by report) than previous.
+
+
+Brief Hospital Course:
+82yo [**Date Range 595**] speaking gentleman with PMH of hypertension, CAD,
+CABG, bilateral CEA, CHF, anemia, CRI, AF.
+
+1. R carotid stenosis: MRI/MRA demonstrated R carotid [**Last Name (un) 93591**]
+stenosis and high grade CCA/ICA stenosis on R (more likely
+atherosclerosis rather than dissection). Pt was taken to the
+cath lab and stented.  He spent 1 night in the CCU for intensive
+blood pressure control, including a nitroprusside drip.  He was
+then transferred to the floor, where his blood pressure was kept
+between 100-140 systolic and he had unchanged neuro exam.
+During the hospitalization he had no focal neuro findings, and
+is discharged back to rehab.
+*
+2. Abd pain: Pt c/o of some mild abd pain initially, with good
+response to aggressive bowel regimen and simethicone.
+*
+3. CAD: All cardiac meds  were continued.
+*
+4. +UA: Positive WBC on UA. Pt started on Levo, which he should
+take for total 7 days.
+*
+5. CHF: EF 25-30% according to Echo (see report). Discharged on
+listed CHF meds.
+*
+6. Thrombocytopenia: Pt appears to have Plt between 87 - 123,
+with values as low as 13-22 in [**2-27**]. His Plt count was stably
+depressed throughout, and workup for myelodysplastic syndrome or
+myelodysplasia could be considered as an outpatient as the
+patient was also noted to have low WBC.
+
+
+Medications on Admission:
+Timolol
+Lasix
+Glyburide
+Plavix
+Lipitor
+Senekot
+lopressor
+IMdur
+kdur
+nifedipine
+ASA
+Protonix
+
+
+Discharge Medications:
+1. Timolol Maleate 0.25 % Drops Sig: One (1) Drop Ophthalmic
+[**Hospital1 **] (2 times a day).
+2. Furosemide 40 mg Tablet Sig: One (1) Tablet PO EVERY OTHER
+DAY (Every Other Day).
+3. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+8. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+9. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+10. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+11. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+12. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 4 days.
+Disp:*4 Tablet(s)* Refills:*0*
+13. Simethicone 80 mg Tablet, Chewable Sig: 0.5-1 Tablet,
+Chewable PO QID (4 times a day) as needed.
+14. Amlodipine Besylate 5 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Rehab-Swamscott
+
+Discharge Diagnosis:

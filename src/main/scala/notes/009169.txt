@@ -1,0 +1,213 @@
+Admission Date:  [**2110-3-5**]              Discharge Date:   [**2110-3-12**]
+
+Date of Birth:  [**2055-3-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Cipro / Doxycycline / Paxil / Quinine / Compazine / Levaquin /
+Lithium
+
+Attending:[**First Name3 (LF) 492**]
+Chief Complaint:
+altered mental status/somnolence
+.
+PCP: [**Last Name (NamePattern4) **]. [**Last Name (STitle) 29560**] in [**Hospital1 1474**]
+Hepatologist: Dr. [**Last Name (STitle) 10285**]
+
+Major Surgical or Invasive Procedure:
+Transjugular liver biopsy
+
+
+History of Present Illness:
+(adapted from MICU admission note):
+.
+55y/o F with sarcoidosis, COPD, idiopathic cardiomyopathy with
+EF 40% and diastolic dysfunction, varices s/p TIPS and
+hypothyroidism presenting today with confusion. She has had
+multiple recent hospital admissions (4 in the last few weeks)
+for similar symptoms that required intubation and resolved with
+lactulose therapy. She was last d/c on [**2110-2-26**] and was in her
+USOH at home per her husband and compliant with her medications.
+She did have one episode over the weekend where she was nauseous
+and had NBNB emesis x1. Other than this she has been taking PO
+and without complaint. She reportedly was taking her lactulose
+and had 5BM prior to her evening dose which she then skipped. On
+admission, she was difficult to arouse and he called 911 and had
+her taken to [**Hospital 1474**] Hospital. There, she remained difficult to
+arouse and received 1 dose of lactulose after a NGT was placed.
+Her glucose level was in the 60s so she also received glucagon
+and D5 containing IVF. The husband denies any antecedent fevers,
+chills, SOB, chest pain, abdominal pain, BRBPR, melena,
+hematemesis, dizziness, LOC, falls, paresthesias, or weakness.
+He claims that she is taking her lactulose as directed and that
+he administers the doses to her and watches her take them.  The
+patient concurs that she adheres strictly to her medical
+regimen.  Prior to her episodes of AMS, she reports increased
+fatigue, but no other symptoms.
+.
+Her liver disease is thought to be [**3-15**] sarcoidosis, although per
+[**2104**] review of path slides "the granulomas do not contain
+polarizable foreign material. Possible etiologies for the
+granulomas include drug reactions, sarcoidosis, Crohn's disease,
+infections, and primary biliary cirrhosis." Repeat biopsy [**9-18**]
+showed findings consistent with prior sarcoid and now with
+nodular regenerative hyperplasia. The patient has had multiple
+admissions for encephalopathy believed to be [**3-15**] medication
+non-compliance as hard stools observed on rectal exam at
+admission. She has grade II varices with h/o bleeding and
+recurrent transfusions and gastric and colonic AVM w/ h/o bleed.
+ Also severe portal hypertensive gastropathy and grade 3
+esophagitis seen on EGD.  She is s/p TIPS 12/[**2109**].
+.
+In our ED, she was felt to be protecting her airway though she
+was not following commands or opening her eyes. She received PR
+lactulose [**3-15**] concerns that she would aspirate any NGT meds. She
+remained hemodynamically stable and her labs were significant
+only for thrombocytopenia (lower than her baseline) and mild LFT
+abnormalities that are in line with her previous values.
+.
+In the ICU, she was seen to be opening her eyes to voice and
+vocalizing (though inappropriately). She was started on
+lactulose and [**Month/Day (2) 8005**].  Although she did not have significant
+stool output her mental status improved significantly.
+.
+On transfer to the floor the patient reports feeling back to her
+baseline but does feel slightly constipated.  She denies any
+dizzyness, fevers/chills, weight loss or weight gain, shortness
+of breath, cough, abdominal pain, hematemesis, hematochezia,
+melena, chest pain or palpitations. She reports a good appetite.
+
+
+Past Medical History:
+Past Medical History:
+#. ?Hepatic Sarcoid
+#. S/p TIPS [**12-19**]
+#. severe portal hypertensive gastropathy
+#. grade 3 esophagitis
+#. Idiopathic cardiomyopathy:
+-ECHO demonstrating an EF of 15-20% (no report, ?OSH) and a
+p-mibi that confirmed an EF of 23% with no ischemic changes-->
+improving [**6-17**] to EF 40-45%, mild-to-moderate global left
+ventricular hypokinesis
+-Cardiac cath [**2-16**]: no angiographically apparent flow-limiting
+lesions, mild mitral regurgitation, and severe systolic
+ventricular dysfunction with a left ventricular ejection
+fraction of 20%.
+-Right heart cath: [**2109-2-18**]: Normal right sided filling
+pressures. Mild pulmonary artery hypertension. Preserved cardiac
+index.
+#. COPD, followed by [**First Name4 (NamePattern1) 4648**] [**Last Name (NamePattern1) **], PFTs WNL
+#. Hx of SAH [**2101**] s/p coiling, 2 new aneurysms seen on angio
+[**2108-6-21**]
+#. Grade II esophageal varices
+#. Colonic AVM and diverticulum
+#. Evidence of CVA/TIA
+#. Hypothyroidism
+#. Anemia
+#. s/p hysterectomy
+#. s/p cholecystecomy
+#. s/p appendectomy
+#. Reflex Sympathetic Dystrophy s/p fall, on disability, now
+resolved
+
+
+Social History:
+Married, lives in [**Hospital1 **], has 2 sons and 5 grandchildren, 36
+pack-year smoking hx quit 2 years ago, does not drink EtOH and
+denies former abuse, no h/o illicits or IVDU, does not work [**3-15**]
+disability for RSD.
+
+Family History:
+[**Name (NI) 29555**] MI
+[**Name (NI) 29556**]
+
+Physical Exam:
+ADMISSION H&P TO MICU:
+PE: 98.5, 144/65, 70, 16, 98% RA
+Gen: Lying at ~ 30 degree angle in bed, NGT in place, opening
+eyes and tracking to voice
+HEENT: No icteric sclera, no cervical LAD
+CV: RRR, 2/6 SEM at RUSB w/out radiation
+Lungs: scattered bilateral crackles but poor inspiratory effort
+
+Abd: Previous midline surgical scar, non-tender, + caput medusa,
+no obvious ascites, mildly distended
+Ext: Trace LE edema bilaterally
+Neuro: Opening eyes and orienting to voice, responds "[**Hospital 1474**]
+Hospital" to all questions, moving all extremities
+spontaneously, not following commands to squeeze hands
+Skin: No rash
+.
+VS: Tm 97.7  Tc96.9  bp 95-132/40s-80s   HR 60-90   RR 13-18
+98-100%RA +700cc since admission
+GEN: well-appearing, comfortable, no distress
+HEENT: nc/at, EOMI, conjunctivae pink, sclera anicteric, OP
+clear, dentures in place, MMM
+SKIN: no rashes, +spider angiomas, purplish finger tips with
+brittle nails and healing wounds but no e/o infection, no
+jaundice
+LN: no [**Last Name (un) **]/poster/pre-auricular/submandibu/supraclavic LN
+CV: distant heart sounds, crescendo/decrescendo murmur at apex,
++s1/s2, no rubs or gallops, no extra heart sounds, no heaves
+PUL: CTAB but with soft bibasilar crackles and decreased breath
+sounds right base
+[**Last Name (un) **]: slightly distended, +caput medusae, +BS (?hyperactive),
+palpable spleen, nml liver span, no tympany, non-tender
+EXT: thin, 2+radial, 2+DP L, trace DP R, no clubbing, slight
+cyanosis of bilat finger tips, no edema
+NEURO: alert and oriented, answers questions appropriately, no
+asterixis
+
+
+Pertinent Results:
+ADMISSION LABS:
+u/a: 250 glucose, otherwise negative
+.
+lactate 3.1
+.
+ammonia: 177
+.
+144  109  22
+------------< 243
+4.4  23  1.1
+.
+Ca: 8.3 Mg: 2.2
+.
+ALT: 34 AP: 151 Tbili: 1.1 Alb: 3.0
+AST: 50
+[**Doctor First Name **]: 82 Lip: 85
+.
+MCV 92
+4.8 D  > 38.5 <  64
+N:77.3 Band:0 L:15.5 M:4.1 E:2.7 Bas:0.5
+Anisocy: 1+ Poiklo: 1+ Macrocy: OCCASIONAL Ovalocy: 1+
+Plt-Est: Very Low
+.
+TRANSFER LABS:
+141   109   16
+---------------< 106
+3.2   26    1.1
+.
+Ca 7.7 ; Mg 1.7;  Phos 3.5
+.
+CBC: 3.9 > 26.4 < 65
+.
+STUDIES:
+CXR [**3-5**]:
+Since the prior examination, the patient has been extubated.  A
+nasogastric tube remains in place with the distal tip off the
+inferior edge of the radiograph below the diaphragm.  The lungs
+are well expanded; however, there is minimal bibasilar
+atelectasis evident.  The mediastinum is  unremarkable.  The
+cardiac silhouette is stable, accounting for patient and
+technical factors.  No effusion or pneumothorax is evident.  The
+visualized osseous structures are unremarkable.
+.
+[**Last Name (un) **] U/S [**2110-2-22**]
+FINDINGS:  This was a limited Doppler evaluation of the TIPS
+stent.  Again
+demonstrated in the right hepatic lobe is a TIPS stent catheter,
+which appears unchanged in position.  Color Doppler evaluation
+shows wall-to-wall color Doppler signal within the TIPS stent.
+Flow velocitie
